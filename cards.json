@@ -250,5 +250,165 @@
       "Some small mammals enter torpor to conserve energy."
     ]
   }
+},
+{
+  "id": "lethargy",
+  "sid": "2026-00004",
+  "word": "lethargy",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "academic"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈleθərdʒi/",
+      "uk": "/ˈleθədʒi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "無気力",
+      "倦怠",
+      "眠気を伴う不活発状態"
+    ],
+    "en": [
+      "a lack of energy or enthusiasm",
+      "a state of sluggishness or drowsiness"
+    ]
+  },
+  "nuance": {
+    "ja": "torpor より一般的で、人間の日常的な無気力や倦怠感にもよく使われる。",
+    "en": "More common than torpor and frequently used for ordinary mental or physical sluggishness."
+  },
+  "etymology": {
+    "ja": "ギリシャ語 lēthargia（忘却・眠気）に由来する。lēthē（忘却）と argos（不活発）が語源。",
+    "en": "From Greek lēthargia, ultimately from lēthē ('forgetfulness') and argos ('inactive')."
+  },
+  "synonyms": [
+    {
+      "word": "torpor",
+      "note": {
+        "ja": "より極端な活動停止状態。",
+        "en": "A more extreme state of inactivity."
+      }
+    },
+    {
+      "word": "apathy",
+      "note": {
+        "ja": "身体ではなく感情・関心の欠如を強調。",
+        "en": "Emphasizes emotional indifference rather than physical inactivity."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Lethargie",
+    "it": "letargia",
+    "fr": "léthargie",
+    "es": "letargo"
+  },
+  "collocations": {
+    "ja": [
+      "mental lethargy",
+      "overcome one's lethargy"
+    ],
+    "en": [
+      "mental lethargy",
+      "overcome one's lethargy"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He struggled to overcome his lethargy after the illness."
+    ],
+    "en": [
+      "He struggled to overcome his lethargy after the illness."
+    ]
+  }
+},
+{
+  "id": "lassitude",
+  "sid": "2026-00005",
+  "word": "lassitude",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "formal",
+    "literary"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈlæsɪtuːd/",
+      "uk": "/ˈlæsɪtjuːd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "倦怠",
+      "疲労感",
+      "気力を失った状態"
+    ],
+    "en": [
+      "a state of physical or mental weariness",
+      "listless exhaustion"
+    ]
+  },
+  "nuance": {
+    "ja": "文学的で上品な語。病気や暑さによる気だるさを表すことが多い。",
+    "en": "A literary word suggesting elegant or lingering weariness."
+  },
+  "etymology": {
+    "ja": "ラテン語 lassitudo（疲労）に由来し、lassus（疲れた）が語源。",
+    "en": "From Latin lassitudo ('weariness'), from lassus ('weary')."
+  },
+  "synonyms": [
+    {
+      "word": "fatigue",
+      "note": {
+        "ja": "最も一般的な『疲労』。",
+        "en": "The ordinary word for tiredness."
+      }
+    },
+    {
+      "word": "lethargy",
+      "note": {
+        "ja": "疲労よりも無気力を強調。",
+        "en": "Emphasizes sluggishness more than tiredness."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Mattigkeit",
+    "it": "lassitudine",
+    "fr": "lassitude",
+    "es": "laxitud"
+  },
+  "collocations": {
+    "ja": [
+      "a feeling of lassitude",
+      "summer lassitude"
+    ],
+    "en": [
+      "a feeling of lassitude",
+      "summer lassitude"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The oppressive heat filled everyone with lassitude."
+    ],
+    "en": [
+      "The oppressive heat filled everyone with lassitude."
+    ]
+  }
 }
 ]
