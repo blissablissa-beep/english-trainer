@@ -1284,5 +1284,185 @@
       "Years of kludges made the software difficult to maintain."
     ]
   }
+},
+{
+  "id": "workaround",
+  "sid": "2026-00018",
+  "word": "workaround",
+  "level": "C1",
+  "freq": "often",
+  "tags": ["computing","business"],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈwɝːkəraʊnd/",
+      "uk": "/ˈwɜːkəraʊnd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "回避策",
+      "暫定的な対処法",
+      "応急的な解決策"
+    ],
+    "en": [
+      "a temporary method for dealing with a problem until a proper solution is available"
+    ]
+  },
+  "nuance": {
+    "ja": "ITでは最重要語の一つ。正式な修正（fix）ではなく、一時的な対処法を指す。",
+    "en": "Common in software engineering. A workaround bypasses a problem rather than fixing it."
+  },
+  "etymology": {
+    "ja": "work + around。「問題の周囲を回って対処する」という発想。",
+    "en": "From work around ('to get around a problem')."
+  },
+  "synonyms": [
+    {
+      "word": "kludge",
+      "note": {
+        "ja": "より不格好・場当たり的。",
+        "en": "Usually uglier and less elegant."
+      }
+    },
+    {
+      "word": "temporary fix",
+      "note": {
+        "ja": "一般語。",
+        "en": "General expression."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Workaround",
+    "it": "soluzione temporanea",
+    "fr": "solution de contournement",
+    "es": "solución provisional"
+  }
+},
+{
+  "id": "jury-rig",
+  "sid": "2026-00019",
+  "word": "jury-rig",
+  "level": "C2",
+  "freq": "rare",
+  "tags": ["engineering","informal"],
+  "grammar": {
+    "pos": "verb",
+    "forms": "jury-rig – jury-rigged – jury-rigged"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdʒʊri rɪɡ/",
+      "uk": "/ˈdʒʊəri rɪɡ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "あり合わせで急造する",
+      "応急的に組み立てる"
+    ],
+    "en": [
+      "to assemble or repair something quickly using whatever materials are available"
+    ]
+  },
+  "nuance": {
+    "ja": "船乗りの用語に由来し、限られた資材で何とか動かすことを表す。",
+    "en": "Originally nautical. Suggests ingenious improvisation with limited resources."
+  },
+  "etymology": {
+    "ja": "18世紀の航海用語。jury mast（応急マスト）から。",
+    "en": "From nautical English, referring to a temporary mast."
+  },
+  "synonyms": [
+    {
+      "word": "improvise",
+      "note": {
+        "ja": "より一般的。",
+        "en": "Broader and more neutral."
+      }
+    },
+    {
+      "word": "cobble together",
+      "note": {
+        "ja": "寄せ集めて作る。",
+        "en": "To assemble from miscellaneous parts."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "provisorisch zusammenbauen",
+    "it": "rattoppare alla meglio",
+    "fr": "bricoler",
+    "es": "improvisar"
+  }
+},
+{
+  "id": "band_aid_solution",
+  "sid": "2026-00020",
+  "word": "band-aid solution",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": ["business","idiom"],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈbæn.deɪd səˌluːʃən/",
+      "uk": "/ˈbæn.deɪd səˈluːʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "その場しのぎの解決策",
+      "対症療法",
+      "応急処置"
+    ],
+    "en": [
+      "a temporary solution that fails to address the underlying problem"
+    ]
+  },
+  "nuance": {
+    "ja": "『絆創膏を貼るだけ』という比喩。根本原因は残ったままであることを強く含意する。",
+    "en": "Strongly implies treating only the symptoms instead of solving the real problem."
+  },
+  "etymology": {
+    "ja": "Band-Aid®（絆創膏の商品名）から一般化した比喩表現。",
+    "en": "Derived from the Band-Aid® brand name."
+  },
+  "synonyms": [
+    {
+      "word": "stopgap",
+      "note": {
+        "ja": "一時しのぎ。",
+        "en": "Temporary substitute."
+      }
+    },
+    {
+      "word": "workaround",
+      "note": {
+        "ja": "ITではこちらがより一般的。",
+        "en": "More common in computing."
+      }
+    },
+    {
+      "word": "kludge",
+      "note": {
+        "ja": "実装面での場当たり感を強調。",
+        "en": "Emphasizes an inelegant implementation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Notlösung",
+    "it": "soluzione tampone",
+    "fr": "solution de fortune",
+    "es": "solución provisional"
+  }
 }
 ]
