@@ -1464,5 +1464,312 @@
     "fr": "solution de fortune",
     "es": "solución provisional"
   }
+},
+{
+  "id": "depreciation",
+  "sid": "2026-00021",
+  "word": "depreciation",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "business",
+    "finance",
+    "accounting"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˌpriːʃiˈeɪʃən/",
+      "uk": "/dɪˌpriːʃiˈeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（固定資産の）減価償却",
+      "価値の下落",
+      "（通貨の）価値下落"
+    ],
+    "en": [
+      "the reduction in the value of an asset over time",
+      "the allocation of the cost of a fixed asset over its useful life",
+      "a fall in the value of a currency"
+    ]
+  },
+  "nuance": {
+    "ja": "会計では『減価償却』が最重要義。経済では資産・通貨などの価値下落も表す。文脈によって意味を判断する必要がある。",
+    "en": "Most commonly refers to accounting depreciation, but it can also describe a decline in the value of assets or currencies."
+  },
+  "etymology": {
+    "ja": "depreciate（価値を下げる）+ -ion。ラテン語 pretium（価格、価値）に由来する。",
+    "en": "From depreciate + -ion, ultimately from Latin pretium ('price, value')."
+  },
+  "synonyms": [
+    {
+      "word": "amortization",
+      "note": {
+        "ja": "無形資産の償却に用いられることが多い。",
+        "en": "Usually refers to intangible assets."
+      }
+    },
+    {
+      "word": "devaluation",
+      "note": {
+        "ja": "政府・中央銀行による公定レートの切り下げ。",
+        "en": "An official reduction in a currency's value."
+      }
+    },
+    {
+      "word": "decline",
+      "note": {
+        "ja": "一般的な『減少・下落』。",
+        "en": "General term for a decrease."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Abschreibung",
+    "it": "ammortamento",
+    "fr": "amortissement",
+    "es": "depreciación"
+  },
+  "collocations": {
+    "ja": [
+      "depreciation expense",
+      "depreciation schedule",
+      "asset depreciation",
+      "currency depreciation"
+    ],
+    "en": [
+      "depreciation expense",
+      "depreciation schedule",
+      "asset depreciation",
+      "currency depreciation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company recorded depreciation expenses for its machinery.",
+      "The depreciation of the yen increased import costs."
+    ],
+    "en": [
+      "The company recorded depreciation expenses for its machinery.",
+      "The depreciation of the yen increased import costs."
+    ]
+  }
+},
+{
+  "id": "amortization",
+  "sid": "2026-00022",
+  "word": "amortization",
+  "level": "C1",
+  "freq": "often",
+  "tags": ["accounting","finance"],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˌmɔːrtəˈzeɪʃən/",
+      "uk": "/əˌmɔːtaɪˈzeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（無形資産の）償却",
+      "借入金の分割返済"
+    ],
+    "en": [
+      "the gradual write-off of an intangible asset",
+      "the gradual repayment of a loan"
+    ]
+  },
+  "nuance": {
+    "ja": "会計では特許・商標・ソフトウェアなど無形資産に使われる。金融ではローン返済にも用いられる。",
+    "en": "Used for intangible assets in accounting and for scheduled loan repayment in finance."
+  },
+  "etymology": {
+    "ja": "中世ラテン語 admortire（死滅させる）に由来。",
+    "en": "Ultimately from Medieval Latin admortire ('to kill off')."
+  },
+  "equivalents": {
+    "de": "Amortisation",
+    "it": "ammortamento",
+    "fr": "amortissement",
+    "es": "amortización"
+  }
+},
+{
+  "id": "impairment",
+  "sid": "2026-00023",
+  "word": "impairment",
+  "level": "C1",
+  "freq": "often",
+  "tags": ["accounting","business"],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪmˈpermənt/",
+      "uk": "/ɪmˈpeəmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "減損",
+      "機能障害"
+    ],
+    "en": [
+      "a reduction in the recoverable value of an asset",
+      "loss of function"
+    ]
+  },
+  "nuance": {
+    "ja": "会計では減損損失、医学では機能障害を意味する。",
+    "en": "Common in accounting and medicine."
+  },
+  "etymology": {
+    "ja": "impair（価値・能力を損なう）+ -ment。",
+    "en": "From impair + -ment."
+  },
+  "equivalents": {
+    "de": "Wertminderung",
+    "it": "riduzione di valore",
+    "fr": "dépréciation",
+    "es": "deterioro"
+  }
+},
+{
+  "id": "write_off",
+  "sid": "2026-00024",
+  "word": "write-off",
+  "level": "C1",
+  "freq": "often",
+  "tags": ["accounting","business"],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈraɪt ɔːf/",
+      "uk": "/ˈraɪt ɒf/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "帳消し",
+      "損失処理",
+      "貸倒処理"
+    ],
+    "en": [
+      "an accounting removal of an asset from the books",
+      "a complete loss"
+    ]
+  },
+  "nuance": {
+    "ja": "価値がほぼゼロになった資産を帳簿から除くこと。",
+    "en": "Usually implies removing something entirely from the balance sheet."
+  },
+  "etymology": {
+    "ja": "write off（帳簿から消す）から。",
+    "en": "From the phrasal verb write off."
+  },
+  "equivalents": {
+    "de": "Abschreibung",
+    "it": "stralcio",
+    "fr": "radiation comptable",
+    "es": "castigo contable"
+  }
+},
+{
+  "id": "write_down",
+  "sid": "2026-00025",
+  "word": "write-down",
+  "level": "C1",
+  "freq": "often",
+  "tags": ["accounting"],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈraɪt daʊn/",
+      "uk": "/ˈraɪt daʊn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "評価減",
+      "帳簿価額の切下げ"
+    ],
+    "en": [
+      "a reduction in the book value of an asset"
+    ]
+  },
+  "nuance": {
+    "ja": "write-off のようにゼロにはせず、一部だけ価値を下げる。",
+    "en": "Unlike a write-off, only part of the value is reduced."
+  },
+  "etymology": {
+    "ja": "write down（価値を書き下げる）から。",
+    "en": "From the phrasal verb write down."
+  },
+  "equivalents": {
+    "de": "Teilabschreibung",
+    "it": "svalutazione",
+    "fr": "dépréciation",
+    "es": "reducción contable"
+  }
+},
+{
+  "id": "depreciate",
+  "sid": "2026-00026",
+  "word": "depreciate",
+  "level": "C1",
+  "freq": "often",
+  "tags": ["finance","business"],
+  "grammar": {
+    "pos": "verb",
+    "forms": "depreciate – depreciated – depreciated"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈpriːʃieɪt/",
+      "uk": "/dɪˈpriːʃieɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "価値が下がる",
+      "減価償却する",
+      "（通貨が）下落する"
+    ],
+    "en": [
+      "to decrease in value",
+      "to allocate depreciation expense",
+      "to decline in value"
+    ]
+  },
+  "nuance": {
+    "ja": "自動詞・他動詞の両方で使われる。経済記事では通貨の下落、会計では減価償却を表す。",
+    "en": "Used for currencies, assets, and accounting depreciation."
+  },
+  "etymology": {
+    "ja": "de- + pretium（価格）。",
+    "en": "Ultimately from Latin pretium ('price')."
+  },
+  "equivalents": {
+    "de": "abschreiben / an Wert verlieren",
+    "it": "deprezzarsi / ammortizzare",
+    "fr": "déprécier",
+    "es": "depreciar"
+  }
 }
 ]
