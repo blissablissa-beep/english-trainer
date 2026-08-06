@@ -587,5 +587,320 @@
     "fr": "apathie",
     "es": "apatía"
   }
+},
+{
+  "id": "sultry",
+  "sid": "2026-00009",
+  "word": "sultry",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "weather",
+    "literary"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsʌltri/",
+      "uk": "/ˈsʌltri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "蒸し暑い",
+      "蒸し蒸しした",
+      "（人が）官能的な、色っぽい"
+    ],
+    "en": [
+      "hot and humid",
+      "oppressively warm",
+      "sexually attractive in a slow, sensual way"
+    ]
+  },
+  "nuance": {
+    "ja": "本来は『蒸し暑い』という意味。そこから『熱気を帯びた』『官能的な』という比喩的意味にも発展した。文学作品では後者もしばしば現れる。",
+    "en": "Originally describing oppressive heat and humidity, it also developed the figurative sense of sensual attractiveness."
+  },
+  "etymology": {
+    "ja": "古英語 sultrig（暑苦しい）に由来し、swelter（うだる、蒸し暑さに苦しむ）と同系統の語。",
+    "en": "From Old English sultrig ('oppressively hot'), related to swelter."
+  },
+  "synonyms": [
+    {
+      "word": "humid",
+      "note": {
+        "ja": "湿度が高いことを客観的に述べる。",
+        "en": "Neutral description of high humidity."
+      }
+    },
+    {
+      "word": "muggy",
+      "note": {
+        "ja": "日常語。蒸し暑くて不快。",
+        "en": "Common word for warm, humid, and uncomfortable weather."
+      }
+    },
+    {
+      "word": "sweltering",
+      "note": {
+        "ja": "猛暑・酷暑を強調。",
+        "en": "Emphasizes extreme heat."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schwül",
+    "it": "afoso",
+    "fr": "lourd",
+    "es": "bochornoso"
+  },
+  "collocations": {
+    "ja": [
+      "a sultry evening",
+      "sultry weather",
+      "a sultry smile"
+    ],
+    "en": [
+      "a sultry evening",
+      "sultry weather",
+      "a sultry smile"
+    ]
+  },
+  "example": {
+    "ja": [
+      "It was a sultry summer evening before the storm.",
+      "The actress gave him a sultry smile."
+    ],
+    "en": [
+      "It was a sultry summer evening before the storm.",
+      "The actress gave him a sultry smile."
+    ]
+  }
+},
+{
+  "id": "muggy",
+  "sid": "2026-00010",
+  "word": "muggy",
+  "level": "B2",
+  "freq": "often",
+  "tags": ["weather"],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈmʌɡi/",
+      "uk": "/ˈmʌɡi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "蒸し暑い",
+      "湿気が多く不快な"
+    ],
+    "en": [
+      "warm, humid, and uncomfortable"
+    ]
+  },
+  "nuance": {
+    "ja": "日常会話で最もよく使われる『蒸し暑い』。日本の梅雨や真夏を表すのにぴったり。",
+    "en": "The everyday word for unpleasant hot and humid weather."
+  },
+  "etymology": {
+    "ja": "語源は不明だが、17世紀頃から『じめじめした・蒸し暑い』の意味で用いられる。",
+    "en": "Origin uncertain; recorded since the 17th century."
+  },
+  "synonyms": [
+    {
+      "word": "humid",
+      "note": {
+        "ja": "単に湿度が高いこと。",
+        "en": "Neutral description of high humidity."
+      }
+    },
+    {
+      "word": "sultry",
+      "note": {
+        "ja": "より文学的。",
+        "en": "More literary."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schwül",
+    "it": "afoso",
+    "fr": "lourd",
+    "es": "bochornoso"
+  },
+  "collocations": {
+    "ja": [
+      "a muggy day",
+      "muggy weather"
+    ],
+    "en": [
+      "a muggy day",
+      "muggy weather"
+    ]
+  },
+  "example": {
+    "ja": [
+      "It was so muggy that nobody wanted to go outside."
+    ],
+    "en": [
+      "It was so muggy that nobody wanted to go outside."
+    ]
+  }
+},
+{
+  "id": "sweltering",
+  "sid": "2026-00011",
+  "word": "sweltering",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": ["weather"],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsweltərɪŋ/",
+      "uk": "/ˈsweltərɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "うだるように暑い",
+      "酷暑の"
+    ],
+    "en": [
+      "extremely hot",
+      "oppressively hot"
+    ]
+  },
+  "nuance": {
+    "ja": "湿度は必須ではなく、とにかく猛烈な暑さを表す。",
+    "en": "Emphasizes intense heat rather than humidity."
+  },
+  "etymology": {
+    "ja": "swelter（暑さで苦しむ）の現在分詞。",
+    "en": "Present participle of swelter."
+  },
+  "synonyms": [
+    {
+      "word": "scorching",
+      "note": {
+        "ja": "焼けつくような暑さ。",
+        "en": "Suggests burning heat."
+      }
+    },
+    {
+      "word": "boiling",
+      "note": {
+        "ja": "口語。",
+        "en": "Informal."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "glühend heiß",
+    "it": "torrido",
+    "fr": "torride",
+    "es": "sofocante"
+  },
+  "collocations": {
+    "ja": [
+      "sweltering heat",
+      "a sweltering afternoon"
+    ],
+    "en": [
+      "sweltering heat",
+      "a sweltering afternoon"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We walked through the sweltering heat."
+    ],
+    "en": [
+      "We walked through the sweltering heat."
+    ]
+  }
+},
+{
+  "id": "stifling",
+  "sid": "2026-00012",
+  "word": "stifling",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": ["weather"],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈstaɪflɪŋ/",
+      "uk": "/ˈstaɪflɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "息苦しいほど蒸し暑い",
+      "息が詰まるような"
+    ],
+    "en": [
+      "oppressively hot",
+      "making it difficult to breathe"
+    ]
+  },
+  "nuance": {
+    "ja": "暑さだけでなく、空気の悪さや閉塞感も含意する。",
+    "en": "Often implies poor ventilation or a suffocating atmosphere."
+  },
+  "etymology": {
+    "ja": "stifle（窒息させる、息苦しくさせる）から。",
+    "en": "From stifle ('to suffocate')."
+  },
+  "synonyms": [
+    {
+      "word": "suffocating",
+      "note": {
+        "ja": "より強く、窒息しそうな印象。",
+        "en": "Even stronger."
+      }
+    },
+    {
+      "word": "sultry",
+      "note": {
+        "ja": "文学的で柔らかい表現。",
+        "en": "More literary."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "stickig",
+    "it": "soffocante",
+    "fr": "étouffant",
+    "es": "sofocante"
+  },
+  "collocations": {
+    "ja": [
+      "a stifling room",
+      "stifling heat"
+    ],
+    "en": [
+      "a stifling room",
+      "stifling heat"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The room was stifling without air conditioning."
+    ],
+    "en": [
+      "The room was stifling without air conditioning."
+    ]
+  }
 }
 ]
