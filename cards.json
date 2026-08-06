@@ -1398,7 +1398,33 @@
     "it": "rattoppare alla meglio",
     "fr": "bricoler",
     "es": "improvisar"
-  }
+  },
+  "collocations": {
+  "ja": [
+    "jury-rig a repair — 応急修理をする",
+    "jury-rig a solution — あり合わせで解決策を作る",
+    "jury-rig a device — 装置を急造する",
+    "jury-rig an antenna — アンテナを応急的に組み立てる",
+    "jury-rig a temporary fix — 応急処置をでっち上げる"
+  ],
+  "en": [
+    "jury-rig a repair",
+    "jury-rig a solution",
+    "jury-rig a device",
+    "jury-rig an antenna",
+    "jury-rig a temporary fix"
+  ]
+},
+"example": {
+  "ja": [
+    "The engineers jury-rigged a temporary repair to keep the machine running. — 技術者たちは機械を動かし続けるため、応急修理を施した。",
+    "We had to jury-rig an antenna from spare wire. — 私たちは余っていた針金でアンテナを即席で作らなければならなかった。"
+  ],
+  "en": [
+    "The engineers jury-rigged a temporary repair to keep the machine running.",
+    "We had to jury-rig an antenna from spare wire."
+  ]
+}
 },
 {
   "id": "band_aid_solution",
