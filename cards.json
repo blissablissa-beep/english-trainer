@@ -410,5 +410,182 @@
       "The oppressive heat filled everyone with lassitude."
     ]
   }
+},
+{
+  "id": "stupor",
+  "sid": "2026-00006",
+  "word": "stupor",
+  "level": "C2",
+  "freq": "rare",
+  "tags": ["medical", "formal"],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈstuːpər/",
+      "uk": "/ˈstjuːpə(r)/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "昏迷",
+      "意識混濁",
+      "反応がほとんどない状態"
+    ],
+    "en": [
+      "a state of near unconsciousness",
+      "greatly reduced awareness or responsiveness"
+    ]
+  },
+  "nuance": {
+    "ja": "医学・心理学でよく使われる。酒・薬物・病気・ショックなどによる意識障害を表す。",
+    "en": "Often medical. Describes a state of severely reduced consciousness."
+  },
+  "etymology": {
+    "ja": "ラテン語 stupor（麻痺・驚愕）← stupere（呆然とする、しびれる）。",
+    "en": "From Latin stupor, from stupere ('to be stunned, numb')."
+  },
+  "synonyms": [
+    {
+      "word": "torpor",
+      "note": {
+        "ja": "身体活動の低下が中心。",
+        "en": "Focuses on inactivity rather than consciousness."
+      }
+    },
+    {
+      "word": "coma",
+      "note": {
+        "ja": "coma の方がさらに重篤。",
+        "en": "Coma is generally more severe."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Benommenheit",
+    "it": "stupore",
+    "fr": "stupeur",
+    "es": "estupor"
+  }
+},
+{
+  "id": "apathy",
+  "sid": "2026-00007",
+  "word": "apathy",
+  "level": "C1",
+  "freq": "often",
+  "tags": ["abstract"],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈæpəθi/",
+      "uk": "/ˈæpəθi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "無関心",
+      "無感動",
+      "無気力"
+    ],
+    "en": [
+      "lack of interest",
+      "absence of emotion or enthusiasm"
+    ]
+  },
+  "nuance": {
+    "ja": "身体よりも『関心』『感情』の欠如を表す。",
+    "en": "Emphasizes emotional indifference rather than physical tiredness."
+  },
+  "etymology": {
+    "ja": "ギリシャ語 apatheia（感情がないこと）← a-（無）+ pathos（感情）。",
+    "en": "From Greek apatheia ('without feeling')."
+  },
+  "synonyms": [
+    {
+      "word": "indifference",
+      "note": {
+        "ja": "より中立的。",
+        "en": "More neutral."
+      }
+    },
+    {
+      "word": "lethargy",
+      "note": {
+        "ja": "身体的な無気力を含む。",
+        "en": "May include physical sluggishness."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Apathie",
+    "it": "apatia",
+    "fr": "apathie",
+    "es": "apatía"
+  }
+},
+{
+  "id": "listlessness",
+  "sid": "2026-00008",
+  "word": "listlessness",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": ["abstract"],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈlɪstləsnəs/",
+      "uk": "/ˈlɪstləsnəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "覇気のなさ",
+      "元気のなさ",
+      "気だるさ"
+    ],
+    "en": [
+      "lack of energy or enthusiasm",
+      "listless condition"
+    ]
+  },
+  "nuance": {
+    "ja": "気分や活力が出ない状態。病気でなくてもよく使われる。",
+    "en": "Suggests lack of motivation or energy without implying illness."
+  },
+  "etymology": {
+    "ja": "listless（無気力な）+ -ness。",
+    "en": "From listless + -ness."
+  },
+  "synonyms": [
+    {
+      "word": "lassitude",
+      "note": {
+        "ja": "lassitude の方が文学的。",
+        "en": "Lassitude is more literary."
+      }
+    },
+    {
+      "word": "lethargy",
+      "note": {
+        "ja": "lethargy の方が強い。",
+        "en": "Lethargy suggests a stronger degree of sluggishness."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Antriebslosigkeit",
+    "it": "apatia",
+    "fr": "apathie",
+    "es": "apatía"
+  }
 }
 ]
