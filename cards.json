@@ -1182,5 +1182,107 @@
     "fr": "atténuer",
     "es": "atenuar"
   }
+},
+{
+  "id": "kludge",
+  "sid": "2026-00017",
+  "word": "kludge",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "computing",
+    "engineering",
+    "informal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kluːdʒ/",
+      "uk": "/kluːdʒ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "場当たり的な応急処置",
+      "継ぎはぎの解決策",
+      "とりあえず動くが美しくない設計"
+    ],
+    "en": [
+      "a makeshift solution that works but is inelegant",
+      "a poorly designed workaround",
+      "a patch put together in an awkward way"
+    ]
+  },
+  "nuance": {
+    "ja": "『動くことは動くが、本来あるべき設計ではない』という意味。プログラミング、電子工学、システム設計で非常によく使われる。",
+    "en": "A solution that functions but is ugly, fragile, or poorly engineered. Common in programming and engineering."
+  },
+  "etymology": {
+    "ja": "1960年代のMIT周辺のコンピュータ文化で広まった俗語。正確な語源は不明だが、複数の説があり、『雑に組み合わせたもの』というイメージを表す語として定着した。",
+    "en": "Origin uncertain. Popularized in 1960s American computing culture to describe an awkward but functional solution."
+  },
+  "synonyms": [
+    {
+      "word": "hack",
+      "note": {
+        "ja": "素早い工夫。肯定的にも使われる。",
+        "en": "Can be positive or negative."
+      }
+    },
+    {
+      "word": "workaround",
+      "note": {
+        "ja": "正式な修正ではなく回避策。",
+        "en": "A temporary way around a problem."
+      }
+    },
+    {
+      "word": "band-aid solution",
+      "note": {
+        "ja": "応急処置という意味を強調。",
+        "en": "Emphasizes a temporary fix."
+      }
+    },
+    {
+      "word": "jury-rig",
+      "note": {
+        "ja": "あり合わせで何とか作る。",
+        "en": "Improvised using available materials."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Notlösung",
+    "it": "soluzione di fortuna",
+    "fr": "bricolage",
+    "es": "chapuza"
+  },
+  "collocations": {
+    "ja": [
+      "write a kludge",
+      "a kludge solution",
+      "replace a kludge with a proper implementation",
+      "legacy kludge"
+    ],
+    "en": [
+      "write a kludge",
+      "a kludge solution",
+      "replace a kludge with a proper implementation",
+      "legacy kludge"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The developer admitted that the fix was only a kludge.",
+      "Years of kludges made the software difficult to maintain."
+    ],
+    "en": [
+      "The developer admitted that the fix was only a kludge.",
+      "Years of kludges made the software difficult to maintain."
+    ]
+  }
 }
 ]
