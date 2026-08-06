@@ -159,5 +159,96 @@
         "She kept meticulous records of every transaction."
       ]
     }
+  },
+  {
+  "id": "torpor",
+  "sid": "2026-00003",
+  "word": "torpor",
+  "level": "C1",
+  "freq": "rare",
+  "tags": [
+    "formal",
+    "academic"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / singular"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈtɔːrpər/",
+      "uk": "/ˈtɔːpə(r)/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "心身の活動が著しく低下した状態",
+      "無気力、昏々とした不活発状態",
+      "動物の代謝や体温が一時的に低下する休眠状態"
+    ],
+    "en": [
+      "a state of extreme physical or mental inactivity",
+      "a temporary state of greatly reduced activity and metabolism in an animal"
+    ]
+  },
+  "nuance": {
+    "ja": "単なる疲労より強く、ほとんど動かず反応も鈍い状態を表す硬い語。人間の精神的な無気力にも、冬眠動物などの生理的な休眠状態にも使われる。",
+    "en": "A formal word for profound inactivity or sluggishness. It may describe mental lethargy or a physiological state of reduced activity in animals."
+  },
+  "etymology": {
+    "ja": "ラテン語 torpor「しびれ、無感覚、不活発」に由来する。これは torpēre「しびれている、動かない、鈍い」から派生した語である。",
+    "en": "From Latin torpor, meaning numbness or inactivity, derived from torpēre, 'to be numb, motionless, or sluggish.'"
+  },
+  "synonyms": [
+    {
+      "word": "lethargy",
+      "note": {
+        "ja": "活力や意欲の欠如を表す最も一般的な近義語。torporほど完全な停止状態を連想させない。",
+        "en": "The most general synonym, emphasizing lack of energy without necessarily suggesting near-complete inactivity."
+      }
+    },
+    {
+      "word": "stupor",
+      "note": {
+        "ja": "意識や反応が著しく鈍った状態。病気、酒、薬物、衝撃などとの結び付きが強い。",
+        "en": "Suggests greatly reduced consciousness or responsiveness, often caused by illness, alcohol, drugs, or shock."
+      }
+    },
+    {
+      "word": "lassitude",
+      "note": {
+        "ja": "疲労から来る気だるさや倦怠感を表し、torporより穏やかで文学的。",
+        "en": "Refers to weariness and listlessness; generally milder and more literary than torpor."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Lethargie",
+    "it": "torpore",
+    "fr": "torpeur",
+    "es": "sopor"
+  },
+  "collocations": {
+    "ja": [
+      "a state of torpor — 無気力状態",
+      "sink into torpor — 昏々とした不活発状態に陥る",
+      "emerge from torpor — 休眠・無気力状態から抜け出す"
+    ],
+    "en": [
+      "a state of torpor",
+      "sink into torpor",
+      "emerge from torpor"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The intense heat sent the entire town into a state of torpor. — 猛暑のため町全体が無気力な状態に陥った。",
+      "Some small mammals enter torpor to conserve energy. — 一部の小型哺乳類はエネルギーを節約するため休眠状態に入る。"
+    ],
+    "en": [
+      "The intense heat sent the entire town into a state of torpor.",
+      "Some small mammals enter torpor to conserve energy."
+    ]
   }
+}
 ]
