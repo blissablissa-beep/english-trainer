@@ -902,5 +902,285 @@
       "The room was stifling without air conditioning."
     ]
   }
+},
+{
+  "id": "mitigate",
+  "sid": "2026-00013",
+  "word": "mitigate",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "business",
+    "academic"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "mitigate – mitigated – mitigated",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈmɪtəˌɡeɪt/",
+      "uk": "/ˈmɪtɪɡeɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（悪影響・危険・苦痛などを）軽減する",
+      "和らげる",
+      "緩和する"
+    ],
+    "en": [
+      "to make something less severe, harmful, or painful",
+      "to reduce the seriousness of something"
+    ]
+  },
+  "nuance": {
+    "ja": "問題そのものを解決・除去するのではなく、その悪影響を小さくすることを表す。法律・環境・医療・ビジネスで非常によく使われる。",
+    "en": "Mitigate means reducing the severity of a problem rather than eliminating it entirely. It is common in legal, environmental, medical, and business contexts."
+  },
+  "etymology": {
+    "ja": "ラテン語 mitigare（穏やかにする、柔らげる）に由来する。mitis（穏やかな）+ agere（行う）が語源。",
+    "en": "From Latin mitigare ('to soften, make mild'), from mitis ('mild') and agere ('to do')."
+  },
+  "synonyms": [
+    {
+      "word": "alleviate",
+      "note": {
+        "ja": "苦痛や症状を和らげることに重点。",
+        "en": "Usually refers to relieving pain or suffering."
+      }
+    },
+    {
+      "word": "reduce",
+      "note": {
+        "ja": "最も一般的で広い語。",
+        "en": "A broad and neutral word."
+      }
+    },
+    {
+      "word": "lessen",
+      "note": {
+        "ja": "程度を小さくすることを表す。",
+        "en": "Emphasizes making something smaller in degree."
+      }
+    },
+    {
+      "word": "ease",
+      "note": {
+        "ja": "負担や痛みを楽にする。",
+        "en": "Often used for discomfort or difficulty."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "mildern",
+    "it": "mitigare",
+    "fr": "atténuer",
+    "es": "mitigar"
+  },
+  "collocations": {
+    "ja": [
+      "mitigate risk",
+      "mitigate climate change",
+      "mitigate damage",
+      "mitigate the impact",
+      "mitigate losses"
+    ],
+    "en": [
+      "mitigate risk",
+      "mitigate climate change",
+      "mitigate damage",
+      "mitigate the impact",
+      "mitigate losses"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company introduced new measures to mitigate risks.",
+      "These policies are intended to mitigate the effects of climate change."
+    ],
+    "en": [
+      "The company introduced new measures to mitigate risks.",
+      "These policies are intended to mitigate the effects of climate change."
+    ]
+  }
+},
+{
+  "id": "ameliorate",
+  "sid": "2026-00014",
+  "word": "ameliorate",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": ["academic", "formal"],
+  "grammar": {
+    "pos": "verb",
+    "forms": "ameliorate – ameliorated – ameliorated"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈmiːliəˌreɪt/",
+      "uk": "/əˈmiːliəreɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "改善する",
+      "改良する",
+      "（状況を）好転させる"
+    ],
+    "en": [
+      "to improve a bad situation",
+      "to make something better"
+    ]
+  },
+  "nuance": {
+    "ja": "mitigate が『悪影響を小さくする』のに対し、ameliorate は『状況そのものを改善する』ことに重点がある。",
+    "en": "Unlike mitigate, ameliorate focuses on improving the overall situation."
+  },
+  "etymology": {
+    "ja": "ラテン語 melior（より良い）に由来。英語 better に相当する比較級語根。",
+    "en": "From Latin melior ('better')."
+  },
+  "synonyms": [
+    {
+      "word": "improve",
+      "note": {
+        "ja": "最も一般的。",
+        "en": "The ordinary word."
+      }
+    },
+    {
+      "word": "mitigate",
+      "note": {
+        "ja": "悪影響を軽減することに重点。",
+        "en": "Focuses on reducing harm."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verbessern",
+    "it": "migliorare",
+    "fr": "améliorer",
+    "es": "mejorar"
+  }
+},
+{
+  "id": "alleviate",
+  "sid": "2026-00015",
+  "word": "alleviate",
+  "level": "C1",
+  "freq": "often",
+  "tags": ["medical", "formal"],
+  "grammar": {
+    "pos": "verb",
+    "forms": "alleviate – alleviated – alleviated"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈliːvieɪt/",
+      "uk": "/əˈliːvieɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "和らげる",
+      "軽減する",
+      "（苦痛を）緩和する"
+    ],
+    "en": [
+      "to relieve pain or suffering",
+      "to make something less severe"
+    ]
+  },
+  "nuance": {
+    "ja": "苦痛・症状・貧困など、人が感じる負担を軽くする場合に最もよく使われる。",
+    "en": "Often used with pain, suffering, stress, or poverty."
+  },
+  "etymology": {
+    "ja": "ラテン語 alleviare（軽くする）← levis（軽い）。",
+    "en": "From Latin alleviare ('to lighten')."
+  },
+  "synonyms": [
+    {
+      "word": "ease",
+      "note": {
+        "ja": "より日常的。",
+        "en": "More conversational."
+      }
+    },
+    {
+      "word": "mitigate",
+      "note": {
+        "ja": "対象がより広い。",
+        "en": "Broader in scope."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "lindern",
+    "it": "alleviare",
+    "fr": "soulager",
+    "es": "aliviar"
+  }
+},
+{
+  "id": "attenuate",
+  "sid": "2026-00016",
+  "word": "attenuate",
+  "level": "C2",
+  "freq": "rare",
+  "tags": ["science", "academic"],
+  "grammar": {
+    "pos": "verb",
+    "forms": "attenuate – attenuated – attenuated"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈtenjueɪt/",
+      "uk": "/əˈtenjueɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "弱める",
+      "減衰させる",
+      "薄める"
+    ],
+    "en": [
+      "to reduce the force or effect of something",
+      "to weaken"
+    ]
+  },
+  "nuance": {
+    "ja": "物理・医学・音響・通信などで『信号・放射線・病原性』を弱める意味で頻出。",
+    "en": "Common in science for reducing the strength of signals, radiation, or pathogens."
+  },
+  "etymology": {
+    "ja": "ラテン語 attenuare（薄くする）← tenuis（薄い）。",
+    "en": "From Latin attenuare ('to make thin')."
+  },
+  "synonyms": [
+    {
+      "word": "weaken",
+      "note": {
+        "ja": "一般語。",
+        "en": "General word."
+      }
+    },
+    {
+      "word": "diminish",
+      "note": {
+        "ja": "数量・程度を減らす。",
+        "en": "Reduce in size or degree."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "abschwächen",
+    "it": "attenuare",
+    "fr": "atténuer",
+    "es": "atenuar"
+  }
 }
 ]
