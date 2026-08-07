@@ -1846,6 +1846,61 @@
     "The yen depreciated against the dollar last year.",
     "Computers depreciate rapidly as technology advances."
   ]
+  }
+},
+{
+  "id": "depreciate",
+  "sid": "2026-00026",
+  "word": "depreciate",
+  "level": "C1",
+  "freq": "often",
+  "tags": ["finance", "business"],
+  "grammar": {
+    "pos": "verb",
+    "forms": "depreciate – depreciated – depreciated"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈpriːʃieɪt/",
+      "uk": "/dɪˈpriːʃieɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "価値が下がる",
+      "減価償却する",
+      "（通貨が）下落する"
+    ],
+    "en": [
+      "to decrease in value",
+      "to allocate depreciation expense",
+      "to decline in value"
+    ]
+  },
+  "nuance": {
+    "ja": "自動詞・他動詞の両方で使われる。経済記事では通貨の下落、会計では減価償却を表す。",
+    "en": "Used for currencies, assets, and accounting depreciation."
+  },
+  "etymology": {
+    "ja": "de- + pretium（価格）。",
+    "en": "Ultimately from Latin pretium ('price')."
+  },
+  "equivalents": {
+    "de": "abschreiben / an Wert verlieren",
+    "it": "deprezzarsi / ammortizzare",
+    "fr": "déprécier",
+    "es": "depreciar"
+  },
+  "example": {
+    "ja": [
+      "The yen depreciated against the dollar last year. — 円は昨年ドルに対して下落した。",
+      "Computers depreciate rapidly as technology advances. — コンピューターは技術の進歩とともに急速に価値が下がる。"
+    ],
+    "en": [
+      "The yen depreciated against the dollar last year.",
+      "Computers depreciate rapidly as technology advances."
+    ]
+  }
 },
 {
   "id": "factoid",
@@ -1908,6 +1963,20 @@
       }
     }
   ],
+  "minimal": {
+    "ja": [
+      "factoid：本来は『事実のように広まった虚偽』、現在では『雑学』の意味でも広く使われる。",
+      "trivia：豆知識・雑学という意味のみ。",
+      "misinformation：誤情報全般。",
+      "urban legend：都市伝説・俗説。"
+    ],
+    "en": [
+      "factoid originally meant an invented fact, but today often means a piece of trivia.",
+      "trivia refers only to interesting bits of information.",
+      "misinformation is false information.",
+      "an urban legend is a widely circulated but doubtful story."
+    ]
+  },
   "equivalents": {
     "de": "Faktoid",
     "it": "fattoide",
@@ -1940,6 +2009,5 @@
       "Many people still believe the factoid, although it has been thoroughly debunked."
     ]
   }
-}
 }
 ]
