@@ -3362,5 +3362,225 @@
       "He looked dashing in his navy-blue suit."
     ]
   }
+},
+{
+  "id": "gallant",
+  "sid": "2026-00041",
+  "word": "gallant",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "personality",
+    "literary",
+    "history"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɡælənt/",
+      "uk": "/ˈɡælənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "勇敢な",
+      "騎士道精神のある",
+      "女性に礼儀正しい"
+    ],
+    "en": [
+      "brave and noble",
+      "showing courage and honor",
+      "courteous and attentive to women"
+    ]
+  },
+  "nuance": {
+    "ja": "現代ではやや文学的。戦場での勇敢さだけでなく、女性に対する礼儀正しさや騎士道精神も表す。",
+    "en": "A literary word suggesting courage, nobility, and old-fashioned courtesy."
+  },
+  "minimal": {
+    "ja": [
+      "brave：単に勇敢。",
+      "gallant：勇敢で騎士道的。",
+      "chivalrous：騎士道精神を強調。",
+      "dashing：颯爽として格好いい。"
+    ],
+    "en": [
+      "brave simply means courageous.",
+      "gallant suggests noble bravery.",
+      "chivalrous emphasizes knightly courtesy.",
+      "dashing emphasizes heroic style."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 galant（優雅な・勇敢な）に由来。もともとは『陽気で魅力的』という意味だった。",
+    "en": "From Old French galant ('spirited, elegant')."
+  },
+  "synonyms": [
+    {
+      "word": "chivalrous",
+      "note": {
+        "ja": "より騎士道精神を強調。",
+        "en": "More focused on knightly conduct."
+      }
+    },
+    {
+      "word": "heroic",
+      "note": {
+        "ja": "英雄的。",
+        "en": "More heroic."
+      }
+    },
+    {
+      "word": "valiant",
+      "note": {
+        "ja": "戦場での勇敢さを強調。",
+        "en": "Especially brave in battle."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ritterlich",
+    "it": "galante",
+    "fr": "galant",
+    "es": "galante"
+  },
+  "collocations": {
+    "ja": [
+      "a gallant officer",
+      "a gallant soldier",
+      "a gallant rescue",
+      "gallant behavior",
+      "a gallant gentleman"
+    ],
+    "en": [
+      "a gallant officer",
+      "a gallant soldier",
+      "a gallant rescue",
+      "gallant behavior",
+      "a gallant gentleman"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The gallant firefighter rescued the child from the burning house. — その勇敢な消防士は燃えさかる家から子どもを救い出した。",
+      "He was known as a gallant gentleman who always treated everyone with respect. — 彼は誰に対しても礼儀正しい紳士として知られていた。"
+    ],
+    "en": [
+      "The gallant firefighter rescued the child from the burning house.",
+      "He was known as a gallant gentleman who always treated everyone with respect."
+    ]
+  }
+},
+{
+  "id": "chivalrous",
+  "sid": "2026-00042",
+  "word": "chivalrous",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "history",
+    "personality",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈʃɪvəlrəs/",
+      "uk": "/ˈʃɪvəlrəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "騎士道精神のある",
+      "高潔な",
+      "女性に対して礼儀正しい"
+    ],
+    "en": [
+      "showing the qualities of a knight",
+      "honorable and courteous",
+      "especially respectful toward women"
+    ]
+  },
+  "nuance": {
+    "ja": "現代では『騎士道精神』『弱者を守る』『女性に紳士的』という意味で使われる。英雄的というより人格・礼節を評価する語。",
+    "en": "Describes honorable, courteous behavior inspired by the ideals of medieval knighthood."
+  },
+  "minimal": {
+    "ja": [
+      "gallant：勇敢さも含む。",
+      "chivalrous：礼節・騎士道精神を重視。",
+      "gentlemanly：現代的な紳士らしさ。",
+      "courteous：礼儀正しいだけ。"
+    ],
+    "en": [
+      "gallant includes bravery.",
+      "chivalrous emphasizes knightly honor.",
+      "gentlemanly is the modern equivalent.",
+      "courteous simply means polite."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 chevalerie（騎士道）に由来。cheval（馬）と同語源で、『馬に乗る騎士』を意味した。",
+    "en": "From French chevalerie ('chivalry'), ultimately from cheval ('horse')."
+  },
+  "synonyms": [
+    {
+      "word": "gallant",
+      "note": {
+        "ja": "勇敢さも含む。",
+        "en": "Adds the idea of bravery."
+      }
+    },
+    {
+      "word": "gentlemanly",
+      "note": {
+        "ja": "現代的な紳士らしさ。",
+        "en": "Modern gentlemanly behavior."
+      }
+    },
+    {
+      "word": "courteous",
+      "note": {
+        "ja": "礼儀正しい。",
+        "en": "Simply polite."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ritterlich",
+    "it": "cavalleresco",
+    "fr": "chevaleresque",
+    "es": "caballeroso"
+  },
+  "collocations": {
+    "ja": [
+      "a chivalrous act",
+      "chivalrous behavior",
+      "a chivalrous knight",
+      "a chivalrous gentleman",
+      "remain chivalrous"
+    ],
+    "en": [
+      "a chivalrous act",
+      "chivalrous behavior",
+      "a chivalrous knight",
+      "a chivalrous gentleman",
+      "remain chivalrous"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He made a chivalrous gesture by offering his seat to the elderly passenger. — 彼は高齢の乗客に席を譲るという騎士道精神あふれる行動を取った。",
+      "The novel portrays a chivalrous knight devoted to justice. — その小説は正義に尽くす騎士を描いている。"
+    ],
+    "en": [
+      "He made a chivalrous gesture by offering his seat to the elderly passenger.",
+      "The novel portrays a chivalrous knight devoted to justice."
+    ]
+  }
 }
 ]
