@@ -2705,5 +2705,223 @@
       "Our cat has a mischievous personality."
     ]
   }
+},
+{
+  "id": "impish",
+  "sid": "2026-00035",
+  "word": "impish",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "personality",
+    "literary"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɪmpɪʃ/",
+      "uk": "/ˈɪmpɪʃ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "小悪魔的ないたずらっぽさのある",
+      "茶目っ気のある",
+      "わんぱくでいたずら好きな"
+    ],
+    "en": [
+      "playfully mischievous",
+      "showing a lively and slightly naughty sense of humor",
+      "resembling an imp in playful mischief"
+    ]
+  },
+  "nuance": {
+    "ja": "mischievous に近いが、より『小悪魔的』『茶目っ気のある』という愛嬌を伴う。人そのものよりも、笑顔・表情・目つきなどについて使われることも多い。",
+    "en": "Similar to mischievous but often more charming and devilishly playful. Frequently used of smiles, grins, expressions, and looks."
+  },
+  "minimal": {
+    "ja": [
+      "playful：単純に遊び好き・陽気。",
+      "mischievous：いたずらをしてちょっと困らせる。",
+      "impish：小悪魔的で茶目っ気のあるいたずらっぽさ。",
+      "malicious：相手を害する悪意がある。"
+    ],
+    "en": [
+      "playful emphasizes fun and play.",
+      "mischievous suggests playful troublemaking.",
+      "impish suggests charming, devilish mischief.",
+      "malicious implies an intention to harm."
+    ]
+  },
+  "etymology": {
+    "ja": "imp（小悪魔・いたずら好きな妖精）＋ -ish（～のような）から。imp は古英語 impe を経てラテン語 imputus に遡り、もともとは『接ぎ木・若芽』を意味したが、中世以降『悪魔の子』、さらに『いたずら好きな小悪魔』という意味へ発展した。",
+    "en": "From imp + -ish. Imp originally referred to a shoot or offspring, later developing the sense of a small demon and then a mischievous child or creature."
+  },
+  "synonyms": [
+    {
+      "word": "mischievous",
+      "note": {
+        "ja": "最も近い一般的な語。impish より使用範囲が広い。",
+        "en": "The closest general synonym and broader in use."
+      }
+    },
+    {
+      "word": "playful",
+      "note": {
+        "ja": "いたずらという要素を必ずしも含まない。",
+        "en": "Does not necessarily imply mischief."
+      }
+    },
+    {
+      "word": "roguish",
+      "note": {
+        "ja": "悪党めいた魅力・大胆さを感じさせる『いたずらっぽさ』。",
+        "en": "Suggests charmingly dishonest or boldly mischievous behavior."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schelmisch",
+    "it": "birichino",
+    "fr": "espiègle",
+    "es": "travieso"
+  },
+  "collocations": {
+    "ja": [
+      "an impish grin — 小悪魔的なにやり笑い",
+      "an impish smile — 茶目っ気のある笑み",
+      "an impish expression — いたずらっぽい表情",
+      "an impish look — いたずらっぽい目つき",
+      "an impish sense of humor — 茶目っ気のあるユーモア感覚"
+    ],
+    "en": [
+      "an impish grin",
+      "an impish smile",
+      "an impish expression",
+      "an impish look",
+      "an impish sense of humor"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He flashed an impish grin before revealing the prank. — 彼はいたずらの種明かしをする前に、小悪魔的な笑みを浮かべた。",
+      "There was an impish sparkle in her eyes as she told the joke. — その冗談を話す彼女の目には、茶目っ気のある輝きがあった。"
+    ],
+    "en": [
+      "He flashed an impish grin before revealing the prank.",
+      "There was an impish sparkle in her eyes as she told the joke."
+    ]
+  }
+},
+{
+  "id": "roguish",
+  "sid": "2026-00036",
+  "word": "roguish",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "personality",
+    "literary"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈroʊɡɪʃ/",
+      "uk": "/ˈrəʊɡɪʃ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "いたずらっぽく魅力的な",
+      "悪戯好きで憎めない",
+      "ちょいワル風の"
+    ],
+    "en": [
+      "playfully dishonest in a charming way",
+      "mischievous and attractive",
+      "having the qualities of a lovable rogue"
+    ]
+  },
+  "nuance": {
+    "ja": "単なる『いたずら好き』ではなく、多少ずる賢かったり規則を破ったりしても、不思議と人を惹きつける魅力があることを表す。映画や小説で主人公や詐欺師、冒険家などを描写する際によく用いられる。",
+    "en": "Describes someone who bends the rules or behaves dishonestly in a charming, attractive way rather than with real malice."
+  },
+  "minimal": {
+    "ja": [
+      "mischievous：悪意のないいたずら好き。",
+      "impish：小悪魔的で茶目っ気がある。",
+      "roguish：少し悪そうだが魅力的。",
+      "villainous：本当に悪人らしい。"
+    ],
+    "en": [
+      "mischievous suggests harmless pranks.",
+      "impish suggests devilish charm.",
+      "roguish suggests charming rule-breaking.",
+      "villainous implies genuine evil."
+    ]
+  },
+  "etymology": {
+    "ja": "rogue（ならず者、ごろつき）＋ -ish（〜らしい）。rogue は16世紀頃には『浮浪者・詐欺師』を意味したが、現在では『憎めない悪党』という肯定的な含みを持つことも多い。",
+    "en": "From rogue + -ish. Rogue originally meant a vagabond or swindler but later developed the more affectionate sense of a lovable scoundrel."
+  },
+  "synonyms": [
+    {
+      "word": "impish",
+      "note": {
+        "ja": "より子どもっぽく、小悪魔的。",
+        "en": "More childlike and devilishly playful."
+      }
+    },
+    {
+      "word": "rakish",
+      "note": {
+        "ja": "女性に人気のある色男・遊び人風。",
+        "en": "Suggests stylish, flirtatious masculinity."
+      }
+    },
+    {
+      "word": "charming",
+      "note": {
+        "ja": "悪さの意味は含まない。",
+        "en": "Lacks the mischievous aspect."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schelmisch",
+    "it": "furfantesco",
+    "fr": "fripon",
+    "es": "pícaro"
+  },
+  "collocations": {
+    "ja": [
+      "a roguish smile",
+      "a roguish grin",
+      "a roguish charm",
+      "a roguish look",
+      "a roguish character"
+    ],
+    "en": [
+      "a roguish smile",
+      "a roguish grin",
+      "a roguish charm",
+      "a roguish look",
+      "a roguish character"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The actor was famous for his roguish smile. — その俳優は、ちょいワル風の魅力的な笑顔で有名だった。",
+      "He played a roguish pirate who always managed to escape trouble. — 彼は、いつも危機を切り抜ける憎めない海賊を演じた。"
+    ],
+    "en": [
+      "The actor was famous for his roguish smile.",
+      "He played a roguish pirate who always managed to escape trouble."
+    ]
+  }
 }
 ]
