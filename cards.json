@@ -1955,5 +1955,646 @@
       "Many people still believe the factoid, although it has been thoroughly debunked."
     ]
   }
+},
+{
+  "id": "counterproductive",
+  "sid": "2026-00028",
+  "word": "counterproductive",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "business",
+    "academic",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkaʊntərprəˈdʌktɪv/",
+      "uk": "/ˌkaʊntəprəˈdʌktɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "逆効果の",
+      "かえって目的達成を妨げる",
+      "意図した結果とは反対の結果を招く"
+    ],
+    "en": [
+      "having the opposite effect from the one intended",
+      "making it harder to achieve the desired result"
+    ]
+  },
+  "nuance": {
+    "ja": "単に『効果がない』のではなく、行動や政策などがむしろ状況を悪化させたり、目的達成を遠ざけたりすることを表す。",
+    "en": "Stronger than merely ineffective: something counterproductive actively works against the intended goal."
+  },
+  "minimal": {
+    "ja": [
+      "ineffective：効果がない。",
+      "counterproductive：効果がないどころか、むしろ逆効果になる。",
+      "self-defeating：自分自身の目的を自ら損なうことを強調する。"
+    ],
+    "en": [
+      "ineffective means that something does not work.",
+      "counterproductive means that it actually makes the desired outcome less likely.",
+      "self-defeating emphasizes undermining one's own purpose."
+    ]
+  },
+  "etymology": {
+    "ja": "counter-（反対方向に）+ productive（成果を生む）から成る語。文字どおり『成果を生む方向とは逆に働く』という意味。",
+    "en": "Formed from counter- ('in the opposite direction') + productive. Literally, producing an effect contrary to the intended one."
+  },
+  "synonyms": [
+    {
+      "word": "self-defeating",
+      "note": {
+        "ja": "自分自身の目的を自ら台無しにするニュアンスが強い。",
+        "en": "Emphasizes undermining one's own aims."
+      }
+    },
+    {
+      "word": "ineffective",
+      "note": {
+        "ja": "単に効果がない。逆効果とは限らない。",
+        "en": "Means simply not effective; it does not necessarily make things worse."
+      }
+    },
+    {
+      "word": "detrimental",
+      "note": {
+        "ja": "有害であることを表すが、意図との逆方向という要素は必須ではない。",
+        "en": "Means harmful, without necessarily implying opposition to an intended goal."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "kontraproduktiv",
+    "it": "controproducente",
+    "fr": "contre-productif",
+    "es": "contraproducente"
+  },
+  "collocations": {
+    "ja": [
+      "prove counterproductive — 結果的に逆効果となる",
+      "be counterproductive — 逆効果である",
+      "a counterproductive policy — 逆効果の政策",
+      "counterproductive measures — 逆効果の措置",
+      "counterproductive behavior — 逆効果の行動"
+    ],
+    "en": [
+      "prove counterproductive",
+      "be counterproductive",
+      "a counterproductive policy",
+      "counterproductive measures",
+      "counterproductive behavior"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Punishing employees for every small mistake can be counterproductive. — 小さなミスのたびに従業員を罰することは逆効果になりうる。",
+      "The new restrictions proved counterproductive and actually increased costs. — 新たな規制は逆効果となり、実際にはコストを増加させた。"
+    ],
+    "en": [
+      "Punishing employees for every small mistake can be counterproductive.",
+      "The new restrictions proved counterproductive and actually increased costs."
+    ]
+  }
+},
+{
+  "id": "detrimental",
+  "sid": "2026-00029",
+  "word": "detrimental",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "academic",
+    "business",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌdetrɪˈmentl/",
+      "uk": "/ˌdetrɪˈmentl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "有害な",
+      "悪影響を及ぼす",
+      "損害を与える"
+    ],
+    "en": [
+      "causing harm or damage",
+      "having a harmful effect"
+    ]
+  },
+  "nuance": {
+    "ja": "害や悪影響そのものに焦点を当てる語。counterproductive のように『目的に逆らう』ことは含意しない。",
+    "en": "Focuses simply on harmful effects. Unlike counterproductive, it does not necessarily imply interference with an intended goal."
+  },
+  "minimal": {
+    "ja": [
+      "harmful：最も一般的な『有害な』。",
+      "detrimental：やや硬く、長期的・重大な悪影響を表すことが多い。",
+      "counterproductive：目的達成を妨げるという意味を含む。",
+      "adverse：不利・好ましくない結果を生むことを強調する。"
+    ],
+    "en": [
+      "harmful is the ordinary word.",
+      "detrimental is more formal and often suggests significant negative effects.",
+      "counterproductive means working against the intended goal.",
+      "adverse emphasizes unfavorable consequences."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 detrimentum（損害、損失）に由来する。detrahere（引き離す、奪う）が語源。",
+    "en": "From Latin detrimentum ('damage, loss'), derived from detrahere ('to draw away, remove')."
+  },
+  "synonyms": [
+    {
+      "word": "harmful",
+      "note": {
+        "ja": "最も一般的。",
+        "en": "The ordinary everyday word."
+      }
+    },
+    {
+      "word": "adverse",
+      "note": {
+        "ja": "医学・法律・統計で特に頻出。",
+        "en": "Especially common in medicine, law, and statistics."
+      }
+    },
+    {
+      "word": "counterproductive",
+      "note": {
+        "ja": "目的達成を妨げることを強調。",
+        "en": "Emphasizes working against the intended objective."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schädlich",
+    "it": "dannoso",
+    "fr": "préjudiciable",
+    "es": "perjudicial"
+  },
+  "collocations": {
+    "ja": [
+      "be detrimental to health — 健康に有害である",
+      "be detrimental to the economy — 経済に悪影響を及ぼす",
+      "have detrimental effects — 悪影響を及ぼす",
+      "a detrimental impact — 有害な影響",
+      "detrimental consequences — 有害な結果"
+    ],
+    "en": [
+      "be detrimental to health",
+      "be detrimental to the economy",
+      "have detrimental effects",
+      "a detrimental impact",
+      "detrimental consequences"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Lack of sleep is detrimental to both physical and mental health. — 睡眠不足は身体的・精神的健康の双方に悪影響を及ぼす。",
+      "The policy could have detrimental effects on small businesses. — その政策は中小企業に悪影響を及ぼす可能性がある。"
+    ],
+    "en": [
+      "Lack of sleep is detrimental to both physical and mental health.",
+      "The policy could have detrimental effects on small businesses."
+    ]
+  }
+},
+{
+  "id": "self_defeating",
+  "sid": "2026-00030",
+  "word": "self-defeating",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "psychology",
+    "business",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌself dɪˈfiːtɪŋ/",
+      "uk": "/ˌself dɪˈfiːtɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "自滅的な",
+      "自分の目的を自ら損なう",
+      "墓穴を掘るような"
+    ],
+    "en": [
+      "acting against one's own interests or goals",
+      "causing one's own efforts to fail"
+    ]
+  },
+  "nuance": {
+    "ja": "自分自身の行動や考え方が、自らの目的達成を妨げることを表す。心理学・経営・政治評論などでよく使われる。",
+    "en": "Describes actions or attitudes that undermine one's own objectives."
+  },
+  "minimal": {
+    "ja": [
+      "counterproductive：一般に目的達成を妨げる。",
+      "self-defeating：特に『自分自身』の目的を損なう。",
+      "self-destructive：自分自身を破滅させることに重点。"
+    ],
+    "en": [
+      "counterproductive works against a goal in general.",
+      "self-defeating specifically undermines one's own goals.",
+      "self-destructive focuses on harming oneself."
+    ]
+  },
+  "etymology": {
+    "ja": "self（自分自身）+ defeat（打ち負かす）。",
+    "en": "From self + defeat."
+  },
+  "synonyms": [
+    {
+      "word": "counterproductive",
+      "note": {
+        "ja": "より一般的。",
+        "en": "Broader term."
+      }
+    },
+    {
+      "word": "self-destructive",
+      "note": {
+        "ja": "より深刻。",
+        "en": "Usually stronger."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "selbstzerstörerisch",
+    "it": "controproducente per sé stesso",
+    "fr": "autodestructeur",
+    "es": "autodestructivo"
+  },
+  "collocations": {
+    "ja": [
+      "self-defeating behavior",
+      "self-defeating attitude",
+      "a self-defeating strategy",
+      "be self-defeating"
+    ],
+    "en": [
+      "self-defeating behavior",
+      "self-defeating attitude",
+      "a self-defeating strategy",
+      "be self-defeating"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Constantly blaming others is ultimately self-defeating. — 他人を責め続けることは結局自分のためにならない。",
+      "Their aggressive strategy proved self-defeating. — 彼らの攻撃的な戦略は自滅的だった。"
+    ],
+    "en": [
+      "Constantly blaming others is ultimately self-defeating.",
+      "Their aggressive strategy proved self-defeating."
+    ]
+  }
+},
+{
+  "id": "adverse",
+  "sid": "2026-00031",
+  "word": "adverse",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medical",
+    "business",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ædˈvɝːs/",
+      "uk": "/ˈædvɜːs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "好ましくない",
+      "不利な",
+      "悪影響を及ぼす"
+    ],
+    "en": [
+      "unfavorable",
+      "harmful",
+      "having a negative effect"
+    ]
+  },
+  "nuance": {
+    "ja": "医学・法律・経済で極めて頻繁に使われる硬い語。『悪い結果・不利益』を客観的に述べる。",
+    "en": "A formal word commonly used in medicine, law, finance, and public policy."
+  },
+  "minimal": {
+    "ja": [
+      "adverse：好ましくない結果・状況。",
+      "detrimental：実際に害を及ぼす。",
+      "counterproductive：目的達成を妨げる。",
+      "unfavorable：一般的な『不利な』。"
+    ],
+    "en": [
+      "adverse emphasizes unfavorable circumstances or outcomes.",
+      "detrimental emphasizes actual harm.",
+      "counterproductive emphasizes interference with a goal.",
+      "unfavorable is the general everyday word."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 adversus（反対向きの、敵対する）に由来する。",
+    "en": "From Latin adversus ('turned against')."
+  },
+  "synonyms": [
+    {
+      "word": "unfavorable",
+      "note": {
+        "ja": "一般的。",
+        "en": "General word."
+      }
+    },
+    {
+      "word": "detrimental",
+      "note": {
+        "ja": "より有害性を強調。",
+        "en": "Emphasizes harm."
+      }
+    },
+    {
+      "word": "hostile",
+      "note": {
+        "ja": "敵意を伴う。",
+        "en": "Implies opposition or hostility."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "nachteilig",
+    "it": "sfavorevole",
+    "fr": "défavorable",
+    "es": "adverso"
+  },
+  "collocations": {
+    "ja": [
+      "adverse effects",
+      "adverse reaction",
+      "adverse weather conditions",
+      "adverse consequences",
+      "adverse impact"
+    ],
+    "en": [
+      "adverse effects",
+      "adverse reaction",
+      "adverse weather conditions",
+      "adverse consequences",
+      "adverse impact"
+    ]
+  },
+  "example": {
+    "ja": [
+      "No adverse effects were reported during the trial. — 試験中に有害な副作用は報告されなかった。",
+      "The project was delayed because of adverse weather conditions. — 悪天候のため計画は延期された。"
+    ],
+    "en": [
+      "No adverse effects were reported during the trial.",
+      "The project was delayed because of adverse weather conditions."
+    ]
+  }
+},
+{
+  "id": "invidious",
+  "sid": "2026-00032",
+  "word": "invidious",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "formal",
+    "academic"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈvɪdiəs/",
+      "uk": "/ɪnˈvɪdiəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "不当な差別を生む",
+      "人の反感・恨みを買う",
+      "不快で不公平な"
+    ],
+    "en": [
+      "likely to cause resentment or offense",
+      "unfairly discriminatory",
+      "likely to provoke ill will"
+    ]
+  },
+  "nuance": {
+    "ja": "単に『有害』ではなく、『人々の嫉妬・反感・不公平感を招く』ことを表す硬い語。法律・政治・評論でよく見られる。",
+    "en": "Describes actions, distinctions, or comparisons that provoke resentment because they are unfair or offensive."
+  },
+  "minimal": {
+    "ja": [
+      "offensive：人を不快にさせる。",
+      "controversial：議論を呼ぶ。",
+      "invidious：不公平なために反感や恨みを招く。",
+      "discriminatory：差別的であること自体を述べる。"
+    ],
+    "en": [
+      "offensive means insulting or unpleasant.",
+      "controversial means causing disagreement.",
+      "invidious suggests unfair distinctions that provoke resentment.",
+      "discriminatory focuses on unequal treatment."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 invidia（嫉妬・恨み）に由来。同語源には envy（嫉妬）がある。",
+    "en": "From Latin invidia ('envy, ill will'), the same root as English envy."
+  },
+  "synonyms": [
+    {
+      "word": "discriminatory",
+      "note": {
+        "ja": "差別的という意味では最も近い。",
+        "en": "Closest when referring to unfair discrimination."
+      }
+    },
+    {
+      "word": "offensive",
+      "note": {
+        "ja": "単に不快という意味。",
+        "en": "Simply means insulting or unpleasant."
+      }
+    },
+    {
+      "word": "prejudicial",
+      "note": {
+        "ja": "法律では偏見・不利益を与えることを表す。",
+        "en": "Often used in legal contexts."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gehässig",
+    "it": "odioso",
+    "fr": "odieux",
+    "es": "odioso"
+  },
+  "collocations": {
+    "ja": [
+      "an invidious distinction",
+      "an invidious comparison",
+      "an invidious policy",
+      "be invidious"
+    ],
+    "en": [
+      "an invidious distinction",
+      "an invidious comparison",
+      "an invidious policy",
+      "be invidious"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The report drew an invidious comparison between the two communities. — その報告書は二つの共同体を不公平に比較し、反感を招いた。",
+      "The law was criticized as invidious because it treated similar cases differently. — その法律は類似の事例を異なって扱うため、不当であると批判された。"
+    ],
+    "en": [
+      "The report drew an invidious comparison between the two communities.",
+      "The law was criticized as invidious because it treated similar cases differently."
+    ]
+  }
+},
+{
+  "id": "prejudicial",
+  "sid": "2026-00033",
+  "word": "prejudicial",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "legal",
+    "academic",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌpredʒəˈdɪʃl/",
+      "uk": "/ˌpredʒəˈdɪʃl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "不利益を与える",
+      "有害な",
+      "偏見を招く"
+    ],
+    "en": [
+      "causing harm or disadvantage",
+      "likely to affect someone unfairly",
+      "causing prejudice"
+    ]
+  },
+  "nuance": {
+    "ja": "法律では『当事者に不利益を与える』『裁判の公平性を損なう』という意味で頻出する。日常英語では harmful よりかなり硬い語。",
+    "en": "Common in legal English, where it describes something that harms a party's interests or compromises fairness."
+  },
+  "minimal": {
+    "ja": [
+      "detrimental：一般的に有害。",
+      "adverse：好ましくない結果を生む。",
+      "prejudicial：特定の人・権利・裁判の公平性に不利益を与える。",
+      "biased：偏った・公平でない。"
+    ],
+    "en": [
+      "detrimental means harmful in general.",
+      "adverse emphasizes unfavorable consequences.",
+      "prejudicial emphasizes unfair harm or legal disadvantage.",
+      "biased describes partiality rather than harm."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 praeiudicium（先入判断・先入観・不利益）に由来する。prejudice（偏見）と同語源。",
+    "en": "From Latin praeiudicium ('prior judgment'), the same origin as prejudice."
+  },
+  "synonyms": [
+    {
+      "word": "detrimental",
+      "note": {
+        "ja": "一般的な『有害な』。",
+        "en": "General word meaning harmful."
+      }
+    },
+    {
+      "word": "adverse",
+      "note": {
+        "ja": "不利益・好ましくない結果を表す。",
+        "en": "Focuses on unfavorable outcomes."
+      }
+    },
+    {
+      "word": "biased",
+      "note": {
+        "ja": "偏見・えこひいきを強調。",
+        "en": "Focuses on partiality."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "nachteilig",
+    "it": "pregiudizievole",
+    "fr": "préjudiciable",
+    "es": "perjudicial"
+  },
+  "collocations": {
+    "ja": [
+      "be prejudicial to the public interest",
+      "be prejudicial to the defendant",
+      "prejudicial evidence",
+      "prejudicial effect",
+      "highly prejudicial"
+    ],
+    "en": [
+      "be prejudicial to the public interest",
+      "be prejudicial to the defendant",
+      "prejudicial evidence",
+      "prejudicial effect",
+      "highly prejudicial"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The judge excluded the prejudicial evidence from the trial. — 裁判官は陪審に不当な影響を与える証拠を排除した。",
+      "The decision was considered prejudicial to small businesses. — その決定は中小企業に不利益を与えるものと考えられた。"
+    ],
+    "en": [
+      "The judge excluded the prejudicial evidence from the trial.",
+      "The decision was considered prejudicial to small businesses."
+    ]
+  }
 }
 ]
