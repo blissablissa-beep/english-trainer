@@ -461,6 +461,7 @@
 
       meaning: "意味",
       nuance: "語感・ニュアンス",
+      minimal: "最小対立（近い語との違い）",
       etymology: "語源",
       synonyms: "類義語",
       equivalents: "他言語の相当語",
@@ -518,6 +519,7 @@
 
       meaning: "Meaning",
       nuance: "Nuance and usage",
+      minimal: "Minimal contrast",
       etymology: "Etymology",
       synonyms: "Synonyms",
       equivalents: "Equivalents",
@@ -744,6 +746,7 @@
         const field of [
           "meaning",
           "nuance",
+          "minimal",
           "etymology",
           "collocations",
           "example"
@@ -1511,7 +1514,10 @@
         text("nuance"),
         card.nuance?.[language]
       )}
-
+　　　　${renderTextBlock(
+        text("minimal"),
+        card.minimal?.[language]
+　　　　)}
       ${renderTextBlock(
         text("etymology"),
         card.etymology?.[language]
