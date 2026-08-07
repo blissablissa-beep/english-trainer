@@ -3144,5 +3144,223 @@
       "The actor was known for his debonair charm and impeccable manners."
     ]
   }
+},
+{
+  "id": "suave",
+  "sid": "2026-00039",
+  "word": "suave",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "personality",
+    "appearance",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/swɑːv/",
+      "uk": "/swɑːv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "物腰が洗練された",
+      "口がうまい",
+      "社交的で魅力的な"
+    ],
+    "en": [
+      "smoothly charming and sophisticated",
+      "polite, confident, and socially skilled"
+    ]
+  },
+  "nuance": {
+    "ja": "debonair よりも『話し方』『社交性』に重点がある。褒め言葉にもなるが、『うますぎて信用できない』『キザ』という皮肉を含むことも少なくない。",
+    "en": "Often praises someone's polished social skills, though it may also imply excessive smoothness or insincerity."
+  },
+  "minimal": {
+    "ja": [
+      "debonair：紳士的で上品。",
+      "suave：話術・社交術に長ける。",
+      "rakish：遊び人風。",
+      "charming：一般的に魅力的。"
+    ],
+    "en": [
+      "debonair emphasizes gentlemanly elegance.",
+      "suave emphasizes polished social confidence.",
+      "rakish suggests flirtatious charm.",
+      "charming is the broadest term."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 suavis（快い・心地よい）に由来。同語源に sweet がある。",
+    "en": "From Latin suavis ('pleasant, agreeable')."
+  },
+  "synonyms": [
+    {
+      "word": "debonair",
+      "note": {
+        "ja": "より紳士的。",
+        "en": "More gentlemanly."
+      }
+    },
+    {
+      "word": "polished",
+      "note": {
+        "ja": "教養・洗練を強調。",
+        "en": "Emphasizes refinement."
+      }
+    },
+    {
+      "word": "smooth",
+      "note": {
+        "ja": "口語。調子がよすぎる場合も。",
+        "en": "Often implies slickness."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "charmant",
+    "it": "disinvolto",
+    "fr": "suave",
+    "es": "afable"
+  },
+  "collocations": {
+    "ja": [
+      "a suave gentleman",
+      "a suave manner",
+      "a suave smile",
+      "a suave negotiator",
+      "a suave salesman"
+    ],
+    "en": [
+      "a suave gentleman",
+      "a suave manner",
+      "a suave smile",
+      "a suave negotiator",
+      "a suave salesman"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He was too suave to be completely trusted. — 彼はあまりにも口がうまく、完全には信用できなかった。",
+      "The diplomat handled the meeting with a suave manner. — その外交官は洗練された物腰で会談を進めた。"
+    ],
+    "en": [
+      "He was too suave to be completely trusted.",
+      "The diplomat handled the meeting with a suave manner."
+    ]
+  }
+},
+{
+  "id": "dashing",
+  "sid": "2026-00040",
+  "word": "dashing",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "appearance",
+    "personality"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdæʃɪŋ/",
+      "uk": "/ˈdæʃɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "颯爽とした",
+      "勇ましく格好いい",
+      "華やかで魅力的な"
+    ],
+    "en": [
+      "handsome and confident",
+      "stylish and energetic",
+      "boldly attractive"
+    ]
+  },
+  "nuance": {
+    "ja": "行動力・勇敢さ・外見の格好よさを同時に表す語。古典小説ではヒーローや軍人によく使われる。",
+    "en": "Describes someone who is stylish, energetic, courageous, and physically attractive."
+  },
+  "minimal": {
+    "ja": [
+      "handsome：外見が整っている。",
+      "dashing：颯爽として英雄的。",
+      "debonair：洗練された紳士。",
+      "rakish：遊び人風。"
+    ],
+    "en": [
+      "handsome refers to appearance.",
+      "dashing adds confidence and boldness.",
+      "debonair stresses elegance.",
+      "rakish stresses flirtatious charm."
+    ]
+  },
+  "etymology": {
+    "ja": "dash（勢いよく突進する）から発達し、『勢いがあって格好いい』という意味になった。",
+    "en": "Originally from dash ('to move rapidly'), later developing the sense of spirited elegance."
+  },
+  "synonyms": [
+    {
+      "word": "handsome",
+      "note": {
+        "ja": "最も一般的。",
+        "en": "General word."
+      }
+    },
+    {
+      "word": "debonair",
+      "note": {
+        "ja": "より上品。",
+        "en": "More refined."
+      }
+    },
+    {
+      "word": "gallant",
+      "note": {
+        "ja": "勇敢で騎士道的。",
+        "en": "More chivalrous."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schneidig",
+    "it": "aitante",
+    "fr": "élégant",
+    "es": "apuesto"
+  },
+  "collocations": {
+    "ja": [
+      "a dashing young officer",
+      "a dashing hero",
+      "a dashing appearance",
+      "look dashing",
+      "a dashing smile"
+    ],
+    "en": [
+      "a dashing young officer",
+      "a dashing hero",
+      "a dashing appearance",
+      "look dashing",
+      "a dashing smile"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The novel's hero is a dashing young officer. — 小説の主人公は颯爽とした若い将校だ。",
+      "He looked dashing in his navy-blue suit. — 彼は紺色のスーツ姿が実に格好よかった。"
+    ],
+    "en": [
+      "The novel's hero is a dashing young officer.",
+      "He looked dashing in his navy-blue suit."
+    ]
+  }
 }
 ]
