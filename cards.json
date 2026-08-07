@@ -1846,6 +1846,100 @@
     "The yen depreciated against the dollar last year.",
     "Computers depreciate rapidly as technology advances."
   ]
+},
+{
+  "id": "factoid",
+  "sid": "2026-00027",
+  "word": "factoid",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "media",
+    "journalism"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfæk.tɔɪd/",
+      "uk": "/ˈfæk.tɔɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（本来）事実のように広まった作り話・誤情報",
+      "（現在では）ちょっとした雑学・豆知識"
+    ],
+    "en": [
+      "originally, a false statement presented as fact and repeated until widely believed",
+      "now often, a brief and interesting piece of trivia"
+    ]
+  },
+  "nuance": {
+    "ja": "1973年にアメリカの作家ノーマン・メイラーが『事実のように流通する虚偽』という意味で造語した。しかし現在では『雑学』『トリビア』という意味で使われることが非常に多く、辞書でも両義が認められている。",
+    "en": "Coined by Norman Mailer in 1973 to mean an invented fact that gains credibility through repetition. Today it is often used simply to mean a short piece of trivia."
+  },
+  "etymology": {
+    "ja": "fact + -oid（〜のようなもの）。『事実らしきもの』という皮肉を込めた造語。",
+    "en": "From fact + -oid ('resembling'). Literally 'something that looks like a fact.'"
+  },
+  "synonyms": [
+    {
+      "word": "trivia",
+      "note": {
+        "ja": "現在の factoid に最も近い一般的意味。",
+        "en": "The modern mainstream meaning."
+      }
+    },
+    {
+      "word": "urban legend",
+      "note": {
+        "ja": "都市伝説。factoid より物語性が強い。",
+        "en": "Usually refers to a widely circulated story."
+      }
+    },
+    {
+      "word": "misinformation",
+      "note": {
+        "ja": "誤情報全般。",
+        "en": "General term for false information."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Faktoid",
+    "it": "fattoide",
+    "fr": "factoïde",
+    "es": "factoide"
+  },
+  "collocations": {
+    "ja": [
+      "interesting factoid — 面白い豆知識",
+      "historical factoid — 歴史に関する雑学",
+      "popular factoid — 広く信じられている俗説",
+      "repeat a factoid — ファクトイドを繰り返す",
+      "debunk a factoid — ファクトイドを論破する"
+    ],
+    "en": [
+      "interesting factoid",
+      "historical factoid",
+      "popular factoid",
+      "repeat a factoid",
+      "debunk a factoid"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The article was full of interesting factoids about ancient Rome. — その記事は古代ローマに関する面白い豆知識でいっぱいだった。",
+      "Many people still believe the factoid, although it has been thoroughly debunked. — その俗説は完全に否定されているにもかかわらず、今なお多くの人に信じられている。"
+    ],
+    "en": [
+      "The article was full of interesting factoids about ancient Rome.",
+      "Many people still believe the factoid, although it has been thoroughly debunked."
+    ]
+  }
 }
 }
 ]
