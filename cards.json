@@ -14793,5 +14793,140 @@
       "Her presence seemed to inhibit the conversation."
     ]
   }
+},
+{
+  "id": "hinder",
+  "sid": "2026-00130",
+  "word": "hinder",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "obstruction",
+    "progress",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "hinder – hindered – hindered"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈhɪndər/",
+      "uk": "/ˈhɪndə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "妨げる、邪魔する",
+      "進行・達成を困難にする",
+      "物事が円滑に進むのを阻害する"
+    ],
+    "en": [
+      "to make it more difficult for something to happen or progress",
+      "to delay or obstruct an action, process, or achievement",
+      "to create difficulties that prevent smooth progress"
+    ]
+  },
+  "nuance": {
+    "ja": "何かを完全に止めるのではなく、障害や不利な条件によって進行・達成を難しくしたり遅らせたりすることを表す。progress, development, communication, efforts などとよく使われる。prevent より弱く、impede と近いが、hinder の方が日常的で広く使える。inhibit が活動や反応そのものを抑制するのに対し、hinder は外的な障害によって前進しにくくするというイメージが強い。",
+    "en": "Hinder means to make progress, action, or achievement more difficult, usually by creating an obstacle or disadvantage. It does not necessarily stop something completely. It is weaker than prevent and close to impede, though hinder is broader and more common in general usage. Compared with inhibit, hinder more often suggests an external obstacle rather than suppression of the activity itself."
+  },
+  "minimal": {
+    "ja": [
+      "hinder：進行・達成をやりにくくする、妨げる。",
+      "inhibit：活動・成長・反応そのものを抑制する。",
+      "impede：進行・移動を遅らせる、妨げる。より硬い。",
+      "hamper：制約や不便によって活動をやりにくくする。",
+      "obstruct：物理的・比喩的に進路を塞ぐ。",
+      "prevent：何かが起こるのを防ぐ、阻止する。"
+    ],
+    "en": [
+      "hinder means to make progress or achievement more difficult.",
+      "inhibit means to restrain or reduce an activity, process, or response.",
+      "impede means to slow or obstruct progress, often in more formal usage.",
+      "hamper means to make activity difficult through restrictions or inconvenience.",
+      "obstruct means to block a path or process.",
+      "prevent means to stop something from happening."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 hindrian『妨げる、遅らせる』に由来し、hind『後ろの、背後の』と同系。原義には『後ろに引き止める、前へ進ませない』という空間的なイメージがある。そこから現代の『進行・達成を妨げる』という意味が発達した。",
+    "en": "From Old English hindrian ('to hinder, delay'), related to hind ('at the back, rear'). The underlying spatial image is of holding something back or preventing it from moving forward, which developed into the modern sense of obstructing progress or achievement."
+  },
+  "synonyms": [
+    {
+      "word": "impede",
+      "note": {
+        "ja": "進行・移動を妨げる意味で非常に近いが、hinder より硬く、抽象的な文脈で使われやすい。",
+        "en": "Very close in meaning but generally more formal and often used for abstract processes or movement."
+      }
+    },
+    {
+      "word": "hamper",
+      "note": {
+        "ja": "制約・不便・不足などによって活動をしにくくするニュアンスが強い。",
+        "en": "Often suggests that restrictions, shortages, or practical difficulties make activity harder."
+      }
+    },
+    {
+      "word": "obstruct",
+      "note": {
+        "ja": "物理的に道を塞ぐ意味が強いが、捜査・司法・手続などを妨害する比喩用法も多い。",
+        "en": "Strongly suggests blocking a path physically, but is also common figuratively for interfering with investigations, justice, or procedures."
+      }
+    },
+    {
+      "word": "inhibit",
+      "note": {
+        "ja": "活動・反応・成長などの強さや速度そのものを抑える。hinder はより外的な障害を連想しやすい。",
+        "en": "Focuses more on suppressing the activity or response itself, whereas hinder more readily suggests external obstacles."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "behindern / erschweren",
+    "it": "ostacolare / impedire",
+    "fr": "entraver / gêner",
+    "es": "obstaculizar / dificultar"
+  },
+  "collocations": {
+    "ja": [
+      "hinder progress — 進展を妨げる",
+      "hinder development — 発展を妨げる",
+      "hinder communication — コミュニケーションを妨げる",
+      "hinder economic growth — 経済成長を阻害する",
+      "hinder efforts — 努力を妨げる",
+      "hinder access — アクセスを妨げる",
+      "severely hinder — 大きく妨げる",
+      "be hindered by something — ～によって妨げられる"
+    ],
+    "en": [
+      "hinder progress",
+      "hinder development",
+      "hinder communication",
+      "hinder economic growth",
+      "hinder efforts",
+      "hinder access",
+      "severely hinder",
+      "be hindered by something"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Poor infrastructure continues to hinder economic growth. — 不十分なインフラが経済成長を引き続き妨げている。",
+      "Heavy rain hindered rescue efforts. — 大雨が救助活動を妨げた。",
+      "Language barriers can hinder effective communication. — 言語の壁は効果的なコミュニケーションを妨げることがある。",
+      "The investigation was hindered by a lack of reliable evidence. — 信頼できる証拠の不足によって捜査は難航した。",
+      "Excessive bureaucracy may hinder innovation. — 過度な官僚主義はイノベーションの進展を妨げる可能性がある。"
+    ],
+    "en": [
+      "Poor infrastructure continues to hinder economic growth.",
+      "Heavy rain hindered rescue efforts.",
+      "Language barriers can hinder effective communication.",
+      "The investigation was hindered by a lack of reliable evidence.",
+      "Excessive bureaucracy may hinder innovation."
+    ]
+  }
 }
 ]
