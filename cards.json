@@ -3910,5 +3910,1239 @@
       "He was admired for his calm and gentlemanly manner."
     ]
   }
+},
+{
+  "id": "introvert",
+  "sid": "2026-00046",
+  "word": "introvert",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "personality",
+    "psychology"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɪntrəvɜːrt/",
+      "uk": "/ˈɪntrəvɜːt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "内向的な人",
+      "一人または少人数で過ごすことを好む人"
+    ],
+    "en": [
+      "a person who tends to be inward-looking and reserved",
+      "a person who generally prefers quieter or less socially stimulating environments"
+    ]
+  },
+  "nuance": {
+    "ja": "必ずしも『内気な人』『人付き合いが苦手な人』という意味ではない。社交的に振る舞える introvert もおり、一般には外部からの強い刺激より静かな環境や一人の時間を好む性向を指す。",
+    "en": "An introvert is not necessarily shy or socially anxious. The word primarily describes a tendency toward inward focus and preference for lower levels of social stimulation."
+  },
+  "minimal": {
+    "ja": [
+      "introvert：内向的な性向を持つ人。",
+      "shy person：人前で緊張・遠慮しやすい人。",
+      "reserved person：感情や考えをあまり表に出さない人。",
+      "loner：他人との付き合いを避け、一人でいることが多い人。"
+    ],
+    "en": [
+      "an introvert tends toward inward focus and lower social stimulation.",
+      "a shy person feels nervous or uncomfortable socially.",
+      "a reserved person does not readily reveal thoughts or feelings.",
+      "a loner habitually spends time alone and may avoid company."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 intro-（内へ）＋ vertere（向ける、回す）に由来し、文字通り『内側へ向ける』という構造を持つ。心理学では20世紀初頭にカール・ユングが introversion / extraversion の概念を体系化した。",
+    "en": "From Latin intro- ('inward') and vertere ('to turn'). The psychological concepts of introversion and extraversion were famously developed by Carl Jung in the early 20th century."
+  },
+  "synonyms": [
+    {
+      "word": "reserved person",
+      "note": {
+        "ja": "感情を表に出さないことに重点。",
+        "en": "Emphasizes restraint in expressing thoughts and feelings."
+      }
+    },
+    {
+      "word": "homebody",
+      "note": {
+        "ja": "家で過ごすことを好む人。性格そのものとは限らない。",
+        "en": "Someone who enjoys staying at home; not necessarily an introvert."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Introvertierter",
+    "it": "introverso",
+    "fr": "introverti",
+    "es": "introvertido"
+  },
+  "collocations": {
+    "ja": [
+      "a natural introvert — 生来の内向型",
+      "a quiet introvert — 物静かな内向型",
+      "identify as an introvert — 自分を内向型だと考える",
+      "become more of an introvert — より内向的になる"
+    ],
+    "en": [
+      "a natural introvert",
+      "a quiet introvert",
+      "identify as an introvert",
+      "become more of an introvert"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He's an introvert, but he's perfectly comfortable speaking in public. — 彼は内向型だが、人前で話すことにはまったく抵抗がない。",
+      "As an introvert, she enjoys spending quiet evenings alone with a book. — 内向型の彼女は、本を読みながら静かに一人で過ごす夜を好む。"
+    ],
+    "en": [
+      "He's an introvert, but he's perfectly comfortable speaking in public.",
+      "As an introvert, she enjoys spending quiet evenings alone with a book."
+    ]
+  }
+},
+{
+  "id": "extrovert",
+  "sid": "2026-00047",
+  "word": "extrovert",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "personality",
+    "psychology"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈekstrəvɜːrt/",
+      "uk": "/ˈekstrəvɜːt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "外向的な人",
+      "人との交流や外部からの刺激を好む人"
+    ],
+    "en": [
+      "an outgoing and socially oriented person",
+      "a person who tends to seek stimulation and interaction with others"
+    ]
+  },
+  "nuance": {
+    "ja": "単に『話好き』『社交上手』という意味ではなく、外部の人や活動に関心・刺激を求める性向を表す。extrovert でも人見知りすることはあり、社交能力そのものを意味するわけではない。",
+    "en": "Extrovert describes a general orientation toward external stimulation and social interaction, not necessarily exceptional social skill or constant talkativeness."
+  },
+  "minimal": {
+    "ja": [
+      "extrovert：外部の人・活動・刺激を好む外向型の人。",
+      "outgoing person：気さくで人付き合いに積極的な人。",
+      "sociable person：人と一緒にいることを好む人。",
+      "talkative person：単によく話す人。"
+    ],
+    "en": [
+      "an extrovert tends to seek external and social stimulation.",
+      "an outgoing person is socially confident and friendly.",
+      "a sociable person enjoys the company of others.",
+      "a talkative person simply talks a lot."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 extra-（外へ）＋ vertere（向ける、回す）に基づく語で、文字通り『外側へ向ける』という構造。心理学ではユングの extraversion の概念と深く結び付いている。なお専門的な心理学では extravert / extraversion という綴りも重要。",
+    "en": "Based on Latin extra- ('outside') and vertere ('to turn'). In psychology, extravert and extraversion are also important spellings associated with Jung's terminology."
+  },
+  "synonyms": [
+    {
+      "word": "outgoing person",
+      "note": {
+        "ja": "より日常的で、人付き合いへの積極性を表す。",
+        "en": "A more everyday expression emphasizing social confidence."
+      }
+    },
+    {
+      "word": "sociable person",
+      "note": {
+        "ja": "人との交流を好むことを強調。",
+        "en": "Emphasizes enjoying other people's company."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Extrovertierter",
+    "it": "estroverso",
+    "fr": "extraverti",
+    "es": "extrovertido"
+  },
+  "collocations": {
+    "ja": [
+      "a natural extrovert — 生来の外向型",
+      "a confident extrovert — 自信に満ちた外向型",
+      "identify as an extrovert — 自分を外向型だと考える",
+      "a typical extrovert — 典型的な外向型"
+    ],
+    "en": [
+      "a natural extrovert",
+      "a confident extrovert",
+      "identify as an extrovert",
+      "a typical extrovert"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She's an extrovert who enjoys meeting new people. — 彼女は新しい人と知り合うのが好きな外向型だ。",
+      "Being an extrovert doesn't necessarily mean being a good public speaker. — 外向型だからといって、必ずしも人前で話すのが上手とは限らない。"
+    ],
+    "en": [
+      "She's an extrovert who enjoys meeting new people.",
+      "Being an extrovert doesn't necessarily mean being a good public speaker."
+    ]
+  }
+},
+{
+  "id": "ambivert",
+  "sid": "2026-00048",
+  "word": "ambivert",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "personality",
+    "psychology"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈæmbɪvɜːrt/",
+      "uk": "/ˈæmbɪvɜːt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "内向性と外向性の両方を持つ人",
+      "状況によって内向的にも外向的にも振る舞う人",
+      "内向型と外向型の中間に位置する人"
+    ],
+    "en": [
+      "a person who has both introverted and extroverted tendencies",
+      "a person whose personality lies between introversion and extroversion"
+    ]
+  },
+  "nuance": {
+    "ja": "introvert と extrovert の単純な中間というだけでなく、状況によって内向的・外向的な特徴の双方を示す人を指す。例えば社交の場を楽しむ一方、一人で過ごして回復する時間も強く必要とする人などに使える。",
+    "en": "An ambivert shows both introverted and extroverted tendencies, often depending on the situation. The term does not necessarily imply an exact fifty-fifty balance."
+  },
+  "minimal": {
+    "ja": [
+      "introvert：内向性が比較的強く、静かな環境や一人の時間を好む。",
+      "ambivert：内向性と外向性の両方を持ち、状況に応じて双方の特徴を示す。",
+      "extrovert：外向性が比較的強く、人との交流や外部からの刺激を好む。",
+      "omnivert：内向性と外向性の両極端を行き来する人を指すことがある非専門的な語。"
+    ],
+    "en": [
+      "an introvert tends more strongly toward inward focus and lower social stimulation.",
+      "an ambivert combines introverted and extroverted tendencies.",
+      "an extrovert tends more strongly toward social and external stimulation.",
+      "omnivert is a nontechnical term sometimes used for someone who shifts between strongly introverted and strongly extroverted behavior."
+    ]
+  },
+  "etymology": {
+    "ja": "ambi-（両方、双方）+ -vert からなる。ambi- はラテン語 ambo（両方）に由来し、ambidextrous（両利きの）などにも見られる。-vert は introvert / extrovert と同じくラテン語 vertere（向ける、回す）に遡る。この語は20世紀前半に心理学者エドマンド・S・コンクリンによって用いられた。",
+    "en": "Formed from ambi- ('both') and -vert. Ambi- ultimately comes from Latin ambo ('both'), while -vert is related to Latin vertere ('to turn'). The term was used in the early 20th century by psychologist Edmund S. Conklin."
+  },
+  "synonyms": [
+    {
+      "word": "moderate",
+      "note": {
+        "ja": "性格特性の程度が中間的であることを表せるが、ambivert の直接の同義語ではない。",
+        "en": "Can describe an intermediate degree of a trait, but is not a direct synonym for ambivert."
+      }
+    },
+    {
+      "word": "middle-of-the-road",
+      "note": {
+        "ja": "一般的に『中間的な』という意味で、心理学的な用語ではない。",
+        "en": "A general expression for being intermediate, not a psychological term."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Ambivertierter",
+    "it": "ambiverso",
+    "fr": "ambiverti",
+    "es": "ambivertido"
+  },
+  "collocations": {
+    "ja": [
+      "a natural ambivert — 生来の両向型",
+      "identify as an ambivert — 自分を両向型だと考える",
+      "an ambivert personality — 両向型の性格",
+      "somewhere between an introvert and an extrovert — 内向型と外向型の中間あたり"
+    ],
+    "en": [
+      "a natural ambivert",
+      "identify as an ambivert",
+      "an ambivert personality",
+      "somewhere between an introvert and an extrovert"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I consider myself an ambivert: I enjoy social gatherings, but I also need plenty of time alone. — 私は自分を両向型だと思っている。人付き合いは好きだが、一人で過ごす時間もたっぷり必要だ。",
+      "As an ambivert, she can enjoy a lively party and still appreciate a quiet evening at home. — 両向型の彼女は、にぎやかなパーティーを楽しむことも、家で静かな夜を過ごすこともできる。"
+    ],
+    "en": [
+      "I consider myself an ambivert: I enjoy social gatherings, but I also need plenty of time alone.",
+      "As an ambivert, she can enjoy a lively party and still appreciate a quiet evening at home."
+    ]
+  }
+},
+{
+  "id": "sociable",
+  "sid": "2026-00049",
+  "word": "sociable",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "personality",
+    "social"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsoʊʃəbəl/",
+      "uk": "/ˈsəʊʃəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "社交的な",
+      "人付き合いのよい",
+      "人と一緒に過ごすことを好む"
+    ],
+    "en": [
+      "friendly and enjoying the company of other people",
+      "willing to talk to and spend time with others"
+    ]
+  },
+  "nuance": {
+    "ja": "人と交流したり一緒に過ごしたりすることを好む性質を表す。extroverted と近いが、sociable は実際の対人態度・人付き合いのよさを表し、心理学的な外向性そのものを意味するわけではない。したがって introvert でも sociable であることは十分あり得る。",
+    "en": "Sociable describes enjoying and readily engaging in social interaction. Unlike extroverted, it does not necessarily describe a broader personality orientation, so an introvert can still be sociable."
+  },
+  "minimal": {
+    "ja": [
+      "sociable：人と付き合ったり交流したりすることを好む。",
+      "outgoing：人に対して積極的で、気さくに話しかける。",
+      "friendly：人に対して親しみやすく好意的。",
+      "extroverted：外部からの刺激や社会的交流を好む外向的な性向。",
+      "gregarious：非常に社交的で、集団の中にいることを特に好む。"
+    ],
+    "en": [
+      "sociable means enjoying the company of other people.",
+      "outgoing emphasizes social confidence and readiness to approach others.",
+      "friendly emphasizes warmth and kindness toward others.",
+      "extroverted describes a broader orientation toward external and social stimulation.",
+      "gregarious suggests a particularly strong liking for being with groups of people."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 sociable、ラテン語 sociabilis（仲間付き合いのできる）に由来し、さらに socius（仲間、同伴者）に遡る。social、society、associate などと同じ語族。",
+    "en": "From French sociable and Latin sociabilis ('companionable'), ultimately from socius ('companion, ally'). Related to social, society, and associate."
+  },
+  "synonyms": [
+    {
+      "word": "outgoing",
+      "note": {
+        "ja": "より積極的で物怖じしない社交性を強調する。",
+        "en": "Emphasizes active and confident social behavior."
+      }
+    },
+    {
+      "word": "gregarious",
+      "note": {
+        "ja": "人の集団に加わることを非常に好む。sociable より強い。",
+        "en": "Stronger than sociable, suggesting a marked preference for being with others."
+      }
+    },
+    {
+      "word": "companionable",
+      "note": {
+        "ja": "一緒にいて感じがよく、付き合いやすい。",
+        "en": "Suggests being pleasant and easy to spend time with."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gesellig",
+    "it": "socievole",
+    "fr": "sociable",
+    "es": "sociable"
+  },
+  "collocations": {
+    "ja": [
+      "a sociable person — 社交的な人",
+      "a sociable personality — 社交的な性格",
+      "naturally sociable — 生来社交的な",
+      "friendly and sociable — 親しみやすく社交的な",
+      "become more sociable — より社交的になる"
+    ],
+    "en": [
+      "a sociable person",
+      "a sociable personality",
+      "naturally sociable",
+      "friendly and sociable",
+      "become more sociable"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She's naturally sociable and enjoys meeting new people. — 彼女は生来社交的で、新しい人と知り合うことを楽しんでいる。",
+      "Although he's an introvert, he can be very sociable in small groups. — 彼は内向型だが、少人数の集まりではとても社交的になることがある。"
+    ],
+    "en": [
+      "She's naturally sociable and enjoys meeting new people.",
+      "Although he's an introvert, he can be very sociable in small groups."
+    ]
+  }
+},
+{
+  "id": "gregarious",
+  "sid": "2026-00050",
+  "word": "gregarious",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "personality",
+    "social",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɡrɪˈɡeriəs/",
+      "uk": "/ɡrɪˈɡeəriəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "非常に社交的な",
+      "人付き合いが好きな",
+      "群れを好む、群生する"
+    ],
+    "en": [
+      "fond of being with other people",
+      "very sociable and enjoying company",
+      "living or growing in groups"
+    ]
+  },
+  "nuance": {
+    "ja": "人については sociable より強く、『人と一緒にいることを積極的に好む』というニュアンスを持つ。単に人当たりがよいというより、人の集まりや交流そのものを好む性格を表す。また動物について『群居性の』、植物について『群生する』という原義に近い用法もある。",
+    "en": "Stronger than sociable in suggesting an active preference for the company of others. It can also describe animals that live in groups or plants that grow in clusters."
+  },
+  "minimal": {
+    "ja": [
+      "friendly：他人に対して親しみやすく好意的。",
+      "sociable：人付き合いや交流を好む。",
+      "gregarious：特に人の集まりや仲間と一緒にいることを強く好む。",
+      "outgoing：物怖じせず積極的に人と関わる。",
+      "extroverted：心理的傾向として外部からの刺激や交流を好む。"
+    ],
+    "en": [
+      "friendly emphasizes warmth toward other people.",
+      "sociable means enjoying social interaction.",
+      "gregarious suggests a particularly strong liking for company and groups.",
+      "outgoing emphasizes socially confident and active behavior.",
+      "extroverted describes a broader orientation toward external stimulation."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 gregarius（群れに属する）に由来し、その語根は grex（属格 gregis）『群れ、集団』。もともとは動物が群れを作る性質を表し、そこから人間について『仲間と一緒にいることを好む、社交的な』という意味が発達した。aggregate、congregate、segregate などにも同じラテン語 grex / gregis が関係している。",
+    "en": "From Latin gregarius ('belonging to a flock or herd'), from grex, genitive gregis ('flock, herd, group'). The same Latin root is found historically in words such as aggregate, congregate, and segregate."
+  },
+  "synonyms": [
+    {
+      "word": "sociable",
+      "note": {
+        "ja": "最も近い一般的な語。gregarious の方が社交を好む度合いが強い。",
+        "en": "The closest everyday synonym; gregarious usually suggests a stronger preference for company."
+      }
+    },
+    {
+      "word": "outgoing",
+      "note": {
+        "ja": "人に積極的に話しかけるような外向的態度を強調。",
+        "en": "Emphasizes socially confident and proactive behavior."
+      }
+    },
+    {
+      "word": "companionable",
+      "note": {
+        "ja": "一緒にいて感じがよく、付き合いやすいことを強調。",
+        "en": "Emphasizes being pleasant company."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gesellig",
+    "it": "socievole",
+    "fr": "grégaire",
+    "es": "gregario"
+  },
+  "collocations": {
+    "ja": [
+      "a gregarious person — とても社交的な人",
+      "a gregarious personality — 社交好きな性格",
+      "naturally gregarious — 生来とても社交的な",
+      "gregarious animals — 群居性の動物",
+      "a highly gregarious species — 非常に群居性の強い種"
+    ],
+    "en": [
+      "a gregarious person",
+      "a gregarious personality",
+      "naturally gregarious",
+      "gregarious animals",
+      "a highly gregarious species"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He's naturally gregarious and seems happiest when surrounded by friends. — 彼は生来とても社交的で、友人たちに囲まれているときが一番幸せそうだ。",
+      "Chimpanzees are highly gregarious animals that live in complex social groups. — チンパンジーは非常に群居性が高く、複雑な社会集団を作って暮らす動物である。"
+    ],
+    "en": [
+      "He's naturally gregarious and seems happiest when surrounded by friends.",
+      "Chimpanzees are highly gregarious animals that live in complex social groups."
+    ]
+  }
+},
+{
+  "id": "outgoing",
+  "sid": "2026-00051",
+  "word": "outgoing",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "personality",
+    "social"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈaʊtˌɡoʊɪŋ/",
+      "uk": "/ˈaʊtˌɡəʊɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "社交的な",
+      "人付き合いに積極的な",
+      "気さくで外向的な",
+      "退任する、任期を終える"
+    ],
+    "en": [
+      "friendly, socially confident, and willing to talk to people",
+      "leaving a position or office"
+    ]
+  },
+  "nuance": {
+    "ja": "性格について使う場合、人に対して物怖じせず、自分から積極的に関わる態度を表す。sociable が『人付き合いを好む』こと、gregarious が『人の集まりを強く好む』ことに重点を置くのに対し、outgoing は外に向かって積極的に働きかける社交性を強調する。また outgoing president のように『退任する』という別義も重要。",
+    "en": "When describing personality, outgoing emphasizes socially confident and proactive behavior toward other people. Unlike sociable, it focuses less on simply enjoying company and more on readily engaging with others. It also has the separate sense of 'leaving office or a position.'"
+  },
+  "minimal": {
+    "ja": [
+      "friendly：他人に対して親しみやすく好意的。",
+      "sociable：人付き合いや交流を好む。",
+      "gregarious：人の集まりや仲間と一緒にいることを特に好む。",
+      "outgoing：物怖じせず、自分から積極的に人と関わる。",
+      "extroverted：心理的傾向として外部の刺激や交流を好む。"
+    ],
+    "en": [
+      "friendly emphasizes warmth and kindness toward others.",
+      "sociable means enjoying social interaction.",
+      "gregarious suggests a particularly strong liking for company and groups.",
+      "outgoing emphasizes social confidence and readiness to approach others.",
+      "extroverted describes a broader personality orientation toward external stimulation."
+    ]
+  },
+  "etymology": {
+    "ja": "out + going からなる透明な複合語。文字通り『外へ行く』ことから、まず『出ていく、退任する』という意味を持ち、さらに外部へ積極的に向かう性格を表して『社交的な、気さくな』という意味でも使われるようになった。",
+    "en": "Formed from out + going. The literal idea of 'going out' gave rise to senses involving departure and, later, a personality directed readily toward other people."
+  },
+  "synonyms": [
+    {
+      "word": "sociable",
+      "note": {
+        "ja": "人との交流を好むことに重点。",
+        "en": "Emphasizes enjoying social interaction."
+      }
+    },
+    {
+      "word": "gregarious",
+      "note": {
+        "ja": "人の集まりの中にいることを強く好む。",
+        "en": "Suggests a particularly strong preference for company."
+      }
+    },
+    {
+      "word": "extroverted",
+      "note": {
+        "ja": "より心理学的で、外部の刺激を好む性向を表す。",
+        "en": "Describes a broader psychological tendency toward external stimulation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "kontaktfreudig",
+    "it": "espansivo",
+    "fr": "extraverti",
+    "es": "extrovertido"
+  },
+  "collocations": {
+    "ja": [
+      "an outgoing personality — 社交的で積極的な性格",
+      "an outgoing person — 人付き合いに積極的な人",
+      "friendly and outgoing — 親しみやすく社交的な",
+      "naturally outgoing — 生来社交的な",
+      "the outgoing president — 退任する大統領・会長"
+    ],
+    "en": [
+      "an outgoing personality",
+      "an outgoing person",
+      "friendly and outgoing",
+      "naturally outgoing",
+      "the outgoing president"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She's outgoing and finds it easy to start conversations with strangers. — 彼女は社交的で、知らない人にも気軽に話しかけることができる。",
+      "Although he's an introvert, he can appear quite outgoing at work. — 彼は内向型だが、職場ではかなり社交的に見えることがある。",
+      "The outgoing president thanked the staff before leaving office. — 退任する会長は、職を離れる前に職員へ感謝を述べた。"
+    ],
+    "en": [
+      "She's outgoing and finds it easy to start conversations with strangers.",
+      "Although he's an introvert, he can appear quite outgoing at work.",
+      "The outgoing president thanked the staff before leaving office."
+    ]
+  }
+},
+{
+  "id": "reserved",
+  "sid": "2026-00052",
+  "word": "reserved",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "personality",
+    "social"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈzɝːvd/",
+      "uk": "/rɪˈzɜːvd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "控えめな",
+      "感情や考えをあまり表に出さない",
+      "よそよそしいほど物静かな",
+      "予約済みの、確保された"
+    ],
+    "en": [
+      "slow or unwilling to express one's feelings or opinions openly",
+      "quiet and restrained in manner",
+      "kept or set aside for a particular person or purpose"
+    ]
+  },
+  "nuance": {
+    "ja": "性格については、感情・意見・親しさなどをすぐには表に出さない態度を表す。必ずしも shy や introverted ではなく、自信があって社交を好む人でも意図的に reserved に振る舞うことがある。人以外では『予約済みの、確保された』という基本的な意味も重要。",
+    "en": "When describing a person, reserved means restrained in expressing feelings, opinions, or familiarity. A reserved person is not necessarily shy or introverted. The word also commonly means 'kept or set aside for someone or something.'"
+  },
+  "minimal": {
+    "ja": [
+      "reserved：感情や考えをあまり表に出さず、控えめに振る舞う。",
+      "shy：人との交流で恥ずかしさや緊張を感じやすい。",
+      "introverted：内向的で、比較的少ない外部刺激を好む性向。",
+      "quiet：単に物静かで、あまり話さない。",
+      "aloof：意図的によそよそしく、距離を置いている印象。",
+      "outgoing：人に対して物怖じせず積極的に関わる。"
+    ],
+    "en": [
+      "reserved emphasizes restraint in revealing feelings or thoughts.",
+      "shy implies nervousness or self-consciousness in social situations.",
+      "introverted describes a broader preference for lower levels of external stimulation.",
+      "quiet simply means not talking very much.",
+      "aloof suggests emotional distance or deliberate detachment.",
+      "outgoing emphasizes socially confident and proactive behavior."
+    ]
+  },
+  "etymology": {
+    "ja": "reserve の過去分詞から。reserve は古フランス語 reserver を経てラテン語 reservare（取っておく、保存する）に由来し、re-（後ろに）＋ servare（保つ、守る）からなる。『取っておく』から、感情などを表に出さず『内に取っておく』という人物描写の意味が発達した。",
+    "en": "From the past participle of reserve, via Old French reserver from Latin reservare ('to keep back, preserve'), formed from re- and servare ('to keep, preserve'). The personality sense developed from the idea of holding something back."
+  },
+  "synonyms": [
+    {
+      "word": "reticent",
+      "note": {
+        "ja": "特に話したり情報を明かしたりすることを控える。reserved より硬い語。",
+        "en": "More formal, especially emphasizing reluctance to speak or disclose information."
+      }
+    },
+    {
+      "word": "restrained",
+      "note": {
+        "ja": "感情や行動を意識的に抑制していることを強調。",
+        "en": "Emphasizes deliberate control of emotion or behavior."
+      }
+    },
+    {
+      "word": "quiet",
+      "note": {
+        "ja": "単に口数が少ないことを表す、より一般的な語。",
+        "en": "A broader and more neutral word for not speaking much."
+      }
+    },
+    {
+      "word": "withdrawn",
+      "note": {
+        "ja": "他人との交流から引きこもる傾向があり、reserved より強い。",
+        "en": "Stronger, suggesting retreat from social interaction."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "zurückhaltend",
+    "it": "riservato",
+    "fr": "réservé",
+    "es": "reservado"
+  },
+  "collocations": {
+    "ja": [
+      "a reserved person — 控えめな人",
+      "a reserved manner — 控えめな物腰",
+      "quiet and reserved — 物静かで控えめな",
+      "rather reserved — やや控えめな",
+      "reserved with strangers — 知らない人には控えめな",
+      "a reserved seat — 指定席・予約席"
+    ],
+    "en": [
+      "a reserved person",
+      "a reserved manner",
+      "quiet and reserved",
+      "rather reserved",
+      "reserved with strangers",
+      "a reserved seat"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He seems reserved at first, but becomes quite talkative once you get to know him. — 彼は最初は控えめに見えるが、親しくなるとかなり話好きになる。",
+      "She's sociable but rather reserved about her private life. — 彼女は社交的だが、私生活についてはかなり口が堅い。",
+      "These seats are reserved for elderly passengers. — これらの席は高齢の乗客のために確保されている。"
+    ],
+    "en": [
+      "He seems reserved at first, but becomes quite talkative once you get to know him.",
+      "She's sociable but rather reserved about her private life.",
+      "These seats are reserved for elderly passengers."
+    ]
+  }
+},
+{
+  "id": "reticent",
+  "sid": "2026-00053",
+  "word": "reticent",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "personality",
+    "formal",
+    "communication"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈretɪsənt/",
+      "uk": "/ˈretɪsənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "口数の少ない",
+      "自分の考えや感情を進んで話さない",
+      "情報を明かすことに控えめな"
+    ],
+    "en": [
+      "not willing to talk freely about one's thoughts or feelings",
+      "reluctant to reveal information or express an opinion"
+    ]
+  },
+  "nuance": {
+    "ja": "単に無口なのではなく、『言えることはあるが、あえて多くを語らない』という抑制・ためらいを含む。reserved が人物の物腰全般を表せるのに対し、reticent は特に発言・情報開示・感情表現を控えることに焦点がある。be reticent about ... の形もよく使われる。",
+    "en": "Reticent suggests holding back from speaking or revealing thoughts, feelings, or information. Unlike reserved, which can describe a person's general manner, reticent focuses particularly on reluctance to communicate or disclose."
+  },
+  "minimal": {
+    "ja": [
+      "reticent：考え・感情・情報などを進んで口にしない。",
+      "reserved：感情や親しさを表に出さず、全般的に控えめな物腰。",
+      "taciturn：習慣的に口数が非常に少ない。",
+      "reluctant：何かをすること自体に気が進まない。",
+      "secretive：意図的に情報を隠そうとする。"
+    ],
+    "en": [
+      "reticent emphasizes reluctance to speak or disclose.",
+      "reserved describes a generally restrained manner.",
+      "taciturn describes someone habitually inclined to say very little.",
+      "reluctant means unwilling or hesitant to do something.",
+      "secretive suggests deliberately concealing information."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 reticēre（黙っている、口をつぐむ）に由来する。re- ＋ tacēre（黙っている）と関係し、tacit（暗黙の）、taciturn（無口な）と同じ語族。『言わずにおく』という語源的イメージが現在の意味にもよく残っている。",
+    "en": "From Latin reticere ('to keep silent, say nothing'), related to tacere ('to be silent'). It belongs to the same word family as tacit and taciturn."
+  },
+  "synonyms": [
+    {
+      "word": "reserved",
+      "note": {
+        "ja": "より広く、人物の控えめな態度・物腰全般を表す。",
+        "en": "Broader, describing a generally restrained manner."
+      }
+    },
+    {
+      "word": "taciturn",
+      "note": {
+        "ja": "生来・習慣的に非常に口数が少ないことを表す。",
+        "en": "Suggests a habitual tendency to speak very little."
+      }
+    },
+    {
+      "word": "tight-lipped",
+      "note": {
+        "ja": "情報を明かそうとせず口を閉ざしている。より口語的。",
+        "en": "More informal and often suggests refusing to reveal information."
+      }
+    },
+    {
+      "word": "uncommunicative",
+      "note": {
+        "ja": "コミュニケーションをあまり取ろうとしない。",
+        "en": "Suggests unwillingness or inability to communicate freely."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "wortkarg",
+    "it": "reticente",
+    "fr": "réticent",
+    "es": "reticente"
+  },
+  "collocations": {
+    "ja": [
+      "be reticent about something — ～について多くを語りたがらない",
+      "reticent about his past — 自分の過去について口が重い",
+      "reticent about expressing an opinion — 意見を述べることに控えめな",
+      "remain reticent — 多くを語らないままでいる",
+      "naturally reticent — 生来口数が少ない"
+    ],
+    "en": [
+      "be reticent about something",
+      "reticent about his past",
+      "reticent about expressing an opinion",
+      "remain reticent",
+      "naturally reticent"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He was reticent about the reasons for his resignation. — 彼は辞任の理由について多くを語ろうとしなかった。",
+      "She is usually reticent about expressing her political views at work. — 彼女は普段、職場で自分の政治的見解を述べることには控えめだ。",
+      "The company remained reticent about the details of the negotiations. — 会社は交渉の詳細について多くを明かさなかった。"
+    ],
+    "en": [
+      "He was reticent about the reasons for his resignation.",
+      "She is usually reticent about expressing her political views at work.",
+      "The company remained reticent about the details of the negotiations."
+    ]
+  }
+},
+{
+  "id": "taciturn",
+  "sid": "2026-00054",
+  "word": "taciturn",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "personality",
+    "formal",
+    "literary"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈtæsɪtɝːn/",
+      "uk": "/ˈtæsɪtɜːn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "無口な",
+      "寡黙な",
+      "習慣的に口数の少ない"
+    ],
+    "en": [
+      "habitually saying very little",
+      "inclined to be silent or uncommunicative"
+    ]
+  },
+  "nuance": {
+    "ja": "一時的に黙っているのではなく、その人の性格・習慣として口数が少ないことを表す硬い語。必ずしも内気・不機嫌という意味ではなく、単に多くを語らない人物にも使える。reticent が『特定の話題について話したがらない』ことにも使えるのに対し、taciturn は人物の恒常的な寡黙さを強く表す。",
+    "en": "A formal word describing someone who habitually speaks very little. It does not necessarily imply shyness or hostility. Unlike reticent, which can refer to reluctance to discuss a particular subject, taciturn usually describes a person's characteristic manner."
+  },
+  "minimal": {
+    "ja": [
+      "quiet：単に物静かで、あまり話さない。",
+      "reserved：感情や考えを表に出すことに控えめ。",
+      "reticent：考え・感情・情報などを進んで話そうとしない。",
+      "taciturn：性格・習慣として非常に口数が少ない。",
+      "tight-lipped：特定の情報を意図的に明かそうとしない。"
+    ],
+    "en": [
+      "quiet is the general word for not talking much.",
+      "reserved describes a restrained manner and reluctance to reveal feelings.",
+      "reticent emphasizes reluctance to speak or disclose information.",
+      "taciturn describes a habitual tendency to say very little.",
+      "tight-lipped suggests deliberately refusing to reveal information."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 taciturnus（寡黙な、沈黙した）に由来し、さらに tacēre（黙っている）に遡る。tacit（暗黙の）や reticent と同じ語族である。tacit が『言葉にされていない』状態を表すのに対し、taciturn は『言葉をあまり発しない人』を表す。",
+    "en": "From Latin taciturnus ('silent, not talkative'), ultimately from tacere ('to be silent'). It belongs to the same word family as tacit and is historically related to reticent."
+  },
+  "synonyms": [
+    {
+      "word": "reticent",
+      "note": {
+        "ja": "話したり情報を明かしたりすることへのためらいを強調。",
+        "en": "Emphasizes reluctance to speak or disclose."
+      }
+    },
+    {
+      "word": "reserved",
+      "note": {
+        "ja": "口数だけでなく感情表現や物腰全般の控えめさを表す。",
+        "en": "Describes broader restraint in manner and emotional expression."
+      }
+    },
+    {
+      "word": "laconic",
+      "note": {
+        "ja": "発言そのものが非常に簡潔で、少ない言葉で済ませることを強調。",
+        "en": "Emphasizes using very few words, often in a concise or pointed way."
+      }
+    },
+    {
+      "word": "uncommunicative",
+      "note": {
+        "ja": "他人とのコミュニケーションをあまり取ろうとしない。",
+        "en": "Suggests unwillingness or difficulty in communicating."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "wortkarg",
+    "it": "taciturno",
+    "fr": "taciturne",
+    "es": "taciturno"
+  },
+  "collocations": {
+    "ja": [
+      "a taciturn man — 寡黙な男性",
+      "a taciturn personality — 無口な性格",
+      "naturally taciturn — 生来寡黙な",
+      "remain taciturn — 黙ったままでいる",
+      "a taciturn colleague — 無口な同僚"
+    ],
+    "en": [
+      "a taciturn man",
+      "a taciturn personality",
+      "naturally taciturn",
+      "remain taciturn",
+      "a taciturn colleague"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He was a taciturn man who rarely spoke unless he had something important to say. — 彼は寡黙な男で、何か重要なことがない限りめったに口を開かなかった。",
+      "The normally taciturn engineer surprised everyone with a long and passionate speech. — 普段は寡黙なその技術者が長く熱のこもった演説をして、皆を驚かせた。"
+    ],
+    "en": [
+      "He was a taciturn man who rarely spoke unless he had something important to say.",
+      "The normally taciturn engineer surprised everyone with a long and passionate speech."
+    ]
+  }
+},
+{
+  "id": "laconic",
+  "sid": "2026-00055",
+  "word": "laconic",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "personality",
+    "communication",
+    "literary"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ləˈkɑːnɪk/",
+      "uk": "/ləˈkɒnɪk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "簡潔な",
+      "言葉数の少ない",
+      "ぶっきらぼうなほど簡潔な"
+    ],
+    "en": [
+      "using very few words",
+      "brief and concise in speech or writing",
+      "expressing much with very few words"
+    ]
+  },
+  "nuance": {
+    "ja": "単に『短い』のではなく、余計な言葉を使わず、少ない言葉で要点を伝える話し方・文体を表す。人についても発言についても使える。文脈によっては『簡潔で格好いい』という肯定的な響きを持つ一方、『そっけない、ぶっきらぼう』という印象になることもある。",
+    "en": "Laconic describes speech or writing that uses very few words, often with deliberate concision. It can suggest admirable brevity and wit, but in some contexts it may sound abrupt or unfriendly."
+  },
+  "minimal": {
+    "ja": [
+      "concise：無駄がなく簡潔。一般に肯定的。",
+      "terse：非常に簡潔で、しばしばぶっきらぼう・不愛想。",
+      "laconic：意図的にごく少ない言葉だけを使う簡潔な話し方。",
+      "taciturn：性格・習慣としてそもそも口数が少ない。",
+      "reticent：考え・感情・情報を明かすことを控える。"
+    ],
+    "en": [
+      "concise means brief but complete and is usually positive.",
+      "terse means very brief and often suggests abruptness.",
+      "laconic emphasizes deliberate use of very few words.",
+      "taciturn describes a person who habitually speaks very little.",
+      "reticent emphasizes reluctance to speak or disclose information."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 Lakōnikos（ラコニアの、スパルタ人の）に由来する。Laconia（ラコニア）は古代スパルタのあった地域で、スパルタ人が簡潔で機知に富んだ物言いで知られていたことから、『言葉数が少なく簡潔な』という意味になった。",
+    "en": "From Greek Lakonikos ('Laconian, Spartan'), referring to Laconia, the region of ancient Sparta. Spartans were famous for their brief and pointed manner of speaking, giving rise to the modern sense."
+  },
+  "synonyms": [
+    {
+      "word": "concise",
+      "note": {
+        "ja": "無駄を省きながら必要な情報を十分に伝えることを強調。",
+        "en": "Emphasizes brevity without sacrificing necessary information."
+      }
+    },
+    {
+      "word": "terse",
+      "note": {
+        "ja": "短くぶっきらぼうな印象を伴うことが多い。",
+        "en": "Often suggests abrupt or unfriendly brevity."
+      }
+    },
+    {
+      "word": "succinct",
+      "note": {
+        "ja": "要点を短く明確にまとめていることを表す。",
+        "en": "Suggests clear and compact expression of the essential points."
+      }
+    },
+    {
+      "word": "taciturn",
+      "note": {
+        "ja": "発言の簡潔さではなく、人物が習慣的に無口であることを表す。",
+        "en": "Describes habitual silence rather than the concise form of particular remarks."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "lakonisch",
+    "it": "laconico",
+    "fr": "laconique",
+    "es": "lacónico"
+  },
+  "collocations": {
+    "ja": [
+      "a laconic reply — 簡潔な返答",
+      "a laconic response — 言葉少なな応答",
+      "a laconic remark — 短く簡潔な発言",
+      "a laconic style — 簡潔な文体",
+      "typically laconic — いかにもその人らしく言葉少なな"
+    ],
+    "en": [
+      "a laconic reply",
+      "a laconic response",
+      "a laconic remark",
+      "a laconic style",
+      "typically laconic"
+    ]
+  },
+  "example": {
+    "ja": [
+      "His laconic reply consisted of just two words: \"Not interested.\" — 彼の簡潔な返答は、たった二語『興味ない』だけだった。",
+      "Known for her laconic style, she rarely used ten words when five would do. — 簡潔な話し方で知られる彼女は、五語で済むところに十語を使うことはめったになかった。"
+    ],
+    "en": [
+      "His laconic reply consisted of just two words: \"Not interested.\"",
+      "Known for her laconic style, she rarely used ten words when five would do."
+    ]
+  }
+},
+{
+  "id": "terse",
+  "sid": "2026-00056",
+  "word": "terse",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "communication",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/tɝːs/",
+      "uk": "/tɜːs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "簡潔な",
+      "言葉を切り詰めた",
+      "そっけない、ぶっきらぼうな"
+    ],
+    "en": [
+      "using very few words",
+      "brief and direct, sometimes in a way that seems unfriendly or impatient"
+    ]
+  },
+  "nuance": {
+    "ja": "発言や文章が非常に短く、余計な言葉を使わないことを表す。ただし concise や succinct と異なり、しばしば『冷たい』『不機嫌そう』『ぶっきらぼう』という印象を伴う。a terse reply のように返答・声明・指示などによく使われる。",
+    "en": "Terse describes language that is very brief and stripped of unnecessary words. Unlike concise or succinct, it often carries a suggestion of abruptness, impatience, or unfriendliness."
+  },
+  "minimal": {
+    "ja": [
+      "concise：必要な内容を無駄なく簡潔に表す。通常は肯定的。",
+      "succinct：要点を短く明確にまとめた。通常は肯定的。",
+      "laconic：意図的にごく少ない言葉しか使わない。人物の話し方にも使いやすい。",
+      "terse：短く切り詰められ、しばしばそっけない・ぶっきらぼう。",
+      "taciturn：発言ではなく、人物そのものが習慣的に無口。"
+    ],
+    "en": [
+      "concise means brief and complete, usually with positive connotations.",
+      "succinct emphasizes clear expression in few words.",
+      "laconic emphasizes deliberate use of very few words.",
+      "terse suggests extreme brevity, often with abruptness or coldness.",
+      "taciturn describes a person who habitually speaks very little."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 tersus（磨かれた、きれいにした）に由来し、tergēre（拭う、清める）の過去分詞形に関係する。もともとは文章について『磨き上げられた、すっきりした』という肯定的な意味だったが、やがて『余計なものを削ぎ落とした簡潔な』、さらに『ぶっきらぼうなほど短い』という意味へ発展した。",
+    "en": "From Latin tersus ('wiped clean, polished'), related to tergere ('to wipe'). It originally suggested polished or neat expression and later developed the sense of language stripped down to very few words."
+  },
+  "synonyms": [
+    {
+      "word": "laconic",
+      "note": {
+        "ja": "言葉数の少なさを強調。terse ほど不愛想とは限らない。",
+        "en": "Emphasizes few words without necessarily suggesting unfriendliness."
+      }
+    },
+    {
+      "word": "concise",
+      "note": {
+        "ja": "無駄なく簡潔であることを肯定的に評価する語。",
+        "en": "Usually positively describes efficient brevity."
+      }
+    },
+    {
+      "word": "succinct",
+      "note": {
+        "ja": "要点が短く明瞭にまとまっていることを強調。",
+        "en": "Emphasizes compact and clear expression."
+      }
+    },
+    {
+      "word": "curt",
+      "note": {
+        "ja": "短いうえに無愛想・失礼というニュアンスがさらに強い。",
+        "en": "More strongly suggests rude or discourteous brevity."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "knapp",
+    "it": "conciso",
+    "fr": "laconique",
+    "es": "escueto"
+  },
+  "collocations": {
+    "ja": [
+      "a terse reply — そっけない短い返答",
+      "a terse response — 簡潔でぶっきらぼうな応答",
+      "a terse statement — 短く簡潔な声明",
+      "a terse message — そっけない短文メッセージ",
+      "in terse language — 簡潔な言葉で"
+    ],
+    "en": [
+      "a terse reply",
+      "a terse response",
+      "a terse statement",
+      "a terse message",
+      "in terse language"
+    ]
+  },
+  "example": {
+    "ja": [
+      "His terse reply made it clear that he did not want to continue the conversation. — 彼のそっけない返答から、これ以上会話を続けたくないことは明らかだった。",
+      "The company issued a terse statement denying the allegations. — 会社は疑惑を否定する短い声明を発表した。",
+      "Her email was unusually terse, consisting of only three sentences. — 彼女のメールは珍しくそっけなく、わずか三文しかなかった。"
+    ],
+    "en": [
+      "His terse reply made it clear that he did not want to continue the conversation.",
+      "The company issued a terse statement denying the allegations.",
+      "Her email was unusually terse, consisting of only three sentences."
+    ]
+  }
 }
 ]
