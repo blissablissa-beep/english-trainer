@@ -2835,5 +2835,279 @@
       "Her role was not confined to administrative work."
     ]
   }
+},
+{
+  "id": "confinement",
+  "sid": "2026-00202",
+  "word": "confinement",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "restriction",
+    "isolation",
+    "law",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈfaɪnmənt/",
+      "uk": "/kənˈfaɪnmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "閉じ込められていること、拘束",
+      "一定の場所・範囲への隔離",
+      "自由・行動範囲の制限"
+    ],
+    "en": [
+      "the state of being kept within a limited space",
+      "the act of restricting someone to a particular place",
+      "a condition in which movement or freedom is limited"
+    ]
+  },
+  "nuance": {
+    "ja": "人が部屋・施設・刑務所などから自由に出られない状態を表すほか、より抽象的に行動・範囲が制限されている状態にも使える。solitary confinement『独房監禁』が非常に重要な定型表現。imprisonment より広く、刑罰でなくても病気・安全上の理由・制度上の制限などによる拘束にも使える。confinement to bed のように身体的制約にも使う。",
+    "en": "Confinement refers to being kept within a limited space or under restricted freedom of movement. It is broader than imprisonment and can describe legal detention, medical restriction, isolation, or other forms of physical limitation. The expression solitary confinement is especially common."
+  },
+  "minimal": {
+    "ja": [
+      "confinement：一定の場所・範囲に閉じ込められている状態。",
+      "imprisonment：刑務所などへの投獄・拘禁。",
+      "detention：一定期間の拘留・留置。",
+      "isolation：他者から切り離された状態。",
+      "seclusion：人目・社会から離れた状態。",
+      "restriction：行動・範囲などに制限があること。"
+    ],
+    "en": [
+      "confinement means being restricted to a limited space or condition.",
+      "imprisonment specifically means being held in prison.",
+      "detention means being officially held for a period of time.",
+      "isolation means being separated from others.",
+      "seclusion means being kept away from society or public view.",
+      "restriction is the general concept of limiting movement, scope, or freedom."
+    ]
+  },
+  "etymology": {
+    "ja": "confine + -ment から成る。confine はラテン語 confinare『境界を定める、境界内に置く』に由来し、con- + finis『境界、終わり』から成る。したがって confinement は語源的に『境界の内側に置かれた状態』という意味。",
+    "en": "Formed from confine + -ment. Confine ultimately comes from Latin confinare ('to bound, limit'), related to finis ('boundary, end'). The literal idea behind confinement is therefore the state of being kept within boundaries."
+  },
+  "synonyms": [
+    {
+      "word": "imprisonment",
+      "note": {
+        "ja": "刑罰としての投獄に強い。confinement は病気・隔離・制限などにも広く使える。",
+        "en": "Specifically refers to being kept in prison, while confinement is broader."
+      }
+    },
+    {
+      "word": "detention",
+      "note": {
+        "ja": "警察・入管・学校などによる一時的な拘留・留置に強い。",
+        "en": "Often refers to temporary official custody by police, immigration authorities, schools, or similar institutions."
+      }
+    },
+    {
+      "word": "isolation",
+      "note": {
+        "ja": "他者との接触が断たれていることに重点。confinement は空間的・行動的制限に重点。",
+        "en": "Focuses on separation from others, while confinement emphasizes restriction of movement or space."
+      }
+    },
+    {
+      "word": "seclusion",
+      "note": {
+        "ja": "静かに人目や社会から離れている状態。必ずしも強制的ではない。",
+        "en": "Suggests being away from society or public view and is not necessarily forced."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Einschließung / Haft / Beschränkung",
+    "it": "confinamento / reclusione",
+    "fr": "confinement / réclusion",
+    "es": "confinamiento / reclusión"
+  },
+  "collocations": {
+    "ja": [
+      "solitary confinement — 独房監禁",
+      "confinement to a room — 部屋への拘束",
+      "confinement to bed — ベッドから動けない状態",
+      "period of confinement — 拘束期間",
+      "prolonged confinement — 長期間の拘束",
+      "strict confinement — 厳しい隔離・拘束",
+      "remain in confinement — 拘束されたままでいる",
+      "conditions of confinement — 拘束環境"
+    ],
+    "en": [
+      "solitary confinement",
+      "confinement to a room",
+      "confinement to bed",
+      "period of confinement",
+      "prolonged confinement",
+      "strict confinement",
+      "remain in confinement",
+      "conditions of confinement"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The prisoner spent several weeks in solitary confinement. — その囚人は数週間独房に収容されていた。",
+      "After the surgery, she faced several days of confinement to bed. — 手術後、彼女は数日間ベッドから動けない状態だった。",
+      "Prolonged confinement can have serious psychological effects. — 長期間の拘束は深刻な心理的影響を及ぼすことがある。",
+      "The animals showed signs of stress after extended confinement. — その動物たちは長期間閉じ込められた後、ストレスの兆候を示した。",
+      "The court reviewed the conditions of his confinement. — 裁判所は彼の拘束環境を審査した。"
+    ],
+    "en": [
+      "The prisoner spent several weeks in solitary confinement.",
+      "After the surgery, she faced several days of confinement to bed.",
+      "Prolonged confinement can have serious psychological effects.",
+      "The animals showed signs of stress after extended confinement.",
+      "The court reviewed the conditions of his confinement."
+    ]
+  }
+},
+{
+  "id": "detention",
+  "sid": "2026-00203",
+  "word": "detention",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "law",
+    "restriction",
+    "education",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈtenʃən/",
+      "uk": "/dɪˈtenʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "拘留、留置、勾留",
+      "（入管などでの）収容",
+      "（学校で罰としての）居残り"
+    ],
+    "en": [
+      "the act or state of being officially kept in custody",
+      "the holding of a person by authorities for a period of time",
+      "a school punishment requiring a student to remain after or outside normal class time"
+    ]
+  },
+  "nuance": {
+    "ja": "権限を持つ機関や人物が、ある人を一定期間その場にとどめて自由に立ち去れなくすることを表す。警察・軍・入管などによる拘留・収容で非常によく使われる。imprisonment が刑罰としての投獄を強く示すのに対し、detention は必ずしも有罪判決や刑罰を前提とせず、捜査・審査・安全確保などのための一時的拘束にも使える。また学校英語では detention が『罰としての居残り』を意味する。",
+    "en": "Detention emphasizes being officially held by an authority and prevented from leaving. Unlike imprisonment, it does not necessarily imply a criminal conviction or prison sentence. It is common in police, immigration, military, and legal contexts. In schools, detention also refers to a punishment in which a student must remain at school for an additional period."
+  },
+  "minimal": {
+    "ja": [
+      "detention：当局などが人を一定期間とどめ置くこと。刑罰とは限らない。",
+      "confinement：一定の空間・範囲内に閉じ込められている状態に重点。",
+      "imprisonment：刑務所への投獄・服役に重点。",
+      "custody：当局の管理・監護下にある状態。必ずしも拘禁だけを意味しない。",
+      "arrest：法的権限によって身柄を拘束するという行為・手続。",
+      "incarceration：刑務所・拘置施設への収監を表す硬い語。"
+    ],
+    "en": [
+      "detention emphasizes being officially held for a period of time, not necessarily as punishment.",
+      "confinement emphasizes restriction to a particular space or area.",
+      "imprisonment emphasizes being kept in prison, usually as punishment.",
+      "custody emphasizes being under the control or care of an authority.",
+      "arrest is the act of legally taking someone into custody.",
+      "incarceration is a formal term for confinement in a prison or similar institution."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 detinere『引き止める、とどめておく』にさかのぼる。de- + tenere『保持する、つかんでいる』から成り、tenere は英語の retain, contain, maintain などにもつながる。語源的にも『人をとどめておく』という現在の意味に近い。",
+    "en": "Ultimately from Latin detinere, meaning 'to hold back or keep', formed from de- and tenere ('to hold'). The same Latin root appears in words such as retain and contain. The etymological idea of 'holding someone back' closely matches the modern meaning."
+  },
+  "synonyms": [
+    {
+      "word": "confinement",
+      "note": {
+        "ja": "空間・行動範囲が制限されている状態に重点。detention は当局などによる拘束に重点。",
+        "en": "Emphasizes restriction to a limited space; detention emphasizes being held by an authority."
+      }
+    },
+    {
+      "word": "custody",
+      "note": {
+        "ja": "当局などの管理・監護下にある状態。in police custody のように使う。",
+        "en": "The state of being under an authority's control or care, as in 'in police custody'."
+      }
+    },
+    {
+      "word": "imprisonment",
+      "note": {
+        "ja": "刑務所への投獄・服役という意味が強く、detention より刑罰性が強い。",
+        "en": "More strongly associated with imprisonment as criminal punishment."
+      }
+    },
+    {
+      "word": "incarceration",
+      "note": {
+        "ja": "刑務所などへの収監を表す硬い法律・行政語。",
+        "en": "A formal legal or administrative term for being confined in prison or a similar institution."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Festhaltung / Haft / Gewahrsam",
+    "it": "detenzione / trattenimento",
+    "fr": "détention",
+    "es": "detención"
+  },
+  "collocations": {
+    "ja": [
+      "pretrial detention — 公判前勾留",
+      "police detention — 警察による拘留",
+      "immigration detention — 入管収容",
+      "arbitrary detention — 恣意的拘禁",
+      "prolonged detention — 長期拘留",
+      "detention center — 拘留施設、収容施設",
+      "detention without trial — 裁判なしの拘禁",
+      "be held in detention — 拘留されている",
+      "be released from detention — 拘留から解放される",
+      "serve detention — （学校で罰として）居残りをする"
+    ],
+    "en": [
+      "pretrial detention",
+      "police detention",
+      "immigration detention",
+      "arbitrary detention",
+      "prolonged detention",
+      "detention center",
+      "detention without trial",
+      "be held in detention",
+      "be released from detention",
+      "serve detention"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The suspect was released after several hours in police detention. — 容疑者は警察に数時間拘留された後、釈放された。",
+      "The court ordered his continued detention pending trial. — 裁判所は公判まで引き続き彼を勾留するよう命じた。",
+      "Human rights groups criticized the use of arbitrary detention. — 人権団体は恣意的拘禁の使用を批判した。",
+      "The government announced plans to expand the immigration detention center. — 政府は入管収容施設を拡張する計画を発表した。",
+      "He got detention for repeatedly arriving late to class. — 彼は何度も授業に遅刻したため居残りを命じられた。"
+    ],
+    "en": [
+      "The suspect was released after several hours in police detention.",
+      "The court ordered his continued detention pending trial.",
+      "Human rights groups criticized the use of arbitrary detention.",
+      "The government announced plans to expand the immigration detention center.",
+      "He got detention for repeatedly arriving late to class."
+    ]
+  }
 }
 ]
