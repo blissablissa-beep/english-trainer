@@ -9818,5 +9818,139 @@
       "The article is a scathing indictment of corruption within the organization."
     ]
   }
+},
+{
+  "id": "damning",
+  "sid": "2026-00093",
+  "word": "damning",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "criticism",
+    "law",
+    "journalism"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdæmɪŋ/",
+      "uk": "/ˈdæmɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（証拠・事実などが）決定的に不利な、致命的な",
+      "強く非難する、手厳しい",
+      "人の評判・立場などを大きく損なう"
+    ],
+    "en": [
+      "providing strong evidence of guilt, wrongdoing, or failure",
+      "causing serious damage to someone's reputation, position, or case",
+      "strongly critical or condemnatory"
+    ]
+  },
+  "nuance": {
+    "ja": "単に『非常に悪い』のではなく、証拠・報告・証言・事実・批判などが、ある人物や組織の立場を著しく悪化させたり、責任・失敗などを強く裏付けたりすることを表す。法律・政治・報道で特によく使われる。scathing が批判の『痛烈さ』を表すのに対し、damning は内容が相手にとって『決定的に不利・致命的』であることに重点がある。そのため、感情をまったく含まない客観的な証拠についても damning と言える。",
+    "en": "Damning describes evidence, facts, reports, testimony, criticism, or findings that seriously undermine someone's case, reputation, or position, often by strongly indicating guilt, wrongdoing, incompetence, or failure. It is especially common in legal, political, and journalistic contexts. Unlike scathing, which emphasizes the severity of criticism, damning emphasizes how damaging or incriminating the content is. It can therefore describe completely objective evidence."
+  },
+  "minimal": {
+    "ja": [
+      "damning：相手の立場・評判を決定的に悪くするほど不利な証拠・事実・評価。",
+      "scathing：容赦なく徹底的に酷評・非難するほど痛烈。",
+      "incriminating：犯罪・違法行為への関与を示す証拠について特に使う。",
+      "condemnatory：非難・糾弾の意を明確に表す。硬い語。",
+      "devastating：影響が壊滅的・圧倒的。証拠や批判にも使えるが意味範囲が広い。",
+      "damaging：評判・立場などに悪影響を与える。damning より弱い。"
+    ],
+    "en": [
+      "damning means seriously damaging to someone's case, reputation, or position, often because it strongly indicates wrongdoing or failure.",
+      "scathing emphasizes extremely severe and unsparing criticism.",
+      "incriminating specifically suggests involvement in a crime or wrongdoing.",
+      "condemnatory explicitly expresses strong disapproval or condemnation.",
+      "devastating emphasizes overwhelmingly destructive impact and has a broader range of uses.",
+      "damaging means harmful to a position or reputation but is weaker than damning."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 damn『罪に定める、地獄に落とす、強く非難する』の現在分詞に由来する。damn は古フランス語 damner を経てラテン語 damnare『有罪とする、処罰する、非難する』にさかのぼり、その背景には damnum『損害、損失』がある。damning はもともと『罪に定める・断罪する』という強い意味を持ち、そこから『相手の有罪・責任・失敗などを強く示し、その立場を決定的に損なう』という現在の意味が発達した。",
+    "en": "From the present participle of damn, through Old French damner from Latin damnare ('to condemn, sentence, or punish'), related to damnum ('loss, damage'). The idea of condemning someone developed into the modern sense of evidence or criticism that seriously damages a person's case, reputation, or position."
+  },
+  "synonyms": [
+    {
+      "word": "incriminating",
+      "note": {
+        "ja": "特に犯罪・不正行為への関与を示唆する証拠について使う。damning より法律的な意味が限定的。",
+        "en": "More specifically describes evidence suggesting involvement in a crime or wrongdoing."
+      }
+    },
+    {
+      "word": "scathing",
+      "note": {
+        "ja": "批判の内容が容赦なく痛烈であることを表す。相手にとって決定的に不利かどうかは問わない。",
+        "en": "Emphasizes the severity and mercilessness of criticism rather than its evidential impact."
+      }
+    },
+    {
+      "word": "devastating",
+      "note": {
+        "ja": "相手の主張・評判などを打ち砕くほど強力という意味では近いが、一般に『壊滅的な』という非常に広い意味を持つ。",
+        "en": "Can describe overwhelmingly damaging evidence or criticism but has a much broader general meaning."
+      }
+    },
+    {
+      "word": "damaging",
+      "note": {
+        "ja": "評判・立場・主張などに害を与えることを広く表す。damning ほど決定的な響きはない。",
+        "en": "Broadly means harmful to a reputation, position, or case and is less forceful than damning."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "belastend / vernichtend",
+    "it": "schiacciante / compromettente",
+    "fr": "accablant",
+    "es": "demoledor / comprometedor"
+  },
+  "collocations": {
+    "ja": [
+      "damning evidence — 決定的に不利な証拠",
+      "a damning report — 厳しく責任を指摘する報告書",
+      "damning testimony — 決定的に不利な証言",
+      "a damning assessment — 手厳しく致命的な評価",
+      "a damning indictment — 痛烈な糾弾・決定的な批判",
+      "damning criticism — 致命的なほど厳しい批判",
+      "a damning conclusion — 決定的に不利な結論",
+      "damning findings — 深刻な問題を示す調査結果"
+    ],
+    "en": [
+      "damning evidence",
+      "a damning report",
+      "damning testimony",
+      "a damning assessment",
+      "a damning indictment",
+      "damning criticism",
+      "a damning conclusion",
+      "damning findings"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The investigation uncovered damning evidence against the company. — 調査によって、その会社にとって決定的に不利な証拠が明らかになった。",
+      "The committee issued a damning report on the government's handling of the crisis. — 委員会は政府の危機対応を厳しく断罪する報告書を公表した。",
+      "Her testimony proved particularly damning for the defendant. — 彼女の証言は被告にとって特に致命的なものとなった。",
+      "The audit produced damning findings about the organization's financial controls. — 監査では、その組織の財務管理について深刻な問題を示す調査結果が出た。",
+      "Perhaps the most damning fact was that senior managers had known about the problem for years. — おそらく最も致命的だったのは、上級管理職が何年も前からその問題を知っていたという事実である。"
+    ],
+    "en": [
+      "The investigation uncovered damning evidence against the company.",
+      "The committee issued a damning report on the government's handling of the crisis.",
+      "Her testimony proved particularly damning for the defendant.",
+      "The audit produced damning findings about the organization's financial controls.",
+      "Perhaps the most damning fact was that senior managers had known about the problem for years."
+    ]
+  }
 }
 ]
