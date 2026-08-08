@@ -14928,5 +14928,411 @@
       "Excessive bureaucracy may hinder innovation."
     ]
   }
+},
+{
+  "id": "impede",
+  "sid": "2026-00131",
+  "word": "impede",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "obstruction",
+    "progress",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "impede – impeded – impeded"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪmˈpiːd/",
+      "uk": "/ɪmˈpiːd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "妨げる、阻害する",
+      "進行・移動を遅らせる",
+      "物事が円滑に進むのを邪魔する"
+    ],
+    "en": [
+      "to delay or obstruct the progress or movement of something",
+      "to make it more difficult for something to advance or function",
+      "to interfere with the smooth development of a process"
+    ]
+  },
+  "nuance": {
+    "ja": "進行・移動・発展・機能などを何らかの障害によって遅らせたり妨げたりすることを表す。hinder と非常に近いが、impede の方がやや硬く、文章語・公式文書・学術文脈で使われやすい。また movement, flow, access, progress など『前へ進むもの』との相性がよい。完全に阻止するというより、進み方を鈍らせたり難しくしたりする意味が中心。",
+    "en": "Impede means to slow, obstruct, or interfere with movement, progress, development, or function. It is very close to hinder but is generally more formal and especially common in written, technical, or official contexts. It pairs naturally with words such as movement, flow, access, and progress. It usually suggests slowing or obstructing rather than completely preventing something."
+  },
+  "minimal": {
+    "ja": [
+      "impede：進行・移動を遅らせる、妨げる。やや硬い。",
+      "hinder：進行・達成をやりにくくする。より一般的。",
+      "hamper：制約・不足・不便によって活動をしにくくする。",
+      "obstruct：物理的・比喩的に進路や手続きを塞ぐ。",
+      "inhibit：活動・反応・成長そのものを抑制する。",
+      "prevent：何かが起こるのを防ぐ、完全に阻止する。"
+    ],
+    "en": [
+      "impede means to slow or obstruct progress or movement, often in formal contexts.",
+      "hinder means to make progress or achievement more difficult.",
+      "hamper means to make activity difficult through restrictions or practical difficulties.",
+      "obstruct means to block a path or process.",
+      "inhibit means to restrain or reduce an activity or response.",
+      "prevent means to stop something from happening."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 impedire『足をもつれさせる、妨げる』に由来する。in-『中へ、対して』+ pes, pedis『足』から成り、原義は文字どおり『足に絡みついて前へ進めなくする』というイメージ。この『足を取られる』感覚から、現代の『進行・発展・移動を妨げる』という意味が発達した。pedestrian, pedal, expedition などと同じ pes/ped-『足』の語族に属する。",
+    "en": "From Latin impedire ('to entangle the feet, hinder'), formed from in- and pes, pedis ('foot'). The literal image is of something getting around one's feet and making forward movement difficult. From this developed the modern sense of obstructing progress, movement, or development."
+  },
+  "synonyms": [
+    {
+      "word": "hinder",
+      "note": {
+        "ja": "意味は非常に近いが、hinder の方が一般的で日常的。impede はより硬く、進行・移動に焦点がある。",
+        "en": "Very close in meaning, but hinder is broader and more common, while impede is more formal and often focuses on movement or progress."
+      }
+    },
+    {
+      "word": "hamper",
+      "note": {
+        "ja": "資源不足・制約・悪条件などによって活動がやりにくくなるニュアンスが強い。",
+        "en": "Often suggests that shortages, restrictions, or unfavorable conditions make activity difficult."
+      }
+    },
+    {
+      "word": "obstruct",
+      "note": {
+        "ja": "道・視界・気道などを物理的に塞ぐ意味が強いが、司法や手続の妨害にも使う。",
+        "en": "Strongly suggests blocking something physically, though it is also widely used figuratively for legal or procedural interference."
+      }
+    },
+    {
+      "word": "inhibit",
+      "note": {
+        "ja": "外から進行を妨げるというより、活動・反応・成長の程度そのものを抑える。",
+        "en": "Focuses more on suppressing the activity, reaction, or process itself rather than blocking its progress externally."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "behindern / hemmen",
+    "it": "ostacolare / impedire",
+    "fr": "entraver / empêcher",
+    "es": "obstaculizar / impedir"
+  },
+  "collocations": {
+    "ja": [
+      "impede progress — 進展を妨げる",
+      "impede development — 発展を阻害する",
+      "impede movement — 移動を妨げる",
+      "impede access — アクセスを妨げる",
+      "impede traffic — 交通を妨げる",
+      "impede the flow of something — ～の流れを妨げる",
+      "seriously impede — 著しく妨げる",
+      "be impeded by something — ～によって妨げられる"
+    ],
+    "en": [
+      "impede progress",
+      "impede development",
+      "impede movement",
+      "impede access",
+      "impede traffic",
+      "impede the flow of something",
+      "seriously impede",
+      "be impeded by something"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Heavy snow impeded traffic throughout the region. — 大雪が地域全体の交通を妨げた。",
+      "Lack of funding may impede further development. — 資金不足はさらなる発展を阻害する可能性がある。",
+      "The debris impeded access to the building. — がれきが建物へのアクセスを妨げた。",
+      "Excessive bureaucracy can impede economic growth. — 過度な官僚主義は経済成長を阻害することがある。",
+      "The investigation was impeded by incomplete records. — 不完全な記録によって捜査は妨げられた。"
+    ],
+    "en": [
+      "Heavy snow impeded traffic throughout the region.",
+      "Lack of funding may impede further development.",
+      "The debris impeded access to the building.",
+      "Excessive bureaucracy can impede economic growth.",
+      "The investigation was impeded by incomplete records."
+    ]
+  }
+},
+{
+  "id": "impediment",
+  "sid": "2026-00132",
+  "word": "impediment",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "obstruction",
+    "difficulty",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪmˈpedəmənt/",
+      "uk": "/ɪmˈpedɪmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "障害、妨げ",
+      "進行・達成を阻むもの",
+      "機能や行動を妨げる要因"
+    ],
+    "en": [
+      "something that makes progress, movement, or achievement more difficult",
+      "an obstacle or hindrance",
+      "a factor that interferes with normal action or development"
+    ]
+  },
+  "nuance": {
+    "ja": "進行・発展・達成などを妨げるものを表す、やや硬い語。obstacle と近いが、impediment は物理的障害だけでなく、制度・法律・言語・心理・能力上の制約など、抽象的な妨げにも自然に使える。特に an impediment to progress / growth / communication の形が多い。また speech impediment のように、発話を妨げる障害という固定的な用法も重要。",
+    "en": "Impediment is a somewhat formal word for something that obstructs progress, movement, development, or achievement. It overlaps with obstacle but is especially natural for abstract barriers such as legal, institutional, linguistic, psychological, or functional constraints. The pattern an impediment to progress, growth, or communication is common. Speech impediment is also an important fixed expression."
+  },
+  "minimal": {
+    "ja": [
+      "impediment：進行・達成を妨げる障害。やや硬く、抽象的な妨げにも強い。",
+      "obstacle：進路・達成を阻む障害全般。最も一般的。",
+      "hindrance：進行を邪魔するもの。impediment よりやや一般的。",
+      "barrier：境界・障壁として立ちはだかるもの。",
+      "constraint：行動・選択を制限する条件。",
+      "drawback：欠点・不利な点。必ずしも進行を妨げるほど強くない。"
+    ],
+    "en": [
+      "impediment is a formal obstacle that interferes with progress or achievement.",
+      "obstacle is the general word for something that blocks progress.",
+      "hindrance is something that makes progress more difficult.",
+      "barrier is something that blocks access, movement, or participation.",
+      "constraint is a condition that limits choices or action.",
+      "drawback is a disadvantage rather than necessarily a direct obstacle."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 impedimentum『障害、妨げ』に由来し、動詞 impedire『足をもつれさせる、妨げる』から派生した。impedire は in- + pes, pedis『足』から成るため、原義のイメージは『足に絡みついて前へ進ませないもの』。impede と完全に同じ語源系列にある。",
+    "en": "From Latin impedimentum ('hindrance, obstacle'), derived from impedire ('to entangle the feet, hinder'). Impedire is built from in- and pes, pedis ('foot'), so the original image is of something getting around the feet and preventing forward movement. It is directly related to impede."
+  },
+  "synonyms": [
+    {
+      "word": "obstacle",
+      "note": {
+        "ja": "最も一般的な『障害』。物理的にも抽象的にも使えるが、impediment の方がやや硬い。",
+        "en": "The general word for something blocking progress; impediment is usually more formal."
+      }
+    },
+    {
+      "word": "hindrance",
+      "note": {
+        "ja": "物事を進めにくくする妨げ。impediment と非常に近いが、やや日常的。",
+        "en": "Very close in meaning, but generally somewhat less formal than impediment."
+      }
+    },
+    {
+      "word": "barrier",
+      "note": {
+        "ja": "越えなければならない境界・障壁というイメージが強い。language barrier など。",
+        "en": "Emphasizes a boundary or block that must be crossed or overcome."
+      }
+    },
+    {
+      "word": "constraint",
+      "note": {
+        "ja": "時間・予算・制度などによる制約で、行動可能な範囲を狭めるもの。",
+        "en": "A limitation that restricts the range of available actions or choices."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Hindernis / Hemmnis",
+    "it": "impedimento / ostacolo",
+    "fr": "entrave / obstacle",
+    "es": "impedimento / obstáculo"
+  },
+  "collocations": {
+    "ja": [
+      "an impediment to progress — 進歩の妨げ",
+      "an impediment to growth — 成長の障害",
+      "an impediment to communication — コミュニケーションの妨げ",
+      "a major impediment — 大きな障害",
+      "a serious impediment — 深刻な障害",
+      "a legal impediment — 法的障害",
+      "remove an impediment — 障害を取り除く",
+      "speech impediment — 発話障害"
+    ],
+    "en": [
+      "an impediment to progress",
+      "an impediment to growth",
+      "an impediment to communication",
+      "a major impediment",
+      "a serious impediment",
+      "a legal impediment",
+      "remove an impediment",
+      "speech impediment"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Lack of funding remains a major impediment to further research. — 資金不足はさらなる研究にとって依然として大きな障害である。",
+      "Bureaucratic procedures can be a serious impediment to innovation. — 官僚的な手続はイノベーションの深刻な妨げとなり得る。",
+      "Language differences are not necessarily an impediment to effective cooperation. — 言語の違いが必ずしも効果的な協力の障害になるわけではない。",
+      "The new law removed a significant legal impediment to the project. — 新法によって、その計画に対する重大な法的障害が取り除かれた。",
+      "He had a slight speech impediment as a child. — 彼は子どものころ、軽い発話障害があった。"
+    ],
+    "en": [
+      "Lack of funding remains a major impediment to further research.",
+      "Bureaucratic procedures can be a serious impediment to innovation.",
+      "Language differences are not necessarily an impediment to effective cooperation.",
+      "The new law removed a significant legal impediment to the project.",
+      "He had a slight speech impediment as a child."
+    ]
+  }
+},
+{
+  "id": "hamper",
+  "sid": "2026-00133",
+  "word": "hamper",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "obstruction",
+    "difficulty",
+    "progress",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "countability": "countable",
+    "forms": "hamper – hampered – hampered"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈhæmpər/",
+      "uk": "/ˈhæmpə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "妨げる、邪魔する",
+      "制約や不便によって活動をしにくくする",
+      "かご、洗濯物入れ"
+    ],
+    "en": [
+      "to make an activity, process, or progress more difficult",
+      "to restrict or interfere with something through practical obstacles or limitations",
+      "a large basket or container, especially for laundry or food"
+    ]
+  },
+  "nuance": {
+    "ja": "動詞では、資金不足、人手不足、悪天候、規制、設備不足などの具体的な制約や悪条件によって、活動や進行をやりにくくすることを表す。hinder とかなり近いが、hamper は『実務上の不便や制約が足かせになる』感じがやや強い。impede より口語的で一般的。名詞では hamper は『大きなかご』を意味し、laundry hamper や food hamper などに使われる。",
+    "en": "As a verb, hamper means to make an activity or process more difficult because of practical obstacles, shortages, restrictions, or unfavorable conditions. It is close to hinder but often suggests concrete constraints that interfere with effective action. It is generally less formal than impede. As a noun, hamper can mean a large basket or container, especially for laundry or food."
+  },
+  "minimal": {
+    "ja": [
+      "hamper：不便・不足・制約によって活動をやりにくくする。",
+      "hinder：進行・達成を妨げる一般語。",
+      "impede：進行・移動を遅らせる、妨げる。より硬い。",
+      "inhibit：活動・反応・成長そのものを抑制する。",
+      "obstruct：物理的・比喩的に進路を塞ぐ。",
+      "prevent：何かが起こるのを完全に防ぐ。"
+    ],
+    "en": [
+      "hamper means to make activity difficult through practical obstacles or constraints.",
+      "hinder is the general word for making progress or achievement more difficult.",
+      "impede means to slow or obstruct progress or movement, often in formal contexts.",
+      "inhibit means to suppress or reduce an activity or response.",
+      "obstruct means to block a path or process.",
+      "prevent means to stop something from happening."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 hamper は中英語 hampren『妨げる、束縛する』に由来し、さらに古い起源は不確か。『拘束する、動きを制限する』という意味から、現代の『活動・進行を妨げる』へ発達した。一方、名詞 hamper『かご』は別系統で、古フランス語 hanapier『杯などを入れる容器』に由来するとされる。したがって動詞 hamper と名詞 hamper は同綴りだが、歴史的には別語源である。",
+    "en": "The verb hamper comes from Middle English hampren ('to hinder or restrain'), though its deeper origin is uncertain. Its sense developed from restricting movement to making action or progress difficult. The noun hamper ('a large basket or container') has a different history, probably from Old French hanapier, a container for drinking vessels. The verb and noun are therefore homonyms with separate origins."
+  },
+  "synonyms": [
+    {
+      "word": "hinder",
+      "note": {
+        "ja": "意味は非常に近い。hinder はより一般的で、hamper は具体的な制約・不足・悪条件による妨害を示しやすい。",
+        "en": "Very close in meaning; hinder is broader, while hamper more readily suggests practical restrictions or unfavorable conditions."
+      }
+    },
+    {
+      "word": "impede",
+      "note": {
+        "ja": "進行・移動を妨げる硬めの語。hamper の方が一般的で、日常・ビジネス文脈でも使いやすい。",
+        "en": "A more formal word for obstructing progress or movement; hamper is more common in general and business contexts."
+      }
+    },
+    {
+      "word": "restrict",
+      "note": {
+        "ja": "可能な範囲・量・行動を制限することに重点がある。hamper はその制限の結果として活動が難しくなることを表す。",
+        "en": "Focuses on limiting what is possible or allowed, while hamper emphasizes the resulting difficulty."
+      }
+    },
+    {
+      "word": "encumber",
+      "note": {
+        "ja": "負担・責任・物理的な重荷などを背負わせて動きにくくする。hamper より硬い。",
+        "en": "Suggests burdening someone or something with weight, obligations, or complications and is more formal than hamper."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "behindern / erschweren",
+    "it": "ostacolare / intralciare",
+    "fr": "entraver / gêner",
+    "es": "obstaculizar / dificultar"
+  },
+  "collocations": {
+    "ja": [
+      "hamper progress — 進展を妨げる",
+      "hamper development — 発展を妨げる",
+      "hamper efforts — 取り組みを妨げる",
+      "hamper operations — 業務・作戦を妨げる",
+      "hamper growth — 成長を阻害する",
+      "hamper communication — コミュニケーションを妨げる",
+      "be hampered by a lack of funding — 資金不足によって妨げられる",
+      "severely hamper — 大きく妨げる"
+    ],
+    "en": [
+      "hamper progress",
+      "hamper development",
+      "hamper efforts",
+      "hamper operations",
+      "hamper growth",
+      "hamper communication",
+      "be hampered by a lack of funding",
+      "severely hamper"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Rescue efforts were hampered by heavy rain. — 大雨によって救助活動は妨げられた。",
+      "The project was hampered by a shortage of skilled workers. — その計画は熟練労働者の不足によって難航した。",
+      "Poor infrastructure continues to hamper economic development. — 不十分なインフラが経済発展を引き続き妨げている。",
+      "Communication was hampered by technical problems. — 技術的な問題によってコミュニケーションが妨げられた。",
+      "Strict regulations may hamper the growth of small businesses. — 厳しい規制は中小企業の成長を阻害する可能性がある。"
+    ],
+    "en": [
+      "Rescue efforts were hampered by heavy rain.",
+      "The project was hampered by a shortage of skilled workers.",
+      "Poor infrastructure continues to hamper economic development.",
+      "Communication was hampered by technical problems.",
+      "Strict regulations may hamper the growth of small businesses."
+    ]
+  }
 }
 ]
