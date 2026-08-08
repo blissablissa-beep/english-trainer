@@ -8876,5 +8876,947 @@
       "The two problems reinforce each other in a pernicious cycle."
     ]
   }
+},
+{
+  "id": "deleterious",
+  "sid": "2026-00086",
+  "word": "deleterious",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "academic",
+    "harm",
+    "science"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌdeləˈtɪriəs/",
+      "uk": "/ˌdelɪˈtɪəriəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "有害な、害を及ぼす",
+      "健康・機能・環境などを損なう",
+      "悪影響をもたらす"
+    ],
+    "en": [
+      "causing harm or damage",
+      "having a damaging effect on health, functioning, or the environment",
+      "harmful, especially in a serious or measurable way"
+    ]
+  },
+  "nuance": {
+    "ja": "非常に硬い語で、医学・生物学・環境科学・心理学などの学術的文脈でよく使われる。単に『好ましくない』のではなく、対象の健康・機能・状態などを実質的に損なうことを表す。detrimental は利益・成果・状態などへの『悪影響』を広く表すのに対し、deleterious はより直接的な『害・損傷』を感じさせる。pernicious ほど修辞的に強烈ではなく、より客観的・学術的な響きを持つ。",
+    "en": "A highly formal word, especially common in scientific, medical, environmental, and academic contexts. It suggests actual harm or damage rather than something merely unfavorable. Compared with detrimental, deleterious more strongly suggests damage to health, functioning, or condition. Compared with pernicious, it is generally more objective and academic and less rhetorically forceful."
+  },
+  "minimal": {
+    "ja": [
+      "deleterious：健康・機能・環境などに実質的な害を及ぼす。硬い学術語。",
+      "detrimental：成果・利益・状態などに悪影響を及ぼす。より広く中立的。",
+      "pernicious：深刻で破壊的な害を及ぼす。修辞的に強い。",
+      "insidious：気づかないうちに徐々に害が進行する。",
+      "harmful：有害な。最も一般的。",
+      "noxious：有毒・有害な。煙・ガス・物質などにもよく使う。"
+    ],
+    "en": [
+      "deleterious is a formal, academic word for causing actual harm or damage.",
+      "detrimental broadly means having a negative effect.",
+      "pernicious emphasizes serious or destructive harm.",
+      "insidious emphasizes hidden or gradually developing harm.",
+      "harmful is the ordinary general term.",
+      "noxious often describes poisonous, unhealthy, or physically harmful substances or influences."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 dēlētērios『有害な、破壊的な』に由来し、dēlētēr『破壊者』、さらに dēleisthai『傷つける、害する』にさかのぼる。英語には17世紀に入り、当初から『健康や生命に害を与える』という強い意味で使われた。",
+    "en": "From Greek dēlētērios ('noxious, harmful, destructive'), related to dēlētēr ('destroyer') and a verb meaning 'to injure or harm.' It entered English in the 17th century with the sense of causing injury or damage."
+  },
+  "synonyms": [
+    {
+      "word": "detrimental",
+      "note": {
+        "ja": "悪影響一般を表す。deleterious より広く、ビジネスや一般的な議論でも使いやすい。",
+        "en": "A broader term for having a negative effect and is more readily used in business and general contexts."
+      }
+    },
+    {
+      "word": "pernicious",
+      "note": {
+        "ja": "非常に深刻で破壊的な害を強調し、deleterious より修辞的な力が強い。",
+        "en": "Emphasizes severe or destructive harm and is more rhetorically forceful than deleterious."
+      }
+    },
+    {
+      "word": "harmful",
+      "note": {
+        "ja": "最も一般的な『有害な』で、日常語として幅広く使える。",
+        "en": "The ordinary general-purpose word for causing harm."
+      }
+    },
+    {
+      "word": "noxious",
+      "note": {
+        "ja": "健康に有害・有毒であることを強く表し、煙・ガス・化学物質などとの結び付きが強い。",
+        "en": "Often describes substances, gases, fumes, or influences that are poisonous or physically harmful."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schädlich",
+    "it": "deleterio",
+    "fr": "délétère",
+    "es": "deletéreo"
+  },
+  "collocations": {
+    "ja": [
+      "a deleterious effect — 有害な影響",
+      "deleterious effects on health — 健康への有害な影響",
+      "a deleterious impact — 有害な影響",
+      "deleterious consequences — 有害な結果",
+      "deleterious effects on the environment — 環境への有害な影響",
+      "deleterious mutations — 有害な突然変異",
+      "deleterious effects on performance — パフォーマンスを損なう影響",
+      "potentially deleterious — 潜在的に有害な"
+    ],
+    "en": [
+      "a deleterious effect",
+      "deleterious effects on health",
+      "a deleterious impact",
+      "deleterious consequences",
+      "deleterious effects on the environment",
+      "deleterious mutations",
+      "deleterious effects on performance",
+      "potentially deleterious"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Chronic sleep deprivation can have deleterious effects on cognitive performance. — 慢性的な睡眠不足は認知能力に有害な影響を及ぼすことがある。",
+      "The chemical may have deleterious effects on aquatic ecosystems. — その化学物質は水生生態系に有害な影響を及ぼす可能性がある。",
+      "Researchers identified several deleterious mutations in the gene. — 研究者らはその遺伝子に複数の有害な突然変異を特定した。",
+      "Excessive stress can be deleterious to both physical and mental performance. — 過度のストレスは身体的・精神的な能力の双方を損なう可能性がある。",
+      "The policy produced unintended consequences that proved deleterious to long-term growth. — その政策は長期的成長を損なう予期せぬ結果をもたらした。"
+    ],
+    "en": [
+      "Chronic sleep deprivation can have deleterious effects on cognitive performance.",
+      "The chemical may have deleterious effects on aquatic ecosystems.",
+      "Researchers identified several deleterious mutations in the gene.",
+      "Excessive stress can be deleterious to both physical and mental performance.",
+      "The policy produced unintended consequences that proved deleterious to long-term growth."
+    ]
+  }
+},
+{
+  "id": "noxious",
+  "sid": "2026-00087",
+  "word": "noxious",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "harm",
+    "environment",
+    "science"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈnɑːkʃəs/",
+      "uk": "/ˈnɒkʃəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "有害な、有毒な",
+      "健康に害を及ぼす",
+      "（煙・ガス・臭気などが）有害で不快な",
+      "（比喩的に）有害な、悪影響を及ぼす"
+    ],
+    "en": [
+      "harmful or poisonous",
+      "harmful to health or physical well-being",
+      "offensive and harmful, especially of fumes, gases, or smells",
+      "harmful or corrupting in a figurative sense"
+    ]
+  },
+  "nuance": {
+    "ja": "健康や環境に直接害を与える物質・煙・ガス・蒸気・臭気などについて特によく使われる硬めの語。単に unpleasant『不快な』なのではなく、基本的には『有害性』を含む。比喩的に思想・影響・慣行などを有害だと強く批判する場合にも使われる。deleterious が学術的に『機能や状態を損なう』ことを広く表すのに対し、noxious は毒性・健康被害など、より直接的で具体的な害を連想させやすい。",
+    "en": "Noxious is a formal word especially common for substances, fumes, gases, vapors, and odors that are harmful to health or the environment. It normally implies actual harmfulness, not merely unpleasantness. Figuratively, it can strongly condemn an influence, belief, or practice as harmful or corrupting. Compared with deleterious, noxious more readily evokes direct physical harm or toxicity."
+  },
+  "minimal": {
+    "ja": [
+      "noxious：毒・煙・ガス・臭気など、健康や環境に直接有害なものによく使う。",
+      "deleterious：健康・機能・環境などを実質的に損なう。硬い学術語。",
+      "harmful：有害な。最も一般的。",
+      "toxic：文字通り有毒な。また比喩的に人間関係・文化などにも使う。",
+      "poisonous：毒を含む・毒作用を持つことを直接表す。",
+      "pernicious：深刻で破壊的な害を及ぼす。修辞的に強い。"
+    ],
+    "en": [
+      "noxious often describes harmful fumes, gases, substances, odors, or influences.",
+      "deleterious is a formal academic word for causing damage to health, function, or condition.",
+      "harmful is the ordinary general term.",
+      "toxic literally means poisonous and is also widely used figuratively.",
+      "poisonous directly refers to containing or producing poison.",
+      "pernicious emphasizes serious or destructive harm."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 noxius『有害な、有罪の』に由来し、その基礎にある noxa は『害、損害、罪・違反』を意味する。noxious はもともと『害を与える』という広い意味を持ち、のちに健康・生命に有害な物質などについて特によく使われるようになった。ラテン語 nocere『害する』の語族に属し、innocent（in-『～でない』+ nocere 系）も歴史的に関連する。",
+    "en": "From Latin noxius ('harmful, guilty'), from noxa ('harm, injury, offense'), belonging to the word family of nocere ('to harm'). The same historical family is represented in innocent, literally carrying the idea of 'not harming.'"
+  },
+  "synonyms": [
+    {
+      "word": "toxic",
+      "note": {
+        "ja": "毒性を持つことをより直接的に表す。現代英語では人間関係・職場環境などへの比喩用法も非常に一般的。",
+        "en": "More directly suggests toxicity or poison and is also extremely common figuratively."
+      }
+    },
+    {
+      "word": "deleterious",
+      "note": {
+        "ja": "直接的な毒性に限らず、健康・機能・状態などを損なうことを学術的に表す。",
+        "en": "A more academic term for causing damage to health, functioning, or condition, without specifically implying toxicity."
+      }
+    },
+    {
+      "word": "harmful",
+      "note": {
+        "ja": "最も広く日常的な『有害な』。",
+        "en": "The broadest and most everyday term for causing harm."
+      }
+    },
+    {
+      "word": "poisonous",
+      "note": {
+        "ja": "毒そのものを含む、または摂取・接触などによって毒作用を及ぼすことを表す。",
+        "en": "Describes something containing or producing poison capable of causing illness, injury, or death."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schädlich / gesundheitsschädlich",
+    "it": "nocivo",
+    "fr": "nocif",
+    "es": "nocivo"
+  },
+  "collocations": {
+    "ja": [
+      "noxious fumes — 有害な煙・蒸気",
+      "noxious gases — 有害ガス",
+      "a noxious substance — 有害物質",
+      "noxious chemicals — 有害な化学物質",
+      "a noxious odor — 有害で不快な臭気",
+      "noxious emissions — 有害な排出物",
+      "noxious pollutants — 有害汚染物質",
+      "a noxious influence — 有害な影響",
+      "noxious weeds — 有害雑草"
+    ],
+    "en": [
+      "noxious fumes",
+      "noxious gases",
+      "a noxious substance",
+      "noxious chemicals",
+      "a noxious odor",
+      "noxious emissions",
+      "noxious pollutants",
+      "a noxious influence",
+      "noxious weeds"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The fire released noxious fumes into the building. — 火災によって建物内に有害な煙が放出された。",
+      "Workers were exposed to noxious gases in the poorly ventilated room. — 作業員たちは換気の悪い室内で有害ガスにさらされた。",
+      "The factory was fined for releasing noxious chemicals into the river. — その工場は川に有害な化学物質を排出したとして罰金を科された。",
+      "A noxious odor was coming from the drain. — 排水口から有害で不快な臭気が漂っていた。",
+      "The author condemned what he regarded as the noxious influence of the movement. — 著者は、その運動が及ぼすと考えた有害な影響を厳しく批判した。"
+    ],
+    "en": [
+      "The fire released noxious fumes into the building.",
+      "Workers were exposed to noxious gases in the poorly ventilated room.",
+      "The factory was fined for releasing noxious chemicals into the river.",
+      "A noxious odor was coming from the drain.",
+      "The author condemned what he regarded as the noxious influence of the movement."
+    ]
+  }
+},
+{
+  "id": "venomous",
+  "sid": "2026-00088",
+  "word": "venomous",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "animals",
+    "science",
+    "description",
+    "figurative"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈvenəməs/",
+      "uk": "/ˈvenəməs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（動物が）毒を注入する、有毒な",
+      "毒液を持つ",
+      "（言葉・態度などが）悪意に満ちた、毒々しい"
+    ],
+    "en": [
+      "capable of injecting venom by biting, stinging, or similar means",
+      "containing or producing venom",
+      "full of malice, hatred, or spite"
+    ]
+  },
+  "nuance": {
+    "ja": "動物学的には、牙・針などを使って venom（毒液）を相手の体内に能動的に注入する生物について使う。したがって venomous snake や venomous spider とは言うが、食べることで中毒を起こす生物なら poisonous が基本。比喩的には、人の発言・批判・視線などが強い悪意や憎悪を帯びていることを表す。",
+    "en": "In zoological usage, venomous describes an animal that actively delivers venom through a bite, sting, or similar mechanism. This contrasts with poisonous, which typically describes something harmful when eaten, touched, or otherwise absorbed. Figuratively, venomous describes speech, attitudes, or behavior filled with intense malice or hostility."
+  },
+  "minimal": {
+    "ja": [
+      "venomous：噛む・刺すなどして毒液を注入する。比喩的には悪意に満ちた。",
+      "poisonous：食べる・触れるなどして毒を取り込むと有害。",
+      "toxic：毒性がある。有害物質・化学物質などに広く使う。",
+      "noxious：煙・ガス・物質など健康や環境に有害。硬めの語。",
+      "malicious：人・行為などが意図的な悪意を持つ。",
+      "vitriolic：言葉・批判などが非常に辛辣で悪意に満ちる。"
+    ],
+    "en": [
+      "venomous means capable of injecting venom; figuratively, full of malice.",
+      "poisonous means harmful when eaten, touched, or absorbed.",
+      "toxic broadly describes something containing or involving poison or serious harm.",
+      "noxious is a formal word for harmful substances, fumes, gases, or influences.",
+      "malicious emphasizes an intention to cause harm.",
+      "vitriolic describes extremely bitter and hostile language or criticism."
+    ]
+  },
+  "etymology": {
+    "ja": "venom + -ous。venom は古フランス語 venim を経てラテン語 venenum に由来する。venenum はもともと『薬・薬剤・魔法の薬』などを広く意味したが、やがて特に『毒』を意味するようになった。venomous は中英語期から『毒を持つ』の意味で使われ、さらに『悪意に満ちた』という比喩的意味を発達させた。",
+    "en": "From venom + -ous. Venom comes through Old French venim from Latin venenum, which could originally refer broadly to a drug, potion, or magical substance before developing the sense of poison. Venomous later acquired the figurative sense of being filled with malice or spite."
+  },
+  "synonyms": [
+    {
+      "word": "poisonous",
+      "note": {
+        "ja": "毒を体内へ能動的に注入するのではなく、摂取・接触などによって害を与えるものに使うのが基本。",
+        "en": "Typically describes something that causes harm when its toxins are ingested, touched, or absorbed rather than actively injected."
+      }
+    },
+    {
+      "word": "toxic",
+      "note": {
+        "ja": "毒性を持つことを広く表す科学的・一般的な語。venomous のような毒の送り込み方は問題にしない。",
+        "en": "A broad scientific and general term for toxicity, without specifying how the toxin is delivered."
+      }
+    },
+    {
+      "word": "malicious",
+      "note": {
+        "ja": "比喩用法では近いが、相手を害しようとする意図そのものを強調する。",
+        "en": "In figurative contexts, emphasizes deliberate intent to harm."
+      }
+    },
+    {
+      "word": "vitriolic",
+      "note": {
+        "ja": "特に発言・批判・文章などが激しく辛辣で敵意に満ちていることを表す。",
+        "en": "Especially describes extremely bitter, caustic, and hostile speech or criticism."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "giftig",
+    "it": "velenoso",
+    "fr": "venimeux",
+    "es": "venenoso"
+  },
+  "collocations": {
+    "ja": [
+      "a venomous snake — 毒蛇",
+      "a venomous spider — 毒を注入するクモ",
+      "a venomous bite — 毒を伴う咬傷",
+      "a venomous sting — 毒を伴う刺傷",
+      "a venomous creature — 毒液を注入する生物",
+      "a venomous remark — 悪意に満ちた発言",
+      "a venomous attack — 悪意に満ちた攻撃・非難",
+      "a venomous look — 憎悪に満ちた視線"
+    ],
+    "en": [
+      "a venomous snake",
+      "a venomous spider",
+      "a venomous bite",
+      "a venomous sting",
+      "a venomous creature",
+      "a venomous remark",
+      "a venomous attack",
+      "a venomous look"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Several species of venomous snakes inhabit the region. — その地域には数種の毒蛇が生息している。",
+      "The spider is venomous, but its bite is rarely dangerous to humans. — そのクモは毒を持つが、咬傷が人間にとって危険になることはまれである。",
+      "Some animals use venom to immobilize their prey. — 一部の動物は獲物を動けなくするために毒液を使う。",
+      "She responded to the accusation with a venomous remark. — 彼女はその非難に悪意に満ちた言葉で応じた。",
+      "The debate descended into a series of venomous personal attacks. — その討論は悪意に満ちた個人攻撃の応酬へと堕していった。"
+    ],
+    "en": [
+      "Several species of venomous snakes inhabit the region.",
+      "The spider is venomous, but its bite is rarely dangerous to humans.",
+      "Some animals use venom to immobilize their prey.",
+      "She responded to the accusation with a venomous remark.",
+      "The debate descended into a series of venomous personal attacks."
+    ]
+  }
+},
+{
+  "id": "vitriolic",
+  "sid": "2026-00089",
+  "word": "vitriolic",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "figurative",
+    "speech",
+    "hostility"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌvɪtriˈɑːlɪk/",
+      "uk": "/ˌvɪtriˈɒlɪk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（発言・批判などが）激しく辛辣な",
+      "悪意・憎悪に満ちた",
+      "毒舌的な、攻撃的な"
+    ],
+    "en": [
+      "filled with bitter criticism or malice",
+      "extremely harsh and hostile in language or tone",
+      "caustic and spiteful"
+    ]
+  },
+  "nuance": {
+    "ja": "主に発言・批判・文章・論争などについて使い、単に厳しいだけでなく、強い敵意や悪意を帯びた辛辣さを表す。critical や harsh よりはるかに強い。venomous と近いが、venomous は『毒を注入するような悪意・憎悪』を強調するのに対し、vitriolic は『酸で焼くような激しい言葉・批判』というイメージが強い。人そのものより、その人の言葉・攻撃・論調などを修飾することが多い。",
+    "en": "Vitriolic is mainly used of speech, criticism, writing, attacks, and disputes. It describes language that is not merely harsh but intensely bitter, hostile, or malicious. It overlaps with venomous, but venomous emphasizes poisonous malice, whereas vitriolic strongly evokes caustic, burning verbal hostility."
+  },
+  "minimal": {
+    "ja": [
+      "vitriolic：酸で焼くように激しく辛辣で、敵意に満ちた発言・批判。",
+      "venomous：毒を吐くような悪意・憎悪に満ちた。",
+      "caustic：皮肉・批評などが鋭く、相手を傷つけるほど辛辣。",
+      "scathing：容赦なく酷評する、痛烈な。",
+      "acerbic：言葉遣い・口調が鋭く辛辣。知的な皮肉にも使う。",
+      "harsh：厳しい、きつい。最も一般的で、悪意は必須ではない。"
+    ],
+    "en": [
+      "vitriolic describes extremely bitter, hostile, and caustic language.",
+      "venomous emphasizes poisonous malice or hatred.",
+      "caustic describes cutting, biting criticism or sarcasm.",
+      "scathing describes devastatingly severe criticism.",
+      "acerbic describes a sharp, biting, often witty tone.",
+      "harsh is the general word for severe or unpleasant language."
+    ]
+  },
+  "etymology": {
+    "ja": "vitriol + -ic から成る。vitriol はラテン語 vitriolum『ガラス状の物質』に由来し、vitrum『ガラス』の指小形。金属硫酸塩の結晶がガラスのように見えたことからこの名が生じた。のちに oil of vitriol が硫酸を指すようになり、vitriol 自体も『硫酸』、さらに比喩的に『焼けつくような悪意・辛辣な言葉』を意味するようになった。そこから vitriolic『硫酸のように焼けつくほど辛辣な』が生じた。",
+    "en": "From vitriol + -ic. Vitriol ultimately comes from Latin vitriolum, a diminutive related to vitrum ('glass'), referring to glasslike crystals of metallic sulfates. The expression oil of vitriol came to denote sulfuric acid, and vitriol subsequently developed the figurative sense of bitter, corrosive language. Vitriolic therefore literally evokes something acid-like or corrosive."
+  },
+  "synonyms": [
+    {
+      "word": "venomous",
+      "note": {
+        "ja": "悪意・憎悪そのものを『毒』にたとえる。人の態度・視線などにも使いやすい。",
+        "en": "Emphasizes poisonous malice or hatred and can also describe attitudes or looks."
+      }
+    },
+    {
+      "word": "caustic",
+      "note": {
+        "ja": "相手を傷つけるほど鋭い皮肉・批評。vitriolic ほど激しい敵意を必ずしも含まない。",
+        "en": "Describes cutting or biting criticism, without necessarily implying the intense hostility of vitriolic."
+      }
+    },
+    {
+      "word": "scathing",
+      "note": {
+        "ja": "相手を徹底的に酷評するような痛烈さを強調する。",
+        "en": "Emphasizes devastatingly severe or merciless criticism."
+      }
+    },
+    {
+      "word": "acerbic",
+      "note": {
+        "ja": "口調・文章などが鋭く辛辣。機知や冷たい皮肉を伴うことも多い。",
+        "en": "Describes a sharp, biting tone, often with wit or dry sarcasm."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ätzend / hasserfüllt",
+    "it": "al vetriolo / caustico",
+    "fr": "vitriolique",
+    "es": "vitriólico"
+  },
+  "collocations": {
+    "ja": [
+      "vitriolic criticism — 激しく辛辣な批判",
+      "a vitriolic attack — 悪意に満ちた激しい攻撃",
+      "vitriolic remarks — 毒々しく辛辣な発言",
+      "vitriolic language — 激しく攻撃的な言葉",
+      "a vitriolic response — 敵意に満ちた激しい反応",
+      "a vitriolic exchange — 激しい非難の応酬",
+      "vitriolic rhetoric — 敵意に満ちた攻撃的言辞",
+      "a vitriolic debate — 激しい敵意を帯びた論争"
+    ],
+    "en": [
+      "vitriolic criticism",
+      "a vitriolic attack",
+      "vitriolic remarks",
+      "vitriolic language",
+      "a vitriolic response",
+      "a vitriolic exchange",
+      "vitriolic rhetoric",
+      "a vitriolic debate"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The proposal was met with vitriolic criticism from its opponents. — その提案は反対派から激しく辛辣な批判を浴びた。",
+      "The debate quickly descended into a vitriolic exchange of personal attacks. — 討論はたちまち悪意に満ちた個人攻撃の応酬へと堕した。",
+      "She published a vitriolic attack on the government's handling of the crisis. — 彼女は政府の危機対応を激しく非難する辛辣な論評を発表した。",
+      "His vitriolic remarks shocked even his political allies. — 彼の悪意に満ちた辛辣な発言は政治的盟友さえ驚かせた。",
+      "The discussion became increasingly vitriolic as the evening went on. — 夜が更けるにつれて、議論はますます敵意に満ちたものになった。"
+    ],
+    "en": [
+      "The proposal was met with vitriolic criticism from its opponents.",
+      "The debate quickly descended into a vitriolic exchange of personal attacks.",
+      "She published a vitriolic attack on the government's handling of the crisis.",
+      "His vitriolic remarks shocked even his political allies.",
+      "The discussion became increasingly vitriolic as the evening went on."
+    ]
+  }
+},
+{
+  "id": "caustic",
+  "sid": "2026-00090",
+  "word": "caustic",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "speech",
+    "figurative",
+    "science"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkɔːstɪk/",
+      "uk": "/ˈkɔːstɪk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（発言・批評などが）辛辣な、痛烈な",
+      "皮肉の鋭い、相手を傷つけるほど手厳しい",
+      "（化学物質が）腐食性の、焼灼性の"
+    ],
+    "en": [
+      "sharply critical, sarcastic, or cutting",
+      "capable of hurting or offending through biting language",
+      "able to burn, corrode, or destroy tissue by chemical action"
+    ]
+  },
+  "nuance": {
+    "ja": "文字通りには、化学物質などが組織や物質を『焼く・腐食する』ことを表す。比喩的には、発言・批評・機知などが相手を傷つけるほど鋭く辛辣であることをいう。vitriolic と近いが、vitriolic は強い敵意・憎悪を帯びた激烈な言葉を表すのに対し、caustic は冷静な皮肉や鋭い知性を伴う辛辣さにも使える。必ずしも激しい感情を意味しない。",
+    "en": "Literally, caustic describes a substance capable of burning or corroding tissue or other material. Figuratively, it describes remarks, criticism, humor, or wit that are sharply cutting or sarcastic. Unlike vitriolic, which strongly suggests bitter hostility, caustic can describe cool, controlled, or witty verbal sharpness without intense hatred."
+  },
+  "minimal": {
+    "ja": [
+      "caustic：腐食するように鋭く辛辣。皮肉・機知を伴うことも多い。",
+      "vitriolic：激しい敵意・憎悪に満ちた辛辣な言葉。",
+      "acerbic：口調・文章が鋭く辛辣。冷たく知的な響きもある。",
+      "scathing：相手を徹底的に酷評するほど痛烈。",
+      "sarcastic：皮肉によって嘲笑・批判する。",
+      "harsh：厳しい、きつい。最も一般的。"
+    ],
+    "en": [
+      "caustic describes cutting, corrosive verbal sharpness, often involving sarcasm or wit.",
+      "vitriolic emphasizes bitter hostility and malice.",
+      "acerbic describes a sharp, biting, often intellectually dry tone.",
+      "scathing emphasizes devastatingly severe criticism.",
+      "sarcastic specifically involves mocking or ironic criticism.",
+      "harsh is the broad general term for severe or unpleasant language."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 kaustikos『焼くことのできる』に由来し、kaiein『燃やす、焼く』から派生した。ラテン語 causticus、フランス語 caustique を経て英語に入った。もともとは物質を焼いたり腐食させたりする性質を表す化学・医学用語で、そこから『言葉で相手を焼くような』という比喩により『辛辣な、痛烈な』の意味が発達した。英語 cauterize（焼灼する）も同じギリシャ語系統に属する。",
+    "en": "From Greek kaustikos ('capable of burning'), from kaiein ('to burn'), through Latin causticus and French caustique. The literal chemical and medical sense of burning or corroding gave rise to the figurative sense of language that seems to burn or wound. Cauterize belongs to the same Greek word family."
+  },
+  "synonyms": [
+    {
+      "word": "vitriolic",
+      "note": {
+        "ja": "強烈な敵意・憎悪を帯びた言葉を表す。caustic より感情的で攻撃性が強いことが多い。",
+        "en": "Suggests intensely bitter or hostile language and is often more emotionally aggressive than caustic."
+      }
+    },
+    {
+      "word": "acerbic",
+      "note": {
+        "ja": "鋭く辛辣な口調・文章を表す。caustic と非常に近いが、冷たい機知や知的な辛辣さを感じさせることが多い。",
+        "en": "Very close to caustic, often suggesting dry, sharp, or intellectually biting language."
+      }
+    },
+    {
+      "word": "scathing",
+      "note": {
+        "ja": "批判が非常に厳しく、相手を容赦なく酷評することを強調する。",
+        "en": "Emphasizes devastatingly severe and merciless criticism."
+      }
+    },
+    {
+      "word": "sarcastic",
+      "note": {
+        "ja": "反語・嘲笑などの皮肉によって相手を批判することを表す。",
+        "en": "Specifically involves mocking, ironic, or derisive language."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ätzend / bissig",
+    "it": "caustico",
+    "fr": "caustique",
+    "es": "cáustico"
+  },
+  "collocations": {
+    "ja": [
+      "caustic criticism — 辛辣な批判",
+      "a caustic remark — 痛烈な発言",
+      "a caustic comment — 辛辣なコメント",
+      "caustic wit — 辛辣で鋭い機知",
+      "caustic humor — 辛辣なユーモア",
+      "a caustic response — 痛烈な返答",
+      "a caustic substance — 腐食性物質",
+      "caustic chemicals — 腐食性化学物質"
+    ],
+    "en": [
+      "caustic criticism",
+      "a caustic remark",
+      "a caustic comment",
+      "caustic wit",
+      "caustic humor",
+      "a caustic response",
+      "a caustic substance",
+      "caustic chemicals"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The critic made several caustic remarks about the new production. — その批評家は新作についていくつもの辛辣な発言をした。",
+      "She is known for her caustic wit and dry sense of humor. — 彼女は辛辣な機知と乾いたユーモアで知られている。",
+      "His caustic response silenced the room. — 彼の痛烈な返答で、その場は静まり返った。",
+      "The article offered a caustic critique of the company's management. — その記事は会社経営について辛辣な批評を展開した。",
+      "Workers must wear protective equipment when handling caustic chemicals. — 作業員は腐食性化学物質を扱う際に保護具を着用しなければならない。"
+    ],
+    "en": [
+      "The critic made several caustic remarks about the new production.",
+      "She is known for her caustic wit and dry sense of humor.",
+      "His caustic response silenced the room.",
+      "The article offered a caustic critique of the company's management.",
+      "Workers must wear protective equipment when handling caustic chemicals."
+    ]
+  }
+},
+{
+  "id": "acerbic",
+  "sid": "2026-00091",
+  "word": "acerbic",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "speech",
+    "character",
+    "figurative"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈsɝːbɪk/",
+      "uk": "/əˈsɜːbɪk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（口調・発言・文章などが）辛辣な、鋭い",
+      "皮肉の効いた、とげのある",
+      "（まれに味が）酸っぱい、渋い"
+    ],
+    "en": [
+      "sharp, critical, and often sarcastic in tone",
+      "biting or cutting in speech or writing",
+      "sour or bitter in taste"
+    ]
+  },
+  "nuance": {
+    "ja": "主に人の口調・機知・ユーモア・文章・批評などについて使い、知的で冷静ながら、とげのある辛辣さを表す。単なる rude や harsh とは異なり、鋭い観察力や機知を感じさせることも多い。caustic と非常に近いが、caustic は『腐食する・焼く』ように相手を傷つける鋭さを強調し、acerbic は『酸っぱい・渋い』味のような鋭く苦みのある口調を連想させる。vitriolic ほど強い敵意や憎悪を必要としない。",
+    "en": "Acerbic is mainly used of someone's tone, wit, humor, writing, or criticism. It suggests a sharp, biting quality that may also seem intelligent, dry, or witty. It is close to caustic, but caustic evokes corrosive verbal force, whereas acerbic suggests a sour, sharp, or bitter edge. It does not normally imply the intense hostility associated with vitriolic."
+  },
+  "minimal": {
+    "ja": [
+      "acerbic：酸っぱい味のように鋭く、とげのある辛辣な口調。知的・ドライな皮肉にも。",
+      "caustic：腐食するように鋭く、相手を傷つけるほど辛辣。",
+      "scathing：相手を徹底的に酷評するほど痛烈。",
+      "vitriolic：激しい敵意・憎悪に満ちた辛辣な言葉。",
+      "sarcastic：皮肉・反語・嘲笑によって相手を刺す。",
+      "tart：発言がぴりっと辛辣。acerbic より軽く日常的。"
+    ],
+    "en": [
+      "acerbic describes a sharp, sour, biting tone, often with dry wit.",
+      "caustic suggests corrosive, cutting verbal sharpness.",
+      "scathing emphasizes devastatingly severe criticism.",
+      "vitriolic emphasizes bitter hostility and malice.",
+      "sarcastic specifically involves mocking or ironic criticism.",
+      "tart describes pleasantly or sharply biting remarks and is generally lighter than acerbic."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 acerbus『酸っぱい、苦い、渋い；厳しい』に由来する。もともとは果実などの刺激的で渋い味を表し、そこから人の態度・言葉について『苦々しい、厳しい、辛辣な』という比喩的意味が発達した。acerbity は同じ語から派生した名詞で『辛辣さ、厳しさ』を意味する。",
+    "en": "From Latin acerbus ('sour, bitter, harsh'). Originally associated with an astringent or unpleasant taste, it developed the figurative sense of sharpness or bitterness in speech and manner. Acerbity, meaning sharpness or bitterness of tone, belongs to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "caustic",
+      "note": {
+        "ja": "相手を腐食するように傷つける鋭い皮肉・批評。acerbic より攻撃性を感じさせることがある。",
+        "en": "Suggests corrosive, cutting criticism and can sound more aggressively hurtful than acerbic."
+      }
+    },
+    {
+      "word": "scathing",
+      "note": {
+        "ja": "批判・論評などが容赦なく痛烈であることを強調する。",
+        "en": "Emphasizes mercilessly severe or devastating criticism."
+      }
+    },
+    {
+      "word": "sarcastic",
+      "note": {
+        "ja": "反語・嘲笑などによって相手をからかったり批判したりすることに重点がある。",
+        "en": "Emphasizes mockery or criticism expressed through irony."
+      }
+    },
+    {
+      "word": "tart",
+      "note": {
+        "ja": "味の『酸っぱい』から、発言の『ぴりっと辛辣な』にも使う。acerbic より軽い。",
+        "en": "Also extends from sour taste to sharp speech, but is usually lighter and less formal than acerbic."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "bissig / scharfzüngig",
+    "it": "acerbo / pungente",
+    "fr": "acerbe",
+    "es": "acerbo / mordaz"
+  },
+  "collocations": {
+    "ja": [
+      "acerbic wit — 辛辣で鋭い機知",
+      "acerbic humor — 辛辣なユーモア",
+      "an acerbic remark — とげのある辛辣な発言",
+      "an acerbic comment — 辛辣なコメント",
+      "acerbic criticism — 辛辣な批判",
+      "an acerbic tone — とげのある口調",
+      "acerbic commentary — 辛辣な論評",
+      "an acerbic response — 辛辣な返答"
+    ],
+    "en": [
+      "acerbic wit",
+      "acerbic humor",
+      "an acerbic remark",
+      "an acerbic comment",
+      "acerbic criticism",
+      "an acerbic tone",
+      "acerbic commentary",
+      "an acerbic response"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The columnist is known for his acerbic wit and sharp political commentary. — そのコラムニストは辛辣な機知と鋭い政治評論で知られている。",
+      "She made an acerbic remark about the quality of the proposal. — 彼女はその提案の質について辛辣な一言を放った。",
+      "His acerbic humor made him both admired and feared by his colleagues. — 彼の辛辣なユーモアは、同僚たちから賞賛されると同時に恐れられる理由にもなった。",
+      "The reviewer offered an acerbic assessment of the new novel. — その書評家は新作小説について辛辣な評価を下した。",
+      "He responded in his usual acerbic tone. — 彼はいつものとげのある辛辣な口調で答えた。"
+    ],
+    "en": [
+      "The columnist is known for his acerbic wit and sharp political commentary.",
+      "She made an acerbic remark about the quality of the proposal.",
+      "His acerbic humor made him both admired and feared by his colleagues.",
+      "The reviewer offered an acerbic assessment of the new novel.",
+      "He responded in his usual acerbic tone."
+    ]
+  }
+},
+{
+  "id": "scathing",
+  "sid": "2026-00092",
+  "word": "scathing",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "speech",
+    "criticism",
+    "figurative"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈskeɪðɪŋ/",
+      "uk": "/ˈskeɪðɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（批判・論評などが）痛烈な、容赦のない",
+      "手厳しく非難する",
+      "相手を徹底的にこき下ろすような"
+    ],
+    "en": [
+      "extremely severe and critical",
+      "harshly condemning or ridiculing",
+      "expressing devastating criticism"
+    ]
+  },
+  "nuance": {
+    "ja": "批判・書評・報告書・発言などが非常に厳しく、対象の欠点や失敗を容赦なく指摘・非難することを表す。acerbic が口調の鋭さや辛辣な機知、caustic が相手を傷つけるような切れ味、vitriolic が強い敵意や憎悪を強調するのに対し、scathing は『批判そのものが徹底的で痛烈』であることに重点がある。したがって、内容が正当で冷静な批判であっても scathing と表現できる。",
+    "en": "Scathing describes criticism, reviews, reports, or remarks that are extremely severe and unsparing. Unlike acerbic, which often emphasizes a sharp or witty tone, caustic, which suggests cutting verbal force, or vitriolic, which implies bitter hostility, scathing primarily emphasizes the devastating severity of the criticism itself. A scathing assessment can therefore be calm and justified rather than malicious."
+  },
+  "minimal": {
+    "ja": [
+      "scathing：容赦なく徹底的に酷評・非難するほど痛烈。",
+      "acerbic：鋭くとげのある辛辣な口調。知的・ドライな皮肉にも。",
+      "caustic：腐食するように鋭く、相手を傷つけるほど辛辣。",
+      "vitriolic：激しい敵意・憎悪に満ちた辛辣な言葉。",
+      "sarcastic：皮肉・反語・嘲笑によって相手を刺す。",
+      "damning：証拠・報告・批判などが対象に決定的な打撃を与えるほど不利。"
+    ],
+    "en": [
+      "scathing emphasizes devastatingly severe and unsparing criticism.",
+      "acerbic describes a sharp, biting, often dry or witty tone.",
+      "caustic suggests corrosive, cutting verbal sharpness.",
+      "vitriolic emphasizes bitter hostility and malice.",
+      "sarcastic specifically involves mocking or ironic criticism.",
+      "damning describes evidence, criticism, or findings that are extremely damaging or condemnatory."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 scathe『傷つける、害する』の現在分詞に由来する。scathe は古ノルド語 skaða『傷つける、害する』にさかのぼり、ドイツ語 Schaden『損害』、schaden『害する』、英語の scathe と同じゲルマン語族に属する。したがって scathing は文字通りには『傷つけるような』という意味で、そこから『言葉・批判が相手を傷つけるほど痛烈な』という意味になった。",
+    "en": "From the present participle of scathe ('to harm or injure'), ultimately from Old Norse skaða ('to harm'). It belongs to the same Germanic word family as German Schaden ('damage') and schaden ('to harm'). Scathing therefore literally carries the idea of criticism that wounds or damages."
+  },
+  "synonyms": [
+    {
+      "word": "acerbic",
+      "note": {
+        "ja": "口調・機知・文章の鋭く辛辣な性質を強調する。scathing ほど徹底的な酷評を意味しない。",
+        "en": "Emphasizes a sharp, biting tone or wit without necessarily implying devastating criticism."
+      }
+    },
+    {
+      "word": "caustic",
+      "note": {
+        "ja": "発言・皮肉などが相手を傷つけるほど鋭いことを強調する。",
+        "en": "Emphasizes cutting or corrosive verbal sharpness."
+      }
+    },
+    {
+      "word": "vitriolic",
+      "note": {
+        "ja": "批判の厳しさだけでなく、強い敵意・憎悪を帯びていることを強調する。",
+        "en": "Adds a strong sense of bitterness, hostility, or malice."
+      }
+    },
+    {
+      "word": "damning",
+      "note": {
+        "ja": "批判や証拠などが対象の評判・立場を決定的に損なうことを強調する。",
+        "en": "Emphasizes evidence or criticism that seriously damages someone's position or reputation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "vernichtend / beißend",
+    "it": "feroce / sferzante",
+    "fr": "cinglant",
+    "es": "demoledor / mordaz"
+  },
+  "collocations": {
+    "ja": [
+      "scathing criticism — 痛烈な批判",
+      "a scathing attack — 容赦のない非難",
+      "a scathing review — 酷評",
+      "a scathing report — 厳しく批判する報告書",
+      "a scathing assessment — 手厳しい評価",
+      "a scathing remark — 痛烈な発言",
+      "a scathing response — 痛烈な反論・返答",
+      "a scathing indictment of — ～に対する痛烈な糾弾"
+    ],
+    "en": [
+      "scathing criticism",
+      "a scathing attack",
+      "a scathing review",
+      "a scathing report",
+      "a scathing assessment",
+      "a scathing remark",
+      "a scathing response",
+      "a scathing indictment of"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The film received a scathing review from the critic. — その映画は批評家から酷評された。",
+      "The report offered a scathing assessment of the company's management. — その報告書は会社経営について極めて厳しい評価を下した。",
+      "She launched a scathing attack on the government's handling of the crisis. — 彼女は政府の危機対応を痛烈に非難した。",
+      "The judge was scathing in his criticism of the investigation. — 裁判官はその捜査を容赦なく批判した。",
+      "The article is a scathing indictment of corruption within the organization. — その記事は組織内部の腐敗を痛烈に糾弾するものである。"
+    ],
+    "en": [
+      "The film received a scathing review from the critic.",
+      "The report offered a scathing assessment of the company's management.",
+      "She launched a scathing attack on the government's handling of the crisis.",
+      "The judge was scathing in his criticism of the investigation.",
+      "The article is a scathing indictment of corruption within the organization."
+    ]
+  }
 }
 ]
