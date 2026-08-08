@@ -17618,5 +17618,675 @@
       "The infection is contagious but usually mild."
     ]
   }
+},
+{
+  "id": "infectious",
+  "sid": "2026-00151",
+  "word": "infectious",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "health",
+    "disease",
+    "biology",
+    "emotion"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈfekʃəs/",
+      "uk": "/ɪnˈfekʃəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "感染性の、感染を引き起こす",
+      "病原体によって感染する",
+      "感情・笑い・熱意などが周囲にうつる"
+    ],
+    "en": [
+      "capable of causing or spreading infection",
+      "caused by pathogenic microorganisms",
+      "figuratively, easily spreading from one person to another"
+    ]
+  },
+  "nuance": {
+    "ja": "医学では、細菌・ウイルス・真菌・寄生虫などの病原体によって生じる感染や感染症を表す。contagious と重なるが、infectious の方が意味が広く、『感染性がある』『感染症に関する』という医学的・生物学的な語として使いやすい。必ずしも典型的な人から人への直接伝播だけを意味しない。比喩的には laughter, enthusiasm, energy, optimism などについて『周囲にうつるほど強い』という意味でも使う。",
+    "en": "In medical contexts, infectious refers broadly to infection caused by pathogens such as bacteria, viruses, fungi, or parasites. It overlaps with contagious, but infectious is broader and more natural as a medical or biological term. It does not necessarily imply simple direct person-to-person spread. Figuratively, it is also common with laughter, enthusiasm, energy, and optimism."
+  },
+  "minimal": {
+    "ja": [
+      "infectious：病原体による感染性・感染症を広く表す。",
+      "contagious：特に人から人へ『うつる』という伝播感が強い。",
+      "communicable：人から人へ伝播可能な。公衆衛生で硬い。",
+      "transmissible：伝播可能な。感染経路・病原体にも使う。",
+      "infected：すでに感染している。",
+      "contaminated：病原体や有害物質で汚染されている。"
+    ],
+    "en": [
+      "infectious broadly describes infection caused by pathogens or the ability to spread infection.",
+      "contagious more strongly suggests person-to-person spread.",
+      "communicable is a formal public-health term for diseases that can spread between people.",
+      "transmissible means capable of being passed from one host or person to another.",
+      "infected means already affected by an infection.",
+      "contaminated means tainted by pathogens or harmful substances."
+    ]
+  },
+  "etymology": {
+    "ja": "infection + -ous に由来し、infection はラテン語 infectio『染み込ませること、感染』にさかのぼる。動詞 inficere は in-『中へ』+ facere『する、作る』から成り、原義には『中に作用して変化させる、染める』というイメージがある。そこから『病原体が体内に入り込んで感染させる』という意味が発達した。",
+    "en": "From infection + -ous. Infection ultimately comes from Latin infectio, from inficere ('to stain, taint, infect'), formed from in- and facere ('to make, do'). The underlying idea is of something entering and altering or tainting another thing, which developed into the medical sense of infection."
+  },
+  "synonyms": [
+    {
+      "word": "contagious",
+      "note": {
+        "ja": "非常に近いが、contagious は人から人への伝播をより意識させる。infectious は感染症・病原体という医学的概念をより広く扱う。",
+        "en": "Very close, but contagious more strongly suggests person-to-person spread, while infectious is broader and more medical."
+      }
+    },
+    {
+      "word": "communicable",
+      "note": {
+        "ja": "公衆衛生・疫学で使われる硬い語で、人から人への伝播可能性を表す。",
+        "en": "A formal public-health term emphasizing transmission between people."
+      }
+    },
+    {
+      "word": "transmissible",
+      "note": {
+        "ja": "感染症に限らず『伝達可能』を広く表す技術的な語。",
+        "en": "A broader technical term for anything capable of being transmitted."
+      }
+    },
+    {
+      "word": "catching",
+      "note": {
+        "ja": "『うつる』という口語的な語。infectious よりくだけている。",
+        "en": "An informal word meaning contagious or easily spread."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "infektiös / ansteckend",
+    "it": "infettivo / contagioso",
+    "fr": "infectieux",
+    "es": "infeccioso"
+  },
+  "collocations": {
+    "ja": [
+      "an infectious disease — 感染症",
+      "an infectious agent — 感染因子・病原体",
+      "an infectious organism — 感染性微生物",
+      "highly infectious — 非常に感染性が高い",
+      "infectious material — 感染性物質",
+      "infectious laughter — つられてしまう笑い",
+      "infectious enthusiasm — 周囲に伝わる熱意",
+      "infectious energy — 周囲に伝染するような活気"
+    ],
+    "en": [
+      "an infectious disease",
+      "an infectious agent",
+      "an infectious organism",
+      "highly infectious",
+      "infectious material",
+      "infectious laughter",
+      "infectious enthusiasm",
+      "infectious energy"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Tuberculosis is an infectious disease caused by bacteria. — 結核は細菌によって引き起こされる感染症である。",
+      "The patient was isolated because the infection was highly infectious. — その感染症は感染性が非常に高かったため、患者は隔離された。",
+      "Researchers are studying how the infectious agent spreads. — 研究者たちはその病原体がどのように広がるかを調べている。",
+      "Her laugh was so infectious that everyone joined in. — 彼女の笑いはとてもつられやすく、皆も笑い出した。",
+      "His infectious enthusiasm helped motivate the entire team. — 彼の周囲に伝わる熱意がチーム全体のやる気を高めた。"
+    ],
+    "en": [
+      "Tuberculosis is an infectious disease caused by bacteria.",
+      "The patient was isolated because the infection was highly infectious.",
+      "Researchers are studying how the infectious agent spreads.",
+      "Her laugh was so infectious that everyone joined in.",
+      "His infectious enthusiasm helped motivate the entire team."
+    ]
+  }
+},
+{
+  "id": "surefire",
+  "sid": "2026-00152",
+  "word": "surefire",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "certainty",
+    "success",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈʃʊrˌfaɪr/",
+      "uk": "/ˈʃɔːfaɪə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "確実に成功する、間違いのない",
+      "効果がほぼ確実な",
+      "成功・結果が保証されているような"
+    ],
+    "en": [
+      "certain or almost certain to succeed",
+      "very likely to produce the intended result",
+      "reliable as a means of achieving something"
+    ]
+  },
+  "nuance": {
+    "ja": "方法・戦略・商品・アイデアなどについて、『これならまず間違いなくうまくいく』という強い確実性を表す、やや口語的な語。a surefire way to succeed のように way, method, strategy と特によく結びつく。guaranteed ほど文字どおりの保証を意味するわけではなく、話し手が高い確信を持っているというニュアンス。広告・雑誌・会話などでもよく使われる。",
+    "en": "Surefire is a somewhat informal adjective meaning highly reliable or almost certain to succeed. It is especially common with way, method, strategy, hit, and success. It does not necessarily imply a literal guarantee; rather, it expresses strong confidence that something will produce the intended result."
+  },
+  "minimal": {
+    "ja": [
+      "surefire：成功・効果がほぼ確実な。口語的。",
+      "certain：確実な、間違いない。より一般的。",
+      "guaranteed：保証された。文字どおり保証を伴う場合もある。",
+      "foolproof：誰が使っても失敗しにくい。",
+      "reliable：安定して信頼できる。",
+      "infallible：絶対に誤らない。かなり強い。"
+    ],
+    "en": [
+      "surefire means almost certain to succeed or produce the intended result.",
+      "certain is the general word for something definite or assured.",
+      "guaranteed means explicitly promised or assured.",
+      "foolproof means designed so that even an inexperienced person is unlikely to fail.",
+      "reliable means consistently dependable.",
+      "infallible means incapable of making mistakes or failing."
+    ]
+  },
+  "etymology": {
+    "ja": "sure + fire から成る。もともとは銃器について、引き金を引けば確実に発火することを表した語で、『確実に発火する』→『確実に作動する』→『成功がほぼ確実な』という比喩的意味へ発展した。現代では銃器の意味よりも比喩的な『間違いのない方法』という用法の方が一般的。",
+    "en": "Formed from sure + fire. It originally described a firearm that could be relied on to fire when triggered. From the idea of something firing with certainty came the figurative sense of a method, plan, or product that is almost certain to work or succeed."
+  },
+  "synonyms": [
+    {
+      "word": "guaranteed",
+      "note": {
+        "ja": "結果が保証されていることを表す。surefire は必ずしも正式な保証ではなく、強い確信を表す。",
+        "en": "Suggests an explicit assurance or guarantee, whereas surefire often expresses strong confidence rather than a literal guarantee."
+      }
+    },
+    {
+      "word": "foolproof",
+      "note": {
+        "ja": "失敗しにくい設計・方法であることに重点がある。surefire は成功する確率そのものを強調する。",
+        "en": "Focuses on being difficult to misuse or fail at, while surefire emphasizes the likelihood of success."
+      }
+    },
+    {
+      "word": "reliable",
+      "note": {
+        "ja": "長期的・継続的に信頼できることを表す。surefire は特定の結果が出る確実性を強く示す。",
+        "en": "Emphasizes consistent dependability, while surefire emphasizes certainty of a particular successful result."
+      }
+    },
+    {
+      "word": "infallible",
+      "note": {
+        "ja": "誤り・失敗が絶対にないという非常に強い語。surefire より硬く絶対的。",
+        "en": "Much stronger and more absolute, meaning incapable of error or failure."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "todsicher / erfolgssicher",
+    "it": "sicuro / infallibile",
+    "fr": "infaillible / sûr",
+    "es": "infalible / seguro"
+  },
+  "collocations": {
+    "ja": [
+      "a surefire way — 間違いのない方法",
+      "a surefire method — 確実な方法",
+      "a surefire strategy — 成功がほぼ確実な戦略",
+      "a surefire recipe for success — 成功への確実な方程式",
+      "a surefire hit — 間違いなくヒットするもの",
+      "a surefire success — ほぼ確実な成功",
+      "a surefire sign — 確かな兆候",
+      "a surefire way to fail — 確実に失敗する方法"
+    ],
+    "en": [
+      "a surefire way",
+      "a surefire method",
+      "a surefire strategy",
+      "a surefire recipe for success",
+      "a surefire hit",
+      "a surefire success",
+      "a surefire sign",
+      "a surefire way to fail"
+    ]
+  },
+  "example": {
+    "ja": [
+      "There is no surefire way to predict the market. — 市場を予測する確実な方法はない。",
+      "Good preparation is a surefire way to reduce unnecessary mistakes. — 十分な準備は不要なミスを減らす確実な方法だ。",
+      "The studio believed the film would be a surefire hit. — 映画会社はその作品が間違いなくヒットすると考えていた。",
+      "Ignoring customer complaints is a surefire way to damage your reputation. — 顧客の苦情を無視することは、評判を確実に傷つける方法だ。",
+      "His sudden silence was a surefire sign that something was wrong. — 彼が急に黙ったことは、何かがおかしい確かな兆候だった。"
+    ],
+    "en": [
+      "There is no surefire way to predict the market.",
+      "Good preparation is a surefire way to reduce unnecessary mistakes.",
+      "The studio believed the film would be a surefire hit.",
+      "Ignoring customer complaints is a surefire way to damage your reputation.",
+      "His sudden silence was a surefire sign that something was wrong."
+    ]
+  }
+},
+{
+  "id": "foolproof",
+  "sid": "2026-00153",
+  "word": "foolproof",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "reliability",
+    "design",
+    "method",
+    "informal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfuːlˌpruːf/",
+      "uk": "/ˈfuːlpruːf/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "誰が使っても失敗しにくい",
+      "誤操作しにくい",
+      "非常に簡単で間違えにくい"
+    ],
+    "en": [
+      "designed so that it is very difficult to use incorrectly",
+      "simple and reliable enough to prevent common mistakes",
+      "unlikely to fail because of user error"
+    ]
+  },
+  "nuance": {
+    "ja": "装置・方法・手順などが、経験の浅い人や不注意な人でも間違えにくいように作られていることを表す。必ずしも『絶対に失敗しない』という意味ではなく、主に人為的ミスを防ぎやすい設計であることに重点がある。surefire が『結果がほぼ確実に成功する』ことを表すのに対し、foolproof は『誤操作・勘違いによる失敗が起きにくい』ことを表す。",
+    "en": "Foolproof describes a design, method, or procedure that is very difficult to use incorrectly, even by an inexperienced or careless person. It does not literally mean incapable of failure; rather, it emphasizes resistance to user error. Unlike surefire, which focuses on the likelihood of a successful result, foolproof focuses on preventing mistakes during use."
+  },
+  "minimal": {
+    "ja": [
+      "foolproof：誰が使っても間違えにくい、誤操作しにくい。",
+      "surefire：成功・効果がほぼ確実。",
+      "reliable：安定して信頼できる。",
+      "failsafe：故障時にも安全側に作動する。",
+      "idiot-proof：foolproof に近いが、よりくだけていて失礼に響くことがある。",
+      "infallible：絶対に誤らない。foolproof より強い。"
+    ],
+    "en": [
+      "foolproof means very difficult to use incorrectly.",
+      "surefire means almost certain to succeed.",
+      "reliable means consistently dependable.",
+      "failsafe means designed to remain safe if something goes wrong.",
+      "idiot-proof is similar to foolproof but more informal and potentially insulting.",
+      "infallible means incapable of making mistakes or failing."
+    ]
+  },
+  "etymology": {
+    "ja": "fool + proof から成る。ここで proof は『～に耐える、～を通さない』という意味で、waterproof『防水の』や fireproof『耐火の』と同じ用法。したがって foolproof は文字どおりには『愚かな使い方にも耐える』という構造で、『誰が使っても間違えにくい』という意味になった。",
+    "en": "Formed from fool + proof. Here, proof means 'resistant to' or 'protected against,' as in waterproof and fireproof. Foolproof therefore literally suggests something resistant to foolish or mistaken use, which developed into the modern sense of being very difficult to use incorrectly."
+  },
+  "synonyms": [
+    {
+      "word": "reliable",
+      "note": {
+        "ja": "安定して期待どおりに機能することに重点がある。foolproof は特に人為的ミスを防ぎやすいことに重点。",
+        "en": "Emphasizes consistent dependable performance, while foolproof specifically emphasizes resistance to user error."
+      }
+    },
+    {
+      "word": "failsafe",
+      "note": {
+        "ja": "故障や異常が起きたときに安全な状態になるよう設計されていることを表す。",
+        "en": "Describes a system designed to remain safe or move to a safe state if failure occurs."
+      }
+    },
+    {
+      "word": "surefire",
+      "note": {
+        "ja": "成功する確実性を表す。foolproof は使用時のミスの起こりにくさを表す。",
+        "en": "Emphasizes certainty of success, whereas foolproof emphasizes resistance to mistakes in use."
+      }
+    },
+    {
+      "word": "idiot-proof",
+      "note": {
+        "ja": "意味は非常に近いが、より口語的で、人を侮辱する響きがあるため使用には注意。",
+        "en": "Very similar in meaning but more colloquial and potentially insulting."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "narrensicher / idiotensicher",
+    "it": "a prova di errore / infallibile",
+    "fr": "infaillible / à toute épreuve",
+    "es": "a prueba de errores / infalible"
+  },
+  "collocations": {
+    "ja": [
+      "a foolproof method — 間違えにくい方法",
+      "a foolproof system — 誤操作しにくいシステム",
+      "a foolproof plan — 失敗しにくい計画",
+      "a foolproof procedure — 誰でも間違えにくい手順",
+      "make something foolproof — ～を誤操作しにくくする",
+      "virtually foolproof — ほぼ間違えようのない",
+      "not entirely foolproof — 完全に失敗しないわけではない",
+      "a foolproof way to do something — ～するための間違えにくい方法"
+    ],
+    "en": [
+      "a foolproof method",
+      "a foolproof system",
+      "a foolproof plan",
+      "a foolproof procedure",
+      "make something foolproof",
+      "virtually foolproof",
+      "not entirely foolproof",
+      "a foolproof way to do something"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The instructions are designed to be completely foolproof. — その説明書は、誰でも間違えにくいように作られている。",
+      "We need a foolproof system for preventing duplicate entries. — 重複入力を防ぐため、誤操作しにくいシステムが必要だ。",
+      "The method is simple, but it is not entirely foolproof. — その方法は簡単だが、完全に失敗しないわけではない。",
+      "They developed a nearly foolproof procedure for checking the data. — 彼らはデータ確認のための、ほぼ間違えようのない手順を開発した。",
+      "No security system is completely foolproof. — 完全に破られないセキュリティシステムは存在しない。"
+    ],
+    "en": [
+      "The instructions are designed to be completely foolproof.",
+      "We need a foolproof system for preventing duplicate entries.",
+      "The method is simple, but it is not entirely foolproof.",
+      "They developed a nearly foolproof procedure for checking the data.",
+      "No security system is completely foolproof."
+    ]
+  }
+},
+{
+  "id": "infallible",
+  "sid": "2026-00154",
+  "word": "infallible",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "certainty",
+    "reliability",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈfæləbəl/",
+      "uk": "/ɪnˈfæləbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "絶対に誤らない、無謬の",
+      "決して失敗しない",
+      "完全に信頼できる"
+    ],
+    "en": [
+      "incapable of making mistakes",
+      "incapable of failing",
+      "completely reliable or certain"
+    ]
+  },
+  "nuance": {
+    "ja": "人・判断・方法・制度などについて、『誤りや失敗の可能性がない』という非常に強い意味を持つ。日常語では絶対性が強すぎるため、No system is infallible. のように否定文でよく使われる。surefire は『成功の見込みが非常に高い』、foolproof は『人為的ミスが起きにくい』という意味であり、infallible ほど絶対的ではない。また宗教・神学では『無謬性』という専門的な意味でも使われる。",
+    "en": "Infallible is a very strong word meaning incapable of error or failure. Because this claim is absolute, it is often used in negative statements such as No system is infallible. Surefire means highly likely to succeed, and foolproof means resistant to user error; neither is as absolute as infallible. The word also has specialized uses in religious and theological contexts involving infallibility."
+  },
+  "minimal": {
+    "ja": [
+      "infallible：絶対に誤らない、失敗しない。",
+      "surefire：成功・効果がほぼ確実。",
+      "foolproof：誰が使っても間違えにくい。",
+      "reliable：継続的に信頼できる。",
+      "unerring：判断・狙いなどが決して外れない。",
+      "flawless：欠点・ミスがない。必ずしも将来も失敗しないという意味ではない。"
+    ],
+    "en": [
+      "infallible means incapable of error or failure.",
+      "surefire means almost certain to succeed.",
+      "foolproof means very difficult to use incorrectly.",
+      "reliable means consistently dependable.",
+      "unerring means consistently accurate and never missing the mark.",
+      "flawless means without defects or mistakes, but not necessarily incapable of future failure."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 infallibilis『欺かれない、誤らない』に由来する。in-『～でない』+ fallere『欺く、誤らせる』から成る。したがって原義は『欺かれることのない』。fallible『誤り得る』の反対語であり、failure や false とも遠い語源的つながりを持つ。",
+    "en": "From Latin infallibilis ('not liable to deceive or err'), formed from in- ('not') and fallere ('to deceive, cause to err'). It is the opposite of fallible ('capable of making mistakes') and belongs to a broader historical word family connected with error and deception."
+  },
+  "synonyms": [
+    {
+      "word": "unerring",
+      "note": {
+        "ja": "判断・感覚・狙いなどがいつも正確で外れないことに重点がある。",
+        "en": "Emphasizes consistently accurate judgment, instinct, or aim."
+      }
+    },
+    {
+      "word": "reliable",
+      "note": {
+        "ja": "安定して信頼できるという一般語。多少の失敗可能性は残るため、infallible より弱い。",
+        "en": "A general word for dependable performance and does not imply absolute freedom from error."
+      }
+    },
+    {
+      "word": "foolproof",
+      "note": {
+        "ja": "人為的ミスを防ぎやすい設計を表す。完全無欠であるとは限らない。",
+        "en": "Describes resistance to user error and does not imply absolute perfection."
+      }
+    },
+    {
+      "word": "flawless",
+      "note": {
+        "ja": "出来栄え・実行・外観などに欠点がないこと。infallible は誤り得ない能力・性質に重点。",
+        "en": "Describes something without flaws or mistakes, whereas infallible emphasizes an inability to err or fail."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "unfehlbar",
+    "it": "infallibile",
+    "fr": "infaillible",
+    "es": "infalible"
+  },
+  "collocations": {
+    "ja": [
+      "an infallible method — 絶対に失敗しない方法",
+      "an infallible guide — 絶対に間違わない指針",
+      "an infallible test — 絶対確実な検査・判定法",
+      "infallible judgment — 絶対に誤らない判断",
+      "an infallible memory — 完璧に正確な記憶力",
+      "not infallible — 無謬ではない",
+      "far from infallible — 決して絶対確実ではない",
+      "believe someone to be infallible — ～は絶対に誤らないと信じる"
+    ],
+    "en": [
+      "an infallible method",
+      "an infallible guide",
+      "an infallible test",
+      "infallible judgment",
+      "an infallible memory",
+      "not infallible",
+      "far from infallible",
+      "believe someone to be infallible"
+    ]
+  },
+  "example": {
+    "ja": [
+      "No diagnostic test is completely infallible. — 完全に誤りのない診断検査は存在しない。",
+      "He seemed to believe that his judgment was infallible. — 彼は自分の判断が絶対に誤らないと信じているようだった。",
+      "The method is reliable, but it is not infallible. — その方法は信頼できるが、絶対確実というわけではない。",
+      "She has an almost infallible instinct for spotting inconsistencies. — 彼女には矛盾を見抜く、ほとんど外れることのない勘がある。",
+      "History has shown that experts are not infallible. — 歴史は、専門家も決して無謬ではないことを示してきた。"
+    ],
+    "en": [
+      "No diagnostic test is completely infallible.",
+      "He seemed to believe that his judgment was infallible.",
+      "The method is reliable, but it is not infallible.",
+      "She has an almost infallible instinct for spotting inconsistencies.",
+      "History has shown that experts are not infallible."
+    ]
+  }
+},
+{
+  "id": "unerring",
+  "sid": "2026-00155",
+  "word": "unerring",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "accuracy",
+    "judgment",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ʌnˈɝːɪŋ/",
+      "uk": "/ʌnˈɜːrɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "決して誤らない",
+      "狙い・判断などが常に正確な",
+      "外れることのない"
+    ],
+    "en": [
+      "consistently accurate and free from error",
+      "never missing the correct judgment, direction, or target",
+      "reliably precise"
+    ]
+  },
+  "nuance": {
+    "ja": "判断、直感、狙い、方向感覚、選択などについて、『毎回きちんと正しいところを当てる』という意味で使われる。infallible と近いが、infallible はより絶対的に『誤り得ない』ことを表すのに対し、unerring は実際の判断や感覚が一貫して正確であることに重点がある。文学的・やや硬い語で、unerring instinct, unerring judgment, unerring accuracy などが典型。",
+    "en": "Unerring describes judgment, instinct, aim, direction, or choice that is consistently accurate and does not miss the mark. It is close to infallible, but infallible is more absolute and means incapable of error, whereas unerring emphasizes a record or quality of consistently getting things right. It is somewhat formal or literary."
+  },
+  "minimal": {
+    "ja": [
+      "unerring：判断・狙い・感覚などが一貫して正確で外れない。",
+      "infallible：絶対に誤らない、誤り得ない。",
+      "accurate：正確である。",
+      "precise：細部まで精密で正確。",
+      "reliable：継続的に信頼できる。",
+      "flawless：欠点・ミスがない。"
+    ],
+    "en": [
+      "unerring means consistently accurate and never missing the mark.",
+      "infallible means incapable of error.",
+      "accurate means correct and free from significant error.",
+      "precise means exact and detailed.",
+      "reliable means consistently dependable.",
+      "flawless means without defects or mistakes."
+    ]
+  },
+  "etymology": {
+    "ja": "un-『～でない』+ err『誤る、道を外れる』+ -ing から成る。err はラテン語 errare『さまよう、道を外れる、誤る』に由来する。したがって unerring は文字どおり『道を外れない、誤らない』という意味。error, erroneous も同じ語族。",
+    "en": "Formed from un- ('not') + err + -ing. Err comes from Latin errare ('to wander, stray, make a mistake'). Unerring therefore literally means 'not straying' or 'not going wrong.' It belongs to the same word family as error and erroneous."
+  },
+  "synonyms": [
+    {
+      "word": "infallible",
+      "note": {
+        "ja": "絶対に誤ることがないという、より強く絶対的な語。",
+        "en": "A stronger and more absolute word meaning incapable of error."
+      }
+    },
+    {
+      "word": "accurate",
+      "note": {
+        "ja": "正確であることを表す一般語。unerring ほど『毎回外れない』という強さはない。",
+        "en": "The general word for correctness and does not imply the same consistency as unerring."
+      }
+    },
+    {
+      "word": "precise",
+      "note": {
+        "ja": "細部まで正確・精密であることに重点がある。",
+        "en": "Emphasizes exactness and fine detail rather than never being wrong."
+      }
+    },
+    {
+      "word": "sure",
+      "note": {
+        "ja": "確信・確実性を表す一般語。unerring は実際に判断が正しいことに重点がある。",
+        "en": "A broad word for certainty or confidence, while unerring emphasizes actual correctness."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "unfehlbar / treffsicher",
+    "it": "infallibile / sicuro",
+    "fr": "infaillible / sûr",
+    "es": "infalible / certero"
+  },
+  "collocations": {
+    "ja": [
+      "unerring judgment — 決して誤らない判断力",
+      "unerring instinct — 外れることのない直感",
+      "unerring accuracy — 非常に高い正確性",
+      "unerring aim — 決して外れない狙い",
+      "an unerring sense of direction — 決して迷わない方向感覚",
+      "an unerring eye for detail — 細部を見逃さない確かな目",
+      "with unerring precision — 寸分違わぬ正確さで",
+      "with unerring instinct — 確かな直感で"
+    ],
+    "en": [
+      "unerring judgment",
+      "unerring instinct",
+      "unerring accuracy",
+      "unerring aim",
+      "an unerring sense of direction",
+      "an unerring eye for detail",
+      "with unerring precision",
+      "with unerring instinct"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She has an unerring instinct for choosing the right moment to speak. — 彼女には発言すべきタイミングを選ぶ外れない直感がある。",
+      "The detective followed the clues with unerring judgment. — その刑事は確かな判断力で手掛かりを追った。",
+      "He has an unerring eye for small inconsistencies in documents. — 彼には書類の小さな不整合を見逃さない確かな目がある。",
+      "The bird returned to its nest with unerring accuracy. — その鳥は寸分違わぬ正確さで巣に戻った。",
+      "Her sense of direction is almost unerring. — 彼女の方向感覚はほとんど外れることがない。"
+    ],
+    "en": [
+      "She has an unerring instinct for choosing the right moment to speak.",
+      "The detective followed the clues with unerring judgment.",
+      "He has an unerring eye for small inconsistencies in documents.",
+      "The bird returned to its nest with unerring accuracy.",
+      "Her sense of direction is almost unerring."
+    ]
+  }
 }
 ]
