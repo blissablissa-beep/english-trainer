@@ -12230,5 +12230,950 @@
       "After an exhaustive examination of the evidence, the committee reached its conclusion."
     ]
   }
+},
+{
+  "id": "comprehensive",
+  "sid": "2026-00111",
+  "word": "comprehensive",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "analysis",
+    "coverage",
+    "completeness"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkɑːmprɪˈhensɪv/",
+      "uk": "/ˌkɒmprɪˈhensɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "包括的な、総合的な",
+      "広範囲を網羅した",
+      "必要な事項を幅広く含む"
+    ],
+    "en": [
+      "including all or nearly all important aspects of something",
+      "covering a subject broadly and in detail",
+      "complete enough to deal with a subject as a whole"
+    ]
+  },
+  "nuance": {
+    "ja": "あるテーマ・制度・問題などについて、重要な側面を幅広く含み、全体像を十分にカバーしていることを表す。report, review, study, plan, reform, guide, insurance などと非常によく使われる。thorough が『一つ一つを注意深く徹底的に扱う』という作業の質を強調するのに対し、comprehensive は『対象範囲が広く、重要な要素を幅広く含む』というカバー範囲に重点がある。exhaustive より弱く、必ずしも考えられる項目を一つ残らず扱ったことまでは意味しない。",
+    "en": "Comprehensive emphasizes broad coverage of all or nearly all important aspects of a subject. It is very common with report, review, study, plan, reform, guide, and insurance. Thorough focuses more on how carefully and completely something is done, whereas comprehensive focuses on the breadth of what is included. It is generally less absolute than exhaustive and does not necessarily claim that every conceivable detail or possibility has been covered."
+  },
+  "minimal": {
+    "ja": [
+      "comprehensive：重要な側面を幅広く含み、全体を十分にカバーする。",
+      "thorough：細部まで注意を払い、抜かりなく徹底的に行う。",
+      "exhaustive：可能な項目・論点をほぼすべて尽くすほど網羅的。",
+      "extensive：量・規模・範囲が非常に大きい。網羅性は必須でない。",
+      "inclusive：特定の人・物・要素を排除せず含む。",
+      "all-inclusive：必要なもの・料金などをすべて含む。"
+    ],
+    "en": [
+      "comprehensive means broadly covering all or nearly all important aspects.",
+      "thorough emphasizes careful and complete treatment.",
+      "exhaustive means covering virtually every relevant item or possibility.",
+      "extensive emphasizes large scope, amount, or range rather than completeness.",
+      "inclusive emphasizes including rather than excluding particular people or elements.",
+      "all-inclusive means including everything specified or needed."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 comprehendere『つかむ、包含する、理解する』に由来する。com-『共に、完全に』+ prehendere『つかむ』から成り、文字どおりには『まとめてつかむ』というイメージを持つ。そこから『全体を包含する』という comprehensive の意味が生じた。同じ語族には comprehend『理解する』、comprehension『理解』、apprehend『捕らえる・理解する』などがある。",
+    "en": "From Latin comprehendere ('to grasp, seize, include, understand'), formed from com- ('together, completely') and prehendere ('to grasp'). The literal image is therefore of grasping things together, which developed into the sense of including or covering a whole range of elements. Comprehend, comprehension, and apprehend belong to the same historical word family."
+  },
+  "synonyms": [
+    {
+      "word": "thorough",
+      "note": {
+        "ja": "注意深さ・徹底性に重点がある。comprehensive は対象範囲の広さと網羅性に重点。",
+        "en": "Emphasizes carefulness and thorough treatment, whereas comprehensive emphasizes breadth of coverage."
+      }
+    },
+    {
+      "word": "exhaustive",
+      "note": {
+        "ja": "関連する項目をほぼ残らず尽くすという、より強い網羅性を表す。",
+        "en": "Stronger than comprehensive, suggesting that virtually nothing relevant has been left out."
+      }
+    },
+    {
+      "word": "extensive",
+      "note": {
+        "ja": "単純に範囲・量・規模が大きいことを表し、全体をカバーしているとは限らない。",
+        "en": "Indicates large scope or amount but does not necessarily imply complete or balanced coverage."
+      }
+    },
+    {
+      "word": "inclusive",
+      "note": {
+        "ja": "何かを排除せず含めることに重点があり、comprehensive のような全体的な網羅性とは異なる。",
+        "en": "Focuses on including particular groups or elements rather than on broad overall coverage."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "umfassend",
+    "it": "completo / esauriente",
+    "fr": "complet / global",
+    "es": "integral / completo"
+  },
+  "collocations": {
+    "ja": [
+      "a comprehensive review — 包括的な検討",
+      "a comprehensive analysis — 総合的な分析",
+      "a comprehensive study — 包括的な研究",
+      "a comprehensive report — 総合的な報告書",
+      "a comprehensive guide — 網羅的なガイド",
+      "a comprehensive plan — 総合的な計画",
+      "comprehensive reform — 包括的な改革",
+      "comprehensive coverage — 幅広い補償・報道・カバー範囲"
+    ],
+    "en": [
+      "a comprehensive review",
+      "a comprehensive analysis",
+      "a comprehensive study",
+      "a comprehensive report",
+      "a comprehensive guide",
+      "a comprehensive plan",
+      "comprehensive reform",
+      "comprehensive coverage"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The report provides a comprehensive overview of the current system. — その報告書は現行制度について包括的な概観を提供している。",
+      "We need a comprehensive strategy rather than a series of temporary measures. — 一連の一時的な措置ではなく、総合的な戦略が必要だ。",
+      "The study offers a comprehensive analysis of the available evidence. — その研究は利用可能な証拠について包括的な分析を行っている。",
+      "The book is intended as a comprehensive guide to European trademark law. — その本は欧州商標法の総合的なガイドとして書かれている。",
+      "The review is comprehensive, though not exhaustive. — その検討は包括的ではあるが、あらゆる事項を余すところなく網羅しているわけではない。"
+    ],
+    "en": [
+      "The report provides a comprehensive overview of the current system.",
+      "We need a comprehensive strategy rather than a series of temporary measures.",
+      "The study offers a comprehensive analysis of the available evidence.",
+      "The book is intended as a comprehensive guide to European trademark law.",
+      "The review is comprehensive, though not exhaustive."
+    ]
+  }
+},
+{
+  "id": "illustrative",
+  "sid": "2026-00112",
+  "word": "illustrative",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "explanation",
+    "examples",
+    "legal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪˈlʌstrətɪv/",
+      "uk": "/ˈɪləstrətɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "例示的な、説明のための",
+      "具体例として示す",
+      "理解を助けるために例証する"
+    ],
+    "en": [
+      "serving as an example that helps explain or clarify something",
+      "intended to illustrate a general principle or idea",
+      "provided as an example rather than as a complete or exhaustive account"
+    ]
+  },
+  "nuance": {
+    "ja": "ある原則・概念・傾向などを理解しやすくするため、具体的な例として示されていることを表す。example, case, purpose などとよく使われる。特に法律・契約・ガイドラインなどでは、illustrative は『例として挙げたものであり、それ以外を排除する趣旨ではない』という意味で exhaustive と対比されることがある。なお illustrate には『挿絵を入れる』という意味もあるが、illustrative は文脈によっては単に『説明・例証に役立つ』という意味であり、必ずしも絵や図とは関係しない。",
+    "en": "Illustrative describes something used as an example to make a principle, concept, or tendency clearer. It is common with example, case, and purpose. In legal, contractual, and policy contexts, illustrative may indicate that examples are given for explanation and are not intended to exclude other possibilities, and it is therefore often contrasted with exhaustive. Although illustrate can also mean to provide pictures, illustrative in this sense need not involve any visual material."
+  },
+  "minimal": {
+    "ja": [
+      "illustrative：原則・概念を分かりやすくするため『例として示す』。",
+      "exemplary：模範となるほど優れている。または硬い用法で『例としての』。",
+      "representative：より大きな集団・種類の典型として代表する。",
+      "explanatory：何かを説明するための。",
+      "indicative：何かの存在・傾向を示唆する。",
+      "exhaustive：関連する項目・可能性をほぼすべて網羅する。illustrative と対比される。"
+    ],
+    "en": [
+      "illustrative means serving as an example to explain or clarify something.",
+      "exemplary usually means worthy of imitation, though it can formally mean serving as an example.",
+      "representative means typical of or standing for a larger group or category.",
+      "explanatory means intended to explain something.",
+      "indicative means serving as a sign or indication of something.",
+      "exhaustive means covering virtually every relevant item or possibility and often contrasts with illustrative."
+    ]
+  },
+  "etymology": {
+    "ja": "illustrate + -ive に由来する。illustrate はラテン語 illustrare『明るくする、照らす、明らかにする』にさかのぼり、illustris『明るい、輝かしい、明白な』と同系。もともとのイメージは『光を当てて明らかにする』ことであり、そこから『説明によって明確にする』『具体例を挙げて理解させる』という意味が発達した。illustration も同じ語族である。",
+    "en": "From illustrate + -ive. Illustrate ultimately comes from Latin illustrare ('to illuminate, make clear'), related to illustris ('bright, distinguished, clear'). The underlying image is that of shedding light on something, which developed into the senses of clarifying an idea through explanation or examples and, separately, providing visual illustrations."
+  },
+  "synonyms": [
+    {
+      "word": "exemplary",
+      "note": {
+        "ja": "現代英語では通常『模範的な、称賛に値する』の意味が強い。illustrative は単に説明のための例であり、優れている必要はない。",
+        "en": "In modern usage, exemplary usually means worthy of imitation. Something illustrative merely serves as an example and need not be admirable."
+      }
+    },
+    {
+      "word": "representative",
+      "note": {
+        "ja": "ある集団・種類の特徴を典型的に代表することに重点がある。illustrative は説明に役立つ例であれば、必ずしも典型例でなくてもよい。",
+        "en": "Emphasizes being typical of a larger class or group, whereas an illustrative example need not be statistically or typically representative."
+      }
+    },
+    {
+      "word": "explanatory",
+      "note": {
+        "ja": "説明する機能そのものを広く表す。illustrative は特に具体例によって説明することを示しやすい。",
+        "en": "Broadly describes something intended to explain, while illustrative often suggests clarification through examples."
+      }
+    },
+    {
+      "word": "indicative",
+      "note": {
+        "ja": "証拠・兆候として何かを示すことに重点がある。illustrative のような『説明のための例』とは異なる。",
+        "en": "Means serving as a sign or indication, rather than primarily as an example for clarification."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "beispielhaft / veranschaulichend",
+    "it": "illustrativo / esemplificativo",
+    "fr": "illustratif",
+    "es": "ilustrativo"
+  },
+  "collocations": {
+    "ja": [
+      "an illustrative example — 説明のための具体例",
+      "an illustrative case — 例示的な事例",
+      "an illustrative list — 例示的な一覧",
+      "for illustrative purposes — 説明・例示のために",
+      "purely illustrative — あくまで例示的な",
+      "merely illustrative — 単なる例示にすぎない",
+      "illustrative rather than exhaustive — 網羅的ではなく例示的な",
+      "examples are illustrative, not exhaustive — 例は例示であって網羅的ではない"
+    ],
+    "en": [
+      "an illustrative example",
+      "an illustrative case",
+      "an illustrative list",
+      "for illustrative purposes",
+      "purely illustrative",
+      "merely illustrative",
+      "illustrative rather than exhaustive",
+      "examples are illustrative, not exhaustive"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The following examples are illustrative rather than exhaustive. — 以下の例は網羅的なものではなく、例示を目的としたものである。",
+      "The figures are provided for illustrative purposes only. — これらの数値は説明のための例としてのみ示されている。",
+      "This case is illustrative of the difficulties faced by small businesses. — この事例は小規模企業が直面する困難をよく示している。",
+      "The report includes several illustrative examples of how the rule operates in practice. — その報告書には、その規則が実務上どのように機能するかを示す具体例がいくつか含まれている。",
+      "The list is merely illustrative and should not be regarded as complete. — この一覧はあくまで例示的なものであり、完全なものとみなすべきではない。"
+    ],
+    "en": [
+      "The following examples are illustrative rather than exhaustive.",
+      "The figures are provided for illustrative purposes only.",
+      "This case is illustrative of the difficulties faced by small businesses.",
+      "The report includes several illustrative examples of how the rule operates in practice.",
+      "The list is merely illustrative and should not be regarded as complete."
+    ]
+  }
+},
+{
+  "id": "confrontation",
+  "sid": "2026-00113",
+  "word": "confrontation",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "conflict",
+    "interaction",
+    "politics",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkɑːnfrənˈteɪʃən/",
+      "uk": "/ˌkɒnfrʌnˈteɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "対決、対峙",
+      "衝突、争い",
+      "正面からの対立"
+    ],
+    "en": [
+      "a situation in which people or groups directly oppose or challenge each other",
+      "an angry, hostile, or potentially violent encounter",
+      "a direct conflict or face-to-face clash"
+    ]
+  },
+  "nuance": {
+    "ja": "単に意見や利害が異なる状態ではなく、対立する二者が実際に正面から向き合い、争い・緊張・挑戦が表面化する場面を表す。口論程度から政治的・軍事的対峙まで幅広く使える。conflict は対立・紛争そのものを広く表し、長期間続く場合もあるのに対し、confrontation は『対立する双方が直接ぶつかる局面』というイメージが強い。また confrontation は必ずしも物理的な暴力を意味しない。",
+    "en": "Confrontation emphasizes a direct encounter between opposing people, groups, or forces. It can range from an angry personal exchange to a political or military standoff and does not necessarily involve physical violence. Conflict is broader and may describe an ongoing state of disagreement or struggle, whereas confrontation often focuses on the moment or situation in which opposing sides directly face each other."
+  },
+  "minimal": {
+    "ja": [
+      "confrontation：対立する双方が正面からぶつかる『対決・対峙』。",
+      "conflict：利害・意見・勢力などの対立や争い全般。長期的な状態にも使う。",
+      "clash：意見・性格・勢力などが激しくぶつかる。confrontation より『衝突』感が強い。",
+      "dispute：特定の問題をめぐる論争・紛争。",
+      "standoff：双方が譲らず、にらみ合って膠着した状態。",
+      "altercation：短時間の激しい口論・言い争い。"
+    ],
+    "en": [
+      "confrontation is a direct encounter or showdown between opposing sides.",
+      "conflict is the broad term for disagreement, opposition, or struggle.",
+      "clash emphasizes a sharp or violent collision of views, personalities, or forces.",
+      "dispute is a disagreement or conflict over a particular issue.",
+      "standoff is a confrontation in which neither side is willing or able to give way.",
+      "altercation is a brief but heated verbal argument."
+    ]
+  },
+  "etymology": {
+    "ja": "confront + -ation に由来する。confront は中世ラテン語 confrontare『正面を突き合わせる』にさかのぼり、con-『共に、互いに』+ frons（属格 frontis）『額、顔、前面』から成る。したがって原義は文字どおり『互いに正面を向ける』。そこから『相手と正面から向き合う → 対峙する、対決する』という意味が生まれた。front『前面、正面』とも同じラテン語 frons に由来する。",
+    "en": "From confront + -ation. Confront ultimately comes from Medieval Latin confrontare ('to bring face to face'), based on Latin con- ('together') and frons, frontis ('forehead, face, front'). The literal image is therefore of bringing two sides face to face, which developed into the modern sense of directly opposing or challenging someone."
+  },
+  "synonyms": [
+    {
+      "word": "conflict",
+      "note": {
+        "ja": "最も広い語。対立状態・争い全般を表し、直接顔を合わせる必要はない。",
+        "en": "The broadest term, covering disagreement or struggle without requiring a direct encounter."
+      }
+    },
+    {
+      "word": "clash",
+      "note": {
+        "ja": "激しくぶつかるという瞬間的・動的なイメージが強い。意見の衝突にも物理的衝突にも使える。",
+        "en": "Suggests a sharp, forceful collision and can refer to both disagreements and physical encounters."
+      }
+    },
+    {
+      "word": "standoff",
+      "note": {
+        "ja": "対峙した双方が譲らず、事態が膠着していることを強調する。",
+        "en": "A confrontation in which neither side backs down, producing a deadlock."
+      }
+    },
+    {
+      "word": "altercation",
+      "note": {
+        "ja": "特に人と人との短時間の激しい口論を表す。confrontation より意味が限定的。",
+        "en": "Specifically refers to a brief, heated argument, making it narrower than confrontation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Konfrontation / Auseinandersetzung",
+    "it": "confronto / scontro",
+    "fr": "confrontation / affrontement",
+    "es": "confrontación / enfrentamiento"
+  },
+  "collocations": {
+    "ja": [
+      "a direct confrontation — 直接対決",
+      "a violent confrontation — 暴力的な衝突",
+      "an armed confrontation — 武力衝突",
+      "a military confrontation — 軍事的対峙",
+      "a confrontation with the police — 警察との衝突・対峙",
+      "a confrontation between the two sides — 双方の対決",
+      "avoid confrontation — 対立・衝突を避ける",
+      "lead to a confrontation — 対決・衝突につながる"
+    ],
+    "en": [
+      "a direct confrontation",
+      "a violent confrontation",
+      "an armed confrontation",
+      "a military confrontation",
+      "a confrontation with the police",
+      "a confrontation between the two sides",
+      "avoid confrontation",
+      "lead to a confrontation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He wanted to resolve the issue without a direct confrontation. — 彼は直接対決をせずにその問題を解決したかった。",
+      "The argument eventually led to a violent confrontation. — その口論は最終的に暴力的な衝突へと発展した。",
+      "She tends to avoid confrontation whenever possible. — 彼女はできる限り人との対立を避ける傾向がある。",
+      "The incident raised fears of a military confrontation between the two countries. — その事件によって両国間の軍事的対峙への懸念が高まった。",
+      "A confrontation with his manager seemed inevitable. — 上司との直接対決は避けられないように思われた。"
+    ],
+    "en": [
+      "He wanted to resolve the issue without a direct confrontation.",
+      "The argument eventually led to a violent confrontation.",
+      "She tends to avoid confrontation whenever possible.",
+      "The incident raised fears of a military confrontation between the two countries.",
+      "A confrontation with his manager seemed inevitable."
+    ]
+  }
+},
+{
+  "id": "altercation",
+  "sid": "2026-00114",
+  "word": "altercation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "conflict",
+    "argument",
+    "interaction",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɔːltərˈkeɪʃən/",
+      "uk": "/ˌɒltəˈkeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "激しい口論、言い争い",
+      "短時間の激しい口げんか",
+      "口論によるいざこざ"
+    ],
+    "en": [
+      "a noisy or angry argument",
+      "a brief but heated verbal dispute",
+      "an angry exchange of words between people"
+    ]
+  },
+  "nuance": {
+    "ja": "人と人との間で起こる、比較的短時間だが感情的で激しい口論を表す。argument より硬く、単なる意見の相違ではなく、怒鳴り合い・険悪な応酬などを連想させやすい。基本的には verbal な争いであり、それ自体が殴り合いを意味するわけではないが、文脈によっては身体的衝突を伴ったり、それへ発展したりすることもある。confrontation は直接的な対峙全般を表すため、政治的・軍事的対決にも使えるが、altercation は通常、個人間の具体的な言い争いを指す。",
+    "en": "Altercation refers to a relatively brief but heated and often noisy argument between people. It is more formal than argument and usually suggests anger, hostility, or an exchange of harsh words rather than mere disagreement. It is primarily verbal and does not by itself mean a physical fight, although an altercation may accompany or escalate into physical violence. Unlike confrontation, which can describe political, military, or other direct opposition, altercation normally refers to a specific interpersonal quarrel."
+  },
+  "minimal": {
+    "ja": [
+      "altercation：短時間だが激しい、怒った口論・言い争い。やや硬い語。",
+      "argument：口論・議論を広く表す一般語。",
+      "quarrel：人間関係上の口げんか・いさかい。argument より個人的。",
+      "confrontation：対立する双方が正面からぶつかる対決・対峙。",
+      "clash：双方が激しくぶつかる衝突。言葉にも物理的衝突にも使える。",
+      "brawl：騒々しい殴り合い・乱闘。altercation より明確に身体的。"
+    ],
+    "en": [
+      "altercation is a brief, heated, often noisy verbal argument.",
+      "argument is the general term for a verbal disagreement or quarrel.",
+      "quarrel often suggests a personal dispute or breakdown in relations.",
+      "confrontation is a direct encounter between opposing sides.",
+      "clash emphasizes a sharp or forceful conflict and may be verbal or physical.",
+      "brawl is a noisy physical fight, often involving several people."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 altercatio『論争、口論』に由来し、動詞 altercari『言い争う、互いに応酬する』から派生した。さらに alter『もう一方の、他方の』に関係する。つまり語源的には、二者が『互いに（相手に対して）言葉を返し合う』という発想を持つ。英語 alter『変更する』も綴りは同じ alter を含むが、その意味発達は『別のものにする』という方向に進んだ。",
+    "en": "From Latin altercatio ('dispute, debate, quarrel'), from altercari ('to dispute or wrangle'), ultimately related to alter ('the other of two'). The underlying idea is of two sides exchanging opposing words. English alter ('to change') is historically related to the same Latin alter, though it developed semantically in the direction of making something different."
+  },
+  "synonyms": [
+    {
+      "word": "argument",
+      "note": {
+        "ja": "最も一般的。穏やかな議論から激しい口論まで幅広い。altercation は特に感情的で激しい口論。",
+        "en": "The broad everyday term; altercation specifically suggests a heated and hostile exchange."
+      }
+    },
+    {
+      "word": "quarrel",
+      "note": {
+        "ja": "友人・家族・恋人などの個人的ないさかいにもよく使う。altercation は一回の激しい応酬という事件性が強い。",
+        "en": "Often describes a personal dispute, while altercation more strongly suggests a particular heated incident."
+      }
+    },
+    {
+      "word": "confrontation",
+      "note": {
+        "ja": "直接対決全般を表す広い語。言葉による口論に限定されず、政治・軍事的対峙にも使える。",
+        "en": "A broader term for direct opposition and is not restricted to verbal disputes."
+      }
+    },
+    {
+      "word": "brawl",
+      "note": {
+        "ja": "主として騒々しい殴り合い・乱闘。altercation が基本的に口論なのとは対照的。",
+        "en": "Primarily a noisy physical fight, unlike the normally verbal altercation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Wortgefecht / heftiger Streit",
+    "it": "alterco / litigio",
+    "fr": "altercation",
+    "es": "altercado"
+  },
+  "collocations": {
+    "ja": [
+      "a heated altercation — 激しい口論",
+      "a verbal altercation — 激しい言葉の応酬",
+      "a brief altercation — 短い口論",
+      "a public altercation — 人前での激しい口論",
+      "an altercation with someone — ～との口論",
+      "an altercation between two people — 二人の間の口論",
+      "get into an altercation — 口論になる",
+      "be involved in an altercation — 口論に巻き込まれる・関与する"
+    ],
+    "en": [
+      "a heated altercation",
+      "a verbal altercation",
+      "a brief altercation",
+      "a public altercation",
+      "an altercation with someone",
+      "an altercation between two people",
+      "get into an altercation",
+      "be involved in an altercation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He got into a heated altercation with another customer. — 彼は別の客と激しい口論になった。",
+      "The two men were involved in a brief verbal altercation outside the restaurant. — 二人の男性はレストランの外で短い激しい言い争いになった。",
+      "Police were called after an altercation between two passengers. — 乗客二人の口論の後、警察が呼ばれた。",
+      "What began as a minor disagreement quickly escalated into an angry altercation. — ちょっとした意見の相違から始まったものが、たちまち激しい口論へと発展した。",
+      "The altercation reportedly became physical after several minutes. — 報道によれば、その口論は数分後に身体的な争いへ発展した。"
+    ],
+    "en": [
+      "He got into a heated altercation with another customer.",
+      "The two men were involved in a brief verbal altercation outside the restaurant.",
+      "Police were called after an altercation between two passengers.",
+      "What began as a minor disagreement quickly escalated into an angry altercation.",
+      "The altercation reportedly became physical after several minutes."
+    ]
+  }
+},
+{
+  "id": "brawl",
+  "sid": "2026-00115",
+  "word": "brawl",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "conflict",
+    "violence",
+    "interaction",
+    "news"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable",
+    "forms": "brawl – brawled – brawled"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/brɔːl/",
+      "uk": "/brɔːl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "乱闘、騒々しい喧嘩",
+      "大喧嘩、殴り合い",
+      "乱闘する、大喧嘩する"
+    ],
+    "en": [
+      "a noisy, rough, and often physical fight",
+      "a disorderly fight involving several people",
+      "to fight noisily and roughly"
+    ]
+  },
+  "nuance": {
+    "ja": "騒々しく荒っぽい喧嘩、特に殴る・押すなどの身体的な争いを表す。複数人が入り乱れる乱闘に非常によく使われるが、二人だけの激しい喧嘩にも使用可能。altercation が基本的に激しい言葉の応酬を表すのに対し、brawl は身体的な争いを強く連想させる。fight よりも『無秩序・騒々しさ・荒々しさ』が強く、bar, pub, street, football game などで起きる乱闘を描写する際によく使われる。",
+    "en": "Brawl describes a noisy, rough, disorderly fight, usually involving physical violence. It often suggests several people fighting at once, though it can also refer to a violent fight between two people. Unlike altercation, which is primarily verbal, brawl strongly suggests physical fighting. Compared with the general word fight, brawl adds a sense of noise, disorder, and roughness."
+  },
+  "minimal": {
+    "ja": [
+      "brawl：騒々しく荒っぽい身体的な喧嘩・乱闘。",
+      "altercation：短時間だが激しい口論・言い争い。基本的に言葉。",
+      "fight：喧嘩・戦い全般を表す最も一般的な語。",
+      "scuffle：短時間の小競り合い。押し合い・つかみ合い程度のことも多い。",
+      "melee：多数の人が入り乱れる混戦・乱闘。非常に無秩序。",
+      "fracas：騒々しい喧嘩・騒動。やや硬く、身体的とは限らない。"
+    ],
+    "en": [
+      "brawl is a noisy, rough, usually physical fight.",
+      "altercation is a brief, heated verbal argument.",
+      "fight is the general word for physical or other forms of combat.",
+      "scuffle is a short, confused physical struggle, often relatively minor.",
+      "melee is a confused fight involving many people.",
+      "fracas is a noisy disturbance or quarrel and need not be fully physical."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語の動詞 brawlen『争う、喧嘩する』にさかのぼるが、それ以前の語源は確定していない。フランス語系またはゲルマン語系の語との関連が提案されているものの、決定的ではない。英語では古くから騒々しい争い・喧嘩を表し、そこから現代の『乱闘する』『乱闘』という意味が定着した。",
+    "en": "From Middle English brawlen ('to quarrel or fight'). Its earlier origin is uncertain, and connections with various French or Germanic forms have been proposed without a definitive explanation. The word has long been associated with noisy quarrelling and fighting, leading to the modern noun and verb senses."
+  },
+  "synonyms": [
+    {
+      "word": "fight",
+      "note": {
+        "ja": "身体的な喧嘩から戦闘まで非常に広い一般語。brawl は特に騒々しく無秩序な乱闘。",
+        "en": "The broad general term; brawl specifically suggests a noisy, rough, disorderly fight."
+      }
+    },
+    {
+      "word": "scuffle",
+      "note": {
+        "ja": "短時間の押し合い・つかみ合いなど、小規模な身体的衝突を表しやすい。",
+        "en": "Usually suggests a brief, confused physical struggle that may be less serious than a brawl."
+      }
+    },
+    {
+      "word": "melee",
+      "note": {
+        "ja": "多数の人が入り乱れ、誰が誰と戦っているか分からないような混戦を強調する。",
+        "en": "Emphasizes a confused, disorderly fight involving many people."
+      }
+    },
+    {
+      "word": "fracas",
+      "note": {
+        "ja": "騒々しい口論・喧嘩・騒動を表す。brawl ほど身体的暴力を必須としない。",
+        "en": "Describes a noisy disturbance, quarrel, or fight without necessarily implying the physical violence of a brawl."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Schlägerei / Prügelei",
+    "it": "rissa",
+    "fr": "bagarre",
+    "es": "reyerta / pelea"
+  },
+  "collocations": {
+    "ja": [
+      "a bar brawl — バーでの乱闘",
+      "a pub brawl — パブでの乱闘",
+      "a street brawl — 路上での乱闘",
+      "a drunken brawl — 酔客同士などの乱闘",
+      "a mass brawl — 集団乱闘",
+      "a violent brawl — 激しい乱闘",
+      "get into a brawl — 乱闘になる・乱闘に加わる",
+      "break out into a brawl — 乱闘に発展する"
+    ],
+    "en": [
+      "a bar brawl",
+      "a pub brawl",
+      "a street brawl",
+      "a drunken brawl",
+      "a mass brawl",
+      "a violent brawl",
+      "get into a brawl",
+      "break out into a brawl"
+    ]
+  },
+  "example": {
+    "ja": [
+      "A brawl broke out outside the bar shortly after midnight. — 真夜中を少し過ぎたころ、バーの外で乱闘が始まった。",
+      "Several people were injured in a mass brawl after the match. — 試合後の集団乱闘で数人が負傷した。",
+      "He was arrested after getting into a drunken brawl. — 彼は酔った勢いで乱闘を起こし、逮捕された。",
+      "The argument quickly escalated into a brawl. — 口論はたちまち乱闘へと発展した。",
+      "Players from both teams began brawling on the field. — 両チームの選手たちがフィールド上で乱闘を始めた。"
+    ],
+    "en": [
+      "A brawl broke out outside the bar shortly after midnight.",
+      "Several people were injured in a mass brawl after the match.",
+      "He was arrested after getting into a drunken brawl.",
+      "The argument quickly escalated into a brawl.",
+      "Players from both teams began brawling on the field."
+    ]
+  }
+},
+{
+  "id": "scuffle",
+  "sid": "2026-00116",
+  "word": "scuffle",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "conflict",
+    "physical",
+    "interaction",
+    "news"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable",
+    "forms": "scuffle – scuffled – scuffled"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈskʌfəl/",
+      "uk": "/ˈskʌfəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "小競り合い、もみ合い",
+      "短時間の身体的な争い",
+      "もみ合う、小競り合いをする"
+    ],
+    "en": [
+      "a short and confused physical struggle",
+      "a minor fight involving pushing, grabbing, or wrestling",
+      "to struggle or fight briefly at close quarters"
+    ]
+  },
+  "nuance": {
+    "ja": "短時間で比較的小規模な身体的争いを表し、押し合う、つかみ合う、取り押さえようとするなどの動きを連想させる。必ずしも殴り合いや重大な暴力を伴わない。altercation が主として激しい言葉の応酬なのに対し、scuffle は身体的接触を伴うのが普通。brawl より規模・激しさが小さく、ニュースでは警察とデモ参加者、警備員と群衆、選手同士などの一時的なもみ合いを描写する際によく使われる。",
+    "en": "Scuffle describes a brief, relatively minor, and somewhat confused physical struggle, often involving pushing, grabbing, wrestling, or attempts to restrain someone. It does not necessarily involve punching or serious violence. Unlike altercation, which is primarily verbal, a scuffle normally involves physical contact. It is generally smaller and less violent than a brawl and is common in reports of brief clashes involving police, protesters, security personnel, crowds, or athletes."
+  },
+  "minimal": {
+    "ja": [
+      "scuffle：押し合い・つかみ合いなどの短い身体的な『もみ合い』。",
+      "altercation：短時間だが激しい口論。基本的には言葉。",
+      "brawl：騒々しく荒っぽい本格的な喧嘩・乱闘。",
+      "melee：多数の人が入り乱れる混戦・大混乱。",
+      "skirmish：小規模な戦闘・小競り合い。軍事・比喩にも使う。",
+      "tussle：もみ合い・争奪戦。scuffle より競争的・比喩的にも使いやすい。"
+    ],
+    "en": [
+      "scuffle is a brief physical struggle involving pushing, grabbing, or wrestling.",
+      "altercation is a brief but heated verbal argument.",
+      "brawl is a noisy, rough, usually more violent fight.",
+      "melee is a confused fight involving many people.",
+      "skirmish is a minor fight or military engagement and is also used figuratively.",
+      "tussle is a physical struggle or contest and readily extends to figurative competition."
+    ]
+  },
+  "etymology": {
+    "ja": "16世紀後半の英語に現れ、起源は完全には確定していないが、古ノルド語系の語や英語 shuffle との関連が指摘されている。初期には『足を引きずるように動く、急いで入り乱れて動く』といった意味があり、そこから人々が互いに押したり引いたりして乱雑に動く『もみ合う』という意味が発達した。現代でも動詞には身体が接触しながら争うという動的なイメージが強い。",
+    "en": "The word appears in English in the late 16th century. Its ultimate origin is uncertain, though connections with Scandinavian forms and with shuffle have been proposed. Early senses involved confused or shuffling movement, from which the idea of people pushing and struggling against one another developed. The modern verb retains this strong sense of close, disorderly physical movement."
+  },
+  "synonyms": [
+    {
+      "word": "tussle",
+      "note": {
+        "ja": "身体的なもみ合いに使えるほか、権力・地位・契約などをめぐる争いにも比喩的に使いやすい。",
+        "en": "Can describe a physical struggle but is also readily used figuratively for contests over power, positions, deals, and similar matters."
+      }
+    },
+    {
+      "word": "brawl",
+      "note": {
+        "ja": "scuffle より激しく騒々しく、殴り合いを含む本格的な乱闘を示唆する。",
+        "en": "Suggests a noisier, rougher, and generally more violent fight than a scuffle."
+      }
+    },
+    {
+      "word": "skirmish",
+      "note": {
+        "ja": "本来は軍隊間の小規模な戦闘。日常では小さな衝突・論争にも比喩的に使う。",
+        "en": "Originally a minor military engagement and figuratively a small clash or dispute."
+      }
+    },
+    {
+      "word": "struggle",
+      "note": {
+        "ja": "身体的・精神的な『もがき、奮闘、争い』全般を表す広い語。",
+        "en": "A much broader word covering physical struggles as well as efforts, difficulties, and contests."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Handgemenge / Rangelei",
+    "it": "colluttazione / tafferuglio",
+    "fr": "échauffourée / bousculade",
+    "es": "forcejeo / refriega"
+  },
+  "collocations": {
+    "ja": [
+      "a brief scuffle — 短いもみ合い",
+      "a minor scuffle — 小規模なもみ合い",
+      "a scuffle with police — 警察とのもみ合い",
+      "a scuffle between protesters and police — デモ参加者と警察とのもみ合い",
+      "a scuffle broke out — もみ合いが起きた",
+      "get into a scuffle — もみ合いになる",
+      "be injured in a scuffle — もみ合いで負傷する",
+      "scuffle with security guards — 警備員ともみ合う"
+    ],
+    "en": [
+      "a brief scuffle",
+      "a minor scuffle",
+      "a scuffle with police",
+      "a scuffle between protesters and police",
+      "a scuffle broke out",
+      "get into a scuffle",
+      "be injured in a scuffle",
+      "scuffle with security guards"
+    ]
+  },
+  "example": {
+    "ja": [
+      "A brief scuffle broke out near the entrance. — 入り口付近で短いもみ合いが起きた。",
+      "Several protesters scuffled with police outside the building. — 数人のデモ参加者が建物の外で警察ともみ合った。",
+      "He suffered a minor injury during a scuffle with a security guard. — 彼は警備員とのもみ合いで軽傷を負った。",
+      "The argument led to a scuffle, but no one was seriously hurt. — 口論はもみ合いに発展したが、重傷者はいなかった。",
+      "The two players got into a scuffle after the final whistle. — 試合終了の笛の後、二人の選手がもみ合いになった。"
+    ],
+    "en": [
+      "A brief scuffle broke out near the entrance.",
+      "Several protesters scuffled with police outside the building.",
+      "He suffered a minor injury during a scuffle with a security guard.",
+      "The argument led to a scuffle, but no one was seriously hurt.",
+      "The two players got into a scuffle after the final whistle."
+    ]
+  }
+},
+{
+  "id": "melee",
+  "sid": "2026-00117",
+  "word": "melee",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "conflict",
+    "disorder",
+    "physical",
+    "news"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈmeɪleɪ/",
+      "uk": "/ˈmeɪleɪ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "乱闘、入り乱れた争い",
+      "混戦、大混乱",
+      "多数の人が入り乱れる騒動"
+    ],
+    "en": [
+      "a confused fight involving many people",
+      "a noisy and disorderly struggle involving a group of people",
+      "a confused situation in which people are crowded together and moving or competing chaotically"
+    ]
+  },
+  "nuance": {
+    "ja": "多数の人が一か所で入り乱れ、秩序が失われた状態で争ったり動いたりする状況を表す。身体的な乱闘に使われることが多いが、必ずしも暴力だけを意味せず、人々が殺到するような混乱した場面にも使える。brawl が『荒っぽく騒々しい喧嘩』そのものに重点を置くのに対し、melee は『多数の人が入り乱れて何が起きているのか分かりにくい混乱状態』を強調する。scuffle より通常は規模が大きい。",
+    "en": "Melee describes a confused and disorderly situation in which several or many people are mixed together, often fighting or struggling. It commonly refers to physical violence, but it can also describe a chaotic rush or confused group activity. Brawl emphasizes rough and noisy fighting itself, whereas melee emphasizes the confusion created by many people becoming mixed up in the action. It is generally larger and more chaotic than a scuffle."
+  },
+  "minimal": {
+    "ja": [
+      "melee：多数の人が入り乱れて収拾がつかない『混戦・乱闘』。",
+      "brawl：騒々しく荒っぽい身体的な喧嘩・乱闘。",
+      "scuffle：押し合い・つかみ合いなどの短い小規模なもみ合い。",
+      "altercation：短時間だが激しい口論。基本的には言葉。",
+      "fracas：騒々しい喧嘩・騒動。身体的とは限らない。",
+      "free-for-all：ルールや秩序がなく、皆が勝手に争う乱戦・無秩序状態。"
+    ],
+    "en": [
+      "melee is a confused fight or struggle involving many people.",
+      "brawl is a noisy, rough, usually physical fight.",
+      "scuffle is a brief and relatively minor physical struggle.",
+      "altercation is a brief but heated verbal argument.",
+      "fracas is a noisy disturbance or quarrel and need not be physical.",
+      "free-for-all is a chaotic contest or fight with few or no effective rules."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 mêlée『混戦、入り乱れた争い』から英語に入った語。mêlée はフランス語 mêler『混ぜる、入り混じらせる』の過去分詞女性形に由来する。さらに古フランス語 mesler『混ぜる、争わせる』にさかのぼる。したがって原義のイメージは『人や物がごちゃ混ぜになること』であり、そこから『人々が入り乱れて戦う混戦・乱闘』という意味が生まれた。英語では melee と綴るのが一般的だが、フランス語式の mêlée も見られる。",
+    "en": "Borrowed from French mêlée ('a confused fight or mixture'), from mêler ('to mix, mingle'), ultimately from Old French mesler. The underlying image is therefore of people or things becoming mixed together. This naturally developed into the sense of a confused fight in which participants are intermingled. English normally spells the word melee, though the French-style spelling mêlée is also encountered."
+  },
+  "synonyms": [
+    {
+      "word": "brawl",
+      "note": {
+        "ja": "荒っぽく騒々しい喧嘩そのものを強調する。melee は特に多人数が入り乱れる混乱を強調する。",
+        "en": "Emphasizes rough, noisy fighting, whereas melee especially emphasizes confusion among multiple participants."
+      }
+    },
+    {
+      "word": "scuffle",
+      "note": {
+        "ja": "通常は短時間・小規模なもみ合い。melee の方が人数・混乱とも大きいことが多い。",
+        "en": "Usually smaller and briefer, while a melee tends to involve more people and greater confusion."
+      }
+    },
+    {
+      "word": "fracas",
+      "note": {
+        "ja": "騒々しい争い・騒動を表すが、必ずしも多数による身体的混戦ではない。",
+        "en": "A noisy quarrel or disturbance that does not necessarily involve a confused physical fight."
+      }
+    },
+    {
+      "word": "free-for-all",
+      "note": {
+        "ja": "規則・統制が失われ、各人が勝手に争う状態を強調する。比喩的な競争にもよく使う。",
+        "en": "Emphasizes the absence of effective rules or control and is also common for chaotic figurative competition."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Handgemenge / Tumult",
+    "it": "mischia / tafferuglio",
+    "fr": "mêlée",
+    "es": "refriega / tumulto"
+  },
+  "collocations": {
+    "ja": [
+      "a chaotic melee — 大混乱の乱闘",
+      "a violent melee — 激しい乱闘",
+      "a melee involving dozens of people — 数十人が入り乱れる乱闘",
+      "a melee broke out — 乱闘が起きた",
+      "be caught in the melee — 混乱・乱闘に巻き込まれる",
+      "be injured in the melee — 乱闘の中で負傷する",
+      "join the melee — 乱闘・混戦に加わる",
+      "amid the melee — 混乱のさなかに"
+    ],
+    "en": [
+      "a chaotic melee",
+      "a violent melee",
+      "a melee involving dozens of people",
+      "a melee broke out",
+      "be caught in the melee",
+      "be injured in the melee",
+      "join the melee",
+      "amid the melee"
+    ]
+  },
+  "example": {
+    "ja": [
+      "A melee broke out after the final whistle. — 試合終了の笛の後、選手たちが入り乱れる乱闘が起きた。",
+      "Several people were injured in the melee. — 数人がその乱闘の中で負傷した。",
+      "Police officers rushed in to separate those involved in the melee. — 警察官たちは乱闘に加わっている人々を引き離すために駆け込んだ。",
+      "He was knocked to the ground amid the melee. — 彼は混乱のさなかに地面へ倒された。",
+      "What began as a minor scuffle quickly turned into a chaotic melee involving dozens of people. — 小さなもみ合いとして始まったものが、たちまち数十人を巻き込む大混乱の乱闘へ発展した。"
+    ],
+    "en": [
+      "A melee broke out after the final whistle.",
+      "Several people were injured in the melee.",
+      "Police officers rushed in to separate those involved in the melee.",
+      "He was knocked to the ground amid the melee.",
+      "What began as a minor scuffle quickly turned into a chaotic melee involving dozens of people."
+    ]
+  }
 }
 ]
