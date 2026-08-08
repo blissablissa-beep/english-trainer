@@ -14122,5 +14122,139 @@
       "Politicians faced a public clamor to release the report."
     ]
   }
+},
+{
+  "id": "autonomous",
+  "sid": "2026-00125",
+  "word": "autonomous",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "independence",
+    "politics",
+    "technology",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɔːˈtɑːnəməs/",
+      "uk": "/ɔːˈtɒnəməs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "自律的な、自主的な",
+      "自治権を持つ",
+      "外部の直接的な制御なしに作動する"
+    ],
+    "en": [
+      "able to govern or control itself",
+      "independent in decision-making or operation",
+      "capable of functioning without direct external control"
+    ]
+  },
+  "nuance": {
+    "ja": "外部から完全に切り離されているというより、『一定の範囲で自ら判断し、自らを統治・制御できる』ことを表す。政治では autonomous region のように自治権を持つ地域、組織では自主的に意思決定する部門、技術では autonomous vehicle のように人間の直接操作なしで判断・走行するシステムに使う。independent よりも『自己統治・自己制御』に重点がある。",
+    "en": "Autonomous emphasizes self-government, self-direction, or self-control within a particular domain. It does not always mean complete independence. In politics, an autonomous region has a degree of self-government; in organizations, an autonomous unit can make decisions on its own; in technology, an autonomous system operates without continuous direct human control. Compared with independent, autonomous focuses more on the ability to regulate or direct oneself."
+  },
+  "minimal": {
+    "ja": [
+      "autonomous：自ら判断・統治・制御する『自律的な、自治の』。",
+      "independent：他者への依存や支配から独立している。",
+      "self-governing：特に政治・組織で、自ら統治する。",
+      "self-sufficient：必要なものを自力でまかなえる。",
+      "automatic：あらかじめ決められた仕組みで自動的に動く。",
+      "autonomous は automatic より『判断能力』を含みやすい。"
+    ],
+    "en": [
+      "autonomous means able to govern, direct, or control oneself.",
+      "independent means free from dependence or external control.",
+      "self-governing especially refers to political or organizational self-rule.",
+      "self-sufficient means able to provide for one's own needs.",
+      "automatic means operating by itself according to a preset mechanism.",
+      "autonomous more readily implies decision-making than automatic."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 autonomos『自らの法によって統治される』に由来する。autos『自ら』+ nomos『法、規則』から成り、文字どおりには『自分自身の法を持つ』という意味。そこから『自治の』『自律的な』という意味が発達した。autonomy も同じ語源。",
+    "en": "From Greek autonomos ('having one's own laws'), formed from autos ('self') + nomos ('law, custom'). The literal idea is 'governed by one's own law,' which developed into the modern senses of self-governing, self-directed, and self-operating. Autonomy comes from the same source."
+  },
+  "synonyms": [
+    {
+      "word": "independent",
+      "note": {
+        "ja": "より広い語で、依存していないこと全般を表す。autonomous は自己統治・自己判断を強調する。",
+        "en": "Broader and emphasizes freedom from dependence; autonomous more specifically highlights self-direction or self-government."
+      }
+    },
+    {
+      "word": "self-governing",
+      "note": {
+        "ja": "政治・行政・組織の自治を表すのに近い。技術分野では autonomous の方が自然。",
+        "en": "Close in political and organizational contexts, but less natural than autonomous for machines and technical systems."
+      }
+    },
+    {
+      "word": "self-directed",
+      "note": {
+        "ja": "自分で方針や行動を決めることに重点がある。人・学習・組織に使いやすい。",
+        "en": "Emphasizes choosing one's own direction or activities, especially for people, learning, and organizations."
+      }
+    },
+    {
+      "word": "automatic",
+      "note": {
+        "ja": "人の操作なしに動く点は似るが、automatic は決められた手順に従うだけでもよい。autonomous は環境に応じた判断を含みやすい。",
+        "en": "Also means operating without direct intervention, but automatic systems may simply follow preset rules, while autonomous systems more often make context-dependent decisions."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "autonom / selbstständig",
+    "it": "autonomo",
+    "fr": "autonome",
+    "es": "autónomo"
+  },
+  "collocations": {
+    "ja": [
+      "an autonomous region — 自治地域",
+      "an autonomous government — 自治政府",
+      "an autonomous organization — 自律的な組織",
+      "an autonomous unit — 自主的に動く部門",
+      "an autonomous vehicle — 自動運転車",
+      "an autonomous system — 自律システム",
+      "operate autonomously — 自律的に作動する",
+      "remain largely autonomous — 大部分で自治・自律性を保つ"
+    ],
+    "en": [
+      "an autonomous region",
+      "an autonomous government",
+      "an autonomous organization",
+      "an autonomous unit",
+      "an autonomous vehicle",
+      "an autonomous system",
+      "operate autonomously",
+      "remain largely autonomous"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The region has been largely autonomous for decades. — その地域は数十年にわたり大幅な自治権を有してきた。",
+      "Each department operates as an autonomous unit. — 各部門は自律的な単位として運営されている。",
+      "The vehicle is capable of autonomous navigation. — その車両は自律航行が可能である。",
+      "The researchers developed an autonomous system that can adapt to changing conditions. — 研究者たちは変化する条件に適応できる自律システムを開発した。",
+      "She prefers to work in a highly autonomous role. — 彼女は裁量の大きい自主的な職務を好む。"
+    ],
+    "en": [
+      "The region has been largely autonomous for decades.",
+      "Each department operates as an autonomous unit.",
+      "The vehicle is capable of autonomous navigation.",
+      "The researchers developed an autonomous system that can adapt to changing conditions.",
+      "She prefers to work in a highly autonomous role."
+    ]
+  }
 }
 ]
