@@ -11560,5 +11560,675 @@
       "He may have been tactless, but at least he wasn't insincere."
     ]
   }
+},
+{
+  "id": "perfunctory",
+  "sid": "2026-00106",
+  "word": "perfunctory",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "attitude",
+    "behavior",
+    "disapproving"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pərˈfʌŋktəri/",
+      "uk": "/pəˈfʌŋktəri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "形だけの、おざなりな",
+      "義務的に最低限行うだけの",
+      "熱意・注意をほとんど払わない"
+    ],
+    "en": [
+      "done with little interest, care, or effort",
+      "carried out merely as a routine or duty",
+      "brief and superficial because little importance or attention is given to it"
+    ]
+  },
+  "nuance": {
+    "ja": "行為を一応は行うものの、義務・形式を満たすためだけで、十分な注意・時間・熱意・誠意を注いでいないことを表す。apology, inspection, examination, glance, greeting, response などとの相性がよい。insincere が『本心からではない』ことを表すのに対し、perfunctory は『手間をかけず形だけ済ませる』ことに重点がある。そのため、本人に欺く意図がなくても perfunctory になりうる。",
+    "en": "Perfunctory describes something done merely to fulfill a duty or formality, with little care, attention, enthusiasm, or effort. It commonly modifies apology, inspection, examination, glance, greeting, and response. Unlike insincere, which focuses on a lack of genuine feeling or sincerity, perfunctory focuses on the superficial or mechanical manner in which something is done. No intention to deceive is required."
+  },
+  "minimal": {
+    "ja": [
+      "perfunctory：義務・形式を満たすため最低限やるだけ。『形だけ・おざなり』。",
+      "cursory：ざっと見ただけで、十分に詳しくない。『ざっとした』。",
+      "superficial：表面的で、深く掘り下げていない。",
+      "insincere：本心からではない、心にもない。",
+      "half-hearted：やる気・熱意がなく、中途半端な。",
+      "token：実質より象徴・形式のためだけに行う。"
+    ],
+    "en": [
+      "perfunctory means done merely as a duty or formality, with little care or effort.",
+      "cursory means quick and not sufficiently thorough.",
+      "superficial means concerned only with the surface rather than depth.",
+      "insincere means not genuinely meant or felt.",
+      "half-hearted emphasizes a lack of enthusiasm or commitment.",
+      "token describes something done mainly for symbolic or formal purposes."
+    ]
+  },
+  "etymology": {
+    "ja": "後期ラテン語 perfunctorius に由来し、その背景にはラテン語 perfungi『（義務・仕事などを）遂行する、済ませる』がある。per-『完全に、最後まで』+ fungi『務めを果たす、遂行する』から成る。もともとは単に『職務を遂行する』という発想だったが、『義務を済ませてしまうだけ』という意味合いから、英語では『形だけの、おざなりな』という否定的意味が発達した。function とも同じラテン語 fungi にさかのぼる。",
+    "en": "Ultimately from Late Latin perfunctorius, related to Latin perfungi ('to perform, discharge, or get through a duty'), from per- and fungi ('to perform or discharge'). The idea of simply getting through an obligation developed into the modern negative sense of doing something routinely and with little care. Function is historically related through the same Latin verb fungi."
+  },
+  "synonyms": [
+    {
+      "word": "cursory",
+      "note": {
+        "ja": "短時間でざっと済ませるため、詳しさ・徹底性を欠くことを強調する。perfunctory のような『義務だから形だけ』という動機は必須ではない。",
+        "en": "Emphasizes being quick and insufficiently thorough, without necessarily suggesting that something was done merely out of obligation."
+      }
+    },
+    {
+      "word": "superficial",
+      "note": {
+        "ja": "分析・理解・処理などが表面にとどまり、深さを欠くことを強調する。",
+        "en": "Emphasizes lack of depth rather than a mechanical fulfillment of duty."
+      }
+    },
+    {
+      "word": "half-hearted",
+      "note": {
+        "ja": "熱意・決意・努力が足りず、中途半端であることを強調する。",
+        "en": "Emphasizes lack of enthusiasm, commitment, or determination."
+      }
+    },
+    {
+      "word": "insincere",
+      "note": {
+        "ja": "言葉・感情などが本心からではないことを強調する。perfunctory は行為の雑さ・形式性が中心。",
+        "en": "Emphasizes lack of genuine feeling, whereas perfunctory focuses on the routine and superficial way an action is performed."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "oberflächlich / routinemäßig / pro forma",
+    "it": "sbrigativo / superficiale",
+    "fr": "superficiel / expéditif",
+    "es": "superficial / rutinario"
+  },
+  "collocations": {
+    "ja": [
+      "a perfunctory apology — 形だけの謝罪",
+      "a perfunctory inspection — おざなりな検査",
+      "a perfunctory examination — 形式的で不十分な検査・診察",
+      "a perfunctory glance — ちらりと見るだけの一瞥",
+      "a perfunctory greeting — 形だけの挨拶",
+      "a perfunctory response — おざなりな返答",
+      "a perfunctory check — 形だけの確認",
+      "in a perfunctory manner — おざなりに、形だけで"
+    ],
+    "en": [
+      "a perfunctory apology",
+      "a perfunctory inspection",
+      "a perfunctory examination",
+      "a perfunctory glance",
+      "a perfunctory greeting",
+      "a perfunctory response",
+      "a perfunctory check",
+      "in a perfunctory manner"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He offered a perfunctory apology and immediately changed the subject. — 彼は形だけの謝罪をして、すぐに話題を変えた。",
+      "The inspector carried out only a perfunctory examination of the equipment. — 検査官はその設備をおざなりに調べただけだった。",
+      "She gave the document a perfunctory glance before signing it. — 彼女は書類にざっと目を通しただけで署名した。",
+      "The receptionist gave us a perfunctory greeting without looking up. — 受付係は顔も上げず、形だけの挨拶をした。",
+      "A perfunctory check would not have revealed such a subtle defect. — おざなりな確認では、そのような微妙な欠陥は発見できなかっただろう。"
+    ],
+    "en": [
+      "He offered a perfunctory apology and immediately changed the subject.",
+      "The inspector carried out only a perfunctory examination of the equipment.",
+      "She gave the document a perfunctory glance before signing it.",
+      "The receptionist gave us a perfunctory greeting without looking up.",
+      "A perfunctory check would not have revealed such a subtle defect."
+    ]
+  }
+},
+{
+  "id": "cursory",
+  "sid": "2026-00107",
+  "word": "cursory",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "attention",
+    "examination",
+    "evaluation"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkɜːrsəri/",
+      "uk": "/ˈkɜːsəri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ざっとした、通り一遍の",
+      "十分な注意を払わない、粗略な",
+      "手短で詳しくない"
+    ],
+    "en": [
+      "quick and not thorough or detailed",
+      "done with only brief attention",
+      "involving only a rapid or superficial examination"
+    ]
+  },
+  "nuance": {
+    "ja": "何かを短時間でざっと見たり調べたりするため、十分な注意・詳細さ・徹底性を欠いていることを表す。glance, look, inspection, examination, review, reading などとよく使われる。必ずしも行為者の怠慢や悪意を意味せず、単に時間がなく簡単に確認した場合にも使える。perfunctory は『義務・形式を満たすためだけにおざなりに行う』という態度を示唆するのに対し、cursory の核心は『短時間でざっと行うため十分に詳しくない』ことにある。",
+    "en": "Cursory describes something done quickly and with insufficient attention to detail or thoroughness. It commonly modifies glance, look, inspection, examination, review, and reading. It does not necessarily imply laziness, indifference, or bad faith; something may be cursory simply because little time is available. Perfunctory, by contrast, often suggests doing something merely to fulfill a duty or formality, while cursory primarily emphasizes brevity and lack of thoroughness."
+  },
+  "minimal": {
+    "ja": [
+      "cursory：短時間でざっと行い、十分に詳しくない。",
+      "perfunctory：義務・形式を満たすため最低限やるだけ。『おざなり』。",
+      "superficial：表面的で、内容を深く掘り下げていない。",
+      "hasty：急いだため、判断・行動が性急で不十分。",
+      "fleeting：非常に短時間しか続かない。一瞬の。",
+      "thorough：細部まで徹底的な。cursory の反対方向。"
+    ],
+    "en": [
+      "cursory means quick and insufficiently thorough.",
+      "perfunctory means done merely as a duty or formality, with little care or interest.",
+      "superficial means concerned only with the surface rather than depth.",
+      "hasty suggests excessive speed leading to poor judgment or insufficient care.",
+      "fleeting means lasting for only a very short time.",
+      "thorough means careful and complete, the opposite direction from cursory."
+    ]
+  },
+  "etymology": {
+    "ja": "後期ラテン語 cursorius『走ることに関する、急いだ』に由来し、ラテン語 currere『走る』の派生語 cursus『走行、進路』と同系。『走りながら行うような』という発想から、『急いでざっと行う、十分な注意を払わない』という意味へ発達した。course, current, cursor, excursion なども、究極的には同じラテン語 currere『走る』の語族に属する。",
+    "en": "From Late Latin cursorius ('of running, hasty'), related to Latin cursus ('a running, course') and currere ('to run'). The idea of doing something as if on the run developed into the modern sense of being rapid and insufficiently thorough. Course, current, cursor, and excursion ultimately belong to the same Latin word family."
+  },
+  "synonyms": [
+    {
+      "word": "perfunctory",
+      "note": {
+        "ja": "形式・義務を満たすためだけにおざなりに行うことを示唆する。cursory は主に速さと不十分な詳しさを表す。",
+        "en": "Suggests doing something merely to fulfill an obligation, whereas cursory primarily emphasizes speed and lack of thoroughness."
+      }
+    },
+    {
+      "word": "superficial",
+      "note": {
+        "ja": "表面だけを扱い、深さ・本質的理解を欠くことに重点がある。",
+        "en": "Emphasizes lack of depth rather than simply the speed with which something is done."
+      }
+    },
+    {
+      "word": "hasty",
+      "note": {
+        "ja": "急ぎすぎたために十分な検討を欠くことを表す。判断・決定にもよく使う。",
+        "en": "Suggests excessive speed and often implies that better judgment or care was needed."
+      }
+    },
+    {
+      "word": "fleeting",
+      "note": {
+        "ja": "時間的にほんの一瞬であることを強調する。詳しさや注意不足は必須ではない。",
+        "en": "Emphasizes very short duration rather than lack of thoroughness."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "flüchtig / oberflächlich",
+    "it": "sommario / superficiale",
+    "fr": "sommaire / superficiel",
+    "es": "superficial / somero"
+  },
+  "collocations": {
+    "ja": [
+      "a cursory glance — ざっと見ること、一瞥",
+      "a cursory look — ざっと見ること",
+      "a cursory inspection — ざっとした検査",
+      "a cursory examination — 簡単な調査・検査",
+      "a cursory review — ざっとした検討",
+      "a cursory reading — ざっと読むこと",
+      "a cursory search — 簡単な捜索・検索",
+      "even a cursory examination — ざっと調べただけでも"
+    ],
+    "en": [
+      "a cursory glance",
+      "a cursory look",
+      "a cursory inspection",
+      "a cursory examination",
+      "a cursory review",
+      "a cursory reading",
+      "a cursory search",
+      "even a cursory examination"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Even a cursory glance at the figures reveals a serious problem. — 数字をざっと見ただけでも、深刻な問題があることが分かる。",
+      "A cursory inspection failed to reveal the defect. — ざっとした検査では、その欠陥を発見できなかった。",
+      "I have only had time for a cursory reading of the report. — その報告書にはまだざっと目を通す時間しかなかった。",
+      "A cursory search of the database produced several relevant documents. — データベースを簡単に検索しただけでも、関連する文書がいくつか見つかった。",
+      "Even a cursory examination of the agreement suggests that the two provisions may conflict. — 契約書をざっと検討しただけでも、その二つの条項が抵触する可能性があると分かる。"
+    ],
+    "en": [
+      "Even a cursory glance at the figures reveals a serious problem.",
+      "A cursory inspection failed to reveal the defect.",
+      "I have only had time for a cursory reading of the report.",
+      "A cursory search of the database produced several relevant documents.",
+      "Even a cursory examination of the agreement suggests that the two provisions may conflict."
+    ]
+  }
+},
+{
+  "id": "superficial",
+  "sid": "2026-00108",
+  "word": "superficial",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "evaluation",
+    "character",
+    "analysis",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌsuːpərˈfɪʃəl/",
+      "uk": "/ˌsuːpəˈfɪʃəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "表面的な、表面だけの",
+      "浅薄な、深みのない",
+      "（傷などが）表面だけの、浅い"
+    ],
+    "en": [
+      "existing or occurring only at the surface",
+      "not thorough, deep, or complete",
+      "concerned mainly with appearances or unimportant details"
+    ]
+  },
+  "nuance": {
+    "ja": "物理的に『表面にある』という意味と、比喩的に『理解・分析・知識などが表面的で深さを欠く』という意味の両方を持つ。さらに人については、外見・地位・流行など表面的な要素を重視する『浅薄な』という否定的意味になる。cursory が『短時間でざっと行ったため詳しくない』ことを表すのに対し、superficial は時間の長短に関係なく『表面・表層にとどまり、本質や深部に達していない』ことに重点がある。",
+    "en": "Superficial can be literal, referring to something at or near the surface, or figurative, describing knowledge, analysis, understanding, or treatment that lacks depth. When applied to a person, it can mean overly concerned with appearances, status, fashion, or other surface-level matters. Unlike cursory, which emphasizes a quick and insufficiently thorough examination, superficial emphasizes failure to go beneath the surface, regardless of how much time was spent."
+  },
+  "minimal": {
+    "ja": [
+      "superficial：表面にとどまり、本質・深さを欠く。人なら『浅薄な』。",
+      "cursory：短時間でざっと行い、十分に詳しくない。",
+      "perfunctory：義務・形式を満たすため最低限やるだけ。『おざなり』。",
+      "shallow：深さがない。人・感情・考えなら『浅い、浅薄な』。",
+      "skin-deep：良さ・美しさなどが表面的なものにすぎない。",
+      "thorough：細部・本質まで徹底的に扱う。"
+    ],
+    "en": [
+      "superficial means remaining at the surface and lacking depth or substance.",
+      "cursory means quick and insufficiently thorough.",
+      "perfunctory means done merely as a duty or formality, with little care.",
+      "shallow means lacking depth, literally or figuratively.",
+      "skin-deep emphasizes that a quality exists only at the surface.",
+      "thorough means careful, detailed, and complete."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 superficialis『表面に関する』に由来し、その基礎に superficies『表面』がある。superficies は super『上に』+ facies『顔、外観、表面』から成り、文字どおり『上側の面』という発想である。英語でも当初は物理的な『表面の』という意味で使われ、そこから比喩的に『物事の表面しか扱わない → 深みのない、浅薄な』という意味が発達した。facial, face, façade などとも歴史的に関連する。",
+    "en": "From Latin superficialis ('of the surface'), from superficies ('surface'), formed from super ('above, on top') and facies ('face, appearance, surface'). The literal sense of being at the surface developed figuratively into the idea of failing to penetrate beneath appearances, hence 'lacking depth or substance.' Face, facial, and related words ultimately belong to the same Latin family."
+  },
+  "synonyms": [
+    {
+      "word": "cursory",
+      "note": {
+        "ja": "ざっと短時間で行うため詳しくないことを強調する。superficial は結果として深さがないことが中心。",
+        "en": "Emphasizes speed and lack of thoroughness, whereas superficial emphasizes lack of depth."
+      }
+    },
+    {
+      "word": "shallow",
+      "note": {
+        "ja": "比喩的には人・考え・感情などの深みのなさを直接的に表す。superficial より日常的。",
+        "en": "A more everyday word for lack of intellectual, emotional, or personal depth."
+      }
+    },
+    {
+      "word": "perfunctory",
+      "note": {
+        "ja": "義務として形だけ済ませ、注意や熱意を注がないことに重点がある。",
+        "en": "Focuses on doing something mechanically or merely as a formality."
+      }
+    },
+    {
+      "word": "skin-deep",
+      "note": {
+        "ja": "美しさ・変化・類似性などが表面上のものにすぎないことを強調する。",
+        "en": "Emphasizes that a quality or resemblance exists only at the surface."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "oberflächlich",
+    "it": "superficiale",
+    "fr": "superficiel",
+    "es": "superficial"
+  },
+  "collocations": {
+    "ja": [
+      "a superficial understanding — 表面的な理解",
+      "a superficial analysis — 表面的な分析",
+      "a superficial examination — 表面的な検討・検査",
+      "superficial knowledge — 表面的な知識",
+      "a superficial resemblance — 表面的な類似",
+      "superficial differences — 表面的な相違",
+      "a superficial wound — 浅い傷、表在性の傷",
+      "a superficial person — 浅薄な人"
+    ],
+    "en": [
+      "a superficial understanding",
+      "a superficial analysis",
+      "a superficial examination",
+      "superficial knowledge",
+      "a superficial resemblance",
+      "superficial differences",
+      "a superficial wound",
+      "a superficial person"
+    ]
+  },
+  "example": {
+    "ja": [
+      "His knowledge of the subject is rather superficial. — その分野についての彼の知識はかなり表面的だ。",
+      "The report offers only a superficial analysis of the problem. — その報告書は問題について表面的な分析しか行っていない。",
+      "The two proposals bear a superficial resemblance to each other. — その二つの提案は表面的には似ている。",
+      "Fortunately, the injuries were only superficial. — 幸い、けがは表面的なものにすぎなかった。",
+      "It would be superficial to judge the policy solely by its immediate effects. — その政策を目先の効果だけで評価するのは表面的だろう。"
+    ],
+    "en": [
+      "His knowledge of the subject is rather superficial.",
+      "The report offers only a superficial analysis of the problem.",
+      "The two proposals bear a superficial resemblance to each other.",
+      "Fortunately, the injuries were only superficial.",
+      "It would be superficial to judge the policy solely by its immediate effects."
+    ]
+  }
+},
+{
+  "id": "thorough",
+  "sid": "2026-00109",
+  "word": "thorough",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "evaluation",
+    "work",
+    "analysis",
+    "positive"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈθɜːroʊ/",
+      "uk": "/ˈθʌrə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "徹底的な、綿密な",
+      "細部まで行き届いた",
+      "念入りな、完全な"
+    ],
+    "en": [
+      "done carefully and completely, with attention to every important detail",
+      "including or considering all relevant aspects",
+      "careful and methodical in doing something"
+    ]
+  },
+  "nuance": {
+    "ja": "調査・検討・準備・検査・清掃などについて、重要な点を漏らさず細部まで注意を払い、十分に行うことを表す。人について使えば『仕事が綿密な、几帳面に徹底して行う』という肯定的な評価になる。complete が結果として『完全にそろっている』ことを表すのに対し、thorough は過程における注意深さ・網羅性・徹底性を強調する。cursory, superficial, perfunctory とは反対方向の語。",
+    "en": "Thorough describes work, examination, preparation, research, or other activity carried out carefully and comprehensively, with attention to all important details. Applied to a person, it is usually positive and means careful, methodical, and conscientious. Complete focuses more on the state of having all parts, whereas thorough emphasizes the care and comprehensiveness of the process. It contrasts strongly with cursory, superficial, and perfunctory."
+  },
+  "minimal": {
+    "ja": [
+      "thorough：重要な点を漏らさず、細部まで注意して徹底的に行う。",
+      "comprehensive：対象範囲が広く、必要な事項を幅広く網羅する。",
+      "meticulous：細部に非常に細かく注意を払う。几帳面。",
+      "exhaustive：可能なものをほぼすべて尽くすほど徹底的。",
+      "cursory：短時間でざっと行い、十分に詳しくない。",
+      "superficial：表面にとどまり、本質・深さを欠く。"
+    ],
+    "en": [
+      "thorough means careful, complete, and attentive to all important details.",
+      "comprehensive emphasizes broad coverage of all or nearly all relevant aspects.",
+      "meticulous emphasizes extremely careful attention to small details.",
+      "exhaustive means so comprehensive that virtually nothing relevant is left out.",
+      "cursory means quick and insufficiently thorough.",
+      "superficial means remaining at the surface and lacking depth."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 þurh『～を通って、～を貫いて』に由来し、現代英語 through と同語源。もともと『端から端まで通り抜ける』という空間的な発想から、『隅々まで行き渡る、完全に行う』という意味が発達した。thorough と through は綴り・発音が大きく分化したものの、歴史的には同じ語にさかのぼる。thoroughly『徹底的に』も同じ系列。",
+    "en": "From Old English þurh ('through'), the same historical source as modern through. The spatial idea of going all the way through something developed into the figurative sense of covering something completely or attending to every part. Thorough and through have diverged considerably in spelling and pronunciation but are historically closely related."
+  },
+  "synonyms": [
+    {
+      "word": "comprehensive",
+      "note": {
+        "ja": "幅広い範囲を網羅していることに重点がある。thorough は作業・検討の丁寧さと徹底性をより強調する。",
+        "en": "Emphasizes breadth of coverage, whereas thorough more strongly emphasizes careful and complete treatment."
+      }
+    },
+    {
+      "word": "meticulous",
+      "note": {
+        "ja": "非常に細かな点まで注意する几帳面さを強調する。thorough より『細部』への焦点が強い。",
+        "en": "Emphasizes extremely close attention to small details more strongly than thorough."
+      }
+    },
+    {
+      "word": "exhaustive",
+      "note": {
+        "ja": "関連する可能性をほぼ残らず尽くすことを強調し、thorough より強い。",
+        "en": "Suggests covering virtually everything possible and is generally stronger than thorough."
+      }
+    },
+    {
+      "word": "complete",
+      "note": {
+        "ja": "欠けている部分がなく全部そろっていることが中心。thorough のような注意深い過程は必須ではない。",
+        "en": "Focuses on nothing being missing rather than on the care or method used to achieve the result."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gründlich",
+    "it": "accurato / approfondito",
+    "fr": "approfondi / minutieux",
+    "es": "minucioso / exhaustivo"
+  },
+  "collocations": {
+    "ja": [
+      "a thorough investigation — 徹底的な調査",
+      "a thorough examination — 綿密な検査・検討",
+      "a thorough analysis — 徹底的な分析",
+      "a thorough review — 綿密な検討",
+      "a thorough search — 徹底的な捜索",
+      "a thorough understanding — 十分で深い理解",
+      "a thorough knowledge of — ～についての幅広く確かな知識",
+      "a thorough preparation — 入念な準備"
+    ],
+    "en": [
+      "a thorough investigation",
+      "a thorough examination",
+      "a thorough analysis",
+      "a thorough review",
+      "a thorough search",
+      "a thorough understanding",
+      "a thorough knowledge of",
+      "thorough preparation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The police conducted a thorough investigation into the incident. — 警察はその事件について徹底的な調査を行った。",
+      "The proposal requires a thorough examination before any decision is made. — その提案については、決定を下す前に綿密な検討が必要である。",
+      "She has a thorough knowledge of European trademark law. — 彼女は欧州商標法について幅広く確かな知識を持っている。",
+      "A thorough search of the records revealed several inconsistencies. — 記録を徹底的に調べたところ、いくつかの不整合が明らかになった。",
+      "He is extremely thorough in his work and rarely overlooks important details. — 彼は仕事が非常に綿密で、重要な細部を見落とすことはめったにない。"
+    ],
+    "en": [
+      "The police conducted a thorough investigation into the incident.",
+      "The proposal requires a thorough examination before any decision is made.",
+      "She has a thorough knowledge of European trademark law.",
+      "A thorough search of the records revealed several inconsistencies.",
+      "He is extremely thorough in his work and rarely overlooks important details."
+    ]
+  }
+},
+{
+  "id": "exhaustive",
+  "sid": "2026-00110",
+  "word": "exhaustive",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "analysis",
+    "research",
+    "completeness"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪɡˈzɔːstɪv/",
+      "uk": "/ɪɡˈzɔːstɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "徹底的な、余すところのない",
+      "あらゆる可能性・項目を網羅した",
+      "包括的で漏れのない"
+    ],
+    "en": [
+      "including or considering all possible elements or aspects",
+      "extremely thorough and complete",
+      "leaving virtually nothing relevant unexamined or unmentioned"
+    ]
+  },
+  "nuance": {
+    "ja": "調査・研究・リスト・検討などが、関連する項目・可能性・証拠などをほぼすべて取り上げ、検討し尽くしていることを表す。thorough が『注意深く徹底的に行う』という作業の質を強調するのに対し、exhaustive は『対象を尽くして、ほとんど何も残していない』という網羅性の強さを表す。comprehensive とも近いが、exhaustive の方が『すべてを尽くす』という絶対性が強いため、学術・法律・調査などでは慎重に使われる。",
+    "en": "Exhaustive describes research, analysis, lists, investigations, or treatment that covers virtually every relevant item, possibility, or aspect. Thorough emphasizes the care and completeness with which something is done, while exhaustive emphasizes that the subject has been covered to the point that almost nothing relevant remains. It is stronger than comprehensive and can imply a near-total degree of coverage, so it is often used carefully in academic, legal, and analytical contexts."
+  },
+  "minimal": {
+    "ja": [
+      "exhaustive：可能な項目・論点をほぼすべて『尽くす』ほど網羅的。",
+      "thorough：重要な点を漏らさず、注意深く徹底的に行う。",
+      "comprehensive：対象範囲が広く、主要な事項を幅広く網羅する。",
+      "extensive：規模・範囲・量が非常に大きい。完全な網羅は意味しない。",
+      "all-inclusive：必要なものをすべて含む。サービス・料金などにもよく使う。",
+      "encyclopedic：百科事典的なほど広範で詳細な知識・情報を持つ。"
+    ],
+    "en": [
+      "exhaustive means covering virtually every relevant item or possibility.",
+      "thorough emphasizes careful and complete treatment.",
+      "comprehensive emphasizes broad coverage of the relevant subject.",
+      "extensive means large in amount, scale, or range but not necessarily complete.",
+      "all-inclusive means including everything specified or needed.",
+      "encyclopedic suggests extraordinarily broad and detailed knowledge or information."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 exhaust + -ive に由来する。exhaust はラテン語 exhaurire『汲み尽くす、空にする』にさかのぼり、ex-『外へ』+ haurire『汲む、くみ出す』から成る。したがって exhaustive の基本イメージは『対象から汲み出せるものをすべて汲み尽くす』こと。そこから『論点・可能性・資料などを余すところなく扱う』という意味が生じた。",
+    "en": "From exhaust + -ive. Exhaust ultimately comes from Latin exhaurire ('to draw out, drain, empty'), formed from ex- ('out') and haurire ('to draw or scoop up'). The underlying image is therefore of drawing something out until nothing remains, which developed into the figurative sense of covering a subject so completely that virtually nothing relevant is left."
+  },
+  "synonyms": [
+    {
+      "word": "thorough",
+      "note": {
+        "ja": "作業・検討を注意深く完全に行うことを強調する。exhaustive は対象項目をほぼすべて尽くすことに重点がある。",
+        "en": "Emphasizes careful and complete treatment, whereas exhaustive stresses covering virtually everything relevant."
+      }
+    },
+    {
+      "word": "comprehensive",
+      "note": {
+        "ja": "広い範囲を十分に網羅することを表すが、必ずしも『すべて』を尽くすとは限らない。",
+        "en": "Suggests broad and inclusive coverage but does not necessarily claim that absolutely every possibility has been covered."
+      }
+    },
+    {
+      "word": "extensive",
+      "note": {
+        "ja": "量・規模・範囲が大きいことが中心で、網羅性そのものは意味しない。",
+        "en": "Emphasizes large scope, amount, or extent rather than completeness."
+      }
+    },
+    {
+      "word": "encyclopedic",
+      "note": {
+        "ja": "特に知識・著作などが百科事典のように非常に広範かつ詳細であることを表す。",
+        "en": "Especially describes knowledge or works that are extraordinarily broad and detailed, like an encyclopedia."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "erschöpfend / umfassend",
+    "it": "esaustivo",
+    "fr": "exhaustif",
+    "es": "exhaustivo"
+  },
+  "collocations": {
+    "ja": [
+      "an exhaustive search — 徹底的な捜索・検索",
+      "an exhaustive investigation — 徹底的で網羅的な調査",
+      "an exhaustive analysis — 余すところのない分析",
+      "an exhaustive study — 徹底的な研究",
+      "an exhaustive review — 網羅的な検討",
+      "an exhaustive list — 網羅的な一覧",
+      "an exhaustive account — 詳細かつ余すところのない説明",
+      "by no means exhaustive — 決して網羅的ではない"
+    ],
+    "en": [
+      "an exhaustive search",
+      "an exhaustive investigation",
+      "an exhaustive analysis",
+      "an exhaustive study",
+      "an exhaustive review",
+      "an exhaustive list",
+      "an exhaustive account",
+      "by no means exhaustive"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The researchers conducted an exhaustive review of the available literature. — 研究者たちは利用可能な文献を徹底的に検討した。",
+      "The police carried out an exhaustive search of the area. — 警察はその地域を徹底的に捜索した。",
+      "The report provides an exhaustive analysis of the possible causes. — その報告書は考えられる原因を余すところなく分析している。",
+      "This list is intended to be illustrative rather than exhaustive. — この一覧は網羅的なものではなく、例示を目的としたものである。",
+      "After an exhaustive examination of the evidence, the committee reached its conclusion. — 証拠を徹底的に検討した後、委員会は結論に達した。"
+    ],
+    "en": [
+      "The researchers conducted an exhaustive review of the available literature.",
+      "The police carried out an exhaustive search of the area.",
+      "The report provides an exhaustive analysis of the possible causes.",
+      "This list is intended to be illustrative rather than exhaustive.",
+      "After an exhaustive examination of the evidence, the committee reached its conclusion."
+    ]
+  }
 }
 ]
