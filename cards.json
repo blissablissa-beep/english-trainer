@@ -3582,5 +3582,333 @@
       "The novel portrays a chivalrous knight devoted to justice."
     ]
   }
+},
+{
+  "id": "urbane",
+  "sid": "2026-00043",
+  "word": "urbane",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "personality",
+    "formal",
+    "literary"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɝːˈbeɪn/",
+      "uk": "/ɜːˈbeɪn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "都会的で洗練された",
+      "上品で社交慣れした",
+      "知的で物腰の洗練された"
+    ],
+    "en": [
+      "polished, sophisticated, and socially confident",
+      "refined in manner and conversation"
+    ]
+  },
+  "nuance": {
+    "ja": "単に『都会に住んでいる』という意味ではなく、教養・社交性・落ち着いた物腰を備えた洗練を表す。特に会話や振る舞いが知的で世慣れている人物について使われる。",
+    "en": "Describes sophisticated, polished manners and social ease, often suggesting education, culture, and worldly experience."
+  },
+  "minimal": {
+    "ja": [
+      "sophisticated：広く『洗練された・高度な』。",
+      "urbane：都会的・知的で社交慣れした洗練。",
+      "suave：人当たりや話術が滑らかで魅力的。",
+      "debonair：自信と余裕のある紳士的な洗練。"
+    ],
+    "en": [
+      "sophisticated is the broadest term for refinement.",
+      "urbane suggests cultured, worldly social polish.",
+      "suave emphasizes smooth social charm.",
+      "debonair emphasizes confident gentlemanly elegance."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 urbanus（都市の、都会的な、洗練された）に由来する。urbs（都市）が語根で、urban と同語源。古代ローマですでに『都会的』から『洗練された、礼儀正しい』という意味が生じていた。",
+    "en": "From Latin urbanus ('of the city; refined, courteous'), from urbs ('city'). It shares its origin with urban."
+  },
+  "synonyms": [
+    {
+      "word": "sophisticated",
+      "note": {
+        "ja": "最も広く使える『洗練された』。",
+        "en": "A broader term for refinement."
+      }
+    },
+    {
+      "word": "suave",
+      "note": {
+        "ja": "話術や人当たりの滑らかさを強調。",
+        "en": "Emphasizes smooth social charm."
+      }
+    },
+    {
+      "word": "cosmopolitan",
+      "note": {
+        "ja": "国際経験や多文化への親しみを強調。",
+        "en": "Emphasizes international and multicultural sophistication."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "weltgewandt",
+    "it": "raffinato",
+    "fr": "raffiné",
+    "es": "refinado"
+  },
+  "collocations": {
+    "ja": [
+      "an urbane gentleman",
+      "an urbane manner",
+      "an urbane host",
+      "urbane sophistication",
+      "urbane wit"
+    ],
+    "en": [
+      "an urbane gentleman",
+      "an urbane manner",
+      "an urbane host",
+      "urbane sophistication",
+      "urbane wit"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The ambassador was an urbane and witty conversationalist. — その大使は都会的に洗練され、機知に富んだ話し手だった。",
+      "His urbane manner made him perfectly at ease at diplomatic receptions. — 彼の洗練された物腰のおかげで、外交レセプションでもまったく物怖じしなかった。"
+    ],
+    "en": [
+      "The ambassador was an urbane and witty conversationalist.",
+      "His urbane manner made him perfectly at ease at diplomatic receptions."
+    ]
+  }
+},
+{
+  "id": "courtly",
+  "sid": "2026-00044",
+  "word": "courtly",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "personality",
+    "literary",
+    "history"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkɔːrtli/",
+      "uk": "/ˈkɔːtli/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "宮廷風の",
+      "優雅で礼儀正しい",
+      "古風に丁重な"
+    ],
+    "en": [
+      "polished and elegant in a manner associated with a royal court",
+      "formally courteous and gracious"
+    ]
+  },
+  "nuance": {
+    "ja": "宮廷社会を思わせる格式ある礼儀正しさ・優雅さを表す。現代人について使うと、単なる polite よりも『古風で優雅』『儀礼的なほど丁重』というニュアンスが出る。",
+    "en": "Suggests formal elegance and elaborate courtesy associated with royal courts. In modern contexts it often has an old-fashioned or ceremonious flavor."
+  },
+  "minimal": {
+    "ja": [
+      "courteous：一般的に礼儀正しい。",
+      "gentlemanly：紳士らしい振る舞い。",
+      "chivalrous：騎士道精神に基づく礼節。",
+      "courtly：宮廷風で格式ある、古風な優雅さ。"
+    ],
+    "en": [
+      "courteous simply means polite and respectful.",
+      "gentlemanly suggests the manners expected of a gentleman.",
+      "chivalrous suggests knightly honor and courtesy.",
+      "courtly suggests formal, aristocratic elegance."
+    ]
+  },
+  "etymology": {
+    "ja": "court（宮廷）＋ -ly に由来する。court 自体は古フランス語 cort を経てラテン語 cohors（囲われた場所、中庭、従者の一団）に遡る。王侯の宮廷で期待された洗練された振る舞いから現在の形容詞的意味が生じた。",
+    "en": "From court + -ly. Court comes through Old French cort from Latin cohors ('enclosure, retinue'). The adjective developed from the refined manners associated with royal courts."
+  },
+  "synonyms": [
+    {
+      "word": "courteous",
+      "note": {
+        "ja": "より一般的な『礼儀正しい』。",
+        "en": "The general word for polite behavior."
+      }
+    },
+    {
+      "word": "chivalrous",
+      "note": {
+        "ja": "騎士道的な名誉や礼節を強調。",
+        "en": "Emphasizes knightly honor and courtesy."
+      }
+    },
+    {
+      "word": "gracious",
+      "note": {
+        "ja": "親切で品のある優雅な態度。",
+        "en": "Suggests warm, elegant courtesy."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "höfisch",
+    "it": "cortese",
+    "fr": "courtois",
+    "es": "cortés"
+  },
+  "collocations": {
+    "ja": [
+      "courtly manners",
+      "courtly elegance",
+      "a courtly gentleman",
+      "a courtly bow",
+      "courtly love"
+    ],
+    "en": [
+      "courtly manners",
+      "courtly elegance",
+      "a courtly gentleman",
+      "a courtly bow",
+      "courtly love"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He greeted the guests with a courtly bow. — 彼は宮廷風の優雅なお辞儀で客を迎えた。",
+      "Despite his age, he retained the courtly manners of an earlier generation. — 高齢になっても、彼は昔の世代らしい古風で優雅な礼儀作法を保っていた。"
+    ],
+    "en": [
+      "He greeted the guests with a courtly bow.",
+      "Despite his age, he retained the courtly manners of an earlier generation."
+    ]
+  }
+},
+{
+  "id": "gentlemanly",
+  "sid": "2026-00045",
+  "word": "gentlemanly",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "personality",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdʒentlmənli/",
+      "uk": "/ˈdʒentlmənli/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "紳士らしい",
+      "礼儀正しく品位のある",
+      "公正で節度のある"
+    ],
+    "en": [
+      "behaving in a polite, honorable, and considerate manner",
+      "having the manners traditionally associated with a gentleman"
+    ]
+  },
+  "nuance": {
+    "ja": "単なる polite よりも、礼儀・品位・節度・相手への配慮を含む。外見の格好よさではなく、主として振る舞いや態度を評価する語。やや古風な響きを持つこともある。",
+    "en": "Describes conduct rather than appearance, suggesting politeness, dignity, restraint, and consideration for others. It can sound somewhat traditional or old-fashioned."
+  },
+  "minimal": {
+    "ja": [
+      "polite：一般的に礼儀正しい。",
+      "gentlemanly：紳士としてふさわしい品位・節度がある。",
+      "chivalrous：騎士道的で、他者を守り敬う。",
+      "courtly：宮廷風で古風かつ優雅。",
+      "debonair：振る舞いや外見が洗練され、自信に満ちている。"
+    ],
+    "en": [
+      "polite is the general word for good manners.",
+      "gentlemanly suggests dignified and considerate conduct.",
+      "chivalrous emphasizes knightly honor and courtesy.",
+      "courtly suggests formal, aristocratic elegance.",
+      "debonair emphasizes stylish, confident charm."
+    ]
+  },
+  "etymology": {
+    "ja": "gentleman + -ly。gentleman は中英語 gentilman に由来し、gentil は古フランス語を経てラテン語 gentilis（同じ氏族・家系に属する）に遡る。当初は社会的身分を表したが、後に『品位ある振る舞いをする男性』という意味が発達した。",
+    "en": "From gentleman + -ly. Gentleman derives from Middle English gentilman; gentil ultimately comes from Latin gentilis, referring to family or lineage. The word later developed a strong association with honorable and courteous conduct."
+  },
+  "synonyms": [
+    {
+      "word": "courteous",
+      "note": {
+        "ja": "一般的な礼儀正しさを表す。",
+        "en": "Focuses more simply on politeness and respect."
+      }
+    },
+    {
+      "word": "chivalrous",
+      "note": {
+        "ja": "より騎士道的・古風。",
+        "en": "More strongly associated with knightly ideals."
+      }
+    },
+    {
+      "word": "decent",
+      "note": {
+        "ja": "良識があり、きちんとしていることを表す一般的な語。",
+        "en": "A broader word for respectable or proper behavior."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gentlemanlike",
+    "it": "signorile",
+    "fr": "gentleman",
+    "es": "caballeroso"
+  },
+  "collocations": {
+    "ja": [
+      "gentlemanly behavior — 紳士的な振る舞い",
+      "gentlemanly conduct — 紳士らしい品位ある行動",
+      "a gentlemanly manner — 紳士的な物腰",
+      "a gentlemanly gesture — 紳士的な心遣い",
+      "remain gentlemanly — 紳士的な態度を崩さない"
+    ],
+    "en": [
+      "gentlemanly behavior",
+      "gentlemanly conduct",
+      "a gentlemanly manner",
+      "a gentlemanly gesture",
+      "remain gentlemanly"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Despite their fierce rivalry, both players remained gentlemanly throughout the match. — 激しいライバル関係にもかかわらず、両選手は試合中ずっと紳士的な態度を保った。",
+      "He was admired for his calm and gentlemanly manner. — 彼は落ち着いた紳士的な物腰で人々から敬意を集めていた。"
+    ],
+    "en": [
+      "Despite their fierce rivalry, both players remained gentlemanly throughout the match.",
+      "He was admired for his calm and gentlemanly manner."
+    ]
+  }
 }
 ]
