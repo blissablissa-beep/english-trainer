@@ -5144,5 +5144,376 @@
       "Her email was unusually terse, consisting of only three sentences."
     ]
   }
+},
+{
+  "id": "curt",
+  "sid": "2026-00057",
+  "word": "curt",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "communication",
+    "personality",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kɝːt/",
+      "uk": "/kɜːt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ぶっきらぼうな",
+      "そっけない",
+      "無愛想なほど短い"
+    ],
+    "en": [
+      "rudely brief in speech or manner",
+      "using very few words in a way that seems unfriendly or impatient"
+    ]
+  },
+  "nuance": {
+    "ja": "返答・話し方・態度などが短く、相手に対する配慮や愛想が感じられないことを表す。単なる『簡潔』ではなく、通常は否定的な評価を伴う。terse にもそっけなさはあり得るが、curt は対人的な無愛想さ・失礼さをより強く示す。",
+    "en": "Curt describes speech or behavior that is so brief that it seems rude, unfriendly, or impatient. It is more clearly negative than terse and focuses strongly on interpersonal manner."
+  },
+  "minimal": {
+    "ja": [
+      "concise：無駄なく簡潔。通常は肯定的。",
+      "succinct：要点を短く明確にまとめた。通常は肯定的。",
+      "laconic：意図的にごく少ない言葉で表現する。",
+      "terse：非常に短く、しばしば冷たい・ぶっきらぼう。",
+      "curt：短いうえに無愛想・失礼という印象が強い。",
+      "brusque：言葉だけでなく態度・物腰そのものがぶっきらぼう。"
+    ],
+    "en": [
+      "concise is brief and efficient, usually positively.",
+      "succinct expresses the essentials clearly in few words.",
+      "laconic emphasizes deliberate use of very few words.",
+      "terse is very brief and may sound abrupt or cold.",
+      "curt is rudely or unfriendly brief.",
+      "brusque describes an abrupt and discourteous manner more generally."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 curtus（短く切られた、切り詰められた）に由来する。もともとの『短くされた』という物理的意味から、発言・態度について『切り詰められたように短い』、さらに『ぶっきらぼうな』という意味へ発展した。",
+    "en": "From Latin curtus ('shortened, cut short'). The physical idea of something cut short developed into the figurative sense of speech or behavior that is abruptly brief."
+  },
+  "synonyms": [
+    {
+      "word": "terse",
+      "note": {
+        "ja": "非常に簡潔。そっけなさを伴うこともあるが、curt ほど明確に失礼とは限らない。",
+        "en": "Very brief and sometimes abrupt, but not necessarily as rude as curt."
+      }
+    },
+    {
+      "word": "brusque",
+      "note": {
+        "ja": "話し方だけでなく、人の態度・物腰全体がぶっきらぼうであることを表す。",
+        "en": "Describes an abrupt or discourteous manner more broadly."
+      }
+    },
+    {
+      "word": "abrupt",
+      "note": {
+        "ja": "突然・唐突であることを強調し、話し方についてはぶっきらぼうの意味にもなる。",
+        "en": "Emphasizes suddenness and can describe an unexpectedly blunt manner."
+      }
+    },
+    {
+      "word": "blunt",
+      "note": {
+        "ja": "遠回しにせず率直に言うこと。必ずしも発言自体が短いとは限らない。",
+        "en": "Emphasizes directness rather than brevity."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "kurz angebunden",
+    "it": "brusco",
+    "fr": "sec",
+    "es": "seco"
+  },
+  "collocations": {
+    "ja": [
+      "a curt reply — ぶっきらぼうな返答",
+      "a curt response — そっけない応答",
+      "a curt answer — 無愛想な短い答え",
+      "a curt nod — そっけなくうなずくこと",
+      "a curt dismissal — にべもない拒絶・追い払い",
+      "in a curt tone — ぶっきらぼうな口調で"
+    ],
+    "en": [
+      "a curt reply",
+      "a curt response",
+      "a curt answer",
+      "a curt nod",
+      "a curt dismissal",
+      "in a curt tone"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He gave me a curt reply and returned to his work. — 彼は私にそっけなく返事をすると、仕事に戻った。",
+      "She dismissed the suggestion with a curt \"No.\" — 彼女は『いや』とぶっきらぼうに言って、その提案を退けた。",
+      "The receptionist was efficient but rather curt with the customers. — その受付係は仕事はてきぱきしていたが、客に対してかなり無愛想だった。"
+    ],
+    "en": [
+      "He gave me a curt reply and returned to his work.",
+      "She dismissed the suggestion with a curt \"No.\"",
+      "The receptionist was efficient but rather curt with the customers."
+    ]
+  }
+},
+{
+  "id": "brusque",
+  "sid": "2026-00058",
+  "word": "brusque",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "communication",
+    "personality",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/brʌsk/",
+      "uk": "/bruːsk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ぶっきらぼうな",
+      "無愛想な",
+      "そっけなく唐突な"
+    ],
+    "en": [
+      "abrupt and rather rude in manner or speech",
+      "brief and unfriendly in dealing with people"
+    ]
+  },
+  "nuance": {
+    "ja": "話し方だけでなく、態度・応対・物腰全体が唐突で無愛想なことを表す。本人に悪意があるとは限らず、単に愛想がなく直接的な人物にも使える。curt が特に『返答などが短すぎて無愛想』であることを表すのに対し、brusque は人の対人的な振る舞い全般に使いやすい。",
+    "en": "Brusque describes an abrupt, blunt, and somewhat unfriendly manner. It need not imply deliberate rudeness. Unlike curt, which particularly emphasizes excessive brevity, brusque can characterize a person's overall way of dealing with others."
+  },
+  "minimal": {
+    "ja": [
+      "terse：発言が非常に短く、しばしば冷たい印象を与える。",
+      "curt：返答などが短いうえに無愛想・失礼。",
+      "brusque：話し方だけでなく、態度・物腰全般がぶっきらぼう。",
+      "blunt：遠回しにせず率直に言う。短いとは限らない。",
+      "gruff：声・話し方が荒っぽく無愛想。声質にも使う。"
+    ],
+    "en": [
+      "terse describes very brief language that may sound cold.",
+      "curt emphasizes rude or unfriendly brevity.",
+      "brusque describes an abrupt and discourteous manner more generally.",
+      "blunt emphasizes directness rather than brevity.",
+      "gruff suggests a rough voice or manner."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 brusque（ぶっきらぼうな、唐突な）から英語に入った語。さらにイタリア語 brusco（粗い、荒々しい、ぶっきらぼうな）に遡る。英語では語末の -que を綴るフランス語形が定着した。",
+    "en": "Borrowed from French brusque ('abrupt, blunt'), ultimately from Italian brusco ('rough, sour, abrupt'). English preserves the French spelling in -que."
+  },
+  "synonyms": [
+    {
+      "word": "curt",
+      "note": {
+        "ja": "特に発言・返答の短さと無愛想さを強調。",
+        "en": "Especially emphasizes rude brevity in speech or replies."
+      }
+    },
+    {
+      "word": "blunt",
+      "note": {
+        "ja": "相手への配慮より率直さを優先して、はっきり言うこと。",
+        "en": "Emphasizes saying things directly without softening them."
+      }
+    },
+    {
+      "word": "gruff",
+      "note": {
+        "ja": "荒っぽい声や無愛想な話し方・態度を表す。",
+        "en": "Suggests a rough voice or manner."
+      }
+    },
+    {
+      "word": "abrupt",
+      "note": {
+        "ja": "唐突さを中心とする語。対人態度ではぶっきらぼうの意味にもなる。",
+        "en": "Primarily emphasizes suddenness, but can describe an unfriendly manner."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schroff",
+    "it": "brusco",
+    "fr": "brusque",
+    "es": "brusco"
+  },
+  "collocations": {
+    "ja": [
+      "a brusque manner — ぶっきらぼうな態度",
+      "a brusque tone — 無愛想な口調",
+      "a brusque reply — ぶっきらぼうな返答",
+      "a brusque dismissal — にべもない拒絶",
+      "sound brusque — ぶっきらぼうに聞こえる",
+      "brusque with someone — 人に対して無愛想な"
+    ],
+    "en": [
+      "a brusque manner",
+      "a brusque tone",
+      "a brusque reply",
+      "a brusque dismissal",
+      "sound brusque",
+      "brusque with someone"
+    ]
+  },
+  "example": {
+    "ja": [
+      "His brusque manner often gave people the impression that he was angry. — 彼のぶっきらぼうな態度は、しばしば人々に彼が怒っているような印象を与えた。",
+      "The doctor was rather brusque, but she answered all my questions carefully. — その医師はやや無愛想だったが、私の質問にはすべて丁寧に答えてくれた。",
+      "I didn't mean to sound brusque; I was simply in a hurry. — ぶっきらぼうに聞こえるつもりはなかった。ただ急いでいただけなんだ。"
+    ],
+    "en": [
+      "His brusque manner often gave people the impression that he was angry.",
+      "The doctor was rather brusque, but she answered all my questions carefully.",
+      "I didn't mean to sound brusque; I was simply in a hurry."
+    ]
+  }
+},
+{
+  "id": "gruff",
+  "sid": "2026-00059",
+  "word": "gruff",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "personality",
+    "communication",
+    "voice"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɡrʌf/",
+      "uk": "/ɡrʌf/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（声が）低く荒々しい、しわがれた",
+      "（話し方・態度が）無愛想な、ぶっきらぼうな",
+      "粗野に聞こえる"
+    ],
+    "en": [
+      "rough and low in sound",
+      "abrupt or unfriendly in manner",
+      "rough-spoken but not necessarily unkind"
+    ]
+  },
+  "nuance": {
+    "ja": "声について使う場合は、低くざらついた荒っぽい響きを表す。人物・態度については『無愛想でぶっきらぼう』という意味になるが、必ずしも冷酷・敵対的という意味ではない。むしろ外見上は無愛想でも実は親切な人物を描写する際にもよく使われる。brusque が態度の唐突さ・無愛想さに重点を置くのに対し、gruff には声や話し方の荒っぽさという聴覚的要素が強い。",
+    "en": "Gruff often describes a low, rough voice, and by extension a rough or unfriendly manner. It does not necessarily imply hostility; a gruff person may actually be warm or kind beneath an abrasive exterior. Unlike brusque, gruff has a particularly strong association with the sound of someone's voice."
+  },
+  "minimal": {
+    "ja": [
+      "curt：返答などが短すぎて無愛想。",
+      "brusque：態度・物腰全般が唐突でぶっきらぼう。",
+      "gruff：声・話し方が低く荒っぽく、態度も無愛想。",
+      "blunt：遠回しにせず率直に言う。",
+      "hoarse：声がかすれている。無愛想さとは無関係。",
+      "gravelly：声が低くざらざらしている。主として声質の描写。"
+    ],
+    "en": [
+      "curt emphasizes rude or unfriendly brevity.",
+      "brusque describes an abrupt and discourteous manner.",
+      "gruff suggests a rough, low voice or a rough manner.",
+      "blunt emphasizes directness rather than roughness.",
+      "hoarse describes a strained or croaky voice without implying unfriendliness.",
+      "gravelly describes a deep, rough-textured voice."
+    ]
+  },
+  "etymology": {
+    "ja": "語源は完全には確定していないが、16世紀末から英語に見られ、もともと『粗い、荒々しい』という意味で用いられた。そこから声の荒々しさ、さらに人の無愛想な態度を表す意味へ発展した。",
+    "en": "Of uncertain origin, attested in English from the late 16th century. Its early sense was 'rough or coarse,' later developing specific uses for a rough voice and an abrupt manner."
+  },
+  "synonyms": [
+    {
+      "word": "brusque",
+      "note": {
+        "ja": "声質よりも、唐突で無愛想な態度を強調する。",
+        "en": "Emphasizes an abrupt manner rather than the quality of the voice."
+      }
+    },
+    {
+      "word": "rough",
+      "note": {
+        "ja": "非常に広い一般語。声・表面・態度などさまざまな粗さに使える。",
+        "en": "A broad general word for many kinds of coarseness or harshness."
+      }
+    },
+    {
+      "word": "gravelly",
+      "note": {
+        "ja": "低くざらついた声質を特に表す。",
+        "en": "Specifically describes a deep, rough-textured voice."
+      }
+    },
+    {
+      "word": "hoarse",
+      "note": {
+        "ja": "喉の不調などによる、かすれた声。",
+        "en": "Describes a rough or strained voice, often due to throat irritation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "bärbeißig / rau",
+    "it": "burbero / rauco",
+    "fr": "bourru / rauque",
+    "es": "hosco / ronco"
+  },
+  "collocations": {
+    "ja": [
+      "a gruff voice — 低く荒っぽい声",
+      "a gruff tone — ぶっきらぼうな口調",
+      "a gruff manner — 無愛想な態度",
+      "a gruff reply — 荒っぽくそっけない返答",
+      "sound gruff — 無愛想・荒っぽく聞こえる",
+      "gruff but kind — 無愛想だが親切な"
+    ],
+    "en": [
+      "a gruff voice",
+      "a gruff tone",
+      "a gruff manner",
+      "a gruff reply",
+      "sound gruff",
+      "gruff but kind"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He answered in a gruff voice but then offered to help us. — 彼はぶっきらぼうな声で答えたが、そのあと私たちを手伝うと申し出てくれた。",
+      "Despite his gruff manner, he was remarkably kind to the children. — 無愛想な物腰にもかかわらず、彼は子どもたちには驚くほど親切だった。",
+      "\"Come in,\" she said in a gruff voice. — 『入りなさい』と彼女は低く荒っぽい声で言った。"
+    ],
+    "en": [
+      "He answered in a gruff voice but then offered to help us.",
+      "Despite his gruff manner, he was remarkably kind to the children.",
+      "\"Come in,\" she said in a gruff voice."
+    ]
+  }
 }
 ]
