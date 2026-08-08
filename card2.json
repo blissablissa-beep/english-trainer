@@ -1,5 +1,408 @@
 [
 {
+  "id": "apprenticeship",
+  "sid": "2026-00181",
+  "word": "apprenticeship",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "work",
+    "training",
+    "education",
+    "career"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈprentɪsʃɪp/",
+      "uk": "/əˈprentɪsʃɪp/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "見習い期間、徒弟期間",
+      "見習いとして職業技能を学ぶ制度",
+      "実務と訓練を組み合わせた職業教育"
+    ],
+    "en": [
+      "a period of training in which a person learns a skilled occupation by working with experienced people",
+      "a structured system combining practical work with vocational instruction",
+      "the position or period of being an apprentice"
+    ]
+  },
+  "nuance": {
+    "ja": "特定の職業・技能について、経験者のもとで実際に働きながら体系的な訓練を受ける制度またはその期間を表す。伝統的な職人仕事だけでなく、現代では建設、電気、工学、IT、医療関連など幅広い職種に使われる。internship が比較的短期間の職場体験・実務経験を指すことが多いのに対し、apprenticeship は職業資格や熟練技能の習得を目的とした、より長期的・制度的な訓練であることが多い。",
+    "en": "An apprenticeship is a structured period of vocational training in which a person learns a skilled occupation through practical work, usually under experienced workers, often alongside formal instruction. Unlike an internship, which is often shorter and focused on gaining general work experience, an apprenticeship typically aims at mastery of a trade or occupation and may lead to a recognized qualification."
+  },
+  "minimal": {
+    "ja": [
+      "apprenticeship：実務をしながら職業技能を体系的に学ぶ見習い制度・期間。",
+      "internship：短期の職場体験・実務経験。資格取得を目的としないことも多い。",
+      "traineeship：訓練を受ける職・期間を広く指す。",
+      "vocational training：職業技能を身につける教育・訓練全般。",
+      "on-the-job training：実際の仕事を通じた訓練。",
+      "probation：採用後の試用期間。技能習得制度とは別。"
+    ],
+    "en": [
+      "apprenticeship is structured vocational training through practical work.",
+      "internship is usually shorter work experience and may not lead to a qualification.",
+      "traineeship is a broader term for a position involving training.",
+      "vocational training refers generally to education for a specific occupation.",
+      "on-the-job training means learning while performing actual work.",
+      "probation is a trial period after employment and is not primarily a training system."
+    ]
+  },
+  "etymology": {
+    "ja": "apprentice + -ship から成る。apprentice は古フランス語 aprentiz『学ぶ者、見習い』に由来し、aprendre『学ぶ』、さらにラテン語 apprehendere『つかむ、理解する』にさかのぼる。-ship は『状態・身分・関係』を表すため、apprenticeship は文字どおり『apprentice である身分・期間』。",
+    "en": "Formed from apprentice + -ship. Apprentice comes from Old French aprentiz ('learner, apprentice'), related to apprendre ('to learn'), ultimately from Latin apprehendere ('to grasp, understand'). The suffix -ship denotes a state, status, or condition, so apprenticeship originally meant the state or period of being an apprentice."
+  },
+  "synonyms": [
+    {
+      "word": "internship",
+      "note": {
+        "ja": "職場経験を得る短期制度であることが多い。apprenticeship は熟練技能や資格につながる長期訓練であることが多い。",
+        "en": "Usually focuses on gaining workplace experience, while an apprenticeship more often provides long-term occupational training leading to skilled status."
+      }
+    },
+    {
+      "word": "traineeship",
+      "note": {
+        "ja": "訓練を受ける職・期間のより広い呼称。制度内容は国や業界によって異なる。",
+        "en": "A broader term for a training position, whose structure varies by country and industry."
+      }
+    },
+    {
+      "word": "vocational training",
+      "note": {
+        "ja": "特定職業のための教育・訓練全般を指し、必ずしも雇用関係を伴わない。",
+        "en": "A broad term for occupational education and does not necessarily involve employment."
+      }
+    },
+    {
+      "word": "on-the-job training",
+      "note": {
+        "ja": "職場で実務をしながら学ぶ訓練。apprenticeship は通常これを含むが、より制度的。",
+        "en": "Training received while doing actual work; an apprenticeship normally includes this but is usually more structured."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Ausbildung / Lehre",
+    "it": "apprendistato",
+    "fr": "apprentissage",
+    "es": "aprendizaje profesional / contrato de aprendizaje"
+  },
+  "collocations": {
+    "ja": [
+      "serve an apprenticeship — 見習い期間を務める",
+      "complete an apprenticeship — 見習い課程を修了する",
+      "begin an apprenticeship — 見習いを始める",
+      "an apprenticeship program — 見習い訓練制度",
+      "a three-year apprenticeship — 3年間の見習い課程",
+      "offer apprenticeships — 見習いの機会を提供する",
+      "enter an apprenticeship — 見習い制度に入る",
+      "apprenticeship training — 見習い訓練"
+    ],
+    "en": [
+      "serve an apprenticeship",
+      "complete an apprenticeship",
+      "begin an apprenticeship",
+      "an apprenticeship program",
+      "a three-year apprenticeship",
+      "offer apprenticeships",
+      "enter an apprenticeship",
+      "apprenticeship training"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He completed a four-year apprenticeship as an electrician. — 彼は電気技師として4年間の見習い課程を修了した。",
+      "The company offers apprenticeships to young people entering the engineering sector. — その会社は工学分野を目指す若者に見習い訓練の機会を提供している。",
+      "An apprenticeship combines classroom instruction with practical experience. — 見習い制度では教室での学習と実務経験が組み合わされる。",
+      "She began her apprenticeship under an experienced cabinetmaker. — 彼女は熟練した家具職人のもとで見習いを始めた。",
+      "Many skilled trades still rely heavily on apprenticeship programs. — 多くの熟練職では今でも見習い制度が重要な役割を果たしている。"
+    ],
+    "en": [
+      "He completed a four-year apprenticeship as an electrician.",
+      "The company offers apprenticeships to young people entering the engineering sector.",
+      "An apprenticeship combines classroom instruction with practical experience.",
+      "She began her apprenticeship under an experienced cabinetmaker.",
+      "Many skilled trades still rely heavily on apprenticeship programs."
+    ]
+  }
+},
+{
+  "id": "primordial",
+  "sid": "2026-00182",
+  "word": "primordial",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "origin",
+    "ancient",
+    "science",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/praɪˈmɔːrdiəl/",
+      "uk": "/praɪˈmɔːdiəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "原初の、太古の",
+      "最初期から存在する",
+      "根源的な、本能的な"
+    ],
+    "en": [
+      "existing from the earliest stage of development",
+      "belonging to the beginning of the world, life, or a system",
+      "fundamental, basic, or deeply rooted"
+    ]
+  },
+  "nuance": {
+    "ja": "宇宙・地球・生命・社会などの『最初期』に属するものを表す語。primordial ocean, primordial atmosphere, primordial life のような科学的・歴史的用法が典型。一方で primordial fear, primordial instinct のように、人間の非常に深い本能・感情について『文明以前からあるような根源的な』という比喩的用法もある。ancient よりも『起源・始まり』への結びつきが強い。",
+    "en": "Primordial describes something belonging to the earliest stages of existence or development. It is common in scientific and historical contexts such as primordial oceans, atmosphere, matter, or life. Figuratively, it can describe deeply rooted instincts, fears, or emotions that seem fundamental or pre-civilizational. It is more strongly associated with origins than ancient."
+  },
+  "minimal": {
+    "ja": [
+      "primordial：物事の最初期・原初に属する。",
+      "ancient：非常に古い。起源段階とは限らない。",
+      "primeval：太古の自然・世界を強く連想させる。",
+      "primal：本能的・根源的な。感情や欲求にもよく使う。",
+      "primitive：発達の初期段階の、未発達な。",
+      "original：最初の、元来の。必ずしも太古ではない。"
+    ],
+    "en": [
+      "primordial means belonging to the very earliest stage of existence or development.",
+      "ancient simply means very old and does not necessarily imply an origin stage.",
+      "primeval strongly evokes the earliest natural world.",
+      "primal emphasizes basic instinct or fundamental drives.",
+      "primitive means early in development or relatively undeveloped.",
+      "original means first or initial, without necessarily implying great antiquity."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 primordialis『最初の、原初の』に由来する。これは primordium『始まり、起源』から来ており、primus『第一の』+ ordiri『始める、織り始める』に分解できる。したがって語源的には『最初の始まりに属する』という意味。",
+    "en": "From Latin primordialis ('first, original'), from primordium ('beginning, origin'), formed from primus ('first') and ordiri ('to begin, begin weaving'). The literal idea is therefore something belonging to the very first beginning."
+  },
+  "synonyms": [
+    {
+      "word": "primeval",
+      "note": {
+        "ja": "太古の自然・森林・世界などに特に使いやすい。primordial より情景的・文学的。",
+        "en": "Especially common for the ancient natural world and often feels more vivid or literary than primordial."
+      }
+    },
+    {
+      "word": "primal",
+      "note": {
+        "ja": "人間の本能・感情・欲求について『根源的』という意味で特によく使う。",
+        "en": "Especially common for basic instincts, emotions, and drives."
+      }
+    },
+    {
+      "word": "ancient",
+      "note": {
+        "ja": "単に非常に古いことを表す広い語。primordial のような『起源段階』の意味はない。",
+        "en": "A broad word meaning very old and does not necessarily imply the earliest stage of existence."
+      }
+    },
+    {
+      "word": "primitive",
+      "note": {
+        "ja": "発達・技術・構造の初期的、未発達な状態を表す。primordial より発達段階に重点。",
+        "en": "Emphasizes an early or undeveloped stage of development rather than sheer origin."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ursprünglich / urzeitlich / primordial",
+    "it": "primordiale",
+    "fr": "primordial / originel",
+    "es": "primordial / primigenio"
+  },
+  "collocations": {
+    "ja": [
+      "primordial soup — 原始スープ",
+      "primordial ocean — 原始の海",
+      "primordial atmosphere — 原始大気",
+      "primordial matter — 原初物質",
+      "primordial life — 原始生命",
+      "primordial fear — 根源的な恐怖",
+      "primordial instinct — 原初的な本能",
+      "primordial forces — 原初的な力"
+    ],
+    "en": [
+      "primordial soup",
+      "primordial ocean",
+      "primordial atmosphere",
+      "primordial matter",
+      "primordial life",
+      "primordial fear",
+      "primordial instinct",
+      "primordial forces"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Scientists study primordial matter to understand the early universe. — 科学者たちは初期宇宙を理解するために原初物質を研究している。",
+      "The Earth once had a very different primordial atmosphere. — 地球にはかつて現在とは大きく異なる原始大気が存在した。",
+      "The film evokes a primordial fear of darkness and isolation. — その映画は暗闇と孤立に対する根源的な恐怖を呼び起こす。",
+      "Life may have emerged from chemical reactions in the primordial ocean. — 生命は原始の海で起きた化学反応から生まれた可能性がある。",
+      "The landscape had an almost primordial quality. — その風景にはほとんど太古の世界を思わせる雰囲気があった。"
+    ],
+    "en": [
+      "Scientists study primordial matter to understand the early universe.",
+      "The Earth once had a very different primordial atmosphere.",
+      "The film evokes a primordial fear of darkness and isolation.",
+      "Life may have emerged from chemical reactions in the primordial ocean.",
+      "The landscape had an almost primordial quality."
+    ]
+  }
+},
+{
+  "id": "primeval",
+  "sid": "2026-00183",
+  "word": "primeval",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "ancient",
+    "nature",
+    "history",
+    "literary"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/praɪˈmiːvəl/",
+      "uk": "/praɪˈmiːvəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "太古の、原始時代の",
+      "文明以前の世界を思わせる",
+      "非常に古く原初的な"
+    ],
+    "en": [
+      "belonging to the earliest ages of the world",
+      "resembling the ancient natural world before civilization",
+      "extremely ancient and primitive in character"
+    ]
+  },
+  "nuance": {
+    "ja": "森林・山岳・景観・海・世界などについて、『人間の文明が現れる前からあるような太古の自然』を強く連想させる語。primordial が宇宙・生命・物質などの『起源そのもの』を科学的に述べるのにも適するのに対し、primeval はより自然景観・文学的描写に向く。primeval forest が代表的な組み合わせ。",
+    "en": "Primeval describes something belonging to or evocative of the earliest ages of the world, especially untouched nature such as forests, landscapes, and wilderness. Compared with primordial, which often refers scientifically to origins or first stages, primeval is more vivid, naturalistic, and literary."
+  },
+  "minimal": {
+    "ja": [
+      "primeval：太古の自然・世界を思わせる。",
+      "primordial：存在や発達の最初期・起源に属する。",
+      "primal：本能・感情などの根源的な。",
+      "ancient：単に非常に古い。",
+      "prehistoric：有史以前の。",
+      "primitive：発達初期・未発達な。"
+    ],
+    "en": [
+      "primeval means belonging to or resembling the world's earliest natural state.",
+      "primordial means belonging to the very first stage of existence or development.",
+      "primal emphasizes fundamental instinct or basic drives.",
+      "ancient simply means very old.",
+      "prehistoric means belonging to a period before written history.",
+      "primitive means early or relatively undeveloped."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 primaevus『人生・時代の初期の』に由来する。primus『第一の』+ aevum『時代、年代、寿命』から成り、語源的には『最初の時代に属する』という意味。medieval の -eval も同じ aevum 系に由来する。",
+    "en": "From Latin primaevus, formed from primus ('first') and aevum ('age, lifetime, era'). The literal sense is therefore 'belonging to the first age.' The element related to aevum also appears historically in words such as medieval."
+  },
+  "synonyms": [
+    {
+      "word": "primordial",
+      "note": {
+        "ja": "起源・最初期そのものに重点。primeval は太古の自然景観を描写するのに特に向く。",
+        "en": "Focuses more directly on origins and first stages, while primeval is especially suited to ancient natural landscapes."
+      }
+    },
+    {
+      "word": "prehistoric",
+      "note": {
+        "ja": "文字記録以前の時代を指す、より歴史学的な語。",
+        "en": "A more historical term referring specifically to periods before written records."
+      }
+    },
+    {
+      "word": "ancient",
+      "note": {
+        "ja": "非常に古いことを表す一般語。primeval ほど原始世界のイメージは強くない。",
+        "en": "A broad word meaning very old, without the strong sense of primordial wilderness."
+      }
+    },
+    {
+      "word": "primal",
+      "note": {
+        "ja": "人間の本能・感情・衝動などについて『根源的』という意味でよく使う。",
+        "en": "Especially common for basic instincts, emotions, and drives rather than ancient landscapes."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "urzeitlich / urtümlich",
+    "it": "primordiale / preistorico",
+    "fr": "primitif / des temps primitifs",
+    "es": "primitivo / primigenio"
+  },
+  "collocations": {
+    "ja": [
+      "primeval forest — 原生林、太古の森",
+      "primeval wilderness — 太古の荒野",
+      "primeval landscape — 原始的な景観",
+      "primeval world — 太古の世界",
+      "primeval forces — 原始的な力",
+      "primeval darkness — 太古を思わせる暗闇",
+      "primeval nature — 原初的な自然",
+      "a primeval atmosphere — 太古を思わせる雰囲気"
+    ],
+    "en": [
+      "primeval forest",
+      "primeval wilderness",
+      "primeval landscape",
+      "primeval world",
+      "primeval forces",
+      "primeval darkness",
+      "primeval nature",
+      "a primeval atmosphere"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The hikers entered a dense primeval forest untouched by modern development. — ハイカーたちは近代開発の手が入っていない鬱蒼とした原生林に入った。",
+      "The valley had a primeval beauty that seemed almost untouched by time. — その谷には時の流れにほとんど触れられていないような太古の美しさがあった。",
+      "The film depicts a primeval world of vast forests and volcanic mountains. — その映画は広大な森林と火山の山々からなる太古の世界を描いている。",
+      "A strange, almost primeval silence filled the cave. — 奇妙で、ほとんど太古を思わせる静寂が洞窟を満たしていた。",
+      "The storm seemed to unleash some primeval force of nature. — その嵐は自然の原始的な力を解き放ったかのようだった。"
+    ],
+    "en": [
+      "The hikers entered a dense primeval forest untouched by modern development.",
+      "The valley had a primeval beauty that seemed almost untouched by time.",
+      "The film depicts a primeval world of vast forests and volcanic mountains.",
+      "A strange, almost primeval silence filled the cave.",
+      "The storm seemed to unleash some primeval force of nature."
+    ]
+  }
+},
+{
   "id": "confine",
   "sid": "2026-00201",
   "word": "confine",
