@@ -793,23 +793,39 @@
 
   async function loadCards() {
     try {
-      const response = await fetch(
-        `./cards.json?v=${encodeURIComponent(
-          CARDS_VERSION
-        )}`,
-        {
-          cache: "no-store"
-        }
-      );
+      const files = [
+  "./cards.json",
+  "./cards2.json"
+];
 
-      if (!response.ok) {
-        throw new Error(
-          `HTTP ${response.status}`
-        );
-      }
+const allCards = [];
 
-      const data = await response.json();
-      const result = validateCards(data);
+for (const file of files) {
+  const response = await fetch(
+    `${file}?v=${encodeURIComponent(CARDS_VERSION)}`,
+    {
+      cache: "no-store"
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `${file}: HTTP ${response.status}`
+    );
+  }
+
+  const data = await response.json();
+
+  if (!Array.isArray(data)) {
+    throw new Error(
+      `${file} is not a JSON array`
+    );
+  }
+
+  allCards.push(...data);
+}
+
+const result = validateCards(allCards);
 
       if (!result.ok) {
         CARDS = [];
