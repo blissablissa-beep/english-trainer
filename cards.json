@@ -18423,5 +18423,276 @@
       "A sense of unease lurked in the background throughout the conversation."
     ]
   }
+},
+{
+  "id": "loiter",
+  "sid": "2026-00157",
+  "word": "loiter",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "movement",
+    "public-space",
+    "behavior",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "loiter – loitered – loitered"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈlɔɪtər/",
+      "uk": "/ˈlɔɪtə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特に目的なくぶらぶらする",
+      "その場に長居する",
+      "公共の場所などをうろつく"
+    ],
+    "en": [
+      "to remain in a place without an obvious purpose",
+      "to stand or move around slowly when there is no particular reason to stay",
+      "to linger in a public place, sometimes in a suspicious or unwelcome way"
+    ]
+  },
+  "nuance": {
+    "ja": "駅、店先、建物の入口、路上などで、明確な用事もなくその場に居続けたり、ぶらぶらしたりすることを表す。単なる linger よりも『目的がはっきりしない』『周囲から少し怪しく見える』という含みを持ちやすい。lurk のように隠れている必要はなく、prowl のように獲物や機会を探して動き回る意味もない。No loitering のように規則・標識でもよく見られる。",
+    "en": "Loiter means to remain or move around in a place without an obvious purpose. It is often used for public spaces such as entrances, streets, stations, or shops and can carry a mildly suspicious or unwelcome tone. Unlike lurk, it does not imply hiding; unlike prowl, it does not necessarily imply actively searching for prey or opportunity. It is also common in signs and regulations such as No loitering."
+  },
+  "minimal": {
+    "ja": [
+      "loiter：目的なくその場にぶらぶら居続ける。",
+      "lurk：見つからないように潜み、様子をうかがう。",
+      "linger：必要以上に長くその場に残る。怪しさは必須でない。",
+      "prowl：獲物・機会を探してうろつく。",
+      "hang around：その辺でぶらぶらする。より口語的。",
+      "skulk：見つからないようこそこそ隠れたり動いたりする。"
+    ],
+    "en": [
+      "loiter means to stay around without an obvious purpose.",
+      "lurk means to remain hidden, often while watching or waiting.",
+      "linger means to remain longer than expected without necessarily seeming suspicious.",
+      "prowl means to move around searching for prey or opportunity.",
+      "hang around is a more informal way to say stay somewhere without doing much.",
+      "skulk means to hide or move furtively, usually with a negative tone."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 loiteren『ぶらぶらする、時間を浪費する』に由来し、さらに古い起源は不確か。オランダ語・低地ドイツ語系の『怠ける、ぐずぐずする』語との関連が指摘されている。古くから『目的なく時間を費やす』『ぐずぐずして進まない』という意味を持ち、そこから現代の『その場をぶらぶらする、長居する』という用法が発達した。",
+    "en": "From Middle English loiteren ('to idle, waste time'). Its deeper origin is uncertain, though connections with Dutch or Low German words meaning to idle or dawdle have been proposed. The older idea of wasting time or delaying developed into the modern sense of remaining around without an obvious purpose."
+  },
+  "synonyms": [
+    {
+      "word": "linger",
+      "note": {
+        "ja": "その場に予想以上に長く残ること。loiter のような目的のなさや怪しさは必須ではない。",
+        "en": "Means to remain longer than expected and does not necessarily suggest purposelessness or suspicion."
+      }
+    },
+    {
+      "word": "hang around",
+      "note": {
+        "ja": "『その辺でぶらぶらする』という非常に口語的な表現。loiter より軽い。",
+        "en": "A very informal expression for staying around without doing much and is less negative than loiter."
+      }
+    },
+    {
+      "word": "lurk",
+      "note": {
+        "ja": "隠れて待つ・観察することを強調する。loiter は普通、姿を隠していない。",
+        "en": "Emphasizes remaining hidden while watching or waiting, whereas loiter normally occurs openly."
+      }
+    },
+    {
+      "word": "dawdle",
+      "note": {
+        "ja": "ぐずぐずして時間を浪費する、ゆっくりしすぎることに重点がある。",
+        "en": "Emphasizes wasting time by moving or acting too slowly rather than simply remaining in one place."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "herumlungern / herumstehen",
+    "it": "bighellonare / sostare senza motivo",
+    "fr": "traîner / rôder",
+    "es": "merodear / holgazanear"
+  },
+  "collocations": {
+    "ja": [
+      "loiter outside a store — 店の外をぶらぶらする",
+      "loiter near the entrance — 入り口付近にたむろする",
+      "loiter on the street — 路上をぶらつく",
+      "loiter around the station — 駅周辺をぶらぶらする",
+      "be arrested for loitering — 徘徊・たむろを理由に逮捕される",
+      "a ban on loitering — たむろ禁止",
+      "No loitering — たむろ禁止",
+      "loiter with no apparent purpose — 特に目的もなくぶらぶらする"
+    ],
+    "en": [
+      "loiter outside a store",
+      "loiter near the entrance",
+      "loiter on the street",
+      "loiter around the station",
+      "be arrested for loitering",
+      "a ban on loitering",
+      "No loitering",
+      "loiter with no apparent purpose"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Several teenagers were loitering outside the convenience store. — 数人の若者がコンビニの外でぶらぶらしていた。",
+      "The security guard asked him not to loiter near the entrance. — 警備員は彼に入り口付近で長居しないよう求めた。",
+      "A man had been loitering around the station for nearly an hour. — ある男が1時間近く駅周辺をうろついていた。",
+      "The sign clearly said, \"No loitering.\" — その標識にははっきりと「たむろ禁止」と書かれていた。",
+      "He was not doing anything illegal; he was simply loitering in the parking lot. — 彼は違法なことをしていたわけではなく、ただ駐車場でぶらぶらしていただけだった。"
+    ],
+    "en": [
+      "Several teenagers were loitering outside the convenience store.",
+      "The security guard asked him not to loiter near the entrance.",
+      "A man had been loitering around the station for nearly an hour.",
+      "The sign clearly said, \"No loitering.\"",
+      "He was not doing anything illegal; he was simply loitering in the parking lot."
+    ]
+  }
+},
+{
+  "id": "prowl",
+  "sid": "2026-00158",
+  "word": "prowl",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "movement",
+    "predation",
+    "suspicious",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "countability": "countable",
+    "forms": "prowl – prowled – prowled"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/praʊl/",
+      "uk": "/praʊl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "獲物・機会などを探してうろつく",
+      "こっそり歩き回る",
+      "獲物を探して徘徊する"
+    ],
+    "en": [
+      "to move around quietly while searching for prey, opportunity, or something to take",
+      "to roam in a stealthy or suspicious way",
+      "to move through an area while looking for something"
+    ]
+  },
+  "nuance": {
+    "ja": "動物が獲物を探して静かに歩き回る場面が典型で、人については何かを探したり機会をうかがったりしながら怪しくうろつくニュアンスがある。lurk が『隠れてその場に潜む』のに対し、prowl は『移動しながら探す』動きが強い。loiter のような単なる目的のない長居でもない。比喩的・くだけた用法では prowl the shops のように『店を見て回る』という意味でも使われる。",
+    "en": "Prowl typically describes an animal moving quietly while searching for prey, and with people it often suggests moving around in a stealthy or suspicious way while looking for an opportunity. Unlike lurk, which emphasizes remaining hidden, prowl emphasizes movement and searching. Unlike loiter, it is not simply purposeless lingering. In lighter contexts, it can also mean moving around somewhere looking for something, such as prowling the shops."
+  },
+  "minimal": {
+    "ja": [
+      "prowl：獲物・機会を探しながら静かにうろつく。",
+      "lurk：見つからないように潜んで待つ。",
+      "loiter：目的なくその場にぶらぶら居続ける。",
+      "roam：広い範囲を自由に歩き回る。",
+      "stalk：特定の獲物・相手をこっそり追跡する。",
+      "skulk：見つからないようこそこそ動く。否定的。"
+    ],
+    "en": [
+      "prowl means to move around stealthily while searching for prey or opportunity.",
+      "lurk means to remain hidden while watching or waiting.",
+      "loiter means to stay around without an obvious purpose.",
+      "roam means to move freely over a wide area.",
+      "stalk means to secretly follow a particular target or prey.",
+      "skulk means to hide or move furtively, usually with a negative tone."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 prollen / prowlen などにさかのぼり、『獲物を探して歩き回る、物色する』という意味で使われた。より古い起源は不確かだが、当初から『探しながらうろつく』という意味が中心にあった。そこから動物の捕食行動や、人の怪しい徘徊を表す現代的な用法が発達した。",
+    "en": "From Middle English forms such as prollen or prowlen, used in the sense of roaming about in search of prey or something to take. Its deeper origin is uncertain, but the idea of moving around while searching has been central to the word for centuries."
+  },
+  "synonyms": [
+    {
+      "word": "stalk",
+      "note": {
+        "ja": "特定の獲物・人物を狙って忍び寄り、追跡することに重点がある。prowl は対象をまだ探している段階でも使える。",
+        "en": "Emphasizes stealthily following a specific target, whereas prowl can describe searching before a target has been found."
+      }
+    },
+    {
+      "word": "roam",
+      "note": {
+        "ja": "広い範囲を歩き回る一般語で、獲物・機会を探す含みや怪しさはない。",
+        "en": "A neutral word for moving freely over an area and does not imply hunting, opportunity seeking, or suspicious intent."
+      }
+    },
+    {
+      "word": "lurk",
+      "note": {
+        "ja": "隠れて待つ・様子を見ることに重点がある。prowl はより動的。",
+        "en": "Emphasizes remaining hidden while waiting or watching, whereas prowl is more active and mobile."
+      }
+    },
+    {
+      "word": "skulk",
+      "note": {
+        "ja": "見つからないようこそこそすることに重点があり、臆病・悪意などの否定的評価を伴いやすい。",
+        "en": "Emphasizes furtive hiding or movement and often carries a more strongly negative judgment."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "herumstreifen / auf Beutezug sein",
+    "it": "aggirarsi / andare in cerca di preda",
+    "fr": "rôder / être à l'affût",
+    "es": "merodear / rondar"
+  },
+  "collocations": {
+    "ja": [
+      "prowl the streets — 街をうろつく",
+      "prowl around at night — 夜にうろつく",
+      "prowl in search of prey — 獲物を探して歩き回る",
+      "a predator prowling nearby — 近くを徘徊する捕食者",
+      "prowl the neighborhood — 近所をうろつく",
+      "be on the prowl — 獲物・機会を探してうろついている",
+      "go on the prowl — 獲物・機会を探しに出る",
+      "prowl through the shops — 店を見て回る"
+    ],
+    "en": [
+      "prowl the streets",
+      "prowl around at night",
+      "prowl in search of prey",
+      "a predator prowling nearby",
+      "prowl the neighborhood",
+      "be on the prowl",
+      "go on the prowl",
+      "prowl through the shops"
+    ]
+  },
+  "example": {
+    "ja": [
+      "A fox was prowling around the edge of the campsite. — キツネがキャンプ場の端を獲物でも探すようにうろついていた。",
+      "Police warned residents about a suspicious man prowling the neighborhood at night. — 警察は夜間に近所を怪しくうろつく男について住民に注意を呼びかけた。",
+      "The cat prowled through the grass in search of prey. — 猫は獲物を探して草むらを忍び歩いた。",
+      "Reporters were prowling the corridors in search of information. — 記者たちは情報を求めて廊下を歩き回っていた。",
+      "He spent the afternoon prowling through second-hand bookshops. — 彼は午後いっぱい古書店を見て回った。"
+    ],
+    "en": [
+      "A fox was prowling around the edge of the campsite.",
+      "Police warned residents about a suspicious man prowling the neighborhood at night.",
+      "The cat prowled through the grass in search of prey.",
+      "Reporters were prowling the corridors in search of information.",
+      "He spent the afternoon prowling through second-hand bookshops."
+    ]
+  }
 }
 ]
