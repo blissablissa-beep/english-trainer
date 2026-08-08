@@ -18964,5 +18964,682 @@
       "Procrastinating may reduce stress temporarily, but it often creates more pressure later."
     ]
   }
+},
+{
+  "id": "linger",
+  "sid": "2026-00161",
+  "word": "linger",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "duration",
+    "presence",
+    "memory",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "linger – lingered – lingered"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈlɪŋɡər/",
+      "uk": "/ˈlɪŋɡə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "その場に長く残る",
+      "なかなか消えずに残る",
+      "余韻・記憶・疑念などが残り続ける"
+    ],
+    "en": [
+      "to remain somewhere longer than expected",
+      "to continue to exist for some time instead of disappearing",
+      "to stay in the mind, atmosphere, or senses"
+    ]
+  },
+  "nuance": {
+    "ja": "人については、その場をすぐ離れずにしばらく残ることを表す。loiter と違って『目的なく怪しくたむろする』という否定的な含みは必須ではない。さらに smell, pain, doubt, memory, impression などについて『本来なら消えていきそうなものが、なお残り続ける』という比喩的用法が非常に重要。余韻・名残・残存感を表すのに適した語。",
+    "en": "Linger means to remain longer than expected or to continue existing after one might expect something to disappear. With people, it can simply mean staying behind without the suspicious undertone of loiter. Figuratively, it is especially common with smells, memories, doubts, pain, impressions, and emotions that continue to be felt."
+  },
+  "minimal": {
+    "ja": [
+      "linger：去る・消えるはずのものがなお残り続ける。",
+      "loiter：目的なくその場にぶらぶら居続ける。",
+      "dawdle：ぐずぐずして時間を無駄にする。",
+      "remain：残ることを中立的に表す一般語。",
+      "persist：困難・反対・時間にもかかわらず持続する。",
+      "endure：長期間耐えて存続する。"
+    ],
+    "en": [
+      "linger means to remain longer than expected or continue after one might expect disappearance.",
+      "loiter means to stay around without an obvious purpose.",
+      "dawdle means to waste time by acting too slowly.",
+      "remain is the neutral general word for continuing to be present.",
+      "persist means to continue despite difficulty, opposition, or the passage of time.",
+      "endure means to continue to exist or withstand something over a long period."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 lengeren『長くとどまる、引き延ばす』に由来し、古英語 leng『より長く』と関係する。さらに long『長い』と同じゲルマン語系の語族に属する。したがって原義のイメージは非常に素直で、『長くいる、長引く』。そこから人の滞在だけでなく、匂い・記憶・感情などが長く残る意味へ広がった。",
+    "en": "From Middle English lengeren ('to remain longer, prolong'), related to Old English leng ('longer') and ultimately to the same Germanic word family as long. The underlying idea is simply 'to stay long,' which developed naturally into both physical and figurative senses of remaining."
+  },
+  "synonyms": [
+    {
+      "word": "remain",
+      "note": {
+        "ja": "単に残っていることを表す中立的な一般語。linger は『予想以上に長く残る』という余韻を持つ。",
+        "en": "The neutral general term for continuing to be present; linger adds a sense of remaining longer than expected."
+      }
+    },
+    {
+      "word": "persist",
+      "note": {
+        "ja": "問題・症状・傾向などが消えずに持続することに強い。linger より継続性・しぶとさを感じさせる。",
+        "en": "Suggests continuing despite time or resistance and often feels more persistent or stubborn than linger."
+      }
+    },
+    {
+      "word": "loiter",
+      "note": {
+        "ja": "人が目的なく公共の場所などに居続けること。linger の方が中立的・感傷的な文脈にも使える。",
+        "en": "Usually refers to people remaining somewhere without an obvious purpose, often with a negative undertone."
+      }
+    },
+    {
+      "word": "hover",
+      "note": {
+        "ja": "近くにとどまる・空中に浮かぶこと。比喩的には人が近くで様子をうかがう。",
+        "en": "Means to remain close by or suspended in one place and can figuratively suggest waiting nearby."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verweilen / nachwirken",
+    "it": "indugiare / persistere",
+    "fr": "s'attarder / persister",
+    "es": "demorarse / persistir"
+  },
+  "collocations": {
+    "ja": [
+      "linger for a while — しばらく残る",
+      "linger over dinner — 食事を終えずにゆっくり過ごす",
+      "linger in the air — 空気中に残る",
+      "linger in one's memory — 記憶に残る",
+      "a lingering doubt — 消えない疑念",
+      "a lingering smell — なかなか消えない匂い",
+      "lingering effects — 後まで残る影響",
+      "linger on — なお残り続ける"
+    ],
+    "en": [
+      "linger for a while",
+      "linger over dinner",
+      "linger in the air",
+      "linger in one's memory",
+      "a lingering doubt",
+      "a lingering smell",
+      "lingering effects",
+      "linger on"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We lingered outside the restaurant for a few minutes after dinner. — 私たちは夕食後、レストランの外に数分間残っていた。",
+      "The smell of smoke lingered in the room. — 煙の匂いが部屋に残っていた。",
+      "A sense of unease lingered after the meeting. — 会議の後も不安感が残った。",
+      "The memory of that conversation lingered in his mind for years. — その会話の記憶は何年もの間、彼の心に残った。",
+      "Some doubts still linger about the reliability of the data. — そのデータの信頼性については、なお疑念が残っている。"
+    ],
+    "en": [
+      "We lingered outside the restaurant for a few minutes after dinner.",
+      "The smell of smoke lingered in the room.",
+      "A sense of unease lingered after the meeting.",
+      "The memory of that conversation lingered in his mind for years.",
+      "Some doubts still linger about the reliability of the data."
+    ]
+  }
+},
+{
+  "id": "persist",
+  "sid": "2026-00162",
+  "word": "persist",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "continuation",
+    "persistence",
+    "difficulty",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "persist – persisted – persisted"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pərˈsɪst/",
+      "uk": "/pəˈsɪst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "続く、持続する",
+      "消えずに残る",
+      "困難があってもやり続ける、粘り強く続ける"
+    ],
+    "en": [
+      "to continue to exist or occur",
+      "to remain despite attempts to remove or stop something",
+      "to continue doing something despite difficulty or opposition"
+    ]
+  },
+  "nuance": {
+    "ja": "単に『続く』だけでなく、時間の経過・困難・反対・改善の試みにもかかわらず、なお続くというニュアンスを持つ。人を主語にすると persist in doing something の形で『困難があっても～を続ける』。problem, symptom, rumor, inequality などを主語にすると『消えずに残る、しつこく続く』。linger は『余韻のように残る』感じが強いのに対し、persist はより力強く、場合によっては厄介な持続を表す。",
+    "en": "Persist means to continue despite time, difficulty, opposition, or attempts to stop something. With people, it often appears as persist in doing something and suggests determination. With problems, symptoms, rumors, or conditions, it suggests that they continue stubbornly or undesirably. Compared with linger, persist is stronger and more focused on continued existence despite pressure to end."
+  },
+  "minimal": {
+    "ja": [
+      "persist：困難・時間・反対にもかかわらず続く。",
+      "linger：消えそうなものが余韻のように残る。",
+      "continue：続く・続ける一般語。",
+      "persevere：困難の中でも努力を続ける。人の意志に重点。",
+      "endure：苦痛・困難に耐える、または長く存続する。",
+      "remain：そのまま残る。持続への抵抗感は弱い。"
+    ],
+    "en": [
+      "persist means to continue despite difficulty, opposition, or the passage of time.",
+      "linger means to remain longer than expected, often with a sense of residue or aftereffect.",
+      "continue is the general word for carrying on.",
+      "persevere emphasizes determined effort despite difficulty.",
+      "endure means to withstand hardship or continue for a long time.",
+      "remain simply means to continue to be present."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 persistere『しっかり立ち続ける、持続する』に由来する。per-『徹底して、通して』+ sistere『立つ、立たせる』から成る。sistere は stare『立つ』と関係するため、語源的なイメージは『その場に踏みとどまり続ける』。resist, insist, consist なども同じラテン語系の語族。",
+    "en": "From Latin persistere ('to continue steadfastly, remain firm'), formed from per- ('through, thoroughly') and sistere ('to cause to stand, stand firm'). The underlying image is of standing one's ground. It belongs to the same broader Latin word family as resist, insist, and consist."
+  },
+  "synonyms": [
+    {
+      "word": "persevere",
+      "note": {
+        "ja": "人が困難にもめげず努力を続けることに特化している。persist は人だけでなく問題・症状・傾向にも使える。",
+        "en": "Focuses specifically on a person's determined effort despite difficulty, while persist also applies to problems, symptoms, and conditions."
+      }
+    },
+    {
+      "word": "continue",
+      "note": {
+        "ja": "最も一般的な『続く・続ける』。persist のような抵抗や困難に逆らって続く含みはない。",
+        "en": "The general term for carrying on and does not necessarily imply resistance or difficulty."
+      }
+    },
+    {
+      "word": "linger",
+      "note": {
+        "ja": "匂い・記憶・感情などが余韻として残る感じ。persist はより強く、しぶとく続く感じ。",
+        "en": "Suggests something remaining as an aftereffect or residue, while persist is stronger and often more stubborn."
+      }
+    },
+    {
+      "word": "endure",
+      "note": {
+        "ja": "長く存続する意味に加え、人が苦痛・困難に耐える意味が強い。",
+        "en": "Can mean to last for a long time, but also strongly emphasizes bearing hardship or suffering."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "andauern / fortbestehen / beharren",
+    "it": "persistere / insistere",
+    "fr": "persister",
+    "es": "persistir"
+  },
+  "collocations": {
+    "ja": [
+      "persist in doing something — ～をやり続ける",
+      "persist despite difficulties — 困難にもかかわらず続ける",
+      "the problem persists — 問題が依然として続いている",
+      "symptoms persist — 症状が続く",
+      "doubts persist — 疑念が消えずに残る",
+      "inequality persists — 不平等が根強く残る",
+      "persist over time — 長期間にわたって持続する",
+      "persist for years — 何年も続く"
+    ],
+    "en": [
+      "persist in doing something",
+      "persist despite difficulties",
+      "the problem persists",
+      "symptoms persist",
+      "doubts persist",
+      "inequality persists",
+      "persist over time",
+      "persist for years"
+    ]
+  },
+  "example": {
+    "ja": [
+      "If the symptoms persist, you should seek medical advice. — 症状が続く場合は、医師に相談すべきだ。",
+      "Despite repeated criticism, he persisted in defending the proposal. — 度重なる批判にもかかわらず、彼はその提案を擁護し続けた。",
+      "The problem persisted for several months. — その問題は数か月間にわたって続いた。",
+      "Old stereotypes can persist long after social conditions have changed. — 古い固定観念は社会状況が変化した後も長く残ることがある。",
+      "She persisted with the experiment until she obtained a clear result. — 彼女は明確な結果が得られるまで実験を粘り強く続けた。"
+    ],
+    "en": [
+      "If the symptoms persist, you should seek medical advice.",
+      "Despite repeated criticism, he persisted in defending the proposal.",
+      "The problem persisted for several months.",
+      "Old stereotypes can persist long after social conditions have changed.",
+      "She persisted with the experiment until she obtained a clear result."
+    ]
+  }
+},
+{
+  "id": "endure",
+  "sid": "2026-00163",
+  "word": "endure",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "persistence",
+    "hardship",
+    "duration",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "endure – endured – endured"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈdʊr/",
+      "uk": "/ɪnˈdjʊə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "苦痛・困難などに耐える",
+      "長期間持ちこたえる",
+      "存続する、長く続く"
+    ],
+    "en": [
+      "to suffer or tolerate something difficult or painful",
+      "to continue to exist despite hardship or pressure",
+      "to last for a long time"
+    ]
+  },
+  "nuance": {
+    "ja": "人が主語の場合は、pain, hardship, criticism, difficult conditions などを『耐え忍ぶ』意味で使う。一方、tradition, relationship, reputation, structure などが主語の場合は『長く存続する、持ちこたえる』という意味になる。persist が単に『困難にもかかわらず続く』ことに焦点を置くのに対し、endure には『負荷や時間に耐える』というニュアンスが強い。",
+    "en": "Endure has two major uses. With a person as subject, it means to tolerate or suffer pain, hardship, criticism, or difficult conditions. With things such as traditions, relationships, reputations, or structures, it means to continue to exist over time. Compared with persist, endure more strongly suggests surviving pressure, hardship, or the passage of time."
+  },
+  "minimal": {
+    "ja": [
+      "endure：苦痛・困難に耐える、または長く持ちこたえる。",
+      "persist：困難・時間・反対にもかかわらず続く。",
+      "withstand：外部からの圧力・衝撃・攻撃に耐える。",
+      "tolerate：不快・迷惑なものを我慢して許容する。",
+      "bear：苦痛・負担などに耐える。より一般的。",
+      "survive：死滅・崩壊せず生き残る。"
+    ],
+    "en": [
+      "endure means to suffer something difficult or to continue despite hardship or time.",
+      "persist means to continue despite difficulty, opposition, or attempts to stop something.",
+      "withstand means to resist external force, pressure, or attack.",
+      "tolerate means to accept or put up with something unpleasant.",
+      "bear is a general word for enduring pain or burden.",
+      "survive means to remain alive or continue to exist after danger or destruction."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 endurer を経て、ラテン語 indurare『硬くする、耐えさせる』に由来する。in-『中へ、～にする』+ durus『硬い』から成り、語源的には『硬くする、頑丈にする』という意味。durable, duration, during などの語と同じ dur- 系の語族に属する。",
+    "en": "From Old French endurer, ultimately from Latin indurare ('to harden, make hard'), formed from in- and durus ('hard'). The underlying idea is becoming hard enough to withstand difficulty. It belongs to the same historical word family as durable and duration."
+  },
+  "synonyms": [
+    {
+      "word": "withstand",
+      "note": {
+        "ja": "圧力・衝撃・攻撃・熱など外部から加わる力に抵抗して持ちこたえることに重点がある。",
+        "en": "Emphasizes resisting external force, pressure, attack, heat, or similar stress."
+      }
+    },
+    {
+      "word": "tolerate",
+      "note": {
+        "ja": "嫌なもの・望ましくないものを我慢して受け入れる意味。endure より『許容する』側面が強い。",
+        "en": "Emphasizes putting up with something unpleasant or allowing it to continue."
+      }
+    },
+    {
+      "word": "bear",
+      "note": {
+        "ja": "苦痛・負担・状況を耐える一般的な語。endure はより長期的・深刻な困難にも使いやすい。",
+        "en": "A broad word for تحملing pain or burden; endure often suggests greater duration or severity."
+      }
+    },
+    {
+      "word": "persist",
+      "note": {
+        "ja": "存在・行動が続くことに重点がある。endure は負荷に耐えて持続する感覚が強い。",
+        "en": "Focuses on continued existence or action, while endure more strongly suggests surviving hardship or pressure."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ertragen / aushalten / fortbestehen",
+    "it": "sopportare / durare",
+    "fr": "endurer / durer",
+    "es": "soportar / perdurar"
+  },
+  "collocations": {
+    "ja": [
+      "endure pain — 痛みに耐える",
+      "endure hardship — 苦難に耐える",
+      "endure criticism — 批判に耐える",
+      "endure difficult conditions — 厳しい状況に耐える",
+      "endure for centuries — 何世紀にもわたって存続する",
+      "an enduring tradition — 長く続く伝統",
+      "an enduring legacy — 長く残る遺産・影響",
+      "an enduring friendship — 長続きする友情"
+    ],
+    "en": [
+      "endure pain",
+      "endure hardship",
+      "endure criticism",
+      "endure difficult conditions",
+      "endure for centuries",
+      "an enduring tradition",
+      "an enduring legacy",
+      "an enduring friendship"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The prisoners endured months of harsh conditions. — 囚人たちは何か月もの過酷な環境に耐えた。",
+      "She endured the pain without complaining. — 彼女は不平を言わずに痛みに耐えた。",
+      "The building was designed to endure extreme weather. — その建物は極端な気象条件にも耐えられるよう設計された。",
+      "Their friendship has endured for more than thirty years. — 彼らの友情は30年以上続いている。",
+      "Some works of art endure long after the society that created them has disappeared. — 一部の芸術作品は、それを生み出した社会が消滅した後も長く残る。"
+    ],
+    "en": [
+      "The prisoners endured months of harsh conditions.",
+      "She endured the pain without complaining.",
+      "The building was designed to endure extreme weather.",
+      "Their friendship has endured for more than thirty years.",
+      "Some works of art endure long after the society that created them has disappeared."
+    ]
+  }
+},
+{
+  "id": "withstand",
+  "sid": "2026-00164",
+  "word": "withstand",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "resistance",
+    "pressure",
+    "durability",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "withstand – withstood – withstood"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/wɪðˈstænd/",
+      "uk": "/wɪðˈstænd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "圧力・衝撃・攻撃などに耐える",
+      "悪条件に持ちこたえる",
+      "抵抗して屈しない"
+    ],
+    "en": [
+      "to resist a force, pressure, attack, or difficult condition successfully",
+      "to remain undamaged or unaffected despite external stress",
+      "to stand up against something"
+    ]
+  },
+  "nuance": {
+    "ja": "外部から加わる力・圧力・攻撃・熱・寒さ・批判などに対して、壊れたり屈したりせず持ちこたえることを表す。建物・素材・機械などの物理的耐久性にも、人や制度が圧力に耐える場合にも使える。endure が苦痛や困難を経験しながら耐えることに重点を置くのに対し、withstand は外から加わるものに抵抗して持ちこたえることに重点がある。",
+    "en": "Withstand means to resist an external force, pressure, attack, condition, or challenge without giving way or being seriously damaged. It is common with buildings, materials, systems, institutions, and people. Compared with endure, which emphasizes suffering or surviving hardship over time, withstand emphasizes resisting something acting upon the subject from outside."
+  },
+  "minimal": {
+    "ja": [
+      "withstand：外から加わる力・圧力・攻撃に耐える。",
+      "endure：苦痛・困難に耐える、または長く持ちこたえる。",
+      "resist：力・誘惑・変化などに抵抗する一般語。",
+      "tolerate：不快なものを我慢・許容する。",
+      "survive：危険・災害などを切り抜けて生き残る。",
+      "bear：苦痛・負担を耐える一般語。"
+    ],
+    "en": [
+      "withstand means to resist external force, pressure, attack, or stress.",
+      "endure means to suffer hardship or continue despite it.",
+      "resist is the general word for opposing a force, temptation, or change.",
+      "tolerate means to put up with something unpleasant.",
+      "survive means to remain alive or continue after danger or destruction.",
+      "bear is a general word for enduring pain, difficulty, or burden."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 withstandan に由来し、with-『～に対して、逆らって』+ standan『立つ』から成る。ここで with は現代英語の『～と一緒に』ではなく、古い『～に対抗して』という意味。したがって語源的には『～に向かって立つ、立ちはだかる』で、現代の『耐える、抵抗する』という意味に直結する。",
+    "en": "From Old English withstandan, formed from with- ('against') and standan ('to stand'). Here, with preserves an older sense meaning 'against,' rather than the modern sense 'together with.' The literal image is therefore 'to stand against,' which directly developed into the modern sense of resisting force or pressure."
+  },
+  "synonyms": [
+    {
+      "word": "resist",
+      "note": {
+        "ja": "最も一般的な『抵抗する』。withstand は抵抗した結果、持ちこたえることまで含みやすい。",
+        "en": "The general word for opposing something; withstand more strongly suggests successfully holding up against it."
+      }
+    },
+    {
+      "word": "endure",
+      "note": {
+        "ja": "苦痛や困難を受けながら耐えることに重点。withstand は外部からの力への抵抗に重点。",
+        "en": "Emphasizes bearing hardship, while withstand emphasizes resistance to an external force or pressure."
+      }
+    },
+    {
+      "word": "tolerate",
+      "note": {
+        "ja": "不快な状態や行為を我慢して受け入れる意味。withstand のように対抗する感じは弱い。",
+        "en": "Means putting up with something unpleasant and does not necessarily imply active resistance."
+      }
+    },
+    {
+      "word": "survive",
+      "note": {
+        "ja": "危険や災害の後にも存在し続けること。withstand はその最中に耐えることに重点。",
+        "en": "Focuses on remaining alive or intact after danger, whereas withstand emphasizes holding up while the force is acting."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "standhalten / widerstehen",
+    "it": "resistere / sopportare",
+    "fr": "résister à / supporter",
+    "es": "resistir / soportar"
+  },
+  "collocations": {
+    "ja": [
+      "withstand pressure — 圧力に耐える",
+      "withstand an attack — 攻撃に耐える",
+      "withstand extreme heat — 極端な暑さに耐える",
+      "withstand strong winds — 強風に耐える",
+      "withstand the test of time — 時の試練に耐える",
+      "withstand scrutiny — 厳しい検証に耐える",
+      "withstand heavy use — 激しい使用に耐える",
+      "be designed to withstand — ～に耐えるよう設計されている"
+    ],
+    "en": [
+      "withstand pressure",
+      "withstand an attack",
+      "withstand extreme heat",
+      "withstand strong winds",
+      "withstand the test of time",
+      "withstand scrutiny",
+      "withstand heavy use",
+      "be designed to withstand"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The bridge was designed to withstand powerful earthquakes. — その橋は強い地震に耐えられるよう設計されていた。",
+      "This material can withstand extremely high temperatures. — この素材は極めて高い温度に耐えられる。",
+      "The company managed to withstand intense competitive pressure. — その会社は激しい競争圧力に持ちこたえることができた。",
+      "His argument did not withstand close scrutiny. — 彼の主張は厳密な検証には耐えなかった。",
+      "Few buildings in the area could withstand such strong winds. — その地域では、そのような強風に耐えられる建物はほとんどなかった。"
+    ],
+    "en": [
+      "The bridge was designed to withstand powerful earthquakes.",
+      "This material can withstand extremely high temperatures.",
+      "The company managed to withstand intense competitive pressure.",
+      "His argument did not withstand close scrutiny.",
+      "Few buildings in the area could withstand such strong winds."
+    ]
+  }
+},
+{
+  "id": "resist",
+  "sid": "2026-00165",
+  "word": "resist",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "resistance",
+    "opposition",
+    "temptation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "resist – resisted – resisted"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈzɪst/",
+      "uk": "/rɪˈzɪst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "抵抗する、逆らう",
+      "誘惑・衝動などをこらえる",
+      "変化・圧力・影響などを受けまいとする",
+      "物質などが熱・腐食・損傷などに耐える"
+    ],
+    "en": [
+      "to oppose or fight against a force, pressure, authority, or change",
+      "to stop oneself from giving in to a temptation or impulse",
+      "to remain unaffected by something harmful or unwanted",
+      "to withstand physical or chemical damage"
+    ]
+  },
+  "nuance": {
+    "ja": "非常に広い『抵抗する』の基本語。人が権力・圧力・変化に反対する場合にも、誘惑や衝動をこらえる場合にも、素材が熱・水・腐食などに耐える場合にも使える。withstand は外力を受けても持ちこたえる結果に重点があるのに対し、resist は『逆らう、押し返す、影響を受けまいとする』行為・性質そのものに重点がある。resist doing something の形も非常に重要。",
+    "en": "Resist is a broad verb meaning to oppose, push back against, or avoid yielding to a force, pressure, authority, change, temptation, or harmful influence. It can describe deliberate human opposition, self-control, or the physical properties of materials. Compared with withstand, resist focuses more on opposing or not yielding, while withstand more strongly suggests successfully holding up under pressure."
+  },
+  "minimal": {
+    "ja": [
+      "resist：力・圧力・誘惑などに逆らう、屈しない。",
+      "withstand：外から加わる力を受けても持ちこたえる。",
+      "oppose：意見・政策・計画などに反対する。",
+      "defy：命令・権威・慣習などに公然と逆らう。",
+      "refrain：自制して特定の行為をしない。",
+      "endure：苦痛・困難を受けながら耐える。"
+    ],
+    "en": [
+      "resist means to oppose or refuse to yield to a force, pressure, temptation, or influence.",
+      "withstand means to hold up successfully against external force or pressure.",
+      "oppose means to be against an idea, policy, plan, or action.",
+      "defy means to openly refuse to obey authority, rules, or expectations.",
+      "refrain means to deliberately avoid doing something.",
+      "endure means to suffer or tolerate hardship over time."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 resistere『立ち向かう、抵抗する』に由来する。re-『後ろへ、対抗して』+ sistere『立つ、立たせる』から成る。語源的には『相手に対して踏みとどまる、立ちはだかる』というイメージ。同じ sistere 系には persist, insist, consist などがある。",
+    "en": "From Latin resistere ('to stand back, withstand, oppose'), formed from re- and sistere ('to cause to stand, stand firm'). The underlying image is of standing one's ground against something. It belongs to the same broader Latin family as persist, insist, and consist."
+  },
+  "synonyms": [
+    {
+      "word": "withstand",
+      "note": {
+        "ja": "外部からの力・圧力・攻撃に耐えて持ちこたえることに重点がある。",
+        "en": "Emphasizes successfully holding up against external force or pressure."
+      }
+    },
+    {
+      "word": "oppose",
+      "note": {
+        "ja": "意見・政策・提案などに反対する意味が中心で、resist より抽象的な対立にも使いやすい。",
+        "en": "Focuses especially on being against an idea, policy, proposal, or action."
+      }
+    },
+    {
+      "word": "defy",
+      "note": {
+        "ja": "命令や権威に堂々と逆らう強い語。resist より挑戦的。",
+        "en": "A stronger word suggesting open and deliberate refusal to obey or submit."
+      }
+    },
+    {
+      "word": "refrain",
+      "note": {
+        "ja": "自制してある行為をしないこと。resist temptation より行動の抑制そのものに焦点。",
+        "en": "Means deliberately avoiding an action and focuses on restraint rather than the temptation itself."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "widerstehen / sich widersetzen",
+    "it": "resistere / opporsi",
+    "fr": "résister",
+    "es": "resistir / oponerse"
+  },
+  "collocations": {
+    "ja": [
+      "resist pressure — 圧力に抵抗する",
+      "resist change — 変化に抵抗する",
+      "resist temptation — 誘惑に打ち勝つ",
+      "resist the urge to do something — ～したい衝動をこらえる",
+      "resist arrest — 逮捕に抵抗する",
+      "resist an attack — 攻撃に抵抗する",
+      "resist heat — 熱に耐える",
+      "resist corrosion — 腐食に耐える"
+    ],
+    "en": [
+      "resist pressure",
+      "resist change",
+      "resist temptation",
+      "resist the urge to do something",
+      "resist arrest",
+      "resist an attack",
+      "resist heat",
+      "resist corrosion"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Many employees resisted the proposed changes. — 多くの従業員が提案された変更に抵抗した。",
+      "I couldn't resist buying the book. — その本を買う誘惑に抗えなかった。",
+      "She resisted the urge to check her phone during the meeting. — 彼女は会議中にスマートフォンを確認したい衝動をこらえた。",
+      "This coating helps the metal resist corrosion. — このコーティングは金属が腐食に耐えるのを助ける。",
+      "The local population resisted attempts to remove the old building. — 地元住民はその古い建物を撤去しようとする動きに抵抗した。"
+    ],
+    "en": [
+      "Many employees resisted the proposed changes.",
+      "I couldn't resist buying the book.",
+      "She resisted the urge to check her phone during the meeting.",
+      "This coating helps the metal resist corrosion.",
+      "The local population resisted attempts to remove the old building."
+    ]
+  }
 }
 ]
