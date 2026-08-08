@@ -1,1 +1,137 @@
-
+[
+{
+  "id": "confine",
+  "sid": "2026-00201",
+  "word": "confine",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "restriction",
+    "isolation",
+    "limits",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "confine – confined – confined"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈfaɪn/",
+      "uk": "/kənˈfaɪn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "一定の場所に閉じ込める",
+      "活動・範囲などを限定する",
+      "人や物を特定の境界内にとどめる"
+    ],
+    "en": [
+      "to keep someone or something within a limited area or space",
+      "to restrict an activity, discussion, or effect to particular limits",
+      "to prevent someone from leaving a place"
+    ]
+  },
+  "nuance": {
+    "ja": "人・動物を特定の場所から出られないようにする場合にも、議論・活動・影響などを一定範囲に限定する場合にも使える。isolate が『他から切り離す』ことに重点を置くのに対し、confine は『境界の中にとどめる』ことに重点がある。be confined to bed / a wheelchair / one's room など、病気や身体的制約によって行動範囲が制限される表現も重要。",
+    "en": "Confine means to keep someone or something within fixed limits, whether physical or abstract. It can describe restricting a person to a room, limiting a discussion to one topic, or keeping an effect within a certain area. Unlike isolate, which emphasizes separation from others, confine emphasizes boundaries and restricted movement or scope."
+  },
+  "minimal": {
+    "ja": [
+      "confine：一定の場所・範囲の中にとどめる。",
+      "isolate：他の人・物から切り離す。",
+      "seclude：人を人目・社会から遠ざける。",
+      "sequester：法的・制度的に隔離して管理する。",
+      "restrict：行動・数量・範囲などを制限する一般語。",
+      "imprison：刑務所などに拘禁する。より強い。"
+    ],
+    "en": [
+      "confine means to keep someone or something within defined limits.",
+      "isolate means to separate someone or something from others.",
+      "seclude means to keep someone away from society or public view.",
+      "sequester means to formally isolate something under controlled conditions.",
+      "restrict is the general word for limiting activity, amount, or scope.",
+      "imprison means to keep someone in prison or detention."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 confinare『境界を定める、境界内に置く』に由来し、con-『共に』+ finis『境界、終わり』から成る。finis は finish, final, define などにも関係する。語源的には『境界を設け、その内側にとどめる』という意味。",
+    "en": "From Latin confinare ('to bound, limit'), related to con- and finis ('boundary, end'). Finis is also historically related to words such as final, finish, and define. The underlying idea is placing something within boundaries."
+  },
+  "synonyms": [
+    {
+      "word": "restrict",
+      "note": {
+        "ja": "制限する一般語。confine は特に場所・範囲の境界内にとどめる感じが強い。",
+        "en": "A broad word for limiting something, while confine more strongly suggests keeping it within boundaries."
+      }
+    },
+    {
+      "word": "isolate",
+      "note": {
+        "ja": "他から切り離すことに重点。confine は移動・範囲の制限に重点。",
+        "en": "Emphasizes separation from others, whereas confine emphasizes restricted movement or scope."
+      }
+    },
+    {
+      "word": "imprison",
+      "note": {
+        "ja": "刑務所・拘禁施設などに閉じ込める強い語。confine はより広く中立的に使える。",
+        "en": "Specifically means to keep someone in prison or detention; confine is broader and less inherently punitive."
+      }
+    },
+    {
+      "word": "limit",
+      "note": {
+        "ja": "数量・程度・範囲などに上限を設ける一般語。confine は『境界内にとどめる』イメージが強い。",
+        "en": "A general word for setting boundaries or maximums; confine carries a stronger sense of keeping within those boundaries."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "beschränken / einsperren / begrenzen",
+    "it": "confinare / limitare",
+    "fr": "confiner / limiter",
+    "es": "confinar / limitar"
+  },
+  "collocations": {
+    "ja": [
+      "confine someone to a room — ～を部屋に閉じ込める",
+      "be confined to bed — 病気などで寝床から動けない",
+      "be confined to a wheelchair — 車椅子での生活を余儀なくされる",
+      "confine the discussion to one issue — 議論を一つの問題に限定する",
+      "confine one's remarks to something — 発言を～に限定する",
+      "confine the damage — 被害を一定範囲に抑える",
+      "confine activities to a specific area — 活動を特定地域に限定する",
+      "within the confines of something — ～の範囲・境界内で"
+    ],
+    "en": [
+      "confine someone to a room",
+      "be confined to bed",
+      "be confined to a wheelchair",
+      "confine the discussion to one issue",
+      "confine one's remarks to something",
+      "confine the damage",
+      "confine activities to a specific area",
+      "within the confines of something"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The doctor advised him to remain confined to bed for several days. — 医師は彼に数日間ベッドで安静にするよう勧めた。",
+      "The discussion should be confined to the issues relevant to this case. — 議論はこの事件に関係する問題に限定すべきだ。",
+      "The fire was successfully confined to one section of the building. — 火災は建物の一区画に封じ込めることができた。",
+      "The prisoners were confined to their cells overnight. — 囚人たちは一晩中独房から出られなかった。",
+      "Her role was not confined to administrative work. — 彼女の役割は事務作業だけに限定されてはいなかった。"
+    ],
+    "en": [
+      "The doctor advised him to remain confined to bed for several days.",
+      "The discussion should be confined to the issues relevant to this case.",
+      "The fire was successfully confined to one section of the building.",
+      "The prisoners were confined to their cells overnight.",
+      "Her role was not confined to administrative work."
+    ]
+  }
+}
+]
