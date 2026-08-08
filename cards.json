@@ -5515,5 +5515,745 @@
       "\"Come in,\" she said in a gruff voice."
     ]
   }
+},
+{
+  "id": "blunt",
+  "sid": "2026-00060",
+  "word": "blunt",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "communication",
+    "personality",
+    "core"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/blʌnt/",
+      "uk": "/blʌnt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（発言・人が）率直すぎる、遠慮のない",
+      "ぶっきらぼうな、歯に衣着せぬ",
+      "（刃・先端が）鈍い、とがっていない"
+    ],
+    "en": [
+      "very direct in speech, sometimes in a way that seems rude",
+      "not trying to soften an unpleasant truth",
+      "not sharp or pointed"
+    ]
+  },
+  "nuance": {
+    "ja": "対人表現では、遠回しな表現や婉曲表現を使わず、思ったことを直接言うことを表す。失礼に聞こえることはあるが、必ずしも悪意や無愛想さを意味せず、『率直で正直』という肯定的評価にもなり得る。curt が発言の短さ、brusque が態度のぶっきらぼうさを強調するのに対し、blunt の核心は内容の直接性にある。",
+    "en": "In communication, blunt means speaking very directly without softening what is said. It can sound rude or insensitive, but it may also be valued as honesty. Unlike curt, it does not imply brevity, and unlike brusque, it focuses more on directness of expression than on general manner."
+  },
+  "minimal": {
+    "ja": [
+      "direct：率直な。最も中立的で、失礼とは限らない。",
+      "frank：率直で隠し立てしない。しばしば肯定的。",
+      "blunt：遠回しにせず直接言うため、相手への配慮を欠いて聞こえることがある。",
+      "curt：発言が短すぎて無愛想。",
+      "brusque：態度・物腰全般が唐突でぶっきらぼう。",
+      "tactless：相手の感情への配慮を欠く。発言の直接性より『気遣いのなさ』を強調。"
+    ],
+    "en": [
+      "direct is neutral and simply means straightforward.",
+      "frank suggests open and honest expression, often positively.",
+      "blunt suggests directness without much softening or tact.",
+      "curt emphasizes rude or unfriendly brevity.",
+      "brusque describes an abrupt and unfriendly manner.",
+      "tactless emphasizes lack of sensitivity to other people's feelings."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 blunt に由来するが、それ以前の語源は不確か。もともと『鈍い、とがっていない』という物理的意味を持ち、そこから『洗練されていない、粗野な』を経て、発言について『飾らず直接的な、率直すぎる』という意味が発達した。",
+    "en": "From Middle English blunt, of uncertain earlier origin. The physical sense 'not sharp or pointed' developed figuratively into the sense of speech that is direct, unpolished, or insufficiently softened."
+  },
+  "synonyms": [
+    {
+      "word": "frank",
+      "note": {
+        "ja": "隠し立てせず率直に話すことを表し、blunt より肯定的になりやすい。",
+        "en": "Suggests openness and honesty and is generally more positive than blunt."
+      }
+    },
+    {
+      "word": "direct",
+      "note": {
+        "ja": "最も中立的な『率直な、直接的な』。",
+        "en": "The most neutral term for straightforward communication."
+      }
+    },
+    {
+      "word": "forthright",
+      "note": {
+        "ja": "意見をはっきり堂々と述べることを表し、肯定的な響きを持ちやすい。",
+        "en": "Often positively suggests openly and confidently expressing one's views."
+      }
+    },
+    {
+      "word": "tactless",
+      "note": {
+        "ja": "相手の気持ちへの配慮がないことを強調する。",
+        "en": "Emphasizes insensitivity rather than mere directness."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "unverblümt",
+    "it": "schietto",
+    "fr": "direct",
+    "es": "directo"
+  },
+  "collocations": {
+    "ja": [
+      "be blunt — 率直に言う",
+      "to be blunt — はっきり言えば",
+      "a blunt answer — 遠慮のない率直な答え",
+      "a blunt assessment — 容赦のない率直な評価",
+      "blunt criticism — 遠慮のない批判",
+      "blunt honesty — 遠慮のない率直さ",
+      "a blunt knife — 切れ味の鈍いナイフ"
+    ],
+    "en": [
+      "be blunt",
+      "to be blunt",
+      "a blunt answer",
+      "a blunt assessment",
+      "blunt criticism",
+      "blunt honesty",
+      "a blunt knife"
+    ]
+  },
+  "example": {
+    "ja": [
+      "To be blunt, I don't think this plan is going to work. — はっきり言えば、この計画がうまくいくとは思わない。",
+      "She was blunt about the company's financial problems. — 彼女は会社の財務上の問題について歯に衣着せず語った。",
+      "His blunt criticism offended several members of the team. — 彼の遠慮のない批判はチームの何人かを不快にさせた。",
+      "This knife is too blunt to cut the bread properly. — このナイフは切れ味が鈍すぎて、パンをうまく切れない。"
+    ],
+    "en": [
+      "To be blunt, I don't think this plan is going to work.",
+      "She was blunt about the company's financial problems.",
+      "His blunt criticism offended several members of the team.",
+      "This knife is too blunt to cut the bread properly."
+    ]
+  }
+},
+{
+  "id": "tactless",
+  "sid": "2026-00061",
+  "word": "tactless",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "communication",
+    "personality",
+    "social"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈtæktləs/",
+      "uk": "/ˈtæktləs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "無神経な",
+      "配慮を欠いた",
+      "気の利かない",
+      "場をわきまえない"
+    ],
+    "en": [
+      "not careful about how one's words or actions may upset other people",
+      "lacking sensitivity or skill in dealing with delicate situations"
+    ]
+  },
+  "nuance": {
+    "ja": "相手の感情やその場の状況を考慮せず、言わなくてもよいことを言ったり、不適切な言い方をしたりすることを表す。blunt が『率直すぎる』ことを表し、文脈によっては肯定的にもなり得るのに対し、tactless は基本的に否定的で、『社会的・対人的な配慮が足りない』ことを批判する語。",
+    "en": "Tactless describes words or behavior that show insufficient sensitivity to other people's feelings or to the demands of a social situation. Unlike blunt, which may sometimes be valued as honesty, tactless is normally negative."
+  },
+  "minimal": {
+    "ja": [
+      "blunt：遠回しにせず率直に言う。失礼に聞こえることもあるが、必ずしも悪い意味ではない。",
+      "tactless：相手の感情や状況への配慮を欠いている。",
+      "insensitive：他人の感情に鈍感・無神経。より広い意味。",
+      "indiscreet：言うべきでない秘密・私事などを軽率に口にする。",
+      "rude：失礼な。最も一般的で広い語。",
+      "inconsiderate：他人への思いやり・配慮がない。言葉以外の行動にも広く使う。"
+    ],
+    "en": [
+      "blunt means very direct, sometimes offensively so, but may also imply honesty.",
+      "tactless means lacking sensitivity in what one says or does.",
+      "insensitive more broadly describes failure to consider other people's feelings.",
+      "indiscreet suggests saying something that should have been kept private or unmentioned.",
+      "rude is the broad general word for impolite behavior.",
+      "inconsiderate describes failure to think about other people's needs or feelings."
+    ]
+  },
+  "etymology": {
+    "ja": "tact + -less（～を欠いた）。tact はラテン語 tactus（触れること、触覚）に由来し、tangere（触れる）の過去分詞形と関係する。『触覚』から比喩的に『微妙な状況を感じ取って適切に扱う感覚』という意味が生じた。したがって tactless は文字通りには『その感覚を欠いた』という構造。",
+    "en": "From tact + -less. Tact ultimately comes from Latin tactus ('touch'), from tangere ('to touch'). The sense developed metaphorically from physical touch to a sensitive ability to handle delicate social situations."
+  },
+  "synonyms": [
+    {
+      "word": "insensitive",
+      "note": {
+        "ja": "他人の感情への鈍感さをより広く表す。",
+        "en": "More broadly describes a lack of sensitivity to other people's feelings."
+      }
+    },
+    {
+      "word": "indiscreet",
+      "note": {
+        "ja": "秘密やデリケートな情報を口にしてしまう軽率さを特に表す。",
+        "en": "Often concerns revealing or mentioning something that should have remained private."
+      }
+    },
+    {
+      "word": "inconsiderate",
+      "note": {
+        "ja": "他人の都合や気持ちを考えないこと。行動にも広く使う。",
+        "en": "Emphasizes failure to consider other people's needs or feelings."
+      }
+    },
+    {
+      "word": "rude",
+      "note": {
+        "ja": "無礼・失礼を表す最も一般的な語。",
+        "en": "The broad everyday word for impolite behavior."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "taktlos",
+    "it": "privo di tatto",
+    "fr": "maladroit / sans tact",
+    "es": "falto de tacto"
+  },
+  "collocations": {
+    "ja": [
+      "a tactless remark — 無神経な発言",
+      "a tactless comment — 配慮を欠いたコメント",
+      "a tactless question — 無神経な質問",
+      "a tactless joke — 場をわきまえない冗談",
+      "rather tactless — かなり無神経な",
+      "seem tactless — 無神経に見える"
+    ],
+    "en": [
+      "a tactless remark",
+      "a tactless comment",
+      "a tactless question",
+      "a tactless joke",
+      "rather tactless",
+      "seem tactless"
+    ]
+  },
+  "example": {
+    "ja": [
+      "It was tactless of him to ask how much she earned. — 彼女の収入がいくらか尋ねたのは、彼としては無神経だった。",
+      "She immediately regretted making such a tactless remark. — 彼女はそんな無神経な発言をしたことをすぐに後悔した。",
+      "His question was not intentionally rude, just tactless. — 彼の質問にはわざと失礼にする意図はなく、ただ配慮が足りなかっただけだった。"
+    ],
+    "en": [
+      "It was tactless of him to ask how much she earned.",
+      "She immediately regretted making such a tactless remark.",
+      "His question was not intentionally rude, just tactless."
+    ]
+  }
+},
+{
+  "id": "indiscreet",
+  "sid": "2026-00062",
+  "word": "indiscreet",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "communication",
+    "social",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɪndɪˈskriːt/",
+      "uk": "/ˌɪndɪˈskriːt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "口の軽い",
+      "慎みのない、軽率な",
+      "（質問などが）立ち入りすぎた、不躾な",
+      "秘密にすべきことを不用意に明かす"
+    ],
+    "en": [
+      "not careful about keeping private or sensitive information secret",
+      "showing poor judgment in what one says or asks",
+      "too willing to discuss private matters"
+    ]
+  },
+  "nuance": {
+    "ja": "秘密・私生活・デリケートな話題について、本来なら控えるべき発言や質問をしてしまうことを表す。a tactless question は『相手の気持ちへの配慮を欠いた質問』、an indiscreet question は『私的領域に踏み込みすぎた質問』という違いがある。また indiscreet remark のように、秘密をうっかり漏らす場合にも使われる。",
+    "en": "Indiscreet describes speech or behavior that shows poor judgment concerning private, confidential, or sensitive matters. A tactless question may hurt someone's feelings, whereas an indiscreet question intrudes into something that should perhaps remain private."
+  },
+  "minimal": {
+    "ja": [
+      "tactless：相手の感情や場への配慮を欠いている。",
+      "indiscreet：私事・秘密・デリケートな話題について慎みを欠く。",
+      "nosy：他人の私事を知りたがる。より口語的で『詮索好き』。",
+      "inquisitive：知りたがる、好奇心旺盛な。通常は中立～肯定的。",
+      "inconsiderate：他人の都合・感情への思いやりがない。",
+      "confidential：秘密として扱われるべき。indiscreet の反対側にある概念。"
+    ],
+    "en": [
+      "tactless means insensitive to other people's feelings or to the social situation.",
+      "indiscreet means insufficiently careful about private or sensitive matters.",
+      "nosy means excessively interested in other people's private affairs.",
+      "inquisitive means curious and eager to learn, often neutrally or positively.",
+      "inconsiderate means failing to consider other people's needs or feelings.",
+      "confidential describes information that should be kept private."
+    ]
+  },
+  "etymology": {
+    "ja": "in-（否定）+ discreet（慎重な、分別のある）。discreet はラテン語 discernere（分ける、見分ける）に由来し、dis-（分けて）+ cernere（ふるい分ける、見分ける）という構造を持つ。つまり indiscreet は語源的には『適切な判断・区別ができていない』という発想。",
+    "en": "From in- ('not') + discreet. Discreet ultimately derives from Latin discernere ('to separate, distinguish, judge'), from dis- + cernere. The underlying idea is a failure to exercise proper judgment."
+  },
+  "synonyms": [
+    {
+      "word": "tactless",
+      "note": {
+        "ja": "秘密性よりも、相手の感情への配慮不足を強調。",
+        "en": "Emphasizes lack of sensitivity rather than confidentiality."
+      }
+    },
+    {
+      "word": "imprudent",
+      "note": {
+        "ja": "結果を十分考えない軽率さを広く表す硬い語。",
+        "en": "A formal word for showing poor judgment about possible consequences."
+      }
+    },
+    {
+      "word": "nosy",
+      "note": {
+        "ja": "他人の私生活を詮索したがることを表す口語。",
+        "en": "An informal word for being too interested in other people's private affairs."
+      }
+    },
+    {
+      "word": "incautious",
+      "note": {
+        "ja": "用心・注意が足りないことを一般的に表す。",
+        "en": "More generally means insufficiently cautious."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "indiskret",
+    "it": "indiscreto",
+    "fr": "indiscret",
+    "es": "indiscreto"
+  },
+  "collocations": {
+    "ja": [
+      "an indiscreet question — 立ち入りすぎた質問",
+      "an indiscreet remark — 軽率な発言",
+      "an indiscreet comment — 不用意なコメント",
+      "an indiscreet disclosure — 軽率な情報開示",
+      "be indiscreet about something — ～について不用意に口外する",
+      "rather indiscreet — かなり慎みを欠いた"
+    ],
+    "en": [
+      "an indiscreet question",
+      "an indiscreet remark",
+      "an indiscreet comment",
+      "an indiscreet disclosure",
+      "be indiscreet about something",
+      "rather indiscreet"
+    ]
+  },
+  "example": {
+    "ja": [
+      "It would be indiscreet to ask her why the marriage ended. — 彼女になぜ結婚生活が終わったのか尋ねるのは立ち入りすぎだろう。",
+      "An indiscreet remark revealed details of the confidential negotiations. — 不用意な発言によって、秘密交渉の詳細が明らかになってしまった。",
+      "He apologized for asking such an indiscreet question. — 彼はそんな立ち入った質問をしたことを謝った。"
+    ],
+    "en": [
+      "It would be indiscreet to ask her why the marriage ended.",
+      "An indiscreet remark revealed details of the confidential negotiations.",
+      "He apologized for asking such an indiscreet question."
+    ]
+  }
+},
+{
+  "id": "indiscrete",
+  "sid": "2026-00063",
+  "word": "indiscrete",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "academic",
+    "technical",
+    "science"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɪndɪˈskriːt/",
+      "uk": "/ˌɪndɪˈskriːt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "分離していない",
+      "個別の部分に分かれていない",
+      "非離散的な、連続的な"
+    ],
+    "en": [
+      "not divided into distinct or separate parts",
+      "not discrete",
+      "continuous rather than consisting of separate units"
+    ]
+  },
+  "nuance": {
+    "ja": "非常にまれな専門的・学術的な語で、一般英語では通常ほとんど使われない。数学・科学・哲学などで discrete（離散的な、個別に分かれた）の反対を表す場合に現れることがある。ただし数学では continuous（連続的な）など、より具体的な語を使う方が普通。indiscreet（無分別な、口の軽い）とは同音だが意味がまったく異なる。",
+    "en": "A rare technical or academic word meaning 'not discrete' or 'not separated into distinct units.' In mathematics and science, more specific terms such as continuous are often preferred. It is a homophone of indiscreet but has an entirely different meaning."
+  },
+  "minimal": {
+    "ja": [
+      "discrete：個々に分離した、離散的な。",
+      "indiscrete：個々に分離していない、非離散的な。非常にまれ。",
+      "continuous：切れ目なく連続した。数学・科学では indiscrete より一般的。",
+      "indiscreet：無分別な、口の軽い。indiscrete と同音だが別語。",
+      "indistinct：境界・形・音などがはっきり区別できない。"
+    ],
+    "en": [
+      "discrete means separate and individually distinct.",
+      "indiscrete means not separated into distinct units and is very rare.",
+      "continuous means extending without interruption and is usually the more common technical term.",
+      "indiscreet means lacking discretion and is unrelated in modern meaning.",
+      "indistinct means not clearly distinguishable."
+    ]
+  },
+  "etymology": {
+    "ja": "in-（～でない）+ discrete（分離した）。discrete はラテン語 discretus（分離された、区別された）に由来し、discernere（分離する、見分ける）の過去分詞である。興味深いことに discreet（慎重な）も歴史的には同じラテン語 discretus に由来し、中英語では両者の意味が一つの語に共存していた。その後、英語では discrete『分離した』と discreet『慎重な』で綴りが分化した。",
+    "en": "From in- ('not') + discrete. Discrete comes from Latin discretus ('separated, distinguished'), the past participle of discernere ('to separate, distinguish'). Discrete and discreet ultimately share the same Latin origin, but their spellings and meanings became differentiated in English."
+  },
+  "synonyms": [
+    {
+      "word": "continuous",
+      "note": {
+        "ja": "離散的でないという意味では、数学・科学で通常こちらの方が一般的。",
+        "en": "Usually the more common term in mathematics and science when contrasting with discrete."
+      }
+    },
+    {
+      "word": "undivided",
+      "note": {
+        "ja": "部分に分割されていないことを表す一般語。",
+        "en": "A general word meaning not separated into parts."
+      }
+    },
+    {
+      "word": "unsegmented",
+      "note": {
+        "ja": "区画・部分に分割されていない。",
+        "en": "Means not divided into segments."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "nicht diskret / kontinuierlich",
+    "it": "non discreto / continuo",
+    "fr": "non discret / continu",
+    "es": "no discreto / continuo"
+  },
+  "collocations": {
+    "ja": [
+      "an indiscrete structure — 非離散的な構造",
+      "an indiscrete system — 非離散的な系",
+      "indiscrete variation — 連続的な変異",
+      "indiscrete elements — 個別に分離していない要素"
+    ],
+    "en": [
+      "an indiscrete structure",
+      "an indiscrete system",
+      "indiscrete variation",
+      "indiscrete elements"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The categories form an indiscrete continuum rather than a set of sharply separated groups. — それらのカテゴリーは明確に分離した集団ではなく、非離散的な連続体を形成している。",
+      "In this model, the variation is indiscrete and cannot easily be divided into separate classes. — このモデルでは変異は非離散的であり、個別のクラスに容易に分けることができない。"
+    ],
+    "en": [
+      "The categories form an indiscrete continuum rather than a set of sharply separated groups.",
+      "In this model, the variation is indiscrete and cannot easily be divided into separate classes."
+    ]
+  }
+},
+{
+  "id": "forthright",
+  "sid": "2026-00064",
+  "word": "forthright",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "personality",
+    "communication",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfɔːrθraɪt/",
+      "uk": "/ˈfɔːθraɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "率直な",
+      "歯に衣着せぬ",
+      "自分の考えを隠さずはっきり述べる"
+    ],
+    "en": [
+      "direct and honest in expressing one's opinions",
+      "open and straightforward in speech or manner",
+      "not afraid to say clearly what one thinks"
+    ]
+  },
+  "nuance": {
+    "ja": "自分の意見・考えを曖昧にしたり隠したりせず、はっきりと述べる人や態度を表す。blunt のような『配慮を欠くほど直接的』という否定的ニュアンスは弱く、むしろ誠実さ・勇気・明快さを評価する肯定的な文脈で使われることが多い。ただし内容が厳しければ、聞き手には強い物言いと感じられることもある。",
+    "en": "Forthright describes someone who expresses opinions openly, clearly, and honestly. It is often approving, suggesting honesty and confidence. Unlike blunt, it does not inherently imply insensitivity, although a forthright opinion may still be difficult to hear."
+  },
+  "minimal": {
+    "ja": [
+      "direct：率直な、直接的な。最も中立的。",
+      "frank：隠し立てせず率直に話す。オープンさを強調。",
+      "forthright：自分の意見を隠さず、堂々とはっきり述べる。肯定的になりやすい。",
+      "blunt：遠回しにせず直接言う。配慮不足に聞こえることがある。",
+      "outspoken：特に論争的・社会的な問題について、公然とはっきり意見を述べる。",
+      "tactless：相手の感情や状況への配慮を欠く。明確に否定的。"
+    ],
+    "en": [
+      "direct is the neutral general term for straightforward communication.",
+      "frank emphasizes openness and honesty.",
+      "forthright suggests openly and confidently stating what one thinks.",
+      "blunt suggests directness without much softening or tact.",
+      "outspoken often describes openly expressing strong views on controversial or public issues.",
+      "tactless means lacking sensitivity to other people's feelings."
+    ]
+  },
+  "etymology": {
+    "ja": "forth（前へ）+ right（まっすぐに）から成る語。もともとは『まっすぐ前へ、一直線に』という方向を表す語で、そこから比喩的に『回りくどくない、率直な』という意味が発達した。『言葉が迂回せずまっすぐ相手に向かう』と考えると覚えやすい。",
+    "en": "Formed from forth + right. It originally had the literal sense of going straight forward. From the idea of proceeding without deviation came the figurative sense of speaking directly, openly, and honestly."
+  },
+  "synonyms": [
+    {
+      "word": "frank",
+      "note": {
+        "ja": "隠し立てのなさ・腹を割って話す感じを強調する。",
+        "en": "Emphasizes openness and willingness to speak honestly."
+      }
+    },
+    {
+      "word": "direct",
+      "note": {
+        "ja": "最も中立的で広く使える『率直な』。",
+        "en": "The broadest and most neutral term."
+      }
+    },
+    {
+      "word": "outspoken",
+      "note": {
+        "ja": "自分の意見、特に強い・論争的な意見を公然と述べることを強調。",
+        "en": "Emphasizes openly expressing strong or potentially controversial opinions."
+      }
+    },
+    {
+      "word": "blunt",
+      "note": {
+        "ja": "率直さに加え、言い方を和らげないため無遠慮に聞こえることがある。",
+        "en": "Suggests directness without softening, sometimes to the point of seeming insensitive."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "offen und direkt",
+    "it": "schietto",
+    "fr": "franc",
+    "es": "franco / directo"
+  },
+  "collocations": {
+    "ja": [
+      "a forthright person — 率直な人",
+      "a forthright manner — 率直な態度",
+      "a forthright answer — はっきりした回答",
+      "a forthright opinion — 率直な意見",
+      "a forthright assessment — 率直な評価",
+      "be forthright about something — ～について率直に話す"
+    ],
+    "en": [
+      "a forthright person",
+      "a forthright manner",
+      "a forthright answer",
+      "a forthright opinion",
+      "a forthright assessment",
+      "be forthright about something"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She was forthright about the problems facing the company. — 彼女は会社が直面している問題について率直に語った。",
+      "I appreciated his forthright assessment of the proposal. — 私は彼がその提案について率直に評価してくれたことをありがたく思った。",
+      "He has a reputation for being forthright and honest, even when his views are unpopular. — 彼は、たとえ自分の意見が不人気でも率直かつ正直に語る人物として知られている。"
+    ],
+    "en": [
+      "She was forthright about the problems facing the company.",
+      "I appreciated his forthright assessment of the proposal.",
+      "He has a reputation for being forthright and honest, even when his views are unpopular."
+    ]
+  }
+},
+{
+  "id": "outspoken",
+  "sid": "2026-00065",
+  "word": "outspoken",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "personality",
+    "communication",
+    "public"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌaʊtˈspoʊkən/",
+      "uk": "/ˌaʊtˈspəʊkən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "遠慮なく意見を述べる",
+      "歯に衣着せぬ",
+      "自分の意見を公然とはっきり表明する"
+    ],
+    "en": [
+      "expressing one's opinions openly and strongly",
+      "willing to say publicly what one thinks",
+      "not afraid to express strong or controversial views"
+    ]
+  },
+  "nuance": {
+    "ja": "自分の意見、特に強い意見や論争を招き得る意見を、周囲を恐れず公然とはっきり述べることを表す。forthright が一般的な『率直で正直な話し方』を表すのに対し、outspoken は社会問題・政策・組織への批判などについて積極的に発言する人物に特によく使われる。肯定的にも否定的にもなり得るが、しばしば勇気や信念を含意する。",
+    "en": "Outspoken describes someone who expresses strong opinions openly and is not reluctant to speak publicly, especially on controversial matters. Unlike forthright, which broadly describes honest and direct communication, outspoken often implies a willingness to voice views that others might hesitate to express."
+  },
+  "minimal": {
+    "ja": [
+      "frank：隠し立てせず率直に話す。オープンさを強調。",
+      "forthright：自分の考えを隠さず、堂々とはっきり述べる。",
+      "outspoken：強い・論争的な意見でも公然とはっきり表明する。",
+      "blunt：遠回しにせずズバッと言う。配慮不足に聞こえることもある。",
+      "vocal：ある問題について積極的・頻繁に意見を表明する。",
+      "tactless：相手の感情や状況への配慮を欠いている。"
+    ],
+    "en": [
+      "frank emphasizes openness and honesty.",
+      "forthright suggests openly and confidently stating what one thinks.",
+      "outspoken suggests openly expressing strong or controversial opinions.",
+      "blunt suggests directness without much softening or tact.",
+      "vocal means actively and repeatedly expressing one's views on an issue.",
+      "tactless means lacking sensitivity to other people's feelings."
+    ]
+  },
+  "etymology": {
+    "ja": "out + spoken から成る語。もともと outspoken には『完全に、はっきりと言い表された』という意味があり、19世紀には『自分の考えを率直に表明する』という現在の人物描写の意味が定着した。out はここでは『外へ、公に』というイメージを持つと理解しやすい。",
+    "en": "Formed from out + spoken. It originally described something fully or openly expressed, and developed the modern sense of a person who speaks opinions freely and openly."
+  },
+  "synonyms": [
+    {
+      "word": "forthright",
+      "note": {
+        "ja": "率直で堂々とした話し方全般。outspoken ほど公的・論争的な発言を含意しない。",
+        "en": "Describes direct and honest communication more generally, without the same emphasis on publicly voicing strong views."
+      }
+    },
+    {
+      "word": "vocal",
+      "note": {
+        "ja": "特定の問題について積極的に声を上げることを強調する。",
+        "en": "Emphasizes actively and repeatedly expressing views on a particular issue."
+      }
+    },
+    {
+      "word": "frank",
+      "note": {
+        "ja": "隠し立てせず正直に話すことを強調。",
+        "en": "Emphasizes openness and honesty."
+      }
+    },
+    {
+      "word": "blunt",
+      "note": {
+        "ja": "言葉を和らげず直接言うことを強調し、失礼に聞こえることがある。",
+        "en": "Emphasizes unsoftened directness and may suggest insensitivity."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "freimütig / meinungsstark",
+    "it": "schietto / esplicito",
+    "fr": "franc / qui ne mâche pas ses mots",
+    "es": "franco / abierto al expresar sus opiniones"
+  },
+  "collocations": {
+    "ja": [
+      "an outspoken critic — 歯に衣着せぬ批判者",
+      "an outspoken supporter — 支持を公然と表明する人",
+      "an outspoken opponent — 反対を公然と表明する人",
+      "an outspoken advocate — 積極的に意見を表明する擁護者",
+      "be outspoken about something — ～について公然とはっきり意見を述べる",
+      "an outspoken personality — 物怖じせず意見を述べる性格"
+    ],
+    "en": [
+      "an outspoken critic",
+      "an outspoken supporter",
+      "an outspoken opponent",
+      "an outspoken advocate",
+      "be outspoken about something",
+      "an outspoken personality"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She has been an outspoken critic of the government's economic policy. — 彼女は政府の経済政策を公然と厳しく批判してきた。",
+      "He is outspoken about the need for reform within the organization. — 彼は組織内部の改革の必要性について臆せず意見を述べている。",
+      "Her outspoken personality sometimes gets her into arguments with her colleagues. — 彼女は物怖じせず意見を言う性格のため、ときどき同僚と議論になる。"
+    ],
+    "en": [
+      "She has been an outspoken critic of the government's economic policy.",
+      "He is outspoken about the need for reform within the organization.",
+      "Her outspoken personality sometimes gets her into arguments with her colleagues."
+    ]
+  }
 }
 ]
