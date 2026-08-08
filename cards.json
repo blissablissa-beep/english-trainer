@@ -6255,5 +6255,2626 @@
       "Her outspoken personality sometimes gets her into arguments with her colleagues."
     ]
   }
+},
+{
+  "id": "frail",
+  "sid": "2026-00066",
+  "word": "frail",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "personality",
+    "physical",
+    "description"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/freɪl/",
+      "uk": "/freɪl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（人が）虚弱な、弱々しい",
+      "（物が）もろい、壊れやすい",
+      "（希望・関係などが）脆弱な、危うい"
+    ],
+    "en": [
+      "physically weak and delicate",
+      "easily damaged or broken",
+      "weak and unlikely to survive or endure"
+    ]
+  },
+  "nuance": {
+    "ja": "人については、単に体格が細いというより、年齢・病気・体力低下などによって身体的に弱く、傷つきやすそうな状態を表す。物については『もろく壊れやすい』、抽象的なものについては『存続が危うい』という意味になる。thin や slender のような単なる体型描写とは異なり、frail には『弱さ・脆弱さ』が含まれる。",
+    "en": "When used of a person, frail suggests physical weakness and vulnerability, often associated with age, illness, or poor health. It does not simply mean thin. It can also describe objects that are easily damaged and abstract things that are weak or precarious."
+  },
+  "minimal": {
+    "ja": [
+      "frail：身体的に弱々しく、傷つきやすそう。物・抽象物にも使える。",
+      "feeble：力・体力・効果などが非常に弱い。frail より『力のなさ』を強調。",
+      "fragile：壊れやすい。物に最も一般的だが、人・状況にも比喩的に使う。",
+      "delicate：繊細で傷つきやすい。frail より柔らかく、肯定的にもなり得る。",
+      "weak：弱い。最も一般的で意味が広い。",
+      "slender：ほっそりした。通常、虚弱という意味はない。"
+    ],
+    "en": [
+      "frail suggests physical weakness and vulnerability.",
+      "feeble emphasizes lack of strength, power, or effectiveness.",
+      "fragile emphasizes being easily broken or damaged.",
+      "delicate suggests sensitivity or vulnerability and may be positive.",
+      "weak is the broad general word.",
+      "slender describes a thin build without implying physical weakness."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 fraile / frele を経て、ラテン語 fragilis（壊れやすい、もろい）に由来する。fragilis は frangere（壊す、砕く）から派生した語で、英語 fragile と同根。したがって frail の根本イメージも『壊れやすさ』にある。",
+    "en": "From Old French fraile or frele, ultimately from Latin fragilis ('easily broken'), from frangere ('to break'). It is therefore etymologically related to fragile."
+  },
+  "synonyms": [
+    {
+      "word": "feeble",
+      "note": {
+        "ja": "身体・声・試みなどの力が乏しいことを強調する。",
+        "en": "Emphasizes lack of physical strength, force, or effectiveness."
+      }
+    },
+    {
+      "word": "fragile",
+      "note": {
+        "ja": "壊れやすさ・損なわれやすさが中心。物について特によく使う。",
+        "en": "Focuses on susceptibility to breaking or damage, especially with objects."
+      }
+    },
+    {
+      "word": "delicate",
+      "note": {
+        "ja": "繊細で、慎重に扱う必要があることを表す。",
+        "en": "Suggests something sensitive or requiring careful treatment."
+      }
+    },
+    {
+      "word": "weak",
+      "note": {
+        "ja": "最も一般的な『弱い』で、frail より意味範囲が広い。",
+        "en": "The broadest general term for lacking strength."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gebrechlich",
+    "it": "fragile",
+    "fr": "frêle",
+    "es": "frágil"
+  },
+  "collocations": {
+    "ja": [
+      "a frail old man — 弱々しい老人",
+      "a frail elderly woman — 体の弱った高齢女性",
+      "physically frail — 身体的に虚弱な",
+      "look frail — 弱々しく見える",
+      "become increasingly frail — 次第に身体が弱る",
+      "a frail body — 弱々しい身体",
+      "a frail hope — かすかな・危うい希望"
+    ],
+    "en": [
+      "a frail old man",
+      "a frail elderly woman",
+      "physically frail",
+      "look frail",
+      "become increasingly frail",
+      "a frail body",
+      "a frail hope"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The old man looked frail, but his mind was still remarkably sharp. — その老人は身体こそ弱々しく見えたが、頭脳は依然として驚くほど明晰だった。",
+      "She became increasingly frail in her later years. — 彼女は晩年になるにつれて次第に身体が弱っていった。",
+      "The agreement provided a frail basis for lasting peace. — その合意は恒久的な平和の基盤としては脆弱なものだった。"
+    ],
+    "en": [
+      "The old man looked frail, but his mind was still remarkably sharp.",
+      "She became increasingly frail in her later years.",
+      "The agreement provided a frail basis for lasting peace."
+    ]
+  }
+},
+{
+  "id": "feeble",
+  "sid": "2026-00067",
+  "word": "feeble",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "physical",
+    "description",
+    "communication"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfiːbəl/",
+      "uk": "/ˈfiːbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（人・身体が）弱々しい、虚弱な",
+      "（声・光などが）弱い、かすかな",
+      "（努力・議論・言い訳などが）力のない、お粗末な"
+    ],
+    "en": [
+      "physically weak, especially because of age or illness",
+      "lacking strength, force, or intensity",
+      "ineffective or unconvincing"
+    ]
+  },
+  "nuance": {
+    "ja": "中心イメージは『十分な力・強さがない』こと。人については身体的な弱さを表すが、frail のような『壊れやすそうな脆弱さ』よりも、実際に力が出ないことに重点がある。また a feeble voice, a feeble light のような物理的な弱さから、a feeble attempt, a feeble excuse のような『努力・主張などが弱くて効果がない』という否定的な比喩義まで広く使われる。",
+    "en": "The central idea is insufficient strength, force, or effectiveness. With people, it emphasizes lack of physical strength rather than the vulnerability suggested by frail. It also readily describes weak sounds or light and, figuratively, ineffective attempts, arguments, or excuses."
+  },
+  "minimal": {
+    "ja": [
+      "weak：『弱い』の最も一般的な語。",
+      "frail：身体などが弱々しく、傷つきやすそう・壊れやすそう。",
+      "feeble：力・勢い・効果が乏しい。人、声、光、努力、言い訳などに広く使う。",
+      "fragile：壊れたり損なわれたりしやすい。",
+      "faint：音・光・感覚などがかすかで弱い。",
+      "flimsy：物が薄く弱い、または議論・口実などに説得力がない。"
+    ],
+    "en": [
+      "weak is the broad general word.",
+      "frail suggests physical weakness and vulnerability.",
+      "feeble emphasizes lack of strength, force, or effectiveness.",
+      "fragile emphasizes being easily broken or damaged.",
+      "faint describes something barely perceptible, such as a sound or light.",
+      "flimsy suggests physical weakness or, figuratively, an unconvincing argument or excuse."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 feble / faible を経て、ラテン語 flebilis に由来する。flebilis は『嘆かわしい、泣くべき』という意味で、flere（泣く）から派生した。『嘆かわしいほど弱い』という意味を経て、英語では『弱々しい、力のない』という意味が定着した。現代フランス語 faible（弱い）も同系統。",
+    "en": "From Old French feble, related to modern French faible, ultimately from Latin flebilis ('lamentable, worthy of weeping'), from flere ('to weep'). The meaning developed toward physical weakness and lack of force."
+  },
+  "synonyms": [
+    {
+      "word": "frail",
+      "note": {
+        "ja": "特に人の身体的な弱さ・脆弱さを強調する。",
+        "en": "Especially emphasizes physical weakness and vulnerability."
+      }
+    },
+    {
+      "word": "weak",
+      "note": {
+        "ja": "最も一般的で意味範囲の広い『弱い』。",
+        "en": "The broadest and most neutral word for lacking strength."
+      }
+    },
+    {
+      "word": "faint",
+      "note": {
+        "ja": "声・音・光・匂いなどがかすかで知覚しにくいことを表す。",
+        "en": "Often describes a sound, light, smell, or sensation that is barely perceptible."
+      }
+    },
+    {
+      "word": "flimsy",
+      "note": {
+        "ja": "物理的にも比喩的にも『しっかりしていない』ことを表す。",
+        "en": "Suggests something physically weak or figuratively lacking substance."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schwach / kraftlos",
+    "it": "debole",
+    "fr": "faible",
+    "es": "débil"
+  },
+  "collocations": {
+    "ja": [
+      "a feeble old man — 弱々しい老人",
+      "a feeble voice — 弱々しい声",
+      "a feeble cry — か細い叫び声",
+      "a feeble light — 弱い光",
+      "a feeble attempt — お粗末な試み",
+      "a feeble excuse — 苦しい・説得力のない言い訳",
+      "a feeble response — 力のない反応"
+    ],
+    "en": [
+      "a feeble old man",
+      "a feeble voice",
+      "a feeble cry",
+      "a feeble light",
+      "a feeble attempt",
+      "a feeble excuse",
+      "a feeble response"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He was too feeble to get out of bed without assistance. — 彼は弱りすぎていて、介助なしではベッドから起き上がれなかった。",
+      "A feeble light came through the curtains. — カーテン越しにかすかな光が差し込んでいた。",
+      "The company made a feeble attempt to explain the sudden price increase. — 会社は突然の値上げについて説得力に乏しい説明を試みた。",
+      "That's a rather feeble excuse for missing the deadline. — それは締切に間に合わなかった言い訳としては、かなり苦しい。"
+    ],
+    "en": [
+      "He was too feeble to get out of bed without assistance.",
+      "A feeble light came through the curtains.",
+      "The company made a feeble attempt to explain the sudden price increase.",
+      "That's a rather feeble excuse for missing the deadline."
+    ]
+  }
+},
+{
+  "id": "flimsy",
+  "sid": "2026-00068",
+  "word": "flimsy",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "description",
+    "physical",
+    "argument"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈflɪmzi/",
+      "uk": "/ˈflɪmzi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（物が）薄くて壊れやすい、ぺらぺらの、華奢な",
+      "（根拠・議論などが）薄弱な、説得力のない",
+      "（言い訳などが）見え透いた、苦しい"
+    ],
+    "en": [
+      "light, thin, and easily damaged",
+      "weak and lacking substance or strength",
+      "unconvincing or poorly supported"
+    ]
+  },
+  "nuance": {
+    "ja": "物については、材料が薄かったり作りが弱かったりして、簡単に曲がる・破れる・壊れるような印象を表す。比喩的には、議論・証拠・口実・言い訳などに十分な中身や根拠がなく、簡単に崩せそうなことを表す。frail が人などの脆弱さ、feeble が力・効果の弱さを表すのに対し、flimsy は『構造や根拠がしっかりしていない』ことに重点がある。",
+    "en": "Flimsy literally describes something thin, lightly made, and easily damaged. Figuratively, it describes arguments, evidence, excuses, or claims that lack substance or adequate support. Unlike frail, which emphasizes vulnerability, or feeble, which emphasizes lack of strength or effectiveness, flimsy suggests inadequate structure or substance."
+  },
+  "minimal": {
+    "ja": [
+      "frail：人・身体などが弱々しく、脆弱。",
+      "feeble：力・勢い・効果が弱い。",
+      "flimsy：作り・中身・根拠が薄く、簡単に壊れたり崩されたりする。",
+      "fragile：壊れやすい。薄さや粗末な作りは含意しない。",
+      "weak：弱い。最も一般的で意味が広い。",
+      "shoddy：作り・仕事の質が粗悪。『薄い』より品質の悪さを強調。"
+    ],
+    "en": [
+      "frail suggests weakness and vulnerability.",
+      "feeble emphasizes lack of strength, force, or effectiveness.",
+      "flimsy suggests inadequate physical structure or figurative substance.",
+      "fragile means easily broken without necessarily suggesting poor construction.",
+      "weak is the broad general term.",
+      "shoddy emphasizes poor quality or workmanship."
+    ]
+  },
+  "etymology": {
+    "ja": "18世紀初頭から確認される英語で、正確な語源は不明。初期には薄い紙などを表し、そこから『薄くて弱い』『粗末な作りの』という意味、さらに『根拠・議論などが薄弱な』という比喩的意味へ発展した。",
+    "en": "Attested from the early 18th century, but its precise origin is uncertain. It was used of thin materials such as paper and developed the broader senses of physically insubstantial and, figuratively, poorly supported or unconvincing."
+  },
+  "synonyms": [
+    {
+      "word": "fragile",
+      "note": {
+        "ja": "壊れやすさを表すが、作りが粗末・薄いという意味は必ずしもない。",
+        "en": "Emphasizes susceptibility to damage without necessarily implying thin or poor construction."
+      }
+    },
+    {
+      "word": "feeble",
+      "note": {
+        "ja": "力・効果が弱いことを強調する。",
+        "en": "Emphasizes lack of strength or effectiveness."
+      }
+    },
+    {
+      "word": "shoddy",
+      "note": {
+        "ja": "材料・製造・仕事などの品質が粗悪であることを強調。",
+        "en": "Emphasizes poor quality, materials, or workmanship."
+      }
+    },
+    {
+      "word": "unconvincing",
+      "note": {
+        "ja": "議論・説明などについて『説得力がない』ことを直接表す。",
+        "en": "Directly describes an argument or explanation that fails to persuade."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "dürftig / fadenscheinig",
+    "it": "fragile / inconsistente",
+    "fr": "fragile / peu solide",
+    "es": "endeble / poco sólido"
+  },
+  "collocations": {
+    "ja": [
+      "a flimsy structure — 華奢で壊れやすい構造物",
+      "flimsy material — 薄くて弱い素材",
+      "a flimsy chair — 作りの弱い椅子",
+      "a flimsy excuse — 見え透いた・苦しい言い訳",
+      "flimsy evidence — 薄弱な証拠",
+      "a flimsy argument — 根拠の弱い議論",
+      "a flimsy pretext — 見え透いた口実"
+    ],
+    "en": [
+      "a flimsy structure",
+      "flimsy material",
+      "a flimsy chair",
+      "a flimsy excuse",
+      "flimsy evidence",
+      "a flimsy argument",
+      "a flimsy pretext"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The shelter was made of flimsy sheets of metal. — その避難小屋は薄くて頼りない金属板で作られていた。",
+      "The prosecution's case was based on flimsy evidence. — 検察側の主張は薄弱な証拠に基づいていた。",
+      "He gave a flimsy excuse for arriving two hours late. — 彼は2時間遅刻したことについて、見え透いた言い訳をした。",
+      "The theory rests on a rather flimsy assumption. — その理論はかなり根拠の弱い仮定に依拠している。"
+    ],
+    "en": [
+      "The shelter was made of flimsy sheets of metal.",
+      "The prosecution's case was based on flimsy evidence.",
+      "He gave a flimsy excuse for arriving two hours late.",
+      "The theory rests on a rather flimsy assumption."
+    ]
+  }
+},
+{
+  "id": "shoddy",
+  "sid": "2026-00069",
+  "word": "shoddy",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "description",
+    "quality",
+    "criticism"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈʃɑːdi/",
+      "uk": "/ˈʃɒdi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "粗悪な、安物の",
+      "作りの悪い、質の低い",
+      "（仕事・調査などが）杜撰な、手抜きの"
+    ],
+    "en": [
+      "badly made and of poor quality",
+      "done carelessly or incompetently",
+      "inferior in workmanship or standards"
+    ]
+  },
+  "nuance": {
+    "ja": "単に壊れやすいというより、『本来期待される品質に達しておらず、材料・製造・仕事ぶりが粗悪である』という批判を表す。製品だけでなく、work, research, journalism, investigation などにも使える。flimsy が『薄い・構造や根拠が弱い』ことを強調するのに対し、shoddy は『質が悪い・仕事が杜撰』という評価そのものに重点がある。明確に否定的な語。",
+    "en": "Shoddy is a strongly negative word for something made or done to an unacceptably low standard. It can describe physical products as well as work, research, journalism, or investigations. Unlike flimsy, which emphasizes lack of physical or argumentative substance, shoddy emphasizes poor quality or workmanship."
+  },
+  "minimal": {
+    "ja": [
+      "flimsy：薄っぺらく、構造・中身・根拠が弱い。",
+      "shoddy：作り・品質・仕事ぶりが粗悪で杜撰。",
+      "cheap：安価な。また文脈によっては安っぽい。",
+      "tacky：趣味が悪く安っぽい。主に外観・センス。",
+      "sloppy：仕事・やり方が雑で不注意。",
+      "substandard：要求される基準を下回っている。より客観的・形式的。"
+    ],
+    "en": [
+      "flimsy suggests inadequate structure or substance.",
+      "shoddy means poorly made or done to a low standard.",
+      "cheap primarily means inexpensive but may also imply low quality.",
+      "tacky suggests cheap or tasteless appearance.",
+      "sloppy emphasizes careless or untidy work.",
+      "substandard objectively means below an expected or required standard."
+    ]
+  },
+  "etymology": {
+    "ja": "もともと19世紀の繊維用語 shoddy に由来する。古い羊毛製品やぼろ布をほぐして再生した羊毛素材を shoddy と呼んだ。こうした再生素材が新品の羊毛より低品質と見なされることが多かったため、19世紀半ばには比喩的に『見かけだけで粗悪な』『質の悪い』という意味が生じた。",
+    "en": "Originally a 19th-century textile term for wool recovered by shredding old woolen cloth and reprocessing the fibers. Because such material was often regarded as inferior to new wool, shoddy developed the figurative sense of something cheap, poorly made, or of inferior quality."
+  },
+  "synonyms": [
+    {
+      "word": "sloppy",
+      "note": {
+        "ja": "品質そのものより、仕事の雑さ・不注意を強調する。",
+        "en": "Emphasizes carelessness or lack of precision in the way something is done."
+      }
+    },
+    {
+      "word": "inferior",
+      "note": {
+        "ja": "他と比較して品質・程度が劣っていることを表す、より中立的で硬い語。",
+        "en": "A more neutral and formal word for being lower in quality."
+      }
+    },
+    {
+      "word": "substandard",
+      "note": {
+        "ja": "一定の基準・要求水準を下回っていることを表す。",
+        "en": "Means failing to meet an expected or required standard."
+      }
+    },
+    {
+      "word": "flimsy",
+      "note": {
+        "ja": "薄さ・弱い構造・根拠不足を強調する。",
+        "en": "Emphasizes weak construction or lack of substance."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "minderwertig / schlampig",
+    "it": "scadente / dozzinale",
+    "fr": "de mauvaise qualité / bâclé",
+    "es": "de mala calidad / chapucero"
+  },
+  "collocations": {
+    "ja": [
+      "shoddy workmanship — 粗悪な仕事ぶり",
+      "shoddy construction — 杜撰な施工",
+      "shoddy goods — 粗悪品",
+      "shoddy materials — 粗悪な材料",
+      "shoddy research — 杜撰な研究",
+      "shoddy journalism — 質の低い・杜撰な報道",
+      "shoddy treatment — ひどい扱い"
+    ],
+    "en": [
+      "shoddy workmanship",
+      "shoddy construction",
+      "shoddy goods",
+      "shoddy materials",
+      "shoddy research",
+      "shoddy journalism",
+      "shoddy treatment"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The building soon developed serious problems because of shoddy workmanship. — 杜撰な施工のため、その建物にはすぐに深刻な問題が生じた。",
+      "The report was criticized for its shoddy research and factual errors. — その報告書は杜撰な調査と事実誤認を批判された。",
+      "Customers complained about the shoddy quality of the furniture. — 客たちはその家具の粗悪な品質について苦情を申し立てた。",
+      "The employees were fed up with the shoddy treatment they received from management. — 従業員たちは経営陣から受けるひどい扱いにうんざりしていた。"
+    ],
+    "en": [
+      "The building soon developed serious problems because of shoddy workmanship.",
+      "The report was criticized for its shoddy research and factual errors.",
+      "Customers complained about the shoddy quality of the furniture.",
+      "The employees were fed up with the shoddy treatment they received from management."
+    ]
+  }
+},
+{
+  "id": "sloppy",
+  "sid": "2026-00070",
+  "word": "sloppy",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "personality",
+    "work",
+    "description"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈslɑːpi/",
+      "uk": "/ˈslɒpi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（仕事・やり方が）雑な、杜撰な",
+      "（人・服装が）だらしない",
+      "（文章・思考などが）不注意でいい加減な",
+      "（食べ物などが）水っぽい、ぐちゃぐちゃした"
+    ],
+    "en": [
+      "careless and lacking attention to detail",
+      "untidy or carelessly dressed",
+      "poorly organized or imprecise",
+      "wet, loose, or messy in consistency"
+    ]
+  },
+  "nuance": {
+    "ja": "中心にあるのは『注意・丁寧さ・規律が足りないため雑になっている』という感覚。仕事、調査、文章、思考、服装、身なりなど非常に広く使える。shoddy が製品や仕事の『低品質な出来』を強調するのに対し、sloppy はそれを生み出す『雑なやり方・不注意』に焦点がある。人を sloppy と呼ぶと『だらしない、雑な人』というかなり否定的な評価になる。",
+    "en": "Sloppy suggests insufficient care, precision, or attention. It can describe work, thinking, writing, appearance, or behavior. Whereas shoddy emphasizes inferior quality or workmanship, sloppy focuses more on the carelessness or lack of discipline that produces poor results."
+  },
+  "minimal": {
+    "ja": [
+      "sloppy：注意や丁寧さが足りず、仕事・やり方・身なりなどが雑。",
+      "shoddy：作り・品質・仕事の出来が粗悪。",
+      "careless：注意不足。不注意そのものを最も直接的に表す。",
+      "messy：散らかっている、乱雑。結果としての乱れを強調。",
+      "untidy：整理・身なりなどが整っていない。",
+      "negligent：当然払うべき注意を怠る。より硬く、法律でも使われる。"
+    ],
+    "en": [
+      "sloppy suggests careless, imprecise, or untidy work or behavior.",
+      "shoddy emphasizes inferior quality or workmanship.",
+      "careless directly emphasizes lack of attention.",
+      "messy emphasizes disorder or an untidy result.",
+      "untidy means not neat or properly arranged.",
+      "negligent formally suggests failure to exercise proper or required care."
+    ]
+  },
+  "etymology": {
+    "ja": "slop + -y。slop はもともと『こぼれた液体、ぬかるみ、水っぽいもの』などを表し、そこから sloppy は『水っぽい、ぐちゃぐちゃした』という意味を持った。さらに『乱雑な、だらしない』を経て、仕事や思考について『雑な、杜撰な』という比喩的意味が発達した。",
+    "en": "From slop + -y. Slop referred to spilled liquid, mud, or watery material, giving sloppy the early sense of wet or messy. The word then developed the figurative senses of untidy, careless, and lacking precision."
+  },
+  "synonyms": [
+    {
+      "word": "careless",
+      "note": {
+        "ja": "注意不足を表す最も一般的な語。",
+        "en": "The general word for failing to give sufficient attention."
+      }
+    },
+    {
+      "word": "shoddy",
+      "note": {
+        "ja": "仕事の過程より、出来上がったものの粗悪な品質を強調しやすい。",
+        "en": "More strongly emphasizes inferior quality or workmanship."
+      }
+    },
+    {
+      "word": "messy",
+      "note": {
+        "ja": "散らかり・乱雑さを強調し、必ずしも仕事の質を批判するとは限らない。",
+        "en": "Emphasizes disorder or untidiness rather than necessarily poor quality."
+      }
+    },
+    {
+      "word": "negligent",
+      "note": {
+        "ja": "必要な注意義務を怠ったという硬い語で、法的文脈でも重要。",
+        "en": "A formal term for failing to exercise proper care, especially important in legal contexts."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schlampig",
+    "it": "sciatto / trascurato",
+    "fr": "négligé / bâclé",
+    "es": "descuidado / chapucero"
+  },
+  "collocations": {
+    "ja": [
+      "sloppy work — 雑な仕事",
+      "sloppy writing — 雑で不正確な文章",
+      "sloppy research — 杜撰な調査・研究",
+      "sloppy thinking — いい加減な思考",
+      "sloppy reasoning — 雑な論理展開",
+      "sloppy handwriting — 雑な字、乱雑な筆跡",
+      "sloppy appearance — だらしない身なり",
+      "sloppy mistake — 不注意によるミス"
+    ],
+    "en": [
+      "sloppy work",
+      "sloppy writing",
+      "sloppy research",
+      "sloppy thinking",
+      "sloppy reasoning",
+      "sloppy handwriting",
+      "sloppy appearance",
+      "sloppy mistake"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The report contained several errors caused by sloppy research. — その報告書には杜撰な調査による誤りがいくつも含まれていた。",
+      "His argument is based on some rather sloppy reasoning. — 彼の主張はいささか雑な論理展開に基づいている。",
+      "The teacher criticized him for his sloppy handwriting. — 先生は彼の乱雑な字を注意した。",
+      "She is brilliant, but she can be sloppy when working under pressure. — 彼女は非常に優秀だが、プレッシャーの下では仕事が雑になることがある。"
+    ],
+    "en": [
+      "The report contained several errors caused by sloppy research.",
+      "His argument is based on some rather sloppy reasoning.",
+      "The teacher criticized him for his sloppy handwriting.",
+      "She is brilliant, but she can be sloppy when working under pressure."
+    ]
+  }
+},
+{
+  "id": "negligent",
+  "sid": "2026-00071",
+  "word": "negligent",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "personality",
+    "legal",
+    "formal",
+    "work"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈneɡlɪdʒənt/",
+      "uk": "/ˈneɡlɪdʒənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "怠慢な、不注意な",
+      "当然払うべき注意を怠った",
+      "（法律）過失のある"
+    ],
+    "en": [
+      "failing to give proper care or attention",
+      "careless in a way that may cause harm or damage",
+      "legally failing to exercise the required standard of care"
+    ]
+  },
+  "nuance": {
+    "ja": "単なる不注意よりも、『その人の立場なら当然払うべき注意を怠った』という非難を強く含む。日常語としても使えるが、法律では特に重要で、必要とされる注意水準を満たさず損害を生じさせた場合などに用いられる。sloppy が『仕事ぶりが雑』という比較的日常的な評価なのに対し、negligent は責任・義務との結び付きが強い。",
+    "en": "Negligent is stronger and more formal than careless. It suggests failure to exercise the degree of care that could reasonably be expected. In legal contexts, it describes conduct falling below a required standard of care. Unlike sloppy, which often criticizes poor or untidy work, negligent can imply responsibility for resulting harm."
+  },
+  "minimal": {
+    "ja": [
+      "sloppy：仕事・やり方が雑で杜撰。日常的な評価。",
+      "careless：注意不足、不注意。最も一般的。",
+      "negligent：当然払うべき注意を怠っている。責任・義務との結び付きが強い。",
+      "reckless：危険を顧みず行動する。negligent より積極的な危険軽視を含みやすい。",
+      "remiss：義務・責任を十分に果たしていない。硬い語。",
+      "inattentive：注意を向けていない、集中していない。"
+    ],
+    "en": [
+      "sloppy describes careless or imprecise work or behavior.",
+      "careless is the general word for insufficient attention.",
+      "negligent implies failure to exercise proper or required care.",
+      "reckless suggests disregard of an obvious or serious risk.",
+      "remiss means failing to fulfill a duty or responsibility adequately.",
+      "inattentive means not paying sufficient attention."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 neglegere / negligere（顧みない、無視する）に由来する。これは nec（～でない）と legere（拾う、選ぶ、集める）に関係する語で、『取り上げない、顧みない』という発想から『注意を払わない、怠る』という意味になった。neglect, negligence も同系統。",
+    "en": "From Latin neglegere or negligere ('to disregard, neglect'), related to nec ('not') and legere ('to gather, choose'). The underlying idea is failing to take notice or pay proper attention. Neglect and negligence belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "careless",
+      "note": {
+        "ja": "一般的な『不注意な』。negligent ほど義務違反や責任を強く含意しない。",
+        "en": "The general word for lacking care, without the same strong implication of duty or responsibility."
+      }
+    },
+    {
+      "word": "remiss",
+      "note": {
+        "ja": "義務・職責などを十分に果たしていないことを表す硬い語。",
+        "en": "A formal word for failing to perform a duty or responsibility adequately."
+      }
+    },
+    {
+      "word": "reckless",
+      "note": {
+        "ja": "重大な危険を顧みないことを強調し、通常 negligent より強い。",
+        "en": "Suggests disregard of serious risk and is generally stronger than negligent."
+      }
+    },
+    {
+      "word": "sloppy",
+      "note": {
+        "ja": "雑さ・杜撰さを表す日常語で、法的責任までは通常含意しない。",
+        "en": "An everyday word for careless or imprecise work, normally without a legal implication."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "fahrlässig",
+    "it": "negligente",
+    "fr": "négligent",
+    "es": "negligente"
+  },
+  "collocations": {
+    "ja": [
+      "negligent behavior — 怠慢な・過失のある行為",
+      "negligent conduct — 過失行為",
+      "negligent driving — 不注意運転",
+      "negligent treatment — 怠慢な処置",
+      "be negligent in one's duties — 職務を怠る",
+      "be found negligent — 過失があったと認定される",
+      "grossly negligent — 重大な過失のある"
+    ],
+    "en": [
+      "negligent behavior",
+      "negligent conduct",
+      "negligent driving",
+      "negligent treatment",
+      "be negligent in one's duties",
+      "be found negligent",
+      "grossly negligent"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company was found negligent in failing to maintain the equipment properly. — その会社は設備を適切に保守しなかったことについて過失があったと認定された。",
+      "He was negligent in carrying out his duties. — 彼は職務の遂行を怠っていた。",
+      "The accident was caused by negligent driving. — その事故は不注意な運転によって引き起こされた。",
+      "A professional may be held liable for damage caused by negligent conduct. — 専門家は過失行為によって生じた損害について責任を問われることがある。"
+    ],
+    "en": [
+      "The company was found negligent in failing to maintain the equipment properly.",
+      "He was negligent in carrying out his duties.",
+      "The accident was caused by negligent driving.",
+      "A professional may be held liable for damage caused by negligent conduct."
+    ]
+  }
+},
+{
+  "id": "remiss",
+  "sid": "2026-00072",
+  "word": "remiss",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "responsibility",
+    "communication"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈmɪs/",
+      "uk": "/rɪˈmɪs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "義務を怠った、怠慢な",
+      "責任を十分に果たしていない",
+      "当然すべきことをしないでいる"
+    ],
+    "en": [
+      "failing to do something that one ought to do",
+      "careless or negligent in performing a duty",
+      "not sufficiently attentive to one's responsibilities"
+    ]
+  },
+  "nuance": {
+    "ja": "自分の義務・責任・当然すべき配慮を十分に果たしていないことを表す、やや硬い語。negligent と近いが、negligent は『必要な注意を怠り、その結果として損害などを生じさせる』という意味で法律にも頻出するのに対し、remiss は『本来やるべきことをやっていない』という不履行・怠慢に重点がある。特に I would be remiss if I didn't ... という定型表現が重要。",
+    "en": "Remiss is a formal word describing failure to fulfill a duty, responsibility, or expected act of consideration. Unlike negligent, which often focuses on failure to exercise proper care and may carry legal implications, remiss focuses on neglecting something one ought to have done. It is especially common in the phrase 'I would be remiss if I didn't ...'."
+  },
+  "minimal": {
+    "ja": [
+      "careless：一般的な『不注意な』。",
+      "sloppy：仕事・やり方が雑で杜撰。",
+      "negligent：当然払うべき注意を怠る。責任・法律との結び付きが強い。",
+      "remiss：果たすべき義務・責任・配慮を怠る。",
+      "derelict：職務・義務を重大に怠った。remiss より強く硬い。",
+      "inattentive：十分に注意を向けていない。"
+    ],
+    "en": [
+      "careless is the general word for insufficient attention.",
+      "sloppy describes careless or imprecise work or behavior.",
+      "negligent implies failure to exercise proper or required care.",
+      "remiss emphasizes failure to fulfill a duty or do something expected.",
+      "derelict suggests a serious failure to perform one's duty.",
+      "inattentive means not paying sufficient attention."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 remissus（緩められた、弛んだ）に由来し、これは remittere（緩める、送り返す）から派生した語。re-（後ろへ）+ mittere（送る）から成り、『緩める』→『厳格さ・注意が緩む』→『怠慢な』という意味に発展した。英語 remit, remission と同系統。",
+    "en": "From Latin remissus ('relaxed, slackened'), the past participle of remittere ('to send back, relax, slacken'), from re- ('back') + mittere ('to send'). The sense developed from being slack or relaxed to being negligent in one's duties. It is related to remit and remission."
+  },
+  "synonyms": [
+    {
+      "word": "negligent",
+      "note": {
+        "ja": "必要な注意を怠ることを強調し、法律上の過失にも用いられる。",
+        "en": "Emphasizes failure to exercise proper care and is also an important legal term."
+      }
+    },
+    {
+      "word": "careless",
+      "note": {
+        "ja": "注意不足を表す一般的な語で、remiss ほど義務・責任を含意しない。",
+        "en": "A general word for lack of care, without necessarily implying failure of duty."
+      }
+    },
+    {
+      "word": "derelict",
+      "note": {
+        "ja": "職務・義務を重大に放棄・怠慢したという、より強い表現。",
+        "en": "A stronger and more formal word suggesting serious neglect or abandonment of duty."
+      }
+    },
+    {
+      "word": "neglectful",
+      "note": {
+        "ja": "人・物・責任などに必要な注意を払わないことを表す。",
+        "en": "Describes someone who habitually fails to give proper care or attention."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "nachlässig / säumig",
+    "it": "negligente / inadempiente",
+    "fr": "négligent",
+    "es": "negligente / incumplidor"
+  },
+  "collocations": {
+    "ja": [
+      "be remiss in one's duties — 職務を怠る",
+      "be remiss in doing something — ～することを怠る",
+      "be remiss in one's responsibilities — 責任を十分に果たさない",
+      "be seriously remiss — 著しく怠慢である",
+      "I would be remiss if I didn't mention ... — ～に触れなければ片手落ちだろう",
+      "It would be remiss of me not to ... — 私が～しないのは不適切・怠慢だろう"
+    ],
+    "en": [
+      "be remiss in one's duties",
+      "be remiss in doing something",
+      "be remiss in one's responsibilities",
+      "be seriously remiss",
+      "I would be remiss if I didn't mention ...",
+      "It would be remiss of me not to ..."
+    ]
+  },
+  "example": {
+    "ja": [
+      "The manager was remiss in failing to address the problem earlier. — その管理者は、もっと早く問題に対処しなかった点で怠慢だった。",
+      "The authorities were remiss in their duty to protect the public. — 当局は市民を保護するという義務を十分に果たしていなかった。",
+      "I would be remiss if I didn't mention the enormous contribution made by our staff. — スタッフの多大な貢献に触れなければ片手落ちでしょう。",
+      "It would be remiss of me not to thank everyone who helped with the project. — このプロジェクトに協力してくれた皆さんに感謝しないのは、私としては不適切でしょう。"
+    ],
+    "en": [
+      "The manager was remiss in failing to address the problem earlier.",
+      "The authorities were remiss in their duty to protect the public.",
+      "I would be remiss if I didn't mention the enormous contribution made by our staff.",
+      "It would be remiss of me not to thank everyone who helped with the project."
+    ]
+  }
+},
+{
+  "id": "derelict",
+  "sid": "2026-00073",
+  "word": "derelict",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "legal",
+    "responsibility",
+    "description"
+  ],
+  "grammar": {
+    "pos": "adj / noun"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈderəlɪkt/",
+      "uk": "/ˈderəlɪkt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（義務・職務について）重大に怠慢な、責任を果たしていない",
+      "（建物・船などが）放棄された、荒廃した",
+      "（名詞）遺棄された建物・船など"
+    ],
+    "en": [
+      "seriously neglectful of one's duty or responsibility",
+      "abandoned and in a poor or ruined condition",
+      "as a noun, something abandoned or left to decay"
+    ]
+  },
+  "nuance": {
+    "ja": "義務について使う場合は非常に強い語で、単なる不注意ではなく『果たすべき責任を重大に怠っている、事実上放棄している』という非難を含む。remiss より強く、特に dereliction of duty という表現で職務怠慢・職務放棄を表す。一方、建物・船・土地などについては『所有者などに見捨てられ、荒廃した』という意味で比較的よく使われる。",
+    "en": "When applied to duties, derelict is a strong and formal term suggesting serious neglect or abandonment of responsibility. It is stronger than remiss. With buildings, ships, or land, it means abandoned and often in a state of decay."
+  },
+  "minimal": {
+    "ja": [
+      "careless：一般的に不注意な。",
+      "negligent：当然払うべき注意を怠っている。法律上の過失にも使う。",
+      "remiss：果たすべき義務・責任を十分に果たしていない。",
+      "derelict：義務を重大に怠る・事実上放棄する。また、建物などが放棄され荒廃した。",
+      "abandoned：単純に捨てられた・放棄された。",
+      "dilapidated：手入れされず老朽化・荒廃している。放棄されているとは限らない。"
+    ],
+    "en": [
+      "careless is the general word for insufficient attention.",
+      "negligent implies failure to exercise proper or required care.",
+      "remiss means failing to fulfill a duty adequately.",
+      "derelict suggests serious neglect or abandonment of duty, and can also describe abandoned property.",
+      "abandoned simply means left or deserted.",
+      "dilapidated means in a state of serious disrepair, without necessarily being abandoned."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 derelictus『見捨てられた、放棄された』に由来し、これは derelinquere『完全に見捨てる、放棄する』の過去分詞。de-（完全に、離れて）+ relinquere（残して去る）から成る。relinquere は英語 relinquish とも同系統である。『見捨てられた』という物理的意味から、『義務を放棄した、重大に怠慢な』という意味にも発展した。",
+    "en": "From Latin derelictus ('abandoned, forsaken'), the past participle of derelinquere ('to abandon completely'), from de- plus relinquere ('to leave behind'). It is related to relinquish. The idea of physical abandonment developed into the figurative sense of abandoning one's duty."
+  },
+  "synonyms": [
+    {
+      "word": "remiss",
+      "note": {
+        "ja": "義務を十分に果たしていないという意味だが、derelict より程度が弱い。",
+        "en": "Suggests failure to perform a duty adequately but is generally weaker than derelict."
+      }
+    },
+    {
+      "word": "negligent",
+      "note": {
+        "ja": "必要な注意を怠ったことを強調し、法律上の過失にも用いられる。",
+        "en": "Emphasizes failure to exercise required care and is important in legal contexts."
+      }
+    },
+    {
+      "word": "abandoned",
+      "note": {
+        "ja": "建物・車両・船などが単純に放棄されていることを表す。",
+        "en": "Describes something that has simply been left behind or deserted."
+      }
+    },
+    {
+      "word": "dilapidated",
+      "note": {
+        "ja": "建物などが老朽化してボロボロになっていることを強調する。",
+        "en": "Emphasizes a ruined or badly deteriorated physical condition."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "pflichtvergessen / verwahrlost",
+    "it": "inadempiente / abbandonato",
+    "fr": "négligent / à l'abandon",
+    "es": "negligente / abandonado"
+  },
+  "collocations": {
+    "ja": [
+      "derelict building — 放棄され荒廃した建物",
+      "derelict house — 廃屋",
+      "derelict factory — 廃工場",
+      "derelict ship — 遺棄船",
+      "derelict land — 放棄され荒廃した土地",
+      "be derelict in one's duty — 職務を重大に怠る",
+      "dereliction of duty — 職務怠慢、職務放棄"
+    ],
+    "en": [
+      "derelict building",
+      "derelict house",
+      "derelict factory",
+      "derelict ship",
+      "derelict land",
+      "be derelict in one's duty",
+      "dereliction of duty"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The old factory has stood derelict for more than twenty years. — その古い工場は20年以上にわたって放棄され荒廃したままになっている。",
+      "The city plans to redevelop several derelict buildings near the station. — 市は駅周辺の複数の廃墟化した建物を再開発する予定だ。",
+      "The officer was accused of being derelict in his duty. — その職員は職務を重大に怠ったとして非難された。",
+      "The investigation found evidence of a serious dereliction of duty. — 調査によって重大な職務怠慢を示す証拠が見つかった。"
+    ],
+    "en": [
+      "The old factory has stood derelict for more than twenty years.",
+      "The city plans to redevelop several derelict buildings near the station.",
+      "The officer was accused of being derelict in his duty.",
+      "The investigation found evidence of a serious dereliction of duty."
+    ]
+  }
+},
+{
+  "id": "dilapidated",
+  "sid": "2026-00074",
+  "word": "dilapidated",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "description",
+    "buildings",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈlæpɪdeɪtɪd/",
+      "uk": "/dɪˈlæpɪdeɪtɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（建物などが）老朽化してボロボロの",
+      "荒れ果てた、ひどく傷んだ",
+      "長年の放置や手入れ不足で朽ちかけた"
+    ],
+    "en": [
+      "in a state of serious disrepair",
+      "old and badly damaged because of neglect",
+      "run-down and in need of extensive repair"
+    ]
+  },
+  "nuance": {
+    "ja": "主に建物・家屋・施設などについて、長年の使用、放置、手入れ不足によって物理的にひどく傷んでいる状態を表す。derelict が『放棄され、使われていない』ことを強調するのに対し、dilapidated は『ボロボロになっている状態』そのものに焦点がある。そのため、人が現在も住んでいる dilapidated house もあり得る。",
+    "en": "Dilapidated describes something, especially a building, that has fallen into serious disrepair through age or neglect. Unlike derelict, which emphasizes abandonment, dilapidated focuses on poor physical condition. A building can therefore be dilapidated while still occupied or in use."
+  },
+  "minimal": {
+    "ja": [
+      "dilapidated：長年の放置・老朽化でボロボロになっている。",
+      "derelict：放棄されている。結果として荒廃していることも多い。",
+      "run-down：手入れ不足で古びている。より日常的で程度も広い。",
+      "decrepit：老朽化してガタが来ている。建物・機械・人にも使える。",
+      "ramshackle：今にも崩れそうなほど作りがガタガタ。",
+      "ruined：破壊・荒廃して、ほぼ使用不能になっている。"
+    ],
+    "en": [
+      "dilapidated means badly deteriorated through age or neglect.",
+      "derelict emphasizes abandonment rather than physical condition itself.",
+      "run-down is a more everyday term for something poorly maintained.",
+      "decrepit suggests severe deterioration through age and can also describe people.",
+      "ramshackle suggests a loosely constructed or nearly collapsing structure.",
+      "ruined suggests extensive destruction or decay."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 dilapidare に由来する。これは dis-（ばらばらに）と lapis / lapid-（石）から成り、文字どおりには『石をばらまく、石造物を崩す』という意味だった。そこから『建物を荒廃させる、資産を浪費する』という意味を経て、英語 dilapidated は『老朽化してボロボロになった』を意味するようになった。lapidary（宝石・石の加工に関する）とも lapis という語根を共有する。",
+    "en": "From Latin dilapidare, formed from dis- and lapis, lapid- ('stone'). It originally conveyed the idea of scattering stones or causing a structure to fall apart, and later developed the sense of allowing property to fall into disrepair."
+  },
+  "synonyms": [
+    {
+      "word": "run-down",
+      "note": {
+        "ja": "手入れされず古びていることを表す、より一般的・口語的な語。",
+        "en": "A more common and informal term for something poorly maintained and in bad condition."
+      }
+    },
+    {
+      "word": "decrepit",
+      "note": {
+        "ja": "長い年月による衰弱・老朽化を強調する。建物だけでなく人にも使える。",
+        "en": "Emphasizes deterioration through age and can describe buildings, machines, or people."
+      }
+    },
+    {
+      "word": "ramshackle",
+      "note": {
+        "ja": "構造そのものがガタガタで、崩れそうな印象を強く与える。",
+        "en": "Suggests a loosely built, unstable, or nearly collapsing structure."
+      }
+    },
+    {
+      "word": "derelict",
+      "note": {
+        "ja": "物理的な傷みよりも、放棄され管理されていない状態を強調する。",
+        "en": "Emphasizes abandonment and neglect rather than deterioration itself."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "baufällig / heruntergekommen",
+    "it": "fatiscente",
+    "fr": "délabré",
+    "es": "dilapidado / ruinoso"
+  },
+  "collocations": {
+    "ja": [
+      "a dilapidated building — 老朽化してボロボロの建物",
+      "a dilapidated house — 荒れ果てた家",
+      "a dilapidated apartment block — 老朽化した集合住宅",
+      "a dilapidated factory — 荒廃した工場",
+      "a dilapidated structure — 老朽化した構造物",
+      "a dilapidated old hotel — ボロボロになった古いホテル",
+      "become dilapidated — 老朽化して荒廃する"
+    ],
+    "en": [
+      "a dilapidated building",
+      "a dilapidated house",
+      "a dilapidated apartment block",
+      "a dilapidated factory",
+      "a dilapidated structure",
+      "a dilapidated old hotel",
+      "become dilapidated"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The family lived in a dilapidated house on the edge of town. — その一家は町外れの老朽化してボロボロの家に住んでいた。",
+      "The city plans to renovate several dilapidated buildings in the historic district. — 市は歴史地区にある複数の老朽建築を改修する予定だ。",
+      "Years of neglect had left the hotel badly dilapidated. — 長年の放置によって、そのホテルはひどく荒廃していた。",
+      "Despite its dilapidated appearance, the building was still occupied. — ボロボロの外観にもかかわらず、その建物にはまだ人が住んでいた。"
+    ],
+    "en": [
+      "The family lived in a dilapidated house on the edge of town.",
+      "The city plans to renovate several dilapidated buildings in the historic district.",
+      "Years of neglect had left the hotel badly dilapidated.",
+      "Despite its dilapidated appearance, the building was still occupied."
+    ]
+  }
+},
+{
+  "id": "decrepit",
+  "sid": "2026-00075",
+  "word": "decrepit",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "description",
+    "age",
+    "physical",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈkrepɪt/",
+      "uk": "/dɪˈkrepɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "老朽化してガタが来た",
+      "老齢でひどく衰弱した",
+      "古びて機能が低下した"
+    ],
+    "en": [
+      "old and in very poor condition",
+      "physically weak because of old age",
+      "worn out or seriously deteriorated through age or long use"
+    ]
+  },
+  "nuance": {
+    "ja": "『長い年月によって衰え、もはや十分な強さ・機能を保っていない』ことを表す。建物・機械・車両などにも人にも使える。人に対して使うと『老いぼれた、よぼよぼの』に近い強い否定的表現になり得るため注意が必要。dilapidated が主に建物などの物理的な荒廃を表すのに対し、decrepit は『老齢・老朽化そのものによる衰弱』に重点がある。",
+    "en": "Decrepit suggests severe weakness or deterioration caused by age or long use. It can describe buildings, machines, vehicles, systems, and people. When applied to a person, it can sound harsh or disrespectful because it strongly emphasizes physical decline in old age."
+  },
+  "minimal": {
+    "ja": [
+      "dilapidated：放置・手入れ不足などで建物がボロボロになっている。",
+      "decrepit：老齢・老朽化によって衰え、ガタが来ている。人にも物にも使える。",
+      "derelict：放棄されている。建物などでは荒廃を伴うことが多い。",
+      "run-down：手入れ不足で古びている。より日常的。",
+      "ramshackle：構造がガタガタで今にも崩れそう。",
+      "frail：特に人が身体的に弱く、傷つきやすそう。"
+    ],
+    "en": [
+      "dilapidated emphasizes serious physical disrepair, especially in buildings.",
+      "decrepit suggests deterioration or weakness through age or long use.",
+      "derelict emphasizes abandonment.",
+      "run-down is a more everyday term for something poorly maintained.",
+      "ramshackle suggests a loose, unstable, or nearly collapsing structure.",
+      "frail emphasizes physical weakness and vulnerability, especially in people."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 decrepitus『老衰した、老いぼれた』に由来する。そのさらに古い語源は完全には確定していないが、crepare『音を立てる、きしむ、割れる』との関連が伝統的に指摘されてきた。英語ではもともと老齢で衰弱した人を表し、のちに建物・機械などの老朽化にも意味が広がった。",
+    "en": "From Latin decrepitus ('worn out by age, very old'). Its deeper origin is uncertain, though it has traditionally been associated with crepare ('to crack, creak, or make a noise'). In English, it came to describe both people weakened by age and things badly deteriorated through long use."
+  },
+  "synonyms": [
+    {
+      "word": "dilapidated",
+      "note": {
+        "ja": "主に建物について、手入れ不足などによるひどい荒廃を表す。",
+        "en": "Especially describes buildings in serious disrepair, often through neglect."
+      }
+    },
+    {
+      "word": "run-down",
+      "note": {
+        "ja": "古びて手入れされていない状態を表す、より口語的な語。",
+        "en": "A more informal term for something old and poorly maintained."
+      }
+    },
+    {
+      "word": "frail",
+      "note": {
+        "ja": "人の身体的な弱さ・脆弱さを強調し、必ずしも老齢を意味しない。",
+        "en": "Emphasizes physical weakness and vulnerability without necessarily implying old age."
+      }
+    },
+    {
+      "word": "ramshackle",
+      "note": {
+        "ja": "建物・構造物などがガタガタで不安定なことを強調する。",
+        "en": "Emphasizes loose, unstable, or badly constructed physical structure."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "altersschwach / baufällig",
+    "it": "decrepito / fatiscente",
+    "fr": "décrépit",
+    "es": "decrépito"
+  },
+  "collocations": {
+    "ja": [
+      "a decrepit old man — よぼよぼの老人",
+      "a decrepit building — 老朽化してガタが来た建物",
+      "a decrepit house — 老朽化した家",
+      "a decrepit car — ガタの来た古い車",
+      "decrepit machinery — 老朽化した機械",
+      "a decrepit infrastructure — 老朽化したインフラ",
+      "old and decrepit — 老いて衰弱した／古びてガタが来た"
+    ],
+    "en": [
+      "a decrepit old man",
+      "a decrepit building",
+      "a decrepit house",
+      "a decrepit car",
+      "decrepit machinery",
+      "decrepit infrastructure",
+      "old and decrepit"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The factory still relies on decrepit machinery installed decades ago. — その工場はいまだに数十年前に設置された老朽機械に頼っている。",
+      "They crossed the river on a decrepit old bridge. — 彼らは老朽化してガタの来た古い橋を渡った。",
+      "The country's decrepit infrastructure requires massive investment. — その国の老朽化したインフラには巨額の投資が必要である。",
+      "The once powerful king was now old and decrepit. — かつて強大だった王も、今や老いてひどく衰弱していた。"
+    ],
+    "en": [
+      "The factory still relies on decrepit machinery installed decades ago.",
+      "They crossed the river on a decrepit old bridge.",
+      "The country's decrepit infrastructure requires massive investment.",
+      "The once powerful king was now old and decrepit."
+    ]
+  }
+},
+{
+  "id": "ramshackle",
+  "sid": "2026-00076",
+  "word": "ramshackle",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "description",
+    "buildings",
+    "informal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈræmˌʃækəl/",
+      "uk": "/ˈræmʃækəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（建物などが）ガタガタの、今にも崩れそうな",
+      "粗末な作りの、ぼろぼろの",
+      "（組織・制度などが）寄せ集めで頼りない"
+    ],
+    "en": [
+      "in a badly built or badly maintained condition",
+      "loosely constructed and likely to fall apart",
+      "poorly organized or held together"
+    ]
+  },
+  "nuance": {
+    "ja": "建物・小屋・家具・乗り物などについて、各部分がしっかり固定されておらず『ガタガタで今にも壊れそう』な印象を表す。dilapidated が長年の放置などによる荒廃、decrepit が老朽化による衰えを強調するのに対し、ramshackle は構造そのものの不安定さ・頼りなさが中心。比喩的に組織・制度・計画などの『寄せ集めでまとまりのない状態』にも使われる。",
+    "en": "Ramshackle suggests that something is loosely constructed, poorly maintained, or barely holding together. Unlike dilapidated, which emphasizes disrepair, or decrepit, which emphasizes deterioration through age, ramshackle focuses on structural instability and makeshift quality. It can also figuratively describe poorly organized systems or organizations."
+  },
+  "minimal": {
+    "ja": [
+      "ramshackle：構造がガタガタで、今にも壊れそう。",
+      "dilapidated：放置・手入れ不足などでボロボロに荒廃している。",
+      "decrepit：老齢・老朽化によって衰え、ガタが来ている。",
+      "derelict：放棄されている。荒廃していることも多い。",
+      "flimsy：薄っぺらい・作りが弱く、簡単に壊れそう。",
+      "rickety：接合部などがぐらぐらして不安定。椅子・階段などにもよく使う。"
+    ],
+    "en": [
+      "ramshackle suggests a badly constructed or poorly maintained structure barely holding together.",
+      "dilapidated emphasizes serious disrepair through neglect.",
+      "decrepit emphasizes deterioration through age or long use.",
+      "derelict emphasizes abandonment.",
+      "flimsy suggests thin or insubstantial construction.",
+      "rickety emphasizes wobbliness and physical instability."
+    ]
+  },
+  "etymology": {
+    "ja": "18世紀に現れた語で、より古い ransackled / ramshackled などの形から発達したと考えられている。これは ransack（徹底的に探し回る、荒らす）と関連し、もともと『乱雑な、荒らされた状態』を表したものが、やがて『ガタガタの、崩れそうな』という現在の意味になった。現代の語形から ram + shackle と分解したくなるが、この分析は語源的には正しくない。",
+    "en": "Recorded from the 18th century and apparently developed from earlier forms such as ransackled or ramshackled, related to ransack. The sense developed from disorder or ruin to the modern meaning of something loosely built or nearly falling apart. Despite its modern appearance, it is not historically a simple compound of ram and shackle."
+  },
+  "synonyms": [
+    {
+      "word": "rickety",
+      "note": {
+        "ja": "椅子・階段・橋などがぐらぐらして物理的に不安定なことを強調する。",
+        "en": "Emphasizes wobbliness and physical instability, especially in furniture or structures."
+      }
+    },
+    {
+      "word": "dilapidated",
+      "note": {
+        "ja": "建物などが長年の放置や手入れ不足でひどく傷んでいることを強調する。",
+        "en": "Emphasizes serious deterioration through age or neglect."
+      }
+    },
+    {
+      "word": "decrepit",
+      "note": {
+        "ja": "長年の使用・老朽化によって機能や強度が衰えていることを表す。",
+        "en": "Suggests deterioration and weakness caused by age or long use."
+      }
+    },
+    {
+      "word": "flimsy",
+      "note": {
+        "ja": "材料や作りが薄く弱いことを強調し、必ずしも古いとは限らない。",
+        "en": "Emphasizes thin or insubstantial construction and does not necessarily imply age."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "baufällig / klapprig",
+    "it": "traballante / cadente",
+    "fr": "branlant / délabré",
+    "es": "destartalado / desvencijado"
+  },
+  "collocations": {
+    "ja": [
+      "a ramshackle house — ガタガタの家",
+      "a ramshackle hut — 今にも崩れそうな粗末な小屋",
+      "a ramshackle building — ガタガタの建物",
+      "a ramshackle wooden structure — ガタガタの木造構造物",
+      "a ramshackle old bus — ガタの来たぼろバス",
+      "a ramshackle collection of buildings — 雑然と寄せ集められた建物群",
+      "a ramshackle organization — 寄せ集めでまとまりのない組織"
+    ],
+    "en": [
+      "a ramshackle house",
+      "a ramshackle hut",
+      "a ramshackle building",
+      "a ramshackle wooden structure",
+      "a ramshackle old bus",
+      "a ramshackle collection of buildings",
+      "a ramshackle organization"
+    ]
+  },
+  "example": {
+    "ja": [
+      "They spent the night in a ramshackle hut near the river. — 彼らは川の近くにある今にも崩れそうな小屋で一夜を過ごした。",
+      "The village consisted of a few ramshackle wooden houses. — その村にはガタガタの木造家屋が数軒あるだけだった。",
+      "He drove away in a ramshackle old truck that looked ready to fall apart. — 彼は今にも分解しそうなガタの来た古いトラックで走り去った。",
+      "The movement began as a ramshackle coalition of several small groups. — その運動は、いくつかの小集団による寄せ集めの連合として始まった。"
+    ],
+    "en": [
+      "They spent the night in a ramshackle hut near the river.",
+      "The village consisted of a few ramshackle wooden houses.",
+      "He drove away in a ramshackle old truck that looked ready to fall apart.",
+      "The movement began as a ramshackle coalition of several small groups."
+    ]
+  }
+},
+{
+  "id": "rickety",
+  "sid": "2026-00077",
+  "word": "rickety",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "description",
+    "physical",
+    "buildings"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈrɪkəti/",
+      "uk": "/ˈrɪkəti/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ぐらぐらする、がたつく",
+      "壊れそうな、不安定な",
+      "（制度・経済などが）基盤の弱い、不安定な"
+    ],
+    "en": [
+      "weak and likely to break or collapse",
+      "shaky or unstable because of poor condition",
+      "figuratively, unstable or poorly supported"
+    ]
+  },
+  "nuance": {
+    "ja": "物理的に『ぐらぐら・ガタガタしていて、体重や力をかけると壊れそう』という感覚が中心。椅子、テーブル、階段、橋、はしご、古い車両などに特によく使われる。ramshackle が建物などの全体的な粗末さ・ガタガタした構造を描写するのに対し、rickety は実際の不安定さ・ぐらつきを強く感じさせる。比喩的に制度・経済・議論などの不安定な基盤についても使われる。",
+    "en": "Rickety strongly suggests physical shakiness or instability, as if something might collapse or break when weight or pressure is applied. It is especially common with chairs, stairs, bridges, ladders, and old vehicles. Unlike ramshackle, which describes an overall badly constructed or dilapidated appearance, rickety focuses on wobbliness and structural instability."
+  },
+  "minimal": {
+    "ja": [
+      "rickety：ぐらぐら・ガタガタしていて壊れそう。",
+      "ramshackle：全体の作りが粗末でガタガタ、今にも崩れそう。",
+      "flimsy：薄い・華奢で、強度が足りない。",
+      "dilapidated：放置・老朽化でボロボロになっている。",
+      "decrepit：長年の使用・老朽化でガタが来ている。",
+      "wobbly：ぐらぐらする。最も日常的で、必ずしも古い・壊れかけとは限らない。"
+    ],
+    "en": [
+      "rickety suggests something shaky, unstable, and likely to break.",
+      "ramshackle suggests an entire structure that is poorly built or barely holding together.",
+      "flimsy suggests thin or insubstantial construction.",
+      "dilapidated emphasizes serious disrepair through neglect.",
+      "decrepit emphasizes deterioration through age or long use.",
+      "wobbly simply means unsteady and is more everyday and neutral."
+    ]
+  },
+  "etymology": {
+    "ja": "18世紀後半に現れた語で、もともとは rickets（くる病）に由来する。くる病によって骨が弱く、脚などが不安定になる状態から rickety が『くる病にかかった、虚弱な』を意味し、やがて家具・建物などについて『ぐらぐらする、壊れそうな』という意味へ広がった。",
+    "en": "Formed in the late 18th century from rickets, the disease that can cause weak or deformed bones. Rickety originally meant affected by rickets or physically weak, and later developed the common sense of something shaky, unstable, or likely to collapse."
+  },
+  "synonyms": [
+    {
+      "word": "wobbly",
+      "note": {
+        "ja": "単純にぐらぐらして安定しないことを表す日常語。rickety ほど老朽化・破損の危険を含意しない。",
+        "en": "An everyday word for something unsteady, without necessarily suggesting age or serious deterioration."
+      }
+    },
+    {
+      "word": "ramshackle",
+      "note": {
+        "ja": "建物などの全体的な粗末さ・崩れそうな構造を強調する。",
+        "en": "Emphasizes the generally poor, loosely constructed state of a structure."
+      }
+    },
+    {
+      "word": "flimsy",
+      "note": {
+        "ja": "材料や作りが薄く、十分な強度がないことを強調する。",
+        "en": "Emphasizes thinness or lack of substantial construction."
+      }
+    },
+    {
+      "word": "unstable",
+      "note": {
+        "ja": "物理的・抽象的な不安定さを広く表す中立的な語。",
+        "en": "A broad and neutral term for physical or figurative instability."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "wackelig / klapprig",
+    "it": "traballante",
+    "fr": "branlant",
+    "es": "tambaleante / desvencijado"
+  },
+  "collocations": {
+    "ja": [
+      "a rickety chair — ぐらぐらする椅子",
+      "a rickety table — がたつくテーブル",
+      "a rickety staircase — ぐらぐらする階段",
+      "a rickety ladder — 壊れそうなはしご",
+      "a rickety bridge — 今にも壊れそうな橋",
+      "a rickety old bus — ガタガタの古いバス",
+      "a rickety wooden structure — 不安定な木造構造物"
+    ],
+    "en": [
+      "a rickety chair",
+      "a rickety table",
+      "a rickety staircase",
+      "a rickety ladder",
+      "a rickety bridge",
+      "a rickety old bus",
+      "a rickety wooden structure"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He climbed the rickety wooden ladder with great care. — 彼はぐらぐらする木製のはしごを慎重に登った。",
+      "We crossed the river on a rickety old bridge. — 私たちは今にも壊れそうな古い橋を渡った。",
+      "She sat down cautiously on the rickety chair. — 彼女はぐらつく椅子に慎重に腰を下ろした。",
+      "The country's banking system remained dangerously rickety. — その国の銀行制度は危険なほど不安定なままだった。"
+    ],
+    "en": [
+      "He climbed the rickety wooden ladder with great care.",
+      "We crossed the river on a rickety old bridge.",
+      "She sat down cautiously on the rickety chair.",
+      "The country's banking system remained dangerously rickety."
+    ]
+  }
+},
+{
+  "id": "wobbly",
+  "sid": "2026-00078",
+  "word": "wobbly",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "description",
+    "physical",
+    "informal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈwɑːbli/",
+      "uk": "/ˈwɒbli/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ぐらぐらする、がたつく",
+      "（人・足取りが）ふらふらする、不安定な",
+      "（声などが）震える",
+      "（状況・自信などが）不安定な、心もとない"
+    ],
+    "en": [
+      "unsteady and moving from side to side",
+      "shaky or unable to maintain balance",
+      "uncertain, unstable, or lacking confidence"
+    ]
+  },
+  "nuance": {
+    "ja": "中心イメージは『左右などに揺れて安定しない』こと。家具などの物理的ながたつきだけでなく、人の足取り、膝、声、さらには自信・経済・政治的立場などの不安定さにも使える日常的な語。rickety は古さ・傷みなどによって『壊れそうなほどガタガタ』という含みが強いのに対し、wobbly は原因を問わず単純に『安定していない、ぐらついている』ことを表す。",
+    "en": "Wobbly is an everyday word for something that moves unsteadily or lacks stability. It can describe furniture, a person's legs or movement, a trembling voice, or figuratively confidence, an economy, or a political position. Unlike rickety, it does not necessarily imply age, deterioration, or a risk of collapse."
+  },
+  "minimal": {
+    "ja": [
+      "wobbly：ぐらぐら・ふらふらして安定しない。最も日常的。",
+      "rickety：古さ・傷みなどでガタガタし、壊れそう。",
+      "ramshackle：建物など全体の作りが粗末でガタガタ。",
+      "shaky：震える・不安定。物理的にも抽象的にも広く使う。",
+      "unsteady：安定していない。より中立的。",
+      "flimsy：薄い・華奢で、強度そのものが足りない。"
+    ],
+    "en": [
+      "wobbly means unsteady or moving from side to side and is very everyday.",
+      "rickety suggests shakiness caused by age, damage, or poor condition.",
+      "ramshackle describes an entire structure that is badly built or barely holding together.",
+      "shaky describes trembling or instability in both literal and figurative senses.",
+      "unsteady is a neutral general term for lacking stability.",
+      "flimsy emphasizes thinness or insufficient structural strength."
+    ]
+  },
+  "etymology": {
+    "ja": "wobble + -y から成る。wobble は17世紀頃から確認される語で、『左右に揺れる、よろめく』を意味する。さらに古い起源は確定しておらず、動きの様子を模した擬態的な形成である可能性がある。そこから wobbly は『ぐらぐらする、不安定な』という意味になった。",
+    "en": "Formed from wobble + -y. Wobble has been used since around the 17th century for unsteady side-to-side movement. Its deeper origin is uncertain and may be imitative. Wobbly consequently came to mean physically or figuratively unstable."
+  },
+  "synonyms": [
+    {
+      "word": "rickety",
+      "note": {
+        "ja": "老朽化・傷みなどによってガタガタしていることを強調する。",
+        "en": "Suggests shakiness caused by age, deterioration, or poor construction."
+      }
+    },
+    {
+      "word": "shaky",
+      "note": {
+        "ja": "震え・不安定さを表し、計画・証拠・自信などにも非常によく使われる。",
+        "en": "Describes trembling or instability and is also widely used figuratively."
+      }
+    },
+    {
+      "word": "unsteady",
+      "note": {
+        "ja": "安定していないことを客観的・中立的に表す。",
+        "en": "A relatively neutral term for lacking stability or balance."
+      }
+    },
+    {
+      "word": "tottering",
+      "note": {
+        "ja": "人などが倒れそうによろよろ歩くことを強調する。",
+        "en": "Suggests staggering or swaying as if about to fall."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "wackelig",
+    "it": "traballante",
+    "fr": "bancal / chancelant",
+    "es": "tambaleante / inestable"
+  },
+  "collocations": {
+    "ja": [
+      "a wobbly chair — ぐらぐらする椅子",
+      "a wobbly table — がたつくテーブル",
+      "wobbly legs — ふらつく脚",
+      "feel wobbly — ふらふらする",
+      "a wobbly voice — 震える声",
+      "wobbly confidence — 揺らいだ自信",
+      "a wobbly economy — 不安定な経済"
+    ],
+    "en": [
+      "a wobbly chair",
+      "a wobbly table",
+      "wobbly legs",
+      "feel wobbly",
+      "a wobbly voice",
+      "wobbly confidence",
+      "a wobbly economy"
+    ]
+  },
+  "example": {
+    "ja": [
+      "One of the legs is loose, so the table is a little wobbly. — 脚の一本が緩んでいるので、そのテーブルは少しがたつく。",
+      "My legs felt wobbly after the long climb. — 長い登りのあと、脚がふらふらした。",
+      "Her voice was slightly wobbly as she began her speech. — スピーチを始めたとき、彼女の声は少し震えていた。",
+      "Investor confidence remains wobbly after weeks of uncertainty. — 数週間にわたる不透明な状況を受け、投資家心理は依然として不安定である。"
+    ],
+    "en": [
+      "One of the legs is loose, so the table is a little wobbly.",
+      "My legs felt wobbly after the long climb.",
+      "Her voice was slightly wobbly as she began her speech.",
+      "Investor confidence remains wobbly after weeks of uncertainty."
+    ]
+  }
+},
+{
+  "id": "shaky",
+  "sid": "2026-00079",
+  "word": "shaky",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "description",
+    "physical",
+    "abstract",
+    "informal"
+  ],
+  "grammar": {
+    "pos": "adj",
+    "comparison": "shakier – shakiest"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈʃeɪki/",
+      "uk": "/ˈʃeɪki/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "震える、ぐらぐらする",
+      "不安定な、危なっかしい",
+      "（証拠・議論などが）根拠の弱い、信頼性に乏しい",
+      "（経済・財政・関係などが）不安定な"
+    ],
+    "en": [
+      "trembling or physically unsteady",
+      "unstable or insecure",
+      "not firmly supported by evidence or reasoning",
+      "uncertain or unreliable"
+    ]
+  },
+  "nuance": {
+    "ja": "shake（揺れる）から直感的に理解できる語で、物理的な震え・不安定さから抽象的な『基盤がしっかりしていない』状態まで広く使われる。wobbly と重なるが、wobbly は物理的な『ぐらぐら・ふらふら』のイメージが強いのに対し、shaky は証拠・議論・財政・関係・自信などの抽象的な不安定さにも非常によく使われる。",
+    "en": "Shaky extends the physical idea of shaking to anything that lacks stability, security, or a firm foundation. It overlaps with wobbly, but is especially common figuratively with evidence, arguments, finances, relationships, confidence, and economic conditions."
+  },
+  "minimal": {
+    "ja": [
+      "shaky：安定性・信頼性・根拠が弱い。物理・抽象の両方に広く使う。",
+      "wobbly：ぐらぐら・ふらふらして安定しない。物理的イメージが強い。",
+      "rickety：老朽化・傷みでガタガタして壊れそう。",
+      "unstable：不安定であることを表す最も中立的な語。",
+      "flimsy：物なら薄くて弱い。議論・口実なら根拠が薄弱。",
+      "tenuous：関係・根拠・つながりなどが細く弱く、心もとない。"
+    ],
+    "en": [
+      "shaky means unstable, uncertain, or poorly supported, literally or figuratively.",
+      "wobbly emphasizes physical unsteadiness or wavering.",
+      "rickety suggests instability caused by age or deterioration.",
+      "unstable is the neutral general term for lacking stability.",
+      "flimsy means physically insubstantial or figuratively unconvincing.",
+      "tenuous suggests a weak, slight, or poorly supported connection or basis."
+    ]
+  },
+  "etymology": {
+    "ja": "shake + -y から成る。shake は古英語 sceacan『揺れる、振る』に由来する古いゲルマン系の語。shaky は18世紀頃から『震える、ぐらつく』の意味で使われ、そこから『不安定な』『信頼性の低い』という抽象的意味へ広がった。",
+    "en": "Formed from shake + -y. Shake comes from Old English sceacan, meaning 'to shake or move rapidly.' Shaky developed from the literal sense of trembling or unsteadiness to figurative meanings involving uncertainty, instability, and weak support."
+  },
+  "synonyms": [
+    {
+      "word": "wobbly",
+      "note": {
+        "ja": "左右にぐらつく、ふらつくという物理的な動きのイメージがより強い。",
+        "en": "More strongly evokes physical wobbling or side-to-side instability."
+      }
+    },
+    {
+      "word": "unstable",
+      "note": {
+        "ja": "物理・経済・政治・心理など幅広い不安定さを表す中立的な語。",
+        "en": "A broad and neutral word for physical or abstract instability."
+      }
+    },
+    {
+      "word": "flimsy",
+      "note": {
+        "ja": "物理的には薄く弱い。比喩的には証拠・議論・口実などが薄弱で説得力に欠ける。",
+        "en": "Literally means insubstantial; figuratively describes weak evidence, arguments, or excuses."
+      }
+    },
+    {
+      "word": "tenuous",
+      "note": {
+        "ja": "根拠・関連性・つながりなどがかすかで弱いことを表す、より硬い語。",
+        "en": "A more formal word for a weak or slight connection, basis, or claim."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "wackelig / unsicher",
+    "it": "traballante / incerto",
+    "fr": "chancelant / fragile",
+    "es": "inestable / poco sólido"
+  },
+  "collocations": {
+    "ja": [
+      "shaky hands — 震える手",
+      "shaky legs — ふらつく脚",
+      "a shaky voice — 震える声",
+      "shaky evidence — 信頼性の乏しい証拠",
+      "a shaky argument — 根拠の弱い議論",
+      "shaky finances — 不安定な財政状態",
+      "a shaky relationship — 不安定な関係",
+      "a shaky economy — 不安定な経済",
+      "on shaky ground — 根拠・立場が危うくて"
+    ],
+    "en": [
+      "shaky hands",
+      "shaky legs",
+      "a shaky voice",
+      "shaky evidence",
+      "a shaky argument",
+      "shaky finances",
+      "a shaky relationship",
+      "a shaky economy",
+      "on shaky ground"
+    ]
+  },
+  "example": {
+    "ja": [
+      "His hands were still shaky after the accident. — 事故のあとも彼の手はまだ震えていた。",
+      "The prosecution's case rests on rather shaky evidence. — 検察側の主張はかなり信頼性の乏しい証拠に依拠している。",
+      "The company is in a shaky financial position. — その会社の財務状況は不安定である。",
+      "Their argument is based on some shaky assumptions. — 彼らの議論はいくつかの心もとない前提に基づいている。",
+      "Without independent evidence, the claim is on shaky ground. — 独立した証拠がなければ、その主張の根拠は危うい。"
+    ],
+    "en": [
+      "His hands were still shaky after the accident.",
+      "The prosecution's case rests on rather shaky evidence.",
+      "The company is in a shaky financial position.",
+      "Their argument is based on some shaky assumptions.",
+      "Without independent evidence, the claim is on shaky ground."
+    ]
+  }
+},
+{
+  "id": "tenuous",
+  "sid": "2026-00080",
+  "word": "tenuous",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "academic",
+    "abstract"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈtenjuəs/",
+      "uk": "/ˈtenjuəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（関係・つながりなどが）希薄な、弱い",
+      "（根拠・主張などが）薄弱な、心もとない",
+      "かろうじて成り立っている、危うい"
+    ],
+    "en": [
+      "very weak or slight",
+      "not strongly supported or established",
+      "having only a slight or indirect connection"
+    ]
+  },
+  "nuance": {
+    "ja": "もともとの『薄い・細い』というイメージから、関係・つながり・根拠・主張・可能性などが『細く、弱く、かろうじて存在している』ことを表す。単に悪いというより、何かとの結び付きや支えが非常に弱いという感覚が重要。shaky が『不安定で崩れそう』という動的なイメージを持つのに対し、tenuous は『そもそも結び付きや根拠が細い』ことに焦点がある。",
+    "en": "Tenuous suggests that a connection, basis, argument, or possibility is so slight or weak that it barely holds. Unlike shaky, which emphasizes instability, tenuous emphasizes thinness, weakness, or remoteness of connection."
+  },
+  "minimal": {
+    "ja": [
+      "tenuous：つながり・根拠などが細く弱く、かろうじて成り立つ。",
+      "shaky：基盤が不安定で、崩れそう・信頼性が低い。",
+      "flimsy：内容が薄っぺらく、説得力に欠ける。",
+      "weak：単純に弱い。最も一般的。",
+      "remote：関連性・可能性などが非常に遠い、わずかな。",
+      "precarious：状況・立場などが危うく、いつ崩れてもおかしくない。"
+    ],
+    "en": [
+      "tenuous suggests a very weak, slight, or indirect connection or basis.",
+      "shaky suggests instability or unreliable support.",
+      "flimsy suggests something insubstantial or unconvincing.",
+      "weak is the broad general term.",
+      "remote suggests a distant connection or very small possibility.",
+      "precarious describes a dangerously unstable or insecure situation."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 tenuis『薄い、細い、希薄な』に由来する。もともと物理的な『薄さ・細さ』を表した語が、英語では関係・根拠・主張などの『弱さ・希薄さ』を表す抽象的意味へ発展した。tenuous の tenu- は attenuate（弱める、薄める）や extenuate（罪・過失などを軽く見せる）にも見られる。",
+    "en": "From Latin tenuis ('thin, fine, slight'). The physical idea of thinness developed into the figurative sense of a weak or slight connection, basis, or argument. The same Latin root is related to words such as attenuate and extenuate."
+  },
+  "synonyms": [
+    {
+      "word": "shaky",
+      "note": {
+        "ja": "根拠・議論などが不安定で信頼できないことを強調する。",
+        "en": "Emphasizes instability or unreliable support."
+      }
+    },
+    {
+      "word": "flimsy",
+      "note": {
+        "ja": "証拠・口実・議論などが薄っぺらく、説得力に欠けることを強調する。",
+        "en": "Suggests that evidence, an excuse, or an argument is insubstantial and unconvincing."
+      }
+    },
+    {
+      "word": "slight",
+      "note": {
+        "ja": "程度がわずかであることを表す一般的な語。",
+        "en": "A general word meaning small or weak in degree."
+      }
+    },
+    {
+      "word": "precarious",
+      "note": {
+        "ja": "関係そのものの弱さより、状況が危険で不安定なことを強調する。",
+        "en": "Emphasizes dangerous instability rather than a weak connection itself."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schwach / lose / dürftig",
+    "it": "tenue / labile",
+    "fr": "ténu / fragile",
+    "es": "tenue / débil"
+  },
+  "collocations": {
+    "ja": [
+      "a tenuous connection — 希薄なつながり",
+      "a tenuous link — 弱い関連性",
+      "tenuous evidence — 薄弱な証拠",
+      "a tenuous claim — 根拠の薄い主張",
+      "a tenuous argument — 薄弱な議論",
+      "a tenuous relationship — 希薄な関係",
+      "a tenuous hold on power — 危うい権力基盤",
+      "a tenuous grasp of reality — 現実認識が危うい状態"
+    ],
+    "en": [
+      "a tenuous connection",
+      "a tenuous link",
+      "tenuous evidence",
+      "a tenuous claim",
+      "a tenuous argument",
+      "a tenuous relationship",
+      "a tenuous hold on power",
+      "a tenuous grasp of reality"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The connection between the two events is tenuous at best. — その二つの出来事の関連性は、よく言っても希薄である。",
+      "The prosecution relied on rather tenuous evidence. — 検察側はかなり薄弱な証拠に依拠していた。",
+      "There is only a tenuous link between the data and the conclusion. — そのデータと結論の間には、ごく弱い関連性しかない。",
+      "The government maintained a tenuous hold on power. — 政府はかろうじて権力を維持していた。",
+      "His claim to ownership rests on a tenuous legal argument. — 彼の所有権の主張は、薄弱な法的議論に基づいている。"
+    ],
+    "en": [
+      "The connection between the two events is tenuous at best.",
+      "The prosecution relied on rather tenuous evidence.",
+      "There is only a tenuous link between the data and the conclusion.",
+      "The government maintained a tenuous hold on power.",
+      "His claim to ownership rests on a tenuous legal argument."
+    ]
+  }
+},
+{
+  "id": "precarious",
+  "sid": "2026-00081",
+  "word": "precarious",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "abstract",
+    "risk"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prɪˈkeriəs/",
+      "uk": "/prɪˈkeəriəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "不安定な、危うい",
+      "いつ悪化・崩壊してもおかしくない",
+      "安全・成功・存続が保証されていない"
+    ],
+    "en": [
+      "not securely held or established",
+      "dangerously unstable or uncertain",
+      "dependent on circumstances that may suddenly change"
+    ]
+  },
+  "nuance": {
+    "ja": "単に uncertain（不確実）なのではなく、『安定した支えを欠いており、状況が悪い方向へ崩れる現実的な危険がある』ことを表す。仕事、財政、生活、健康状態、政治的立場、物理的な足場など幅広く使われる。tenuous が関係・根拠などの『細さ・弱さ』を強調するのに対し、precarious は状況全体の『危うさ・不安定さ』に焦点がある。",
+    "en": "Precarious describes a situation that lacks security or stability and could easily deteriorate or collapse. It implies more than mere uncertainty: there is a genuine risk of something going wrong. Unlike tenuous, which emphasizes weakness or slightness of a connection or basis, precarious emphasizes the dangerous instability of the situation itself."
+  },
+  "minimal": {
+    "ja": [
+      "precarious：状況・立場などが危うく、いつ崩れてもおかしくない。",
+      "tenuous：つながり・根拠などが細く弱く、かろうじて成り立つ。",
+      "shaky：基盤・信頼性などが不安定。より日常的。",
+      "unstable：単に安定していない。最も中立的。",
+      "uncertain：結果や将来が分からない。不安定とは限らない。",
+      "perilous：非常に危険な。危険そのものを強調する。"
+    ],
+    "en": [
+      "precarious describes something dangerously insecure or unstable.",
+      "tenuous emphasizes a weak or slight connection or basis.",
+      "shaky suggests instability or unreliable support and is more informal.",
+      "unstable is the neutral general term for lacking stability.",
+      "uncertain means not known or predictable, without necessarily implying danger.",
+      "perilous emphasizes serious danger rather than instability."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 precarius『願いによって得られた、他人の好意次第の、不確かな』に由来する。これは precari『願う、懇願する、祈る』から派生し、prayer や pray と同系統。もともとは『所有権などが保証されず、相手の好意によってのみ認められている』状態を表し、そこから『保証がなく不安定な、危うい』という現在の意味へ発展した。",
+    "en": "From Latin precarius ('obtained by entreaty, dependent on another's favor'), from precari ('to ask, entreat, pray'). It is related to pray and prayer. The original idea of something held only at another person's pleasure developed into the modern sense of insecure, uncertain, or dangerously unstable."
+  },
+  "synonyms": [
+    {
+      "word": "unstable",
+      "note": {
+        "ja": "不安定であることを広く客観的に表す。precarious ほど危険性を強調しない。",
+        "en": "A broad neutral term for lacking stability, without necessarily implying the same degree of danger."
+      }
+    },
+    {
+      "word": "shaky",
+      "note": {
+        "ja": "物理的・抽象的な不安定さを表す、より口語的な語。",
+        "en": "A more informal word for physical or figurative instability."
+      }
+    },
+    {
+      "word": "tenuous",
+      "note": {
+        "ja": "関係・根拠・支えなどが細く弱いことに重点がある。",
+        "en": "Emphasizes a weak, slight, or poorly supported connection or basis."
+      }
+    },
+    {
+      "word": "perilous",
+      "note": {
+        "ja": "不安定さよりも重大な危険が存在することを強調する。",
+        "en": "Emphasizes serious danger rather than insecurity or instability."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "prekär",
+    "it": "precario",
+    "fr": "précaire",
+    "es": "precario"
+  },
+  "collocations": {
+    "ja": [
+      "a precarious situation — 危うい状況",
+      "a precarious position — 不安定な立場",
+      "a precarious balance — 危うい均衡",
+      "a precarious existence — 不安定な生活・存在",
+      "a precarious livelihood — 不安定な生計",
+      "precarious employment — 不安定雇用",
+      "a precarious financial situation — 危うい財政状況",
+      "precariously balanced — 危ういバランスで載っている"
+    ],
+    "en": [
+      "a precarious situation",
+      "a precarious position",
+      "a precarious balance",
+      "a precarious existence",
+      "a precarious livelihood",
+      "precarious employment",
+      "a precarious financial situation",
+      "precariously balanced"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company is in a precarious financial position. — その会社は危うい財務状況にある。",
+      "Thousands of workers depend on precarious forms of employment. — 何千人もの労働者が不安定な雇用形態に依存している。",
+      "The peace agreement created only a precarious balance between the two sides. — その和平協定によって生まれたのは、両者の間の危うい均衡にすぎなかった。",
+      "The climber stood in a precarious position on the narrow ledge. — 登山者は狭い岩棚の上で危うい体勢を取っていた。",
+      "The vase was precariously balanced on the edge of the table. — 花瓶はテーブルの端に今にも落ちそうな状態で載っていた。"
+    ],
+    "en": [
+      "The company is in a precarious financial position.",
+      "Thousands of workers depend on precarious forms of employment.",
+      "The peace agreement created only a precarious balance between the two sides.",
+      "The climber stood in a precarious position on the narrow ledge.",
+      "The vase was precariously balanced on the edge of the table."
+    ]
+  }
+},
+{
+  "id": "perilous",
+  "sid": "2026-00082",
+  "word": "perilous",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "literary",
+    "risk"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈperələs/",
+      "uk": "/ˈperələs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "非常に危険な",
+      "重大な危険を伴う",
+      "危険に満ちた"
+    ],
+    "en": [
+      "full of serious danger",
+      "involving a high risk of harm or disaster",
+      "dangerous in a serious or dramatic way"
+    ]
+  },
+  "nuance": {
+    "ja": "dangerous より硬く、文学的・劇的な響きを持つことが多い。生命・安全・国家・事業などに重大な危険が及ぶ状況について使われる。precarious が『不安定で、崩れたり悪化したりする可能性がある』ことを強調するのに対し、perilous は『実際に重大な危険が存在する』こと自体に焦点がある。",
+    "en": "Perilous is a more formal and often more dramatic word than dangerous. It emphasizes the presence of serious danger. Unlike precarious, which focuses on insecurity or instability, perilous focuses directly on the danger involved."
+  },
+  "minimal": {
+    "ja": [
+      "perilous：重大な危険を伴う。dangerous より硬く劇的。",
+      "dangerous：危険な。最も一般的。",
+      "precarious：不安定で、いつ崩れたり悪化したりしてもおかしくない。",
+      "hazardous：事故・健康被害など具体的な危険要因を伴う。技術・安全分野でも多い。",
+      "treacherous：一見分かりにくい危険が潜む。道路・海・地形などにも使う。",
+      "risky：悪い結果になる可能性がある。日常的。"
+    ],
+    "en": [
+      "perilous means involving serious danger and is more formal or dramatic than dangerous.",
+      "dangerous is the ordinary general term.",
+      "precarious emphasizes insecurity or dangerous instability.",
+      "hazardous often suggests identifiable risks to safety or health.",
+      "treacherous suggests hidden or deceptive danger.",
+      "risky emphasizes the possibility of an unfavorable outcome."
+    ]
+  },
+  "etymology": {
+    "ja": "peril + -ous から成る。peril は古フランス語 peril を経てラテン語 periculum『危険、試み、試練』に由来する。periculum は experience や experiment の遠い親戚にあたり、『試してみること』と『危険にさらされること』が歴史的に結び付いている。perilous は中英語期から『危険に満ちた』という意味で用いられている。",
+    "en": "From peril + -ous. Peril entered English through Old French peril, from Latin periculum ('danger, risk, trial'). Periculum belongs to an Indo-European word family also associated with trying or testing, ultimately related to words such as experience and experiment."
+  },
+  "synonyms": [
+    {
+      "word": "dangerous",
+      "note": {
+        "ja": "最も一般的な『危険な』。perilous の方が硬く、重大・劇的な危険を感じさせる。",
+        "en": "The general everyday word; perilous is more formal and often more dramatic."
+      }
+    },
+    {
+      "word": "hazardous",
+      "note": {
+        "ja": "健康・安全・作業環境など、具体的な危険要因が存在する場合によく使う。",
+        "en": "Often used for identifiable safety, health, environmental, or occupational risks."
+      }
+    },
+    {
+      "word": "treacherous",
+      "note": {
+        "ja": "危険が見えにくい、あるいは予測しにくいことを強調する。",
+        "en": "Suggests danger that is hidden, deceptive, or difficult to predict."
+      }
+    },
+    {
+      "word": "precarious",
+      "note": {
+        "ja": "危険そのものより、不安定で保証のない状態に重点がある。",
+        "en": "Focuses on insecurity and instability rather than danger itself."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gefährlich / gefahrvoll",
+    "it": "pericoloso",
+    "fr": "périlleux",
+    "es": "peligroso"
+  },
+  "collocations": {
+    "ja": [
+      "a perilous journey — 危険に満ちた旅",
+      "a perilous situation — 非常に危険な状況",
+      "a perilous path — 危険な道",
+      "a perilous voyage — 危険な航海",
+      "a perilous crossing — 危険な横断・渡航",
+      "a perilous descent — 危険な下降",
+      "a perilous undertaking — 危険を伴う企て",
+      "perilously close to — 危険なほど～に近く"
+    ],
+    "en": [
+      "a perilous journey",
+      "a perilous situation",
+      "a perilous path",
+      "a perilous voyage",
+      "a perilous crossing",
+      "a perilous descent",
+      "a perilous undertaking",
+      "perilously close to"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The refugees made a perilous journey across the mountains. — 難民たちは山岳地帯を越える危険な旅をした。",
+      "The climbers began the perilous descent before nightfall. — 登山者たちは日没前に危険な下山を開始した。",
+      "The company is entering a perilous period of financial uncertainty. — その会社は財務上の不確実性に満ちた危険な時期に入りつつある。",
+      "The negotiations came perilously close to collapse. — 交渉は危うく決裂するところまで追い込まれた。",
+      "Crossing the river during the flood would have been extremely perilous. — 洪水の最中に川を渡ることは極めて危険だっただろう。"
+    ],
+    "en": [
+      "The refugees made a perilous journey across the mountains.",
+      "The climbers began the perilous descent before nightfall.",
+      "The company is entering a perilous period of financial uncertainty.",
+      "The negotiations came perilously close to collapse.",
+      "Crossing the river during the flood would have been extremely perilous."
+    ]
+  }
+},
+{
+  "id": "treacherous",
+  "sid": "2026-00083",
+  "word": "treacherous",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "danger",
+    "character",
+    "formal",
+    "description"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈtretʃərəs/",
+      "uk": "/ˈtretʃərəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "裏切りをする、不実な",
+      "信用できない、背信的な",
+      "（道路・海・氷などが）危険な、油断ならない",
+      "見た目では分かりにくい危険をはらんだ"
+    ],
+    "en": [
+      "guilty of betrayal or disloyalty",
+      "untrustworthy and likely to betray",
+      "dangerous because of hidden or unpredictable hazards",
+      "deceptively unsafe"
+    ]
+  },
+  "nuance": {
+    "ja": "中心にあるのは『信用を裏切る』というイメージ。人については、信頼していた相手を裏切る『不実な、背信的な』という強い非難を表す。一方、道路・山道・海・氷・天候などについては、見た目以上に危険だったり、状況が突然変化したりして『油断すると危ない』ことを表す。perilous が危険の重大さそのものを強調するのに対し、treacherous は危険の予測しにくさ・欺瞞性を強調する。",
+    "en": "The core idea is betrayal of trust. Applied to people, treacherous strongly condemns disloyalty or betrayal. Applied to roads, seas, ice, terrain, or weather, it describes danger that is deceptive, hidden, or unpredictable. Unlike perilous, which emphasizes the seriousness of danger itself, treacherous emphasizes danger that cannot safely be trusted."
+  },
+  "minimal": {
+    "ja": [
+      "treacherous：信用すると裏切られる。人なら背信的、道・海などなら油断ならない危険。",
+      "perilous：重大な危険を伴う。危険そのものを強調。",
+      "dangerous：危険な。最も一般的。",
+      "hazardous：具体的な危険要因を伴う。安全・技術分野でも多い。",
+      "deceitful：人が意図的に人を欺く。",
+      "untrustworthy：信用できない。treacherous より広く穏やか。"
+    ],
+    "en": [
+      "treacherous suggests betrayal or danger that is deceptive and difficult to trust.",
+      "perilous emphasizes serious danger itself.",
+      "dangerous is the ordinary general term.",
+      "hazardous often refers to identifiable risks or hazards.",
+      "deceitful describes deliberate dishonesty or deception.",
+      "untrustworthy is broader and less dramatic than treacherous."
+    ]
+  },
+  "etymology": {
+    "ja": "treachery（裏切り、背信）と同系で、中英語 trecherous を経て古フランス語 trecherie / tricherie などの『欺き、裏切り』を表す語群に由来する。さらに tricher『だます、不正をする』とも関連する。もともとの『人を裏切る、信用できない』という意味から、海・道路・氷などについても『信用してはいけないほど危険な』という比喩的意味が発達した。",
+    "en": "Related to treachery, through Middle English and Old French words referring to deception, cheating, and betrayal. The original sense of being untrustworthy or betraying confidence was extended metaphorically to roads, seas, ice, and other things that are deceptively dangerous."
+  },
+  "synonyms": [
+    {
+      "word": "perilous",
+      "note": {
+        "ja": "重大な危険を表すが、危険が隠れているという含みは必要ない。",
+        "en": "Describes serious danger without necessarily suggesting hidden or deceptive hazards."
+      }
+    },
+    {
+      "word": "hazardous",
+      "note": {
+        "ja": "事故・健康被害などの具体的な危険要因があることを表す。",
+        "en": "Often refers to identifiable risks to safety or health."
+      }
+    },
+    {
+      "word": "deceitful",
+      "note": {
+        "ja": "人が嘘や欺瞞によって相手を意図的にだますことを強調する。",
+        "en": "Emphasizes deliberate dishonesty or deception by a person."
+      }
+    },
+    {
+      "word": "disloyal",
+      "note": {
+        "ja": "人・組織などへの忠誠を欠くことを表す。treacherous ほど劇的な裏切りを必ずしも意味しない。",
+        "en": "Means lacking loyalty, without necessarily implying the dramatic betrayal suggested by treacherous."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "tückisch / verräterisch",
+    "it": "insidioso / sleale",
+    "fr": "traître / perfide",
+    "es": "traicionero"
+  },
+  "collocations": {
+    "ja": [
+      "a treacherous road — 油断ならない危険な道路",
+      "treacherous conditions — 危険で予測しにくい状況",
+      "treacherous ice — 見た目では分かりにくい危険な氷",
+      "treacherous waters — 危険な海域",
+      "treacherous terrain — 危険で足場の悪い地形",
+      "a treacherous journey — 危険の多い旅",
+      "a treacherous ally — 裏切りかねない味方",
+      "a treacherous act — 背信行為"
+    ],
+    "en": [
+      "a treacherous road",
+      "treacherous conditions",
+      "treacherous ice",
+      "treacherous waters",
+      "treacherous terrain",
+      "a treacherous journey",
+      "a treacherous ally",
+      "a treacherous act"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The mountain road becomes treacherous when covered with ice. — その山道は凍結すると非常に危険になる。",
+      "The sailors had to navigate through treacherous waters. — 船員たちは危険な海域を航行しなければならなかった。",
+      "What looked like solid ground turned out to be treacherous mud. — 固い地面に見えた場所は、実は足を取られる危険な泥地だった。",
+      "He was betrayed by a treacherous ally whom he had trusted for years. — 彼は長年信頼していた不実な味方に裏切られた。",
+      "The investigation uncovered a treacherous plot against the king. — 調査によって王に対する背信的な陰謀が明らかになった。"
+    ],
+    "en": [
+      "The mountain road becomes treacherous when covered with ice.",
+      "The sailors had to navigate through treacherous waters.",
+      "What looked like solid ground turned out to be treacherous mud.",
+      "He was betrayed by a treacherous ally whom he had trusted for years.",
+      "The investigation uncovered a treacherous plot against the king."
+    ]
+  }
+},
+{
+  "id": "insidious",
+  "sid": "2026-00084",
+  "word": "insidious",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "danger",
+    "abstract",
+    "academic"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈsɪdiəs/",
+      "uk": "/ɪnˈsɪdiəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "知らないうちに害を及ぼす、潜行性の",
+      "徐々に進行する、気づきにくい",
+      "陰険な、巧妙に人を陥れる"
+    ],
+    "en": [
+      "gradually causing harm in a way that is difficult to notice",
+      "developing subtly and with harmful effects",
+      "intended to deceive or entrap"
+    ]
+  },
+  "nuance": {
+    "ja": "危険や害が明白ではなく、気づかないうちに徐々に進行・浸透することを強調する。病気、偏見、プロパガンダ、腐敗、影響、脅威など抽象的な対象によく使われる。医学では症状が目立たないまま徐々に進行する『潜行性の』という意味でも用いられる。treacherous が『信用すると裏切られる・予測しにくい危険』を表すのに対し、insidious は『害が隠れたまま少しずつ広がる』ことに重点がある。",
+    "en": "Insidious describes something harmful that develops or spreads gradually and subtly, often before people become aware of it. It is common with diseases, threats, influences, prejudice, corruption, and other harmful processes. Unlike treacherous, which emphasizes deceptive or unpredictable danger, insidious emphasizes hidden and gradual harm."
+  },
+  "minimal": {
+    "ja": [
+      "insidious：気づかないうちに徐々に害が進行・浸透する。",
+      "treacherous：信用すると裏切られるような、油断ならない危険。",
+      "perilous：重大な危険を伴う。",
+      "subtle：微妙で気づきにくい。害があるとは限らない。",
+      "sinister：邪悪・不吉な印象を与える。",
+      "pernicious：非常に有害で、特に徐々に深刻な害を及ぼす。"
+    ],
+    "en": [
+      "insidious describes hidden harm that develops gradually and is difficult to notice.",
+      "treacherous suggests betrayal or deceptive, unpredictable danger.",
+      "perilous emphasizes serious danger itself.",
+      "subtle means difficult to notice but does not necessarily imply harm.",
+      "sinister suggests something evil, threatening, or ominous.",
+      "pernicious emphasizes serious harmful effects, often developing gradually."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 insidiosus『待ち伏せする、狡猾な、欺瞞的な』に由来し、その基礎にある insidiae は『待ち伏せ、罠』を意味する。さらに insidēre『中に・上に座る、待ち伏せする』にさかのぼり、in-（中に、上に）+ sedēre（座る）から成る。つまり語源的には『待ち伏せして罠にかける』というイメージで、そこから『気づかないうちに害を及ぼす』という現在の意味が発達した。",
+    "en": "From Latin insidiosus ('cunning, deceitful, lying in wait'), from insidiae ('ambush, trap'), ultimately related to insidere ('to sit in or upon, lie in wait'), from in- plus sedere ('to sit'). The idea of lying in ambush developed into the modern sense of hidden and gradually developing harm."
+  },
+  "synonyms": [
+    {
+      "word": "pernicious",
+      "note": {
+        "ja": "深刻な害を及ぼすことを強調する。insidious と同様、害が徐々に進行する文脈でもよく使われる。",
+        "en": "Emphasizes seriously harmful effects and often overlaps with insidious when harm develops gradually."
+      }
+    },
+    {
+      "word": "subtle",
+      "note": {
+        "ja": "気づきにくさを表すが、それ自体に悪意・有害性はない。",
+        "en": "Means difficult to notice or detect but does not itself imply harm."
+      }
+    },
+    {
+      "word": "sinister",
+      "note": {
+        "ja": "邪悪さ・不吉さ・脅威を感じさせることを強調する。",
+        "en": "Emphasizes an evil, threatening, or ominous quality."
+      }
+    },
+    {
+      "word": "treacherous",
+      "note": {
+        "ja": "裏切りや、見かけでは分からない危険を強調する。",
+        "en": "Emphasizes betrayal or danger that cannot safely be trusted."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "heimtückisch / schleichend",
+    "it": "insidioso",
+    "fr": "insidieux",
+    "es": "insidioso"
+  },
+  "collocations": {
+    "ja": [
+      "an insidious disease — 潜行性の病気",
+      "an insidious threat — 気づきにくい潜在的脅威",
+      "an insidious influence — 徐々に浸透する有害な影響",
+      "an insidious effect — 気づかないうちに現れる有害な影響",
+      "an insidious form of discrimination — 気づきにくく浸透する形の差別",
+      "the insidious spread of corruption — 腐敗の密かな蔓延",
+      "an insidious process — 潜行的に進む過程"
+    ],
+    "en": [
+      "an insidious disease",
+      "an insidious threat",
+      "an insidious influence",
+      "an insidious effect",
+      "an insidious form of discrimination",
+      "the insidious spread of corruption",
+      "an insidious process"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The disease is particularly insidious because its early symptoms are difficult to detect. — その病気は初期症状を発見しにくいため、特に厄介で潜行性が高い。",
+      "The report warned of the insidious effects of prolonged misinformation. — 報告書は、長期にわたる誤情報が徐々にもたらす有害な影響について警告した。",
+      "Corruption can have an insidious influence on public institutions. — 腐敗は公的機関に気づかないうちに有害な影響を及ぼすことがある。",
+      "What began as a minor problem developed into an insidious threat to the entire system. — 当初は小さな問題だったものが、やがてシステム全体を蝕む脅威へと発展した。",
+      "The novel explores the insidious spread of suspicion within a small community. — その小説は、小さな共同体の中で疑念が密かに広がっていく様子を描いている。"
+    ],
+    "en": [
+      "The disease is particularly insidious because its early symptoms are difficult to detect.",
+      "The report warned of the insidious effects of prolonged misinformation.",
+      "Corruption can have an insidious influence on public institutions.",
+      "What began as a minor problem developed into an insidious threat to the entire system.",
+      "The novel explores the insidious spread of suspicion within a small community."
+    ]
+  }
+},
+{
+  "id": "pernicious",
+  "sid": "2026-00085",
+  "word": "pernicious",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "academic",
+    "harm",
+    "abstract"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pərˈnɪʃəs/",
+      "uk": "/pəˈnɪʃəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "非常に有害な、深刻な害を及ぼす",
+      "破壊的な、悪影響の大きい",
+      "徐々に深刻な害をもたらす"
+    ],
+    "en": [
+      "having a very harmful or destructive effect",
+      "causing serious damage, often gradually",
+      "highly damaging in a way that may not be immediately obvious"
+    ]
+  },
+  "nuance": {
+    "ja": "単なる harmful よりはるかに強く、社会・制度・思想・習慣・影響などが深刻で持続的な害をもたらすことを表す硬い語。害が徐々に進行する文脈でもよく使われる。insidious と近いが、insidious は『害が密かに進行して気づきにくいこと』、pernicious は『もたらされる害が深刻で破壊的であること』に重点がある。",
+    "en": "Pernicious is a strong formal word for something that causes serious or destructive harm, often over time. It is especially common with influences, effects, beliefs, practices, and social problems. Unlike insidious, which emphasizes the hidden or gradual nature of harm, pernicious primarily emphasizes how damaging the effect is."
+  },
+  "minimal": {
+    "ja": [
+      "pernicious：深刻で破壊的な害を及ぼす。しばしば徐々に害が広がる。",
+      "insidious：害が見えにくく、気づかないうちに徐々に進行する。",
+      "harmful：有害な。最も一般的。",
+      "detrimental：結果・利益・状態などに悪影響を及ぼす。pernicious より中立的。",
+      "deleterious：健康・環境などに有害な。硬い学術語。",
+      "noxious：有毒・有害・不快な。煙・ガス・物質などにもよく使う。"
+    ],
+    "en": [
+      "pernicious emphasizes serious and destructive harm, often developing over time.",
+      "insidious emphasizes hidden or gradually developing harm.",
+      "harmful is the ordinary general term.",
+      "detrimental means having a negative effect and is more neutral.",
+      "deleterious is a formal or academic word for causing harm.",
+      "noxious often describes harmful or poisonous substances, fumes, or influences."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 perniciosus『破壊的な、致命的な』に由来し、その基礎にある pernicies は『破滅、破壊、死』を意味する。これは per-（完全に、徹底的に）と nex / nec-（死、殺害）に関連する語から成る。したがって語源的には『完全な破滅・死をもたらす』ほど強いイメージを持つ語である。",
+    "en": "From Latin perniciosus ('destructive, ruinous'), from pernicies ('destruction, ruin, death'). The word is historically connected with per- ('thoroughly') and the Latin word family nex, nec- associated with violent death or killing. Its etymology therefore carries a very strong idea of destruction."
+  },
+  "synonyms": [
+    {
+      "word": "insidious",
+      "note": {
+        "ja": "害の大きさよりも、それが隠れて徐々に進行することを強調する。",
+        "en": "Emphasizes the hidden and gradual development of harm rather than its severity."
+      }
+    },
+    {
+      "word": "detrimental",
+      "note": {
+        "ja": "何かの状態・利益・成果に悪影響を与えるという比較的中立的な語。",
+        "en": "A relatively neutral formal word for having a negative effect on something."
+      }
+    },
+    {
+      "word": "deleterious",
+      "note": {
+        "ja": "健康・環境・機能などに害を与えることを表す非常に硬い語。",
+        "en": "A highly formal word for causing damage, especially to health, the environment, or functioning."
+      }
+    },
+    {
+      "word": "noxious",
+      "note": {
+        "ja": "健康に有害・有毒であることを表し、ガス・煙・物質などによく使われる。",
+        "en": "Often describes something poisonous, unhealthy, or otherwise physically harmful."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verderblich / schädlich",
+    "it": "pernicioso",
+    "fr": "pernicieux",
+    "es": "pernicioso"
+  },
+  "collocations": {
+    "ja": [
+      "a pernicious effect — 深刻な悪影響",
+      "a pernicious influence — 有害で破壊的な影響",
+      "a pernicious habit — 害の大きい悪習",
+      "a pernicious belief — 有害な信念",
+      "a pernicious myth — 有害な俗説・誤った通念",
+      "a pernicious practice — 有害な慣行",
+      "the pernicious effects of discrimination — 差別がもたらす深刻な悪影響",
+      "a pernicious cycle — 有害な悪循環"
+    ],
+    "en": [
+      "a pernicious effect",
+      "a pernicious influence",
+      "a pernicious habit",
+      "a pernicious belief",
+      "a pernicious myth",
+      "a pernicious practice",
+      "the pernicious effects of discrimination",
+      "a pernicious cycle"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The policy had a pernicious effect on small businesses. — その政策は中小企業に深刻な悪影響を及ぼした。",
+      "The report examines the pernicious effects of corruption on public institutions. — その報告書は腐敗が公的機関にもたらす深刻な悪影響を検討している。",
+      "This pernicious myth has persisted for generations. — この有害な俗説は何世代にもわたって残り続けている。",
+      "Constant misinformation can exert a pernicious influence on public debate. — 絶え間ない誤情報は公共の議論に深刻な悪影響を及ぼし得る。",
+      "The two problems reinforce each other in a pernicious cycle. — その二つの問題は有害な悪循環の中で互いを増幅させている。"
+    ],
+    "en": [
+      "The policy had a pernicious effect on small businesses.",
+      "The report examines the pernicious effects of corruption on public institutions.",
+      "This pernicious myth has persisted for generations.",
+      "Constant misinformation can exert a pernicious influence on public debate.",
+      "The two problems reinforce each other in a pernicious cycle."
+    ]
+  }
 }
 ]
