@@ -19641,5 +19641,275 @@
       "The local population resisted attempts to remove the old building."
     ]
   }
+},
+{
+  "id": "insist",
+  "sid": "2026-00166",
+  "word": "insist",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "assertion",
+    "demand",
+    "persistence",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "insist – insisted – insisted"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈsɪst/",
+      "uk": "/ɪnˈsɪst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "強く主張する、言い張る",
+      "強く要求する",
+      "～することを譲らない、どうしても～すると言う"
+    ],
+    "en": [
+      "to state something firmly and refuse to change one's position",
+      "to demand something strongly",
+      "to say firmly that something must happen or be done"
+    ]
+  },
+  "nuance": {
+    "ja": "自分の主張・要求・意向を簡単には引っ込めず、強く言い続けることを表す。insist that ... では『～だと言い張る／～するよう強く求める』、insist on ... では『～を強く求める／～することにこだわる』となる。単なる say や ask より強く、demand ほど必ずしも権威的・強制的ではない。また、相手に何かを勧める場面で I insist. と言えば『ぜひそうさせてください』のような好意的な強さにもなる。",
+    "en": "Insist means to state, demand, or maintain something firmly and refuse to back down. Insist that ... can introduce either a firm claim or a strong demand, while insist on ... means to strongly require or stick to something. It is stronger than simply say or ask, but not always as forceful or authoritative as demand. In polite social contexts, I insist can also express strong generosity or determination."
+  },
+  "minimal": {
+    "ja": [
+      "insist：主張・要求を引っ込めず強く言い続ける。",
+      "persist：困難があっても行動・状態を続ける。",
+      "demand：権利・権威を背景に強く要求する。",
+      "assert：自信をもって事実・意見を主張する。",
+      "maintain：反対されても自分の主張を維持する。",
+      "urge：相手に強く勧める・促す。"
+    ],
+    "en": [
+      "insist means to state or demand something firmly and refuse to back down.",
+      "persist means to continue an action or state despite difficulty.",
+      "demand means to ask for something forcefully, often with a sense of authority or entitlement.",
+      "assert means to state something confidently as true.",
+      "maintain means to continue to hold a position despite challenge.",
+      "urge means to strongly encourage someone to do something."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 insistere『上に立つ、踏みとどまる、押し進む』に由来し、in-『上に、～に向かって』+ sistere『立つ、立たせる』から成る。語源的には『ある場所・立場に踏みとどまる』というイメージで、そこから『自分の主張を曲げずに言い続ける』という意味になった。resist, persist, consist などと同じ sistere 系の語族。",
+    "en": "From Latin insistere ('to stand upon, stand firm, persist'), formed from in- and sistere ('to cause to stand, stand firm'). The underlying image is of standing firmly on a position, which naturally developed into the modern sense of refusing to back down from a claim or demand. It belongs to the same family as resist, persist, and consist."
+  },
+  "synonyms": [
+    {
+      "word": "demand",
+      "note": {
+        "ja": "より強圧的で、権利・権威を背景に要求することが多い。insist は立場を譲らないことに重点。",
+        "en": "Usually more forceful and often backed by authority or entitlement; insist emphasizes refusing to back down."
+      }
+    },
+    {
+      "word": "assert",
+      "note": {
+        "ja": "事実・意見を自信をもって述べること。insist は反対や抵抗があっても言い続ける感じが強い。",
+        "en": "Means to state something confidently; insist more strongly suggests maintaining the claim despite resistance."
+      }
+    },
+    {
+      "word": "maintain",
+      "note": {
+        "ja": "反論があっても自分の見解を維持する意味。insist よりやや硬く、感情的な強さは弱いことがある。",
+        "en": "Means to continue holding a view despite challenge and is often more formal and less forceful in tone."
+      }
+    },
+    {
+      "word": "urge",
+      "note": {
+        "ja": "相手にある行動を強く勧める・促す。insist はより『それをしてもらう必要がある』という強さが出やすい。",
+        "en": "Means to strongly encourage an action, whereas insist more strongly suggests that the speaker considers it necessary."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "bestehen auf / darauf bestehen / beharren",
+    "it": "insistere",
+    "fr": "insister",
+    "es": "insistir"
+  },
+  "collocations": {
+    "ja": [
+      "insist on doing something — ～することを譲らない",
+      "insist on something — ～を強く要求する",
+      "insist that ... — ～だと言い張る／～するよう強く求める",
+      "insist on paying — どうしても自分が払うと言う",
+      "insist on an explanation — 説明を強く求める",
+      "insist on one's innocence — 自分の無実を言い張る",
+      "repeatedly insist — 繰り返し強く主張する",
+      "I insist — ぜひそうさせてください／どうしても"
+    ],
+    "en": [
+      "insist on doing something",
+      "insist on something",
+      "insist that ...",
+      "insist on paying",
+      "insist on an explanation",
+      "insist on one's innocence",
+      "repeatedly insist",
+      "I insist"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He insisted that he had done nothing wrong. — 彼は自分は何も悪いことをしていないと言い張った。",
+      "She insisted on paying for dinner. — 彼女はどうしても夕食代を自分で払うと言った。",
+      "The client insisted that the contract be revised before signing. — 顧客は署名前に契約書を修正するよう強く求めた。",
+      "They insisted on a full explanation of what had happened. — 彼らは何が起きたのかについて十分な説明を強く求めた。",
+      "You don't have to pay this time. I insist. — 今回は払わなくていいよ。ぜひ私に払わせて。"
+    ],
+    "en": [
+      "He insisted that he had done nothing wrong.",
+      "She insisted on paying for dinner.",
+      "The client insisted that the contract be revised before signing.",
+      "They insisted on a full explanation of what had happened.",
+      "You don't have to pay this time. I insist."
+    ]
+  }
+},
+{
+  "id": "assert",
+  "sid": "2026-00167",
+  "word": "assert",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "assertion",
+    "statement",
+    "confidence",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "assert – asserted – asserted"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈsɝːt/",
+      "uk": "/əˈsɜːt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "断言する、強く主張する",
+      "自分の権利・立場などを明確に示す",
+      "存在・影響力などをはっきり表す"
+    ],
+    "en": [
+      "to state something confidently and firmly as true",
+      "to make one's rights, position, or authority known",
+      "to show or establish one's presence, influence, or importance"
+    ]
+  },
+  "nuance": {
+    "ja": "事実・意見・立場などを、ためらわず自信をもってはっきり述べる語。insist のように『相手の反対にもかかわらず言い続ける』ことは必須ではない。assert one's rights, assert one's authority のように、権利・立場・権威を明確に打ち出す意味も重要。また assert itself の形で、影響・特徴・問題などが『次第にはっきり現れる』という用法もある。全体としてやや硬く、報道・法律・学術文脈でもよく使われる。",
+    "en": "Assert means to state something firmly and confidently, often as a fact or position. Unlike insist, it does not necessarily imply repeated resistance or refusal to back down. It is also common in expressions such as assert one's rights or assert one's authority, meaning to make a claim or position clearly known. In assert itself, the word can describe an influence, feature, or problem becoming clearly evident."
+  },
+  "minimal": {
+    "ja": [
+      "assert：事実・意見・権利などを自信をもって明確に主張する。",
+      "insist：反対されても主張・要求を引っ込めない。",
+      "claim：あることが事実だと主張する。真偽は未確定でも使える。",
+      "maintain：反論されても自分の見解を維持する。",
+      "declare：公式・公然と宣言する。",
+      "affirm：正しい・真実だとはっきり肯定する。"
+    ],
+    "en": [
+      "assert means to state a fact, opinion, right, or position firmly and confidently.",
+      "insist means to maintain a claim or demand and refuse to back down.",
+      "claim means to say something is true, whether or not it has been proved.",
+      "maintain means to continue holding a position despite challenge.",
+      "declare means to state something openly or officially.",
+      "affirm means to state positively that something is true or valid."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 asserere『自分のものとして主張する、権利を主張する』に由来する。ad-『～へ』+ serere『結びつける、つなぐ』にさかのぼるとされ、古くは法的に『ある人・物について権利を主張する』意味を持った。そこから一般化して『強く断言する、明確に主張する』となった。名詞 assertion、形容詞 assertive も同じ語族。",
+    "en": "From Latin asserere, meaning 'to claim, maintain, or declare one's right to something.' It originally had strong legal associations with claiming a person, object, or right. The meaning later broadened to the modern sense of stating something firmly and confidently. Assertion and assertive belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "claim",
+      "note": {
+        "ja": "事実だと述べることに重点があり、その主張が正しいとは限らない。assert はより強い自信を感じさせる。",
+        "en": "Means to say that something is true, without implying that it has been proved; assert often sounds more confident and forceful."
+      }
+    },
+    {
+      "word": "insist",
+      "note": {
+        "ja": "相手の反対や抵抗があっても立場を変えないことに重点。assert は明確に打ち出すこと自体に重点。",
+        "en": "Emphasizes refusing to back down despite resistance, while assert emphasizes stating a position clearly and confidently."
+      }
+    },
+    {
+      "word": "maintain",
+      "note": {
+        "ja": "反論があっても自分の主張を維持する、という継続性を強調する。",
+        "en": "Emphasizes continuing to hold a position despite challenge or disagreement."
+      }
+    },
+    {
+      "word": "declare",
+      "note": {
+        "ja": "公式または公然と表明する意味が強い。assert は公式性を必要としない。",
+        "en": "Suggests an open or official statement, whereas assert does not require any formal setting."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "behaupten / geltend machen / durchsetzen",
+    "it": "affermare / rivendicare",
+    "fr": "affirmer / faire valoir",
+    "es": "afirmar / hacer valer"
+  },
+  "collocations": {
+    "ja": [
+      "assert that ... — ～だと断言する",
+      "assert one's rights — 自分の権利を主張する",
+      "assert one's authority — 自分の権威を示す",
+      "assert control — 支配・統制を確立する",
+      "assert independence — 独立性を打ち出す",
+      "assert one's position — 自分の立場を明確にする",
+      "assert oneself — 自己主張する",
+      "begin to assert itself — 次第に存在感・影響力を示し始める"
+    ],
+    "en": [
+      "assert that ...",
+      "assert one's rights",
+      "assert one's authority",
+      "assert control",
+      "assert independence",
+      "assert one's position",
+      "assert oneself",
+      "begin to assert itself"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company asserted that it had complied with all applicable regulations. — その会社は、適用されるすべての規則を遵守していたと主張した。",
+      "Employees have the right to assert their legal rights without retaliation. — 従業員には、報復を受けることなく法的権利を主張する権利がある。",
+      "She quickly asserted her authority as the new manager. — 彼女は新しい管理職としてすぐに自分の権威を確立した。",
+      "He needs to learn how to assert himself more confidently in meetings. — 彼は会議でもっと自信をもって自己主張する方法を学ぶ必要がある。",
+      "As the crisis deepened, economic concerns began to assert themselves. — 危機が深まるにつれて、経済上の懸念が次第にはっきり表面化してきた。"
+    ],
+    "en": [
+      "The company asserted that it had complied with all applicable regulations.",
+      "Employees have the right to assert their legal rights without retaliation.",
+      "She quickly asserted her authority as the new manager.",
+      "He needs to learn how to assert himself more confidently in meetings.",
+      "As the crisis deepened, economic concerns began to assert themselves."
+    ]
+  }
 }
 ]
