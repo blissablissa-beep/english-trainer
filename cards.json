@@ -15740,5 +15740,1883 @@
       "The measures are intended to ease the financial burden on households."
     ]
   }
+},
+{
+  "id": "liability",
+  "sid": "2026-00137",
+  "word": "liability",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "legal",
+    "finance",
+    "responsibility",
+    "business"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌlaɪəˈbɪləti/",
+      "uk": "/ˌlaɪəˈbɪləti/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "法的責任、賠償責任",
+      "債務、負債",
+      "不利になるもの、足かせ"
+    ],
+    "en": [
+      "legal responsibility for something, especially for damage, loss, or injury",
+      "money or obligations owed by a person or organization",
+      "a person or thing that puts someone at a disadvantage"
+    ]
+  },
+  "nuance": {
+    "ja": "法律では、損害・事故・契約違反などについて負う法的責任を表す。会計では liabilities と複数形で『負債』を表し、assets『資産』と対になる。さらに日常・ビジネスでは、a liability to the team のように『役に立たないどころか不利益をもたらす存在・足かせ』という意味でも使う。burden が広い意味での負担なのに対し、liability は責任・債務・不利益という、より制度的または評価的な意味が強い。",
+    "en": "In law, liability refers to legal responsibility, especially for damage, injury, loss, or breach of duty. In accounting, liabilities are debts and financial obligations and contrast with assets. More generally, a liability can be a person or thing that creates disadvantage or risk. Compared with burden, liability is more strongly associated with legal responsibility, financial obligations, or being a disadvantage."
+  },
+  "minimal": {
+    "ja": [
+      "liability：法的責任・債務。または不利になる存在。",
+      "burden：責任・費用・重荷などの負担全般。",
+      "obligation：果たすべき義務。",
+      "debt：返済すべき金銭上の借金。",
+      "responsibility：責任一般。法的責任とは限らない。",
+      "asset：資産。また比喩的に有益な人・物。liability の対義語になり得る。"
+    ],
+    "en": [
+      "liability is legal responsibility, a financial obligation, or something that creates disadvantage.",
+      "burden is the broad term for a heavy responsibility, cost, or difficulty.",
+      "obligation is a duty that must be fulfilled.",
+      "debt is money that is owed and must be repaid.",
+      "responsibility is the broad concept of being accountable for something.",
+      "asset is something valuable or advantageous and can contrast with liability."
+    ]
+  },
+  "etymology": {
+    "ja": "liable + -ity に由来する。liable は古フランス語 lier『縛る』に関係し、さらにラテン語 ligare『縛る、結び付ける』にさかのぼる。したがって原義のイメージは『法的・義務的に縛られている』こと。そこから『責任を負う』『支払い義務がある』という意味が生じ、名詞 liability は『法的責任・債務』を表すようになった。",
+    "en": "From liable + -ity. Liable is historically related to Old French lier ('to bind'), ultimately from Latin ligare ('to bind, tie'). The underlying idea is therefore of being legally or obligatorily bound. From this developed the senses of legal responsibility and financial obligation."
+  },
+  "synonyms": [
+    {
+      "word": "responsibility",
+      "note": {
+        "ja": "最も広い『責任』。liability は特に法律上の責任を意味しやすい。",
+        "en": "The broad term for responsibility; liability more readily refers to legally enforceable responsibility."
+      }
+    },
+    {
+      "word": "obligation",
+      "note": {
+        "ja": "果たすべき義務に重点がある。liability はその義務から生じる責任や金銭的負担を指しやすい。",
+        "en": "Focuses on a duty to perform or pay, while liability often refers to the responsibility arising from such a duty."
+      }
+    },
+    {
+      "word": "debt",
+      "note": {
+        "ja": "返済すべき金銭に意味が限定される。liability は未払金・引当金などを含むより広い会計概念。",
+        "en": "Specifically refers to money owed, whereas liability is broader in accounting and can include various financial obligations."
+      }
+    },
+    {
+      "word": "burden",
+      "note": {
+        "ja": "重荷・負担一般。liability の方が法務・会計上の意味が明確。",
+        "en": "A broad word for something difficult to bear; liability has more specific legal and financial senses."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Haftung / Verbindlichkeit",
+    "it": "responsabilità / passività",
+    "fr": "responsabilité / passif",
+    "es": "responsabilidad / pasivo"
+  },
+  "collocations": {
+    "ja": [
+      "legal liability — 法的責任",
+      "civil liability — 民事責任",
+      "criminal liability — 刑事責任",
+      "product liability — 製造物責任",
+      "limited liability — 有限責任",
+      "accept liability — 責任を認める",
+      "incur liability — 責任・債務を負う",
+      "assets and liabilities — 資産と負債"
+    ],
+    "en": [
+      "legal liability",
+      "civil liability",
+      "criminal liability",
+      "product liability",
+      "limited liability",
+      "accept liability",
+      "incur liability",
+      "assets and liabilities"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company denied liability for the accident. — 会社はその事故について法的責任を否定した。",
+      "The manufacturer may face product liability claims. — そのメーカーは製造物責任に基づく請求を受ける可能性がある。",
+      "The firm's total liabilities exceed its assets. — その会社の負債総額は資産総額を上回っている。",
+      "Members of the company enjoy limited liability. — その会社の構成員は有限責任の保護を受ける。",
+      "His lack of experience became a liability in the negotiations. — 彼の経験不足は交渉において不利な要因となった。"
+    ],
+    "en": [
+      "The company denied liability for the accident.",
+      "The manufacturer may face product liability claims.",
+      "The firm's total liabilities exceed its assets.",
+      "Members of the company enjoy limited liability.",
+      "His lack of experience became a liability in the negotiations."
+    ]
+  }
+},
+{
+  "id": "obligation",
+  "sid": "2026-00138",
+  "word": "obligation",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "duty",
+    "legal",
+    "responsibility",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɑːbləˈɡeɪʃən/",
+      "uk": "/ˌɒblɪˈɡeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "義務、責務",
+      "法的・契約上の義務",
+      "道徳的・社会的に果たすべきこと"
+    ],
+    "en": [
+      "something that a person is required to do",
+      "a legal, contractual, moral, or social duty",
+      "a state of being bound to act in a particular way"
+    ]
+  },
+  "nuance": {
+    "ja": "法律・契約・道徳・社会的立場などによって『～しなければならない』と拘束されている状態や、その具体的な義務を表す。responsibility よりも義務性・拘束性が強く、liability よりも『義務そのもの』に焦点がある。契約英語では contractual obligation, legal obligation, fulfill an obligation などが頻出する。moral obligation のように、法的強制力はなくても道徳的に果たすべき責務にも使える。",
+    "en": "Obligation emphasizes being bound or required to do something, whether by law, contract, morality, or social expectation. It is stronger and more duty-focused than responsibility, while liability usually concerns the legal or financial consequences that arise from responsibility. In legal and business English, phrases such as contractual obligation, legal obligation, and fulfill an obligation are especially common."
+  },
+  "minimal": {
+    "ja": [
+      "obligation：拘束されて果たすべき『義務』。",
+      "duty：役割・立場・道徳などから生じる務め。",
+      "responsibility：担当・責任を負うこと全般。",
+      "liability：法的責任・債務、または不利な要因。",
+      "commitment：約束・関与・責任を引き受けること。",
+      "requirement：満たさなければならない条件・要件。"
+    ],
+    "en": [
+      "obligation is something one is bound or required to do.",
+      "duty is a task or moral responsibility arising from one's role or position.",
+      "responsibility is the broad concept of being accountable for something.",
+      "liability is legal or financial responsibility or an obligation to pay.",
+      "commitment is a promise or undertaking to devote oneself or resources to something.",
+      "requirement is a condition that must be satisfied."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 obligatio『拘束、義務』に由来し、動詞 obligare『縛る、義務を負わせる』から派生した。ob-『～に対して』+ ligare『縛る』から成り、原義は文字どおり『縛り付けること』。そこから法律・契約・道徳などによって人を行為に拘束する『義務』という意味が発達した。liable, ligament, league なども広い意味で ligare『縛る、結ぶ』の語族に関連する。",
+    "en": "From Latin obligatio ('binding, obligation'), derived from obligare ('to bind, oblige'), formed from ob- and ligare ('to bind, tie'). The literal image is therefore of being bound to something, which developed naturally into the legal, contractual, and moral sense of duty."
+  },
+  "synonyms": [
+    {
+      "word": "duty",
+      "note": {
+        "ja": "役割・職務・道徳上の務めに使いやすい。obligation は法律・契約上の拘束にも特に強い。",
+        "en": "Often emphasizes duties arising from role, office, or morality, while obligation is especially natural for legal and contractual binding."
+      }
+    },
+    {
+      "word": "responsibility",
+      "note": {
+        "ja": "より広い語で、担当・責任・結果への説明責任も含む。obligation は『しなければならないこと』に焦点がある。",
+        "en": "Broader and includes accountability and areas of responsibility; obligation focuses on what one is required to do."
+      }
+    },
+    {
+      "word": "commitment",
+      "note": {
+        "ja": "自ら約束・関与したことによって引き受ける責任を表しやすい。",
+        "en": "Often suggests a responsibility voluntarily undertaken through a promise or sustained involvement."
+      }
+    },
+    {
+      "word": "liability",
+      "note": {
+        "ja": "義務違反や法的関係から生じる責任・金銭的負担に重点がある。",
+        "en": "Focuses more on legal or financial responsibility arising from a legal relationship or breach."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Verpflichtung / Pflicht",
+    "it": "obbligo / obbligazione",
+    "fr": "obligation",
+    "es": "obligación"
+  },
+  "collocations": {
+    "ja": [
+      "a legal obligation — 法的義務",
+      "a contractual obligation — 契約上の義務",
+      "a moral obligation — 道徳的義務",
+      "a statutory obligation — 法令上の義務",
+      "fulfill an obligation — 義務を履行する",
+      "meet an obligation — 義務を果たす",
+      "assume an obligation — 義務を負う",
+      "be under an obligation to do something — ～する義務を負っている"
+    ],
+    "en": [
+      "a legal obligation",
+      "a contractual obligation",
+      "a moral obligation",
+      "a statutory obligation",
+      "fulfill an obligation",
+      "meet an obligation",
+      "assume an obligation",
+      "be under an obligation to do something"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company has a legal obligation to protect personal data. — その会社には個人データを保護する法的義務がある。",
+      "Both parties must fulfill their contractual obligations. — 両当事者は契約上の義務を履行しなければならない。",
+      "I felt a moral obligation to tell her the truth. — 私は彼女に真実を話す道徳的義務を感じた。",
+      "The borrower failed to meet its financial obligations. — 借り手は金銭上の義務を履行できなかった。",
+      "You are under no obligation to accept the offer. — あなたにはその申し出を受け入れる義務はない。"
+    ],
+    "en": [
+      "The company has a legal obligation to protect personal data.",
+      "Both parties must fulfill their contractual obligations.",
+      "I felt a moral obligation to tell her the truth.",
+      "The borrower failed to meet its financial obligations.",
+      "You are under no obligation to accept the offer."
+    ]
+  }
+},
+{
+  "id": "obligatory",
+  "sid": "2026-00139",
+  "word": "obligatory",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "duty",
+    "requirement",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈblɪɡəˌtɔːri/",
+      "uk": "/əˈblɪɡətri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "義務的な、必須の",
+      "規則・法律などによって要求される",
+      "お決まりの、定番の"
+    ],
+    "en": [
+      "required by law, rule, duty, or convention",
+      "mandatory or compulsory",
+      "expected as a conventional or almost ritual part of something"
+    ]
+  },
+  "nuance": {
+    "ja": "法律・規則・制度・慣習などによって『しなければならない』ことを表す。mandatory や compulsory と近いが、obligatory は『義務として課されている』という語感が比較的明確。さらに日常・文章では、the obligatory handshake, the obligatory photo のように、『別に正式な義務ではないが、皆が当然のようにやるお決まりのもの』というややユーモラス・皮肉な用法もある。",
+    "en": "Obligatory describes something required by law, rules, duty, or convention. It overlaps with mandatory and compulsory but retains a clear sense of being imposed as an obligation. It also has a common mildly humorous or ironic use for something conventionally expected, as in the obligatory photo or the obligatory handshake."
+  },
+  "minimal": {
+    "ja": [
+      "obligatory：義務として要求される。比喩的に『お決まりの』。",
+      "mandatory：規則・法律・権限によって必須とされる。",
+      "compulsory：強制的に必須。特に英式英語で制度・教育などに多い。",
+      "required：必要条件として求められる最も一般的な語。",
+      "optional：任意の。obligatory の対義語になりやすい。",
+      "customary：慣習的な。義務とは限らない。"
+    ],
+    "en": [
+      "obligatory means required as an obligation and can also mean conventionally expected.",
+      "mandatory means officially required by a rule, law, or authority.",
+      "compulsory means required by force of rule or law, especially in British usage.",
+      "required is the broad general term for something that must be done or provided.",
+      "optional means left to choice rather than required.",
+      "customary means usual by convention but not necessarily obligatory."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 obligatorius『義務を課す、拘束する』に由来し、obligare『縛る、義務を負わせる』と同系。obligare は ob- + ligare『縛る』から成るため、obligatory の原義も『義務によって縛られている』というイメージ。obligation, oblige と同じ語族である。",
+    "en": "From Latin obligatorius ('binding, imposing an obligation'), related to obligare ('to bind, oblige'). Since obligare is built from ob- and ligare ('to bind'), the underlying idea is of being bound by duty. It belongs to the same word family as obligation and oblige."
+  },
+  "synonyms": [
+    {
+      "word": "mandatory",
+      "note": {
+        "ja": "法律・規則・権限によって正式に必須とされる場合に特に強い。obligatory は義務一般や慣習的なお決まりにも使える。",
+        "en": "Especially strong for formal requirements imposed by law, rules, or authority, whereas obligatory can also describe conventional expectations."
+      }
+    },
+    {
+      "word": "compulsory",
+      "note": {
+        "ja": "強制される必須事項というニュアンスが強い。compulsory education など制度的文脈でよく使う。",
+        "en": "Strongly suggests that something is enforced and is common in institutional expressions such as compulsory education."
+      }
+    },
+    {
+      "word": "required",
+      "note": {
+        "ja": "もっとも中立的で広い語。要件として必要であることを表す。",
+        "en": "The broadest and most neutral term for something that must be done, supplied, or satisfied."
+      }
+    },
+    {
+      "word": "customary",
+      "note": {
+        "ja": "慣習として普通に行われることを表すが、義務性はない。obligatory の『お決まりの』用法と近づくことがある。",
+        "en": "Means usual by custom rather than required, though it can overlap with the ironic conventional sense of obligatory."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "obligatorisch / verpflichtend",
+    "it": "obbligatorio",
+    "fr": "obligatoire",
+    "es": "obligatorio"
+  },
+  "collocations": {
+    "ja": [
+      "obligatory attendance — 出席義務",
+      "obligatory training — 必須研修",
+      "obligatory disclosure — 義務的開示",
+      "obligatory requirements — 必須要件",
+      "make something obligatory — ～を義務化する",
+      "become obligatory — 義務となる",
+      "the obligatory photo — お決まりの写真",
+      "the obligatory handshake — お決まりの握手"
+    ],
+    "en": [
+      "obligatory attendance",
+      "obligatory training",
+      "obligatory disclosure",
+      "obligatory requirements",
+      "make something obligatory",
+      "become obligatory",
+      "the obligatory photo",
+      "the obligatory handshake"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Attendance at the training session is obligatory. — その研修への出席は義務である。",
+      "The law makes disclosure obligatory in certain circumstances. — 法律は一定の場合に開示を義務付けている。",
+      "Safety equipment is obligatory on the site. — 現場では安全装備の着用が必須である。",
+      "We took the obligatory photo in front of the monument. — 私たちは記念碑の前でお決まりの写真を撮った。",
+      "The speech ended with the obligatory expression of thanks. — その演説はお決まりの謝辞で締めくくられた。"
+    ],
+    "en": [
+      "Attendance at the training session is obligatory.",
+      "The law makes disclosure obligatory in certain circumstances.",
+      "Safety equipment is obligatory on the site.",
+      "We took the obligatory photo in front of the monument.",
+      "The speech ended with the obligatory expression of thanks."
+    ]
+  }
+},
+{
+  "id": "mandatory",
+  "sid": "2026-00140",
+  "word": "mandatory",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "requirement",
+    "legal",
+    "rules",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈmændəˌtɔːri/",
+      "uk": "/ˈmændətəri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "義務的な、必須の",
+      "規則・法律によって要求される",
+      "強制的に必要とされる"
+    ],
+    "en": [
+      "required by law, rule, or authority",
+      "officially compulsory",
+      "not optional"
+    ]
+  },
+  "nuance": {
+    "ja": "法律、規則、制度、組織上の命令などによって正式に『しなければならない』と定められていることを表す。obligatory と非常に近いが、mandatory の方が制度的・公式な強制力を感じさせやすい。training, reporting, disclosure, attendance, requirements などとよく結びつく。optional の明確な反対語として使いやすい。",
+    "en": "Mandatory describes something officially required by law, regulation, rule, or authority. It is very close to obligatory but often sounds more institutional and formally enforceable. It commonly appears with training, reporting, disclosure, attendance, and requirements. It is a natural opposite of optional."
+  },
+  "minimal": {
+    "ja": [
+      "mandatory：法律・規則・権限によって正式に必須。",
+      "obligatory：義務として求められる。慣習的な『お決まり』にも使える。",
+      "compulsory：強制される必須事項。特に英式英語で制度的文脈に多い。",
+      "required：必要条件として求められる一般語。",
+      "binding：法的・契約的に拘束力がある。",
+      "optional：任意の。mandatory の対義語。"
+    ],
+    "en": [
+      "mandatory means officially required by law, rules, or authority.",
+      "obligatory means required as an obligation and can also mean conventionally expected.",
+      "compulsory means enforced as required, especially in institutional contexts.",
+      "required is the broad general term for something that must be done or provided.",
+      "binding means legally or contractually enforceable.",
+      "optional means left to choice rather than required."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 mandatum『命令、委任』に由来し、mandare『命じる、委ねる』から派生した。mandare は manus『手』+ dare『与える』に関係し、原義は『手に委ねる、任せる』。そこから『権限を与える、命令する』という意味が生じ、mandatory は『命令・権限によって要求される』という意味になった。mandate も同じ語族。",
+    "en": "From Latin mandatum ('command, commission'), from mandare ('to entrust, command'). Mandare is associated with manus ('hand') and dare ('to give'), with the original idea of placing something in another's hands. From this developed the senses of authorization and command, giving mandatory its modern meaning of officially required."
+  },
+  "synonyms": [
+    {
+      "word": "obligatory",
+      "note": {
+        "ja": "意味は非常に近いが、obligatory は義務一般や慣習的なお決まりにも使える。mandatory は公式な規則による必須性が強い。",
+        "en": "Very close in meaning, but obligatory can also refer to conventional expectations, while mandatory more strongly suggests formal rules or authority."
+      }
+    },
+    {
+      "word": "compulsory",
+      "note": {
+        "ja": "強制されることを強調する。compulsory education など制度的な用法で特に多い。",
+        "en": "Emphasizes enforcement and is especially common in institutional expressions such as compulsory education."
+      }
+    },
+    {
+      "word": "required",
+      "note": {
+        "ja": "最も一般的で中立的。法律上の義務に限らない。",
+        "en": "The broadest and most neutral term and does not necessarily imply legal or regulatory force."
+      }
+    },
+    {
+      "word": "binding",
+      "note": {
+        "ja": "法的・契約的に拘束力があり、従わなければならないことに重点がある。",
+        "en": "Emphasizes legal or contractual enforceability rather than simply being required."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verpflichtend / zwingend",
+    "it": "obbligatorio",
+    "fr": "obligatoire",
+    "es": "obligatorio"
+  },
+  "collocations": {
+    "ja": [
+      "mandatory training — 必須研修",
+      "mandatory disclosure — 義務的開示",
+      "mandatory reporting — 義務的報告",
+      "mandatory attendance — 出席義務",
+      "mandatory requirements — 必須要件",
+      "mandatory measures — 強制措置",
+      "make something mandatory — ～を義務化する",
+      "become mandatory — 義務となる"
+    ],
+    "en": [
+      "mandatory training",
+      "mandatory disclosure",
+      "mandatory reporting",
+      "mandatory attendance",
+      "mandatory requirements",
+      "mandatory measures",
+      "make something mandatory",
+      "become mandatory"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Safety training is mandatory for all employees. — 安全研修は全従業員に必須である。",
+      "The new law makes data breach reporting mandatory. — 新法はデータ侵害の報告を義務化している。",
+      "Attendance at the orientation session is mandatory. — オリエンテーションへの出席は必須である。",
+      "The regulation introduced mandatory disclosure requirements. — その規則は義務的な開示要件を導入した。",
+      "Wearing protective equipment is mandatory in this area. — この区域では保護具の着用が義務付けられている。"
+    ],
+    "en": [
+      "Safety training is mandatory for all employees.",
+      "The new law makes data breach reporting mandatory.",
+      "Attendance at the orientation session is mandatory.",
+      "The regulation introduced mandatory disclosure requirements.",
+      "Wearing protective equipment is mandatory in this area."
+    ]
+  }
+},
+{
+  "id": "compulsory",
+  "sid": "2026-00141",
+  "word": "compulsory",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "requirement",
+    "rules",
+    "education",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kəmˈpʌlsəri/",
+      "uk": "/kəmˈpʌlsəri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "強制的な、義務的な",
+      "制度・規則によって必須とされる",
+      "本人の選択に委ねられていない"
+    ],
+    "en": [
+      "required by law, rule, or authority",
+      "not optional and imposed as an obligation",
+      "required regardless of personal choice"
+    ]
+  },
+  "nuance": {
+    "ja": "法律・制度・規則などによって強制的に行う必要があり、本人の自由な選択ではないことを表す。mandatory と非常に近いが、compulsory は『強制されること』そのものをやや強く感じさせ、特に英式英語で education, military service, insurance, attendance など制度的な文脈によく使われる。obligatory よりも制度上の強制性が明確で、mandatory とほぼ同義になる場合も多い。",
+    "en": "Compulsory means required by law, rules, or authority and therefore not left to individual choice. It is very close to mandatory, but it can place slightly greater emphasis on compulsion itself. It is especially common in British English with institutional subjects such as education, military service, insurance, and attendance."
+  },
+  "minimal": {
+    "ja": [
+      "compulsory：規則・制度によって強制的に必須。本人の選択ではない。",
+      "mandatory：法律・規則・権限によって正式に必須。",
+      "obligatory：義務として要求される。慣習的な『お決まり』にも使える。",
+      "required：必要条件として求められる一般語。",
+      "binding：法的・契約的に拘束力がある。",
+      "optional：任意の。compulsory の対義語。"
+    ],
+    "en": [
+      "compulsory means imposed as required and not left to personal choice.",
+      "mandatory means officially required by law, rules, or authority.",
+      "obligatory means required as an obligation and can also mean conventionally expected.",
+      "required is the broad general term for something that must be done or provided.",
+      "binding means legally or contractually enforceable.",
+      "optional means left to choice rather than required."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 compellere『一緒に追い立てる、強いて～させる』に由来する。com-『共に、強く』+ pellere『押す、駆り立てる』から成り、原義は『強く押して行動させる』というイメージ。そこから compel『強いる』、compulsion『強制』、compulsory『強制的な、義務的な』という語族が形成された。",
+    "en": "From Latin compellere ('to drive together, force, compel'), formed from com- and pellere ('to push, drive'). The underlying image is of pushing someone into action. This gave rise to the English family compel, compulsion, and compulsory."
+  },
+  "synonyms": [
+    {
+      "word": "mandatory",
+      "note": {
+        "ja": "ほぼ同義。mandatory は特に規則・法律による公式要件を強調し、compulsory は本人の意思にかかわらず強制される感じがやや強い。",
+        "en": "Very close in meaning; mandatory emphasizes formal requirement, while compulsory can more strongly suggest lack of personal choice."
+      }
+    },
+    {
+      "word": "obligatory",
+      "note": {
+        "ja": "義務一般を表す。compulsory は制度・規則による強制性がより強い。",
+        "en": "A broader obligation-based term; compulsory more strongly suggests institutional or enforced requirement."
+      }
+    },
+    {
+      "word": "required",
+      "note": {
+        "ja": "もっとも一般的で中立的。必要条件であればよく、強制性を強く示さない。",
+        "en": "The broadest and most neutral term and does not necessarily emphasize compulsion."
+      }
+    },
+    {
+      "word": "enforced",
+      "note": {
+        "ja": "規則などが実際に強制執行されていることに重点がある。",
+        "en": "Emphasizes that a rule or requirement is actively imposed or made effective."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "pflichtmäßig / obligatorisch / verpflichtend",
+    "it": "obbligatorio",
+    "fr": "obligatoire",
+    "es": "obligatorio"
+  },
+  "collocations": {
+    "ja": [
+      "compulsory education — 義務教育",
+      "compulsory schooling — 義務就学",
+      "compulsory military service — 徴兵制・兵役義務",
+      "compulsory insurance — 強制保険",
+      "compulsory attendance — 出席義務",
+      "a compulsory subject — 必修科目",
+      "make something compulsory — ～を義務化する",
+      "become compulsory — 義務となる"
+    ],
+    "en": [
+      "compulsory education",
+      "compulsory schooling",
+      "compulsory military service",
+      "compulsory insurance",
+      "compulsory attendance",
+      "a compulsory subject",
+      "make something compulsory",
+      "become compulsory"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Education is compulsory until the age of sixteen. — 16歳までは教育を受けることが義務付けられている。",
+      "Military service was once compulsory in the country. — その国ではかつて兵役が義務であった。",
+      "The course includes several compulsory subjects. — その課程にはいくつかの必修科目が含まれている。",
+      "Attendance at the safety briefing is compulsory. — 安全説明会への出席は義務である。",
+      "The government is considering making the scheme compulsory. — 政府はその制度を義務化することを検討している。"
+    ],
+    "en": [
+      "Education is compulsory until the age of sixteen.",
+      "Military service was once compulsory in the country.",
+      "The course includes several compulsory subjects.",
+      "Attendance at the safety briefing is compulsory.",
+      "The government is considering making the scheme compulsory."
+    ]
+  }
+},
+{
+  "id": "binding",
+  "sid": "2026-00142",
+  "word": "binding",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "legal",
+    "contract",
+    "obligation",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj / noun"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈbaɪndɪŋ/",
+      "uk": "/ˈbaɪndɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "法的・契約的に拘束力のある",
+      "従う義務を生じさせる",
+      "製本、綴じ"
+    ],
+    "en": [
+      "legally or formally requiring someone to obey or comply",
+      "creating an enforceable obligation",
+      "the material or process used to hold the pages of a book together"
+    ]
+  },
+  "nuance": {
+    "ja": "形容詞では、契約・合意・決定・規則などが当事者に法的または正式な拘束力を持ち、従わなければならないことを表す。mandatory や compulsory が『行為そのものが必須』であることを表すのに対し、binding は『文書・合意・決定などが人を拘束する効力を持つ』ことに重点がある。legal binding より legally binding の形が一般的。名詞では本の『製本・綴じ』という別の意味もある。",
+    "en": "As an adjective, binding describes an agreement, decision, rule, or other instrument that imposes an enforceable obligation. Unlike mandatory or compulsory, which describe an action or requirement as necessary, binding focuses on the legal or formal force of the instrument itself. The phrase legally binding is especially common. As a noun, binding can also refer to the material or process that holds a book together."
+  },
+  "minimal": {
+    "ja": [
+      "binding：契約・合意・決定などに法的・正式な拘束力がある。",
+      "mandatory：法律・規則によって行為が必須。",
+      "compulsory：本人の選択にかかわらず強制的に必須。",
+      "obligatory：義務として要求される。",
+      "enforceable：法律上、裁判などによって強制可能。",
+      "non-binding：法的拘束力のない。"
+    ],
+    "en": [
+      "binding means creating a legal or formal obligation that must be respected.",
+      "mandatory means officially required by law, rules, or authority.",
+      "compulsory means imposed as required and not left to personal choice.",
+      "obligatory means required as an obligation.",
+      "enforceable means capable of being legally compelled or upheld.",
+      "non-binding means not creating a legally enforceable obligation."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 bind『縛る、結び付ける』の現在分詞・形容詞用法。bind は古英語 bindan『縛る、結ぶ』に由来する。『物理的に縛る』という原義から、『約束・契約・法律によって人を拘束する』という比喩的意味が発達した。binding の法的意味もこの『縛る』イメージをそのまま保っている。",
+    "en": "From the present participle of bind, from Old English bindan ('to tie, bind'). The literal sense of physically tying something developed into the figurative sense of being constrained by a promise, contract, law, or obligation. The legal sense of binding preserves this image directly."
+  },
+  "synonyms": [
+    {
+      "word": "enforceable",
+      "note": {
+        "ja": "法律上、裁判所などによって実際に強制できることに重点がある。binding は拘束力そのものを表す。",
+        "en": "Emphasizes that an obligation can actually be enforced through legal mechanisms, while binding emphasizes the existence of the obligation itself."
+      }
+    },
+    {
+      "word": "mandatory",
+      "note": {
+        "ja": "行為や要件が必須であることを表す。binding は契約・決定などが当事者を拘束することを表す。",
+        "en": "Describes an action or requirement as obligatory, while binding describes an instrument or decision as imposing obligations."
+      }
+    },
+    {
+      "word": "obligatory",
+      "note": {
+        "ja": "義務として求められるという広い語。binding はより法的・契約的な拘束力を示しやすい。",
+        "en": "A broader term for something required as an obligation; binding more readily suggests legal or contractual force."
+      }
+    },
+    {
+      "word": "compulsory",
+      "note": {
+        "ja": "制度や規則によって強制されることを強調する。binding は当事者が拘束される効力に重点がある。",
+        "en": "Emphasizes imposed requirement, while binding focuses on the force that legally or formally constrains the parties."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verbindlich / bindend",
+    "it": "vincolante",
+    "fr": "contraignant / obligatoire",
+    "es": "vinculante"
+  },
+  "collocations": {
+    "ja": [
+      "a binding agreement — 拘束力のある合意",
+      "a binding contract — 法的拘束力のある契約",
+      "a binding decision — 拘束力のある決定",
+      "a binding obligation — 拘束力のある義務",
+      "legally binding — 法的拘束力のある",
+      "be binding on someone — ～を拘束する",
+      "a binding commitment — 拘束力のある約束",
+      "non-binding guidance — 法的拘束力のない指針"
+    ],
+    "en": [
+      "a binding agreement",
+      "a binding contract",
+      "a binding decision",
+      "a binding obligation",
+      "legally binding",
+      "be binding on someone",
+      "a binding commitment",
+      "non-binding guidance"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The agreement is legally binding on both parties. — その合意は両当事者を法的に拘束する。",
+      "The court's decision is binding on the lower courts. — その裁判所の判断は下級裁判所を拘束する。",
+      "The memorandum is not intended to create a binding obligation. — その覚書は拘束力のある義務を生じさせることを意図していない。",
+      "Once signed, the contract becomes binding. — 署名されると、その契約は拘束力を持つ。",
+      "The guidelines are advisory rather than binding. — その指針は拘束力を持つものではなく、助言的なものである。"
+    ],
+    "en": [
+      "The agreement is legally binding on both parties.",
+      "The court's decision is binding on the lower courts.",
+      "The memorandum is not intended to create a binding obligation.",
+      "Once signed, the contract becomes binding.",
+      "The guidelines are advisory rather than binding."
+    ]
+  }
+},
+{
+  "id": "enforceable",
+  "sid": "2026-00143",
+  "word": "enforceable",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "legal",
+    "contract",
+    "rights",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈfɔːrsəbəl/",
+      "uk": "/ɪnˈfɔːsəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "法的に強制可能な",
+      "裁判などを通じて履行を求めることができる",
+      "実効的に執行可能な"
+    ],
+    "en": [
+      "capable of being imposed or carried out by legal authority",
+      "capable of being upheld or compelled through a court or other legal mechanism",
+      "legally effective in a way that allows compliance or performance to be required"
+    ]
+  },
+  "nuance": {
+    "ja": "契約・権利・義務・条項などについて、単に法的意味を持つだけでなく、違反や不履行があった場合に裁判所その他の法的手段を通じて実際に履行・遵守を求められることを表す。binding と非常に近いが、binding は『当事者を拘束する法的効力がある』こと、enforceable は『その拘束を実際に法的に実現できる』ことに重点がある。契約法では enforceable contract, enforceable obligation, enforceable right などが重要。",
+    "en": "Enforceable describes a contract, right, obligation, provision, or rule that can actually be upheld or compelled through legal authority. It is closely related to binding, but binding focuses on whether an obligation legally binds the parties, whereas enforceable focuses on whether that obligation or right can be practically enforced through a court or other legal mechanism."
+  },
+  "minimal": {
+    "ja": [
+      "enforceable：裁判などを通じて法的に履行・遵守を強制できる。",
+      "binding：契約・決定などが当事者を法的に拘束する。",
+      "valid：法律上有効である。",
+      "effective：効力を生じている、実際に機能する。",
+      "mandatory：法律・規則によって行為が必須。",
+      "unenforceable：法的に強制執行できない。"
+    ],
+    "en": [
+      "enforceable means capable of being legally compelled or upheld.",
+      "binding means creating a legal or formal obligation.",
+      "valid means legally recognized as effective or acceptable.",
+      "effective means in force or producing its intended legal or practical effect.",
+      "mandatory means officially required by law, rules, or authority.",
+      "unenforceable means not capable of being legally enforced."
+    ]
+  },
+  "etymology": {
+    "ja": "enforce + -able に由来する。enforce は古フランス語 enforcier『強める、強制する』を経て英語に入り、force『力』と同系。したがって enforceable は文字どおり『力をもって実施・遵守させることが可能な』という構造を持つ。法律英語では、国家の強制力によって権利や義務を実現できることを表す。",
+    "en": "From enforce + -able. Enforce came through Old French enforcier ('to strengthen, compel') and is related to force. The literal structure therefore means 'capable of being compelled or carried out by force or authority,' which developed into the legal sense of being capable of enforcement."
+  },
+  "synonyms": [
+    {
+      "word": "binding",
+      "note": {
+        "ja": "法的拘束力があることに重点がある。enforceable はその義務を実際に法的手段で強制できることに重点がある。",
+        "en": "Emphasizes the existence of legal obligation, while enforceable emphasizes the ability to compel compliance through legal mechanisms."
+      }
+    },
+    {
+      "word": "valid",
+      "note": {
+        "ja": "法律上成立・有効であること。valid でも一定の事情により完全には enforceable でない場合があり得る。",
+        "en": "Means legally valid or recognized; validity and enforceability are related but not always identical."
+      }
+    },
+    {
+      "word": "effective",
+      "note": {
+        "ja": "法律・契約などが効力を生じていることを表す。強制可能性そのものとは異なる。",
+        "en": "Means that a law, contract, or provision is in effect, which is distinct from whether it can be legally enforced."
+      }
+    },
+    {
+      "word": "actionable",
+      "note": {
+        "ja": "法的請求・訴訟の根拠となり得ることを表す。enforceable とは焦点が異なる。",
+        "en": "Means capable of giving rise to a legal claim or lawsuit, rather than simply being capable of enforcement."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "durchsetzbar / vollstreckbar",
+    "it": "esigibile / azionabile",
+    "fr": "exécutoire / opposable",
+    "es": "ejecutable / exigible"
+  },
+  "collocations": {
+    "ja": [
+      "an enforceable contract — 法的に強制可能な契約",
+      "an enforceable agreement — 法的に履行を強制できる合意",
+      "an enforceable obligation — 強制可能な義務",
+      "an enforceable right — 法的に実現可能な権利",
+      "an enforceable provision — 強制可能な条項",
+      "legally enforceable — 法的に強制可能な",
+      "remain enforceable — 引き続き強制可能である",
+      "become unenforceable — 強制不能となる"
+    ],
+    "en": [
+      "an enforceable contract",
+      "an enforceable agreement",
+      "an enforceable obligation",
+      "an enforceable right",
+      "an enforceable provision",
+      "legally enforceable",
+      "remain enforceable",
+      "become unenforceable"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The agreement is legally enforceable. — その合意は法的に履行を強制することができる。",
+      "A contract must satisfy certain requirements to be enforceable. — 契約が法的に強制可能となるには、一定の要件を満たさなければならない。",
+      "The court held that the clause was unenforceable. — 裁判所は、その条項は法的に強制できないと判断した。",
+      "The claimant argued that the promise created an enforceable obligation. — 原告は、その約束によって法的に強制可能な義務が生じたと主張した。",
+      "The right is enforceable against the company. — その権利は会社に対して法的に行使・実現することができる。"
+    ],
+    "en": [
+      "The agreement is legally enforceable.",
+      "A contract must satisfy certain requirements to be enforceable.",
+      "The court held that the clause was unenforceable.",
+      "The claimant argued that the promise created an enforceable obligation.",
+      "The right is enforceable against the company."
+    ]
+  }
+},
+{
+  "id": "actionable",
+  "sid": "2026-00144",
+  "word": "actionable",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "legal",
+    "business",
+    "decision-making",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈækʃənəbəl/",
+      "uk": "/ˈækʃənəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "法的請求・訴訟の対象となり得る",
+      "具体的な行動に移せる",
+      "実務上すぐ利用できる"
+    ],
+    "en": [
+      "giving sufficient grounds for legal action",
+      "capable of being acted upon in a practical way",
+      "specific and useful enough to guide concrete action"
+    ]
+  },
+  "nuance": {
+    "ja": "法律では、ある行為・発言・侵害などが法的請求や訴訟の根拠となり得ることを表す。actionable conduct, actionable claim, actionable wrong などが典型。一方、ビジネス・データ分析・コンサルティングでは actionable insight, actionable recommendation のように、『単なる情報や抽象論ではなく、具体的な次の行動につなげられる』という意味で非常によく使われる。feasible が『実行可能か』に焦点を置くのに対し、actionable は『何をすべきかが具体的に分かる』という実務性に重点がある。",
+    "en": "In legal contexts, actionable means capable of giving rise to a legal claim or lawsuit. Common phrases include actionable conduct, actionable claim, and actionable wrong. In business, analytics, and consulting, actionable means specific and useful enough to guide concrete action, as in actionable insights or actionable recommendations. Unlike feasible, which focuses on whether something can be carried out, actionable focuses on whether information or advice can directly lead to a practical next step."
+  },
+  "minimal": {
+    "ja": [
+      "actionable：法律では訴訟・請求の根拠となり得る。一般には具体的な行動につなげられる。",
+      "enforceable：権利・義務などを法的に強制できる。",
+      "feasible：計画・案などが現実的に実行可能。",
+      "practical：実際に役立つ・現実的。",
+      "implementable：実際に導入・実装できる。",
+      "usable：実際に使用できる。"
+    ],
+    "en": [
+      "actionable means capable of supporting legal action or, more generally, leading directly to concrete action.",
+      "enforceable means capable of being legally compelled or upheld.",
+      "feasible means realistically possible to carry out.",
+      "practical means useful and realistic in real-world conditions.",
+      "implementable means capable of being put into operation.",
+      "usable means capable of being used effectively."
+    ]
+  },
+  "etymology": {
+    "ja": "action + -able に由来する。法律上の古い意味では、action は単なる『行動』ではなく『訴訟、法的請求』を意味するため、actionable は文字どおり『訴訟の対象にできる』という意味になる。そこから現代のビジネス英語では、action を通常の『行動』の意味で捉え、『実際の行動に移せる』という新しい用法が広く発達した。",
+    "en": "From action + -able. In the older legal sense, action means a lawsuit or legal proceeding, so actionable literally means 'capable of being the subject of legal action.' In modern business usage, action is interpreted in its ordinary sense, producing the newer meaning 'capable of leading to practical action.'"
+  },
+  "synonyms": [
+    {
+      "word": "enforceable",
+      "note": {
+        "ja": "enforceable は権利・義務を法的に強制できること。actionable はそもそも訴訟・請求を提起する根拠になり得ること。",
+        "en": "Enforceable concerns whether a right or obligation can be legally compelled, while actionable concerns whether facts or conduct can support a legal claim."
+      }
+    },
+    {
+      "word": "feasible",
+      "note": {
+        "ja": "実行できる現実性に重点がある。actionable は情報・提案が具体的な行動へつながることに重点。",
+        "en": "Focuses on practical possibility, whereas actionable focuses on whether information or advice can directly lead to action."
+      }
+    },
+    {
+      "word": "practical",
+      "note": {
+        "ja": "現実的で役立つことを広く表す。actionable はさらに『次に何をすべきか明確』という感じが強い。",
+        "en": "Broadly means useful and realistic, while actionable more strongly suggests that a clear next step can be taken."
+      }
+    },
+    {
+      "word": "implementable",
+      "note": {
+        "ja": "計画・制度・機能などが実際に導入・実装できることに重点がある。",
+        "en": "Emphasizes that a plan, system, or feature can actually be put into operation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "einklagbar / handlungsrelevant",
+    "it": "azionabile / attuabile",
+    "fr": "susceptible de recours / exploitable",
+    "es": "susceptible de acción legal / accionable"
+  },
+  "collocations": {
+    "ja": [
+      "an actionable claim — 法的請求の対象となり得る請求",
+      "actionable conduct — 訴訟原因となり得る行為",
+      "an actionable wrong — 法的請求を生じさせる違法行為",
+      "actionable defamation — 訴訟対象となり得る名誉毀損",
+      "actionable insights — 行動につなげられる洞察",
+      "actionable recommendations — 実行に移せる提言",
+      "actionable information — 実際の対応に使える情報",
+      "make something actionable — ～を具体的に行動可能な形にする"
+    ],
+    "en": [
+      "an actionable claim",
+      "actionable conduct",
+      "an actionable wrong",
+      "actionable defamation",
+      "actionable insights",
+      "actionable recommendations",
+      "actionable information",
+      "make something actionable"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The court found that the statement was potentially actionable. — 裁判所は、その発言が法的請求の対象となり得ると判断した。",
+      "The claimant must show that the conduct was actionable under the statute. — 請求者は、その行為が当該法律上の請求対象となり得ることを示さなければならない。",
+      "The report provides several actionable recommendations. — その報告書はいくつかの具体的に実行可能な提言を示している。",
+      "We need actionable insights rather than more raw data. — さらに生データを増やすのではなく、行動につなげられる洞察が必要だ。",
+      "The feedback was too vague to be actionable. — そのフィードバックは曖昧すぎて、具体的な行動にはつなげられなかった。"
+    ],
+    "en": [
+      "The court found that the statement was potentially actionable.",
+      "The claimant must show that the conduct was actionable under the statute.",
+      "The report provides several actionable recommendations.",
+      "We need actionable insights rather than more raw data.",
+      "The feedback was too vague to be actionable."
+    ]
+  }
+},
+{
+  "id": "feasible",
+  "sid": "2026-00145",
+  "word": "feasible",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "planning",
+    "business",
+    "practicality",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfiːzəbəl/",
+      "uk": "/ˈfiːzəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "実行可能な、実現可能な",
+      "現実的に可能な",
+      "技術・費用・時間などの条件を考えて実施できる"
+    ],
+    "en": [
+      "possible to do successfully under realistic conditions",
+      "practical and achievable given available resources, time, cost, or technology",
+      "capable of being carried out effectively"
+    ]
+  },
+  "nuance": {
+    "ja": "単に理論上 possible であるというだけでなく、費用・時間・人員・技術・制度などの現実的条件を考慮しても実際に実施できることを表す。plan, solution, option, approach, project などとよく使われる。actionable が『具体的な行動につなげられる情報・提案』に重点を置くのに対し、feasible は『その行動や計画そのものが現実に実行できるか』に重点がある。",
+    "en": "Feasible means not merely theoretically possible, but realistically capable of being carried out given practical constraints such as cost, time, personnel, technology, and regulation. It commonly modifies plan, solution, option, approach, and project. Unlike actionable, which emphasizes whether information or advice can lead to a concrete next step, feasible focuses on whether the proposed action or plan itself can realistically be executed."
+  },
+  "minimal": {
+    "ja": [
+      "feasible：現実的条件を考えて実行・実現可能。",
+      "possible：単に可能である。現実性までは問わない。",
+      "viable：長期的に存続・成功できる見込みがある。",
+      "practical：現実的で実用的。",
+      "workable：実際に機能しそうな、運用可能な。",
+      "actionable：具体的な行動につなげられる。"
+    ],
+    "en": [
+      "feasible means realistically possible to carry out.",
+      "possible simply means capable of happening or being done.",
+      "viable means capable of continuing, surviving, or succeeding over time.",
+      "practical means realistic and useful in real-world conditions.",
+      "workable means capable of functioning successfully in practice.",
+      "actionable means specific enough to lead directly to concrete action."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 faisable『実行できる』を経て英語に入り、faire『する、作る』に由来する。さらにラテン語 facere『する、作る』にさかのぼる。したがって原義は文字どおり『することができる』。fact, facility, manufacture, effect なども広い意味で同じ facere 系の語族に属する。",
+    "en": "Borrowed from French faisable ('able to be done'), from faire ('to do, make'), ultimately from Latin facere ('to do, make'). The literal sense is therefore simply 'capable of being done.' It belongs to the broad Latin facere word family."
+  },
+  "synonyms": [
+    {
+      "word": "viable",
+      "note": {
+        "ja": "実行できるだけでなく、長期的に維持・成功できる可能性に重点がある。",
+        "en": "Goes beyond immediate feasibility and emphasizes the ability to survive, continue, or succeed over time."
+      }
+    },
+    {
+      "word": "practical",
+      "note": {
+        "ja": "現実的で役立つことを広く表す。feasible は特に『実施可能か』という判断に焦点がある。",
+        "en": "Broadly means realistic and useful, while feasible specifically focuses on whether something can actually be carried out."
+      }
+    },
+    {
+      "word": "workable",
+      "note": {
+        "ja": "実際に運用・機能できそうという意味。feasible よりやや口語的。",
+        "en": "Means likely to function successfully in practice and is generally somewhat less formal than feasible."
+      }
+    },
+    {
+      "word": "possible",
+      "note": {
+        "ja": "最も広い語。理論上可能でも、費用や時間の面で feasible とは限らない。",
+        "en": "The broadest term; something may be theoretically possible without being feasible in practical terms."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "machbar / durchführbar",
+    "it": "fattibile",
+    "fr": "faisable",
+    "es": "factible / viable"
+  },
+  "collocations": {
+    "ja": [
+      "a feasible solution — 実行可能な解決策",
+      "a feasible option — 現実的な選択肢",
+      "a feasible plan — 実行可能な計画",
+      "technically feasible — 技術的に実現可能な",
+      "economically feasible — 経済的に実現可能な",
+      "commercially feasible — 商業的に実現可能な",
+      "financially feasible — 財務的に実行可能な",
+      "determine whether something is feasible — ～が実行可能か判断する"
+    ],
+    "en": [
+      "a feasible solution",
+      "a feasible option",
+      "a feasible plan",
+      "technically feasible",
+      "economically feasible",
+      "commercially feasible",
+      "financially feasible",
+      "determine whether something is feasible"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We need to determine whether the proposal is financially feasible. — その提案が財務的に実行可能か判断する必要がある。",
+      "The engineers concluded that the project was technically feasible. — 技術者たちは、その計画は技術的に実現可能だと結論付けた。",
+      "Building a new facility is possible, but it may not be economically feasible. — 新しい施設を建設すること自体は可能だが、経済的には現実的でないかもしれない。",
+      "The committee is considering several feasible alternatives. — 委員会はいくつかの現実的な代替案を検討している。",
+      "The idea is interesting, but we need a feasible implementation plan. — そのアイデアは興味深いが、実行可能な導入計画が必要だ。"
+    ],
+    "en": [
+      "We need to determine whether the proposal is financially feasible.",
+      "The engineers concluded that the project was technically feasible.",
+      "Building a new facility is possible, but it may not be economically feasible.",
+      "The committee is considering several feasible alternatives.",
+      "The idea is interesting, but we need a feasible implementation plan."
+    ]
+  }
+},
+{
+  "id": "visible",
+  "sid": "2026-00146",
+  "word": "visible",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "perception",
+    "appearance",
+    "public",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈvɪzəbəl/",
+      "uk": "/ˈvɪzəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "目に見える、視認できる",
+      "明らかな、はっきり認められる",
+      "目立つ、公に認識される"
+    ],
+    "en": [
+      "able to be seen",
+      "clearly noticeable or apparent",
+      "prominent or publicly recognizable"
+    ]
+  },
+  "nuance": {
+    "ja": "基本義は『目で見ることができる』。そこから、visible signs of damage のように『明らかに認められる』、a highly visible role のように『人目につく、注目される』という比喩的意味にも広く使われる。apparent が『状況から明らかに見える』ことまで含むのに対し、visible は本来、視覚的または外から認識可能であることを強く意識させる。",
+    "en": "The basic meaning of visible is 'able to be seen.' It also extends figuratively to things that are clearly noticeable or publicly prominent, as in visible signs of damage or a highly visible role. Compared with apparent, visible more strongly suggests something that can be directly perceived or observed from the outside."
+  },
+  "minimal": {
+    "ja": [
+      "visible：目に見える、または外から明らかに認識できる。",
+      "apparent：見たところ明らかな。必ずしも本当にそうとは限らない場合もある。",
+      "noticeable：気づくほど目立つ。",
+      "obvious：誰にでも分かるほど明白。",
+      "prominent：目立つ位置・重要な立場にある。",
+      "viable：実行・存続可能な。visible とは別語。"
+    ],
+    "en": [
+      "visible means able to be seen or clearly observed.",
+      "apparent means seeming clear from the evidence or appearance.",
+      "noticeable means easy enough to notice.",
+      "obvious means extremely clear or easy to understand.",
+      "prominent means standing out or occupying an important position.",
+      "viable means capable of working, surviving, or succeeding and is unrelated in meaning to visible."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 visibilis『見ることのできる』に由来し、videre『見る』から派生した。vision, visual, video, evidence なども広く同じ videre『見る』の語族に属する。visible は文字どおり『見ることが可能な』という構造を持つ。",
+    "en": "From Latin visibilis ('that can be seen'), from videre ('to see'). It belongs to the same broad word family as vision, visual, and video. The literal structure is simply 'capable of being seen.'"
+  },
+  "synonyms": [
+    {
+      "word": "apparent",
+      "note": {
+        "ja": "状況・外見から明らかに見えることを表すが、実際にはそうでない可能性も含み得る。",
+        "en": "Means seeming clear from appearances or evidence and may leave open the possibility that appearances are misleading."
+      }
+    },
+    {
+      "word": "noticeable",
+      "note": {
+        "ja": "存在には気づける程度に目立つことを表す。visible より『目立ち度』に重点がある。",
+        "en": "Emphasizes being easy enough to notice rather than simply capable of being seen."
+      }
+    },
+    {
+      "word": "obvious",
+      "note": {
+        "ja": "視覚に限らず、誰にでもすぐ分かるほど明白であることを表す。",
+        "en": "Means extremely clear or self-evident and is not limited to visual perception."
+      }
+    },
+    {
+      "word": "prominent",
+      "note": {
+        "ja": "人目につくことに加え、重要性・地位の高さを示すことが多い。",
+        "en": "Often suggests both visibility and importance or high status."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sichtbar",
+    "it": "visibile",
+    "fr": "visible",
+    "es": "visible"
+  },
+  "collocations": {
+    "ja": [
+      "clearly visible — はっきり見える",
+      "barely visible — かろうじて見える",
+      "visible to the naked eye — 肉眼で見える",
+      "visible signs of damage — 目に見える損傷の兆候",
+      "a visible difference — 明らかな違い",
+      "a highly visible role — 非常に人目につく役割",
+      "become visible — 見えるようになる",
+      "remain visible — 引き続き見えている"
+    ],
+    "en": [
+      "clearly visible",
+      "barely visible",
+      "visible to the naked eye",
+      "visible signs of damage",
+      "a visible difference",
+      "a highly visible role",
+      "become visible",
+      "remain visible"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The mountains are clearly visible from the window. — 窓から山々がはっきり見える。",
+      "The damage was barely visible to the naked eye. — その損傷は肉眼ではかろうじて見える程度だった。",
+      "There has been a visible improvement in the quality of the service. — サービスの質には明らかな改善が見られた。",
+      "She plays a highly visible role in the organization. — 彼女はその組織で非常に人目につく役割を担っている。",
+      "No visible signs of deterioration were found. — 目に見える劣化の兆候は確認されなかった。"
+    ],
+    "en": [
+      "The mountains are clearly visible from the window.",
+      "The damage was barely visible to the naked eye.",
+      "There has been a visible improvement in the quality of the service.",
+      "She plays a highly visible role in the organization.",
+      "No visible signs of deterioration were found."
+    ]
+  }
+},
+{
+  "id": "viable",
+  "sid": "2026-00147",
+  "word": "viable",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "planning",
+    "business",
+    "success",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈvaɪəbəl/",
+      "uk": "/ˈvaɪəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "実行可能で、成り立つ見込みのある",
+      "存続可能な、成功可能な",
+      "生存可能な"
+    ],
+    "en": [
+      "capable of working successfully in practice",
+      "capable of continuing, surviving, or succeeding over time",
+      "capable of living or developing normally"
+    ]
+  },
+  "nuance": {
+    "ja": "計画・事業・制度・選択肢などについて、単に実行できるだけでなく、現実に機能し、ある程度持続・成功できる見込みがあることを表す。feasible が『実施できるか』に重点を置くのに対し、viable は『実施した後も成り立つか』に重点がある。また生物学・医学では fetus, embryo, cells などについて『生存・発育可能な』という専門的意味でも使われる。",
+    "en": "Viable describes something that can not only be carried out but can also function, survive, or succeed over time. Compared with feasible, which focuses on whether something can realistically be done, viable focuses more on whether it can continue to work or remain successful once implemented. In biology and medicine, it also means capable of surviving or developing normally."
+  },
+  "minimal": {
+    "ja": [
+      "viable：実施後も成り立ち、存続・成功できる見込みがある。",
+      "feasible：現実的条件のもとで実行可能。",
+      "possible：単に可能である。",
+      "workable：実際に機能しそうな、運用可能な。",
+      "sustainable：長期的に維持可能な。",
+      "profitable：利益を生み出せる。viable でも必ず profitable とは限らない。"
+    ],
+    "en": [
+      "viable means capable of working, surviving, or succeeding over time.",
+      "feasible means realistically possible to carry out.",
+      "possible simply means capable of happening or being done.",
+      "workable means capable of functioning successfully in practice.",
+      "sustainable means capable of being maintained over the long term.",
+      "profitable means capable of generating profit; something can be viable without necessarily being highly profitable."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 viable を経て英語に入り、最終的にはラテン語 vita『生命』に由来する。もともとは『生きることができる、生存可能な』という生物学的意味が中心だった。そこから比喩的に、計画・事業・制度などについて『生き残れる → 現実に成り立つ、存続できる』という意味が発達した。vital, vitality, vitamin なども vita『生命』に関連する語族。",
+    "en": "Borrowed through French viable and ultimately related to Latin vita ('life'). The earlier sense was literally 'capable of living or surviving.' From this developed the figurative sense of a plan, business, or system being capable of continuing to function or succeed. It belongs to the same broad word family as vital and vitality."
+  },
+  "synonyms": [
+    {
+      "word": "feasible",
+      "note": {
+        "ja": "実行できる現実性に重点がある。viable は実行後も持続・成功できるかまで見る。",
+        "en": "Focuses on whether something can realistically be carried out; viable goes further by asking whether it can continue to function or succeed."
+      }
+    },
+    {
+      "word": "workable",
+      "note": {
+        "ja": "実際に機能・運用できることを表す。viable よりやや口語的で、長期的存続までは必ずしも含まない。",
+        "en": "Means capable of functioning in practice and is somewhat less formal; it does not necessarily imply long-term survival."
+      }
+    },
+    {
+      "word": "sustainable",
+      "note": {
+        "ja": "長期的に維持できることを強調する。viable はまず成り立つか、sustainable はその状態を長期間続けられるかに重点がある。",
+        "en": "Emphasizes long-term maintainability, while viable focuses more broadly on whether something can function and survive."
+      }
+    },
+    {
+      "word": "practical",
+      "note": {
+        "ja": "現実的で役立つという広い語。viable は存続・成功の可能性をより強く含む。",
+        "en": "Broadly means realistic and useful, while viable more strongly implies a prospect of continued success or survival."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "tragfähig / lebensfähig",
+    "it": "praticabile / sostenibile / vitale",
+    "fr": "viable",
+    "es": "viable"
+  },
+  "collocations": {
+    "ja": [
+      "a viable option — 現実に成り立つ選択肢",
+      "a viable alternative — 有力で現実的な代替案",
+      "a viable solution — 持続可能性のある解決策",
+      "a commercially viable product — 商業的に成り立つ製品",
+      "an economically viable project — 経済的に成立する事業",
+      "a financially viable business — 財務的に存続可能な事業",
+      "remain viable — 引き続き存続可能である",
+      "become commercially viable — 商業的に成り立つようになる"
+    ],
+    "en": [
+      "a viable option",
+      "a viable alternative",
+      "a viable solution",
+      "a commercially viable product",
+      "an economically viable project",
+      "a financially viable business",
+      "remain viable",
+      "become commercially viable"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company is looking for a viable alternative to the current system. — その会社は現行システムに代わる、現実に成り立つ代替案を探している。",
+      "The technology is feasible, but it is not yet commercially viable. — その技術は実現可能だが、まだ商業的には成立していない。",
+      "Without further investment, the business may no longer be financially viable. — 追加投資がなければ、その事業は財務的に存続できなくなる可能性がある。",
+      "The committee concluded that the proposal was a viable long-term solution. — 委員会は、その提案が長期的に成り立つ解決策だと結論付けた。",
+      "Only viable cells were included in the analysis. — 分析には生存可能な細胞だけが含められた。"
+    ],
+    "en": [
+      "The company is looking for a viable alternative to the current system.",
+      "The technology is feasible, but it is not yet commercially viable.",
+      "Without further investment, the business may no longer be financially viable.",
+      "The committee concluded that the proposal was a viable long-term solution.",
+      "Only viable cells were included in the analysis."
+    ]
+  }
+},
+{
+  "id": "workable",
+  "sid": "2026-00148",
+  "word": "workable",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "planning",
+    "practicality",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈwɝːkəbəl/",
+      "uk": "/ˈwɜːkəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "実際に機能する、運用可能な",
+      "実用に耐える",
+      "現実的に使える"
+    ],
+    "en": [
+      "capable of working successfully in practice",
+      "practical enough to be used or implemented",
+      "suitable for real-world operation"
+    ]
+  },
+  "nuance": {
+    "ja": "計画・案・制度・解決策などが、理論上だけでなく現場で実際に機能し、運用できそうであることを表す。feasible よりやや口語的で、技術的・経済的な実現可能性そのものより『使ってみてちゃんと回るか』という実務感が強い。viable ほど長期的な存続可能性までは必ずしも含まない。",
+    "en": "Workable describes a plan, system, solution, or arrangement that can function successfully in practice. It is somewhat less formal than feasible and emphasizes practical operation rather than theoretical possibility. Compared with viable, it does not necessarily imply long-term sustainability or success."
+  },
+  "minimal": {
+    "ja": [
+      "workable：現場で実際に機能・運用できる。",
+      "feasible：現実的条件のもとで実行可能。",
+      "viable：実行後も存続・成功できる見込みがある。",
+      "practical：現実的で役立つ。",
+      "implementable：実際に導入・実装できる。",
+      "functional：機能する、実用上動作する。"
+    ],
+    "en": [
+      "workable means capable of functioning successfully in practice.",
+      "feasible means realistically possible to carry out.",
+      "viable means capable of continuing or succeeding over time.",
+      "practical means realistic and useful.",
+      "implementable means capable of being put into operation.",
+      "functional means able to perform its intended function."
+    ]
+  },
+  "etymology": {
+    "ja": "work + -able から成る英語本来の語。文字どおり『機能させることができる』『使って働かせることができる』という意味から、『実際に運用可能な、現実に機能する』という意味になった。語形成が透明で、意味もそのまま理解しやすい。",
+    "en": "Formed from work + -able. Its literal sense is 'capable of being made to work,' which naturally developed into the meaning 'practical and capable of functioning successfully in real conditions.'"
+  },
+  "synonyms": [
+    {
+      "word": "feasible",
+      "note": {
+        "ja": "実行可能性そのものに重点がある。workable は実際に運用して機能するかに重点がある。",
+        "en": "Focuses more on whether something can be carried out at all, while workable emphasizes whether it will function in practice."
+      }
+    },
+    {
+      "word": "practical",
+      "note": {
+        "ja": "現実的・実用的という広い語。workable は特に計画や仕組みが『ちゃんと回る』ことを示す。",
+        "en": "A broader word meaning realistic and useful; workable more specifically suggests that a plan or system can actually operate."
+      }
+    },
+    {
+      "word": "viable",
+      "note": {
+        "ja": "長期的に存続・成功できる見込みまで含む。workable は短期的・実務的に機能すれば成立する。",
+        "en": "Implies potential for continued success or survival, while workable may simply mean that something functions adequately in practice."
+      }
+    },
+    {
+      "word": "functional",
+      "note": {
+        "ja": "主に装置・システムなどが必要な機能を果たすことを表す。workable は計画・案にも自然。",
+        "en": "Often describes equipment or systems that perform their intended function, while workable is especially natural for plans and arrangements."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "praktikabel / funktionsfähig",
+    "it": "praticabile / funzionale",
+    "fr": "praticable / fonctionnel",
+    "es": "viable / funcional"
+  },
+  "collocations": {
+    "ja": [
+      "a workable solution — 実際に使える解決策",
+      "a workable plan — 現実に運用可能な計画",
+      "a workable arrangement — うまく機能する取り決め",
+      "a workable compromise — 実際に成り立つ妥協案",
+      "a workable system — 運用可能なシステム",
+      "find a workable alternative — 現実に使える代替案を見つける",
+      "develop a workable framework — 運用可能な枠組みを構築する",
+      "perfectly workable — 十分に実用可能な"
+    ],
+    "en": [
+      "a workable solution",
+      "a workable plan",
+      "a workable arrangement",
+      "a workable compromise",
+      "a workable system",
+      "find a workable alternative",
+      "develop a workable framework",
+      "perfectly workable"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We need a workable solution before the deadline. — 締切までに実際に使える解決策が必要だ。",
+      "The proposal is not perfect, but it is workable. — その提案は完璧ではないが、実際に運用はできる。",
+      "Both sides eventually agreed on a workable compromise. — 双方は最終的に現実に機能する妥協案で合意した。",
+      "The engineers developed a workable system using existing equipment. — 技術者たちは既存設備を使って運用可能なシステムを開発した。",
+      "The idea is feasible in theory, but we still need to make it workable in practice. — その案は理論上は実行可能だが、実際に運用できる形にする必要がある。"
+    ],
+    "en": [
+      "We need a workable solution before the deadline.",
+      "The proposal is not perfect, but it is workable.",
+      "Both sides eventually agreed on a workable compromise.",
+      "The engineers developed a workable system using existing equipment.",
+      "The idea is feasible in theory, but we still need to make it workable in practice."
+    ]
+  }
+},
+{
+  "id": "implementable",
+  "sid": "2026-00149",
+  "word": "implementable",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "planning",
+    "implementation",
+    "business",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɪmpləˌmentəbəl/",
+      "uk": "/ˈɪmplɪmentəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "実施可能な、実装可能な",
+      "実際に導入できる",
+      "計画・設計を現実の形にできる"
+    ],
+    "en": [
+      "capable of being put into effect",
+      "capable of being introduced or applied in practice",
+      "capable of being converted from a plan or design into actual operation"
+    ]
+  },
+  "nuance": {
+    "ja": "計画、政策、提案、設計、アルゴリズムなどについて、考え方として可能なだけでなく、具体的な手順に落とし込み、実際に導入・実施・実装できることを表す。feasible が『現実的に実行できるか』という広い可能性を表すのに対し、implementable は特に『実施段階へ移せるか』に焦点がある。workable は導入後に実際に機能するか、viable はさらに持続・成功できるかに重点がある。",
+    "en": "Implementable describes a plan, policy, proposal, design, or technical solution that can actually be put into effect. It goes beyond abstract possibility and focuses on whether something can be translated into concrete procedures or operation. Feasible asks whether something can realistically be done at all; implementable asks whether it can be put into practice; workable asks whether it will function effectively once implemented; viable asks whether it can continue or succeed over time."
+  },
+  "minimal": {
+    "ja": [
+      "implementable：計画・設計を実際に導入・実装できる。",
+      "feasible：現実的条件のもとで実行可能。",
+      "workable：導入後に現場で実際に機能する。",
+      "viable：実施後も存続・成功できる見込みがある。",
+      "practical：現実的で実用的。",
+      "actionable：具体的な次の行動につなげられる。"
+    ],
+    "en": [
+      "implementable means capable of being put into actual practice or operation.",
+      "feasible means realistically possible to carry out.",
+      "workable means capable of functioning successfully in practice.",
+      "viable means capable of continuing or succeeding over time.",
+      "practical means realistic and useful.",
+      "actionable means specific enough to lead directly to concrete action."
+    ]
+  },
+  "etymology": {
+    "ja": "implement + -able に由来する。implement はラテン語 implere『満たす』に関係する語で、英語ではもともと『道具、手段』という名詞として使われ、そこから動詞『実行する、実施する』が発達した。implementable は文字どおり『実施することができる』という意味。",
+    "en": "From implement + -able. Implement is historically related to Latin implere ('to fill, fulfill'). In English, implement first developed as a noun meaning a tool or means, and later as a verb meaning to carry out or put into effect. Implementable therefore literally means 'capable of being implemented.'"
+  },
+  "synonyms": [
+    {
+      "word": "feasible",
+      "note": {
+        "ja": "実行可能性を広く表す。implementable は具体的に導入・実施できる段階まで落とし込めることに重点。",
+        "en": "Broadly describes realistic possibility, while implementable focuses on whether something can actually be put into effect."
+      }
+    },
+    {
+      "word": "workable",
+      "note": {
+        "ja": "導入後に現場でうまく機能することを強調する。implementable はまず導入できるかに焦点がある。",
+        "en": "Emphasizes successful operation after implementation, whereas implementable focuses on whether implementation itself is possible."
+      }
+    },
+    {
+      "word": "practical",
+      "note": {
+        "ja": "現実的で役立つという広い語。implementable は実施可能性により限定される。",
+        "en": "A broader term for realism and usefulness; implementable specifically concerns the ability to put something into effect."
+      }
+    },
+    {
+      "word": "executable",
+      "note": {
+        "ja": "計画・命令などについて『実行可能』、コンピューターでは『実行できる』。implementable より実行そのものに焦点がある。",
+        "en": "Means capable of being executed; in computing it often refers to code that can be run. Implementable more often concerns plans, designs, or policies."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "umsetzbar / implementierbar",
+    "it": "attuabile / implementabile",
+    "fr": "réalisable / implémentable",
+    "es": "implementable / aplicable"
+  },
+  "collocations": {
+    "ja": [
+      "an implementable solution — 実装可能な解決策",
+      "an implementable plan — 実施可能な計画",
+      "an implementable policy — 実施可能な政策",
+      "an implementable proposal — 実行に移せる提案",
+      "technically implementable — 技術的に実装可能な",
+      "readily implementable — 容易に実施可能な",
+      "practically implementable — 実務上実施可能な",
+      "make something implementable — ～を実施可能な形にする"
+    ],
+    "en": [
+      "an implementable solution",
+      "an implementable plan",
+      "an implementable policy",
+      "an implementable proposal",
+      "technically implementable",
+      "readily implementable",
+      "practically implementable",
+      "make something implementable"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The proposal is promising, but it needs to be made more implementable. — その提案は有望だが、より実施可能な形にする必要がある。",
+      "The engineers developed an implementable solution within the existing budget. — 技術者たちは既存の予算内で実装可能な解決策を開発した。",
+      "A policy may be desirable without being practically implementable. — 望ましい政策であっても、実務上実施可能とは限らない。",
+      "The committee asked for a clear and implementable action plan. — 委員会は明確で実施可能な行動計画を求めた。",
+      "The concept is technically feasible, but not yet fully implementable. — その構想は技術的には実現可能だが、まだ完全には実装可能ではない。"
+    ],
+    "en": [
+      "The proposal is promising, but it needs to be made more implementable.",
+      "The engineers developed an implementable solution within the existing budget.",
+      "A policy may be desirable without being practically implementable.",
+      "The committee asked for a clear and implementable action plan.",
+      "The concept is technically feasible, but not yet fully implementable."
+    ]
+  }
+},
+{
+  "id": "contagious",
+  "sid": "2026-00150",
+  "word": "contagious",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "health",
+    "disease",
+    "emotion",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈteɪdʒəs/",
+      "uk": "/kənˈteɪdʒəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "伝染性の、うつる",
+      "人から人へ感染する",
+      "感情・笑い・熱意などが周囲に伝染する"
+    ],
+    "en": [
+      "capable of being spread from one person to another",
+      "infectious through direct or indirect contact",
+      "figuratively, easily spreading from one person to others"
+    ]
+  },
+  "nuance": {
+    "ja": "病気については、人から人へ感染が広がる性質を表す。infectious と重なるが、contagious は特に『人から人へうつる』という日常的な感覚が強い。比喩的には laughter, enthusiasm, excitement, optimism などについて『周囲にうつる』という意味で非常によく使われる。悪い感情にも使えるが、contagious smile / contagious laughter のように肯定的な表現でよく見かける。",
+    "en": "For disease, contagious means capable of spreading from one person to another. It overlaps with infectious, but contagious often has a more everyday person-to-person sense. Figuratively, it is very common with laughter, enthusiasm, excitement, optimism, and similar emotions or behaviors that spread through a group."
+  },
+  "minimal": {
+    "ja": [
+      "contagious：人から人へ『うつる』。感情にも比喩的に使う。",
+      "infectious：病原体による感染性を広く表す。比喩用法もある。",
+      "communicable：人から人へ伝播可能な。医学・公衆衛生で硬い。",
+      "transmissible：伝達・伝播可能な。感染経路や病原体にも使う。",
+      "catching：『うつる』の口語的表現。比喩にも使える。",
+      "contaminated：汚染された。感染性そのものではない。"
+    ],
+    "en": [
+      "contagious means able to spread from person to person and also figuratively through emotion or behavior.",
+      "infectious broadly refers to disease caused by transmissible pathogens and also has figurative uses.",
+      "communicable is a formal public-health term for diseases that can be transmitted between people.",
+      "transmissible means capable of being passed from one host or person to another.",
+      "catching is a more informal word for contagious.",
+      "contaminated means polluted or tainted, not necessarily contagious."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 contagiosus『接触によって広がる』に由来し、contagio『接触、感染』から派生した。contagio は con-『共に』+ tangere『触れる』に関係する。つまり原義のイメージは『触れ合うことで伝わる』。contact, tangible, tangent なども tangere『触れる』の語族に属する。",
+    "en": "From Latin contagiosus ('spreading by contact'), from contagio ('contact, infection'), related to con- and tangere ('to touch'). The underlying image is therefore of something passing through contact. It belongs to the same broad Latin root family as contact and tangible."
+  },
+  "synonyms": [
+    {
+      "word": "infectious",
+      "note": {
+        "ja": "医学では非常に近いが、infectious は病原体による感染性を広く表す。contagious は人から人への伝播をより意識させる。",
+        "en": "Very close in medical contexts, but infectious more broadly refers to disease caused by pathogens, while contagious more readily suggests person-to-person spread."
+      }
+    },
+    {
+      "word": "communicable",
+      "note": {
+        "ja": "医学・公衆衛生で使われる硬い語。communicable disease の形が典型。",
+        "en": "A formal public-health term, especially common in the phrase communicable disease."
+      }
+    },
+    {
+      "word": "transmissible",
+      "note": {
+        "ja": "感染症に限らず、遺伝情報・信号など『伝達可能』一般にも使える。",
+        "en": "A broader technical term for something capable of being transmitted, not limited to disease."
+      }
+    },
+    {
+      "word": "catching",
+      "note": {
+        "ja": "『うつる』という意味の口語表現。contagious よりくだけている。",
+        "en": "A more informal term for contagious and also used figuratively."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ansteckend",
+    "it": "contagioso",
+    "fr": "contagieux",
+    "es": "contagioso"
+  },
+  "collocations": {
+    "ja": [
+      "a contagious disease — 伝染病",
+      "highly contagious — 非常に感染力が強い",
+      "be contagious — 伝染性がある",
+      "remain contagious — 感染性を保つ",
+      "contagious laughter — つられてしまう笑い",
+      "a contagious smile — 周囲に伝染するような笑顔",
+      "contagious enthusiasm — 周囲に伝わる熱意",
+      "emotionally contagious — 感情的に伝染しやすい"
+    ],
+    "en": [
+      "a contagious disease",
+      "highly contagious",
+      "be contagious",
+      "remain contagious",
+      "contagious laughter",
+      "a contagious smile",
+      "contagious enthusiasm",
+      "emotionally contagious"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The disease is highly contagious. — その病気は非常に感染力が強い。",
+      "People may remain contagious even after their symptoms improve. — 症状が改善した後も感染性が残る場合がある。",
+      "Her laughter was contagious, and soon everyone was smiling. — 彼女の笑いにつられて、すぐに皆が笑顔になった。",
+      "His enthusiasm for the project was contagious. — そのプロジェクトに対する彼の熱意は周囲にも伝染した。",
+      "The infection is contagious but usually mild. — その感染症は人にうつるが、通常は軽症である。"
+    ],
+    "en": [
+      "The disease is highly contagious.",
+      "People may remain contagious even after their symptoms improve.",
+      "Her laughter was contagious, and soon everyone was smiling.",
+      "His enthusiasm for the project was contagious.",
+      "The infection is contagious but usually mild."
+    ]
+  }
 }
 ]
