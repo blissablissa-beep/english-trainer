@@ -14256,5 +14256,542 @@
       "She prefers to work in a highly autonomous role."
     ]
   }
+},
+{
+  "id": "automatic",
+  "sid": "2026-00126",
+  "word": "automatic",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "technology",
+    "process",
+    "behavior",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj / noun"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɔːtəˈmætɪk/",
+      "uk": "/ˌɔːtəˈmætɪk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "自動の、自動的な",
+      "人がその都度操作しなくても作動する",
+      "無意識的な、反射的な"
+    ],
+    "en": [
+      "operating by itself according to a mechanism, setting, or predetermined process",
+      "happening without deliberate human intervention",
+      "done instinctively or without conscious thought"
+    ]
+  },
+  "nuance": {
+    "ja": "機械・装置・処理などが、人が一回一回操作しなくても、あらかじめ組み込まれた仕組みや条件に従って作動することを表す。重要なのは『自動で動く』ことであり、autonomous のように状況を理解して独自に判断する能力までは含まれない。また automatic response, automatic reaction のように、人間の行動について『考える前に反射的・無意識的に起こる』という意味でもよく使う。",
+    "en": "Automatic means operating or occurring without direct intervention each time, usually according to a mechanism, rule, setting, or predetermined process. It does not by itself imply independent judgment or decision-making, which is central to autonomous. The word is also commonly used for human behavior that occurs instinctively or without conscious thought, as in an automatic reaction."
+  },
+  "minimal": {
+    "ja": [
+      "automatic：設定・仕組みに従って人の都度操作なしに動く『自動の』。",
+      "autonomous：外部の直接制御なしに自ら判断・制御する『自律的な』。",
+      "automated：人手で行っていた工程が機械・ソフトウェアによって自動化された。",
+      "mechanical：機械的な。また比喩的に、考えず形式的に行う。",
+      "instinctive：本能的・直感的に起こる。",
+      "automatic は『自動作動』、autonomous は『自己判断』に重点がある。"
+    ],
+    "en": [
+      "automatic means operating by itself according to a mechanism or preset process.",
+      "autonomous means capable of self-direction or independent decision-making.",
+      "automated means converted from manual operation to machine- or software-controlled operation.",
+      "mechanical can mean machine-related or performed without thought.",
+      "instinctive means arising naturally without conscious reasoning.",
+      "automatic emphasizes self-operation; autonomous emphasizes self-direction."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 automatos『自ら動く、自発的に起こる』に由来する。autos『自ら』+ matos に由来するとされ、古くから『外から直接動かされず、自ら生じる』という意味を持った。そこから機械技術の発達に伴い、『人が操作し続けなくても機構によって動く』という現代的な意味が定着した。automaton『自動人形、自動機械』も同系。",
+    "en": "From Greek automatos ('acting of oneself, spontaneous'). The word originally referred to something happening or moving of itself, and with the development of machinery it came to describe devices and processes that operate without continuous human intervention. Automaton is from the same Greek source."
+  },
+  "synonyms": [
+    {
+      "word": "automated",
+      "note": {
+        "ja": "automatic が装置・機能そのものの性質を表すのに対し、automated は『人手の工程が自動化されている』ことを強調する。",
+        "en": "Automatic describes how something operates, while automated often emphasizes that a formerly manual process has been converted to machine or software control."
+      }
+    },
+    {
+      "word": "mechanical",
+      "note": {
+        "ja": "機械に関する意味のほか、『考えず型どおりに行う』という比喩的意味がある。",
+        "en": "Can refer literally to machinery or figuratively to behavior performed routinely and without thought."
+      }
+    },
+    {
+      "word": "instinctive",
+      "note": {
+        "ja": "人間や動物の反応について、本能・直感によって自然に起こることを表す。",
+        "en": "Used especially for reactions arising naturally from instinct rather than deliberate thought."
+      }
+    },
+    {
+      "word": "autonomous",
+      "note": {
+        "ja": "単に自動で作動するだけでなく、一定の自己判断・自己制御を行うことを強調する。",
+        "en": "Goes beyond simple self-operation and emphasizes self-direction or independent decision-making."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "automatisch",
+    "it": "automatico",
+    "fr": "automatique",
+    "es": "automático"
+  },
+  "collocations": {
+    "ja": [
+      "an automatic door — 自動ドア",
+      "an automatic transmission — オートマチック変速機",
+      "an automatic response — 自動的・反射的な反応",
+      "an automatic process — 自動処理",
+      "automatic renewal — 自動更新",
+      "automatic payment — 自動支払い",
+      "automatically generated — 自動生成された",
+      "switch on automatically — 自動的に作動する"
+    ],
+    "en": [
+      "an automatic door",
+      "an automatic transmission",
+      "an automatic response",
+      "an automatic process",
+      "automatic renewal",
+      "automatic payment",
+      "automatically generated",
+      "switch on automatically"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The doors open automatically when someone approaches. — 誰かが近づくと、そのドアは自動的に開く。",
+      "The system sends an automatic notification when the payment is received. — 支払いを受け取ると、システムは自動通知を送信する。",
+      "The subscription will be renewed automatically unless you cancel it. — 解約しない限り、その契約は自動更新される。",
+      "His first reaction was almost automatic. — 彼の最初の反応はほとんど反射的なものだった。",
+      "An automatic system can operate without being truly autonomous. — 自動システムは、真に自律的でなくても作動できる。"
+    ],
+    "en": [
+      "The doors open automatically when someone approaches.",
+      "The system sends an automatic notification when the payment is received.",
+      "The subscription will be renewed automatically unless you cancel it.",
+      "His first reaction was almost automatic.",
+      "An automatic system can operate without being truly autonomous."
+    ]
+  }
+},
+{
+  "id": "automated",
+  "sid": "2026-00127",
+  "word": "automated",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "technology",
+    "process",
+    "work",
+    "systems"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɔːtəˌmeɪtɪd/",
+      "uk": "/ˈɔːtəmeɪtɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "自動化された",
+      "機械・ソフトウェアによって自動処理される",
+      "人手を減らすよう自動化された"
+    ],
+    "en": [
+      "controlled or carried out automatically by machines or software",
+      "converted from manual operation to automatic operation",
+      "performed with reduced direct human intervention"
+    ]
+  },
+  "nuance": {
+    "ja": "人が手作業で行っていた、または人による操作を必要としていた工程・処理・システムが、機械やソフトウェアによって自動的に実行されるようになっていることを表す。automatic が装置や機能そのものの『自動で動く性質』を表しやすいのに対し、automated は『自動化という処置が施された結果の状態』に焦点がある。autonomous のような自己判断能力までは意味しない。",
+    "en": "Automated describes a process, system, or operation that has been set up so that machines or software perform tasks that would otherwise require human action. Compared with automatic, it more strongly suggests that a manual process has been converted into an automatic one. It does not by itself imply the independent decision-making associated with autonomous."
+  },
+  "minimal": {
+    "ja": [
+      "automated：人手の工程が機械・ソフトウェアによって『自動化された』。",
+      "automatic：仕組み・条件に従って自動的に作動する。",
+      "autonomous：外部の直接制御なしに自ら判断・制御する。",
+      "mechanized：人力を機械力に置き換えた。必ずしも自動ではない。",
+      "computerized：コンピューターを導入・利用するようにした。",
+      "robotic：ロボットによる、またはロボットのような。"
+    ],
+    "en": [
+      "automated means converted so that machines or software perform the task automatically.",
+      "automatic means operating by itself according to a mechanism or preset process.",
+      "autonomous means capable of self-direction or independent decision-making.",
+      "mechanized means using machines instead of human or animal power and need not be automatic.",
+      "computerized means equipped with or converted to computer-based operation.",
+      "robotic means involving robots or resembling robot-like operation."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 automate『自動化する』の過去分詞・形容詞用法。automate は automation から逆成された語で、その基礎には automatic、さらにギリシャ語 automatos『自ら動く、自発的に起こる』がある。20世紀に工場・産業工程の自動制御が発達するにつれて、automate / automated / automation が技術・経済分野で広く使われるようになった。",
+    "en": "The past participle and adjectival form of automate ('to make a process automatic'). Automate was formed from automation and is ultimately related to automatic and Greek automatos ('acting of itself, spontaneous'). The automate/automation family became especially prominent in the 20th century with the growth of automatic industrial control."
+  },
+  "synonyms": [
+    {
+      "word": "automatic",
+      "note": {
+        "ja": "automatic は『自動で動く性質』に焦点がある。automated は人間の作業を自動処理へ移したという背景を示しやすい。",
+        "en": "Automatic emphasizes self-operation, while automated often suggests that a previously manual task has been converted to automatic operation."
+      }
+    },
+    {
+      "word": "mechanized",
+      "note": {
+        "ja": "機械を導入して人力を置き換えたことを表すが、人間が機械を操作していても mechanized と言える。",
+        "en": "Means that machinery has replaced human or animal power, but the machinery may still require direct human operation."
+      }
+    },
+    {
+      "word": "computerized",
+      "note": {
+        "ja": "情報・管理・処理などにコンピューターを導入したことを表す。自動化されているとは限らない。",
+        "en": "Means converted to or controlled with computers, but the process need not be fully automated."
+      }
+    },
+    {
+      "word": "autonomous",
+      "note": {
+        "ja": "automated より一歩進み、環境に応じて一定の自己判断を行うことを示唆する。",
+        "en": "Goes beyond automation by suggesting some capacity for independent decision-making or self-direction."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "automatisiert",
+    "it": "automatizzato",
+    "fr": "automatisé",
+    "es": "automatizado"
+  },
+  "collocations": {
+    "ja": [
+      "an automated system — 自動化システム",
+      "an automated process — 自動化された工程",
+      "automated manufacturing — 自動化された製造",
+      "automated testing — 自動テスト",
+      "automated data processing — 自動データ処理",
+      "an automated response — 自動応答",
+      "a fully automated factory — 完全自動化工場",
+      "highly automated — 高度に自動化された"
+    ],
+    "en": [
+      "an automated system",
+      "an automated process",
+      "automated manufacturing",
+      "automated testing",
+      "automated data processing",
+      "an automated response",
+      "a fully automated factory",
+      "highly automated"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company introduced an automated system for processing invoices. — その会社は請求書処理のための自動化システムを導入した。",
+      "Most of the production process is now fully automated. — 製造工程の大部分は現在、完全に自動化されている。",
+      "Automated testing can detect errors much faster than manual inspection. — 自動テストは手作業の検査よりはるかに速くエラーを検出できる。",
+      "Customers receive an automated response immediately after submitting the form. — 顧客はフォームを送信するとすぐに自動応答を受け取る。",
+      "An automated system is not necessarily an autonomous one. — 自動化されたシステムが必ずしも自律システムであるとは限らない。"
+    ],
+    "en": [
+      "The company introduced an automated system for processing invoices.",
+      "Most of the production process is now fully automated.",
+      "Automated testing can detect errors much faster than manual inspection.",
+      "Customers receive an automated response immediately after submitting the form.",
+      "An automated system is not necessarily an autonomous one."
+    ]
+  }
+},
+{
+  "id": "mechanized",
+  "sid": "2026-00128",
+  "word": "mechanized",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "technology",
+    "industry",
+    "process",
+    "military"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈmekənaɪzd/",
+      "uk": "/ˈmekənaɪzd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "機械化された",
+      "機械力を導入した",
+      "機械装備された"
+    ],
+    "en": [
+      "equipped with or operated using machinery",
+      "converted from manual or animal-powered work to machine-powered operation",
+      "provided with vehicles or machinery, especially in military contexts"
+    ]
+  },
+  "nuance": {
+    "ja": "人力・手作業・畜力などで行っていた作業に機械を導入し、機械力によって行うようにしたことを表す。重要なのは『機械を使うようになった』ことであり、人間の操作が不要になったとは限らない。したがって mechanized agriculture はトラクターなどを使う農業を意味するが、必ずしも automated agriculture ではない。軍事では mechanized infantry のように、装甲車両などを用いて機動する部隊を表す。",
+    "en": "Mechanized means equipped with or converted to the use of machinery, especially where work was previously done manually or by animal power. It does not imply that human operators have been removed. Thus mechanized agriculture may involve tractors and harvesters controlled by people without being automated. In military contexts, mechanized commonly refers to troops equipped with armored or other military vehicles."
+  },
+  "minimal": {
+    "ja": [
+      "mechanized：人力・手作業を機械力に置き換えた『機械化された』。",
+      "automated：人が行っていた工程が自動制御されるようになった。",
+      "automatic：仕組み・条件に従って自動的に作動する。",
+      "computerized：コンピューターを導入した。",
+      "industrialized：生産・社会が工業中心へ移行した。",
+      "robotic：ロボットによる、またはロボット技術を用いた。"
+    ],
+    "en": [
+      "mechanized means equipped with machinery or converted from manual labor to machine power.",
+      "automated means set up so that machines or software carry out tasks automatically.",
+      "automatic means operating by itself according to a mechanism or preset process.",
+      "computerized means converted to or equipped with computer-based operation.",
+      "industrialized means transformed toward large-scale industrial production.",
+      "robotic means involving robots or robotic technology."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 mechanize『機械化する』の過去分詞・形容詞用法。mechanize は machine / mechanism と同じ語族で、最終的にはギリシャ語 mēkhanē『機械、装置、工夫』にさかのぼる。もともとは『機械を導入する、機械によって行うようにする』という意味であり、20世紀の農業・工業・軍事の発展とともに広く使われるようになった。",
+    "en": "The past participle and adjectival form of mechanize ('to equip with machinery or convert to machine operation'). It belongs to the same word family as machine and mechanism and ultimately goes back to Greek mēkhanē ('machine, device, contrivance'). The word became especially prominent with the mechanization of agriculture, industry, and warfare."
+  },
+  "synonyms": [
+    {
+      "word": "automated",
+      "note": {
+        "ja": "automated は作業そのものが自動的に行われることを強調する。mechanized は人が機械を操作していても成立する。",
+        "en": "Automated emphasizes automatic execution of tasks, whereas mechanized can still involve continuous human operation."
+      }
+    },
+    {
+      "word": "motorized",
+      "note": {
+        "ja": "エンジン・モーターで動くようにしたことを表す。mechanized より範囲が狭い。",
+        "en": "Specifically means equipped with a motor or engine and is narrower than mechanized."
+      }
+    },
+    {
+      "word": "industrialized",
+      "note": {
+        "ja": "社会・経済・生産が工業化されたことを表す。個々の作業の機械化とは異なる。",
+        "en": "Refers to the broader development of industrial production and society, rather than simply introducing machinery into a task."
+      }
+    },
+    {
+      "word": "robotic",
+      "note": {
+        "ja": "ロボットによる作業を表す。mechanized より高度な自動化・制御を伴う場合が多い。",
+        "en": "Refers specifically to robots or robotic systems and often implies a more advanced level of control or automation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "mechanisiert",
+    "it": "meccanizzato",
+    "fr": "mécanisé",
+    "es": "mecanizado"
+  },
+  "collocations": {
+    "ja": [
+      "mechanized agriculture — 機械化農業",
+      "mechanized farming — 機械化された農業",
+      "mechanized production — 機械化された生産",
+      "a mechanized process — 機械化された工程",
+      "mechanized equipment — 機械設備",
+      "mechanized infantry — 機械化歩兵",
+      "a highly mechanized industry — 高度に機械化された産業",
+      "become increasingly mechanized — 次第に機械化される"
+    ],
+    "en": [
+      "mechanized agriculture",
+      "mechanized farming",
+      "mechanized production",
+      "a mechanized process",
+      "mechanized equipment",
+      "mechanized infantry",
+      "a highly mechanized industry",
+      "become increasingly mechanized"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Agriculture became increasingly mechanized during the twentieth century. — 20世紀には農業の機械化が次第に進んだ。",
+      "The factory uses a highly mechanized production process. — その工場では高度に機械化された生産工程を用いている。",
+      "Mechanized farming greatly reduced the amount of manual labor required. — 農業の機械化によって必要な人手は大幅に減った。",
+      "The army deployed mechanized infantry to the region. — 軍はその地域に機械化歩兵部隊を展開した。",
+      "A mechanized process may still require skilled human operators. — 機械化された工程でも、熟練した人間の操作者が必要な場合がある。"
+    ],
+    "en": [
+      "Agriculture became increasingly mechanized during the twentieth century.",
+      "The factory uses a highly mechanized production process.",
+      "Mechanized farming greatly reduced the amount of manual labor required.",
+      "The army deployed mechanized infantry to the region.",
+      "A mechanized process may still require skilled human operators."
+    ]
+  }
+},
+{
+  "id": "inhibit",
+  "sid": "2026-00129",
+  "word": "inhibit",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "restriction",
+    "behavior",
+    "biology",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "inhibit – inhibited – inhibited"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈhɪbɪt/",
+      "uk": "/ɪnˈhɪbɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "抑制する、妨げる",
+      "活動・成長・反応などを弱める",
+      "人の行動を遠慮させる、萎縮させる"
+    ],
+    "en": [
+      "to make an action, process, or development slower or less likely",
+      "to restrain or reduce the activity of something",
+      "to make someone feel unable to behave or express themselves freely"
+    ]
+  },
+  "nuance": {
+    "ja": "何かを完全に止めるというより、自由な進行・活動・反応を抑えたり弱めたりすることを表す。科学・医学では enzyme activity, growth, reaction などを『阻害する』という意味で頻出する。人については fear inhibited him のように、恐怖・緊張・社会的圧力などが人を萎縮させ、自然な行動や発言をしにくくする意味でも使う。prevent より『抑制』、hinder より『内部の活動や反応を弱める』ニュアンスが強い。",
+    "en": "Inhibit usually means to restrain, reduce, or slow an activity rather than necessarily stopping it completely. In scientific contexts, it commonly refers to reducing biological or chemical activity. With people, it can mean making someone feel restrained, self-conscious, or unable to act naturally. Compared with prevent, it is less absolute; compared with hinder, it more often suggests suppressing an internal process or response."
+  },
+  "minimal": {
+    "ja": [
+      "inhibit：活動・成長・反応・行動を抑制する。",
+      "prevent：何かが起こるのを防ぐ・阻止する。",
+      "hinder：進行を妨げ、やりにくくする。",
+      "restrain：行動・感情・力などを抑える。",
+      "suppress：強く押さえ込む、表面化を防ぐ。",
+      "impede：進行・移動を遅らせる、妨げる。"
+    ],
+    "en": [
+      "inhibit means to restrain or reduce an activity, process, or behavior.",
+      "prevent means to stop something from happening.",
+      "hinder means to make progress or action more difficult.",
+      "restrain means to hold back action, emotion, or force.",
+      "suppress means to forcefully keep something under control or prevent it from appearing.",
+      "impede means to slow or obstruct progress or movement."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 inhibere『抑える、引き止める』に由来する。in-『中に、上に』+ habere『持つ』から成り、原義は『中に保持して外へ出さない』というイメージ。そこから『抑える、妨げる、活動を制限する』という意味が発達した。habit, habitat, exhibit などと同じ habere 系の語族に属する。",
+    "en": "From Latin inhibere ('to hold back, restrain'), formed from in- and habere ('to hold, have'). The underlying image is that of holding something in or keeping it from moving freely. This developed into the modern senses of restraining behavior and reducing biological, chemical, or other activity."
+  },
+  "synonyms": [
+    {
+      "word": "restrain",
+      "note": {
+        "ja": "行動・感情・力などを直接抑えることに重点がある。inhibit は活動や反応の程度を弱める意味でより広く使える。",
+        "en": "Emphasizes holding back behavior, emotion, or force, while inhibit readily applies to processes and reactions as well."
+      }
+    },
+    {
+      "word": "suppress",
+      "note": {
+        "ja": "より強く押さえ込む語。感情・反乱・情報・症状などが表に出ないようにする。",
+        "en": "Stronger and often suggests forcefully preventing something from being expressed, spreading, or appearing."
+      }
+    },
+    {
+      "word": "hinder",
+      "note": {
+        "ja": "進行や達成を困難にすることに重点があり、必ずしも活動そのものを抑えるわけではない。",
+        "en": "Focuses on making progress or achievement more difficult rather than directly reducing the activity itself."
+      }
+    },
+    {
+      "word": "impede",
+      "note": {
+        "ja": "移動・進展・機能を遅らせる、妨げる。inhibit より外的な障害を連想しやすい。",
+        "en": "Often suggests an obstacle that slows movement, progress, or function, whereas inhibit more readily suggests suppression of activity."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "hemmen / inhibieren",
+    "it": "inibire",
+    "fr": "inhiber",
+    "es": "inhibir"
+  },
+  "collocations": {
+    "ja": [
+      "inhibit growth — 成長を抑制する",
+      "inhibit activity — 活動を抑制する",
+      "inhibit an enzyme — 酵素を阻害する",
+      "inhibit a reaction — 反応を抑える",
+      "inhibit development — 発達・発展を妨げる",
+      "inhibit behavior — 行動を抑制する",
+      "be inhibited by fear — 恐怖によって萎縮する",
+      "strongly inhibit — 強く阻害する"
+    ],
+    "en": [
+      "inhibit growth",
+      "inhibit activity",
+      "inhibit an enzyme",
+      "inhibit a reaction",
+      "inhibit development",
+      "inhibit behavior",
+      "be inhibited by fear",
+      "strongly inhibit"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The drug inhibits the growth of certain bacteria. — その薬は特定の細菌の増殖を抑制する。",
+      "Low temperatures can inhibit enzyme activity. — 低温は酵素活性を抑えることがある。",
+      "Fear of criticism inhibited him from speaking openly. — 批判されることへの恐れのため、彼は率直に話すことができなかった。",
+      "Excessive regulation may inhibit innovation. — 過度な規制はイノベーションを阻害する可能性がある。",
+      "Her presence seemed to inhibit the conversation. — 彼女がいることで、会話がどこかぎこちなく抑えられているようだった。"
+    ],
+    "en": [
+      "The drug inhibits the growth of certain bacteria.",
+      "Low temperatures can inhibit enzyme activity.",
+      "Fear of criticism inhibited him from speaking openly.",
+      "Excessive regulation may inhibit innovation.",
+      "Her presence seemed to inhibit the conversation."
+    ]
+  }
 }
 ]
