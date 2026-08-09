@@ -9089,5 +9089,548 @@
       "Her immediate dismissal of the concerns surprised the committee."
     ]
   }
+},
+{
+  "id": "deteriorate",
+  "sid": "2026-00248",
+  "word": "deteriorate",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "general",
+    "formal",
+    "worsening",
+    "condition"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "deteriorate – deteriorated – deteriorated",
+    "transitivity": "intransitive / transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈtɪriəreɪt/",
+      "uk": "/dɪˈtɪəriəreɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "状態・品質・状況などが悪化する、劣化する",
+      "関係・健康・経済状況などが次第に悪くなる",
+      "状態や品質を悪化させる"
+    ],
+    "en": [
+      "to become worse in condition, quality, or value",
+      "to decline gradually in health, relations, performance, or circumstances",
+      "to cause something to become worse"
+    ]
+  },
+  "nuance": {
+    "ja": "急激な悪化にも使えるが、典型的には時間の経過とともに状態が徐々に悪くなることを表す。health, condition, relations, situation, quality など幅広い対象を取る。worsen よりややフォーマルで、客観的な状態変化を述べる文脈に向く。特に自動詞として 'conditions deteriorated' のように使われることが多い。",
+    "en": "Deteriorate commonly describes a gradual worsening in condition, quality, health, relations, or circumstances. It is somewhat more formal than worsen and is especially common in objective descriptions of changing conditions. It is very often used intransitively."
+  },
+  "minimal": {
+    "ja": [
+      "deteriorate：状態・品質などが悪化する。ややフォーマル。",
+      "worsen：悪くなる／悪くする最も一般的な語。",
+      "decline：水準・量・能力などが低下する。",
+      "degrade：品質・性能・価値などを劣化させる、または劣化する。",
+      "exacerbate：既存の問題・症状をさらに悪化させる。通常は他動詞。",
+      "decay：物質・組織などが腐敗・崩壊していく。"
+    ],
+    "en": [
+      "deteriorate means to become worse in condition or quality and is somewhat formal.",
+      "worsen is the most general verb for becoming or making something worse.",
+      "decline often describes a fall in level, amount, ability, or performance.",
+      "degrade means to reduce or lose quality, performance, or value.",
+      "exacerbate means to make an existing problem or symptom more severe and is usually transitive.",
+      "decay suggests physical or structural decomposition."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 deterior『より悪い』に由来する。deteriorate はそこから『より悪い状態にする／なる』という意味になった。deterioration はその名詞形。",
+    "en": "From Latin deterior, meaning 'worse'. Deteriorate developed the sense 'to become or make worse', and deterioration is its corresponding noun."
+  },
+  "synonyms": [
+    {
+      "word": "worsen",
+      "note": {
+        "ja": "最も一般的な『悪化する／させる』。deteriorate の方がややフォーマル。",
+        "en": "The general verb for becoming or making something worse; deteriorate is somewhat more formal."
+      }
+    },
+    {
+      "word": "decline",
+      "note": {
+        "ja": "水準・能力・業績などが下がることに重点。",
+        "en": "Focuses more on a downward movement in level, ability, performance, or quantity."
+      }
+    },
+    {
+      "word": "degrade",
+      "note": {
+        "ja": "品質・性能・状態が低下すること。技術・環境分野でも多い。",
+        "en": "Often refers to loss of quality or performance and is common in technical and environmental contexts."
+      }
+    },
+    {
+      "word": "exacerbate",
+      "note": {
+        "ja": "すでに存在する問題・症状をさらに深刻にする。",
+        "en": "Means to make an existing problem or symptom more severe."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sich verschlechtern",
+    "it": "deteriorarsi / peggiorare",
+    "fr": "se détériorer",
+    "es": "deteriorarse / empeorar"
+  },
+  "collocations": {
+    "ja": [
+      "conditions deteriorate — 状況が悪化する",
+      "health deteriorates — 健康状態が悪化する",
+      "relations deteriorate — 関係が悪化する",
+      "the situation deteriorates — 事態が悪化する",
+      "quality deteriorates — 品質が低下する",
+      "rapidly deteriorate — 急速に悪化する",
+      "gradually deteriorate — 徐々に悪化する",
+      "deteriorate further — さらに悪化する"
+    ],
+    "en": [
+      "conditions deteriorate",
+      "health deteriorates",
+      "relations deteriorate",
+      "the situation deteriorates",
+      "quality deteriorates",
+      "rapidly deteriorate",
+      "gradually deteriorate",
+      "deteriorate further"
+    ]
+  },
+  "example": {
+    "ja": [
+      "His health deteriorated rapidly after the operation. — 彼の健康状態は手術後に急速に悪化した。",
+      "Relations between the two countries have deteriorated. — 両国関係は悪化している。",
+      "The situation continued to deteriorate throughout the night. — 状況は夜通し悪化し続けた。",
+      "The road surface has deteriorated badly over the years. — その道路の路面は長年のうちにひどく劣化した。",
+      "Without proper storage, the quality of the product may deteriorate. — 適切に保管しなければ、その製品の品質は低下する可能性がある。"
+    ],
+    "en": [
+      "His health deteriorated rapidly after the operation.",
+      "Relations between the two countries have deteriorated.",
+      "The situation continued to deteriorate throughout the night.",
+      "The road surface has deteriorated badly over the years.",
+      "Without proper storage, the quality of the product may deteriorate."
+    ]
+  }
+},
+{
+  "id": "exacerbate",
+  "sid": "2026-00249",
+  "word": "exacerbate",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "worsening",
+    "problem",
+    "medical"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "exacerbate – exacerbated – exacerbated",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪɡˈzæsərbeɪt/",
+      "uk": "/ɪɡˈzæsəbeɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "既存の問題・症状・状況などをさらに悪化させる",
+      "対立・緊張・格差などを一層深刻にする"
+    ],
+    "en": [
+      "to make an existing problem, condition, or symptom worse",
+      "to increase the severity of tension, conflict, inequality, or another negative situation"
+    ]
+  },
+  "nuance": {
+    "ja": "すでに存在している好ましくない状態を『さらに深刻にする』ことを表すフォーマルな他動詞。medical symptoms, problems, tensions, inequalities, shortages などと相性がよい。単に悪化する deteriorate と異なり、通常は『何かが何かを悪化させる』という因果関係を表す。",
+    "en": "Exacerbate is a formal transitive verb meaning to make an already existing negative condition more severe. It is especially common with symptoms, problems, tensions, inequalities, shortages, and conflicts. Unlike deteriorate, which often describes something becoming worse by itself, exacerbate normally identifies a factor that makes something worse."
+  },
+  "minimal": {
+    "ja": [
+      "exacerbate：既存の問題・症状などをさらに悪化させる。",
+      "deteriorate：状態・品質などが悪化する。自動詞で特に多い。",
+      "worsen：悪化する／悪化させる一般語。",
+      "aggravate：問題・症状を悪化させる。exacerbate に非常に近い。",
+      "intensify：程度を強める。必ずしも悪いものとは限らない。",
+      "compound：問題に別の問題を加えてさらに深刻にする。"
+    ],
+    "en": [
+      "exacerbate means to make an existing problem or symptom more severe.",
+      "deteriorate commonly means to become worse in condition or quality.",
+      "worsen is the general verb for becoming or making something worse.",
+      "aggravate is very close to exacerbate and often means to worsen a problem or symptom.",
+      "intensify means to increase in strength and is not necessarily negative.",
+      "compound means to make a problem worse by adding another difficulty."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 exacerbare『刺激する、さらに厳しくする』に由来する。ex-『強意・外へ』＋ acerbus『苦い、厳しい、苛烈な』から成る。acerbus は『辛辣な、厳しい』という意味の英語 acer­bic とも同系。",
+    "en": "From Latin exacerbare, meaning 'to irritate or make harsher', formed from ex- plus acerbus ('bitter, harsh, severe'). Acerbus is also related to English acerbic."
+  },
+  "synonyms": [
+    {
+      "word": "aggravate",
+      "note": {
+        "ja": "exacerbate と非常に近く、症状・問題をさらに悪くする。日常語では aggravate の方がやや一般的。",
+        "en": "Very close to exacerbate; often means to make a symptom or problem worse and is somewhat more common in everyday English."
+      }
+    },
+    {
+      "word": "worsen",
+      "note": {
+        "ja": "最も一般的な『悪化する／させる』。exacerbate の方が硬く、既存の問題の深刻化を強調。",
+        "en": "The general verb for making something worse; exacerbate is more formal and stresses increased severity."
+      }
+    },
+    {
+      "word": "intensify",
+      "note": {
+        "ja": "強度を増す・増させる。悪化とは限らない。",
+        "en": "Means to increase intensity and does not inherently imply something negative."
+      }
+    },
+    {
+      "word": "compound",
+      "note": {
+        "ja": "新たな要因を加えることで問題を一層複雑・深刻にする。",
+        "en": "Means to make a problem worse by adding another difficulty or adverse factor."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verschärfen / verschlimmern",
+    "it": "aggravare / esacerbare",
+    "fr": "aggraver / exacerber",
+    "es": "agravar / exacerbar"
+  },
+  "collocations": {
+    "ja": [
+      "exacerbate a problem — 問題をさらに悪化させる",
+      "exacerbate symptoms — 症状を悪化させる",
+      "exacerbate tensions — 緊張をさらに高める",
+      "exacerbate inequality — 格差を拡大・深刻化させる",
+      "exacerbate a shortage — 不足をさらに深刻にする",
+      "exacerbate the situation — 状況をさらに悪化させる",
+      "further exacerbate — さらに一層悪化させる",
+      "risk exacerbating — 悪化させる恐れがある"
+    ],
+    "en": [
+      "exacerbate a problem",
+      "exacerbate symptoms",
+      "exacerbate tensions",
+      "exacerbate inequality",
+      "exacerbate a shortage",
+      "exacerbate the situation",
+      "further exacerbate",
+      "risk exacerbating"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The new restrictions may exacerbate the housing shortage. — 新たな規制は住宅不足をさらに深刻化させる可能性がある。",
+      "Stress can exacerbate the symptoms. — ストレスは症状を悪化させることがある。",
+      "His remarks only exacerbated tensions between the two groups. — 彼の発言は両集団間の緊張を一層悪化させただけだった。",
+      "Higher food prices could exacerbate existing inequalities. — 食料価格の上昇は既存の格差をさらに深刻化させる可能性がある。",
+      "Delaying the repairs will only exacerbate the problem. — 修理を遅らせれば問題をさらに悪化させるだけだ。"
+    ],
+    "en": [
+      "The new restrictions may exacerbate the housing shortage.",
+      "Stress can exacerbate the symptoms.",
+      "His remarks only exacerbated tensions between the two groups.",
+      "Higher food prices could exacerbate existing inequalities.",
+      "Delaying the repairs will only exacerbate the problem."
+    ]
+  }
+},
+{
+  "id": "aggravate",
+  "sid": "2026-00250",
+  "word": "aggravate",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "general",
+    "formal",
+    "medical",
+    "worsening"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "aggravate – aggravated – aggravated",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈæɡrəveɪt/",
+      "uk": "/ˈæɡrəveɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "問題・症状・状況などをさらに悪化させる",
+      "人をいら立たせる、怒らせる"
+    ],
+    "en": [
+      "to make a problem, condition, or symptom worse",
+      "to annoy or irritate someone"
+    ]
+  },
+  "nuance": {
+    "ja": "中心義は『すでに好ましくない状態をさらに悪化させる』こと。medical symptoms, injuries, problems, tensions, conditions などとよく結び付く。exacerbate と非常に近いが、aggravate の方がやや一般的で会話にも出やすい。また特に米語では『人をいら立たせる』という意味でもよく使われる。",
+    "en": "Aggravate primarily means to make an existing problem, condition, symptom, or injury worse. It is very close to exacerbate but is somewhat more common in general usage. Especially in American English, it can also mean to annoy or irritate someone."
+  },
+  "minimal": {
+    "ja": [
+      "aggravate：問題・症状などをさらに悪化させる。人をいら立たせる意味もある。",
+      "exacerbate：既存の問題をさらに深刻化させる。よりフォーマル。",
+      "worsen：悪化する／悪化させる最も一般的な語。",
+      "deteriorate：状態・品質などが悪化する。自動詞で特に多い。",
+      "irritate：人をいら立たせる、皮膚などを刺激する。",
+      "compound：別の悪要因を加えて問題をさらに深刻化させる。"
+    ],
+    "en": [
+      "aggravate means to make a problem or symptom worse and can also mean to annoy someone.",
+      "exacerbate is a more formal verb for making an existing problem more severe.",
+      "worsen is the most general verb for becoming or making something worse.",
+      "deteriorate often means to become worse in condition or quality.",
+      "irritate means to annoy someone or cause physical irritation.",
+      "compound means to make a problem worse by adding another adverse factor."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 aggravare『重くする、重荷を加える』に由来し、ad-『〜へ』＋ gravis『重い』から成る。つまり原義は『より重くする』。gravity, grave, gravid なども同じ grav-『重い』系。",
+    "en": "From Latin aggravare, meaning 'to make heavier or burden', formed from ad- plus gravis ('heavy'). The original sense was literally 'to make heavier'. The same root appears in gravity, grave, and gravid."
+  },
+  "synonyms": [
+    {
+      "word": "exacerbate",
+      "note": {
+        "ja": "非常に近い語。exacerbate の方がややフォーマルで、問題・対立・症状の深刻化を強調する。",
+        "en": "Very close in meaning; exacerbate is somewhat more formal and strongly emphasizes increased severity."
+      }
+    },
+    {
+      "word": "worsen",
+      "note": {
+        "ja": "最も一般的な『悪化させる』。",
+        "en": "The most general verb for making something worse."
+      }
+    },
+    {
+      "word": "irritate",
+      "note": {
+        "ja": "『人をいら立たせる』という意味では近いが、問題を悪化させる意味とは別。",
+        "en": "Close in the sense of annoying someone, but distinct from worsening a condition."
+      }
+    },
+    {
+      "word": "compound",
+      "note": {
+        "ja": "新たな問題や要因を加えることで悪化させる。",
+        "en": "Means to worsen a problem by adding another difficulty or adverse factor."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verschlimmern / verschärfen / ärgern",
+    "it": "aggravare / irritare",
+    "fr": "aggraver / irriter",
+    "es": "agravar / irritar"
+  },
+  "collocations": {
+    "ja": [
+      "aggravate a problem — 問題を悪化させる",
+      "aggravate symptoms — 症状を悪化させる",
+      "aggravate an injury — けがを悪化させる",
+      "aggravate the situation — 状況を悪化させる",
+      "aggravate tensions — 緊張をさらに高める",
+      "aggravate an existing condition — 既存の症状・疾患を悪化させる",
+      "be aggravated by stress — ストレスによって悪化する",
+      "really aggravate someone — 人をひどくいら立たせる"
+    ],
+    "en": [
+      "aggravate a problem",
+      "aggravate symptoms",
+      "aggravate an injury",
+      "aggravate the situation",
+      "aggravate tensions",
+      "aggravate an existing condition",
+      "be aggravated by stress",
+      "really aggravate someone"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Exercise may aggravate the injury if you return too soon. — 早く運動を再開しすぎると、そのけがを悪化させる可能性がある。",
+      "Stress can aggravate the symptoms. — ストレスは症状を悪化させることがある。",
+      "His comments aggravated an already tense situation. — 彼の発言はすでに緊張していた状況をさらに悪化させた。",
+      "The cold weather aggravated her condition. — 寒い天候が彼女の症状を悪化させた。",
+      "It really aggravates me when people interrupt constantly. — 人が絶えず話を遮ると本当にいらいらする。"
+    ],
+    "en": [
+      "Exercise may aggravate the injury if you return too soon.",
+      "Stress can aggravate the symptoms.",
+      "His comments aggravated an already tense situation.",
+      "The cold weather aggravated her condition.",
+      "It really aggravates me when people interrupt constantly."
+    ]
+  }
+},
+{
+  "id": "compound",
+  "sid": "2026-00251",
+  "word": "compound",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "general",
+    "formal",
+    "science",
+    "worsening"
+  ],
+  "grammar": {
+    "pos": "noun / adjective / verb",
+    "forms": "compound – compounded – compounded",
+    "transitivity": "transitive / intransitive",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkɑːmpaʊnd/ (noun/adjective), /kəmˈpaʊnd/ (verb)",
+      "uk": "/ˈkɒmpaʊnd/ (noun/adjective), /kəmˈpaʊnd/ (verb)"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（名詞）複合物、化合物",
+      "（形容詞）複合の、複数の要素から成る",
+      "（動詞）問題・困難などをさらに悪化させる",
+      "（動詞）複数の要素を組み合わせる、複利計算する"
+    ],
+    "en": [
+      "a substance or thing made of two or more elements or parts",
+      "consisting of two or more parts",
+      "to make a problem or difficult situation worse by adding another problem or factor",
+      "to combine elements or to calculate interest on accumulated interest"
+    ]
+  },
+  "nuance": {
+    "ja": "動詞として問題・困難を『さらに悪化させる』場合、単に程度を強める exacerbate / aggravate と違い、『別の問題や悪要因が加わって、もとの問題がさらに深刻になる』というニュアンスが強い。名詞では chemistry の chemical compound『化合物』、形容詞では compound interest『複利』や compound sentence『重文』など、複数要素から成るものを表す。",
+    "en": "As a verb meaning 'make worse', compound often suggests that an additional problem or adverse factor is added to an existing one. This differs slightly from exacerbate or aggravate, which focus more directly on increasing severity. As a noun and adjective, compound refers to something made up of multiple elements or parts."
+  },
+  "minimal": {
+    "ja": [
+      "compound：別の問題・要因を加えて、既存の問題をさらに悪化させる。",
+      "exacerbate：既存の問題・症状の深刻さを増す。",
+      "aggravate：問題・症状などを悪化させる。より一般的。",
+      "worsen：悪化する／させる最も一般的な語。",
+      "combine：複数のものを組み合わせる。悪化の意味はない。",
+      "accumulate：徐々に蓄積する。"
+    ],
+    "en": [
+      "compound means to worsen an existing problem by adding another difficulty or factor.",
+      "exacerbate means to make an existing problem or symptom more severe.",
+      "aggravate means to make a problem or condition worse and is more general.",
+      "worsen is the most general verb for becoming or making something worse.",
+      "combine means to join things together and does not imply worsening.",
+      "accumulate means to build up gradually."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 componere『一緒に置く、組み合わせる』に由来し、com-『共に』＋ ponere『置く』から成る。そこから『複数のものを組み合わせる』という意味が生まれ、さらに『問題に別の問題を重ねる』→『悪化させる』という用法が発達した。compose, component, composite と同じ語族。",
+    "en": "Ultimately from Latin componere, meaning 'to put together', from com- ('together') plus ponere ('to put, place'). The sense 'make worse' developed from the idea of adding one problem to another. It is related to compose, component, and composite."
+  },
+  "synonyms": [
+    {
+      "word": "exacerbate",
+      "note": {
+        "ja": "既存の問題をより深刻にする。compound は別の悪要因が加わる感じが強い。",
+        "en": "Means to make an existing problem more severe; compound more strongly suggests an added adverse factor."
+      }
+    },
+    {
+      "word": "aggravate",
+      "note": {
+        "ja": "一般的な『悪化させる』。compound より追加要因のニュアンスが弱い。",
+        "en": "A more general verb for making something worse, without the same emphasis on an added factor."
+      }
+    },
+    {
+      "word": "combine",
+      "note": {
+        "ja": "複数のものを組み合わせる一般語。中立的。",
+        "en": "The neutral general verb for joining multiple things together."
+      }
+    },
+    {
+      "word": "accumulate",
+      "note": {
+        "ja": "時間とともに量・要素などが蓄積する。",
+        "en": "Means to build up or collect gradually over time."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verschärfen / zusammensetzen / Verbindung",
+    "it": "aggravare / comporre / composto",
+    "fr": "aggraver / composer / composé",
+    "es": "agravar / componer / compuesto"
+  },
+  "collocations": {
+    "ja": [
+      "compound a problem — 問題をさらに悪化させる",
+      "compound the difficulty — 困難をさらに大きくする",
+      "compound the situation — 状況をさらに悪化させる",
+      "compound the damage — 被害をさらに拡大する",
+      "compound existing inequalities — 既存の格差をさらに深刻化させる",
+      "compound interest — 複利",
+      "chemical compound — 化合物",
+      "compound sentence — 重文"
+    ],
+    "en": [
+      "compound a problem",
+      "compound the difficulty",
+      "compound the situation",
+      "compound the damage",
+      "compound existing inequalities",
+      "compound interest",
+      "chemical compound",
+      "compound sentence"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The delay compounded the problem. — 遅延がその問題をさらに悪化させた。",
+      "A shortage of staff compounded the difficulties facing the company. — 人員不足がその会社の抱える困難をさらに深刻化させた。",
+      "The economic downturn was compounded by rising energy prices. — 景気後退はエネルギー価格の上昇によってさらに深刻化した。",
+      "Interest is compounded annually. — 利息は年1回複利で計算される。",
+      "Water is a compound of hydrogen and oxygen. — 水は水素と酸素からなる化合物である。"
+    ],
+    "en": [
+      "The delay compounded the problem.",
+      "A shortage of staff compounded the difficulties facing the company.",
+      "The economic downturn was compounded by rising energy prices.",
+      "Interest is compounded annually.",
+      "Water is a compound of hydrogen and oxygen."
+    ]
+  }
 }
 ]
