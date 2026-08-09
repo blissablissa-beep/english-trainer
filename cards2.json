@@ -3109,5 +3109,2175 @@
       "He got detention for repeatedly arriving late to class."
     ]
   }
+},
+{
+  "id": "custody",
+  "sid": "2026-00204",
+  "word": "custody",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "law",
+    "restriction",
+    "family",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkʌstədi/",
+      "uk": "/ˈkʌstədi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（警察などによる）身柄の拘束、勾留",
+      "（子どもの）監護、親権・監護権",
+      "保管、管理、保護"
+    ],
+    "en": [
+      "the state of being kept under the control of the police or another authority",
+      "the legal responsibility for caring for and making decisions about a child",
+      "the protective care or control of a person or thing"
+    ]
+  },
+  "nuance": {
+    "ja": "中心的な意味は『責任をもって管理・監護している状態』。警察文脈の in custody は『身柄を拘束されて、警察の管理下にある』ことを表す。detention が拘束という行為・状態そのものに焦点を置くのに対し、custody は誰かの正式な管理下にあることに重点がある。また家族法では child custody が子どもの監護・親権を表す重要表現。物品についても in the custody of ～『～の保管・管理下に』と使える。",
+    "en": "The core idea of custody is responsibility, control, or protective care. In a police context, being in custody means being under the control of the authorities and not free to leave. Unlike detention, which emphasizes the act or period of being held, custody emphasizes whose control or care someone or something is under. In family law, custody commonly refers to legal responsibility for a child."
+  },
+  "minimal": {
+    "ja": [
+      "custody：人・物が誰かの正式な管理・監護下にある状態。",
+      "detention：当局などが人を一定期間とどめ置くこと。",
+      "confinement：一定の空間・範囲内に閉じ込められている状態。",
+      "imprisonment：刑罰として刑務所に投獄されていること。",
+      "guardianship：未成年者などについて法的に保護・意思決定を行う後見関係。",
+      "care：世話・保護を表す最も一般的な語。法的権限を必ずしも含まない。"
+    ],
+    "en": [
+      "custody emphasizes being under someone's official control, responsibility, or care.",
+      "detention emphasizes being officially held and prevented from leaving.",
+      "confinement emphasizes restriction to a limited space.",
+      "imprisonment emphasizes being held in prison as punishment.",
+      "guardianship is a legal relationship involving responsibility and decision-making for another person.",
+      "care is the general concept of looking after someone and does not necessarily imply legal authority."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 custodia『監視、保護、番をすること』に由来し、custos『番人、守護者』と同系。したがって原義は『誰かを見張り、守ること』であり、そこから『保護・管理』と『身柄拘束』の両方向の意味が発達した。",
+    "en": "From Latin custodia, meaning 'guarding, protection, safekeeping', related to custos ('guardian, keeper'). The original idea is therefore that of keeping watch over or protecting someone or something, which developed into both protective-care and legal-control senses."
+  },
+  "synonyms": [
+    {
+      "word": "detention",
+      "note": {
+        "ja": "人を立ち去れないよう拘束することに重点。custody は当局の管理下にある状態に重点。",
+        "en": "Emphasizes being held and prevented from leaving; custody emphasizes being under an authority's control."
+      }
+    },
+    {
+      "word": "guardianship",
+      "note": {
+        "ja": "他人、とくに未成年者などについて法的責任を負う『後見』。custody より特定の法的関係を指す。",
+        "en": "A specific legal relationship involving responsibility for another person, especially a minor."
+      }
+    },
+    {
+      "word": "care",
+      "note": {
+        "ja": "世話・保護を広く表す一般語。custody のような法的管理権限を含むとは限らない。",
+        "en": "A broader everyday term for looking after someone, without necessarily implying legal control."
+      }
+    },
+    {
+      "word": "possession",
+      "note": {
+        "ja": "物を所有・占有していること。custody は所有権ではなく単なる保管・管理の場合にも使える。",
+        "en": "Means having or holding something; custody can mean safekeeping or control without ownership."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Gewahrsam / Obhut / Sorgerecht",
+    "it": "custodia / affidamento",
+    "fr": "garde / détention",
+    "es": "custodia"
+  },
+  "collocations": {
+    "ja": [
+      "in custody — 身柄を拘束されて、管理下にあって",
+      "police custody — 警察による身柄拘束",
+      "take someone into custody — ～を拘束する",
+      "remain in custody — 拘束されたままでいる",
+      "release someone from custody — ～を釈放する",
+      "child custody — 子どもの監護・親権",
+      "have custody of a child — 子どもの監護権を持つ",
+      "sole custody — 単独親権・単独監護",
+      "joint custody — 共同親権・共同監護",
+      "in the custody of someone — ～の保護・管理下に"
+    ],
+    "en": [
+      "in custody",
+      "police custody",
+      "take someone into custody",
+      "remain in custody",
+      "release someone from custody",
+      "child custody",
+      "have custody of a child",
+      "sole custody",
+      "joint custody",
+      "in the custody of someone"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The suspect was taken into police custody. — 容疑者は警察に身柄を拘束された。",
+      "He remained in custody overnight. — 彼は一晩拘束されたままだった。",
+      "The judge ordered that she be released from custody. — 裁判官は彼女を釈放するよう命じた。",
+      "The parents are seeking joint custody of their children. — 両親は子どもたちの共同監護を求めている。",
+      "The documents remain in the custody of the court. — その書類は引き続き裁判所の管理下にある。"
+    ],
+    "en": [
+      "The suspect was taken into police custody.",
+      "He remained in custody overnight.",
+      "The judge ordered that she be released from custody.",
+      "The parents are seeking joint custody of their children.",
+      "The documents remain in the custody of the court."
+    ]
+  }
+},
+{
+  "id": "seclusion",
+  "sid": "2026-00205",
+  "word": "seclusion",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "general",
+    "formal",
+    "isolation",
+    "state"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/sɪˈkluːʒən/",
+      "uk": "/sɪˈkluːʒən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人里・社会から離れていること、隠遁",
+      "他人から隔離されている状態",
+      "人目につかない静かな場所にいること"
+    ],
+    "en": [
+      "the state of being private and away from other people",
+      "the state of being isolated or separated from others",
+      "a condition of living or remaining in a quiet, private place"
+    ]
+  },
+  "nuance": {
+    "ja": "『他人や社会との接触から離れた状態』を表すやや硬めの語。必ずしも強制的・否定的ではなく、自ら静かな場所に引きこもる場合にも使える。live in seclusion は『人との交流を避けてひっそり暮らす』という典型表現。isolation が広く『孤立・隔離』を表し、社会的・医学的・技術的文脈でも使えるのに対し、seclusion は特に人との接触や人目から離れた私的・静かな状態を連想させる。ただし医療・施設の文脈では、患者を他者から隔離する強制的な seclusion を指すこともある。",
+    "en": "A relatively formal word for being apart from other people and away from public attention. Seclusion is not necessarily negative or involuntary: someone may deliberately seek seclusion for privacy, peace, or concentration. Compared with the broader isolation, seclusion often suggests privacy, withdrawal, and freedom from contact or observation. In institutional or medical contexts, however, it can also refer to enforced separation from others."
+  },
+  "minimal": {
+    "ja": [
+      "seclusion：人や社会、人目から離れた静かで私的な状態。自発的な場合も多い。",
+      "isolation：他者・集団・外界から切り離された状態を広く表す。否定的ニュアンスを帯びやすい。",
+      "solitude：一人でいる状態。特に自ら選んだ静かな独居を肯定的に表すことが多い。",
+      "confinement：一定の場所・範囲から出られないことに重点。",
+      "detention：権限を持つ者によって一定時間拘束されること。",
+      "privacy：他人に干渉・観察されない私的な状態。物理的に孤立している必要はない。"
+    ],
+    "en": [
+      "seclusion emphasizes being privately separated from other people or public attention.",
+      "isolation is the broader condition of being separated from others and often has a negative connotation.",
+      "solitude emphasizes being alone, often voluntarily and pleasantly.",
+      "confinement emphasizes being restricted to a particular place or area.",
+      "detention emphasizes being officially held and prevented from leaving.",
+      "privacy means freedom from intrusion or observation and does not necessarily involve physical separation."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 secludere『締め出す、切り離す』に由来する。se-『離れて』＋ claudere『閉じる』から成り、文字どおりには『閉じて切り離す』という発想。同じ claudere 系には close, conclude, exclude, include などがある。動詞 seclude と直接同系。",
+    "en": "From Latin secludere, meaning 'to shut off, separate, exclude', formed from se- ('apart') and claudere ('to close, shut'). The same Latin root appears in words such as close, exclude, include, and conclude. Seclusion is directly related to the verb seclude."
+  },
+  "synonyms": [
+    {
+      "word": "isolation",
+      "note": {
+        "ja": "最も広い『孤立・隔離』。seclusion より否定的・客観的な文脈にも使いやすい。",
+        "en": "The broader term for separation from others, often with a more negative or neutral sense."
+      }
+    },
+    {
+      "word": "solitude",
+      "note": {
+        "ja": "一人でいること。自発的で穏やかな『独居・ひとりの時間』を表すことが多い。",
+        "en": "Being alone, often voluntarily and with a peaceful or positive connotation."
+      }
+    },
+    {
+      "word": "privacy",
+      "note": {
+        "ja": "他人から干渉・観察されないこと。seclusion ほど物理的な隔絶を含意しない。",
+        "en": "Freedom from intrusion or observation, without necessarily implying physical isolation."
+      }
+    },
+    {
+      "word": "withdrawal",
+      "note": {
+        "ja": "人間関係・社会活動などから身を引くこと。seclusion はその結果としての状態を表しやすい。",
+        "en": "The act of pulling away from social contact or activity; seclusion more often describes the resulting state."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Abgeschiedenheit / Zurückgezogenheit",
+    "it": "isolamento / solitudine",
+    "fr": "isolement / retraite",
+    "es": "aislamiento / retiro"
+  },
+  "collocations": {
+    "ja": [
+      "live in seclusion — 隠遁生活を送る、ひっそり暮らす",
+      "remain in seclusion — 人目を避けて暮らし続ける",
+      "retire into seclusion — 隠遁生活に入る",
+      "seek seclusion — 人里離れた静けさを求める",
+      "complete seclusion — 完全な隔絶",
+      "relative seclusion — 比較的人目につかない状態",
+      "the seclusion of the countryside — 田舎の人里離れた静けさ",
+      "in the seclusion of one's home — 自宅に引きこもって、人目を避けて"
+    ],
+    "en": [
+      "live in seclusion",
+      "remain in seclusion",
+      "retire into seclusion",
+      "seek seclusion",
+      "complete seclusion",
+      "relative seclusion",
+      "the seclusion of the countryside",
+      "in the seclusion of one's home"
+    ]
+  },
+  "example": {
+    "ja": [
+      "After leaving public life, he lived in seclusion for many years. — 公の世界から退いた後、彼は長年ひっそりと暮らした。",
+      "The writer sought seclusion in a remote mountain village. — その作家は人里離れた山村に静かな隠遁の場を求めた。",
+      "She spent several weeks in complete seclusion. — 彼女は数週間、完全に人との接触を断って過ごした。",
+      "The house offers privacy and seclusion from the outside world. — その家ではプライバシーが守られ、外界から離れて静かに過ごせる。",
+      "He rarely appeared in public during his years of seclusion. — 隠遁生活を送っていた数年間、彼が公の場に姿を現すことはほとんどなかった。"
+    ],
+    "en": [
+      "After leaving public life, he lived in seclusion for many years.",
+      "The writer sought seclusion in a remote mountain village.",
+      "She spent several weeks in complete seclusion.",
+      "The house offers privacy and seclusion from the outside world.",
+      "He rarely appeared in public during his years of seclusion."
+    ]
+  }
+},
+{
+  "id": "confiscate",
+  "sid": "2026-00206",
+  "word": "confiscate",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "law",
+    "authority",
+    "property",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "confiscate – confiscated – confiscated",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkɑːnfɪskeɪt/",
+      "uk": "/ˈkɒnfɪskeɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（当局などが）物・財産を没収する、押収する",
+      "（規則違反などを理由に）取り上げる"
+    ],
+    "en": [
+      "to officially take away someone's property, especially as a punishment or because it is illegal",
+      "to take something away from someone using authority"
+    ]
+  },
+  "nuance": {
+    "ja": "警察・税関・政府・学校など、何らかの権限を持つ主体が物を強制的に取り上げることを表す。違法品・武器・密輸品・財産などの公的な没収に典型的だが、教師が生徒の携帯電話を一時的に取り上げる場合にも使える。単なる take away と違って『権限・規則に基づいて取り上げる』という含みが強い。法律上、具体的な confiscation が永久的な所有権剥奪を意味するかは法域・文脈による。",
+    "en": "Confiscate means to take property away by authority, typically because it is prohibited, connected with wrongdoing, or subject to a rule or penalty. Governments, police, customs officers, and even teachers can confiscate things. Unlike the general take away, confiscate strongly implies authority. The precise legal consequences of confiscation can vary by jurisdiction and context."
+  },
+  "minimal": {
+    "ja": [
+      "confiscate：権限・規則に基づいて物を強制的に取り上げる。",
+      "seize：強制的に物を押さえる。法律上の押収にも、物理的に奪取する場合にも使える。",
+      "impound：車両・物品などを当局が押収して保管する。",
+      "forfeit：違反などの結果として権利・財産を失う。失う側に焦点。",
+      "sequester：財産などを他から切り離して法的・制度的管理下に置く。",
+      "appropriate：自分のものとして取得・流用する。文脈によって不当な取得を示す。"
+    ],
+    "en": [
+      "confiscate means to take something away under authority or rules.",
+      "seize means to take something forcibly and is also widely used for official legal seizure.",
+      "impound means to officially take and hold a vehicle or other property.",
+      "forfeit means to lose property or a right as a consequence of wrongdoing or failure.",
+      "sequester means to place property under separate legal or institutional control.",
+      "appropriate can mean to take something for one's own use, sometimes improperly."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 confiscare『国庫に没収する』に由来する。con- と fiscus『籠、金庫、国庫』から成り、もともとは『財産を国庫に入れる』という意味だった。fiscus は英語 fiscal『財政の、国庫の』と同語源。そのため confiscate は語源からして国家・公権力による財産没収と強く結びついている。",
+    "en": "From Latin confiscare, meaning 'to transfer to the public treasury', based on fiscus ('basket, money chest, treasury'). Fiscus is also the source of fiscal. Confiscate therefore originally referred quite literally to taking property into the state's treasury."
+  },
+  "synonyms": [
+    {
+      "word": "seize",
+      "note": {
+        "ja": "より広い語。警察が証拠品を押収する場合にも、力ずくで物や土地を奪う場合にも使える。",
+        "en": "A broader term that can refer either to official seizure or to taking something forcibly."
+      }
+    },
+    {
+      "word": "impound",
+      "note": {
+        "ja": "当局が物を取り上げて一定期間保管することに重点。車両で特によく使われる。",
+        "en": "Emphasizes officially taking and holding property, especially vehicles."
+      }
+    },
+    {
+      "word": "forfeit",
+      "note": {
+        "ja": "没収する側ではなく、違反などによって財産・権利を『失う』側から表現することが多い。",
+        "en": "Usually describes losing property or a right as a penalty rather than the authority's act of taking it."
+      }
+    },
+    {
+      "word": "sequester",
+      "note": {
+        "ja": "対象を切り離して管理下に置くことに重点があり、必ずしも最終的な没収を意味しない。",
+        "en": "Emphasizes placing something under separate control and does not necessarily imply permanent confiscation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "beschlagnahmen / konfiszieren",
+    "it": "confiscare",
+    "fr": "confisquer",
+    "es": "confiscar"
+  },
+  "collocations": {
+    "ja": [
+      "confiscate property — 財産を没収する",
+      "confiscate assets — 資産を没収する",
+      "confiscate goods — 商品・物品を没収する",
+      "confiscate contraband — 禁制品を没収する",
+      "confiscate a weapon — 武器を没収する",
+      "confiscate a passport — パスポートを取り上げる",
+      "confiscate someone's phone — ～の携帯電話を取り上げる",
+      "be confiscated by customs — 税関に没収される"
+    ],
+    "en": [
+      "confiscate property",
+      "confiscate assets",
+      "confiscate goods",
+      "confiscate contraband",
+      "confiscate a weapon",
+      "confiscate a passport",
+      "confiscate someone's phone",
+      "be confiscated by customs"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Customs officers confiscated the prohibited goods. — 税関職員はその禁制品を没収した。",
+      "Police confiscated several weapons during the raid. — 警察は家宅捜索の際に複数の武器を押収した。",
+      "The authorities were given the power to confiscate illegally obtained assets. — 当局には違法に取得された資産を没収する権限が与えられた。",
+      "The teacher confiscated his phone for the rest of the lesson. — 先生は授業が終わるまで彼の携帯電話を取り上げた。",
+      "The items may be confiscated at the border. — それらの品物は国境で没収される可能性がある。"
+    ],
+    "en": [
+      "Customs officers confiscated the prohibited goods.",
+      "Police confiscated several weapons during the raid.",
+      "The authorities were given the power to confiscate illegally obtained assets.",
+      "The teacher confiscated his phone for the rest of the lesson.",
+      "The items may be confiscated at the border."
+    ]
+  }
+},
+{
+  "id": "seize",
+  "sid": "2026-00207",
+  "word": "seize",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "law",
+    "action",
+    "property",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "seize – seized – seized",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/siːz/",
+      "uk": "/siːz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "強くつかむ、取り押さえる",
+      "力ずくで奪う、占拠する",
+      "当局が押収する",
+      "機会などを素早くつかむ"
+    ],
+    "en": [
+      "to take hold of something suddenly and firmly",
+      "to take control of something by force",
+      "to officially take possession of property under legal authority",
+      "to take advantage of an opportunity quickly and decisively"
+    ]
+  },
+  "nuance": {
+    "ja": "非常に幅の広い動詞で、物理的に『つかむ』、土地・権力などを『奪取する』、警察・税関などが物品を『押収する』、機会を『つかむ』という意味まで持つ。confiscate が権限に基づいて物を没収する処分的意味に強いのに対し、seize はより広く、強制的な取得や一時的な押収にも使える。文脈によっては非常に動きの強い語。",
+    "en": "Seize is a broad and forceful verb. It can mean physically grabbing something, taking control by force, officially taking property under legal authority, or taking advantage of an opportunity. Compared with confiscate, seize is broader and can refer to temporary legal seizure as well as forcible taking."
+  },
+  "minimal": {
+    "ja": [
+      "seize：強くつかむ・奪取する・押収する。非常に広い。",
+      "confiscate：権限に基づいて物を取り上げ、没収する。",
+      "grab：素早くつかむ。より口語的。",
+      "snatch：ひったくるように急に奪う。",
+      "capture：人・場所・対象を捕らえる、占領する。",
+      "appropriate：自分のものとして取得・流用する。文脈により不当。"
+    ],
+    "en": [
+      "seize is a broad forceful verb for grabbing, taking control, or officially taking property.",
+      "confiscate emphasizes taking property away under authority or rules.",
+      "grab is more informal and means to take hold of something quickly.",
+      "snatch means to take something suddenly and often roughly.",
+      "capture means to take control of a person, place, or target.",
+      "appropriate can mean to take something for one's own use, sometimes improperly."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 seisir『所有させる、取り押さえる』を経て英語に入った。より古くはゲルマン系の語源とされ、『所有させる、手に入れる』という意味から現代の『つかむ・押収する・奪取する』へ発展した。名詞 seizure も同語族。",
+    "en": "From Old French seisir, meaning 'to put in possession of, take possession of'. Its deeper origin is Germanic. The sense developed from taking possession to the modern meanings of grabbing, capturing, and officially taking property."
+  },
+  "synonyms": [
+    {
+      "word": "confiscate",
+      "note": {
+        "ja": "権限に基づく没収に特化しやすい。seize は一時的な押収や力ずくの奪取にも広く使える。",
+        "en": "More specifically suggests taking property under authority, while seize is broader and may be temporary or forcible."
+      }
+    },
+    {
+      "word": "grab",
+      "note": {
+        "ja": "素早く手でつかむ口語的な語。seize の方が強く、公式文脈にも使える。",
+        "en": "A more informal verb for taking hold quickly; seize is stronger and also common in formal contexts."
+      }
+    },
+    {
+      "word": "capture",
+      "note": {
+        "ja": "人・領土・対象を捕らえることに重点。seize は物品や機会にも広く使える。",
+        "en": "Focuses on gaining control of a person, place, or target, while seize has a wider range."
+      }
+    },
+    {
+      "word": "snatch",
+      "note": {
+        "ja": "突然ひったくるように奪う。seize より瞬間的・乱暴な感じ。",
+        "en": "Suggests a sudden, quick, often rough taking action."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ergreifen / beschlagnahmen / an sich reißen",
+    "it": "afferrare / sequestrare / impadronirsi di",
+    "fr": "saisir / s'emparer de",
+    "es": "apoderarse de / incautar / agarrar"
+  },
+  "collocations": {
+    "ja": [
+      "seize property — 財産を押収する",
+      "seize assets — 資産を差し押さえる",
+      "seize control — 支配権を握る",
+      "seize power — 権力を掌握する",
+      "seize territory — 領土を占領する",
+      "seize a weapon — 武器を取り上げる",
+      "seize an opportunity — 機会をつかむ",
+      "seize the moment — 好機を逃さず行動する"
+    ],
+    "en": [
+      "seize property",
+      "seize assets",
+      "seize control",
+      "seize power",
+      "seize territory",
+      "seize a weapon",
+      "seize an opportunity",
+      "seize the moment"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Police seized several computers during the search. — 警察は捜索中に複数のコンピューターを押収した。",
+      "The rebels seized control of the city. — 反乱軍はその都市の支配権を掌握した。",
+      "Customs officers seized the illegal shipment at the border. — 税関職員は国境でその違法貨物を押収した。",
+      "She seized the opportunity to speak directly with the director. — 彼女は取締役と直接話す機会を逃さずつかんだ。",
+      "He seized my arm before I could fall. — 私が転ぶ前に彼は私の腕をつかんだ。"
+    ],
+    "en": [
+      "Police seized several computers during the search.",
+      "The rebels seized control of the city.",
+      "Customs officers seized the illegal shipment at the border.",
+      "She seized the opportunity to speak directly with the director.",
+      "He seized my arm before I could fall."
+    ]
+  }
+},
+{
+  "id": "impound",
+  "sid": "2026-00208",
+  "word": "impound",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "law",
+    "authority",
+    "property",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "impound – impounded – impounded",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪmˈpaʊnd/",
+      "uk": "/ɪmˈpaʊnd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（当局が）車両・物品などを押収して保管する",
+      "動物などを収容施設に入れる",
+      "公式に取り上げて管理下に置く"
+    ],
+    "en": [
+      "to officially take and hold a vehicle or other property",
+      "to place an animal in an official enclosure or pound",
+      "to take something into legal or administrative custody"
+    ]
+  },
+  "nuance": {
+    "ja": "警察・自治体・その他の当局が、車両・物品・動物などを取り上げて、一定期間公式に保管・管理することを表す。seize が『押さえる・押収する』行為そのものに広く使えるのに対し、impound は『押収した後に保管施設へ入れて管理する』という含みが強い。confiscate よりも永久的没収のニュアンスは弱く、所有者が条件を満たせば返還される場合にも使われる。",
+    "en": "Impound means to officially take possession of a vehicle, property, or animal and hold it in custody. Compared with seize, it more strongly suggests that the item is taken into official storage. Unlike confiscate, it does not necessarily imply permanent loss of ownership and may involve later release or return."
+  },
+  "minimal": {
+    "ja": [
+      "impound：当局が物・車両などを押収し、公式に保管する。",
+      "seize：強制的に押さえる・押収する。より広い。",
+      "confiscate：権限に基づいて没収する。処分性が強い。",
+      "tow：車両を牽引する。押収とは限らない。",
+      "detain：人を一定期間拘束する。物には通常使わない。",
+      "sequester：物・資産を法的・制度的に切り離して管理する。"
+    ],
+    "en": [
+      "impound means to officially seize and hold property or a vehicle in storage.",
+      "seize is broader and means to take control of something forcibly or officially.",
+      "confiscate emphasizes taking property away under authority or rules.",
+      "tow means to pull a vehicle away and does not necessarily imply official seizure.",
+      "detain usually refers to holding a person rather than property.",
+      "sequester means to place property under separate legal or institutional control."
+    ]
+  },
+  "etymology": {
+    "ja": "in-『中へ』+ pound『囲い、家畜収容所』から成る。ここで pound は『ポンド（重量・通貨）』とは別語源で、もともと家畜を囲っておく enclosure を意味した。したがって impound の原義は『囲いの中に入れる』で、そこから車両・物品などを当局が収容・保管する意味へ発展した。",
+    "en": "Formed from in- plus pound, where pound means an enclosure for holding animals rather than the unit of weight or currency. The original idea was literally to put something into an enclosure, which developed into the modern sense of official seizure and storage."
+  },
+  "synonyms": [
+    {
+      "word": "seize",
+      "note": {
+        "ja": "押収・奪取全般に使える広い語。impound はその後の保管まで含みやすい。",
+        "en": "A broader term for taking control of something; impound more strongly suggests official storage afterward."
+      }
+    },
+    {
+      "word": "confiscate",
+      "note": {
+        "ja": "没収という処分に重点。impound は一時保管でも成立する。",
+        "en": "Focuses more on deprivation or forfeiture, whereas impound can be temporary."
+      }
+    },
+    {
+      "word": "tow",
+      "note": {
+        "ja": "車両を牽引する行為そのもの。違法駐車車両が tow された後 impound されることがある。",
+        "en": "Refers to physically pulling a vehicle; a vehicle may be towed and then impounded."
+      }
+    },
+    {
+      "word": "sequester",
+      "note": {
+        "ja": "法的・制度的に切り離して管理する硬い語。impound はより具体的な保管・収容に強い。",
+        "en": "A more formal term for placing something under separate control; impound is more concrete and custodial."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "beschlagnahmen / sicherstellen",
+    "it": "sequestrare / porre sotto sequestro",
+    "fr": "mettre en fourrière / saisir",
+    "es": "incautar / llevar al depósito"
+  },
+  "collocations": {
+    "ja": [
+      "impound a vehicle — 車両を押収保管する",
+      "impound a car — 車を押収保管する",
+      "be impounded by police — 警察に押収される",
+      "impound illegally parked vehicles — 違法駐車車両を押収する",
+      "impound property — 財産を押収保管する",
+      "impound an animal — 動物を収容施設に入れる",
+      "impound lot — 押収車両保管所",
+      "release an impounded vehicle — 押収車両を返還する"
+    ],
+    "en": [
+      "impound a vehicle",
+      "impound a car",
+      "be impounded by police",
+      "impound illegally parked vehicles",
+      "impound property",
+      "impound an animal",
+      "impound lot",
+      "release an impounded vehicle"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Police impounded the vehicle after the driver was arrested. — 運転手が逮捕された後、警察はその車両を押収保管した。",
+      "Illegally parked cars may be towed and impounded. — 違法駐車された車はレッカー移動され、押収保管されることがある。",
+      "The authorities impounded several unregistered vehicles. — 当局は複数の未登録車両を押収した。",
+      "The dog was impounded after it was found wandering in the street. — その犬は路上をさまよっているところを発見され、収容施設に入れられた。",
+      "He had to pay a fee to recover his impounded car. — 彼は押収された車を取り戻すために料金を支払わなければならなかった。"
+    ],
+    "en": [
+      "Police impounded the vehicle after the driver was arrested.",
+      "Illegally parked cars may be towed and impounded.",
+      "The authorities impounded several unregistered vehicles.",
+      "The dog was impounded after it was found wandering in the street.",
+      "He had to pay a fee to recover his impounded car."
+    ]
+  }
+},
+{
+  "id": "tow",
+  "sid": "2026-00209",
+  "word": "tow",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "transport",
+    "vehicle",
+    "movement",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "forms": "tow – towed – towed",
+    "countability": "countable",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/toʊ/",
+      "uk": "/təʊ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "車・船などを引っ張って移動させる、牽引する",
+      "レッカー移動する",
+      "牽引、曳航"
+    ],
+    "en": [
+      "to pull a vehicle, boat, or other object using another vehicle or a rope",
+      "to remove a vehicle by pulling it with a tow truck",
+      "the act of pulling something behind another vehicle or vessel"
+    ]
+  },
+  "nuance": {
+    "ja": "車・船・トレーラーなどを別の車両や船、ロープなどで引いて移動させることを表す。違法駐車車両をレッカー移動する場合にも使うが、tow 自体には『押収』や『罰として取り上げる』意味はない。そのため a car was towed は単に『車が牽引された』であり、その後に当局の保管施設へ移された場合は impounded を使う。",
+    "en": "Tow means to pull a vehicle, boat, trailer, or other object using another vehicle, vessel, or rope. It is often used for removing illegally parked or disabled cars, but the verb itself does not imply confiscation or legal seizure. A car may be towed and then impounded."
+  },
+  "minimal": {
+    "ja": [
+      "tow：車・船などを引っ張って移動させる。",
+      "impound：当局が車両・物品などを押収して保管する。",
+      "haul：重い物を力をかけて運ぶ・引く。",
+      "drag：地面などを引きずる。",
+      "pull：引くことを表す最も一般的な語。",
+      "transport：人・物をある場所から別の場所へ運ぶ一般語。"
+    ],
+    "en": [
+      "tow means to pull a vehicle, boat, or similar object behind another.",
+      "impound means to officially seize and hold property or a vehicle.",
+      "haul means to pull or transport something heavy with effort.",
+      "drag means to pull something along a surface.",
+      "pull is the general word for moving something toward or behind oneself by force.",
+      "transport is the general word for moving people or goods from one place to another."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 togian『引く、引っ張る』などのゲルマン語系の語に由来し、現代英語の tug『ぐいと引く、タグボート』とも関係する。基本イメージは一貫して『引っ張る』。",
+    "en": "From an Old English and Germanic word family meaning 'to pull or drag.' It is historically related to words such as tug. The core idea has remained that of pulling something along."
+  },
+  "synonyms": [
+    {
+      "word": "haul",
+      "note": {
+        "ja": "重い物を力をかけて引く・運ぶことに重点。tow は車・船などを別の車両や船で牽引する場合に特に自然。",
+        "en": "Emphasizes moving something heavy with effort, while tow is especially natural for vehicles and boats."
+      }
+    },
+    {
+      "word": "drag",
+      "note": {
+        "ja": "物を地面などに接触させながら引きずる感じ。tow は通常、車輪や浮力などで移動する。",
+        "en": "Suggests pulling something along a surface, while towing often involves wheels or flotation."
+      }
+    },
+    {
+      "word": "pull",
+      "note": {
+        "ja": "最も一般的な『引く』。tow は牽引という特定の移動方法を表す。",
+        "en": "The general word for applying force to move something; tow is a more specific transport-related use."
+      }
+    },
+    {
+      "word": "impound",
+      "note": {
+        "ja": "牽引とは別段階で、当局が車両などを公式に保管すること。",
+        "en": "Refers to official seizure and storage, which may happen after a vehicle has been towed."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "abschleppen / schleppen",
+    "it": "trainare / rimorchiare",
+    "fr": "remorquer",
+    "es": "remolcar"
+  },
+  "collocations": {
+    "ja": [
+      "tow a car — 車を牽引する",
+      "tow a vehicle — 車両をレッカー移動する",
+      "tow a trailer — トレーラーを牽引する",
+      "tow a boat — 船を曳航する",
+      "be towed away — レッカー移動される",
+      "tow truck — レッカー車",
+      "tow rope — 牽引用ロープ",
+      "in tow — 牽引されて、引き連れて"
+    ],
+    "en": [
+      "tow a car",
+      "tow a vehicle",
+      "tow a trailer",
+      "tow a boat",
+      "be towed away",
+      "tow truck",
+      "tow rope",
+      "in tow"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The illegally parked car was towed away. — 違法駐車されていた車はレッカー移動された。",
+      "A tow truck arrived to remove the damaged vehicle. — 損傷した車両を移動させるためレッカー車が到着した。",
+      "The boat was towed back to the harbor. — その船は港まで曳航された。",
+      "The truck was towing a large trailer. — そのトラックは大型トレーラーを牽引していた。",
+      "His car was towed and later impounded by the authorities. — 彼の車はレッカー移動され、その後当局によって押収保管された。"
+    ],
+    "en": [
+      "The illegally parked car was towed away.",
+      "A tow truck arrived to remove the damaged vehicle.",
+      "The boat was towed back to the harbor.",
+      "The truck was towing a large trailer.",
+      "His car was towed and later impounded by the authorities."
+    ]
+  }
+},
+{
+  "id": "impoundment",
+  "sid": "2026-00210",
+  "word": "impoundment",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "law",
+    "authority",
+    "property",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪmˈpaʊndmənt/",
+      "uk": "/ɪmˈpaʊndmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（当局による車両・物品などの）押収・保管",
+      "押収された状態",
+      "（動物などの）収容"
+    ],
+    "en": [
+      "the official seizure and holding of a vehicle, property, or other item",
+      "the state of being held in official custody",
+      "the placing of an animal in an official enclosure or pound"
+    ]
+  },
+  "nuance": {
+    "ja": "impound の名詞形。単に物を取り上げるだけでなく、『当局が押収したうえで保管・管理下に置くこと』に重点がある。特に車両の行政処分でよく使われる。confiscation が所有権剥奪や没収処分に重点を置きやすいのに対し、impoundment は一定期間の保管で、後に返還される場合にも使える。",
+    "en": "Impoundment is the noun form of impound and emphasizes official seizure followed by custody or storage. It is especially common in relation to vehicles. Compared with confiscation, impoundment does not necessarily imply permanent loss of ownership and may be temporary."
+  },
+  "minimal": {
+    "ja": [
+      "impoundment：当局が押収し、保管・管理下に置くこと。",
+      "seizure：押収・差押えという取得行為そのものに広く使える。",
+      "confiscation：権限に基づく没収。財産を失わせる処分性が強い。",
+      "detention：人を一定期間拘束すること。",
+      "custody：人・物が正式な管理下にある状態。",
+      "storage：単なる保管であり、押収や行政権限を含意しない。"
+    ],
+    "en": [
+      "impoundment emphasizes official seizure followed by storage or custody.",
+      "seizure is the broader act of officially or forcibly taking possession.",
+      "confiscation emphasizes taking property away under authority, often as a penalty.",
+      "detention usually refers to holding a person.",
+      "custody emphasizes being under someone's official control.",
+      "storage simply means keeping something somewhere and does not imply legal seizure."
+    ]
+  },
+  "etymology": {
+    "ja": "impound + -ment から成る。impound は in-『中へ』と pound『囲い、家畜収容所』に由来し、もともとは『囲いの中に入れる』という意味。したがって impoundment は原義的には『囲い・収容場所に入れておくこと』を表す。",
+    "en": "Formed from impound + -ment. Impound comes from in- plus pound, where pound means an enclosure for holding animals. The original idea is therefore that of putting something into an enclosure and keeping it there."
+  },
+  "synonyms": [
+    {
+      "word": "seizure",
+      "note": {
+        "ja": "押収そのものを広く表す。impoundment は押収後の保管まで含みやすい。",
+        "en": "A broader term for taking possession; impoundment more strongly suggests continued official storage."
+      }
+    },
+    {
+      "word": "confiscation",
+      "note": {
+        "ja": "没収処分に重点。impoundment は一時的な保管でも成立する。",
+        "en": "More strongly suggests deprivation of property, while impoundment may be temporary."
+      }
+    },
+    {
+      "word": "custody",
+      "note": {
+        "ja": "管理下にある状態そのもの。impoundment はそこへ移す処分・措置を表しやすい。",
+        "en": "Refers to the state of being under official control, while impoundment often refers to the action or measure that places property there."
+      }
+    },
+    {
+      "word": "detention",
+      "note": {
+        "ja": "主に人の拘束。impoundment は車両・物品などについて典型的。",
+        "en": "Usually refers to people being held, whereas impoundment is typically used for vehicles or property."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Beschlagnahme / Sicherstellung",
+    "it": "sequestro / fermo amministrativo",
+    "fr": "mise en fourrière / saisie",
+    "es": "incautación / inmovilización"
+  },
+  "collocations": {
+    "ja": [
+      "vehicle impoundment — 車両の押収保管",
+      "car impoundment — 自動車の押収保管",
+      "mandatory impoundment — 強制的な押収保管",
+      "temporary impoundment — 一時的な押収保管",
+      "impoundment of a vehicle — 車両の押収保管",
+      "impoundment period — 押収保管期間",
+      "impoundment fee — 押収保管料",
+      "challenge the impoundment — 押収処分に異議を申し立てる"
+    ],
+    "en": [
+      "vehicle impoundment",
+      "car impoundment",
+      "mandatory impoundment",
+      "temporary impoundment",
+      "impoundment of a vehicle",
+      "impoundment period",
+      "impoundment fee",
+      "challenge the impoundment"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The law allows the impoundment of vehicles used in certain offenses. — その法律は一定の違反に使用された車両の押収保管を認めている。",
+      "He had to pay an impoundment fee before recovering his car. — 彼は車を取り戻す前に押収保管料を支払わなければならなかった。",
+      "The court reviewed the legality of the vehicle's impoundment. — 裁判所はその車両の押収保管の適法性を審査した。",
+      "Temporary impoundment may be ordered for safety reasons. — 安全上の理由から一時的な押収保管が命じられることがある。",
+      "The owner challenged the impoundment of the truck. — 所有者はそのトラックの押収処分に異議を申し立てた。"
+    ],
+    "en": [
+      "The law allows the impoundment of vehicles used in certain offenses.",
+      "He had to pay an impoundment fee before recovering his car.",
+      "The court reviewed the legality of the vehicle's impoundment.",
+      "Temporary impoundment may be ordered for safety reasons.",
+      "The owner challenged the impoundment of the truck."
+    ]
+  }
+},
+{
+  "id": "confiscation",
+  "sid": "2026-00211",
+  "word": "confiscation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "law",
+    "authority",
+    "property",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkɑːnfɪˈskeɪʃən/",
+      "uk": "/ˌkɒnfɪˈskeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "没収、押収",
+      "権限に基づいて財産・物品を取り上げること"
+    ],
+    "en": [
+      "the act of officially taking away someone's property under authority",
+      "the seizure of property, especially as a penalty or because it is illegal"
+    ]
+  },
+  "nuance": {
+    "ja": "政府・警察・税関などが、法律や規則に基づいて財産や物品を取り上げることを表す。seizure が一時的な押収や証拠保全にも広く使えるのに対し、confiscation はより処分的で、所有者から財産を失わせる意味合いが強い。もっとも、具体的な法的効果は法域や制度によって異なる。",
+    "en": "Confiscation refers to the official taking of property by an authority, often as a penalty or because the property is prohibited or connected with wrongdoing. Compared with seizure, it more strongly suggests deprivation of the owner's property rather than merely temporary taking. The precise legal effect varies by jurisdiction."
+  },
+  "minimal": {
+    "ja": [
+      "confiscation：権限に基づく没収。財産を失わせる処分性が強い。",
+      "seizure：押収・差押え全般。証拠保全など一時的な場合もある。",
+      "impoundment：押収後に公式に保管すること。",
+      "forfeiture：違反などの結果として財産・権利を失うこと。",
+      "expropriation：国家などが公共目的で私有財産を取得すること。"
+    ],
+    "en": [
+      "confiscation emphasizes official deprivation of property.",
+      "seizure is the broader act of taking possession, often temporarily.",
+      "impoundment emphasizes official seizure followed by storage.",
+      "forfeiture emphasizes the loss of property or rights as a consequence.",
+      "expropriation means government acquisition of private property, typically for a public purpose."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 confiscatio に由来し、confiscare『国庫に没収する』の名詞形。fiscus は『籠、金庫、国庫』を意味し、英語 fiscal『財政の』とも同語源。原義は『財産を国庫へ移すこと』。",
+    "en": "From Latin confiscatio, derived from confiscare, meaning 'to transfer property to the public treasury'. The root fiscus meant 'basket, money chest, treasury' and is also the source of fiscal."
+  },
+  "synonyms": [
+    {
+      "word": "seizure",
+      "note": {
+        "ja": "押収全般を表す広い語。confiscation より一時的な取得にも使いやすい。",
+        "en": "A broader term for taking possession and more readily includes temporary taking."
+      }
+    },
+    {
+      "word": "forfeiture",
+      "note": {
+        "ja": "違反や条件不履行の結果として財産・権利を失うことに重点。",
+        "en": "Emphasizes loss of property or rights as a legal consequence."
+      }
+    },
+    {
+      "word": "impoundment",
+      "note": {
+        "ja": "押収して保管することに重点。必ずしも永久的没収ではない。",
+        "en": "Emphasizes taking property into official custody or storage and may be temporary."
+      }
+    },
+    {
+      "word": "expropriation",
+      "note": {
+        "ja": "公共目的などで国家が私有財産を取得すること。違法行為への制裁とは限らない。",
+        "en": "Government taking of private property, usually for a public purpose rather than as punishment."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Beschlagnahme / Konfiskation",
+    "it": "confisca",
+    "fr": "confiscation",
+    "es": "confiscación"
+  },
+  "collocations": {
+    "ja": [
+      "confiscation of property — 財産の没収",
+      "asset confiscation — 資産没収",
+      "confiscation of illegal goods — 違法物品の没収",
+      "property confiscation — 財産没収",
+      "order the confiscation of assets — 資産没収を命じる",
+      "subject to confiscation — 没収の対象となる",
+      "avoid confiscation — 没収を免れる",
+      "confiscation proceedings — 没収手続"
+    ],
+    "en": [
+      "confiscation of property",
+      "asset confiscation",
+      "confiscation of illegal goods",
+      "property confiscation",
+      "order the confiscation of assets",
+      "subject to confiscation",
+      "avoid confiscation",
+      "confiscation proceedings"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The court ordered the confiscation of the illegally obtained assets. — 裁判所は違法に取得された資産の没収を命じた。",
+      "The goods are subject to confiscation at the border. — その物品は国境で没収される可能性がある。",
+      "The law provides for the confiscation of proceeds from crime. — その法律は犯罪収益の没収を定めている。",
+      "The company challenged the confiscation of its property. — その会社は自社財産の没収処分を争った。",
+      "Customs officials carried out the confiscation of prohibited items. — 税関当局は禁制品の没収を実施した。"
+    ],
+    "en": [
+      "The court ordered the confiscation of the illegally obtained assets.",
+      "The goods are subject to confiscation at the border.",
+      "The law provides for the confiscation of proceeds from crime.",
+      "The company challenged the confiscation of its property.",
+      "Customs officials carried out the confiscation of prohibited items."
+    ]
+  }
+},
+{
+  "id": "seizure",
+  "sid": "2026-00212",
+  "word": "seizure",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "law",
+    "medical",
+    "property",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsiːʒər/",
+      "uk": "/ˈsiːʒə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "押収、差押え、強制的な取得",
+      "権力・支配権などの奪取",
+      "（医学）発作、けいれん発作"
+    ],
+    "en": [
+      "the act of officially or forcibly taking possession of property",
+      "the taking of control or power",
+      "a sudden episode of abnormal electrical activity in the brain, often causing convulsions or altered awareness"
+    ]
+  },
+  "nuance": {
+    "ja": "seize の名詞形で、法律・行政文脈では『押収・差押え』を広く表す。confiscation よりも広く、一時的な証拠保全や捜査目的の押収にも使える。また seizure of power のように権力の奪取にも使う。さらに医学では seizure が『発作』を意味し、特にてんかん発作などについて非常によく使われるため、文脈判別が重要。",
+    "en": "Seizure is the noun form of seize. In legal and administrative contexts, it broadly refers to taking possession of property, including temporary taking for evidence or investigation. It can also mean the taking of power or control. In medicine, seizure is a very common term for a sudden episode of abnormal brain activity, so context is essential."
+  },
+  "minimal": {
+    "ja": [
+      "seizure：押収・差押え全般。法律上の一時的取得にも使える。",
+      "confiscation：権限に基づく没収で、財産を失わせる処分性が強い。",
+      "impoundment：押収後に公式に保管すること。",
+      "forfeiture：違反などの結果として財産・権利を失うこと。",
+      "appropriation：取得・流用。文脈により合法・不当の両方がありうる。",
+      "seizure（medical）：突然起こる発作。法律用法とは別義。"
+    ],
+    "en": [
+      "seizure is the broad act of taking possession, often legally or forcibly.",
+      "confiscation emphasizes official deprivation of property.",
+      "impoundment emphasizes seizure followed by official storage.",
+      "forfeiture emphasizes loss of property or rights as a consequence.",
+      "appropriation means taking something for a particular use and may be lawful or improper depending on context.",
+      "medical seizure refers to a sudden neurological episode."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 seize から派生した名詞。seize は古フランス語 seisir『所有させる、取り押さえる』に由来し、そこから『つかむ・奪取する』という意味が発達した。seizure はもともと『取り押さえる行為』を表し、その後『突然身体を襲う発作』という医学的意味も生じた。",
+    "en": "Derived from the verb seize, which comes through Old French seisir, meaning 'to put in possession of or take possession of'. Seizure originally referred to the act of taking hold or possession and later developed the medical sense of a sudden episode that 'seizes' the body."
+  },
+  "synonyms": [
+    {
+      "word": "confiscation",
+      "note": {
+        "ja": "没収処分に重点。seizure より最終的な財産剥奪を示しやすい。",
+        "en": "More strongly suggests official deprivation of property, often as a final measure."
+      }
+    },
+    {
+      "word": "impoundment",
+      "note": {
+        "ja": "押収して保管することに重点。seizure は取得行為自体を広く表す。",
+        "en": "Emphasizes official seizure followed by storage, while seizure focuses on taking possession."
+      }
+    },
+    {
+      "word": "forfeiture",
+      "note": {
+        "ja": "違反などの結果として財産・権利を失うことに重点。",
+        "en": "Focuses on the loss of property or rights as a legal consequence."
+      }
+    },
+    {
+      "word": "attack",
+      "note": {
+        "ja": "医学では発作を広く表すことがあるが、seizure は神経学的発作としてより具体的。",
+        "en": "Can describe an acute episode generally, while seizure is more specific in neurological contexts."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Beschlagnahme / Anfall",
+    "it": "sequestro / crisi convulsiva",
+    "fr": "saisie / crise",
+    "es": "incautación / convulsión"
+  },
+  "collocations": {
+    "ja": [
+      "seizure of property — 財産の押収",
+      "asset seizure — 資産の差押え",
+      "illegal seizure — 違法な押収",
+      "seizure of evidence — 証拠物の押収",
+      "seizure of power — 権力の奪取",
+      "suffer a seizure — 発作を起こす",
+      "have a seizure — 発作を起こす",
+      "epileptic seizure — てんかん発作"
+    ],
+    "en": [
+      "seizure of property",
+      "asset seizure",
+      "illegal seizure",
+      "seizure of evidence",
+      "seizure of power",
+      "suffer a seizure",
+      "have a seizure",
+      "epileptic seizure"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The court authorized the seizure of the company's assets. — 裁判所はその会社の資産の差押えを認めた。",
+      "Police reported the seizure of illegal weapons during the raid. — 警察は捜索中に違法武器を押収したと発表した。",
+      "The sudden seizure of power shocked the country. — 突然の権力奪取は国中に衝撃を与えた。",
+      "He suffered a seizure and was taken to the hospital. — 彼は発作を起こし、病院へ搬送された。",
+      "The officers documented the seizure of the evidence. — 警察官らは証拠物の押収を記録した。"
+    ],
+    "en": [
+      "The court authorized the seizure of the company's assets.",
+      "Police reported the seizure of illegal weapons during the raid.",
+      "The sudden seizure of power shocked the country.",
+      "He suffered a seizure and was taken to the hospital.",
+      "The officers documented the seizure of the evidence."
+    ]
+  }
+},
+{
+  "id": "appropriation",
+  "sid": "2026-00213",
+  "word": "appropriation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "law",
+    "finance",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˌproʊpriˈeɪʃən/",
+      "uk": "/əˌprəʊpriˈeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特定の目的への充当、割当て",
+      "金銭・予算の計上、歳出承認",
+      "他人の物・アイデアなどを自分のものとして取得・流用すること",
+      "文化的要素を別の文化の成員が取り入れること"
+    ],
+    "en": [
+      "the act of setting something aside for a particular purpose",
+      "an amount of money officially allocated for a particular use",
+      "the taking or use of something for one's own purposes",
+      "the adoption or use of elements of one culture by members of another culture"
+    ]
+  },
+  "nuance": {
+    "ja": "非常に文脈依存的な語。予算・行政では『資金を特定用途に割り当てること』という中立的・公式な意味を持つ。一方、property や ideas などについては『自分のものとして取り込む・流用する』意味になり、不当性を帯びることがある。cultural appropriation では、ある文化の象徴・衣服・表現などを別文化の成員が取り入れることを指し、とくに権力関係や文脈の無視が問題視される場合に批判的な意味で使われる。",
+    "en": "Appropriation is highly context-dependent. In government and finance, it neutrally refers to allocating money for a specified purpose. In other contexts, it can mean taking or using property, ideas, or resources for one's own purposes, sometimes improperly. In cultural appropriation, it refers to adopting elements of another culture, often in a critical context involving power imbalance or lack of respect for the original meaning."
+  },
+  "minimal": {
+    "ja": [
+      "appropriation：特定目的への充当・割当て、または自分の用途への取得・流用。",
+      "allocation：資金・資源を割り当てること。通常は中立的。",
+      "confiscation：当局が財産を没収すること。",
+      "seizure：物を押収・差し押さえること。",
+      "misappropriation：他人の金銭・財産などを不正に流用すること。",
+      "expropriation：国家などが私有財産を公的に取得すること。"
+    ],
+    "en": [
+      "appropriation can mean official allocation or taking something for one's own use.",
+      "allocation is the neutral distribution or assignment of resources.",
+      "confiscation means official taking of property by authority.",
+      "seizure means taking possession, often legally or forcibly.",
+      "misappropriation specifically means improper or unauthorized use of another person's property or funds.",
+      "expropriation means government taking of private property."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 appropriare『自分のものにする』に由来する。ad-『～へ』と proprius『自分自身の、固有の』から成り、文字どおりには『自分のものにする』という発想。proper, property, proprietary なども proprius と同語族。",
+    "en": "From Latin appropriare, meaning 'to make one's own', formed from ad- ('to') and proprius ('one's own, particular'). The same root appears in proper, property, and proprietary."
+  },
+  "synonyms": [
+    {
+      "word": "allocation",
+      "note": {
+        "ja": "資金・資源などの中立的な割当て。appropriation より不当取得の含みがない。",
+        "en": "A neutral term for assigning resources and does not carry the possible sense of improper taking."
+      }
+    },
+    {
+      "word": "misappropriation",
+      "note": {
+        "ja": "appropriation のうち、とくに無断・不正な流用を明示する語。",
+        "en": "Specifically means unauthorized or improper appropriation of money, property, or resources."
+      }
+    },
+    {
+      "word": "expropriation",
+      "note": {
+        "ja": "政府などが私有財産を取得すること。公共目的・補償の文脈で使われることがある。",
+        "en": "Government taking of private property, often in a public-purpose context."
+      }
+    },
+    {
+      "word": "adoption",
+      "note": {
+        "ja": "考え・制度・文化要素などを取り入れることを中立的に表す。appropriation より批判的含意が弱い。",
+        "en": "A more neutral term for taking up an idea, practice, or cultural element."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Aneignung / Mittelzuweisung",
+    "it": "appropriazione / stanziamento",
+    "fr": "appropriation / affectation de crédits",
+    "es": "apropiación / asignación"
+  },
+  "collocations": {
+    "ja": [
+      "budget appropriation — 予算の割当て、歳出予算",
+      "government appropriation — 政府による予算計上",
+      "appropriation of funds — 資金の充当",
+      "appropriation of property — 財産の取得・流用",
+      "unauthorized appropriation — 無断取得・無断流用",
+      "cultural appropriation — 文化の盗用",
+      "appropriation bill — 歳出予算法案",
+      "appropriation of resources — 資源の充当・取得"
+    ],
+    "en": [
+      "budget appropriation",
+      "government appropriation",
+      "appropriation of funds",
+      "appropriation of property",
+      "unauthorized appropriation",
+      "cultural appropriation",
+      "appropriation bill",
+      "appropriation of resources"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Congress approved an appropriation for the new infrastructure program. — 議会は新しいインフラ計画のための歳出予算を承認した。",
+      "The appropriation of funds must be authorized by law. — 資金の充当には法律上の承認が必要である。",
+      "The company was accused of the unauthorized appropriation of confidential material. — その会社は機密資料を無断で流用したとして非難された。",
+      "The exhibition sparked a debate about cultural appropriation. — その展覧会は文化の盗用をめぐる議論を引き起こした。",
+      "The court examined whether the appropriation of the property was lawful. — 裁判所はその財産取得が適法だったかを検討した。"
+    ],
+    "en": [
+      "Congress approved an appropriation for the new infrastructure program.",
+      "The appropriation of funds must be authorized by law.",
+      "The company was accused of the unauthorized appropriation of confidential material.",
+      "The exhibition sparked a debate about cultural appropriation.",
+      "The court examined whether the appropriation of the property was lawful."
+    ]
+  }
+},
+{
+  "id": "appropriate",
+  "sid": "2026-00214",
+  "word": "appropriate",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "general",
+    "formal",
+    "law",
+    "finance"
+  ],
+  "grammar": {
+    "pos": "adj / verb",
+    "forms": "appropriate – appropriated – appropriated",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "adj. /əˈproʊpriət/; verb /əˈproʊprieɪt/",
+      "uk": "adj. /əˈprəʊpriət/; verb /əˈprəʊprieɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（形容詞）適切な、ふさわしい",
+      "（動詞）特定の目的に充当する、割り当てる",
+      "（動詞）自分のものとして取得・流用する"
+    ],
+    "en": [
+      "adjective: suitable or proper for a particular situation",
+      "verb: to allocate something for a particular purpose",
+      "verb: to take something for one's own use, sometimes without permission"
+    ]
+  },
+  "nuance": {
+    "ja": "形容詞では非常に一般的な『適切な、ふさわしい』。動詞になると意味が変わり、『資金などを特定用途に充当する』という中立的・公式な意味と、『他人の物・アイデアなどを自分のものとして取り込む』という意味を持つ。動詞用法は形容詞よりかなり硬い。特に appropriate funds は『資金を充当する』、appropriate property は文脈によって『財産を自分のものとして取得・流用する』となる。",
+    "en": "As an adjective, appropriate is a very common word meaning suitable or proper. As a verb, it is much more formal and can mean either allocating something for a specific purpose or taking something for one's own use. Context determines whether the verbal sense is neutral or potentially improper."
+  },
+  "minimal": {
+    "ja": [
+      "appropriate（adj.）：状況・目的にふさわしい。",
+      "suitable：条件や目的に合っている。appropriate より中立的。",
+      "proper：規範・礼儀・正しさにかなっている。",
+      "appropriate（verb）：特定用途に充当する、または自分のものとして取得する。",
+      "allocate：資金・資源などを割り当てる。通常は中立的。",
+      "misappropriate：他人の金銭・財産などを不正流用する。"
+    ],
+    "en": [
+      "appropriate as an adjective means suitable or proper for the situation.",
+      "suitable emphasizes fitness for a purpose or condition.",
+      "proper emphasizes correctness, convention, or accepted standards.",
+      "appropriate as a verb means to allocate or take for one's own use.",
+      "allocate is the neutral assignment of resources.",
+      "misappropriate specifically means to take or use something improperly."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 appropriare『自分のものにする』に由来し、ad-『～へ』＋ proprius『自分自身の、固有の』から成る。動詞の原義は『自分のものとする』。そこから『特定の目的に割り当てる』意味が生まれた。一方、形容詞の『適切な』は『その目的に固有・ふさわしいもの』という発想につながる。property, proprietary, proper と同じ proprius 系。",
+    "en": "From Latin appropriare, 'to make one's own', based on ad- plus proprius, meaning 'one's own, particular'. The verbal sense developed from making something one's own to assigning it to a particular use. The adjective reflects the idea of something being proper or suited to its particular purpose."
+  },
+  "synonyms": [
+    {
+      "word": "suitable",
+      "note": {
+        "ja": "形容詞用法で近い。目的・条件への適合性を中立的に表す。",
+        "en": "Close to the adjectival sense and neutrally emphasizes fitness for a purpose."
+      }
+    },
+    {
+      "word": "proper",
+      "note": {
+        "ja": "規範・礼儀・正しい方法にかなうという含みが強い。",
+        "en": "More strongly suggests correctness, convention, or accepted standards."
+      }
+    },
+    {
+      "word": "allocate",
+      "note": {
+        "ja": "動詞用法で、資金・資源を特定目的に割り当てるという中立的な語。",
+        "en": "A neutral verb for assigning money or resources to a particular purpose."
+      }
+    },
+    {
+      "word": "misappropriate",
+      "note": {
+        "ja": "無断・不正な取得や流用を明示する。",
+        "en": "Explicitly means to take or use something improperly or without authorization."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "angemessen / sich aneignen / Mittel bereitstellen",
+    "it": "appropriato / appropriarsi di / stanziare",
+    "fr": "approprié / s'approprier / affecter",
+    "es": "apropiado / apropiarse de / asignar"
+  },
+  "collocations": {
+    "ja": [
+      "appropriate action — 適切な行動",
+      "appropriate measures — 適切な措置",
+      "appropriate language — 適切な言葉遣い",
+      "appropriate response — 適切な対応",
+      "appropriate funds — 資金を充当する",
+      "appropriate money for a project — プロジェクトに資金を割り当てる",
+      "appropriate property — 財産を自分のものとして取得する",
+      "appropriate an idea — アイデアを自分のものとして取り込む"
+    ],
+    "en": [
+      "appropriate action",
+      "appropriate measures",
+      "appropriate language",
+      "appropriate response",
+      "appropriate funds",
+      "appropriate money for a project",
+      "appropriate property",
+      "appropriate an idea"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Please choose clothing that is appropriate for the occasion. — その場にふさわしい服装を選んでください。",
+      "The committee decided that further action would not be appropriate. — 委員会はさらなる措置は適切ではないと判断した。",
+      "Congress appropriated additional funds for disaster relief. — 議会は災害救援のために追加資金を充当した。",
+      "The official was accused of appropriating public money for personal use. — その役人は公金を私的用途に流用したとして告発された。",
+      "The company was criticized for appropriating ideas developed by smaller competitors. — その会社は小規模な競合企業が生み出したアイデアを自分のものとして取り込んだと批判された。"
+    ],
+    "en": [
+      "Please choose clothing that is appropriate for the occasion.",
+      "The committee decided that further action would not be appropriate.",
+      "Congress appropriated additional funds for disaster relief.",
+      "The official was accused of appropriating public money for personal use.",
+      "The company was criticized for appropriating ideas developed by smaller competitors."
+    ]
+  }
+},
+{
+  "id": "forfeiture",
+  "sid": "2026-00215",
+  "word": "forfeiture",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "law",
+    "property",
+    "formal",
+    "penalty"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfɔːrfɪtʃər/",
+      "uk": "/ˈfɔːfɪtʃə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（違反・犯罪などによる）財産・権利の没収、喪失",
+      "法的制裁として権利や資産を失うこと"
+    ],
+    "en": [
+      "the loss of property, money, or rights as a penalty or legal consequence",
+      "the act or process by which property or rights are lost because of wrongdoing or failure to meet a condition"
+    ]
+  },
+  "nuance": {
+    "ja": "法律英語で重要な語。confiscation が当局による『没収する行為』に重点を置くのに対し、forfeiture は違反・犯罪・契約条件違反などの結果として『財産や権利を失うこと』に重点がある。criminal forfeiture, civil forfeiture, asset forfeiture などの形でよく使われる。",
+    "en": "A key legal term. Forfeiture emphasizes the loss of property or rights as a consequence of wrongdoing, breach, or failure to satisfy a condition. Confiscation focuses more on the authority's act of taking property, whereas forfeiture focuses on the legal loss suffered by the owner."
+  },
+  "minimal": {
+    "ja": [
+      "forfeiture：違反などの結果として財産・権利を失うこと。",
+      "confiscation：当局が権限に基づいて財産を没収すること。",
+      "seizure：物や資産を押収・差し押さえること。暫定的な場合もある。",
+      "impoundment：押収した物・車両などを公式に保管すること。",
+      "expropriation：国家が私有財産を公共目的などで取得すること。",
+      "penalty：違反に対する制裁一般。財産の喪失に限らない。"
+    ],
+    "en": [
+      "forfeiture emphasizes losing property or rights as a legal consequence.",
+      "confiscation emphasizes the authority's act of taking property.",
+      "seizure is the broader act of taking possession, often temporarily.",
+      "impoundment emphasizes official seizure followed by storage.",
+      "expropriation is government acquisition of private property, usually for a public purpose.",
+      "penalty is the broader concept of punishment or sanction."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 forfet『違反、犯罪』に由来し、forfaire『悪事を行う、権利を失う』と関係する。さらに for-『外れて、誤って』＋ faire『行う』にさかのぼる。もともと『誤った行為・違反をする』ことから、その結果として権利や財産を失う意味が発達した。",
+    "en": "From Old French forfet, meaning 'offense or crime', related to forfaire, 'to do wrong or lose a right through wrongdoing'. It ultimately combines for- with faire, 'to do'. The sense developed from committing an offense to losing property or rights as a consequence."
+  },
+  "synonyms": [
+    {
+      "word": "confiscation",
+      "note": {
+        "ja": "当局側の没収行為に重点。forfeiture は所有者側の法的喪失に重点。",
+        "en": "Focuses more on the authority's act of taking, while forfeiture focuses on the owner's legal loss."
+      }
+    },
+    {
+      "word": "seizure",
+      "note": {
+        "ja": "押収・差押え全般。必ずしも最終的な所有権喪失を意味しない。",
+        "en": "A broader taking of possession and does not necessarily imply permanent loss of ownership."
+      }
+    },
+    {
+      "word": "loss",
+      "note": {
+        "ja": "最も一般的な『喪失』。forfeiture のような法的・制裁的意味はない。",
+        "en": "The general term for losing something and does not necessarily imply a legal penalty."
+      }
+    },
+    {
+      "word": "penalty",
+      "note": {
+        "ja": "違反への制裁一般。forfeiture はその一種として財産・権利の喪失を表す。",
+        "en": "A general sanction; forfeiture is a specific form involving loss of property or rights."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Verfall / Einziehung",
+    "it": "confisca / decadenza",
+    "fr": "confiscation / déchéance",
+    "es": "decomiso / pérdida"
+  },
+  "collocations": {
+    "ja": [
+      "asset forfeiture — 資産没収",
+      "civil forfeiture — 民事没収",
+      "criminal forfeiture — 刑事没収",
+      "forfeiture of property — 財産の没収・喪失",
+      "forfeiture of rights — 権利の喪失",
+      "forfeiture proceedings — 没収手続",
+      "subject to forfeiture — 没収対象となる",
+      "order forfeiture — 没収を命じる"
+    ],
+    "en": [
+      "asset forfeiture",
+      "civil forfeiture",
+      "criminal forfeiture",
+      "forfeiture of property",
+      "forfeiture of rights",
+      "forfeiture proceedings",
+      "subject to forfeiture",
+      "order forfeiture"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The court ordered the forfeiture of assets obtained through fraud. — 裁判所は詐欺によって得られた資産の没収を命じた。",
+      "The property may be subject to forfeiture under federal law. — その財産は連邦法に基づき没収対象となる可能性がある。",
+      "The agreement provides for forfeiture of the deposit if the buyer withdraws. — その契約では買主が撤回した場合、手付金を失うことが定められている。",
+      "Civil forfeiture allows authorities to seek the loss of property connected with certain offenses. — 民事没収制度では、一定の犯罪に関連する財産について没収を求めることができる。",
+      "Failure to comply with the conditions could result in forfeiture of his rights. — 条件に従わなければ、彼は権利を失う可能性がある。"
+    ],
+    "en": [
+      "The court ordered the forfeiture of assets obtained through fraud.",
+      "The property may be subject to forfeiture under federal law.",
+      "The agreement provides for forfeiture of the deposit if the buyer withdraws.",
+      "Civil forfeiture allows authorities to seek the loss of property connected with certain offenses.",
+      "Failure to comply with the conditions could result in forfeiture of his rights."
+    ]
+  }
+},
+{
+  "id": "forfeit",
+  "sid": "2026-00216",
+  "word": "forfeit",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "law",
+    "formal",
+    "property",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "forfeit – forfeited – forfeited",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfɔːrfɪt/",
+      "uk": "/ˈfɔːfɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "違反・失敗などの結果として財産・権利・資格などを失う",
+      "罰として没収される、失効させる",
+      "試合・機会などを放棄して失う"
+    ],
+    "en": [
+      "to lose property, money, rights, or privileges as a penalty or consequence",
+      "to lose something because a rule or condition has not been met",
+      "to give up or lose a game, opportunity, or claim"
+    ]
+  },
+  "nuance": {
+    "ja": "forfeit は『何かを取り上げる』よりも、『違反・不履行・失敗などの結果として何かを失う』ことに重点がある。財産だけでなく、deposit, rights, privileges, eligibility, match など非常に幅広い対象を取る。法律・契約・スポーツでよく使われる硬めの語。",
+    "en": "Forfeit emphasizes losing something as a consequence of wrongdoing, failure, or noncompliance. It can apply not only to property and money but also to rights, privileges, eligibility, deposits, and even matches. It is common in legal, contractual, and sports contexts."
+  },
+  "minimal": {
+    "ja": [
+      "forfeit：違反や不履行の結果として失う。",
+      "confiscate：当局などが権限に基づいて取り上げる。",
+      "lose：単に失う。原因や制裁性を含意しない。",
+      "surrender：自発的・強制的に引き渡す、放棄する。",
+      "waive：権利・請求権などを自発的に放棄する。",
+      "relinquish：所有・支配・権利などを手放す。"
+    ],
+    "en": [
+      "forfeit means to lose something as a consequence or penalty.",
+      "confiscate means an authority takes something away.",
+      "lose is the general word and does not imply a penalty.",
+      "surrender means to give something up, voluntarily or under pressure.",
+      "waive means to voluntarily give up a right or claim.",
+      "relinquish means to give up possession, control, or a right."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 forfaire『違反する、悪事を行う』に由来し、for-『外れて、誤って』＋ faire『行う』にさかのぼる。もともとは『違反行為をする』ことを意味し、そこから『違反の結果として権利や財産を失う』意味が発達した。名詞 forfeiture と同語族。",
+    "en": "From Old French forfaire, meaning 'to do wrong or commit an offense', formed from for- and faire ('to do'). The sense developed from committing an offense to losing property or rights as a consequence. It is directly related to forfeiture."
+  },
+  "synonyms": [
+    {
+      "word": "lose",
+      "note": {
+        "ja": "最も一般的な『失う』。forfeit のような制裁・条件違反のニュアンスはない。",
+        "en": "The general word for losing something and does not imply a penalty or breach."
+      }
+    },
+    {
+      "word": "surrender",
+      "note": {
+        "ja": "物・権利・支配などを引き渡すこと。forfeit より『手放す行為』に焦点。",
+        "en": "Focuses on giving something up or handing it over."
+      }
+    },
+    {
+      "word": "waive",
+      "note": {
+        "ja": "権利や請求権を自発的に放棄する。forfeit は結果として失うことが多い。",
+        "en": "Means to voluntarily give up a right or claim, whereas forfeit often results from a condition or penalty."
+      }
+    },
+    {
+      "word": "relinquish",
+      "note": {
+        "ja": "所有・支配・権利などを手放す硬い語。必ずしも罰ではない。",
+        "en": "A formal verb for giving up possession, control, or rights without necessarily implying punishment."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verwirken / verlieren",
+    "it": "perdere / decadere da",
+    "fr": "perdre / être déchu de",
+    "es": "perder / perder el derecho a"
+  },
+  "collocations": {
+    "ja": [
+      "forfeit a deposit — 手付金・保証金を失う",
+      "forfeit one's rights — 権利を失う",
+      "forfeit a privilege — 特権を失う",
+      "forfeit eligibility — 資格を失う",
+      "forfeit a claim — 請求権を失う",
+      "forfeit property — 財産を没収される",
+      "forfeit a match — 試合を棄権・没収試合とする",
+      "forfeit the opportunity — 機会を失う"
+    ],
+    "en": [
+      "forfeit a deposit",
+      "forfeit one's rights",
+      "forfeit a privilege",
+      "forfeit eligibility",
+      "forfeit a claim",
+      "forfeit property",
+      "forfeit a match",
+      "forfeit the opportunity"
+    ]
+  },
+  "example": {
+    "ja": [
+      "If you cancel after the deadline, you may forfeit your deposit. — 締切後にキャンセルすると、保証金を失う可能性がある。",
+      "He forfeited his right to appeal by failing to file on time. — 彼は期限内に申立てをしなかったため、上訴する権利を失った。",
+      "The team was forced to forfeit the match. — そのチームは試合を棄権せざるを得なかった。",
+      "The defendant may be required to forfeit property obtained through the offense. — 被告人は犯罪によって得た財産を没収される可能性がある。",
+      "By ignoring the offer, she forfeited a valuable opportunity. — その提案を無視したことで、彼女は貴重な機会を失った。"
+    ],
+    "en": [
+      "If you cancel after the deadline, you may forfeit your deposit.",
+      "He forfeited his right to appeal by failing to file on time.",
+      "The team was forced to forfeit the match.",
+      "The defendant may be required to forfeit property obtained through the offense.",
+      "By ignoring the offer, she forfeited a valuable opportunity."
+    ]
+  }
+},
+{
+  "id": "waive",
+  "sid": "2026-00217",
+  "word": "waive",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "law",
+    "formal",
+    "rights",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "waive – waived – waived",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/weɪv/",
+      "uk": "/weɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "権利・請求権などを自発的に放棄する",
+      "要件・規則などの適用を免除する",
+      "料金・手数料などを免除する"
+    ],
+    "en": [
+      "to voluntarily give up a right, claim, or privilege",
+      "to decide not to require or enforce a rule or condition",
+      "to remove or forgive a fee or charge"
+    ]
+  },
+  "nuance": {
+    "ja": "法律・契約・ビジネスで非常によく使われる。中心は『本来行使できる権利や要求を、意図的に行使しないと決める』こと。waive one's right to appeal のように権利を放棄するほか、waive a fee のように『料金を免除する』意味でも使う。forfeit が結果として権利を失うのに対し、waive は本人または権限者が意図的に放棄・免除する点が重要。",
+    "en": "Waive is common in legal, contractual, and business contexts. Its core meaning is to intentionally give up a right, claim, or requirement that could otherwise be enforced. It can also mean to exempt someone from a fee or condition. Unlike forfeit, which usually involves losing something as a consequence, waive involves a deliberate decision."
+  },
+  "minimal": {
+    "ja": [
+      "waive：権利・請求・要件などを意図的に放棄・免除する。",
+      "forfeit：違反・不履行などの結果として権利や財産を失う。",
+      "relinquish：所有・支配・権利などを手放す。waive より広い。",
+      "surrender：権利・支配・所有などを引き渡す、放棄する。",
+      "renounce：権利・地位・信念などを正式・明示的に放棄する。",
+      "exempt：人・物を義務・規則などの適用対象から外す。"
+    ],
+    "en": [
+      "waive means to intentionally give up or not enforce a right, claim, or requirement.",
+      "forfeit means to lose something as a consequence of wrongdoing or failure.",
+      "relinquish is broader and means to give up possession, control, or a right.",
+      "surrender means to give up or hand over control, possession, or rights.",
+      "renounce means to formally or explicitly give up a right, status, belief, or claim.",
+      "exempt means to free someone or something from a rule, duty, or requirement."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 waivier『放棄する、見捨てる』に由来し、ゲルマン系の語源を持つ。もともとは『手放す、放棄する』という意味で、現代の法律英語における『権利を放棄する』という用法につながっている。なお wave『手を振る、波』とは同音だが別語。",
+    "en": "From Old French waivier, meaning 'to abandon or give up', of Germanic origin. The original sense of giving something up developed naturally into the modern legal meaning of voluntarily surrendering a right. Waive is a homophone of wave but is unrelated in meaning."
+  },
+  "synonyms": [
+    {
+      "word": "relinquish",
+      "note": {
+        "ja": "権利・所有・支配などを手放す広い硬めの語。waive は特に法的権利・要件に自然。",
+        "en": "A broader formal verb for giving up possession, control, or rights; waive is especially natural with legal rights and requirements."
+      }
+    },
+    {
+      "word": "renounce",
+      "note": {
+        "ja": "権利・地位・信念などを明示的・正式に放棄する。waive より強い。",
+        "en": "Means to formally and explicitly give up a right, status, belief, or claim and is often stronger than waive."
+      }
+    },
+    {
+      "word": "surrender",
+      "note": {
+        "ja": "支配・所有・権利などを引き渡すこと。圧力下での放棄にも使える。",
+        "en": "Means to hand over or give up control, possession, or rights, sometimes under pressure."
+      }
+    },
+    {
+      "word": "exempt",
+      "note": {
+        "ja": "義務・規則・料金などの適用から免除する。waive a fee と意味が近づくことがある。",
+        "en": "Means to free someone from a duty, rule, or charge and can overlap with waive in fee-related contexts."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verzichten auf / erlassen",
+    "it": "rinunciare a / esentare",
+    "fr": "renoncer à / dispenser de",
+    "es": "renunciar a / eximir"
+  },
+  "collocations": {
+    "ja": [
+      "waive a right — 権利を放棄する",
+      "waive one's right to appeal — 上訴権を放棄する",
+      "waive a claim — 請求権を放棄する",
+      "waive a requirement — 要件を免除する",
+      "waive a fee — 手数料を免除する",
+      "waive charges — 料金を免除する",
+      "waive immunity — 免責・免除特権を放棄する",
+      "expressly waive — 明示的に放棄する"
+    ],
+    "en": [
+      "waive a right",
+      "waive one's right to appeal",
+      "waive a claim",
+      "waive a requirement",
+      "waive a fee",
+      "waive charges",
+      "waive immunity",
+      "expressly waive"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He agreed to waive his right to appeal. — 彼は上訴する権利を放棄することに同意した。",
+      "The bank agreed to waive the processing fee. — 銀行は手数料を免除することに同意した。",
+      "The applicant asked the agency to waive the requirement. — 申請者はその機関に要件を免除するよう求めた。",
+      "A party may waive certain contractual rights by its conduct. — 当事者はその行為によって一定の契約上の権利を放棄することがある。",
+      "The company expressly waived any claim to the disputed property. — その会社は係争中の財産に対する一切の請求権を明示的に放棄した。"
+    ],
+    "en": [
+      "He agreed to waive his right to appeal.",
+      "The bank agreed to waive the processing fee.",
+      "The applicant asked the agency to waive the requirement.",
+      "A party may waive certain contractual rights by its conduct.",
+      "The company expressly waived any claim to the disputed property."
+    ]
+  }
+},
+{
+  "id": "relinquish",
+  "sid": "2026-00218",
+  "word": "relinquish",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "law",
+    "rights",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "relinquish – relinquished – relinquished",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈlɪŋkwɪʃ/",
+      "uk": "/rɪˈlɪŋkwɪʃ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "権利・所有・支配などを手放す、放棄する",
+      "地位・役割・責任などを譲る、退く",
+      "物理的に握っているものを手放す"
+    ],
+    "en": [
+      "to give up possession, control, or a right",
+      "to surrender a position, role, or responsibility",
+      "to let go of something that one is holding"
+    ]
+  },
+  "nuance": {
+    "ja": "やや硬い語で、『自分が保持していたものを手放す』というイメージが中心。権利、支配権、所有、役職、責任、領土など幅広い対象に使える。waive が特に法的権利・請求・要件の放棄に自然なのに対し、relinquish はより一般的に possession や control にも使える。強制的に手放す場合にも自発的に手放す場合にも使える。",
+    "en": "Relinquish is a formal verb meaning to give up something that one possesses or controls. It can refer to rights, ownership, control, office, responsibility, territory, or even physical possession. Compared with waive, it is broader and less specifically legal. It may describe either voluntary or compelled surrender."
+  },
+  "minimal": {
+    "ja": [
+      "relinquish：持っていた権利・所有・支配などを手放す。",
+      "waive：権利・請求・要件などを意図的に放棄・免除する。",
+      "surrender：相手に引き渡す、屈して放棄するニュアンスが出やすい。",
+      "renounce：権利・地位・信念などを明示的・正式に捨てる。",
+      "abandon：見捨てる、放棄する。より一般的で感情的にも使える。",
+      "forfeit：違反などの結果として失う。"
+    ],
+    "en": [
+      "relinquish means to give up something one possesses or controls.",
+      "waive means to intentionally give up or not enforce a right, claim, or requirement.",
+      "surrender often suggests handing something over to another party or yielding under pressure.",
+      "renounce means to formally and explicitly give up a right, status, or belief.",
+      "abandon is a broader word meaning to leave or give something up.",
+      "forfeit means to lose something as a consequence or penalty."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 relinquere『後に残す、手放す』に由来する。re- と linquere『残す、去る』から成り、『自分の手元から離して残していく』という発想。relic『遺物』や derelict『見捨てられた』も同じ linquere 系。",
+    "en": "From Latin relinquere, meaning 'to leave behind or give up', formed from re- and linquere ('to leave'). The same root is seen in words such as relic and derelict."
+  },
+  "synonyms": [
+    {
+      "word": "waive",
+      "note": {
+        "ja": "特に権利・請求・要件を意図的に放棄する場合に自然。relinquish の方が対象が広い。",
+        "en": "Especially natural for giving up rights, claims, or requirements; relinquish has a broader range."
+      }
+    },
+    {
+      "word": "surrender",
+      "note": {
+        "ja": "相手に引き渡す、または圧力の下で屈して手放すニュアンスが出やすい。",
+        "en": "Often suggests handing something over to another party or yielding under pressure."
+      }
+    },
+    {
+      "word": "renounce",
+      "note": {
+        "ja": "地位・権利・信念などを正式かつ明示的に捨てる。relinquish より強い。",
+        "en": "A stronger and more explicit term for formally giving up a status, right, or belief."
+      }
+    },
+    {
+      "word": "abandon",
+      "note": {
+        "ja": "見捨てる・放棄するという一般語。relinquish より感情的・物理的な対象にも広く使える。",
+        "en": "A broader term for leaving or giving something up, often with a stronger sense of desertion."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "aufgeben / abtreten / verzichten auf",
+    "it": "rinunciare a / cedere",
+    "fr": "renoncer à / céder",
+    "es": "renunciar a / ceder"
+  },
+  "collocations": {
+    "ja": [
+      "relinquish control — 支配権を手放す",
+      "relinquish ownership — 所有権を手放す",
+      "relinquish a right — 権利を放棄する",
+      "relinquish a claim — 請求権を放棄する",
+      "relinquish power — 権力を手放す",
+      "relinquish authority — 権限を手放す",
+      "relinquish possession — 占有・所持を手放す",
+      "relinquish one's position — 地位を退く"
+    ],
+    "en": [
+      "relinquish control",
+      "relinquish ownership",
+      "relinquish a right",
+      "relinquish a claim",
+      "relinquish power",
+      "relinquish authority",
+      "relinquish possession",
+      "relinquish one's position"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He refused to relinquish control of the company. — 彼は会社の支配権を手放すことを拒んだ。",
+      "The owner agreed to relinquish his claim to the property. — 所有者はその財産に対する請求権を放棄することに同意した。",
+      "She eventually relinquished her position as chair. — 彼女は最終的に議長の地位を退いた。",
+      "The government was forced to relinquish control of the territory. — 政府はその領土の支配権を手放すことを余儀なくされた。",
+      "He slowly relinquished his grip on the rope. — 彼はゆっくりとロープを握る手を緩めた。"
+    ],
+    "en": [
+      "He refused to relinquish control of the company.",
+      "The owner agreed to relinquish his claim to the property.",
+      "She eventually relinquished her position as chair.",
+      "The government was forced to relinquish control of the territory.",
+      "He slowly relinquished his grip on the rope."
+    ]
+  }
+},
+{
+  "id": "renounce",
+  "sid": "2026-00219",
+  "word": "renounce",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "law",
+    "rights",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "renounce – renounced – renounced",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈnaʊns/",
+      "uk": "/rɪˈnaʊns/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "権利・地位・主張などを正式に放棄する",
+      "信念・思想・宗教などを捨てる",
+      "関係・所属などを明示的に否認・断絶する"
+    ],
+    "en": [
+      "to formally give up a right, title, claim, or position",
+      "to publicly or explicitly abandon a belief, principle, or allegiance",
+      "to reject or disown something previously accepted or claimed"
+    ]
+  },
+  "nuance": {
+    "ja": "relinquish よりも明示性・正式性が強く、『自分はもうこれを持たない、支持しない』とはっきり表明するニュアンスがある。権利・国籍・王位・請求権・信念・暴力など幅広い対象を取る。waive が特定の権利を行使しないことに重点を置くのに対し、renounce はより全面的・宣言的な放棄を表しやすい。",
+    "en": "Renounce is stronger and more explicit than relinquish. It often suggests a formal, public, or deliberate declaration that one no longer claims, accepts, or supports something. It is common with rights, citizenship, titles, claims, beliefs, allegiance, and practices. Compared with waive, renounce often suggests a broader and more definitive rejection."
+  },
+  "minimal": {
+    "ja": [
+      "renounce：権利・地位・信念などを正式・明示的に放棄する。",
+      "relinquish：所有・支配・権利などを手放す。より広く、中立的。",
+      "waive：特定の権利・請求・要件を行使しないと決める。",
+      "surrender：相手に引き渡す、屈して放棄する。",
+      "abandon：見捨てる・放棄する一般語。",
+      "repudiate：主張・義務・関係などを拒絶し、認めないと表明する。"
+    ],
+    "en": [
+      "renounce means to formally and explicitly give something up.",
+      "relinquish means to give up possession, control, or rights more generally.",
+      "waive means to intentionally give up or not enforce a particular right or requirement.",
+      "surrender often suggests yielding or handing something over.",
+      "abandon is the general word for leaving or giving something up.",
+      "repudiate means to reject or deny a claim, obligation, or association."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 renuntiare『告げ返す、宣言する、放棄を表明する』に由来する。re-『返して』＋ nuntiare『告げる』から成り、nuntius『使者、知らせ』と同系。つまり語源的には『公に告げて手放す』という発想があり、現代の『正式に放棄する』という意味につながっている。",
+    "en": "From Latin renuntiare, meaning 'to announce, report back, or declare one's abandonment of something', formed from re- and nuntiare ('to announce'). It is related to nuntius ('messenger, message'). The historical idea of formally declaring something helps explain its modern sense."
+  },
+  "synonyms": [
+    {
+      "word": "relinquish",
+      "note": {
+        "ja": "権利・支配・所有などを手放す広い語。renounce の方が明示的・宣言的。",
+        "en": "A broader term for giving up possession, control, or rights; renounce is more explicit and declarative."
+      }
+    },
+    {
+      "word": "waive",
+      "note": {
+        "ja": "特定の権利・請求・要件を行使しないことに重点。renounce より限定的。",
+        "en": "Focuses on not exercising a specific right or requirement and is usually narrower than renounce."
+      }
+    },
+    {
+      "word": "repudiate",
+      "note": {
+        "ja": "主張・義務・関係などを『認めない、拒絶する』ことに重点。",
+        "en": "Emphasizes rejecting, denying, or refusing to accept a claim, obligation, or association."
+      }
+    },
+    {
+      "word": "abandon",
+      "note": {
+        "ja": "より一般的な『捨てる・断念する』。正式な宣言は含意しない。",
+        "en": "A more general word for giving something up and does not imply a formal declaration."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verzichten auf / entsagen",
+    "it": "rinunciare a",
+    "fr": "renoncer à",
+    "es": "renunciar a"
+  },
+  "collocations": {
+    "ja": [
+      "renounce a claim — 請求・主張を放棄する",
+      "renounce one's rights — 権利を正式に放棄する",
+      "renounce citizenship — 国籍を離脱する",
+      "renounce a title — 称号・爵位を放棄する",
+      "renounce the throne — 王位を放棄する",
+      "renounce violence — 暴力を放棄すると表明する",
+      "renounce one's faith — 信仰を捨てる",
+      "publicly renounce — 公に放棄を表明する"
+    ],
+    "en": [
+      "renounce a claim",
+      "renounce one's rights",
+      "renounce citizenship",
+      "renounce a title",
+      "renounce the throne",
+      "renounce violence",
+      "renounce one's faith",
+      "publicly renounce"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He formally renounced his claim to the inheritance. — 彼は遺産に対する請求権を正式に放棄した。",
+      "She decided to renounce her citizenship. — 彼女は国籍を離脱することを決めた。",
+      "The group publicly renounced violence. — その団体は暴力を放棄すると公に表明した。",
+      "The prince renounced his claim to the throne. — 王子は王位継承権を放棄した。",
+      "He refused to renounce his political beliefs. — 彼は自らの政治的信念を捨てることを拒んだ。"
+    ],
+    "en": [
+      "He formally renounced his claim to the inheritance.",
+      "She decided to renounce her citizenship.",
+      "The group publicly renounced violence.",
+      "The prince renounced his claim to the throne.",
+      "He refused to renounce his political beliefs."
+    ]
+  }
 }
 ]
