@@ -9632,5 +9632,1348 @@
       "Water is a compound of hydrogen and oxygen."
     ]
   }
+},
+{
+  "id": "coercion",
+  "sid": "2026-00252",
+  "word": "coercion",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "law",
+    "formal",
+    "power",
+    "pressure"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/koʊˈɝːʒən/",
+      "uk": "/kəʊˈɜːʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "脅迫・圧力・力によって人に何かをさせること、強制",
+      "本人の自由意思を抑えて行為を強いること"
+    ],
+    "en": [
+      "the use of force, threats, or pressure to make someone do something",
+      "the act of compelling someone to act against their free will"
+    ]
+  },
+  "nuance": {
+    "ja": "単なる命令や説得ではなく、脅威・圧力・権力などによって相手の自由な選択を実質的に奪うことを表す硬い語。法律では consent, contract, confession などが coercion の下で得られたかが問題になることがある。force より抽象的で制度的・心理的圧力も含みうる。",
+    "en": "Coercion is a formal term for compelling someone through force, threats, pressure, or abuse of power. It goes beyond ordinary persuasion or instruction because the person's freedom of choice is substantially constrained. In legal contexts, coercion may affect the validity of consent, agreements, or statements."
+  },
+  "minimal": {
+    "ja": [
+      "coercion：脅し・圧力・力によって人の意思を曲げ、行為を強いること。",
+      "force：物理力を含む広い『強制力』。より一般的。",
+      "compulsion：強制・抗しがたい衝動。外的強制にも内的衝動にも使える。",
+      "duress：脅迫・不当な圧力の下にある状態。法律で特に重要。",
+      "intimidation：恐怖を与えて相手を従わせようとすること。",
+      "persuasion：理由や説得によって相手に自発的に行動してもらうこと。"
+    ],
+    "en": [
+      "coercion means compelling someone through force, threats, or pressure.",
+      "force is the broader general term and can involve physical power.",
+      "compulsion can mean external coercion or an irresistible internal urge.",
+      "duress is a state of being subjected to threats or improper pressure and is especially important in law.",
+      "intimidation means using fear to influence or control someone.",
+      "persuasion seeks voluntary agreement through reasons or argument."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 coercere『囲い込む、抑制する、制御する』に由来する。co-『共に』＋ arcere『閉じ込める、遠ざける』とされ、もともとは『範囲内に押しとどめる』という発想。動詞 coerce の名詞形が coercion。",
+    "en": "From Latin coercere, meaning 'to restrain, confine, or control'. It is traditionally analyzed as co- plus arcere ('to shut in or keep away'). Coercion is the noun corresponding to coerce."
+  },
+  "synonyms": [
+    {
+      "word": "duress",
+      "note": {
+        "ja": "脅迫・不当な圧力を受けている状態に重点。法律では契約や同意の有効性との関係で重要。",
+        "en": "Focuses on the condition of being subjected to threats or improper pressure and is especially significant in law."
+      }
+    },
+    {
+      "word": "compulsion",
+      "note": {
+        "ja": "外部からの強制にも、内面的な抗しがたい衝動にも使える。",
+        "en": "Can refer either to external compulsion or to an irresistible internal urge."
+      }
+    },
+    {
+      "word": "intimidation",
+      "note": {
+        "ja": "恐怖を与えることで従わせることに重点。",
+        "en": "Focuses on influencing or controlling someone by making them afraid."
+      }
+    },
+    {
+      "word": "pressure",
+      "note": {
+        "ja": "圧力をかけることを広く表す。coercion ほど自由意思を奪う程度を必ずしも含まない。",
+        "en": "A broader term for influence or pressure and does not necessarily reach the level of coercion."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Zwang / Nötigung",
+    "it": "coercizione / costrizione",
+    "fr": "coercition / contrainte",
+    "es": "coacción / coerción"
+  },
+  "collocations": {
+    "ja": [
+      "use coercion — 強制手段を用いる",
+      "under coercion — 強制されて",
+      "economic coercion — 経済的強制・圧力",
+      "political coercion — 政治的強制",
+      "physical coercion — 物理的強制",
+      "psychological coercion — 心理的強制",
+      "coercion and intimidation — 強制と威嚇",
+      "coercion of a witness — 証人への強制・圧力",
+      "consent obtained through coercion — 強制によって得られた同意"
+    ],
+    "en": [
+      "use coercion",
+      "under coercion",
+      "economic coercion",
+      "political coercion",
+      "physical coercion",
+      "psychological coercion",
+      "coercion and intimidation",
+      "coercion of a witness",
+      "consent obtained through coercion"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The confession was allegedly obtained through coercion. — その自白は強制によって得られたとされている。",
+      "Consent given under coercion may not be considered voluntary. — 強制の下で与えられた同意は自発的なものとはみなされない場合がある。",
+      "The organization was accused of using intimidation and coercion. — その組織は威嚇と強制を用いたとして非難された。",
+      "Economic coercion can be used to influence another state's behavior. — 経済的強制は他国の行動に影響を与えるために用いられることがある。",
+      "Employees should be able to make the decision without coercion. — 従業員は強制を受けずにその判断を下せるべきである。"
+    ],
+    "en": [
+      "The confession was allegedly obtained through coercion.",
+      "Consent given under coercion may not be considered voluntary.",
+      "The organization was accused of using intimidation and coercion.",
+      "Economic coercion can be used to influence another state's behavior.",
+      "Employees should be able to make the decision without coercion."
+    ]
+  }
+},
+{
+  "id": "coerce",
+  "sid": "2026-00253",
+  "word": "coerce",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "law",
+    "formal",
+    "power",
+    "pressure"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "coerce – coerced – coerced",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/koʊˈɝːs/",
+      "uk": "/kəʊˈɜːs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "脅し・圧力・力などによって人に何かを強制する",
+      "本人の意思に反して行動させる"
+    ],
+    "en": [
+      "to make someone do something by using force, threats, or pressure",
+      "to compel someone to act against their free will"
+    ]
+  },
+  "nuance": {
+    "ja": "単なる命令や説得ではなく、脅威・圧力・権力などによって相手の自由な選択を実質的に奪って行動させることを表す硬い語。法律・政治・労働・人権などの文脈でよく使われる。基本形は coerce someone into doing something。",
+    "en": "Coerce is a formal verb meaning to compel someone through force, threats, pressure, or abuse of power. It implies that the person's freedom of choice is substantially constrained. A very common construction is 'coerce someone into doing something'."
+  },
+  "minimal": {
+    "ja": [
+      "coerce：脅し・圧力などで人に行為を強制する。",
+      "force：人に何かを無理にさせる一般語。物理力にも使える。",
+      "compel：強く義務づける・やむを得ず行動させる。必ずしも脅迫を含まない。",
+      "pressure：圧力をかけて行動を促す。coerce より弱い場合が多い。",
+      "intimidate：恐怖を与えて相手を従わせようとする。",
+      "persuade：説得によって相手に自発的に行動してもらう。"
+    ],
+    "en": [
+      "coerce means to compel someone through threats, force, or improper pressure.",
+      "force is the general verb for making someone do something against their will.",
+      "compel means to make action necessary or unavoidable and does not necessarily imply threats.",
+      "pressure means to exert influence and is often weaker than coerce.",
+      "intimidate means to frighten someone in order to influence or control them.",
+      "persuade means to obtain voluntary agreement through reasoning or argument."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 coercere『囲い込む、抑制する、制御する』に由来する。一般に co-『共に』＋ arcere『閉じ込める、遠ざける』と分析され、もともとは『一定の範囲内に押しとどめる』という意味だった。名詞形が coercion。",
+    "en": "From Latin coercere, meaning 'to restrain, confine, or control'. It is traditionally analyzed as co- plus arcere ('to shut in or keep away'). The corresponding noun is coercion."
+  },
+  "synonyms": [
+    {
+      "word": "force",
+      "note": {
+        "ja": "最も一般的な『無理に〜させる』。coerce はより硬く、脅し・圧力・権力の濫用を含みやすい。",
+        "en": "The general verb for making someone do something unwillingly; coerce is more formal and often implies threats or improper pressure."
+      }
+    },
+    {
+      "word": "compel",
+      "note": {
+        "ja": "強制して行動させるが、法律・事情・論理などが行動を不可避にする場合にも使える。",
+        "en": "Means to make action necessary or unavoidable and can arise from law, circumstances, or logic rather than threats."
+      }
+    },
+    {
+      "word": "pressure",
+      "note": {
+        "ja": "心理的・社会的圧力をかける。coerce ほど自由意思を奪う程度を必ずしも含まない。",
+        "en": "Means to exert psychological or social pressure and does not necessarily reach the level of coercion."
+      }
+    },
+    {
+      "word": "intimidate",
+      "note": {
+        "ja": "恐怖を与えることに重点。恐怖を利用した coerce の手段になりうる。",
+        "en": "Focuses on creating fear and can be a means of coercing someone."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "zwingen / nötigen",
+    "it": "costringere / coartare",
+    "fr": "contraindre / forcer",
+    "es": "coaccionar / obligar"
+  },
+  "collocations": {
+    "ja": [
+      "coerce someone into doing something — 人を強制して〜させる",
+      "coerce someone into signing — 人に署名を強要する",
+      "coerce a confession — 自白を強要する",
+      "coerce compliance — 服従・遵守を強制する",
+      "coerce a witness — 証人に圧力をかける",
+      "be coerced into agreeing — 強制されて同意する",
+      "coerce through threats — 脅迫によって強制する",
+      "coerce by force — 力によって強制する"
+    ],
+    "en": [
+      "coerce someone into doing something",
+      "coerce someone into signing",
+      "coerce a confession",
+      "coerce compliance",
+      "coerce a witness",
+      "be coerced into agreeing",
+      "coerce through threats",
+      "coerce by force"
+    ]
+  },
+  "example": {
+    "ja": [
+      "They coerced him into signing the agreement. — 彼らは彼にその合意書への署名を強要した。",
+      "The suspect claimed that he had been coerced into confessing. — 容疑者は強制されて自白したと主張した。",
+      "Employees should not be coerced into working unpaid overtime. — 従業員に無給の残業を強制すべきではない。",
+      "The witness alleged that she had been coerced by threats. — その証人は脅迫によって証言を強要されたと主張した。",
+      "The government was accused of coercing businesses into compliance. — 政府は企業に服従を強要したとして非難された。"
+    ],
+    "en": [
+      "They coerced him into signing the agreement.",
+      "The suspect claimed that he had been coerced into confessing.",
+      "Employees should not be coerced into working unpaid overtime.",
+      "The witness alleged that she had been coerced by threats.",
+      "The government was accused of coercing businesses into compliance."
+    ]
+  }
+},
+{
+  "id": "duress",
+  "sid": "2026-00254",
+  "word": "duress",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "law",
+    "formal",
+    "pressure",
+    "coercion"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/duˈres/",
+      "uk": "/djʊˈres/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "脅迫・強制・不当な圧力を受けている状態",
+      "自由意思を奪うほどの圧力・威迫"
+    ],
+    "en": [
+      "threats, force, or improper pressure that compel someone to act against their free will",
+      "a state of being constrained by threats or coercive pressure"
+    ]
+  },
+  "nuance": {
+    "ja": "特に法律で重要な語で、契約・同意・署名・供述などが本人の自由意思ではなく、脅迫や重大な圧力の下で行われたことを表す。典型表現は under duress。coercion が『相手に圧力を加えて強制する行為・手段』に焦点を置くのに対し、duress は『その圧力を受けている側の状態』に焦点がある。",
+    "en": "Duress is especially important in legal contexts. It refers to threats, force, or improper pressure that deprive a person of genuine freedom of choice. It is commonly used in the phrase 'under duress'. Compared with coercion, duress focuses more on the condition experienced by the person being pressured."
+  },
+  "minimal": {
+    "ja": [
+      "duress：脅迫・強い圧力を受け、自由意思を制約されている状態。",
+      "coercion：脅し・圧力などを用いて人を強制する行為・手段。",
+      "compulsion：外的強制または抗しがたい内的衝動。",
+      "intimidation：恐怖を与えて相手を従わせようとすること。",
+      "pressure：広い意味での圧力。duress ほど深刻とは限らない。",
+      "force：物理力を含む一般的な強制。"
+    ],
+    "en": [
+      "duress is the condition of acting under serious threats or improper pressure.",
+      "coercion is the act or means of compelling someone through force or pressure.",
+      "compulsion can refer to external force or an irresistible internal urge.",
+      "intimidation means influencing someone by creating fear.",
+      "pressure is broader and does not necessarily amount to duress.",
+      "force is the general term and may include physical compulsion."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 duresse『厳しさ、苦難』を経て、ラテン語 duritia『硬さ、厳しさ』にさかのぼる。duritia は durus『硬い、厳しい』から派生しており、durable, endure などと同じ語族。",
+    "en": "From Old French duresse, meaning 'hardship or severity', ultimately from Latin duritia ('hardness, harshness'), from durus ('hard'). It is related to words such as durable and endure."
+  },
+  "synonyms": [
+    {
+      "word": "coercion",
+      "note": {
+        "ja": "強制する行為・手段に重点。duress はその圧力下にある状態を表しやすい。",
+        "en": "Focuses more on the act or method of compelling someone; duress focuses more on the resulting condition."
+      }
+    },
+    {
+      "word": "compulsion",
+      "note": {
+        "ja": "強制一般に加え、心理的な抗しがたい衝動にも使われる。",
+        "en": "Can mean external compulsion but also an irresistible psychological urge."
+      }
+    },
+    {
+      "word": "intimidation",
+      "note": {
+        "ja": "恐怖を利用して従わせることに重点。",
+        "en": "Focuses on using fear to influence or control someone."
+      }
+    },
+    {
+      "word": "pressure",
+      "note": {
+        "ja": "より広い『圧力』。必ずしも自由意思を奪うほど強いとは限らない。",
+        "en": "A broader term for influence or pressure that need not be severe enough to constitute duress."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Zwang / Nötigung",
+    "it": "costrizione / coercizione",
+    "fr": "contrainte",
+    "es": "coacción / coacción bajo amenaza"
+  },
+  "collocations": {
+    "ja": [
+      "under duress — 脅迫・強制の下で",
+      "sign under duress — 強制されて署名する",
+      "act under duress — 強制下で行動する",
+      "consent given under duress — 強制下で与えられた同意",
+      "contract entered into under duress — 強制下で締結された契約",
+      "claim duress — 強制・脅迫があったと主張する",
+      "economic duress — 経済的強迫",
+      "physical duress — 身体的な強制・威迫"
+    ],
+    "en": [
+      "under duress",
+      "sign under duress",
+      "act under duress",
+      "consent given under duress",
+      "contract entered into under duress",
+      "claim duress",
+      "economic duress",
+      "physical duress"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He claimed that he had signed the agreement under duress. — 彼は強制されてその合意書に署名したと主張した。",
+      "A contract entered into under duress may be challenged. — 強制下で締結された契約は争われることがある。",
+      "She testified that her consent had been obtained under duress. — 彼女は自分の同意が強制の下で得られたと証言した。",
+      "The court considered whether the threat amounted to economic duress. — 裁判所はその脅しが経済的強迫に当たるかを検討した。",
+      "The statement was made under duress rather than voluntarily. — その供述は自発的ではなく、強制下でなされた。"
+    ],
+    "en": [
+      "He claimed that he had signed the agreement under duress.",
+      "A contract entered into under duress may be challenged.",
+      "She testified that her consent had been obtained under duress.",
+      "The court considered whether the threat amounted to economic duress.",
+      "The statement was made under duress rather than voluntarily."
+    ]
+  }
+},
+{
+  "id": "compulsion",
+  "sid": "2026-00255",
+  "word": "compulsion",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "law",
+    "psychology",
+    "pressure"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kəmˈpʌlʃən/",
+      "uk": "/kəmˈpʌlʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "外部からの強制、強要",
+      "抗しがたい衝動、どうしても〜せずにはいられない気持ち",
+      "何かを強制的に行わせる力"
+    ],
+    "en": [
+      "the act or state of being forced to do something",
+      "a strong and often irresistible urge to behave in a particular way",
+      "a force or pressure that makes an action difficult to resist"
+    ]
+  },
+  "nuance": {
+    "ja": "compulsion は二方向に意味が広がる語。ひとつは外部からの強制で、under compulsion『強制されて』のように使う。もうひとつは内面的な抗しがたい衝動で、feel a compulsion to do something のように使う。coercion や duress が主に外部から加えられる圧力を表すのに対し、compulsion は心理的な内発的衝動にも使える点が大きな違い。",
+    "en": "Compulsion has two major uses. It can refer to external force or pressure that makes someone act, but it can also refer to an internal, difficult-to-resist urge. This makes it broader than coercion or duress, which are primarily associated with external pressure."
+  },
+  "minimal": {
+    "ja": [
+      "compulsion：外部からの強制、または内面的な抗しがたい衝動。",
+      "coercion：脅し・圧力などで人を強制する行為・手段。",
+      "duress：脅迫・重大な圧力を受けている状態。",
+      "urge：何かをしたいという強い衝動。compulsion ほど抗しがたいとは限らない。",
+      "impulse：突然生じる衝動。",
+      "obligation：義務・責任によって何かをしなければならない状態。"
+    ],
+    "en": [
+      "compulsion can mean either external force or an irresistible internal urge.",
+      "coercion is the act or means of compelling someone through threats or pressure.",
+      "duress is the condition of being subjected to serious threats or improper pressure.",
+      "urge is a strong desire but need not be irresistible.",
+      "impulse is a sudden spontaneous urge to act.",
+      "obligation is a duty or responsibility rather than coercive pressure."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 compulsio『強制』に由来し、compellere『一緒に追い立てる、強いる』の名詞形。compellere は com-『共に、強意』＋ pellere『押す、追いやる』から成る。同じ pellere 系には compel, expel, repel, propel などがある。",
+    "en": "From Latin compulsio, meaning 'constraint or compulsion', from compellere, 'to drive together or force'. Compellere is formed from com- plus pellere ('to push or drive'). The same root appears in compel, expel, repel, and propel."
+  },
+  "synonyms": [
+    {
+      "word": "coercion",
+      "note": {
+        "ja": "外部から脅し・圧力をかけて強制すること。compulsion より対人的・外的。",
+        "en": "Refers more specifically to external pressure, threats, or force imposed by another party."
+      }
+    },
+    {
+      "word": "urge",
+      "note": {
+        "ja": "強い欲求・衝動。compulsion より弱く、自制可能な場合も多い。",
+        "en": "A strong desire or impulse that is often less irresistible than a compulsion."
+      }
+    },
+    {
+      "word": "impulse",
+      "note": {
+        "ja": "突然起こる衝動。compulsion は反復的・持続的な場合もある。",
+        "en": "A sudden spontaneous urge; compulsion can be more persistent or repetitive."
+      }
+    },
+    {
+      "word": "constraint",
+      "note": {
+        "ja": "行動の自由を制限する条件・制約。必ずしも人を直接強制するわけではない。",
+        "en": "A limitation or restriction on freedom of action and not necessarily a direct force compelling behavior."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Zwang / Drang",
+    "it": "costrizione / impulso irresistibile",
+    "fr": "contrainte / compulsion",
+    "es": "coacción / compulsión"
+  },
+  "collocations": {
+    "ja": [
+      "under compulsion — 強制されて",
+      "act under compulsion — 強制されて行動する",
+      "feel a compulsion to do something — どうしても〜したい衝動を感じる",
+      "irresistible compulsion — 抗しがたい衝動",
+      "legal compulsion — 法的強制",
+      "external compulsion — 外的強制",
+      "internal compulsion — 内的衝動",
+      "sense of compulsion — 強迫感"
+    ],
+    "en": [
+      "under compulsion",
+      "act under compulsion",
+      "feel a compulsion to do something",
+      "irresistible compulsion",
+      "legal compulsion",
+      "external compulsion",
+      "internal compulsion",
+      "sense of compulsion"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He signed the document under compulsion. — 彼は強制されてその文書に署名した。",
+      "There was no legal compulsion to disclose the information. — その情報を開示する法的強制はなかった。",
+      "She felt a strong compulsion to check the door again. — 彼女はもう一度ドアを確認せずにはいられない強い衝動を感じた。",
+      "He acted out of a sense of compulsion rather than choice. — 彼は自ら選んだのではなく、強制されているような感覚から行動した。",
+      "The behavior seemed to be driven by an irresistible compulsion. — その行動は抗しがたい衝動によって駆り立てられているようだった。"
+    ],
+    "en": [
+      "He signed the document under compulsion.",
+      "There was no legal compulsion to disclose the information.",
+      "She felt a strong compulsion to check the door again.",
+      "He acted out of a sense of compulsion rather than choice.",
+      "The behavior seemed to be driven by an irresistible compulsion."
+    ]
+  }
+},
+{
+  "id": "compel",
+  "sid": "2026-00256",
+  "word": "compel",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "law",
+    "obligation",
+    "pressure"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "compel – compelled – compelled",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kəmˈpel/",
+      "uk": "/kəmˈpel/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人に何かを強制する、せざるを得なくする",
+      "法律・事情・証拠などが人をある行動へ駆り立てる",
+      "強い力で行動を不可避にする"
+    ],
+    "en": [
+      "to force or oblige someone to do something",
+      "to make an action necessary or unavoidable because of law, circumstances, evidence, or strong pressure",
+      "to drive someone toward a particular course of action"
+    ]
+  },
+  "nuance": {
+    "ja": "compel は『強制する』を表す硬い語だが、coerce のように脅迫・威圧・不当な圧力を必ずしも含まない。法律が行為を義務づける、事情が決断を余儀なくさせる、証拠が結論を導かせる、といった文脈にも自然に使える。基本構文は compel someone to do something。",
+    "en": "Compel is a formal verb meaning to make someone act or to make an action unavoidable. Unlike coerce, it does not necessarily imply threats, intimidation, or improper pressure. Laws, circumstances, evidence, necessity, or moral considerations can all compel someone to act."
+  },
+  "minimal": {
+    "ja": [
+      "compel：人・法律・事情などが行為をせざるを得なくする。",
+      "coerce：脅し・圧力などで人に行為を強要する。",
+      "force：無理に〜させる最も一般的な語。",
+      "oblige：義務・礼儀・事情などによって〜せざるを得なくする。",
+      "require：規則・条件として必要とする、義務づける。",
+      "pressure：圧力をかけて行動を促す。"
+    ],
+    "en": [
+      "compel means to make someone act or make action unavoidable.",
+      "coerce means to force someone through threats or improper pressure.",
+      "force is the most general verb for making someone do something unwillingly.",
+      "oblige often suggests duty, courtesy, or circumstances rather than direct force.",
+      "require means to make something necessary by rule or condition.",
+      "pressure means to influence someone strongly without necessarily compelling them."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 compellere『一緒に追い立てる、強いる』に由来し、com-『共に、強意』＋ pellere『押す、追いやる』から成る。名詞形が compulsion。同じ pellere 系には expel, repel, propel などがある。",
+    "en": "From Latin compellere, meaning 'to drive together or force', formed from com- plus pellere ('to push or drive'). The corresponding noun is compulsion. The same root appears in expel, repel, and propel."
+  },
+  "synonyms": [
+    {
+      "word": "coerce",
+      "note": {
+        "ja": "脅迫・威圧・不当な圧力による強要に強い。compel はより中立的・広義。",
+        "en": "More strongly implies threats, intimidation, or improper pressure; compel is broader and more neutral."
+      }
+    },
+    {
+      "word": "force",
+      "note": {
+        "ja": "最も一般的な『無理に〜させる』。compel の方が硬い。",
+        "en": "The general verb for making someone do something; compel is more formal."
+      }
+    },
+    {
+      "word": "oblige",
+      "note": {
+        "ja": "義務や事情によって行動を余儀なくさせる。compel より穏やかな場合も多い。",
+        "en": "Often means to make someone act because of duty or circumstances and can be milder than compel."
+      }
+    },
+    {
+      "word": "require",
+      "note": {
+        "ja": "規則・制度・条件として必要とすることに重点。",
+        "en": "Focuses on making something necessary as a rule, condition, or requirement."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "zwingen / nötigen",
+    "it": "costringere / obbligare",
+    "fr": "contraindre / obliger",
+    "es": "obligar / forzar"
+  },
+  "collocations": {
+    "ja": [
+      "compel someone to do something — 人に〜することを強いる",
+      "compel compliance — 遵守を強制する",
+      "compel disclosure — 開示を強制する",
+      "compel testimony — 証言を強制する",
+      "compel attendance — 出席を義務づける",
+      "be compelled by law — 法律によって義務づけられる",
+      "feel compelled to act — 行動せざるを得ないと感じる",
+      "compelling evidence — 説得力の非常に強い証拠"
+    ],
+    "en": [
+      "compel someone to do something",
+      "compel compliance",
+      "compel disclosure",
+      "compel testimony",
+      "compel attendance",
+      "be compelled by law",
+      "feel compelled to act",
+      "compelling evidence"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The court compelled the company to disclose the documents. — 裁判所はその会社に文書の開示を命じた。",
+      "The law compels employers to maintain certain records. — 法律は雇用主に一定の記録を保持することを義務づけている。",
+      "Financial difficulties compelled them to sell the property. — 経済的困難によって、彼らはその不動産を売却せざるを得なかった。",
+      "I felt compelled to apologize. — 私は謝らずにはいられないと感じた。",
+      "The evidence compelled the investigators to reconsider their theory. — その証拠によって捜査官たちは自分たちの仮説を再検討せざるを得なかった。"
+    ],
+    "en": [
+      "The court compelled the company to disclose the documents.",
+      "The law compels employers to maintain certain records.",
+      "Financial difficulties compelled them to sell the property.",
+      "I felt compelled to apologize.",
+      "The evidence compelled the investigators to reconsider their theory."
+    ]
+  }
+},
+{
+  "id": "compelling",
+  "sid": "2026-00257",
+  "word": "compelling",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "argument",
+    "evidence",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kəmˈpelɪŋ/",
+      "uk": "/kəmˈpelɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "非常に説得力のある、納得させる力の強い",
+      "強く人を引きつける、魅力的で目が離せない",
+      "無視しがたいほど強力な"
+    ],
+    "en": [
+      "extremely convincing or persuasive",
+      "strongly attracting and holding attention or interest",
+      "so powerful or important that it is difficult to ignore"
+    ]
+  },
+  "nuance": {
+    "ja": "argument, evidence, reason, case などについては『反論しにくいほど説得力がある』という意味。story, character, performance などでは『強く引き込まれる、魅力的な』という意味になる。単なる interesting よりずっと強く、『こちらを動かす力がある』という compel 本来の感覚が残っている。",
+    "en": "With words such as argument, evidence, reason, or case, compelling means highly persuasive and difficult to dismiss. With story, character, performance, or narrative, it means powerfully engaging. It is much stronger than merely interesting and retains the underlying idea of something that strongly moves or draws a person."
+  },
+  "minimal": {
+    "ja": [
+      "compelling：説得力が非常に強い、または強く人を引きつける。",
+      "convincing：相手を納得させるだけの説得力がある。",
+      "persuasive：人の意見・判断・行動を変える説得力がある。",
+      "plausible：もっともらしく、ありそうに思える。",
+      "engaging：興味を引き、楽しませる。",
+      "captivating：強く心を奪う、魅了する。"
+    ],
+    "en": [
+      "compelling means extremely persuasive or powerfully engaging.",
+      "convincing means able to make someone believe something is true.",
+      "persuasive means effective at influencing someone's views or actions.",
+      "plausible means seeming reasonable or likely to be true.",
+      "engaging means interesting and pleasant enough to hold attention.",
+      "captivating means extremely attractive or fascinating."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 compel『強いる、駆り立てる』の現在分詞から形容詞化した語。compel はラテン語 compellere『追い立てる、強いる』に由来し、com-＋pellere『押す、追いやる』から成る。『人を動かさずにはおかない』という感覚から、『非常に説得力がある』『強く引きつける』という意味へ発展した。",
+    "en": "An adjectival use of the present participle of compel. Compel comes from Latin compellere, meaning 'to drive or force', from com- plus pellere ('to push or drive'). The adjective developed the sense of something so powerful that it strongly moves, persuades, or attracts a person."
+  },
+  "synonyms": [
+    {
+      "word": "convincing",
+      "note": {
+        "ja": "真実性・妥当性を納得させることに重点。compelling の方が強いことが多い。",
+        "en": "Focuses on making something believable or acceptable; compelling is often stronger."
+      }
+    },
+    {
+      "word": "persuasive",
+      "note": {
+        "ja": "意見・行動を変えさせる説得力に重点。",
+        "en": "Focuses on influencing someone's opinion, judgment, or behavior."
+      }
+    },
+    {
+      "word": "captivating",
+      "note": {
+        "ja": "物語・人物などが非常に魅力的で心を奪う場合に近い。",
+        "en": "Close to compelling when describing a story, person, or performance that powerfully holds attention."
+      }
+    },
+    {
+      "word": "engaging",
+      "note": {
+        "ja": "興味を引くという意味では近いが、compelling ほど強烈ではない。",
+        "en": "Means interesting and attention-holding but is generally weaker than compelling."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "überzeugend / fesselnd",
+    "it": "convincente / avvincente",
+    "fr": "convaincant / captivant",
+    "es": "convincente / cautivador"
+  },
+  "collocations": {
+    "ja": [
+      "compelling evidence — 非常に説得力のある証拠",
+      "compelling argument — 強力な論拠",
+      "compelling reason — 強い理由、無視できない理由",
+      "compelling case — 非常に説得力のある主張・論証",
+      "compelling story — 人を強く引き込む物語",
+      "compelling narrative — 魅力的で説得力のある語り",
+      "compelling character — 強く人を引きつける人物",
+      "compelling performance — 人を引き込む演技"
+    ],
+    "en": [
+      "compelling evidence",
+      "compelling argument",
+      "compelling reason",
+      "compelling case",
+      "compelling story",
+      "compelling narrative",
+      "compelling character",
+      "compelling performance"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The prosecution presented compelling evidence. — 検察側は非常に説得力のある証拠を提示した。",
+      "She made a compelling argument for reform. — 彼女は改革を支持する非常に説得力のある主張を展開した。",
+      "There are compelling reasons to reconsider the policy. — その政策を再検討すべき強い理由がある。",
+      "The novel tells a compelling story of survival. — その小説は生存をめぐる人を引き込む物語を描いている。",
+      "His performance was so compelling that the audience remained completely silent. — 彼の演技は非常に人を引きつけるもので、観客は完全に静まり返っていた。"
+    ],
+    "en": [
+      "The prosecution presented compelling evidence.",
+      "She made a compelling argument for reform.",
+      "There are compelling reasons to reconsider the policy.",
+      "The novel tells a compelling story of survival.",
+      "His performance was so compelling that the audience remained completely silent."
+    ]
+  }
+},
+{
+  "id": "convincing",
+  "sid": "2026-00258",
+  "word": "convincing",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "general",
+    "argument",
+    "evidence",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈvɪnsɪŋ/",
+      "uk": "/kənˈvɪnsɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "説得力のある、納得させるだけの力がある",
+      "本物らしい、もっともらしい",
+      "疑いをかなり減らすほど確かな印象を与える"
+    ],
+    "en": [
+      "able to make someone believe that something is true or valid",
+      "seeming realistic, genuine, or credible",
+      "strong enough to remove much doubt"
+    ]
+  },
+  "nuance": {
+    "ja": "argument, explanation, evidence, reason などについて『相手を納得させられるだけの説得力がある』という意味。performance, imitation, portrayal などでは『本物らしい、自然で信じられる』という意味にもなる。compelling よりも『真実性・妥当性を信じさせる』ことに重点があり、必ずしも強烈に人を引き込む必要はない。",
+    "en": "Convincing focuses on making something believable, credible, or acceptable as true or valid. With performances, imitations, or portrayals, it can mean realistic or authentic. Compared with compelling, it places more emphasis on belief and credibility than on irresistible persuasive force or emotional attraction."
+  },
+  "minimal": {
+    "ja": [
+      "convincing：真実・妥当だと納得させるだけの説得力がある。",
+      "compelling：反論しにくいほど強力、または強く人を引きつける。",
+      "persuasive：人の意見・判断・行動を変える力がある。",
+      "credible：信頼できる、信じるに足る。",
+      "plausible：もっともらしい、ありそうに思える。",
+      "believable：信じられる、現実味がある。"
+    ],
+    "en": [
+      "convincing means strong enough to make something believable or acceptable as true.",
+      "compelling is stronger and can mean extremely persuasive or powerfully engaging.",
+      "persuasive focuses on influencing someone's opinion or behavior.",
+      "credible means worthy of belief or trust.",
+      "plausible means seeming reasonable or likely to be true.",
+      "believable means capable of being believed or realistic."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 convince の現在分詞から形容詞化した語。convince はラテン語 convincere『完全に論破する、罪を立証する』に由来し、con-『共に、完全に』＋ vincere『打ち勝つ』から成る。もともとは『議論で打ち負かす』という強い意味だったが、後に『納得させる』へ発展した。",
+    "en": "An adjectival use of the present participle of convince. Convince comes from Latin convincere, meaning 'to overcome in argument or prove guilty', formed from con- plus vincere ('to conquer'). Its meaning later developed toward 'to cause someone to believe'."
+  },
+  "synonyms": [
+    {
+      "word": "compelling",
+      "note": {
+        "ja": "convincing より強く、非常に説得力がある、または人を強く引きつける。",
+        "en": "Usually stronger than convincing and can also mean powerfully engaging."
+      }
+    },
+    {
+      "word": "persuasive",
+      "note": {
+        "ja": "人の意見・判断・行動に影響を与える説得力に重点。",
+        "en": "Focuses on effectiveness in influencing opinion, judgment, or action."
+      }
+    },
+    {
+      "word": "credible",
+      "note": {
+        "ja": "情報・人物・説明などが信頼に値することに重点。",
+        "en": "Focuses on being worthy of belief or trust."
+      }
+    },
+    {
+      "word": "plausible",
+      "note": {
+        "ja": "一見もっともらしく、あり得そうであること。実際に正しいとは限らない。",
+        "en": "Means apparently reasonable or possible, without necessarily being true."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "überzeugend",
+    "it": "convincente",
+    "fr": "convaincant",
+    "es": "convincente"
+  },
+  "collocations": {
+    "ja": [
+      "convincing evidence — 説得力のある証拠",
+      "convincing argument — 説得力のある論拠",
+      "convincing explanation — 納得のいく説明",
+      "convincing reason — 納得できる理由",
+      "convincing case — 説得力のある主張・論証",
+      "convincing performance — 真に迫った演技",
+      "convincing imitation — 本物らしい模倣",
+      "sound convincing — 説得力があるように聞こえる"
+    ],
+    "en": [
+      "convincing evidence",
+      "convincing argument",
+      "convincing explanation",
+      "convincing reason",
+      "convincing case",
+      "convincing performance",
+      "convincing imitation",
+      "sound convincing"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The report provides convincing evidence that the policy was ineffective. — その報告書は、その政策が効果的でなかったことを示す説得力のある証拠を提示している。",
+      "She gave a convincing explanation for the delay. — 彼女は遅延について納得のいく説明をした。",
+      "His argument was logical but not entirely convincing. — 彼の議論は論理的だったが、完全に説得力があるとは言えなかった。",
+      "The actor gave a convincing performance as a young lawyer. — その俳優は若い弁護士役を真に迫って演じた。",
+      "The imitation was so convincing that I initially thought it was genuine. — その模倣は非常に本物らしく、最初は本物だと思った。"
+    ],
+    "en": [
+      "The report provides convincing evidence that the policy was ineffective.",
+      "She gave a convincing explanation for the delay.",
+      "His argument was logical but not entirely convincing.",
+      "The actor gave a convincing performance as a young lawyer.",
+      "The imitation was so convincing that I initially thought it was genuine."
+    ]
+  }
+},
+{
+  "id": "persuasive",
+  "sid": "2026-00259",
+  "word": "persuasive",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "argument",
+    "communication",
+    "influence"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pərˈsweɪsɪv/",
+      "uk": "/pəˈsweɪsɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "説得力のある",
+      "人の意見・判断・行動を変えさせる力のある",
+      "人を納得させたり行動へ促したりするのが上手な"
+    ],
+    "en": [
+      "able to persuade someone to believe or do something",
+      "effective at influencing someone's opinion, judgment, or behavior",
+      "good at convincing people through argument or communication"
+    ]
+  },
+  "nuance": {
+    "ja": "persuasive は、単に『もっともらしい』だけではなく、相手の考え・判断・行動に影響を与える力があることを表す。argument, case, speech, writing, technique などとよく結びつく。convincing が『真実・妥当だと信じさせる』ことに重点を置くのに対し、persuasive は『相手を動かす』ことに重点がある。",
+    "en": "Persuasive emphasizes the power to influence another person's opinion, judgment, or behavior. It commonly modifies argument, case, speech, writing, or technique. Compared with convincing, which focuses more on making something believable or acceptable as true, persuasive focuses more on moving someone toward a view or action."
+  },
+  "minimal": {
+    "ja": [
+      "persuasive：人の意見・判断・行動を動かす説得力がある。",
+      "convincing：真実・妥当だと納得させるだけの説得力がある。",
+      "compelling：非常に強力で、無視しにくいほど説得力がある。",
+      "credible：信頼できる、信じるに足る。",
+      "plausible：もっともらしい、ありそうに思える。",
+      "influential：人や社会に大きな影響力を持つ。"
+    ],
+    "en": [
+      "persuasive means effective at influencing someone's opinion or behavior.",
+      "convincing means strong enough to make something believable or acceptable as true.",
+      "compelling is stronger and suggests something extremely persuasive or difficult to ignore.",
+      "credible means worthy of belief or trust.",
+      "plausible means seeming reasonable or likely to be true.",
+      "influential means having significant power to affect people or events."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 persuade から派生。persuade はラテン語 persuadere『完全に勧める、納得させる』に由来し、per-『完全に、徹底して』＋ suadere『勧める』から成る。suadere は dissuade『思いとどまらせる』にも見られる。",
+    "en": "Derived from persuade, which comes from Latin persuadere, meaning 'to advise or convince thoroughly', formed from per- ('thoroughly') plus suadere ('to advise or urge'). The same root appears in dissuade."
+  },
+  "synonyms": [
+    {
+      "word": "convincing",
+      "note": {
+        "ja": "真実・妥当性を信じさせることに重点。persuasive は意見や行動を動かすことに重点。",
+        "en": "Focuses more on making something believable or acceptable as true, while persuasive focuses on influencing opinion or action."
+      }
+    },
+    {
+      "word": "compelling",
+      "note": {
+        "ja": "persuasive よりさらに強く、無視しにくいほど説得力があることが多い。",
+        "en": "Often stronger than persuasive and suggests something difficult to dismiss or ignore."
+      }
+    },
+    {
+      "word": "influential",
+      "note": {
+        "ja": "人や社会に影響力があることを広く表す。必ずしも説得そのものを意味しない。",
+        "en": "Broadly means having power to affect people or events and does not necessarily involve persuasion."
+      }
+    },
+    {
+      "word": "effective",
+      "note": {
+        "ja": "目的達成に効果的という一般語。説得力に限定されない。",
+        "en": "A general term meaning successful in producing the intended result, not specifically persuasive."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "überzeugend / überzeugungskräftig",
+    "it": "persuasivo / convincente",
+    "fr": "persuasif / convaincant",
+    "es": "persuasivo / convincente"
+  },
+  "collocations": {
+    "ja": [
+      "persuasive argument — 説得力のある論拠",
+      "persuasive case — 説得力のある主張・論証",
+      "persuasive evidence — 人を納得させる力のある証拠",
+      "persuasive speech — 説得力のある演説",
+      "persuasive writing — 説得的な文章",
+      "persuasive technique — 説得の技法",
+      "highly persuasive — 非常に説得力のある",
+      "sound persuasive — 説得力があるように聞こえる"
+    ],
+    "en": [
+      "persuasive argument",
+      "persuasive case",
+      "persuasive evidence",
+      "persuasive speech",
+      "persuasive writing",
+      "persuasive technique",
+      "highly persuasive",
+      "sound persuasive"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She made a persuasive case for changing the policy. — 彼女はその政策を変更すべきだという説得力のある主張を展開した。",
+      "The lawyer presented a highly persuasive argument. — その弁護士は非常に説得力のある論拠を提示した。",
+      "His speech was persuasive enough to change several members' minds. — 彼の演説には、数人のメンバーの考えを変えるだけの説得力があった。",
+      "The article uses persuasive language to encourage readers to take action. — その記事は読者に行動を促すため、説得力のある表現を用いている。",
+      "She is a persuasive negotiator. — 彼女は相手を動かすのが上手な交渉者だ。"
+    ],
+    "en": [
+      "She made a persuasive case for changing the policy.",
+      "The lawyer presented a highly persuasive argument.",
+      "His speech was persuasive enough to change several members' minds.",
+      "The article uses persuasive language to encourage readers to take action.",
+      "She is a persuasive negotiator."
+    ]
+  }
+},
+{
+  "id": "plausible",
+  "sid": "2026-00260",
+  "word": "plausible",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "argument",
+    "reasoning",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈplɔːzəbəl/",
+      "uk": "/ˈplɔːzəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "もっともらしい、ありそうな",
+      "筋が通っていて一応信じられそうな",
+      "表面的には説得力があるように見える"
+    ],
+    "en": [
+      "seeming reasonable or likely to be true",
+      "appearing believable because it is logically possible",
+      "superficially convincing or credible"
+    ]
+  },
+  "nuance": {
+    "ja": "plausible は『事実として証明された』という意味ではなく、『話としては筋が通っていて、あり得そうに見える』ことを表す。explanation, theory, scenario, reason, hypothesis などとよく結びつく。文脈によっては『一見もっともらしいが、実際には怪しい』という含みを持つこともある。",
+    "en": "Plausible means that something appears reasonable, possible, or believable, without implying that it has been proved true. It commonly modifies explanation, theory, scenario, reason, or hypothesis. Depending on context, it can even suggest something that merely sounds convincing on the surface."
+  },
+  "minimal": {
+    "ja": [
+      "plausible：筋が通っていて、ありそうに思える。",
+      "convincing：実際に相手を納得させるだけの説得力がある。",
+      "credible：情報・人物などが信頼に値する。",
+      "believable：信じられる、現実味がある。",
+      "possible：単に可能である。",
+      "probable：起こる可能性が高い。"
+    ],
+    "en": [
+      "plausible means reasonable and believable enough to seem possible.",
+      "convincing means strong enough to make someone believe something.",
+      "credible means worthy of belief or trust.",
+      "believable means capable of being believed or realistic.",
+      "possible simply means capable of happening or being true.",
+      "probable means more likely than not."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 plausibilis『拍手に値する、好評を得そうな』に由来し、plaudere『拍手する』と同系。もともとは『人に受け入れられそうな、好感を持たれそうな』という意味で、そこから『もっともらしい、信じられそうな』へ発展した。applause, applaud と同語族。",
+    "en": "From Latin plausibilis, meaning 'deserving applause or likely to win approval', from the same root as plaudere ('to applaud'). The meaning developed from 'acceptable or pleasing' to 'seemingly reasonable or believable'. It is related to applause and applaud."
+  },
+  "synonyms": [
+    {
+      "word": "credible",
+      "note": {
+        "ja": "信頼性があり、信じるに足ることに重点。plausible は『ありそうに見える』という可能性判断に寄る。",
+        "en": "Focuses on being worthy of trust or belief, while plausible focuses more on seeming reasonably possible."
+      }
+    },
+    {
+      "word": "believable",
+      "note": {
+        "ja": "一般的な『信じられる』。plausible の方がやや論理的・フォーマル。",
+        "en": "The general word for something that can be believed; plausible is somewhat more formal and analytical."
+      }
+    },
+    {
+      "word": "convincing",
+      "note": {
+        "ja": "実際に人を納得させる力がある。plausible より一段強いことが多い。",
+        "en": "Strong enough to persuade someone; often stronger than merely plausible."
+      }
+    },
+    {
+      "word": "reasonable",
+      "note": {
+        "ja": "理にかなっている、妥当である。plausible と重なるが、真偽より判断の妥当性に広く使える。",
+        "en": "Means sensible or fair and overlaps with plausible, but is broader than judgments of truth or possibility."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "plausibel / glaubhaft",
+    "it": "plausibile",
+    "fr": "plausible",
+    "es": "plausible"
+  },
+  "collocations": {
+    "ja": [
+      "plausible explanation — もっともらしい説明",
+      "plausible theory — もっともらしい理論",
+      "plausible scenario — あり得そうなシナリオ",
+      "plausible reason — もっともらしい理由",
+      "plausible hypothesis — 妥当そうな仮説",
+      "plausible alternative — あり得る別の可能性",
+      "entirely plausible — 十分あり得る",
+      "sound plausible — もっともらしく聞こえる"
+    ],
+    "en": [
+      "plausible explanation",
+      "plausible theory",
+      "plausible scenario",
+      "plausible reason",
+      "plausible hypothesis",
+      "plausible alternative",
+      "entirely plausible",
+      "sound plausible"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Her explanation sounded plausible at first. — 彼女の説明は最初はもっともらしく聞こえた。",
+      "There is no plausible reason for the sudden change. — その突然の変更について、もっともらしい理由はない。",
+      "The researchers proposed several plausible explanations. — 研究者たちはいくつかのもっともらしい説明を提示した。",
+      "It is entirely plausible that the error occurred during transmission. — その誤りが伝送中に生じたというのは十分あり得る。",
+      "The theory is plausible, but there is not enough evidence to confirm it. — その理論はもっともらしいが、確認するには証拠が十分ではない。"
+    ],
+    "en": [
+      "Her explanation sounded plausible at first.",
+      "There is no plausible reason for the sudden change.",
+      "The researchers proposed several plausible explanations.",
+      "It is entirely plausible that the error occurred during transmission.",
+      "The theory is plausible, but there is not enough evidence to confirm it."
+    ]
+  }
+},
+{
+  "id": "credible",
+  "sid": "2026-00261",
+  "word": "credible",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "trust",
+    "evidence",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkredəbəl/",
+      "uk": "/ˈkredəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "信頼できる、信用に足る",
+      "信じるに値する",
+      "現実的・実行可能な選択肢として十分に成り立つ"
+    ],
+    "en": [
+      "worthy of belief or trust",
+      "convincing enough to be accepted as reliable",
+      "serious or realistic enough to be regarded as a genuine possibility"
+    ]
+  },
+  "nuance": {
+    "ja": "credible は『信じてもよいだけの信頼性がある』ことに重点がある。source, witness, evidence, account, explanation などとよく結びつく。plausible が内容そのものの『ありそうらしさ』を表すのに対し、credible は情報・人物・説明などの『信用性』に焦点を置く。また credible alternative / candidate / threat のように『現実味のある、本気で考慮すべき』という意味にも使われる。",
+    "en": "Credible focuses on reliability and trustworthiness: something or someone is believable enough to be taken seriously. It commonly modifies source, witness, evidence, account, or explanation. Unlike plausible, which emphasizes whether something seems reasonably possible, credible emphasizes whether it deserves belief or trust. It can also mean realistic or serious enough to constitute a genuine alternative, candidate, or threat."
+  },
+  "minimal": {
+    "ja": [
+      "credible：信頼でき、信じるに足る。",
+      "plausible：筋が通っていて、ありそうに思える。",
+      "convincing：実際に相手を納得させるだけの説得力がある。",
+      "reliable：安定して信頼できる、当てになる。",
+      "trustworthy：人・情報源などが信用できる。",
+      "believable：信じられる、現実味がある。"
+    ],
+    "en": [
+      "credible means worthy of belief or trust.",
+      "plausible means reasonable and believable enough to seem possible.",
+      "convincing means strong enough to make someone believe something.",
+      "reliable means consistently dependable or accurate.",
+      "trustworthy means deserving of trust.",
+      "believable means capable of being believed or realistic."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 credibilis『信じられる』に由来し、credere『信じる、信用する』から派生した。credit, creed, credentials なども同じ cred-『信じる』系。",
+    "en": "From Latin credibilis, meaning 'worthy of belief', from credere ('to believe or trust'). The same root appears in credit, creed, and credentials."
+  },
+  "synonyms": [
+    {
+      "word": "plausible",
+      "note": {
+        "ja": "『ありそうに見える』ことに重点。credible は『信頼に値する』ことに重点。",
+        "en": "Focuses on seeming reasonably possible, while credible focuses on deserving belief or trust."
+      }
+    },
+    {
+      "word": "reliable",
+      "note": {
+        "ja": "情報・機械・人などが一貫して当てになることに重点。",
+        "en": "Focuses on being consistently dependable or accurate."
+      }
+    },
+    {
+      "word": "trustworthy",
+      "note": {
+        "ja": "特に人・組織・情報源が信用できることを表す。",
+        "en": "Especially used for people, organizations, or sources that deserve trust."
+      }
+    },
+    {
+      "word": "believable",
+      "note": {
+        "ja": "一般的な『信じられる』。credible の方がややフォーマルで信頼性評価の語感が強い。",
+        "en": "The general word for something that can be believed; credible is more formal and more strongly associated with reliability."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "glaubwürdig",
+    "it": "credibile",
+    "fr": "crédible",
+    "es": "creíble"
+  },
+  "collocations": {
+    "ja": [
+      "credible source — 信頼できる情報源",
+      "credible witness — 信用できる証人",
+      "credible evidence — 信頼性のある証拠",
+      "credible account — 信用できる説明・証言",
+      "credible explanation — 信頼できる説明",
+      "credible alternative — 現実的な代替案",
+      "credible threat — 現実味のある脅威",
+      "highly credible — 非常に信頼性の高い"
+    ],
+    "en": [
+      "credible source",
+      "credible witness",
+      "credible evidence",
+      "credible account",
+      "credible explanation",
+      "credible alternative",
+      "credible threat",
+      "highly credible"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The investigators found the witness to be credible. — 捜査官たちはその証人を信用できると判断した。",
+      "The report is based on credible sources. — その報告書は信頼できる情報源に基づいている。",
+      "She offered a credible explanation for the discrepancy. — 彼女はその食い違いについて信頼に足る説明を示した。",
+      "There is no credible evidence to support the claim. — その主張を裏付ける信頼できる証拠はない。",
+      "The proposal presents a credible alternative to the current system. — その提案は現行制度に代わる現実的な選択肢を示している。"
+    ],
+    "en": [
+      "The investigators found the witness to be credible.",
+      "The report is based on credible sources.",
+      "She offered a credible explanation for the discrepancy.",
+      "There is no credible evidence to support the claim.",
+      "The proposal presents a credible alternative to the current system."
+    ]
+  }
 }
 ]
