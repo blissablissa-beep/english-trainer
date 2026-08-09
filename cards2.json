@@ -5279,5 +5279,1231 @@
       "He refused to renounce his political beliefs."
     ]
   }
+},
+{
+  "id": "repudiate",
+  "sid": "2026-00220",
+  "word": "repudiate",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "law",
+    "general",
+    "argument"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "repudiate – repudiated – repudiated",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈpjuːdieɪt/",
+      "uk": "/rɪˈpjuːdieɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "主張・考え・責任などを拒絶する、否認する",
+      "契約・債務・義務などを履行しないと表明する",
+      "関係・所属などを公に否定する"
+    ],
+    "en": [
+      "to reject or refuse to accept a claim, idea, responsibility, or association",
+      "to refuse to acknowledge or perform a contract, debt, or obligation",
+      "to publicly disown or reject a connection with someone or something"
+    ]
+  },
+  "nuance": {
+    "ja": "非常に硬い語で、『自分はそれを認めない、受け入れない』と明確に拒絶するニュアンスがある。renounce が自分の権利・信念・地位などを放棄するのに対し、repudiate は外部からの主張・義務・責任・関係を『認めない』方向に重点がある。法律では契約や債務の履行拒絶、一般文脈では発言・思想・過去の立場の否認などに使われる。",
+    "en": "Repudiate is a strong, formal verb meaning to reject, deny, or refuse to accept something. Unlike renounce, which focuses on giving up something one previously held or supported, repudiate often focuses on refusing to recognize a claim, obligation, responsibility, or association. It is especially common in legal and formal contexts."
+  },
+  "minimal": {
+    "ja": [
+      "repudiate：主張・義務・責任・関係などを認めないと拒絶する。",
+      "renounce：自分の権利・信念・地位などを正式に放棄する。",
+      "reject：受け入れないことを表す最も一般的な語。",
+      "deny：事実・責任・関与などを否定する。",
+      "disavow：発言・行動・関係などとのつながりを否認する。",
+      "revoke：以前与えた権利・許可・決定などを正式に取り消す。"
+    ],
+    "en": [
+      "repudiate means to formally reject or refuse to recognize a claim, obligation, or association.",
+      "renounce means to formally give up something one previously held or supported.",
+      "reject is the general word for refusing to accept something.",
+      "deny means to state that something is not true or that one is not responsible.",
+      "disavow means to deny responsibility for or connection with something.",
+      "revoke means to formally cancel a previously granted right, permission, or decision."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 repudiare『拒絶する、離婚する』に由来し、repudium『拒絶、離縁』と同系。古くは婚姻関係を断つ意味でも使われ、そこから広く『関係・義務・主張を拒絶する』意味へ発展した。",
+    "en": "From Latin repudiare, meaning 'to reject or divorce', related to repudium ('rejection, separation'). The word historically referred to rejecting a marital relationship and later broadened to the rejection of claims, obligations, beliefs, and associations."
+  },
+  "synonyms": [
+    {
+      "word": "reject",
+      "note": {
+        "ja": "最も一般的な『拒否する』。repudiate の方が強く、正式・公的な否認に向く。",
+        "en": "The general word for refusing something; repudiate is stronger and more formal."
+      }
+    },
+    {
+      "word": "deny",
+      "note": {
+        "ja": "事実・責任・関与などが真実でないと否定する。repudiate は受け入れ自体を拒む感じが強い。",
+        "en": "Means to state that something is not true; repudiate emphasizes rejection or refusal to accept."
+      }
+    },
+    {
+      "word": "disavow",
+      "note": {
+        "ja": "発言・行為・関係とのつながりを否認する。repudiate とかなり近いが、disavow は『自分とは関係ない』に寄りやすい。",
+        "en": "Very close in meaning, but disavow more specifically emphasizes denying responsibility for or connection with something."
+      }
+    },
+    {
+      "word": "renounce",
+      "note": {
+        "ja": "自分が持っていた権利・信念・地位などを放棄する。repudiate は外部の主張や義務を拒む方向に強い。",
+        "en": "Focuses on giving up something one previously held, whereas repudiate often rejects an external claim or obligation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "zurückweisen / ablehnen / sich lossagen von",
+    "it": "ripudiare / respingere",
+    "fr": "répudier / rejeter",
+    "es": "repudiar / rechazar"
+  },
+  "collocations": {
+    "ja": [
+      "repudiate a claim — 主張を拒絶する",
+      "repudiate responsibility — 責任を否認する",
+      "repudiate a contract — 契約の履行を拒絶する",
+      "repudiate a debt — 債務を認めない、履行を拒む",
+      "repudiate an agreement — 合意を否認する",
+      "repudiate an allegation — 申し立て・非難を否定する",
+      "publicly repudiate — 公に拒絶・否認する",
+      "repudiate one's former views — 以前の見解を否定する"
+    ],
+    "en": [
+      "repudiate a claim",
+      "repudiate responsibility",
+      "repudiate a contract",
+      "repudiate a debt",
+      "repudiate an agreement",
+      "repudiate an allegation",
+      "publicly repudiate",
+      "repudiate one's former views"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company repudiated the allegation that it had misled investors. — その会社は投資家を欺いたという申し立てを否定した。",
+      "The government refused to repudiate the debt. — 政府はその債務を否認することを拒んだ。",
+      "He publicly repudiated his earlier remarks. — 彼は以前の発言を公に撤回・否認した。",
+      "A party that repudiates the contract may be liable for breach. — 契約の履行を拒絶した当事者は契約違反の責任を負う可能性がある。",
+      "She repudiated any suggestion that she had acted improperly. — 彼女は自分が不適切に行動したという示唆を一切否定した。"
+    ],
+    "en": [
+      "The company repudiated the allegation that it had misled investors.",
+      "The government refused to repudiate the debt.",
+      "He publicly repudiated his earlier remarks.",
+      "A party that repudiates the contract may be liable for breach.",
+      "She repudiated any suggestion that she had acted improperly."
+    ]
+  }
+},
+{
+  "id": "disavow",
+  "sid": "2026-00221",
+  "word": "disavow",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "law",
+    "responsibility",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "disavow – disavowed – disavowed",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌdɪsəˈvaʊ/",
+      "uk": "/ˌdɪsəˈvaʊ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "発言・行為・責任などとの関係を否認する",
+      "支持・関与を否定する",
+      "以前の立場・主張などを自分のものではないとして退ける"
+    ],
+    "en": [
+      "to deny responsibility for, knowledge of, or connection with something",
+      "to state that one does not support or approve of something",
+      "to reject association with a previous statement, action, or position"
+    ]
+  },
+  "nuance": {
+    "ja": "『それは自分とは関係がない』『自分は支持していない』と距離を置くニュアンスが強い。repudiate が主張・契約・義務そのものを強く拒絶するのに対し、disavow は自分との関係・責任・支持を否認することに重点がある。政治・組織・広報・法律文脈でよく使われる硬い語。",
+    "en": "Disavow emphasizes denying responsibility for, connection with, or support for something. Compared with repudiate, which more strongly rejects a claim, obligation, or position itself, disavow focuses on distancing oneself from it. It is common in political, organizational, legal, and public-relations contexts."
+  },
+  "minimal": {
+    "ja": [
+      "disavow：自分との関係・責任・支持を否認する。",
+      "repudiate：主張・義務・契約などそのものを拒絶する。",
+      "deny：事実・関与・責任などを否定する一般語。",
+      "renounce：自分が持っていた権利・信念・地位などを正式に放棄する。",
+      "disclaim：責任・権利・保証などを明示的に否認する。",
+      "distance oneself from：人・発言・立場などから距離を置く、というより一般的な表現。"
+    ],
+    "en": [
+      "disavow means to deny responsibility for or connection with something.",
+      "repudiate means to reject a claim, obligation, agreement, or position itself.",
+      "deny is the general word for saying something is not true or not one's responsibility.",
+      "renounce means to formally give up something one previously held or supported.",
+      "disclaim means to formally deny responsibility, rights, or warranties.",
+      "distance oneself from is a broader expression for separating oneself from a person, statement, or position."
+    ]
+  },
+  "etymology": {
+    "ja": "dis-『反対・否定』＋ avow『公に認める、明言する』から成る。avow は古フランス語 avouer『認める、保証する』に由来する。したがって disavow は文字どおりには『公に認めることを否定する』という構造で、現代の『関係・責任を否認する』という意味につながる。",
+    "en": "Formed from dis- plus avow. Avow comes through Old French avouer, meaning 'to acknowledge or declare openly'. Disavow therefore literally carries the idea of refusing to acknowledge something as one's own."
+  },
+  "synonyms": [
+    {
+      "word": "repudiate",
+      "note": {
+        "ja": "より強く、主張・契約・義務などそのものを拒絶する。disavow は関係性の否認に寄りやすい。",
+        "en": "Stronger in rejecting a claim, contract, or obligation itself; disavow more often emphasizes lack of association."
+      }
+    },
+    {
+      "word": "deny",
+      "note": {
+        "ja": "最も一般的な『否定する』。disavow の方が正式で、責任や関係を切るニュアンスが強い。",
+        "en": "The general verb for denial; disavow is more formal and more strongly suggests distancing oneself."
+      }
+    },
+    {
+      "word": "disclaim",
+      "note": {
+        "ja": "責任・保証・権利などを明示的に否認する。法律文書で特に多い。",
+        "en": "Often used formally to deny responsibility, warranties, rights, or claims, especially in legal contexts."
+      }
+    },
+    {
+      "word": "renounce",
+      "note": {
+        "ja": "以前持っていた信念・権利・地位などを自ら放棄する。disavow は関係・責任を否認する。",
+        "en": "Means to give up something previously held, while disavow emphasizes denying association or responsibility."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sich distanzieren von / verleugnen",
+    "it": "disconoscere / prendere le distanze da",
+    "fr": "désavouer / se désolidariser de",
+    "es": "desautorizar / desvincularse de"
+  },
+  "collocations": {
+    "ja": [
+      "disavow responsibility — 責任を否認する",
+      "disavow knowledge of something — ～について知っていたことを否定する",
+      "disavow a statement — 発言との関係を否認する",
+      "disavow one's actions — 自らの行為を否認する",
+      "disavow support for something — ～への支持を否定する",
+      "publicly disavow — 公に否認する",
+      "disavow any connection with — ～との一切の関係を否認する",
+      "refuse to disavow — 否認することを拒む"
+    ],
+    "en": [
+      "disavow responsibility",
+      "disavow knowledge of something",
+      "disavow a statement",
+      "disavow one's actions",
+      "disavow support for something",
+      "publicly disavow",
+      "disavow any connection with",
+      "refuse to disavow"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The organization disavowed any connection with the attack. — その組織はその攻撃との一切の関係を否認した。",
+      "The candidate quickly disavowed the controversial remarks. — その候補者は問題となった発言からすぐに距離を置いた。",
+      "The company disavowed responsibility for the unauthorized statement. — その会社は無断で出された声明について責任を否認した。",
+      "He refused to disavow his earlier support for the policy. — 彼はその政策を以前支持していたことを否認するのを拒んだ。",
+      "The government publicly disavowed the actions of the officials involved. — 政府は関係当局者らの行為を公に否認した。"
+    ],
+    "en": [
+      "The organization disavowed any connection with the attack.",
+      "The candidate quickly disavowed the controversial remarks.",
+      "The company disavowed responsibility for the unauthorized statement.",
+      "He refused to disavow his earlier support for the policy.",
+      "The government publicly disavowed the actions of the officials involved."
+    ]
+  }
+},
+{
+  "id": "disclaim",
+  "sid": "2026-00222",
+  "word": "disclaim",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "law",
+    "formal",
+    "responsibility",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "disclaim – disclaimed – disclaimed",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪsˈkleɪm/",
+      "uk": "/dɪsˈkleɪm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "責任・義務・保証などを否認する",
+      "権利・請求権などを放棄・否認する",
+      "関係・関与を認めないと表明する"
+    ],
+    "en": [
+      "to formally deny responsibility, liability, or obligation",
+      "to renounce or deny a right, claim, or interest",
+      "to state that one is not connected with or responsible for something"
+    ]
+  },
+  "nuance": {
+    "ja": "法律・契約・ビジネス文書で特によく使われる硬い語。disclaim liability『責任を負わないとする』、disclaim warranties『保証を否認する』のように、法的責任や保証の排除に典型的。disavow が発言・行為・支持などとの関係を否認するのに対し、disclaim はより法的・技術的に権利、責任、保証、利益などを否認する傾向が強い。",
+    "en": "Disclaim is especially common in legal, contractual, and commercial language. It is often used to deny liability, warranties, responsibility, rights, or interests. Compared with disavow, which often concerns association with statements, actions, or support, disclaim is more technical and legal in tone."
+  },
+  "minimal": {
+    "ja": [
+      "disclaim：責任・保証・権利などを正式に否認する。",
+      "disavow：発言・行動・関係・支持などとのつながりを否認する。",
+      "repudiate：主張・義務・契約などそのものを拒絶する。",
+      "waive：権利・要件などを意図的に放棄する。",
+      "deny：事実・責任などを否定する一般語。",
+      "renounce：権利・地位・信念などを正式に放棄する。"
+    ],
+    "en": [
+      "disclaim means to formally deny responsibility, liability, warranties, rights, or interests.",
+      "disavow means to deny association with or responsibility for a statement, action, or position.",
+      "repudiate means to reject a claim, obligation, agreement, or position itself.",
+      "waive means to intentionally give up or not enforce a right or requirement.",
+      "deny is the general word for saying something is not true or not one's responsibility.",
+      "renounce means to formally give up a right, status, belief, or claim."
+    ]
+  },
+  "etymology": {
+    "ja": "dis-『否定・反対』＋ claim『主張する、請求する』から成る。claim はラテン語 clamare『叫ぶ、宣言する』に由来するため、disclaim は語源的には『自分のものだと主張しない、請求しない』という発想。",
+    "en": "Formed from dis- plus claim. Claim ultimately comes from Latin clamare, meaning 'to cry out or proclaim'. Disclaim therefore carries the basic idea of refusing to claim something as one's own or refusing responsibility for it."
+  },
+  "synonyms": [
+    {
+      "word": "disavow",
+      "note": {
+        "ja": "関係・支持・責任を否認する語。disclaim より一般的で、政治・広報文脈にも多い。",
+        "en": "Often refers to denying association, support, or responsibility and is less technical than disclaim."
+      }
+    },
+    {
+      "word": "deny",
+      "note": {
+        "ja": "最も一般的な『否定する』。disclaim はより正式・法的。",
+        "en": "The general verb for denial; disclaim is more formal and legal."
+      }
+    },
+    {
+      "word": "waive",
+      "note": {
+        "ja": "権利を自発的に放棄する語。disclaim は権利や責任の存在自体を否認する場合にも使える。",
+        "en": "Means to voluntarily give up a right, while disclaim may deny the existence or assumption of a right or responsibility."
+      }
+    },
+    {
+      "word": "repudiate",
+      "note": {
+        "ja": "契約・義務・主張などそのものを強く拒絶する。",
+        "en": "A stronger verb for rejecting a claim, contract, obligation, or position itself."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Haftung ausschließen / zurückweisen / verzichten auf",
+    "it": "declinare / disconoscere / rinunciare a",
+    "fr": "décliner / nier / renoncer à",
+    "es": "declinar / negar / renunciar a"
+  },
+  "collocations": {
+    "ja": [
+      "disclaim liability — 法的責任を否認する",
+      "disclaim responsibility — 責任を否認する",
+      "disclaim warranties — 保証を否認する",
+      "disclaim any obligation — 一切の義務を負わないとする",
+      "disclaim ownership — 所有権を否認する",
+      "disclaim an interest — 権益・持分を放棄する",
+      "expressly disclaim — 明示的に否認する",
+      "disclaim any connection with — ～との一切の関係を否認する"
+    ],
+    "en": [
+      "disclaim liability",
+      "disclaim responsibility",
+      "disclaim warranties",
+      "disclaim any obligation",
+      "disclaim ownership",
+      "disclaim an interest",
+      "expressly disclaim",
+      "disclaim any connection with"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company disclaims all liability for indirect losses. — その会社は間接損害について一切の責任を負わないとしている。",
+      "The seller expressly disclaimed any warranty of fitness for a particular purpose. — 売主は特定目的への適合性に関する保証を明示的に否認した。",
+      "He disclaimed any responsibility for the decision. — 彼はその決定について一切の責任を否認した。",
+      "The heir chose to disclaim his interest in the estate. — その相続人は遺産に対する権利を放棄することを選んだ。",
+      "The organization disclaimed any connection with the unauthorized campaign. — その組織は無許可のキャンペーンとの一切の関係を否認した。"
+    ],
+    "en": [
+      "The company disclaims all liability for indirect losses.",
+      "The seller expressly disclaimed any warranty of fitness for a particular purpose.",
+      "He disclaimed any responsibility for the decision.",
+      "The heir chose to disclaim his interest in the estate.",
+      "The organization disclaimed any connection with the unauthorized campaign."
+    ]
+  }
+},
+{
+  "id": "disclaimer",
+  "sid": "2026-00223",
+  "word": "disclaimer",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "law",
+    "business",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪsˈkleɪmər/",
+      "uk": "/dɪsˈkleɪmə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "免責事項、免責文",
+      "責任・保証・関係などを否認または限定する声明",
+      "内容に関する注意書き・断り書き"
+    ],
+    "en": [
+      "a statement that denies or limits responsibility or liability",
+      "a notice that limits warranties, obligations, or associations",
+      "a statement giving qualifications or warnings about information or content"
+    ]
+  },
+  "nuance": {
+    "ja": "法律・ビジネス・Webサイトなどで非常によく使われる。典型的には、情報の正確性、損害、第三者リンク、投資判断、医療・法律上の助言などについて、提供者がどこまで責任を負うかを限定・否認する文言を指す。ただし disclaimer を書けば自動的にあらゆる法的責任を免れるわけではなく、その有効性は内容や法域による。日常的には『一応断っておくと』という軽い前置きの意味でも使われる。",
+    "en": "A disclaimer is a statement intended to deny or limit responsibility, liability, warranties, or association. It is common on websites, in contracts, advertisements, and professional communications. A disclaimer does not automatically eliminate all legal liability; its effectiveness depends on its wording and the applicable law. Informally, disclaimer can also mean a preliminary qualification or warning."
+  },
+  "minimal": {
+    "ja": [
+      "disclaimer：責任・保証・関係を限定・否認するための声明や注意書き。",
+      "waiver：権利を放棄する行為またはその文書。",
+      "notice：一般的な通知・告知。免責を意味するとは限らない。",
+      "warning：危険・リスクについて警告する文言。",
+      "disclosure：重要情報を開示すること・開示文書。",
+      "caveat：注意点・但し書き。法的免責に限らない。"
+    ],
+    "en": [
+      "disclaimer is a statement limiting or denying responsibility, warranties, or association.",
+      "waiver is the giving up of a right or a document recording that waiver.",
+      "notice is a general notification and does not necessarily disclaim liability.",
+      "warning alerts someone to a risk or danger.",
+      "disclosure provides relevant or required information.",
+      "caveat is a caution or qualification and is not limited to legal disclaimers."
+    ]
+  },
+  "etymology": {
+    "ja": "disclaim + -er から成る。disclaim は dis-『否定』＋ claim『主張・請求する』で、語源的には『自分のものだと主張しない、責任を負うと主張しない』という発想。disclaimer はそこから『否認・免責を表明するもの』を意味するようになった。",
+    "en": "Formed from disclaim + -er. Disclaim combines dis- with claim, ultimately from Latin clamare ('to proclaim'). A disclaimer is therefore literally something that disclaims or denies responsibility, rights, warranties, or association."
+  },
+  "synonyms": [
+    {
+      "word": "waiver",
+      "note": {
+        "ja": "権利放棄そのもの、またはそれを記した文書。disclaimer は責任や保証の否認・限定に重点。",
+        "en": "Refers to giving up a right or a document recording that act; disclaimer focuses on denying or limiting responsibility."
+      }
+    },
+    {
+      "word": "notice",
+      "note": {
+        "ja": "一般的な通知。disclaimer より意味が広い。",
+        "en": "A broader term for a notification or statement."
+      }
+    },
+    {
+      "word": "caveat",
+      "note": {
+        "ja": "注意点・但し書き。disclaimer より一般的で、法的責任の否認を必ずしも意味しない。",
+        "en": "A caution or qualification that does not necessarily involve legal liability."
+      }
+    },
+    {
+      "word": "qualification",
+      "note": {
+        "ja": "主張に条件・限定を加えること。免責とは限らない。",
+        "en": "A limitation or condition placed on a statement, without necessarily being a legal disclaimer."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Haftungsausschluss / Hinweis",
+    "it": "clausola di esclusione di responsabilità / avvertenza",
+    "fr": "clause de non-responsabilité / avertissement",
+    "es": "descargo de responsabilidad / aviso legal"
+  },
+  "collocations": {
+    "ja": [
+      "legal disclaimer — 法的免責事項",
+      "liability disclaimer — 責任免除・責任限定文",
+      "warranty disclaimer — 保証否認条項",
+      "medical disclaimer — 医療上の免責事項",
+      "investment disclaimer — 投資に関する免責事項",
+      "website disclaimer — Webサイトの免責事項",
+      "include a disclaimer — 免責文を含める",
+      "subject to a disclaimer — 免責条件付きで"
+    ],
+    "en": [
+      "legal disclaimer",
+      "liability disclaimer",
+      "warranty disclaimer",
+      "medical disclaimer",
+      "investment disclaimer",
+      "website disclaimer",
+      "include a disclaimer",
+      "subject to a disclaimer"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The website includes a disclaimer stating that the information is for general purposes only. — そのWebサイトには、情報は一般的な目的のためだけに提供される旨の免責事項がある。",
+      "The contract contains a broad warranty disclaimer. — その契約には広範な保証否認条項が含まれている。",
+      "A disclaimer does not necessarily protect a company from all liability. — 免責事項があっても、会社が必ずしもすべての責任を免れるわけではない。",
+      "The report begins with a disclaimer about the limitations of the data. — その報告書はデータの限界についての注意書きから始まる。",
+      "As a disclaimer, I should mention that I have never used the product myself. — 一応断っておくと、私はその製品を自分で使ったことはない。"
+    ],
+    "en": [
+      "The website includes a disclaimer stating that the information is for general purposes only.",
+      "The contract contains a broad warranty disclaimer.",
+      "A disclaimer does not necessarily protect a company from all liability.",
+      "The report begins with a disclaimer about the limitations of the data.",
+      "As a disclaimer, I should mention that I have never used the product myself."
+    ]
+  }
+},
+{
+  "id": "caveat",
+  "sid": "2026-00224",
+  "word": "caveat",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "law",
+    "argument",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkæviæt/",
+      "uk": "/ˈkæviæt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "但し書き、留保、注意事項",
+      "条件付きの注意・警告",
+      "ある主張や提案に付け加える重要な制限条件"
+    ],
+    "en": [
+      "a warning or caution about a particular condition or limitation",
+      "a qualification added to a statement, proposal, or agreement",
+      "an important condition that should be kept in mind"
+    ]
+  },
+  "nuance": {
+    "ja": "やや硬い語で、『基本的にはそうだが、ただし一点注意が必要』という場面でよく使う。法律用語にも由来するが、現代英語ではビジネス・学術・議論・報道などで広く使われる。disclaimer が責任や保証を限定・否認する声明なのに対し、caveat はもっと一般的な『注意点・条件・留保』。",
+    "en": "Caveat is a formal but widely used word for an important warning, limitation, or condition attached to a statement or proposal. It often introduces a 'yes, but...' qualification. Unlike disclaimer, it does not necessarily concern legal liability; it simply signals that something should be understood with a particular caution or limitation."
+  },
+  "minimal": {
+    "ja": [
+      "caveat：主張や提案に付ける注意点・留保・条件。",
+      "disclaimer：責任・保証・関係などを限定・否認する声明。",
+      "warning：危険や問題を知らせる一般的な警告。",
+      "qualification：発言や主張に条件・限定を加えること。",
+      "proviso：契約・法律などに付される条件条項。",
+      "reservation：全面的な同意を控える留保・懸念。"
+    ],
+    "en": [
+      "caveat is an important warning, limitation, or condition attached to a statement.",
+      "disclaimer is a statement limiting or denying responsibility or warranties.",
+      "warning is the general term for alerting someone to danger or risk.",
+      "qualification is a limitation or condition added to a statement.",
+      "proviso is a formal condition attached to an agreement or rule.",
+      "reservation is a doubt or qualification that prevents full agreement."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 caveat『彼は注意せよ』に由来する。これは cavere『用心する、警戒する』の接続法形。法律文書で『注意せよ』という警告として使われたことから、英語で『但し書き・注意事項』を意味する名詞になった。caveat emptor『買主注意せよ』も同じ語。",
+    "en": "From Latin caveat, literally 'let him beware', a form of cavere, meaning 'to beware or take care'. It entered legal usage as a warning or notice and later developed the broader modern sense of a caution or qualification. The phrase caveat emptor means 'let the buyer beware'."
+  },
+  "synonyms": [
+    {
+      "word": "qualification",
+      "note": {
+        "ja": "主張を限定・修正する条件。caveat より中立的で、警告性が弱い。",
+        "en": "A limitation added to a statement, often more neutral and less cautionary than caveat."
+      }
+    },
+    {
+      "word": "warning",
+      "note": {
+        "ja": "危険・問題について注意を促す一般語。caveat は議論上の留保にも使える。",
+        "en": "A general alert to danger or problems; caveat also works for analytical or argumentative limitations."
+      }
+    },
+    {
+      "word": "proviso",
+      "note": {
+        "ja": "契約・法律・合意などに正式に付される条件。caveat より制度的。",
+        "en": "A formal condition attached to an agreement, law, or arrangement."
+      }
+    },
+    {
+      "word": "reservation",
+      "note": {
+        "ja": "全面的な賛成を妨げる疑念・留保。話者自身の態度を表しやすい。",
+        "en": "A doubt or qualification that prevents complete agreement or acceptance."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Vorbehalt / Einschränkung / Warnhinweis",
+    "it": "avvertenza / riserva",
+    "fr": "réserve / mise en garde",
+    "es": "salvedad / advertencia"
+  },
+  "collocations": {
+    "ja": [
+      "with one caveat — ただし一点注意がある",
+      "add a caveat — 注意事項・留保を付け加える",
+      "important caveat — 重要な注意点",
+      "major caveat — 大きな留保条件",
+      "subject to a caveat — ある留保条件付きで",
+      "a caveat to the argument — 議論に対する留保",
+      "enter a caveat — 法的な異議・警告を提出する",
+      "caveat emptor — 買主危険負担、買主注意せよ"
+    ],
+    "en": [
+      "with one caveat",
+      "add a caveat",
+      "important caveat",
+      "major caveat",
+      "subject to a caveat",
+      "a caveat to the argument",
+      "enter a caveat",
+      "caveat emptor"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The proposal is attractive, with one important caveat. — その提案は魅力的だが、一つ重要な留保がある。",
+      "There is one caveat to this conclusion. — この結論には一つ注意すべき点がある。",
+      "The data support the hypothesis, subject to several caveats. — そのデータは仮説を支持しているが、いくつか留意すべき条件がある。",
+      "She added a caveat that the figures were only preliminary. — 彼女は、その数値は暫定的なものにすぎないという但し書きを加えた。",
+      "The principle of caveat emptor places much of the responsibility on the buyer. — 『買主注意せよ』の原則では、責任の多くが買主側に置かれる。"
+    ],
+    "en": [
+      "The proposal is attractive, with one important caveat.",
+      "There is one caveat to this conclusion.",
+      "The data support the hypothesis, subject to several caveats.",
+      "She added a caveat that the figures were only preliminary.",
+      "The principle of caveat emptor places much of the responsibility on the buyer."
+    ]
+  }
+},
+{
+  "id": "proviso",
+  "sid": "2026-00225",
+  "word": "proviso",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "law",
+    "formal",
+    "contract",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "provisos"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prəˈvaɪzoʊ/",
+      "uk": "/prəˈvaɪzəʊ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "但し書き、条件条項",
+      "契約・法律・合意などに付された条件・制限",
+      "あることが成立するための付帯条件"
+    ],
+    "en": [
+      "a condition or qualification attached to an agreement, law, or arrangement",
+      "a clause that limits or modifies what has been stated",
+      "a condition that must be satisfied for something to apply"
+    ]
+  },
+  "nuance": {
+    "ja": "法律・契約・公式な合意で使われる硬い語。『ただし、〜を条件とする』という付帯条件を表す。caveat が注意・留保・警告として広く使えるのに対し、proviso はより制度的で、実際に効力や適用範囲を制限する条件条項を指しやすい。with the proviso that ... の形が非常に重要。",
+    "en": "Proviso is a formal term for a condition or qualification attached to an agreement, law, or arrangement. Unlike caveat, which can simply be a warning or caution, a proviso often has a more concrete effect on the scope, validity, or application of what has been agreed. The phrase 'with the proviso that...' is especially common."
+  },
+  "minimal": {
+    "ja": [
+      "proviso：契約・法律・合意に正式に付される条件条項。",
+      "caveat：注意点・留保・警告。必ずしも法的条件ではない。",
+      "condition：条件を表す最も一般的な語。",
+      "qualification：主張・ルールなどに限定を加えること。",
+      "clause：契約・法律などの個々の条項。",
+      "stipulation：明示的に定められた条件・要求。"
+    ],
+    "en": [
+      "proviso is a formal condition attached to an agreement, law, or arrangement.",
+      "caveat is a warning or qualification and is not necessarily legally binding.",
+      "condition is the general word for something that must be satisfied.",
+      "qualification is a limitation added to a statement or rule.",
+      "clause is an individual provision in a contract or legal text.",
+      "stipulation is an explicitly stated condition or requirement."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 proviso『〜という条件で』に由来する。providere『前もって見る、備える』の過去分詞 provisus に関係し、もともとは『あらかじめ定めておく』という発想。英語の provide, provision と同語族。",
+    "en": "From Latin proviso, meaning roughly 'provided that' or 'on condition that', related to provisus, the past participle of providere ('to foresee, provide'). It is therefore connected with provide and provision."
+  },
+  "synonyms": [
+    {
+      "word": "condition",
+      "note": {
+        "ja": "最も一般的な『条件』。proviso はより正式で、条項として付される条件に向く。",
+        "en": "The general word for a requirement; proviso is more formal and often clause-like."
+      }
+    },
+    {
+      "word": "caveat",
+      "note": {
+        "ja": "注意・留保に重点。proviso は実際の適用条件としてより強い。",
+        "en": "Focuses on caution or qualification, while proviso more often functions as an actual condition."
+      }
+    },
+    {
+      "word": "stipulation",
+      "note": {
+        "ja": "合意・契約で明示された具体的条件。proviso とかなり近い。",
+        "en": "A specifically stated condition or requirement in an agreement; often close to proviso."
+      }
+    },
+    {
+      "word": "qualification",
+      "note": {
+        "ja": "主張・規則などに限定を加える一般的な語。",
+        "en": "A general limitation or modification added to a statement or rule."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Vorbehalt / Bedingung / Klausel",
+    "it": "clausola / condizione",
+    "fr": "réserve / condition / clause",
+    "es": "salvedad / condición / cláusula"
+  },
+  "collocations": {
+    "ja": [
+      "with the proviso that — ただし〜を条件として",
+      "subject to a proviso — 但し書き・条件付きで",
+      "include a proviso — 条件条項を含める",
+      "add a proviso — 但し書きを加える",
+      "legal proviso — 法的な但し書き",
+      "statutory proviso — 法律上の但し書き",
+      "important proviso — 重要な付帯条件",
+      "proviso to a clause — 条項に対する但し書き"
+    ],
+    "en": [
+      "with the proviso that",
+      "subject to a proviso",
+      "include a proviso",
+      "add a proviso",
+      "legal proviso",
+      "statutory proviso",
+      "important proviso",
+      "proviso to a clause"
+    ]
+  },
+  "example": {
+    "ja": [
+      "They accepted the proposal with the proviso that the final terms would be reviewed. — 彼らは最終条件を見直すことを条件として、その提案を受け入れた。",
+      "The agreement contains a proviso limiting the company's liability. — その契約には会社の責任を制限する但し書きが含まれている。",
+      "The law applies subject to several statutory provisos. — その法律はいくつかの法定条件付きで適用される。",
+      "She agreed to the arrangement, but added one important proviso. — 彼女はその取り決めに同意したが、重要な条件を一つ付け加えた。",
+      "The exemption is available with the proviso that all reporting requirements are met. — その免除は、すべての報告要件を満たすことを条件として利用できる。"
+    ],
+    "en": [
+      "They accepted the proposal with the proviso that the final terms would be reviewed.",
+      "The agreement contains a proviso limiting the company's liability.",
+      "The law applies subject to several statutory provisos.",
+      "She agreed to the arrangement, but added one important proviso.",
+      "The exemption is available with the proviso that all reporting requirements are met."
+    ]
+  }
+},
+{
+  "id": "stipulation",
+  "sid": "2026-00226",
+  "word": "stipulation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "law",
+    "contract",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌstɪpjəˈleɪʃən/",
+      "uk": "/ˌstɪpjʊˈleɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "契約・合意などで明示的に定められた条件・要求",
+      "取り決め、規定",
+      "（法律）当事者間で合意された事項"
+    ],
+    "en": [
+      "a condition or requirement that is explicitly stated in an agreement",
+      "a specific term or provision in a contract or arrangement",
+      "a fact or matter formally agreed upon by the parties in a legal proceeding"
+    ]
+  },
+  "nuance": {
+    "ja": "契約・法律・交渉で使われる硬めの語。『当事者が明示的に定めた条件・要求事項』という意味が中心。proviso が主たる合意に付加される『ただし〜』という留保条件になりやすいのに対し、stipulation は契約内容の一部として具体的に定められた条件そのものを指す。法律実務では、当事者が争わず合意した事実・事項を stipulation と呼ぶこともある。",
+    "en": "Stipulation is a formal term for an explicitly stated condition, requirement, or agreed matter. Compared with proviso, which often functions as a qualification or 'provided that' condition, stipulation more directly refers to a specific term that the parties have expressly agreed upon. In legal proceedings, it can also refer to a fact or issue formally agreed by the parties."
+  },
+  "minimal": {
+    "ja": [
+      "stipulation：契約・合意で明示的に定めた条件・要求事項。",
+      "proviso：主たる合意に付される『ただし〜』という付帯条件。",
+      "condition：条件を表す最も一般的な語。",
+      "clause：契約・法律文書の個々の条項。",
+      "provision：契約・法律に置かれた規定・条項。",
+      "requirement：満たす必要がある要件。"
+    ],
+    "en": [
+      "stipulation is an explicitly agreed condition or requirement.",
+      "proviso is typically a qualifying condition attached to a broader agreement.",
+      "condition is the general word for something that must be satisfied.",
+      "clause is an individual section or term in a legal document.",
+      "provision is a rule or term contained in a contract or law.",
+      "requirement is something that must be fulfilled."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 stipulatio『正式な約束、契約上の問答』に由来し、stipulari『正式に約束させる、取り決める』の名詞形。古代ローマ法では、一定の形式的な問答によって成立する口頭契約を stipulatio と呼んだ。そこから『明示的に条件を定めること』という現代的意味に発展した。",
+    "en": "From Latin stipulatio, meaning 'a formal promise or contractual undertaking', from stipulari, 'to demand a formal promise or make an agreement'. In Roman law, stipulatio referred to a formal verbal contract concluded through a prescribed question-and-answer procedure."
+  },
+  "synonyms": [
+    {
+      "word": "condition",
+      "note": {
+        "ja": "最も一般的な『条件』。stipulation は明示的に取り決められた条件という感じが強い。",
+        "en": "The general word for a condition; stipulation more strongly suggests an explicitly agreed term."
+      }
+    },
+    {
+      "word": "proviso",
+      "note": {
+        "ja": "主たる合意に付加される留保条件。stipulation は独立した具体的条件として使いやすい。",
+        "en": "Usually a qualifying condition attached to a broader agreement; stipulation is often a specific agreed requirement."
+      }
+    },
+    {
+      "word": "provision",
+      "note": {
+        "ja": "契約・法律の規定一般。stipulation は当事者間の明示的な取り決めに焦点。",
+        "en": "A broader term for a rule or term contained in a contract or law."
+      }
+    },
+    {
+      "word": "requirement",
+      "note": {
+        "ja": "満たすべき要件。必ずしも当事者間の合意に基づくとは限らない。",
+        "en": "Something that must be fulfilled and does not necessarily result from negotiation or agreement."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Bestimmung / Bedingung / Vereinbarung",
+    "it": "clausola / condizione / pattuizione",
+    "fr": "stipulation / condition",
+    "es": "estipulación / condición"
+  },
+  "collocations": {
+    "ja": [
+      "contractual stipulation — 契約上の取り決め",
+      "specific stipulation — 具体的な条件",
+      "express stipulation — 明示的な取り決め",
+      "stipulation in a contract — 契約中の規定",
+      "subject to the stipulation that — 〜という条件に従って",
+      "include a stipulation — 条件を盛り込む",
+      "comply with a stipulation — 取り決めを遵守する",
+      "agree to a stipulation — 条件・合意事項に同意する"
+    ],
+    "en": [
+      "contractual stipulation",
+      "specific stipulation",
+      "express stipulation",
+      "stipulation in a contract",
+      "subject to the stipulation that",
+      "include a stipulation",
+      "comply with a stipulation",
+      "agree to a stipulation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The contract contains a stipulation requiring written notice before termination. — その契約には、解除前に書面による通知を必要とする規定がある。",
+      "They accepted the offer with the stipulation that payment be made in advance. — 彼らは前払いを条件としてその申し出を受け入れた。",
+      "The parties agreed to a stipulation concerning the use of confidential information. — 当事者らは機密情報の使用に関する取り決めに合意した。",
+      "Failure to comply with the stipulation may result in termination of the agreement. — その条件に従わなければ、契約が解除される可能性がある。",
+      "Both sides entered into a stipulation that the document was authentic. — 両当事者は、その文書が真正であることについて正式に合意した。"
+    ],
+    "en": [
+      "The contract contains a stipulation requiring written notice before termination.",
+      "They accepted the offer with the stipulation that payment be made in advance.",
+      "The parties agreed to a stipulation concerning the use of confidential information.",
+      "Failure to comply with the stipulation may result in termination of the agreement.",
+      "Both sides entered into a stipulation that the document was authentic."
+    ]
+  }
+},
+{
+  "id": "provision",
+  "sid": "2026-00227",
+  "word": "provision",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "law",
+    "contract",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prəˈvɪʒən/",
+      "uk": "/prəˈvɪʒən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "法律・契約などの規定、条項",
+      "必要なものを供給・準備すること",
+      "備え、準備",
+      "食料・物資"
+    ],
+    "en": [
+      "a rule or term contained in a law, contract, or agreement",
+      "the act of supplying or preparing something that is needed",
+      "an arrangement or measure made in advance",
+      "supplies, especially food or other necessities"
+    ]
+  },
+  "nuance": {
+    "ja": "法律・契約では非常に重要で、文書中に設けられた『規定・条項』を広く表す。clause より内容面に焦点があり、provision of a contract は『契約中に定められた規定』という意味。一般英語では provision of services『サービスの提供』、make provision for ～『～に備える』、provisions『食料・物資』など別の意味も非常によく使われる。",
+    "en": "Provision is very common in legal and contractual language, where it refers broadly to a rule or term contained in a document. Compared with clause, it focuses more on the substantive rule than on the textual section itself. Outside legal contexts, provision also means supplying something, making arrangements in advance, or supplies such as food."
+  },
+  "minimal": {
+    "ja": [
+      "provision：法律・契約に置かれた規定・内容。",
+      "clause：文書を構成する個々の条項・節。",
+      "stipulation：当事者が明示的に定めた条件・取り決め。",
+      "proviso：主たる規定に付される『ただし〜』という条件。",
+      "condition：条件を表す一般語。",
+      "requirement：満たす必要がある要件。"
+    ],
+    "en": [
+      "provision is a substantive rule or term contained in a law or agreement.",
+      "clause is an individual textual section of a legal document.",
+      "stipulation is an explicitly agreed condition or requirement.",
+      "proviso is a qualifying condition attached to a broader rule or agreement.",
+      "condition is the general word for something that must be satisfied.",
+      "requirement is something that must be fulfilled."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 provisio『予見、準備』に由来し、providere『前もって見る、備える』から来る。pro-『前に』＋ videre『見る』という構造で、原義は『前もって見て備えること』。provide, proviso, provident と同語族。",
+    "en": "From Latin provisio, meaning 'foresight or preparation', from providere, 'to foresee or provide'. The word is built from pro- ('ahead') and videre ('to see'). It is related to provide, proviso, and provident."
+  },
+  "synonyms": [
+    {
+      "word": "clause",
+      "note": {
+        "ja": "契約・法律文書の個々の節・条項。provision はその条項が定める内容・規定に焦点。",
+        "en": "An individual section of a legal document; provision focuses more on the rule or content expressed."
+      }
+    },
+    {
+      "word": "stipulation",
+      "note": {
+        "ja": "当事者が明示的に合意した具体的条件。provision より合意性が強い。",
+        "en": "An explicitly agreed condition or requirement, with a stronger sense of agreement between parties."
+      }
+    },
+    {
+      "word": "proviso",
+      "note": {
+        "ja": "広い規定に付加される留保・条件。provision より限定的。",
+        "en": "A qualifying condition attached to a broader rule or agreement."
+      }
+    },
+    {
+      "word": "term",
+      "note": {
+        "ja": "契約条件を広く表す。provision と重なるが、term は当事者間の契約条件という意味が強い。",
+        "en": "A broad word for a contractual condition or obligation and often overlaps with provision."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Bestimmung / Vorschrift / Bereitstellung",
+    "it": "disposizione / previsione / fornitura",
+    "fr": "disposition / fourniture",
+    "es": "disposición / provisión"
+  },
+  "collocations": {
+    "ja": [
+      "contractual provision — 契約上の規定",
+      "statutory provision — 法律上の規定",
+      "legal provision — 法的規定",
+      "provision of a contract — 契約の規定",
+      "under the provisions of the law — 法律の規定に基づいて",
+      "comply with a provision — 規定を遵守する",
+      "provision of services — サービスの提供",
+      "make provision for — ～に備える、～について措置を講じる",
+      "food provisions — 食料備蓄"
+    ],
+    "en": [
+      "contractual provision",
+      "statutory provision",
+      "legal provision",
+      "provision of a contract",
+      "under the provisions of the law",
+      "comply with a provision",
+      "provision of services",
+      "make provision for",
+      "food provisions"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The contract contains a provision limiting the seller's liability. — その契約には売主の責任を制限する規定が含まれている。",
+      "This provision applies only to agreements concluded after January 1. — この規定は1月1日以降に締結された契約にのみ適用される。",
+      "The company failed to comply with several statutory provisions. — その会社はいくつかの法定規定を遵守しなかった。",
+      "The government made provision for emergency housing. — 政府は緊急住宅を確保するための措置を講じた。",
+      "The contract provides for the provision of technical support. — その契約は技術支援の提供について定めている。"
+    ],
+    "en": [
+      "The contract contains a provision limiting the seller's liability.",
+      "This provision applies only to agreements concluded after January 1.",
+      "The company failed to comply with several statutory provisions.",
+      "The government made provision for emergency housing.",
+      "The contract provides for the provision of technical support."
+    ]
+  }
+},
+{
+  "id": "clause",
+  "sid": "2026-00228",
+  "word": "clause",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "law",
+    "contract",
+    "grammar",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "clauses"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/klɔːz/",
+      "uk": "/klɔːz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "契約・法律などの条項、節",
+      "文法上の節",
+      "文書中の独立した一部分"
+    ],
+    "en": [
+      "a separate section or article in a contract, law, or other formal document",
+      "a grammatical unit containing a subject and a verb",
+      "a distinct part of a written agreement or text"
+    ]
+  },
+  "nuance": {
+    "ja": "法律・契約では、文書を構成する個々の『条項・節』を表す。provision と重なるが、clause は文書上の構造・区切りに焦点があり、provision はそこに書かれた規定内容に焦点がある。また文法では independent clause, subordinate clause のように『節』を表す基本用語でもある。",
+    "en": "In legal and contractual contexts, clause refers to an individual section of a document. It overlaps with provision, but clause emphasizes the textual or structural section, whereas provision emphasizes the substantive rule or content. In grammar, clause is also a basic term for a unit containing a subject and a verb."
+  },
+  "minimal": {
+    "ja": [
+      "clause：契約・法律文書の個々の条項・節。",
+      "provision：条項の中で定められている規定・内容。",
+      "article：法律・条約・定款などの大きめの条文単位。",
+      "section：文書や法律の区分・節。",
+      "stipulation：当事者が明示的に取り決めた条件。",
+      "proviso：主たる規定に付される但し書き・条件。"
+    ],
+    "en": [
+      "clause is an individual textual section of a contract or legal document.",
+      "provision is the substantive rule or term contained in a document.",
+      "article is often a larger numbered unit in statutes, treaties, or constitutions.",
+      "section is a general structural division of a document or statute.",
+      "stipulation is an expressly agreed condition.",
+      "proviso is a qualifying condition attached to a broader rule."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 clausula『締めくくり、区切り』に由来し、claudere『閉じる』と同系。もともとは『区切られた部分』という発想で、そこから文書・文法上の独立した一区分を表すようになった。close, conclude, exclude, include などと同じ claudere 系。",
+    "en": "From Latin clausula, meaning 'a closing, conclusion, or separate section', from claudere ('to close'). The basic idea is that of a bounded or closed-off part. It is related to words such as close, conclude, exclude, and include."
+  },
+  "synonyms": [
+    {
+      "word": "provision",
+      "note": {
+        "ja": "規定内容に焦点。clause は文書上の条項そのものに焦点。",
+        "en": "Focuses on the substantive rule, while clause focuses on the textual section."
+      }
+    },
+    {
+      "word": "section",
+      "note": {
+        "ja": "文書の区分を広く表す一般語。clause より大きな単位になることもある。",
+        "en": "A general structural division of a document and may be larger than a clause."
+      }
+    },
+    {
+      "word": "article",
+      "note": {
+        "ja": "法律・条約・定款などで使われる正式な条文単位。",
+        "en": "A formal numbered unit commonly used in statutes, treaties, constitutions, and organizational documents."
+      }
+    },
+    {
+      "word": "term",
+      "note": {
+        "ja": "契約条件を広く表す。必ずしも文書上の一つの節を指さない。",
+        "en": "A contractual condition or obligation that does not necessarily correspond to one textual clause."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Klausel / Satzglied",
+    "it": "clausola / proposizione",
+    "fr": "clause / proposition",
+    "es": "cláusula / oración subordinada"
+  },
+  "collocations": {
+    "ja": [
+      "contract clause — 契約条項",
+      "termination clause — 解除条項",
+      "confidentiality clause — 秘密保持条項",
+      "liability clause — 責任条項",
+      "arbitration clause — 仲裁条項",
+      "non-compete clause — 競業避止条項",
+      "force majeure clause — 不可抗力条項",
+      "subordinate clause — 従属節",
+      "independent clause — 独立節"
+    ],
+    "en": [
+      "contract clause",
+      "termination clause",
+      "confidentiality clause",
+      "liability clause",
+      "arbitration clause",
+      "non-compete clause",
+      "force majeure clause",
+      "subordinate clause",
+      "independent clause"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The contract contains a clause allowing either party to terminate the agreement with thirty days' notice. — その契約には、30日前の通知によりいずれの当事者も契約を解除できる条項がある。",
+      "The confidentiality clause remains effective after termination of the agreement. — 秘密保持条項は契約終了後も有効である。",
+      "The court found the clause unenforceable. — 裁判所はその条項を執行不能と判断した。",
+      "The parties negotiated the arbitration clause separately. — 当事者らは仲裁条項を別途交渉した。",
+      "A subordinate clause cannot always stand alone as a complete sentence. — 従属節は必ずしも単独で完全な文として成立するわけではない。"
+    ],
+    "en": [
+      "The contract contains a clause allowing either party to terminate the agreement with thirty days' notice.",
+      "The confidentiality clause remains effective after termination of the agreement.",
+      "The court found the clause unenforceable.",
+      "The parties negotiated the arbitration clause separately.",
+      "A subordinate clause cannot always stand alone as a complete sentence."
+    ]
+  }
 }
 ]
