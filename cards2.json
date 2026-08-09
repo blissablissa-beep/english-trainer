@@ -6505,5 +6505,1094 @@
       "A subordinate clause cannot always stand alone as a complete sentence."
     ]
   }
+},
+{
+  "id": "exempt",
+  "sid": "2026-00229",
+  "word": "exempt",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "law",
+    "formal",
+    "general",
+    "tax"
+  ],
+  "grammar": {
+    "pos": "adj / verb",
+    "forms": "exempt – exempted – exempted",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪɡˈzempt/",
+      "uk": "/ɪɡˈzempt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（形容詞）義務・規則・課税などを免除された",
+      "（動詞）人・物を義務・規則・課税などから免除する"
+    ],
+    "en": [
+      "adjective: free from a duty, rule, tax, or requirement that normally applies",
+      "verb: to free a person or thing from a duty, rule, tax, or requirement"
+    ]
+  },
+  "nuance": {
+    "ja": "法律・税務・行政・規則の文脈で非常によく使われる。形容詞では be exempt from ～『～を免除されている』、動詞では exempt A from B『AをBから免除する』が基本構文。waive が特定の権利・手数料・要件を放棄または免除する行為に焦点を置くのに対し、exempt は『ある主体を一般ルールの適用対象から外す』ことに重点がある。",
+    "en": "Exempt is common in legal, tax, administrative, and regulatory contexts. As an adjective, it typically appears in 'be exempt from'. As a verb, the usual pattern is 'exempt A from B'. Unlike waive, which focuses on giving up or not enforcing a particular right, fee, or requirement, exempt focuses on removing a person or thing from the scope of a general rule or obligation."
+  },
+  "minimal": {
+    "ja": [
+      "exempt：人・物を義務・規則・課税などの適用対象から外す。",
+      "waive：権利・請求・手数料・要件などを放棄・免除する。",
+      "exclude：対象から除外する一般語。免除とは限らない。",
+      "excuse：義務・出席・責任などを個別事情により免じる。",
+      "immune：法的責任・病気などの影響を受けない状態。",
+      "exception：一般則から外れる例外そのもの。"
+    ],
+    "en": [
+      "exempt means to remove someone or something from the scope of a duty, rule, tax, or requirement.",
+      "waive means to give up or not enforce a particular right, fee, or requirement.",
+      "exclude is the general word for leaving something out.",
+      "excuse means to release someone from a duty or obligation, often for a particular reason.",
+      "immune means protected from legal liability, disease, or another effect.",
+      "exception is a case that falls outside a general rule."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 exemptus『取り出された、除外された』に由来する。eximere『取り出す、除く』の過去分詞で、ex-『外へ』＋ emere『取る、買う』から成る。語源的には『一般の中から外へ取り出す』という発想で、現代の『適用対象から除外する』という意味とよく対応する。",
+    "en": "From Latin exemptus, the past participle of eximere, meaning 'to take out or remove', formed from ex- ('out') and emere ('to take, buy'). The original idea is literally to take something out from the general group, which closely matches the modern sense of exemption."
+  },
+  "synonyms": [
+    {
+      "word": "waive",
+      "note": {
+        "ja": "特定の権利・手数料・要件を放棄または免除する。exempt は人・物を一般規則の適用外にする。",
+        "en": "Focuses on giving up or not enforcing a particular right, fee, or requirement; exempt removes someone or something from a general rule."
+      }
+    },
+    {
+      "word": "exclude",
+      "note": {
+        "ja": "除外する一般語。exempt のように義務や課税からの免除を含意しない。",
+        "en": "The general verb for leaving something out and does not necessarily imply exemption from a duty."
+      }
+    },
+    {
+      "word": "excuse",
+      "note": {
+        "ja": "個別事情により義務・出席などを免じる語。exempt より日常的。",
+        "en": "Often means releasing someone from a particular duty for a specific reason and is generally less formal."
+      }
+    },
+    {
+      "word": "immune",
+      "note": {
+        "ja": "責任・訴追・病気などの影響を受けない状態。exempt より保護・耐性のニュアンスが強い。",
+        "en": "Means protected from liability, prosecution, disease, or another effect rather than simply excluded from a rule."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "befreit / freistellen",
+    "it": "esente / esentare",
+    "fr": "exempt / exempter",
+    "es": "exento / eximir"
+  },
+  "collocations": {
+    "ja": [
+      "be exempt from tax — 課税を免除されている",
+      "tax-exempt income — 非課税所得",
+      "tax-exempt organization — 免税団体",
+      "be exempt from a requirement — 要件を免除されている",
+      "be exempt from liability — 責任を免除されている",
+      "exempt someone from military service — 人を兵役から免除する",
+      "exempt certain goods from duty — 特定商品を関税から免除する",
+      "exempt category — 適用除外区分"
+    ],
+    "en": [
+      "be exempt from tax",
+      "tax-exempt income",
+      "tax-exempt organization",
+      "be exempt from a requirement",
+      "be exempt from liability",
+      "exempt someone from military service",
+      "exempt certain goods from duty",
+      "exempt category"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Certain nonprofit organizations are exempt from federal income tax. — 一定の非営利団体は連邦所得税を免除されている。",
+      "The law exempts small businesses from some reporting requirements. — その法律は小規模事業者を一部の報告義務から免除している。",
+      "These goods are exempt from import duties. — これらの商品には輸入関税が課されない。",
+      "Employees under a certain age may be exempt from the requirement. — 一定年齢未満の従業員はその要件を免除される場合がある。",
+      "The exemption does not mean that the company is exempt from all liability. — その免除があるからといって、会社があらゆる責任を免れるわけではない。"
+    ],
+    "en": [
+      "Certain nonprofit organizations are exempt from federal income tax.",
+      "The law exempts small businesses from some reporting requirements.",
+      "These goods are exempt from import duties.",
+      "Employees under a certain age may be exempt from the requirement.",
+      "The exemption does not mean that the company is exempt from all liability."
+    ]
+  }
+},
+{
+  "id": "exemption",
+  "sid": "2026-00230",
+  "word": "exemption",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "law",
+    "formal",
+    "tax",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪɡˈzempʃən/",
+      "uk": "/ɪɡˈzempʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "義務・規則・課税などの免除",
+      "適用除外",
+      "一般的な規則から外される例外的扱い"
+    ],
+    "en": [
+      "freedom from a duty, rule, tax, or requirement that would normally apply",
+      "an exclusion from the application of a law, rule, or obligation",
+      "a special case in which someone or something is not subject to a general requirement"
+    ]
+  },
+  "nuance": {
+    "ja": "法律・税務・行政・規制で非常によく使われる。tax exemption『免税』、exemption from a requirement『要件の免除』のように使う。waiver が権利・手数料・要件などを個別に放棄・免除する行為を表しやすいのに対し、exemption は『一般ルールの適用対象から外されている状態・制度』に重点がある。",
+    "en": "Exemption is common in legal, tax, administrative, and regulatory contexts. It refers to being removed from the scope of a rule, duty, tax, or requirement that would otherwise apply. Compared with waiver, exemption more often describes a status or legal exception, while waiver often involves a specific decision not to enforce or exercise something."
+  },
+  "minimal": {
+    "ja": [
+      "exemption：一般ルール・義務・課税などから外されること。",
+      "waiver：権利・手数料・要件などを個別に放棄・免除すること。",
+      "exception：一般則に当てはまらない例外。",
+      "exclusion：対象から除外すること。免除とは限らない。",
+      "immunity：法的責任・訴追・病気などから保護される状態。",
+      "relief：負担・税・義務などを軽減・救済すること。"
+    ],
+    "en": [
+      "exemption means being removed from the scope of a general rule, duty, tax, or requirement.",
+      "waiver is a specific giving up or non-enforcement of a right, fee, or requirement.",
+      "exception is a case that does not follow a general rule.",
+      "exclusion means being left out and does not necessarily imply legal exemption.",
+      "immunity means protection from liability, prosecution, disease, or another effect.",
+      "relief means reduction or alleviation of a burden, tax, or obligation."
+    ]
+  },
+  "etymology": {
+    "ja": "exempt + -ion から成る。exempt はラテン語 exemptus『取り出された、除外された』に由来し、eximere『取り出す、除く』の過去分詞。ex-『外へ』＋ emere『取る、買う』から成り、語源的には『一般の中から外へ取り出されること』という意味。",
+    "en": "Formed from exempt + -ion. Exempt comes from Latin exemptus, the past participle of eximere, meaning 'to take out or remove', from ex- ('out') and emere ('to take, buy'). The underlying idea is being taken out of the general rule."
+  },
+  "synonyms": [
+    {
+      "word": "waiver",
+      "note": {
+        "ja": "特定の権利・手数料・要件を個別に放棄・免除すること。exemption は制度的な適用除外に向く。",
+        "en": "A specific giving up or non-enforcement of a right, fee, or requirement; exemption more often describes a general status or legal exception."
+      }
+    },
+    {
+      "word": "exception",
+      "note": {
+        "ja": "一般則に当てはまらないケース。exemption より広く、法的・義務的文脈に限らない。",
+        "en": "A broader case that falls outside a general rule and is not limited to legal or regulatory contexts."
+      }
+    },
+    {
+      "word": "immunity",
+      "note": {
+        "ja": "法的責任・訴追・病気などから保護されること。exemption より保護の意味が強い。",
+        "en": "Protection from liability, prosecution, disease, or another effect rather than simple exclusion from a rule."
+      }
+    },
+    {
+      "word": "relief",
+      "note": {
+        "ja": "税負担・義務などの軽減・救済。完全な免除とは限らない。",
+        "en": "Reduction or alleviation of a burden or obligation and does not necessarily mean complete exemption."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Befreiung / Ausnahme",
+    "it": "esenzione / deroga",
+    "fr": "exemption / dispense",
+    "es": "exención"
+  },
+  "collocations": {
+    "ja": [
+      "tax exemption — 免税",
+      "exemption from tax — 課税の免除",
+      "exemption from liability — 責任免除",
+      "exemption from a requirement — 要件の免除",
+      "statutory exemption — 法定の適用除外",
+      "temporary exemption — 一時的免除",
+      "qualify for an exemption — 免除の要件を満たす",
+      "grant an exemption — 免除を認める"
+    ],
+    "en": [
+      "tax exemption",
+      "exemption from tax",
+      "exemption from liability",
+      "exemption from a requirement",
+      "statutory exemption",
+      "temporary exemption",
+      "qualify for an exemption",
+      "grant an exemption"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The organization qualifies for a tax exemption. — その団体は免税の対象となる。",
+      "The law provides an exemption for certain small businesses. — その法律は一定の小規模事業者について適用除外を定めている。",
+      "She applied for an exemption from the reporting requirement. — 彼女は報告義務の免除を申請した。",
+      "The agency granted a temporary exemption from the new rule. — その機関は新規則について一時的な免除を認めた。",
+      "The exemption applies only under limited circumstances. — その免除は限定された状況でのみ適用される。"
+    ],
+    "en": [
+      "The organization qualifies for a tax exemption.",
+      "The law provides an exemption for certain small businesses.",
+      "She applied for an exemption from the reporting requirement.",
+      "The agency granted a temporary exemption from the new rule.",
+      "The exemption applies only under limited circumstances."
+    ]
+  }
+},
+{
+  "id": "immunity",
+  "sid": "2026-00231",
+  "word": "immunity",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "law",
+    "medical",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪˈmjuːnəti/",
+      "uk": "/ɪˈmjuːnəti/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "（法律）訴追・責任・法的手続などからの免責、免除特権",
+      "（医学）病原体や疾病に対する免疫",
+      "害・影響などを受けない状態"
+    ],
+    "en": [
+      "legal protection from prosecution, liability, or certain legal processes",
+      "the ability of the body to resist a particular infection or disease",
+      "protection from or resistance to a harmful effect"
+    ]
+  },
+  "nuance": {
+    "ja": "法律では『本来なら及び得る法的責任・訴追・権限などから保護されている状態』を表す。diplomatic immunity『外交特権』、immunity from prosecution『訴追免除』などが典型。exemption が一般的な義務・規則の適用対象から外れることなのに対し、immunity は特に責任・訴追・法的権限などから『保護される』ニュアンスが強い。医学では感染症などに対する身体の抵抗力を意味する。",
+    "en": "In law, immunity means protection from liability, prosecution, or the exercise of certain legal powers. Typical expressions include diplomatic immunity and immunity from prosecution. Compared with exemption, which generally removes someone or something from the scope of a rule or obligation, immunity more strongly suggests protection from legal consequences or authority. In medicine, it refers to the body's resistance to infection or disease."
+  },
+  "minimal": {
+    "ja": [
+      "immunity：法的責任・訴追・疾病などから保護されている状態。",
+      "exemption：義務・規則・課税などの一般的適用から除外されること。",
+      "waiver：権利などを意図的に放棄すること。",
+      "privilege：特別に与えられた権利・特典。法律上の特権にも使う。",
+      "indemnity：損害について補償すること、または一定の責任から保護する仕組み。",
+      "resistance：影響・病気などに抵抗する能力を広く表す。"
+    ],
+    "en": [
+      "immunity means protection from legal consequences, prosecution, disease, or another harmful effect.",
+      "exemption means being excluded from the application of a general rule, duty, or tax.",
+      "waiver is the intentional giving up of a right.",
+      "privilege is a special right or advantage granted to someone.",
+      "indemnity is protection against financial loss or liability through compensation.",
+      "resistance is the broader ability to withstand an influence or disease."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 immunitas『公的負担の免除』に由来し、immunis『義務・負担を免れた』の名詞形。im-『〜でない』＋ munus『義務、奉仕、負担』から成る。もともとは『公的義務を免れていること』という法律・社会的意味で、そこから『害を受けないこと』、さらに医学上の『免疫』へ意味が拡大した。",
+    "en": "From Latin immunitas, meaning 'exemption from public service or obligation', from immunis, 'free from duty or burden'. It is formed from im- ('not') and munus ('duty, service, burden'). The legal sense of freedom from obligations later broadened to protection from harm and eventually to the medical sense of immunity."
+  },
+  "synonyms": [
+    {
+      "word": "exemption",
+      "note": {
+        "ja": "規則・義務・課税などの適用除外。immunity は責任や訴追などからの保護に強い。",
+        "en": "Removal from the scope of a rule or duty; immunity more strongly suggests protection from liability or prosecution."
+      }
+    },
+    {
+      "word": "privilege",
+      "note": {
+        "ja": "特別な権利・特典。immunity は特に何らかの法的作用を受けない保護を意味する。",
+        "en": "A special right or advantage; immunity specifically protects against some legal consequence or power."
+      }
+    },
+    {
+      "word": "protection",
+      "note": {
+        "ja": "最も一般的な『保護』。immunity は特定の作用を受けない状態をより明確に示す。",
+        "en": "The general term for being protected; immunity more specifically means freedom from a particular effect or consequence."
+      }
+    },
+    {
+      "word": "resistance",
+      "note": {
+        "ja": "医学では病原体などへの抵抗力を広く表す。immunity より一般的。",
+        "en": "A broader ability to withstand disease or another influence, especially in scientific contexts."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Immunität",
+    "it": "immunità",
+    "fr": "immunité",
+    "es": "inmunidad"
+  },
+  "collocations": {
+    "ja": [
+      "diplomatic immunity — 外交特権、外交官免責",
+      "parliamentary immunity — 議員免責特権",
+      "immunity from prosecution — 訴追免除",
+      "grant immunity — 免責を与える",
+      "waive immunity — 免責特権を放棄する",
+      "claim immunity — 免責を主張する",
+      "acquired immunity — 獲得免疫",
+      "natural immunity — 自然免疫",
+      "herd immunity — 集団免疫",
+      "develop immunity to — ～に対する免疫を獲得する"
+    ],
+    "en": [
+      "diplomatic immunity",
+      "parliamentary immunity",
+      "immunity from prosecution",
+      "grant immunity",
+      "waive immunity",
+      "claim immunity",
+      "acquired immunity",
+      "natural immunity",
+      "herd immunity",
+      "develop immunity to"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The diplomat claimed immunity from prosecution. — その外交官は訴追免除を主張した。",
+      "The witness was granted immunity in exchange for testimony. — その証人は証言と引き換えに訴追免除を与えられた。",
+      "Diplomatic immunity does not mean that diplomats are free to ignore all laws. — 外交特権があるからといって、外交官があらゆる法律を無視してよいわけではない。",
+      "Vaccination can help the body develop immunity to certain diseases. — ワクチン接種は身体が特定の病気に対する免疫を獲得する助けとなる。",
+      "Immunity may decrease over time. — 免疫は時間の経過とともに低下することがある。"
+    ],
+    "en": [
+      "The diplomat claimed immunity from prosecution.",
+      "The witness was granted immunity in exchange for testimony.",
+      "Diplomatic immunity does not mean that diplomats are free to ignore all laws.",
+      "Vaccination can help the body develop immunity to certain diseases.",
+      "Immunity may decrease over time."
+    ]
+  }
+},
+{
+  "id": "privilege",
+  "sid": "2026-00232",
+  "word": "privilege",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "law",
+    "formal",
+    "rights",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈprɪvəlɪdʒ/",
+      "uk": "/ˈprɪvəlɪdʒ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特権、特別な権利",
+      "特別な利益・待遇",
+      "（法律）一定の情報開示や証言などを拒める特権",
+      "光栄、ありがたい機会"
+    ],
+    "en": [
+      "a special right, advantage, or immunity granted to a particular person or group",
+      "a benefit or favorable treatment not generally available to everyone",
+      "a legal right to withhold certain information or resist disclosure",
+      "a special honor or opportunity"
+    ]
+  },
+  "nuance": {
+    "ja": "一般には認められていない特別な権利・利益・待遇を表す広い語。社会的文脈では economic privilege, social privilege のように有利な立場を指す。法律では attorney-client privilege など、一定の秘密情報について開示・証言を拒む特権を意味する。immunity が『責任・訴追・法的作用を受けない保護』に重点を置くのに対し、privilege はより広く『特別に認められた権利』そのものに焦点がある。また It was a privilege to ... では『～できて光栄だった』という肯定的な意味になる。",
+    "en": "Privilege broadly refers to a special right, advantage, or benefit not equally available to everyone. In law, it can refer to a protected right to withhold certain confidential information, as in attorney-client privilege. Compared with immunity, which focuses on protection from liability, prosecution, or legal consequences, privilege focuses more broadly on a specially granted right. It can also mean an honor, as in 'It was a privilege to...'."
+  },
+  "minimal": {
+    "ja": [
+      "privilege：特別に認められた権利・利益・待遇。",
+      "immunity：責任・訴追・法的作用などを受けない保護。",
+      "right：法律・制度上認められた権利一般。",
+      "entitlement：条件を満たせば当然受けられる給付・権利。",
+      "advantage：有利な点・利益を表す一般語。",
+      "exemption：義務・規則・課税などの適用除外。"
+    ],
+    "en": [
+      "privilege is a special right, benefit, or advantage granted to a person or group.",
+      "immunity is protection from liability, prosecution, or another legal consequence.",
+      "right is the general term for a legally or morally recognized entitlement.",
+      "entitlement is something one has a recognized claim to receive or exercise.",
+      "advantage is the general word for a favorable condition or benefit.",
+      "exemption means exclusion from the application of a rule, duty, or tax."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 privilegium『私人に関する特別法、特別な権利』に由来する。privus『個人の、特別の』＋ lex / legis『法律』から成り、文字どおりには『特定の個人のための法律』という意味だった。そこから『一般人にはない特別な権利』という現代的意味に発展した。",
+    "en": "From Latin privilegium, meaning 'a law affecting a private individual or a special right', formed from privus ('private, individual') and lex, legis ('law'). The original idea was literally a law applying specially to a particular person, which developed into the modern sense of a special right or advantage."
+  },
+  "synonyms": [
+    {
+      "word": "right",
+      "note": {
+        "ja": "権利一般。privilege は通常、全員ではなく特定の者に認められた特別な権利。",
+        "en": "The general term for a recognized right; privilege often implies a special right not equally available to everyone."
+      }
+    },
+    {
+      "word": "immunity",
+      "note": {
+        "ja": "責任・訴追などからの保護に特化しやすい。privilege はより広い。",
+        "en": "More specifically refers to protection from liability, prosecution, or legal consequences."
+      }
+    },
+    {
+      "word": "entitlement",
+      "note": {
+        "ja": "一定条件を満たせば当然得られる権利・給付。privilege のような特別扱いとは限らない。",
+        "en": "A recognized claim to receive or exercise something, often based on meeting defined conditions."
+      }
+    },
+    {
+      "word": "advantage",
+      "note": {
+        "ja": "一般的な『有利な点』。法律上の特別な権利という意味はない。",
+        "en": "A general favorable condition and does not imply a formal or legal right."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Privileg / Vorrecht",
+    "it": "privilegio",
+    "fr": "privilège",
+    "es": "privilegio"
+  },
+  "collocations": {
+    "ja": [
+      "special privilege — 特権",
+      "legal privilege — 法律上の特権",
+      "attorney-client privilege — 弁護士・依頼者間秘匿特権",
+      "parliamentary privilege — 議会特権",
+      "executive privilege — 行政府特権",
+      "claim privilege — 特権を主張する",
+      "waive privilege — 特権を放棄する",
+      "enjoy a privilege — 特権を享受する",
+      "a privilege to do something — ～できる光栄"
+    ],
+    "en": [
+      "special privilege",
+      "legal privilege",
+      "attorney-client privilege",
+      "parliamentary privilege",
+      "executive privilege",
+      "claim privilege",
+      "waive privilege",
+      "enjoy a privilege",
+      "a privilege to do something"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The communication may be protected by attorney-client privilege. — その通信は弁護士・依頼者間秘匿特権によって保護される可能性がある。",
+      "The company argued that the documents were subject to legal privilege. — その会社は、その文書には法律上の秘匿特権が及ぶと主張した。",
+      "He chose not to waive the privilege. — 彼はその特権を放棄しないことを選んだ。",
+      "Access to the facility is a privilege, not an automatic right. — その施設を利用できることは特別に認められた利益であり、自動的に認められる権利ではない。",
+      "It was a privilege to work with such an experienced team. — そのような経験豊富なチームと働けたことは光栄だった。"
+    ],
+    "en": [
+      "The communication may be protected by attorney-client privilege.",
+      "The company argued that the documents were subject to legal privilege.",
+      "He chose not to waive the privilege.",
+      "Access to the facility is a privilege, not an automatic right.",
+      "It was a privilege to work with such an experienced team."
+    ]
+  }
+},
+{
+  "id": "embroidery",
+  "sid": "2026-00233",
+  "word": "embroidery",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "art",
+    "craft",
+    "clothing",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪmˈbrɔɪdəri/",
+      "uk": "/ɪmˈbrɔɪdəri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "刺繍、刺繍細工",
+      "刺繍された模様・装飾",
+      "（比喩）話や説明への脚色、飾り"
+    ],
+    "en": [
+      "the art or process of decorating cloth with designs sewn in thread",
+      "decorative stitched designs on fabric",
+      "figurative embellishment or exaggeration added to a story or account"
+    ]
+  },
+  "nuance": {
+    "ja": "布地に糸で模様や絵を縫い込む『刺繍』を表す基本語。技法そのものは通常不可算だが、個々の刺繍作品や刺繍模様を指す場合には可算的にも使われる。比喩的には、話や説明をより華やか・面白くするために加えられた細部や脚色を意味することがある。",
+    "en": "Embroidery primarily refers to decorative needlework in which designs are stitched onto fabric with thread. It is usually uncountable when referring to the craft in general, but can be countable when referring to individual pieces or examples. Figuratively, it can mean decorative or exaggerated details added to a story or account."
+  },
+  "minimal": {
+    "ja": [
+      "embroidery：布に糸で模様を縫い込む刺繍。",
+      "sewing：布を針と糸で縫う作業全般。",
+      "needlework：針を使う手芸全般。刺繍・縫い物などを含む。",
+      "stitching：縫い目・縫う作業そのものに焦点。",
+      "embellishment：装飾・美化一般。刺繍に限らない。",
+      "ornamentation：装飾を加えることを表す硬めの語。"
+    ],
+    "en": [
+      "embroidery is decorative stitching used to create designs on fabric.",
+      "sewing is the general activity of joining or making fabric with needle and thread.",
+      "needlework is the broader category of crafts done with a needle.",
+      "stitching focuses on the stitches or the act of sewing.",
+      "embellishment is any decorative addition and is not limited to textiles.",
+      "ornamentation is a more formal word for decorative detail."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 embrouderie を経て古フランス語 embroder『刺繍する』に由来する。これは en-『〜の上に』＋ broder『刺繍する』から成る。broder は『縁飾り・刺繍』を表すゲルマン系の語と関係すると考えられている。動詞 embroider と同語族。",
+    "en": "From Middle English embrouderie, from Old French embroder, meaning 'to embroider'. The verb was formed with en- plus broder, 'to embroider'. Embroidery is directly related to the verb embroider."
+  },
+  "synonyms": [
+    {
+      "word": "needlework",
+      "note": {
+        "ja": "針を使う手芸全般。embroidery より広く、裁縫なども含む。",
+        "en": "A broader term for crafts done with a needle, including embroidery and sewing."
+      }
+    },
+    {
+      "word": "stitching",
+      "note": {
+        "ja": "縫い目や縫う作業に重点。装飾目的とは限らない。",
+        "en": "Focuses on stitches or sewing and does not necessarily imply decoration."
+      }
+    },
+    {
+      "word": "embellishment",
+      "note": {
+        "ja": "装飾・飾り一般。比喩的な『脚色』では embroidery と意味が近づく。",
+        "en": "A general decorative addition; close to embroidery in its figurative sense of added detail."
+      }
+    },
+    {
+      "word": "ornamentation",
+      "note": {
+        "ja": "装飾・装飾要素を表す硬めの語。",
+        "en": "A more formal term for decorative elements or the act of decorating."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Stickerei",
+    "it": "ricamo",
+    "fr": "broderie",
+    "es": "bordado"
+  },
+  "collocations": {
+    "ja": [
+      "hand embroidery — 手刺繍",
+      "machine embroidery — ミシン刺繍",
+      "traditional embroidery — 伝統刺繍",
+      "intricate embroidery — 精緻な刺繍",
+      "decorative embroidery — 装飾刺繍",
+      "gold embroidery — 金糸刺繍",
+      "embroidery thread — 刺繍糸",
+      "embroidery pattern — 刺繍図案"
+    ],
+    "en": [
+      "hand embroidery",
+      "machine embroidery",
+      "traditional embroidery",
+      "intricate embroidery",
+      "decorative embroidery",
+      "gold embroidery",
+      "embroidery thread",
+      "embroidery pattern"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The dress is decorated with delicate floral embroidery. — そのドレスには繊細な花模様の刺繍が施されている。",
+      "She learned embroidery from her grandmother. — 彼女は祖母から刺繍を習った。",
+      "The museum has a collection of traditional embroidery from the region. — その博物館にはその地域の伝統刺繍のコレクションがある。",
+      "The jacket features elaborate gold embroidery. — そのジャケットには精巧な金糸刺繍が施されている。",
+      "His account contained a fair amount of embroidery. — 彼の話にはかなりの脚色が含まれていた。"
+    ],
+    "en": [
+      "The dress is decorated with delicate floral embroidery.",
+      "She learned embroidery from her grandmother.",
+      "The museum has a collection of traditional embroidery from the region.",
+      "The jacket features elaborate gold embroidery.",
+      "His account contained a fair amount of embroidery."
+    ]
+  }
+},
+{
+  "id": "embellishment",
+  "sid": "2026-00234",
+  "word": "embellishment",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "art",
+    "formal",
+    "general",
+    "figurative"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪmˈbelɪʃmənt/",
+      "uk": "/ɪmˈbelɪʃmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "装飾、飾り",
+      "何かをより美しく見せるために加えられた要素",
+      "（比喩）話・説明への脚色、誇張"
+    ],
+    "en": [
+      "a decorative detail or addition",
+      "the act of making something more attractive by adding decorative features",
+      "a detail added to a story or account to make it more interesting, sometimes with exaggeration"
+    ]
+  },
+  "nuance": {
+    "ja": "物理的な装飾にも、比喩的な脚色にも使えるやや硬めの語。衣服・建築・文章・音楽など、何かに『飾りを加える』発想が中心。比喩では factual account に余分な細部や誇張を加える意味になり、文脈によっては『盛った話』という批判的ニュアンスを持つ。",
+    "en": "Embellishment is a somewhat formal word for a decorative addition or for the act of making something more elaborate. It can refer to clothing, architecture, writing, music, or other forms of expression. Figuratively, it can mean adding colorful or exaggerated details to a story or account."
+  },
+  "minimal": {
+    "ja": [
+      "embellishment：美しさ・華やかさを増すために加えられた装飾。",
+      "decoration：装飾一般を表す最も普通の語。",
+      "ornamentation：装飾を施すこと、装飾要素。より硬い。",
+      "embroidery：刺繍そのもの。比喩では話の脚色にも使える。",
+      "adornment：身につける飾りや装飾を表すことが多い。",
+      "exaggeration：事実を実際より大きく表現する誇張。"
+    ],
+    "en": [
+      "embellishment is a decorative addition intended to make something more attractive or elaborate.",
+      "decoration is the general everyday word for ornament or decorative treatment.",
+      "ornamentation is a more formal term for decorative detail.",
+      "embroidery literally means decorative needlework and can figuratively mean elaboration of a story.",
+      "adornment often refers to something used to decorate a person or object.",
+      "exaggeration specifically means presenting something as greater or more extreme than it really is."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 embellish + -ment から成る。embellish は古フランス語 embellir『美しくする』に由来し、en-『〜にする』＋ bel『美しい』から成る。bel はフランス語 beau / belle『美しい』と同系。語源的には文字どおり『美しくすること』。",
+    "en": "Formed from embellish + -ment. Embellish comes from Old French embellir, meaning 'to make beautiful', from en- plus bel ('beautiful'). Bel is related to modern French beau and belle. The literal underlying idea is therefore 'making something beautiful'."
+  },
+  "synonyms": [
+    {
+      "word": "decoration",
+      "note": {
+        "ja": "装飾一般を表す最も普通の語。embellishment の方がやや硬く、付加的な飾りという感じが強い。",
+        "en": "The general everyday word for decoration; embellishment is somewhat more formal and often suggests added detail."
+      }
+    },
+    {
+      "word": "ornamentation",
+      "note": {
+        "ja": "装飾要素や装飾を施すことを表す硬めの語。",
+        "en": "A formal term for decorative features or the act of decorating."
+      }
+    },
+    {
+      "word": "adornment",
+      "note": {
+        "ja": "人や物を飾る装飾品・装飾。美的な飾りに強い。",
+        "en": "A decorative object or feature used to enhance the appearance of a person or thing."
+      }
+    },
+    {
+      "word": "exaggeration",
+      "note": {
+        "ja": "比喩用法では近いが、こちらは『事実を誇張する』ことに明確に重点。",
+        "en": "Close in figurative use, but specifically emphasizes overstating the truth."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Verzierung / Ausschmückung",
+    "it": "abbellimento / ornamento",
+    "fr": "embellissement / ornement",
+    "es": "embellecimiento / adorno"
+  },
+  "collocations": {
+    "ja": [
+      "decorative embellishment — 装飾的な飾り",
+      "ornamental embellishment — 装飾的付加物",
+      "architectural embellishment — 建築装飾",
+      "musical embellishment — 音楽上の装飾",
+      "visual embellishment — 視覚的装飾",
+      "add embellishments — 装飾を加える",
+      "without embellishment — 飾り・脚色なしで",
+      "a story full of embellishments — 脚色だらけの話"
+    ],
+    "en": [
+      "decorative embellishment",
+      "ornamental embellishment",
+      "architectural embellishment",
+      "musical embellishment",
+      "visual embellishment",
+      "add embellishments",
+      "without embellishment",
+      "a story full of embellishments"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The dress was simple except for a few decorative embellishments. — そのドレスは、いくつかの装飾を除けばシンプルだった。",
+      "The building's façade contains elaborate stone embellishments. — その建物の正面には精巧な石造装飾が施されている。",
+      "The melody includes several graceful embellishments. — その旋律にはいくつか優雅な装飾音が含まれている。",
+      "He told the story without unnecessary embellishment. — 彼は余計な脚色をせずにその話を語った。",
+      "Some details in his account were probably later embellishments. — 彼の説明の一部の細部は、おそらく後から加えられた脚色だった。"
+    ],
+    "en": [
+      "The dress was simple except for a few decorative embellishments.",
+      "The building's façade contains elaborate stone embellishments.",
+      "The melody includes several graceful embellishments.",
+      "He told the story without unnecessary embellishment.",
+      "Some details in his account were probably later embellishments."
+    ]
+  }
+},
+{
+  "id": "embellish",
+  "sid": "2026-00235",
+  "word": "embellish",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "art",
+    "formal",
+    "general",
+    "figurative"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "embellish – embellished – embellished",
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪmˈbelɪʃ/",
+      "uk": "/ɪmˈbelɪʃ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "装飾する、飾って美しくする",
+      "細部を付け加えてより華やかにする",
+      "（話・説明を）脚色する、話を盛る"
+    ],
+    "en": [
+      "to make something more attractive by adding decorative details",
+      "to make something more elaborate by adding features or details",
+      "to add invented or exaggerated details to a story or account"
+    ]
+  },
+  "nuance": {
+    "ja": "物・衣服・建物・音楽などに装飾を加えて『より美しく、華やかにする』ことを表す。比喩では、事実に細部や誇張を加えて話をより面白くする意味になり、文脈によっては『話を盛る』という批判的ニュアンスを持つ。decorate よりやや硬く、単に飾るだけでなく『細部を付け足して豊かにする』感覚が強い。",
+    "en": "Embellish means to make something more attractive, elaborate, or ornate by adding details. Figuratively, it can mean adding colorful, invented, or exaggerated details to a story. It is somewhat more formal than decorate and often suggests enriching something through additional detail."
+  },
+  "minimal": {
+    "ja": [
+      "embellish：細部・装飾を加えて、より美しく・華やかにする。",
+      "decorate：飾ることを表す最も一般的な語。",
+      "ornament：装飾品や装飾要素を付け加える。",
+      "adorn：美しい装飾で飾る。やや文学的・硬い。",
+      "embroider：文字どおり刺繍する。比喩では話を脚色する。",
+      "exaggerate：事実を実際以上に大きく表現する。"
+    ],
+    "en": [
+      "embellish means to add decorative or elaborate details.",
+      "decorate is the general everyday word for making something more attractive.",
+      "ornament means to add decorative features.",
+      "adorn is a more literary or formal verb for decorating beautifully.",
+      "embroider literally means to decorate with needlework and can figuratively mean to elaborate a story.",
+      "exaggerate means to represent something as greater or more extreme than it really is."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 embellir『美しくする』に由来し、en-『〜にする』＋ bel『美しい』から成る。bel は現代フランス語 beau / belle『美しい』と同系。したがって語源的には文字どおり『美しくする』という意味。",
+    "en": "From Old French embellir, meaning 'to make beautiful', formed from en- plus bel ('beautiful'). Bel is related to modern French beau and belle. The literal sense is simply 'to make beautiful'."
+  },
+  "synonyms": [
+    {
+      "word": "decorate",
+      "note": {
+        "ja": "最も一般的な『飾る』。embellish の方が細部を付け足して華やかにする感じが強い。",
+        "en": "The general word for decorating; embellish more strongly suggests added decorative detail."
+      }
+    },
+    {
+      "word": "adorn",
+      "note": {
+        "ja": "美しい装飾で飾る硬めの語。embellish と近いが、比喩的な脚色には通常使わない。",
+        "en": "A more formal or literary word for decorating beautifully, usually without the figurative sense of elaborating a story."
+      }
+    },
+    {
+      "word": "embroider",
+      "note": {
+        "ja": "刺繍する。比喩では事実に細部を加えて話を脚色する点で embellish と非常に近い。",
+        "en": "Literally means to embroider; figuratively, it is very close to embellish when adding details to a story."
+      }
+    },
+    {
+      "word": "exaggerate",
+      "note": {
+        "ja": "誇張することに焦点。embellish は必ずしも事実を大きく歪めるとは限らない。",
+        "en": "Focuses specifically on overstatement, while embellish may simply involve additional decorative detail."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verzieren / ausschmücken",
+    "it": "abbellire / adornare",
+    "fr": "embellir / agrémenter",
+    "es": "embellecer / adornar"
+  },
+  "collocations": {
+    "ja": [
+      "embellish a dress — ドレスを装飾する",
+      "embellish a design — デザインに装飾を加える",
+      "embellish a building — 建物を装飾する",
+      "embellish a melody — 旋律に装飾を加える",
+      "embellish a story — 話を脚色する",
+      "embellish the truth — 真実を脚色する",
+      "heavily embellished — 華美に装飾された、かなり脚色された",
+      "embellish with gold — 金で装飾する"
+    ],
+    "en": [
+      "embellish a dress",
+      "embellish a design",
+      "embellish a building",
+      "embellish a melody",
+      "embellish a story",
+      "embellish the truth",
+      "heavily embellished",
+      "embellish with gold"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The designer embellished the dress with beads and embroidery. — デザイナーはビーズと刺繍でそのドレスを飾った。",
+      "The entrance was embellished with elaborate stone carvings. — 入口には精巧な石彫装飾が施されていた。",
+      "The musician embellished the melody with a series of graceful ornaments. — その音楽家は優雅な装飾音を加えて旋律を彩った。",
+      "He tends to embellish his stories to make them more entertaining. — 彼は話を面白くするために脚色する癖がある。",
+      "The basic account was true, although some details had clearly been embellished. — 話の基本部分は真実だったが、一部の細部は明らかに脚色されていた。"
+    ],
+    "en": [
+      "The designer embellished the dress with beads and embroidery.",
+      "The entrance was embellished with elaborate stone carvings.",
+      "The musician embellished the melody with a series of graceful ornaments.",
+      "He tends to embellish his stories to make them more entertaining.",
+      "The basic account was true, although some details had clearly been embellished."
+    ]
+  }
+},
+{
+  "id": "embroider",
+  "sid": "2026-00236",
+  "word": "embroider",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "art",
+    "craft",
+    "general",
+    "figurative"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": "embroider – embroidered – embroidered",
+    "transitivity": "transitive / intransitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪmˈbrɔɪdər/",
+      "uk": "/ɪmˈbrɔɪdə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "布などに刺繍する",
+      "刺繍で模様・文字などを施す",
+      "（比喩）話・説明を脚色する、細部を盛る"
+    ],
+    "en": [
+      "to decorate cloth by sewing designs onto it with thread",
+      "to stitch a design, word, or pattern onto fabric",
+      "figuratively, to add invented or exaggerated details to a story or account"
+    ]
+  },
+  "nuance": {
+    "ja": "文字どおりには、布地に糸で模様や文字を縫い込んで装飾することを表す。embroider A with B『AをBで刺繍する』、embroider B on A『BをAに刺繍する』などの形が使える。比喩的には、話や説明に余分な細部を付け加えて面白くする、つまり『脚色する・話を盛る』という意味になる。embellish と近いが、embroider の比喩用法には『細かなエピソードを縫い込む』ようなイメージがある。",
+    "en": "Literally, embroider means to decorate fabric by stitching designs with thread. Common patterns include 'embroider A with B' and 'embroider B on A'. Figuratively, it means to add colorful or exaggerated details to a story or account. It overlaps with embellish, but the figurative use of embroider often suggests weaving in extra narrative details."
+  },
+  "minimal": {
+    "ja": [
+      "embroider：刺繍する。比喩では話に細部を加えて脚色する。",
+      "embellish：装飾を加えて華やかにする。比喩でも脚色する。",
+      "decorate：飾ることを表す最も一般的な語。",
+      "stitch：針と糸で縫う。装飾目的とは限らない。",
+      "sew：布を縫う一般語。",
+      "exaggerate：事実を実際以上に大きく表現する。"
+    ],
+    "en": [
+      "embroider means to decorate fabric with stitched designs and figuratively to elaborate a story.",
+      "embellish means to add decorative or elaborate details more generally.",
+      "decorate is the general everyday verb for making something more attractive.",
+      "stitch means to sew with individual stitches and is not necessarily decorative.",
+      "sew is the general verb for joining or working fabric with needle and thread.",
+      "exaggerate specifically means to overstate the truth."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 embrouderen を経て古フランス語 embroder『刺繍する』に由来する。en-『〜の上に、〜に』＋ broder『刺繍する』から成る。broder は装飾的な縫い取りを表す語で、名詞 embroidery も同語族。",
+    "en": "From Middle English embrouderen, from Old French embroder, meaning 'to embroider'. It was formed from en- plus broder, 'to embroider'. The noun embroidery belongs to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "embellish",
+      "note": {
+        "ja": "より広く、衣服・建築・音楽・文章などに装飾や細部を加える。比喩ではかなり近い。",
+        "en": "A broader verb for adding decorative or elaborate details; very close in figurative use."
+      }
+    },
+    {
+      "word": "stitch",
+      "note": {
+        "ja": "針と糸で縫うことに焦点。刺繍のような装飾性は必須ではない。",
+        "en": "Focuses on sewing with stitches and does not necessarily imply decoration."
+      }
+    },
+    {
+      "word": "decorate",
+      "note": {
+        "ja": "飾る一般語。embroider は刺繍という特定の技法。",
+        "en": "The general verb for decorating; embroider refers to a specific needlework technique."
+      }
+    },
+    {
+      "word": "exaggerate",
+      "note": {
+        "ja": "比喩用法では近いが、誇張そのものに重点。embroider は細部を付け加える感じ。",
+        "en": "Close in figurative contexts but focuses specifically on overstatement rather than added narrative detail."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sticken / ausschmücken",
+    "it": "ricamare",
+    "fr": "broder",
+    "es": "bordar"
+  },
+  "collocations": {
+    "ja": [
+      "embroider a dress — ドレスに刺繍する",
+      "embroider a shirt — シャツに刺繍する",
+      "embroider a pattern — 模様を刺繍する",
+      "embroider a name — 名前を刺繍する",
+      "embroider flowers on fabric — 布に花を刺繍する",
+      "embroider something with gold thread — ～を金糸で刺繍する",
+      "embroider a story — 話を脚色する",
+      "embroider the truth — 真実を脚色する"
+    ],
+    "en": [
+      "embroider a dress",
+      "embroider a shirt",
+      "embroider a pattern",
+      "embroider a name",
+      "embroider flowers on fabric",
+      "embroider something with gold thread",
+      "embroider a story",
+      "embroider the truth"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She embroidered flowers on the collar of the dress. — 彼女はドレスの襟に花を刺繍した。",
+      "His initials were embroidered on the shirt. — 彼のイニシャルがシャツに刺繍されていた。",
+      "The cloth was embroidered with gold and silver thread. — その布には金糸と銀糸で刺繍が施されていた。",
+      "He tends to embroider his stories when he has an audience. — 彼は聞き手がいると話を脚色しがちだ。",
+      "The basic story is probably true, although some details may have been embroidered. — 話の骨格はおそらく本当だが、一部の細部は脚色されているかもしれない。"
+    ],
+    "en": [
+      "She embroidered flowers on the collar of the dress.",
+      "His initials were embroidered on the shirt.",
+      "The cloth was embroidered with gold and silver thread.",
+      "He tends to embroider his stories when he has an audience.",
+      "The basic story is probably true, although some details may have been embroidered."
+    ]
+  }
 }
 ]
