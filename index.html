@@ -1750,11 +1750,31 @@ const result = validateCards(allCards);
         : text("todayTitle");
 
     if (view === "today") {
-      cards = seededShuffle(
-        cards,
-        getSeed()
-      ).slice(0, 5);
-    }
+  if (QUERY) {
+    const needle = QUERY.trim().toLowerCase();
+
+    // 検索中は全件表示し、
+    // 単語そのものが完全一致するカードを先頭へ
+    cards = [...cards].sort((a, b) => {
+      const aWord = String(a.word || "").trim().toLowerCase();
+      const bWord = String(b.word || "").trim().toLowerCase();
+
+      const aExact = aWord === needle;
+      const bExact = bWord === needle;
+
+      if (aExact && !bExact) return -1;
+      if (!aExact && bExact) return 1;
+
+      return aWord.localeCompare(bWord);
+    });
+  } else {
+    // 通常の Today は従来どおり5枚
+    cards = seededShuffle(
+      cards,
+      getSeed()
+    ).slice(0, 5);
+  }
+}
 
     if (!cards.length) {
       list.innerHTML = `
