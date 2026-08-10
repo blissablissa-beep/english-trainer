@@ -12861,5 +12861,2961 @@
       "She wore black during the period of mourning."
     ]
   }
+},
+{
+  "id": "neurology",
+  "sid": "2026-00276",
+  "word": "neurology",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "science",
+    "brain",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/nʊˈrɑːlədʒi/",
+      "uk": "/njʊəˈrɒlədʒi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "神経学、神経内科学",
+      "脳・脊髄・末梢神経など神経系の構造・機能・疾患を扱う医学分野"
+    ],
+    "en": [
+      "the branch of medicine concerned with the nervous system",
+      "the medical study of the structure, function, and diseases of the brain, spinal cord, nerves, and related structures"
+    ]
+  },
+  "nuance": {
+    "ja": "neurology は神経系を扱う医学分野を指す。特に神経疾患の診断・治療を扱う臨床医学として使われることが多い。neuroscience が神経系を研究するより広い科学分野であるのに対し、neurology は医学・臨床との結びつきが強い。専門医は neurologist。",
+    "en": "Neurology is the medical field concerned with the nervous system, especially the diagnosis and treatment of neurological diseases. It is more clinically oriented than neuroscience, which is the broader scientific study of the nervous system. A physician specializing in neurology is a neurologist."
+  },
+  "minimal": {
+    "ja": [
+      "neurology：神経系の疾患を中心に扱う医学分野。",
+      "neuroscience：神経系を研究する広い科学分野。",
+      "neurologist：神経内科医、神経学の専門医。",
+      "neurological：神経学的な、神経系の。",
+      "psychiatry：精神疾患を診断・治療する医学分野。",
+      "neurosurgery：神経系を外科的に治療する脳神経外科学。"
+    ],
+    "en": [
+      "neurology is the medical specialty concerned with the nervous system and its diseases.",
+      "neuroscience is the broader scientific study of the nervous system.",
+      "a neurologist is a physician specializing in neurology.",
+      "neurological means relating to the nervous system or neurology.",
+      "psychiatry is the medical specialty concerned with mental disorders.",
+      "neurosurgery is the surgical specialty involving the nervous system."
+    ]
+  },
+  "etymology": {
+    "ja": "neuro-『神経』＋ -logy『学問、研究』から成る。neuro- はギリシャ語 neuron『腱、神経』、-logy はギリシャ語 logos『言葉、説明、研究』に由来する。英語 neurology は17世紀後半から確認される。",
+    "en": "Formed from neuro- plus -logy. Neuro- comes from Greek neuron, meaning 'sinew or nerve', while -logy ultimately comes from Greek logos, associated with discourse or study. The English word is attested from the late 17th century."
+  },
+  "synonyms": [
+    {
+      "word": "neuroscience",
+      "note": {
+        "ja": "神経系の科学的研究全般。neurology より広く、医学に限定されない。",
+        "en": "The broader scientific study of the nervous system and not limited to clinical medicine."
+      }
+    },
+    {
+      "word": "clinical neurology",
+      "note": {
+        "ja": "神経疾患の診断・治療に焦点を置いた臨床神経学。",
+        "en": "The clinical branch of neurology concerned particularly with diagnosis and treatment."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Neurologie",
+    "it": "neurologia",
+    "fr": "neurologie",
+    "es": "neurología"
+  },
+  "collocations": {
+    "ja": [
+      "department of neurology — 神経内科・神経学科",
+      "professor of neurology — 神経学教授",
+      "specialist in neurology — 神経学の専門医",
+      "clinical neurology — 臨床神経学",
+      "pediatric neurology — 小児神経学",
+      "field of neurology — 神経学分野",
+      "advances in neurology — 神経学の進歩",
+      "neurology clinic — 神経内科外来"
+    ],
+    "en": [
+      "department of neurology",
+      "professor of neurology",
+      "specialist in neurology",
+      "clinical neurology",
+      "pediatric neurology",
+      "field of neurology",
+      "advances in neurology",
+      "neurology clinic"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She specializes in neurology. — 彼女は神経学を専門としている。",
+      "He was referred to the department of neurology for further examination. — 彼はさらなる検査のため神経内科を紹介された。",
+      "Recent advances in neurology have improved the diagnosis of many neurological disorders. — 近年の神経学の進歩により、多くの神経疾患の診断が改善された。",
+      "She is a professor of neurology at the medical school. — 彼女はその医学部の神経学教授である。",
+      "Neurology deals with diseases affecting the brain, spinal cord, and nerves. — 神経学は脳・脊髄・神経に影響する疾患を扱う。"
+    ],
+    "en": [
+      "She specializes in neurology.",
+      "He was referred to the department of neurology for further examination.",
+      "Recent advances in neurology have improved the diagnosis of many neurological disorders.",
+      "She is a professor of neurology at the medical school.",
+      "Neurology deals with diseases affecting the brain, spinal cord, and nerves."
+    ]
+  }
+},
+{
+  "id": "psychiatry",
+  "sid": "2026-00277",
+  "word": "psychiatry",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "mental-health",
+    "formal",
+    "science"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/saɪˈkaɪətri/",
+      "uk": "/saɪˈkaɪətri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "精神医学、精神科医学",
+      "精神疾患の診断・治療・予防を扱う医学分野"
+    ],
+    "en": [
+      "the branch of medicine concerned with the diagnosis, treatment, and prevention of mental disorders",
+      "the medical specialty dealing with mental health and psychiatric conditions"
+    ]
+  },
+  "nuance": {
+    "ja": "psychiatry は医学の一分野であり、専門医 psychiatrist は医師として診断・薬物療法などの医学的治療を行う。psychology は心や行動を研究するより広い学問で、必ずしも医学ではない。この distinction は英語で非常に重要。",
+    "en": "Psychiatry is a medical specialty. A psychiatrist is a physician who can diagnose mental disorders and provide medical treatment, including medication where appropriate. Psychology is the broader study of mind and behavior and is not itself a branch of medicine."
+  },
+  "minimal": {
+    "ja": [
+      "psychiatry：精神疾患を診断・治療する医学分野。",
+      "psychology：心・認知・行動を研究する学問。",
+      "psychiatrist：精神科医。",
+      "psychologist：心理学者、心理職。",
+      "neurology：神経系の疾患を扱う医学分野。",
+      "psychotherapy：対話などによる心理療法。"
+    ],
+    "en": [
+      "psychiatry is the medical specialty concerned with mental disorders.",
+      "psychology is the study of mind, cognition, emotion, and behavior.",
+      "a psychiatrist is a physician specializing in psychiatry.",
+      "a psychologist is a specialist in psychology.",
+      "neurology is the medical specialty concerned with the nervous system.",
+      "psychotherapy is treatment using psychological methods, often through structured conversation."
+    ]
+  },
+  "etymology": {
+    "ja": "ドイツ語 Psychiatrie を経て広まった語で、ギリシャ語 psyche『魂、心』＋ iatreia『治療、医療』に由来する。後半の -iatry は『医学的治療』を表し、geriatrics や pediatrics の医療語彙とも関連する。",
+    "en": "The term spread through German Psychiatrie and is built from Greek psyche ('soul, mind') plus iatreia ('healing, medical treatment'). The element -iatry refers to medical treatment or a medical specialty."
+  },
+  "synonyms": [
+    {
+      "word": "mental health medicine",
+      "note": {
+        "ja": "説明的な言い換え。専門分野名としては psychiatry が標準。",
+        "en": "A descriptive paraphrase; psychiatry is the standard name of the medical specialty."
+      }
+    },
+    {
+      "word": "psychology",
+      "note": {
+        "ja": "関連は深いが別分野。psychology は医学に限定されず、心・行動の研究全般を扱う。",
+        "en": "Closely related but distinct; psychology is not limited to medicine and broadly studies mind and behavior."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Psychiatrie",
+    "it": "psichiatria",
+    "fr": "psychiatrie",
+    "es": "psiquiatría"
+  },
+  "collocations": {
+    "ja": [
+      "department of psychiatry — 精神科・精神医学教室",
+      "professor of psychiatry — 精神医学教授",
+      "specialist in psychiatry — 精神医学の専門医",
+      "child psychiatry — 児童精神医学",
+      "forensic psychiatry — 司法精神医学",
+      "clinical psychiatry — 臨床精神医学",
+      "field of psychiatry — 精神医学分野",
+      "advances in psychiatry — 精神医学の進歩"
+    ],
+    "en": [
+      "department of psychiatry",
+      "professor of psychiatry",
+      "specialist in psychiatry",
+      "child psychiatry",
+      "forensic psychiatry",
+      "clinical psychiatry",
+      "field of psychiatry",
+      "advances in psychiatry"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She specializes in psychiatry. — 彼女は精神医学を専門としている。",
+      "He was referred to the department of psychiatry. — 彼は精神科を紹介された。",
+      "Forensic psychiatry lies at the intersection of medicine and law. — 司法精神医学は医学と法の接点に位置する。",
+      "She is a professor of psychiatry at the university. — 彼女はその大学の精神医学教授である。",
+      "Modern psychiatry uses both medical and psychological approaches to treatment. — 現代の精神医学では医学的手法と心理学的手法の両方が治療に用いられる。"
+    ],
+    "en": [
+      "She specializes in psychiatry.",
+      "He was referred to the department of psychiatry.",
+      "Forensic psychiatry lies at the intersection of medicine and law.",
+      "She is a professor of psychiatry at the university.",
+      "Modern psychiatry uses both medical and psychological approaches to treatment."
+    ]
+  }
+},
+{
+  "id": "cardiology",
+  "sid": "2026-00278",
+  "word": "cardiology",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "heart",
+    "science",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkɑːrdiˈɑːlədʒi/",
+      "uk": "/ˌkɑːdiˈɒlədʒi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "心臓病学、循環器学",
+      "心臓および循環器系の疾患の診断・治療・研究を扱う医学分野"
+    ],
+    "en": [
+      "the branch of medicine concerned with the heart and cardiovascular system",
+      "the medical specialty dealing with the diagnosis, treatment, and study of cardiovascular disease"
+    ]
+  },
+  "nuance": {
+    "ja": "cardiology は心臓を中心とする循環器系の医学分野。heart disease, coronary artery disease, arrhythmia, heart failure などを扱う。専門医は cardiologist。cardiac surgery / cardiovascular surgery のような外科分野とは区別され、cardiologist は通常、循環器内科系の医師を指す。",
+    "en": "Cardiology is the medical specialty concerned with the heart and cardiovascular system. It covers conditions such as coronary artery disease, arrhythmias, and heart failure. A specialist is a cardiologist. Cardiology is distinct from cardiac or cardiovascular surgery, which involves surgical treatment."
+  },
+  "minimal": {
+    "ja": [
+      "cardiology：心臓・循環器系を扱う医学分野。",
+      "cardiologist：循環器内科医、心臓病専門医。",
+      "cardiovascular medicine：循環器医学。cardiology とほぼ重なる。",
+      "cardiac surgery：心臓外科。",
+      "neurology：神経系を扱う医学分野。",
+      "pulmonology：肺・呼吸器系を扱う医学分野。"
+    ],
+    "en": [
+      "cardiology is the medical specialty concerned with the heart and cardiovascular system.",
+      "a cardiologist is a physician specializing in cardiology.",
+      "cardiovascular medicine largely overlaps with cardiology.",
+      "cardiac surgery is the surgical treatment of heart conditions.",
+      "neurology deals with the nervous system.",
+      "pulmonology deals with the lungs and respiratory system."
+    ]
+  },
+  "etymology": {
+    "ja": "cardio-『心臓』＋ -logy『学問、研究』から成る。cardio- はギリシャ語 kardia『心臓』、-logy はギリシャ語 logos『言葉、説明、研究』に由来する。同じ kardia 系には cardiac, cardiovascular, tachycardia などがある。",
+    "en": "Formed from cardio- plus -logy. Cardio- comes from Greek kardia, meaning 'heart', while -logy derives from Greek logos, associated with study or discourse. The same root appears in cardiac, cardiovascular, and tachycardia."
+  },
+  "synonyms": [
+    {
+      "word": "cardiovascular medicine",
+      "note": {
+        "ja": "循環器医学を表す説明的な名称で、cardiology と大きく重なる。",
+        "en": "A descriptive term for cardiovascular medicine that largely overlaps with cardiology."
+      }
+    },
+    {
+      "word": "heart medicine",
+      "note": {
+        "ja": "日常的な説明としては通じるが、専門分野名としては cardiology が標準。",
+        "en": "An informal descriptive phrase; cardiology is the standard name of the medical specialty."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Kardiologie",
+    "it": "cardiologia",
+    "fr": "cardiologie",
+    "es": "cardiología"
+  },
+  "collocations": {
+    "ja": [
+      "department of cardiology — 循環器内科・循環器学科",
+      "professor of cardiology — 循環器学教授",
+      "specialist in cardiology — 循環器専門医",
+      "interventional cardiology — インターベンション循環器学",
+      "pediatric cardiology — 小児循環器学",
+      "clinical cardiology — 臨床循環器学",
+      "field of cardiology — 循環器学分野",
+      "advances in cardiology — 循環器学の進歩"
+    ],
+    "en": [
+      "department of cardiology",
+      "professor of cardiology",
+      "specialist in cardiology",
+      "interventional cardiology",
+      "pediatric cardiology",
+      "clinical cardiology",
+      "field of cardiology",
+      "advances in cardiology"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She specializes in cardiology. — 彼女は循環器学を専門としている。",
+      "He was referred to the department of cardiology for further tests. — 彼はさらなる検査のため循環器内科を紹介された。",
+      "Interventional cardiology uses catheter-based procedures to treat certain heart conditions. — インターベンション循環器学では、特定の心疾患の治療にカテーテルを用いた処置を行う。",
+      "She is a professor of cardiology at the medical school. — 彼女はその医学部の循環器学教授である。",
+      "Recent advances in cardiology have improved the treatment of heart failure. — 近年の循環器学の進歩により、心不全の治療は改善されている。"
+    ],
+    "en": [
+      "She specializes in cardiology.",
+      "He was referred to the department of cardiology for further tests.",
+      "Interventional cardiology uses catheter-based procedures to treat certain heart conditions.",
+      "She is a professor of cardiology at the medical school.",
+      "Recent advances in cardiology have improved the treatment of heart failure."
+    ]
+  }
+},
+{
+  "id": "dermatology",
+  "sid": "2026-00279",
+  "word": "dermatology",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "skin",
+    "science",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌdɝːməˈtɑːlədʒi/",
+      "uk": "/ˌdɜːməˈtɒlədʒi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "皮膚科学、皮膚科医学",
+      "皮膚・毛髪・爪などの疾患の診断・治療・研究を扱う医学分野"
+    ],
+    "en": [
+      "the branch of medicine concerned with the skin and related structures",
+      "the medical specialty dealing with diseases of the skin, hair, and nails"
+    ]
+  },
+  "nuance": {
+    "ja": "dermatology は皮膚だけでなく、毛髪や爪など皮膚付属器の疾患も扱う医学分野。専門医は dermatologist。acne, eczema, psoriasis, skin cancer など幅広い疾患を対象とする。美容目的の施術を扱う cosmetic dermatology という分野もある。",
+    "en": "Dermatology is the medical specialty concerned not only with the skin but also with related structures such as hair and nails. A specialist is a dermatologist. The field includes conditions such as acne, eczema, psoriasis, and skin cancer, as well as cosmetic dermatology."
+  },
+  "minimal": {
+    "ja": [
+      "dermatology：皮膚・毛髪・爪などを扱う医学分野。",
+      "dermatologist：皮膚科医。",
+      "cosmetic dermatology：美容皮膚科。",
+      "dermatological：皮膚科学の、皮膚に関する。",
+      "pathology：疾患の原因・性質・変化を扱う病理学。",
+      "allergology：アレルギー疾患を扱う医学分野。"
+    ],
+    "en": [
+      "dermatology is the medical specialty concerned with the skin, hair, and nails.",
+      "a dermatologist is a physician specializing in dermatology.",
+      "cosmetic dermatology focuses on aesthetic treatment of the skin.",
+      "dermatological means relating to the skin or dermatology.",
+      "pathology is the study of disease and disease processes.",
+      "allergology deals with allergic diseases."
+    ]
+  },
+  "etymology": {
+    "ja": "dermato-『皮膚』＋ -logy『学問、研究』から成る。dermato- はギリシャ語 derma『皮膚』に由来し、dermis, epidermis, dermatitis などと同語族。",
+    "en": "Formed from dermato- plus -logy. Dermato- comes from Greek derma, meaning 'skin'. The same root appears in dermis, epidermis, and dermatitis."
+  },
+  "synonyms": [
+    {
+      "word": "skin medicine",
+      "note": {
+        "ja": "説明的な言い換え。専門分野名としては dermatology が標準。",
+        "en": "An informal descriptive phrase; dermatology is the standard name of the medical specialty."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Dermatologie / Hautheilkunde",
+    "it": "dermatologia",
+    "fr": "dermatologie",
+    "es": "dermatología"
+  },
+  "collocations": {
+    "ja": [
+      "department of dermatology — 皮膚科・皮膚科学教室",
+      "professor of dermatology — 皮膚科学教授",
+      "specialist in dermatology — 皮膚科専門医",
+      "clinical dermatology — 臨床皮膚科学",
+      "cosmetic dermatology — 美容皮膚科学",
+      "pediatric dermatology — 小児皮膚科学",
+      "field of dermatology — 皮膚科学分野",
+      "advances in dermatology — 皮膚科学の進歩"
+    ],
+    "en": [
+      "department of dermatology",
+      "professor of dermatology",
+      "specialist in dermatology",
+      "clinical dermatology",
+      "cosmetic dermatology",
+      "pediatric dermatology",
+      "field of dermatology",
+      "advances in dermatology"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She specializes in dermatology. — 彼女は皮膚科学を専門としている。",
+      "He was referred to the department of dermatology for a persistent rash. — 彼は治らない発疹のため皮膚科を紹介された。",
+      "Dermatology covers diseases of the skin, hair, and nails. — 皮膚科学は皮膚・毛髪・爪の疾患を扱う。",
+      "She is a professor of dermatology at the medical school. — 彼女はその医学部の皮膚科学教授である。",
+      "Recent advances in dermatology have improved the treatment of inflammatory skin diseases. — 近年の皮膚科学の進歩により、炎症性皮膚疾患の治療は改善されている。"
+    ],
+    "en": [
+      "She specializes in dermatology.",
+      "He was referred to the department of dermatology for a persistent rash.",
+      "Dermatology covers diseases of the skin, hair, and nails.",
+      "She is a professor of dermatology at the medical school.",
+      "Recent advances in dermatology have improved the treatment of inflammatory skin diseases."
+    ]
+  }
+},
+{
+  "id": "allergology",
+  "sid": "2026-00280",
+  "word": "allergology",
+  "level": "C1",
+  "freq": "rare",
+  "tags": [
+    "medicine",
+    "allergy",
+    "immunology",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌælərˈɡɑːlədʒi/",
+      "uk": "/ˌælədʒˈɒlədʒi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "アレルギー学、アレルギー医学",
+      "アレルギー疾患の原因・診断・治療・予防を扱う医学分野"
+    ],
+    "en": [
+      "the branch of medicine concerned with allergies and allergic diseases",
+      "the medical study and treatment of allergic conditions"
+    ]
+  },
+  "nuance": {
+    "ja": "allergology はアレルギー疾患を専門に扱う医学分野を表すが、英語圏では地域によって使用頻度に差がある。特に米国では allergy and immunology や clinical immunology と呼ばれることが多い。専門医は allergist または allergist-immunologist。花粉症、喘息、食物アレルギー、薬物アレルギーなどを扱う。",
+    "en": "Allergology is the medical field concerned with allergic diseases, though its frequency varies by region. In American English, 'allergy and immunology' or 'clinical immunology' is often more common. A specialist is typically called an allergist or allergist-immunologist."
+  },
+  "minimal": {
+    "ja": [
+      "allergology：アレルギー疾患を扱う医学分野。",
+      "allergy and immunology：英語圏、特に米国で一般的な専門分野名。",
+      "immunology：免疫系そのものを扱う学問。",
+      "allergist：アレルギー専門医。",
+      "dermatology：皮膚疾患を扱う医学分野。",
+      "pulmonology：肺・呼吸器系を扱う医学分野。"
+    ],
+    "en": [
+      "allergology is the medical specialty concerned with allergic diseases.",
+      "allergy and immunology is a common name for the specialty, especially in the United States.",
+      "immunology is the study of the immune system.",
+      "an allergist is a physician specializing in allergic disease.",
+      "dermatology deals with diseases of the skin.",
+      "pulmonology deals with the lungs and respiratory system."
+    ]
+  },
+  "etymology": {
+    "ja": "allergy + -logy から成る。allergy はギリシャ語 allos『別の、異なる』＋ ergon『働き、作用』をもとに20世紀初頭に作られた医学用語で、もともとは『通常とは異なる反応』という発想。-logy は『学問、研究』を表す。",
+    "en": "Formed from allergy plus -logy. Allergy was coined in the early 20th century from Greek allos ('other, different') plus ergon ('work, action'), originally referring to an altered reaction. The suffix -logy means 'study'."
+  },
+  "synonyms": [
+    {
+      "word": "allergy and immunology",
+      "note": {
+        "ja": "特に米国で一般的な診療科・専門分野名。",
+        "en": "A common name for the specialty, especially in American medical usage."
+      }
+    },
+    {
+      "word": "clinical immunology",
+      "note": {
+        "ja": "免疫系の異常を臨床的に扱う分野で、アレルギー学と大きく重なる。",
+        "en": "A clinical field dealing with immune-system disorders and overlapping substantially with allergology."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Allergologie",
+    "it": "allergologia",
+    "fr": "allergologie",
+    "es": "alergología"
+  },
+  "collocations": {
+    "ja": [
+      "department of allergology — アレルギー科",
+      "specialist in allergology — アレルギー専門医",
+      "clinical allergology — 臨床アレルギー学",
+      "pediatric allergology — 小児アレルギー学",
+      "allergology clinic — アレルギー科外来",
+      "field of allergology — アレルギー学分野",
+      "advances in allergology — アレルギー学の進歩",
+      "allergology and immunology — アレルギー学と免疫学"
+    ],
+    "en": [
+      "department of allergology",
+      "specialist in allergology",
+      "clinical allergology",
+      "pediatric allergology",
+      "allergology clinic",
+      "field of allergology",
+      "advances in allergology",
+      "allergology and immunology"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She specializes in allergology and clinical immunology. — 彼女はアレルギー学と臨床免疫学を専門としている。",
+      "He was referred to an allergology clinic for further testing. — 彼はさらなる検査のためアレルギー科を紹介された。",
+      "Allergology deals with conditions such as pollen allergy, food allergy, and asthma. — アレルギー学は花粉症、食物アレルギー、喘息などを扱う。",
+      "Recent advances in allergology have improved the diagnosis of food allergies. — 近年のアレルギー学の進歩により、食物アレルギーの診断は改善されている。",
+      "The hospital has a department of allergology and immunology. — その病院にはアレルギー・免疫科がある。"
+    ],
+    "en": [
+      "She specializes in allergology and clinical immunology.",
+      "He was referred to an allergology clinic for further testing.",
+      "Allergology deals with conditions such as pollen allergy, food allergy, and asthma.",
+      "Recent advances in allergology have improved the diagnosis of food allergies.",
+      "The hospital has a department of allergology and immunology."
+    ]
+  }
+},
+{
+  "id": "immunology",
+  "sid": "2026-00281",
+  "word": "immunology",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "biology",
+    "immune-system",
+    "science"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɪmjəˈnɑːlədʒi/",
+      "uk": "/ˌɪmjʊˈnɒlədʒi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "免疫学",
+      "免疫系の構造・機能・反応・異常を研究する学問",
+      "感染防御、自己免疫、アレルギーなどを扱う医学・生物学分野"
+    ],
+    "en": [
+      "the branch of science and medicine concerned with the immune system",
+      "the study of immune responses, immune function, and immune disorders",
+      "the field dealing with immunity, infection, autoimmunity, allergy, and related processes"
+    ]
+  },
+  "nuance": {
+    "ja": "immunology は医学だけでなく生物学・基礎科学としても非常に広い分野。感染症への防御、抗体、免疫細胞、自己免疫疾患、免疫不全、アレルギー、ワクチン反応などを扱う。allergology がアレルギー疾患という臨床領域に重点を置くのに対し、immunology は免疫系全体を対象とする。",
+    "en": "Immunology is a broad field spanning medicine, biology, and basic science. It studies immune cells, antibodies, host defense, autoimmunity, immunodeficiency, allergy, vaccination, and related processes. Compared with allergology, which focuses specifically on allergic disease, immunology covers the immune system as a whole."
+  },
+  "minimal": {
+    "ja": [
+      "immunology：免疫系全体を研究する学問。",
+      "allergology：アレルギー疾患を中心に扱う医学分野。",
+      "clinical immunology：免疫異常を臨床的に扱う分野。",
+      "immunologist：免疫学者、免疫学の専門家。",
+      "autoimmunity：免疫系が自己組織を攻撃する現象。",
+      "immunity：病原体などに対する免疫・抵抗性。"
+    ],
+    "en": [
+      "immunology is the study of the immune system as a whole.",
+      "allergology focuses primarily on allergic diseases.",
+      "clinical immunology deals with immune disorders in clinical medicine.",
+      "an immunologist is a specialist in immunology.",
+      "autoimmunity is an immune response directed against the body's own tissues.",
+      "immunity is the state or ability of being protected against infection or disease."
+    ]
+  },
+  "etymology": {
+    "ja": "immune + -ology から成る。immune はラテン語 immunis『義務・負担を免れた』に由来し、im-『〜でない』＋ munus『義務、負担、奉仕』から成る。もともとは法律・社会的な『免除』を表す語で、後に医学で『病気を免れる』という意味へ発展した。immunity と同語族。",
+    "en": "Formed from immune plus -ology. Immune comes from Latin immunis, meaning 'exempt from public service or burden', from im- ('not') plus munus ('duty, service, burden'). The word later developed the medical sense of being protected from disease. It is closely related to immunity."
+  },
+  "synonyms": [
+    {
+      "word": "clinical immunology",
+      "note": {
+        "ja": "免疫異常の診断・治療に重点を置く臨床分野。immunology 全体より狭い。",
+        "en": "The clinical specialty dealing with immune disorders and narrower than immunology as a whole."
+      }
+    },
+    {
+      "word": "immune science",
+      "note": {
+        "ja": "説明的な言い換え。正式な学問名としては immunology が標準。",
+        "en": "A descriptive paraphrase; immunology is the standard name of the field."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Immunologie",
+    "it": "immunologia",
+    "fr": "immunologie",
+    "es": "inmunología"
+  },
+  "collocations": {
+    "ja": [
+      "clinical immunology — 臨床免疫学",
+      "cellular immunology — 細胞免疫学",
+      "molecular immunology — 分子免疫学",
+      "tumor immunology — 腫瘍免疫学",
+      "department of immunology — 免疫学教室・免疫学科",
+      "professor of immunology — 免疫学教授",
+      "advances in immunology — 免疫学の進歩",
+      "immunology research — 免疫学研究"
+    ],
+    "en": [
+      "clinical immunology",
+      "cellular immunology",
+      "molecular immunology",
+      "tumor immunology",
+      "department of immunology",
+      "professor of immunology",
+      "advances in immunology",
+      "immunology research"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She specializes in immunology. — 彼女は免疫学を専門としている。",
+      "Immunology has transformed our understanding of infectious disease. — 免疫学は感染症に対する私たちの理解を大きく変えた。",
+      "The laboratory conducts research in molecular immunology. — その研究室では分子免疫学の研究を行っている。",
+      "Clinical immunology deals with disorders of the immune system. — 臨床免疫学は免疫系の異常を扱う。",
+      "Recent advances in immunology have contributed to new cancer treatments. — 近年の免疫学の進歩は新しいがん治療法の開発に貢献している。"
+    ],
+    "en": [
+      "She specializes in immunology.",
+      "Immunology has transformed our understanding of infectious disease.",
+      "The laboratory conducts research in molecular immunology.",
+      "Clinical immunology deals with disorders of the immune system.",
+      "Recent advances in immunology have contributed to new cancer treatments."
+    ]
+  }
+},
+{
+  "id": "gynecology",
+  "sid": "2026-00282",
+  "word": "gynecology",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproductive-system",
+    "science",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɡaɪnəˈkɑːlədʒi/",
+      "uk": "/ˌɡaɪnəˈkɒlədʒi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "婦人科学、婦人科医学",
+      "女性の生殖器系の健康・疾患の診断・治療を扱う医学分野"
+    ],
+    "en": [
+      "the branch of medicine concerned with the female reproductive system",
+      "the medical specialty dealing with the health and diseases of the female reproductive organs"
+    ]
+  },
+  "nuance": {
+    "ja": "gynecology は女性の生殖器系を扱う医学分野。obstetrics が妊娠・出産を中心に扱うのに対し、gynecology は妊娠・出産に限らない婦人科領域を広く扱う。両分野を合わせた obstetrics and gynecology は OB-GYN と略される。英国式では gynaecology と綴る。",
+    "en": "Gynecology is the medical specialty concerned with the female reproductive system. It is distinguished from obstetrics, which focuses particularly on pregnancy and childbirth. The combined specialty is called obstetrics and gynecology, commonly abbreviated OB-GYN. The British spelling is gynaecology."
+  },
+  "minimal": {
+    "ja": [
+      "gynecology：女性の生殖器系を扱う婦人科学。",
+      "obstetrics：妊娠・出産を扱う産科学。",
+      "OB-GYN：産科学と婦人科学を合わせた専門分野・専門医。",
+      "gynecologist：婦人科医。",
+      "gynaecology：gynecology の英国式綴り。",
+      "urology：尿路系および男性生殖器系を扱う泌尿器科学。"
+    ],
+    "en": [
+      "gynecology is the medical specialty concerned with the female reproductive system.",
+      "obstetrics deals particularly with pregnancy and childbirth.",
+      "OB-GYN refers to the combined field of obstetrics and gynecology.",
+      "a gynecologist is a physician specializing in gynecology.",
+      "gynaecology is the British spelling of gynecology.",
+      "urology deals with the urinary system and aspects of the male reproductive system."
+    ]
+  },
+  "etymology": {
+    "ja": "gyneco-『女性』＋ -logy『学問、研究』から成る。gyneco- はギリシャ語 gynē『女性、妻』に由来する。英語の gynecology は新ラテン語 gynaecologia やドイツ語 Gynäkologie を経て成立した。",
+    "en": "Formed from gyneco- plus -logy. Gyneco- ultimately comes from Greek gynē, meaning 'woman or wife'. The English term developed through New Latin gynaecologia and German Gynäkologie."
+  },
+  "synonyms": [
+    {
+      "word": "gynaecology",
+      "note": {
+        "ja": "英国式綴り。意味は gynecology と同じ。",
+        "en": "The British spelling of gynecology."
+      }
+    },
+    {
+      "word": "women's health",
+      "note": {
+        "ja": "より広い概念。婦人科領域以外の女性の健康問題も含みうる。",
+        "en": "A broader concept that can include aspects of women's health beyond gynecology."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Gynäkologie / Frauenheilkunde",
+    "it": "ginecologia",
+    "fr": "gynécologie",
+    "es": "ginecología"
+  },
+  "collocations": {
+    "ja": [
+      "department of gynecology — 婦人科・婦人科学教室",
+      "professor of gynecology — 婦人科学教授",
+      "specialist in gynecology — 婦人科専門医",
+      "gynecology clinic — 婦人科外来",
+      "obstetrics and gynecology — 産婦人科学",
+      "pediatric gynecology — 小児・思春期婦人科学",
+      "oncologic gynecology — 婦人科腫瘍学",
+      "field of gynecology — 婦人科学分野"
+    ],
+    "en": [
+      "department of gynecology",
+      "professor of gynecology",
+      "specialist in gynecology",
+      "gynecology clinic",
+      "obstetrics and gynecology",
+      "pediatric gynecology",
+      "oncologic gynecology",
+      "field of gynecology"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She specializes in gynecology. — 彼女は婦人科学を専門としている。",
+      "He works in the department of obstetrics and gynecology. — 彼は産婦人科に勤務している。",
+      "She was referred to the gynecology clinic for further examination. — 彼女はさらなる検査のため婦人科を紹介された。",
+      "Gynecology deals with a wide range of conditions affecting the female reproductive system. — 婦人科学は女性の生殖器系に関わる幅広い疾患を扱う。",
+      "She is a professor of gynecology at the medical school. — 彼女はその医学部の婦人科学教授である。"
+    ],
+    "en": [
+      "She specializes in gynecology.",
+      "He works in the department of obstetrics and gynecology.",
+      "She was referred to the gynecology clinic for further examination.",
+      "Gynecology deals with a wide range of conditions affecting the female reproductive system.",
+      "She is a professor of gynecology at the medical school."
+    ]
+  }
+},
+{
+  "id": "obstetrics",
+  "sid": "2026-00283",
+  "word": "obstetrics",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "pregnancy",
+    "childbirth",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əbˈstetrɪks/",
+      "uk": "/əbˈstetrɪks/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "産科学",
+      "妊娠・分娩・産後の管理を扱う医学分野"
+    ],
+    "en": [
+      "the branch of medicine concerned with pregnancy and childbirth",
+      "the medical specialty dealing with pregnancy, labor, delivery, and the postpartum period"
+    ]
+  },
+  "nuance": {
+    "ja": "obstetrics は妊娠・出産に特化した医学分野で、prenatal care, labor, delivery, postpartum care などを扱う。gynecology が妊娠以外も含む女性生殖器系の健康・疾患を広く扱うのに対し、obstetrics は妊娠から出産前後までが中心。両者を合わせて obstetrics and gynecology、略して OB-GYN と呼ぶ。",
+    "en": "Obstetrics is the medical specialty focused on pregnancy, labor, childbirth, and the postpartum period. Gynecology more broadly concerns the female reproductive system outside and alongside pregnancy. Together, the two fields are commonly called obstetrics and gynecology, or OB-GYN."
+  },
+  "minimal": {
+    "ja": [
+      "obstetrics：妊娠・出産・産後を扱う産科学。",
+      "gynecology：女性の生殖器系を広く扱う婦人科学。",
+      "OB-GYN：産科学と婦人科学を合わせた専門分野。",
+      "obstetrician：産科医。",
+      "midwifery：助産学・助産業務。",
+      "perinatology：妊娠後期から出生直後までを扱う周産期医学。"
+    ],
+    "en": [
+      "obstetrics is the medical specialty concerned with pregnancy and childbirth.",
+      "gynecology deals more broadly with the female reproductive system.",
+      "OB-GYN refers to the combined field of obstetrics and gynecology.",
+      "an obstetrician is a physician specializing in obstetrics.",
+      "midwifery is the profession and practice of assisting pregnancy and childbirth.",
+      "perinatology focuses on the period around late pregnancy and birth."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 obstetrix『助産婦』に由来し、obstare『前に立つ、そばに立つ』と関係する。obstetrix は出産する女性のそばに立って援助する人を意味した。そこから obstetric『産科の』、obstetrics『産科学』が生まれた。",
+    "en": "From Latin obstetrix, meaning 'midwife', related to obstare, 'to stand before or stand by'. The original image is of a person standing beside a woman during childbirth. From this came obstetric and obstetrics."
+  },
+  "synonyms": [
+    {
+      "word": "maternal-fetal medicine",
+      "note": {
+        "ja": "高リスク妊娠などを扱う産科の専門分野。obstetrics 全体より狭い。",
+        "en": "A subspecialty of obstetrics focusing especially on high-risk pregnancies and fetal health."
+      }
+    },
+    {
+      "word": "perinatology",
+      "note": {
+        "ja": "妊娠後期から出生直後までを重点的に扱う周産期医学。",
+        "en": "A specialty focusing on the period shortly before and after birth."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Geburtshilfe / Obstetrik",
+    "it": "ostetricia",
+    "fr": "obstétrique",
+    "es": "obstetricia"
+  },
+  "collocations": {
+    "ja": [
+      "obstetrics and gynecology — 産婦人科学",
+      "department of obstetrics — 産科・産科学教室",
+      "professor of obstetrics — 産科学教授",
+      "specialist in obstetrics — 産科専門医",
+      "clinical obstetrics — 臨床産科学",
+      "emergency obstetrics — 救急産科",
+      "obstetrics unit — 産科病棟・産科部門",
+      "advances in obstetrics — 産科学の進歩"
+    ],
+    "en": [
+      "obstetrics and gynecology",
+      "department of obstetrics",
+      "professor of obstetrics",
+      "specialist in obstetrics",
+      "clinical obstetrics",
+      "emergency obstetrics",
+      "obstetrics unit",
+      "advances in obstetrics"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She specializes in obstetrics. — 彼女は産科学を専門としている。",
+      "He works in the department of obstetrics and gynecology. — 彼は産婦人科に勤務している。",
+      "Obstetrics covers the medical management of pregnancy and childbirth. — 産科学は妊娠と出産の医学的管理を扱う。",
+      "She trained in obstetrics before specializing in maternal-fetal medicine. — 彼女は母体胎児医学を専門とする前に産科学の研修を受けた。",
+      "Recent advances in obstetrics have improved care for high-risk pregnancies. — 近年の産科学の進歩により、高リスク妊娠の管理は改善されている。"
+    ],
+    "en": [
+      "She specializes in obstetrics.",
+      "He works in the department of obstetrics and gynecology.",
+      "Obstetrics covers the medical management of pregnancy and childbirth.",
+      "She trained in obstetrics before specializing in maternal-fetal medicine.",
+      "Recent advances in obstetrics have improved care for high-risk pregnancies."
+    ]
+  }
+},
+{
+  "id": "fertility",
+  "sid": "2026-00284",
+  "word": "fertility",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "demography",
+    "biology"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/fɚˈtɪləti/",
+      "uk": "/fəˈtɪləti/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "生殖能力、妊孕性",
+      "動植物の繁殖能力",
+      "土地の肥沃度",
+      "人口学上の出生力、出生水準"
+    ],
+    "en": [
+      "the ability to produce children or offspring",
+      "the capacity of animals or plants to reproduce",
+      "the ability of soil or land to support abundant plant growth",
+      "the level of childbearing in a population"
+    ]
+  },
+  "nuance": {
+    "ja": "fertility は文脈によって意味が大きく変わる。医学では個人・カップルの『妊孕性・生殖能力』、農業では soil fertility『土壌肥沃度』、人口学では fertility rate『出生率・出生力指標』のように使う。人口学的 fertility は個人の生殖能力そのものではなく、実際の出生行動・出生水準を指す点に注意。",
+    "en": "Fertility has several important senses depending on context. In medicine it refers to reproductive capacity; in agriculture, soil fertility means the ability of soil to support plant growth; and in demography, fertility refers to actual childbearing patterns or birth levels in a population. Demographic fertility should not be confused with an individual's biological ability to reproduce."
+  },
+  "minimal": {
+    "ja": [
+      "fertility：生殖能力・繁殖力・肥沃度・人口学上の出生力。",
+      "infertility：妊娠成立が困難な状態、不妊。",
+      "fecundity：生物学的な繁殖能力。fertility より専門的。",
+      "fertilization：受精。",
+      "fertile：生殖能力のある、肥沃な。",
+      "birth rate：一定人口あたりの出生数を表す統計指標。"
+    ],
+    "en": [
+      "fertility refers to reproductive capacity, reproductive success, soil productivity, or population childbearing.",
+      "infertility is impaired or absent reproductive ability.",
+      "fecundity is a more technical term for biological reproductive capacity.",
+      "fertilization is the union of reproductive cells resulting in the beginning of development.",
+      "fertile means capable of reproduction or productive plant growth.",
+      "birth rate is a statistical measure of births relative to a population."
+    ]
+  },
+  "etymology": {
+    "ja": "fertile + -ity から成る。fertile はラテン語 fertilis『実り豊かな、豊作をもたらす』に由来し、ferre『運ぶ、生み出す』と関連する。もともとの中心イメージは『実を生み出す、生産力がある』こと。",
+    "en": "Formed from fertile plus -ity. Fertile comes from Latin fertilis, meaning 'fruitful or productive', related to ferre ('to bear or carry'). The underlying idea is the capacity to produce or bear fruit."
+  },
+  "synonyms": [
+    {
+      "word": "fecundity",
+      "note": {
+        "ja": "生物学的な繁殖能力を表すより専門的な語。人口学でも使われるが fertility と完全には同義ではない。",
+        "en": "A more technical term for biological reproductive capacity and not always identical to fertility in demographic usage."
+      }
+    },
+    {
+      "word": "productivity",
+      "note": {
+        "ja": "土地の生産力という意味では重なることがあるが、生殖能力には通常使わない。",
+        "en": "Can overlap when referring to productive land but is not normally used for reproductive ability."
+      }
+    },
+    {
+      "word": "fruitfulness",
+      "note": {
+        "ja": "実り豊かさ・多産性を表す一般的・比喩的な語。",
+        "en": "A broader and sometimes figurative term for producing abundant results or offspring."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Fruchtbarkeit / Fertilität",
+    "it": "fertilità",
+    "fr": "fertilité",
+    "es": "fertilidad"
+  },
+  "collocations": {
+    "ja": [
+      "fertility rate — 出生率・出生力指標",
+      "fertility treatment — 不妊治療・生殖補助治療",
+      "fertility clinic — 不妊治療・生殖医療クリニック",
+      "fertility test — 妊孕性検査",
+      "declining fertility — 出生力・妊孕性の低下",
+      "female fertility — 女性の妊孕性",
+      "male fertility — 男性の生殖能力",
+      "soil fertility — 土壌肥沃度",
+      "fertility preservation — 妊孕性温存"
+    ],
+    "en": [
+      "fertility rate",
+      "fertility treatment",
+      "fertility clinic",
+      "fertility test",
+      "declining fertility",
+      "female fertility",
+      "male fertility",
+      "soil fertility",
+      "fertility preservation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Age can affect fertility in both men and women. — 年齢は男女双方の生殖能力に影響しうる。",
+      "They visited a fertility clinic for further evaluation. — 彼らは詳しい検査のため生殖医療クリニックを受診した。",
+      "The country has experienced a sharp decline in fertility. — その国では出生力が大幅に低下している。",
+      "Farmers use organic matter to improve soil fertility. — 農家は土壌の肥沃度を高めるため有機物を利用する。",
+      "Fertility preservation may be considered before certain medical treatments. — 一部の治療を受ける前に妊孕性温存が検討されることがある。"
+    ],
+    "en": [
+      "Age can affect fertility in both men and women.",
+      "They visited a fertility clinic for further evaluation.",
+      "The country has experienced a sharp decline in fertility.",
+      "Farmers use organic matter to improve soil fertility.",
+      "Fertility preservation may be considered before certain medical treatments."
+    ]
+  }
+},
+{
+  "id": "sterility",
+  "sid": "2026-00285",
+  "word": "sterility",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "biology",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/stəˈrɪləti/",
+      "uk": "/stəˈrɪləti/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "生殖不能、不妊性",
+      "無菌状態、微生物が存在しない状態",
+      "土地などの不毛性",
+      "比喩的に、創造性・成果・内容に乏しいこと"
+    ],
+    "en": [
+      "the state of being unable to reproduce",
+      "the state of being free from living microorganisms",
+      "the condition of being barren or unproductive",
+      "a figurative lack of creativity, vitality, or productive results"
+    ]
+  },
+  "nuance": {
+    "ja": "sterility は sterile の名詞形で、生殖医学では『生殖能力がないこと』を表す。ただし現代の医学用語では infertility の方が一般的で、infertility が一定期間妊娠が成立しない状態を指しうるのに対し、sterility は生殖が不可能であるという、より絶対的な意味で使われることがある。また医療器具・実験環境などでは『無菌状態』を意味する。比喩的には intellectual sterility のように『不毛さ』も表す。",
+    "en": "Sterility is the noun corresponding to sterile. In reproductive contexts it can denote inability to reproduce, though infertility is generally the more common modern clinical term. Sterility may suggest a more absolute inability to reproduce, whereas infertility can refer to failure to achieve pregnancy under defined conditions. Sterility also means complete freedom from viable microorganisms and can figuratively describe barrenness or lack of creativity."
+  },
+  "minimal": {
+    "ja": [
+      "sterility：生殖不能、無菌状態、不毛性。",
+      "infertility：妊娠成立が困難な状態。現代の生殖医学ではこちらが一般的。",
+      "fertility：生殖能力、出生力、肥沃度。",
+      "sterile：生殖不能の、無菌の、不毛な。",
+      "sterilization：不妊化、滅菌。",
+      "barrenness：不毛・実りのなさ。比喩にも使われる。"
+    ],
+    "en": [
+      "sterility means inability to reproduce, absence of microorganisms, or barrenness.",
+      "infertility is the more usual clinical term for impaired ability to achieve pregnancy.",
+      "fertility is reproductive capacity, demographic childbearing, or productive capacity.",
+      "sterile means unable to reproduce, free from microorganisms, or barren.",
+      "sterilization is the process of making something sterile.",
+      "barrenness means lack of fertility or productivity and is also used figuratively."
+    ]
+  },
+  "etymology": {
+    "ja": "sterile + -ity から成る。sterile はラテン語 sterilis『実を結ばない、不毛な』に由来する。したがって原義は『実りを生み出さないこと』であり、そこから生殖不能、不毛、さらに微生物を繁殖させない『無菌』という意味へ発展した。",
+    "en": "Formed from sterile plus -ity. Sterile comes from Latin sterilis, meaning 'barren, unfruitful, or unproductive'. The core idea of producing no offspring or fruit later developed into reproductive, microbiological, and figurative senses."
+  },
+  "synonyms": [
+    {
+      "word": "infertility",
+      "note": {
+        "ja": "生殖医学では最も重要な近似語。sterility より一般的で、必ずしも完全な生殖不能を意味しない。",
+        "en": "The most important related clinical term; it is more common than sterility and does not necessarily imply absolute inability to reproduce."
+      }
+    },
+    {
+      "word": "barrenness",
+      "note": {
+        "ja": "土地・生殖・思想などの『不毛さ』。sterility より文学的・比喩的にも使いやすい。",
+        "en": "Lack of fertility or productivity, often used of land and in figurative contexts."
+      }
+    },
+    {
+      "word": "asepsis",
+      "note": {
+        "ja": "微生物による汚染を防いだ状態・無菌操作の概念。sterility と関連するが同義ではない。",
+        "en": "The condition or practice of preventing microbial contamination; related to but not identical with sterility."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Sterilität / Unfruchtbarkeit",
+    "it": "sterilità",
+    "fr": "stérilité",
+    "es": "esterilidad"
+  },
+  "collocations": {
+    "ja": [
+      "male sterility — 男性の生殖不能",
+      "female sterility — 女性の生殖不能",
+      "complete sterility — 完全な生殖不能・完全な無菌状態",
+      "ensure sterility — 無菌状態を確保する",
+      "maintain sterility — 無菌状態を維持する",
+      "test for sterility — 無菌試験を行う",
+      "sterility testing — 無菌試験",
+      "intellectual sterility — 知的不毛",
+      "cultural sterility — 文化的不毛"
+    ],
+    "en": [
+      "male sterility",
+      "female sterility",
+      "complete sterility",
+      "ensure sterility",
+      "maintain sterility",
+      "test for sterility",
+      "sterility testing",
+      "intellectual sterility",
+      "cultural sterility"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The treatment may cause permanent sterility. — その治療は永久的な生殖不能を引き起こす可能性がある。",
+      "The sterility of surgical instruments must be maintained. — 手術器具の無菌状態を維持しなければならない。",
+      "The laboratory conducts sterility testing on pharmaceutical products. — その研究所では医薬品の無菌試験を行っている。",
+      "The harsh conditions contributed to the sterility of the soil. — 厳しい環境条件が土壌の不毛化につながった。",
+      "Critics complained about the intellectual sterility of the debate. — 批評家たちはその議論の知的不毛さを批判した。"
+    ],
+    "en": [
+      "The treatment may cause permanent sterility.",
+      "The sterility of surgical instruments must be maintained.",
+      "The laboratory conducts sterility testing on pharmaceutical products.",
+      "The harsh conditions contributed to the sterility of the soil.",
+      "Critics complained about the intellectual sterility of the debate."
+    ]
+  }
+},
+{
+  "id": "infertility",
+  "sid": "2026-00286",
+  "word": "infertility",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "fertility",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɪnfɚˈtɪləti/",
+      "uk": "/ˌɪnfəˈtɪləti/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "不妊、不妊症",
+      "妊娠・生殖が成立しにくい状態",
+      "生殖能力の低下"
+    ],
+    "en": [
+      "a condition in which reproduction or conception is difficult or does not occur",
+      "impaired ability to achieve pregnancy",
+      "reduced reproductive capacity"
+    ]
+  },
+  "nuance": {
+    "ja": "infertility は生殖能力が低下している、または一定期間妊娠が成立しない状態を表す医学用語。完全な生殖不能を必ずしも意味しない。sterility は伝統的には『生殖が不可能な状態』というより絶対的な意味で使われることがある。fertility の反対概念として日常的にも使われるが、医学では一定の診断基準に基づく専門用語でもある。",
+    "en": "Infertility is a medical term for impaired reproductive capacity or failure to achieve pregnancy under defined conditions. It does not necessarily mean that conception is impossible. Sterility can carry the stronger or more absolute sense of complete inability to reproduce."
+  },
+  "minimal": {
+    "ja": [
+      "infertility：妊娠・生殖が成立しにくい状態。不妊。",
+      "sterility：生殖不能。より絶対的な意味になりやすい。",
+      "fertility：生殖能力、妊孕性。",
+      "subfertility：生殖能力が通常より低い状態。",
+      "fertilization：受精。",
+      "infertile：不妊の、生殖能力の低い。"
+    ],
+    "en": [
+      "infertility is impaired ability to achieve pregnancy or reproduce.",
+      "sterility more strongly suggests complete inability to reproduce.",
+      "fertility is reproductive capacity.",
+      "subfertility means reduced, rather than absent, reproductive capacity.",
+      "fertilization is the union of reproductive cells leading to development.",
+      "infertile means having impaired reproductive capacity."
+    ]
+  },
+  "etymology": {
+    "ja": "in-『〜でない』＋ fertility『生殖能力、豊饒』から成る。fertility はラテン語 fertilis『実り豊かな、生産力のある』に由来し、さらに ferre『運ぶ、生む、実らせる』と関係する。したがって infertility は文字どおり『実を生み出す能力がない・乏しいこと』。",
+    "en": "Formed from in- ('not') plus fertility. Fertility derives from Latin fertilis, meaning 'fruitful or productive', related to ferre ('to bear or carry'). The underlying sense of infertility is therefore lack or impairment of fruitfulness or reproductive capacity."
+  },
+  "synonyms": [
+    {
+      "word": "sterility",
+      "note": {
+        "ja": "より完全・絶対的な生殖不能を示唆しやすい。さらに『無菌状態』という別義もある。",
+        "en": "More readily suggests complete inability to reproduce and also has the separate meaning of freedom from microorganisms."
+      }
+    },
+    {
+      "word": "subfertility",
+      "note": {
+        "ja": "生殖能力が完全に失われているのではなく、通常より低下していることを明示する語。",
+        "en": "Specifically emphasizes reduced rather than absent reproductive capacity."
+      }
+    },
+    {
+      "word": "barrenness",
+      "note": {
+        "ja": "不妊・不毛を表す古風または比喩的な語。現代の医学用語としては infertility が適切。",
+        "en": "An older or figurative term for inability to produce offspring or fruit; infertility is preferred in modern medical contexts."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Unfruchtbarkeit / Infertilität",
+    "it": "infertilità",
+    "fr": "infertilité",
+    "es": "infertilidad"
+  },
+  "collocations": {
+    "ja": [
+      "male infertility — 男性不妊",
+      "female infertility — 女性不妊",
+      "infertility treatment — 不妊治療",
+      "infertility clinic — 不妊治療・生殖医療クリニック",
+      "infertility evaluation — 不妊検査・評価",
+      "cause of infertility — 不妊の原因",
+      "treat infertility — 不妊を治療する",
+      "struggle with infertility — 不妊に悩む",
+      "infertility diagnosis — 不妊症の診断"
+    ],
+    "en": [
+      "male infertility",
+      "female infertility",
+      "infertility treatment",
+      "infertility clinic",
+      "infertility evaluation",
+      "cause of infertility",
+      "treat infertility",
+      "struggle with infertility",
+      "infertility diagnosis"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The clinic specializes in the diagnosis and treatment of infertility. — そのクリニックは不妊の診断と治療を専門としている。",
+      "Infertility can have many different causes. — 不妊にはさまざまな原因がありうる。",
+      "Both partners may undergo tests during an infertility evaluation. — 不妊検査では双方が検査を受けることがある。",
+      "Male infertility accounts for a substantial proportion of infertility cases. — 男性不妊は不妊症例の相当な割合を占める。",
+      "Some forms of infertility can be treated successfully. — 不妊の中には治療が奏功するものもある。"
+    ],
+    "en": [
+      "The clinic specializes in the diagnosis and treatment of infertility.",
+      "Infertility can have many different causes.",
+      "Both partners may undergo tests during an infertility evaluation.",
+      "Male infertility accounts for a substantial proportion of infertility cases.",
+      "Some forms of infertility can be treated successfully."
+    ]
+  }
+},
+{
+  "id": "fertilization",
+  "sid": "2026-00287",
+  "word": "fertilization",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "biology",
+    "agriculture"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌfɝːtələˈzeɪʃən/",
+      "uk": "/ˌfɜːtəlaɪˈzeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "受精：雄性・雌性の生殖細胞が融合すること",
+      "施肥：土壌や植物に肥料を与えること"
+    ],
+    "en": [
+      "the process in which male and female reproductive cells unite",
+      "the process of applying fertilizer to soil or plants to improve growth"
+    ]
+  },
+  "nuance": {
+    "ja": "生殖・発生学では sperm と egg が融合して新しい個体の発生につながる『受精』を表す。fertility が『生殖能力・妊孕性』という能力や状態を表すのに対し、fertilization は具体的な生物学的過程を指す。また農業では『施肥』の意味でも使われる。in vitro fertilization (IVF) は『体外受精』を意味する非常に重要な表現。",
+    "en": "In reproductive biology, fertilization is the process by which male and female reproductive cells unite, initiating the development of a new organism. Unlike fertility, which refers to reproductive capacity, fertilization refers to a specific biological process. In agriculture, it also means the application of fertilizer. In vitro fertilization (IVF) is a particularly important medical term."
+  },
+  "minimal": {
+    "ja": [
+      "fertilization：受精。または施肥。",
+      "fertility：生殖能力・妊孕性・肥沃度。",
+      "conception：妊娠成立。日常語では受精に近く使われることもあるが、概念上は区別に注意。",
+      "implantation：受精卵・胚が子宮内膜に着床すること。",
+      "ovulation：排卵。",
+      "insemination：精子を生殖器内に導入すること、授精。"
+    ],
+    "en": [
+      "fertilization is the union of reproductive cells; it can also mean applying fertilizer.",
+      "fertility is reproductive capacity or productive capacity.",
+      "conception refers to the beginning of pregnancy and is sometimes used loosely for fertilization.",
+      "implantation is the attachment of an embryo to the uterine lining.",
+      "ovulation is the release of an egg from an ovary.",
+      "insemination is the introduction of semen or sperm into the reproductive tract."
+    ]
+  },
+  "etymology": {
+    "ja": "fertilize + -ation から成る。fertilize は fertile『実り豊かな、生殖能力のある』から派生し、fertile はラテン語 fertilis『実り豊かな』に由来する。さらに ferre『運ぶ、生む、実らせる』と関連する。したがって原義の中心には『実りを生じさせる』という発想がある。",
+    "en": "Formed from fertilize plus -ation. Fertilize derives from fertile, from Latin fertilis ('fruitful, productive'), related to ferre ('to bear, carry'). The underlying idea is that of causing something to become fruitful or productive."
+  },
+  "synonyms": [
+    {
+      "word": "conception",
+      "note": {
+        "ja": "妊娠の開始を表す語。一般語では fertilization に近く使われることもあるが、厳密には文脈によって定義が異なる。",
+        "en": "Refers to the beginning of pregnancy and is sometimes used loosely as equivalent to fertilization, though definitions vary by context."
+      }
+    },
+    {
+      "word": "insemination",
+      "note": {
+        "ja": "精子を生殖器内に導入すること。受精そのものではなく、受精に先行する過程。",
+        "en": "The introduction of semen or sperm into the reproductive tract; it precedes and does not itself mean fertilization."
+      }
+    },
+    {
+      "word": "fertilizing",
+      "note": {
+        "ja": "特に農業で『肥料を与えること』を表す一般的な表現。",
+        "en": "A general expression, especially for applying fertilizer in agriculture."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Befruchtung / Düngung",
+    "it": "fecondazione / fertilizzazione",
+    "fr": "fécondation / fertilisation",
+    "es": "fecundación / fertilización"
+  },
+  "collocations": {
+    "ja": [
+      "in vitro fertilization (IVF) — 体外受精",
+      "successful fertilization — 受精の成立",
+      "fertilization process — 受精過程",
+      "fertilization of an egg — 卵子の受精",
+      "prevent fertilization — 受精を防ぐ",
+      "after fertilization — 受精後",
+      "external fertilization — 体外受精（生物学：体外での配偶子融合）",
+      "internal fertilization — 体内受精",
+      "soil fertilization — 土壌への施肥"
+    ],
+    "en": [
+      "in vitro fertilization (IVF)",
+      "successful fertilization",
+      "fertilization process",
+      "fertilization of an egg",
+      "prevent fertilization",
+      "after fertilization",
+      "external fertilization",
+      "internal fertilization",
+      "soil fertilization"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Fertilization occurs when a sperm cell unites with an egg cell. — 受精は精子と卵子が融合するときに起こる。",
+      "The embryo begins to develop after fertilization. — 胚は受精後に発生を始める。",
+      "They decided to try in vitro fertilization. — 彼らは体外受精を試みることにした。",
+      "In many fish species, fertilization occurs outside the body. — 多くの魚類では体外で受精が起こる。",
+      "Proper fertilization can improve crop yields. — 適切な施肥は作物の収量を改善しうる。"
+    ],
+    "en": [
+      "Fertilization occurs when a sperm cell unites with an egg cell.",
+      "The embryo begins to develop after fertilization.",
+      "They decided to try in vitro fertilization.",
+      "In many fish species, fertilization occurs outside the body.",
+      "Proper fertilization can improve crop yields."
+    ]
+  }
+},
+{
+  "id": "implantation",
+  "sid": "2026-00288",
+  "word": "implantation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "biology",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɪmplænˈteɪʃən/",
+      "uk": "/ˌɪmplɑːnˈteɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "着床：胚が子宮内膜に付着し、組織内に入り込む過程",
+      "医療機器・人工物などの体内への埋め込み、植え込み",
+      "組織などの移植・植え付け"
+    ],
+    "en": [
+      "the process by which an embryo attaches to and becomes embedded in the lining of the uterus",
+      "the surgical placement of a device or material inside the body",
+      "the insertion or establishment of tissue or other material in a new location"
+    ]
+  },
+  "nuance": {
+    "ja": "生殖医学で implantation といえば通常『着床』を指す。fertilization『受精』の後に胚が発生・移動し、子宮内膜に付着して組織内へ入り込む段階である。fertilization と implantation は別の過程なので区別が重要。一方、cardiac device implantation などでは医療機器の『植え込み』を意味する。",
+    "en": "In reproductive medicine, implantation normally refers to the attachment and embedding of an embryo in the uterine lining. It occurs after fertilization and is a distinct biological process. In other medical contexts, implantation refers to the placement of a device, material, or tissue within the body."
+  },
+  "minimal": {
+    "ja": [
+      "implantation：胚の着床。または医療機器などの植え込み。",
+      "fertilization：精子と卵子の融合、受精。",
+      "conception：妊娠成立を表す語。定義は文脈によって注意が必要。",
+      "ovulation：卵巣から卵子が放出されること、排卵。",
+      "insemination：精子を女性生殖器内に導入すること、授精。",
+      "implant：植え込む、埋め込む／インプラント。"
+    ],
+    "en": [
+      "implantation is the embedding of an embryo in the uterine lining or the placement of a device in the body.",
+      "fertilization is the union of sperm and egg.",
+      "conception refers to the beginning of pregnancy, with definitions varying by context.",
+      "ovulation is the release of an egg from an ovary.",
+      "insemination is the introduction of sperm into the reproductive tract.",
+      "implant means to place something within tissue or the body and can also refer to the inserted device itself."
+    ]
+  },
+  "etymology": {
+    "ja": "implant + -ation から成る。implant はラテン語系の im-『中へ』＋ plantare『植える』に由来する。plantare は planta『植物、若木』と関係する。したがって implantation の基本イメージは文字どおり『中に植え付けること』であり、そこから胚の『着床』や医療機器の『植え込み』という意味が生じた。",
+    "en": "Formed from implant plus -ation. Implant ultimately combines Latin-derived im- ('into') with plantare ('to plant'). Its basic image is therefore that of planting or placing something into something else, giving rise to both the reproductive and medical-device senses."
+  },
+  "synonyms": [
+    {
+      "word": "embedding",
+      "note": {
+        "ja": "組織などに入り込み定着すること。着床の説明にも使えるが、専門用語としては implantation。",
+        "en": "The process of becoming firmly lodged in surrounding material or tissue; implantation is the standard reproductive term."
+      }
+    },
+    {
+      "word": "insertion",
+      "note": {
+        "ja": "物を中へ入れること一般。医療機器では近い場合があるが、implantation は長期的に体内へ植え込む意味が強い。",
+        "en": "The general act of putting something into something else; implantation more strongly suggests placement intended to remain in the body."
+      }
+    },
+    {
+      "word": "transplantation",
+      "note": {
+        "ja": "臓器・組織などを別の場所・個体へ移植すること。implantation とは対象と過程が異なる。",
+        "en": "The transfer of an organ or tissue to another location or recipient and is distinct from implantation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Einnistung / Implantation",
+    "it": "impianto / annidamento",
+    "fr": "implantation / nidation",
+    "es": "implantación / anidación"
+  },
+  "collocations": {
+    "ja": [
+      "embryo implantation — 胚の着床",
+      "successful implantation — 着床の成立",
+      "implantation process — 着床過程",
+      "implantation failure — 着床不全",
+      "implantation site — 着床部位",
+      "after implantation — 着床後",
+      "before implantation — 着床前",
+      "device implantation — 医療機器の植え込み",
+      "pacemaker implantation — ペースメーカー植え込み"
+    ],
+    "en": [
+      "embryo implantation",
+      "successful implantation",
+      "implantation process",
+      "implantation failure",
+      "implantation site",
+      "after implantation",
+      "before implantation",
+      "device implantation",
+      "pacemaker implantation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Implantation occurs after fertilization. — 着床は受精の後に起こる。",
+      "The embryo must reach the uterus before implantation can occur. — 着床が起こるには、その前に胚が子宮へ到達しなければならない。",
+      "Successful implantation is an important step in establishing pregnancy. — 着床の成立は妊娠成立における重要な段階である。",
+      "Several factors can affect embryo implantation. — さまざまな要因が胚の着床に影響しうる。",
+      "The patient underwent pacemaker implantation. — その患者はペースメーカー植え込み術を受けた。"
+    ],
+    "en": [
+      "Implantation occurs after fertilization.",
+      "The embryo must reach the uterus before implantation can occur.",
+      "Successful implantation is an important step in establishing pregnancy.",
+      "Several factors can affect embryo implantation.",
+      "The patient underwent pacemaker implantation."
+    ]
+  }
+},
+{
+  "id": "ovulation",
+  "sid": "2026-00289",
+  "word": "ovulation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "biology",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɑːvjəˈleɪʃən/",
+      "uk": "/ˌɒvjəˈleɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "排卵",
+      "成熟した卵子が卵巣から放出される過程"
+    ],
+    "en": [
+      "the release of an egg from an ovary",
+      "the process in which a mature egg is released from an ovary during the reproductive cycle"
+    ]
+  },
+  "nuance": {
+    "ja": "ovulation は生殖周期において卵巣から卵子が放出される過程を指す。fertilization『受精』とは別の段階であり、通常は排卵された卵子と精子が出会うことで受精が起こりうる。形容詞 ovulatory『排卵の』、動詞 ovulate『排卵する』も重要。",
+    "en": "Ovulation is the process by which an egg is released from an ovary during the reproductive cycle. It is distinct from fertilization: ovulation makes an egg available, while fertilization involves the union of an egg and sperm. Related forms include ovulate and ovulatory."
+  },
+  "minimal": {
+    "ja": [
+      "ovulation：卵巣から卵子が放出されること、排卵。",
+      "fertilization：卵子と精子が融合すること、受精。",
+      "implantation：胚が子宮内膜に着床すること。",
+      "menstruation：月経。",
+      "ovulate：排卵する。",
+      "ovum：卵子。複数形 ova。"
+    ],
+    "en": [
+      "ovulation is the release of an egg from an ovary.",
+      "fertilization is the union of an egg and sperm.",
+      "implantation is the embedding of an embryo in the uterine lining.",
+      "menstruation is the periodic shedding of the uterine lining.",
+      "ovulate means to release an egg from an ovary.",
+      "ovum means an egg cell; its plural is ova."
+    ]
+  },
+  "etymology": {
+    "ja": "ovulate + -ion から成り、語幹 ovul- はラテン語 ovulum『小さな卵』に由来する。ovulum は ovum『卵』の指小形。したがって ovulation は語源的には『卵を放出すること』という非常に直接的な構造を持つ。ovum, oval, ovary なども同じ『卵』に関係する語族。",
+    "en": "Formed from ovulate plus -ion. The stem ovul- derives from Latin ovulum, 'a small egg', a diminutive of ovum, 'egg'. The word therefore has the basic sense of releasing an egg. Ovum, ovary, and related words belong to the same etymological family."
+  },
+  "synonyms": [
+    {
+      "word": "egg release",
+      "note": {
+        "ja": "排卵を平易に説明する表現。医学・生物学用語としては ovulation が標準。",
+        "en": "A plain-language description; ovulation is the standard biological and medical term."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Eisprung / Ovulation",
+    "it": "ovulazione",
+    "fr": "ovulation",
+    "es": "ovulación"
+  },
+  "collocations": {
+    "ja": [
+      "during ovulation — 排卵時に",
+      "before ovulation — 排卵前に",
+      "after ovulation — 排卵後に",
+      "trigger ovulation — 排卵を誘発する",
+      "induce ovulation — 排卵を誘発する",
+      "prevent ovulation — 排卵を抑制する",
+      "ovulation cycle — 排卵周期",
+      "ovulation test — 排卵検査",
+      "ovulation induction — 排卵誘発"
+    ],
+    "en": [
+      "during ovulation",
+      "before ovulation",
+      "after ovulation",
+      "trigger ovulation",
+      "induce ovulation",
+      "prevent ovulation",
+      "ovulation cycle",
+      "ovulation test",
+      "ovulation induction"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Ovulation usually occurs once during a menstrual cycle. — 排卵は通常、一回の月経周期につき一度起こる。",
+      "The test can help predict ovulation. — その検査は排卵時期の予測に役立つ。",
+      "Certain medications can be used to induce ovulation. — 一部の薬剤は排卵を誘発するために使用される。",
+      "Hormonal changes trigger ovulation. — ホルモンの変化が排卵を引き起こす。",
+      "Fertilization may occur after ovulation if an egg encounters sperm. — 排卵後、卵子が精子と出会えば受精が起こる可能性がある。"
+    ],
+    "en": [
+      "Ovulation usually occurs once during a menstrual cycle.",
+      "The test can help predict ovulation.",
+      "Certain medications can be used to induce ovulation.",
+      "Hormonal changes trigger ovulation.",
+      "Fertilization may occur after ovulation if an egg encounters sperm."
+    ]
+  }
+},
+{
+  "id": "ovum",
+  "sid": "2026-00290",
+  "word": "ovum",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "biology",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "ova"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈoʊvəm/",
+      "uk": "/ˈəʊvəm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "卵子、卵細胞",
+      "雌性の生殖細胞",
+      "広く、生物の卵"
+    ],
+    "en": [
+      "a female reproductive cell",
+      "an egg cell capable of participating in fertilization",
+      "an egg, especially in biological or medical terminology"
+    ]
+  },
+  "nuance": {
+    "ja": "ovum は生物学・医学で用いられる専門的な語で、日常語の egg より厳密。人間の生殖について一般向けに説明する場合は egg や egg cell が普通だが、学術的な文脈では ovum が使われる。複数形はラテン語式の ova。厳密な発生学・生殖医学では、成熟段階によって oocyte『卵母細胞』と ovum を区別する。",
+    "en": "Ovum is a formal biological and medical term for a female reproductive cell and is more technical than the everyday word egg. Its traditional Latin plural is ova. In precise reproductive biology, oocyte and ovum may be distinguished according to the developmental stage of the female germ cell."
+  },
+  "minimal": {
+    "ja": [
+      "ovum：卵子・卵細胞。複数形 ova。",
+      "egg：卵・卵子を表す一般語。",
+      "oocyte：卵母細胞。発生段階を厳密に表す専門語。",
+      "sperm：精子。",
+      "ovulation：卵巣から卵子が放出されること、排卵。",
+      "fertilization：雄性・雌性の生殖細胞が融合すること、受精。"
+    ],
+    "en": [
+      "ovum is a technical term for a female reproductive cell; the plural is ova.",
+      "egg is the ordinary general term.",
+      "oocyte is a technical term for an immature or developing female germ cell.",
+      "sperm is the male reproductive cell.",
+      "ovulation is the release of an egg from an ovary.",
+      "fertilization is the union of male and female reproductive cells."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 ovum『卵』をそのまま借用した語。印欧祖語 *h₂ōwyóm『卵』に遡り、英語 egg とは直接の借用関係はないものの、さらに古い印欧語レベルでは同根とされる。ovary, oval, ovulate, ovulation などの語源的基礎となる重要な語。",
+    "en": "Borrowed directly from Latin ovum, meaning 'egg', ultimately from Proto-Indo-European *h₂ōwyóm. English egg is not derived from Latin ovum, but the two are ultimately cognate at the Indo-European level. Ovum is the etymological basis of words such as ovary, oval, ovulate, and ovulation."
+  },
+  "synonyms": [
+    {
+      "word": "egg",
+      "note": {
+        "ja": "最も一般的な語。人間の卵子についても日常的・一般向けの説明ではよく使う。",
+        "en": "The ordinary word and commonly used for human reproductive cells in nontechnical contexts."
+      }
+    },
+    {
+      "word": "egg cell",
+      "note": {
+        "ja": "卵細胞。ovum より平易でありながら生物学的意味が明確。",
+        "en": "A plain and biologically clear alternative to the more technical ovum."
+      }
+    },
+    {
+      "word": "oocyte",
+      "note": {
+        "ja": "卵母細胞。厳密には ovum と発生段階が異なるため完全な同義語ではない。",
+        "en": "A female germ cell at a particular developmental stage and therefore not strictly synonymous with ovum."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Eizelle / Ovum",
+    "it": "ovulo",
+    "fr": "ovule",
+    "es": "óvulo"
+  },
+  "collocations": {
+    "ja": [
+      "human ovum — ヒトの卵子",
+      "mature ovum — 成熟卵",
+      "fertilized ovum — 受精卵",
+      "unfertilized ovum — 未受精卵",
+      "release an ovum — 卵子を放出する",
+      "fertilization of an ovum — 卵子の受精",
+      "ovum development — 卵子の発生・成熟",
+      "ova and sperm — 卵子と精子"
+    ],
+    "en": [
+      "human ovum",
+      "mature ovum",
+      "fertilized ovum",
+      "unfertilized ovum",
+      "release an ovum",
+      "fertilization of an ovum",
+      "ovum development",
+      "ova and sperm"
+    ]
+  },
+  "example": {
+    "ja": [
+      "An ovum is a female reproductive cell. — 卵子は雌性の生殖細胞である。",
+      "During ovulation, an egg is released from an ovary. — 排卵時には卵巣から卵子が放出される。",
+      "Fertilization involves the union of male and female reproductive cells. — 受精では雄性と雌性の生殖細胞が融合する。",
+      "The plural of ovum is ova. — ovum の複数形は ova である。",
+      "Human ova are much larger than sperm cells. — ヒトの卵子は精子よりはるかに大きい。"
+    ],
+    "en": [
+      "An ovum is a female reproductive cell.",
+      "During ovulation, an egg is released from an ovary.",
+      "Fertilization involves the union of male and female reproductive cells.",
+      "The plural of ovum is ova.",
+      "Human ova are much larger than sperm cells."
+    ]
+  }
+},
+{
+  "id": "ovary",
+  "sid": "2026-00291",
+  "word": "ovary",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "biology",
+    "botany"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "ovaries"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈoʊvəri/",
+      "uk": "/ˈəʊvəri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "卵巣：卵細胞を形成・放出し、性ホルモンを分泌する生殖器官",
+      "子房：花の雌しべの一部で、胚珠を含み、受精後に果実へ発達する部分"
+    ],
+    "en": [
+      "one of the female reproductive organs in which eggs develop and from which they are released",
+      "the part of a flower that contains the ovules and typically develops into a fruit after fertilization"
+    ]
+  },
+  "nuance": {
+    "ja": "医学・動物学では ovary は『卵巣』を指し、卵細胞の発達・排卵やホルモン分泌に関与する。複数形は ovaries。植物学では『子房』を意味し、雌しべの一部として ovule『胚珠』を内部に含む。この植物学的意味もかなり重要である。",
+    "en": "In medicine and zoology, an ovary is a reproductive organ involved in the development and release of eggs and in hormone production. The plural is ovaries. In botany, the ovary is the part of the flower containing the ovules and usually develops into the fruit after fertilization."
+  },
+  "minimal": {
+    "ja": [
+      "ovary：卵巣。植物では子房。",
+      "ovum：卵子・卵細胞。複数形 ova。",
+      "ovulation：卵巣から卵子が放出されること、排卵。",
+      "ovule：植物の胚珠。",
+      "uterus：子宮。",
+      "fallopian tube：卵管。"
+    ],
+    "en": [
+      "ovary is an organ that produces and releases eggs; in botany it is the part of a flower containing ovules.",
+      "ovum is a female reproductive cell; the plural is ova.",
+      "ovulation is the release of an egg from an ovary.",
+      "an ovule is the structure in a seed plant that develops into a seed after fertilization.",
+      "the uterus is the organ in which an embryo can implant and develop.",
+      "a fallopian tube connects the region near an ovary with the uterus."
+    ]
+  },
+  "etymology": {
+    "ja": "新ラテン語 ovarium に由来し、ラテン語 ovum『卵』を語源とする。文字どおり『卵に関わる器官』という発想の語。同じ ov- 系には ovum『卵』、ovulate『排卵する』、ovulation『排卵』、oval『卵形の』などがある。",
+    "en": "From New Latin ovarium, ultimately based on Latin ovum, meaning 'egg'. The word thus literally refers to an organ associated with eggs. Related words include ovum, ovulate, ovulation, and oval."
+  },
+  "synonyms": [
+    {
+      "word": "female gonad",
+      "note": {
+        "ja": "『雌性生殖腺』という専門的・機能的な呼称。ovary より抽象的。",
+        "en": "A technical functional term for the female reproductive gland; more abstract than ovary."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Eierstock / Ovar",
+    "it": "ovaio",
+    "fr": "ovaire",
+    "es": "ovario"
+  },
+  "collocations": {
+    "ja": [
+      "left ovary — 左卵巣",
+      "right ovary — 右卵巣",
+      "ovarian function — 卵巣機能",
+      "ovarian cyst — 卵巣嚢胞",
+      "ovarian cancer — 卵巣がん",
+      "ovarian follicle — 卵胞",
+      "release an egg from the ovary — 卵巣から卵子を放出する",
+      "ovary of a flower — 花の子房"
+    ],
+    "en": [
+      "left ovary",
+      "right ovary",
+      "ovarian function",
+      "ovarian cyst",
+      "ovarian cancer",
+      "ovarian follicle",
+      "release an egg from the ovary",
+      "ovary of a flower"
+    ]
+  },
+  "example": {
+    "ja": [
+      "An egg is released from an ovary during ovulation. — 排卵時には卵巣から卵子が放出される。",
+      "The ovaries produce reproductive hormones. — 卵巣は生殖に関わるホルモンを産生する。",
+      "The scan revealed a cyst on the left ovary. — 検査画像で左卵巣に嚢胞が見つかった。",
+      "Each ovary contains many follicles. — 各卵巣には多数の卵胞が存在する。",
+      "In flowering plants, the ovary typically develops into the fruit after fertilization. — 被子植物では、子房は通常、受精後に果実へと発達する。"
+    ],
+    "en": [
+      "An egg is released from an ovary during ovulation.",
+      "The ovaries produce reproductive hormones.",
+      "The scan revealed a cyst on the left ovary.",
+      "Each ovary contains many follicles.",
+      "In flowering plants, the ovary typically develops into the fruit after fertilization."
+    ]
+  }
+},
+{
+  "id": "ovarian",
+  "sid": "2026-00292",
+  "word": "ovarian",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "biology",
+    "anatomy"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/oʊˈveriən/",
+      "uk": "/əʊˈveəriən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "卵巣の",
+      "卵巣に関する",
+      "卵巣で生じる・卵巣に由来する"
+    ],
+    "en": [
+      "relating to an ovary or the ovaries",
+      "occurring in, affecting, or originating from an ovary"
+    ]
+  },
+  "nuance": {
+    "ja": "ovarian は ovary『卵巣』に対応する医学・生物学上の形容詞。単独で使うより、ovarian cancer『卵巣がん』、ovarian cyst『卵巣嚢胞』、ovarian function『卵巣機能』など名詞を修飾する形で非常によく現れる。ovary → ovarian という名詞・形容詞の対応をそのまま覚えるとよい。",
+    "en": "Ovarian is the standard medical and biological adjective corresponding to ovary. It most commonly occurs before nouns in expressions such as ovarian cancer, ovarian cyst, ovarian function, and ovarian follicle."
+  },
+  "minimal": {
+    "ja": [
+      "ovarian：卵巣の、卵巣に関する。",
+      "ovary：卵巣。植物学では子房。",
+      "ovarian cancer：卵巣がん。",
+      "ovarian cyst：卵巣嚢胞。",
+      "ovarian follicle：卵胞。",
+      "ovulation：排卵。"
+    ],
+    "en": [
+      "ovarian means relating to an ovary or the ovaries.",
+      "ovary is the corresponding noun.",
+      "ovarian cancer is cancer involving the ovary.",
+      "an ovarian cyst is a cyst in or on an ovary.",
+      "an ovarian follicle is a structure in the ovary containing a developing oocyte.",
+      "ovulation is the release of an egg from an ovary."
+    ]
+  },
+  "etymology": {
+    "ja": "ovary + -an から成る形容詞。ovary は新ラテン語 ovarium に由来し、さらにラテン語 ovum『卵』に遡る。したがって ovum, ovary, ovarian, ovulate, ovulation はすべて同じ『卵』を表す語根につながる。",
+    "en": "Formed from ovary with the adjectival suffix -an. Ovary comes from New Latin ovarium, ultimately based on Latin ovum, meaning 'egg'. Ovum, ovary, ovarian, ovulate, and ovulation therefore belong to the same etymological family."
+  },
+  "synonyms": [
+    {
+      "word": "ovarial",
+      "note": {
+        "ja": "同じく『卵巣の』を意味しうるが、現代英語では ovarian が圧倒的に標準的。",
+        "en": "A rare alternative meaning 'relating to an ovary'; ovarian is overwhelmingly the standard modern form."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ovariell / Eierstock-",
+    "it": "ovarico",
+    "fr": "ovarien",
+    "es": "ovárico"
+  },
+  "collocations": {
+    "ja": [
+      "ovarian cancer — 卵巣がん",
+      "ovarian cyst — 卵巣嚢胞",
+      "ovarian function — 卵巣機能",
+      "ovarian follicle — 卵胞",
+      "ovarian tissue — 卵巣組織",
+      "ovarian reserve — 卵巣予備能",
+      "ovarian hormones — 卵巣ホルモン",
+      "ovarian failure — 卵巣機能不全",
+      "ovarian stimulation — 卵巣刺激"
+    ],
+    "en": [
+      "ovarian cancer",
+      "ovarian cyst",
+      "ovarian function",
+      "ovarian follicle",
+      "ovarian tissue",
+      "ovarian reserve",
+      "ovarian hormones",
+      "ovarian failure",
+      "ovarian stimulation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The scan revealed an ovarian cyst. — 検査画像で卵巣嚢胞が見つかった。",
+      "The treatment can affect ovarian function. — その治療は卵巣機能に影響することがある。",
+      "Several ovarian follicles develop during the cycle. — 周期中には複数の卵胞が発育する。",
+      "The researchers examined ovarian tissue under a microscope. — 研究者らは卵巣組織を顕微鏡で調べた。",
+      "Ovarian reserve generally declines with age. — 卵巣予備能は一般に年齢とともに低下する。"
+    ],
+    "en": [
+      "The scan revealed an ovarian cyst.",
+      "The treatment can affect ovarian function.",
+      "Several ovarian follicles develop during the cycle.",
+      "The researchers examined ovarian tissue under a microscope.",
+      "Ovarian reserve generally declines with age."
+    ]
+  }
+},
+{
+  "id": "pathology",
+  "sid": "2026-00293",
+  "word": "pathology",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "disease",
+    "science",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pəˈθɑːlədʒi/",
+      "uk": "/pəˈθɒlədʒi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "病理学：病気の原因・発生機序・組織や細胞の変化などを研究する医学分野",
+      "病理、病的状態、病変",
+      "比喩的に、社会・組織・制度などに見られる病的な異常や機能不全"
+    ],
+    "en": [
+      "the branch of medicine concerned with the causes, development, and effects of disease",
+      "the structural or functional abnormalities associated with a disease",
+      "a harmful or abnormal condition or pattern, sometimes used figuratively of societies or institutions"
+    ]
+  },
+  "nuance": {
+    "ja": "pathology は第一に『病理学』という医学分野を指す。病気によって細胞・組織・臓器に生じる変化を調べ、診断にも重要な役割を果たす。一方で the pathology of the disease のように『病気の病理・病態』そのものを指すこともある。また social pathology『社会病理』のように、社会などの異常・機能不全を比喩的に表す用法もある。専門医・病理医は pathologist。",
+    "en": "Pathology primarily refers to the medical study of disease, particularly the structural and functional changes caused by disease. It can also refer to the abnormalities or disease processes themselves, as in 'the pathology of the disease'. Figuratively, it can describe harmful or dysfunctional patterns in societies or institutions. A specialist is a pathologist."
+  },
+  "minimal": {
+    "ja": [
+      "pathology：病理学。または病理・病的状態。",
+      "pathologist：病理医、病理学者。",
+      "pathological：病理学的な、病的な。",
+      "pathogenesis：病気が発生・進行する仕組み、病因論的過程。",
+      "etiology：病気の原因・病因。",
+      "histology：組織の構造を研究する組織学。"
+    ],
+    "en": [
+      "pathology is the study of disease or the abnormalities caused by disease.",
+      "a pathologist is a specialist in pathology.",
+      "pathological means relating to pathology or abnormally excessive or diseased.",
+      "pathogenesis is the process by which a disease develops.",
+      "etiology concerns the cause or origin of a disease.",
+      "histology is the study of the microscopic structure of tissues."
+    ]
+  },
+  "etymology": {
+    "ja": "patho-『病気・苦痛』＋ -logy『学問、研究』から成る。patho- はギリシャ語 pathos『苦しみ、経験、感情』に由来する。pathos は本来『経験すること・被ること』という広い意味をもち、そこから『苦しみ・病気』の意味が発達した。同じ語根は pathological, pathogen, sympathy, empathy などにもつながる。",
+    "en": "Formed from patho- plus -logy. Patho- derives from Greek pathos, meaning 'suffering, experience, or feeling', ultimately associated with what one undergoes or experiences. The root also appears in pathological, pathogen, sympathy, and empathy."
+  },
+  "synonyms": [
+    {
+      "word": "disease process",
+      "note": {
+        "ja": "病気によって起こる一連の変化を表す説明的な表現。",
+        "en": "A descriptive term for the series of biological changes involved in a disease."
+      }
+    },
+    {
+      "word": "morbid anatomy",
+      "note": {
+        "ja": "病気による臓器・組織の構造変化を扱う古典的な医学用語。pathology より範囲が狭い。",
+        "en": "A traditional term for the study of structural changes caused by disease and narrower than pathology as a whole."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Pathologie",
+    "it": "patologia",
+    "fr": "pathologie",
+    "es": "patología"
+  },
+  "collocations": {
+    "ja": [
+      "department of pathology — 病理学教室・病理部",
+      "professor of pathology — 病理学教授",
+      "clinical pathology — 臨床病理学",
+      "anatomical pathology — 解剖病理学",
+      "molecular pathology — 分子病理学",
+      "surgical pathology — 外科病理学",
+      "underlying pathology — 基礎にある病態・病変",
+      "the pathology of a disease — 疾患の病理",
+      "social pathology — 社会病理"
+    ],
+    "en": [
+      "department of pathology",
+      "professor of pathology",
+      "clinical pathology",
+      "anatomical pathology",
+      "molecular pathology",
+      "surgical pathology",
+      "underlying pathology",
+      "the pathology of a disease",
+      "social pathology"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She specializes in pathology. — 彼女は病理学を専門としている。",
+      "The tissue sample was sent to pathology for examination. — 組織標本は検査のため病理部門に送られた。",
+      "The underlying pathology is still poorly understood. — 基礎にある病態はいまだ十分に解明されていない。",
+      "The researchers studied the pathology of the disease. — 研究者らはその疾患の病理を研究した。",
+      "The term is sometimes used to describe a broader social pathology. — この語はより広い社会病理を表すために使われることもある。"
+    ],
+    "en": [
+      "She specializes in pathology.",
+      "The tissue sample was sent to pathology for examination.",
+      "The underlying pathology is still poorly understood.",
+      "The researchers studied the pathology of the disease.",
+      "The term is sometimes used to describe a broader social pathology."
+    ]
+  }
+},
+{
+  "id": "pathological",
+  "sid": "2026-00294",
+  "word": "pathological",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "psychology",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌpæθəˈlɑːdʒɪkəl/",
+      "uk": "/ˌpæθəˈlɒdʒɪkəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "病理学の、病理学的な",
+      "病気・疾患によって引き起こされた、病的な",
+      "正常の範囲を逸脱した、異常なほどの",
+      "行動・感情などが制御できないほど極端な、病的な"
+    ],
+    "en": [
+      "relating to pathology or the study of disease",
+      "caused by or associated with disease",
+      "abnormal to an extreme or unhealthy degree",
+      "describing behavior or feelings that are excessive, compulsive, or seriously abnormal"
+    ]
+  },
+  "nuance": {
+    "ja": "医学では pathological changes『病理学的変化』のように、中立的な専門用語として使われる。一方、一般英語では『単に程度が強い』よりも一段強く、正常・健全な範囲を逸脱しているという含意をもつ。pathological liar『病的な嘘つき』、pathological jealousy『病的な嫉妬』などが典型。日常的な人物評価ではかなり強い表現なので注意が必要。",
+    "en": "In medicine, pathological is a neutral technical adjective, as in 'pathological changes'. In general English, it describes something so extreme, compulsive, or abnormal that it appears unhealthy. Expressions such as 'pathological liar' and 'pathological jealousy' are common examples. When applied to a person or behavior, it is considerably stronger than simply saying 'extreme'."
+  },
+  "minimal": {
+    "ja": [
+      "pathological：病理学的な／正常範囲を逸脱した病的な。",
+      "pathologic：pathological とほぼ同義の医学的形容詞。",
+      "abnormal：正常ではない。pathological より中立的で広い。",
+      "compulsive：衝動を抑えられず繰り返してしまう。",
+      "obsessive：ある考え・対象に取りつかれたような。",
+      "chronic：長期間続く。『病的』という意味ではない。"
+    ],
+    "en": [
+      "pathological means relating to disease or abnormally extreme and unhealthy.",
+      "pathologic is a closely related medical adjective.",
+      "abnormal simply means outside the normal range and is broader and more neutral.",
+      "compulsive emphasizes behavior driven by an urge that is difficult to resist.",
+      "obsessive emphasizes persistent and excessive preoccupation.",
+      "chronic means persistent or long-lasting and does not itself mean pathological."
+    ]
+  },
+  "etymology": {
+    "ja": "pathology + -ical から成る。pathology はギリシャ語 pathos『苦しみ、病、経験・感情』＋ -logia『学問』に由来する。したがって pathological は本来『病理学に関する』という専門的意味をもち、そこから『病気に由来する』、さらに比喩的に『病的なほど異常な』へ意味が広がった。",
+    "en": "Formed from pathology plus the adjectival suffix -ical. Pathology ultimately derives from Greek pathos ('suffering, disease, experience, feeling') and -logia ('study'). Pathological therefore originally means 'relating to pathology', from which developed the senses 'caused by disease' and figuratively 'abnormally or unhealthily extreme'."
+  },
+  "synonyms": [
+    {
+      "word": "abnormal",
+      "note": {
+        "ja": "正常から外れていることを広く表す。pathological ほど『病的・不健全』という含意は強くない。",
+        "en": "Broadly means outside the normal range and lacks the stronger implication of disease or unhealthy extremity."
+      }
+    },
+    {
+      "word": "compulsive",
+      "note": {
+        "ja": "抑えがたい衝動による行動に重点。pathological liar と compulsive liar は意味が近い。",
+        "en": "Emphasizes an irresistible or difficult-to-control urge and overlaps with pathological in expressions such as compulsive liar."
+      }
+    },
+    {
+      "word": "morbid",
+      "note": {
+        "ja": "病的な、または死・病気などへの不健全な関心を示す。pathological より意味範囲が限定される。",
+        "en": "Can mean diseased or characterized by an unhealthy interest in disturbing subjects such as death; narrower in many contexts."
+      }
+    },
+    {
+      "word": "unhealthy",
+      "note": {
+        "ja": "身体的・心理的・比喩的に『健全でない』。pathological より一般的で弱い。",
+        "en": "A broader and usually weaker term for something physically, psychologically, or figuratively unhealthy."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "pathologisch / krankhaft",
+    "it": "patologico",
+    "fr": "pathologique",
+    "es": "patológico"
+  },
+  "collocations": {
+    "ja": [
+      "pathological condition — 病的状態",
+      "pathological changes — 病理学的変化",
+      "pathological findings — 病理所見",
+      "pathological process — 病的過程",
+      "pathological examination — 病理学的検査",
+      "pathological liar — 病的な嘘つき",
+      "pathological lying — 病的虚言",
+      "pathological jealousy — 病的な嫉妬",
+      "pathological fear — 病的な恐怖"
+    ],
+    "en": [
+      "pathological condition",
+      "pathological changes",
+      "pathological findings",
+      "pathological process",
+      "pathological examination",
+      "pathological liar",
+      "pathological lying",
+      "pathological jealousy",
+      "pathological fear"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The examination revealed pathological changes in the tissue. — 検査によって組織に病理学的変化が認められた。",
+      "The samples were examined for pathological abnormalities. — 試料について病理学的異常の有無が調べられた。",
+      "He is a pathological liar who lies even when there is no obvious reason to do so. — 彼は明白な理由がないときでさえ嘘をつく病的な嘘つきだ。",
+      "Her jealousy had become pathological. — 彼女の嫉妬は病的なものになっていた。",
+      "The behavior may be unusual without being pathological. — その行動は珍しくても、必ずしも病的とは限らない。"
+    ],
+    "en": [
+      "The examination revealed pathological changes in the tissue.",
+      "The samples were examined for pathological abnormalities.",
+      "He is a pathological liar who lies even when there is no obvious reason to do so.",
+      "Her jealousy had become pathological.",
+      "The behavior may be unusual without being pathological."
+    ]
+  }
+},
+{
+  "id": "pathogenesis",
+  "sid": "2026-00295",
+  "word": "pathogenesis",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "disease",
+    "biology",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌpæθəˈdʒenəsɪs/",
+      "uk": "/ˌpæθəˈdʒenəsɪs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "発症機序、病態形成",
+      "疾患が発生し、進展していく仕組み・過程"
+    ],
+    "en": [
+      "the process by which a disease develops",
+      "the mechanisms involved in the origin and development of a disease"
+    ]
+  },
+  "nuance": {
+    "ja": "pathogenesis は、ある疾患が『どのような仕組みで生じ、進展するのか』を指す医学・生物学上の専門語。etiology が主として『何が病気を引き起こすのか＝原因』を扱うのに対し、pathogenesis は原因が作用した後に『どのような生物学的過程を経て病態が形成されるか』に重点を置く。pathology はさらに広く、疾患そのものや病理学という学問分野を指す。",
+    "en": "Pathogenesis refers to the mechanisms and processes through which a disease develops. Etiology focuses primarily on what causes a disease, whereas pathogenesis focuses on how those causes lead to the development and progression of disease. Pathology is broader and refers to the study of disease as well as disease-related abnormalities."
+  },
+  "minimal": {
+    "ja": [
+      "pathogenesis：病気がどのような仕組みで発生・進展するか。",
+      "etiology：病気の原因は何か。",
+      "pathology：病気・病変を研究する病理学。または病理そのもの。",
+      "pathogen：病気を引き起こす病原体・病原因子。",
+      "pathogenic：病原性の、病気を引き起こす。",
+      "mechanism：現象が生じる仕組み一般。"
+    ],
+    "en": [
+      "pathogenesis explains how a disease develops.",
+      "etiology concerns what causes a disease.",
+      "pathology is the study of disease or the abnormalities associated with it.",
+      "a pathogen is an agent capable of causing disease.",
+      "pathogenic means capable of causing disease.",
+      "mechanism is the broader term for how a process or phenomenon works."
+    ]
+  },
+  "etymology": {
+    "ja": "patho-『病気、苦しみ』＋ genesis『発生、起源』から成る。patho- はギリシャ語 pathos『苦しみ、経験、感情』、genesis はギリシャ語 genesis『誕生、発生、起源』に由来し、後者は gignesthai『生まれる、生じる』と関係する。したがって pathogenesis は文字どおり『病気が生じること・病気の発生』を意味する。",
+    "en": "Formed from patho- ('disease, suffering') and genesis ('origin, development'). Patho- derives from Greek pathos, while genesis comes from Greek genesis, meaning 'origin, birth, or generation', related to gignesthai ('to be born, come into being'). Pathogenesis therefore literally refers to the development or coming into being of disease."
+  },
+  "synonyms": [
+    {
+      "word": "disease mechanism",
+      "note": {
+        "ja": "病気が生じる仕組みを平易に表す表現。pathogenesis の説明として使いやすい。",
+        "en": "A plain descriptive expression for the mechanisms through which a disease develops."
+      }
+    },
+    {
+      "word": "etiology",
+      "note": {
+        "ja": "病因。原因に焦点を置くため pathogenesis とは区別される。",
+        "en": "The cause or origin of a disease; it focuses on causation rather than the subsequent disease process."
+      }
+    },
+    {
+      "word": "pathophysiology",
+      "note": {
+        "ja": "疾患によって正常な生理機能がどのように変化するかを扱う『病態生理』。pathogenesis と重なるが同義ではない。",
+        "en": "The study of functional physiological changes caused by disease; it overlaps with but is not identical to pathogenesis."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Pathogenese",
+    "it": "patogenesi",
+    "fr": "pathogenèse",
+    "es": "patogénesis"
+  },
+  "collocations": {
+    "ja": [
+      "disease pathogenesis — 疾患の発症機序",
+      "pathogenesis of cancer — がんの発症機序",
+      "pathogenesis of infection — 感染症の発症機序",
+      "role in pathogenesis — 病態形成における役割",
+      "involved in the pathogenesis of — ～の病態形成に関与する",
+      "understand the pathogenesis — 発症機序を理解する",
+      "molecular pathogenesis — 分子レベルの病態形成",
+      "viral pathogenesis — ウイルス性疾患の発症機序"
+    ],
+    "en": [
+      "disease pathogenesis",
+      "pathogenesis of cancer",
+      "pathogenesis of infection",
+      "role in pathogenesis",
+      "involved in the pathogenesis of",
+      "understand the pathogenesis",
+      "molecular pathogenesis",
+      "viral pathogenesis"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The pathogenesis of the disease is not fully understood. — その疾患の発症機序は完全には解明されていない。",
+      "Inflammation plays an important role in the pathogenesis of the disease. — 炎症はその疾患の病態形成に重要な役割を果たす。",
+      "Researchers are investigating the molecular pathogenesis of cancer. — 研究者らはがんの分子レベルでの発症機序を研究している。",
+      "Several genetic factors may be involved in the pathogenesis of the disorder. — 複数の遺伝的要因がその疾患の病態形成に関与している可能性がある。",
+      "Understanding pathogenesis may help identify new therapeutic targets. — 発症機序を理解することは、新たな治療標的の特定に役立つ可能性がある。"
+    ],
+    "en": [
+      "The pathogenesis of the disease is not fully understood.",
+      "Inflammation plays an important role in the pathogenesis of the disease.",
+      "Researchers are investigating the molecular pathogenesis of cancer.",
+      "Several genetic factors may be involved in the pathogenesis of the disorder.",
+      "Understanding pathogenesis may help identify new therapeutic targets."
+    ]
+  }
+},
+{
+  "id": "womb",
+  "sid": "2026-00296",
+  "word": "womb",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "anatomy",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/wuːm/",
+      "uk": "/wuːm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "子宮、胎内",
+      "胎児が育つ場所としての子宮",
+      "比喩的に、何かが生まれ育つ場所・母体"
+    ],
+    "en": [
+      "the organ in which a baby develops before birth",
+      "the uterus, especially viewed as the place where a fetus develops",
+      "figuratively, a place or environment in which something originates or develops"
+    ]
+  },
+  "nuance": {
+    "ja": "womb は uterus と同じ器官を指すが、ニュアンスが異なる。uterus は医学・解剖学上の中立的な専門語なのに対し、womb は『胎児が育つ場所・胎内』という機能的・日常的なイメージが強い。そのため pregnancy, baby, fetus などの文脈や比喩表現でよく使われる。医学論文や解剖学的記述では通常 uterus が選ばれる。",
+    "en": "Womb refers to the same organ as uterus but differs in register and emphasis. Uterus is the neutral anatomical and medical term, whereas womb commonly emphasizes the organ as the place where a fetus develops. Womb is therefore frequent in everyday, reproductive, literary, and figurative contexts, while uterus is preferred in technical medical writing."
+  },
+  "minimal": {
+    "ja": [
+      "womb：胎児が育つ場所としての『子宮・胎内』。日常的。",
+      "uterus：子宮。医学・解剖学上の標準語。",
+      "uterine：子宮の。",
+      "ovary：卵巣。",
+      "embryo：初期段階の胚。",
+      "fetus：一定段階以降の胎児。"
+    ],
+    "en": [
+      "womb is the everyday term for the uterus, especially as the place where a fetus develops.",
+      "uterus is the standard anatomical and medical term.",
+      "uterine means relating to the uterus.",
+      "an ovary is an organ in which eggs develop.",
+      "an embryo is an organism at an early developmental stage.",
+      "a fetus is the developing organism at a later prenatal stage."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 wamb / womb『腹、腹部、子宮』に由来する非常に古いゲルマン系の語。もともとは『腹・内臓・内部』を広く指し、そこから胎児を宿す『子宮』の意味が中心となった。ラテン語由来の医学語 uterus とは語源的に無関係。",
+    "en": "From Old English wamb or womb, meaning 'belly, abdomen, or womb'. It is an old Germanic word whose meaning narrowed from the belly or internal cavity more generally to the uterus as the place where offspring develops. It is unrelated etymologically to the Latin-derived uterus."
+  },
+  "synonyms": [
+    {
+      "word": "uterus",
+      "note": {
+        "ja": "同じ器官を指す医学・解剖学上の標準語。womb より専門的で中立的。",
+        "en": "The standard anatomical and medical term for the same organ; more technical and neutral than womb."
+      }
+    },
+    {
+      "word": "uterine cavity",
+      "note": {
+        "ja": "子宮そのものではなく『子宮腔』を厳密に指す医学用語。",
+        "en": "Specifically refers to the cavity inside the uterus and is not synonymous with the entire womb."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Gebärmutter / Mutterleib",
+    "it": "utero / grembo materno",
+    "fr": "utérus / sein maternel",
+    "es": "útero / vientre materno"
+  },
+  "collocations": {
+    "ja": [
+      "in the womb — 子宮内で、胎内で",
+      "inside the womb — 子宮の中で",
+      "develop in the womb — 胎内で発育する",
+      "grow in the womb — 胎内で成長する",
+      "from the womb — 胎内から、生まれた時から",
+      "return to the womb — 胎内へ戻る",
+      "artificial womb — 人工子宮",
+      "mother's womb — 母親の胎内"
+    ],
+    "en": [
+      "in the womb",
+      "inside the womb",
+      "develop in the womb",
+      "grow in the womb",
+      "from the womb",
+      "return to the womb",
+      "artificial womb",
+      "mother's womb"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The fetus continues to develop in the womb. — 胎児は子宮内で発育を続ける。",
+      "The baby can respond to sounds while still in the womb. — 赤ちゃんはまだ胎内にいる間にも音に反応することができる。",
+      "The embryo implants in the lining of the womb. — 胚は子宮内膜に着床する。",
+      "The technology is sometimes described as an artificial womb. — その技術は人工子宮と表現されることがある。",
+      "The city became the womb of a new artistic movement. — その都市は新しい芸術運動を生み育てる母体となった。"
+    ],
+    "en": [
+      "The fetus continues to develop in the womb.",
+      "The baby can respond to sounds while still in the womb.",
+      "The embryo implants in the lining of the womb.",
+      "The technology is sometimes described as an artificial womb.",
+      "The city became the womb of a new artistic movement."
+    ]
+  }
+},
+{
+  "id": "uterus",
+  "sid": "2026-00297",
+  "word": "uterus",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "anatomy",
+    "biology"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "uteri / uteruses"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈjuːtərəs/",
+      "uk": "/ˈjuːtərəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "子宮",
+      "受精卵が着床し、胚・胎児が発育する女性生殖器官"
+    ],
+    "en": [
+      "the female reproductive organ in which an embryo implants and a fetus develops",
+      "a hollow muscular organ forming part of the female reproductive system"
+    ]
+  },
+  "nuance": {
+    "ja": "uterus は『子宮』を表す医学・解剖学上の標準語。womb と基本的には同じ器官を指すが、womb が胎児を宿し育てる場所としての『胎内』という日常的・文学的なニュアンスを持つのに対し、uterus は器官そのものを客観的・解剖学的に指す。医学文献では uterus および形容詞 uterine が標準的に使われる。",
+    "en": "Uterus is the standard anatomical and medical term for the organ in which an embryo implants and a fetus develops. Womb refers to essentially the same organ but tends to emphasize its role as the place in which a developing baby grows and is more common in everyday or literary language. Uterus and its adjective uterine are standard in medical contexts."
+  },
+  "minimal": {
+    "ja": [
+      "uterus：子宮。医学・解剖学上の標準語。",
+      "womb：子宮・胎内。より日常的で胎児が育つ場所というニュアンス。",
+      "uterine：子宮の。",
+      "ovary：卵巣。",
+      "cervix：子宮頸部。",
+      "endometrium：子宮内膜。"
+    ],
+    "en": [
+      "uterus is the standard anatomical term for the womb.",
+      "womb is the more everyday term emphasizing the place where a fetus develops.",
+      "uterine means relating to the uterus.",
+      "an ovary is an organ in which eggs develop.",
+      "the cervix is the lower part of the uterus opening into the vagina.",
+      "the endometrium is the inner lining of the uterus."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 uterus『子宮、胎内』を直接の語源とする。英語には中英語期にラテン語から入った医学語で、古英語以来のゲルマン系語 womb とは語源的に無関係。形容詞 uterine も同じラテン語 uterus に由来する。",
+    "en": "Borrowed from Latin uterus, meaning 'womb' or 'uterus'. It entered English as a learned medical and anatomical term and is etymologically unrelated to the native Germanic word womb. The adjective uterine derives from the same Latin source."
+  },
+  "synonyms": [
+    {
+      "word": "womb",
+      "note": {
+        "ja": "同じ器官を指す一般語。胎児が育つ場所としての『胎内』というニュアンスが強い。",
+        "en": "The everyday term for the same organ, often emphasizing it as the place where a fetus develops."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Gebärmutter / Uterus",
+    "it": "utero",
+    "fr": "utérus",
+    "es": "útero"
+  },
+  "collocations": {
+    "ja": [
+      "inside the uterus — 子宮内で",
+      "lining of the uterus — 子宮内膜",
+      "wall of the uterus — 子宮壁",
+      "body of the uterus — 子宮体部",
+      "uterine cavity — 子宮腔",
+      "uterine wall — 子宮壁",
+      "uterine lining — 子宮内膜",
+      "uterine contraction — 子宮収縮",
+      "uterine cancer — 子宮がん"
+    ],
+    "en": [
+      "inside the uterus",
+      "lining of the uterus",
+      "wall of the uterus",
+      "body of the uterus",
+      "uterine cavity",
+      "uterine wall",
+      "uterine lining",
+      "uterine contraction",
+      "uterine cancer"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The uterus is a muscular organ in the female reproductive system. — 子宮は女性生殖器系にある筋肉性の器官である。",
+      "The embryo implants in the lining of the uterus. — 胚は子宮内膜に着床する。",
+      "The fetus develops inside the uterus. — 胎児は子宮内で発育する。",
+      "The uterus expands considerably during pregnancy. — 子宮は妊娠中に大きく拡張する。",
+      "The cervix forms the lower part of the uterus. — 子宮頸部は子宮の下部を形成する。"
+    ],
+    "en": [
+      "The uterus is a muscular organ in the female reproductive system.",
+      "The embryo implants in the lining of the uterus.",
+      "The fetus develops inside the uterus.",
+      "The uterus expands considerably during pregnancy.",
+      "The cervix forms the lower part of the uterus."
+    ]
+  }
+},
+{
+  "id": "fetus",
+  "sid": "2026-00298",
+  "word": "fetus",
+  "variants": [
+    "foetus"
+  ],
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "embryology",
+    "biology"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "fetuses / foetuses"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfiːtəs/",
+      "uk": "/ˈfiːtəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "胎児",
+      "胚期より後の発生段階にある、出生前の発育中の個体"
+    ],
+    "en": [
+      "a developing human or animal at a relatively advanced stage before birth",
+      "in human development, the developing organism after the embryonic stage and before birth"
+    ]
+  },
+  "nuance": {
+    "ja": "fetus は医学・発生学上の『胎児』を表す。人間では通常、embryo『胚』に続く発生段階を指す。日常語では unborn baby などと言うこともあるが、fetus は医学的・生物学的に中立な専門語。foetus は主に英国式の異綴りだが、現代の科学・医学文献では英国でも fetus が広く使われる。",
+    "en": "Fetus is the standard medical and biological term for a developing organism after the embryonic stage and before birth. In human development it follows the embryo stage. Foetus is a chiefly British variant spelling, although fetus is also widely used in modern British scientific and medical writing."
+  },
+  "minimal": {
+    "ja": [
+      "fetus：胎児。胚期より後、出生前の発育段階。",
+      "foetus：fetus の主に英国式の異綴り。",
+      "embryo：胚。fetus より早い発生段階。",
+      "fetal：胎児の。米語・医学で標準的。",
+      "foetal：fetal の主に英国式異綴り。",
+      "womb：胎児が育つ場所としての子宮・胎内。"
+    ],
+    "en": [
+      "fetus is the developing organism after the embryonic stage and before birth.",
+      "foetus is a chiefly British variant spelling of fetus.",
+      "embryo refers to an earlier developmental stage.",
+      "fetal means relating to a fetus.",
+      "foetal is a chiefly British variant spelling of fetal.",
+      "womb is the everyday term for the uterus, especially as the place where a fetus develops."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 fetus『出産、子を生むこと、子孫、胎児』に由来する。ラテン語の本来の綴りは fetus であり、foetus の o は語源的には本来存在しなかった。後世にギリシャ語系の綴りとの誤った関連付けなどから foetus という綴りが広まり、特に英国英語に定着した。このため語源的には fetus の方がラテン語原形に忠実。",
+    "en": "From Latin fetus, referring to offspring, bringing forth young, or the developing young. The original Latin spelling was fetus. The spelling foetus arose later through an etymologically unjustified insertion of o and became established especially in British English."
+  },
+  "synonyms": [
+    {
+      "word": "embryo",
+      "note": {
+        "ja": "より初期の発生段階を指すため、厳密には同義語ではない。",
+        "en": "Refers to an earlier developmental stage and is therefore not strictly synonymous."
+      }
+    },
+    {
+      "word": "unborn baby",
+      "note": {
+        "ja": "一般的・日常的な表現。fetus より非専門的。",
+        "en": "An everyday, nontechnical expression rather than a precise embryological term."
+      }
+    },
+    {
+      "word": "foetus",
+      "note": {
+        "ja": "主に英国英語で見られる異綴り。意味は fetus と同じ。",
+        "en": "A chiefly British variant spelling with the same meaning as fetus."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Fötus / Fetus",
+    "it": "feto",
+    "fr": "fœtus",
+    "es": "feto"
+  },
+  "collocations": {
+    "ja": [
+      "developing fetus — 発育中の胎児",
+      "human fetus — ヒト胎児",
+      "fetal development — 胎児発育",
+      "fetal growth — 胎児発育",
+      "fetal heart rate — 胎児心拍数",
+      "fetal movement — 胎動",
+      "fetal tissue — 胎児組織",
+      "fetal development in the womb — 子宮内での胎児発育",
+      "embryo and fetus — 胚と胎児"
+    ],
+    "en": [
+      "developing fetus",
+      "human fetus",
+      "fetal development",
+      "fetal growth",
+      "fetal heart rate",
+      "fetal movement",
+      "fetal tissue",
+      "fetal development in the womb",
+      "embryo and fetus"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The fetus continues to develop in the uterus. — 胎児は子宮内で発育を続ける。",
+      "The scan showed normal fetal development. — 検査画像では正常な胎児発育が確認された。",
+      "The fetal heart rate was monitored during the examination. — 検査中に胎児心拍数がモニターされた。",
+      "Nutrients are supplied to the fetus through the placenta. — 栄養は胎盤を介して胎児に供給される。",
+      "The embryo develops into a fetus as pregnancy progresses. — 妊娠が進むにつれて胚は胎児の段階へと発育する。"
+    ],
+    "en": [
+      "The fetus continues to develop in the uterus.",
+      "The scan showed normal fetal development.",
+      "The fetal heart rate was monitored during the examination.",
+      "Nutrients are supplied to the fetus through the placenta.",
+      "The embryo develops into a fetus as pregnancy progresses."
+    ]
+  }
+},
+{
+  "id": "fetal",
+  "sid": "2026-00299",
+  "word": "fetal",
+  "variants": [
+    "foetal"
+  ],
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "embryology",
+    "biology"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfiːtəl/",
+      "uk": "/ˈfiːtəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "胎児の",
+      "胎児に関する",
+      "胎児期に生じる・胎児に影響する"
+    ],
+    "en": [
+      "relating to a fetus",
+      "occurring in, affecting, or concerning a fetus",
+      "relating to the stage of development after the embryonic stage and before birth"
+    ]
+  },
+  "nuance": {
+    "ja": "fetal は fetus『胎児』に対応する医学・生物学上の形容詞。単独よりも fetal development『胎児発育』、fetal growth『胎児発育』、fetal heart rate『胎児心拍数』など、名詞を修飾する形で非常によく使われる。foetal は主に英国英語で見られる異綴り。医学・科学分野では英国でも fetal が使われることがある。",
+    "en": "Fetal is the standard adjective corresponding to fetus and is especially common in medical and biological terminology. It frequently modifies nouns in expressions such as fetal development, fetal growth, and fetal heart rate. Foetal is a chiefly British variant spelling, although fetal is also used in British scientific and medical contexts."
+  },
+  "minimal": {
+    "ja": [
+      "fetal：胎児の、胎児に関する。",
+      "foetal：fetal の主に英国式の異綴り。",
+      "fetus：胎児。",
+      "embryonic：胚の、胚期の。",
+      "maternal：母体の、母親の。",
+      "prenatal：出生前の、妊娠中の。胎児だけに限定されない。"
+    ],
+    "en": [
+      "fetal means relating to a fetus.",
+      "foetal is a chiefly British variant spelling.",
+      "fetus is the corresponding noun.",
+      "embryonic relates to the earlier embryonic stage.",
+      "maternal means relating to the mother.",
+      "prenatal means occurring or existing before birth and is broader than fetal."
+    ]
+  },
+  "etymology": {
+    "ja": "fetus + 形容詞語尾 -al に対応する語で、ラテン語 fetalis『出産・胎児に関する』に由来する。語根はラテン語 fetus『子孫、胎児、出産』。foetal という綴りの o はラテン語原形にはなく、後世に生じた綴りである。このため語源的には fetal が原形に忠実。",
+    "en": "Derived from Latin fetalis, related to fetus, meaning 'offspring, bringing forth, or fetus'. The spelling foetal contains an o that was not present in the original Latin forms, so fetal is etymologically closer to the Latin source."
+  },
+  "synonyms": [
+    {
+      "word": "foetal",
+      "note": {
+        "ja": "主に英国英語で用いられる異綴り。意味は fetal と同じ。",
+        "en": "A chiefly British variant spelling with the same meaning as fetal."
+      }
+    },
+    {
+      "word": "prenatal",
+      "note": {
+        "ja": "『出生前の』というより広い語。fetal が胎児そのものに関係するのに対し、prenatal は妊娠・母体管理などにも使える。",
+        "en": "A broader term meaning 'before birth'; unlike fetal, it is not restricted to the fetus itself."
+      }
+    },
+    {
+      "word": "embryonic",
+      "note": {
+        "ja": "『胚の、胚期の』。発生段階が異なるため fetal とは区別される。",
+        "en": "Relating to the embryo or embryonic stage and therefore distinct from fetal."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "fetal / fötal",
+    "it": "fetale",
+    "fr": "fœtal",
+    "es": "fetal"
+  },
+  "collocations": {
+    "ja": [
+      "fetal development — 胎児発育",
+      "fetal growth — 胎児発育・成長",
+      "fetal heart rate — 胎児心拍数",
+      "fetal movement — 胎動",
+      "fetal tissue — 胎児組織",
+      "fetal circulation — 胎児循環",
+      "fetal monitoring — 胎児モニタリング",
+      "fetal abnormality — 胎児異常",
+      "fetal medicine — 胎児医学"
+    ],
+    "en": [
+      "fetal development",
+      "fetal growth",
+      "fetal heart rate",
+      "fetal movement",
+      "fetal tissue",
+      "fetal circulation",
+      "fetal monitoring",
+      "fetal abnormality",
+      "fetal medicine"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The scan showed normal fetal development. — 検査画像では正常な胎児発育が確認された。",
+      "The fetal heart rate was monitored throughout the examination. — 検査中を通して胎児心拍数がモニターされた。",
+      "Several factors can affect fetal growth. — さまざまな要因が胎児の発育に影響しうる。",
+      "The doctor checked the fetal position before delivery. — 医師は分娩前に胎児の位置を確認した。",
+      "Fetal circulation differs significantly from circulation after birth. — 胎児循環は出生後の循環とは大きく異なる。"
+    ],
+    "en": [
+      "The scan showed normal fetal development.",
+      "The fetal heart rate was monitored throughout the examination.",
+      "Several factors can affect fetal growth.",
+      "The doctor checked the fetal position before delivery.",
+      "Fetal circulation differs significantly from circulation after birth."
+    ]
+  }
 }
 ]
