@@ -17884,5 +17884,287 @@
       "The speaker accused his opponent of distorting the truth."
     ]
   }
+},
+{
+  "id": "entrust",
+  "sid": "2026-00315",
+  "word": "entrust",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "trust",
+    "responsibility",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "entrust",
+      "third_person": "entrusts",
+      "past": "entrusted",
+      "past_participle": "entrusted",
+      "gerund": "entrusting"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈtrʌst/",
+      "uk": "/ɪnˈtrʌst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "重要な物・仕事・責任などを信頼して人に任せる、託す",
+      "人を誰かの世話・管理に委ねる"
+    ],
+    "en": [
+      "to give someone responsibility for something because you trust them",
+      "to place something or someone in another person's care or control"
+    ]
+  },
+  "nuance": {
+    "ja": "entrust は『信頼して任せる・託す』という意味で、責任・秘密・財産・仕事・人の世話など、ある程度重要なものについて使われる。典型構文は entrust A to B『AをBに託す』と entrust B with A『BにAを任せる』。単なる assign や give よりも、相手への信頼と責任の委譲を強く含意する。",
+    "en": "Entrust means to give someone responsibility for something because you trust them. It is commonly used for important duties, possessions, confidential information, or the care of another person. The two key patterns are 'entrust A to B' and 'entrust B with A'."
+  },
+  "minimal": {
+    "ja": [
+      "entrust A to B：AをBに託す。",
+      "entrust B with A：BにAを任せる。",
+      "trust：人・物事を信頼する。より一般的。",
+      "assign：仕事・役割を割り当てる。信頼のニュアンスは必須ではない。",
+      "delegate：権限・仕事を部下などに委任する。",
+      "commit A to B：AをBの管理・処置などに委ねる。"
+    ],
+    "en": [
+      "entrust A to B means to place A in B's care.",
+      "entrust B with A means to give B responsibility for A.",
+      "trust is the broader verb meaning to have confidence in someone or something.",
+      "assign means to give someone a task or role without necessarily emphasizing trust.",
+      "delegate means to transfer a task or authority to another person.",
+      "commit A to B can mean to place A in B's care or control."
+    ]
+  },
+  "etymology": {
+    "ja": "en-『～の状態にする、～の中に置く』＋ trust『信頼』から成る。つまり文字どおりには『信頼のもとに置く』という発想で、そこから『信頼して任せる・託す』という意味になった。",
+    "en": "Formed from en- plus trust. The underlying idea is to place something in another person's trust, which developed into the modern sense of giving someone responsibility for something valuable or important."
+  },
+  "synonyms": [
+    {
+      "word": "delegate",
+      "note": {
+        "ja": "仕事・権限を他人に委任することに重点。entrust より組織的・業務的。",
+        "en": "Emphasizes transferring tasks or authority, especially in organizational contexts."
+      }
+    },
+    {
+      "word": "assign",
+      "note": {
+        "ja": "仕事・役割を割り当てる。entrust のような信頼の含意は弱い。",
+        "en": "Means to give someone a task or role, with less emphasis on personal trust."
+      }
+    },
+    {
+      "word": "commit",
+      "note": {
+        "ja": "人・物事を誰かの管理・保護などに委ねる意味で重なる。",
+        "en": "Can overlap when something or someone is placed in another's care or charge."
+      }
+    },
+    {
+      "word": "confide",
+      "note": {
+        "ja": "秘密・悩みなどを信頼して打ち明ける。entrust より情報共有に重点。",
+        "en": "Means to share private information with someone you trust, rather than giving them responsibility for it."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "anvertrauen",
+    "it": "affidare",
+    "fr": "confier",
+    "es": "confiar / encomendar"
+  },
+  "collocations": {
+    "ja": [
+      "entrust a task to someone — 仕事を人に任せる",
+      "entrust responsibility to someone — 責任を人に委ねる",
+      "entrust something to someone's care — 何かを人の管理・世話に託す",
+      "entrust someone with a task — 人に仕事を任せる",
+      "entrust someone with responsibility — 人に責任を委ねる",
+      "entrust someone with confidential information — 人に機密情報を託す",
+      "be entrusted with something — 何かを任される",
+      "be entrusted to someone's care — 人の世話に託される"
+    ],
+    "en": [
+      "entrust a task to someone",
+      "entrust responsibility to someone",
+      "entrust something to someone's care",
+      "entrust someone with a task",
+      "entrust someone with responsibility",
+      "entrust someone with confidential information",
+      "be entrusted with something",
+      "be entrusted to someone's care"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She entrusted the task to an experienced colleague. — 彼女はその仕事を経験豊富な同僚に任せた。",
+      "I wouldn't entrust such sensitive information to just anyone. — そんな機密性の高い情報を誰にでも託すことはしない。",
+      "He was entrusted with responsibility for the project. — 彼はそのプロジェクトの責任を任された。",
+      "The documents were entrusted to the lawyer for safekeeping. — その書類は保管のため弁護士に託された。",
+      "They entrusted their children to the care of their grandparents. — 彼らは子どもたちを祖父母の世話に託した。"
+    ],
+    "en": [
+      "She entrusted the task to an experienced colleague.",
+      "I wouldn't entrust such sensitive information to just anyone.",
+      "He was entrusted with responsibility for the project.",
+      "The documents were entrusted to the lawyer for safekeeping.",
+      "They entrusted their children to the care of their grandparents."
+    ]
+  }
+},
+{
+  "id": "confide",
+  "sid": "2026-00316",
+  "word": "confide",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "trust",
+    "communication",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "intransitive / transitive",
+    "forms": {
+      "base": "confide",
+      "third_person": "confides",
+      "past": "confided",
+      "past_participle": "confided",
+      "gerund": "confiding"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈfaɪd/",
+      "uk": "/kənˈfaɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "秘密・悩み・個人的な気持ちなどを信頼して打ち明ける",
+      "人に心を開いて話す",
+      "やや古風・フォーマルに、人や物を信頼して委ねる"
+    ],
+    "en": [
+      "to tell someone a secret or private matter because you trust them",
+      "to speak openly to someone about personal feelings or concerns",
+      "in formal or older usage, to entrust someone or something to another person's care"
+    ]
+  },
+  "nuance": {
+    "ja": "現代英語では confide は主に『信頼できる相手に秘密・悩み・本音を打ち明ける』という意味で使う。典型構文は confide in someone『人に心を打ち明ける』、confide something to someone『何かを人に打ち明ける』。entrust が仕事・責任・物などを相手に『託す』ことに重点を置くのに対し、confide は秘密・感情・個人的情報を『打ち明ける』ことに重点がある。",
+    "en": "In modern English, confide most commonly means to share a secret, concern, or personal feeling with someone you trust. The key patterns are 'confide in someone' and 'confide something to someone'. Unlike entrust, which focuses on giving someone responsibility for a task, object, or duty, confide focuses primarily on sharing private information or feelings."
+  },
+  "minimal": {
+    "ja": [
+      "confide in someone：人を信頼して心を打ち明ける。",
+      "confide something to someone：秘密などを人に打ち明ける。",
+      "entrust：責任・物・仕事などを信頼して託す。",
+      "disclose：情報を開示する。信頼関係のニュアンスは不要。",
+      "reveal：隠されていたことを明らかにする。",
+      "confess：罪・過失・恥ずかしいことなどを告白する。"
+    ],
+    "en": [
+      "confide in someone means to share private thoughts or feelings with them because you trust them.",
+      "confide something to someone means to tell them something private.",
+      "entrust means to give someone responsibility for something important.",
+      "disclose means to make information known, without necessarily implying personal trust.",
+      "reveal means to make something previously hidden known.",
+      "confess often involves admitting wrongdoing, guilt, or something embarrassing."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 confidere『信頼する、確信する』に由来する。con-『共に、強く』＋ fidere『信頼する』から成り、fides『信頼、信義』と同語族。confidence『自信・信頼』、confidential『秘密の』、fidelity『忠実』なども同じ fid-『信頼』系。",
+    "en": "From Latin confidere, meaning 'to trust or have confidence', formed from con- plus fidere ('to trust'). It belongs to the same family as confidence, confidential, fidelity, and other words derived from the Latin root associated with trust and faith."
+  },
+  "synonyms": [
+    {
+      "word": "reveal",
+      "note": {
+        "ja": "隠されていた事実・情報を明らかにする。confide のような個人的信頼は必須ではない。",
+        "en": "Means to make hidden information known and does not necessarily imply personal trust."
+      }
+    },
+    {
+      "word": "disclose",
+      "note": {
+        "ja": "秘密・情報などを開示する。ビジネス・法律でもよく使う。",
+        "en": "A more formal verb for making information known, common in legal and business contexts."
+      }
+    },
+    {
+      "word": "confess",
+      "note": {
+        "ja": "罪・過失・感情などを告白する。confide より『認める』ニュアンスが強い。",
+        "en": "Emphasizes admitting something, especially wrongdoing, guilt, or a difficult truth."
+      }
+    },
+    {
+      "word": "entrust",
+      "note": {
+        "ja": "信頼して物・責任などを託す。秘密を『打ち明ける』という現代的な confide とは焦点が異なる。",
+        "en": "Means to place something important in another person's care; it focuses on responsibility rather than private disclosure."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sich jemandem anvertrauen / jemandem etwas anvertrauen",
+    "it": "confidarsi / confidare",
+    "fr": "se confier / confier",
+    "es": "confiarse / confiar algo a alguien"
+  },
+  "collocations": {
+    "ja": [
+      "confide in a friend — 友人に心を打ち明ける",
+      "confide in someone — 人を信頼して打ち明ける",
+      "confide a secret to someone — 秘密を人に打ち明ける",
+      "confide one's fears to someone — 不安を人に打ち明ける",
+      "confide one's feelings — 気持ちを打ち明ける",
+      "feel able to confide in someone — 人に安心して打ち明けられると感じる",
+      "reluctant to confide in someone — 人に打ち明けるのをためらう",
+      "confide privately — 内密に打ち明ける"
+    ],
+    "en": [
+      "confide in a friend",
+      "confide in someone",
+      "confide a secret to someone",
+      "confide one's fears to someone",
+      "confide one's feelings",
+      "feel able to confide in someone",
+      "reluctant to confide in someone",
+      "confide privately"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She confided in a close friend about her concerns. — 彼女は自分の悩みを親しい友人に打ち明けた。",
+      "He confided the secret to me. — 彼はその秘密を私に打ち明けた。",
+      "I need someone I can confide in. — 私には心を打ち明けられる相手が必要だ。",
+      "She was reluctant to confide her fears to anyone. — 彼女は自分の不安を誰かに打ち明けることをためらっていた。",
+      "He confided that he was considering leaving the company. — 彼は会社を辞めることを考えていると打ち明けた。"
+    ],
+    "en": [
+      "She confided in a close friend about her concerns.",
+      "He confided the secret to me.",
+      "I need someone I can confide in.",
+      "She was reluctant to confide her fears to anyone.",
+      "He confided that he was considering leaving the company."
+    ]
+  }
 }
 ]
