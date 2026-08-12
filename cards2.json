@@ -18166,5 +18166,441 @@
       "He confided that he was considering leaving the company."
     ]
   }
+},
+{
+  "id": "utensil",
+  "sid": "2026-00317",
+  "word": "utensil",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "general",
+    "household",
+    "kitchen",
+    "object"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "utensils"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/juːˈtensəl/",
+      "uk": "/juːˈtensəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "道具、用具、器具",
+      "特に料理・家事などに使う比較的小さな実用品"
+    ],
+    "en": [
+      "a tool or object used for a practical purpose",
+      "especially a small implement used in cooking or household work"
+    ]
+  },
+  "nuance": {
+    "ja": "utensil は特定の実用目的に使う道具を指し、特に kitchen utensils『調理用具』のように家庭用品の文脈で頻出する。tool は作業・修理・製造などに使う道具一般を広く指すのに対し、utensil はスプーン、へら、泡立て器、トングなど、比較的小さな日常用具を連想させやすい。通常は複数形 utensils でまとめて言うことも多い。",
+    "en": "A utensil is a practical implement, especially a relatively small object used in cooking or household tasks. Tool is broader and often suggests equipment used for making, repairing, or working on something, whereas utensil frequently evokes everyday items such as spoons, spatulas, whisks, or tongs. The plural utensils is very common."
+  },
+  "minimal": {
+    "ja": [
+      "utensil：日常の実用に使う道具・用具。特に調理用具。",
+      "tool：作業・修理などに使う道具一般。",
+      "implement：特定作業のための道具。utensil より硬い。",
+      "equipment：装備・機材の総称。通常不可算。",
+      "appliance：電気・機械式の家庭用機器。",
+      "cutlery：ナイフ・フォーク・スプーン類。"
+    ],
+    "en": [
+      "utensil is a practical implement, especially a small kitchen or household item.",
+      "tool is a broader word for an object used to perform work.",
+      "implement is a more formal term for an object used for a particular task.",
+      "equipment is a collective term for the items needed for an activity and is usually uncountable.",
+      "appliance usually refers to a powered household device.",
+      "cutlery refers specifically to knives, forks, spoons, and similar eating utensils."
+    ]
+  },
+  "etymology": {
+    "ja": "中世フランス語 utensile を経て、ラテン語 utensilia『使用に必要な物、用具類』に由来する。これは uti『使う』に関係する語で、語源的には『使用するためのもの』という非常に直接的な意味を持つ。use や utility とは遠く語源的につながる。",
+    "en": "From Middle French utensile, ultimately from Latin utensilia, meaning 'things for use, implements'. The word is related to Latin uti, 'to use', so its underlying sense is simply 'something used for a practical purpose'."
+  },
+  "synonyms": [
+    {
+      "word": "implement",
+      "note": {
+        "ja": "特定の仕事に使う道具。utensil よりフォーマルで、農具などにもよく使う。",
+        "en": "A more formal word for an object used to perform a particular task, often including agricultural or specialized tools."
+      }
+    },
+    {
+      "word": "tool",
+      "note": {
+        "ja": "もっとも広い『道具』の一つ。utensil より作業・加工のニュアンスが強いことが多い。",
+        "en": "A broader term, often associated more strongly with making, repairing, or working on something."
+      }
+    },
+    {
+      "word": "instrument",
+      "note": {
+        "ja": "精密な作業・測定・医療・音楽などに使う器具。utensil より専門的。",
+        "en": "Often refers to a more specialized or precise device used in science, medicine, measurement, or music."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Utensil / Gerät",
+    "it": "utensile",
+    "fr": "ustensile",
+    "es": "utensilio"
+  },
+  "collocations": {
+    "ja": [
+      "kitchen utensil — 調理用具",
+      "cooking utensil — 調理器具",
+      "eating utensil — 食事用具",
+      "household utensil — 家庭用具",
+      "wooden utensil — 木製の調理用具",
+      "metal utensil — 金属製の用具",
+      "kitchen utensils — 台所用品・調理用具一式",
+      "cooking utensils and equipment — 調理用具と設備"
+    ],
+    "en": [
+      "kitchen utensil",
+      "cooking utensil",
+      "eating utensil",
+      "household utensil",
+      "wooden utensil",
+      "metal utensil",
+      "kitchen utensils",
+      "cooking utensils and equipment"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Keep frequently used kitchen utensils near the stove. — よく使う調理用具はコンロの近くに置いておきなさい。",
+      "A spatula is a basic cooking utensil. — へらは基本的な調理用具である。",
+      "The drawer contains various utensils, including whisks and tongs. — その引き出しには泡立て器やトングなど、さまざまな用具が入っている。",
+      "Use a wooden utensil to avoid scratching the pan. — フライパンを傷つけないよう木製の調理用具を使ってください。",
+      "All utensils should be thoroughly cleaned after use. — すべての用具は使用後に十分洗浄するべきである。"
+    ],
+    "en": [
+      "Keep frequently used kitchen utensils near the stove.",
+      "A spatula is a basic cooking utensil.",
+      "The drawer contains various utensils, including whisks and tongs.",
+      "Use a wooden utensil to avoid scratching the pan.",
+      "All utensils should be thoroughly cleaned after use."
+    ]
+  }
+},
+{
+  "id": "implement",
+  "sid": "2026-00318",
+  "word": "implement",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "general",
+    "formal",
+    "business",
+    "tool"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "transitivity": "transitive",
+    "countability": "countable",
+    "plural": "implements",
+    "forms": {
+      "base": "implement",
+      "third_person": "implements",
+      "past": "implemented",
+      "past_participle": "implemented",
+      "gerund": "implementing"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": {
+        "noun": "/ˈɪmpləmənt/",
+        "verb": "/ˈɪmpləment/"
+      },
+      "uk": {
+        "noun": "/ˈɪmplɪmənt/",
+        "verb": "/ˈɪmplɪment/"
+      }
+    }
+  },
+  "meaning": {
+    "ja": [
+      "名詞：特定の作業に使う道具、器具、用具",
+      "動詞：計画・制度・方針などを実施する、実行に移す、導入する"
+    ],
+    "en": [
+      "noun: a tool or piece of equipment used for a particular purpose",
+      "verb: to put a plan, policy, system, or decision into effect"
+    ]
+  },
+  "nuance": {
+    "ja": "名詞の implement は、特定の仕事や作業に使う『道具・器具』を表し、utensil よりややフォーマルで、agricultural implements『農具』などにもよく使う。動詞の implement は、計画・方針・制度などを単に決めるだけでなく、実際に運用・実行段階へ移すことを表す。ビジネス・行政・IT・法律などで非常に頻出する。",
+    "en": "As a noun, implement means a tool or instrument used for a particular task and is somewhat more formal than utensil. As a verb, it means to put a plan, policy, system, or decision into practical effect. The verbal sense is especially common in business, government, technology, and formal writing."
+  },
+  "minimal": {
+    "ja": [
+      "implement 名詞：特定作業用の道具・器具。",
+      "utensil：日常の実用道具。特に調理用具。",
+      "tool：作業に使う道具一般。",
+      "instrument：精密・専門的な器具。",
+      "implement 動詞：計画・制度・方針を実施する。",
+      "execute：計画・命令などを実行する。",
+      "carry out：仕事・計画・調査などを実行する。より一般的。"
+    ],
+    "en": [
+      "implement as a noun is a tool used for a particular task.",
+      "utensil especially refers to everyday household or kitchen implements.",
+      "tool is the broader general word.",
+      "instrument often refers to a specialized or precise device.",
+      "implement as a verb means to put a plan, policy, or system into effect.",
+      "execute emphasizes carrying out a plan, order, or procedure.",
+      "carry out is a more general expression for performing a task or plan."
+    ]
+  },
+  "etymology": {
+    "ja": "後期ラテン語 implementum『満たすもの、必要物』に由来し、ラテン語 implere『満たす、完成させる』と関係する。im-『中へ、完全に』＋ plere『満たす』という構造。名詞の『仕事を完成させるために必要な道具』から、動詞として『計画などを実際に完成・実現させる』という意味が発達した。",
+    "en": "From Late Latin implementum, related to Latin implere, meaning 'to fill or complete', from im- plus plere ('to fill'). The noun developed the sense of something needed to accomplish a task, while the verb came to mean putting a plan or system into practical effect."
+  },
+  "synonyms": [
+    {
+      "word": "tool",
+      "note": {
+        "ja": "名詞では最も一般的な近義語。implement より広く日常的。",
+        "en": "The broad everyday synonym in the noun sense."
+      }
+    },
+    {
+      "word": "instrument",
+      "note": {
+        "ja": "精密・専門的な用途の器具に使われやすい。",
+        "en": "Often used for specialized or precise devices."
+      }
+    },
+    {
+      "word": "execute",
+      "note": {
+        "ja": "動詞では、計画・指示・手順などを実行することに重点。",
+        "en": "In the verbal sense, emphasizes carrying out a plan, instruction, or procedure."
+      }
+    },
+    {
+      "word": "carry out",
+      "note": {
+        "ja": "計画・仕事・調査などを実行する一般的な表現。",
+        "en": "A common general expression for performing or completing a task or plan."
+      }
+    },
+    {
+      "word": "put into effect",
+      "note": {
+        "ja": "制度・方針などを実施に移すという意味で implement に非常に近い。",
+        "en": "A close paraphrase of implement when referring to policies, rules, or systems."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Gerät / Werkzeug; umsetzen / implementieren",
+    "it": "attrezzo / strumento; attuare / implementare",
+    "fr": "outil / instrument; mettre en œuvre / implémenter",
+    "es": "herramienta / instrumento; implementar / aplicar"
+  },
+  "collocations": {
+    "ja": [
+      "agricultural implement — 農具",
+      "farming implements — 農作業用具",
+      "implement a policy — 政策を実施する",
+      "implement a plan — 計画を実行する",
+      "implement a strategy — 戦略を実施する",
+      "implement a system — システムを導入する",
+      "implement changes — 変更を実施する",
+      "implement reforms — 改革を実施する",
+      "successfully implement — 首尾よく実施する"
+    ],
+    "en": [
+      "agricultural implement",
+      "farming implements",
+      "implement a policy",
+      "implement a plan",
+      "implement a strategy",
+      "implement a system",
+      "implement changes",
+      "implement reforms",
+      "successfully implement"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The museum displays traditional farming implements. — その博物館では伝統的な農具を展示している。",
+      "The company plans to implement a new security system. — その会社は新しいセキュリティーシステムを導入する予定だ。",
+      "The government implemented the policy in stages. — 政府はその政策を段階的に実施した。",
+      "It took several months to fully implement the changes. — その変更を完全に実施するまで数か月かかった。",
+      "A good strategy is useless if it cannot be implemented effectively. — 良い戦略も効果的に実行できなければ役に立たない。"
+    ],
+    "en": [
+      "The museum displays traditional farming implements.",
+      "The company plans to implement a new security system.",
+      "The government implemented the policy in stages.",
+      "It took several months to fully implement the changes.",
+      "A good strategy is useless if it cannot be implemented effectively."
+    ]
+  }
+},
+{
+  "id": "execute",
+  "sid": "2026-00319",
+  "word": "execute",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "business",
+    "legal",
+    "computing"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "execute",
+      "third_person": "executes",
+      "past": "executed",
+      "past_participle": "executed",
+      "gerund": "executing"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈeksɪkjuːt/",
+      "uk": "/ˈeksɪkjuːt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "計画・命令・手順などを実行する、遂行する",
+      "技術・動作などを正確に行う",
+      "契約書・証書などを正式に作成・締結する",
+      "コンピュータプログラムや命令を実行する",
+      "死刑を執行する"
+    ],
+    "en": [
+      "to carry out or perform a plan, order, procedure, or task",
+      "to perform a movement, technique, or action successfully",
+      "to formally complete and make a legal document effective",
+      "to run a computer program or instruction",
+      "to put a person to death as a legal punishment"
+    ]
+  },
+  "nuance": {
+    "ja": "execute は『決められた計画・命令・手順を実際に遂行する』というフォーマルな動詞。implement が制度・方針・システムなどを現実に導入・運用へ移すことに重点を置くのに対し、execute は既に定められた計画や命令を正確に実行することに重点がある。法律・IT・ビジネス・軍事などで頻出する。",
+    "en": "Execute is a formal verb meaning to carry out something that has been planned, ordered, or specified. Compared with implement, which often emphasizes putting a policy, system, or plan into practical operation, execute emphasizes performing or carrying out an already defined action, plan, or instruction."
+  },
+  "minimal": {
+    "ja": [
+      "execute：計画・命令・手順を実行する。正確な遂行に重点。",
+      "implement：方針・制度・システムなどを導入・実施する。",
+      "carry out：実行する。より一般的で中立。",
+      "perform：作業・役割・動作などを行う。",
+      "enforce：法律・規則を強制的に実施する。",
+      "execute a document：法律文書を正式に締結・作成する。"
+    ],
+    "en": [
+      "execute means to carry out a defined plan, order, or procedure.",
+      "implement emphasizes putting a policy, system, or plan into practical operation.",
+      "carry out is a broader and more neutral expression.",
+      "perform means to do a task, role, or action.",
+      "enforce means to make sure a law or rule is obeyed.",
+      "execute a document means to formally complete it so that it becomes legally effective."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 exsequi『最後まで遂行する、実行する、追跡する』に由来し、ex-『外へ、完全に』＋ sequi『従う』から成る。もともとは『最後まで従って成し遂げる』という発想で、そこから『実行する・遂行する』という意味になった。sequence, sequel, consecutive なども sequi『従う』系。",
+    "en": "From Latin exsequi, meaning 'to follow out, carry through, or accomplish', formed from ex- plus sequi ('to follow'). The underlying idea is to follow something through to completion. The same Latin root appears in words such as sequence and sequel."
+  },
+  "synonyms": [
+    {
+      "word": "carry out",
+      "note": {
+        "ja": "最も一般的な『実行する』の一つ。execute より口語的・中立。",
+        "en": "A broad and neutral expression for performing or completing a task or plan."
+      }
+    },
+    {
+      "word": "implement",
+      "note": {
+        "ja": "計画・制度・方針を現実に導入・運用することに重点。",
+        "en": "Emphasizes putting a policy, plan, or system into practical operation."
+      }
+    },
+    {
+      "word": "perform",
+      "note": {
+        "ja": "作業・動作・役割などを実際に行う。",
+        "en": "Emphasizes doing a task, action, function, or performance."
+      }
+    },
+    {
+      "word": "accomplish",
+      "note": {
+        "ja": "目標・仕事を成功裏に成し遂げることに重点。",
+        "en": "Emphasizes successfully completing a task or achieving a goal."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ausführen / vollstrecken",
+    "it": "eseguire",
+    "fr": "exécuter",
+    "es": "ejecutar"
+  },
+  "collocations": {
+    "ja": [
+      "execute a plan — 計画を実行する",
+      "execute an order — 命令を遂行する",
+      "execute a strategy — 戦略を実行する",
+      "execute a task — 任務を遂行する",
+      "execute a maneuver — 機動・動作を実行する",
+      "execute a contract — 契約を正式に締結する",
+      "execute a deed — 証書を正式に作成・署名する",
+      "execute a program — プログラムを実行する",
+      "execute a command — コマンドを実行する",
+      "execute a prisoner — 囚人の死刑を執行する"
+    ],
+    "en": [
+      "execute a plan",
+      "execute an order",
+      "execute a strategy",
+      "execute a task",
+      "execute a maneuver",
+      "execute a contract",
+      "execute a deed",
+      "execute a program",
+      "execute a command",
+      "execute a prisoner"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The team executed the plan successfully. — チームはその計画を首尾よく実行した。",
+      "The soldiers were ordered to execute the maneuver at dawn. — 兵士たちは夜明けにその機動を実行するよう命じられた。",
+      "The parties executed the agreement on Monday. — 当事者らは月曜日にその契約を正式に締結した。",
+      "The computer executes millions of instructions every second. — そのコンピュータは毎秒何百万もの命令を実行する。",
+      "The athlete executed the movement with remarkable precision. — その選手はその動作を驚くほど正確に行った。"
+    ],
+    "en": [
+      "The team executed the plan successfully.",
+      "The soldiers were ordered to execute the maneuver at dawn.",
+      "The parties executed the agreement on Monday.",
+      "The computer executes millions of instructions every second.",
+      "The athlete executed the movement with remarkable precision."
+    ]
+  }
 }
 ]
