@@ -15817,5 +15817,2072 @@
       "Fetal circulation differs significantly from circulation after birth."
     ]
   }
+},
+{
+  "id": "prenatal",
+  "sid": "2026-00300",
+  "word": "prenatal",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "pregnancy",
+    "reproduction",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌpriːˈneɪtəl/",
+      "uk": "/ˌpriːˈneɪtəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "出生前の",
+      "妊娠中の、妊娠期に行われる",
+      "胎児が出生する前の時期に関する"
+    ],
+    "en": [
+      "occurring or existing before birth",
+      "relating to the period of pregnancy before a baby is born",
+      "provided, performed, or developing during pregnancy"
+    ]
+  },
+  "nuance": {
+    "ja": "prenatal は『出生前という時期』に焦点を置く語で、母体・胎児・検査・医療など幅広い対象に使える。prenatal care『妊娠中の医療・健診』、prenatal diagnosis『出生前診断』などが典型。fetal が胎児そのものに関する形容詞なのに対し、prenatal は出生前という時間的範囲を表す。",
+    "en": "Prenatal focuses on the period before birth and can refer to care, testing, development, exposure, or other events occurring during pregnancy. Unlike fetal, which specifically relates to the fetus itself, prenatal is a temporal term covering the broader pre-birth period."
+  },
+  "minimal": {
+    "ja": [
+      "prenatal：出生前・妊娠中という時期に関する。",
+      "fetal：胎児そのものに関する。",
+      "antenatal：prenatal とほぼ同義。特に英国英語でよく使う。",
+      "postnatal：出生後の。",
+      "perinatal：出生前後の周産期の。",
+      "maternal：母親・母体に関する。"
+    ],
+    "en": [
+      "prenatal means occurring or existing before birth.",
+      "fetal means relating specifically to the fetus.",
+      "antenatal is largely synonymous with prenatal and is especially common in British English.",
+      "postnatal means occurring after birth.",
+      "perinatal means relating to the period around birth.",
+      "maternal means relating to the mother."
+    ]
+  },
+  "etymology": {
+    "ja": "pre-『前に』＋ natal『出生の』から成る。natal はラテン語 natalis『出生に関する』に由来し、nasci『生まれる』と同語族。native, nation, nature なども遠く同じ『生まれる』系の語根につながる。",
+    "en": "Formed from pre- ('before') plus natal ('relating to birth'). Natal comes from Latin natalis, from nasci ('to be born'). The same ancient root is also found in words such as native, nation, and nature."
+  },
+  "synonyms": [
+    {
+      "word": "antenatal",
+      "note": {
+        "ja": "prenatal とほぼ同義。特に英国の医療英語で一般的。",
+        "en": "Largely synonymous with prenatal and especially common in British medical usage."
+      }
+    },
+    {
+      "word": "fetal",
+      "note": {
+        "ja": "胎児に直接関係する語。prenatal は出生前という期間を表す。",
+        "en": "Relates specifically to the fetus, whereas prenatal describes the period before birth."
+      }
+    },
+    {
+      "word": "prebirth",
+      "note": {
+        "ja": "『出生前の』という意味の説明的な語。prenatal の方が医学用語として標準的。",
+        "en": "A descriptive alternative meaning 'before birth'; prenatal is the standard medical term."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "pränatal / vorgeburtlich",
+    "it": "prenatale",
+    "fr": "prénatal",
+    "es": "prenatal"
+  },
+  "collocations": {
+    "ja": [
+      "prenatal care — 妊婦健診・出生前ケア",
+      "prenatal diagnosis — 出生前診断",
+      "prenatal screening — 出生前スクリーニング",
+      "prenatal test — 出生前検査",
+      "prenatal development — 出生前発育",
+      "prenatal exposure — 胎内・出生前曝露",
+      "prenatal vitamin — 妊娠期用ビタミン剤",
+      "prenatal clinic — 妊婦健診外来",
+      "prenatal period — 出生前期間"
+    ],
+    "en": [
+      "prenatal care",
+      "prenatal diagnosis",
+      "prenatal screening",
+      "prenatal test",
+      "prenatal development",
+      "prenatal exposure",
+      "prenatal vitamin",
+      "prenatal clinic",
+      "prenatal period"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Regular prenatal care is important during pregnancy. — 妊娠中は定期的な妊婦健診が重要である。",
+      "The couple discussed prenatal screening with their doctor. — その夫婦は医師と出生前スクリーニングについて相談した。",
+      "Certain infections can affect prenatal development. — 一部の感染症は出生前の発育に影響を与えることがある。",
+      "The hospital offers specialized prenatal services. — その病院では専門的な出生前医療サービスを提供している。",
+      "Researchers studied the effects of prenatal exposure to environmental pollutants. — 研究者らは環境汚染物質への出生前曝露の影響を研究した。"
+    ],
+    "en": [
+      "Regular prenatal care is important during pregnancy.",
+      "The couple discussed prenatal screening with their doctor.",
+      "Certain infections can affect prenatal development.",
+      "The hospital offers specialized prenatal services.",
+      "Researchers studied the effects of prenatal exposure to environmental pollutants."
+    ]
+  }
+},
+{
+  "id": "postnatal",
+  "sid": "2026-00301",
+  "word": "postnatal",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "pregnancy",
+    "reproduction",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌpoʊstˈneɪtəl/",
+      "uk": "/ˌpəʊstˈneɪtəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "出生後の",
+      "産後の",
+      "出産後の母体または出生後の新生児に関する"
+    ],
+    "en": [
+      "occurring or existing after birth",
+      "relating to the period after childbirth",
+      "relating to the mother or baby during the period following birth"
+    ]
+  },
+  "nuance": {
+    "ja": "postnatal は『出生・出産の後』という時期を表す医学用語。postnatal care のように母体の産後ケアを指すことも、postnatal development のように出生後の子どもの発達を指すこともある。文脈によって誰の出生後なのかを判断する必要がある。米国英語では、母親の産後について postpartum が特によく使われる。",
+    "en": "Postnatal refers to the period after birth or childbirth. Depending on context, it can refer to the mother's recovery after delivery or to the baby's development after birth. In American English, postpartum is especially common when specifically referring to the mother's condition or care after childbirth."
+  },
+  "minimal": {
+    "ja": [
+      "postnatal：出生後の、産後の。",
+      "prenatal：出生前の。",
+      "antenatal：出生前の。特に英国英語で一般的。",
+      "perinatal：出生前後の周産期の。",
+      "postpartum：出産後の。特に母体についてよく使う。",
+      "neonatal：新生児期の。出生直後の乳児に焦点を置く。"
+    ],
+    "en": [
+      "postnatal means occurring after birth or childbirth.",
+      "prenatal means occurring before birth.",
+      "antenatal is another term for prenatal, especially common in British English.",
+      "perinatal refers to the period around birth.",
+      "postpartum refers especially to the mother after childbirth.",
+      "neonatal refers specifically to the newborn period."
+    ]
+  },
+  "etymology": {
+    "ja": "post-『後に』＋ natal『出生の』から成る。natal はラテン語 natalis『出生に関する』に由来し、nasci『生まれる』と関係する。したがって postnatal は文字どおり『出生後の』という意味。",
+    "en": "Formed from post- ('after') plus natal ('relating to birth'). Natal derives from Latin natalis, related to nasci ('to be born'). Postnatal therefore literally means 'after birth'."
+  },
+  "synonyms": [
+    {
+      "word": "postpartum",
+      "note": {
+        "ja": "特に母親の出産後の状態・期間を指す。postnatal より母体側に焦点が強い。",
+        "en": "Refers especially to the mother's condition or period after childbirth and is more specifically maternal than postnatal."
+      }
+    },
+    {
+      "word": "postbirth",
+      "note": {
+        "ja": "『出生後の』という説明的な表現。医学用語としては postnatal の方が一般的。",
+        "en": "A descriptive term meaning 'after birth'; postnatal is more established in medical usage."
+      }
+    },
+    {
+      "word": "neonatal",
+      "note": {
+        "ja": "新生児期に限定される。postnatal より意味範囲が狭い。",
+        "en": "Restricted to the newborn period and therefore narrower than postnatal."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "postnatal / nachgeburtlich",
+    "it": "postnatale",
+    "fr": "postnatal",
+    "es": "posnatal / postnatal"
+  },
+  "collocations": {
+    "ja": [
+      "postnatal care — 産後・出生後ケア",
+      "postnatal period — 産後期・出生後期間",
+      "postnatal development — 出生後発達",
+      "postnatal check-up — 産後健診",
+      "postnatal support — 産後支援",
+      "postnatal recovery — 産後の回復",
+      "postnatal depression — 産後うつ",
+      "postnatal ward — 産後病棟",
+      "early postnatal period — 出生後早期・産後早期"
+    ],
+    "en": [
+      "postnatal care",
+      "postnatal period",
+      "postnatal development",
+      "postnatal check-up",
+      "postnatal support",
+      "postnatal recovery",
+      "postnatal depression",
+      "postnatal ward",
+      "early postnatal period"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Good postnatal care is important for both mother and baby. — 適切な産後ケアは母親と赤ちゃんの双方にとって重要である。",
+      "The hospital provides postnatal support for new parents. — その病院では新しく親になった人たちに産後支援を提供している。",
+      "The study examined postnatal brain development. — その研究では出生後の脳発達を調べた。",
+      "She attended a postnatal check-up six weeks after giving birth. — 彼女は出産6週間後に産後健診を受けた。",
+      "The early postnatal period involves major physiological changes. — 産後早期には大きな生理的変化が起こる。"
+    ],
+    "en": [
+      "Good postnatal care is important for both mother and baby.",
+      "The hospital provides postnatal support for new parents.",
+      "The study examined postnatal brain development.",
+      "She attended a postnatal check-up six weeks after giving birth.",
+      "The early postnatal period involves major physiological changes."
+    ]
+  }
+},
+{
+  "id": "postpartum",
+  "sid": "2026-00302",
+  "word": "postpartum",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "pregnancy",
+    "reproduction",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj / adv"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌpoʊstˈpɑːrtəm/",
+      "uk": "/ˌpəʊstˈpɑːtəm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "出産後の、産後の",
+      "出産後に起こる・行われる",
+      "副詞的に、出産後に"
+    ],
+    "en": [
+      "occurring or existing after childbirth",
+      "relating to the period following delivery",
+      "after childbirth"
+    ]
+  },
+  "nuance": {
+    "ja": "postpartum は特に出産した母親の身体・心理・医療に関して『産後の』という意味で使われる。postpartum depression『産後うつ』、postpartum hemorrhage『分娩後出血』など医学的なコロケーションが多い。postnatal は母親にも赤ちゃんにも使えるが、postpartum は基本的に出産という出来事を経た母体側に焦点を置く。",
+    "en": "Postpartum refers specifically to the period after childbirth and is especially common when discussing the mother's physical or psychological condition. It appears in medical expressions such as postpartum depression and postpartum hemorrhage. Postnatal can refer to either the mother or the baby, whereas postpartum is more strongly centered on the mother after delivery."
+  },
+  "minimal": {
+    "ja": [
+      "postpartum：出産後の、産後の。特に母体について使う。",
+      "postnatal：出生後・産後の。母親にも赤ちゃんにも使える。",
+      "prenatal：出生前・妊娠中の。",
+      "perinatal：出産・出生の前後にわたる周産期の。",
+      "maternal：母親・母体に関する。",
+      "puerperal：産褥期の。より専門的な医学語。"
+    ],
+    "en": [
+      "postpartum means after childbirth, especially in relation to the mother.",
+      "postnatal can refer to either the mother or the baby after birth.",
+      "prenatal means before birth.",
+      "perinatal refers to the period around childbirth.",
+      "maternal means relating to the mother.",
+      "puerperal is a more technical medical term relating to the period after childbirth."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 post『後に』＋ partum に由来する。partum は parere『産む、生み出す』の過去分詞 partus に関係し、postpartum は文字どおり『出産の後』を意味する。同じ語族には parturition『分娩』、parturient『分娩中の』などがある。",
+    "en": "From Latin post ('after') plus partum, associated with partus, the past participle of parere ('to give birth, bring forth'). Postpartum therefore literally means 'after childbirth'. Related learned terms include parturition and parturient."
+  },
+  "synonyms": [
+    {
+      "word": "postnatal",
+      "note": {
+        "ja": "意味が大きく重なるが、postnatal は出生後の赤ちゃんについても使える。postpartum は母体側への焦点がより強い。",
+        "en": "Overlaps substantially with postpartum, but postnatal can also describe the baby after birth; postpartum is more strongly associated with the mother."
+      }
+    },
+    {
+      "word": "puerperal",
+      "note": {
+        "ja": "産褥期に関する医学的な専門語。postpartum より専門性が高い。",
+        "en": "A more technical medical adjective relating to the puerperium, the period following childbirth."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "postpartal / nach der Geburt",
+    "it": "post-partum / postpartum",
+    "fr": "post-partum",
+    "es": "posparto / postparto"
+  },
+  "collocations": {
+    "ja": [
+      "postpartum depression — 産後うつ",
+      "postpartum hemorrhage — 分娩後出血",
+      "postpartum care — 産後ケア",
+      "postpartum period — 産後期",
+      "postpartum recovery — 産後の回復",
+      "postpartum check-up — 産後健診",
+      "postpartum complications — 産後合併症",
+      "postpartum anxiety — 産後の不安症状",
+      "postpartum women — 産後の女性"
+    ],
+    "en": [
+      "postpartum depression",
+      "postpartum hemorrhage",
+      "postpartum care",
+      "postpartum period",
+      "postpartum recovery",
+      "postpartum check-up",
+      "postpartum complications",
+      "postpartum anxiety",
+      "postpartum women"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She experienced postpartum depression after the birth of her first child. — 彼女は第一子の出産後に産後うつを経験した。",
+      "Postpartum care is an important part of maternal health care. — 産後ケアは母体の健康管理において重要な部分である。",
+      "The patient developed postpartum hemorrhage shortly after delivery. — その患者は分娩直後に分娩後出血を起こした。",
+      "Recovery during the postpartum period varies from person to person. — 産後期の回復には個人差がある。",
+      "She returned for a postpartum check-up several weeks after giving birth. — 彼女は出産数週間後に産後健診を受けるため再受診した。"
+    ],
+    "en": [
+      "She experienced postpartum depression after the birth of her first child.",
+      "Postpartum care is an important part of maternal health care.",
+      "The patient developed postpartum hemorrhage shortly after delivery.",
+      "Recovery during the postpartum period varies from person to person.",
+      "She returned for a postpartum check-up several weeks after giving birth."
+    ]
+  }
+},
+{
+  "id": "postbirth",
+  "sid": "2026-00303",
+  "word": "postbirth",
+  "level": "C1",
+  "freq": "rare",
+  "tags": [
+    "medicine",
+    "reproduction",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌpoʊstˈbɝːθ/",
+      "uk": "/ˌpəʊstˈbɜːθ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "出生後の",
+      "誕生後に起こる・行われる"
+    ],
+    "en": [
+      "occurring or existing after birth",
+      "relating to the period following birth"
+    ]
+  },
+  "nuance": {
+    "ja": "postbirth は post-『後』＋ birth『出生』からなる非常に透明な語で、『出生後の』を意味する。ただし医学・医療の標準的な表現としては postnatal の方が一般的。母親の産後について述べる場合は postpartum がより自然なことが多い。postbirth は意味をその場で理解しやすい一方、やや説明的で頻度の低い語である。",
+    "en": "Postbirth is a transparent formation meaning 'after birth'. It is readily understandable, but postnatal is generally the more established medical term. When referring specifically to the mother after childbirth, postpartum is often more natural. Postbirth therefore tends to sound descriptive rather than highly technical."
+  },
+  "minimal": {
+    "ja": [
+      "postbirth：出生後の。意味は明快だが比較的まれ。",
+      "postnatal：出生後の。医学・医療でより標準的。",
+      "postpartum：出産後の。特に母体について使う。",
+      "prenatal：出生前の。",
+      "perinatal：出生前後・周産期の。",
+      "neonatal：新生児期の。"
+    ],
+    "en": [
+      "postbirth means occurring after birth and is relatively uncommon.",
+      "postnatal is the more established medical term for the period after birth.",
+      "postpartum refers especially to the mother after childbirth.",
+      "prenatal means before birth.",
+      "perinatal refers to the period around birth.",
+      "neonatal refers specifically to the newborn period."
+    ]
+  },
+  "etymology": {
+    "ja": "英語の接頭辞 post-『～の後』＋ birth『出生、誕生』から成る比較的新しい透明な複合語。post- はラテン語 post『後に』に由来する。一方 birth は古英語系のゲルマン語であり、postbirth はラテン語系接頭辞とゲルマン系語を組み合わせた混成的な語形成である。",
+    "en": "Formed transparently from post- ('after') and birth. Post- comes from Latin post, meaning 'after', while birth is a native Germanic word. Postbirth is therefore a hybrid formation combining a Latin-derived prefix with a Germanic base."
+  },
+  "synonyms": [
+    {
+      "word": "postnatal",
+      "note": {
+        "ja": "最も近い語。医学・医療では postbirth より一般的。",
+        "en": "The closest equivalent and generally more common in medical and healthcare contexts."
+      }
+    },
+    {
+      "word": "postpartum",
+      "note": {
+        "ja": "出産後の母体について述べる場合に特に一般的。",
+        "en": "Especially common when referring to the mother after childbirth."
+      }
+    },
+    {
+      "word": "after birth",
+      "note": {
+        "ja": "最も自然で一般的な言い換え。postbirth より日常的。",
+        "en": "The most straightforward everyday alternative and often more natural than postbirth."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "nachgeburtlich / nach der Geburt",
+    "it": "postnatale / dopo la nascita",
+    "fr": "postnatal / après la naissance",
+    "es": "posnatal / después del nacimiento"
+  },
+  "collocations": {
+    "ja": [
+      "postbirth development — 出生後の発達",
+      "postbirth growth — 出生後の成長",
+      "postbirth period — 出生後の期間",
+      "postbirth adaptation — 出生後の適応",
+      "postbirth care — 出生後ケア",
+      "early postbirth period — 出生後早期"
+    ],
+    "en": [
+      "postbirth development",
+      "postbirth growth",
+      "postbirth period",
+      "postbirth adaptation",
+      "postbirth care",
+      "early postbirth period"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The study followed the infants through the early postbirth period. — その研究では乳児を出生後早期まで追跡した。",
+      "Postbirth development is influenced by both genetic and environmental factors. — 出生後の発達は遺伝的要因と環境要因の両方の影響を受ける。",
+      "The researchers examined changes in postbirth growth. — 研究者らは出生後の成長の変化を調べた。",
+      "Some physiological adaptations occur shortly after birth rather than during prenatal development. — 一部の生理的適応は出生前ではなく出生直後に起こる。",
+      "In medical writing, postnatal is often preferred to postbirth. — 医学文献では postbirth より postnatal が好まれることが多い。"
+    ],
+    "en": [
+      "The study followed the infants through the early postbirth period.",
+      "Postbirth development is influenced by both genetic and environmental factors.",
+      "The researchers examined changes in postbirth growth.",
+      "Some physiological adaptations occur shortly after birth rather than during prenatal development.",
+      "In medical writing, postnatal is often preferred to postbirth."
+    ]
+  }
+},
+{
+  "id": "crop_up",
+  "sid": "2026-00304",
+  "word": "crop up",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal-verb",
+    "general",
+    "conversation",
+    "problem"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "intransitive",
+    "forms": {
+      "base": "crop up",
+      "third_person": "crops up",
+      "past": "cropped up",
+      "past_participle": "cropped up",
+      "gerund": "cropping up"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkrɑːp ˈʌp/",
+      "uk": "/ˌkrɒp ˈʌp/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "突然現れる、思いがけず出てくる",
+      "問題・困難・話題などが生じる",
+      "予期していなかったことが持ち上がる"
+    ],
+    "en": [
+      "to appear or happen unexpectedly",
+      "to arise suddenly, especially of a problem, difficulty, or issue",
+      "to come up unexpectedly"
+    ]
+  },
+  "nuance": {
+    "ja": "crop up は、問題・障害・質問・話題などが予期せず『ぽっと出てくる』ことを表す句動詞。多くの場合、主語は problem, issue, difficulty, question などで、人が意図的に何かを起こす意味ではない。come up とかなり近いが、crop up は『予想外に出現する』というニュアンスがやや強い。",
+    "en": "Crop up is an informal phrasal verb used when a problem, issue, question, difficulty, or other situation appears unexpectedly. It is typically intransitive. It is close to come up, but crop up often emphasizes the unexpected appearance of something."
+  },
+  "minimal": {
+    "ja": [
+      "crop up：予期せず突然出てくる・生じる。",
+      "come up：話題・問題などが出てくる。より一般的。",
+      "arise：問題・状況などが生じる。よりフォーマル。",
+      "emerge：徐々に姿を現す、明らかになる。",
+      "occur：出来事が起こる。中立的。",
+      "spring up：急に出現・発生する。人・建物・活動などにも使う。"
+    ],
+    "en": [
+      "crop up means to appear or arise unexpectedly.",
+      "come up is a broader and more neutral phrasal verb.",
+      "arise is more formal and often used of problems or situations.",
+      "emerge emphasizes becoming visible or known.",
+      "occur is a neutral verb meaning 'happen'.",
+      "spring up suggests sudden appearance or rapid emergence."
+    ]
+  },
+  "etymology": {
+    "ja": "crop は本来『作物、収穫物』を意味する語だが、動詞では『表面に現れる、頭を出す』という意味も発達した。crop up は、植物が地面から芽を出すように『突然現れる』という比喩的な発想から現在の意味になった。",
+    "en": "Crop originally refers to a harvested plant or yield, but the verb developed senses involving appearing or protruding. Crop up is figuratively based on the image of something suddenly appearing like a plant emerging from the ground."
+  },
+  "synonyms": [
+    {
+      "word": "come up",
+      "note": {
+        "ja": "最も近い日常表現。crop up より広く、単なる話題の登場にも使える。",
+        "en": "A very close everyday alternative, but broader and less strongly associated with unexpected appearance."
+      }
+    },
+    {
+      "word": "arise",
+      "note": {
+        "ja": "『生じる』。crop up よりフォーマルで、問題・疑問・必要性などによく使う。",
+        "en": "A more formal verb meaning 'come into existence or become relevant', often used of problems, questions, and needs."
+      }
+    },
+    {
+      "word": "emerge",
+      "note": {
+        "ja": "隠れていたものが現れる、事実などが明らかになることに重点。",
+        "en": "Emphasizes becoming visible, apparent, or known rather than merely occurring unexpectedly."
+      }
+    },
+    {
+      "word": "spring up",
+      "note": {
+        "ja": "急に出現する。crop up より物理的な対象や活動にも広く使える。",
+        "en": "Means to appear or develop suddenly and can be used more broadly of places, businesses, groups, and activities."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "auftauchen / sich ergeben",
+    "it": "spuntare / sorgere",
+    "fr": "surgir / apparaître",
+    "es": "surgir / aparecer"
+  },
+  "collocations": {
+    "ja": [
+      "problems crop up — 問題が持ち上がる",
+      "issues crop up — 問題が生じる",
+      "difficulties crop up — 困難が生じる",
+      "questions crop up — 疑問が出てくる",
+      "unexpected problems crop up — 予期せぬ問題が生じる",
+      "crop up unexpectedly — 思いがけず生じる",
+      "keep cropping up — 何度も繰り返し出てくる",
+      "something crops up — 何か用事・問題が突然入る"
+    ],
+    "en": [
+      "problems crop up",
+      "issues crop up",
+      "difficulties crop up",
+      "questions crop up",
+      "unexpected problems crop up",
+      "crop up unexpectedly",
+      "keep cropping up",
+      "something crops up"
+    ]
+  },
+  "example": {
+    "ja": [
+      "A few unexpected problems cropped up during the project. — プロジェクトの途中でいくつか予期せぬ問題が持ち上がった。",
+      "If any issues crop up, let me know immediately. — 何か問題が生じたら、すぐに知らせてください。",
+      "The same question keeps cropping up in our discussions. — 私たちの議論では同じ疑問が何度も出てくる。",
+      "Something has cropped up, so I may be late. — 急な用事が入ったので、遅れるかもしれない。",
+      "New difficulties can crop up at any stage of the process. — 新たな困難はその過程のどの段階でも生じうる。"
+    ],
+    "en": [
+      "A few unexpected problems cropped up during the project.",
+      "If any issues crop up, let me know immediately.",
+      "The same question keeps cropping up in our discussions.",
+      "Something has cropped up, so I may be late.",
+      "New difficulties can crop up at any stage of the process."
+    ]
+  }
+},
+{
+  "id": "come_up",
+  "sid": "2026-00305",
+  "word": "come up",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal-verb",
+    "general",
+    "conversation",
+    "problem"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "intransitive",
+    "forms": {
+      "base": "come up",
+      "third_person": "comes up",
+      "past": "came up",
+      "past_participle": "come up",
+      "gerund": "coming up"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkʌm ˈʌp/",
+      "uk": "/ˌkʌm ˈʌp/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "話題・問題・疑問などが出てくる、持ち上がる",
+      "機会・空き・仕事などが生じる",
+      "予定された出来事が近づく",
+      "人が近づいてくる"
+    ],
+    "en": [
+      "to arise or be mentioned, especially of a topic, question, or problem",
+      "to become available or occur, especially of an opportunity or position",
+      "to be approaching in time",
+      "to approach someone or something"
+    ]
+  },
+  "nuance": {
+    "ja": "come up は非常に頻度の高い句動詞で、『何かが出てくる』という広い意味を持つ。話題・問題・疑問・機会などに幅広く使える。crop up と比べると、予想外・突然というニュアンスは弱く、単に『生じる・話題に上る』という中立的な表現。さらに an exam is coming up のように『予定が近づいている』、someone came up to me のように『人が近づいてきた』という意味でも使う。",
+    "en": "Come up is a very common phrasal verb with several related meanings centered on something appearing, arising, approaching, or becoming relevant. Compared with crop up, it is broader and more neutral, with less emphasis on unexpectedness. It can refer to topics, problems, opportunities, upcoming events, or physical approach."
+  },
+  "minimal": {
+    "ja": [
+      "come up：話題・問題などが出てくる。最も一般的で中立。",
+      "crop up：予期せず問題などがひょいと生じる。",
+      "arise：問題・疑問などが生じる。よりフォーマル。",
+      "come up with：考え・解決策などを思いつく。come up とは別構文。",
+      "bring up：話題を持ち出す。他動詞的。",
+      "be coming up：予定・締切などが近づいている。"
+    ],
+    "en": [
+      "come up means to arise, appear, or become relevant.",
+      "crop up emphasizes unexpected appearance.",
+      "arise is a more formal alternative.",
+      "come up with means to produce or think of an idea and is a different construction.",
+      "bring up means to introduce a topic deliberately.",
+      "be coming up means that an event or deadline is approaching."
+    ]
+  },
+  "etymology": {
+    "ja": "come と up の組み合わせによる古い句動詞。もともとの物理的な『上へ来る、近づいてくる』という意味から、『物事が表面に現れる』『話題や問題として持ち上がる』という比喩的意味が発達した。",
+    "en": "An old phrasal combination of come and up. From the literal senses of moving upward or approaching, it developed figurative meanings involving something appearing, arising, or becoming a subject of attention."
+  },
+  "synonyms": [
+    {
+      "word": "arise",
+      "note": {
+        "ja": "問題・疑問・必要性などが生じる。come up よりフォーマル。",
+        "en": "A more formal alternative often used for problems, questions, and needs."
+      }
+    },
+    {
+      "word": "crop up",
+      "note": {
+        "ja": "問題などが予期せず突然現れることを強調。",
+        "en": "Emphasizes the unexpected appearance of a problem or situation."
+      }
+    },
+    {
+      "word": "emerge",
+      "note": {
+        "ja": "事実・傾向などが次第に現れる、明らかになる。",
+        "en": "Emphasizes gradually becoming visible, apparent, or known."
+      }
+    },
+    {
+      "word": "occur",
+      "note": {
+        "ja": "出来事が起こるという中立的な語。",
+        "en": "A neutral verb meaning that an event happens."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "aufkommen / auftauchen / sich ergeben",
+    "it": "sorgere / emergere / presentarsi",
+    "fr": "surgir / se présenter",
+    "es": "surgir / presentarse"
+  },
+  "collocations": {
+    "ja": [
+      "a problem comes up — 問題が生じる",
+      "a question comes up — 疑問が出る",
+      "the topic came up — その話題が出た",
+      "an opportunity comes up — 機会が生じる",
+      "a vacancy comes up — 空き・欠員が出る",
+      "something came up — 何か用事・事情が生じた",
+      "an exam is coming up — 試験が近づいている",
+      "a deadline is coming up — 締切が迫っている",
+      "come up in conversation — 会話の中で話題に上る"
+    ],
+    "en": [
+      "a problem comes up",
+      "a question comes up",
+      "the topic came up",
+      "an opportunity comes up",
+      "a vacancy comes up",
+      "something came up",
+      "an exam is coming up",
+      "a deadline is coming up",
+      "come up in conversation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The issue came up during the meeting. — その問題は会議中に話題に上った。",
+      "If any questions come up, feel free to ask. — 何か疑問が出てきたら、遠慮なく聞いてください。",
+      "Something came up, so I had to cancel dinner. — 急な用事ができたので、夕食の予定をキャンセルしなければならなかった。",
+      "A good opportunity came up at work. — 仕事で良い機会が巡ってきた。",
+      "My final exam is coming up next week. — 来週、期末試験が迫っている。"
+    ],
+    "en": [
+      "The issue came up during the meeting.",
+      "If any questions come up, feel free to ask.",
+      "Something came up, so I had to cancel dinner.",
+      "A good opportunity came up at work.",
+      "My final exam is coming up next week."
+    ]
+  }
+},
+{
+  "id": "bring_up",
+  "sid": "2026-00306",
+  "word": "bring up",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal-verb",
+    "conversation",
+    "general",
+    "family"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "bring up",
+      "third_person": "brings up",
+      "past": "brought up",
+      "past_participle": "brought up",
+      "gerund": "bringing up"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌbrɪŋ ˈʌp/",
+      "uk": "/ˌbrɪŋ ˈʌp/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "話題・問題などを持ち出す、話に出す",
+      "子どもを育てる、養育する",
+      "画面・情報などを表示させる、呼び出す"
+    ],
+    "en": [
+      "to introduce a subject or issue into a conversation or discussion",
+      "to raise and care for a child until adulthood",
+      "to make information or a display appear, especially on a screen"
+    ]
+  },
+  "nuance": {
+    "ja": "bring up の中心的な用法の一つは、誰かが意図的に話題・問題を『持ち出す』こと。come up が『話題が自然に出てくる』という自動詞的表現なのに対し、bring up は人が能動的に話題を導入する他動詞的表現である。また be brought up の形では『育てられる』という意味が非常に一般的。",
+    "en": "One of the main uses of bring up is to deliberately introduce a topic, question, or issue into a conversation. Unlike come up, where the topic itself arises, bring up is transitive and focuses on the person who introduces it. It is also very common in the sense of raising a child, especially in the passive form be brought up."
+  },
+  "minimal": {
+    "ja": [
+      "bring up：話題を意図的に持ち出す。",
+      "come up：話題・問題が自然に出てくる。",
+      "come up with：考え・解決策などを思いつく。",
+      "mention：簡単に言及する。bring up より軽いことが多い。",
+      "raise：問題・疑問などを提起する。よりフォーマル。",
+      "bring up a child：子どもを育てる。"
+    ],
+    "en": [
+      "bring up means to deliberately introduce a topic.",
+      "come up means that a topic or issue arises.",
+      "come up with means to produce or think of an idea.",
+      "mention often means to refer to something briefly.",
+      "raise is a more formal verb for introducing an issue or question.",
+      "bring up a child means to raise a child."
+    ]
+  },
+  "etymology": {
+    "ja": "bring『運ぶ、持ってくる』＋ up『上へ』からなる句動詞。物理的に何かを『上へ持ってくる』という発想から、話題を会話の表面へ『持ち上げる』、子どもを成長させて『育て上げる』などの比喩的意味が発達した。",
+    "en": "A phrasal verb formed from bring and up. From the literal idea of bringing something upward, it developed figurative senses such as bringing a topic into discussion and bringing a child up to adulthood."
+  },
+  "synonyms": [
+    {
+      "word": "mention",
+      "note": {
+        "ja": "単に話に触れること。bring up より『議題として持ち出す』ニュアンスが弱い。",
+        "en": "Often means simply to refer to something, with less emphasis on deliberately introducing it for discussion."
+      }
+    },
+    {
+      "word": "raise",
+      "note": {
+        "ja": "問題・疑問・懸念などを提起する。bring up よりフォーマル。",
+        "en": "A more formal verb commonly used for introducing an issue, question, or concern."
+      }
+    },
+    {
+      "word": "introduce",
+      "note": {
+        "ja": "新しい話題を導入するという意味では近いが、より中立的・形式的。",
+        "en": "Can mean to introduce a new topic and is often more neutral or formal."
+      }
+    },
+    {
+      "word": "raise",
+      "note": {
+        "ja": "子どもを育てるという意味でも bring up と非常に近い。",
+        "en": "Also a close synonym of bring up in the sense of caring for and educating a child."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ansprechen / erwähnen / aufziehen",
+    "it": "sollevare / menzionare / crescere",
+    "fr": "aborder / évoquer / élever",
+    "es": "sacar a colación / mencionar / criar"
+  },
+  "collocations": {
+    "ja": [
+      "bring up a topic — 話題を持ち出す",
+      "bring up an issue — 問題を提起する",
+      "bring up a question — 質問・疑問を持ち出す",
+      "bring up a concern — 懸念を提起する",
+      "bring up the subject — その話題を持ち出す",
+      "bring something up in a meeting — 会議で何かを取り上げる",
+      "bring up a child — 子どもを育てる",
+      "be brought up by grandparents — 祖父母に育てられる",
+      "be brought up in Tokyo — 東京で育つ"
+    ],
+    "en": [
+      "bring up a topic",
+      "bring up an issue",
+      "bring up a question",
+      "bring up a concern",
+      "bring up the subject",
+      "bring something up in a meeting",
+      "bring up a child",
+      "be brought up by grandparents",
+      "be brought up in Tokyo"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She brought up the issue during the meeting. — 彼女は会議中にその問題を持ち出した。",
+      "I didn't want to bring up such a sensitive subject. — そんなデリケートな話題を持ち出したくなかった。",
+      "He brought up an interesting question. — 彼は興味深い問題を提起した。",
+      "She was brought up by her grandparents. — 彼女は祖父母に育てられた。",
+      "I was brought up in a small town near the coast. — 私は海岸近くの小さな町で育った。"
+    ],
+    "en": [
+      "She brought up the issue during the meeting.",
+      "I didn't want to bring up such a sensitive subject.",
+      "He brought up an interesting question.",
+      "She was brought up by her grandparents.",
+      "I was brought up in a small town near the coast."
+    ]
+  }
+},
+{
+  "id": "come_up_with",
+  "sid": "2026-00307",
+  "word": "come up with",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal-verb",
+    "general",
+    "conversation",
+    "thinking"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "come up with",
+      "third_person": "comes up with",
+      "past": "came up with",
+      "past_participle": "come up with",
+      "gerund": "coming up with"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkʌm ˈʌp wɪð/",
+      "uk": "/ˌkʌm ˈʌp wɪð/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "アイデア・計画・解決策などを思いつく、考え出す",
+      "必要な金銭・情報・証拠などを用意する、捻出する"
+    ],
+    "en": [
+      "to think of or produce an idea, plan, solution, answer, or similar result",
+      "to manage to provide or obtain something that is needed"
+    ]
+  },
+  "nuance": {
+    "ja": "come up with は『考えた結果として何かを生み出す』ことを表す非常に一般的な句動詞。idea, solution, plan, explanation, answer などとよく使う。come up が『問題・話題などが出てくる』という自動詞なのに対し、come up with は目的語を取り、『人が何かを思いつく・生み出す』という意味になる。また money や evidence などについて『何とか用意する、捻出する』という用法もある。",
+    "en": "Come up with is a very common phrasal verb meaning to think of, devise, or produce something such as an idea, solution, plan, or explanation. Unlike intransitive come up, come up with takes an object. It can also mean managing to provide something needed, such as money or evidence."
+  },
+  "minimal": {
+    "ja": [
+      "come up with：アイデア・解決策などを思いつく、考え出す。",
+      "come up：話題・問題などが出てくる。",
+      "bring up：話題・問題などを意図的に持ち出す。",
+      "think of：思いつく。最も一般的で広い。",
+      "devise：方法・計画などを工夫して考案する。よりフォーマル。",
+      "figure out：考えて答え・解決法を見つけ出す。"
+    ],
+    "en": [
+      "come up with means to think of or produce an idea, solution, or plan.",
+      "come up means that something arises or becomes relevant.",
+      "bring up means to deliberately introduce a topic.",
+      "think of is a broader everyday expression for producing an idea.",
+      "devise emphasizes deliberately designing a method, plan, or system.",
+      "figure out emphasizes finding an answer or solution through thought."
+    ]
+  },
+  "etymology": {
+    "ja": "come up に with が結びついた句動詞。come up の『表面に現れる・出てくる』という意味から、何らかの考えや答えを伴って『出てくる』、すなわち『考え出す・提示する』という意味が発達した。現代英語では一まとまりの句動詞として覚えるのが実用的。",
+    "en": "A phrasal construction built from come up and with. From the idea of something coming forward or appearing, it developed the sense of producing or presenting an idea, answer, solution, or other needed item. In modern English it is best learned as a fixed phrasal verb."
+  },
+  "synonyms": [
+    {
+      "word": "think of",
+      "note": {
+        "ja": "『思いつく』の最も一般的な表現。come up with より意味範囲が広い。",
+        "en": "A broad and very common expression meaning to form or produce an idea in one's mind."
+      }
+    },
+    {
+      "word": "devise",
+      "note": {
+        "ja": "計画・方法・仕組みなどを工夫して考案する。come up with よりフォーマル。",
+        "en": "A more formal verb emphasizing deliberate invention or planning."
+      }
+    },
+    {
+      "word": "conceive",
+      "note": {
+        "ja": "考え・構想などを頭の中で生み出す。ややフォーマル。",
+        "en": "A relatively formal verb meaning to form an idea, plan, or concept in the mind."
+      }
+    },
+    {
+      "word": "produce",
+      "note": {
+        "ja": "答え・証拠・案などを『出す、提示する』意味では近いが、必ずしも『思いつく』とは限らない。",
+        "en": "Can mean to provide or present something, but does not necessarily imply thinking it up."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sich etwas einfallen lassen / sich etwas ausdenken",
+    "it": "inventarsi / trovare / escogitare",
+    "fr": "trouver / imaginer",
+    "es": "idear / ocurrírsele / encontrar"
+  },
+  "collocations": {
+    "ja": [
+      "come up with an idea — アイデアを思いつく",
+      "come up with a solution — 解決策を考え出す",
+      "come up with a plan — 計画を立案する",
+      "come up with an answer — 答えを考え出す",
+      "come up with an explanation — 説明を考え出す",
+      "come up with a proposal — 提案を考案する",
+      "come up with a name — 名前を考える",
+      "come up with the money — 必要な金を何とか用意する",
+      "come up with evidence — 証拠を提示・用意する"
+    ],
+    "en": [
+      "come up with an idea",
+      "come up with a solution",
+      "come up with a plan",
+      "come up with an answer",
+      "come up with an explanation",
+      "come up with a proposal",
+      "come up with a name",
+      "come up with the money",
+      "come up with evidence"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We need to come up with a better solution. — もっと良い解決策を考え出す必要がある。",
+      "She came up with an interesting idea during the meeting. — 彼女は会議中に面白いアイデアを思いついた。",
+      "Can you come up with a name for the new project? — 新しいプロジェクトの名前を考えてくれますか。",
+      "He couldn't come up with a convincing explanation. — 彼は説得力のある説明を考え出せなかった。",
+      "They somehow came up with the money to complete the project. — 彼らはどうにかしてプロジェクト完成に必要な資金を捻出した。"
+    ],
+    "en": [
+      "We need to come up with a better solution.",
+      "She came up with an interesting idea during the meeting.",
+      "Can you come up with a name for the new project?",
+      "He couldn't come up with a convincing explanation.",
+      "They somehow came up with the money to complete the project."
+    ]
+  }
+},
+{
+  "id": "conceive",
+  "sid": "2026-00308",
+  "word": "conceive",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "thinking",
+    "reproduction",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive / intransitive",
+    "forms": {
+      "base": "conceive",
+      "third_person": "conceives",
+      "past": "conceived",
+      "past_participle": "conceived",
+      "gerund": "conceiving"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈsiːv/",
+      "uk": "/kənˈsiːv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "考え・計画・構想などを思いつく、考案する",
+      "ある物事を心に描く、想像する、理解する",
+      "妊娠する、子をもうける"
+    ],
+    "en": [
+      "to form or develop an idea, plan, or concept in the mind",
+      "to imagine, understand, or think of something in a particular way",
+      "to become pregnant or to cause a pregnancy"
+    ]
+  },
+  "nuance": {
+    "ja": "conceive は think of や come up with よりフォーマルで、単に一瞬『思いつく』というより、構想・概念・計画を頭の中で形作るニュアンスがある。conceive of ... の形では『～を想像する、～というものを考える』という意味になる。また生殖の文脈では『妊娠する、子をもうける』という重要な意味を持つ。",
+    "en": "Conceive is more formal than think of or come up with and often suggests forming a developed idea, plan, or concept in the mind. In the construction conceive of, it means to imagine or think of something as possible. In reproductive contexts, it means to become pregnant or to cause conception."
+  },
+  "minimal": {
+    "ja": [
+      "conceive：構想・考えを頭の中で形成する。フォーマル。",
+      "come up with：アイデア・解決策などを思いつく。日常的。",
+      "think of：思いつく、考える。最も一般的。",
+      "devise：計画・方法などを工夫して考案する。",
+      "conceive of：～を想像する、～という可能性を考える。",
+      "conceive a child：子をもうける、妊娠する。"
+    ],
+    "en": [
+      "conceive means to form an idea, plan, or concept in the mind.",
+      "come up with is a more everyday expression for producing an idea or solution.",
+      "think of is broader and more general.",
+      "devise emphasizes deliberately designing a plan or method.",
+      "conceive of means to imagine or think of something as possible.",
+      "conceive a child means to become pregnant with or create a child."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 concevoir を経て、ラテン語 concipere『受け取る、取り込む、妊娠する、心に抱く』に由来する。con-『共に、完全に』＋ capere『取る』から成り、文字どおりは『取り込む』という発想。そこから『心の中に考えを取り込む＝思いつく』と『胎内に子を宿す＝妊娠する』という二つの意味が発達した。receive, perceive, deceive などの -ceive も同じ capere 系。",
+    "en": "From Old French concevoir, ultimately from Latin concipere, meaning 'to take in, receive, become pregnant, or form in the mind'. It is formed from con- plus capere ('to take'). This underlying idea of 'taking in' developed both into the mental sense of forming an idea and the reproductive sense of becoming pregnant. The -ceive in receive, perceive, and deceive belongs to the same Latin family."
+  },
+  "synonyms": [
+    {
+      "word": "imagine",
+      "note": {
+        "ja": "心にイメージを描くことに重点。conceive より一般的。",
+        "en": "Emphasizes forming a mental image and is more general than conceive."
+      }
+    },
+    {
+      "word": "devise",
+      "note": {
+        "ja": "計画・方法・仕組みなどを意図的に考案する。",
+        "en": "Emphasizes deliberately designing or inventing a plan, method, or system."
+      }
+    },
+    {
+      "word": "formulate",
+      "note": {
+        "ja": "考え・理論・方針などを明確な形にまとめる。",
+        "en": "Emphasizes developing an idea, theory, or policy into a clear and systematic form."
+      }
+    },
+    {
+      "word": "become pregnant",
+      "note": {
+        "ja": "生殖の意味での最も一般的な言い換え。",
+        "en": "The most straightforward everyday equivalent in the reproductive sense."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "konzipieren / sich vorstellen / empfangen",
+    "it": "concepire",
+    "fr": "concevoir",
+    "es": "concebir"
+  },
+  "collocations": {
+    "ja": [
+      "conceive an idea — アイデアを構想する",
+      "conceive a plan — 計画を考案する",
+      "conceive a project — プロジェクトを構想する",
+      "conceive a new approach — 新しい方法を考案する",
+      "conceive of something — 何かを想像する・考える",
+      "hard to conceive — 想像しにくい",
+      "originally conceived as — 当初～として構想された",
+      "conceive a child — 子をもうける",
+      "conceive naturally — 自然妊娠する"
+    ],
+    "en": [
+      "conceive an idea",
+      "conceive a plan",
+      "conceive a project",
+      "conceive a new approach",
+      "conceive of something",
+      "hard to conceive",
+      "originally conceived as",
+      "conceive a child",
+      "conceive naturally"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The project was originally conceived as a small experiment. — そのプロジェクトは当初、小規模な実験として構想された。",
+      "She conceived a new approach to the problem. — 彼女はその問題に対する新しいアプローチを考案した。",
+      "It is difficult to conceive of a world without the internet. — インターネットのない世界を想像するのは難しい。",
+      "The idea was conceived decades ago but never implemented. — そのアイデアは数十年前に考案されたが、実施されなかった。",
+      "They were able to conceive naturally. — 彼らは自然に妊娠することができた。"
+    ],
+    "en": [
+      "The project was originally conceived as a small experiment.",
+      "She conceived a new approach to the problem.",
+      "It is difficult to conceive of a world without the internet.",
+      "The idea was conceived decades ago but never implemented.",
+      "They were able to conceive naturally."
+    ]
+  }
+},
+{
+  "id": "misconceive",
+  "sid": "2026-00309",
+  "word": "misconceive",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "formal",
+    "thinking",
+    "misunderstanding",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive / intransitive",
+    "forms": {
+      "base": "misconceive",
+      "third_person": "misconceives",
+      "past": "misconceived",
+      "past_participle": "misconceived",
+      "gerund": "misconceiving"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌmɪskənˈsiːv/",
+      "uk": "/ˌmɪskənˈsiːv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "誤って理解する、誤解する",
+      "物事について誤った考え・概念を抱く",
+      "性質・目的・状況などを誤って捉える"
+    ],
+    "en": [
+      "to understand or conceive of something incorrectly",
+      "to form a mistaken idea or conception of something",
+      "to interpret the nature, purpose, or circumstances of something wrongly"
+    ]
+  },
+  "nuance": {
+    "ja": "misconceive は『頭の中で物事を誤った形で捉える』ことを表す、やや古風・文語的な語。単なる聞き違いなどより、ある概念・制度・状況の本質について誤った理解を形成している場合に向く。現代の日常英語では misunderstand の方がはるかに一般的で、法律・評論・学術的な文章では misconstrue や misinterpret もよく使われる。",
+    "en": "Misconceive is a relatively rare and somewhat literary or formal verb meaning to form an incorrect conception of something. It often suggests a mistaken understanding of the nature, purpose, or structure of an idea or situation rather than a simple failure to hear or follow something. In everyday English, misunderstand is much more common."
+  },
+  "minimal": {
+    "ja": [
+      "misconceive：物事について誤った概念・理解を形成する。まれで硬い。",
+      "misunderstand：誤解する。最も一般的。",
+      "misconstrue：発言・行為・規則などの意味を誤って解釈する。フォーマル。",
+      "misinterpret：情報・データ・意味などを誤って解釈する。",
+      "conceive：考え・概念を心に形成する。",
+      "misconception：誤解、誤った考え。misconceive よりはるかに一般的。"
+    ],
+    "en": [
+      "misconceive means to form an incorrect conception of something and is relatively rare.",
+      "misunderstand is the ordinary general verb for understanding something incorrectly.",
+      "misconstrue emphasizes giving the wrong interpretation to words, actions, or rules.",
+      "misinterpret emphasizes interpreting information or meaning incorrectly.",
+      "conceive means to form an idea or concept in the mind.",
+      "misconception is the common noun for a mistaken belief or idea."
+    ]
+  },
+  "etymology": {
+    "ja": "mis-『誤って、不適切に』＋ conceive『心に抱く、考える』から成る。conceive はラテン語 concipere『取り込む、心に抱く』に由来するため、misconceive は文字どおりには『誤った形で心に取り込む』という構造。名詞 misconception も同じ語形成で、こちらの方が現代英語では一般的。",
+    "en": "Formed from mis- ('wrongly, incorrectly') plus conceive ('to form in the mind'). Since conceive ultimately comes from Latin concipere, 'to take in or form in the mind', misconceive literally suggests taking or forming something in the mind incorrectly. The related noun misconception is much more common in modern English."
+  },
+  "synonyms": [
+    {
+      "word": "misunderstand",
+      "note": {
+        "ja": "もっとも一般的な『誤解する』。misconceive よりはるかに頻繁。",
+        "en": "The ordinary and much more frequent verb meaning to understand incorrectly."
+      }
+    },
+    {
+      "word": "misconstrue",
+      "note": {
+        "ja": "発言・意図・法律・行為などを誤って解釈することに重点。",
+        "en": "Emphasizes interpreting words, intentions, actions, or rules incorrectly."
+      }
+    },
+    {
+      "word": "misinterpret",
+      "note": {
+        "ja": "意味・データ・兆候などの解釈を誤ることに重点。",
+        "en": "Emphasizes drawing the wrong meaning or conclusion from information, signs, or data."
+      }
+    },
+    {
+      "word": "mistake",
+      "note": {
+        "ja": "mistake A for B の形で『AをBと取り違える』。より一般的。",
+        "en": "In the construction mistake A for B, means to identify or understand one thing as another."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "missverstehen / falsch auffassen",
+    "it": "fraintendere / concepire erroneamente",
+    "fr": "méconnaître / concevoir à tort",
+    "es": "malinterpretar / concebir erróneamente"
+  },
+  "collocations": {
+    "ja": [
+      "misconceive the nature of — ～の本質を誤解する",
+      "misconceive the purpose of — ～の目的を誤解する",
+      "misconceive the problem — 問題を誤って捉える",
+      "misconceive the relationship between — ～の関係を誤って理解する",
+      "fundamentally misconceive — 根本的に誤解する",
+      "completely misconceive — 完全に誤解する",
+      "widely misconceived — 広く誤って理解されている"
+    ],
+    "en": [
+      "misconceive the nature of",
+      "misconceive the purpose of",
+      "misconceive the problem",
+      "misconceive the relationship between",
+      "fundamentally misconceive",
+      "completely misconceive",
+      "widely misconceived"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He fundamentally misconceived the nature of the problem. — 彼はその問題の本質を根本的に誤解していた。",
+      "The proposal misconceives the relationship between regulation and competition. — その提案は規制と競争の関係を誤って捉えている。",
+      "They had misconceived the purpose of the experiment. — 彼らはその実験の目的を誤解していた。",
+      "It would be a mistake to misconceive the issue as purely economic. — その問題を純粋に経済的なものだと誤って捉えるのは間違いだろう。",
+      "The theory has sometimes been misconceived as a rejection of individual responsibility. — その理論は個人の責任を否定するものだと誤解されることがある。"
+    ],
+    "en": [
+      "He fundamentally misconceived the nature of the problem.",
+      "The proposal misconceives the relationship between regulation and competition.",
+      "They had misconceived the purpose of the experiment.",
+      "It would be a mistake to misconceive the issue as purely economic.",
+      "The theory has sometimes been misconceived as a rejection of individual responsibility."
+    ]
+  }
+},
+{
+  "id": "misconception",
+  "sid": "2026-00310",
+  "word": "misconception",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "thinking",
+    "misunderstanding",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "misconceptions"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌmɪskənˈsepʃən/",
+      "uk": "/ˌmɪskənˈsepʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "誤解、思い違い",
+      "事実ではないのに正しいと思い込まれている考え",
+      "物事について形成された誤った概念・認識"
+    ],
+    "en": [
+      "a belief or idea that is incorrect",
+      "a mistaken understanding of something",
+      "an incorrect conception or assumption about the nature of something"
+    ]
+  },
+  "nuance": {
+    "ja": "misconception は単なる一時的な聞き違いというより、ある物事について頭の中に形成された『誤った考え・認識』を指す。common misconception『よくある誤解』、popular misconception『広く信じられている誤解』などが非常に一般的。misunderstanding が人と人との意思疎通上の行き違いにも広く使えるのに対し、misconception は誤った知識・信念・概念そのものに焦点を置く。",
+    "en": "A misconception is an incorrect belief or mental conception rather than merely a temporary failure to understand. It commonly appears in expressions such as 'common misconception' and 'popular misconception'. Unlike misunderstanding, which can describe a communication failure between people, misconception focuses more specifically on a mistaken belief or idea."
+  },
+  "minimal": {
+    "ja": [
+      "misconception：誤った考え・認識、思い違い。",
+      "misunderstanding：誤解。意思疎通上の行き違いにも使える。",
+      "misinterpretation：意味・データ・発言などの誤った解釈。",
+      "fallacy：誤った推論・論理的誤謬。",
+      "myth：広く信じられているが事実ではない通説。",
+      "misconceive：物事を誤って捉える。動詞で比較的まれ。"
+    ],
+    "en": [
+      "misconception is an incorrect belief or idea.",
+      "misunderstanding is broader and can refer to failures of communication.",
+      "misinterpretation is an incorrect interpretation of meaning, data, or evidence.",
+      "fallacy is an error in reasoning or a logically flawed belief.",
+      "myth can refer to a widely held but false belief.",
+      "misconceive is the relatively rare verb meaning to form an incorrect conception."
+    ]
+  },
+  "etymology": {
+    "ja": "mis-『誤って』＋ conception『概念、考え』から成る。conception は conceive と同じくラテン語 concipere『取り込む、心に抱く、妊娠する』に由来する。したがって misconception は文字どおり『誤って形成された考え』。なお conception 自体には『概念・着想』だけでなく『受胎』という意味もあるが、misconception は通常『誤解』の意味で使われる。",
+    "en": "Formed from mis- ('wrongly') plus conception ('an idea or mental formulation'). Conception is related to conceive and ultimately derives from Latin concipere, meaning 'to take in, form in the mind, or become pregnant'. Misconception therefore literally means an incorrectly formed conception."
+  },
+  "synonyms": [
+    {
+      "word": "misunderstanding",
+      "note": {
+        "ja": "より広い『誤解』。会話・意図・関係上の行き違いにも使う。",
+        "en": "A broader term that can also refer to a failure of communication or understanding between people."
+      }
+    },
+    {
+      "word": "misbelief",
+      "note": {
+        "ja": "誤った信念・考え。misconception に近いが、ややまれ。",
+        "en": "A false belief; close in meaning but less common than misconception."
+      }
+    },
+    {
+      "word": "fallacy",
+      "note": {
+        "ja": "特に推論や論理の誤りに基づく誤った考え。",
+        "en": "An erroneous belief or argument, especially one involving faulty reasoning."
+      }
+    },
+    {
+      "word": "myth",
+      "note": {
+        "ja": "一般に広く信じられているが事実ではない考え、という意味で重なる。",
+        "en": "Can mean a widely held but false belief and overlaps with misconception in that sense."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Missverständnis / Fehlvorstellung",
+    "it": "idea sbagliata / concezione errata",
+    "fr": "idée fausse / conception erronée",
+    "es": "idea equivocada / concepto erróneo"
+  },
+  "collocations": {
+    "ja": [
+      "common misconception — よくある誤解",
+      "popular misconception — 広く信じられている誤解",
+      "widespread misconception — 広く蔓延している誤解",
+      "persistent misconception — 根強い誤解",
+      "fundamental misconception — 根本的な誤解",
+      "misconception about something — ～についての誤解",
+      "correct a misconception — 誤解を正す",
+      "dispel a misconception — 誤解を解く",
+      "be based on a misconception — 誤解に基づいている"
+    ],
+    "en": [
+      "common misconception",
+      "popular misconception",
+      "widespread misconception",
+      "persistent misconception",
+      "fundamental misconception",
+      "misconception about something",
+      "correct a misconception",
+      "dispel a misconception",
+      "be based on a misconception"
+    ]
+  },
+  "example": {
+    "ja": [
+      "It is a common misconception that antibiotics are effective against viruses. — 抗生物質がウイルスに効くというのは、よくある誤解だ。",
+      "The article attempts to dispel several misconceptions about the issue. — その記事は、その問題についてのいくつかの誤解を解こうとしている。",
+      "His argument is based on a fundamental misconception. — 彼の議論は根本的な誤解に基づいている。",
+      "There are many misconceptions about how the system works. — そのシステムの仕組みについては多くの誤解がある。",
+      "The teacher corrected a widespread misconception among the students. — 教師は生徒たちの間に広まっていた誤解を訂正した。"
+    ],
+    "en": [
+      "It is a common misconception that antibiotics are effective against viruses.",
+      "The article attempts to dispel several misconceptions about the issue.",
+      "His argument is based on a fundamental misconception.",
+      "There are many misconceptions about how the system works.",
+      "The teacher corrected a widespread misconception among the students."
+    ]
+  }
+},
+{
+  "id": "misconstrue",
+  "sid": "2026-00311",
+  "word": "misconstrue",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "interpretation",
+    "misunderstanding",
+    "legal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "misconstrue",
+      "third_person": "misconstrues",
+      "past": "misconstrued",
+      "past_participle": "misconstrued",
+      "gerund": "misconstruing"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌmɪskənˈstruː/",
+      "uk": "/ˌmɪskənˈstruː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "発言・行為・意図などを誤って解釈する",
+      "意味を取り違える、曲解する",
+      "規則・法律・文章などを誤った意味に読む"
+    ],
+    "en": [
+      "to interpret the meaning, intention, or significance of something incorrectly",
+      "to understand words, actions, or behavior in the wrong way",
+      "to give an incorrect interpretation to a statement, rule, or text"
+    ]
+  },
+  "nuance": {
+    "ja": "misconstrue は単に『理解できなかった』というより、発言・行為・文章などに対して『誤った意味を与えて解釈する』ことに重点がある。法律・議論・報道・対人関係などでよく使われ、misconstrue A as B『AをBだと誤って解釈する』が代表的な構文。misunderstand よりフォーマルで、interpretation の誤りを強く意識させる。",
+    "en": "Misconstrue emphasizes assigning the wrong meaning or intention to words, actions, texts, or situations rather than simply failing to understand them. It is relatively formal and common in legal, argumentative, journalistic, and interpersonal contexts. The construction 'misconstrue A as B' is especially useful."
+  },
+  "minimal": {
+    "ja": [
+      "misconstrue：意味・意図を誤って解釈する。",
+      "misunderstand：誤解する。最も一般的で広い。",
+      "misinterpret：情報・発言・データなどを誤って解釈する。",
+      "misconceive：物事そのものについて誤った概念を形成する。よりまれ。",
+      "distort：意味・事実をゆがめる。意図的な場合もある。",
+      "take something the wrong way：発言などを悪い意味に受け取る。口語的。"
+    ],
+    "en": [
+      "misconstrue means to assign the wrong meaning or intention to something.",
+      "misunderstand is the broad everyday verb.",
+      "misinterpret is a close formal synonym, especially for information or evidence.",
+      "misconceive means to form an incorrect conception of something and is rarer.",
+      "distort means to alter or misrepresent meaning or facts and can imply deliberate action.",
+      "take something the wrong way is an informal expression for interpreting a remark negatively or incorrectly."
+    ]
+  },
+  "etymology": {
+    "ja": "mis-『誤って』＋ construe『解釈する』から成る。construe はラテン語 construere『組み立てる』に由来し、con-『共に』＋ struere『積む、組み立てる』からできた語。本来は文法的に語を『組み立てて解釈する』という意味から、一般に『意味を解釈する』へ広がった。misconstrue は文字どおり『誤って組み立てて理解する』という発想。",
+    "en": "Formed from mis- ('wrongly') plus construe ('interpret'). Construe comes from Latin construere, 'to build or put together', from con- plus struere ('to pile up, build'). The sense developed from grammatically constructing and interpreting a sentence to interpreting meaning more generally."
+  },
+  "synonyms": [
+    {
+      "word": "misinterpret",
+      "note": {
+        "ja": "非常に近い語。意味・データ・証拠などの解釈を誤る場合に広く使える。",
+        "en": "A very close synonym used broadly for interpreting meaning, data, or evidence incorrectly."
+      }
+    },
+    {
+      "word": "misunderstand",
+      "note": {
+        "ja": "より一般的で広い『誤解する』。解釈のプロセスを特に強調しない。",
+        "en": "The broader everyday verb and does not specifically emphasize the act of interpretation."
+      }
+    },
+    {
+      "word": "misread",
+      "note": {
+        "ja": "文章だけでなく、状況・人・意図などを『読み違える』意味でも使う。",
+        "en": "Can mean to interpret a situation, person, or intention incorrectly as well as literally reading something wrongly."
+      }
+    },
+    {
+      "word": "distort",
+      "note": {
+        "ja": "事実・発言などを歪める。単なる誤解より強く、意図性を含む場合もある。",
+        "en": "Means to twist or alter facts or meaning and can suggest deliberate misrepresentation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "missverstehen / fehlinterpretieren",
+    "it": "fraintendere / interpretare erroneamente",
+    "fr": "mal interpréter / méconnaître",
+    "es": "malinterpretar / tergiversar"
+  },
+  "collocations": {
+    "ja": [
+      "misconstrue a statement — 発言を誤って解釈する",
+      "misconstrue someone's intentions — 人の意図を誤解する",
+      "misconstrue a remark — 発言を取り違える",
+      "misconstrue the law — 法律を誤って解釈する",
+      "misconstrue the meaning of — ～の意味を誤解する",
+      "misconstrue A as B — AをBだと誤って解釈する",
+      "easily misconstrued — 誤解されやすい",
+      "deliberately misconstrue — 意図的に曲解する"
+    ],
+    "en": [
+      "misconstrue a statement",
+      "misconstrue someone's intentions",
+      "misconstrue a remark",
+      "misconstrue the law",
+      "misconstrue the meaning of",
+      "misconstrue A as B",
+      "easily misconstrued",
+      "deliberately misconstrue"
+    ]
+  },
+  "example": {
+    "ja": [
+      "His remarks were misconstrued as criticism. — 彼の発言は批判だと誤って受け取られた。",
+      "Please don't misconstrue my silence as agreement. — 私が黙っているからといって同意していると誤解しないでください。",
+      "The court found that the lower court had misconstrued the statute. — 裁判所は、下級審がその制定法を誤って解釈していたと判断した。",
+      "Her intentions were completely misconstrued. — 彼女の意図は完全に誤解された。",
+      "The comment could easily be misconstrued as offensive. — その発言は攻撃的なものだと容易に誤解されかねない。"
+    ],
+    "en": [
+      "His remarks were misconstrued as criticism.",
+      "Please don't misconstrue my silence as agreement.",
+      "The court found that the lower court had misconstrued the statute.",
+      "Her intentions were completely misconstrued.",
+      "The comment could easily be misconstrued as offensive."
+    ]
+  }
+},
+{
+  "id": "misunderstand",
+  "sid": "2026-00312",
+  "word": "misunderstand",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "general",
+    "conversation",
+    "misunderstanding",
+    "communication"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive / intransitive",
+    "forms": {
+      "base": "misunderstand",
+      "third_person": "misunderstands",
+      "past": "misunderstood",
+      "past_participle": "misunderstood",
+      "gerund": "misunderstanding"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌmɪsʌndərˈstænd/",
+      "uk": "/ˌmɪsʌndəˈstænd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人の言ったこと・意図などを誤解する",
+      "物事の意味・状況・性質を間違って理解する",
+      "聞き違える、取り違える"
+    ],
+    "en": [
+      "to understand something incorrectly",
+      "to form the wrong idea about what someone means or intends",
+      "to interpret a situation, statement, or person incorrectly"
+    ]
+  },
+  "nuance": {
+    "ja": "misunderstand は『誤解する』を表す最も一般的で広い動詞。発言・説明・意図・状況・人物など対象をほとんど選ばない。misconstrue や misinterpret のように『解釈という作業を誤る』ことを特に強調せず、単に正しく理解できなかった場合に使える。過去形・過去分詞は不規則変化の misunderstood。",
+    "en": "Misunderstand is the broadest and most common verb for understanding something incorrectly. It can apply to statements, intentions, explanations, situations, or people. Unlike misconstrue or misinterpret, it does not particularly emphasize a process of interpretation. Its past tense and past participle are irregular: misunderstood."
+  },
+  "minimal": {
+    "ja": [
+      "misunderstand：誤解する。最も一般的で広い。",
+      "misconstrue：発言・行為・意図などに誤った意味を読み込む。よりフォーマル。",
+      "misinterpret：情報・データ・発言などを誤って解釈する。",
+      "misconceive：物事について誤った概念を形成する。まれで硬い。",
+      "mishear：聞き間違える。",
+      "mistake A for B：AをBと取り違える。"
+    ],
+    "en": [
+      "misunderstand is the broad everyday verb for understanding something incorrectly.",
+      "misconstrue emphasizes assigning the wrong meaning or intention.",
+      "misinterpret emphasizes interpreting information, evidence, or meaning incorrectly.",
+      "misconceive means forming an incorrect conception of something and is relatively rare.",
+      "mishear means to hear something incorrectly.",
+      "mistake A for B means to wrongly identify A as B."
+    ]
+  },
+  "etymology": {
+    "ja": "mis-『誤って』＋ understand『理解する』から成る。mis- は古英語由来の接頭辞で、『誤って、不適切に』という意味を持つ。したがって語形成そのものは非常に透明で、『誤って理解する』がそのまま現在の意味になっている。",
+    "en": "Formed transparently from mis- ('wrongly, incorrectly') plus understand. The prefix mis- is of Germanic origin and has long been used in English to indicate incorrect or improper action."
+  },
+  "synonyms": [
+    {
+      "word": "misinterpret",
+      "note": {
+        "ja": "意味・情報・証拠などの解釈を誤ることに重点。misunderstand よりややフォーマル。",
+        "en": "Emphasizes interpreting meaning, information, or evidence incorrectly and is somewhat more formal."
+      }
+    },
+    {
+      "word": "misconstrue",
+      "note": {
+        "ja": "発言・行為・意図などを別の意味に取り違えることに重点。",
+        "en": "Emphasizes assigning the wrong meaning or intention to words, actions, or behavior."
+      }
+    },
+    {
+      "word": "misread",
+      "note": {
+        "ja": "状況・人物・意図などを『読み違える』。文字どおりの読み間違いにも使う。",
+        "en": "Can mean to read something incorrectly or figuratively to judge a situation or person wrongly."
+      }
+    },
+    {
+      "word": "get the wrong idea",
+      "note": {
+        "ja": "『誤解する、勘違いする』という口語的な言い換え。",
+        "en": "An informal expression meaning to form an incorrect impression."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "missverstehen",
+    "it": "fraintendere",
+    "fr": "mal comprendre",
+    "es": "malentender"
+  },
+  "collocations": {
+    "ja": [
+      "misunderstand a question — 質問を誤解する",
+      "misunderstand someone's intentions — 人の意図を誤解する",
+      "misunderstand the situation — 状況を誤解する",
+      "completely misunderstand — 完全に誤解する",
+      "easily misunderstand — 容易に誤解する",
+      "be widely misunderstood — 広く誤解されている",
+      "don't misunderstand me — 私を誤解しないで",
+      "if I understand you correctly — 私の理解が正しければ"
+    ],
+    "en": [
+      "misunderstand a question",
+      "misunderstand someone's intentions",
+      "misunderstand the situation",
+      "completely misunderstand",
+      "easily misunderstand",
+      "be widely misunderstood",
+      "don't misunderstand me",
+      "if I understand you correctly"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I think you misunderstood what I meant. — 私が言いたかったことをあなたは誤解したと思います。",
+      "Don't misunderstand me; I'm not criticizing your decision. — 誤解しないでください。あなたの決定を批判しているわけではありません。",
+      "He completely misunderstood the question. — 彼はその質問を完全に誤解した。",
+      "Her intentions were widely misunderstood. — 彼女の意図は広く誤解されていた。",
+      "It's easy to misunderstand the situation without knowing the full context. — 全体の文脈を知らなければ、その状況を誤解するのは容易だ。"
+    ],
+    "en": [
+      "I think you misunderstood what I meant.",
+      "Don't misunderstand me; I'm not criticizing your decision.",
+      "He completely misunderstood the question.",
+      "Her intentions were widely misunderstood.",
+      "It's easy to misunderstand the situation without knowing the full context."
+    ]
+  }
+},
+{
+  "id": "misread",
+  "sid": "2026-00313",
+  "word": "misread",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "general",
+    "interpretation",
+    "misunderstanding",
+    "communication"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "misread",
+      "third_person": "misreads",
+      "past": "misread",
+      "past_participle": "misread",
+      "gerund": "misreading"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌmɪsˈriːd/",
+      "uk": "/ˌmɪsˈriːd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "文字・文章などを読み間違える",
+      "状況・人・意図・反応などを読み違える",
+      "手掛かりや兆候の意味を誤って判断する"
+    ],
+    "en": [
+      "to read written information incorrectly",
+      "to interpret a person, situation, intention, or reaction incorrectly",
+      "to draw the wrong conclusion from signs or evidence"
+    ]
+  },
+  "nuance": {
+    "ja": "misread は文字どおりの読み間違いだけでなく、状況や人物の反応を『読み違える』という比喩用法が非常に重要。misunderstand が単に『誤解する』という広い語なのに対し、misread は何らかの言動・表情・状況・兆候を手掛かりに判断したものの、その解釈を誤ったというニュアンスを持ちやすい。過去形・過去分詞の綴りも misread だが、発音は /ˌmɪsˈred/ となる。",
+    "en": "Misread can refer literally to reading text incorrectly, but its figurative use is especially important: interpreting a person, situation, reaction, or signal wrongly. Compared with misunderstand, misread often suggests that the speaker observed some evidence or cues but drew the wrong conclusion from them. The past tense and past participle are spelled misread but pronounced /ˌmɪsˈred/."
+  },
+  "minimal": {
+    "ja": [
+      "misread：文字・状況・人などを読み違える。",
+      "misunderstand：広く誤解する。",
+      "misinterpret：情報・意味・データなどを誤って解釈する。",
+      "misconstrue：発言・行為・意図などに誤った意味を読み込む。",
+      "misjudge：人・状況などを誤って判断する。",
+      "mishear：聞き間違える。"
+    ],
+    "en": [
+      "misread means to read or interpret something incorrectly.",
+      "misunderstand is the broader everyday verb for understanding incorrectly.",
+      "misinterpret emphasizes an incorrect interpretation of meaning or information.",
+      "misconstrue emphasizes assigning the wrong meaning or intention.",
+      "misjudge emphasizes making an incorrect judgment about someone or something.",
+      "mishear means to hear something incorrectly."
+    ]
+  },
+  "etymology": {
+    "ja": "mis-『誤って』＋ read『読む』から成る非常に透明な語。文字を『誤って読む』という字義的意味から、表情・状況・意図・兆候などを比喩的に『読む』際に判断を誤るという意味へ広がった。",
+    "en": "Formed transparently from mis- ('wrongly') plus read. From the literal sense of reading written material incorrectly, it developed the figurative sense of reading a person, situation, intention, or signal incorrectly."
+  },
+  "synonyms": [
+    {
+      "word": "misinterpret",
+      "note": {
+        "ja": "意味・情報・証拠などの解釈を誤る。misread よりフォーマルで広い。",
+        "en": "A more formal and broader term for interpreting meaning, information, or evidence incorrectly."
+      }
+    },
+    {
+      "word": "misjudge",
+      "note": {
+        "ja": "人物・状況・能力などについて誤った判断をする。",
+        "en": "Emphasizes making an incorrect judgment about a person, situation, or ability."
+      }
+    },
+    {
+      "word": "misunderstand",
+      "note": {
+        "ja": "もっとも一般的な『誤解する』。手掛かりを読み違えたというニュアンスは必須ではない。",
+        "en": "The broad everyday verb for understanding incorrectly, without necessarily implying a mistaken reading of clues."
+      }
+    },
+    {
+      "word": "get the wrong impression",
+      "note": {
+        "ja": "人・状況について誤った印象を持つという口語的な言い換え。",
+        "en": "An everyday expression for forming an incorrect impression of a person or situation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "falsch lesen / falsch einschätzen",
+    "it": "leggere male / fraintendere",
+    "fr": "mal lire / mal interpréter",
+    "es": "leer mal / interpretar mal"
+  },
+  "collocations": {
+    "ja": [
+      "misread a word — 単語を読み間違える",
+      "misread a number — 数字を読み間違える",
+      "misread the situation — 状況を読み違える",
+      "misread someone's intentions — 人の意図を読み違える",
+      "misread the signals — シグナル・兆候を読み違える",
+      "misread someone's reaction — 人の反応を読み違える",
+      "completely misread — 完全に読み違える",
+      "easily misread — 容易に誤解する"
+    ],
+    "en": [
+      "misread a word",
+      "misread a number",
+      "misread the situation",
+      "misread someone's intentions",
+      "misread the signals",
+      "misread someone's reaction",
+      "completely misread",
+      "easily misread"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I misread the number and entered the wrong amount. — 数字を読み間違えて、誤った金額を入力した。",
+      "She completely misread the situation. — 彼女は状況を完全に読み違えた。",
+      "He misread her silence as disapproval. — 彼は彼女の沈黙を不賛成の表れだと読み違えた。",
+      "The company misread the signals from the market. — その会社は市場からのシグナルを読み違えた。",
+      "I may have misread his intentions. — 私は彼の意図を読み違えたのかもしれない。"
+    ],
+    "en": [
+      "I misread the number and entered the wrong amount.",
+      "She completely misread the situation.",
+      "He misread her silence as disapproval.",
+      "The company misread the signals from the market.",
+      "I may have misread his intentions."
+    ]
+  }
+},
+{
+  "id": "distort",
+  "sid": "2026-00314",
+  "word": "distort",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "general",
+    "formal",
+    "communication",
+    "information"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive / intransitive",
+    "forms": {
+      "base": "distort",
+      "third_person": "distorts",
+      "past": "distorted",
+      "past_participle": "distorted",
+      "gerund": "distorting"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈstɔːrt/",
+      "uk": "/dɪˈstɔːt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "形・音・映像などをゆがめる、変形させる",
+      "事実・発言・意味などをゆがめる、歪曲する",
+      "実態や認識を不正確なものにする"
+    ],
+    "en": [
+      "to change the shape, sound, or appearance of something so that it is no longer accurate or natural",
+      "to present facts, statements, or meanings in an inaccurate or misleading way",
+      "to alter someone's perception or understanding of reality"
+    ]
+  },
+  "nuance": {
+    "ja": "distort の中心イメージは『本来の形をねじ曲げる』こと。物理的な形、音声、画像だけでなく、facts, evidence, meaning, history など抽象的な対象にも使える。misunderstand や misconstrue は受け手が誤って理解することを表すのに対し、distort は情報・意味・事実そのものが元の姿から変形して伝えられることに重点がある。意図的な歪曲にも、無意識・技術的な変形にも使える。",
+    "en": "The central idea of distort is to twist something away from its original or accurate form. It can apply literally to shapes, sounds, and images, and figuratively to facts, evidence, meanings, history, or perceptions. Unlike misunderstand or misconstrue, which focus on incorrect understanding by the recipient, distort focuses on the information or object itself being altered. The distortion may be deliberate or accidental."
+  },
+  "minimal": {
+    "ja": [
+      "distort：元の形・意味・事実をゆがめる。",
+      "misconstrue：発言・行為などを誤った意味に解釈する。",
+      "misinterpret：情報や意味を誤って解釈する。",
+      "misrepresent：事実・立場などを不正確に伝える。しばしば意図的。",
+      "twist：言葉・事実などをねじ曲げる。より口語的。",
+      "warp：形・判断・認識などをゆがめる。長期的・深い変形の含意もある。"
+    ],
+    "en": [
+      "distort means to alter something away from its true or original form.",
+      "misconstrue means to assign the wrong meaning or intention.",
+      "misinterpret means to interpret information or meaning incorrectly.",
+      "misrepresent means to present something inaccurately, often deliberately.",
+      "twist is a more informal verb for manipulating words or facts.",
+      "warp can suggest deeper or more lasting deformation of shape, judgment, or perception."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 distorquere『ねじる、ねじ曲げる』に由来する。dis-『離れて、ばらばらに』＋ torquere『ねじる』から成る。torquere 系には torture, torque, retort などもある。もともとの物理的な『ねじ曲げる』から、意味・事実・認識を『歪曲する』という比喩義が発達した。",
+    "en": "From Latin distorquere, meaning 'to twist apart or deform', formed from dis- plus torquere ('to twist'). Related words from the same Latin family include torture, torque, and retort. The figurative sense of twisting facts or meaning developed naturally from the physical sense."
+  },
+  "synonyms": [
+    {
+      "word": "misrepresent",
+      "note": {
+        "ja": "事実・立場・人物などを不正確に描写する。distort より『伝え方』に重点がある。",
+        "en": "Emphasizes presenting a person, position, or fact inaccurately, often in communication."
+      }
+    },
+    {
+      "word": "twist",
+      "note": {
+        "ja": "言葉・事実などを都合よくねじ曲げる。distort より口語的で、意図性を感じさせることが多い。",
+        "en": "A more informal term often suggesting deliberate manipulation of words or facts."
+      }
+    },
+    {
+      "word": "warp",
+      "note": {
+        "ja": "物理的に反らせるほか、人格・判断・認識などをゆがめる。深い影響を示すことがある。",
+        "en": "Can refer to physical deformation or to deeply affecting judgment, character, or perception."
+      }
+    },
+    {
+      "word": "deform",
+      "note": {
+        "ja": "主として物理的な形を変形させる。distort より具体的。",
+        "en": "Primarily refers to changing physical shape and is more concrete than distort."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verzerren / verdrehen",
+    "it": "distorcere",
+    "fr": "déformer / dénaturer",
+    "es": "distorsionar / tergiversar"
+  },
+  "collocations": {
+    "ja": [
+      "distort the facts — 事実を歪曲する",
+      "distort the truth — 真実を歪める",
+      "distort someone's words — 人の発言を歪曲する",
+      "distort the meaning — 意味をゆがめる",
+      "distort the evidence — 証拠を歪曲する",
+      "distort history — 歴史を歪曲する",
+      "distort the image — 画像をゆがめる",
+      "distort the sound — 音をひずませる",
+      "distort perception — 認識をゆがめる"
+    ],
+    "en": [
+      "distort the facts",
+      "distort the truth",
+      "distort someone's words",
+      "distort the meaning",
+      "distort the evidence",
+      "distort history",
+      "distort the image",
+      "distort the sound",
+      "distort perception"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The report distorted the facts to support its conclusion. — その報告書は結論を支持するために事実を歪曲した。",
+      "His comments were distorted by the media. — 彼の発言はメディアによって歪められた。",
+      "The lens slightly distorts the image. — そのレンズは画像をわずかにゆがめる。",
+      "Fear can distort our perception of risk. — 恐怖はリスクに対する認識をゆがめることがある。",
+      "The speaker accused his opponent of distorting the truth. — その話者は相手が真実を歪曲していると非難した。"
+    ],
+    "en": [
+      "The report distorted the facts to support its conclusion.",
+      "His comments were distorted by the media.",
+      "The lens slightly distorts the image.",
+      "Fear can distort our perception of risk.",
+      "The speaker accused his opponent of distorting the truth."
+    ]
+  }
 }
 ]
