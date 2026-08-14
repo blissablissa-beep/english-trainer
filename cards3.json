@@ -1,1 +1,397 @@
-[]
+[
+    {
+  "id": "felony",
+  "sid": "2026-00326",
+  "word": "felony",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "legal",
+    "crime",
+    "formal",
+    "american-english"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "felonies"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfeləni/",
+      "uk": "/ˈfeləni/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "重罪",
+      "特に米国法で、misdemeanor より重い犯罪類型"
+    ],
+    "en": [
+      "a serious crime, especially in the legal systems of the United States",
+      "a criminal offense classified as more serious than a misdemeanor"
+    ]
+  },
+  "nuance": {
+    "ja": "felony は特に米国法で用いられる犯罪分類で、一般に misdemeanor『軽罪』より重大な犯罪を指す。ただし felony の具体的な定義、刑罰、分類基準は州法・連邦法など法域によって異なるため、『必ず○年以上の刑』のように一律には定義できない。日常英語でも serious crime の意味で使われるが、法的分類としての響きが強い。",
+    "en": "Felony is primarily a legal classification used especially in the United States for a serious criminal offense. It is generally more serious than a misdemeanor, but the exact definition, penalties, and classification rules vary by jurisdiction. In ordinary speech it can broadly suggest a serious crime, though it retains a strongly legal character."
+  },
+  "minimal": {
+    "ja": [
+      "felony：重罪。特に米国法上の重大な犯罪類型。",
+      "misdemeanor：軽罪。一般に felony より軽い犯罪。",
+      "crime：犯罪一般。",
+      "offense：違反・犯罪。法的に非常に広い語。",
+      "criminal：犯罪の／犯罪者。",
+      "conviction：有罪判決。"
+    ],
+    "en": [
+      "felony is a serious criminal offense, especially in U.S. law.",
+      "misdemeanor is generally a less serious criminal offense.",
+      "crime is the broad everyday term.",
+      "offense is a broad legal term for a violation of law.",
+      "criminal can be an adjective or a noun.",
+      "conviction is a formal finding or judgment of guilt."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 felonie、古フランス語 felonie に由来する。もとは『邪悪、悪行、背信』のような意味を持ち、中世英語法で重大犯罪を指す法的カテゴリーへ発達した。さらに古い語源については確定的ではなく、詳細には諸説がある。",
+    "en": "From Middle English felonie, from Old French felonie, originally referring to wickedness, treachery, or serious wrongdoing. In medieval English law it developed into a legal category for grave offenses. The deeper origin of the word is uncertain."
+  },
+  "synonyms": [
+    {
+      "word": "serious crime",
+      "note": {
+        "ja": "一般語としての説明。felony のような特定法域の法的分類ではない。",
+        "en": "A general descriptive phrase rather than a specific legal classification."
+      }
+    },
+    {
+      "word": "indictable offense",
+      "note": {
+        "ja": "一部の法体系で重大犯罪を表す語だが、felony と完全に同義ではない。",
+        "en": "A serious-offense category in some legal systems, but not an exact synonym of felony."
+      }
+    },
+    {
+      "word": "crime",
+      "note": {
+        "ja": "犯罪一般を表す最も広い語。",
+        "en": "The broad general term for conduct prohibited by criminal law."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schweres Verbrechen",
+    "it": "reato grave / crimine grave",
+    "fr": "crime grave",
+    "es": "delito grave"
+  },
+  "collocations": {
+    "ja": [
+      "commit a felony — 重罪を犯す",
+      "be charged with a felony — 重罪で起訴される",
+      "be convicted of a felony — 重罪で有罪判決を受ける",
+      "felony charge — 重罪の訴追・罪名",
+      "felony conviction — 重罪の有罪判決",
+      "felony offense — 重罪に分類される犯罪",
+      "felony case — 重罪事件",
+      "felony murder — 重罪謀殺"
+    ],
+    "en": [
+      "commit a felony",
+      "be charged with a felony",
+      "be convicted of a felony",
+      "felony charge",
+      "felony conviction",
+      "felony offense",
+      "felony case",
+      "felony murder"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He was charged with a felony. — 彼は重罪で起訴された。",
+      "A felony conviction can have serious legal consequences. — 重罪の有罪判決は重大な法的影響を伴うことがある。",
+      "The offense is classified as a felony under state law. — その犯罪は州法上、重罪に分類されている。",
+      "She pleaded guilty to a felony charge. — 彼女は重罪の罪状について有罪を認めた。",
+      "The distinction between a felony and a misdemeanor depends on the jurisdiction. — 重罪と軽罪の区別は法域によって異なる。"
+    ],
+    "en": [
+      "He was charged with a felony.",
+      "A felony conviction can have serious legal consequences.",
+      "The offense is classified as a felony under state law.",
+      "She pleaded guilty to a felony charge.",
+      "The distinction between a felony and a misdemeanor depends on the jurisdiction."
+    ]
+  }
+},
+{
+  "id": "misdemeanor",
+  "sid": "2026-00327",
+  "word": "misdemeanor",
+  "variants": [
+    "misdemeanour"
+  ],
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "legal",
+    "crime",
+    "formal",
+    "american-english"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "misdemeanors / misdemeanours"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌmɪsdɪˈmiːnər/",
+      "uk": "/ˌmɪsdɪˈmiːnə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "軽罪",
+      "特に米国法で、一般に felony より軽い犯罪類型",
+      "やや古風・一般的に、軽い不品行・非行"
+    ],
+    "en": [
+      "a criminal offense generally classified as less serious than a felony, especially in U.S. law",
+      "a relatively minor crime",
+      "in older or broader usage, a minor act of wrongdoing or misconduct"
+    ]
+  },
+  "nuance": {
+    "ja": "misdemeanor は特に米国法で用いられる犯罪分類で、一般に felony『重罪』より軽い犯罪を指す。ただし、具体的な分類基準や刑罰は州法・連邦法など法域によって異なる。英国式綴りは misdemeanour。現代の英国法では felony / misdemeanor という旧来の区別は基本的な犯罪分類としては用いられない。",
+    "en": "Misdemeanor is primarily a U.S. legal term for a criminal offense generally considered less serious than a felony. The exact classification and penalties vary by jurisdiction. The British spelling is misdemeanour. In modern English law, the historical felony-misdemeanour distinction is no longer the basic system of classifying offenses."
+  },
+  "minimal": {
+    "ja": [
+      "misdemeanor：軽罪。特に米国法で felony より軽い犯罪。",
+      "felony：重罪。",
+      "offense：違反・犯罪を広く表す法的用語。",
+      "infraction：非常に軽微な違反を指すことがある。",
+      "crime：犯罪一般。",
+      "misconduct：不正行為・不品行。必ずしも犯罪とは限らない。"
+    ],
+    "en": [
+      "misdemeanor is generally a less serious criminal offense than a felony.",
+      "felony is the more serious category in U.S. criminal law.",
+      "offense is a broad legal term for a violation of law.",
+      "infraction can refer to an even more minor violation in some jurisdictions.",
+      "crime is the broad everyday term.",
+      "misconduct is improper behavior and is not necessarily criminal."
+    ]
+  },
+  "etymology": {
+    "ja": "mis-『誤って、不正に』＋ demeanor の古い意味に由来する。demeanor は現代では『振る舞い、態度』を意味するが、misdemeanor は歴史的に『悪い振る舞い、不正行為』という意味から発達し、法律上の比較的軽い犯罪を指すようになった。なお現代の demeanor から単純に意味を推測するとやや分かりにくい語である。",
+    "en": "Historically formed from mis- plus an older sense related to demeanor or conduct. The word originally referred broadly to bad behavior or wrongdoing and later developed into a legal term for a relatively minor criminal offense. Its modern legal meaning is not fully predictable from the present-day sense of demeanor."
+  },
+  "synonyms": [
+    {
+      "word": "minor offense",
+      "note": {
+        "ja": "一般的な説明語。misdemeanor のような特定の法的分類ではない。",
+        "en": "A general descriptive phrase rather than a specific legal classification."
+      }
+    },
+    {
+      "word": "offense",
+      "note": {
+        "ja": "違反・犯罪を広く表す。misdemeanor より範囲が広い。",
+        "en": "A broader legal term that can include offenses of varying seriousness."
+      }
+    },
+    {
+      "word": "infraction",
+      "note": {
+        "ja": "法域によっては misdemeanor よりさらに軽い違反類型。",
+        "en": "In some jurisdictions, a category of violation less serious than a misdemeanor."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "leichteres Vergehen",
+    "it": "reato minore",
+    "fr": "délit mineur",
+    "es": "delito menor"
+  },
+  "collocations": {
+    "ja": [
+      "commit a misdemeanor — 軽罪を犯す",
+      "be charged with a misdemeanor — 軽罪で起訴される",
+      "be convicted of a misdemeanor — 軽罪で有罪判決を受ける",
+      "misdemeanor charge — 軽罪の罪状",
+      "misdemeanor conviction — 軽罪の有罪判決",
+      "misdemeanor offense — 軽罪に分類される犯罪",
+      "class A misdemeanor — A級軽罪",
+      "felony or misdemeanor — 重罪または軽罪"
+    ],
+    "en": [
+      "commit a misdemeanor",
+      "be charged with a misdemeanor",
+      "be convicted of a misdemeanor",
+      "misdemeanor charge",
+      "misdemeanor conviction",
+      "misdemeanor offense",
+      "class A misdemeanor",
+      "felony or misdemeanor"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He was charged with a misdemeanor rather than a felony. — 彼は重罪ではなく軽罪で起訴された。",
+      "The offense is classified as a misdemeanor under state law. — その犯罪は州法上、軽罪に分類されている。",
+      "She pleaded guilty to a misdemeanor charge. — 彼女は軽罪の罪状について有罪を認めた。",
+      "A misdemeanor conviction may still have significant legal consequences. — 軽罪の有罪判決であっても重大な法的影響を伴うことがある。",
+      "The distinction between a felony and a misdemeanor varies by jurisdiction. — 重罪と軽罪の区別は法域によって異なる。"
+    ],
+    "en": [
+      "He was charged with a misdemeanor rather than a felony.",
+      "The offense is classified as a misdemeanor under state law.",
+      "She pleaded guilty to a misdemeanor charge.",
+      "A misdemeanor conviction may still have significant legal consequences.",
+      "The distinction between a felony and a misdemeanor varies by jurisdiction."
+    ]
+  }
+},
+{
+  "id": "infraction",
+  "sid": "2026-00328",
+  "word": "infraction",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "legal",
+    "rules",
+    "formal",
+    "crime"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "infractions"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈfrækʃən/",
+      "uk": "/ɪnˈfrækʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "法律・規則などへの違反",
+      "比較的軽微な違反",
+      "法域によっては misdemeanor より軽い違反類型"
+    ],
+    "en": [
+      "a violation of a law, rule, or regulation",
+      "a relatively minor breach or offense",
+      "in some jurisdictions, a class of violation less serious than a misdemeanor"
+    ]
+  },
+  "nuance": {
+    "ja": "infraction は『規則や法律を破ること』を表す比較的フォーマルな語で、minor infraction『軽微な違反』のように使われる。米国の一部法域では、misdemeanor より軽い違反類型を指す法的用語でもあるが、具体的な分類や刑罰は法域によって異なる。日常語では violation の方がより一般的。",
+    "en": "Infraction is a relatively formal word for a breach of a law, rule, or regulation. In some U.S. jurisdictions it is also a legal category for an offense less serious than a misdemeanor, though the precise classification and consequences vary by jurisdiction. Violation is broader and more common in everyday usage."
+  },
+  "minimal": {
+    "ja": [
+      "infraction：規則・法律への違反。しばしば軽微。",
+      "misdemeanor：軽罪。一般に infraction より重いことがある。",
+      "felony：重罪。",
+      "violation：違反一般。より広く一般的。",
+      "offense：違反・犯罪を広く表す法的用語。",
+      "breach：義務・契約・規則などへの違反。"
+    ],
+    "en": [
+      "infraction is a violation of a law or rule and is often relatively minor.",
+      "misdemeanor is generally more serious than an infraction in jurisdictions that distinguish the two.",
+      "felony is a serious criminal offense.",
+      "violation is the broader everyday and legal term.",
+      "offense is a broad legal term for prohibited conduct.",
+      "breach often refers to failure to comply with a duty, contract, or rule."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 infringere『壊す、破る』に関係する後期ラテン語 infractio に由来する。in-『中へ、～に対して』＋ frangere『壊す、砕く』という語族で、fraction『分数・断片』、fracture『骨折・破砕』などと同じ frangere 系。規則を『破る』という発想から『違反』の意味になった。",
+    "en": "From Late Latin infractio, related to Latin infringere, meaning 'to break or violate'. The word belongs to the same family as fraction and fracture, ultimately from frangere, 'to break'. The legal sense therefore reflects the idea of breaking a rule or law."
+  },
+  "synonyms": [
+    {
+      "word": "violation",
+      "note": {
+        "ja": "最も近く、より一般的な『違反』。軽重を問わず広く使える。",
+        "en": "The closest broad synonym and more common in general usage."
+      }
+    },
+    {
+      "word": "breach",
+      "note": {
+        "ja": "契約・義務・規則などを破ることに重点。",
+        "en": "Often emphasizes failure to comply with a contract, duty, rule, or obligation."
+      }
+    },
+    {
+      "word": "offense",
+      "note": {
+        "ja": "違法行為・違反を広く表す。infraction より範囲が広い。",
+        "en": "A broader legal term that can cover conduct of varying seriousness."
+      }
+    },
+    {
+      "word": "transgression",
+      "note": {
+        "ja": "規範・道徳・規則を越える違反。より文語的。",
+        "en": "A more literary or formal word for violating a rule, norm, or moral boundary."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Verstoß / Übertretung",
+    "it": "infrazione",
+    "fr": "infraction",
+    "es": "infracción"
+  },
+  "collocations": {
+    "ja": [
+      "minor infraction — 軽微な違反",
+      "traffic infraction — 交通違反",
+      "parking infraction — 駐車違反",
+      "rule infraction — 規則違反",
+      "disciplinary infraction — 規律違反",
+      "commit an infraction — 違反を犯す",
+      "be cited for an infraction — 違反で摘発・告知を受ける",
+      "repeated infractions — 繰り返される違反"
+    ],
+    "en": [
+      "minor infraction",
+      "traffic infraction",
+      "parking infraction",
+      "rule infraction",
+      "disciplinary infraction",
+      "commit an infraction",
+      "be cited for an infraction",
+      "repeated infractions"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The driver was cited for a minor traffic infraction. — その運転者は軽微な交通違反で違反告知を受けた。",
+      "Repeated infractions can lead to more serious penalties. — 違反を繰り返すと、より重い処分につながることがある。",
+      "The school recorded the incident as a disciplinary infraction. — 学校はその出来事を規律違反として記録した。",
+      "In some jurisdictions, an infraction is less serious than a misdemeanor. — 一部の法域では、infraction は misdemeanor より軽い違反類型である。",
+      "Even a minor infraction of the rules should be documented. — 軽微な規則違反であっても記録しておくべきだ。"
+    ],
+    "en": [
+      "The driver was cited for a minor traffic infraction.",
+      "Repeated infractions can lead to more serious penalties.",
+      "The school recorded the incident as a disciplinary infraction.",
+      "In some jurisdictions, an infraction is less serious than a misdemeanor.",
+      "Even a minor infraction of the rules should be documented."
+    ]
+  }
+}
+]
