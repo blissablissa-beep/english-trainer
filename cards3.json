@@ -393,5 +393,2223 @@
       "Even a minor infraction of the rules should be documented."
     ]
   }
+},
+{
+  "id": "containment",
+  "sid": "2026-00329",
+  "word": "containment",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "control",
+    "risk",
+    "security"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈteɪnmənt/",
+      "uk": "/kənˈteɪnmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "拡大・拡散・悪化を封じ込めること、抑え込むこと",
+      "危険物・感染・火災などを一定範囲内に閉じ込めること",
+      "政治・外交上、相手国や勢力の拡大を抑止する政策"
+    ],
+    "en": [
+      "the act or process of preventing something harmful from spreading or becoming worse",
+      "the control or confinement of a dangerous substance, infection, fire, or other threat within a limited area",
+      "a political or strategic policy aimed at preventing the expansion of another power or influence"
+    ]
+  },
+  "nuance": {
+    "ja": "containment は『完全に消滅させる』ことではなく、危険・問題・影響がそれ以上広がらないよう一定範囲に抑えることに重点がある。infection containment, fire containment, spill containment, data breach containment など危機管理で頻出する。また国際政治では containment policy の形で、相手国・思想・勢力の拡大を抑える『封じ込め政策』を指す。",
+    "en": "Containment focuses on keeping a threat, problem, or harmful effect within limits rather than necessarily eliminating it completely. It is common in crisis management, medicine, cybersecurity, environmental safety, and emergency response. In international relations, containment can also refer to a strategy designed to prevent the expansion of a rival power or ideology."
+  },
+  "minimal": {
+    "ja": [
+      "containment：危険・問題の拡大を封じ込めること。",
+      "contain：中に収める、拡大を抑える。",
+      "control：管理・制御する。containment より広い。",
+      "confinement：人・物を限られた場所に閉じ込める状態。",
+      "suppression：活動・症状・火災などを強く抑えること。",
+      "eradication：完全に根絶すること。containment より強い。"
+    ],
+    "en": [
+      "containment means preventing something from spreading beyond controlled limits.",
+      "contain is the corresponding verb.",
+      "control is broader and does not necessarily imply physical or strategic confinement.",
+      "confinement emphasizes being restricted to a limited space.",
+      "suppression emphasizes actively reducing or stopping activity.",
+      "eradication means complete elimination and is stronger than containment."
+    ]
+  },
+  "etymology": {
+    "ja": "contain + -ment から成る。contain は古フランス語 contenir を経てラテン語 continere『一緒に保つ、内に収める』に由来し、con-『共に』＋ tenere『保持する』から成る。したがって containment の根本イメージは『中に保持して外へ広げないこと』。",
+    "en": "Formed from contain plus -ment. Contain comes through Old French from Latin continere, meaning 'to hold together or hold within', from con- plus tenere ('to hold'). The core image of containment is therefore keeping something within limits."
+  },
+  "synonyms": [
+    {
+      "word": "control",
+      "note": {
+        "ja": "最も広い『管理・制御』。必ずしも範囲内への封じ込めを意味しない。",
+        "en": "A broader term for managing or regulating something, without necessarily implying confinement."
+      }
+    },
+    {
+      "word": "confinement",
+      "note": {
+        "ja": "特定の空間・範囲内に閉じ込められている状態に重点。",
+        "en": "Emphasizes restriction to a particular place or limited area."
+      }
+    },
+    {
+      "word": "suppression",
+      "note": {
+        "ja": "活動・症状・反乱・火災などを積極的に抑圧・抑制すること。",
+        "en": "Emphasizes actively reducing, restraining, or stopping an activity or process."
+      }
+    },
+    {
+      "word": "restriction",
+      "note": {
+        "ja": "行動・範囲・数量などを制限すること。containment より一般的。",
+        "en": "A general term for imposing limits on movement, quantity, or activity."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Eindämmung",
+    "it": "contenimento",
+    "fr": "confinement / endiguement",
+    "es": "contención"
+  },
+  "collocations": {
+    "ja": [
+      "containment measures — 封じ込め措置",
+      "containment strategy — 封じ込め戦略",
+      "disease containment — 疾患・感染症の封じ込め",
+      "infection containment — 感染拡大防止",
+      "fire containment — 火災の封じ込め",
+      "spill containment — 漏出物の封じ込め",
+      "breach containment — 情報漏えい等の被害封じ込め",
+      "containment system — 封じ込めシステム",
+      "containment policy — 封じ込め政策"
+    ],
+    "en": [
+      "containment measures",
+      "containment strategy",
+      "disease containment",
+      "infection containment",
+      "fire containment",
+      "spill containment",
+      "breach containment",
+      "containment system",
+      "containment policy"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Rapid containment of the outbreak prevented wider transmission. — 感染拡大を迅速に封じ込めたことで、より広範な感染を防ぐことができた。",
+      "Firefighters focused on containment before attempting to extinguish the entire fire. — 消防隊は火災全体の消火に取りかかる前に、まず延焼の封じ込めに集中した。",
+      "The company activated its data-breach containment procedures. — その会社は情報漏えいの被害封じ込め手順を発動した。",
+      "The facility uses multiple containment systems for hazardous materials. — その施設では危険物のために複数の封じ込めシステムを使用している。",
+      "Containment became a central element of the country's foreign policy. — 封じ込めはその国の外交政策の中心的要素となった。"
+    ],
+    "en": [
+      "Rapid containment of the outbreak prevented wider transmission.",
+      "Firefighters focused on containment before attempting to extinguish the entire fire.",
+      "The company activated its data-breach containment procedures.",
+      "The facility uses multiple containment systems for hazardous materials.",
+      "Containment became a central element of the country's foreign policy."
+    ]
+  }
+},
+{
+  "id": "suppression",
+  "sid": "2026-00330",
+  "word": "suppression",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "control",
+    "medicine",
+    "politics"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/səˈpreʃən/",
+      "uk": "/səˈpreʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "活動・反応・症状などを抑えること、抑制",
+      "反乱・抗議・抵抗などを鎮圧すること",
+      "情報・発言・証拠などを意図的に隠すこと、抑圧",
+      "心理学で、考えや感情を意識的に抑えること"
+    ],
+    "en": [
+      "the act or process of reducing, restraining, or stopping an activity, response, or symptom",
+      "the forceful prevention or ending of rebellion, protest, or resistance",
+      "the deliberate withholding or concealment of information, speech, or evidence",
+      "in psychology, the conscious inhibition of thoughts or feelings"
+    ]
+  },
+  "nuance": {
+    "ja": "suppression は非常に広く、病状・免疫反応・火災・反乱・言論・情報などを『抑え込む』ことを表す。containment が問題を一定範囲内に留めることに重点を置くのに対し、suppression はその活動・強度・発現そのものを低下させることに重点がある。また political suppression や suppression of evidence のように、強制的・否定的な含意を持つ場合も多い。",
+    "en": "Suppression is a broad term for reducing, restraining, or stopping an activity, response, symptom, or expression. Unlike containment, which emphasizes keeping something within limits, suppression focuses on reducing its intensity or preventing it from operating. In political or legal contexts, it can also carry a strongly negative sense of forceful restriction or concealment."
+  },
+  "minimal": {
+    "ja": [
+      "suppression：活動・症状・情報などを抑え込むこと。",
+      "containment：拡大を一定範囲内に封じ込めること。",
+      "repression：感情・欲求・政治活動などを押さえ込むこと。",
+      "inhibition：活動・反応を妨げて抑制すること。",
+      "restraint：行動・力を抑えること。",
+      "eradication：完全に除去・根絶すること。"
+    ],
+    "en": [
+      "suppression means actively reducing or stopping an activity, symptom, or expression.",
+      "containment means preventing something from spreading beyond controlled limits.",
+      "repression often concerns the forceful restraint of emotions, desires, or political activity.",
+      "inhibition emphasizes interference with or reduction of a process or response.",
+      "restraint is a broad term for holding something back.",
+      "eradication means complete elimination."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 suppressio、suppressus に由来し、動詞 supprimere『押し下げる、抑える』と関係する。sub-『下へ』＋ premere『押す』という構造で、文字どおりには『下へ押さえつける』というイメージ。同じ premere 系には pressure, compress, depress, repress などがある。",
+    "en": "From Latin suppressio and suppressus, related to supprimere, meaning 'to press down or restrain', from sub- ('under, down') plus premere ('to press'). The same Latin root appears in pressure, compress, depress, and repress."
+  },
+  "synonyms": [
+    {
+      "word": "repression",
+      "note": {
+        "ja": "政治活動・感情・欲求などを強く押さえ込むことに使われやすい。",
+        "en": "Often used for the forceful restraint of political activity, emotions, or desires."
+      }
+    },
+    {
+      "word": "inhibition",
+      "note": {
+        "ja": "生物学・心理学などで反応や過程を抑制することに重点。",
+        "en": "Often emphasizes reducing or blocking a biological, psychological, or chemical process."
+      }
+    },
+    {
+      "word": "restraint",
+      "note": {
+        "ja": "行動・感情・力などを抑える一般的な語。",
+        "en": "A broad term for holding back behavior, emotion, force, or activity."
+      }
+    },
+    {
+      "word": "control",
+      "note": {
+        "ja": "管理・制御全般。suppression より中立的で広い。",
+        "en": "A broader and more neutral term for regulating or managing something."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Unterdrückung / Hemmung",
+    "it": "soppressione / repressione",
+    "fr": "suppression / répression",
+    "es": "supresión / represión"
+  },
+  "collocations": {
+    "ja": [
+      "symptom suppression — 症状の抑制",
+      "immune suppression — 免疫抑制",
+      "fire suppression — 消火・火災抑制",
+      "noise suppression — ノイズ抑制",
+      "suppression of evidence — 証拠の隠匿・抑制",
+      "suppression of dissent — 反対意見の抑圧",
+      "suppression of free speech — 言論の抑圧",
+      "violent suppression — 暴力的な鎮圧",
+      "active suppression — 積極的な抑制"
+    ],
+    "en": [
+      "symptom suppression",
+      "immune suppression",
+      "fire suppression",
+      "noise suppression",
+      "suppression of evidence",
+      "suppression of dissent",
+      "suppression of free speech",
+      "violent suppression",
+      "active suppression"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The medication provides effective suppression of the symptoms. — その薬は症状を効果的に抑える。",
+      "The system uses advanced noise suppression technology. — そのシステムは高度なノイズ抑制技術を使用している。",
+      "The government was criticized for the violent suppression of protests. — 政府は抗議活動を暴力的に鎮圧したとして批判された。",
+      "The court examined allegations of suppression of evidence. — 裁判所は証拠隠匿の申し立てを検討した。",
+      "Fire suppression efforts continued throughout the night. — 消火・火災抑制活動は夜通し続けられた。"
+    ],
+    "en": [
+      "The medication provides effective suppression of the symptoms.",
+      "The system uses advanced noise suppression technology.",
+      "The government was criticized for the violent suppression of protests.",
+      "The court examined allegations of suppression of evidence.",
+      "Fire suppression efforts continued throughout the night."
+    ]
+  }
+},
+{
+  "id": "eradication",
+  "sid": "2026-00331",
+  "word": "eradication",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "elimination",
+    "medicine",
+    "policy"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪˌrædɪˈkeɪʃən/",
+      "uk": "/ɪˌrædɪˈkeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "根絶、撲滅",
+      "病気・害虫・貧困・腐敗などを完全になくすこと",
+      "望ましくないものを根こそぎ除去すること"
+    ],
+    "en": [
+      "the complete elimination or destruction of something harmful or unwanted",
+      "the process of eliminating a disease, pest, social problem, or other harmful condition completely"
+    ]
+  },
+  "nuance": {
+    "ja": "eradication は単に減らす・抑えるのではなく、対象を『完全になくす』ことを表す強い語。disease eradication, eradication of poverty, eradication of corruption などで使われる。containment や suppression より最終的・徹底的な目標を示す。一方、現実には完全な eradication が非常に難しい対象も多いので、政策・医学では aspirational な目標語として使われることもある。",
+    "en": "Eradication means complete elimination rather than mere reduction or control. It is used for diseases, pests, corruption, poverty, and other harmful conditions. Compared with containment or suppression, eradication expresses a much stronger and more final objective."
+  },
+  "minimal": {
+    "ja": [
+      "eradication：完全な根絶・撲滅。",
+      "elimination：除去・排除。必ずしも地球規模・完全消滅を意味しない。",
+      "suppression：活動や症状を抑える。",
+      "containment：拡大を封じ込める。",
+      "extermination：生物などを皆殺しにする、絶滅させる。より強烈。",
+      "removal：取り除くこと。最も一般的。"
+    ],
+    "en": [
+      "eradication means complete elimination.",
+      "elimination means removal or reduction to zero in a given context and can be less absolute.",
+      "suppression means reducing activity or intensity.",
+      "containment means preventing spread.",
+      "extermination strongly suggests killing all members of a population.",
+      "removal is the broad everyday term."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 eradicare『根こそぎにする』に由来する。e-/ex-『外へ』＋ radix, radicis『根』から成り、文字どおりは『根を引き抜く』という意味。radical『根本的な』、radish『ラディッシュ』も同じ radix『根』系。",
+    "en": "From Latin eradicare, meaning 'to root out', formed from e-/ex- ('out') plus radix, radicis ('root'). The literal image is pulling something out by the roots. Radical and radish belong to the same Latin root family."
+  },
+  "synonyms": [
+    {
+      "word": "elimination",
+      "note": {
+        "ja": "除去・排除。eradication より一般的で、必ずしも完全な根絶を意味しない。",
+        "en": "A broader term for removing or getting rid of something and not always as absolute as eradication."
+      }
+    },
+    {
+      "word": "extermination",
+      "note": {
+        "ja": "害虫・動物・人間集団などを皆殺しにする意味を持ちうる非常に強い語。",
+        "en": "A very strong term often implying the killing of all members of a population."
+      }
+    },
+    {
+      "word": "abolition",
+      "note": {
+        "ja": "制度・慣行・法律などを廃止すること。eradication とは対象が異なることが多い。",
+        "en": "Usually refers to formally ending an institution, practice, or legal system."
+      }
+    },
+    {
+      "word": "removal",
+      "note": {
+        "ja": "何かを取り除くことを広く表す一般語。",
+        "en": "A broad general term for taking something away."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Ausrottung / Beseitigung",
+    "it": "eradicazione",
+    "fr": "éradication",
+    "es": "erradicación"
+  },
+  "collocations": {
+    "ja": [
+      "disease eradication — 疾病根絶",
+      "eradication campaign — 根絶運動",
+      "eradication program — 根絶計画",
+      "eradication of poverty — 貧困の撲滅",
+      "eradication of corruption — 腐敗の根絶",
+      "eradication of malaria — マラリアの根絶",
+      "complete eradication — 完全な根絶",
+      "global eradication — 世界的根絶"
+    ],
+    "en": [
+      "disease eradication",
+      "eradication campaign",
+      "eradication program",
+      "eradication of poverty",
+      "eradication of corruption",
+      "eradication of malaria",
+      "complete eradication",
+      "global eradication"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The campaign aims at the eradication of the disease. — そのキャンペーンはその疾病の根絶を目指している。",
+      "Complete eradication requires sustained international cooperation. — 完全な根絶には継続的な国際協力が必要である。",
+      "The government announced a new program for the eradication of corruption. — 政府は腐敗根絶のための新たな計画を発表した。",
+      "Containment can reduce spread, but eradication requires eliminating the source entirely. — 封じ込めは拡大を抑えられるが、根絶には原因を完全に取り除く必要がある。",
+      "The eradication of smallpox is often cited as a major achievement in public health. — 天然痘の根絶は、公衆衛生上の大きな成果としてしばしば挙げられる。"
+    ],
+    "en": [
+      "The campaign aims at the eradication of the disease.",
+      "Complete eradication requires sustained international cooperation.",
+      "The government announced a new program for the eradication of corruption.",
+      "Containment can reduce spread, but eradication requires eliminating the source entirely.",
+      "The eradication of smallpox is often cited as a major achievement in public health."
+    ]
+  }
+},
+{
+  "id": "abolition",
+  "sid": "2026-00332",
+  "word": "abolition",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "law",
+    "politics",
+    "institution"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌæbəˈlɪʃən/",
+      "uk": "/ˌæbəˈlɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "制度・法律・慣行などの廃止、撤廃",
+      "特に奴隷制度などを正式に廃止すること"
+    ],
+    "en": [
+      "the formal ending of a law, institution, system, or practice",
+      "especially the ending of slavery or another established institution"
+    ]
+  },
+  "nuance": {
+    "ja": "abolition は、制度・法律・慣行などを正式に『存在しないものにする』ことを表すフォーマルな名詞。abolition of slavery『奴隷制度の廃止』が歴史的に最も代表的な用例だが、abolition of the death penalty『死刑制度の廃止』などにも使われる。eradication が病気・貧困・腐敗などを『根絶する』ことに重点を置くのに対し、abolition は制度や慣行を法的・政治的・社会的に廃止することに重点がある。",
+    "en": "Abolition refers to the formal ending of an established law, institution, system, or practice. The abolition of slavery is the classic historical example, but the word is also used for the death penalty and other institutions. Unlike eradication, which emphasizes eliminating a harmful condition or phenomenon, abolition focuses on formally ending a system or practice."
+  },
+  "minimal": {
+    "ja": [
+      "abolition：制度・法律・慣行の正式な廃止。",
+      "abolish：制度などを廃止する。",
+      "eradication：病気・害悪などを根絶する。",
+      "repeal：法律を正式に廃止・撤回する。",
+      "revocation：許可・権利・決定などの取消し。",
+      "elimination：除去・排除を広く表す。"
+    ],
+    "en": [
+      "abolition is the formal ending of a system, institution, or practice.",
+      "abolish is the corresponding verb.",
+      "eradication means complete elimination of something harmful.",
+      "repeal specifically refers to formally revoking a law or statute.",
+      "revocation refers to officially withdrawing a permission, right, or decision.",
+      "elimination is a broader term for removing something."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 abolitio『廃止、消滅』に由来し、abolere『破壊する、消滅させる、廃止する』と関係する。英語の abolish も同じ語族。語源的には『何かを存在しない状態にする』という発想を持つ。",
+    "en": "From Latin abolitio, meaning 'destruction, abolition, or removal', related to abolere, 'to destroy, do away with, or abolish'. The English verb abolish belongs to the same family."
+  },
+  "synonyms": [
+    {
+      "word": "elimination",
+      "note": {
+        "ja": "何かを取り除くこと全般。abolition より対象範囲が広い。",
+        "en": "A broader term for removing or getting rid of something."
+      }
+    },
+    {
+      "word": "repeal",
+      "note": {
+        "ja": "特に法律・法令の正式な廃止。abolition より対象が限定的。",
+        "en": "Specifically refers to the formal revocation of a law or statute."
+      }
+    },
+    {
+      "word": "termination",
+      "note": {
+        "ja": "契約・制度・活動などを終了させること。abolition ほど恒久的制度廃止の含意は強くない。",
+        "en": "Means bringing something to an end and does not necessarily imply the permanent abolition of an institution."
+      }
+    },
+    {
+      "word": "eradication",
+      "note": {
+        "ja": "害悪・疾病などを完全に根絶すること。制度廃止とは焦点が異なる。",
+        "en": "Means rooting out something harmful completely and usually applies to different kinds of targets."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Abschaffung",
+    "it": "abolizione",
+    "fr": "abolition",
+    "es": "abolición"
+  },
+  "collocations": {
+    "ja": [
+      "abolition of slavery — 奴隷制度の廃止",
+      "abolition of the death penalty — 死刑制度の廃止",
+      "abolition of a tax — 税の廃止",
+      "abolition of an institution — 制度の廃止",
+      "call for abolition — 廃止を求める",
+      "campaign for abolition — 廃止運動",
+      "support abolition — 廃止を支持する",
+      "complete abolition — 完全な廃止"
+    ],
+    "en": [
+      "abolition of slavery",
+      "abolition of the death penalty",
+      "abolition of a tax",
+      "abolition of an institution",
+      "call for abolition",
+      "campaign for abolition",
+      "support abolition",
+      "complete abolition"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The movement campaigned for the abolition of slavery. — その運動は奴隷制度の廃止を求めて活動した。",
+      "The organization supports the abolition of the death penalty. — その団体は死刑制度の廃止を支持している。",
+      "Several lawmakers called for the abolition of the tax. — 複数の議員がその税の廃止を求めた。",
+      "The reform eventually led to the abolition of the old system. — その改革は最終的に旧制度の廃止につながった。",
+      "Abolition requires more than simply suspending the practice temporarily. — 廃止とは、その慣行を一時的に停止するだけでは足りない。"
+    ],
+    "en": [
+      "The movement campaigned for the abolition of slavery.",
+      "The organization supports the abolition of the death penalty.",
+      "Several lawmakers called for the abolition of the tax.",
+      "The reform eventually led to the abolition of the old system.",
+      "Abolition requires more than simply suspending the practice temporarily."
+    ]
+  }
+},
+{
+  "id": "termination",
+  "sid": "2026-00333",
+  "word": "termination",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "business",
+    "legal",
+    "employment"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌtɝːməˈneɪʃən/",
+      "uk": "/ˌtɜːmɪˈneɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "終了、終結、打ち切り",
+      "契約・サービスなどの終了、解約",
+      "雇用関係の終了、解雇",
+      "技術的に、端部・終端"
+    ],
+    "en": [
+      "the act or process of bringing something to an end",
+      "the ending or cancellation of a contract, agreement, service, or arrangement",
+      "the ending of someone's employment",
+      "in technical contexts, an endpoint or the act of providing an endpoint"
+    ]
+  },
+  "nuance": {
+    "ja": "termination は何らかの関係・契約・活動・期間を『終わらせること』を表すフォーマルな名詞。contract termination, termination of employment, early termination などビジネス・法律で非常に頻出する。abolition が制度・慣行を恒久的に廃止することを表すのに対し、termination は個別の契約・雇用・サービスなどを終了させることに向く。employment termination では必ずしも懲戒解雇だけを意味せず、雇用関係の終了全般を指しうる。",
+    "en": "Termination is a formal noun for bringing a relationship, contract, activity, service, or period to an end. It is especially common in business, legal, and employment contexts. Unlike abolition, which typically concerns permanently ending an institution or practice, termination commonly applies to a particular contract, employment relationship, or service. In employment contexts, it can refer broadly to the end of employment and does not necessarily imply disciplinary dismissal."
+  },
+  "minimal": {
+    "ja": [
+      "termination：契約・雇用・サービスなどの終了。",
+      "abolition：制度・慣行などの恒久的な廃止。",
+      "cancellation：予約・注文・契約などを取り消すこと。",
+      "expiration：期間満了による終了。",
+      "dismissal：人を職・地位から解任・解雇すること。",
+      "cessation：活動・状態が停止すること。より硬い。"
+    ],
+    "en": [
+      "termination is the formal ending of a contract, employment relationship, service, or activity.",
+      "abolition is the permanent ending of an institution or practice.",
+      "cancellation means calling off or revoking an arrangement.",
+      "expiration is ending because a fixed period has run out.",
+      "dismissal specifically concerns removing someone from a job or position.",
+      "cessation is a formal term for stopping an activity or condition."
+    ]
+  },
+  "etymology": {
+    "ja": "terminate + -ion から成る。terminate はラテン語 terminare『境界を定める、終わらせる』に由来し、terminus『境界、終点』と同語族。terminal『終端の・終着駅』、term『期間・用語』なども同じ語族で、『境界・終点に到達する』というイメージが根本にある。",
+    "en": "Formed from terminate plus -ion. Terminate comes from Latin terminare, meaning 'to set boundaries or bring to an end', from terminus, 'boundary or endpoint'. Terminal and term belong to the same etymological family."
+  },
+  "synonyms": [
+    {
+      "word": "ending",
+      "note": {
+        "ja": "最も一般的な『終了』。termination より日常的。",
+        "en": "The broad everyday term for something coming to an end."
+      }
+    },
+    {
+      "word": "cessation",
+      "note": {
+        "ja": "活動・状態が停止すること。termination よりさらに硬いことがある。",
+        "en": "A formal term emphasizing the stopping of an activity or condition."
+      }
+    },
+    {
+      "word": "cancellation",
+      "note": {
+        "ja": "予約・契約・イベントなどを取り消すことに重点。",
+        "en": "Emphasizes calling off or revoking an arrangement, event, booking, or contract."
+      }
+    },
+    {
+      "word": "dismissal",
+      "note": {
+        "ja": "雇用では『解雇』。termination より人の職からの排除に焦点。",
+        "en": "In employment, specifically emphasizes removing someone from a job or position."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Beendigung / Kündigung",
+    "it": "cessazione / risoluzione",
+    "fr": "résiliation / cessation",
+    "es": "terminación / rescisión"
+  },
+  "collocations": {
+    "ja": [
+      "termination of employment — 雇用関係の終了",
+      "contract termination — 契約終了・解除",
+      "termination clause — 契約終了条項",
+      "termination notice — 終了・解約通知",
+      "early termination — 中途終了",
+      "wrongful termination — 不当解雇",
+      "termination of service — サービス終了",
+      "automatic termination — 自動終了",
+      "grounds for termination — 終了・解雇の理由"
+    ],
+    "en": [
+      "termination of employment",
+      "contract termination",
+      "termination clause",
+      "termination notice",
+      "early termination",
+      "wrongful termination",
+      "termination of service",
+      "automatic termination",
+      "grounds for termination"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The agreement provides for early termination under certain conditions. — その契約は一定の条件下での中途終了を定めている。",
+      "She received a written notice of termination. — 彼女は書面による終了通知を受け取った。",
+      "The contract specifies the grounds for termination. — その契約は終了事由を定めている。",
+      "The company announced the termination of the service. — その会社はサービスの終了を発表した。",
+      "He filed a claim alleging wrongful termination. — 彼は不当解雇を主張して申立てを行った。"
+    ],
+    "en": [
+      "The agreement provides for early termination under certain conditions.",
+      "She received a written notice of termination.",
+      "The contract specifies the grounds for termination.",
+      "The company announced the termination of the service.",
+      "He filed a claim alleging wrongful termination."
+    ]
+  }
+},
+{
+  "id": "cancellation",
+  "sid": "2026-00334",
+  "word": "cancellation",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "general",
+    "business",
+    "travel",
+    "legal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "cancellations"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkænsəˈleɪʃən/",
+      "uk": "/ˌkænsəˈleɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "予定・イベント・予約などの中止、取り消し",
+      "契約・注文・サービスなどの解約、取消し",
+      "効力・予定されていた実施をなくすこと"
+    ],
+    "en": [
+      "the act of deciding that a planned event or arrangement will not take place",
+      "the act of ending or withdrawing a booking, order, contract, or service",
+      "the act of making something no longer valid or effective"
+    ]
+  },
+  "nuance": {
+    "ja": "cancellation は、予定されていたイベント・予約・注文・契約などを取り消すことを表す一般的な語。flight cancellation, booking cancellation, cancellation fee など日常生活でも非常によく使う。termination が継続中の契約・雇用・サービスなどを正式に終了させることに向くのに対し、cancellation は予定や予約、注文、契約上の効力などを『取り消す』ことに重点がある。",
+    "en": "Cancellation is the common noun for calling off a planned event or withdrawing a booking, order, contract, or service. It is very common in everyday contexts such as flights, reservations, and subscriptions. Compared with termination, cancellation often emphasizes withdrawing or calling something off, whereas termination emphasizes formally bringing an existing relationship or arrangement to an end."
+  },
+  "minimal": {
+    "ja": [
+      "cancellation：予定・予約・注文などの中止・取消し。",
+      "termination：契約・雇用などの終了。",
+      "expiration：期限満了による終了。",
+      "revocation：許可・権利などの正式な取消し。",
+      "abolition：制度・慣行などの廃止。",
+      "postponement：延期。中止ではなく後日にずらす。"
+    ],
+    "en": [
+      "cancellation means calling off or withdrawing an arrangement.",
+      "termination means formally bringing an existing relationship or contract to an end.",
+      "expiration means ending because a fixed period has run out.",
+      "revocation means formally withdrawing a right, permission, or decision.",
+      "abolition means formally ending an institution or practice.",
+      "postponement means delaying something rather than cancelling it."
+    ]
+  },
+  "etymology": {
+    "ja": "cancel + -ation から成る。cancel はラテン語 cancellare『格子状の線を引く、抹消する』に由来し、cancelli『格子、柵』と関係する。文書の文字の上に格子状の線を引いて無効にすることから、『取り消す』という意味が発達した。",
+    "en": "Formed from cancel plus -ation. Cancel ultimately comes from Latin cancellare, meaning 'to cross out with lattice-like lines', related to cancelli, 'lattice or bars'. From physically crossing out writing, the verb developed the sense of making something invalid or calling it off."
+  },
+  "synonyms": [
+    {
+      "word": "termination",
+      "note": {
+        "ja": "契約・雇用・サービスなどを正式に終了させることに重点。",
+        "en": "Emphasizes formally ending an existing contract, employment relationship, or service."
+      }
+    },
+    {
+      "word": "revocation",
+      "note": {
+        "ja": "許可・免許・権利・決定などを正式に撤回すること。",
+        "en": "Refers especially to officially withdrawing a permission, license, right, or decision."
+      }
+    },
+    {
+      "word": "withdrawal",
+      "note": {
+        "ja": "申請・提案・参加などを取り下げること。",
+        "en": "Often refers to pulling back an application, proposal, participation, or offer."
+      }
+    },
+    {
+      "word": "calling off",
+      "note": {
+        "ja": "イベント・試合・予定などの中止を表す口語的表現。",
+        "en": "An informal expression for cancelling an event, game, meeting, or plan."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Stornierung / Absage / Kündigung",
+    "it": "cancellazione / annullamento",
+    "fr": "annulation",
+    "es": "cancelación / anulación"
+  },
+  "collocations": {
+    "ja": [
+      "flight cancellation — 欠航",
+      "booking cancellation — 予約取消し",
+      "reservation cancellation — 予約取消し",
+      "order cancellation — 注文取消し",
+      "contract cancellation — 契約取消し・解約",
+      "cancellation fee — キャンセル料",
+      "cancellation policy — キャンセル規定",
+      "last-minute cancellation — 直前キャンセル",
+      "notice of cancellation — 取消通知"
+    ],
+    "en": [
+      "flight cancellation",
+      "booking cancellation",
+      "reservation cancellation",
+      "order cancellation",
+      "contract cancellation",
+      "cancellation fee",
+      "cancellation policy",
+      "last-minute cancellation",
+      "notice of cancellation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The airline announced the cancellation of several flights. — 航空会社はいくつかの便の欠航を発表した。",
+      "A cancellation fee may apply if you cancel less than 24 hours in advance. — 24時間を切ってからキャンセルすると、キャンセル料がかかる場合がある。",
+      "We received confirmation of the booking cancellation. — 私たちは予約取消しの確認を受け取った。",
+      "The contract allows cancellation under certain conditions. — その契約では一定の条件下での解約が認められている。",
+      "The event was cancelled because of severe weather. — そのイベントは悪天候のため中止された。"
+    ],
+    "en": [
+      "The airline announced the cancellation of several flights.",
+      "A cancellation fee may apply if you cancel less than 24 hours in advance.",
+      "We received confirmation of the booking cancellation.",
+      "The contract allows cancellation under certain conditions.",
+      "The event was cancelled because of severe weather."
+    ]
+  }
+},
+{
+  "id": "revocation",
+  "sid": "2026-00335",
+  "word": "revocation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "legal",
+    "formal",
+    "administration",
+    "rights"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "revocations"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌrevəˈkeɪʃən/",
+      "uk": "/ˌrevəˈkeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "許可・免許・権利などの取消し、撤回",
+      "命令・決定・承認などを正式に無効にすること",
+      "法的効力を持つものを正式に取り消すこと"
+    ],
+    "en": [
+      "the official withdrawal or cancellation of a right, permission, license, or decision",
+      "the act of formally making something previously granted or authorized no longer valid",
+      "the legal withdrawal of an authorization, order, or instrument"
+    ]
+  },
+  "nuance": {
+    "ja": "revocation は、すでに与えられている許可・免許・権利・承認などを、権限ある者や機関が正式に取り消すことを表す。license revocation, revocation of consent, revocation of a permit などが典型。cancellation が予約・予定・契約など幅広い対象に使えるのに対し、revocation は『いったん有効に与えられた法的・公的なものを撤回する』という響きが強い。",
+    "en": "Revocation refers to the formal withdrawal of something that has previously been granted, authorized, or made legally effective, such as a license, permit, consent, or right. Compared with cancellation, which is much broader, revocation strongly suggests an official or legal act of withdrawing validity or authorization."
+  },
+  "minimal": {
+    "ja": [
+      "revocation：許可・権利・免許などの正式な取消し。",
+      "cancellation：予約・予定・契約などの取消し。より一般的。",
+      "withdrawal：申請・同意・提案などの取り下げ・撤回。",
+      "repeal：法律そのものの廃止。",
+      "rescission：契約を法的に取り消して効力を解消すること。",
+      "suspension：一時停止。完全な取消しではない。"
+    ],
+    "en": [
+      "revocation is the official withdrawal of a right, license, permission, or authorization.",
+      "cancellation is a broader term for calling off or invalidating something.",
+      "withdrawal means pulling back an application, consent, offer, or participation.",
+      "repeal means formally abolishing a law.",
+      "rescission is the legal cancellation of a contract.",
+      "suspension means temporary interruption rather than permanent withdrawal."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 revocatio『呼び戻すこと、撤回』に由来し、revocare『呼び戻す、取り消す』と関係する。re-『再び、後ろへ』＋ vocare『呼ぶ』という構造で、文字どおりは『呼び戻す』という意味。vocal, vocation, invoke, revoke なども vocare『呼ぶ』系。",
+    "en": "From Latin revocatio, meaning 'calling back or withdrawal', from revocare, 'to call back or revoke'. It is formed from re- ('back') plus vocare ('to call'). The same Latin root appears in words such as vocal, vocation, invoke, and revoke."
+  },
+  "synonyms": [
+    {
+      "word": "withdrawal",
+      "note": {
+        "ja": "より広い『撤回・取り下げ』。revocation ほど公的・法的でない場合も多い。",
+        "en": "A broader term for taking something back and often less specifically legal or official than revocation."
+      }
+    },
+    {
+      "word": "cancellation",
+      "note": {
+        "ja": "取り消し一般。予約・注文・契約などにも幅広く使える。",
+        "en": "A much broader term used for bookings, orders, contracts, plans, and other arrangements."
+      }
+    },
+    {
+      "word": "rescission",
+      "note": {
+        "ja": "特に契約を法的に取り消すこと。revocation より対象が限定的。",
+        "en": "A more specific legal term for undoing or cancelling a contract."
+      }
+    },
+    {
+      "word": "repeal",
+      "note": {
+        "ja": "法律・法令を正式に廃止すること。",
+        "en": "Specifically refers to formally abolishing a statute or law."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Widerruf / Entzug",
+    "it": "revoca",
+    "fr": "révocation / retrait",
+    "es": "revocación"
+  },
+  "collocations": {
+    "ja": [
+      "license revocation — 免許取消し",
+      "revocation of a license — 免許の取消し",
+      "revocation of consent — 同意の撤回",
+      "revocation of a permit — 許可の取消し",
+      "revocation of authority — 権限の撤回",
+      "revocation proceedings — 取消手続",
+      "grounds for revocation — 取消事由",
+      "automatic revocation — 自動的な取消し",
+      "seek revocation — 取消しを求める"
+    ],
+    "en": [
+      "license revocation",
+      "revocation of a license",
+      "revocation of consent",
+      "revocation of a permit",
+      "revocation of authority",
+      "revocation proceedings",
+      "grounds for revocation",
+      "automatic revocation",
+      "seek revocation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The violation may result in the revocation of the license. — その違反は免許取消しにつながる可能性がある。",
+      "The agency initiated revocation proceedings against the permit holder. — 当局は許可保有者に対する取消手続を開始した。",
+      "The agreement allows revocation of consent at any time. — その合意では、いつでも同意を撤回することが認められている。",
+      "Fraud can constitute grounds for revocation of the authorization. — 詐欺はその認可の取消事由となりうる。",
+      "The court considered whether the revocation was legally valid. — 裁判所はその取消しが法的に有効であったかを検討した。"
+    ],
+    "en": [
+      "The violation may result in the revocation of the license.",
+      "The agency initiated revocation proceedings against the permit holder.",
+      "The agreement allows revocation of consent at any time.",
+      "Fraud can constitute grounds for revocation of the authorization.",
+      "The court considered whether the revocation was legally valid."
+    ]
+  }
+},
+{
+  "id": "repeal",
+  "sid": "2026-00336",
+  "word": "repeal",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "legal",
+    "formal",
+    "law",
+    "politics"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "transitivity": "transitive",
+    "countability": "countable / uncountable",
+    "forms": {
+      "base": "repeal",
+      "third_person": "repeals",
+      "past": "repealed",
+      "past_participle": "repealed",
+      "gerund": "repealing"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈpiːl/",
+      "uk": "/rɪˈpiːl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "動詞：法律・法令を正式に廃止する、撤廃する",
+      "名詞：法律・法令の廃止、撤廃"
+    ],
+    "en": [
+      "verb: to officially revoke or abolish a law or statute",
+      "noun: the formal revocation or abolition of a law"
+    ]
+  },
+  "nuance": {
+    "ja": "repeal は、すでに制定されている法律・法令を立法手続などによって正式に廃止することを表す法律用語。repeal a law, repeal a statute, repeal a provision などが典型。abolish は制度・慣行・組織などにも広く使えるが、repeal は特に法規範を対象とする。revocation は免許・許可・権利などの取消しに使われるため、対象が異なる。",
+    "en": "Repeal is a legal term for formally removing an existing law or statutory provision from effect. Typical objects include laws, statutes, provisions, and legislation. Abolish is broader and can apply to institutions or practices, while revoke is more commonly used for licenses, permissions, rights, or authorizations."
+  },
+  "minimal": {
+    "ja": [
+      "repeal：法律・法令を正式に廃止する。",
+      "abolish：制度・慣行などを廃止する。より広い。",
+      "revoke：許可・免許・権利などを取り消す。",
+      "rescind：契約・決定などを正式に取り消す。",
+      "amend：法律を改正する。廃止ではない。",
+      "invalidate：法的効力を無効にする。必ずしも立法による廃止ではない。"
+    ],
+    "en": [
+      "repeal means formally abolishing a law or statute.",
+      "abolish is broader and can apply to institutions or practices.",
+      "revoke commonly applies to licenses, permissions, and rights.",
+      "rescind means formally cancelling a contract, decision, or measure.",
+      "amend means changing a law rather than abolishing it.",
+      "invalidate means making something legally ineffective and does not necessarily involve legislative repeal."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 repelen を経て、古フランス語 repeler『呼び戻す、撤回する』に由来する。さらにラテン語 repellere『押し返す、追い返す』と関係する。re-『後ろへ』＋ pellere『押す、追いやる』という構造で、もともとの『押し戻す・撤回する』という意味から、法律を正式に廃止する意味へ発達した。",
+    "en": "From Middle English repelen, via Old French repeler, and ultimately related to Latin repellere, meaning 'to drive or push back'. It is formed from re- plus pellere, 'to push or drive'. The sense developed from recalling or withdrawing something to formally abolishing a law."
+  },
+  "synonyms": [
+    {
+      "word": "abolish",
+      "note": {
+        "ja": "制度・法律・慣行などをなくす広い語。repeal は特に法律・法令に特化。",
+        "en": "A broader verb for ending a law, institution, or practice; repeal is more specifically legislative."
+      }
+    },
+    {
+      "word": "revoke",
+      "note": {
+        "ja": "免許・許可・権限などを正式に取り消す。法律そのものには通常 repeal が適切。",
+        "en": "Usually used for officially withdrawing a license, permission, or authority rather than abolishing a statute."
+      }
+    },
+    {
+      "word": "rescind",
+      "note": {
+        "ja": "契約・決定・規則などを正式に取り消す。法的・フォーマル。",
+        "en": "A formal legal verb for cancelling a contract, decision, or measure."
+      }
+    },
+    {
+      "word": "nullify",
+      "note": {
+        "ja": "法的効力をなくす、無効にする。repeal と違い立法による廃止に限定されない。",
+        "en": "Means to make something legally ineffective and is not limited to legislative repeal."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "aufheben / abschaffen",
+    "it": "abrogare",
+    "fr": "abroger",
+    "es": "derogar"
+  },
+  "collocations": {
+    "ja": [
+      "repeal a law — 法律を廃止する",
+      "repeal a statute — 制定法を廃止する",
+      "repeal a provision — 条項を廃止する",
+      "repeal legislation — 法律を撤廃する",
+      "call for repeal — 廃止を求める",
+      "vote for repeal — 廃止に賛成票を投じる",
+      "full repeal — 全面廃止",
+      "partial repeal — 一部廃止",
+      "repeal of the law — その法律の廃止"
+    ],
+    "en": [
+      "repeal a law",
+      "repeal a statute",
+      "repeal a provision",
+      "repeal legislation",
+      "call for repeal",
+      "vote for repeal",
+      "full repeal",
+      "partial repeal",
+      "repeal of the law"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Parliament voted to repeal the law. — 議会はその法律を廃止することを決議した。",
+      "The government proposed repealing several outdated provisions. — 政府はいくつかの時代遅れの条項を廃止することを提案した。",
+      "Activists called for the repeal of the statute. — 活動家たちはその制定法の廃止を求めた。",
+      "The amendment changed the law without repealing it entirely. — その改正は法律を全面廃止することなく内容を変更した。",
+      "The provision remained in force until its repeal several years later. — その条項は数年後に廃止されるまで効力を有していた。"
+    ],
+    "en": [
+      "Parliament voted to repeal the law.",
+      "The government proposed repealing several outdated provisions.",
+      "Activists called for the repeal of the statute.",
+      "The amendment changed the law without repealing it entirely.",
+      "The provision remained in force until its repeal several years later."
+    ]
+  }
+},
+{
+  "id": "invalidation",
+  "sid": "2026-00337",
+  "word": "invalidation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "legal",
+    "formal",
+    "validity",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable",
+    "plural": "invalidations"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˌvæləˈdeɪʃən/",
+      "uk": "/ɪnˌvælɪˈdeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "無効化、無効とすること",
+      "法律・契約・権利・請求などの効力を失わせること",
+      "データ・資格・結果などを有効でないものとすること"
+    ],
+    "en": [
+      "the act or process of making something invalid or no longer legally effective",
+      "the removal of the validity of a law, contract, right, claim, or decision",
+      "the process of treating data, credentials, results, or other items as no longer valid"
+    ]
+  },
+  "nuance": {
+    "ja": "invalidation は、あるものが持っていた法的・制度的・技術的な有効性を失わせることを表す。法律・契約・知的財産権などでは、権限ある機関や裁判所によって『無効とされる』文脈で使われることが多い。repeal が法律を立法によって廃止することに重点を置くのに対し、invalidation はその法律・権利・決定などが有効ではないと判断されることに重点がある。",
+    "en": "Invalidation refers to removing or denying the validity or legal effect of something. In legal contexts, it often describes a court, authority, or procedure determining that a law, right, contract, claim, or decision is invalid. Unlike repeal, which focuses on formally abolishing legislation, invalidation focuses on loss of validity or legal effect."
+  },
+  "minimal": {
+    "ja": [
+      "invalidation：有効性・法的効力を失わせること。",
+      "invalidate：無効にする。",
+      "repeal：法律を立法上廃止する。",
+      "revocation：許可・権利などを正式に取り消す。",
+      "nullification：効力を無にすること。invalidation に近い。",
+      "cancellation：予定・予約・契約などの取消し。より一般的。"
+    ],
+    "en": [
+      "invalidation is the act of making something invalid.",
+      "invalidate is the corresponding verb.",
+      "repeal means formally abolishing a law.",
+      "revocation means officially withdrawing a permission, right, or license.",
+      "nullification is a close term meaning the removal of legal or practical effect.",
+      "cancellation is a broader everyday term for calling something off or withdrawing it."
+    ]
+  },
+  "etymology": {
+    "ja": "invalidate + -ion から成る。invalid は in-『～でない』＋ valid『有効な』から成り、valid はラテン語 validus『強い、有効な』に由来する。validus は valere『強い、価値がある、有効である』と関係する。したがって invalidation は文字どおり『valid でなくすること』。",
+    "en": "Formed from invalidate plus -ion. Invalid consists of in- ('not') plus valid, which comes from Latin validus, meaning 'strong, effective, or valid', related to valere, 'to be strong or have worth'. Invalidation therefore literally means making something no longer valid."
+  },
+  "synonyms": [
+    {
+      "word": "nullification",
+      "note": {
+        "ja": "法的・制度的効力を無にすること。invalidation に非常に近い。",
+        "en": "A close synonym emphasizing making something legally or practically ineffective."
+      }
+    },
+    {
+      "word": "revocation",
+      "note": {
+        "ja": "許可・権利・免許などを正式に撤回することに重点。",
+        "en": "Emphasizes formally withdrawing a permission, license, or right."
+      }
+    },
+    {
+      "word": "cancellation",
+      "note": {
+        "ja": "取消し一般。invalidation より日常的で対象が広い。",
+        "en": "A broader and more everyday term for cancelling or withdrawing something."
+      }
+    },
+    {
+      "word": "annulment",
+      "note": {
+        "ja": "法的効力を無効とすること。特に婚姻・契約などで使われる。",
+        "en": "A legal term for declaring something void, especially a marriage or contract."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Ungültigerklärung / Nichtigerklärung",
+    "it": "invalidazione / annullamento",
+    "fr": "invalidation / annulation",
+    "es": "invalidación / anulación"
+  },
+  "collocations": {
+    "ja": [
+      "invalidation of a patent — 特許の無効化",
+      "invalidation of a trademark — 商標権の無効化",
+      "invalidation of a claim — 請求項の無効化",
+      "invalidation of a contract — 契約の無効化",
+      "invalidation of a law — 法律の無効化",
+      "seek invalidation — 無効化を求める",
+      "grounds for invalidation — 無効理由",
+      "partial invalidation — 一部無効",
+      "invalidation proceedings — 無効手続"
+    ],
+    "en": [
+      "invalidation of a patent",
+      "invalidation of a trademark",
+      "invalidation of a claim",
+      "invalidation of a contract",
+      "invalidation of a law",
+      "seek invalidation",
+      "grounds for invalidation",
+      "partial invalidation",
+      "invalidation proceedings"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The defendant sought the invalidation of the patent. — 被告はその特許の無効化を求めた。",
+      "The court ordered the invalidation of the disputed provision. — 裁判所は争われていた条項を無効とするよう命じた。",
+      "Fraud may constitute grounds for invalidation of the agreement. — 詐欺はその契約の無効理由となりうる。",
+      "The case concerned the partial invalidation of a trademark registration. — その事件は商標登録の一部無効に関するものだった。",
+      "Invalidation removes the legal effect of something that was previously treated as valid. — 無効化とは、それまで有効と扱われていたものの法的効力を失わせることである。"
+    ],
+    "en": [
+      "The defendant sought the invalidation of the patent.",
+      "The court ordered the invalidation of the disputed provision.",
+      "Fraud may constitute grounds for invalidation of the agreement.",
+      "The case concerned the partial invalidation of a trademark registration.",
+      "Invalidation removes the legal effect of something that was previously treated as valid."
+    ]
+  }
+},
+{
+  "id": "rescission",
+  "sid": "2026-00338",
+  "word": "rescission",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "legal",
+    "contract",
+    "formal",
+    "remedy"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable",
+    "plural": "rescissions"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈsɪʒən/",
+      "uk": "/rɪˈsɪʒən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "契約などの取消し、解除、撤回",
+      "法的に契約の効力を解消すること",
+      "文脈によっては、契約当事者を契約前の状態に戻す救済"
+    ],
+    "en": [
+      "the legal cancellation or setting aside of a contract",
+      "the act of undoing a contract or agreement so that it is no longer legally effective",
+      "in some legal contexts, a remedy intended to restore the parties to their pre-contract position"
+    ]
+  },
+  "nuance": {
+    "ja": "rescission は特に契約法で使われるフォーマルな語で、契約を法的に取り消し、その効力を解消することを指す。termination が通常、継続中の契約関係を将来に向かって終了させるのに対し、rescission は契約そのものを取り消すという性格が強く、法域や具体的な救済内容によっては当事者を契約締結前の状態へ戻すことを目的とする。詐欺、虚偽表示、錯誤などが rescission の根拠となることがあるが、要件や効果は法域によって異なる。",
+    "en": "Rescission is a formal contract-law term for legally setting aside or undoing a contract. Unlike termination, which usually ends an ongoing contractual relationship prospectively, rescission more strongly suggests undoing the contract itself. In some jurisdictions and contexts, the remedy aims to restore the parties to the position they occupied before the contract was made. The exact grounds and effects vary by jurisdiction."
+  },
+  "minimal": {
+    "ja": [
+      "rescission：契約を法的に取り消し、効力を解消すること。",
+      "termination：契約関係を終了させること。通常は将来に向かう。",
+      "cancellation：取消し一般。rescission より広く日常的。",
+      "revocation：許可・権利などの正式な撤回。",
+      "annulment：法的に無効とすること。婚姻などでも使う。",
+      "restitution：受け取った利益などを返還して原状回復を図ること。"
+    ],
+    "en": [
+      "rescission means legally setting aside or undoing a contract.",
+      "termination usually ends an ongoing contract or relationship prospectively.",
+      "cancellation is a broader and more general term.",
+      "revocation refers especially to withdrawing a permission, license, or right.",
+      "annulment means declaring something legally void, especially in certain family-law or contractual contexts.",
+      "restitution involves restoring benefits or value and may accompany rescission."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 rescindere『切り離す、取り消す』に由来する rescissio にさかのぼる。re-『後ろへ、元に戻して』＋ scindere『切る、裂く』という構造で、文字どおりは『切り離して元に戻す』というイメージ。動詞 rescind も同じ語族。",
+    "en": "From Latin rescissio, related to rescindere, meaning 'to cut off, annul, or rescind', from re- plus scindere ('to cut or split'). The underlying image is undoing something by cutting it apart."
+  },
+  "synonyms": [
+    {
+      "word": "cancellation",
+      "note": {
+        "ja": "広い意味での取消し。rescission ほど契約法上の救済という意味に限定されない。",
+        "en": "A broader term for cancelling something and not specifically a contract-law remedy."
+      }
+    },
+    {
+      "word": "annulment",
+      "note": {
+        "ja": "法的に効力を否定すること。婚姻・契約などで使われるが rescission と完全同義ではない。",
+        "en": "A legal declaration that something is void or ineffective, but not always identical to rescission."
+      }
+    },
+    {
+      "word": "termination",
+      "note": {
+        "ja": "契約・雇用などを終了させる。rescission より将来的な終了を表しやすい。",
+        "en": "Means bringing a contract or relationship to an end and more often operates prospectively."
+      }
+    },
+    {
+      "word": "avoidance",
+      "note": {
+        "ja": "契約法で、契約の拘束力を否定・回避することを表す場合がある。",
+        "en": "In contract law, can refer to setting aside or avoiding the binding effect of a contract."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Rücktritt / Anfechtung / Rückabwicklung",
+    "it": "rescissione",
+    "fr": "résolution / rescision",
+    "es": "rescisión"
+  },
+  "collocations": {
+    "ja": [
+      "rescission of a contract — 契約の取消し・解消",
+      "seek rescission — 契約取消しを求める",
+      "grounds for rescission — 取消しの根拠",
+      "right of rescission — 取消権",
+      "claim for rescission — 取消請求",
+      "rescission remedy — 取消しという救済",
+      "rescission and restitution — 契約取消しと原状回復",
+      "equitable rescission — 衡平法上の取消し",
+      "order rescission — 取消しを命じる"
+    ],
+    "en": [
+      "rescission of a contract",
+      "seek rescission",
+      "grounds for rescission",
+      "right of rescission",
+      "claim for rescission",
+      "rescission remedy",
+      "rescission and restitution",
+      "equitable rescission",
+      "order rescission"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The buyer sought rescission of the contract on the ground of fraud. — 買主は詐欺を理由として契約の取消しを求めた。",
+      "The court considered whether rescission was an appropriate remedy. — 裁判所は契約取消しが適切な救済であるかを検討した。",
+      "Rescission may require the parties to return benefits received under the contract. — 契約取消しでは、当事者が契約に基づいて受け取った利益を返還する必要が生じることがある。",
+      "The agreement gave the purchaser a limited right of rescission. — その契約は買主に限定的な取消権を与えていた。",
+      "Termination and rescission can produce different legal consequences. — 契約終了と契約取消しでは、異なる法的効果が生じることがある。"
+    ],
+    "en": [
+      "The buyer sought rescission of the contract on the ground of fraud.",
+      "The court considered whether rescission was an appropriate remedy.",
+      "Rescission may require the parties to return benefits received under the contract.",
+      "The agreement gave the purchaser a limited right of rescission.",
+      "Termination and rescission can produce different legal consequences."
+    ]
+  }
+},
+{
+  "id": "annulment",
+  "sid": "2026-00339",
+  "word": "annulment",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "legal",
+    "formal",
+    "contract",
+    "marriage"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "annulments"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈnʌlmənt/",
+      "uk": "/əˈnʌlmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "法的な無効化、無効宣言",
+      "婚姻・契約・法的行為などを無効とすること",
+      "法的効力を取り除くこと"
+    ],
+    "en": [
+      "the legal act of declaring something invalid or void",
+      "the formal invalidation of a marriage, contract, or other legal act",
+      "the removal of legal effect from something"
+    ]
+  },
+  "nuance": {
+    "ja": "annulment は、婚姻・契約・法的行為などについて、その法的効力を無効とすることを表す。特に marriage annulment『婚姻無効』が代表的。divorce が有効に成立した婚姻関係を解消するのに対し、annulment は婚姻が法的に有効でなかったと扱う方向の概念である。契約法でも使われるが、rescission や invalidation との具体的な区別は法域によって異なる。",
+    "en": "Annulment is the legal act of declaring a marriage, contract, or other legal act invalid or void. It is especially common in the expression marriage annulment. Unlike divorce, which ends a legally valid marriage, annulment generally treats the marriage as legally invalid in some respect. In contract law, its relationship to rescission and invalidation varies by jurisdiction."
+  },
+  "minimal": {
+    "ja": [
+      "annulment：法的に無効とすること。",
+      "rescission：契約を取り消して法的関係を解消すること。",
+      "invalidation：有効性を失わせること。より広い。",
+      "divorce：有効な婚姻を解消すること。",
+      "revocation：許可・免許などを取り消すこと。",
+      "nullification：効力を無にすること。annulment に近い。"
+    ],
+    "en": [
+      "annulment means legally declaring something invalid or void.",
+      "rescission means legally undoing or setting aside a contract.",
+      "invalidation is the broader process of making something invalid.",
+      "divorce ends a legally valid marriage.",
+      "revocation withdraws a permission, license, or right.",
+      "nullification is a close term for removing legal effect."
+    ]
+  },
+  "etymology": {
+    "ja": "annul + -ment から成る。annul は古フランス語 anuler を経て、後期ラテン語 annullare『無にする』に由来し、ad-『～へ』＋ nullus『何もない、無効な』という構造。null『無、ゼロ』と同じ語族で、文字どおりには『無にする』という意味。",
+    "en": "Formed from annul plus -ment. Annul comes through Old French from Late Latin annullare, meaning 'to reduce to nothing or make void', based on nullus, 'none' or 'nothing'. It belongs to the same family as null."
+  },
+  "synonyms": [
+    {
+      "word": "nullification",
+      "note": {
+        "ja": "法的・制度的効力を無にすること。annulment に非常に近い。",
+        "en": "A close synonym emphasizing the removal of legal or practical effect."
+      }
+    },
+    {
+      "word": "invalidation",
+      "note": {
+        "ja": "有効性を失わせることを広く表す。annulment より対象範囲が広い。",
+        "en": "A broader term for making something invalid."
+      }
+    },
+    {
+      "word": "rescission",
+      "note": {
+        "ja": "特に契約を法的に取り消すこと。原状回復と結びつくこともある。",
+        "en": "A contract-law remedy involving the legal undoing or setting aside of a contract."
+      }
+    },
+    {
+      "word": "cancellation",
+      "note": {
+        "ja": "取消し一般。annulment より日常的で法的意味が弱いことも多い。",
+        "en": "A broader everyday term for calling something off or withdrawing it."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Annullierung / Nichtigerklärung",
+    "it": "annullamento",
+    "fr": "annulation",
+    "es": "anulación"
+  },
+  "collocations": {
+    "ja": [
+      "marriage annulment — 婚姻無効",
+      "annulment of a marriage — 婚姻の無効化",
+      "annulment of a contract — 契約の無効化",
+      "seek an annulment — 無効宣言を求める",
+      "obtain an annulment — 無効宣言を得る",
+      "grounds for annulment — 無効事由",
+      "annulment proceedings — 無効手続",
+      "petition for annulment — 無効を求める申立て",
+      "grant an annulment — 無効を認める"
+    ],
+    "en": [
+      "marriage annulment",
+      "annulment of a marriage",
+      "annulment of a contract",
+      "seek an annulment",
+      "obtain an annulment",
+      "grounds for annulment",
+      "annulment proceedings",
+      "petition for annulment",
+      "grant an annulment"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She filed a petition for annulment of the marriage. — 彼女は婚姻無効を求める申立てを行った。",
+      "The court granted the annulment. — 裁判所は無効を認めた。",
+      "Fraud may constitute grounds for annulment in some circumstances. — 詐欺は状況によっては無効事由となることがある。",
+      "Annulment and divorce have different legal effects. — 婚姻無効と離婚では法的効果が異なる。",
+      "The parties sought annulment of the agreement. — 当事者らはその契約の無効化を求めた。"
+    ],
+    "en": [
+      "She filed a petition for annulment of the marriage.",
+      "The court granted the annulment.",
+      "Fraud may constitute grounds for annulment in some circumstances.",
+      "Annulment and divorce have different legal effects.",
+      "The parties sought annulment of the agreement."
+    ]
+  }
+},
+{
+  "id": "unleash",
+  "sid": "2026-00340",
+  "word": "unleash",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "general",
+    "formal",
+    "force",
+    "emotion"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "unleash",
+      "third_person": "unleashes",
+      "past": "unleashed",
+      "past_participle": "unleashed",
+      "gerund": "unleashing"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ʌnˈliːʃ/",
+      "uk": "/ʌnˈliːʃ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "犬などを綱から放す",
+      "力・感情・暴力・批判などを解き放つ",
+      "強い作用や反応を一気に引き起こす",
+      "能力・潜在力などを十分に発揮させる"
+    ],
+    "en": [
+      "to release an animal from a leash",
+      "to suddenly release a strong force, emotion, reaction, or attack",
+      "to cause something powerful to begin or spread",
+      "to allow a person's ability, creativity, or potential to operate freely"
+    ]
+  },
+  "nuance": {
+    "ja": "unleash は、何か強力なものがそれまで拘束・抑制されていたところから一気に解放されるイメージを持つ。unleash violence, unleash criticism, unleash a wave of protests など、しばしば強烈・制御困難なものに使われる。一方、unleash creativity, unleash potential のように肯定的な対象にも使える。単なる release より劇的でエネルギーの強さを感じさせる。",
+    "en": "Unleash suggests releasing something powerful that had previously been restrained or contained. It is often used for intense or difficult-to-control forces such as violence, anger, criticism, or protest, but it can also be positive, as in unleashing creativity or potential. It is more vivid and forceful than release."
+  },
+  "minimal": {
+    "ja": [
+      "unleash：抑えられていた強い力・感情などを解き放つ。",
+      "release：放す、解放する。最も一般的。",
+      "let loose：自由にさせる、解き放つ。より口語的。",
+      "trigger：反応・出来事を引き起こす。",
+      "set off：反応・爆発・一連の出来事を引き起こす。",
+      "unleash one's potential：潜在能力を解き放つ。"
+    ],
+    "en": [
+      "unleash means to release something powerful from restraint.",
+      "release is the broader neutral verb.",
+      "let loose is a more informal expression for releasing or allowing free action.",
+      "trigger means to cause a reaction or event to begin.",
+      "set off means to cause an event, reaction, or explosion.",
+      "unleash one's potential means to allow one's abilities to develop or operate fully."
+    ]
+  },
+  "etymology": {
+    "ja": "un-『～を外す』＋ leash『ひも、綱』から成る。もともとは犬などを leash から外して自由にすることを意味した。そこから、抑えられていた力・感情・暴力などを『綱から放つ』ように解放する比喩義が発達した。",
+    "en": "Formed from un- plus leash. It originally meant literally removing an animal from a leash. From that physical image developed the figurative sense of releasing a previously restrained force, emotion, ability, or reaction."
+  },
+  "synonyms": [
+    {
+      "word": "release",
+      "note": {
+        "ja": "最も広い『解放する』。unleash ほど強烈・劇的ではない。",
+        "en": "The broad neutral verb for setting something free and less vivid than unleash."
+      }
+    },
+    {
+      "word": "let loose",
+      "note": {
+        "ja": "自由にさせる、解き放つ。unleash に近いがより口語的。",
+        "en": "A more informal expression meaning to release or allow something to act freely."
+      }
+    },
+    {
+      "word": "trigger",
+      "note": {
+        "ja": "反応・事件を引き起こすことに重点。必ずしも『抑制から解放』ではない。",
+        "en": "Emphasizes causing a reaction or event rather than releasing something from restraint."
+      }
+    },
+    {
+      "word": "liberate",
+      "note": {
+        "ja": "人・集団などを拘束・支配から解放する。unleash より自由そのものに重点。",
+        "en": "Emphasizes freeing a person or group from control or restriction rather than releasing a force."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "entfesseln / freisetzen",
+    "it": "scatenare / liberare",
+    "fr": "déchaîner / libérer",
+    "es": "desatar / liberar"
+  },
+  "collocations": {
+    "ja": [
+      "unleash violence — 暴力を解き放つ・引き起こす",
+      "unleash a wave of protests — 抗議の波を引き起こす",
+      "unleash criticism — 激しい批判を招く・浴びせる",
+      "unleash anger — 怒りを爆発させる",
+      "unleash chaos — 混乱を引き起こす",
+      "unleash the full force of — ～の全力を解き放つ",
+      "unleash creativity — 創造力を解き放つ",
+      "unleash potential — 潜在能力を引き出す",
+      "unleash a powerful response — 強烈な反応を引き起こす"
+    ],
+    "en": [
+      "unleash violence",
+      "unleash a wave of protests",
+      "unleash criticism",
+      "unleash anger",
+      "unleash chaos",
+      "unleash the full force of",
+      "unleash creativity",
+      "unleash potential",
+      "unleash a powerful response"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The announcement unleashed a wave of criticism. — その発表は激しい批判の波を引き起こした。",
+      "The conflict could unleash further violence across the region. — その紛争は地域全体でさらなる暴力を引き起こす可能性がある。",
+      "The new technology could unleash enormous economic potential. — その新技術は莫大な経済的潜在力を解き放つ可能性がある。",
+      "She finally unleashed her anger at the meeting. — 彼女はついに会議で怒りを爆発させた。",
+      "The program is designed to unleash students' creativity. — そのプログラムは学生の創造力を引き出すよう設計されている。"
+    ],
+    "en": [
+      "The announcement unleashed a wave of criticism.",
+      "The conflict could unleash further violence across the region.",
+      "The new technology could unleash enormous economic potential.",
+      "She finally unleashed her anger at the meeting.",
+      "The program is designed to unleash students' creativity."
+    ]
+  }
+},
+{
+  "id": "liberate",
+  "sid": "2026-00341",
+  "word": "liberate",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "freedom",
+    "politics",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "liberate",
+      "third_person": "liberates",
+      "past": "liberated",
+      "past_participle": "liberated",
+      "gerund": "liberating"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈlɪbəreɪt/",
+      "uk": "/ˈlɪbəreɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人・集団・地域などを支配・拘束・抑圧から解放する",
+      "人を制約・束縛から自由にする",
+      "物質などを化学的・物理的過程で放出する"
+    ],
+    "en": [
+      "to free a person, group, or place from control, captivity, or oppression",
+      "to free someone from restrictions or constraints",
+      "to release a substance through a chemical or physical process"
+    ]
+  },
+  "nuance": {
+    "ja": "liberate は『自由でない状態から自由にする』ことに重点を置くフォーマルな動詞。捕虜・占領地域・抑圧された集団などについて使われるほか、比喩的に liberate someone from convention『人を因習から解放する』のようにも使える。unleash が抑えられていた力や感情を一気に解き放つことを表すのに対し、liberate は拘束・支配・制限そのものを取り除いて自由にすることを表す。",
+    "en": "Liberate is a formal verb emphasizing the removal of captivity, control, oppression, or restriction so that someone or something becomes free. It can be used literally of prisoners, territories, or oppressed groups and figuratively of freeing people from conventions or constraints. Unlike unleash, which emphasizes releasing a powerful force, liberate focuses on freedom from restraint or domination."
+  },
+  "minimal": {
+    "ja": [
+      "liberate：支配・拘束・抑圧から解放する。",
+      "free：自由にする。最も一般的。",
+      "release：拘束・保管状態などから放す。",
+      "emancipate：法的・社会的束縛から解放する。より硬い。",
+      "unleash：抑えられていた力・感情などを解き放つ。",
+      "set free：自由にする。日常的な表現。"
+    ],
+    "en": [
+      "liberate means to free someone or something from control, oppression, or restriction.",
+      "free is the broad everyday verb.",
+      "release means to let someone or something out of confinement or control.",
+      "emancipate emphasizes legal or social liberation from restrictions.",
+      "unleash emphasizes releasing a powerful force or emotion.",
+      "set free is an everyday expression meaning to release from confinement."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 liberare『自由にする』に由来し、liber『自由な』と同語族。liberty『自由』、liberal『自由主義的な・寛大な』、liberation『解放』なども同じ語族。中心イメージは一貫して『自由にする』こと。",
+    "en": "From Latin liberare, meaning 'to set free', from liber, 'free'. It belongs to the same family as liberty, liberal, and liberation. The core idea throughout the family is freedom."
+  },
+  "synonyms": [
+    {
+      "word": "free",
+      "note": {
+        "ja": "最も一般的な『解放する』。liberate より広く日常的。",
+        "en": "The broad everyday verb for making someone or something free."
+      }
+    },
+    {
+      "word": "release",
+      "note": {
+        "ja": "拘束・監禁・保管などから放すことに重点。",
+        "en": "Emphasizes letting someone or something out of confinement, custody, or control."
+      }
+    },
+    {
+      "word": "emancipate",
+      "note": {
+        "ja": "奴隷状態・法的制約・社会的束縛から解放する。liberate より制度的・歴史的。",
+        "en": "Emphasizes freeing someone from legal, social, or institutional restrictions."
+      }
+    },
+    {
+      "word": "unshackle",
+      "note": {
+        "ja": "文字どおり鎖を外す、または比喩的に制約から解放する。",
+        "en": "Literally means to remove shackles and figuratively to free from constraints."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "befreien",
+    "it": "liberare",
+    "fr": "libérer",
+    "es": "liberar"
+  },
+  "collocations": {
+    "ja": [
+      "liberate a country — 国を解放する",
+      "liberate a city — 都市を解放する",
+      "liberate prisoners — 囚人を解放する",
+      "liberate people from oppression — 人々を抑圧から解放する",
+      "liberate someone from fear — 人を恐怖から解放する",
+      "liberate women — 女性を社会的制約から解放する",
+      "liberate energy — エネルギーを放出する",
+      "liberate gas — 気体を放出する"
+    ],
+    "en": [
+      "liberate a country",
+      "liberate a city",
+      "liberate prisoners",
+      "liberate people from oppression",
+      "liberate someone from fear",
+      "liberate women",
+      "liberate energy",
+      "liberate gas"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The army entered the city and liberated the prisoners. — 軍はその都市に入り、囚人たちを解放した。",
+      "The movement sought to liberate people from political oppression. — その運動は人々を政治的抑圧から解放することを目指した。",
+      "Education can liberate people from deeply rooted prejudices. — 教育は人々を根深い偏見から解放しうる。",
+      "The new system liberated employees from repetitive administrative tasks. — 新しいシステムによって、従業員は反復的な事務作業から解放された。",
+      "The reaction liberates a small amount of gas. — その反応では少量の気体が放出される。"
+    ],
+    "en": [
+      "The army entered the city and liberated the prisoners.",
+      "The movement sought to liberate people from political oppression.",
+      "Education can liberate people from deeply rooted prejudices.",
+      "The new system liberated employees from repetitive administrative tasks.",
+      "The reaction liberates a small amount of gas."
+    ]
+  }
+},
+{
+  "id": "kinetic",
+  "sid": "2026-00342",
+  "word": "kinetic",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "physics",
+    "science",
+    "movement",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adj"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kɪˈnetɪk/",
+      "uk": "/kɪˈnetɪk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "運動の、運動に関する",
+      "運動によって生じる",
+      "比喩的に、動きに満ちた、活動的な"
+    ],
+    "en": [
+      "relating to motion or movement",
+      "produced by or involving motion",
+      "figuratively, full of movement, activity, or energy"
+    ]
+  },
+  "nuance": {
+    "ja": "kinetic は物理学では運動に関するものを表す専門的な形容詞で、kinetic energy『運動エネルギー』が代表例。potential『位置・状態に蓄えられた潜在的な』と対比されることが多い。また芸術・デザイン・文章などでは、動きや活力を強く感じさせるものを kinetic と形容することもある。",
+    "en": "In physics, kinetic refers specifically to motion and is best known from the term kinetic energy. It is often contrasted with potential, which concerns stored energy related to position or state. Figuratively, kinetic can describe art, design, scenes, or performances that feel highly dynamic and full of movement."
+  },
+  "minimal": {
+    "ja": [
+      "kinetic：運動の、運動による。",
+      "kinetic energy：運動エネルギー。",
+      "potential energy：位置エネルギー・ポテンシャルエネルギー。",
+      "dynamic：動的な、活力のある。kinetic より広い。",
+      "motion：運動、動き。",
+      "kinetics：運動を扱う学問・反応速度論など。文脈で意味が変わる。"
+    ],
+    "en": [
+      "kinetic means relating to motion.",
+      "kinetic energy is the energy possessed by an object because of its motion.",
+      "potential energy is stored energy associated with position or configuration.",
+      "dynamic is broader and can mean changing, active, or energetic.",
+      "motion is the general noun for movement.",
+      "kinetics can refer to the study of motion or, in chemistry, reaction rates."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 kinētikos『動かすことのできる、運動の』に由来し、kinein『動かす』と関係する。同じ語根は kinesiology『運動学』、kinesthesia『運動感覚』、cinema の語源となった kinēma『動き』などにもつながる。",
+    "en": "From Greek kinētikos, meaning 'of motion or capable of moving', related to kinein, 'to move'. The same Greek family appears in kinesiology, kinesthesia, and ultimately in cinema through Greek kinēma, 'movement'."
+  },
+  "synonyms": [
+    {
+      "word": "dynamic",
+      "note": {
+        "ja": "『動的な、活力のある』という広い語。物理学上の kinetic とは完全同義ではない。",
+        "en": "A broader word meaning active, changing, or energetic; not an exact synonym in physics."
+      }
+    },
+    {
+      "word": "moving",
+      "note": {
+        "ja": "物理的に動いているという一般的な表現。",
+        "en": "The ordinary descriptive word for something that is in motion."
+      }
+    },
+    {
+      "word": "active",
+      "note": {
+        "ja": "活動的な。比喩的な kinetic と重なることがある。",
+        "en": "Can overlap with the figurative sense of kinetic when describing energetic activity."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "kinetisch",
+    "it": "cinetico",
+    "fr": "cinétique",
+    "es": "cinético"
+  },
+  "collocations": {
+    "ja": [
+      "kinetic energy — 運動エネルギー",
+      "kinetic motion — 運動",
+      "kinetic theory — 運動論",
+      "kinetic friction — 動摩擦",
+      "kinetic sculpture — 動く彫刻・キネティック彫刻",
+      "kinetic art — キネティック・アート",
+      "kinetic movement — 動的な動き",
+      "kinetic force — 運動による力",
+      "highly kinetic — 非常に動きに富んだ"
+    ],
+    "en": [
+      "kinetic energy",
+      "kinetic motion",
+      "kinetic theory",
+      "kinetic friction",
+      "kinetic sculpture",
+      "kinetic art",
+      "kinetic movement",
+      "kinetic force",
+      "highly kinetic"
+    ]
+  },
+  "example": {
+    "ja": [
+      "A moving object possesses kinetic energy. — 動いている物体は運動エネルギーを持つ。",
+      "The car's kinetic energy increases as its speed rises. — 自動車の速度が上がると、その運動エネルギーは増加する。",
+      "The museum is known for its collection of kinetic art. — その美術館はキネティック・アートのコレクションで知られている。",
+      "The performance had a kinetic intensity that kept the audience engaged. — その公演には観客を引きつけ続ける躍動的な激しさがあった。",
+      "Potential energy can be converted into kinetic energy. — 位置エネルギーは運動エネルギーに変換されうる。"
+    ],
+    "en": [
+      "A moving object possesses kinetic energy.",
+      "The car's kinetic energy increases as its speed rises.",
+      "The museum is known for its collection of kinetic art.",
+      "The performance had a kinetic intensity that kept the audience engaged.",
+      "Potential energy can be converted into kinetic energy."
+    ]
+  }
+},
+{
+  "id": "endorse",
+  "sid": "2026-00343",
+  "word": "endorse",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "business",
+    "politics",
+    "finance"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "endorse",
+      "third_person": "endorses",
+      "past": "endorsed",
+      "past_participle": "endorsed",
+      "gerund": "endorsing"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈdɔːrs/",
+      "uk": "/ɪnˈdɔːs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "考え・政策・候補者などを公に支持する、承認する",
+      "商品・サービスなどを推薦する、広告で推奨する",
+      "小切手・書類などに裏書きする、署名する"
+    ],
+    "en": [
+      "to publicly express support or approval for a person, idea, policy, or proposal",
+      "to recommend or promote a product or service, especially publicly",
+      "to sign the back of a check or document in order to authorize or transfer it"
+    ]
+  },
+  "nuance": {
+    "ja": "endorse は単に agree with『賛成する』より強く、公的・明示的に支持や承認を表明することを示す。政治では endorse a candidate、組織や専門家では endorse a proposal / policy のように使われる。また著名人が商品を推薦する場合にも用いられる。金融では小切手の裏面に署名する『裏書きする』という専門的意味がある。",
+    "en": "Endorse is stronger and more public than simply agreeing with something. It typically means openly expressing support or approval for a candidate, policy, proposal, or position. It is also used for celebrity or professional promotion of products, and in finance for signing the back of a check or similar instrument."
+  },
+  "minimal": {
+    "ja": [
+      "endorse：公に支持・承認する。",
+      "support：支持する。最も広い。",
+      "approve：良いと認める、正式に承認する。",
+      "back：支持する。endorse より口語的。",
+      "recommend：人・物・方法などを勧める。",
+      "ratify：条約・決定などを正式な手続で批准・承認する。"
+    ],
+    "en": [
+      "endorse means to publicly support or approve.",
+      "support is the broadest general term.",
+      "approve means to regard something favorably or formally authorize it.",
+      "back is a more informal verb meaning to support.",
+      "recommend means to advise that someone or something is suitable or desirable.",
+      "ratify means to formally confirm or approve an agreement through an authorized procedure."
+    ]
+  },
+  "etymology": {
+    "ja": "中世ラテン語 indorsare『背面に書く』に由来し、in-『～の上に』＋ dorsum『背、背面』から成る。もともとは文書や小切手の『裏面に書く・署名する』という意味で、そこから署名によって承認すること、さらに一般的な『支持・推薦する』という意味へ発達した。dorsal『背側の』も dorsum と同語族。",
+    "en": "From Medieval Latin indorsare, meaning 'to write on the back', from in- plus dorsum, 'back'. The original sense was to write or sign on the back of a document. From signing to authorize or approve something, the word developed the broader modern sense of publicly supporting or recommending it. Dorsal belongs to the same Latin family."
+  },
+  "synonyms": [
+    {
+      "word": "support",
+      "note": {
+        "ja": "最も一般的な『支持する』。endorse のような公的表明を必ずしも含まない。",
+        "en": "The broad general verb for supporting something and does not necessarily imply a public declaration."
+      }
+    },
+    {
+      "word": "back",
+      "note": {
+        "ja": "候補者・案などを支持する。endorse より口語的。",
+        "en": "A more informal verb for supporting a person, proposal, or cause."
+      }
+    },
+    {
+      "word": "approve",
+      "note": {
+        "ja": "賛成する、または権限をもって正式に承認する。",
+        "en": "Means to regard something favorably or formally authorize it."
+      }
+    },
+    {
+      "word": "recommend",
+      "note": {
+        "ja": "良いものとして勧める。endorse と重なるが、公的支持とは限らない。",
+        "en": "Means to suggest that something is good or suitable, without necessarily implying formal or public support."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "unterstützen / befürworten",
+    "it": "sostenere / approvare",
+    "fr": "soutenir / approuver",
+    "es": "respaldar / apoyar"
+  },
+  "collocations": {
+    "ja": [
+      "endorse a candidate — 候補者を支持する",
+      "endorse a proposal — 提案を支持する",
+      "endorse a policy — 政策を支持する",
+      "endorse a decision — 決定を支持・承認する",
+      "publicly endorse — 公に支持する",
+      "officially endorse — 正式に支持する",
+      "endorse a product — 商品を推薦する",
+      "celebrity endorsement — 著名人による商品推薦",
+      "endorse a check — 小切手に裏書きする"
+    ],
+    "en": [
+      "endorse a candidate",
+      "endorse a proposal",
+      "endorse a policy",
+      "endorse a decision",
+      "publicly endorse",
+      "officially endorse",
+      "endorse a product",
+      "celebrity endorsement",
+      "endorse a check"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Several major organizations endorsed the proposal. — 複数の主要団体がその提案への支持を表明した。",
+      "The newspaper endorsed the candidate in its editorial. — その新聞は社説でその候補者を支持した。",
+      "I agree with parts of the report, but I cannot endorse its conclusions. — 報告書の一部には賛成だが、その結論まで支持することはできない。",
+      "The athlete was paid to endorse the company's products. — その選手は会社の商品を宣伝・推薦するために報酬を受け取った。",
+      "Please endorse the check before depositing it. — 入金する前に小切手へ裏書きしてください。"
+    ],
+    "en": [
+      "Several major organizations endorsed the proposal.",
+      "The newspaper endorsed the candidate in its editorial.",
+      "I agree with parts of the report, but I cannot endorse its conclusions.",
+      "The athlete was paid to endorse the company's products.",
+      "Please endorse the check before depositing it."
+    ]
+  }
+},
+{
+  "id": "endorsement",
+  "sid": "2026-00344",
+  "word": "endorsement",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "formal",
+    "business",
+    "politics",
+    "finance"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "endorsements"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈdɔːrsmənt/",
+      "uk": "/ɪnˈdɔːsmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "公的な支持、承認",
+      "人物・商品・サービスなどの推薦",
+      "小切手・証書などへの裏書き",
+      "保険契約などへの特約・付記"
+    ],
+    "en": [
+      "public or official support or approval",
+      "a recommendation or promotion of a person, product, or service",
+      "a signature or statement written on the back of a check or document",
+      "an amendment or addition attached to an insurance policy or similar document"
+    ]
+  },
+  "nuance": {
+    "ja": "endorsement は、単なる個人的な賛成よりも、公的・明示的な支持や承認を表すことが多い。政治では endorsement of a candidate、商品広告では celebrity endorsement が典型。金融では小切手の裏書きを意味し、保険分野では契約内容を追加・変更する endorsement『特約・付記』という専門的意味もある。",
+    "en": "Endorsement often implies explicit, public, or official support rather than mere private agreement. In politics it commonly refers to support for a candidate, while in advertising it refers to public promotion of a product or service. In finance it can mean a signature on a check, and in insurance it can refer to an amendment or addition to a policy."
+  },
+  "minimal": {
+    "ja": [
+      "endorsement：公的な支持・承認・推薦。",
+      "support：支持一般。最も広い。",
+      "approval：賛成・承認。公的支持とは限らない。",
+      "recommendation：良いものとして勧めること。",
+      "backing：支持・後押し。endorsement よりやや口語的。",
+      "sponsorship：金銭的・組織的な支援。endorsement とは異なる。"
+    ],
+    "en": [
+      "endorsement means explicit or public support, approval, or recommendation.",
+      "support is the broad general term.",
+      "approval means favorable judgment or formal authorization.",
+      "recommendation means advising that someone or something is suitable or desirable.",
+      "backing is a somewhat more informal term for support.",
+      "sponsorship involves financial or organizational support and is not the same as endorsement."
+    ]
+  },
+  "etymology": {
+    "ja": "endorse + -ment から成る。endorse は中世ラテン語 indorsare『背面に書く』に由来し、in-『～の上に』＋ dorsum『背、背面』という構造。もともとの『文書の裏面に書く・署名する』という意味から、『承認する』『支持する』へ発達した。",
+    "en": "Formed from endorse plus -ment. Endorse ultimately comes from Medieval Latin indorsare, meaning 'to write on the back', from in- plus dorsum, 'back'. The sense developed from signing or writing on a document to expressing approval or support."
+  },
+  "synonyms": [
+    {
+      "word": "support",
+      "note": {
+        "ja": "最も一般的な『支持』。endorsement のような明示的・公的表明を必ずしも伴わない。",
+        "en": "The broadest term for support and does not necessarily imply an explicit public declaration."
+      }
+    },
+    {
+      "word": "approval",
+      "note": {
+        "ja": "賛成・承認。権限者による正式承認にも使える。",
+        "en": "Favorable judgment or formal authorization, but not necessarily public advocacy."
+      }
+    },
+    {
+      "word": "recommendation",
+      "note": {
+        "ja": "人・物・方法を良いものとして勧めること。",
+        "en": "A statement advising that a person, product, or course of action is suitable or desirable."
+      }
+    },
+    {
+      "word": "backing",
+      "note": {
+        "ja": "支持・後援。政治や事業でよく使い、endorsement より少しくだけた語感。",
+        "en": "Support or assistance, often in politics or business, and somewhat less formal than endorsement."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Unterstützung / Befürwortung",
+    "it": "sostegno / approvazione",
+    "fr": "soutien / approbation",
+    "es": "respaldo / apoyo"
+  },
+  "collocations": {
+    "ja": [
+      "political endorsement — 政治的支持",
+      "official endorsement — 公式な支持・承認",
+      "public endorsement — 公の支持表明",
+      "endorsement of a candidate — 候補者への支持",
+      "celebrity endorsement — 著名人による商品推薦",
+      "product endorsement — 商品推薦",
+      "secure an endorsement — 支持を取り付ける",
+      "receive an endorsement — 支持を受ける",
+      "give one's endorsement — 支持を表明する",
+      "check endorsement — 小切手の裏書き"
+    ],
+    "en": [
+      "political endorsement",
+      "official endorsement",
+      "public endorsement",
+      "endorsement of a candidate",
+      "celebrity endorsement",
+      "product endorsement",
+      "secure an endorsement",
+      "receive an endorsement",
+      "give one's endorsement",
+      "check endorsement"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The candidate received the endorsement of several major organizations. — その候補者は複数の主要団体から支持を受けた。",
+      "Her public endorsement gave the campaign a significant boost. — 彼女の公の支持表明はその運動を大きく後押しした。",
+      "The company relies heavily on celebrity endorsements. — その会社は著名人による商品推薦に大きく依存している。",
+      "The report should not be interpreted as an endorsement of the policy. — その報告書を、その政策への支持表明と解釈すべきではない。",
+      "The bank rejected the check because the endorsement was missing. — 銀行は裏書きがなかったため、その小切手を受け付けなかった。"
+    ],
+    "en": [
+      "The candidate received the endorsement of several major organizations.",
+      "Her public endorsement gave the campaign a significant boost.",
+      "The company relies heavily on celebrity endorsements.",
+      "The report should not be interpreted as an endorsement of the policy.",
+      "The bank rejected the check because the endorsement was missing."
+    ]
+  }
 }
 ]
