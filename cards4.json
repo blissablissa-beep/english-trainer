@@ -1,1 +1,1409 @@
-[]
+[
+{
+  "id": "palpation",
+  "sid": "2026-00401",
+  "word": "palpation",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "medical",
+    "diagnosis",
+    "examination",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pælˈpeɪʃən/",
+      "uk": "/pælˈpeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "触診",
+      "手や指で身体に触れて状態を調べる診察法"
+    ],
+    "en": [
+      "examination of the body by touch",
+      "a diagnostic technique in which a clinician uses the hands or fingers to assess body structures"
+    ]
+  },
+  "nuance": {
+    "ja": "palpation は医学の専門語で、手や指で患者の身体に触れ、圧痛・腫れ・硬さ・温度・拍動・臓器の大きさなどを調べる『触診』を指す。単に touch することではなく、診断目的で系統的に触れて評価することを表す。動詞は palpate。",
+    "en": "Palpation is a clinical examination technique in which a practitioner uses the hands or fingers to assess features such as tenderness, swelling, consistency, temperature, pulsation, or the size of an organ. It is more specific than simply touching someone because it implies systematic examination for diagnostic purposes."
+  },
+  "minimal": {
+    "ja": [
+      "palpation：手や指で触れて調べる触診。",
+      "inspection：目で観察する視診。",
+      "percussion：身体を叩いて音や反応を調べる打診。",
+      "auscultation：体内音を聞く聴診。",
+      "palpate：触診する。",
+      "examination：診察・検査全般を表す広い語。"
+    ],
+    "en": [
+      "palpation means examination by touch.",
+      "inspection means visual examination.",
+      "percussion means examining by tapping and assessing the resulting sound or response.",
+      "auscultation means examining by listening to internal body sounds.",
+      "palpate is the corresponding verb.",
+      "examination is the broader general term for medical assessment."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 palpare『手で触れる、なでる』に由来する。そこから医学で『手で触れて状態を調べる』という専門的意味が発達した。動詞 palpate、形容詞 palpable も同じ語族。",
+    "en": "From Latin palpare, meaning 'to touch or stroke gently with the hand'. The word later developed the medical sense of examining the body by touch. Palpate and palpable belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "examination by touch",
+      "note": {
+        "ja": "palpation の意味を平易に説明した表現。",
+        "en": "A plain-language description of palpation."
+      }
+    },
+    {
+      "word": "physical examination",
+      "note": {
+        "ja": "触診を含む身体診察全般。",
+        "en": "A broader term covering inspection, palpation, percussion, auscultation, and other clinical assessment techniques."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Palpation / Abtasten",
+    "it": "palpazione",
+    "fr": "palpation",
+    "es": "palpación"
+  },
+  "collocations": {
+    "ja": [
+      "abdominal palpation — 腹部触診",
+      "deep palpation — 深部触診",
+      "light palpation — 軽い触診",
+      "bimanual palpation — 両手触診",
+      "on palpation — 触診すると",
+      "tenderness on palpation — 触診時の圧痛",
+      "pain on palpation — 触診時疼痛",
+      "palpation of the abdomen — 腹部の触診",
+      "perform palpation — 触診を行う",
+      "palpation findings — 触診所見"
+    ],
+    "en": [
+      "abdominal palpation",
+      "deep palpation",
+      "light palpation",
+      "bimanual palpation",
+      "on palpation",
+      "tenderness on palpation",
+      "pain on palpation",
+      "palpation of the abdomen",
+      "perform palpation",
+      "palpation findings"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Palpation of the abdomen revealed mild tenderness. — 腹部を触診すると軽度の圧痛が認められた。",
+      "The physician detected a small mass on palpation. — 医師は触診で小さなしこりを確認した。",
+      "The patient reported pain during deep palpation. — 患者は深部触診の際に痛みを訴えた。",
+      "On palpation, the lymph nodes were not enlarged. — 触診ではリンパ節の腫大は認められなかった。",
+      "Inspection should generally precede palpation during a physical examination. — 身体診察では一般に視診を触診より先に行う。"
+    ],
+    "en": [
+      "Palpation of the abdomen revealed mild tenderness.",
+      "The physician detected a small mass on palpation.",
+      "The patient reported pain during deep palpation.",
+      "On palpation, the lymph nodes were not enlarged.",
+      "Inspection should generally precede palpation during a physical examination."
+    ]
+  }
+},
+{
+  "id": "palpate",
+  "sid": "2026-00402",
+  "word": "palpate",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "medical",
+    "diagnosis",
+    "examination",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive / intransitive",
+    "forms": {
+      "base": "palpate",
+      "third_person": "palpates",
+      "past": "palpated",
+      "past_participle": "palpated",
+      "gerund": "palpating"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈpælpeɪt/",
+      "uk": "/ˈpælpeɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "触診する",
+      "手や指で身体に触れて、異常や状態を調べる"
+    ],
+    "en": [
+      "to examine a part of the body by touch",
+      "to use the hands or fingers to assess body structures for diagnostic purposes"
+    ]
+  },
+  "nuance": {
+    "ja": "palpate は医学の専門語で、手や指を用いて身体を系統的に触れ、圧痛・腫脹・硬さ・しこり・拍動・臓器の大きさなどを調べることを表す。単に touch するのではなく、診断目的で触れて評価するという意味を持つ。名詞は palpation。",
+    "en": "Palpate is a technical medical verb meaning to examine the body systematically by touch. A clinician may palpate an area to assess tenderness, swelling, consistency, masses, pulsation, or organ size. It is more specific than touch because it implies diagnostic examination. The corresponding noun is palpation."
+  },
+  "minimal": {
+    "ja": [
+      "palpate：触診する。",
+      "palpation：触診。",
+      "inspect：視診する。",
+      "percuss：打診する。",
+      "auscultate：聴診する。",
+      "feel：触って確かめる一般語。palpate より非専門的。"
+    ],
+    "en": [
+      "palpate means to examine by touch.",
+      "palpation is the corresponding noun.",
+      "inspect means to examine visually.",
+      "percuss means to examine by tapping the body.",
+      "auscultate means to examine by listening to internal body sounds.",
+      "feel is the ordinary general verb and is less technical than palpate."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 palpare『手で触れる、なでる』に由来する。医学ではそこから『手で触れて状態を調べる』という意味になった。palpation と同じ語族で、palpable『触知できる→明白な』とも関連する。",
+    "en": "From Latin palpare, meaning 'to touch or stroke with the hand'. It developed the medical sense of examining the body by touch. Palpation and palpable belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "feel",
+      "note": {
+        "ja": "手で触って確かめる一般的な表現。palpate より日常的。",
+        "en": "The ordinary general verb for examining something by touch."
+      }
+    },
+    {
+      "word": "examine",
+      "note": {
+        "ja": "診察・検査全般を表す広い語。",
+        "en": "A broader verb covering many types of medical assessment."
+      }
+    },
+    {
+      "word": "probe",
+      "note": {
+        "ja": "器具や指などで詳しく探る。palpate より侵襲的・探索的なニュアンスが出ることがある。",
+        "en": "Means to explore or investigate more deeply, sometimes with an instrument or finger."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "abtasten / palpieren",
+    "it": "palpare",
+    "fr": "palper",
+    "es": "palpar"
+  },
+  "collocations": {
+    "ja": [
+      "palpate the abdomen — 腹部を触診する",
+      "palpate the lymph nodes — リンパ節を触診する",
+      "palpate the pulse — 脈を触知する",
+      "palpate the thyroid — 甲状腺を触診する",
+      "palpate the mass — しこりを触診する",
+      "palpate for tenderness — 圧痛がないか触診する",
+      "palpate for swelling — 腫れがないか触診する",
+      "gently palpate — やさしく触診する",
+      "deeply palpate — 深く触診する"
+    ],
+    "en": [
+      "palpate the abdomen",
+      "palpate the lymph nodes",
+      "palpate the pulse",
+      "palpate the thyroid",
+      "palpate the mass",
+      "palpate for tenderness",
+      "palpate for swelling",
+      "gently palpate",
+      "deeply palpate"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The physician palpated the patient's abdomen for tenderness. — 医師は圧痛がないか患者の腹部を触診した。",
+      "The doctor palpated the lymph nodes in the patient's neck. — 医師は患者の頸部リンパ節を触診した。",
+      "She gently palpated the area around the wound. — 彼女は傷の周囲をやさしく触診した。",
+      "The mass could be palpated beneath the skin. — そのしこりは皮下で触知できた。",
+      "The examiner palpated the radial pulse before measuring the blood pressure. — 診察者は血圧測定前に橈骨動脈の脈を触知した。"
+    ],
+    "en": [
+      "The physician palpated the patient's abdomen for tenderness.",
+      "The doctor palpated the lymph nodes in the patient's neck.",
+      "She gently palpated the area around the wound.",
+      "The mass could be palpated beneath the skin.",
+      "The examiner palpated the radial pulse before measuring the blood pressure."
+    ]
+  }
+},
+{
+  "id": "palpable",
+  "sid": "2026-00403",
+  "word": "palpable",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "general",
+    "medical",
+    "formal",
+    "emotion"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈpælpəbəl/",
+      "uk": "/ˈpælpəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "触って感じ取れる、触知できる",
+      "明白な、はっきり感じられる",
+      "感情・緊張・雰囲気などが強く感じ取れる"
+    ],
+    "en": [
+      "able to be felt by touch",
+      "so obvious or strong that it can almost be physically felt",
+      "clearly perceptible, especially of an emotion, atmosphere, or condition"
+    ]
+  },
+  "nuance": {
+    "ja": "palpable は医学では『触診によって触知できる』という文字どおりの意味で使われる。一方、一般英語では比喩的用法も重要で、palpable tension, palpable excitement, palpable sense of relief のように、感情や雰囲気が『手で触れられそうなほどはっきり感じられる』ことを表す。単なる obvious よりも、感覚的・臨場感のある表現。",
+    "en": "In medicine, palpable literally means detectable by touch, especially during palpation. In general English, it is also commonly used figuratively for emotions, tension, excitement, relief, or atmosphere that are so strong they seem almost tangible. It is more vivid and sensory than simply obvious."
+  },
+  "minimal": {
+    "ja": [
+      "palpable：触知できる、または手で触れられそうなほど明白な。",
+      "obvious：明白な。最も一般的。",
+      "evident：証拠・状況から明らかな。ややフォーマル。",
+      "tangible：実際に触れられる、または具体的に認識できる。",
+      "perceptible：感覚で気づける程度に認識可能な。",
+      "imperceptible：ほとんど感知できない。"
+    ],
+    "en": [
+      "palpable means physically detectable by touch or strikingly perceptible.",
+      "obvious is the general word for something easy to notice or understand.",
+      "evident means clearly shown by facts or circumstances.",
+      "tangible means physically touchable or concretely perceptible.",
+      "perceptible means capable of being noticed by the senses.",
+      "imperceptible means too slight to be noticed."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 palpabilis『触れることのできる』に由来し、palpare『手で触れる、なでる』から派生した。palpate『触診する』、palpation『触診』と同じ語族。文字どおりの『触れることができる』から、比喩的に『明白に感じ取れる』という意味へ広がった。",
+    "en": "From Latin palpabilis, meaning 'capable of being touched', derived from palpare, 'to touch or stroke with the hand'. It belongs to the same family as palpate and palpation. The figurative sense developed from 'physically touchable' to 'strikingly perceptible'."
+  },
+  "synonyms": [
+    {
+      "word": "tangible",
+      "note": {
+        "ja": "物理的に触れられる、または具体的・現実的に認識できる。",
+        "en": "Means physically touchable or concrete enough to be clearly recognized."
+      }
+    },
+    {
+      "word": "obvious",
+      "note": {
+        "ja": "誰にでも分かるほど明白な。palpable より一般的。",
+        "en": "The general word for something easily noticed or understood."
+      }
+    },
+    {
+      "word": "perceptible",
+      "note": {
+        "ja": "感覚によって認識できる程度に存在する。",
+        "en": "Means noticeable or detectable by the senses."
+      }
+    },
+    {
+      "word": "evident",
+      "note": {
+        "ja": "事実・証拠・状況などから明らかな。",
+        "en": "Emphasizes being clearly apparent from evidence or circumstances."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "tastbar / spürbar",
+    "it": "palpabile",
+    "fr": "palpable",
+    "es": "palpable"
+  },
+  "collocations": {
+    "ja": [
+      "a palpable mass — 触知可能なしこり",
+      "a palpable pulse — 触知できる脈拍",
+      "palpable lymph nodes — 触知可能なリンパ節",
+      "palpable tension — はっきり感じられる緊張",
+      "palpable excitement — はっきり伝わる興奮",
+      "palpable fear — はっきり感じ取れる恐怖",
+      "a palpable sense of relief — はっきり感じられる安堵感",
+      "palpable disappointment — 明らかな失望",
+      "become palpable — はっきり感じられるようになる"
+    ],
+    "en": [
+      "a palpable mass",
+      "a palpable pulse",
+      "palpable lymph nodes",
+      "palpable tension",
+      "palpable excitement",
+      "palpable fear",
+      "a palpable sense of relief",
+      "palpable disappointment",
+      "become palpable"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The physician detected a palpable mass in the abdomen. — 医師は腹部に触知可能なしこりを認めた。",
+      "No palpable lymph nodes were found in the neck. — 頸部には触知可能なリンパ節は認められなかった。",
+      "There was palpable tension in the room before the announcement. — 発表前、部屋にははっきり感じられる緊張が漂っていた。",
+      "Her sense of relief was almost palpable. — 彼女の安堵感はほとんど手に取るように感じられた。",
+      "The excitement among the crowd was palpable. — 群衆の興奮ははっきりと感じ取れた。"
+    ],
+    "en": [
+      "The physician detected a palpable mass in the abdomen.",
+      "No palpable lymph nodes were found in the neck.",
+      "There was palpable tension in the room before the announcement.",
+      "Her sense of relief was almost palpable.",
+      "The excitement among the crowd was palpable."
+    ]
+  }
+},
+{
+  "id": "percussion",
+  "sid": "2026-00404",
+  "word": "percussion",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medical",
+    "music",
+    "examination",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pərˈkʌʃən/",
+      "uk": "/pəˈkʌʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "医学：打診",
+      "身体を軽く叩き、その音や反応から内部の状態を調べる診察法",
+      "音楽：打楽器、打楽器演奏"
+    ],
+    "en": [
+      "medicine: examination of the body by tapping it and assessing the resulting sounds",
+      "a diagnostic technique used to infer the condition of underlying tissues or organs from sound",
+      "music: percussion instruments or the playing of such instruments"
+    ]
+  },
+  "nuance": {
+    "ja": "医学での percussion は、胸部や腹部などを指で軽く叩き、得られる音の性質から内部組織の状態を評価する『打診』を指す。inspection, palpation, percussion, auscultation という身体診察の基本手技の一つ。一方、音楽では drums, cymbals などを含む『打楽器部門』を意味し、こちらも一般的な用法。",
+    "en": "In medicine, percussion is a physical examination technique in which the clinician taps the body and interprets the resulting sound to assess underlying tissues or organs. It is one of the classic components of physical examination alongside inspection, palpation, and auscultation. In music, percussion refers to percussion instruments collectively or to their performance."
+  },
+  "minimal": {
+    "ja": [
+      "percussion：身体を叩いて音を評価する打診。",
+      "inspection：目で観察する視診。",
+      "palpation：手で触れて調べる触診。",
+      "auscultation：体内音を聞く聴診。",
+      "percuss：打診する。",
+      "percussion in music：打楽器または打楽器演奏。"
+    ],
+    "en": [
+      "percussion means examining the body by tapping and assessing the resulting sound.",
+      "inspection means visual examination.",
+      "palpation means examination by touch.",
+      "auscultation means examination by listening to internal body sounds.",
+      "percuss is the corresponding medical verb.",
+      "in music, percussion refers to percussion instruments or their performance."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 percussio『打つこと、打撃』に由来し、percutere『強く打つ、叩く』から派生した。per-『徹底的に、通して』＋ quatere『打つ、揺さぶる』にさかのぼる。医学でも音楽でも『叩く』という中心イメージがそのまま残っている。",
+    "en": "From Latin percussio, meaning 'a striking or beating', from percutere, 'to strike'. The word ultimately contains the idea of hitting or striking, which remains central in both its medical and musical senses."
+  },
+  "synonyms": [
+    {
+      "word": "tapping",
+      "note": {
+        "ja": "一般的な『軽く叩くこと』。医学的な打診を平易に説明する場合に使える。",
+        "en": "The ordinary word for light striking and a plain-language way to describe medical percussion."
+      }
+    },
+    {
+      "word": "physical examination",
+      "note": {
+        "ja": "打診を含む身体診察全般。",
+        "en": "The broader category of examination that includes percussion and other techniques."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Perkussion / Schlaginstrumente",
+    "it": "percussione / percussioni",
+    "fr": "percussion",
+    "es": "percusión"
+  },
+  "collocations": {
+    "ja": [
+      "chest percussion — 胸部打診",
+      "abdominal percussion — 腹部打診",
+      "lung percussion — 肺の打診",
+      "percussion of the chest — 胸部の打診",
+      "on percussion — 打診すると",
+      "percussion note — 打診音",
+      "dullness to percussion — 打診での濁音",
+      "resonance on percussion — 打診での共鳴音",
+      "perform percussion — 打診を行う",
+      "percussion instruments — 打楽器"
+    ],
+    "en": [
+      "chest percussion",
+      "abdominal percussion",
+      "lung percussion",
+      "percussion of the chest",
+      "on percussion",
+      "percussion note",
+      "dullness to percussion",
+      "resonance on percussion",
+      "perform percussion",
+      "percussion instruments"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Percussion of the chest produced a resonant note. — 胸部を打診すると共鳴性の音が得られた。",
+      "The physician detected dullness to percussion over the lower chest. — 医師は下部胸郭で打診上の濁音を認めた。",
+      "Percussion can help assess whether underlying tissue contains air, fluid, or solid material. — 打診は、内部組織に空気・液体・固形成分のいずれがあるかを評価する助けとなる。",
+      "The examiner performed percussion before auscultating the lungs. — 診察者は肺を聴診する前に打診を行った。",
+      "She plays percussion in the orchestra. — 彼女はオーケストラで打楽器を担当している。"
+    ],
+    "en": [
+      "Percussion of the chest produced a resonant note.",
+      "The physician detected dullness to percussion over the lower chest.",
+      "Percussion can help assess whether underlying tissue contains air, fluid, or solid material.",
+      "The examiner performed percussion before auscultating the lungs.",
+      "She plays percussion in the orchestra."
+    ]
+  }
+},
+{
+  "id": "percuss",
+  "sid": "2026-00405",
+  "word": "percuss",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "medical",
+    "diagnosis",
+    "examination",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive / intransitive",
+    "forms": {
+      "base": "percuss",
+      "third_person": "percusses",
+      "past": "percussed",
+      "past_participle": "percussed",
+      "gerund": "percussing"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pərˈkʌs/",
+      "uk": "/pəˈkʌs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "打診する",
+      "身体を軽く叩き、その音から内部の状態を調べる"
+    ],
+    "en": [
+      "to examine the body by tapping it and assessing the resulting sound",
+      "to perform percussion on a part of the body for diagnostic purposes"
+    ]
+  },
+  "nuance": {
+    "ja": "percuss は医学の専門語で、胸部や腹部などを指で軽く叩き、返ってくる音の性質から内部組織の状態を評価することを表す。名詞は percussion。日常英語ではほとんど使われず、主に臨床・医学教育・診療記録などで現れる。",
+    "en": "Percuss is a technical medical verb meaning to tap a part of the body and interpret the resulting sound in order to assess underlying tissues or organs. The corresponding noun is percussion. It is mainly used in clinical and medical contexts rather than everyday speech."
+  },
+  "minimal": {
+    "ja": [
+      "percuss：打診する。",
+      "percussion：打診。",
+      "inspect：視診する。",
+      "palpate：触診する。",
+      "auscultate：聴診する。",
+      "tap：軽く叩く。一般語。"
+    ],
+    "en": [
+      "percuss means to examine by tapping the body.",
+      "percussion is the corresponding noun.",
+      "inspect means to examine visually.",
+      "palpate means to examine by touch.",
+      "auscultate means to examine by listening to internal body sounds.",
+      "tap is the ordinary general verb for striking lightly."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 percutere『打つ、叩く』に由来する。percussion と同じ語族で、医学では『叩いて音を評価する』という意味に特化した。",
+    "en": "From Latin percutere, meaning 'to strike or beat'. It belongs to the same word family as percussion and developed the specialized medical sense of examining by tapping."
+  },
+  "synonyms": [
+    {
+      "word": "tap",
+      "note": {
+        "ja": "軽く叩く一般語。医学的な打診を説明する場合にも使える。",
+        "en": "The ordinary verb for striking lightly and a plain-language way to describe percussion."
+      }
+    },
+    {
+      "word": "examine",
+      "note": {
+        "ja": "診察・検査全般を表す広い語。",
+        "en": "A broader verb covering many kinds of medical assessment."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "perkutieren",
+    "it": "percuotere",
+    "fr": "percuter",
+    "es": "percutir"
+  },
+  "collocations": {
+    "ja": [
+      "percuss the chest — 胸部を打診する",
+      "percuss the lungs — 肺を打診する",
+      "percuss the abdomen — 腹部を打診する",
+      "percuss over the liver — 肝臓領域を打診する",
+      "percuss for dullness — 濁音がないか打診する",
+      "percuss for resonance — 共鳴音がないか打診する",
+      "gently percuss — 軽く打診する",
+      "systematically percuss — 系統的に打診する"
+    ],
+    "en": [
+      "percuss the chest",
+      "percuss the lungs",
+      "percuss the abdomen",
+      "percuss over the liver",
+      "percuss for dullness",
+      "percuss for resonance",
+      "gently percuss",
+      "systematically percuss"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The physician percussed the patient's chest. — 医師は患者の胸部を打診した。",
+      "She percussed the lungs for areas of dullness. — 彼女は濁音を示す部位がないか肺を打診した。",
+      "The examiner percussed the abdomen before auscultation. — 診察者は聴診の前に腹部を打診した。",
+      "The doctor percussed over the liver to estimate its size. — 医師は肝臓の大きさを推定するため、その領域を打診した。",
+      "The chest was percussed systematically from side to side. — 胸部は左右を比較しながら系統的に打診された。"
+    ],
+    "en": [
+      "The physician percussed the patient's chest.",
+      "She percussed the lungs for areas of dullness.",
+      "The examiner percussed the abdomen before auscultation.",
+      "The doctor percussed over the liver to estimate its size.",
+      "The chest was percussed systematically from side to side."
+    ]
+  }
+},
+{
+  "id": "seniority_based",
+  "sid": "2026-00406",
+  "word": "seniority-based",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "business",
+    "employment",
+    "human_resources",
+    "management"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌsiːniˈɔːrəti beɪst/",
+      "uk": "/ˌsiːniˈɒrəti beɪst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "年功を基準とする",
+      "勤続年数を基準とする",
+      "昇進・賃金・待遇などを在職期間や年功に基づいて決める"
+    ],
+    "en": [
+      "based on seniority or length of service",
+      "determined primarily by how long someone has worked for an organization",
+      "using seniority as a criterion for pay, promotion, benefits, or other employment decisions"
+    ]
+  },
+  "nuance": {
+    "ja": "seniority-based は、人事上の判断を主として seniority、すなわち勤続年数や組織内での年功に基づいて行うことを表す。seniority-based pay, seniority-based promotion, seniority-based system などの形でよく使われる。日本語の『年功序列』と完全に同義ではなく、個々の制度が seniority を判断基準としていることを説明する、比較的中立的な表現。",
+    "en": "Seniority-based describes a system or decision that relies primarily on seniority, usually length of service or standing within an organization. It commonly appears in expressions such as seniority-based pay, seniority-based promotion, and seniority-based systems. It is a relatively neutral descriptive term and does not necessarily imply an entire hierarchical culture."
+  },
+  "minimal": {
+    "ja": [
+      "seniority-based：勤続年数・年功を基準にする。",
+      "merit-based：能力・実績・成果を基準にする。",
+      "performance-based：業績・達成度を基準にする。",
+      "tenure-based：在職期間を基準にする。文脈によって seniority-based に近い。",
+      "age-based：年齢そのものを基準にする。",
+      "seniority：勤続年数や組織内での年功・先任順位。"
+    ],
+    "en": [
+      "seniority-based means determined by length of service or seniority.",
+      "merit-based means determined by ability, achievement, or merit.",
+      "performance-based means determined by measured performance or results.",
+      "tenure-based emphasizes time spent in a position or organization.",
+      "age-based means determined by chronological age.",
+      "seniority refers to length of service or relative standing based on service."
+    ]
+  },
+  "etymology": {
+    "ja": "seniority + based から成る複合形容詞。seniority は senior『年長の、上位の』＋ -ity から成る。senior はラテン語 senior『より年長の』に由来し、senex『老人、年長者』の比較級。based は『～を基礎とした』の意味。",
+    "en": "A compound adjective formed from seniority plus based. Seniority comes from senior, ultimately Latin senior, meaning 'older', the comparative of senex, 'old person'. Based means 'founded or determined on a particular principle or criterion'."
+  },
+  "synonyms": [
+    {
+      "word": "tenure-based",
+      "note": {
+        "ja": "在職期間を基準とするという意味で近いが、seniority は組織内の先任順位まで含みうる。",
+        "en": "Close in meaning when length of service is the criterion, though seniority can also imply relative standing within an organization."
+      }
+    },
+    {
+      "word": "service-based",
+      "note": {
+        "ja": "勤続期間を基準とすることを説明的に表す。",
+        "en": "A descriptive term for arrangements determined by length of service."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "dienstaltersbasiert / nach Dienstalter",
+    "it": "basato sull'anzianità",
+    "fr": "fondé sur l'ancienneté",
+    "es": "basado en la antigüedad"
+  },
+  "collocations": {
+    "ja": [
+      "seniority-based pay — 年功型賃金",
+      "seniority-based promotion — 年功による昇進",
+      "a seniority-based system — 年功を基準とする制度",
+      "seniority-based wages — 年功型賃金",
+      "seniority-based employment practices — 年功を重視する雇用慣行",
+      "seniority-based personnel management — 年功型人事管理",
+      "move away from a seniority-based system — 年功型制度から脱却する",
+      "replace seniority-based promotion with merit-based promotion — 年功昇進を実力本位の昇進に置き換える"
+    ],
+    "en": [
+      "seniority-based pay",
+      "seniority-based promotion",
+      "a seniority-based system",
+      "seniority-based wages",
+      "seniority-based employment practices",
+      "seniority-based personnel management",
+      "move away from a seniority-based system",
+      "replace seniority-based promotion with merit-based promotion"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company traditionally used a seniority-based pay system. — その会社は伝統的に年功型の賃金制度を採用していた。",
+      "Promotion used to be largely seniority-based. — かつて昇進は主として年功に基づいていた。",
+      "Many firms have moved away from purely seniority-based personnel practices. — 多くの企業が純粋な年功型人事慣行から離れている。",
+      "The organization replaced its seniority-based promotion system with a merit-based one. — その組織は年功型の昇進制度を実力本位の制度に置き換えた。",
+      "Seniority-based pay rewards length of service rather than individual performance alone. — 年功型賃金は個人の業績だけでなく、勤続年数を評価する。"
+    ],
+    "en": [
+      "The company traditionally used a seniority-based pay system.",
+      "Promotion used to be largely seniority-based.",
+      "Many firms have moved away from purely seniority-based personnel practices.",
+      "The organization replaced its seniority-based promotion system with a merit-based one.",
+      "Seniority-based pay rewards length of service rather than individual performance alone."
+    ]
+  }
+},
+{
+  "id": "merit_based",
+  "sid": "2026-00407",
+  "word": "merit-based",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "business",
+    "employment",
+    "human_resources",
+    "education"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈmerɪt beɪst/",
+      "uk": "/ˈmerɪt beɪst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "能力・実績・成果を基準とする",
+      "個人の功績や評価に基づく",
+      "年齢・勤続年数などではなく、実力や達成度を基準とする"
+    ],
+    "en": [
+      "based on ability, achievement, or demonstrated merit",
+      "determined according to individual performance or qualifications",
+      "awarded or decided on the basis of merit rather than seniority or other non-performance criteria"
+    ]
+  },
+  "nuance": {
+    "ja": "merit-based は、人事・教育・報酬などの判断を、個人の能力・実績・功績・資格などに基づいて行うことを表す。seniority-based が勤続年数や年功を基準とするのに対し、merit-based は『その人が何をできるか、何を達成したか』を重視する。ただし merit の具体的な評価基準は制度ごとに異なり、必ずしも業績数値だけを意味しない。",
+    "en": "Merit-based describes a system in which decisions are made according to ability, achievement, qualifications, or demonstrated merit. Unlike seniority-based systems, which emphasize length of service, merit-based systems focus on what a person can do or has accomplished. The exact criteria for merit can vary and need not be limited to measurable performance alone."
+  },
+  "minimal": {
+    "ja": [
+      "merit-based：能力・実績・功績を基準にする。",
+      "seniority-based：勤続年数・年功を基準にする。",
+      "performance-based：測定可能な業績・成果を基準にする。",
+      "qualification-based：資格・学歴・要件を基準にする。",
+      "need-based：必要性・経済的事情を基準にする。",
+      "meritocratic：能力・実績本位の制度や思想に関する。"
+    ],
+    "en": [
+      "merit-based means determined by ability, achievement, or demonstrated merit.",
+      "seniority-based means determined by length of service or seniority.",
+      "performance-based emphasizes measurable results or performance.",
+      "qualification-based emphasizes formal credentials or required qualifications.",
+      "need-based means determined according to need, often financial need.",
+      "meritocratic describes a system or philosophy that rewards merit."
+    ]
+  },
+  "etymology": {
+    "ja": "merit + based から成る複合形容詞。merit はラテン語 meritum『功績、価値、当然受けるべき報い』に由来し、mereri『値する、獲得する』と関係する。based は『～を基礎とした』の意味。",
+    "en": "A compound adjective formed from merit plus based. Merit comes from Latin meritum, meaning 'desert, worth, or service', from mereri, 'to earn or deserve'. Based means 'founded or determined on a particular criterion'."
+  },
+  "synonyms": [
+    {
+      "word": "performance-based",
+      "note": {
+        "ja": "業績や達成結果を具体的な基準として評価することに重点。",
+        "en": "Emphasizes measured performance or results as the basis for decisions."
+      }
+    },
+    {
+      "word": "ability-based",
+      "note": {
+        "ja": "能力そのものを基準とすることに重点。",
+        "en": "Emphasizes ability or competence as the main criterion."
+      }
+    },
+    {
+      "word": "achievement-based",
+      "note": {
+        "ja": "達成した成果を基準とする。",
+        "en": "Emphasizes past achievements as the basis for evaluation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "leistungsbasiert / nach Leistung",
+    "it": "basato sul merito",
+    "fr": "fondé sur le mérite",
+    "es": "basado en el mérito"
+  },
+  "collocations": {
+    "ja": [
+      "merit-based promotion — 実力・功績に基づく昇進",
+      "merit-based pay — 実績・能力に基づく給与",
+      "a merit-based system — 能力・実績本位の制度",
+      "merit-based compensation — 成果・実績に基づく報酬",
+      "merit-based hiring — 能力本位の採用",
+      "merit-based selection — 実力本位の選考",
+      "merit-based scholarship — 成績・実績に基づく奨学金",
+      "move toward a merit-based system — 能力・実績本位の制度へ移行する",
+      "replace seniority-based promotion with merit-based promotion — 年功昇進を実力本位の昇進に置き換える"
+    ],
+    "en": [
+      "merit-based promotion",
+      "merit-based pay",
+      "a merit-based system",
+      "merit-based compensation",
+      "merit-based hiring",
+      "merit-based selection",
+      "merit-based scholarship",
+      "move toward a merit-based system",
+      "replace seniority-based promotion with merit-based promotion"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company is moving toward a more merit-based promotion system. — その会社は、より能力・実績本位の昇進制度へ移行しつつある。",
+      "Bonuses are awarded on a merit-based basis. — 賞与は能力・実績に基づいて支給される。",
+      "The organization introduced a merit-based pay structure. — その組織は能力・実績本位の給与体系を導入した。",
+      "The scholarship is merit-based rather than need-based. — その奨学金は経済的必要性ではなく、成績・実績を基準としている。",
+      "A merit-based system requires clear and transparent evaluation criteria. — 能力・実績本位の制度には、明確で透明な評価基準が必要である。"
+    ],
+    "en": [
+      "The company is moving toward a more merit-based promotion system.",
+      "Bonuses are awarded on a merit-based basis.",
+      "The organization introduced a merit-based pay structure.",
+      "The scholarship is merit-based rather than need-based.",
+      "A merit-based system requires clear and transparent evaluation criteria."
+    ]
+  }
+},
+{
+  "id": "performance_based",
+  "sid": "2026-00408",
+  "word": "performance-based",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "business",
+    "employment",
+    "human_resources",
+    "management"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pərˈfɔːrməns beɪst/",
+      "uk": "/pəˈfɔːməns beɪst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "業績・成果を基準とする",
+      "達成度や実績に基づく",
+      "評価・報酬などを実際のパフォーマンスに応じて決める"
+    ],
+    "en": [
+      "based on actual performance or results",
+      "determined according to measurable achievement or output",
+      "linking evaluation, pay, rewards, or other outcomes to performance"
+    ]
+  },
+  "nuance": {
+    "ja": "performance-based は、評価・給与・賞与・契約などを実際の業績や成果に結びつけることを表す。merit-based が能力・資質・実績などを幅広く評価しうるのに対し、performance-based は一定期間に達成した具体的成果や測定可能な指標を重視しやすい。seniority-based とは対照的。",
+    "en": "Performance-based describes a system in which evaluation, compensation, rewards, or other outcomes depend on actual performance or results. Compared with merit-based, which can include broader judgments of ability, qualifications, or achievement, performance-based tends to emphasize measurable outcomes over a given period."
+  },
+  "minimal": {
+    "ja": [
+      "performance-based：実際の業績・成果を基準にする。",
+      "merit-based：能力・実績・功績などを幅広く基準にする。",
+      "seniority-based：勤続年数・年功を基準にする。",
+      "results-based：達成された結果を基準にする。",
+      "incentive-based：報酬・誘因によって行動や成果を促す。",
+      "commission-based：売上などに応じた歩合制の。"
+    ],
+    "en": [
+      "performance-based means determined by actual performance or measurable results.",
+      "merit-based is broader and can include ability, qualifications, and achievement.",
+      "seniority-based means determined by length of service or seniority.",
+      "results-based emphasizes achieved outcomes.",
+      "incentive-based uses rewards or incentives to encourage particular behavior or performance.",
+      "commission-based links compensation directly to sales or similar transactions."
+    ]
+  },
+  "etymology": {
+    "ja": "performance + based から成る複合形容詞。performance は perform『実行する、遂行する』から派生し、perform は中英語・古フランス語を経て『完全に遂行する』という意味の語形にさかのぼる。based は『～を基礎とした』という意味。",
+    "en": "A compound adjective formed from performance plus based. Performance is derived from perform, meaning 'to carry out or accomplish', while based means 'founded or determined on a particular criterion'."
+  },
+  "synonyms": [
+    {
+      "word": "results-based",
+      "note": {
+        "ja": "実際に達成された結果に重点。",
+        "en": "Emphasizes achieved outcomes rather than the broader process of performance."
+      }
+    },
+    {
+      "word": "outcome-based",
+      "note": {
+        "ja": "最終的な成果・効果を基準とする。政策・教育などでもよく使う。",
+        "en": "Emphasizes final outcomes or effects and is common in policy, education, and management."
+      }
+    },
+    {
+      "word": "incentive-based",
+      "note": {
+        "ja": "成果そのものより、報酬によって成果を促す仕組みに重点。",
+        "en": "Emphasizes the use of incentives to encourage desired performance."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "leistungsbasiert",
+    "it": "basato sulle prestazioni / sui risultati",
+    "fr": "fondé sur la performance",
+    "es": "basado en el rendimiento"
+  },
+  "collocations": {
+    "ja": [
+      "performance-based pay — 業績連動型給与",
+      "performance-based compensation — 業績連動型報酬",
+      "performance-based bonus — 業績連動型賞与",
+      "performance-based promotion — 業績に基づく昇進",
+      "performance-based evaluation — 業績評価",
+      "performance-based incentives — 業績連動型インセンティブ",
+      "performance-based contract — 成果連動型契約",
+      "performance-based management — 成果重視型マネジメント",
+      "a performance-based system — 業績本位の制度"
+    ],
+    "en": [
+      "performance-based pay",
+      "performance-based compensation",
+      "performance-based bonus",
+      "performance-based promotion",
+      "performance-based evaluation",
+      "performance-based incentives",
+      "performance-based contract",
+      "performance-based management",
+      "a performance-based system"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company introduced a performance-based pay system. — その会社は業績連動型の給与制度を導入した。",
+      "Bonuses are largely performance-based. — 賞与は主として業績に基づいている。",
+      "The new system combines seniority-based and performance-based elements. — 新しい制度は年功要素と業績要素を組み合わせている。",
+      "Managers are evaluated under a performance-based framework. — 管理職は業績本位の枠組みで評価される。",
+      "Performance-based compensation can create strong incentives to meet short-term targets. — 業績連動型報酬は短期目標を達成する強い動機付けとなりうる。"
+    ],
+    "en": [
+      "The company introduced a performance-based pay system.",
+      "Bonuses are largely performance-based.",
+      "The new system combines seniority-based and performance-based elements.",
+      "Managers are evaluated under a performance-based framework.",
+      "Performance-based compensation can create strong incentives to meet short-term targets."
+    ]
+  }
+},
+{
+  "id": "lifetime_employment",
+  "sid": "2026-00409",
+  "word": "lifetime employment",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "business",
+    "employment",
+    "human_resources",
+    "Japan"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈlaɪftaɪm ɪmˈplɔɪmənt/",
+      "uk": "/ˈlaɪftaɪm ɪmˈplɔɪmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "終身雇用",
+      "従業員を原則として定年まで長期的に雇用する慣行",
+      "長期的な雇用関係を前提とする人事制度"
+    ],
+    "en": [
+      "a system or practice of employing workers for most or all of their working lives",
+      "a long-term employment arrangement in which employees are generally expected to remain with the same employer until retirement",
+      "an employment practice strongly associated with traditional Japanese corporate management"
+    ]
+  },
+  "nuance": {
+    "ja": "lifetime employment は、日本語の『終身雇用』を説明する際によく使われる表現。ただし、文字どおり一生涯の雇用を法的に保証する制度というより、企業と従業員の双方が長期雇用を前提とし、定年まで同じ企業で働くことを期待する慣行を指すことが多い。日本企業について説明するときは seniority-based pay や seniority-based promotion と併せて語られることが多い。",
+    "en": "Lifetime employment commonly refers to a long-term employment practice in which employees are expected to remain with the same employer until retirement. In discussions of Japanese management, the term usually describes a social and organizational practice rather than an absolute legal guarantee of employment for life."
+  },
+  "minimal": {
+    "ja": [
+      "lifetime employment：原則として定年まで同じ企業で働く長期雇用慣行。",
+      "long-term employment：長期雇用。lifetime employment より一般的で広い。",
+      "permanent employment：期限の定めのない雇用。終身雇用とは同義ではない。",
+      "job security：雇用が失われにくいという安定性。",
+      "tenure：一定の地位・職における在職期間、または強い身分保障。",
+      "seniority-based system：勤続年数・年功を重視する制度。"
+    ],
+    "en": [
+      "lifetime employment refers to an expectation of staying with one employer until retirement.",
+      "long-term employment is a broader general term for employment lasting many years.",
+      "permanent employment usually means employment without a fixed end date and is not the same as lifetime employment.",
+      "job security means a relatively low risk of losing one's job.",
+      "tenure can refer to length of service or strong protection of a position in certain institutions.",
+      "a seniority-based system rewards or ranks employees partly according to length of service."
+    ]
+  },
+  "etymology": {
+    "ja": "lifetime『一生、生涯』＋ employment『雇用』から成る透明な複合表現。日本の雇用慣行を英語で説明する文脈では、『定年までの長期雇用』という制度的・慣行的意味で使われる。",
+    "en": "A transparent compound expression formed from lifetime and employment. In discussions of Japanese labor practices, it developed as a convenient label for employment relationships expected to last until retirement."
+  },
+  "synonyms": [
+    {
+      "word": "long-term employment",
+      "note": {
+        "ja": "長期雇用を表す一般的な語。終身雇用ほど制度的含意が強くない。",
+        "en": "A broader and more neutral expression for employment lasting many years."
+      }
+    },
+    {
+      "word": "employment for life",
+      "note": {
+        "ja": "文字どおり『生涯雇用』。lifetime employment より説明的だが、絶対的保証にも聞こえやすい。",
+        "en": "A literal descriptive phrase that can sound like a stronger guarantee than the usual Japanese practice."
+      }
+    },
+    {
+      "word": "job security",
+      "note": {
+        "ja": "雇用の安定性。終身雇用そのものではない。",
+        "en": "Refers to stability of employment rather than a system of staying with one employer until retirement."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "lebenslange Beschäftigung / Beschäftigung bis zur Rente",
+    "it": "impiego a vita / occupazione fino alla pensione",
+    "fr": "emploi à vie",
+    "es": "empleo de por vida"
+  },
+  "collocations": {
+    "ja": [
+      "a lifetime employment system — 終身雇用制度",
+      "the practice of lifetime employment — 終身雇用慣行",
+      "traditional lifetime employment — 伝統的な終身雇用",
+      "lifetime employment practices — 終身雇用慣行",
+      "guarantee lifetime employment — 終身雇用を保証する",
+      "move away from lifetime employment — 終身雇用から離れる",
+      "the decline of lifetime employment — 終身雇用の衰退",
+      "lifetime employment and seniority-based pay — 終身雇用と年功型賃金"
+    ],
+    "en": [
+      "a lifetime employment system",
+      "the practice of lifetime employment",
+      "traditional lifetime employment",
+      "lifetime employment practices",
+      "guarantee lifetime employment",
+      "move away from lifetime employment",
+      "the decline of lifetime employment",
+      "lifetime employment and seniority-based pay"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Lifetime employment was once regarded as a defining feature of large Japanese companies. — 終身雇用はかつて日本の大企業を特徴づける制度の一つとみなされていた。",
+      "The company has gradually moved away from the traditional lifetime employment model. — その会社は伝統的な終身雇用モデルから徐々に離れている。",
+      "Lifetime employment does not necessarily mean a legally guaranteed job for life. — 終身雇用は必ずしも法的に生涯の雇用が保証されることを意味しない。",
+      "The traditional system combined lifetime employment with seniority-based pay and promotion. — 伝統的な制度では、終身雇用と年功型賃金・昇進が組み合わされていた。",
+      "Younger workers may place less importance on lifetime employment than previous generations did. — 若い労働者は以前の世代ほど終身雇用を重視しない可能性がある。"
+    ],
+    "en": [
+      "Lifetime employment was once regarded as a defining feature of large Japanese companies.",
+      "The company has gradually moved away from the traditional lifetime employment model.",
+      "Lifetime employment does not necessarily mean a legally guaranteed job for life.",
+      "The traditional system combined lifetime employment with seniority-based pay and promotion.",
+      "Younger workers may place less importance on lifetime employment than previous generations did."
+    ]
+  }
+},
+{
+  "id": "permanent_employment",
+  "sid": "2026-00410",
+  "word": "permanent employment",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "business",
+    "employment",
+    "human_resources",
+    "contracts"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈpɝːmənənt ɪmˈplɔɪmənt/",
+      "uk": "/ˈpɜːmənənt ɪmˈplɔɪmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "無期雇用、常用雇用",
+      "あらかじめ契約終了日が定められていない雇用",
+      "一時的・有期ではない継続的な雇用"
+    ],
+    "en": [
+      "employment without a predetermined end date",
+      "ongoing employment rather than temporary or fixed-term employment",
+      "a continuing employment relationship that is not limited to a specified period"
+    ]
+  },
+  "nuance": {
+    "ja": "permanent employment は、雇用関係にあらかじめ終了日が設定されていないことを表す。通常、temporary employment や fixed-term employment と対比される。permanent という語が使われていても、文字どおり『絶対に解雇されない』『生涯雇用が保証される』という意味ではない。したがって、日本語の『終身雇用』に相当する lifetime employment とは区別する必要がある。",
+    "en": "Permanent employment generally means ongoing employment with no predetermined end date. It is commonly contrasted with temporary or fixed-term employment. Permanent does not mean that employment can never be terminated or that a job is guaranteed for life, so it should be distinguished from the concept of lifetime employment."
+  },
+  "minimal": {
+    "ja": [
+      "permanent employment：終了日をあらかじめ定めない継続的な雇用。",
+      "lifetime employment：定年まで同じ企業で働くことを前提とする長期雇用慣行。",
+      "fixed-term employment：契約期間があらかじめ決められた有期雇用。",
+      "temporary employment：一時的な雇用。",
+      "full-time employment：フルタイム雇用。契約期間の有無とは別の概念。",
+      "job security：雇用を失いにくいという安定性。"
+    ],
+    "en": [
+      "permanent employment has no predetermined end date.",
+      "lifetime employment implies an expectation of remaining with one employer until retirement.",
+      "fixed-term employment has a specified contractual end date.",
+      "temporary employment is intended to last only for a limited period.",
+      "full-time employment concerns working hours rather than contract duration.",
+      "job security refers to the likelihood of continuing to keep one's job."
+    ]
+  },
+  "etymology": {
+    "ja": "permanent + employment から成る。permanent はラテン語 permanere『とどまり続ける』に由来し、per-『ずっと、徹底して』＋ manere『とどまる』という構造。employment は employ『雇う、用いる』から派生した。",
+    "en": "A phrase formed from permanent plus employment. Permanent comes from Latin permanere, meaning 'to remain or continue', from per- plus manere, 'to stay'. Employment is derived from employ."
+  },
+  "synonyms": [
+    {
+      "word": "open-ended employment",
+      "note": {
+        "ja": "終了日を定めない雇用を説明的に表す。法制度によって用語の使われ方は異なる。",
+        "en": "A descriptive term for employment without a predetermined end date, though terminology varies by jurisdiction."
+      }
+    },
+    {
+      "word": "ongoing employment",
+      "note": {
+        "ja": "継続的な雇用関係を表す一般的な表現。",
+        "en": "A general expression emphasizing that the employment relationship continues."
+      }
+    },
+    {
+      "word": "indefinite employment",
+      "note": {
+        "ja": "期間の定めのない雇用を表すことがある。地域・法制度によって用語差がある。",
+        "en": "Can refer to employment of indefinite duration, with terminology varying across legal systems."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "unbefristete Beschäftigung",
+    "it": "impiego a tempo indeterminato",
+    "fr": "emploi permanent / emploi à durée indéterminée",
+    "es": "empleo indefinido"
+  },
+  "collocations": {
+    "ja": [
+      "permanent employment contract — 無期雇用契約",
+      "secure permanent employment — 無期雇用を得る",
+      "offer permanent employment — 無期雇用を提供する",
+      "move into permanent employment — 無期雇用へ移行する",
+      "temporary and permanent employment — 一時雇用と無期雇用",
+      "a permanent employment position — 常用の職",
+      "transition to permanent employment — 無期雇用への移行",
+      "eligible for permanent employment — 無期雇用の対象となる"
+    ],
+    "en": [
+      "permanent employment contract",
+      "secure permanent employment",
+      "offer permanent employment",
+      "move into permanent employment",
+      "temporary and permanent employment",
+      "a permanent employment position",
+      "transition to permanent employment",
+      "eligible for permanent employment"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company offered her permanent employment after the probationary period. — 会社は試用期間の終了後、彼女に無期雇用を提示した。",
+      "Many temporary workers hope to move into permanent employment. — 多くの一時雇用労働者は無期雇用への移行を望んでいる。",
+      "Permanent employment does not necessarily guarantee a job for life. — 無期雇用だからといって、生涯の雇用が保証されるわけではない。",
+      "He left a fixed-term position to take permanent employment with another company. — 彼は有期の職を辞め、別の会社の無期雇用に就いた。",
+      "The distinction between permanent and fixed-term employment varies across legal systems. — 無期雇用と有期雇用の区別は法制度によって異なる。"
+    ],
+    "en": [
+      "The company offered her permanent employment after the probationary period.",
+      "Many temporary workers hope to move into permanent employment.",
+      "Permanent employment does not necessarily guarantee a job for life.",
+      "He left a fixed-term position to take permanent employment with another company.",
+      "The distinction between permanent and fixed-term employment varies across legal systems."
+    ]
+  }
+},
+{
+  "id": "full_time_employment",
+  "sid": "2026-00411",
+  "word": "full-time employment",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "business",
+    "employment",
+    "human_resources",
+    "work"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌfʊl ˈtaɪm ɪmˈplɔɪmənt/",
+      "uk": "/ˌfʊl ˈtaɪm ɪmˈplɔɪmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "フルタイム雇用、常勤雇用",
+      "通常の所定労働時間の大部分または全部を勤務する雇用形態",
+      "パートタイムではない勤務形態"
+    ],
+    "en": [
+      "employment in which a person works the standard or usual number of hours for an organization",
+      "employment involving substantially more working hours than part-time employment",
+      "a working arrangement classified by the employer or applicable rules as full-time"
+    ]
+  },
+  "nuance": {
+    "ja": "full-time employment は労働時間・勤務形態についての概念であり、契約期間についての概念ではない。したがって full-time employee が permanent employee とは限らず、有期契約のフルタイム勤務もありうる。また『フルタイム』とされる具体的な労働時間は国・制度・企業によって異なるため、必ずしも週40時間を意味するわけではない。",
+    "en": "Full-time employment concerns working hours or employment status rather than the duration of the employment contract. A full-time employee may have either a permanent or a fixed-term contract. The number of hours regarded as full-time varies by jurisdiction, industry, employer, and statistical definition, so the term does not inherently mean exactly forty hours per week."
+  },
+  "minimal": {
+    "ja": [
+      "full-time employment：通常の所定労働時間で働く雇用。労働時間についての概念。",
+      "part-time employment：通常より短い時間で働く雇用。",
+      "permanent employment：終了日をあらかじめ定めない雇用。契約期間についての概念。",
+      "fixed-term employment：終了時期があらかじめ定められた有期雇用。",
+      "lifetime employment：定年まで同じ企業で働くことを前提とする長期雇用慣行。",
+      "full-time job：フルタイムの仕事。employment より日常的。"
+    ],
+    "en": [
+      "full-time employment concerns the amount or pattern of working time.",
+      "part-time employment involves fewer hours than comparable full-time employment.",
+      "permanent employment concerns an employment relationship without a predetermined end date.",
+      "fixed-term employment has a predetermined contractual end point.",
+      "lifetime employment refers to an expectation of remaining with one employer until retirement.",
+      "full-time job is the more everyday expression for a job worked on a full-time basis."
+    ]
+  },
+  "etymology": {
+    "ja": "full-time + employment から成る。full-time は full『完全な、全部の』＋ time『時間』からなり、『通常必要とされる勤務時間を全部働く』という発想。employment は employ『雇う、用いる』から派生した。",
+    "en": "Formed from full-time plus employment. Full-time combines full and time and refers to working the normal or complete schedule associated with a job. Employment is derived from employ."
+  },
+  "synonyms": [
+    {
+      "word": "full-time work",
+      "note": {
+        "ja": "フルタイムで働くことを表す、より一般的な表現。",
+        "en": "A common general expression for work performed on a full-time basis."
+      }
+    },
+    {
+      "word": "full-time job",
+      "note": {
+        "ja": "フルタイムの職・仕事。日常会話では非常によく使う。",
+        "en": "A very common everyday expression for a position worked on a full-time basis."
+      }
+    },
+    {
+      "word": "regular employment",
+      "note": {
+        "ja": "文脈により『正規雇用・通常雇用』を表すが、full-time と完全には同義ではない。",
+        "en": "Can refer to regular employment status in some contexts but is not necessarily synonymous with full-time employment."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Vollzeitbeschäftigung",
+    "it": "impiego a tempo pieno",
+    "fr": "emploi à temps plein",
+    "es": "empleo a tiempo completo"
+  },
+  "collocations": {
+    "ja": [
+      "full-time employment opportunities — フルタイムの雇用機会",
+      "seek full-time employment — フルタイムの仕事を探す",
+      "obtain full-time employment — フルタイム雇用を得る",
+      "return to full-time employment — フルタイム勤務に復帰する",
+      "move into full-time employment — フルタイム雇用へ移行する",
+      "full-time employment status — フルタイム雇用の地位",
+      "full-time employment rate — フルタイム雇用率",
+      "part-time and full-time employment — パートタイム雇用とフルタイム雇用"
+    ],
+    "en": [
+      "full-time employment opportunities",
+      "seek full-time employment",
+      "obtain full-time employment",
+      "return to full-time employment",
+      "move into full-time employment",
+      "full-time employment status",
+      "full-time employment rate",
+      "part-time and full-time employment"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She returned to full-time employment after taking parental leave. — 彼女は育児休業後、フルタイム勤務に復帰した。",
+      "He is currently seeking full-time employment. — 彼は現在フルタイムの仕事を探している。",
+      "The position offers full-time employment on a fixed-term contract. — その職は有期契約によるフルタイム雇用である。",
+      "Full-time employment does not necessarily mean permanent employment. — フルタイム雇用が必ずしも無期雇用を意味するわけではない。",
+      "The proportion of workers in full-time employment increased slightly. — フルタイム雇用で働く労働者の割合はわずかに増加した。"
+    ],
+    "en": [
+      "She returned to full-time employment after taking parental leave.",
+      "He is currently seeking full-time employment.",
+      "The position offers full-time employment on a fixed-term contract.",
+      "Full-time employment does not necessarily mean permanent employment.",
+      "The proportion of workers in full-time employment increased slightly."
+    ]
+  }
+}
+]
