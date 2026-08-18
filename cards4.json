@@ -1405,5 +1405,263 @@
       "The proportion of workers in full-time employment increased slightly."
     ]
   }
+},
+{
+  "id": "top_down",
+  "sid": "2026-00412",
+  "word": "top-down",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "business",
+    "management",
+    "organization",
+    "decision_making"
+  ],
+  "grammar": {
+    "pos": "adjective / adverb"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌtɑːp ˈdaʊn/",
+      "uk": "/ˌtɒp ˈdaʊn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "上層部から下位層へ決定・指示を下す方式の",
+      "中央集権的な、上意下達型の",
+      "全体から細部へ進める方式の"
+    ],
+    "en": [
+      "directed or controlled from the highest level of an organization downward",
+      "involving decisions made by senior management and passed down to lower levels",
+      "proceeding from a general or overall level to more detailed levels"
+    ]
+  },
+  "nuance": {
+    "ja": "top-down は、組織の上層部が方針や意思決定を行い、それを下位層へ伝達・実施させる方式を表す。必ずしも否定的な語ではないが、文脈によっては『現場の意見が反映されにくい』『中央集権的』という批判的ニュアンスを帯びる。一方で、危機対応や全社的な方針統一では迅速な意思決定を可能にする方式として評価されることもある。",
+    "en": "Top-down describes a system in which decisions, policies, or instructions originate at the highest level and move downward through an organization. It is not inherently negative, but it can suggest centralized control or limited participation from lower levels. In other contexts, it may be valued for speed, consistency, and clear direction."
+  },
+  "minimal": {
+    "ja": [
+      "top-down：上層部が決め、下位層へ指示する。",
+      "bottom-up：現場・下位層から意見や提案を積み上げる。",
+      "centralized：権限が中央に集中している。",
+      "hierarchical：階層構造に基づく。",
+      "directive：指示・命令を重視する。",
+      "participatory：構成員の参加を重視する。"
+    ],
+    "en": [
+      "top-down means decisions flow from higher levels to lower levels.",
+      "bottom-up means ideas or decisions develop from lower levels upward.",
+      "centralized means authority is concentrated in a central body or leadership.",
+      "hierarchical means organized according to levels of authority.",
+      "directive emphasizes giving clear instructions or orders.",
+      "participatory emphasizes involvement by members or stakeholders."
+    ]
+  },
+  "etymology": {
+    "ja": "top『上部』＋ down『下へ』から成る複合表現。組織階層を縦方向に捉え、『上から下へ』方針・命令・情報が流れるという比喩から生まれた。",
+    "en": "A compound expression formed from top and down. It reflects the metaphor of an organizational hierarchy in which decisions or instructions move from the upper levels downward."
+  },
+  "synonyms": [
+    {
+      "word": "centralized",
+      "note": {
+        "ja": "権限や意思決定が中央・上層部に集中していることに重点。",
+        "en": "Emphasizes concentration of authority or decision-making at a central level."
+      }
+    },
+    {
+      "word": "directive",
+      "note": {
+        "ja": "上位者が明確な指示を与える管理スタイルに重点。",
+        "en": "Emphasizes a management style based on giving clear instructions."
+      }
+    },
+    {
+      "word": "hierarchical",
+      "note": {
+        "ja": "上下関係を持つ階層構造そのものに重点。",
+        "en": "Emphasizes organization into ranked levels of authority."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Top-down / von oben nach unten",
+    "it": "top-down / dall'alto verso il basso",
+    "fr": "descendant / du haut vers le bas",
+    "es": "de arriba abajo / descendente"
+  },
+  "collocations": {
+    "ja": [
+      "a top-down approach — トップダウン型のアプローチ",
+      "top-down management — トップダウン型経営",
+      "top-down decision-making — 上意下達型の意思決定",
+      "a top-down structure — トップダウン型の組織構造",
+      "a top-down strategy — 上層部主導の戦略",
+      "top-down control — 上層部による統制",
+      "top-down leadership — トップダウン型リーダーシップ",
+      "a top-down process — 上から下へ進むプロセス",
+      "impose a top-down solution — 上から解決策を押し付ける"
+    ],
+    "en": [
+      "a top-down approach",
+      "top-down management",
+      "top-down decision-making",
+      "a top-down structure",
+      "a top-down strategy",
+      "top-down control",
+      "top-down leadership",
+      "a top-down process",
+      "impose a top-down solution"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company traditionally relied on a top-down management style. — その会社は伝統的にトップダウン型の経営スタイルを採用していた。",
+      "The new strategy was developed through a largely top-down process. — 新しい戦略は主としてトップダウン型のプロセスで策定された。",
+      "A purely top-down approach can discourage employee participation. — 完全なトップダウン方式は従業員の参加意欲をそぐことがある。",
+      "During the crisis, management adopted a more top-down decision-making structure. — 危機の間、経営陣はよりトップダウン型の意思決定体制を採用した。",
+      "The organization combines top-down direction with bottom-up feedback. — その組織はトップダウン型の方向付けとボトムアップ型のフィードバックを組み合わせている。"
+    ],
+    "en": [
+      "The company traditionally relied on a top-down management style.",
+      "The new strategy was developed through a largely top-down process.",
+      "A purely top-down approach can discourage employee participation.",
+      "During the crisis, management adopted a more top-down decision-making structure.",
+      "The organization combines top-down direction with bottom-up feedback."
+    ]
+  }
+},
+{
+  "id": "bottom_up",
+  "sid": "2026-00413",
+  "word": "bottom-up",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "business",
+    "management",
+    "organization",
+    "decision_making"
+  ],
+  "grammar": {
+    "pos": "adjective / adverb"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌbɑːtəm ˈʌp/",
+      "uk": "/ˌbɒtəm ˈʌp/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "現場・下位層から上層部へ意見や提案を積み上げる方式の",
+      "草の根的な、下から上へ進む",
+      "個別の要素から全体を組み立てる方式の"
+    ],
+    "en": [
+      "developing from lower levels of an organization upward",
+      "involving ideas, information, or decisions originating among employees or local units",
+      "proceeding from individual details or components toward a larger whole"
+    ]
+  },
+  "nuance": {
+    "ja": "bottom-up は、現場や組織の下位層から情報・意見・提案を集め、それを上位の意思決定へ反映する方式を表す。従業員参加や現場知識を活かしやすい一方、意思決定に時間がかかる場合もある。top-down が上層部から方向性を与えるのに対し、bottom-up は下位層からの入力や自発的な提案を重視する。",
+    "en": "Bottom-up describes a process in which ideas, information, proposals, or decisions originate at lower levels and move upward. It can encourage participation and make use of local knowledge, though it may also take more time. Unlike top-down approaches, which begin with senior leadership, bottom-up approaches emphasize input from employees, teams, or local units."
+  },
+  "minimal": {
+    "ja": [
+      "bottom-up：現場や下位層から上へ積み上げる。",
+      "top-down：上層部から下位層へ方針・指示を下す。",
+      "participatory：構成員の参加を重視する。",
+      "decentralized：権限が中央に集中せず分散している。",
+      "grassroots：一般の人々や現場から自発的に生じる。",
+      "collaborative：複数の人や部署が協力して進める。"
+    ],
+    "en": [
+      "bottom-up means ideas or decisions develop from lower levels upward.",
+      "top-down means decisions flow from higher levels to lower levels.",
+      "participatory emphasizes involvement by members or stakeholders.",
+      "decentralized means authority is distributed rather than concentrated centrally.",
+      "grassroots emphasizes activity originating among ordinary people or local groups.",
+      "collaborative emphasizes working together across people or units."
+    ]
+  },
+  "etymology": {
+    "ja": "bottom『下部』＋ up『上へ』から成る複合表現。組織階層を縦方向に捉え、情報・提案・意思決定が『下から上へ』流れるという比喩から生まれた。",
+    "en": "A compound expression formed from bottom and up. It reflects the metaphor of information, ideas, or decision-making moving upward through an organizational hierarchy."
+  },
+  "synonyms": [
+    {
+      "word": "participatory",
+      "note": {
+        "ja": "幅広い構成員の参加を重視することに重点。",
+        "en": "Emphasizes broad participation in a process or decision."
+      }
+    },
+    {
+      "word": "decentralized",
+      "note": {
+        "ja": "意思決定権限が中央から各部門・地域へ分散していることに重点。",
+        "en": "Emphasizes distribution of authority away from a central leadership."
+      }
+    },
+    {
+      "word": "grassroots",
+      "note": {
+        "ja": "一般の人々・現場レベルから自発的に生じることに重点。",
+        "en": "Emphasizes activity originating among ordinary people or local communities."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Bottom-up / von unten nach oben",
+    "it": "bottom-up / dal basso verso l'alto",
+    "fr": "ascendant / du bas vers le haut",
+    "es": "de abajo arriba / ascendente"
+  },
+  "collocations": {
+    "ja": [
+      "a bottom-up approach — ボトムアップ型のアプローチ",
+      "bottom-up management — ボトムアップ型経営",
+      "bottom-up decision-making — 現場主導型の意思決定",
+      "bottom-up planning — ボトムアップ型計画策定",
+      "bottom-up budgeting — ボトムアップ型予算策定",
+      "a bottom-up process — 下から上へ進むプロセス",
+      "bottom-up innovation — 現場発のイノベーション",
+      "bottom-up feedback — 現場から上層部へのフィードバック",
+      "encourage a bottom-up culture — ボトムアップ文化を促進する"
+    ],
+    "en": [
+      "a bottom-up approach",
+      "bottom-up management",
+      "bottom-up decision-making",
+      "bottom-up planning",
+      "bottom-up budgeting",
+      "a bottom-up process",
+      "bottom-up innovation",
+      "bottom-up feedback",
+      "encourage a bottom-up culture"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company encourages a bottom-up approach to innovation. — その会社は現場発のイノベーションを促進している。",
+      "The budget was prepared through a bottom-up process. — その予算はボトムアップ方式で策定された。",
+      "Bottom-up decision-making can make employees feel more involved. — ボトムアップ型の意思決定は、従業員の参加意識を高めることがある。",
+      "The organization relies on bottom-up feedback from local teams. — その組織は各現場チームからのボトムアップ型フィードバックを重視している。",
+      "The most effective model may combine top-down direction with bottom-up input. — 最も効果的なのは、トップダウン型の方向付けとボトムアップ型の意見を組み合わせるモデルかもしれない。"
+    ],
+    "en": [
+      "The company encourages a bottom-up approach to innovation.",
+      "The budget was prepared through a bottom-up process.",
+      "Bottom-up decision-making can make employees feel more involved.",
+      "The organization relies on bottom-up feedback from local teams.",
+      "The most effective model may combine top-down direction with bottom-up input."
+    ]
+  }
 }
 ]
