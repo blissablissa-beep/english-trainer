@@ -1663,5 +1663,1763 @@
       "The most effective model may combine top-down direction with bottom-up input."
     ]
   }
+},
+{
+  "id": "participatory",
+  "sid": "2026-00414",
+  "word": "participatory",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "business",
+    "management",
+    "organization",
+    "decision_making"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pɑːrˈtɪsəpəˌtɔːri/",
+      "uk": "/pɑːˈtɪsɪpətri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "参加型の",
+      "構成員・市民・従業員などの参加を重視する",
+      "意思決定や活動に関係者が主体的に関与する"
+    ],
+    "en": [
+      "involving active participation by the people affected or involved",
+      "encouraging members, employees, citizens, or stakeholders to take part in a process",
+      "based on shared involvement rather than decisions being made entirely by a small leadership group"
+    ]
+  },
+  "nuance": {
+    "ja": "participatory は、意思決定・管理・研究・教育・政策形成などに当事者や関係者が積極的に参加することを表す。bottom-up が情報や提案の流れが『下から上へ』進むことを強調するのに対し、participatory は方向よりも『参加そのもの』を重視する。そのため、必ずしも bottom-up と完全に同義ではない。",
+    "en": "Participatory describes a process in which the people affected by a decision or activity actively take part in it. Unlike bottom-up, which emphasizes the upward direction of ideas or input, participatory focuses on involvement itself. A process can therefore be participatory without being completely bottom-up."
+  },
+  "minimal": {
+    "ja": [
+      "participatory：関係者の積極的な参加を重視する。",
+      "bottom-up：現場や下位層から上へ意見・提案を積み上げる。",
+      "collaborative：複数の人や組織が協力して進める。",
+      "inclusive：多様な人々を排除せず参加させる。",
+      "consultative：意見を聞いて意思決定に反映する。",
+      "democratic：構成員の意思を反映する民主的な。"
+    ],
+    "en": [
+      "participatory emphasizes active involvement in a process.",
+      "bottom-up emphasizes ideas or decisions moving upward from lower levels.",
+      "collaborative emphasizes people working together.",
+      "inclusive emphasizes ensuring that different groups are not excluded.",
+      "consultative emphasizes seeking opinions before making decisions.",
+      "democratic emphasizes decision-making based on the will or participation of members."
+    ]
+  },
+  "etymology": {
+    "ja": "participate『参加する』＋ -ory から成る形容詞。participate はラテン語 participare『分かち合う、参加させる』に由来し、pars『部分』＋ capere『取る』に関係する。文字どおりには『一部分を取る、分け前を持つ』という発想。",
+    "en": "Derived from participate plus the adjectival suffix -ory. Participate ultimately comes from Latin participare, 'to share or take part', related to pars ('part') and capere ('to take'). The underlying idea is literally taking a part in something."
+  },
+  "synonyms": [
+    {
+      "word": "collaborative",
+      "note": {
+        "ja": "共同作業・協力に重点。",
+        "en": "Emphasizes people or groups working together."
+      }
+    },
+    {
+      "word": "inclusive",
+      "note": {
+        "ja": "幅広い人々を排除せず参加させることに重点。",
+        "en": "Emphasizes allowing a broad range of people or groups to take part."
+      }
+    },
+    {
+      "word": "consultative",
+      "note": {
+        "ja": "関係者から意見を聞くプロセスに重点。",
+        "en": "Emphasizes seeking advice or opinions from those affected."
+      }
+    },
+    {
+      "word": "democratic",
+      "note": {
+        "ja": "構成員の意思を広く反映することに重点。",
+        "en": "Emphasizes shared influence or decision-making by members."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "partizipativ",
+    "it": "partecipativo",
+    "fr": "participatif",
+    "es": "participativo"
+  },
+  "collocations": {
+    "ja": [
+      "participatory management — 参加型経営",
+      "participatory decision-making — 参加型意思決定",
+      "a participatory approach — 参加型アプローチ",
+      "participatory leadership — 参加型リーダーシップ",
+      "participatory governance — 参加型ガバナンス",
+      "participatory planning — 参加型計画策定",
+      "participatory budgeting — 参加型予算編成",
+      "participatory research — 参加型研究",
+      "a participatory process — 参加型プロセス"
+    ],
+    "en": [
+      "participatory management",
+      "participatory decision-making",
+      "a participatory approach",
+      "participatory leadership",
+      "participatory governance",
+      "participatory planning",
+      "participatory budgeting",
+      "participatory research",
+      "a participatory process"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company introduced a more participatory management style. — その会社は、より参加型の経営スタイルを導入した。",
+      "The project used a participatory approach involving employees from several departments. — そのプロジェクトでは複数部門の従業員が参加する参加型アプローチが採用された。",
+      "Participatory decision-making can increase employee engagement. — 参加型意思決定は従業員の関与を高めることがある。",
+      "The city adopted a participatory budgeting process. — その都市は参加型予算編成プロセスを導入した。",
+      "A participatory culture encourages employees to contribute ideas. — 参加型の文化は従業員が意見を出すことを促す。"
+    ],
+    "en": [
+      "The company introduced a more participatory management style.",
+      "The project used a participatory approach involving employees from several departments.",
+      "Participatory decision-making can increase employee engagement.",
+      "The city adopted a participatory budgeting process.",
+      "A participatory culture encourages employees to contribute ideas."
+    ]
+  }
+},
+{
+  "id": "consultative",
+  "sid": "2026-00415",
+  "word": "consultative",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "business",
+    "management",
+    "organization",
+    "decision_making"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈsʌltətɪv/",
+      "uk": "/kənˈsʌltətɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "協議型の、相談を重視する",
+      "関係者の意見を聞きながら進める",
+      "助言や意見を求めることを特徴とする"
+    ],
+    "en": [
+      "involving consultation with people before decisions are made",
+      "characterized by seeking advice, opinions, or feedback",
+      "based on discussion with relevant people or stakeholders"
+    ]
+  },
+  "nuance": {
+    "ja": "consultative は、上司・経営陣・政府などの意思決定者が、決定前に従業員・専門家・関係者などから意見や助言を聞く方式を表す。重要なのは、意見を聞くことと最終決定権を共有することは同じではない点。participatory は構成員自身が意思決定により直接的に参加するニュアンスが強いが、consultative では最終決定権が上位者に残る場合が多い。",
+    "en": "Consultative describes a process in which decision-makers seek advice, opinions, or feedback from relevant people before reaching a decision. Importantly, consultation does not necessarily mean sharing final decision-making authority. Compared with participatory approaches, consultative approaches often leave the final decision with management or another designated authority."
+  },
+  "minimal": {
+    "ja": [
+      "consultative：決定前に関係者の意見・助言を聞く。",
+      "participatory：関係者が意思決定そのものに参加する。",
+      "collaborative：複数の人や組織が共同で作業する。",
+      "advisory：助言を提供する役割の。",
+      "inclusive：多様な関係者を排除せず取り込む。",
+      "directive：上位者が明確に指示する。consultative と対照的。"
+    ],
+    "en": [
+      "consultative emphasizes seeking opinions before making a decision.",
+      "participatory emphasizes direct involvement in the decision-making process.",
+      "collaborative emphasizes working together.",
+      "advisory describes a role or body that provides advice.",
+      "inclusive emphasizes involving a broad range of people or groups.",
+      "directive emphasizes giving instructions rather than seeking input."
+    ]
+  },
+  "etymology": {
+    "ja": "consult + -ative から成る。consult はラテン語 consultare『熟考する、相談する』に由来し、consulere『協議する、助言を求める』と関係する。そこから consultative は『相談・協議を伴う』という意味になった。",
+    "en": "Derived from consult plus the adjectival suffix -ative. Consult ultimately comes from Latin consultare and consulere, meaning 'to deliberate, seek advice, or take counsel'. Consultative therefore means involving consultation or advice."
+  },
+  "synonyms": [
+    {
+      "word": "advisory",
+      "note": {
+        "ja": "助言を与える機能・役割に重点。",
+        "en": "Emphasizes the function of giving advice rather than the overall decision-making process."
+      }
+    },
+    {
+      "word": "participatory",
+      "note": {
+        "ja": "意見を聞くだけでなく、より直接的な参加を重視する。",
+        "en": "Usually suggests more direct involvement than merely being consulted."
+      }
+    },
+    {
+      "word": "collaborative",
+      "note": {
+        "ja": "関係者が共同で作業・形成することに重点。",
+        "en": "Emphasizes joint work or joint development."
+      }
+    },
+    {
+      "word": "deliberative",
+      "note": {
+        "ja": "十分な議論・熟議を経て判断することに重点。",
+        "en": "Emphasizes careful discussion and consideration before reaching a decision."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "konsultativ / beratend",
+    "it": "consultivo",
+    "fr": "consultatif",
+    "es": "consultivo"
+  },
+  "collocations": {
+    "ja": [
+      "a consultative approach — 協議型のアプローチ",
+      "consultative management — 協議型マネジメント",
+      "consultative leadership — 協議型リーダーシップ",
+      "a consultative process — 協議プロセス",
+      "consultative decision-making — 協議型意思決定",
+      "a consultative committee — 諮問委員会",
+      "a consultative body — 諮問機関",
+      "consultative meetings — 協議会合",
+      "a consultative role — 助言・諮問的役割"
+    ],
+    "en": [
+      "a consultative approach",
+      "consultative management",
+      "consultative leadership",
+      "a consultative process",
+      "consultative decision-making",
+      "a consultative committee",
+      "a consultative body",
+      "consultative meetings",
+      "a consultative role"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The manager adopted a more consultative leadership style. — その管理職は、より協議型のリーダーシップを採用した。",
+      "The company used a consultative process before introducing the new policy. — 会社は新しい方針を導入する前に協議プロセスを実施した。",
+      "The committee has a purely consultative role. — その委員会は純粋に諮問的な役割を持つ。",
+      "A consultative approach can improve employee acceptance of difficult decisions. — 協議型のアプローチは、難しい決定に対する従業員の受容を高めることがある。",
+      "The process was consultative, but the final decision remained with senior management. — そのプロセスでは関係者との協議が行われたが、最終決定権は経営上層部に残った。"
+    ],
+    "en": [
+      "The manager adopted a more consultative leadership style.",
+      "The company used a consultative process before introducing the new policy.",
+      "The committee has a purely consultative role.",
+      "A consultative approach can improve employee acceptance of difficult decisions.",
+      "The process was consultative, but the final decision remained with senior management."
+    ]
+  }
+},
+{
+  "id": "deliberative",
+  "sid": "2026-00416",
+  "word": "deliberative",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "business",
+    "management",
+    "decision_making",
+    "politics"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈlɪbəreɪtɪv/",
+      "uk": "/dɪˈlɪbərətɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "熟議型の、慎重な討議を伴う",
+      "十分に検討・議論したうえで判断する",
+      "討議・熟考を目的とする"
+    ],
+    "en": [
+      "involving careful discussion and consideration before a decision is made",
+      "characterized by weighing reasons, alternatives, and consequences",
+      "concerned with deliberation or thoughtful decision-making"
+    ]
+  },
+  "nuance": {
+    "ja": "deliberative は、意思決定の前に選択肢・理由・影響などを十分に検討し、議論することを表す。consultative が『関係者から意見を聞く』ことに重点を置くのに対し、deliberative は『集めた意見や情報をもとに熟考・熟議する』ことに重点がある。政治学では deliberative democracy『熟議民主主義』という重要な用法もある。",
+    "en": "Deliberative describes a process in which participants carefully consider reasons, alternatives, evidence, and consequences before reaching a decision. Consultative emphasizes seeking input, while deliberative emphasizes thoughtful discussion and evaluation of that input. The word is also important in political theory, especially in the phrase deliberative democracy."
+  },
+  "minimal": {
+    "ja": [
+      "deliberative：理由や選択肢を十分に議論・検討して決める。",
+      "consultative：関係者の意見を聞いてから決める。",
+      "participatory：関係者が意思決定そのものに参加する。",
+      "collaborative：複数の人が共同で作業する。",
+      "reflective：振り返ってよく考える。",
+      "directive：上位者が明確に指示する。"
+    ],
+    "en": [
+      "deliberative emphasizes careful discussion and weighing of reasons.",
+      "consultative emphasizes seeking opinions before making a decision.",
+      "participatory emphasizes direct involvement in decision-making.",
+      "collaborative emphasizes working together.",
+      "reflective emphasizes thoughtful consideration, often after experience.",
+      "directive emphasizes giving clear instructions."
+    ]
+  },
+  "etymology": {
+    "ja": "deliberate『熟考する、慎重に検討する』＋ -ive から成る。deliberate はラテン語 deliberare『十分に考える、熟慮する』に由来し、de- と libra『はかり、天秤』に関係するとされる。つまり、選択肢を『天秤にかける』ように慎重に比較するイメージ。",
+    "en": "Derived from deliberate plus -ive. Deliberate comes from Latin deliberare, meaning 'to weigh carefully or consider', traditionally associated with libra, 'balance or scales'. The underlying image is weighing alternatives before deciding."
+  },
+  "synonyms": [
+    {
+      "word": "consultative",
+      "note": {
+        "ja": "関係者の意見を聞くことに重点。",
+        "en": "Emphasizes seeking advice or opinions from relevant people."
+      }
+    },
+    {
+      "word": "reflective",
+      "note": {
+        "ja": "経験や考えを振り返り、じっくり考えることに重点。",
+        "en": "Emphasizes thoughtful consideration or reflection."
+      }
+    },
+    {
+      "word": "considered",
+      "note": {
+        "ja": "十分に考えたうえでの、慎重な。",
+        "en": "Describes a judgment or opinion formed after careful thought."
+      }
+    },
+    {
+      "word": "thoughtful",
+      "note": {
+        "ja": "よく考えられた、思慮深い。より一般的。",
+        "en": "A broader and more everyday word for careful, considerate thinking."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "deliberativ / beratend",
+    "it": "deliberativo",
+    "fr": "délibératif",
+    "es": "deliberativo"
+  },
+  "collocations": {
+    "ja": [
+      "a deliberative process — 熟議プロセス",
+      "deliberative decision-making — 熟議型意思決定",
+      "deliberative discussion — 熟議的な討論",
+      "a deliberative approach — 熟議型のアプローチ",
+      "deliberative democracy — 熟議民主主義",
+      "a deliberative forum — 熟議のためのフォーラム",
+      "deliberative dialogue — 熟議的対話",
+      "deliberative body — 審議機関",
+      "a highly deliberative process — 非常に慎重な検討を伴うプロセス"
+    ],
+    "en": [
+      "a deliberative process",
+      "deliberative decision-making",
+      "deliberative discussion",
+      "a deliberative approach",
+      "deliberative democracy",
+      "a deliberative forum",
+      "deliberative dialogue",
+      "deliberative body",
+      "a highly deliberative process"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The board adopted a more deliberative approach to major investment decisions. — 取締役会は重要な投資判断について、より熟議型のアプローチを採用した。",
+      "The process was designed to be participatory and deliberative. — そのプロセスは参加型かつ熟議型となるよう設計された。",
+      "A deliberative discussion allows participants to consider competing arguments carefully. — 熟議的な討論では、参加者が対立する議論を慎重に検討できる。",
+      "The committee serves as a deliberative body rather than merely an advisory one. — その委員会は単なる諮問機関ではなく、審議機関として機能している。",
+      "Deliberative decision-making can take longer, but it may improve the quality of complex decisions. — 熟議型の意思決定は時間がかかることがあるが、複雑な判断の質を高める可能性がある。"
+    ],
+    "en": [
+      "The board adopted a more deliberative approach to major investment decisions.",
+      "The process was designed to be participatory and deliberative.",
+      "A deliberative discussion allows participants to consider competing arguments carefully.",
+      "The committee serves as a deliberative body rather than merely an advisory one.",
+      "Deliberative decision-making can take longer, but it may improve the quality of complex decisions."
+    ]
+  }
+},
+{
+  "id": "directive",
+  "sid": "2026-00417",
+  "word": "directive",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "business",
+    "management",
+    "leadership",
+    "decision_making"
+  ],
+  "grammar": {
+    "pos": "adjective / noun",
+    "countability": "countable",
+    "plural": "directives"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dəˈrektɪv/",
+      "uk": "/dɪˈrektɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "形容詞：指示的な、明確な指示を与える",
+      "形容詞：上位者が方向や行動を具体的に定める",
+      "名詞：指令、指示、命令"
+    ],
+    "en": [
+      "adjective: giving clear instructions about what should be done",
+      "adjective: characterized by strong guidance or direction from a person in authority",
+      "noun: an official instruction or order"
+    ]
+  },
+  "nuance": {
+    "ja": "ビジネス・リーダーシップで directive は、リーダーが目標・方法・役割などを明確に示し、部下に具体的な指示を与えるスタイルを表す。consultative が意見を聞き、participatory が構成員の参加を重視するのに対し、directive は『何をどうするかをリーダーが明確に示す』ことに重点がある。必ずしも威圧的・独裁的という意味ではない。",
+    "en": "In business and leadership, directive describes a style in which the leader provides clear guidance about goals, roles, procedures, or actions. Unlike consultative leadership, which seeks input, or participatory leadership, which involves others more directly in decision-making, directive leadership emphasizes explicit direction. It does not necessarily imply hostility or authoritarianism."
+  },
+  "minimal": {
+    "ja": [
+      "directive：上位者が具体的な方向・指示を示す。",
+      "consultative：関係者の意見を聞いてから決める。",
+      "participatory：関係者が意思決定そのものに参加する。",
+      "deliberative：選択肢や理由を十分に熟議して決める。",
+      "authoritarian：権力集中と服従を強く求める。directive より強い。",
+      "prescriptive：何をすべきかを規定する。規則・文章にも広く使う。"
+    ],
+    "en": [
+      "directive emphasizes giving clear instructions and direction.",
+      "consultative emphasizes seeking opinions before deciding.",
+      "participatory emphasizes direct involvement in decision-making.",
+      "deliberative emphasizes careful discussion and weighing of alternatives.",
+      "authoritarian implies stronger centralized control and obedience.",
+      "prescriptive specifies what ought to be done and is broader than leadership contexts."
+    ]
+  },
+  "etymology": {
+    "ja": "direct + -ive から成る。direct はラテン語 dirigere『まっすぐにする、方向づける』に由来し、di-/dis- と regere『導く、統治する』にさかのぼる。directive の中心には『一定の方向へ導く』という発想がある。",
+    "en": "Derived from direct plus -ive. Direct ultimately comes from Latin dirigere, meaning 'to set straight or guide', related to regere, 'to guide or rule'. The central idea of directive is therefore giving direction."
+  },
+  "synonyms": [
+    {
+      "word": "authoritative",
+      "note": {
+        "ja": "権威や専門性に基づいて明確な方向性を示す。directive と重なるが同義ではない。",
+        "en": "Can describe confident direction based on authority or expertise, though it is not identical to directive."
+      }
+    },
+    {
+      "word": "prescriptive",
+      "note": {
+        "ja": "具体的に何をすべきかを規定することに重点。",
+        "en": "Emphasizes specifying what should be done."
+      }
+    },
+    {
+      "word": "commanding",
+      "note": {
+        "ja": "命令的・支配的なニュアンスが directive より強い。",
+        "en": "Usually suggests a stronger and more commanding exercise of authority."
+      }
+    },
+    {
+      "word": "instructive",
+      "note": {
+        "ja": "教える・情報を与えることに重点があり、directive の『行動を指示する』とは異なる。",
+        "en": "Emphasizes teaching or providing useful information rather than directing action."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "direktiv / anweisend",
+    "it": "direttivo",
+    "fr": "directif",
+    "es": "directivo"
+  },
+  "collocations": {
+    "ja": [
+      "directive leadership — 指示型リーダーシップ",
+      "a directive leadership style — 指示型のリーダーシップスタイル",
+      "a directive approach — 指示型アプローチ",
+      "directive management — 指示型マネジメント",
+      "directive behavior — 指示的行動",
+      "highly directive — 非常に指示的な",
+      "become more directive — より指示的になる",
+      "issue a directive — 指令を出す",
+      "a management directive — 経営陣からの指示"
+    ],
+    "en": [
+      "directive leadership",
+      "a directive leadership style",
+      "a directive approach",
+      "directive management",
+      "directive behavior",
+      "highly directive",
+      "become more directive",
+      "issue a directive",
+      "a management directive"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The manager adopted a more directive leadership style during the crisis. — その管理職は危機の際、より指示型のリーダーシップを採用した。",
+      "A directive approach can be useful when employees need clear guidance. — 従業員が明確な指針を必要としている場合、指示型のアプローチは有効なことがある。",
+      "The new supervisor was highly directive and set clear expectations for the team. — 新しい上司は非常に指示的で、チームに明確な期待事項を示した。",
+      "The leadership style shifted from consultative to more directive. — リーダーシップスタイルは協議型から、より指示型へと移行した。",
+      "Senior management issued a directive requiring all departments to reduce costs. — 経営上層部は全部門にコスト削減を求める指令を出した。"
+    ],
+    "en": [
+      "The manager adopted a more directive leadership style during the crisis.",
+      "A directive approach can be useful when employees need clear guidance.",
+      "The new supervisor was highly directive and set clear expectations for the team.",
+      "The leadership style shifted from consultative to more directive.",
+      "Senior management issued a directive requiring all departments to reduce costs."
+    ]
+  }
+},
+{
+  "id": "collaborative",
+  "sid": "2026-00418",
+  "word": "collaborative",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "business",
+    "management",
+    "teamwork",
+    "organization"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kəˈlæbəreɪtɪv/",
+      "uk": "/kəˈlæbərətɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "共同で行う、協働の",
+      "複数の人・部署・組織が協力して進める",
+      "共同作業を重視する"
+    ],
+    "en": [
+      "involving two or more people or groups working together",
+      "based on cooperation toward a shared goal",
+      "characterized by joint effort or joint creation"
+    ]
+  },
+  "nuance": {
+    "ja": "collaborative は、複数の人・部署・組織などが共通の目的に向かって実際に協力して作業することを表す。participatory が『参加すること』自体を重視するのに対し、collaborative は『一緒に作る・進める』という共同作業に重点がある。consultative のように単に意見を聞くだけではなく、関係者がより積極的に成果物や解決策の形成に関与するニュアンスがある。",
+    "en": "Collaborative describes a process in which people, teams, departments, or organizations actively work together toward a shared goal. Unlike participatory, which emphasizes involvement, collaborative emphasizes joint effort and joint creation. It also implies more active cooperation than a merely consultative process."
+  },
+  "minimal": {
+    "ja": [
+      "collaborative：複数の人・組織が共同で作業する。",
+      "participatory：関係者が参加することを重視する。",
+      "consultative：関係者の意見を聞いて進める。",
+      "cooperative：互いに協力的である。collaborative より広い。",
+      "joint：複数主体が共同で行うことを簡潔に表す。",
+      "team-based：チーム単位で進めることに重点。"
+    ],
+    "en": [
+      "collaborative emphasizes active joint work toward a shared goal.",
+      "participatory emphasizes involvement in a process.",
+      "consultative emphasizes seeking opinions or advice.",
+      "cooperative broadly means willing to work together.",
+      "joint simply means done by two or more parties together.",
+      "team-based emphasizes organizing work around teams."
+    ]
+  },
+  "etymology": {
+    "ja": "collaborate『共同で働く』＋ -ive から成る。collaborate はラテン語 collaborare に由来し、com-『一緒に』＋ laborare『働く』という構造。文字どおり『一緒に働く』という意味で、labor『労働』と同じ語族。",
+    "en": "Derived from collaborate plus -ive. Collaborate comes from Latin collaborare, formed from com- ('together') plus laborare ('to work'). The literal idea is 'to work together', and labor belongs to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "cooperative",
+      "note": {
+        "ja": "協力する姿勢・関係を広く表す。collaborative より一般的。",
+        "en": "A broader word for being willing or able to work together."
+      }
+    },
+    {
+      "word": "joint",
+      "note": {
+        "ja": "二者以上が共同で行うことを簡潔に表す。",
+        "en": "A concise adjective for something done by two or more parties together."
+      }
+    },
+    {
+      "word": "participatory",
+      "note": {
+        "ja": "共同作業そのものより、参加機会や関与を重視する。",
+        "en": "Emphasizes participation or involvement rather than joint production."
+      }
+    },
+    {
+      "word": "team-based",
+      "note": {
+        "ja": "業務を個人ではなくチームを単位として進めることに重点。",
+        "en": "Emphasizes organizing work around teams rather than individuals."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "kollaborativ / gemeinschaftlich",
+    "it": "collaborativo",
+    "fr": "collaboratif",
+    "es": "colaborativo"
+  },
+  "collocations": {
+    "ja": [
+      "a collaborative approach — 協働型のアプローチ",
+      "a collaborative effort — 共同の取り組み",
+      "collaborative work — 共同作業",
+      "collaborative decision-making — 協働型意思決定",
+      "collaborative leadership — 協働型リーダーシップ",
+      "a collaborative environment — 協働しやすい環境",
+      "a collaborative culture — 協働を重視する組織文化",
+      "collaborative problem-solving — 協働による問題解決",
+      "a collaborative project — 共同プロジェクト",
+      "collaborative innovation — 協働型イノベーション"
+    ],
+    "en": [
+      "a collaborative approach",
+      "a collaborative effort",
+      "collaborative work",
+      "collaborative decision-making",
+      "collaborative leadership",
+      "a collaborative environment",
+      "a collaborative culture",
+      "collaborative problem-solving",
+      "a collaborative project",
+      "collaborative innovation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The project requires a collaborative approach across several departments. — そのプロジェクトには複数部門にまたがる協働型のアプローチが必要だ。",
+      "The company is trying to build a more collaborative culture. — その会社は、より協働的な組織文化を築こうとしている。",
+      "The two teams developed the new system through a collaborative process. — 二つのチームは協働プロセスを通じて新しいシステムを開発した。",
+      "Collaborative problem-solving can produce solutions that no single department could develop alone. — 協働による問題解決は、一つの部門だけでは生み出せない解決策につながることがある。",
+      "Her leadership style is highly collaborative rather than directive. — 彼女のリーダーシップスタイルは指示型というより非常に協働型だ。"
+    ],
+    "en": [
+      "The project requires a collaborative approach across several departments.",
+      "The company is trying to build a more collaborative culture.",
+      "The two teams developed the new system through a collaborative process.",
+      "Collaborative problem-solving can produce solutions that no single department could develop alone.",
+      "Her leadership style is highly collaborative rather than directive."
+    ]
+  }
+},
+{
+  "id": "democratic",
+  "sid": "2026-00419",
+  "word": "democratic",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "business",
+    "management",
+    "leadership",
+    "decision_making"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌdeməˈkrætɪk/",
+      "uk": "/ˌdeməˈkrætɪk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "民主的な",
+      "構成員の意見や参加を重視する",
+      "権限や意思決定を広く共有する"
+    ],
+    "en": [
+      "based on democratic principles",
+      "involving participation or input from members of a group",
+      "characterized by relatively shared influence over decisions"
+    ]
+  },
+  "nuance": {
+    "ja": "democratic は、政治では民主主義に関することを表すが、組織・リーダーシップでは、リーダーが一方的に決めるのではなく、メンバーの意見や参加を重視するスタイルを表す。participatory と近いが、democratic は意思決定権や発言権をより広く共有するという含意が出やすい。consultative のように単に意見を聞くだけで、最終決定権が完全に上司に残る場合とは区別されることがある。",
+    "en": "In politics, democratic relates to democracy. In management and leadership, it describes a style in which members are given meaningful input or influence over decisions rather than being directed entirely from above. It overlaps with participatory, but democratic often carries a stronger implication of shared decision-making power."
+  },
+  "minimal": {
+    "ja": [
+      "democratic：構成員の発言権や意思決定への関与を重視する。",
+      "participatory：関係者の積極的な参加を重視する。",
+      "consultative：意見を聞くが、最終決定権は上位者に残ることが多い。",
+      "collaborative：共同で作業し、成果を作る。",
+      "directive：上位者が明確に指示する。",
+      "authoritarian：権力を強く集中させ、服従を求める。"
+    ],
+    "en": [
+      "democratic emphasizes meaningful member influence over decisions.",
+      "participatory emphasizes active involvement in a process.",
+      "consultative emphasizes seeking input while often leaving final authority with the leader.",
+      "collaborative emphasizes working together toward a shared outcome.",
+      "directive emphasizes clear direction from a leader.",
+      "authoritarian emphasizes concentrated authority and obedience."
+    ]
+  },
+  "etymology": {
+    "ja": "democracy + -atic に由来する形容詞。democracy はギリシャ語 demokratia から来ており、demos『民衆』＋ kratos『支配、権力』という構造。文字どおりには『民衆による支配』を意味する。",
+    "en": "Derived from democracy, ultimately from Greek demokratia, formed from demos ('the people') plus kratos ('power, rule'). The literal idea is 'rule by the people'."
+  },
+  "synonyms": [
+    {
+      "word": "participatory",
+      "note": {
+        "ja": "意思決定権そのものより、参加の機会や関与に重点。",
+        "en": "Emphasizes involvement and participation rather than necessarily shared authority."
+      }
+    },
+    {
+      "word": "inclusive",
+      "note": {
+        "ja": "多様な人々を排除せず参加させることに重点。",
+        "en": "Emphasizes ensuring that different people or groups are not excluded."
+      }
+    },
+    {
+      "word": "collaborative",
+      "note": {
+        "ja": "権限配分よりも、共同作業や協働に重点。",
+        "en": "Emphasizes joint work rather than the distribution of decision-making authority."
+      }
+    },
+    {
+      "word": "egalitarian",
+      "note": {
+        "ja": "地位や権限の平等性を重視する。democratic より『平等』そのものに焦点。",
+        "en": "Emphasizes equality of status or treatment more than democratic decision-making itself."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "demokratisch",
+    "it": "democratico",
+    "fr": "démocratique",
+    "es": "democrático"
+  },
+  "collocations": {
+    "ja": [
+      "democratic leadership — 民主型リーダーシップ",
+      "a democratic leadership style — 民主型のリーダーシップスタイル",
+      "democratic decision-making — 民主的意思決定",
+      "a democratic process — 民主的プロセス",
+      "a democratic workplace — 民主的な職場",
+      "democratic management — 民主型マネジメント",
+      "a democratic culture — 民主的な組織文化",
+      "a more democratic organization — より民主的な組織",
+      "democratic participation — 民主的参加"
+    ],
+    "en": [
+      "democratic leadership",
+      "a democratic leadership style",
+      "democratic decision-making",
+      "a democratic process",
+      "a democratic workplace",
+      "democratic management",
+      "a democratic culture",
+      "a more democratic organization",
+      "democratic participation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She adopted a more democratic leadership style. — 彼女は、より民主型のリーダーシップスタイルを採用した。",
+      "The team uses a democratic process for major decisions. — そのチームは重要な意思決定に民主的なプロセスを用いている。",
+      "A democratic management style can encourage employees to express their views. — 民主型のマネジメントは従業員が意見を表明することを促すことがある。",
+      "The organization is trying to create a more democratic workplace. — その組織は、より民主的な職場を作ろうとしている。",
+      "Democratic leadership does not mean that every decision must be put to a vote. — 民主型リーダーシップだからといって、すべての決定を投票にかける必要があるわけではない。"
+    ],
+    "en": [
+      "She adopted a more democratic leadership style.",
+      "The team uses a democratic process for major decisions.",
+      "A democratic management style can encourage employees to express their views.",
+      "The organization is trying to create a more democratic workplace.",
+      "Democratic leadership does not mean that every decision must be put to a vote."
+    ]
+  }
+},
+{
+  "id": "authoritative",
+  "sid": "2026-00420",
+  "word": "authoritative",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "business",
+    "leadership",
+    "management",
+    "communication"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈθɔːrəteɪtɪv/",
+      "uk": "/ɔːˈθɒrɪtətɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "権威のある、信頼できる",
+      "専門性や権限に基づいて自信をもって指示する",
+      "決定的・公式な根拠として認められる"
+    ],
+    "en": [
+      "having recognized authority, expertise, or reliability",
+      "confidently giving direction or guidance based on authority or knowledge",
+      "accepted as reliable, official, or definitive"
+    ]
+  },
+  "nuance": {
+    "ja": "authoritative は、人については『専門性や権限に裏打ちされ、自信をもって方向性を示す』という意味になる。また authoritative source, authoritative account のように、情報源について『権威ある、信頼できる』という意味でも非常に重要。directive が具体的な指示を出すスタイルに重点を置くのに対し、authoritative は指示の根拠となる権威・専門性・信頼性に重点がある。authoritarian とは異なり、必ずしも強権的・抑圧的という意味ではない。",
+    "en": "Authoritative describes a person, style, source, or statement that carries recognized authority, expertise, confidence, or reliability. In leadership, it can suggest clear direction grounded in competence and legitimacy. Unlike directive, it does not focus only on giving instructions, and unlike authoritarian, it does not inherently imply coercive or oppressive control."
+  },
+  "minimal": {
+    "ja": [
+      "authoritative：権威・専門性・信頼性に基づいて明確に導く。",
+      "directive：具体的な指示を与えることに重点。",
+      "authoritarian：権力を集中させ、服従を強く求める。",
+      "credible：信頼できる、もっともらしい。",
+      "definitive：決定版の、最終的・決定的な。",
+      "confident：自信のある。権威や専門性までは含まない。"
+    ],
+    "en": [
+      "authoritative emphasizes recognized authority, expertise, and confidence.",
+      "directive emphasizes giving specific instructions.",
+      "authoritarian emphasizes concentrated power and obedience.",
+      "credible means believable or worthy of trust.",
+      "definitive means final, conclusive, or regarded as the standard.",
+      "confident means self-assured but does not necessarily imply authority or expertise."
+    ]
+  },
+  "etymology": {
+    "ja": "authority + -ative に由来する形容詞。authority はラテン語 auctoritas『権威、影響力、保証』にさかのぼり、auctor『創始者、保証する者』と関係する。author も同じ語族。したがって authoritative には『権威ある根拠に裏打ちされた』という中心的な意味がある。",
+    "en": "Derived from authority plus the adjectival suffix -ative. Authority comes from Latin auctoritas, meaning 'authority, influence, or prestige', related to auctor, 'originator or guarantor'. Author belongs to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "credible",
+      "note": {
+        "ja": "信頼できることに重点。authoritative ほど権威性は含まない。",
+        "en": "Emphasizes trustworthiness without necessarily implying recognized authority."
+      }
+    },
+    {
+      "word": "definitive",
+      "note": {
+        "ja": "決定版・標準として扱われることに重点。",
+        "en": "Emphasizes being conclusive, final, or regarded as the standard."
+      }
+    },
+    {
+      "word": "commanding",
+      "note": {
+        "ja": "強い存在感や指揮力を示す。authoritative より威圧的に響く場合がある。",
+        "en": "Emphasizes a strong, imposing presence or ability to command."
+      }
+    },
+    {
+      "word": "directive",
+      "note": {
+        "ja": "明確な指示を与える管理・リーダーシップスタイル。",
+        "en": "Emphasizes providing explicit instructions and direction."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "maßgeblich / autoritativ",
+    "it": "autorevole",
+    "fr": "faisant autorité / autoritatif",
+    "es": "autorizado / con autoridad"
+  },
+  "collocations": {
+    "ja": [
+      "an authoritative source — 権威ある情報源",
+      "an authoritative account — 信頼性の高い記述",
+      "an authoritative guide — 権威あるガイド",
+      "an authoritative voice — 権威ある語り口",
+      "an authoritative statement — 権威ある声明",
+      "authoritative leadership — 権威と確信に基づくリーダーシップ",
+      "an authoritative tone — 自信と権威のある口調",
+      "highly authoritative — 非常に権威のある",
+      "widely regarded as authoritative — 広く権威あるものとみなされる"
+    ],
+    "en": [
+      "an authoritative source",
+      "an authoritative account",
+      "an authoritative guide",
+      "an authoritative voice",
+      "an authoritative statement",
+      "authoritative leadership",
+      "an authoritative tone",
+      "highly authoritative",
+      "widely regarded as authoritative"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She spoke in a calm but authoritative manner. — 彼女は落ち着いていたが、権威と自信のある話し方をした。",
+      "The report is widely regarded as an authoritative source on the subject. — その報告書は、そのテーマについて権威ある情報源として広く認められている。",
+      "Effective leaders can be authoritative without being authoritarian. — 有能なリーダーは、強権的にならずに権威をもって導くことができる。",
+      "He gave clear and authoritative guidance to the team. — 彼はチームに明確で信頼感のある指針を示した。",
+      "This book remains one of the most authoritative accounts of the industry's history. — この本は今なお、その業界史について最も権威ある記述の一つである。"
+    ],
+    "en": [
+      "She spoke in a calm but authoritative manner.",
+      "The report is widely regarded as an authoritative source on the subject.",
+      "Effective leaders can be authoritative without being authoritarian.",
+      "He gave clear and authoritative guidance to the team.",
+      "This book remains one of the most authoritative accounts of the industry's history."
+    ]
+  }
+},
+{
+  "id": "authoritarian",
+  "sid": "2026-00421",
+  "word": "authoritarian",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "business",
+    "leadership",
+    "management",
+    "politics"
+  ],
+  "grammar": {
+    "pos": "adjective / noun",
+    "countability": "countable",
+    "plural": "authoritarians"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˌθɔːrəˈteriən/",
+      "uk": "/ɔːˌθɒrɪˈteəriən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "権威主義的な、強権的な",
+      "権力を上位者に集中させ、服従を重視する",
+      "名詞：権威主義者、強権的な人物"
+    ],
+    "en": [
+      "favoring strict obedience to authority",
+      "concentrating power in the hands of a leader or small group",
+      "noun: a person who supports or exercises authoritarian control"
+    ]
+  },
+  "nuance": {
+    "ja": "authoritarian は、政治では権力を少数の指導者に集中させ、自由や参加を制限する『権威主義的な』体制や人物を表す。ビジネスやリーダーシップでは、上司が意思決定権を強く握り、部下に服従・規律・命令への従属を求めるスタイルを指すことがある。通常は批判的なニュアンスを持つ。authoritative が『信頼できる権威・専門性を持つ』という肯定的意味になりうるのとは明確に異なる。",
+    "en": "Authoritarian describes a system or leadership style that concentrates authority at the top and expects strong obedience from subordinates or citizens. In politics, it is associated with limited participation and restricted freedom. In management, it can describe leaders who make decisions unilaterally and expect compliance. The word is usually critical, unlike authoritative, which can be positive."
+  },
+  "minimal": {
+    "ja": [
+      "authoritarian：権力を集中させ、服従を強く求める。",
+      "authoritative：権威・専門性・信頼性に基づいて導く。",
+      "directive：具体的な指示を明確に与える。",
+      "autocratic：意思決定権を一人または少数が握る。",
+      "dictatorial：独裁的で、命令的・抑圧的。より強い。",
+      "democratic：構成員の意見・参加・影響力を重視する。"
+    ],
+    "en": [
+      "authoritarian emphasizes concentrated authority and obedience.",
+      "authoritative emphasizes legitimate authority, expertise, and confidence.",
+      "directive emphasizes giving clear instructions.",
+      "autocratic emphasizes unilateral decision-making by one leader or a small group.",
+      "dictatorial is stronger and suggests oppressive or domineering control.",
+      "democratic emphasizes participation and shared influence."
+    ]
+  },
+  "etymology": {
+    "ja": "authority 系の語から派生した形容詞で、-arian は『～を支持する人・～の立場に属する』という意味を作る。authority はラテン語 auctoritas『権威、影響力』に由来する。authoritative と同じ語族だが、authoritarian は『権威への服従を重視する』という政治・社会的意味へ発達した。",
+    "en": "Derived from authority with the suffix -arian, which often denotes adherence to a system or principle. Authority ultimately comes from Latin auctoritas, meaning 'authority or influence'. Although related to authoritative, authoritarian developed the distinct sense of favoring strict obedience to centralized authority."
+  },
+  "synonyms": [
+    {
+      "word": "autocratic",
+      "note": {
+        "ja": "意思決定権を一人または少数者に集中させることに重点。",
+        "en": "Emphasizes unilateral control and decision-making by one person or a small group."
+      }
+    },
+    {
+      "word": "dictatorial",
+      "note": {
+        "ja": "独裁的・命令的で、authoritarian より強い非難を含みやすい。",
+        "en": "A stronger negative term suggesting domineering or oppressive control."
+      }
+    },
+    {
+      "word": "domineering",
+      "note": {
+        "ja": "人間関係で他人を支配しようとする態度に重点。",
+        "en": "Emphasizes an overbearing tendency to control other people."
+      }
+    },
+    {
+      "word": "controlling",
+      "note": {
+        "ja": "他人の行動を細かく支配しようとする。より日常的。",
+        "en": "A more everyday word for trying to control other people's behavior."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "autoritär",
+    "it": "autoritario",
+    "fr": "autoritaire",
+    "es": "autoritario"
+  },
+  "collocations": {
+    "ja": [
+      "authoritarian leadership — 権威主義的リーダーシップ",
+      "an authoritarian leadership style — 強権的なリーダーシップスタイル",
+      "authoritarian management — 権威主義的マネジメント",
+      "an authoritarian regime — 権威主義体制",
+      "an authoritarian government — 権威主義的政府",
+      "authoritarian rule — 権威主義的支配",
+      "authoritarian control — 強権的統制",
+      "an authoritarian approach — 強権的なアプローチ",
+      "become increasingly authoritarian — ますます権威主義的になる"
+    ],
+    "en": [
+      "authoritarian leadership",
+      "an authoritarian leadership style",
+      "authoritarian management",
+      "an authoritarian regime",
+      "an authoritarian government",
+      "authoritarian rule",
+      "authoritarian control",
+      "an authoritarian approach",
+      "become increasingly authoritarian"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The manager was criticized for his authoritarian leadership style. — その管理職は強権的なリーダーシップスタイルを批判された。",
+      "An authoritarian approach can discourage employees from speaking openly. — 強権的なアプローチは、従業員が率直に発言することを妨げることがある。",
+      "The organization became increasingly authoritarian under the new leadership. — その組織は新しい指導部の下で、ますます強権的になった。",
+      "Authoritarian leaders tend to retain tight control over major decisions. — 権威主義的なリーダーは重要な意思決定を強く掌握する傾向がある。",
+      "She is authoritative without being authoritarian. — 彼女には権威と説得力があるが、強権的ではない。"
+    ],
+    "en": [
+      "The manager was criticized for his authoritarian leadership style.",
+      "An authoritarian approach can discourage employees from speaking openly.",
+      "The organization became increasingly authoritarian under the new leadership.",
+      "Authoritarian leaders tend to retain tight control over major decisions.",
+      "She is authoritative without being authoritarian."
+    ]
+  }
+},
+{
+  "id": "autocratic",
+  "sid": "2026-00422",
+  "word": "autocratic",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "business",
+    "leadership",
+    "management",
+    "politics"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɔːtəˈkrætɪk/",
+      "uk": "/ˌɔːtəˈkrætɪk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "独裁的な、専制的な",
+      "意思決定権を一人または少数の上位者に集中させる",
+      "他者の意見をほとんど求めずに決定する"
+    ],
+    "en": [
+      "characterized by decision-making concentrated in one person or a small group",
+      "exercising power with little input from others",
+      "relating to autocracy or highly centralized personal authority"
+    ]
+  },
+  "nuance": {
+    "ja": "autocratic は、リーダーや経営者が主要な意思決定を自ら行い、部下や構成員への権限委譲や意見聴取をあまり行わないスタイルを表す。authoritarian と重なるが、autocratic は特に『意思決定権が一人または少数に集中していること』に重点がある。一方 authoritarian は、権威への服従・規律・統制を重視する姿勢まで含みやすい。",
+    "en": "Autocratic describes a leadership or governing style in which decision-making authority is concentrated in one person or a small group, with limited input from others. It overlaps with authoritarian, but autocratic focuses especially on who holds decision-making power, while authoritarian more strongly emphasizes obedience, control, and deference to authority."
+  },
+  "minimal": {
+    "ja": [
+      "autocratic：意思決定権を一人または少数に集中させる。",
+      "authoritarian：強い権威と統制を重視し、服従を求める。",
+      "directive：上位者が明確な指示を与える。",
+      "dictatorial：独裁的・命令的で、非常に強い否定的ニュアンス。",
+      "democratic：構成員の意見・参加・影響力を重視する。",
+      "centralized：権限が中央に集中している。必ずしも独裁的とは限らない。"
+    ],
+    "en": [
+      "autocratic emphasizes concentrated decision-making authority.",
+      "authoritarian emphasizes strong control and obedience to authority.",
+      "directive emphasizes giving clear instructions.",
+      "dictatorial is a stronger negative term suggesting oppressive personal control.",
+      "democratic emphasizes participation and shared influence.",
+      "centralized means authority is concentrated but does not necessarily imply autocratic leadership."
+    ]
+  },
+  "etymology": {
+    "ja": "autocrat + -ic から成る。autocrat はギリシャ語 autokrates に由来し、autos『自分自身』＋ kratos『力、支配』という構造。文字どおりには『自分自身で権力を握る者』という意味。democratic の -cratic と同じ kratos 系語彙。",
+    "en": "Derived from autocrat plus -ic. Autocrat comes from Greek autokrates, formed from autos ('self') plus kratos ('power, rule'). The literal idea is a person who holds power by oneself. The -cratic element is related to the same Greek root seen in democratic."
+  },
+  "synonyms": [
+    {
+      "word": "authoritarian",
+      "note": {
+        "ja": "強い統制と服従要求に重点。autocratic より広い政治・社会的含意を持つ。",
+        "en": "Emphasizes strong control and obedience and often has broader political or social implications."
+      }
+    },
+    {
+      "word": "dictatorial",
+      "note": {
+        "ja": "非常に命令的・独裁的で、autocratic より強い非難を含みやすい。",
+        "en": "A stronger negative word suggesting domineering or oppressive personal control."
+      }
+    },
+    {
+      "word": "centralized",
+      "note": {
+        "ja": "権限が中央に集中していることに重点。価値判断は比較的弱い。",
+        "en": "Emphasizes concentration of authority at the center and is more neutral."
+      }
+    },
+    {
+      "word": "top-down",
+      "note": {
+        "ja": "意思決定や指示が上層部から下へ流れる方式に重点。",
+        "en": "Emphasizes the downward flow of decisions and instructions through a hierarchy."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "autokratisch",
+    "it": "autocratico",
+    "fr": "autocratique",
+    "es": "autocrático"
+  },
+  "collocations": {
+    "ja": [
+      "autocratic leadership — 独裁型リーダーシップ",
+      "an autocratic leadership style — 独裁型のリーダーシップスタイル",
+      "autocratic management — 独裁型マネジメント",
+      "an autocratic approach — 独裁的なアプローチ",
+      "an autocratic leader — 独裁的なリーダー",
+      "autocratic decision-making — 独断的な意思決定",
+      "highly autocratic — 非常に独裁的な",
+      "become more autocratic — より独裁的になる",
+      "an autocratic regime — 独裁的な政権"
+    ],
+    "en": [
+      "autocratic leadership",
+      "an autocratic leadership style",
+      "autocratic management",
+      "an autocratic approach",
+      "an autocratic leader",
+      "autocratic decision-making",
+      "highly autocratic",
+      "become more autocratic",
+      "an autocratic regime"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The founder was known for his autocratic leadership style. — その創業者は独裁型のリーダーシップで知られていた。",
+      "Autocratic decision-making can be fast, but it may reduce employee involvement. — 独裁型の意思決定は迅速な場合があるが、従業員の関与を低下させることもある。",
+      "The new CEO adopted a less autocratic approach to management. — 新しいCEOは、より独裁色の弱いマネジメント手法を採用した。",
+      "In an autocratic system, major decisions are made by a small number of senior leaders. — 独裁型の制度では、重要な決定は少数の上級指導者によって行われる。",
+      "His management style was directive but not entirely autocratic. — 彼のマネジメントスタイルは指示型だったが、完全に独裁的というわけではなかった。"
+    ],
+    "en": [
+      "The founder was known for his autocratic leadership style.",
+      "Autocratic decision-making can be fast, but it may reduce employee involvement.",
+      "The new CEO adopted a less autocratic approach to management.",
+      "In an autocratic system, major decisions are made by a small number of senior leaders.",
+      "His management style was directive but not entirely autocratic."
+    ]
+  }
+},
+{
+  "id": "dictatorial",
+  "sid": "2026-00423",
+  "word": "dictatorial",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "business",
+    "leadership",
+    "management",
+    "politics"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌdɪktəˈtɔːriəl/",
+      "uk": "/ˌdɪktəˈtɔːriəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "独裁的な、専制的な",
+      "命令的で他人の意見を認めない",
+      "他人を強く支配しようとする"
+    ],
+    "en": [
+      "exercising power in an autocratic or oppressive way",
+      "giving orders and expecting unquestioning obedience",
+      "domineering and unwilling to allow others much say"
+    ]
+  },
+  "nuance": {
+    "ja": "dictatorial は、政治では独裁者のように権力を行使することを表し、日常・職場では『命令ばかりして人の意見を聞かない』『高圧的に仕切る』という意味にも使われる。autocratic と近いが、dictatorial のほうが通常は強い非難を含み、態度の横暴さ・命令口調・他者への抑圧まで連想させやすい。",
+    "en": "Dictatorial describes the exercise of power in a highly controlling, commanding, or oppressive manner. In everyday and workplace contexts, it can describe someone who gives orders, refuses input, and expects unquestioning obedience. It is generally more strongly negative than autocratic and often emphasizes domineering behavior."
+  },
+  "minimal": {
+    "ja": [
+      "dictatorial：有無を言わせず命令し、強く支配する。",
+      "autocratic：意思決定権を一人または少数に集中させる。",
+      "authoritarian：強い権威・統制・服従を重視する。",
+      "directive：具体的な指示を明確に与える。必ずしも否定的ではない。",
+      "domineering：人間関係で相手を支配しようとする。",
+      "tyrannical：暴虐・抑圧的な支配を行う。さらに強い語。"
+    ],
+    "en": [
+      "dictatorial emphasizes commanding, domineering control and unquestioned obedience.",
+      "autocratic emphasizes concentrated decision-making authority.",
+      "authoritarian emphasizes strong control and obedience to authority.",
+      "directive emphasizes giving clear instructions and is not inherently negative.",
+      "domineering emphasizes trying to control other people in personal or workplace relationships.",
+      "tyrannical is even stronger and suggests cruel or oppressive rule."
+    ]
+  },
+  "etymology": {
+    "ja": "dictator + -ial から成る。dictator はラテン語 dictator に由来し、dicere『言う、宣言する』と関係する。古代ローマでは非常時に特別な権限を与えられた官職名だったが、後に『絶対的権力を行使する支配者』という意味が発達した。dictate, diction, dictionary も同じ dic-/dict-『言う』系統。",
+    "en": "Derived from dictator plus -ial. Dictator comes from Latin dictator, related to dicere, 'to say or declare'. In ancient Rome, a dictator was an extraordinary magistrate appointed with special powers; the word later developed the modern sense of a ruler exercising highly concentrated power. Dictate, diction, and dictionary belong to the same dic-/dict- family."
+  },
+  "synonyms": [
+    {
+      "word": "autocratic",
+      "note": {
+        "ja": "権限集中に重点。dictatorial よりやや中立的に分析語として使える。",
+        "en": "Focuses on concentrated authority and can be somewhat more neutral as an analytical term."
+      }
+    },
+    {
+      "word": "authoritarian",
+      "note": {
+        "ja": "権威への服従と強い統制を重視する。",
+        "en": "Emphasizes strict obedience and strong centralized control."
+      }
+    },
+    {
+      "word": "domineering",
+      "note": {
+        "ja": "相手を押さえつけて支配しようとする性格・態度に重点。",
+        "en": "Emphasizes an overbearing tendency to dominate other people."
+      }
+    },
+    {
+      "word": "tyrannical",
+      "note": {
+        "ja": "残酷・抑圧的な支配を示唆する、さらに強い語。",
+        "en": "A stronger word suggesting cruel, unjust, or oppressive exercise of power."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "diktatorisch",
+    "it": "dittatoriale",
+    "fr": "dictatorial",
+    "es": "dictatorial"
+  },
+  "collocations": {
+    "ja": [
+      "a dictatorial leader — 独裁的な指導者",
+      "a dictatorial leadership style — 独裁的なリーダーシップスタイル",
+      "a dictatorial manner — 高圧的・命令的な態度",
+      "a dictatorial tone — 命令口調",
+      "dictatorial behavior — 支配的・独裁的な振る舞い",
+      "dictatorial management — 独裁的な経営・管理",
+      "become increasingly dictatorial — ますます独裁的になる",
+      "sound dictatorial — 命令的に聞こえる"
+    ],
+    "en": [
+      "a dictatorial leader",
+      "a dictatorial leadership style",
+      "a dictatorial manner",
+      "a dictatorial tone",
+      "dictatorial behavior",
+      "dictatorial management",
+      "become increasingly dictatorial",
+      "sound dictatorial"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Employees complained about the manager's dictatorial style. — 従業員たちは、その管理職の独裁的なやり方に不満を訴えた。",
+      "He has a dictatorial manner and rarely listens to other people's opinions. — 彼は高圧的な態度を取り、他人の意見をほとんど聞かない。",
+      "Her instructions sounded unnecessarily dictatorial. — 彼女の指示は不必要なほど命令的に聞こえた。",
+      "The CEO became increasingly dictatorial as the company expanded. — 会社が拡大するにつれて、そのCEOはますます独裁的になった。",
+      "A directive leadership style does not have to become dictatorial. — 指示型のリーダーシップが独裁的になる必要はない。"
+    ],
+    "en": [
+      "Employees complained about the manager's dictatorial style.",
+      "He has a dictatorial manner and rarely listens to other people's opinions.",
+      "Her instructions sounded unnecessarily dictatorial.",
+      "The CEO became increasingly dictatorial as the company expanded.",
+      "A directive leadership style does not have to become dictatorial."
+    ]
+  }
+},
+{
+  "id": "team_based",
+  "sid": "2026-00424",
+  "word": "team-based",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "business",
+    "management",
+    "organization",
+    "teamwork"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈtiːm beɪst/",
+      "uk": "/ˈtiːm beɪst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "チームを単位とする",
+      "個人ではなくチームで仕事・評価・意思決定などを行う",
+      "チーム中心の"
+    ],
+    "en": [
+      "organized around teams rather than individuals",
+      "carried out, managed, or evaluated primarily at the team level",
+      "based on teamwork and group responsibility"
+    ]
+  },
+  "nuance": {
+    "ja": "team-based は、仕事・組織・報酬・学習などを個人ではなくチームを中心に設計することを表す。collaborative が『互いに協力して働く』という行動様式を表すのに対し、team-based は『チームが制度上・組織上の基本単位になっている』ことに重点がある。そのため、team-based organization, team-based structure, team-based compensation などの形で使われる。",
+    "en": "Team-based describes an arrangement in which teams, rather than individual employees, serve as the primary unit for organizing work, responsibility, evaluation, or rewards. Unlike collaborative, which emphasizes the manner of working together, team-based emphasizes the structural role of the team itself."
+  },
+  "minimal": {
+    "ja": [
+      "team-based：チームを業務・組織・評価の基本単位とする。",
+      "collaborative：複数の人が積極的に協力して働く。",
+      "individual-based：個人を単位として評価・業務設計する。",
+      "cross-functional：複数の職能・部署からメンバーを集める。",
+      "project-based：プロジェクトを単位として業務を組織する。",
+      "team-oriented：チームワークを重視する姿勢の。"
+    ],
+    "en": [
+      "team-based means organized primarily around teams.",
+      "collaborative emphasizes active cooperation among people or groups.",
+      "individual-based means organized or assessed at the individual level.",
+      "cross-functional involves members from different functions or departments.",
+      "project-based means organized around particular projects.",
+      "team-oriented describes an attitude or culture that values teamwork."
+    ]
+  },
+  "etymology": {
+    "ja": "team + based から成る複合形容詞。team は共通の目的のために協力する集団を表し、based は『～を基礎とする』の意味。したがって team-based は文字どおり『チームを基礎単位とした』という構造。",
+    "en": "A compound adjective formed from team plus based. Team refers to a group working toward a common purpose, while based means 'organized or founded on'. Team-based therefore literally means 'organized on the basis of teams'."
+  },
+  "synonyms": [
+    {
+      "word": "team-oriented",
+      "note": {
+        "ja": "制度というより、チームワークを重視する姿勢・文化に重点。",
+        "en": "Emphasizes an attitude or culture that values teamwork rather than organizational structure."
+      }
+    },
+    {
+      "word": "collaborative",
+      "note": {
+        "ja": "チームという組織単位より、共同作業そのものに重点。",
+        "en": "Emphasizes cooperation and joint work rather than teams as formal organizational units."
+      }
+    },
+    {
+      "word": "group-based",
+      "note": {
+        "ja": "集団を単位とするという、より一般的な表現。",
+        "en": "A broader expression for arrangements organized around groups."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "teambasiert",
+    "it": "basato sul lavoro di squadra",
+    "fr": "fondé sur le travail en équipe",
+    "es": "basado en equipos"
+  },
+  "collocations": {
+    "ja": [
+      "a team-based approach — チーム型のアプローチ",
+      "a team-based organization — チームを基礎とする組織",
+      "a team-based structure — チーム型組織構造",
+      "team-based work — チーム単位の業務",
+      "team-based management — チーム型マネジメント",
+      "team-based decision-making — チーム単位の意思決定",
+      "team-based compensation — チーム単位の報酬制度",
+      "team-based incentives — チーム単位のインセンティブ",
+      "team-based performance — チームとしての業績",
+      "team-based learning — チーム型学習"
+    ],
+    "en": [
+      "a team-based approach",
+      "a team-based organization",
+      "a team-based structure",
+      "team-based work",
+      "team-based management",
+      "team-based decision-making",
+      "team-based compensation",
+      "team-based incentives",
+      "team-based performance",
+      "team-based learning"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company adopted a more team-based organizational structure. — その会社は、よりチーム中心の組織構造を採用した。",
+      "Performance is evaluated on both an individual and a team-based basis. — 業績は個人単位とチーム単位の両方で評価される。",
+      "The new system uses team-based incentives to encourage cooperation. — 新しい制度では協力を促すため、チーム単位のインセンティブを採用している。",
+      "A team-based approach can improve communication across different roles. — チーム型のアプローチは異なる役割間のコミュニケーションを改善することがある。",
+      "The organization shifted from individual-based work to a more team-based model. — その組織は個人中心の働き方から、よりチーム中心のモデルへ移行した。"
+    ],
+    "en": [
+      "The company adopted a more team-based organizational structure.",
+      "Performance is evaluated on both an individual and a team-based basis.",
+      "The new system uses team-based incentives to encourage cooperation.",
+      "A team-based approach can improve communication across different roles.",
+      "The organization shifted from individual-based work to a more team-based model."
+    ]
+  }
+},
+{
+  "id": "team_oriented",
+  "sid": "2026-00425",
+  "word": "team-oriented",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "business",
+    "teamwork",
+    "workplace",
+    "personality"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈtiːm ˌɔːriˈentɪd/",
+      "uk": "/ˈtiːm ˌɔːriˈentɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "チームワークを重視する",
+      "チームで協力して働くことを志向する",
+      "個人よりもチーム全体の成果を重視する"
+    ],
+    "en": [
+      "focused on teamwork and cooperation",
+      "inclined to work effectively as part of a team",
+      "placing importance on team goals and collective success"
+    ]
+  },
+  "nuance": {
+    "ja": "team-oriented は、人・職場文化・マネジメントスタイルなどがチームワークを重視することを表す。team-oriented employee なら『チームで働くことを大切にする従業員』、team-oriented culture なら『協力やチーム成果を重視する文化』となる。team-based が制度や組織構造について『チームを基本単位とする』ことを表すのに対し、team-oriented は姿勢・価値観・傾向に重点がある。",
+    "en": "Team-oriented describes a person, culture, or management style that values teamwork, cooperation, and collective goals. A team-oriented employee is inclined to work effectively with others, while a team-oriented culture encourages cooperation. Unlike team-based, which describes a structural arrangement organized around teams, team-oriented focuses on attitude and orientation."
+  },
+  "minimal": {
+    "ja": [
+      "team-oriented：チームワークを重視する姿勢・文化の。",
+      "team-based：チームを業務・組織・評価の基本単位とする。",
+      "collaborative：実際に共同で作業することに重点。",
+      "cooperative：他者と協力する姿勢の。",
+      "individualistic：個人の独立性・個人目標を強く重視する。",
+      "people-oriented：人間関係や人への配慮を重視する。"
+    ],
+    "en": [
+      "team-oriented emphasizes an attitude or culture that values teamwork.",
+      "team-based means structurally organized around teams.",
+      "collaborative emphasizes active joint work.",
+      "cooperative emphasizes willingness to work with others.",
+      "individualistic emphasizes personal independence and individual goals.",
+      "people-oriented emphasizes attention to people and relationships."
+    ]
+  },
+  "etymology": {
+    "ja": "team + oriented から成る複合形容詞。oriented は orient『方向づける』から派生し、『～の方向を向いた、～を重視した』という意味を持つ。したがって team-oriented は文字どおり『チームの方向を向いた』、つまりチームワークを重視することを表す。",
+    "en": "A compound adjective formed from team plus oriented. Oriented comes from orient, meaning 'to direct or position toward something'. Team-oriented therefore literally suggests being directed toward or focused on teamwork."
+  },
+  "synonyms": [
+    {
+      "word": "collaborative",
+      "note": {
+        "ja": "姿勢だけでなく、共同作業そのものに重点。",
+        "en": "Emphasizes actual joint work rather than merely valuing teamwork."
+      }
+    },
+    {
+      "word": "cooperative",
+      "note": {
+        "ja": "他者と協力する意思があることを表す、より一般的な語。",
+        "en": "A broader word emphasizing willingness to cooperate with others."
+      }
+    },
+    {
+      "word": "team-minded",
+      "note": {
+        "ja": "チーム全体を意識して行動するという意味の近い表現。",
+        "en": "A close expression describing someone who thinks in terms of the team's interests."
+      }
+    },
+    {
+      "word": "group-oriented",
+      "note": {
+        "ja": "個人より集団を重視するという、より広い表現。",
+        "en": "A broader term for emphasizing group rather than individual interests."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "teamorientiert",
+    "it": "orientato al lavoro di squadra",
+    "fr": "orienté vers le travail en équipe",
+    "es": "orientado al trabajo en equipo"
+  },
+  "collocations": {
+    "ja": [
+      "a team-oriented culture — チームワーク重視の文化",
+      "a team-oriented employee — チーム志向の従業員",
+      "a team-oriented workplace — チームワークを重視する職場",
+      "a team-oriented approach — チーム重視のアプローチ",
+      "a team-oriented environment — チームワークを重視する環境",
+      "a highly team-oriented organization — 非常にチーム志向の組織",
+      "be team-oriented — チーム志向である",
+      "become more team-oriented — よりチーム志向になる",
+      "team-oriented leadership — チーム重視型リーダーシップ"
+    ],
+    "en": [
+      "a team-oriented culture",
+      "a team-oriented employee",
+      "a team-oriented workplace",
+      "a team-oriented approach",
+      "a team-oriented environment",
+      "a highly team-oriented organization",
+      "be team-oriented",
+      "become more team-oriented",
+      "team-oriented leadership"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We are looking for someone who is flexible and team-oriented. — 私たちは柔軟でチームワークを重視できる人を探している。",
+      "The company has a strongly team-oriented culture. — その会社にはチームワークを非常に重視する文化がある。",
+      "She is highly team-oriented and willingly shares information with her colleagues. — 彼女は非常にチーム志向で、同僚と進んで情報を共有する。",
+      "The new manager is trying to create a more team-oriented workplace. — 新しい管理職は、よりチームワークを重視する職場を作ろうとしている。",
+      "A team-oriented attitude can be valuable in cross-functional projects. — チーム志向の姿勢は部門横断型プロジェクトで役立つことがある。"
+    ],
+    "en": [
+      "We are looking for someone who is flexible and team-oriented.",
+      "The company has a strongly team-oriented culture.",
+      "She is highly team-oriented and willingly shares information with her colleagues.",
+      "The new manager is trying to create a more team-oriented workplace.",
+      "A team-oriented attitude can be valuable in cross-functional projects."
+    ]
+  }
+},
+{
+  "id": "group_oriented",
+  "sid": "2026-00426",
+  "word": "group-oriented",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "business",
+    "organization",
+    "culture",
+    "teamwork"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɡruːp ˌɔːriˈentɪd/",
+      "uk": "/ˈɡruːp ˌɔːriˈentɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "集団志向の",
+      "個人よりもグループ全体を重視する",
+      "集団内の協調・共同目標を重視する"
+    ],
+    "en": [
+      "focused on the interests, goals, or needs of a group",
+      "placing greater emphasis on collective rather than individual concerns",
+      "inclined toward cooperation and identification with a group"
+    ]
+  },
+  "nuance": {
+    "ja": "group-oriented は、個人の独立性や個人成果よりも、集団の利益・調和・共同目標を重視する姿勢や文化を表す。team-oriented と重なるが、team-oriented は特に職場やチームで協力して働く姿勢を表すのに対し、group-oriented はより広く、組織文化・社会文化・意思決定傾向などにも使える。individual-oriented や individualistic と対比されることがある。",
+    "en": "Group-oriented describes an attitude or culture that gives relatively strong emphasis to collective interests, group harmony, or shared goals. It overlaps with team-oriented, but team-oriented is especially common for workplace teamwork, whereas group-oriented can be used more broadly for organizational or social patterns."
+  },
+  "minimal": {
+    "ja": [
+      "group-oriented：個人より集団全体の利益・調和を重視する。",
+      "team-oriented：仕事上のチームワークを重視する。",
+      "collectivist：個人より集団を重視する価値観・思想に関する。",
+      "individualistic：個人の自立・自由・利益を重視する。",
+      "collaborative：複数の人が実際に共同で作業する。",
+      "community-oriented：地域社会・共同体の利益を重視する。"
+    ],
+    "en": [
+      "group-oriented emphasizes the interests and goals of a group.",
+      "team-oriented emphasizes teamwork in a team setting.",
+      "collectivist refers to values or systems that prioritize the group over the individual.",
+      "individualistic emphasizes personal independence and individual interests.",
+      "collaborative emphasizes active joint work.",
+      "community-oriented emphasizes the needs and interests of a community."
+    ]
+  },
+  "etymology": {
+    "ja": "group + oriented から成る複合形容詞。oriented は orient『方向づける』から派生し、『～を志向した、～を重視した』という意味。したがって group-oriented は文字どおり『集団の方向を向いた』という構造。",
+    "en": "A compound adjective formed from group plus oriented. Oriented comes from orient, meaning 'to direct toward something'. Group-oriented therefore literally means directed toward or focused on the group."
+  },
+  "synonyms": [
+    {
+      "word": "collectivist",
+      "note": {
+        "ja": "集団を個人より重視する思想・価値観に重点。group-oriented より理論的・社会学的。",
+        "en": "A more theoretical or sociological term emphasizing values that prioritize the group over the individual."
+      }
+    },
+    {
+      "word": "team-oriented",
+      "note": {
+        "ja": "特に職場・チームでの協力姿勢を表す。",
+        "en": "Especially common for attitudes that value teamwork in the workplace."
+      }
+    },
+    {
+      "word": "community-minded",
+      "note": {
+        "ja": "地域社会や共同体への関心・貢献を重視する。",
+        "en": "Emphasizes concern for and contribution to the wider community."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gruppenorientiert",
+    "it": "orientato al gruppo",
+    "fr": "orienté vers le groupe",
+    "es": "orientado al grupo"
+  },
+  "collocations": {
+    "ja": [
+      "a group-oriented culture — 集団志向の文化",
+      "a group-oriented approach — 集団重視のアプローチ",
+      "group-oriented behavior — 集団志向的な行動",
+      "group-oriented decision-making — 集団重視の意思決定",
+      "a group-oriented society — 集団志向の社会",
+      "a highly group-oriented organization — 非常に集団志向の組織",
+      "become more group-oriented — より集団志向になる",
+      "group-oriented values — 集団志向の価値観"
+    ],
+    "en": [
+      "a group-oriented culture",
+      "a group-oriented approach",
+      "group-oriented behavior",
+      "group-oriented decision-making",
+      "a group-oriented society",
+      "a highly group-oriented organization",
+      "become more group-oriented",
+      "group-oriented values"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The organization has a strongly group-oriented culture. — その組織には非常に集団志向の文化がある。",
+      "Group-oriented decision-making can place a high value on consensus. — 集団志向の意思決定では、合意形成が重視されることがある。",
+      "The company encourages a group-oriented approach to problem-solving. — その会社は問題解決において集団重視のアプローチを奨励している。",
+      "Her management style is more group-oriented than individualistic. — 彼女のマネジメントスタイルは個人主義的というより集団志向である。",
+      "A group-oriented culture may emphasize harmony and shared responsibility. — 集団志向の文化では、調和や共同責任が重視されることがある。"
+    ],
+    "en": [
+      "The organization has a strongly group-oriented culture.",
+      "Group-oriented decision-making can place a high value on consensus.",
+      "The company encourages a group-oriented approach to problem-solving.",
+      "Her management style is more group-oriented than individualistic.",
+      "A group-oriented culture may emphasize harmony and shared responsibility."
+    ]
+  }
 }
 ]
