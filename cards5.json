@@ -2484,5 +2484,437 @@
       "He squeezed through the narrow opening."
     ]
   }
+},
+{
+  "id": "gambit",
+  "sid": "2026-00518",
+  "word": "gambit",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "strategy",
+    "chess",
+    "politics",
+    "communication"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "gambits"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɡæmbɪt/",
+      "uk": "/ˈɡæmbɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "チェスのギャンビット、序盤で駒を犠牲にして優位を狙う戦法",
+      "目的達成のための戦略的な一手、仕掛け",
+      "交渉・政治などで相手の反応を引き出すための策",
+      "会話を始めるための話題・発言"
+    ],
+    "en": [
+      "a chess opening in which a player sacrifices material, usually a pawn, to gain an advantage",
+      "a calculated move or strategy intended to achieve an advantage",
+      "a tactic used in negotiation, politics, or competition to influence the other side",
+      "a remark or topic used to open a conversation"
+    ]
+  },
+  "nuance": {
+    "ja": "gambit は単なる strategy よりも、『最初に打つ具体的な一手』というニュアンスが強い。しばしば一定のリスクを伴い、その一手によって相手の反応や後続の展開を有利にしようとする。政治・外交・交渉では political gambit, opening gambit などがよく使われる。会話について opening gambit といえば、相手との会話を始めるための最初の話題や発言を指す。",
+    "en": "A gambit is typically a specific opening move or calculated tactic rather than a broad strategy. It often involves some risk or sacrifice intended to produce a later advantage or provoke a useful response. The word is common in political, diplomatic, and negotiating contexts, as well as in the expression opening gambit for a conversation starter."
+  },
+  "minimal": {
+    "ja": [
+      "gambit：有利な展開を狙って打つ戦略的な一手。",
+      "strategy：目的達成のための全体的・長期的な戦略。",
+      "tactic：戦略を実行するための具体的な手段。",
+      "maneuver：状況を有利にするための巧妙な動き・策。",
+      "ploy：目的達成のための策。しばしば策略・ごまかしの含みがある。",
+      "opening gambit：交渉や会話などの最初の一手。"
+    ],
+    "en": [
+      "gambit is a calculated move intended to create a later advantage.",
+      "strategy is the broader overall plan for achieving a goal.",
+      "tactic is a specific method used as part of a strategy.",
+      "maneuver suggests a skillful move designed to improve one's position.",
+      "ploy often suggests a clever or somewhat deceptive device.",
+      "opening gambit is the first move in a negotiation, interaction, or conversation."
+    ]
+  },
+  "etymology": {
+    "ja": "イタリア語 gambetto に由来し、これは gamba『脚』から派生した語で、もともと『足を引っかけて転ばせること』を意味した。チェスで相手を巧みに誘い込む戦法を指すようになり、フランス語 gambit を経て英語に入った。その後、『相手の反応を計算して打つ戦略的な一手』一般へ意味が拡大した。",
+    "en": "From Italian gambetto, derived from gamba, meaning 'leg'. Gambetto originally referred to tripping someone by the leg. The term was adopted for a chess opening involving a calculated sacrifice, entered English through French gambit, and later broadened to mean any strategic opening move or calculated tactic."
+  },
+  "synonyms": [
+    {
+      "word": "tactic",
+      "note": {
+        "ja": "具体的な戦術を広く表す。gambit のような『最初の仕掛け』や犠牲のニュアンスは必須ではない。",
+        "en": "A broad term for a specific method used to achieve an objective, without necessarily implying an opening move or sacrifice."
+      }
+    },
+    {
+      "word": "maneuver",
+      "note": {
+        "ja": "自分の立場を有利にするための巧妙な動きや策。",
+        "en": "A skillful move intended to place someone in a more advantageous position."
+      }
+    },
+    {
+      "word": "ploy",
+      "note": {
+        "ja": "相手を動かすための策で、しばしば計略的・操作的な含みがある。",
+        "en": "A device or tactic used to gain an advantage, often with a slightly manipulative implication."
+      }
+    },
+    {
+      "word": "move",
+      "note": {
+        "ja": "戦略上の『一手』を広く表す一般語。",
+        "en": "A broad general term for an action taken as part of a strategy."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Gambit / Schachzug",
+    "it": "gambetto / mossa",
+    "fr": "gambit / manœuvre",
+    "es": "gambito / maniobra"
+  },
+  "collocations": {
+    "ja": [
+      "an opening gambit — 最初の一手",
+      "a political gambit — 政治的な一手・策略",
+      "a diplomatic gambit — 外交上の一手",
+      "a strategic gambit — 戦略的な仕掛け",
+      "a risky gambit — リスクのある一手",
+      "a bold gambit — 大胆な一手",
+      "a negotiating gambit — 交渉上の仕掛け",
+      "a clever gambit — 巧妙な策",
+      "the gambit paid off — その策が功を奏した",
+      "the gambit failed — その策は失敗した",
+      "use something as a gambit — ～を策として利用する"
+    ],
+    "en": [
+      "an opening gambit",
+      "a political gambit",
+      "a diplomatic gambit",
+      "a strategic gambit",
+      "a risky gambit",
+      "a bold gambit",
+      "a negotiating gambit",
+      "a clever gambit",
+      "the gambit paid off",
+      "the gambit failed",
+      "use something as a gambit"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The offer was merely an opening gambit in a much longer negotiation. — その提案は、はるかに長い交渉における単なる最初の一手にすぎなかった。",
+      "The president's announcement was widely seen as a political gambit. — 大統領の発表は広く政治的な一手とみなされた。",
+      "It was a risky gambit, but it ultimately paid off. — それは危険な賭けともいえる一手だったが、最終的には功を奏した。",
+      "His opening gambit was to ask her about the book she was reading. — 彼は会話のきっかけとして、彼女が読んでいる本について尋ねた。",
+      "Sacrificing the pawn was part of a classic chess gambit. — そのポーンを犠牲にするのは古典的なチェスのギャンビットの一部だった。"
+    ],
+    "en": [
+      "The offer was merely an opening gambit in a much longer negotiation.",
+      "The president's announcement was widely seen as a political gambit.",
+      "It was a risky gambit, but it ultimately paid off.",
+      "His opening gambit was to ask her about the book she was reading.",
+      "Sacrificing the pawn was part of a classic chess gambit."
+    ]
+  }
+},
+{
+  "id": "poise",
+  "sid": "2026-00519",
+  "word": "poise",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "composure",
+    "balance",
+    "behavior",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "uncountable",
+    "transitivity": "transitive / intransitive",
+    "forms": {
+      "base": "poise",
+      "third_person": "poises",
+      "past": "poised",
+      "past_participle": "poised",
+      "gerund": "poising"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pɔɪz/",
+      "uk": "/pɔɪz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "落ち着き、平静、冷静さ",
+      "自信と品のある身のこなし",
+      "均衡、つり合い",
+      "～を均衡した状態に置く、構える",
+      "～する態勢を取る、まさに～しようとする"
+    ],
+    "en": [
+      "calm self-confidence and composure",
+      "a graceful and controlled way of carrying oneself",
+      "balance or equilibrium",
+      "to hold or position something in a balanced state",
+      "to be ready or prepared to do something"
+    ]
+  },
+  "nuance": {
+    "ja": "名詞 poise は、単なる calmness よりも『落ち着き＋自信＋身のこなしの安定感』を含むことが多い。人前でも動揺せず、姿勢や態度まで整っている人物について使われる。形容詞 poised は非常に重要で、be poised to do は『まさに～する態勢にある』、be poised for something は『～に向けて準備が整っている』を表す。",
+    "en": "As a noun, poise often combines calmness, confidence, and graceful self-control. It can describe someone who remains composed and carries themselves well. The adjective poised is especially common in expressions such as be poised to do something and be poised for something, meaning to be ready for an imminent development."
+  },
+  "minimal": {
+    "ja": [
+      "poise：落ち着き・自信・身のこなしの安定感。",
+      "composure：感情を乱さず保つ冷静さ。",
+      "self-possession：自制心を失わない落ち着き。",
+      "grace：動作・身のこなしの優雅さ。",
+      "balance：物理的・比喩的な均衡。",
+      "poised：落ち着いた、または～する態勢にある。"
+    ],
+    "en": [
+      "poise combines composure, confidence, and controlled bearing.",
+      "composure emphasizes emotional calm under pressure.",
+      "self-possession emphasizes maintaining control of oneself.",
+      "grace emphasizes elegance of movement or manner.",
+      "balance is the general term for physical or figurative equilibrium.",
+      "poised can mean composed or ready to act."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 pois『重さ』に由来し、さらにラテン語 pensum『量られたもの、重さ』や pendere『量る、ぶら下がる』と関係する。もともとは『重さを量る、つり合わせる』という意味で、そこから『均衡した状態』、さらに精神的な『落ち着き・安定』へ意味が発達した。",
+    "en": "From Old French pois, meaning 'weight', ultimately related to Latin pensum, 'something weighed', and pendere, 'to weigh or hang'. The idea of weighing and balancing developed into the sense of equilibrium and later into mental and social composure."
+  },
+  "synonyms": [
+    {
+      "word": "composure",
+      "note": {
+        "ja": "緊張・危機の中でも感情を乱さない冷静さに重点。",
+        "en": "Emphasizes emotional calm and control, especially under pressure."
+      }
+    },
+    {
+      "word": "self-possession",
+      "note": {
+        "ja": "自制を保ち、取り乱さないことに重点。",
+        "en": "Emphasizes remaining in control of oneself."
+      }
+    },
+    {
+      "word": "grace",
+      "note": {
+        "ja": "動作・姿勢・振る舞いの優雅さに重点。",
+        "en": "Emphasizes elegance and smoothness of movement or manner."
+      }
+    },
+    {
+      "word": "equilibrium",
+      "note": {
+        "ja": "物理的・心理的・制度的な均衡を表す、より抽象的・形式的な語。",
+        "en": "A more formal term for physical, psychological, or systemic balance."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Gelassenheit / Haltung",
+    "it": "compostezza / equilibrio",
+    "fr": "sang-froid / maintien",
+    "es": "aplomo / compostura"
+  },
+  "collocations": {
+    "ja": [
+      "maintain one's poise — 落ち着きを保つ",
+      "lose one's poise — 平静を失う",
+      "show remarkable poise — 見事な落ち着きを見せる",
+      "grace and poise — 優雅さと落ち着き",
+      "poise under pressure — プレッシャー下での冷静さ",
+      "be poised to do something — まさに～する態勢にある",
+      "be poised for growth — 成長する態勢が整っている",
+      "be poised for success — 成功に向けて準備が整っている",
+      "poise oneself — 身構える、姿勢を整える",
+      "poised on the edge — 端でバランスを取っている"
+    ],
+    "en": [
+      "maintain one's poise",
+      "lose one's poise",
+      "show remarkable poise",
+      "grace and poise",
+      "poise under pressure",
+      "be poised to do something",
+      "be poised for growth",
+      "be poised for success",
+      "poise oneself",
+      "poised on the edge"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She answered the difficult questions with remarkable poise. — 彼女は難しい質問にも見事な落ち着きで答えた。",
+      "Despite the pressure, he never lost his poise. — プレッシャーにもかかわらず、彼は一度も平静を失わなかった。",
+      "The company is poised to expand into several new markets. — その会社はいくつかの新市場へ進出する態勢を整えている。",
+      "The economy appears poised for further growth. — その経済はさらなる成長に向けた態勢にあるようだ。",
+      "The bird was poised on the edge of the branch. — その鳥は枝の端でバランスを取っていた。"
+    ],
+    "en": [
+      "She answered the difficult questions with remarkable poise.",
+      "Despite the pressure, he never lost his poise.",
+      "The company is poised to expand into several new markets.",
+      "The economy appears poised for further growth.",
+      "The bird was poised on the edge of the branch."
+    ]
+  }
+},
+{
+  "id": "composure",
+  "sid": "2026-00520",
+  "word": "composure",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "emotion",
+    "self-control",
+    "behavior",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kəmˈpoʊʒər/",
+      "uk": "/kəmˈpəʊʒə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "平静、落ち着き",
+      "感情を乱さず自制している状態",
+      "緊張や危機の中でも取り乱さないこと"
+    ],
+    "en": [
+      "a calm and controlled state of mind",
+      "the ability to control one's emotions and behavior",
+      "calmness maintained in a stressful or difficult situation"
+    ]
+  },
+  "nuance": {
+    "ja": "composure は、とくに緊張・驚き・怒り・プレッシャーなど、本来なら取り乱しかねない状況で感情をコントロールしている状態を表す。maintain one's composure, lose one's composure, regain one's composure が非常に典型的。poise が落ち着きに加えて自信や堂々とした身のこなしまで含みやすいのに対し、composure はより純粋に『取り乱さないこと』に焦点がある。",
+    "en": "Composure refers especially to remaining calm and emotionally controlled in situations that could cause anxiety, anger, shock, or embarrassment. It commonly occurs in expressions such as maintain, lose, and regain one's composure. Unlike poise, it does not necessarily imply confidence or graceful bearing."
+  },
+  "minimal": {
+    "ja": [
+      "composure：プレッシャー下でも感情を乱さない平静さ。",
+      "poise：落ち着きに加えて自信・身のこなしの安定感を含む。",
+      "calmness：穏やかで落ち着いている状態を広く表す。",
+      "self-control：感情・衝動・行動を抑える能力。",
+      "self-possession：予期せぬ状況でも自分を見失わない落ち着き。",
+      "equanimity：困難や変化にも動じない、よりフォーマルな平静さ。"
+    ],
+    "en": [
+      "composure is emotional calm and control, especially under pressure.",
+      "poise combines composure with confidence and graceful bearing.",
+      "calmness is the broad state of being calm.",
+      "self-control is the ability to restrain emotions, impulses, or behavior.",
+      "self-possession emphasizes remaining in command of oneself.",
+      "equanimity is a more formal term for steady calm despite difficulty or change."
+    ]
+  },
+  "etymology": {
+    "ja": "compose『落ち着かせる、整える』から派生した名詞。compose はラテン語 componere『一緒に置く、組み立てる』に由来し、com-『共に』＋ ponere『置く』から成る。『自分を整った状態に置く』という発想から、composure は『心の落ち着き・平静』を意味するようになった。",
+    "en": "Derived from compose, ultimately from Latin componere, meaning 'to put together', from com- ('together') and ponere ('to place'). The idea of putting oneself into an orderly or settled state developed into the meaning of emotional calm and self-control."
+  },
+  "synonyms": [
+    {
+      "word": "poise",
+      "note": {
+        "ja": "落ち着きに加えて、自信・姿勢・身のこなしの良さを含みやすい。",
+        "en": "Often includes confidence and graceful self-presentation in addition to calmness."
+      }
+    },
+    {
+      "word": "self-possession",
+      "note": {
+        "ja": "突然の出来事や圧力の中でも自分を見失わないことに重点。",
+        "en": "Emphasizes remaining fully in control of oneself in a difficult situation."
+      }
+    },
+    {
+      "word": "equanimity",
+      "note": {
+        "ja": "困難や変化にも心を乱されない平静さを表す、よりフォーマルな語。",
+        "en": "A more formal term for mental calmness and stability despite difficulties."
+      }
+    },
+    {
+      "word": "calmness",
+      "note": {
+        "ja": "落ち着いた状態全般を表す最も一般的な語。",
+        "en": "The broad general term for the state of being calm."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Fassung / Gelassenheit",
+    "it": "compostezza",
+    "fr": "sang-froid",
+    "es": "compostura"
+  },
+  "collocations": {
+    "ja": [
+      "maintain one's composure — 平静を保つ",
+      "keep one's composure — 落ち着きを保つ",
+      "lose one's composure — 平静を失う",
+      "regain one's composure — 平静を取り戻す",
+      "recover one's composure — 落ち着きを取り戻す",
+      "with remarkable composure — 驚くほどの落ち着きで",
+      "remain composed and maintain composure — 冷静さを保つ",
+      "struggle to maintain one's composure — 平静を保とうと苦労する",
+      "momentarily lose composure — 一瞬取り乱す"
+    ],
+    "en": [
+      "maintain one's composure",
+      "keep one's composure",
+      "lose one's composure",
+      "regain one's composure",
+      "recover one's composure",
+      "with remarkable composure",
+      "remain composed and maintain composure",
+      "struggle to maintain one's composure",
+      "momentarily lose composure"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She maintained her composure throughout the difficult interview. — 彼女は厳しい面接の間ずっと平静を保った。",
+      "He briefly lost his composure when the verdict was announced. — 評決が言い渡されたとき、彼は一瞬平静を失った。",
+      "She took a moment to regain her composure before continuing. — 彼女は話を続ける前に少し時間を取り、落ち着きを取り戻した。",
+      "Despite the hostile questions, the spokesperson answered with remarkable composure. — 敵意のある質問にもかかわらず、広報担当者は見事な冷静さで答えた。",
+      "I was impressed by his ability to keep his composure under pressure. — プレッシャーの中でも平静を保つ彼の能力に感心した。"
+    ],
+    "en": [
+      "She maintained her composure throughout the difficult interview.",
+      "He briefly lost his composure when the verdict was announced.",
+      "She took a moment to regain her composure before continuing.",
+      "Despite the hostile questions, the spokesperson answered with remarkable composure.",
+      "I was impressed by his ability to keep his composure under pressure."
+    ]
+  }
 }
 ]
