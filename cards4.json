@@ -13663,5 +13663,145 @@
       "The apparent simplicity of the process hides several potential pitfalls."
     ]
   }
+},
+{
+  "id": "drawback",
+  "sid": "2026-00500",
+  "word": "drawback",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "disadvantage",
+    "evaluation",
+    "comparison",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "drawbacks"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdrɔːbæk/",
+      "uk": "/ˈdrɔːbæk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "欠点、不利な点",
+      "デメリット",
+      "ある選択肢・方法などに伴う問題点"
+    ],
+    "en": [
+      "a disadvantage or negative feature of something",
+      "a problem that makes something less useful, attractive, or effective",
+      "a negative aspect that must be considered when evaluating an option"
+    ]
+  },
+  "nuance": {
+    "ja": "drawback は、製品・制度・方法・選択肢などに伴うマイナス面を表す一般的な語。pitfall のように『隠れた危険』である必要はなく、最初から明らかな欠点にも使える。disadvantage と非常に近いが、drawback は『全体としては良いものの、ここが惜しい』という個別の弱点を指すことが多い。",
+    "en": "Drawback is a common word for a negative feature of a product, method, system, or choice. Unlike pitfall, it does not imply a hidden danger. It is close to disadvantage but often refers to a particular weakness in something that may otherwise be useful or attractive."
+  },
+  "minimal": {
+    "ja": [
+      "drawback：ある物・方法に伴う具体的な欠点。",
+      "disadvantage：不利な点全般。drawback より広い。",
+      "downside：マイナス面。より口語的。",
+      "pitfall：気づかず陥りやすい隠れた問題。",
+      "flaw：設計・論理・性格などに内在する欠陥。",
+      "limitation：能力・範囲などの限界・制約。"
+    ],
+    "en": [
+      "drawback is a specific negative feature of something.",
+      "disadvantage is the broader general term for an unfavorable condition.",
+      "downside is a more conversational term for a negative aspect.",
+      "pitfall is a hidden or easily overlooked source of trouble.",
+      "flaw is an inherent defect in design, reasoning, or character.",
+      "limitation is a restriction on capability, scope, or effectiveness."
+    ]
+  },
+  "etymology": {
+    "ja": "draw back『後ろへ引く、後退させる』から生じた名詞。もともとは何かを前進させる力を『後ろへ引くもの』というイメージで、そこから『進歩・有用性を妨げる欠点』という意味になった。",
+    "en": "Derived from the phrasal idea draw back, meaning 'to pull backward'. A drawback was figuratively something that held progress back, which developed into the modern sense of a disadvantage or negative feature."
+  },
+  "synonyms": [
+    {
+      "word": "disadvantage",
+      "note": {
+        "ja": "不利な条件・欠点を幅広く表す最も一般的な語。",
+        "en": "The broad general term for an unfavorable feature or condition."
+      }
+    },
+    {
+      "word": "downside",
+      "note": {
+        "ja": "drawback と近いが、より会話的。",
+        "en": "Very close in meaning but more conversational."
+      }
+    },
+    {
+      "word": "limitation",
+      "note": {
+        "ja": "機能・能力・適用範囲などに限界があることに重点。",
+        "en": "Emphasizes a restriction on capability, scope, or effectiveness."
+      }
+    },
+    {
+      "word": "flaw",
+      "note": {
+        "ja": "物や考えの内部にある欠陥・弱点。",
+        "en": "Emphasizes an inherent defect or weakness."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Nachteil",
+    "it": "svantaggio",
+    "fr": "inconvénient",
+    "es": "inconveniente / desventaja"
+  },
+  "collocations": {
+    "ja": [
+      "a major drawback — 大きな欠点",
+      "a serious drawback — 深刻な欠点",
+      "a significant drawback — 重要な欠点",
+      "the main drawback — 主な欠点",
+      "the only drawback — 唯一の欠点",
+      "one drawback is that — 一つの欠点は～であること",
+      "a drawback of the system — そのシステムの欠点",
+      "a potential drawback — 潜在的な欠点",
+      "outweigh the drawbacks — 欠点を上回る",
+      "despite its drawbacks — 欠点はあるものの"
+    ],
+    "en": [
+      "a major drawback",
+      "a serious drawback",
+      "a significant drawback",
+      "the main drawback",
+      "the only drawback",
+      "one drawback is that",
+      "a drawback of the system",
+      "a potential drawback",
+      "outweigh the drawbacks",
+      "despite its drawbacks"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The main drawback of the system is its high cost. — そのシステムの主な欠点はコストの高さである。",
+      "One drawback is that the process takes a considerable amount of time. — 一つの欠点は、その手続にかなりの時間がかかることである。",
+      "Despite its drawbacks, the method remains widely used. — 欠点はあるものの、その方法は依然として広く使われている。",
+      "The benefits clearly outweigh the drawbacks. — 利点は明らかに欠点を上回っている。",
+      "Limited battery life is a significant drawback for some users. — バッテリー駆動時間の短さは、一部のユーザーにとって大きな欠点である。"
+    ],
+    "en": [
+      "The main drawback of the system is its high cost.",
+      "One drawback is that the process takes a considerable amount of time.",
+      "Despite its drawbacks, the method remains widely used.",
+      "The benefits clearly outweigh the drawbacks.",
+      "Limited battery life is a significant drawback for some users."
+    ]
+  }
 }
 ]
