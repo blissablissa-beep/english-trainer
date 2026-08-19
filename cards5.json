@@ -7998,5 +7998,1099 @@
       "Enemy forces assailed the fortress at dawn."
     ]
   }
+},
+{
+  "id": "albeit",
+  "sid": "2026-00557",
+  "word": "albeit",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "conjunction",
+    "contrast",
+    "formal",
+    "writing"
+  ],
+  "grammar": {
+    "pos": "conjunction"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɔːlˈbiːɪt/",
+      "uk": "/ɔːlˈbiːɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "〜ではあるが",
+      "〜とはいえ",
+      "たとえ〜であっても"
+    ],
+    "en": [
+      "although",
+      "even though",
+      "despite the fact that"
+    ]
+  },
+  "nuance": {
+    "ja": "albeit は although に近い譲歩表現だが、やや文語的で簡潔。特に albeit difficult, albeit briefly, albeit at a slower pace のように、完全な節ではなく短い形容詞句・副詞句・前置詞句を後ろに置くのが典型的。文章語、報道、評論、学術文などでよく見られる。",
+    "en": "Albeit is a somewhat formal and concise concessive conjunction similar to although. It is especially common before short adjective, adverbial, or prepositional phrases, as in albeit difficult, albeit briefly, and albeit at a slower pace."
+  },
+  "minimal": {
+    "ja": [
+      "albeit：〜ではあるが。簡潔でやや文語的。",
+      "although：〜だけれども。最も一般的で、完全な節を導ける。",
+      "though：although より口語的で柔軟。",
+      "even though：譲歩をより強く強調する。",
+      "despite：前置詞で、名詞句を取る。",
+      "nevertheless：『それでも』という副詞で、文同士をつなぐ。"
+    ],
+    "en": [
+      "albeit is a concise, somewhat formal equivalent of although.",
+      "although is the general conjunction and readily introduces a full clause.",
+      "though is more conversational and flexible.",
+      "even though gives stronger emphasis to the contrast.",
+      "despite is a preposition followed by a noun phrase or gerund.",
+      "nevertheless is an adverb meaning 'even so'."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語の all be it に由来し、文字どおりには『たとえそれが〜であっても』という構造。all はここでは強意的で、be it は接続法的な『それが〜であるとしても』を表した。もともと複数語だった表現が一語に固定化して albeit となった。",
+    "en": "From Middle English all be it, literally something like 'although it be so'. The expression originally consisted of separate words, with be it functioning in a concessive subjunctive construction, and later became lexicalized as the single word albeit."
+  },
+  "synonyms": [
+    {
+      "word": "although",
+      "note": {
+        "ja": "最も近い一般語。完全な節を導くのに自然。",
+        "en": "The closest general equivalent and very natural before a full clause."
+      }
+    },
+    {
+      "word": "though",
+      "note": {
+        "ja": "より口語的で、文末にも置ける柔軟な語。",
+        "en": "More conversational and flexible, including sentence-final use."
+      }
+    },
+    {
+      "word": "even though",
+      "note": {
+        "ja": "予想との食い違いをより強く強調する。",
+        "en": "Emphasizes the unexpected contrast more strongly."
+      }
+    },
+    {
+      "word": "notwithstanding",
+      "note": {
+        "ja": "『〜にもかかわらず』を表す非常にフォーマルな語。",
+        "en": "A highly formal expression meaning 'despite' or 'in spite of'."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "wenn auch / obwohl",
+    "it": "sebbene / benché",
+    "fr": "quoique / bien que",
+    "es": "aunque / si bien"
+  },
+  "collocations": {
+    "ja": [
+      "albeit briefly — 短時間ではあるが",
+      "albeit reluctantly — しぶしぶではあるが",
+      "albeit slowly — ゆっくりではあるが",
+      "albeit imperfect — 不完全ではあるが",
+      "albeit limited — 限定的ではあるが",
+      "albeit modest — 控えめではあるが",
+      "albeit at a slower pace — より遅いペースではあるが",
+      "successful, albeit costly — 成功したが、費用はかかった",
+      "small, albeit significant — 小さいながらも重要な",
+      "useful, albeit somewhat outdated — やや時代遅れではあるが有用な"
+    ],
+    "en": [
+      "albeit briefly",
+      "albeit reluctantly",
+      "albeit slowly",
+      "albeit imperfect",
+      "albeit limited",
+      "albeit modest",
+      "albeit at a slower pace",
+      "successful, albeit costly",
+      "small, albeit significant",
+      "useful, albeit somewhat outdated"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The project was successful, albeit more expensive than expected. — そのプロジェクトは、予想以上に費用がかかったとはいえ、成功した。",
+      "He agreed to the proposal, albeit reluctantly. — 彼はしぶしぶではあるが、その提案に同意した。",
+      "The economy continues to grow, albeit at a slower pace. — 経済は、より遅いペースではあるものの、成長を続けている。",
+      "The evidence is limited, albeit significant. — その証拠は限定的ではあるが、重要である。",
+      "She returned to work, albeit only part-time. — 彼女はパートタイムだけではあるが、仕事に復帰した。"
+    ],
+    "en": [
+      "The project was successful, albeit more expensive than expected.",
+      "He agreed to the proposal, albeit reluctantly.",
+      "The economy continues to grow, albeit at a slower pace.",
+      "The evidence is limited, albeit significant.",
+      "She returned to work, albeit only part-time."
+    ]
+  }
+},
+{
+  "id": "notwithstanding",
+  "sid": "2026-00558",
+  "word": "notwithstanding",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "concession",
+    "formal",
+    "law",
+    "writing"
+  ],
+  "grammar": {
+    "pos": "preposition / adverb / conjunction"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌnɑːtwɪθˈstændɪŋ/",
+      "uk": "/ˌnɒtwɪðˈstændɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "〜にもかかわらず",
+      "それにもかかわらず",
+      "〜であるにもかかわらず"
+    ],
+    "en": [
+      "despite",
+      "in spite of",
+      "nevertheless",
+      "although"
+    ]
+  },
+  "nuance": {
+    "ja": "notwithstanding は非常にフォーマルな譲歩表現で、特に法律・契約・行政・評論文でよく使われる。前置詞として notwithstanding the delay『遅延にもかかわらず』、副詞として the delay notwithstanding『その遅延にもかかわらず』、接続詞的に notwithstanding that ...『〜という事実にもかかわらず』のように使える。日常会話では despite, although, nevertheless のほうが自然なことが多い。",
+    "en": "Notwithstanding is a highly formal concessive expression, common in legal, contractual, administrative, and formal written English. It can function as a preposition, an adverb placed after a noun phrase, or more rarely as a conjunction before a that-clause."
+  },
+  "minimal": {
+    "ja": [
+      "notwithstanding：〜にもかかわらず。非常にフォーマル。",
+      "despite：〜にもかかわらず。最も一般的な前置詞。",
+      "in spite of：despite とほぼ同じで、やや長い表現。",
+      "although：〜だけれども。完全な節を導く。",
+      "albeit：〜ではあるが。短い補足要素と相性がよい。",
+      "nevertheless：それにもかかわらず。副詞。"
+    ],
+    "en": [
+      "notwithstanding is a very formal equivalent of despite or nevertheless.",
+      "despite is the common preposition meaning 'in spite of'.",
+      "in spite of is similar to despite but more explicit.",
+      "although introduces a full concessive clause.",
+      "albeit is concise and especially common before short phrases.",
+      "nevertheless is an adverb meaning 'even so'."
+    ]
+  },
+  "etymology": {
+    "ja": "not＋withstand『抵抗する、耐える』＋ -ing から成る歴史的な複合表現。もともとは『〜が妨げることなく』『〜に抵抗されることなく』という構造で、そこから『〜にもかかわらず』という譲歩の意味になった。",
+    "en": "Historically formed from not and withstand, with the sense that something does not stand in the way. From the idea of 'not being prevented by' something developed the concessive meaning 'despite' or 'in spite of'."
+  },
+  "synonyms": [
+    {
+      "word": "despite",
+      "note": {
+        "ja": "最も一般的で自然な前置詞。notwithstanding よりずっと日常的。",
+        "en": "The common and natural preposition, much less formal than notwithstanding."
+      }
+    },
+    {
+      "word": "nevertheless",
+      "note": {
+        "ja": "『それでもなお』を表す副詞。",
+        "en": "An adverb meaning 'even so' or 'despite that'."
+      }
+    },
+    {
+      "word": "although",
+      "note": {
+        "ja": "完全な節を導く一般的な接続詞。",
+        "en": "The common conjunction introducing a full concessive clause."
+      }
+    },
+    {
+      "word": "albeit",
+      "note": {
+        "ja": "やや文語的で、短い形容詞句・副詞句などと相性がよい。",
+        "en": "Somewhat formal and especially natural before short adjective, adverbial, or prepositional phrases."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ungeachtet / trotz",
+    "it": "nonostante",
+    "fr": "nonobstant / malgré",
+    "es": "no obstante / a pesar de"
+  },
+  "collocations": {
+    "ja": [
+      "notwithstanding the foregoing — 前述にもかかわらず",
+      "notwithstanding any other provision — 他のいかなる規定にもかかわらず",
+      "notwithstanding the circumstances — 事情にもかかわらず",
+      "notwithstanding the delay — 遅延にもかかわらず",
+      "the difficulties notwithstanding — 困難にもかかわらず",
+      "these concerns notwithstanding — こうした懸念にもかかわらず",
+      "notwithstanding that fact — その事実にもかかわらず",
+      "notwithstanding anything to the contrary — これに反する定めにかかわらず"
+    ],
+    "en": [
+      "notwithstanding the foregoing",
+      "notwithstanding any other provision",
+      "notwithstanding the circumstances",
+      "notwithstanding the delay",
+      "the difficulties notwithstanding",
+      "these concerns notwithstanding",
+      "notwithstanding that fact",
+      "notwithstanding anything to the contrary"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Notwithstanding the delay, the project was completed on budget. — 遅延にもかかわらず、そのプロジェクトは予算内で完了した。",
+      "The evidence was admitted, notwithstanding the objection. — 異議にもかかわらず、その証拠は採用された。",
+      "These concerns notwithstanding, the committee approved the proposal. — こうした懸念にもかかわらず、委員会はその提案を承認した。",
+      "Notwithstanding any other provision of this agreement, either party may terminate it in the event of fraud. — 本契約の他のいかなる規定にもかかわらず、詐欺があった場合はいずれの当事者も契約を解除できる。",
+      "The risks notwithstanding, they decided to proceed. — リスクにもかかわらず、彼らは続行することを決めた。"
+    ],
+    "en": [
+      "Notwithstanding the delay, the project was completed on budget.",
+      "The evidence was admitted, notwithstanding the objection.",
+      "These concerns notwithstanding, the committee approved the proposal.",
+      "Notwithstanding any other provision of this agreement, either party may terminate it in the event of fraud.",
+      "The risks notwithstanding, they decided to proceed."
+    ]
+  }
+},
+{
+  "id": "nevertheless",
+  "sid": "2026-00559",
+  "word": "nevertheless",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "contrast",
+    "concession",
+    "adverb",
+    "writing"
+  ],
+  "grammar": {
+    "pos": "adverb"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌnevərðəˈles/",
+      "uk": "/ˌnevəðəˈles/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "それにもかかわらず",
+      "それでもなお",
+      "とはいえ、それでも"
+    ],
+    "en": [
+      "despite what has just been said",
+      "even so",
+      "in spite of that"
+    ]
+  },
+  "nuance": {
+    "ja": "nevertheless は、前に述べた事実・問題・反対事情を認めたうえで、『それでも結果・判断・事実は変わらない』ことを示す接続副詞。however より譲歩の意味が明確で、nonetheless とほぼ同義。文章語でよく使われるが、会話でも不自然ではない。",
+    "en": "Nevertheless is a conjunctive adverb used to acknowledge a preceding fact, difficulty, or objection while asserting that the following point still holds. It has a clearer concessive force than however and is very close in meaning to nonetheless."
+  },
+  "minimal": {
+    "ja": [
+      "nevertheless：それにもかかわらず。それでもなお。",
+      "nonetheless：nevertheless とほぼ同義。やや簡潔な響き。",
+      "however：しかしながら。より一般的な対比表現。",
+      "still：それでも。より口語的で軽い。",
+      "yet：それでも、しかし。短く柔軟。",
+      "notwithstanding：〜にもかかわらず。よりフォーマルで前置詞としても使える。"
+    ],
+    "en": [
+      "nevertheless means 'despite that' or 'even so'.",
+      "nonetheless is virtually synonymous with nevertheless.",
+      "however is a broader and more general marker of contrast.",
+      "still is more conversational and often lighter in tone.",
+      "yet is a concise and flexible contrast marker.",
+      "notwithstanding is more formal and can also function as a preposition."
+    ]
+  },
+  "etymology": {
+    "ja": "never＋the＋less から成る表現で、文字どおりには『それによって少しも減ることなく』という意味。中英語以来使われており、『それでもなお』『にもかかわらず』という譲歩表現として定着した。",
+    "en": "Formed from never + the + less, literally suggesting that something is 'none the less' because of what has been mentioned. It developed into the concessive meaning 'even so' or 'despite that'."
+  },
+  "synonyms": [
+    {
+      "word": "nonetheless",
+      "note": {
+        "ja": "ほぼ完全な同義語。文脈によって交換可能なことが多い。",
+        "en": "A near-synonym and often interchangeable with nevertheless."
+      }
+    },
+    {
+      "word": "however",
+      "note": {
+        "ja": "より一般的な『しかしながら』。単純な対比にも使える。",
+        "en": "A broader contrast marker that does not always imply concession."
+      }
+    },
+    {
+      "word": "still",
+      "note": {
+        "ja": "『それでも』を表すより口語的な表現。",
+        "en": "A more conversational way to express 'even so'."
+      }
+    },
+    {
+      "word": "yet",
+      "note": {
+        "ja": "短く簡潔な『しかし、それでも』。",
+        "en": "A concise conjunction or adverb expressing contrast or concession."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "dennoch / trotzdem",
+    "it": "tuttavia / nondimeno",
+    "fr": "néanmoins / toutefois",
+    "es": "sin embargo / no obstante"
+  },
+  "collocations": {
+    "ja": [
+      "Nevertheless, ... — それにもかかわらず、…",
+      "but nevertheless — しかしそれでもなお",
+      "nevertheless remain — それでもなお残る",
+      "nevertheless continue — それでもなお続く",
+      "nevertheless important — それでも重要な",
+      "nevertheless true — それでもなお真実である",
+      "nevertheless valid — それでも有効である",
+      "nevertheless possible — それでも可能である"
+    ],
+    "en": [
+      "Nevertheless, ...",
+      "but nevertheless",
+      "nevertheless remain",
+      "nevertheless continue",
+      "nevertheless important",
+      "nevertheless true",
+      "nevertheless valid",
+      "nevertheless possible"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The task was difficult. Nevertheless, we managed to complete it on time. — その仕事は困難だった。それにもかかわらず、私たちは期限内に完了できた。",
+      "The evidence is limited but nevertheless important. — 証拠は限定的だが、それでも重要である。",
+      "He knew the risks; nevertheless, he decided to proceed. — 彼はリスクを承知していたが、それでも続行することを決めた。",
+      "The proposal has several flaws. Nevertheless, it deserves serious consideration. — その提案にはいくつか欠点がある。それでも真剣に検討する価値がある。",
+      "The rule may seem outdated, but it is nevertheless still in force. — その規則は時代遅れに見えるかもしれないが、それでもなお有効である。"
+    ],
+    "en": [
+      "The task was difficult. Nevertheless, we managed to complete it on time.",
+      "The evidence is limited but nevertheless important.",
+      "He knew the risks; nevertheless, he decided to proceed.",
+      "The proposal has several flaws. Nevertheless, it deserves serious consideration.",
+      "The rule may seem outdated, but it is nevertheless still in force."
+    ]
+  }
+},
+{
+  "id": "even_though",
+  "sid": "2026-00560",
+  "word": "even though",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "conjunction",
+    "contrast",
+    "concession",
+    "general"
+  ],
+  "grammar": {
+    "pos": "conjunction"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌiːvən ˈðoʊ/",
+      "uk": "/ˌiːvən ˈðəʊ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "〜であるにもかかわらず",
+      "〜なのに",
+      "たとえ事実として〜であっても"
+    ],
+    "en": [
+      "despite the fact that",
+      "although, with stronger emphasis on the contrast",
+      "in spite of the fact that"
+    ]
+  },
+  "nuance": {
+    "ja": "even though は、実際に成立している事実を認めたうえで、それとは反対方向の結果や判断を述べる譲歩表現。although より対比を強調する。even if と混同しやすいが、even though は原則として事実・既知の状況を前提とし、even if は仮定的な条件を表す。",
+    "en": "Even though introduces a real or accepted fact and emphasizes that the following result is surprising or contrary to expectation. It is stronger than although. Unlike even if, which is typically hypothetical, even though normally refers to an actual or accepted situation."
+  },
+  "minimal": {
+    "ja": [
+      "even though：事実として〜なのに。それでも。",
+      "although：〜だけれども。より中立的な譲歩。",
+      "though：although より口語的で柔軟。",
+      "even if：たとえ〜だとしても。仮定条件に重点。",
+      "albeit：〜ではあるが。短い補足要素と相性がよい。",
+      "nevertheless：それにもかかわらず。接続副詞。"
+    ],
+    "en": [
+      "even though emphasizes a contrast involving an actual or accepted fact.",
+      "although expresses concession more neutrally.",
+      "though is more conversational and flexible.",
+      "even if normally introduces a hypothetical condition.",
+      "albeit is concise and commonly followed by a short phrase rather than a full clause.",
+      "nevertheless is a conjunctive adverb meaning 'even so'."
+    ]
+  },
+  "etymology": {
+    "ja": "even はここでは『〜でさえ』という強調を加える副詞で、though『〜だけれども』を強めている。したがって even though は文字どおりには『たとえその事実を認めてもなお』という強い譲歩を表す。",
+    "en": "Even functions as an intensifier modifying though. The phrase therefore strengthens the concessive meaning of though, yielding the sense 'despite the fact that' or 'although this is indeed the case'."
+  },
+  "synonyms": [
+    {
+      "word": "although",
+      "note": {
+        "ja": "最も近い一般的な表現だが、even though のほうが対比が強い。",
+        "en": "The closest general equivalent, but even though places stronger emphasis on the contrast."
+      }
+    },
+    {
+      "word": "though",
+      "note": {
+        "ja": "より口語的で柔軟な譲歩表現。",
+        "en": "A more conversational and flexible concessive conjunction."
+      }
+    },
+    {
+      "word": "despite the fact that",
+      "note": {
+        "ja": "意味は非常に近いが、より長くフォーマル。",
+        "en": "Very close in meaning but longer and often more formal."
+      }
+    },
+    {
+      "word": "while",
+      "note": {
+        "ja": "文脈によって『〜ではあるが』の譲歩を表すことがあるが、対比用法との区別が必要。",
+        "en": "Can express concession in some contexts, though it also has ordinary contrast and temporal uses."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "obwohl / auch wenn",
+    "it": "anche se / sebbene",
+    "fr": "même si / bien que",
+    "es": "aunque / a pesar de que"
+  },
+  "collocations": {
+    "ja": [
+      "even though it was raining — 雨が降っていたにもかかわらず",
+      "even though he knew the risks — 彼は危険を知っていたにもかかわらず",
+      "even though it may seem strange — 奇妙に思えるかもしれないが",
+      "even though they disagreed — 彼らは意見が一致していなかったにもかかわらず",
+      "even though I was tired — 疲れていたにもかかわらず",
+      "even though the evidence was limited — 証拠が限定的だったにもかかわらず",
+      "even though she had little experience — 彼女は経験がほとんどなかったにもかかわらず",
+      "even though prices have risen — 価格が上昇しているにもかかわらず"
+    ],
+    "en": [
+      "even though it was raining",
+      "even though he knew the risks",
+      "even though it may seem strange",
+      "even though they disagreed",
+      "even though I was tired",
+      "even though the evidence was limited",
+      "even though she had little experience",
+      "even though prices have risen"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Even though it was raining heavily, they continued the match. — 激しい雨が降っていたにもかかわらず、彼らは試合を続けた。",
+      "She accepted the offer even though the salary was lower than expected. — 給料が予想より低かったにもかかわらず、彼女はその申し出を受け入れた。",
+      "Even though he knew the risks, he decided to proceed. — 彼は危険を知っていたにもかかわらず、続行することを決めた。",
+      "The product sold well even though it received mixed reviews. — 評価が分かれていたにもかかわらず、その製品はよく売れた。",
+      "Even though the evidence is limited, the findings are still significant. — 証拠は限定的であるにもかかわらず、その研究結果は依然として重要である。"
+    ],
+    "en": [
+      "Even though it was raining heavily, they continued the match.",
+      "She accepted the offer even though the salary was lower than expected.",
+      "Even though he knew the risks, he decided to proceed.",
+      "The product sold well even though it received mixed reviews.",
+      "Even though the evidence is limited, the findings are still significant."
+    ]
+  }
+},
+{
+  "id": "even_if",
+  "sid": "2026-00561",
+  "word": "even if",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "conjunction",
+    "condition",
+    "concession",
+    "general"
+  ],
+  "grammar": {
+    "pos": "conjunction"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌiːvən ˈɪf/",
+      "uk": "/ˌiːvən ˈɪf/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "たとえ〜だとしても",
+      "仮に〜であっても",
+      "〜になったとしても、それでも"
+    ],
+    "en": [
+      "regardless of whether something happens or is true",
+      "although something may possibly happen",
+      "despite a hypothetical condition"
+    ]
+  },
+  "nuance": {
+    "ja": "even if は仮定的な条件を提示し、『その条件が成立してもしなくても、結果や決意は変わらない』ことを強調する。if より譲歩の意味が強い。even though との違いが重要で、even though は通常、実際に成立している事実を前提とするのに対し、even if は可能性・仮定を扱う。",
+    "en": "Even if introduces a hypothetical or uncertain condition and emphasizes that the result will remain the same regardless of whether that condition is fulfilled. It is more concessive than ordinary if. Unlike even though, which normally refers to an actual or accepted fact, even if deals with possibility or hypothesis."
+  },
+  "minimal": {
+    "ja": [
+      "even if：たとえ〜だとしても。仮定・可能性に重点。",
+      "even though：実際に〜なのに。事実を前提とする。",
+      "if：もし〜なら。普通の条件。",
+      "although：〜だけれども。事実に基づく譲歩。",
+      "whether or not：〜であろうとなかろうと。二つの可能性を明示する。",
+      "no matter whether：〜かどうかにかかわらず。結果不変を強調する。"
+    ],
+    "en": [
+      "even if introduces a hypothetical condition whose fulfillment does not change the result.",
+      "even though introduces a real or accepted fact.",
+      "if expresses an ordinary condition.",
+      "although expresses concession based on an actual situation.",
+      "whether or not explicitly covers both possibilities.",
+      "no matter whether strongly emphasizes that the outcome is unaffected."
+    ]
+  },
+  "etymology": {
+    "ja": "even はここでは強調の副詞で、『たとえ〜でさえ』という意味を if に加える。if が単に条件を示すのに対し、even if は『その極端な条件が成立したとしても』という譲歩的な意味を作る。",
+    "en": "Even functions as an intensifier modifying if. While if simply introduces a condition, even if emphasizes that the stated result remains true even under that possibly extreme or unfavorable condition."
+  },
+  "synonyms": [
+    {
+      "word": "whether or not",
+      "note": {
+        "ja": "〜であろうとなかろうと。成立・不成立の両方を明示する。",
+        "en": "Explicitly states that the outcome applies whether the condition is true or false."
+      }
+    },
+    {
+      "word": "regardless of whether",
+      "note": {
+        "ja": "〜かどうかにかかわらず。よりフォーマル。",
+        "en": "A more formal way to express that the condition does not affect the outcome."
+      }
+    },
+    {
+      "word": "no matter whether",
+      "note": {
+        "ja": "〜であろうとなかろうと。結果が変わらないことを強調。",
+        "en": "Emphasizes strongly that the result is unaffected by either possibility."
+      }
+    },
+    {
+      "word": "even though",
+      "note": {
+        "ja": "形は近いが、実際の事実を前提とする点が異なる。",
+        "en": "Similar in form, but normally refers to an actual or accepted fact rather than a hypothetical condition."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "selbst wenn / auch wenn",
+    "it": "anche se / persino se",
+    "fr": "même si",
+    "es": "incluso si / aunque"
+  },
+  "collocations": {
+    "ja": [
+      "even if it rains — たとえ雨が降っても",
+      "even if you disagree — たとえあなたが反対でも",
+      "even if it takes years — たとえ何年かかっても",
+      "even if it means losing money — たとえ損失を出すことになっても",
+      "even if necessary — 必要だとしても",
+      "even if possible — 仮に可能だとしても",
+      "even if no one agrees — 誰も賛成しなくても",
+      "even if things go wrong — 物事がうまくいかなくても",
+      "even if I have to do it alone — たとえ一人でやらなければならなくても",
+      "even if that is true — 仮にそれが本当だとしても"
+    ],
+    "en": [
+      "even if it rains",
+      "even if you disagree",
+      "even if it takes years",
+      "even if it means losing money",
+      "even if necessary",
+      "even if possible",
+      "even if no one agrees",
+      "even if things go wrong",
+      "even if I have to do it alone",
+      "even if that is true"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Even if it rains tomorrow, we will still go hiking. — たとえ明日雨が降っても、私たちはハイキングに行く。",
+      "I would refuse the offer even if they doubled the salary. — たとえ給料を倍にされても、私はその申し出を断るだろう。",
+      "Even if the allegations are true, they do not necessarily prove fraud. — 仮にその疑惑が事実だとしても、それだけで必ずしも詐欺が証明されるわけではない。",
+      "She intends to finish the project even if it takes several more months. — たとえさらに数か月かかっても、彼女はそのプロジェクトを完成させるつもりだ。",
+      "Even if no one supports the proposal, he says he will continue to argue for it. — たとえ誰もその提案を支持しなくても、彼は主張を続けると言っている。"
+    ],
+    "en": [
+      "Even if it rains tomorrow, we will still go hiking.",
+      "I would refuse the offer even if they doubled the salary.",
+      "Even if the allegations are true, they do not necessarily prove fraud.",
+      "She intends to finish the project even if it takes several more months.",
+      "Even if no one supports the proposal, he says he will continue to argue for it."
+    ]
+  }
+},
+{
+  "id": "whereas",
+  "sid": "2026-00562",
+  "word": "whereas",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "conjunction",
+    "contrast",
+    "formal",
+    "law"
+  ],
+  "grammar": {
+    "pos": "conjunction"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/werˈæz/",
+      "uk": "/weərˈæz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "一方で",
+      "〜であるのに対して",
+      "これに対して",
+      "法律文書で、〜であることに鑑み"
+    ],
+    "en": [
+      "while, in contrast",
+      "in comparison with the fact that",
+      "considering that, in formal legal preambles"
+    ]
+  },
+  "nuance": {
+    "ja": "whereas の中心は『対比』。二つの人・物・状況について異なる特徴や事実を並べる。while に近いが、whereas のほうが対比の意味が明確で、やや文章語的。although や even though のように『予想に反して』という譲歩を表す語ではない。また契約書・決議文などでは Whereas, ... と前文を導き、背景事情や前提事実を列挙する特殊な法律用法がある。",
+    "en": "Whereas primarily marks contrast between two facts, people, things, or situations. It is similar to contrastive while but makes the comparison more explicit and is somewhat more formal. Unlike although or even though, it does not primarily express concession. In legal documents, Whereas can also introduce recitals setting out background facts or premises."
+  },
+  "minimal": {
+    "ja": [
+      "whereas：Aであるのに対してB。明確な対比。",
+      "while：一方で。対比にも時間にも使えるため意味範囲が広い。",
+      "although：〜だけれども。譲歩を表す。",
+      "even though：実際に〜なのに。強い譲歩。",
+      "on the other hand：一方では。独立した副詞句。",
+      "in contrast：対照的に。明示的な対比表現。"
+    ],
+    "en": [
+      "whereas explicitly contrasts two facts or situations.",
+      "while can express contrast but also has a temporal meaning.",
+      "although expresses concession rather than simple contrast.",
+      "even though expresses strong concession involving an actual fact.",
+      "on the other hand is an independent adverbial phrase.",
+      "in contrast explicitly marks a difference between two things."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 where as に由来する。where は歴史的に『その点で、そのところで』のような関係副詞として使われ、as が結び付いて『〜であるのに対して、〜であるところ』という意味を発達させた。現代では一語の接続詞として定着している。",
+    "en": "From Middle English where as. Historically, where could function as a relative adverb meaning roughly 'in which respect' or 'in the situation where', and the expression developed into the modern contrastive conjunction whereas."
+  },
+  "synonyms": [
+    {
+      "word": "while",
+      "note": {
+        "ja": "対比用法では最も近いが、while には『〜している間』という時間用法もある。",
+        "en": "Very close in its contrastive use, but while also has a temporal meaning."
+      }
+    },
+    {
+      "word": "in contrast",
+      "note": {
+        "ja": "二つの物事の相違を明示する副詞的表現。",
+        "en": "An adverbial expression that explicitly highlights a difference."
+      }
+    },
+    {
+      "word": "on the other hand",
+      "note": {
+        "ja": "別の側面・反対側の事情を提示する。",
+        "en": "Introduces a contrasting aspect or alternative perspective."
+      }
+    },
+    {
+      "word": "although",
+      "note": {
+        "ja": "似て見えるが、主に譲歩を表し、whereas の単純対比とは異なる。",
+        "en": "May look similar in some contexts, but primarily expresses concession rather than straightforward contrast."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "während / wohingegen",
+    "it": "mentre / laddove",
+    "fr": "tandis que / alors que",
+    "es": "mientras que / en cambio"
+  },
+  "collocations": {
+    "ja": [
+      "whereas the former ... — 前者が〜であるのに対して",
+      "whereas the latter ... — 後者が〜であるのに対して",
+      "A is ..., whereas B is ... — Aは〜だが、一方Bは〜である",
+      "whereas previously ... — 以前は〜だったのに対して",
+      "whereas in the past ... — 過去には〜だった一方で",
+      "whereas some people ... — 一部の人々が〜する一方で",
+      "WHEREAS, ... — 〜であることに鑑み",
+      "whereas clause — 前文条項、背景事情を述べる条項"
+    ],
+    "en": [
+      "whereas the former ...",
+      "whereas the latter ...",
+      "A is ..., whereas B is ...",
+      "whereas previously ...",
+      "whereas in the past ...",
+      "whereas some people ...",
+      "WHEREAS, ...",
+      "whereas clause"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The first proposal focuses on cost reduction, whereas the second emphasizes growth. — 最初の提案がコスト削減に重点を置くのに対して、二つ目は成長を重視している。",
+      "She prefers working alone, whereas her colleague enjoys teamwork. — 彼女は一人で働くことを好む一方、同僚はチームワークを好む。",
+      "The northern region is relatively dry, whereas the south receives heavy rainfall. — 北部地域が比較的乾燥しているのに対して、南部では降水量が多い。",
+      "The old system required manual approval, whereas the new one is fully automated. — 旧システムでは手動承認が必要だったのに対して、新システムは完全に自動化されている。",
+      "WHEREAS, the parties wish to establish a framework for future cooperation, they agree as follows. — 当事者が将来の協力の枠組みを確立することを希望していることに鑑み、以下のとおり合意する。"
+    ],
+    "en": [
+      "The first proposal focuses on cost reduction, whereas the second emphasizes growth.",
+      "She prefers working alone, whereas her colleague enjoys teamwork.",
+      "The northern region is relatively dry, whereas the south receives heavy rainfall.",
+      "The old system required manual approval, whereas the new one is fully automated.",
+      "WHEREAS, the parties wish to establish a framework for future cooperation, they agree as follows."
+    ]
+  }
+},
+{
+  "id": "ledger",
+  "sid": "2026-00563",
+  "word": "ledger",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "accounting",
+    "finance",
+    "business",
+    "records"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "ledgers"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈledʒər/",
+      "uk": "/ˈledʒə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "元帳",
+      "会計上の取引を勘定ごとに記録する帳簿",
+      "台帳、記録簿"
+    ],
+    "en": [
+      "a book or electronic record in which financial transactions are organized by account",
+      "a principal accounting record containing accounts and balances",
+      "a record or register used to keep systematic information"
+    ]
+  },
+  "nuance": {
+    "ja": "ledger は会計では、取引を勘定科目ごとに整理して記録する『元帳』を指す。journal が取引を原則として時系列に記録するのに対し、ledger は cash, sales, accounts receivable などの勘定別に集約する。現代では紙の帳簿だけでなく電子的な会計記録にも普通に使われる。blockchain の説明でも distributed ledger『分散型台帳』という形で非常によく現れる。",
+    "en": "In accounting, a ledger is the principal record in which transactions are classified by account. A journal generally records transactions chronologically, whereas a ledger groups them under individual accounts such as cash or accounts receivable. The term applies equally to paper and electronic records and is also central to expressions such as distributed ledger."
+  },
+  "minimal": {
+    "ja": [
+      "ledger：勘定別に整理された元帳。",
+      "journal：取引を主に時系列で記録する仕訳帳。",
+      "bookkeeping：帳簿を記録・管理する業務そのもの。",
+      "register：特定事項を一覧として記録する台帳・登録簿。",
+      "account：個別の勘定、または取引記録。",
+      "general ledger：すべての主要勘定を集約した総勘定元帳。"
+    ],
+    "en": [
+      "ledger is an accounting record organized by individual accounts.",
+      "journal records transactions primarily in chronological order.",
+      "bookkeeping is the activity of recording and maintaining financial records.",
+      "register is a systematic list or record of particular items.",
+      "account is an individual category or record within the accounting system.",
+      "general ledger is the main ledger containing the organization's principal accounts."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 legger / ledger に由来し、もともとは『横たわって一定の場所に置かれる本』を意味したと考えられている。動詞 lie と関係する古いゲルマン系の語にさかのぼり、持ち運ぶ帳簿ではなく、机などに常備する大きな帳簿を指したことから、会計上の『元帳』の意味が成立した。",
+    "en": "From Middle English ledger or legger, originally referring to a book that remained lying in one place rather than being carried around. It is historically related to Germanic words connected with lying or laying, and the sense developed into that of a permanent account book."
+  },
+  "synonyms": [
+    {
+      "word": "register",
+      "note": {
+        "ja": "情報を体系的に列挙する登録簿・台帳。会計に限定されない。",
+        "en": "A systematic official or administrative record, not specifically an accounting term."
+      }
+    },
+    {
+      "word": "account book",
+      "note": {
+        "ja": "帳簿を表す一般的な表現。ledger より専門性が低い。",
+        "en": "A general term for a book containing financial records, less technical than ledger."
+      }
+    },
+    {
+      "word": "record",
+      "note": {
+        "ja": "記録一般を表す非常に広い語。",
+        "en": "A very broad term for stored information or documentation."
+      }
+    },
+    {
+      "word": "journal",
+      "note": {
+        "ja": "会計では仕訳帳。ledger と関連が深いが、取引を時系列に記録する点が異なる。",
+        "en": "In accounting, a chronological record of transactions before they are posted to ledger accounts."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Hauptbuch / Kontobuch",
+    "it": "libro mastro",
+    "fr": "grand livre",
+    "es": "libro mayor"
+  },
+  "collocations": {
+    "ja": [
+      "general ledger — 総勘定元帳",
+      "ledger account — 元帳勘定",
+      "sales ledger — 売掛金元帳・売上元帳",
+      "purchase ledger — 買掛金元帳・仕入元帳",
+      "post to the ledger — 元帳に転記する",
+      "record an entry in the ledger — 元帳に記入する",
+      "balance the ledger — 元帳の貸借を合わせる",
+      "ledger balance — 元帳残高",
+      "distributed ledger — 分散型台帳",
+      "distributed ledger technology — 分散型台帳技術"
+    ],
+    "en": [
+      "general ledger",
+      "ledger account",
+      "sales ledger",
+      "purchase ledger",
+      "post to the ledger",
+      "record an entry in the ledger",
+      "balance the ledger",
+      "ledger balance",
+      "distributed ledger",
+      "distributed ledger technology"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The transaction was posted to the general ledger at the end of the day. — その取引は一日の終わりに総勘定元帳へ転記された。",
+      "The accountant found an error in the ledger. — 会計担当者は元帳に誤りを見つけた。",
+      "Each ledger account shows the transactions affecting a particular category. — 各元帳勘定には、特定の項目に影響する取引が記録されている。",
+      "The company keeps its ledger electronically. — その会社は元帳を電子的に管理している。",
+      "Blockchain is often described as a type of distributed ledger. — ブロックチェーンはしばしば分散型台帳の一種と説明される。"
+    ],
+    "en": [
+      "The transaction was posted to the general ledger at the end of the day.",
+      "The accountant found an error in the ledger.",
+      "Each ledger account shows the transactions affecting a particular category.",
+      "The company keeps its ledger electronically.",
+      "Blockchain is often described as a type of distributed ledger."
+    ]
+  }
+},
+{
+  "id": "gazette",
+  "sid": "2026-00564",
+  "word": "gazette",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "government",
+    "law",
+    "publishing",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "gazettes"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɡəˈzet/",
+      "uk": "/ɡəˈzet/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "官報、公報",
+      "政府・公的機関の公式公告誌",
+      "新聞、定期刊行物"
+    ],
+    "en": [
+      "an official publication containing government notices and announcements",
+      "a public record or official journal",
+      "a newspaper or periodical, especially in names of publications"
+    ]
+  },
+  "nuance": {
+    "ja": "gazette は現代英語では特に、法律・行政上の告示、任命、規則、公告などを掲載する公式刊行物を指すことが多い。The Gazette のように固有名詞として使われることもある。一方、歴史的には newspaper に近い意味でも使われ、現在でも新聞名の一部として残っている。",
+    "en": "Gazette commonly refers to an official publication in which governments or public authorities publish notices, appointments, regulations, and other formal announcements. Historically it was also a general word for a newspaper, and that sense survives especially in newspaper titles."
+  },
+  "minimal": {
+    "ja": [
+      "gazette：官報・公報。公式公告を掲載する刊行物。",
+      "newspaper：一般向けの新聞。",
+      "journal：雑誌・学術誌・公式記録など幅広い。",
+      "bulletin：短い公式通知・会報。",
+      "register：公式な登録簿・記録。",
+      "official journal：政府・機関の公式刊行物。gazette と近い。"
+    ],
+    "en": [
+      "gazette is an official publication containing public notices and announcements.",
+      "newspaper is a general publication reporting news.",
+      "journal has a broader range, including academic and official publications.",
+      "bulletin is typically a shorter notice or periodic announcement.",
+      "register is an official list or record rather than primarily a publication.",
+      "official journal is close in meaning to gazette in governmental contexts."
+    ]
+  },
+  "etymology": {
+    "ja": "イタリア語 gazzetta に由来する。16世紀ヴェネツィアでニュース紙が小額硬貨 gazzetta 一枚で売られていたことから、その硬貨名が刊行物そのものを指すようになったとされる。その後フランス語 gazette を経て英語に入った。",
+    "en": "From Italian gazzetta. In sixteenth-century Venice, a news sheet was associated with a small coin called a gazzetta, and the coin's name came to be used for the publication itself. The word later passed through French gazette into English."
+  },
+  "synonyms": [
+    {
+      "word": "official journal",
+      "note": {
+        "ja": "政府・公的機関の公式刊行物という意味で非常に近い。",
+        "en": "Very close when referring to an official government or institutional publication."
+      }
+    },
+    {
+      "word": "bulletin",
+      "note": {
+        "ja": "公式通知・会報。通常は gazette より短く限定的。",
+        "en": "An official notice or periodic publication, usually shorter or more limited in scope."
+      }
+    },
+    {
+      "word": "newspaper",
+      "note": {
+        "ja": "一般的な新聞。gazette は現代ではより公式・歴史的な響きを持つ。",
+        "en": "The general modern term for a newspaper; gazette sounds more official or historical."
+      }
+    },
+    {
+      "word": "journal",
+      "note": {
+        "ja": "定期刊行物・記録誌を広く表す語。",
+        "en": "A broad term for a periodical or formal record."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Amtsblatt / Gazette",
+    "it": "gazzetta / bollettino ufficiale",
+    "fr": "gazette / journal officiel",
+    "es": "gaceta / boletín oficial"
+  },
+  "collocations": {
+    "ja": [
+      "official gazette — 官報",
+      "government gazette — 政府公報",
+      "publish in the gazette — 官報に掲載する",
+      "publication in the gazette — 官報掲載",
+      "gazette notice — 官報公告",
+      "gazette notification — 官報による告示",
+      "be gazetted — 官報に掲載される",
+      "gazette a regulation — 規則を官報で公布する",
+      "gazette a notice — 公告を官報に掲載する",
+      "the Official Gazette — 官報"
+    ],
+    "en": [
+      "official gazette",
+      "government gazette",
+      "publish in the gazette",
+      "publication in the gazette",
+      "gazette notice",
+      "gazette notification",
+      "be gazetted",
+      "gazette a regulation",
+      "gazette a notice",
+      "the Official Gazette"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The regulation was published in the official gazette. — その規則は官報に掲載された。",
+      "The appointment was announced in the government gazette. — その任命は政府公報で発表された。",
+      "The notice will take effect upon publication in the gazette. — その公告は官報への掲載をもって効力を生じる。",
+      "The new protected area was formally gazetted last year. — その新しい保護区域は昨年、正式に官報で指定された。",
+      "The newspaper retained the word Gazette in its title. — その新聞は紙名に Gazette という語を残している。"
+    ],
+    "en": [
+      "The regulation was published in the official gazette.",
+      "The appointment was announced in the government gazette.",
+      "The notice will take effect upon publication in the gazette.",
+      "The new protected area was formally gazetted last year.",
+      "The newspaper retained the word Gazette in its title."
+    ]
+  }
 }
 ]
