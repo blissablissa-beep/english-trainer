@@ -1139,5 +1139,151 @@
       "If the boss finds out what happened, we're toast."
     ]
   }
+},
+{
+  "id": "woo",
+  "sid": "2026-00509",
+  "word": "woo",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "persuasion",
+    "romance",
+    "business",
+    "politics"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive / intransitive",
+    "forms": {
+      "base": "woo",
+      "third_person": "woos",
+      "past": "wooed",
+      "past_participle": "wooed",
+      "gerund": "wooing"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/wuː/",
+      "uk": "/wuː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "求愛する、口説く",
+      "支持・好意を得ようと働きかける",
+      "顧客・有権者・投資家などを引きつけようとする"
+    ],
+    "en": [
+      "to try to gain someone's romantic affection",
+      "to try to gain the support or favor of someone",
+      "to attract customers, voters, investors, or other groups"
+    ]
+  },
+  "nuance": {
+    "ja": "woo は、もともと恋愛上の『求愛する』を意味する語だが、現代英語では比喩的に『相手の好意・支持・協力を得ようと積極的に働きかける』という意味でもよく使われる。woo voters, woo investors, woo customers などが典型。単なる persuade よりも、相手を魅了し、こちら側に引き寄せようとするニュアンスがある。",
+    "en": "Woo originally means to court someone romantically, but it is now also commonly used figuratively for trying to win someone's favor, support, or business. It often suggests active efforts to charm, attract, or persuade rather than simple logical persuasion."
+  },
+  "minimal": {
+    "ja": [
+      "woo：相手の好意・支持を得ようと働きかける。",
+      "court：求愛する、または支持・顧客などを獲得しようとする。woo よりややフォーマル。",
+      "persuade：論理・説得によって相手に行動させる。",
+      "attract：相手の関心を引きつける。",
+      "entice：魅力的なものを示して誘い込む。",
+      "charm：魅力によって好感を得る。"
+    ],
+    "en": [
+      "woo means to actively seek someone's affection, favor, or support.",
+      "court is similar and often somewhat more formal.",
+      "persuade emphasizes convincing someone through reasons or argument.",
+      "attract means to draw interest or attention.",
+      "entice means to tempt someone with something appealing.",
+      "charm means to win someone over through personal appeal."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 wōgian『求愛する、結婚を申し込む』に由来する非常に古いゲルマン系の語。もともとは文字どおり恋愛・結婚のために相手へ働きかけることを意味し、そこから『支持・顧客・投資などを得ようと相手に働きかける』という比喩的意味へ広がった。",
+    "en": "From Old English wōgian, meaning 'to court or seek in marriage'. The original romantic sense later broadened figuratively to mean seeking someone's favor, support, business, or cooperation."
+  },
+  "synonyms": [
+    {
+      "word": "court",
+      "note": {
+        "ja": "恋愛・支持獲得の両方で近い。woo よりややフォーマル。",
+        "en": "Close in both romantic and figurative senses, often somewhat more formal."
+      }
+    },
+    {
+      "word": "persuade",
+      "note": {
+        "ja": "論理・理由を示して相手を納得させることに重点。",
+        "en": "Emphasizes convincing someone through reasoning or argument."
+      }
+    },
+    {
+      "word": "charm",
+      "note": {
+        "ja": "魅力・愛想によって相手の好意を得ることに重点。",
+        "en": "Emphasizes winning favor through personal appeal or pleasantness."
+      }
+    },
+    {
+      "word": "entice",
+      "note": {
+        "ja": "魅力的な条件などで相手を誘うことに重点。",
+        "en": "Emphasizes tempting someone by offering something attractive."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "werben um",
+    "it": "corteggiare",
+    "fr": "courtiser",
+    "es": "cortejar"
+  },
+  "collocations": {
+    "ja": [
+      "woo voters — 有権者の支持を取り付けようとする",
+      "woo customers — 顧客を引きつけようとする",
+      "woo investors — 投資家を呼び込もうとする",
+      "woo tourists — 観光客を誘致しようとする",
+      "woo young consumers — 若い消費者層を取り込もうとする",
+      "woo public support — 世論の支持を得ようとする",
+      "woo a potential partner — 将来のパートナーに求愛する",
+      "try to woo someone — ～の好意を得ようとする",
+      "successfully woo — うまく取り込む",
+      "woo someone away from a rival — ライバルから相手を引き抜こうとする"
+    ],
+    "en": [
+      "woo voters",
+      "woo customers",
+      "woo investors",
+      "woo tourists",
+      "woo young consumers",
+      "woo public support",
+      "woo a potential partner",
+      "try to woo someone",
+      "successfully woo",
+      "woo someone away from a rival"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The candidate is trying to woo younger voters. — その候補者は若い有権者の支持を得ようとしている。",
+      "The company launched a new campaign to woo overseas customers. — その会社は海外顧客を取り込むため新たなキャンペーンを開始した。",
+      "Several cities are competing to woo foreign investors. — 複数の都市が外国人投資家を呼び込もうと競争している。",
+      "He spent months wooing her before she agreed to go out with him. — 彼女がデートに応じるまで、彼は何か月も彼女に求愛した。",
+      "The brand is trying to woo consumers away from its main rival. — そのブランドは主要な競合から消費者を取り込もうとしている。"
+    ],
+    "en": [
+      "The candidate is trying to woo younger voters.",
+      "The company launched a new campaign to woo overseas customers.",
+      "Several cities are competing to woo foreign investors.",
+      "He spent months wooing her before she agreed to go out with him.",
+      "The brand is trying to woo consumers away from its main rival."
+    ]
+  }
 }
 ]
