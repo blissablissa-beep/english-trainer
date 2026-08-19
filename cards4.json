@@ -8041,15 +8041,15 @@
   }
 },
 {
-  "id": "loathing",
-  "sid": "2026-00459",
-  "word": "loathing",
+  "id": "detestation",
+  "sid": "2026-00460",
+  "word": "detestation",
   "level": "C1",
-  "freq": "sometimes",
+  "freq": "rare",
   "tags": [
     "emotion",
-    "disgust",
     "hatred",
+    "disgust",
     "formal"
   ],
   "grammar": {
@@ -8058,124 +8058,122 @@
   },
   "pronunciation": {
     "ipa": {
-      "us": "/ˈloʊðɪŋ/",
-      "uk": "/ˈləʊðɪŋ/"
+      "us": "/ˌdiːteˈsteɪʃən/",
+      "uk": "/ˌdiːteˈsteɪʃən/"
     }
   },
   "meaning": {
     "ja": [
-      "激しい嫌悪、強い憎悪",
-      "心から忌み嫌う気持ち",
-      "強く嫌って避けたいという感情"
+      "激しい嫌悪、憎悪",
+      "強く忌み嫌うこと",
+      "嫌悪・憎悪の対象"
     ],
     "en": [
-      "a feeling of intense hatred or disgust",
-      "strong and persistent dislike of someone or something",
-      "a powerful feeling of aversion"
+      "intense dislike or hatred",
+      "the feeling or act of strongly detesting someone or something",
+      "something that is strongly hated"
     ]
   },
   "nuance": {
-    "ja": "loathing は、単なる dislike よりはるかに強く、相手や対象を心底嫌う感情を表す。revulsion のような瞬間的・反射的な嫌悪よりも、持続的な感情として使いやすく、人・行為・制度・状況など幅広い対象に使える。self-loathing『自己嫌悪』も非常によく使われる表現。",
-    "en": "Loathing is an intense and often persistent feeling of hatred or disgust. Unlike revulsion, which can suggest an immediate instinctive recoil, loathing often describes an enduring emotional attitude toward a person, behavior, institution, or situation. Self-loathing is also a common expression."
+    "ja": "detestation は非常に強い嫌悪・憎悪を表すフォーマルな語。loathing と意味は近いが、loathing が感情的・生々しい嫌悪を感じさせやすいのに対し、detestation はやや硬く、人物・行為・思想などを強く嫌悪し拒絶する態度を表しやすい。日常会話では hatred や loathing のほうが一般的。",
+    "en": "Detestation is a formal word for intense dislike or hatred. It overlaps strongly with loathing, but loathing often feels more emotional and visceral, whereas detestation can sound more formal and evaluative, especially when referring to strong rejection of a person, practice, or idea."
   },
   "minimal": {
     "ja": [
-      "loathing：対象を心底嫌う、持続的で激しい嫌悪・憎悪。",
+      "detestation：強く憎み嫌うこと。やや硬くフォーマル。",
+      "loathing：心底からの激しい嫌悪。より感情的。",
+      "abhorrence：強烈な嫌悪。道徳的拒絶にもよく使う。",
       "revulsion：思わず身を引くような反射的嫌悪。",
-      "abhorrence：非常に強い嫌悪。道徳的拒絶にもよく使う。",
-      "disgust：嫌悪を表す最も一般的な語。",
-      "hatred：強い憎しみ。嫌悪感より敵意に寄ることがある。",
-      "aversion：対象を避けたいという強い抵抗感。"
+      "hatred：強い憎しみ・敵意。",
+      "disgust：不快感を伴う一般的な嫌悪。"
     ],
     "en": [
-      "loathing is intense and often enduring hatred or disgust.",
+      "detestation is intense hatred or dislike expressed in a formal register.",
+      "loathing is intense and often deeply emotional disgust or hatred.",
+      "abhorrence often suggests strong moral or emotional rejection.",
       "revulsion emphasizes an instinctive recoiling reaction.",
-      "abhorrence emphasizes intense disgust or moral rejection.",
-      "disgust is the general word for strong revulsion.",
-      "hatred emphasizes strong hostility and dislike.",
-      "aversion emphasizes a strong desire to avoid something."
+      "hatred emphasizes strong hostility.",
+      "disgust is the broader general word for strong repulsion."
     ]
   },
   "etymology": {
-    "ja": "動詞 loathe『ひどく嫌う』の -ing 形が名詞化したもの。loathe は古英語 lāthian『嫌う、憎む』に由来し、lāth『憎むべき、不快な』と同系。形容詞 loath『気が進まない』も同じゲルマン語系の語族に属する。",
-    "en": "Loathing is the noun use of the -ing form of loathe. Loathe comes from Old English lāthian, 'to hate or be disgusted by', related to lāth, meaning 'hateful or unpleasant'. The adjective loath, meaning reluctant, belongs to the same Germanic word family."
+    "ja": "ラテン語 detestatio に由来し、detestari『呪詛しながら拒絶する、強く非難する』から派生した。de- と testari『証言する』から成り、もともとは神々を証人として何かを否認・呪詛するという強い表現だった。そこから『激しく嫌悪する』という意味へ発達した。動詞 detest も同じ語族。",
+    "en": "From Latin detestatio, from detestari, meaning roughly 'to denounce or reject with solemn condemnation'. It is related to testari, 'to bear witness'. The word developed from the idea of formally denouncing something into the modern sense of intense hatred or dislike."
   },
   "synonyms": [
     {
-      "word": "abhorrence",
+      "word": "loathing",
       "note": {
-        "ja": "道徳的・価値判断的な強い嫌悪にも使われる、ややフォーマルな語。",
-        "en": "A somewhat formal term often used for intense moral or emotional disgust."
+        "ja": "非常に強い嫌悪・憎悪。detestation より感情的で自然なことが多い。",
+        "en": "Intense hatred or disgust, often more emotional and more common than detestation."
       }
     },
     {
-      "word": "revulsion",
+      "word": "abhorrence",
       "note": {
-        "ja": "反射的に身を引くような強い嫌悪に重点。",
-        "en": "Emphasizes an immediate instinctive reaction of recoiling."
+        "ja": "道徳的な拒絶を伴う強い嫌悪にもよく使われる。",
+        "en": "Often emphasizes intense moral or emotional rejection."
       }
     },
     {
       "word": "hatred",
       "note": {
-        "ja": "強い憎しみ。敵意や憎悪そのものに重点。",
-        "en": "Emphasizes intense hostility or hate."
+        "ja": "強い憎しみを表す一般的な語。",
+        "en": "The general word for intense hostility or hate."
       }
     },
     {
-      "word": "detestation",
+      "word": "aversion",
       "note": {
-        "ja": "非常に強く嫌うことを表すフォーマルな語。",
-        "en": "A formal word for intense dislike or hatred."
+        "ja": "対象を避けたいという強い嫌悪・抵抗感。",
+        "en": "Emphasizes strong dislike combined with a desire to avoid something."
       }
     }
   ],
   "equivalents": {
-    "de": "Abscheu",
-    "it": "disgusto / odio",
-    "fr": "dégoût / haine",
-    "es": "aversión / odio"
+    "de": "Abscheu / Hass",
+    "it": "detestazione / odio",
+    "fr": "détestation",
+    "es": "detestación"
   },
   "collocations": {
     "ja": [
-      "deep loathing — 深い嫌悪",
-      "intense loathing — 激しい嫌悪",
-      "mutual loathing — 相互の激しい嫌悪",
-      "self-loathing — 自己嫌悪",
-      "feel loathing for — ～を強く嫌悪する",
-      "a feeling of loathing — 激しい嫌悪感",
-      "regard someone with loathing — ～を嫌悪の目で見る",
-      "express loathing — 強い嫌悪を表明する",
-      "develop a loathing for — ～をひどく嫌うようになる",
-      "an object of loathing — 嫌悪の対象"
+      "deep detestation — 深い嫌悪",
+      "utter detestation — 心底からの嫌悪",
+      "mutual detestation — 相互の激しい嫌悪",
+      "feel detestation for — ～を激しく嫌悪する",
+      "express detestation — 激しい嫌悪を表明する",
+      "regard someone with detestation — ～を嫌悪の目で見る",
+      "an object of detestation — 嫌悪の対象",
+      "a detestation of cruelty — 残虐行為への激しい嫌悪",
+      "open detestation — あからさまな嫌悪"
     ],
     "en": [
-      "deep loathing",
-      "intense loathing",
-      "mutual loathing",
-      "self-loathing",
-      "feel loathing for",
-      "a feeling of loathing",
-      "regard someone with loathing",
-      "express loathing",
-      "develop a loathing for",
-      "an object of loathing"
+      "deep detestation",
+      "utter detestation",
+      "mutual detestation",
+      "feel detestation for",
+      "express detestation",
+      "regard someone with detestation",
+      "an object of detestation",
+      "a detestation of cruelty",
+      "open detestation"
     ]
   },
   "example": {
     "ja": [
-      "He felt a deep loathing for corruption and dishonesty. — 彼は腐敗と不正を心底嫌悪していた。",
-      "The two rivals regarded each other with mutual loathing. — その二人のライバルは互いを激しく嫌っていた。",
-      "She developed a strong loathing for the oppressive system. — 彼女はその抑圧的な制度を強く嫌悪するようになった。",
-      "His admiration gradually turned into loathing. — 彼の称賛は徐々に激しい嫌悪へと変わった。",
-      "The novel portrays a character consumed by self-loathing. — その小説は自己嫌悪にさいなまれる人物を描いている。"
+      "He expressed his detestation of cruelty and corruption. — 彼は残虐行為と腐敗への激しい嫌悪を表明した。",
+      "The two men regarded each other with mutual detestation. — 二人の男は互いを激しく嫌悪していた。",
+      "Her detestation of dishonesty was well known. — 彼女が不正を心底嫌っていることはよく知られていた。",
+      "The policy became an object of public detestation. — その政策は世間の激しい嫌悪の対象となった。",
+      "His initial irritation gradually hardened into detestation. — 彼の当初の苛立ちは、徐々に激しい憎悪へと変わっていった。"
     ],
     "en": [
-      "He felt a deep loathing for corruption and dishonesty.",
-      "The two rivals regarded each other with mutual loathing.",
-      "She developed a strong loathing for the oppressive system.",
-      "His admiration gradually turned into loathing.",
-      "The novel portrays a character consumed by self-loathing."
+      "He expressed his detestation of cruelty and corruption.",
+      "The two men regarded each other with mutual detestation.",
+      "Her detestation of dishonesty was well known.",
+      "The policy became an object of public detestation.",
+      "His initial irritation gradually hardened into detestation."
     ]
   }
 },
