@@ -7708,5 +7708,295 @@
       "She rarely complains despite her chronic ailments."
     ]
   }
+},
+{
+  "id": "ail",
+  "sid": "2026-00555",
+  "word": "ail",
+  "level": "C1",
+  "freq": "rare",
+  "tags": [
+    "health",
+    "suffering",
+    "formal",
+    "literary"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive / intransitive",
+    "forms": {
+      "base": "ail",
+      "third_person": "ails",
+      "past": "ailed",
+      "past_participle": "ailed",
+      "gerund": "ailing"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/eɪl/",
+      "uk": "/eɪl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "～を苦しめる、悩ませる",
+      "具合が悪い、病んでいる",
+      "問題・不調を抱えている"
+    ],
+    "en": [
+      "to cause someone physical or mental trouble",
+      "to be ill or in poor health",
+      "to suffer from a problem or weakness"
+    ]
+  },
+  "nuance": {
+    "ja": "ail は現代の日常会話ではやや古風で、通常は be sick, feel unwell, trouble などが使われる。ただし What ails you? は現在でも文学的・冗談めいた響きで使われることがある。また ailing company, ailing economy のように現在分詞 ailing が形容詞化して『不調の、弱っている』という意味で比較的よく使われる。",
+    "en": "Ail is somewhat old-fashioned or literary in ordinary modern English. The expression What ails you? can still be used, often with a literary or humorous tone. The participle ailing is more common and is frequently used figuratively for companies, industries, or economies that are performing poorly."
+  },
+  "minimal": {
+    "ja": [
+      "ail：人を苦しめる／具合が悪い。やや古風。",
+      "afflict：深刻な病気・苦痛・問題で苦しめる。よりフォーマルで強い。",
+      "trouble：悩ませる・困らせる一般語。",
+      "suffer：苦しむ。苦痛を受ける側を主語にする。",
+      "be ill：病気である最も一般的な表現。",
+      "ailing：病弱な／経済・企業などが不振の。"
+    ],
+    "en": [
+      "ail means to trouble someone or to be in poor health and is somewhat old-fashioned.",
+      "afflict is stronger and more formal, often involving serious suffering.",
+      "trouble is the broad everyday verb for causing difficulty or worry.",
+      "suffer usually describes the person experiencing pain or hardship.",
+      "be ill is the ordinary expression for being sick.",
+      "ailing is a relatively common adjective meaning unhealthy or performing poorly."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 eglian『苦しめる、痛ませる』に由来し、古英語 egle『苦痛な、不快な』と関係する。もともとは他動詞的に『人を苦しめる』という意味が中心で、そこから『具合が悪い』という意味にも広がった。名詞 ailment は ail ＋ -ment から作られた。",
+    "en": "From Old English eglian, meaning 'to trouble, afflict, or cause pain', related to egle, 'painful or troublesome'. The transitive sense of causing trouble is historically central, and the intransitive sense of being unwell developed from it. Ailment is formed from ail plus -ment."
+  },
+  "synonyms": [
+    {
+      "word": "trouble",
+      "note": {
+        "ja": "人を悩ませる一般語で、ail より日常的。",
+        "en": "The common everyday verb for causing worry, difficulty, or discomfort."
+      }
+    },
+    {
+      "word": "afflict",
+      "note": {
+        "ja": "病気・苦痛などで深刻に苦しめる。ail より強くフォーマル。",
+        "en": "A stronger and more formal verb for causing serious suffering."
+      }
+    },
+    {
+      "word": "sicken",
+      "note": {
+        "ja": "病気にする、気分を悪くさせる。意味範囲は ail と完全には重ならない。",
+        "en": "Means to make someone ill or disgusted and only partly overlaps with ail."
+      }
+    },
+    {
+      "word": "suffer",
+      "note": {
+        "ja": "苦しむ側を主語にすることが多く、ail とは視点が異なる。",
+        "en": "Usually takes the sufferer as the subject and therefore differs in viewpoint from ail."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "plagen / kränkeln",
+    "it": "affliggere / stare male",
+    "fr": "faire souffrir / être souffrant",
+    "es": "afligir / estar enfermo"
+  },
+  "collocations": {
+    "ja": [
+      "What ails you? — どうしたのですか",
+      "whatever ails him — 彼を悩ませているものが何であれ",
+      "what ails the economy — 経済を悩ませている問題",
+      "an ailing patient — 病弱な患者",
+      "an ailing economy — 不振の経済",
+      "an ailing company — 経営不振の会社",
+      "an ailing industry — 苦境にある業界",
+      "an ailing health system — 問題を抱える医療制度"
+    ],
+    "en": [
+      "What ails you?",
+      "whatever ails him",
+      "what ails the economy",
+      "an ailing patient",
+      "an ailing economy",
+      "an ailing company",
+      "an ailing industry",
+      "an ailing health system"
+    ]
+  },
+  "example": {
+    "ja": [
+      "What ails you? You have been unusually quiet all day. — どうしたのですか。今日は一日ずいぶん静かですね。",
+      "Doctors struggled to determine what ailed him. — 医師たちは何が彼を苦しめているのか突き止めるのに苦労した。",
+      "The government introduced reforms intended to fix what ails the economy. — 政府は経済を悩ませている問題を是正するための改革を導入した。",
+      "The company is trying to revive its ailing retail business. — その会社は不振に陥っている小売事業を立て直そうとしている。",
+      "Several measures were proposed to support the ailing industry. — 苦境にあるその業界を支援するため、いくつかの措置が提案された。"
+    ],
+    "en": [
+      "What ails you? You have been unusually quiet all day.",
+      "Doctors struggled to determine what ailed him.",
+      "The government introduced reforms intended to fix what ails the economy.",
+      "The company is trying to revive its ailing retail business.",
+      "Several measures were proposed to support the ailing industry."
+    ]
+  }
+},
+{
+  "id": "assail",
+  "sid": "2026-00556",
+  "word": "assail",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "attack",
+    "criticism",
+    "pressure",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "assail",
+      "third_person": "assails",
+      "past": "assailed",
+      "past_participle": "assailed",
+      "gerund": "assailing"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈseɪl/",
+      "uk": "/əˈseɪl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "激しく攻撃する、襲撃する",
+      "激しく非難する、攻撃的に批判する",
+      "疑念・感情・刺激などが一気に襲う",
+      "問題・困難などが激しく押し寄せる"
+    ],
+    "en": [
+      "to attack someone or something violently or forcefully",
+      "to criticize someone strongly and aggressively",
+      "to affect or overwhelm someone suddenly and strongly",
+      "to confront someone with intense problems, sensations, or emotions"
+    ]
+  },
+  "nuance": {
+    "ja": "assail は、外から強い力が一気に押し寄せるイメージを持つ。物理的な攻撃だけでなく、assail someone with criticism のような激しい非難、be assailed by doubts のような疑念、be assailed by a smell/noise のような感覚刺激にも使える。beset が継続的な困難に取り囲まれる感じなのに対し、assail はより直接的・突発的・攻撃的。",
+    "en": "Assail suggests a forceful attack or something that strikes a person strongly and directly. It can be physical, verbal, emotional, or sensory. Compared with beset, which often suggests being persistently surrounded by difficulties, assail is more immediate, forceful, and attack-like."
+  },
+  "minimal": {
+    "ja": [
+      "assail：強く襲いかかる、攻撃する。",
+      "attack：攻撃する一般語。",
+      "assault：物理的・法的な攻撃を表すことが多い。",
+      "beset：複数の問題に取り囲まれて悩まされる。",
+      "beleaguer：問題や批判に包囲されて追い詰められる。",
+      "plague：問題がしつこく長く付きまとう。"
+    ],
+    "en": [
+      "assail means to attack forcefully or overwhelm someone strongly.",
+      "attack is the broad general term.",
+      "assault often refers to physical or legally defined attack.",
+      "beset suggests being surrounded by persistent difficulties.",
+      "beleaguer suggests being hemmed in and pressured from many sides.",
+      "plague emphasizes long-lasting or recurring trouble."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 asaillir『襲う、攻撃する』を経て、ラテン語 assilire『跳びかかる』に由来する。ad-『～へ』＋ salire『跳ぶ』から成り、文字どおりには『相手に向かって跳びかかる』という意味。salire は salient とも同系。",
+    "en": "From Old French asaillir, 'to attack', ultimately from Latin assilire, 'to leap upon', formed from ad- ('toward') and salire ('to leap'). The same root appears in salient."
+  },
+  "synonyms": [
+    {
+      "word": "attack",
+      "note": {
+        "ja": "攻撃する最も一般的な語。",
+        "en": "The broad general verb for attacking."
+      }
+    },
+    {
+      "word": "assault",
+      "note": {
+        "ja": "物理的な攻撃や法律上の assault を表すことが多い。",
+        "en": "Often refers to physical attack or a legally defined assault."
+      }
+    },
+    {
+      "word": "beset",
+      "note": {
+        "ja": "問題・困難に取り囲まれるように悩まされる。",
+        "en": "Suggests being surrounded by persistent troubles or difficulties."
+      }
+    },
+    {
+      "word": "bombard",
+      "note": {
+        "ja": "砲撃する／質問・情報などを大量に浴びせる。",
+        "en": "Means to attack with artillery or figuratively overwhelm someone with questions, information, or messages."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "angreifen / bestürmen",
+    "it": "assalire",
+    "fr": "assaillir",
+    "es": "asaltar / acosar"
+  },
+  "collocations": {
+    "ja": [
+      "assail someone with criticism — 人を激しく批判する",
+      "assail a proposal — 提案を激しく攻撃する",
+      "be assailed by doubts — 疑念に襲われる",
+      "be assailed by criticism — 激しい批判を浴びる",
+      "be assailed by problems — 問題が次々と押し寄せる",
+      "be assailed by memories — 記憶が一気によみがえる",
+      "be assailed by a strong smell — 強い臭いに襲われる",
+      "assail the senses — 感覚を強く刺激する",
+      "verbally assail — 言葉で激しく攻撃する",
+      "relentlessly assail — 容赦なく攻撃し続ける"
+    ],
+    "en": [
+      "assail someone with criticism",
+      "assail a proposal",
+      "be assailed by doubts",
+      "be assailed by criticism",
+      "be assailed by problems",
+      "be assailed by memories",
+      "be assailed by a strong smell",
+      "assail the senses",
+      "verbally assail",
+      "relentlessly assail"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The proposal was assailed by critics from across the political spectrum. — その提案は政治的立場を問わず批評家たちから激しく非難された。",
+      "He was suddenly assailed by doubts about his decision. — 彼は突然、自分の決断に対する疑念に襲われた。",
+      "As we entered the room, we were assailed by a powerful smell. — 部屋に入ると、強烈な臭いが一気に鼻をついた。",
+      "The minister was assailed with questions from reporters. — その大臣は記者たちから質問攻めに遭った。",
+      "Enemy forces assailed the fortress at dawn. — 敵軍は夜明けに要塞へ激しく攻撃を仕掛けた。"
+    ],
+    "en": [
+      "The proposal was assailed by critics from across the political spectrum.",
+      "He was suddenly assailed by doubts about his decision.",
+      "As we entered the room, we were assailed by a powerful smell.",
+      "The minister was assailed with questions from reporters.",
+      "Enemy forces assailed the fortress at dawn."
+    ]
+  }
 }
 ]
