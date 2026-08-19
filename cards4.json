@@ -11827,5 +11827,737 @@
       "The truck overturned on a sharp bend."
     ]
   }
+},
+{
+  "id": "vacate",
+  "sid": "2026-00487",
+  "word": "vacate",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "law",
+    "property",
+    "decision",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive / intransitive",
+    "forms": {
+      "base": "vacate",
+      "third_person": "vacates",
+      "past": "vacated",
+      "past_participle": "vacated",
+      "gerund": "vacating"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈveɪkeɪt/",
+      "uk": "/vəˈkeɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "場所・部屋・建物などを空ける、立ち退く",
+      "職位・地位などを退いて空席にする",
+      "判決・命令などを取り消し、法的効力を失わせる"
+    ],
+    "en": [
+      "to leave a place, room, building, or property",
+      "to leave a position or office so that it becomes vacant",
+      "to cancel or set aside a judgment, order, or legal decision"
+    ]
+  },
+  "nuance": {
+    "ja": "vacate の基本イメージは『空にする』。vacate a room や vacate the premises では場所を空けることを表し、vacate a position では地位を退いて空席にすることを表す。法律では vacate a judgment, vacate an order のように、その判断を取り消して法的効力を失わせる意味になる。特に米国法律英語で重要。",
+    "en": "The core idea of vacate is to make something vacant or empty. It can mean leaving a room, building, property, or office, and in legal usage it means setting aside a judgment, order, or decision so that it no longer has legal effect. This legal sense is especially common in U.S. English."
+  },
+  "minimal": {
+    "ja": [
+      "vacate：場所・地位を空ける。または判決・命令を取り消して無効にする。",
+      "overturn：判決・決定を覆す一般語。",
+      "quash：法的決定・手続などの効力を正式に失わせる。",
+      "reverse：上級審などが下級審の判断を逆転させる。",
+      "annul：法律行為・婚姻・契約などを無効とする。",
+      "evacuate：危険などのため、人を場所から避難させる。"
+    ],
+    "en": [
+      "vacate means to leave something empty or legally set aside a judgment or order.",
+      "overturn is the broad general term for reversing a judgment or decision.",
+      "quash emphasizes formally invalidating a legal decision or proceeding.",
+      "reverse often refers to a higher court changing a lower court's decision.",
+      "annul means to declare a legal act, marriage, or status invalid.",
+      "evacuate means to remove people from a place, especially because of danger."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 vacare『空である、空いている』に由来する。vacant, vacancy, vacuum と同じ語族。『空にする』という基本イメージから、場所を立ち退く意味と、法律上『判決の効力を空にする＝取り消す』という意味が生じた。",
+    "en": "From Latin vacare, meaning 'to be empty or free'. It belongs to the same family as vacant, vacancy, and vacuum. The core idea of making something empty developed both into the ordinary sense of leaving a place and the legal sense of depriving a judgment or order of effect."
+  },
+  "synonyms": [
+    {
+      "word": "set aside",
+      "note": {
+        "ja": "法律では判決・命令を取り消す意味で非常に近い。",
+        "en": "A very close legal expression meaning to cancel or invalidate a judgment or order."
+      }
+    },
+    {
+      "word": "overturn",
+      "note": {
+        "ja": "判決・決定を覆す、より一般的な語。",
+        "en": "A broader and more general term for reversing a decision or judgment."
+      }
+    },
+    {
+      "word": "leave",
+      "note": {
+        "ja": "場所を去る最も一般的な語。vacate より日常的。",
+        "en": "The general everyday verb for departing from a place."
+      }
+    },
+    {
+      "word": "evacuate",
+      "note": {
+        "ja": "危険などのため人を避難させることに重点。",
+        "en": "Emphasizes removing people from a place, usually for safety."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "räumen / aufheben",
+    "it": "sgomberare / annullare",
+    "fr": "quitter / annuler",
+    "es": "desalojar / anular"
+  },
+  "collocations": {
+    "ja": [
+      "vacate the premises — 建物・敷地から立ち退く",
+      "vacate a room — 部屋を空ける",
+      "vacate a property — 物件から退去する",
+      "vacate a seat — 席・議席を空ける",
+      "vacate a position — 地位を退く",
+      "vacate office — 公職を退く",
+      "vacate a judgment — 判決を取り消す",
+      "vacate an order — 命令を取り消す",
+      "vacate a conviction — 有罪判決を取り消す",
+      "motion to vacate — 取消しを求める申立て",
+      "order to vacate — 退去命令"
+    ],
+    "en": [
+      "vacate the premises",
+      "vacate a room",
+      "vacate a property",
+      "vacate a seat",
+      "vacate a position",
+      "vacate office",
+      "vacate a judgment",
+      "vacate an order",
+      "vacate a conviction",
+      "motion to vacate",
+      "order to vacate"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Guests are required to vacate their rooms by noon. — 宿泊客は正午までに部屋を空けなければならない。",
+      "The tenants were ordered to vacate the property within thirty days. — 借主らは30日以内にその物件から退去するよう命じられた。",
+      "She vacated her position at the end of the year. — 彼女は年末にその職を退いた。",
+      "The court vacated the earlier judgment and ordered further proceedings. — 裁判所は以前の判決を取り消し、さらなる審理を命じた。",
+      "The defendant filed a motion to vacate the conviction. — 被告人は有罪判決の取消しを求める申立てを行った。"
+    ],
+    "en": [
+      "Guests are required to vacate their rooms by noon.",
+      "The tenants were ordered to vacate the property within thirty days.",
+      "She vacated her position at the end of the year.",
+      "The court vacated the earlier judgment and ordered further proceedings.",
+      "The defendant filed a motion to vacate the conviction."
+    ]
+  }
+},
+{
+  "id": "set_aside",
+  "sid": "2026-00488",
+  "word": "set aside",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal-verb",
+    "law",
+    "planning",
+    "decision"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "set aside",
+      "third_person": "sets aside",
+      "past": "set aside",
+      "past_participle": "set aside",
+      "gerund": "setting aside"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌset əˈsaɪd/",
+      "uk": "/ˌset əˈsaɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "脇に置く、別にしておく",
+      "時間・お金などを取っておく、確保する",
+      "問題・感情・相違などをいったん棚上げする",
+      "判決・命令・決定などを取り消す、無効にする"
+    ],
+    "en": [
+      "to put something to one side",
+      "to reserve time, money, or resources for a particular purpose",
+      "to temporarily disregard a problem, feeling, or disagreement",
+      "to cancel or invalidate a judgment, order, or legal decision"
+    ]
+  },
+  "nuance": {
+    "ja": "set aside の基本イメージは『いったん横に置く』。物理的に物を脇へ置く意味から、money を取っておく、differences を棚上げする、judgment を法的に取り消す、といった抽象的意味へ広がる。法律では set aside a judgment, set aside an order のように使われ、vacate とかなり近い。",
+    "en": "The core image of set aside is putting something to one side. From this come several common senses: reserving resources, temporarily disregarding an issue, and legally invalidating a judgment or order. In legal contexts, set aside is close to vacate."
+  },
+  "minimal": {
+    "ja": [
+      "set aside：横に置く → 確保する・棚上げする・法的に取り消す。",
+      "reserve：将来の用途のため正式に確保する。",
+      "put aside：脇に置く・貯める。set aside より口語的な場合がある。",
+      "shelve：計画・問題などを当面棚上げする。",
+      "vacate：判決・命令を取り消して効力を失わせる法律語。",
+      "quash：法的決定・手続などを破棄する。"
+    ],
+    "en": [
+      "set aside means to put aside, reserve, disregard temporarily, or legally invalidate.",
+      "reserve means to keep something for a particular future use.",
+      "put aside is a close and often more conversational expression.",
+      "shelve means to postpone consideration of a plan or issue.",
+      "vacate is a legal term for setting aside a judgment or order.",
+      "quash emphasizes formally invalidating a legal decision or proceeding."
+    ]
+  },
+  "etymology": {
+    "ja": "set『置く』＋ aside『脇へ』から成る透明な句動詞。文字どおりの『脇へ置く』から、『別に取っておく』『考慮から外す』『法的効力を外す』と意味が抽象化した。",
+    "en": "A transparent combination of set and aside. The literal idea of placing something to one side developed into the figurative senses of reserving, disregarding, and legally invalidating something."
+  },
+  "synonyms": [
+    {
+      "word": "reserve",
+      "note": {
+        "ja": "時間・お金・資源などを特定目的のため確保する意味で近い。",
+        "en": "Close in the sense of keeping time, money, or resources for a specific purpose."
+      }
+    },
+    {
+      "word": "put aside",
+      "note": {
+        "ja": "物・お金・問題などを脇に置く意味で非常に近い。",
+        "en": "Very close for physically putting something aside or temporarily disregarding it."
+      }
+    },
+    {
+      "word": "vacate",
+      "note": {
+        "ja": "法律では判決・命令を取り消す意味で非常に近い。",
+        "en": "A close legal synonym for invalidating a judgment or order."
+      }
+    },
+    {
+      "word": "shelve",
+      "note": {
+        "ja": "計画・議論などを当面保留することに重点。",
+        "en": "Emphasizes postponing or suspending consideration of a plan or issue."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "beiseitelegen / aufheben",
+    "it": "mettere da parte / annullare",
+    "fr": "mettre de côté / annuler",
+    "es": "apartar / anular"
+  },
+  "collocations": {
+    "ja": [
+      "set aside money — お金を取っておく",
+      "set aside time — 時間を確保する",
+      "set aside funds — 資金を確保する",
+      "set aside resources — 資源を確保する",
+      "set aside differences — 意見の相違を棚上げする",
+      "set aside one's concerns — 懸念をいったん脇に置く",
+      "set aside personal feelings — 個人的感情を脇に置く",
+      "set aside a judgment — 判決を取り消す",
+      "set aside an order — 命令を取り消す",
+      "set aside a verdict — 評決を取り消す",
+      "motion to set aside — 取消しを求める申立て"
+    ],
+    "en": [
+      "set aside money",
+      "set aside time",
+      "set aside funds",
+      "set aside resources",
+      "set aside differences",
+      "set aside one's concerns",
+      "set aside personal feelings",
+      "set aside a judgment",
+      "set aside an order",
+      "set aside a verdict",
+      "motion to set aside"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We set aside part of the budget for unexpected expenses. — 私たちは予期せぬ支出のために予算の一部を確保した。",
+      "She sets aside an hour every morning for reading. — 彼女は毎朝1時間を読書のために確保している。",
+      "The two sides agreed to set aside their differences and work together. — 双方は意見の相違をいったん棚上げし、協力することで合意した。",
+      "The court set aside the earlier judgment. — 裁判所は以前の判決を取り消した。",
+      "The defendant filed a motion to set aside the verdict. — 被告人は評決の取消しを求める申立てを行った。"
+    ],
+    "en": [
+      "We set aside part of the budget for unexpected expenses.",
+      "She sets aside an hour every morning for reading.",
+      "The two sides agreed to set aside their differences and work together.",
+      "The court set aside the earlier judgment.",
+      "The defendant filed a motion to set aside the verdict."
+    ]
+  }
+},
+{
+  "id": "put_aside",
+  "sid": "2026-00489",
+  "word": "put aside",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal-verb",
+    "planning",
+    "money",
+    "attitude"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "put aside",
+      "third_person": "puts aside",
+      "past": "put aside",
+      "past_participle": "put aside",
+      "gerund": "putting aside"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌpʊt əˈsaɪd/",
+      "uk": "/ˌpʊt əˈsaɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "脇に置く、別にしておく",
+      "お金などを取っておく、貯める",
+      "感情・問題・意見の相違などをいったん脇に置く",
+      "後で使うために確保しておく"
+    ],
+    "en": [
+      "to place something to one side",
+      "to save or reserve something, especially money, for later use",
+      "to temporarily ignore or disregard a feeling, issue, or disagreement",
+      "to keep something for a future purpose"
+    ]
+  },
+  "nuance": {
+    "ja": "put aside の基本イメージは『脇に置いておく』。物理的に物を置く意味から、お金を貯める、感情や問題をいったん考えないことにする、といった意味に広がる。set aside と非常に近いが、put aside はより日常的で会話的。set aside には法律上『判決・命令を取り消す』という用法があるが、put aside には通常その意味はない。",
+    "en": "The core meaning of put aside is to place something to one side. It extends naturally to saving money or temporarily disregarding feelings, concerns, or disagreements. It is generally more conversational than set aside. Unlike set aside, put aside is not normally used as a legal term for invalidating a judgment or order."
+  },
+  "minimal": {
+    "ja": [
+      "put aside：脇に置く、貯める、いったん考えないことにする。日常的。",
+      "set aside：意味は非常に近いが、ややフォーマルで法律用法もある。",
+      "save：お金などを貯める一般語。",
+      "reserve：特定目的のため確保しておく。",
+      "shelve：計画・問題などを当面棚上げする。",
+      "brush aside：問題・批判などを軽視して退ける。"
+    ],
+    "en": [
+      "put aside means to place aside, save, or temporarily disregard something.",
+      "set aside is very similar but can be more formal and also has a legal sense.",
+      "save is the general verb for keeping money or resources for later.",
+      "reserve means to keep something for a specific purpose.",
+      "shelve means to postpone consideration of a plan or issue.",
+      "brush aside means to dismiss something as unimportant."
+    ]
+  },
+  "etymology": {
+    "ja": "put『置く』＋ aside『脇へ』から成る透明な句動詞。物理的な『横へ置く』から、『後のために取っておく』『感情や問題を一時的に考慮から外す』という抽象的な意味が生じた。",
+    "en": "A transparent combination of put and aside. The literal sense of placing something to one side developed into the figurative meanings of saving something for later or temporarily excluding it from consideration."
+  },
+  "synonyms": [
+    {
+      "word": "set aside",
+      "note": {
+        "ja": "意味は非常に近いが、よりフォーマルな文脈にも適し、法律用法もある。",
+        "en": "Very close in meaning, but somewhat more formal and also used in legal contexts."
+      }
+    },
+    {
+      "word": "save",
+      "note": {
+        "ja": "特にお金を将来のために貯める意味で近い。",
+        "en": "Especially close in the sense of keeping money for future use."
+      }
+    },
+    {
+      "word": "reserve",
+      "note": {
+        "ja": "特定の目的・人・時期のために確保することに重点。",
+        "en": "Emphasizes keeping something available for a particular purpose or person."
+      }
+    },
+    {
+      "word": "shelve",
+      "note": {
+        "ja": "計画・問題などの検討を当面停止する場合に使う。",
+        "en": "Used when discussion or consideration of a plan or issue is postponed."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "beiseitelegen",
+    "it": "mettere da parte",
+    "fr": "mettre de côté",
+    "es": "dejar de lado / ahorrar"
+  },
+  "collocations": {
+    "ja": [
+      "put aside some money — お金をいくらか貯めておく",
+      "put aside savings — 貯蓄として取っておく",
+      "put aside time — 時間を確保する",
+      "put aside one's differences — 意見の相違をいったん脇に置く",
+      "put aside personal feelings — 個人的感情を脇に置く",
+      "put aside one's concerns — 懸念をいったん脇に置く",
+      "put aside one's pride — プライドを捨てる・脇に置く",
+      "put aside the issue — その問題をいったん棚上げする",
+      "put something aside for later — ～を後のために取っておく",
+      "put aside enough money — 十分なお金を貯めておく"
+    ],
+    "en": [
+      "put aside some money",
+      "put aside savings",
+      "put aside time",
+      "put aside one's differences",
+      "put aside personal feelings",
+      "put aside one's concerns",
+      "put aside one's pride",
+      "put aside the issue",
+      "put something aside for later",
+      "put aside enough money"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She puts aside part of her salary every month. — 彼女は毎月給料の一部を貯金している。",
+      "We need to put aside our differences and focus on the problem. — 私たちは意見の相違をいったん脇に置き、問題に集中する必要がある。",
+      "He put the document aside and answered the phone. — 彼は書類を脇に置いて電話に出た。",
+      "Try to put aside your personal feelings when making the decision. — 判断を下すときは個人的感情をいったん脇に置くようにしてください。",
+      "They had put aside enough money to cover several months of expenses. — 彼らは数か月分の生活費を賄えるだけのお金を貯めていた。"
+    ],
+    "en": [
+      "She puts aside part of her salary every month.",
+      "We need to put aside our differences and focus on the problem.",
+      "He put the document aside and answered the phone.",
+      "Try to put aside your personal feelings when making the decision.",
+      "They had put aside enough money to cover several months of expenses."
+    ]
+  }
+},
+{
+  "id": "shelve",
+  "sid": "2026-00490",
+  "word": "shelve",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "decision",
+    "planning",
+    "delay",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "shelve",
+      "third_person": "shelves",
+      "past": "shelved",
+      "past_participle": "shelved",
+      "gerund": "shelving"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ʃelv/",
+      "uk": "/ʃelv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "棚に載せる、棚にしまう",
+      "計画・提案・問題などを棚上げする",
+      "実施・検討を当面延期する、保留する"
+    ],
+    "en": [
+      "to put something on a shelf",
+      "to postpone or suspend consideration of a plan, proposal, or issue",
+      "to decide not to proceed with something for the time being"
+    ]
+  },
+  "nuance": {
+    "ja": "shelve の比喩的用法では、計画・提案・プロジェクトなどを『今は進めない』としていったん脇に置くことを表す。単なる delay よりも、再開時期が明確でないことが多く、場合によっては事実上の中止に近いこともある。ただし shelve 自体は必ずしも永久的な放棄を意味しない。",
+    "en": "In its figurative sense, shelve means to stop pursuing or considering a plan, proposal, project, or issue for the time being. It often suggests an indefinite postponement rather than a short, clearly scheduled delay. However, it does not necessarily mean permanent abandonment."
+  },
+  "minimal": {
+    "ja": [
+      "shelve：計画・提案などを当面棚上げする。",
+      "postpone：予定していた実施時期を後ろへずらす。",
+      "delay：何かを遅らせる一般語。",
+      "put aside：問題・感情などをいったん脇に置く。より日常的。",
+      "set aside：いったん脇に置く・確保する・法律上取り消す。",
+      "abandon：計画などを完全に断念する。"
+    ],
+    "en": [
+      "shelve means to suspend a plan or proposal for the time being.",
+      "postpone means to move something to a later time.",
+      "delay is the general verb for making something happen later.",
+      "put aside means to temporarily disregard something and is more conversational.",
+      "set aside can mean to disregard, reserve, or legally invalidate.",
+      "abandon means to give something up completely."
+    ]
+  },
+  "etymology": {
+    "ja": "shelf『棚』から作られた動詞。文字どおりの『棚に置く』から、『計画や問題を棚に置いて、しばらく手をつけない』という比喩的意味が発達した。日本語の『棚上げする』と非常によく対応する。",
+    "en": "Derived from the noun shelf. The literal sense of placing something on a shelf developed into the figurative idea of putting a plan or issue aside and leaving it untouched for the time being."
+  },
+  "synonyms": [
+    {
+      "word": "postpone",
+      "note": {
+        "ja": "実施を後日に延期する意味。shelve より再開を前提としやすい。",
+        "en": "Means to move something to a later time and more strongly implies that it will still happen."
+      }
+    },
+    {
+      "word": "defer",
+      "note": {
+        "ja": "決定・実施を後まで延期するフォーマルな語。",
+        "en": "A formal term for postponing a decision or action until later."
+      }
+    },
+    {
+      "word": "put aside",
+      "note": {
+        "ja": "問題などを一時的に考慮から外す。shelve より日常的。",
+        "en": "Means to temporarily disregard something and is generally more conversational."
+      }
+    },
+    {
+      "word": "abandon",
+      "note": {
+        "ja": "再開せず完全に断念する場合はこちら。",
+        "en": "Means to give up a plan or project completely rather than merely postpone it."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "auf Eis legen / zurückstellen",
+    "it": "accantonare",
+    "fr": "mettre de côté / ajourner",
+    "es": "archivar / aplazar"
+  },
+  "collocations": {
+    "ja": [
+      "shelve a plan — 計画を棚上げする",
+      "shelve a proposal — 提案を棚上げする",
+      "shelve a project — プロジェクトを保留する",
+      "shelve an idea — アイデアをいったん棚上げする",
+      "shelve the issue — その問題を棚上げする",
+      "shelve plans to expand — 拡張計画を棚上げする",
+      "temporarily shelve — 一時的に棚上げする",
+      "indefinitely shelve — 無期限に棚上げする",
+      "be shelved — 棚上げされる",
+      "plans were shelved — 計画は棚上げされた"
+    ],
+    "en": [
+      "shelve a plan",
+      "shelve a proposal",
+      "shelve a project",
+      "shelve an idea",
+      "shelve the issue",
+      "shelve plans to expand",
+      "temporarily shelve",
+      "indefinitely shelve",
+      "be shelved",
+      "plans were shelved"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company shelved its plans to expand overseas. — その会社は海外展開の計画を棚上げした。",
+      "The proposal was shelved because of budget constraints. — その提案は予算上の制約により棚上げされた。",
+      "They decided to shelve the project until economic conditions improved. — 彼らは経済状況が改善するまでそのプロジェクトを棚上げすることにした。",
+      "The issue was quietly shelved and never discussed again. — その問題はひそかに棚上げされ、その後二度と議論されなかった。",
+      "We should not abandon the idea entirely; we can shelve it for now. — そのアイデアを完全に断念する必要はなく、今は棚上げしておけばよい。"
+    ],
+    "en": [
+      "The company shelved its plans to expand overseas.",
+      "The proposal was shelved because of budget constraints.",
+      "They decided to shelve the project until economic conditions improved.",
+      "The issue was quietly shelved and never discussed again.",
+      "We should not abandon the idea entirely; we can shelve it for now."
+    ]
+  }
+},
+{
+  "id": "duly",
+  "sid": "2026-00491",
+  "word": "duly",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "formal",
+    "procedure",
+    "law",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adverb"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈduːli/",
+      "uk": "/ˈdjuːli/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "しかるべく、適切に",
+      "正式に、正規の手続に従って",
+      "予定どおりに、期待されたとおりに",
+      "当然ながら、その結果として"
+    ],
+    "en": [
+      "in the proper or expected manner",
+      "in accordance with the required procedure",
+      "at the appropriate or expected time",
+      "as was expected or required"
+    ]
+  },
+  "nuance": {
+    "ja": "duly は、単に properly『正しく』というよりも、規則・手続・期待・予定などに沿って物事がきちんと行われたことを示すフォーマルな副詞。duly authorized, duly signed, duly elected のような法律・行政・ビジネス表現でよく使われる。一方、日常的な文章でも duly arrived, duly apologized のように『予定・期待どおりに』という少し硬めの表現として使える。",
+    "en": "Duly is a formal adverb meaning that something was done in the proper, required, or expected way or at the expected time. It is common in legal, administrative, and business expressions such as duly authorized, duly signed, and duly elected, but it can also mean simply 'as expected' in general prose."
+  },
+  "minimal": {
+    "ja": [
+      "duly：要求・手続・期待どおり、しかるべく。",
+      "properly：正しく・適切に。より一般的。",
+      "formally：正式な形式・手続で。",
+      "officially：公的・公式な立場で。",
+      "accordingly：それに応じて、その結果として。",
+      "promptly：遅れず速やかに。duly の『適切な時期に』とは異なる。"
+    ],
+    "en": [
+      "duly means in the proper, required, or expected manner.",
+      "properly is the broader general term for doing something correctly.",
+      "formally emphasizes official form or procedure.",
+      "officially emphasizes recognized public or institutional status.",
+      "accordingly means in a way that follows from a situation or instruction.",
+      "promptly emphasizes speed or lack of delay."
+    ]
+  },
+  "etymology": {
+    "ja": "due『当然支払われるべき、予定された、しかるべき』＋ -ly から成る。due は古フランス語 deu に由来し、ラテン語 debere『負っている、～すべきである』にさかのぼる。したがって duly は『しかるべきものとして、求められるとおりに』という意味になる。",
+    "en": "Formed from due plus -ly. Due comes through Old French from Latin debere, meaning 'to owe' or 'to be obliged'. Duly therefore developed the sense of doing something as required, expected, or appropriate."
+  },
+  "synonyms": [
+    {
+      "word": "properly",
+      "note": {
+        "ja": "正しい方法・適切な状態で行うことを表す一般語。",
+        "en": "The general term for doing something correctly or appropriately."
+      }
+    },
+    {
+      "word": "appropriately",
+      "note": {
+        "ja": "状況にふさわしい方法で、という意味。",
+        "en": "Emphasizes suitability to a particular situation."
+      }
+    },
+    {
+      "word": "formally",
+      "note": {
+        "ja": "正式な形式・手続に従っていることに重点。",
+        "en": "Emphasizes compliance with official form or procedure."
+      }
+    },
+    {
+      "word": "accordingly",
+      "note": {
+        "ja": "事情・指示・結果に応じて行動することに重点。",
+        "en": "Emphasizes acting in response to circumstances or instructions."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ordnungsgemäß / gebührend",
+    "it": "debitamente",
+    "fr": "dûment",
+    "es": "debidamente"
+  },
+  "collocations": {
+    "ja": [
+      "duly authorized — 正式に権限を与えられた",
+      "duly appointed — 正式に任命された",
+      "duly elected — 正式に選出された",
+      "duly signed — 正式に署名された",
+      "duly executed — 正式に締結・作成された",
+      "duly completed — 適切に記入・完了された",
+      "duly registered — 正式に登録された",
+      "duly notified — 正式に通知された",
+      "duly considered — しかるべく考慮された",
+      "duly noted — しかるべく承知した、記録した"
+    ],
+    "en": [
+      "duly authorized",
+      "duly appointed",
+      "duly elected",
+      "duly signed",
+      "duly executed",
+      "duly completed",
+      "duly registered",
+      "duly notified",
+      "duly considered",
+      "duly noted"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The agreement was duly signed by both parties. — その契約は双方によって正式に署名された。",
+      "She was duly appointed as chair of the committee. — 彼女は委員会の議長として正式に任命された。",
+      "The application must be duly completed and submitted before the deadline. — 申請書は適切に記入し、期限前に提出しなければならない。",
+      "The concerns raised by the employees were duly considered. — 従業員から提起された懸念はしかるべく検討された。",
+      "He duly apologized after realizing his mistake. — 彼は自分の誤りに気づき、しかるべく謝罪した。"
+    ],
+    "en": [
+      "The agreement was duly signed by both parties.",
+      "She was duly appointed as chair of the committee.",
+      "The application must be duly completed and submitted before the deadline.",
+      "The concerns raised by the employees were duly considered.",
+      "He duly apologized after realizing his mistake."
+    ]
+  }
 }
 ]
