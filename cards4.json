@@ -9008,5 +9008,147 @@
       "The survey focused on the most salient issues raised by employees."
     ]
   }
+},
+{
+  "id": "apparatus",
+  "sid": "2026-00467",
+  "word": "apparatus",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "equipment",
+    "science",
+    "organization",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "apparatuses / apparatus"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌæpəˈrætəs/",
+      "uk": "/ˌæpəˈreɪtəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "装置、器具一式",
+      "実験・技術などに用いる設備一式",
+      "組織機構、制度的な仕組み",
+      "政府・政党などの機構"
+    ],
+    "en": [
+      "a set of equipment or devices used for a particular purpose",
+      "equipment used in scientific, technical, or practical work",
+      "an organized system or structure for carrying out a function",
+      "the institutional machinery of a government, party, or organization"
+    ]
+  },
+  "nuance": {
+    "ja": "apparatus は、単一の小さな機器というより、ある目的のために組み合わされた装置・器具・部品の一式を表すことが多い。科学では laboratory apparatus、技術では breathing apparatus などが典型。比喩的には state apparatus, administrative apparatus のように、国家・行政・組織を動かす制度的機構を表す。",
+    "en": "Apparatus usually refers to a set of equipment or interconnected components designed for a particular purpose rather than a single simple device. It is common in scientific and technical contexts and can also be used figuratively for an institutional or organizational system."
+  },
+  "minimal": {
+    "ja": [
+      "apparatus：ある目的のための装置・器具一式、または組織機構。",
+      "device：特定機能を持つ個々の機器・装置。",
+      "equipment：仕事・活動に必要な機材全般。通常不可算。",
+      "instrument：測定・観察・精密作業用の器具。",
+      "machinery：機械類一式、または比喩的に制度機構。",
+      "mechanism：作動原理・仕組みそのもの。"
+    ],
+    "en": [
+      "apparatus is a set of equipment or an organized institutional system.",
+      "device usually refers to an individual piece of equipment.",
+      "equipment is the broad uncountable term for tools and gear.",
+      "instrument often means a precise tool for measurement or specialized work.",
+      "machinery refers to machines collectively and can also be figurative.",
+      "mechanism emphasizes how something works rather than the equipment itself."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 apparatus『準備、装備、設備』に由来し、apparare『準備する、用意する』と関係する。ad-『～へ』＋ parare『準備する』という構造で、prepare とも遠い語源的つながりがある。もともとの『用意されたもの一式』という感覚が現在の『装置・設備一式』につながっている。",
+    "en": "From Latin apparatus, meaning 'preparation, equipment, or outfit', from apparare, 'to prepare'. It is related to parare, 'to prepare', which also lies behind words such as prepare. The original idea was a set of things prepared for a particular purpose."
+  },
+  "synonyms": [
+    {
+      "word": "equipment",
+      "note": {
+        "ja": "必要な機材全般を表す最も広い語。通常は不可算。",
+        "en": "The broad general term for tools or gear needed for an activity and usually uncountable."
+      }
+    },
+    {
+      "word": "device",
+      "note": {
+        "ja": "特定の機能を持つ一個の機器を指しやすい。",
+        "en": "Usually refers to a single object designed for a particular function."
+      }
+    },
+    {
+      "word": "machinery",
+      "note": {
+        "ja": "機械設備全般。比喩的に政府・制度の機構にも使える。",
+        "en": "Refers to machines collectively and can figuratively describe institutional systems."
+      }
+    },
+    {
+      "word": "mechanism",
+      "note": {
+        "ja": "装置そのものより、作動する仕組み・原理に重点。",
+        "en": "Emphasizes the process or system by which something operates."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Apparat",
+    "it": "apparato",
+    "fr": "appareil",
+    "es": "aparato"
+  },
+  "collocations": {
+    "ja": [
+      "laboratory apparatus — 実験装置一式",
+      "scientific apparatus — 科学装置",
+      "breathing apparatus — 呼吸装置",
+      "firefighting apparatus — 消防設備・消防装置",
+      "experimental apparatus — 実験装置",
+      "state apparatus — 国家機構",
+      "government apparatus — 政府機構",
+      "administrative apparatus — 行政機構",
+      "party apparatus — 政党機構",
+      "the apparatus of government — 政府の機構"
+    ],
+    "en": [
+      "laboratory apparatus",
+      "scientific apparatus",
+      "breathing apparatus",
+      "firefighting apparatus",
+      "experimental apparatus",
+      "state apparatus",
+      "government apparatus",
+      "administrative apparatus",
+      "party apparatus",
+      "the apparatus of government"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The laboratory purchased new apparatus for measuring air pressure. — その研究所は気圧を測定するための新しい装置一式を購入した。",
+      "The firefighters entered the building wearing breathing apparatus. — 消防士たちは呼吸装置を装着して建物に入った。",
+      "The experimental apparatus must be calibrated before use. — 実験装置は使用前に校正しなければならない。",
+      "The reform significantly changed the administrative apparatus of the state. — その改革は国家の行政機構を大きく変えた。",
+      "The party maintained an extensive organizational apparatus across the country. — その政党は全国に広範な組織機構を維持していた。"
+    ],
+    "en": [
+      "The laboratory purchased new apparatus for measuring air pressure.",
+      "The firefighters entered the building wearing breathing apparatus.",
+      "The experimental apparatus must be calibrated before use.",
+      "The reform significantly changed the administrative apparatus of the state.",
+      "The party maintained an extensive organizational apparatus across the country."
+    ]
+  }
 }
 ]
