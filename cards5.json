@@ -1,1 +1,1143 @@
-[]
+[
+{
+  "id": "flaw",
+  "sid": "2026-00501",
+  "word": "flaw",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "defect",
+    "evaluation",
+    "reasoning",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable",
+    "plural": "flaws",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "flaw",
+      "third_person": "flaws",
+      "past": "flawed",
+      "past_participle": "flawed",
+      "gerund": "flawing"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/flɔː/",
+      "uk": "/flɔː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "欠陥、傷、瑕疵",
+      "論理・計画・設計などの弱点",
+      "性格上の欠点",
+      "動詞：～に欠陥を生じさせる"
+    ],
+    "en": [
+      "a defect or weakness in something",
+      "a weakness in an argument, plan, design, or system",
+      "a fault in someone's character",
+      "verb: to damage or weaken something by introducing a defect"
+    ]
+  },
+  "nuance": {
+    "ja": "flaw は、物・設計・論理・制度・性格などの内部に存在する欠陥や弱点を表す。単なる disadvantage ではなく、『本来うまく機能するはずのものに不完全な部分がある』という感覚がある。argument, design, system, reasoning などと特に相性がよい。",
+    "en": "Flaw refers to an internal defect or weakness in an object, design, argument, system, or character. Unlike a general disadvantage, it suggests that something is imperfect in a way that may reduce its quality, reliability, or validity."
+  },
+  "minimal": {
+    "ja": [
+      "flaw：内部にある欠陥・弱点。",
+      "drawback：そのものに伴う不利な点。",
+      "defect：製品・構造などの具体的な欠陥。",
+      "weakness：弱点全般。",
+      "shortcoming：期待される水準に達していない点。",
+      "fault：欠点・不具合・責任原因などを広く表す。"
+    ],
+    "en": [
+      "flaw is an inherent defect or weakness.",
+      "drawback is a disadvantage associated with something.",
+      "defect often refers to a concrete fault in a product or structure.",
+      "weakness is the broad general term.",
+      "shortcoming is a failure to meet an expected standard.",
+      "fault is a broad term for a defect, problem, or source of responsibility."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 flaw に由来し、もともとは『裂け目・破片・欠けた部分』のような物理的な欠陥を表した。その後、物理的な傷だけでなく、論理・性格・制度などの抽象的な『欠陥』にも使われるようになった。",
+    "en": "From Middle English flaw, originally referring to a crack, fragment, or physical defect. The meaning later broadened to include abstract weaknesses in reasoning, character, systems, and plans."
+  },
+  "synonyms": [
+    {
+      "word": "defect",
+      "note": {
+        "ja": "製品・構造・機械などの具体的な欠陥に特に使いやすい。",
+        "en": "Especially common for concrete faults in products, structures, or machinery."
+      }
+    },
+    {
+      "word": "weakness",
+      "note": {
+        "ja": "能力・構造・議論などの弱点を広く表す。",
+        "en": "A broad term for a point of reduced strength or effectiveness."
+      }
+    },
+    {
+      "word": "shortcoming",
+      "note": {
+        "ja": "期待される基準に届いていない欠点に重点。",
+        "en": "Emphasizes failure to meet an expected standard."
+      }
+    },
+    {
+      "word": "imperfection",
+      "note": {
+        "ja": "完全ではない点を比較的中立的に表す。",
+        "en": "A relatively neutral term for a feature that prevents something from being perfect."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Mangel / Fehler",
+    "it": "difetto",
+    "fr": "défaut / faille",
+    "es": "defecto / falla"
+  },
+  "collocations": {
+    "ja": [
+      "a major flaw — 大きな欠陥",
+      "a serious flaw — 深刻な欠陥",
+      "a fundamental flaw — 根本的な欠陥",
+      "a fatal flaw — 致命的な欠陥",
+      "a design flaw — 設計上の欠陥",
+      "a structural flaw — 構造上の欠陥",
+      "a logical flaw — 論理上の欠陥",
+      "a flaw in the argument — 議論の欠陥",
+      "a character flaw — 性格上の欠点",
+      "identify a flaw — 欠陥を特定する",
+      "expose a flaw — 欠陥を明らかにする",
+      "deeply flawed — 深刻な欠陥がある"
+    ],
+    "en": [
+      "a major flaw",
+      "a serious flaw",
+      "a fundamental flaw",
+      "a fatal flaw",
+      "a design flaw",
+      "a structural flaw",
+      "a logical flaw",
+      "a flaw in the argument",
+      "a character flaw",
+      "identify a flaw",
+      "expose a flaw",
+      "deeply flawed"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The report revealed a serious flaw in the original design. — その報告書は当初の設計に重大な欠陥があることを明らかにした。",
+      "There is a fundamental flaw in this argument. — この議論には根本的な欠陥がある。",
+      "The software contains a security flaw that could expose user data. — そのソフトウェアには利用者データを危険にさらしかねないセキュリティ上の欠陥がある。",
+      "His impatience was perhaps his greatest character flaw. — 彼の短気さは、おそらく彼の最大の性格上の欠点だった。",
+      "The methodology was criticized as deeply flawed. — その方法論は深刻な欠陥があるとして批判された。"
+    ],
+    "en": [
+      "The report revealed a serious flaw in the original design.",
+      "There is a fundamental flaw in this argument.",
+      "The software contains a security flaw that could expose user data.",
+      "His impatience was perhaps his greatest character flaw.",
+      "The methodology was criticized as deeply flawed."
+    ]
+  }
+},
+{
+  "id": "imperfection",
+  "sid": "2026-00502",
+  "word": "imperfection",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "defect",
+    "quality",
+    "evaluation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "imperfections"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɪmpərˈfekʃən/",
+      "uk": "/ˌɪmpəˈfekʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "不完全、不完全さ",
+      "欠点、不備",
+      "小さな傷・欠陥"
+    ],
+    "en": [
+      "the state of not being perfect",
+      "a fault, defect, or weakness",
+      "a small mark or defect that prevents something from being flawless"
+    ]
+  },
+  "nuance": {
+    "ja": "imperfection は、『完全ではないこと』または『完全さを損なっている個々の欠点』を表す。flaw よりも深刻さが弱く、欠点を必ずしも重大な問題として非難しない。人間の性格、芸術作品、肌、製品など幅広い対象に使え、場合によっては imperfections が個性や魅力の一部として肯定的に語られることもある。",
+    "en": "Imperfection refers either to the general state of not being perfect or to a particular fault or defect. It is often milder and more neutral than flaw and does not necessarily imply a serious problem. Imperfections can even be described positively as part of something's individuality or character."
+  },
+  "minimal": {
+    "ja": [
+      "imperfection：完全ではない点。比較的中立的・柔らかい。",
+      "flaw：機能・論理・設計などを弱める内部的な欠陥。",
+      "defect：製品・構造などの具体的な欠陥。",
+      "blemish：表面上の傷・汚点。比喩的にも使う。",
+      "shortcoming：期待される水準に届かない欠点。",
+      "fault：欠点・不具合を広く表す一般語。"
+    ],
+    "en": [
+      "imperfection is a feature that prevents something from being perfect and is often relatively neutral.",
+      "flaw is an internal weakness that may undermine quality or validity.",
+      "defect often refers to a concrete fault in a product or structure.",
+      "blemish often means a visible surface mark or a figurative stain.",
+      "shortcoming is a failure to meet an expected standard.",
+      "fault is a broad general term for a defect or weakness."
+    ]
+  },
+  "etymology": {
+    "ja": "im-『～でない』＋ perfection『完全さ』から成る。perfection はラテン語 perfectio に由来し、perficere『完全に仕上げる』と関係する。per-『完全に』＋ facere『作る』という構造で、imperfection は文字どおり『完全に仕上がっていないこと』を意味する。",
+    "en": "Formed from im- ('not') plus perfection. Perfection comes from Latin perfectio, related to perficere, 'to complete or finish', from per- ('completely') plus facere ('to make'). Imperfection therefore literally means a lack of completeness or perfection."
+  },
+  "synonyms": [
+    {
+      "word": "flaw",
+      "note": {
+        "ja": "より明確な欠陥・弱点を示し、imperfection より強い場合が多い。",
+        "en": "Usually stronger, suggesting a more definite defect or weakness."
+      }
+    },
+    {
+      "word": "defect",
+      "note": {
+        "ja": "製品・構造などで機能上問題となる具体的欠陥に使いやすい。",
+        "en": "Often used for concrete faults affecting a product, structure, or function."
+      }
+    },
+    {
+      "word": "blemish",
+      "note": {
+        "ja": "表面の小さな傷や、評判を損なう汚点。",
+        "en": "Usually a small visible mark or, figuratively, a stain on reputation."
+      }
+    },
+    {
+      "word": "shortcoming",
+      "note": {
+        "ja": "能力・制度などが期待水準に及ばない点。",
+        "en": "A weakness caused by failing to meet an expected standard."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Unvollkommenheit / Makel",
+    "it": "imperfezione",
+    "fr": "imperfection",
+    "es": "imperfección"
+  },
+  "collocations": {
+    "ja": [
+      "minor imperfections — 小さな欠点",
+      "physical imperfections — 身体的な不完全な点",
+      "surface imperfections — 表面上の傷・不完全箇所",
+      "skin imperfections — 肌の欠点",
+      "small imperfections — 小さな欠点",
+      "natural imperfections — 自然な不完全さ",
+      "accept one's imperfections — 自分の不完全さを受け入れる",
+      "hide imperfections — 欠点を隠す",
+      "correct imperfections — 欠点を修正する",
+      "despite its imperfections — 欠点はあるものの"
+    ],
+    "en": [
+      "minor imperfections",
+      "physical imperfections",
+      "surface imperfections",
+      "skin imperfections",
+      "small imperfections",
+      "natural imperfections",
+      "accept one's imperfections",
+      "hide imperfections",
+      "correct imperfections",
+      "despite its imperfections"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The handmade bowl has several small imperfections. — その手作りの器にはいくつか小さな不完全な部分がある。",
+      "Minor imperfections in the surface do not affect the product's performance. — 表面上の小さな傷は製品の性能には影響しない。",
+      "She learned to accept her own imperfections. — 彼女は自分自身の不完全な部分を受け入れるようになった。",
+      "The painting's imperfections give it a distinctive character. — その絵の不完全さが独特の個性を生み出している。",
+      "Despite its imperfections, the system works remarkably well. — 欠点はあるものの、そのシステムは驚くほどうまく機能している。"
+    ],
+    "en": [
+      "The handmade bowl has several small imperfections.",
+      "Minor imperfections in the surface do not affect the product's performance.",
+      "She learned to accept her own imperfections.",
+      "The painting's imperfections give it a distinctive character.",
+      "Despite its imperfections, the system works remarkably well."
+    ]
+  }
+},
+{
+  "id": "shortcoming",
+  "sid": "2026-00503",
+  "word": "shortcoming",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "weakness",
+    "evaluation",
+    "performance",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "shortcomings"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈʃɔːrtˌkʌmɪŋ/",
+      "uk": "/ˈʃɔːtˌkʌmɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "欠点、短所",
+      "至らない点、不十分な点",
+      "期待される水準に達していない部分"
+    ],
+    "en": [
+      "a fault or weakness in something",
+      "a failure to meet an expected standard",
+      "a limitation or deficiency in a person, system, plan, or performance"
+    ]
+  },
+  "nuance": {
+    "ja": "shortcoming は、人・制度・計画・方法などが期待される水準や理想に十分達していない点を表す。flaw のように構造的・致命的な欠陥を示すとは限らず、『改善の余地がある』『ここが少し足りない』という比較的穏当な批判に向いている。複数形 shortcomings で使われることが非常に多い。",
+    "en": "Shortcoming refers to a weakness or deficiency that prevents a person, system, plan, or performance from fully meeting expectations. It is often milder than flaw and is useful for constructive criticism, suggesting that something falls short of an ideal or expected standard."
+  },
+  "minimal": {
+    "ja": [
+      "shortcoming：期待水準に届いていない点。",
+      "flaw：内部にある欠陥・弱点。より明確で強いことがある。",
+      "imperfection：完全ではない点。比較的中立的。",
+      "weakness：弱点全般を表す広い語。",
+      "deficiency：必要なものが不足している状態・欠如。",
+      "drawback：ある選択肢や方法に伴う不利な点。"
+    ],
+    "en": [
+      "shortcoming is a weakness caused by falling short of an expected standard.",
+      "flaw is an internal defect and can sound stronger.",
+      "imperfection is a relatively neutral lack of perfection.",
+      "weakness is the broad general term.",
+      "deficiency emphasizes a lack or insufficiency of something necessary.",
+      "drawback is a disadvantage associated with an option or method."
+    ]
+  },
+  "etymology": {
+    "ja": "short + coming から成り、もともとは『十分なところまで届かないこと』という発想。動詞表現 fall short of『～に届かない、～を満たさない』とも意味的に非常に近い。そこから『期待や基準に達しない点＝欠点』という意味になった。",
+    "en": "Formed from short plus coming, reflecting the idea of coming short of a required or expected level. It is closely related in meaning to the expression fall short of, meaning 'fail to reach or meet a standard'."
+  },
+  "synonyms": [
+    {
+      "word": "weakness",
+      "note": {
+        "ja": "能力・制度・議論などの弱い部分を幅広く表す。",
+        "en": "A broad term for a point of reduced strength or effectiveness."
+      }
+    },
+    {
+      "word": "flaw",
+      "note": {
+        "ja": "設計・論理などの内部的な欠陥をより強く示す。",
+        "en": "Often suggests a more definite internal defect."
+      }
+    },
+    {
+      "word": "deficiency",
+      "note": {
+        "ja": "必要量・能力・品質などが不足していることに重点。",
+        "en": "Emphasizes insufficiency or lack of something required."
+      }
+    },
+    {
+      "word": "limitation",
+      "note": {
+        "ja": "能力や適用範囲に限界があることに重点。",
+        "en": "Emphasizes restrictions on capability, scope, or effectiveness."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Schwäche / Mangel",
+    "it": "carenza / difetto",
+    "fr": "lacune / défaut",
+    "es": "deficiencia / defecto"
+  },
+  "collocations": {
+    "ja": [
+      "a major shortcoming — 大きな欠点",
+      "a serious shortcoming — 重大な欠点",
+      "a key shortcoming — 主要な欠点",
+      "the main shortcoming — 主な欠点",
+      "a significant shortcoming — 重要な欠点",
+      "acknowledge shortcomings — 欠点を認める",
+      "identify shortcomings — 欠点を特定する",
+      "address shortcomings — 欠点に対処する",
+      "overcome shortcomings — 欠点を克服する",
+      "correct shortcomings — 欠点を是正する",
+      "despite its shortcomings — 欠点はあるものの"
+    ],
+    "en": [
+      "a major shortcoming",
+      "a serious shortcoming",
+      "a key shortcoming",
+      "the main shortcoming",
+      "a significant shortcoming",
+      "acknowledge shortcomings",
+      "identify shortcomings",
+      "address shortcomings",
+      "overcome shortcomings",
+      "correct shortcomings",
+      "despite its shortcomings"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The report acknowledges several shortcomings in the current system. — その報告書は現行制度のいくつかの欠点を認めている。",
+      "One major shortcoming of the proposal is its lack of detail. — その提案の大きな欠点の一つは詳細さに欠けることである。",
+      "The review identified serious shortcomings in the company's internal controls. — そのレビューでは会社の内部統制に重大な不備があることが明らかになった。",
+      "Despite its shortcomings, the model remains useful for preliminary analysis. — 欠点はあるものの、そのモデルは予備的分析には依然として有用である。",
+      "The new policy is intended to address the shortcomings of the previous system. — 新しい方針は従来制度の欠点に対処することを目的としている。"
+    ],
+    "en": [
+      "The report acknowledges several shortcomings in the current system.",
+      "One major shortcoming of the proposal is its lack of detail.",
+      "The review identified serious shortcomings in the company's internal controls.",
+      "Despite its shortcomings, the model remains useful for preliminary analysis.",
+      "The new policy is intended to address the shortcomings of the previous system."
+    ]
+  }
+},
+{
+  "id": "deficiency",
+  "sid": "2026-00504",
+  "word": "deficiency",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "lack",
+    "weakness",
+    "health",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "deficiencies"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈfɪʃənsi/",
+      "uk": "/dɪˈfɪʃənsi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "不足、欠乏",
+      "不十分さ、欠陥",
+      "必要な能力・要素・栄養素などが足りない状態"
+    ],
+    "en": [
+      "a lack or shortage of something necessary",
+      "a weakness caused by insufficient quantity or quality",
+      "a failure to reach an adequate or required level"
+    ]
+  },
+  "nuance": {
+    "ja": "deficiency は、必要とされる量・能力・機能・品質などが不足していることを表す。栄養では vitamin deficiency、制度・管理では deficiencies in internal controls のように使われる。shortcoming より『何が不足しているのか』という欠如の感覚が強く、医学・科学・監査などのフォーマルな文脈でも頻出する。",
+    "en": "Deficiency refers to an inadequate amount, level, quality, or capability of something that is needed. It is common in medical, scientific, regulatory, and organizational contexts. Compared with shortcoming, it more strongly emphasizes a measurable or identifiable lack."
+  },
+  "minimal": {
+    "ja": [
+      "deficiency：必要なもの・能力・水準の不足。",
+      "shortcoming：期待水準に届かない弱点・至らない点。",
+      "shortage：供給量・数量そのものの不足。",
+      "deficit：数量・財政・数値上の不足。",
+      "lack：何かがない・足りないことを広く表す。",
+      "defect：物や構造に存在する具体的な欠陥。"
+    ],
+    "en": [
+      "deficiency is an inadequate amount or level of something necessary.",
+      "shortcoming is a weakness or failure to meet expectations.",
+      "shortage is an insufficient supply or quantity.",
+      "deficit is a numerical or financial shortfall.",
+      "lack is the broad general term for absence or insufficiency.",
+      "defect is a concrete fault in an object, structure, or system."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 deficientia『不足』に由来し、deficere『不足する、失敗する』と関係する。de-『離れて、下へ』＋ facere『作る、する』という構造で、もともとは『十分に成し遂げられない、足りなくなる』という意味。deficient も同じ語族。",
+    "en": "From Latin deficientia, related to deficere, meaning 'to be lacking or fail'. Deficere is formed from de- plus facere, 'to make or do'. The original idea is of falling short or failing to provide what is needed."
+  },
+  "synonyms": [
+    {
+      "word": "shortage",
+      "note": {
+        "ja": "物資・人員など、供給量が必要量に足りないことに重点。",
+        "en": "Emphasizes an insufficient supply of something needed."
+      }
+    },
+    {
+      "word": "shortcoming",
+      "note": {
+        "ja": "人・制度・計画などの至らない点を比較的穏当に表す。",
+        "en": "A relatively mild term for a weakness or failure to meet expectations."
+      }
+    },
+    {
+      "word": "deficit",
+      "note": {
+        "ja": "収支・数量・能力などで基準値より不足していること。",
+        "en": "Often refers to a measurable shortfall, especially financial or quantitative."
+      }
+    },
+    {
+      "word": "inadequacy",
+      "note": {
+        "ja": "必要・期待される水準に十分達していないことに重点。",
+        "en": "Emphasizes failure to be sufficient or adequate for a purpose."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Mangel / Defizit",
+    "it": "carenza / deficit",
+    "fr": "carence / déficience",
+    "es": "deficiencia / carencia"
+  },
+  "collocations": {
+    "ja": [
+      "vitamin deficiency — ビタミン欠乏",
+      "iron deficiency — 鉄欠乏",
+      "nutritional deficiency — 栄養不足",
+      "immune deficiency — 免疫機能の不足",
+      "a serious deficiency — 重大な欠陥・不足",
+      "a structural deficiency — 構造上の欠陥",
+      "a deficiency in the system — システム上の不備",
+      "identify deficiencies — 不備を特定する",
+      "correct deficiencies — 不備を是正する",
+      "address deficiencies — 不足・不備に対処する",
+      "remedy a deficiency — 欠陥・不足を是正する"
+    ],
+    "en": [
+      "vitamin deficiency",
+      "iron deficiency",
+      "nutritional deficiency",
+      "immune deficiency",
+      "a serious deficiency",
+      "a structural deficiency",
+      "a deficiency in the system",
+      "identify deficiencies",
+      "correct deficiencies",
+      "address deficiencies",
+      "remedy a deficiency"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The audit identified several deficiencies in the company's internal controls. — 監査によって、会社の内部統制にいくつかの不備があることが判明した。",
+      "Iron deficiency can affect physical performance. — 鉄不足は身体能力に影響を与えることがある。",
+      "The report highlighted a serious deficiency in the existing procedure. — その報告書は現行手続の重大な不備を指摘した。",
+      "The organization introduced new measures to address these deficiencies. — その組織はこれらの不備に対処するため新たな措置を導入した。",
+      "The problem was caused not by a design flaw but by a deficiency in maintenance. — その問題は設計上の欠陥ではなく、保守の不十分さによって生じた。"
+    ],
+    "en": [
+      "The audit identified several deficiencies in the company's internal controls.",
+      "Iron deficiency can affect physical performance.",
+      "The report highlighted a serious deficiency in the existing procedure.",
+      "The organization introduced new measures to address these deficiencies.",
+      "The problem was caused not by a design flaw but by a deficiency in maintenance."
+    ]
+  }
+},
+{
+  "id": "inadequacy",
+  "sid": "2026-00505",
+  "word": "inadequacy",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "weakness",
+    "evaluation",
+    "performance",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "inadequacies"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈædɪkwəsi/",
+      "uk": "/ɪnˈædɪkwəsi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "不十分さ、不適切さ",
+      "能力不足、力不足",
+      "要求・目的・基準を満たせないこと"
+    ],
+    "en": [
+      "the state of not being sufficient or suitable for a purpose",
+      "a lack of ability, quality, or effectiveness",
+      "a weakness that prevents something from meeting required or expected standards"
+    ]
+  },
+  "nuance": {
+    "ja": "inadequacy は、人・制度・方法・資源などが、求められる目的や基準に対して十分でないことを表す。deficiency が『必要な要素が不足している』という欠如に重点を置くのに対し、inadequacy は『その目的には足りない、十分に機能しない』という評価に重点がある。personal inadequacy のように、人が自分を『力不足だ』と感じる心理的用法もある。",
+    "en": "Inadequacy describes the state of being insufficient, unsuitable, or incapable of meeting a required purpose or standard. Unlike deficiency, which often focuses on a specific missing element, inadequacy evaluates the overall sufficiency or effectiveness of a person, system, method, or resource."
+  },
+  "minimal": {
+    "ja": [
+      "inadequacy：目的・基準に対して十分でないこと。",
+      "deficiency：必要な要素・量・能力が不足していること。",
+      "shortcoming：期待水準に届かない個々の弱点。",
+      "insufficiency：量・程度が十分でないこと。",
+      "incompetence：必要な能力・技能が欠けていること。",
+      "limitation：能力・範囲などに限界があること。"
+    ],
+    "en": [
+      "inadequacy means being insufficient or unsuitable for a purpose.",
+      "deficiency emphasizes a lack of something necessary.",
+      "shortcoming is a particular weakness or failure to meet expectations.",
+      "insufficiency emphasizes an inadequate amount or degree.",
+      "incompetence emphasizes lack of required ability or skill.",
+      "limitation is a restriction on capability, scope, or effectiveness."
+    ]
+  },
+  "etymology": {
+    "ja": "inadequate + -cy から成る。inadequate は in-『～でない』＋ adequate『十分な、適切な』。adequate はラテン語 adaequare『等しくする』に由来し、ad-『～へ』＋ aequus『等しい』という構造。つまり inadequacy は、必要な水準と『等しくならない』ことから『不十分さ』を表す。",
+    "en": "Formed from inadequate plus -cy. Inadequate consists of in- ('not') plus adequate, which ultimately comes from Latin adaequare, 'to make equal', from ad- plus aequus, 'equal'. The underlying idea is failure to measure up to what is required."
+  },
+  "synonyms": [
+    {
+      "word": "insufficiency",
+      "note": {
+        "ja": "量・程度が足りないことに重点。",
+        "en": "Emphasizes an insufficient amount or degree."
+      }
+    },
+    {
+      "word": "deficiency",
+      "note": {
+        "ja": "必要な要素や能力の不足に重点。",
+        "en": "Emphasizes the absence or shortage of something required."
+      }
+    },
+    {
+      "word": "shortcoming",
+      "note": {
+        "ja": "個々の至らない点を比較的穏当に表す。",
+        "en": "A relatively mild term for a particular weakness."
+      }
+    },
+    {
+      "word": "incompetence",
+      "note": {
+        "ja": "人・組織などが必要な能力を欠いていることをより強く表す。",
+        "en": "More strongly suggests lack of the ability or skill needed to perform properly."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Unzulänglichkeit",
+    "it": "inadeguatezza",
+    "fr": "inadéquation / insuffisance",
+    "es": "inadecuación / insuficiencia"
+  },
+  "collocations": {
+    "ja": [
+      "the inadequacy of the system — その制度の不十分さ",
+      "the inadequacy of existing measures — 既存措置の不十分さ",
+      "serious inadequacies — 重大な不備",
+      "structural inadequacies — 構造上の不備",
+      "institutional inadequacies — 制度上の不備",
+      "perceived inadequacy — 自覚された力不足",
+      "feelings of inadequacy — 劣等感・自分は不十分だという感覚",
+      "expose inadequacies — 不備を明らかにする",
+      "address inadequacies — 不備に対処する",
+      "highlight the inadequacy of something — ～の不十分さを浮き彫りにする"
+    ],
+    "en": [
+      "the inadequacy of the system",
+      "the inadequacy of existing measures",
+      "serious inadequacies",
+      "structural inadequacies",
+      "institutional inadequacies",
+      "perceived inadequacy",
+      "feelings of inadequacy",
+      "expose inadequacies",
+      "address inadequacies",
+      "highlight the inadequacy of something"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The crisis exposed the inadequacy of the existing system. — その危機によって、既存制度の不十分さが明らかになった。",
+      "The report highlighted serious inadequacies in the inspection process. — その報告書は検査プロセスの重大な不備を指摘した。",
+      "Additional funding was needed because of the inadequacy of existing resources. — 既存資源が不十分だったため、追加の資金が必要だった。",
+      "She struggled with feelings of inadequacy despite her experience. — 彼女は経験があるにもかかわらず、自分は力不足だという感覚に悩んでいた。",
+      "The accident revealed the inadequacy of the safety measures then in place. — その事故によって、当時講じられていた安全対策の不十分さが明らかになった。"
+    ],
+    "en": [
+      "The crisis exposed the inadequacy of the existing system.",
+      "The report highlighted serious inadequacies in the inspection process.",
+      "Additional funding was needed because of the inadequacy of existing resources.",
+      "She struggled with feelings of inadequacy despite her experience.",
+      "The accident revealed the inadequacy of the safety measures then in place."
+    ]
+  }
+},
+{
+  "id": "incompetence",
+  "sid": "2026-00506",
+  "word": "incompetence",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "ability",
+    "performance",
+    "criticism",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈkɑːmpɪtəns/",
+      "uk": "/ɪnˈkɒmpɪtəns/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "無能、能力不足",
+      "職務を適切に遂行する能力の欠如",
+      "必要な技能・判断力を欠いていること"
+    ],
+    "en": [
+      "lack of the ability or skill required to do something properly",
+      "failure to perform a job or duty competently",
+      "lack of adequate professional or practical competence"
+    ]
+  },
+  "nuance": {
+    "ja": "incompetence は、人や組織が仕事・役割・責任を適切に遂行するために必要な能力・技能・判断力を欠いていることを表す。かなり批判的な語で、単に十分でないという inadequacy よりも、『本来できるべき仕事ができない』という評価が強い。professional incompetence, managerial incompetence などの形でよく使われる。",
+    "en": "Incompetence refers to a lack of the ability, skill, judgment, or effectiveness required to perform a role or task properly. It is strongly critical and is usually harsher than inadequacy, suggesting that someone or an organization fails to meet the level of competence reasonably expected."
+  },
+  "minimal": {
+    "ja": [
+      "incompetence：必要な能力・技能が欠け、仕事を適切に遂行できないこと。",
+      "inadequacy：目的・基準に対して十分でないこと。より広く穏当。",
+      "inexperience：経験不足。能力がないとは限らない。",
+      "ineptitude：不器用・不得手・無能さ。やや強く、しばしば批判的。",
+      "negligence：能力不足ではなく、必要な注意を怠ること。",
+      "misconduct：能力ではなく、規則・倫理に反する行為。"
+    ],
+    "en": [
+      "incompetence is lack of the ability needed to perform properly.",
+      "inadequacy means being insufficient for a purpose and is broader and often milder.",
+      "inexperience means lack of experience and does not necessarily imply lack of ability.",
+      "ineptitude suggests clumsiness or marked lack of skill.",
+      "negligence concerns failure to exercise proper care, not lack of ability itself.",
+      "misconduct concerns improper behavior or rule-breaking rather than competence."
+    ]
+  },
+  "etymology": {
+    "ja": "in-『～でない』＋ competence『能力、適格性』から成る。competence はラテン語 competentia に由来し、competere『一致する、適合する、資格がある』と関係する。したがって incompetence は『要求される役割・水準に適合する能力がないこと』を表す。",
+    "en": "Formed from in- ('not') plus competence. Competence comes from Latin competentia, related to competere, meaning 'to be suitable, correspond, or be qualified'. Incompetence therefore denotes failure to possess the ability or suitability required for a task or role."
+  },
+  "synonyms": [
+    {
+      "word": "ineptitude",
+      "note": {
+        "ja": "技能・判断・実務能力の欠如を強く表す。しばしば軽蔑的。",
+        "en": "Strongly suggests lack of skill or practical ability and can sound contemptuous."
+      }
+    },
+    {
+      "word": "inadequacy",
+      "note": {
+        "ja": "要求に対して十分でないことを表し、incompetence より柔らかい。",
+        "en": "Means insufficiency relative to requirements and is usually milder."
+      }
+    },
+    {
+      "word": "incapacity",
+      "note": {
+        "ja": "能力・資格・身体的または法的能力がないことを表す。",
+        "en": "Refers to inability or lack of capacity, sometimes physical or legal."
+      }
+    },
+    {
+      "word": "unfitness",
+      "note": {
+        "ja": "特定の職務・目的に適していないことに重点。",
+        "en": "Emphasizes unsuitability for a particular role or purpose."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Unfähigkeit / Inkompetenz",
+    "it": "incompetenza",
+    "fr": "incompétence",
+    "es": "incompetencia"
+  },
+  "collocations": {
+    "ja": [
+      "professional incompetence — 職務上の能力不足",
+      "managerial incompetence — 経営・管理能力の欠如",
+      "gross incompetence — 著しい無能・重大な能力不足",
+      "sheer incompetence — まったくの無能",
+      "allegations of incompetence — 能力不足との批判・疑惑",
+      "accuse someone of incompetence — ～を無能だと非難する",
+      "dismissed for incompetence — 能力不足を理由に解雇された",
+      "evidence of incompetence — 能力不足を示す証拠",
+      "due to incompetence — 能力不足のため",
+      "a result of incompetence — 能力不足の結果"
+    ],
+    "en": [
+      "professional incompetence",
+      "managerial incompetence",
+      "gross incompetence",
+      "sheer incompetence",
+      "allegations of incompetence",
+      "accuse someone of incompetence",
+      "dismissed for incompetence",
+      "evidence of incompetence",
+      "due to incompetence",
+      "a result of incompetence"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The failure was attributed to managerial incompetence. — その失敗は経営陣の能力不足が原因だとされた。",
+      "He was dismissed for gross incompetence. — 彼は重大な能力不足を理由に解雇された。",
+      "The report found no evidence of professional incompetence. — その報告書では職務上の能力不足を示す証拠は認められなかった。",
+      "Critics accused the administration of incompetence in handling the crisis. — 批判者たちは、その危機への対応について行政の無能を非難した。",
+      "Inexperience should not automatically be mistaken for incompetence. — 経験不足を自動的に能力不足とみなすべきではない。"
+    ],
+    "en": [
+      "The failure was attributed to managerial incompetence.",
+      "He was dismissed for gross incompetence.",
+      "The report found no evidence of professional incompetence.",
+      "Critics accused the administration of incompetence in handling the crisis.",
+      "Inexperience should not automatically be mistaken for incompetence."
+    ]
+  }
+},
+{
+  "id": "inexperience",
+  "sid": "2026-00507",
+  "word": "inexperience",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "experience",
+    "ability",
+    "work",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɪnɪkˈspɪriəns/",
+      "uk": "/ˌɪnɪkˈspɪəriəns/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "経験不足",
+      "不慣れ",
+      "実務・状況などに十分慣れていないこと"
+    ],
+    "en": [
+      "lack of experience in a particular activity or situation",
+      "the state of being unfamiliar with something because of limited practical exposure",
+      "insufficient practical experience"
+    ]
+  },
+  "nuance": {
+    "ja": "inexperience は、ある仕事・状況・分野について経験が少ないことを表す。能力や素質が欠けていることを意味するわけではなく、経験を積めば改善できるという含みを持ちやすい。そのため incompetence よりはるかに中立的で、若手・初心者・新任者についても自然に使える。",
+    "en": "Inexperience means lack of practical experience in a particular area or situation. It does not imply lack of ability or potential and often suggests that the problem can improve with exposure and practice. It is therefore much more neutral than incompetence."
+  },
+  "minimal": {
+    "ja": [
+      "inexperience：経験が足りない。",
+      "incompetence：必要な能力・技能が足りない。",
+      "ineptitude：技能や実務能力が著しく不足している。",
+      "novice status：初心者であるという立場。",
+      "unfamiliarity：よく知らないこと・慣れていないこと。",
+      "lack of training：訓練不足。経験不足とは別。"
+    ],
+    "en": [
+      "inexperience means lack of practical experience.",
+      "incompetence means lack of the ability required to perform properly.",
+      "ineptitude suggests marked lack of skill.",
+      "novice status means simply being a beginner.",
+      "unfamiliarity means not knowing or not being accustomed to something.",
+      "lack of training means insufficient instruction rather than insufficient experience."
+    ]
+  },
+  "etymology": {
+    "ja": "in-『～でない』＋ experience『経験』から成る。experience はラテン語 experientia『試み、経験』に由来し、experiri『試す、経験する』と関係する。したがって inexperience は文字どおり『経験がないこと』を表す。",
+    "en": "Formed from in- ('not') plus experience. Experience comes from Latin experientia, related to experiri, meaning 'to try or test'. Inexperience therefore literally means lack of experience."
+  },
+  "synonyms": [
+    {
+      "word": "unfamiliarity",
+      "note": {
+        "ja": "対象についてよく知らない・慣れていないことに重点。",
+        "en": "Emphasizes not knowing or not being accustomed to something."
+      }
+    },
+    {
+      "word": "noviceness",
+      "note": {
+        "ja": "初心者である状態を表すが、一般にはあまり頻用されない。",
+        "en": "Refers to the state of being a novice but is much less common."
+      }
+    },
+    {
+      "word": "lack of experience",
+      "note": {
+        "ja": "inexperience とほぼ同義で、より透明で日常的な表現。",
+        "en": "A transparent and common phrase essentially equivalent to inexperience."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Unerfahrenheit",
+    "it": "inesperienza",
+    "fr": "inexpérience",
+    "es": "inexperiencia"
+  },
+  "collocations": {
+    "ja": [
+      "lack of experience — 経験不足",
+      "due to inexperience — 経験不足のため",
+      "because of inexperience — 経験不足が原因で",
+      "youth and inexperience — 若さと経験不足",
+      "professional inexperience — 職務経験の不足",
+      "relative inexperience — 比較的経験が浅いこと",
+      "overcome inexperience — 経験不足を克服する",
+      "compensate for inexperience — 経験不足を補う",
+      "show one's inexperience — 経験不足を露呈する",
+      "a sign of inexperience — 経験不足の表れ"
+    ],
+    "en": [
+      "lack of experience",
+      "due to inexperience",
+      "because of inexperience",
+      "youth and inexperience",
+      "professional inexperience",
+      "relative inexperience",
+      "overcome inexperience",
+      "compensate for inexperience",
+      "show one's inexperience",
+      "a sign of inexperience"
+    ]
+  },
+  "example": {
+    "ja": [
+      "His mistakes were largely due to inexperience rather than incompetence. — 彼のミスは主に無能さではなく経験不足によるものだった。",
+      "She compensated for her inexperience with careful preparation. — 彼女は入念な準備によって経験不足を補った。",
+      "The team struggled at first because of its relative inexperience. — そのチームは比較的経験が浅かったため、当初は苦戦した。",
+      "His hesitation was a sign of inexperience, not lack of ability. — 彼のためらいは経験不足の表れであって、能力不足ではなかった。",
+      "Inexperience can usually be overcome with training and practice. — 経験不足は通常、訓練と実践によって克服できる。"
+    ],
+    "en": [
+      "His mistakes were largely due to inexperience rather than incompetence.",
+      "She compensated for her inexperience with careful preparation.",
+      "The team struggled at first because of its relative inexperience.",
+      "His hesitation was a sign of inexperience, not lack of ability.",
+      "Inexperience can usually be overcome with training and practice."
+    ]
+  }
+},
+{
+  "id": "toast",
+  "sid": "2026-00508",
+  "word": "toast",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "food",
+    "social",
+    "idiom",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable / uncountable",
+    "plural": "toasts",
+    "transitivity": "transitive / intransitive",
+    "forms": {
+      "base": "toast",
+      "third_person": "toasts",
+      "past": "toasted",
+      "past_participle": "toasted",
+      "gerund": "toasting"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/toʊst/",
+      "uk": "/təʊst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "トースト、焼いたパン",
+      "乾杯、祝杯の言葉",
+      "パンなどを焼く、こんがり焼く",
+      "～に乾杯する",
+      "口語：おしまいで、完全にダメで"
+    ],
+    "en": [
+      "bread that has been browned by heat",
+      "a ceremonial expression of good wishes followed by drinking",
+      "to brown bread or another food by heat",
+      "to drink in honor of someone or something",
+      "informal: ruined, finished, or certain to fail"
+    ]
+  },
+  "nuance": {
+    "ja": "toast は、食べ物としての『トースト』と、社交場面での『乾杯』の両方で非常によく使われる。乾杯の意味では propose a toast, raise a toast, toast the bride and groom などが典型。さらに口語の be toast は『もうおしまいだ、完全にダメだ』という意味で、かなりカジュアル。",
+    "en": "Toast is common both for browned bread and for a ceremonial drink honoring someone or something. Typical expressions include propose a toast, raise a toast, and toast the bride and groom. Informally, be toast means to be ruined, finished, or in serious trouble."
+  },
+  "minimal": {
+    "ja": [
+      "toast：焼いたパン、または乾杯。",
+      "cheers：乾杯時の掛け声。",
+      "propose a toast：乾杯の音頭を取る。",
+      "raise a glass：グラスを掲げて祝う。",
+      "roast：オーブンなどで食材を焼く。toast より広く強い加熱。",
+      "be toast：口語で『もうおしまいだ』。"
+    ],
+    "en": [
+      "toast can mean browned bread or a ceremonial drink.",
+      "cheers is the common spoken expression used when drinking a toast.",
+      "propose a toast means to formally invite people to drink in someone's honor.",
+      "raise a glass means to lift a drink in celebration or tribute.",
+      "roast means to cook food with dry heat and is broader than toast.",
+      "be toast is an informal expression meaning to be ruined or finished."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 toster『焼く、焦がす』に由来し、さらにラテン語 torrere『焼く、乾かす』にさかのぼる。『乾杯』の意味は、かつて酒に香味をつけるため焼いたパンを入れる習慣と関連すると考えられており、そこから祝杯や乾杯の対象そのものを toast と呼ぶようになった。",
+    "en": "From Old French toster, 'to roast or brown', ultimately from Latin torrere, 'to parch or roast'. The drinking sense is traditionally associated with the custom of adding toasted bread to wine, from which toast developed into the meaning of a ceremonial drink or the person honored by it."
+  },
+  "synonyms": [
+    {
+      "word": "cheers",
+      "note": {
+        "ja": "乾杯時に実際に口にする掛け声として最も一般的。",
+        "en": "The most common spoken expression used when people clink glasses."
+      }
+    },
+    {
+      "word": "tribute",
+      "note": {
+        "ja": "人物への敬意・称賛を示す行為や言葉。乾杯に限らない。",
+        "en": "An expression of respect or admiration, not necessarily involving a drink."
+      }
+    },
+    {
+      "word": "brown",
+      "note": {
+        "ja": "食材を褐色になるまで加熱するという意味で近い。",
+        "en": "Means to cook something until its surface becomes brown."
+      }
+    },
+    {
+      "word": "roast",
+      "note": {
+        "ja": "乾熱でしっかり焼く。パンを軽く焼く toast とは用途が異なる。",
+        "en": "Means to cook with dry heat and is used for a broader range of foods."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Toast / Trinkspruch",
+    "it": "toast / brindisi",
+    "fr": "toast / toast",
+    "es": "tostada / brindis"
+  },
+  "collocations": {
+    "ja": [
+      "a slice of toast — トースト一枚",
+      "buttered toast — バターを塗ったトースト",
+      "toast bread — パンをトーストする",
+      "propose a toast — 乾杯の音頭を取る",
+      "raise a toast — 祝杯を挙げる",
+      "drink a toast — 乾杯する",
+      "toast the newlyweds — 新郎新婦に乾杯する",
+      "a wedding toast — 結婚式での乾杯の挨拶",
+      "a toast to friendship — 友情に乾杯",
+      "you're toast — お前はもうおしまいだ"
+    ],
+    "en": [
+      "a slice of toast",
+      "buttered toast",
+      "toast bread",
+      "propose a toast",
+      "raise a toast",
+      "drink a toast",
+      "toast the newlyweds",
+      "a wedding toast",
+      "a toast to friendship",
+      "you're toast"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I usually have toast and coffee for breakfast. — 私は朝食にたいていトーストとコーヒーをとる。",
+      "He proposed a toast to the bride and groom. — 彼は新郎新婦への乾杯の音頭を取った。",
+      "We raised our glasses and toasted their success. — 私たちはグラスを掲げ、彼らの成功に乾杯した。",
+      "Toast the bread until it is golden brown. — パンがきつね色になるまで焼いてください。",
+      "If the boss finds out what happened, we're toast. — 上司に何が起きたか知られたら、私たちはもうおしまいだ。"
+    ],
+    "en": [
+      "I usually have toast and coffee for breakfast.",
+      "He proposed a toast to the bride and groom.",
+      "We raised our glasses and toasted their success.",
+      "Toast the bread until it is golden brown.",
+      "If the boss finds out what happened, we're toast."
+    ]
+  }
+}
+]
