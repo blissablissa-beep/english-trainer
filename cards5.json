@@ -13324,5 +13324,575 @@
       "Critics associate parts of the manosphere with misogynistic and antifeminist rhetoric."
     ]
   }
+},
+{
+  "id": "expatriate",
+  "sid": "2026-00595",
+  "word": "expatriate",
+  "variants": [
+    "expat"
+  ],
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "migration",
+    "work",
+    "international",
+    "society"
+  ],
+  "grammar": {
+    "pos": "noun / adjective / verb",
+    "countability": "countable as a noun",
+    "plural": "expatriates",
+    "forms": {
+      "base": "expatriate",
+      "third_person": "expatriates",
+      "past": "expatriated",
+      "past_participle": "expatriated",
+      "gerund": "expatriating"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ekˈspeɪtriət/; verb also /ekˈspeɪtrieɪt/",
+      "uk": "/ekˈspætriət/; verb also /ekˈspætrieɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "国外居住者、外国在住者",
+      "海外駐在員",
+      "国外に居住している",
+      "国外へ移住させる、国外で暮らす"
+    ],
+    "en": [
+      "a person who lives outside their native country",
+      "a person living abroad, often for work",
+      "living outside one's native country",
+      "to live abroad or cause someone to live outside their native country"
+    ]
+  },
+  "nuance": {
+    "ja": "expatriate は国籍を離脱した人という意味に限定されず、通常は『自国以外で生活している人』を指す。特に仕事で海外に滞在する専門職や駐在員について使われやすい。expat はくだけた短縮形。immigrant と意味が重なることもあるが、expatriate は滞在が一時的である場合にも使いやすく、職業的・国際的な生活というニュアンスを持つことがある。一方、この使い分けが社会階層や出身国によって不均等だとして批判されることもある。",
+    "en": "Expatriate generally means someone living outside their native country and does not necessarily imply giving up citizenship. It is especially common for professionals or employees living abroad for work. Expat is the informal shortened form. The term overlaps with immigrant, though expatriate is often used for temporary or professionally motivated residence abroad; this distinction can also carry social or class-related connotations."
+  },
+  "minimal": {
+    "ja": [
+      "expatriate：自国を離れて外国で暮らす人。仕事目的にも多い。",
+      "expat：expatriate の口語的な短縮形。",
+      "immigrant：別の国へ移住してそこで生活する人。",
+      "emigrant：自国を出て他国へ移住する人。出発国側の視点。",
+      "migrant：国内外を問わず移動して暮らす人を広く指す。",
+      "refugee：迫害・戦争などから逃れて国外へ避難した人。"
+    ],
+    "en": [
+      "expatriate is someone living outside their native country, often for work.",
+      "expat is the informal shortened form of expatriate.",
+      "immigrant is someone who moves into another country to live there.",
+      "emigrant is someone viewed from the perspective of the country they leave.",
+      "migrant is a broader term for someone who moves from one place to another.",
+      "refugee is someone forced to flee because of persecution, war, or similar danger."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 ex『外へ』＋ patria『祖国、故国』に由来する。文字どおりには『祖国の外へ』という意味。patria は pater『父』と関係し、patriot『愛国者』や patriotic『愛国的な』も同じ語族。",
+    "en": "From Latin ex ('out of') and patria ('native country, homeland'). The literal idea is being outside one's homeland. Patria is related to pater ('father') and belongs to the same family as patriot and patriotic."
+  },
+  "synonyms": [
+    {
+      "word": "expat",
+      "note": {
+        "ja": "expatriate の一般的な略語で、会話ではこちらがよく使われる。",
+        "en": "The common informal shortened form of expatriate."
+      }
+    },
+    {
+      "word": "immigrant",
+      "note": {
+        "ja": "他国へ移住して生活する人。定住というニュアンスを持ちやすい。",
+        "en": "A person who moves into another country to live there, often with a stronger implication of settlement."
+      }
+    },
+    {
+      "word": "emigrant",
+      "note": {
+        "ja": "自国を出て移住した人を、出身国側から見る表現。",
+        "en": "A person who leaves their own country to settle elsewhere, viewed from the country of departure."
+      }
+    },
+    {
+      "word": "migrant",
+      "note": {
+        "ja": "移住・移動する人を広く指す包括的な語。",
+        "en": "A broad term for a person who moves from one region or country to another."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Expatriate / Auslandsentsandter",
+    "it": "espatriato",
+    "fr": "expatrié",
+    "es": "expatriado"
+  },
+  "collocations": {
+    "ja": [
+      "an American expatriate — 海外在住のアメリカ人",
+      "an expatriate community — 海外居住者コミュニティ",
+      "an expatriate worker — 海外駐在労働者",
+      "an expatriate employee — 海外駐在員",
+      "an expatriate assignment — 海外赴任",
+      "an expatriate package — 海外駐在員向け待遇パッケージ",
+      "expatriate life — 海外生活",
+      "live as an expatriate — 海外居住者として暮らす",
+      "the expat community — 外国人居住者コミュニティ",
+      "returning expatriates — 帰国する海外居住者・駐在員"
+    ],
+    "en": [
+      "an American expatriate",
+      "an expatriate community",
+      "an expatriate worker",
+      "an expatriate employee",
+      "an expatriate assignment",
+      "an expatriate package",
+      "expatriate life",
+      "live as an expatriate",
+      "the expat community",
+      "returning expatriates"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She spent ten years working as an expatriate in Singapore. — 彼女はシンガポールで10年間、海外駐在員として働いた。",
+      "The city has a large expatriate community. — その都市には大きな外国人居住者コミュニティがある。",
+      "The company provides housing for expatriate employees. — その会社は海外駐在員に住宅を提供している。",
+      "He enjoys expatriate life but plans to return home eventually. — 彼は海外生活を楽しんでいるが、いずれ帰国する予定だ。",
+      "The terms expat and immigrant sometimes overlap in meaning. — expat と immigrant は意味が重なることがある。"
+    ],
+    "en": [
+      "She spent ten years working as an expatriate in Singapore.",
+      "The city has a large expatriate community.",
+      "The company provides housing for expatriate employees.",
+      "He enjoys expatriate life but plans to return home eventually.",
+      "The terms expat and immigrant sometimes overlap in meaning."
+    ]
+  }
+},
+{
+  "id": "expatriation",
+  "sid": "2026-00596",
+  "word": "expatriation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "migration",
+    "citizenship",
+    "international",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable in specialized uses"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ekˌspeɪtriˈeɪʃən/",
+      "uk": "/ekˌspætriˈeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "国外へ移住すること、国外居住",
+      "国外へ移すこと",
+      "国籍を離脱すること",
+      "歴史的・法律的に、国外追放"
+    ],
+    "en": [
+      "the act or process of living outside one's native country",
+      "the act of sending or moving someone abroad",
+      "the act of giving up or losing one's citizenship in some legal contexts",
+      "historically, banishment from one's country"
+    ]
+  },
+  "nuance": {
+    "ja": "expatriation は文脈依存性の高い語。一般的には『自国を離れて外国で暮らすこと』を表せるが、法律・国籍の文脈では『国籍離脱』を指すことがある。また歴史的には『国外追放』の意味でも使われた。したがって単に海外赴任を言いたい場合は expatriate assignment や living abroad のほうが自然なことも多い。",
+    "en": "Expatriation is highly context-dependent. It can refer generally to living outside one's native country, but in legal or citizenship contexts it may refer to relinquishing or losing nationality. Historically, it could also refer to banishment. For ordinary work-related residence abroad, expressions such as expatriate assignment or living abroad are often more natural."
+  },
+  "minimal": {
+    "ja": [
+      "expatriation：国外へ出て暮らすこと。法律上は国籍離脱を指すこともある。",
+      "expatriate：国外居住者、または国外に住む。",
+      "emigration：自国から他国へ移住すること。",
+      "immigration：他国へ入って移住すること。",
+      "repatriation：祖国へ戻すこと・戻ること。",
+      "renunciation of citizenship：国籍放棄を明確に表す表現。"
+    ],
+    "en": [
+      "expatriation is the process of living outside one's native country and can have a legal citizenship sense.",
+      "expatriate is the corresponding person or verb.",
+      "emigration is movement out of one's country to settle elsewhere.",
+      "immigration is movement into another country to live there.",
+      "repatriation is return to one's country of origin.",
+      "renunciation of citizenship explicitly refers to voluntarily giving up citizenship."
+    ]
+  },
+  "etymology": {
+    "ja": "expatriate から派生した語で、ラテン語 ex『外へ』＋ patria『祖国、故国』にさかのぼる。文字どおりには『祖国の外へ出ること』。repatriation は re-『戻る』＋ patria なので、語源上きれいな対になっている。",
+    "en": "Derived from expatriate and ultimately from Latin ex ('out of') plus patria ('native country, homeland'). The literal idea is 'going out of one's homeland'. It forms a clear etymological contrast with repatriation, from re- ('back') plus patria."
+  },
+  "synonyms": [
+    {
+      "word": "emigration",
+      "note": {
+        "ja": "自国を出て他国へ移住すること。移住そのものに焦点。",
+        "en": "The act of leaving one's country to settle elsewhere."
+      }
+    },
+    {
+      "word": "residence abroad",
+      "note": {
+        "ja": "国外居住をより中立的かつ明確に表す表現。",
+        "en": "A neutral and explicit expression for living outside one's country."
+      }
+    },
+    {
+      "word": "renunciation of citizenship",
+      "note": {
+        "ja": "法律文脈での国籍放棄を明確に表す。",
+        "en": "An explicit legal expression for voluntarily giving up citizenship."
+      }
+    },
+    {
+      "word": "banishment",
+      "note": {
+        "ja": "国外追放・追放。expatriation の歴史的用法と重なる。",
+        "en": "Expulsion from a country or place; overlaps with an older sense of expatriation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Expatriierung / Auswanderung",
+    "it": "espatrio / espatriazione",
+    "fr": "expatriation",
+    "es": "expatriación"
+  },
+  "collocations": {
+    "ja": [
+      "voluntary expatriation — 自発的な国外移住・国籍離脱",
+      "forced expatriation — 強制的な国外退去・国外追放",
+      "expatriation for work — 仕事による国外居住",
+      "expatriation process — 国外移住・国外赴任の手続き",
+      "expatriation policy — 海外赴任政策",
+      "expatriation benefits — 海外赴任手当・福利厚生",
+      "expatriation and repatriation — 海外赴任と帰任",
+      "tax expatriation — 税務上の国外移住・国籍離脱",
+      "expatriation of employees — 従業員の海外派遣",
+      "citizenship expatriation — 国籍離脱"
+    ],
+    "en": [
+      "voluntary expatriation",
+      "forced expatriation",
+      "expatriation for work",
+      "expatriation process",
+      "expatriation policy",
+      "expatriation benefits",
+      "expatriation and repatriation",
+      "tax expatriation",
+      "expatriation of employees",
+      "citizenship expatriation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company provides support throughout the expatriation process. — その会社は海外赴任の手続き全体を通じて支援を提供している。",
+      "Successful expatriation often requires careful preparation before departure. — 海外赴任を成功させるには、出発前の綿密な準備が必要になることが多い。",
+      "The policy covers both expatriation and repatriation of employees. — その方針は従業員の海外赴任と帰任の両方を対象としている。",
+      "In some legal contexts, expatriation may refer to loss or renunciation of citizenship. — 一部の法律文脈では、expatriation は国籍の喪失または放棄を指すことがある。",
+      "The historical use of expatriation sometimes involved forced removal from one's country. — expatriation の歴史的用法には、国外への強制追放を含むこともあった。"
+    ],
+    "en": [
+      "The company provides support throughout the expatriation process.",
+      "Successful expatriation often requires careful preparation before departure.",
+      "The policy covers both expatriation and repatriation of employees.",
+      "In some legal contexts, expatriation may refer to loss or renunciation of citizenship.",
+      "The historical use of expatriation sometimes involved forced removal from one's country."
+    ]
+  }
+},
+{
+  "id": "dichotomy",
+  "sid": "2026-00597",
+  "word": "dichotomy",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "contrast",
+    "classification",
+    "logic",
+    "academic"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "dichotomies"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/daɪˈkɑːtəmi/",
+      "uk": "/daɪˈkɒtəmi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "二分法、二項対立",
+      "あるものを対照的な二つの部分・カテゴリーに分けること",
+      "二つの対立する概念の区別"
+    ],
+    "en": [
+      "a division into two contrasting or mutually exclusive parts",
+      "a distinction between two opposing categories or ideas",
+      "a way of classifying something into two sharply separated groups"
+    ]
+  },
+  "nuance": {
+    "ja": "dichotomy は、ある概念や現象を二つの対照的なカテゴリーに分けて捉えることを表す。academic writing や哲学、社会科学でよく使われる。単なる difference より構造的で、mind-body dichotomy, public-private dichotomy のように二つの概念を対置する。現実には連続的・複雑なのに無理に二分する場合は false dichotomy と呼ばれる。",
+    "en": "Dichotomy refers to a structural division between two contrasting categories, ideas, or states. It is common in academic, philosophical, and social-scientific writing. When a complex issue is wrongly presented as if only two mutually exclusive options existed, the result is called a false dichotomy."
+  },
+  "minimal": {
+    "ja": [
+      "dichotomy：対照的な二つのカテゴリーに分ける二分法。",
+      "contrast：二つ以上のものの違いを示す一般語。",
+      "distinction：概念上の区別。",
+      "binary：二つの値・カテゴリーから成る構造。",
+      "duality：二つの側面・性質が共存すること。",
+      "false dichotomy：実際には他の選択肢があるのに二択として提示する誤った二分法。"
+    ],
+    "en": [
+      "dichotomy is a division into two contrasting categories.",
+      "contrast is the broad general idea of difference.",
+      "distinction is a conceptual separation between things.",
+      "binary is a system consisting of two values or categories.",
+      "duality emphasizes the coexistence of two aspects or natures.",
+      "false dichotomy presents a situation as having only two options when more possibilities exist."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 dikhotomia『二つに切ること』に由来し、dikha『二つに、別々に』＋ tomē『切ること』から成る。tomē は temnein『切る』に由来し、anatomy や lobotomy などの -tomy と同じ語源要素。",
+    "en": "From Greek dikhotomia, meaning 'a cutting in two', formed from dikha ('in two, apart') and tomē ('a cutting'), from temnein ('to cut'). The -tomy element is related to the same root seen in anatomy and lobotomy."
+  },
+  "synonyms": [
+    {
+      "word": "division",
+      "note": {
+        "ja": "分割を表す一般語で、二つに限らない。",
+        "en": "A broad term for separation into parts and is not limited to two."
+      }
+    },
+    {
+      "word": "distinction",
+      "note": {
+        "ja": "二つ以上の概念の違い・区別に重点。",
+        "en": "Emphasizes a conceptual difference or separation."
+      }
+    },
+    {
+      "word": "binary opposition",
+      "note": {
+        "ja": "二つの対立概念を組として捉える、より専門的な表現。",
+        "en": "A more technical expression for a pair of opposing concepts."
+      }
+    },
+    {
+      "word": "duality",
+      "note": {
+        "ja": "一つのものに二つの異なる側面・性質が存在すること。",
+        "en": "Emphasizes two different aspects or natures existing together."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Dichotomie / Zweiteilung",
+    "it": "dicotomia",
+    "fr": "dichotomie",
+    "es": "dicotomía"
+  },
+  "collocations": {
+    "ja": [
+      "a sharp dichotomy — 鮮明な二項対立",
+      "a clear dichotomy — 明確な二分法",
+      "a false dichotomy — 誤った二分法",
+      "the dichotomy between A and B — AとBの二項対立",
+      "the mind-body dichotomy — 心身二元論的な二分",
+      "the public-private dichotomy — 公と私の二分",
+      "the nature-nurture dichotomy — 生得か環境かという二分",
+      "challenge a dichotomy — 二分法に異議を唱える",
+      "reject a dichotomy — 二分法を退ける",
+      "blur the dichotomy between A and B — AとBの境界を曖昧にする"
+    ],
+    "en": [
+      "a sharp dichotomy",
+      "a clear dichotomy",
+      "a false dichotomy",
+      "the dichotomy between A and B",
+      "the mind-body dichotomy",
+      "the public-private dichotomy",
+      "the nature-nurture dichotomy",
+      "challenge a dichotomy",
+      "reject a dichotomy",
+      "blur the dichotomy between A and B"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The traditional dichotomy between work and leisure is becoming less clear. — 仕事と余暇という従来の二分は、次第に不明瞭になっている。",
+      "The debate is often framed as a dichotomy between freedom and security. — その議論はしばしば自由か安全かという二項対立として構成される。",
+      "This argument creates a false dichotomy between economic growth and environmental protection. — この議論は経済成長と環境保護の間に誤った二者択一を作り出している。",
+      "The study challenges the conventional dichotomy between nature and culture. — その研究は自然と文化を分ける従来の二分法に異議を唱えている。",
+      "Reality is often more complex than the simple dichotomy suggests. — 現実は単純な二分法が示すより複雑であることが多い。"
+    ],
+    "en": [
+      "The traditional dichotomy between work and leisure is becoming less clear.",
+      "The debate is often framed as a dichotomy between freedom and security.",
+      "This argument creates a false dichotomy between economic growth and environmental protection.",
+      "The study challenges the conventional dichotomy between nature and culture.",
+      "Reality is often more complex than the simple dichotomy suggests."
+    ]
+  }
+},
+{
+  "id": "plethora",
+  "sid": "2026-00598",
+  "word": "plethora",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "quantity",
+    "abundance",
+    "excess",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable, usually in the expression a plethora of"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈpleθərə/",
+      "uk": "/ˈpleθərə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "非常に多いこと、大量",
+      "あり余るほどの量",
+      "過剰なほどの多数"
+    ],
+    "en": [
+      "a very large number or amount of something",
+      "an excessive or unusually abundant quantity",
+      "a great variety or abundance of something"
+    ]
+  },
+  "nuance": {
+    "ja": "plethora は典型的に a plethora of ... の形で使い、『非常に多くの〜』を表す。単なる abundance より『多すぎるほどある』という含みを持つことが多いが、現代英語では必ずしも否定的ではなく、単に『豊富な』という強調としても使われる。options, choices, information, studies など抽象的・可算的なものとの相性がよい。",
+    "en": "Plethora is typically used in the phrase a plethora of something and means a very large or abundant quantity. It often carries a suggestion of excess, though in modern usage it can also simply emphasize abundance without a strongly negative judgment."
+  },
+  "minimal": {
+    "ja": [
+      "plethora：非常に多く、しばしば多すぎるほどの量。",
+      "profusion：あふれ出すような豊富さ。華やかさを感じさせることも多い。",
+      "abundance：豊富さを表す中立的な一般語。",
+      "surplus：必要量を超えた余剰。",
+      "excess：適切な量を超えた過剰。",
+      "multitude：非常に多数の人・物。数に重点。"
+    ],
+    "en": [
+      "plethora means a very large quantity and often suggests excess.",
+      "profusion suggests rich or overflowing abundance.",
+      "abundance is the broad neutral term for plentiful supply.",
+      "surplus means an amount left over beyond what is needed.",
+      "excess means more than is desirable or appropriate.",
+      "multitude emphasizes a very large number of people or things."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 plēthōrē『満ちていること、過剰、充満』に由来する。plēthein『満ちている』と関係する。医学では歴史的に『体液や血液の過剰』を意味し、そこから一般的な『過剰なほどの豊富さ』という意味へ広がった。",
+    "en": "From Greek plēthōrē, meaning 'fullness, excess, or abundance', related to plēthein, 'to be full'. Historically, the word was used in medicine for an excess of bodily fluid or blood before developing its modern general sense of excessive abundance."
+  },
+  "synonyms": [
+    {
+      "word": "abundance",
+      "note": {
+        "ja": "豊富さを表す最も中立的な語。",
+        "en": "The broad neutral term for a plentiful quantity."
+      }
+    },
+    {
+      "word": "profusion",
+      "note": {
+        "ja": "あふれ出すような豊富さを表し、花・色・装飾などとも相性がよい。",
+        "en": "Suggests rich, overflowing abundance and is especially natural with visually abundant things."
+      }
+    },
+    {
+      "word": "surfeit",
+      "note": {
+        "ja": "多すぎて飽きる・うんざりするほどの過剰。",
+        "en": "Means an excessive amount, often enough to cause weariness or disgust."
+      }
+    },
+    {
+      "word": "multitude",
+      "note": {
+        "ja": "非常に多くの人・物が存在すること。",
+        "en": "Emphasizes a very large number of people or things."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Fülle / Überfülle",
+    "it": "pletora / abbondanza",
+    "fr": "pléthore / abondance",
+    "es": "plétora / abundancia"
+  },
+  "collocations": {
+    "ja": [
+      "a plethora of options — 非常に多くの選択肢",
+      "a plethora of choices — 過剰なほど多くの選択肢",
+      "a plethora of information — 膨大な情報",
+      "a plethora of studies — 非常に多くの研究",
+      "a plethora of examples — 数多くの例",
+      "a plethora of products — 膨大な数の製品",
+      "a plethora of problems — 山ほどの問題",
+      "a plethora of evidence — 豊富な証拠",
+      "an overwhelming plethora of choices — 圧倒されるほど多くの選択肢"
+    ],
+    "en": [
+      "a plethora of options",
+      "a plethora of choices",
+      "a plethora of information",
+      "a plethora of studies",
+      "a plethora of examples",
+      "a plethora of products",
+      "a plethora of problems",
+      "a plethora of evidence",
+      "an overwhelming plethora of choices"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Consumers now have a plethora of options to choose from. — 消費者は今や非常に多くの選択肢から選べる。",
+      "The report contains a plethora of useful information. — その報告書には有用な情報が大量に含まれている。",
+      "A plethora of studies have examined the issue. — 非常に多くの研究がその問題を検討してきた。",
+      "The website offers a plethora of products, which can make choosing difficult. — そのウェブサイトには商品があまりにも多く、選ぶのが難しいことがある。",
+      "The proposal created a plethora of new administrative problems. — その提案によって非常に多くの新たな行政上の問題が生じた。"
+    ],
+    "en": [
+      "Consumers now have a plethora of options to choose from.",
+      "The report contains a plethora of useful information.",
+      "A plethora of studies have examined the issue.",
+      "The website offers a plethora of products, which can make choosing difficult.",
+      "The proposal created a plethora of new administrative problems."
+    ]
+  }
 }
 ]
