@@ -11038,5 +11038,559 @@
       "The court examined whether the conduct was deliberate and malicious."
     ]
   }
+},
+{
+  "id": "malignant",
+  "sid": "2026-00579",
+  "word": "malignant",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "oncology",
+    "harm",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/məˈlɪɡnənt/",
+      "uk": "/məˈlɪɡnənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "悪性の",
+      "有害で進行性の",
+      "悪意のある、害を及ぼす"
+    ],
+    "en": [
+      "cancerous and capable of invading nearby tissue or spreading to other parts of the body",
+      "seriously harmful or destructive",
+      "showing or characterized by ill will"
+    ]
+  },
+  "nuance": {
+    "ja": "malignant は医学では benign『良性の』の対義語として非常に重要で、特に腫瘍や細胞について『悪性の』を意味する。一般語・比喩用法では、影響・勢力・意図などが強く有害で破壊的であることも表す。malicious や malevolent と意味が重なる場合もあるが、malignant は『害を及ぼす性質・作用』に焦点を置きやすい。",
+    "en": "In medicine, malignant is an important contrast with benign and commonly describes tumors or cells that are cancerous and capable of invasive growth or spread. More broadly, it can describe something seriously harmful or destructive. Compared with malicious or malevolent, malignant often emphasizes harmful nature or effect rather than merely hostile intention."
+  },
+  "minimal": {
+    "ja": [
+      "malignant：医学では悪性の。一般には有害で破壊的な。",
+      "benign：良性の、害の少ない。malignant の対義語。",
+      "malicious：故意に害を与えようとする悪意のある。",
+      "malevolent：他者の不幸を望む悪意・害意を持つ。",
+      "malign：形容詞では有害な・邪悪な、動詞では中傷する。",
+      "cancerous：癌性の。医学的意味により直接的。"
+    ],
+    "en": [
+      "malignant means cancerous in medicine and seriously harmful more broadly.",
+      "benign means nonmalignant or relatively harmless and is the key medical opposite.",
+      "malicious emphasizes deliberate intent to cause harm.",
+      "malevolent emphasizes a disposition of wishing harm on others.",
+      "malign can mean harmful as an adjective or 'slander' as a verb.",
+      "cancerous is a more direct medical term for relating to cancer."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 malignus『悪意のある、邪悪な』に由来し、malus『悪い』と関係する。もともとは『悪意ある・有害な』という一般的意味で、そこから医学的に『悪性の、危険な進行をする』という意味が発達した。malice, malicious, malign, malevolent などと同じ mal-『悪い』の語族。",
+    "en": "From Latin malignus, meaning 'ill-disposed, wicked, or harmful', related to malus, 'bad'. The general sense of harmfulness later developed into the medical sense of a dangerous, invasive disease process. It belongs to the same broad mal- family as malice, malicious, malign, and malevolent."
+  },
+  "synonyms": [
+    {
+      "word": "cancerous",
+      "note": {
+        "ja": "癌性の、癌に関係する。医学では malignant より直接的な表現。",
+        "en": "A direct medical term meaning affected by or relating to cancer."
+      }
+    },
+    {
+      "word": "harmful",
+      "note": {
+        "ja": "有害な、害を与える一般語。悪意や癌を意味するとは限らない。",
+        "en": "A broad term for causing harm, without necessarily implying cancer or ill will."
+      }
+    },
+    {
+      "word": "malicious",
+      "note": {
+        "ja": "故意に害を与えようとする悪意に重点。",
+        "en": "Emphasizes deliberate intent to cause harm."
+      }
+    },
+    {
+      "word": "malevolent",
+      "note": {
+        "ja": "他人に害が及ぶことを望む悪意ある性向に重点。",
+        "en": "Emphasizes an ill-wishing or harmful disposition."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "bösartig",
+    "it": "maligno",
+    "fr": "malin / maligne",
+    "es": "maligno"
+  },
+  "collocations": {
+    "ja": [
+      "a malignant tumor — 悪性腫瘍",
+      "malignant cells — 悪性細胞",
+      "a malignant growth — 悪性の増殖・腫瘍",
+      "malignant disease — 悪性疾患",
+      "malignant melanoma — 悪性黒色腫",
+      "malignant neoplasm — 悪性新生物",
+      "become malignant — 悪性化する",
+      "a malignant influence — 有害で破壊的な影響",
+      "a malignant force — 邪悪で有害な力",
+      "a malignant presence — 邪悪な気配・存在"
+    ],
+    "en": [
+      "a malignant tumor",
+      "malignant cells",
+      "a malignant growth",
+      "malignant disease",
+      "malignant melanoma",
+      "malignant neoplasm",
+      "become malignant",
+      "a malignant influence",
+      "a malignant force",
+      "a malignant presence"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Tests showed that the tumor was malignant. — 検査の結果、その腫瘍は悪性であることが分かった。",
+      "Malignant cells can invade surrounding tissue. — 悪性細胞は周囲の組織へ浸潤することがある。",
+      "Doctors removed the malignant growth surgically. — 医師たちはその悪性腫瘍を外科的に切除した。",
+      "The novel depicts prejudice as a malignant influence on society. — その小説は偏見を社会に対する有害で破壊的な影響として描いている。",
+      "He sensed something malignant behind the apparently harmless scheme. — 彼は一見無害な計画の背後に何か邪悪なものを感じ取った。"
+    ],
+    "en": [
+      "Tests showed that the tumor was malignant.",
+      "Malignant cells can invade surrounding tissue.",
+      "Doctors removed the malignant growth surgically.",
+      "The novel depicts prejudice as a malignant influence on society.",
+      "He sensed something malignant behind the apparently harmless scheme."
+    ]
+  }
+},
+{
+  "id": "benign",
+  "sid": "2026-00580",
+  "word": "benign",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "oncology",
+    "character",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bɪˈnaɪn/",
+      "uk": "/bɪˈnaɪn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "良性の",
+      "害のない、危険性の低い",
+      "温和な、穏やかな"
+    ],
+    "en": [
+      "not cancerous or invasive, especially of a tumor",
+      "harmless or unlikely to cause serious damage",
+      "gentle, mild, or kindly in character or effect"
+    ]
+  },
+  "nuance": {
+    "ja": "benign は医学では malignant『悪性の』の対義語で、特に腫瘍について『良性の』を意味する。ただし benign は必ずしも『何の問題もない』という意味ではなく、良性でも大きさや位置によって症状を引き起こすことがある。一般語では benign influence, benign climate, benign neglect のように『害が少ない・穏やかな』という意味でも使われる。",
+    "en": "In medicine, benign contrasts with malignant and commonly describes a tumor that is not cancerous or invasively spreading. Benign does not necessarily mean completely harmless, since a benign condition can still cause problems depending on its size or location. More broadly, the word can mean mild, harmless, or gentle."
+  },
+  "minimal": {
+    "ja": [
+      "benign：医学では良性の。一般には害が少なく穏やかな。",
+      "malignant：悪性の、侵襲的・有害な。",
+      "harmless：害のない。最も一般的。",
+      "mild：程度が軽い、穏やかな。",
+      "benevolent：善意があり、他者の幸福を願う。",
+      "innocuous：無害な。ややフォーマルで、害を与えないことに重点。"
+    ],
+    "en": [
+      "benign means nonmalignant in medicine and mild or harmless more broadly.",
+      "malignant means cancerous or seriously harmful.",
+      "harmless is the broad everyday word for causing no harm.",
+      "mild emphasizes low severity or gentleness.",
+      "benevolent emphasizes goodwill toward others.",
+      "innocuous is a formal word meaning harmless or unlikely to cause damage."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 benignus『親切な、寛大な、恵み深い』に由来する。bene『善く』と関係し、もともとは『善良な、温和な』という意味だった。そこから医学で『悪性ではない、比較的害の少ない』という意味が発達した。",
+    "en": "From Latin benignus, meaning 'kind, favorable, or generous', related to bene, 'well'. The original sense was gentle or kindly, from which the medical sense 'not malignant' later developed."
+  },
+  "synonyms": [
+    {
+      "word": "harmless",
+      "note": {
+        "ja": "害のないことを表す一般語。医学以外でも非常に広く使える。",
+        "en": "The broad everyday term for something that causes no harm."
+      }
+    },
+    {
+      "word": "innocuous",
+      "note": {
+        "ja": "無害な。ややフォーマルで、悪影響がないことに重点。",
+        "en": "A somewhat formal word emphasizing that something is harmless."
+      }
+    },
+    {
+      "word": "mild",
+      "note": {
+        "ja": "症状・気候・態度などの程度が穏やかで軽い。",
+        "en": "Emphasizes low severity, gentleness, or moderation."
+      }
+    },
+    {
+      "word": "benevolent",
+      "note": {
+        "ja": "善意・慈愛があることを表し、benign より意図に重点。",
+        "en": "Emphasizes goodwill or kindly intention rather than merely harmlessness."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gutartig / harmlos",
+    "it": "benigno",
+    "fr": "bénin / bénigne",
+    "es": "benigno"
+  },
+  "collocations": {
+    "ja": [
+      "a benign tumor — 良性腫瘍",
+      "a benign growth — 良性の腫瘤・増殖",
+      "a benign condition — 良性疾患",
+      "benign cells — 良性細胞",
+      "benign disease — 良性疾患",
+      "benign and malignant tumors — 良性および悪性腫瘍",
+      "a benign influence — 穏やかで害のない影響",
+      "a benign climate — 温和な気候",
+      "a benign expression — 穏やかな表情",
+      "benign neglect — 意図的に介入を控えること"
+    ],
+    "en": [
+      "a benign tumor",
+      "a benign growth",
+      "a benign condition",
+      "benign cells",
+      "benign disease",
+      "benign and malignant tumors",
+      "a benign influence",
+      "a benign climate",
+      "a benign expression",
+      "benign neglect"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The tests showed that the tumor was benign. — 検査の結果、その腫瘍は良性であることが分かった。",
+      "Most benign tumors do not spread to distant parts of the body. — 多くの良性腫瘍は身体の離れた部位へ転移しない。",
+      "Although the growth was benign, it still caused discomfort because of its location. — その腫瘤は良性だったが、位置のために不快な症状を引き起こしていた。",
+      "The region enjoys a relatively benign climate throughout the year. — その地域は一年を通して比較的温和な気候に恵まれている。",
+      "What initially seemed like a benign change eventually required further investigation. — 当初は無害に思えた変化も、最終的にはさらなる検査が必要になった。"
+    ],
+    "en": [
+      "The tests showed that the tumor was benign.",
+      "Most benign tumors do not spread to distant parts of the body.",
+      "Although the growth was benign, it still caused discomfort because of its location.",
+      "The region enjoys a relatively benign climate throughout the year.",
+      "What initially seemed like a benign change eventually required further investigation."
+    ]
+  }
+},
+{
+  "id": "mayhem",
+  "sid": "2026-00581",
+  "word": "mayhem",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "chaos",
+    "disorder",
+    "violence",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈmeɪhem/",
+      "uk": "/ˈmeɪhem/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "大混乱、無秩序",
+      "騒乱、混乱状態",
+      "激しい破壊や暴力を伴う混沌"
+    ],
+    "en": [
+      "a state of violent or extreme disorder",
+      "confusion and chaos, often involving damage or disruption",
+      "wild and uncontrolled activity"
+    ]
+  },
+  "nuance": {
+    "ja": "mayhem は単なる confusion より強く、『現場がめちゃくちゃになっている』ような活発で激しい混乱を表す。暴力や破壊を伴うこともあるが、必須ではなく、traffic mayhem や holiday shopping mayhem のように誇張的・口語的にも使える。chaos よりも動きや騒々しさを感じさせやすい。",
+    "en": "Mayhem suggests active, often noisy or destructive chaos rather than mere confusion. Violence or damage may be involved, but the word is also used informally and hyperbolically for situations such as traffic mayhem or holiday shopping mayhem."
+  },
+  "minimal": {
+    "ja": [
+      "mayhem：激しく騒々しい大混乱。",
+      "chaos：秩序が完全に崩れた状態を表す最も広い語。",
+      "disorder：秩序の欠如。mayhem より中立的。",
+      "turmoil：社会・組織・感情などの激しい混乱。",
+      "havoc：大きな破壊・損害をもたらす混乱。",
+      "pandemonium：騒音と混乱が入り交じった大騒ぎ。"
+    ],
+    "en": [
+      "mayhem is wild, active, and often destructive disorder.",
+      "chaos is the broad general term for complete lack of order.",
+      "disorder is more neutral and less vivid.",
+      "turmoil emphasizes intense disturbance in society, organizations, or emotions.",
+      "havoc emphasizes widespread damage or destruction.",
+      "pandemonium emphasizes noisy, frantic confusion."
+    ]
+  },
+  "etymology": {
+    "ja": "中世英語の法律用語 maim と関係し、もともと mayhem は『人の身体を不具にして戦闘能力を奪う傷害』を意味した。英米法では歴史的に重い身体損傷を指す法律用語だったが、その後意味が一般化して『暴力的な混乱、大混乱』を表すようになった。",
+    "en": "Historically related to maim. In medieval and later common law, mayhem referred to the criminal maiming of a person in a way that impaired the person's ability to fight. The meaning later broadened from serious bodily injury to violent disorder and general chaos."
+  },
+  "synonyms": [
+    {
+      "word": "chaos",
+      "note": {
+        "ja": "秩序が完全に失われた状態を表す最も一般的な語。",
+        "en": "The broad general term for a complete absence of order."
+      }
+    },
+    {
+      "word": "havoc",
+      "note": {
+        "ja": "破壊や重大な損害を伴う混乱に重点。",
+        "en": "Emphasizes widespread damage, destruction, or disruption."
+      }
+    },
+    {
+      "word": "pandemonium",
+      "note": {
+        "ja": "騒音・叫び声などを伴う大混乱。",
+        "en": "Emphasizes noisy, frantic, and uncontrolled confusion."
+      }
+    },
+    {
+      "word": "turmoil",
+      "note": {
+        "ja": "社会・政治・組織・感情などの激しい混乱。",
+        "en": "Emphasizes intense disturbance or instability, often social, political, organizational, or emotional."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Chaos / Tumult",
+    "it": "caos / scompiglio",
+    "fr": "chaos / pagaille",
+    "es": "caos / desorden"
+  },
+  "collocations": {
+    "ja": [
+      "cause mayhem — 大混乱を引き起こす",
+      "create mayhem — 大混乱を生み出す",
+      "wreak mayhem — 大混乱・破壊を引き起こす",
+      "descend into mayhem — 大混乱に陥る",
+      "traffic mayhem — 交通の大混乱",
+      "crowd mayhem — 群衆による大混乱",
+      "utter mayhem — 完全な大混乱",
+      "absolute mayhem — とんでもない大混乱",
+      "scenes of mayhem — 大混乱の光景",
+      "amid the mayhem — 混乱のさなかで"
+    ],
+    "en": [
+      "cause mayhem",
+      "create mayhem",
+      "wreak mayhem",
+      "descend into mayhem",
+      "traffic mayhem",
+      "crowd mayhem",
+      "utter mayhem",
+      "absolute mayhem",
+      "scenes of mayhem",
+      "amid the mayhem"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The sudden power failure caused mayhem across the city. — 突然の停電が市内全域に大混乱を引き起こした。",
+      "Traffic was reduced to mayhem after the accident. — 事故の後、交通は大混乱に陥った。",
+      "The crowd rushed toward the exits, creating absolute mayhem. — 群衆が出口へ殺到し、完全な大混乱となった。",
+      "Amid the mayhem, emergency crews struggled to reach the injured. — 大混乱のさなか、救急隊は負傷者のもとへたどり着こうと奮闘した。",
+      "The children ran through the house causing cheerful mayhem. — 子どもたちは家中を走り回り、にぎやかな大騒ぎを巻き起こした。"
+    ],
+    "en": [
+      "The sudden power failure caused mayhem across the city.",
+      "Traffic was reduced to mayhem after the accident.",
+      "The crowd rushed toward the exits, creating absolute mayhem.",
+      "Amid the mayhem, emergency crews struggled to reach the injured.",
+      "The children ran through the house causing cheerful mayhem."
+    ]
+  }
+},
+{
+  "id": "pandemonium",
+  "sid": "2026-00582",
+  "word": "pandemonium",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "chaos",
+    "noise",
+    "disorder",
+    "literary"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌpændəˈmoʊniəm/",
+      "uk": "/ˌpændɪˈməʊniəm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "大混乱、大騒ぎ",
+      "騒音と混乱が入り交じった状態",
+      "阿鼻叫喚のような騒々しい混沌"
+    ],
+    "en": [
+      "a state of wild and noisy disorder",
+      "complete confusion accompanied by great noise or excitement",
+      "a scene of uncontrolled commotion"
+    ]
+  },
+  "nuance": {
+    "ja": "pandemonium は単なる chaos よりも、叫び声・騒音・群衆の動きなどを伴う『騒々しい大混乱』を強くイメージさせる。事故・スポーツ会場・群衆・パニックなどに使いやすい。mayhem と非常に近いが、mayhem は暴力・破壊・激しい活動に寄りやすく、pandemonium は音と騒ぎの激しさが特に目立つ。",
+    "en": "Pandemonium suggests complete disorder combined with loud noise, excitement, shouting, or frantic activity. It is close to mayhem, but pandemonium especially emphasizes noisy commotion, whereas mayhem more readily suggests destructive or violent disorder."
+  },
+  "minimal": {
+    "ja": [
+      "pandemonium：騒音・叫び声を伴う大混乱。",
+      "mayhem：激しく活動的で、ときに破壊的な大混乱。",
+      "chaos：秩序が完全に崩れた状態を表す一般語。",
+      "uproar：大声・抗議・騒ぎ。特に人々の反応に重点。",
+      "commotion：騒ぎ・ざわめき。pandemonium より弱い。",
+      "havoc：破壊・損害を伴う混乱。"
+    ],
+    "en": [
+      "pandemonium is wild and especially noisy confusion.",
+      "mayhem is active, intense, and often destructive disorder.",
+      "chaos is the broad general term for complete disorder.",
+      "uproar emphasizes loud public reaction, protest, or noise.",
+      "commotion is noisy disturbance but usually less extreme.",
+      "havoc emphasizes widespread damage or disruption."
+    ]
+  },
+  "etymology": {
+    "ja": "17世紀、ジョン・ミルトンが『失楽園』で地獄の首都の名として Pandæmonium を作ったのが起源。ギリシャ語 pan『すべて』＋ daimōn『霊、悪霊』から、文字どおりには『すべての悪霊の場所』という意味。その固有名詞が一般名詞化し、『悪霊が入り乱れるような大混乱』を意味するようになった。",
+    "en": "Coined by John Milton in the seventeenth century as Pandæmonium, the capital of Hell in Paradise Lost. It was formed from Greek pan ('all') and daimōn ('spirit, demon'), literally suggesting a place of all demons. The proper name later became a common noun meaning wild, noisy chaos."
+  },
+  "synonyms": [
+    {
+      "word": "mayhem",
+      "note": {
+        "ja": "非常に近いが、破壊・暴力・激しい活動を伴う混乱に寄りやすい。",
+        "en": "Very close, but often suggests more active, destructive, or violent disorder."
+      }
+    },
+    {
+      "word": "chaos",
+      "note": {
+        "ja": "秩序が完全に崩れた状態を表す最も広い語。",
+        "en": "The broadest general term for complete disorder."
+      }
+    },
+    {
+      "word": "uproar",
+      "note": {
+        "ja": "群衆の叫び声・抗議・騒々しい反応に重点。",
+        "en": "Emphasizes loud noise, protest, or excited public reaction."
+      }
+    },
+    {
+      "word": "commotion",
+      "note": {
+        "ja": "人々がざわつく騒ぎ。pandemonium ほど極端ではない。",
+        "en": "A noisy disturbance or fuss, generally less extreme than pandemonium."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Chaos / Tumult",
+    "it": "pandemonio / caos",
+    "fr": "pandémonium / chaos",
+    "es": "pandemónium / caos"
+  },
+  "collocations": {
+    "ja": [
+      "cause pandemonium — 大混乱を引き起こす",
+      "create pandemonium — 大騒ぎを引き起こす",
+      "absolute pandemonium — 完全な大混乱",
+      "complete pandemonium — 収拾のつかない大混乱",
+      "utter pandemonium — とんでもない大混乱",
+      "descend into pandemonium — 大混乱に陥る",
+      "erupt into pandemonium — 突然大騒ぎになる",
+      "scenes of pandemonium — 大混乱の光景",
+      "amid the pandemonium — 大騒ぎのさなかで",
+      "pandemonium broke out — 大混乱が起きた"
+    ],
+    "en": [
+      "cause pandemonium",
+      "create pandemonium",
+      "absolute pandemonium",
+      "complete pandemonium",
+      "utter pandemonium",
+      "descend into pandemonium",
+      "erupt into pandemonium",
+      "scenes of pandemonium",
+      "amid the pandemonium",
+      "pandemonium broke out"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Pandemonium broke out when the fire alarm sounded. — 火災報知器が鳴ると大混乱が起きた。",
+      "The stadium erupted into pandemonium after the winning goal. — 決勝点が入るとスタジアムは大騒ぎになった。",
+      "There was complete pandemonium at the airport after hundreds of flights were canceled. — 数百便が欠航となり、空港は完全な大混乱に陥った。",
+      "Amid the pandemonium, no one could hear the instructions. — 大騒ぎのさなか、誰も指示を聞き取れなかった。",
+      "The announcement caused pandemonium among the crowd. — その発表で群衆は大混乱に陥った。"
+    ],
+    "en": [
+      "Pandemonium broke out when the fire alarm sounded.",
+      "The stadium erupted into pandemonium after the winning goal.",
+      "There was complete pandemonium at the airport after hundreds of flights were canceled.",
+      "Amid the pandemonium, no one could hear the instructions.",
+      "The announcement caused pandemonium among the crowd."
+    ]
+  }
 }
 ]
