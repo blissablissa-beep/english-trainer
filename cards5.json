@@ -12757,5 +12757,572 @@
       "The room exuded warmth and comfort."
     ]
   }
+},
+{
+  "id": "radiate",
+  "sid": "2026-00591",
+  "word": "radiate",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "emission",
+    "energy",
+    "figurative",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive / intransitive",
+    "forms": {
+      "base": "radiate",
+      "third_person": "radiates",
+      "past": "radiated",
+      "past_participle": "radiated",
+      "gerund": "radiating"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈreɪdieɪt/",
+      "uk": "/ˈreɪdieɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "光・熱・エネルギーなどを放射する",
+      "中心から外側へ広がる",
+      "感情・自信・魅力などを周囲に発散する"
+    ],
+    "en": [
+      "to send out heat, light, energy, or radiation",
+      "to spread outward from a central point",
+      "to visibly project a feeling, quality, or impression"
+    ]
+  },
+  "nuance": {
+    "ja": "radiate の核は『中心から周囲へ放射状に広がる』こと。物理的には heat, light, energy などに使い、比喩的には radiate confidence, joy, warmth のように、その人から感情や性質が周囲へ強く伝わることを表す。exude が『内側から自然ににじみ出る』感じなのに対し、radiate は『中心から周囲へ広がっていく』イメージが強い。",
+    "en": "Radiate emphasizes something spreading outward from a central source. Physically, it is used for heat, light, and energy. Figuratively, it describes confidence, joy, warmth, or other qualities visibly spreading from a person. Compared with exude, radiate suggests outward spreading more strongly."
+  },
+  "minimal": {
+    "ja": [
+      "radiate：中心から周囲へ放射・発散する。",
+      "emit：光・熱・音・ガスなどを外へ放出する。",
+      "emanate：何かが特定の源から発してくる。",
+      "exude：内側の性質・液体などが自然ににじみ出る。",
+      "project：印象・自信・権威などを外へ示す。",
+      "spread：広がる・広げる一般語。"
+    ],
+    "en": [
+      "radiate means to spread outward from a central source.",
+      "emit means to send out light, heat, sound, gas, or similar output.",
+      "emanate means to come or flow outward from a source.",
+      "exude suggests something naturally seeping or projecting outward.",
+      "project means to present or convey an impression.",
+      "spread is the broad general verb for extending over an area."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 radius『光線、棒、車輪のスポーク』に由来する。radiatus『光線状の』を経て、中心から光線やスポークのように外へ広がることを表すようになった。radius, radiation, radiant と同じ語族。",
+    "en": "From Latin radius, meaning 'ray, spoke, or rod'. Through radiatus, 'provided with rays', it developed the sense of spreading outward like rays or spokes from a central point. It belongs to the same family as radius, radiation, and radiant."
+  },
+  "synonyms": [
+    {
+      "word": "emit",
+      "note": {
+        "ja": "光・熱・音・ガスなどを放出する、より中立的・技術的な語。",
+        "en": "A neutral or technical verb for sending out light, heat, sound, gas, and similar things."
+      }
+    },
+    {
+      "word": "emanate",
+      "note": {
+        "ja": "ある源から何かが発してくることに重点。",
+        "en": "Emphasizes something coming outward from a particular source."
+      }
+    },
+    {
+      "word": "exude",
+      "note": {
+        "ja": "性質・雰囲気などが内側から自然ににじみ出る感じ。",
+        "en": "Suggests a quality naturally seeping or flowing outward."
+      }
+    },
+    {
+      "word": "project",
+      "note": {
+        "ja": "印象・自信・権威などを外へ示すことに重点。",
+        "en": "Emphasizes presenting or conveying an impression to others."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ausstrahlen",
+    "it": "irradiare",
+    "fr": "rayonner",
+    "es": "irradiar"
+  },
+  "collocations": {
+    "ja": [
+      "radiate heat — 熱を放射する",
+      "radiate light — 光を放つ",
+      "radiate energy — エネルギーを放射する",
+      "radiate warmth — 温かさを発散する",
+      "radiate confidence — 自信を漂わせる",
+      "radiate joy — 喜びを全身から表す",
+      "radiate happiness — 幸福感を漂わせる",
+      "radiate charm — 魅力を振りまく",
+      "radiate outward — 外側へ放射状に広がる",
+      "radiate from a central point — 中心点から放射状に広がる"
+    ],
+    "en": [
+      "radiate heat",
+      "radiate light",
+      "radiate energy",
+      "radiate warmth",
+      "radiate confidence",
+      "radiate joy",
+      "radiate happiness",
+      "radiate charm",
+      "radiate outward",
+      "radiate from a central point"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The stove radiates a considerable amount of heat. — そのストーブはかなりの熱を放射する。",
+      "The roads radiate outward from the city center. — 道路は市の中心部から放射状に外へ伸びている。",
+      "She radiated confidence throughout the interview. — 彼女は面接中ずっと自信を漂わせていた。",
+      "His face radiated joy when he heard the news. — その知らせを聞いたとき、彼の顔には喜びがあふれていた。",
+      "Warmth seemed to radiate from the fireplace. — 暖炉から温かさが周囲へ広がっているようだった。"
+    ],
+    "en": [
+      "The stove radiates a considerable amount of heat.",
+      "The roads radiate outward from the city center.",
+      "She radiated confidence throughout the interview.",
+      "His face radiated joy when he heard the news.",
+      "Warmth seemed to radiate from the fireplace."
+    ]
+  }
+},
+{
+  "id": "radiation",
+  "sid": "2026-00592",
+  "word": "radiation",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "physics",
+    "medicine",
+    "energy",
+    "science"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable in specialized uses"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌreɪdiˈeɪʃən/",
+      "uk": "/ˌreɪdiˈeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "放射、放射エネルギー",
+      "放射線",
+      "熱・光・電磁波などがエネルギーとして放出されること",
+      "放射線治療"
+    ],
+    "en": [
+      "energy transmitted in the form of waves or particles",
+      "the emission or transmission of energy from a source",
+      "ionizing radiation, such as X-rays or radiation from radioactive materials",
+      "the use of radiation in medical treatment"
+    ]
+  },
+  "nuance": {
+    "ja": "radiation は非常に広い科学用語で、必ずしも『放射能による危険な放射線』だけを意味しない。可視光、赤外線、電波なども広い意味では electromagnetic radiation に含まれる。一方、日常会話で単に radiation と言うと、X線や放射性物質などに由来する電離放射線を指すことも多い。医学では radiation therapy の省略として radiation が使われることもある。",
+    "en": "Radiation is a broad scientific term and does not necessarily mean dangerous radioactive radiation. Visible light, infrared, and radio waves are all forms of electromagnetic radiation. In everyday contexts, however, radiation often refers specifically to ionizing radiation such as X-rays or radiation from radioactive materials. In medicine, radiation can also refer to radiation therapy."
+  },
+  "minimal": {
+    "ja": [
+      "radiation：波や粒子として伝わるエネルギー、またはその放射。",
+      "radioactivity：不安定な原子核が自然に崩壊して放射線を出す性質・現象。",
+      "radiation exposure：放射線を浴びること。",
+      "irradiation：対象に放射線を照射すること。",
+      "radiance：光・輝き、または放射エネルギーに関する専門用語。",
+      "radiate：光・熱・エネルギーなどを放射する。"
+    ],
+    "en": [
+      "radiation is energy transmitted as waves or particles.",
+      "radioactivity is the property or process of unstable nuclei spontaneously emitting radiation.",
+      "radiation exposure means being exposed to radiation.",
+      "irradiation is the act of exposing something to radiation.",
+      "radiance usually means brightness and also has specialized physical meanings.",
+      "radiate is the verb meaning to emit or spread energy outward."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 radius『光線、車輪のスポーク』を語源とする radiate から派生した語。中心から光線のように外へ広がるというイメージが核にある。radius, radiate, radiant と同じ語族。",
+    "en": "Derived from radiate, ultimately from Latin radius, meaning 'ray, spoke, or rod'. The underlying image is energy spreading outward from a central source like rays or the spokes of a wheel."
+  },
+  "synonyms": [
+    {
+      "word": "emission",
+      "note": {
+        "ja": "エネルギーや物質を放出すること一般。radiation より意味が広い。",
+        "en": "A broader term for the release of energy or matter."
+      }
+    },
+    {
+      "word": "irradiation",
+      "note": {
+        "ja": "放射線などを対象へ照射する行為に重点。",
+        "en": "Emphasizes the act of exposing an object or person to radiation."
+      }
+    },
+    {
+      "word": "radioactivity",
+      "note": {
+        "ja": "放射性物質が自発的に放射線を出す性質・現象で、radiation そのものとは異なる。",
+        "en": "The property or process by which unstable nuclei spontaneously emit radiation, not the radiation itself."
+      }
+    },
+    {
+      "word": "ray",
+      "note": {
+        "ja": "光線・放射線の一本や特定の種類を指す語。",
+        "en": "Refers to a beam or particular type of emitted energy."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Strahlung",
+    "it": "radiazione",
+    "fr": "rayonnement / radiation",
+    "es": "radiación"
+  },
+  "collocations": {
+    "ja": [
+      "ionizing radiation — 電離放射線",
+      "electromagnetic radiation — 電磁放射",
+      "solar radiation — 太陽放射",
+      "background radiation — 自然放射線、バックグラウンド放射線",
+      "radiation exposure — 放射線被曝",
+      "radiation dose — 放射線量",
+      "radiation levels — 放射線レベル",
+      "radiation therapy — 放射線治療",
+      "radiation treatment — 放射線治療",
+      "radiation sickness — 放射線障害、急性放射線症",
+      "protect against radiation — 放射線から防護する"
+    ],
+    "en": [
+      "ionizing radiation",
+      "electromagnetic radiation",
+      "solar radiation",
+      "background radiation",
+      "radiation exposure",
+      "radiation dose",
+      "radiation levels",
+      "radiation therapy",
+      "radiation treatment",
+      "radiation sickness",
+      "protect against radiation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The Sun emits enormous amounts of electromagnetic radiation. — 太陽は莫大な量の電磁放射を放出している。",
+      "Workers wear protective equipment to reduce radiation exposure. — 作業員は放射線被曝を減らすために防護具を着用する。",
+      "The device measures background radiation. — その装置はバックグラウンド放射線を測定する。",
+      "She underwent radiation therapy after surgery. — 彼女は手術後に放射線治療を受けた。",
+      "Visible light is a form of electromagnetic radiation. — 可視光は電磁放射の一種である。"
+    ],
+    "en": [
+      "The Sun emits enormous amounts of electromagnetic radiation.",
+      "Workers wear protective equipment to reduce radiation exposure.",
+      "The device measures background radiation.",
+      "She underwent radiation therapy after surgery.",
+      "Visible light is a form of electromagnetic radiation."
+    ]
+  }
+},
+{
+  "id": "irradiation",
+  "sid": "2026-00593",
+  "word": "irradiation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "physics",
+    "medicine",
+    "food",
+    "science"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable in specialized uses"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪˌreɪdiˈeɪʃən/",
+      "uk": "/ɪˌreɪdiˈeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "放射線を照射すること、照射",
+      "物体や組織を放射線・光などにさらすこと",
+      "食品などを放射線で処理すること"
+    ],
+    "en": [
+      "the act or process of exposing something to radiation",
+      "treatment of tissue, material, or another object with radiation",
+      "the use of ionizing radiation to treat, sterilize, preserve, or modify something"
+    ]
+  },
+  "nuance": {
+    "ja": "irradiation は『放射線が存在すること』ではなく、『対象に放射線を当てる処理』を表す。医学では組織への放射線照射、食品分野では food irradiation『食品照射』、材料科学では物質への照射処理などに使われる。radiation が放射線や放射エネルギーそのものを表すのに対し、irradiation は対象側から見た『照射されること・照射する処理』に重点がある。",
+    "en": "Irradiation refers to the process of exposing a target to radiation rather than to the radiation itself. It is used in medicine, food processing, sterilization, materials science, and other technical fields. Radiation names the energy or phenomenon, whereas irradiation emphasizes the exposure or treatment process."
+  },
+  "minimal": {
+    "ja": [
+      "irradiation：対象に放射線を照射すること。",
+      "radiation：放射線・放射エネルギーそのもの、または放射現象。",
+      "radioactivity：不安定な原子核が自発的に放射線を出す性質・現象。",
+      "exposure：何かにさらされること。放射線に限定されない。",
+      "radiation therapy：放射線を用いる治療。",
+      "sterilization：微生物を除去・死滅させる処理。照射はその方法の一つ。"
+    ],
+    "en": [
+      "irradiation is the process of exposing something to radiation.",
+      "radiation is the energy or phenomenon itself.",
+      "radioactivity is the property of unstable nuclei spontaneously emitting radiation.",
+      "exposure is the broader concept of being subjected to something.",
+      "radiation therapy is medical treatment using radiation.",
+      "sterilization is the elimination of microorganisms, for which irradiation can be one method."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 irradiate に由来し、ラテン語 irradiare『光線を当てる、照らす』にさかのぼる。in-『〜の上へ、〜に向かって』＋ radius『光線、車輪のスポーク』という構造で、語源的には『光線を対象に当てること』。",
+    "en": "Derived from irradiate, ultimately from Latin irradiare, meaning 'to shine upon', formed from in- ('upon, toward') and radius ('ray or spoke'). The literal image is therefore that of directing rays onto something."
+  },
+  "synonyms": [
+    {
+      "word": "exposure",
+      "note": {
+        "ja": "何かにさらされることを表す広い語。放射線以外にも使える。",
+        "en": "A broad term for being subjected to something and is not limited to radiation."
+      }
+    },
+    {
+      "word": "radiation treatment",
+      "note": {
+        "ja": "医学で放射線を用いて治療すること。irradiation より治療目的が明確。",
+        "en": "Refers specifically to medical treatment using radiation."
+      }
+    },
+    {
+      "word": "sterilization",
+      "note": {
+        "ja": "滅菌処理。放射線照射によって行われる場合がある。",
+        "en": "The process of eliminating microorganisms, which can be achieved by irradiation."
+      }
+    },
+    {
+      "word": "illumination",
+      "note": {
+        "ja": "光を当てること・照明。通常は可視光で、irradiation より一般的。",
+        "en": "The act of lighting something, usually with visible light and much broader than irradiation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Bestrahlung",
+    "it": "irradiazione",
+    "fr": "irradiation",
+    "es": "irradiación"
+  },
+  "collocations": {
+    "ja": [
+      "radiation irradiation — 放射線照射",
+      "food irradiation — 食品照射",
+      "irradiation treatment — 照射処理",
+      "irradiation dose — 照射線量",
+      "irradiation facility — 照射施設",
+      "irradiation of tissue — 組織への照射",
+      "irradiation of food — 食品への照射",
+      "gamma irradiation — ガンマ線照射",
+      "ultraviolet irradiation — 紫外線照射",
+      "undergo irradiation — 照射を受ける"
+    ],
+    "en": [
+      "radiation irradiation",
+      "food irradiation",
+      "irradiation treatment",
+      "irradiation dose",
+      "irradiation facility",
+      "irradiation of tissue",
+      "irradiation of food",
+      "gamma irradiation",
+      "ultraviolet irradiation",
+      "undergo irradiation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The samples were subjected to gamma irradiation. — 試料にはガンマ線照射が行われた。",
+      "Food irradiation can be used to reduce certain microorganisms. — 食品照射は特定の微生物を減らすために利用できる。",
+      "The researchers studied the effects of irradiation on the material. — 研究者たちはその材料に対する照射の影響を調べた。",
+      "The tissue was damaged after prolonged irradiation. — その組織は長時間の照射によって損傷した。",
+      "Irradiation is used in some industrial sterilization processes. — 照射は一部の工業的な滅菌工程で利用されている。"
+    ],
+    "en": [
+      "The samples were subjected to gamma irradiation.",
+      "Food irradiation can be used to reduce certain microorganisms.",
+      "The researchers studied the effects of irradiation on the material.",
+      "The tissue was damaged after prolonged irradiation.",
+      "Irradiation is used in some industrial sterilization processes."
+    ]
+  }
+},
+{
+  "id": "manosphere",
+  "sid": "2026-00594",
+  "word": "manosphere",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "internet",
+    "gender",
+    "society",
+    "media"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / usually singular"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈmænəˌsfɪr/",
+      "uk": "/ˈmænəˌsfɪə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "男性問題や男性性をめぐるオンラインコミュニティ群",
+      "男性中心のネット言説圏",
+      "特に反フェミニズムや女性蔑視的言説と結びつくことのあるオンライン空間"
+    ],
+    "en": [
+      "a loose network of online communities focused on men, masculinity, dating, and gender issues",
+      "an online sphere of male-oriented commentary and communities",
+      "a term often used for parts of the internet associated with antifeminist or misogynistic ideas"
+    ]
+  },
+  "nuance": {
+    "ja": "manosphere は一枚岩の組織ではなく、複数のオンラインコミュニティや思想潮流をまとめて指す集合的なラベル。男性の権利、恋愛、自己改善、男性性などを扱う場を含みうるが、報道・研究・一般的な議論では、反フェミニズムや女性蔑視、強いジェンダー対立と結びつくネット空間を指すことが多い。そのため、単なる『男性向けコミュニティ』の中立的な言い換えとして使うとニュアンスを誤ることがある。",
+    "en": "The manosphere is not a single organization but a loose umbrella term for various online communities and ideological currents concerned with men, masculinity, dating, and gender. In journalism and research, the term often carries a critical association with antifeminist, misogynistic, or strongly adversarial gender discourse, so it is not always a neutral synonym for any male-oriented online community."
+  },
+  "minimal": {
+    "ja": [
+      "manosphere：男性性・恋愛・ジェンダー問題を扱う男性中心のオンライン言説圏。",
+      "men's rights movement：男性の権利問題を中心に扱う運動。manosphere の一部と重なることがある。",
+      "online community：オンライン共同体一般。manosphere よりはるかに中立的。",
+      "subculture：特定の価値観・慣習を共有する下位文化。",
+      "echo chamber：似た意見ばかりが強化される情報環境。",
+      "misogyny：女性嫌悪・女性蔑視。manosphere の一部と関連づけられることがある。"
+    ],
+    "en": [
+      "manosphere is an umbrella term for male-centered online discourse about masculinity, dating, and gender.",
+      "men's rights movement focuses specifically on issues framed as men's rights and may overlap with parts of the manosphere.",
+      "online community is a much broader and neutral term.",
+      "subculture is a group with distinctive values, practices, or identity.",
+      "echo chamber is an environment where similar views are repeatedly reinforced.",
+      "misogyny means hatred of or prejudice against women and is often discussed in relation to some parts of the manosphere."
+    ]
+  },
+  "etymology": {
+    "ja": "man『男性』＋ sphere『領域、圏』から作られた比較的新しい複合語。sphere はここでは blogosphere『ブログ圏』などと同様に、特定のテーマをめぐるオンライン上の言説空間・コミュニティ圏を表す。",
+    "en": "A modern blend of man and sphere. Here sphere means a social or discursive domain, similar to formations such as blogosphere, and refers to a networked online space centered on male-oriented issues."
+  },
+  "synonyms": [
+    {
+      "word": "male-oriented online community",
+      "note": {
+        "ja": "より中立的で広い表現。manosphere が持つ政治的・文化的ニュアンスを必ずしも含まない。",
+        "en": "A broader and more neutral expression that does not necessarily carry the ideological associations of manosphere."
+      }
+    },
+    {
+      "word": "online subculture",
+      "note": {
+        "ja": "ネット上の下位文化を表す一般語。",
+        "en": "A general term for a distinctive cultural group existing largely online."
+      }
+    },
+    {
+      "word": "men's rights community",
+      "note": {
+        "ja": "男性の権利問題を中心とするコミュニティ。manosphere 全体とは一致しない。",
+        "en": "A community focused on men's rights issues and only partly overlaps with the broader manosphere."
+      }
+    },
+    {
+      "word": "echo chamber",
+      "note": {
+        "ja": "同じ意見が反復・強化される情報環境。manosphere 自体の同義語ではない。",
+        "en": "An environment in which similar views are repeatedly reinforced; not a direct synonym."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Manosphäre",
+    "it": "manosfera",
+    "fr": "manosphère",
+    "es": "manosfera"
+  },
+  "collocations": {
+    "ja": [
+      "the online manosphere — オンライン上のマノスフィア",
+      "manosphere communities — マノスフィア系コミュニティ",
+      "manosphere influencers — マノスフィア系インフルエンサー",
+      "manosphere content — マノスフィア系コンテンツ",
+      "manosphere forums — マノスフィア系フォーラム",
+      "parts of the manosphere — マノスフィアの一部",
+      "the rise of the manosphere — マノスフィアの台頭",
+      "manosphere ideology — マノスフィア系の思想",
+      "manosphere discourse — マノスフィアにおける言説",
+      "associated with the manosphere — マノスフィアと関連している"
+    ],
+    "en": [
+      "the online manosphere",
+      "manosphere communities",
+      "manosphere influencers",
+      "manosphere content",
+      "manosphere forums",
+      "parts of the manosphere",
+      "the rise of the manosphere",
+      "manosphere ideology",
+      "manosphere discourse",
+      "associated with the manosphere"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The article examines the growth of the manosphere on social media. — その記事はソーシャルメディア上でのマノスフィアの拡大を検討している。",
+      "Some manosphere communities focus heavily on dating and traditional ideas of masculinity. — 一部のマノスフィア系コミュニティは恋愛や伝統的な男性性の考え方を強く扱っている。",
+      "Researchers have studied how manosphere content spreads across online platforms. — 研究者たちはマノスフィア系コンテンツがオンラインプラットフォーム間でどのように広がるかを研究している。",
+      "The term manosphere covers several different communities rather than a single unified movement. — manosphere という語は、単一の統一運動ではなく複数の異なるコミュニティを包含している。",
+      "Critics associate parts of the manosphere with misogynistic and antifeminist rhetoric. — 批判者はマノスフィアの一部を女性蔑視的・反フェミニズム的な言説と関連づけている。"
+    ],
+    "en": [
+      "The article examines the growth of the manosphere on social media.",
+      "Some manosphere communities focus heavily on dating and traditional ideas of masculinity.",
+      "Researchers have studied how manosphere content spreads across online platforms.",
+      "The term manosphere covers several different communities rather than a single unified movement.",
+      "Critics associate parts of the manosphere with misogynistic and antifeminist rhetoric."
+    ]
+  }
 }
 ]
