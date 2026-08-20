@@ -3177,5 +3177,2642 @@
       "The guard waved us aside to let the ambulance pass."
     ]
   }
+},
+{
+  "id": "wave_away",
+  "sid": "2026-00623",
+  "word": "wave away",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "phrasal_verb",
+    "dismissal",
+    "gesture",
+    "figurative"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "wave away",
+      "third_person": "waves away",
+      "past": "waved away",
+      "past_participle": "waved away",
+      "gerund": "waving away"
+    },
+    "transitivity": "transitive; separable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌweɪv əˈweɪ/",
+      "uk": "/ˌweɪv əˈweɪ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "手を振って人・物を追い払う",
+      "懸念・批判・質問などを軽く退ける",
+      "重要でないとして取り合わない"
+    ],
+    "en": [
+      "to make someone or something go away with a hand gesture",
+      "to dismiss a concern, criticism, question, or objection as unimportant",
+      "to refuse to take something seriously"
+    ]
+  },
+  "nuance": {
+    "ja": "wave away は、実際に手を振って人や物を『向こうへ行かせる』動作から、比喩的に問題・懸念・批判などを追い払うように退ける意味になった。wave aside と非常に近いが、wave away は『その場から消してしまう、取り合わず追い払う』感じがやや強い。しばしば、十分な検討をせず軽く扱うという否定的ニュアンスを伴う。",
+    "en": "Wave away literally means to send someone or something away with a hand gesture. Figuratively, it means dismissing concerns, criticism, questions, or objections as though they could simply be made to disappear. It is very close to wave aside, but wave away can suggest a slightly stronger sense of getting rid of the matter altogether."
+  },
+  "minimal": {
+    "ja": [
+      "wave away：手で追い払うように、懸念・批判などを退ける。",
+      "wave aside：手で脇へどけるように、懸念・反論などを軽く退ける。",
+      "brush aside：問題や異議を重要でないとして払いのける。",
+      "brush off：人や意見をそっけなくあしらう。",
+      "shrug off：批判・問題などを気にせず受け流す。",
+      "dismiss：重要でないとして退ける一般的な語。"
+    ],
+    "en": [
+      "wave away means to dismiss something as though sending it away with a hand gesture.",
+      "wave aside means to dismiss something as though moving it to one side.",
+      "brush aside means to sweep a concern or objection out of serious consideration.",
+      "brush off often means to dismiss a person casually or coldly.",
+      "shrug off means to let criticism or difficulty have little effect.",
+      "dismiss is the broad general verb for rejecting something as unworthy of attention."
+    ]
+  },
+  "etymology": {
+    "ja": "wave『手を振る』＋ away『向こうへ、離れて』から成る。文字どおりには『手を振って向こうへ行かせる』ことで、そこから懸念・質問・批判などを心理的に追い払う比喩表現へ発展した。",
+    "en": "Formed from wave and away. The literal sense is to gesture for someone or something to go away, which naturally developed into the figurative meaning of dismissing a concern, question, or criticism."
+  },
+  "synonyms": [
+    {
+      "word": "wave aside",
+      "note": {
+        "ja": "非常に近い表現。脇へどけるように反論や懸念を退ける。",
+        "en": "Very close in meaning, with more of an image of moving something to the side."
+      }
+    },
+    {
+      "word": "dismiss",
+      "note": {
+        "ja": "意見・懸念などを重要でないとして退ける一般的な語。",
+        "en": "A broad verb for treating something as unworthy of serious consideration."
+      }
+    },
+    {
+      "word": "brush aside",
+      "note": {
+        "ja": "懸念・問題などをさっと払いのけるように軽視する。",
+        "en": "Suggests sweeping a concern or problem out of serious consideration."
+      }
+    },
+    {
+      "word": "disregard",
+      "note": {
+        "ja": "重要視せず、考慮しない。",
+        "en": "Means to pay little or no attention to something."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "wegwinken / abtun",
+    "it": "liquidare con un gesto / scacciare",
+    "fr": "balayer d'un geste / écarter",
+    "es": "descartar con un gesto / ahuyentar"
+  },
+  "collocations": {
+    "ja": [
+      "wave away concerns — 懸念を軽く退ける",
+      "wave away criticism — 批判を取り合わない",
+      "wave away objections — 反対意見を退ける",
+      "wave away questions — 質問を軽くあしらう",
+      "wave away doubts — 疑念を払いのける",
+      "wave away warnings — 警告を軽視する",
+      "wave away a suggestion — 提案を軽く退ける",
+      "wave someone away — 手を振って誰かを追い払う",
+      "wave the idea away — その考えを一蹴する",
+      "wave something away as irrelevant — ～を無関係だとして退ける"
+    ],
+    "en": [
+      "wave away concerns",
+      "wave away criticism",
+      "wave away objections",
+      "wave away questions",
+      "wave away doubts",
+      "wave away warnings",
+      "wave away a suggestion",
+      "wave someone away",
+      "wave the idea away",
+      "wave something away as irrelevant"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The minister waved away concerns about the cost of the project. — 大臣はその事業の費用に関する懸念を軽く退けた。",
+      "She waved away my apology and changed the subject. — 彼女は私の謝罪を気にしなくていいというように受け流し、話題を変えた。",
+      "The CEO waved away questions about the company's financial problems. — CEOは会社の財務問題に関する質問を軽く退けた。",
+      "He waved the waiter away and continued the conversation. — 彼は手を振ってウェイターを下がらせ、会話を続けた。",
+      "Critics accused the government of waving away legitimate concerns. — 批判者たちは、政府が正当な懸念を軽く退けていると非難した。"
+    ],
+    "en": [
+      "The minister waved away concerns about the cost of the project.",
+      "She waved away my apology and changed the subject.",
+      "The CEO waved away questions about the company's financial problems.",
+      "He waved the waiter away and continued the conversation.",
+      "Critics accused the government of waving away legitimate concerns."
+    ]
+  }
+},
+{
+  "id": "dismiss",
+  "sid": "2026-00624",
+  "word": "dismiss",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "rejection",
+    "employment",
+    "communication",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "dismiss",
+      "third_person": "dismisses",
+      "past": "dismissed",
+      "past_participle": "dismissed",
+      "gerund": "dismissing"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪsˈmɪs/",
+      "uk": "/dɪsˈmɪs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "意見・懸念・提案などを退ける、取り合わない",
+      "訴え・請求などを棄却する",
+      "人を解雇する",
+      "人をその場から退出させる、解散させる"
+    ],
+    "en": [
+      "to reject an idea, concern, suggestion, or claim as unworthy of consideration",
+      "to reject or terminate a legal case or claim",
+      "to remove someone from a job",
+      "to allow or order someone to leave"
+    ]
+  },
+  "nuance": {
+    "ja": "dismiss は『重要でない、根拠がない、検討に値しないとして退ける』という意味で非常によく使われる。brush off や wave away よりフォーマルで、中立的にも使える。法律では dismiss a case / claim が『訴え・請求を棄却する』、雇用では dismiss an employee が『従業員を解雇する』。また The class was dismissed. のように『解散させる、退出を許可する』意味もある。",
+    "en": "Dismiss is a broad and often formal verb meaning to reject something as unworthy of further consideration. It is more neutral and formal than expressions such as brush off or wave away. In legal contexts, dismiss a case or claim means to terminate it without granting the requested relief. In employment, dismiss an employee means to remove them from their job, and it can also mean to allow or order people to leave."
+  },
+  "minimal": {
+    "ja": [
+      "dismiss：重要でない・根拠がないとして退ける一般的な語。",
+      "brush off：人や意見をそっけなく軽くあしらう。",
+      "brush aside：懸念・反論などを脇へ払いのけるように退ける。",
+      "wave away：懸念などを手で追い払うように軽く退ける。",
+      "reject：提案・要求・申請などを受け入れない。",
+      "disregard：重要視せず、考慮に入れない。"
+    ],
+    "en": [
+      "dismiss is the broad formal verb for rejecting something as unworthy of consideration.",
+      "brush off suggests casually or coldly dismissing a person or concern.",
+      "brush aside suggests sweeping a concern or objection out of consideration.",
+      "wave away suggests dismissing something as if making it disappear with a gesture.",
+      "reject means to refuse to accept something.",
+      "disregard means to pay little or no attention to something."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 dimittere『送り出す、解放する』に由来し、dis-『離れて』＋ mittere『送る』から成る。もともとの中心は『送り去る』ことで、そこから『退出させる』『解雇する』『考慮の外へ追いやる＝退ける』という意味が発達した。emit, transmit, submit, admit などと同じ mittere 語族。",
+    "en": "From Latin dimittere, meaning 'to send away or release', formed from dis- ('apart, away') and mittere ('to send'). The original idea of sending something away developed into the modern senses of allowing someone to leave, firing someone, and rejecting an idea or claim from consideration."
+  },
+  "synonyms": [
+    {
+      "word": "reject",
+      "note": {
+        "ja": "提案・申請・要求などを受け入れないことに重点。",
+        "en": "Emphasizes refusing to accept a proposal, application, request, or claim."
+      }
+    },
+    {
+      "word": "disregard",
+      "note": {
+        "ja": "重要視せず考慮しない。明示的な拒絶とは限らない。",
+        "en": "Means to ignore or fail to take something into account, without necessarily explicitly rejecting it."
+      }
+    },
+    {
+      "word": "brush off",
+      "note": {
+        "ja": "人や意見を軽く、時に失礼にあしらう。",
+        "en": "Means to dismiss someone or something casually, sometimes rudely."
+      }
+    },
+    {
+      "word": "discard",
+      "note": {
+        "ja": "不要と判断して捨てる。物・案・仮説などに使う。",
+        "en": "Means to throw away or abandon something judged unnecessary or unsuitable."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "zurückweisen / entlassen",
+    "it": "respingere / licenziare",
+    "fr": "écarter / rejeter / licencier",
+    "es": "descartar / rechazar / despedir"
+  },
+  "collocations": {
+    "ja": [
+      "dismiss a concern — 懸念を退ける",
+      "dismiss criticism — 批判を取り合わない",
+      "dismiss an idea — 考えを退ける",
+      "dismiss a suggestion — 提案を退ける",
+      "dismiss a claim — 主張・請求を退ける",
+      "dismiss a case — 訴訟を棄却する",
+      "dismiss an appeal — 上訴を棄却する",
+      "dismiss an employee — 従業員を解雇する",
+      "dismiss something as irrelevant — ～を無関係だとして退ける",
+      "dismiss something out of hand — ～をろくに検討せず即座に退ける"
+    ],
+    "en": [
+      "dismiss a concern",
+      "dismiss criticism",
+      "dismiss an idea",
+      "dismiss a suggestion",
+      "dismiss a claim",
+      "dismiss a case",
+      "dismiss an appeal",
+      "dismiss an employee",
+      "dismiss something as irrelevant",
+      "dismiss something out of hand"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The minister dismissed the criticism as politically motivated. — 大臣はその批判を政治的動機によるものだとして退けた。",
+      "We should not dismiss these concerns without further investigation. — さらに調査せずにこうした懸念を退けるべきではない。",
+      "The judge dismissed the case for lack of evidence. — 裁判官は証拠不足を理由にその訴えを棄却した。",
+      "The company dismissed two employees for serious misconduct. — その会社は重大な不正行為を理由に従業員2人を解雇した。",
+      "He dismissed the proposal out of hand. — 彼はその提案をろくに検討もせず即座に退けた。"
+    ],
+    "en": [
+      "The minister dismissed the criticism as politically motivated.",
+      "We should not dismiss these concerns without further investigation.",
+      "The judge dismissed the case for lack of evidence.",
+      "The company dismissed two employees for serious misconduct.",
+      "He dismissed the proposal out of hand."
+    ]
+  }
+},
+{
+  "id": "disregard",
+  "sid": "2026-00625",
+  "word": "disregard",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "attention",
+    "dismissal",
+    "communication",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "countability": "uncountable as a noun",
+    "forms": {
+      "base": "disregard",
+      "third_person": "disregards",
+      "past": "disregarded",
+      "past_participle": "disregarded",
+      "gerund": "disregarding"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌdɪsrɪˈɡɑːrd/",
+      "uk": "/ˌdɪsrɪˈɡɑːd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "無視する、考慮しない",
+      "重要でないものとして扱う",
+      "無視、軽視、顧みないこと"
+    ],
+    "en": [
+      "to pay no attention to something",
+      "to ignore something when making a decision or taking action",
+      "lack of attention or consideration for something"
+    ]
+  },
+  "nuance": {
+    "ja": "disregard は、規則・警告・助言・事実・安全などを『重要なものとして考慮しない』ことを表す、ややフォーマルな語。単なる ignore と重なるが、disregard は意識的に考慮から外すニュアンスが強い。名詞では with disregard for safety のように『〜を顧みず』という形でもよく使われる。",
+    "en": "Disregard is a somewhat formal word meaning to give no attention or consideration to something, especially rules, warnings, advice, facts, or safety. It overlaps with ignore, but often suggests consciously leaving something out of consideration. As a noun, it commonly appears in expressions such as with disregard for safety."
+  },
+  "minimal": {
+    "ja": [
+      "disregard：重要性を認めず、考慮に入れない。",
+      "ignore：注意を払わないという最も一般的な語。",
+      "dismiss：重要でない・根拠がないとして退ける。",
+      "overlook：見落とす、または欠点などを大目に見る。",
+      "neglect：必要な注意・世話・義務を怠る。",
+      "heed：注意を払い、警告・助言などに従う。disregard の対照語。"
+    ],
+    "en": [
+      "disregard means to give no consideration to something.",
+      "ignore is the broad general word for paying no attention.",
+      "dismiss means to reject something as unworthy of consideration.",
+      "overlook can mean to fail to notice something or deliberately excuse it.",
+      "neglect means to fail to give something the attention or care it requires.",
+      "heed means to pay careful attention to advice or warnings and contrasts with disregard."
+    ]
+  },
+  "etymology": {
+    "ja": "dis-『離れて、反対に』＋ regard『注意、配慮』から成る。regard は古フランス語 regarder『見る、注意を向ける』に由来するため、disregard は文字どおりには『注意を向けない』という構造。",
+    "en": "Formed from dis- plus regard. Regard comes through Old French regarder, meaning 'to look at or pay attention to'. Disregard therefore literally carries the idea of withholding attention or consideration."
+  },
+  "synonyms": [
+    {
+      "word": "ignore",
+      "note": {
+        "ja": "最も一般的な『無視する』。disregard より口語的で広い。",
+        "en": "The broad everyday verb for paying no attention to something."
+      }
+    },
+    {
+      "word": "dismiss",
+      "note": {
+        "ja": "意見・懸念などを検討に値しないとして退ける。",
+        "en": "Means to reject something as unworthy of further consideration."
+      }
+    },
+    {
+      "word": "overlook",
+      "note": {
+        "ja": "見落とす、または意図的に欠点・過失などを大目に見る。",
+        "en": "Can mean to fail to notice something or deliberately excuse a fault."
+      }
+    },
+    {
+      "word": "neglect",
+      "note": {
+        "ja": "必要な注意・世話・管理を怠る。",
+        "en": "Means to fail to give something the attention, care, or maintenance it requires."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "missachten / Nichtbeachtung",
+    "it": "ignorare / trascurare",
+    "fr": "négliger / faire abstraction de",
+    "es": "ignorar / hacer caso omiso de"
+  },
+  "collocations": {
+    "ja": [
+      "disregard a warning — 警告を無視する",
+      "disregard advice — 助言を無視する",
+      "disregard the rules — 規則を無視する",
+      "disregard the evidence — 証拠を考慮しない",
+      "disregard the consequences — 結果を顧みない",
+      "disregard safety procedures — 安全手順を無視する",
+      "show disregard for something — ～を軽視する態度を示す",
+      "with disregard for safety — 安全を顧みず",
+      "complete disregard for the rules — 規則の完全な無視",
+      "reckless disregard — 無謀な無視・軽視"
+    ],
+    "en": [
+      "disregard a warning",
+      "disregard advice",
+      "disregard the rules",
+      "disregard the evidence",
+      "disregard the consequences",
+      "disregard safety procedures",
+      "show disregard for something",
+      "with disregard for safety",
+      "complete disregard for the rules",
+      "reckless disregard"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He disregarded the warning and continued driving. — 彼は警告を無視して運転を続けた。",
+      "The committee cannot disregard the evidence. — 委員会はその証拠を考慮せずに済ませることはできない。",
+      "She acted with complete disregard for the rules. — 彼女は規則を完全に無視して行動した。",
+      "The company was criticized for disregarding safety procedures. — その会社は安全手順を無視したとして批判された。",
+      "You should not disregard the possible consequences of the decision. — その決定がもたらしうる結果を軽視すべきではない。"
+    ],
+    "en": [
+      "He disregarded the warning and continued driving.",
+      "The committee cannot disregard the evidence.",
+      "She acted with complete disregard for the rules.",
+      "The company was criticized for disregarding safety procedures.",
+      "You should not disregard the possible consequences of the decision."
+    ]
+  }
+},
+{
+  "id": "heed",
+  "sid": "2026-00626",
+  "word": "heed",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "attention",
+    "advice",
+    "warning",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "countability": "uncountable as a noun",
+    "forms": {
+      "base": "heed",
+      "third_person": "heeds",
+      "past": "heeded",
+      "past_participle": "heeded",
+      "gerund": "heeding"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/hiːd/",
+      "uk": "/hiːd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "忠告・警告などに注意を払う",
+      "助言などを心に留めて従う",
+      "注意、配慮"
+    ],
+    "en": [
+      "to pay careful attention to advice, a warning, or a request",
+      "to take something seriously and act accordingly",
+      "careful attention or consideration"
+    ]
+  },
+  "nuance": {
+    "ja": "heed は単に hear や notice するだけでなく、『警告や助言を重要なものとして受け止め、それに沿って行動する』という含みがある。ややフォーマルで、heed a warning, heed advice, heed the call のような形が典型的。名詞では pay heed to ...『〜に注意を払う』がよく使われる。",
+    "en": "Heed means more than merely hearing or noticing something. It suggests taking advice, a warning, or a request seriously and often acting in accordance with it. It is somewhat formal and is common in expressions such as heed a warning, heed advice, and pay heed to something."
+  },
+  "minimal": {
+    "ja": [
+      "heed：警告・助言を重要視し、注意を払う。",
+      "disregard：重要視せず、考慮しない。",
+      "listen to：話を聞く、助言に耳を傾ける一般的な表現。",
+      "obey：命令・規則に従う。heed より服従の意味が強い。",
+      "take into account：判断の際に考慮に入れる。",
+      "ignore：注意を払わない。heed の対照的な一般語。"
+    ],
+    "en": [
+      "heed means to take a warning or advice seriously and pay attention to it.",
+      "disregard means to give something no serious consideration.",
+      "listen to is the broader everyday expression for paying attention to someone.",
+      "obey means to follow an order or rule and implies stronger compliance.",
+      "take into account means to consider something when making a decision.",
+      "ignore is the broad contrasting term for paying no attention."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 hēdan『注意する、気をつける』に由来するゲルマン系の語。非常に古い英語語彙で、中心的な意味は一貫して『注意を向ける、心に留める』。",
+    "en": "From Old English hēdan, meaning 'to take care, attend to, or observe'. It is an old Germanic word whose core meaning has remained the idea of paying careful attention."
+  },
+  "synonyms": [
+    {
+      "word": "observe",
+      "note": {
+        "ja": "規則・忠告などを守るという意味では heed と重なるが、observe はより形式的。",
+        "en": "Can overlap with heed in the sense of following rules or advice, but is often more formal."
+      }
+    },
+    {
+      "word": "follow",
+      "note": {
+        "ja": "助言・指示に従う一般的な語。",
+        "en": "A broad everyday verb for acting according to advice or instructions."
+      }
+    },
+    {
+      "word": "consider",
+      "note": {
+        "ja": "判断前に考慮する。heed ほど行動につながる含みは強くない。",
+        "en": "Means to think about something carefully, without necessarily acting on it."
+      }
+    },
+    {
+      "word": "attend to",
+      "note": {
+        "ja": "注意を向ける、対処する。heed より広い。",
+        "en": "Means to give attention to something and is broader than heed."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "beachten / beherzigen",
+    "it": "prestare attenzione a / dare ascolto a",
+    "fr": "tenir compte de / prêter attention à",
+    "es": "hacer caso de / prestar atención a"
+  },
+  "collocations": {
+    "ja": [
+      "heed a warning — 警告に注意を払う",
+      "heed advice — 助言に従う",
+      "heed a request — 要請を真剣に受け止める",
+      "heed the signs — 兆候に注意を払う",
+      "heed the call — 呼びかけに応じる",
+      "heed the lessons of history — 歴史の教訓を心に留める",
+      "fail to heed a warning — 警告を聞き入れない",
+      "refuse to heed advice — 助言を聞き入れない",
+      "pay heed to something — ～に注意を払う",
+      "take heed — 注意する、用心する"
+    ],
+    "en": [
+      "heed a warning",
+      "heed advice",
+      "heed a request",
+      "heed the signs",
+      "heed the call",
+      "heed the lessons of history",
+      "fail to heed a warning",
+      "refuse to heed advice",
+      "pay heed to something",
+      "take heed"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Drivers should heed the warning signs during severe weather. — 運転者は悪天候時には警告標識に注意を払うべきだ。",
+      "She ignored my advice at first but later wished she had heeded it. — 彼女は最初私の助言を無視したが、後になって聞いておけばよかったと思った。",
+      "The company failed to heed repeated warnings about safety. — その会社は安全に関する度重なる警告を真剣に受け止めなかった。",
+      "Governments should heed the lessons of past crises. — 政府は過去の危機から得られた教訓を心に留めるべきだ。",
+      "Few people paid heed to his early predictions. — 彼の初期の予測に注意を払った人はほとんどいなかった。"
+    ],
+    "en": [
+      "Drivers should heed the warning signs during severe weather.",
+      "She ignored my advice at first but later wished she had heeded it.",
+      "The company failed to heed repeated warnings about safety.",
+      "Governments should heed the lessons of past crises.",
+      "Few people paid heed to his early predictions."
+    ]
+  }
+},
+{
+  "id": "take_into_account",
+  "sid": "2026-00627",
+  "word": "take into account",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "consideration",
+    "decision",
+    "planning",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb phrase",
+    "forms": {
+      "base": "take into account",
+      "third_person": "takes into account",
+      "past": "took into account",
+      "past_participle": "taken into account",
+      "gerund": "taking into account"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌteɪk ˌɪntu əˈkaʊnt/",
+      "uk": "/ˌteɪk ˌɪntu əˈkaʊnt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "〜を考慮に入れる",
+      "〜を判断材料として考える",
+      "〜を勘案する"
+    ],
+    "en": [
+      "to consider something when making a decision or judgment",
+      "to include a fact, circumstance, or factor in one's thinking",
+      "to allow for something when planning or evaluating"
+    ]
+  },
+  "nuance": {
+    "ja": "take into account は、ある要素を単に知っているだけでなく、判断・計画・評価に実際に反映させることを表す。consider より少し具体的で、『判断材料として組み込む』感覚がある。take something into account と take into account something の両方が可能だが、代名詞の場合は take it into account の語順が自然。",
+    "en": "Take into account means not merely noticing something but actively incorporating it into a decision, plan, judgment, or evaluation. It is slightly more concrete than consider because it suggests that the factor is actually included in the reasoning process."
+  },
+  "minimal": {
+    "ja": [
+      "take into account：要因を判断・計画に組み込んで考慮する。",
+      "consider：〜についてよく考える、考慮する一般語。",
+      "take into consideration：take into account とほぼ同義で、やや長くフォーマル。",
+      "allow for：予想される要因をあらかじめ見込む。",
+      "factor in：要因として計算・判断に組み込む。",
+      "heed：警告・助言などを真剣に受け止める。"
+    ],
+    "en": [
+      "take into account means to include a factor in a decision or judgment.",
+      "consider is the broad general verb for thinking about something carefully.",
+      "take into consideration is nearly synonymous and somewhat more formal.",
+      "allow for means to make provision for an expected factor.",
+      "factor in means to include something as a factor in calculation or reasoning.",
+      "heed means to take advice or warnings seriously."
+    ]
+  },
+  "etymology": {
+    "ja": "account はラテン語 computare『計算する』に関連する語で、古フランス語を経て英語に入った。take into account は文字どおりには『勘定・計算の中に取り込む』という発想で、そこから『判断材料として考慮に入れる』という意味になった。",
+    "en": "Account ultimately belongs to the word family associated with Latin computare, 'to calculate'. The expression take into account developed from the idea of including something in a reckoning or calculation, hence considering it in a judgment or decision."
+  },
+  "synonyms": [
+    {
+      "word": "consider",
+      "note": {
+        "ja": "最も一般的な『考慮する』。take into account より広い。",
+        "en": "The broadest general verb for thinking about something carefully."
+      }
+    },
+    {
+      "word": "take into consideration",
+      "note": {
+        "ja": "ほぼ同義。ややフォーマルで長い表現。",
+        "en": "Nearly identical in meaning and somewhat more formal."
+      }
+    },
+    {
+      "word": "factor in",
+      "note": {
+        "ja": "ある要因を計算・判断の中に組み込む。実務的で口語でも使いやすい。",
+        "en": "Means to include something as a factor in a calculation or decision."
+      }
+    },
+    {
+      "word": "allow for",
+      "note": {
+        "ja": "将来起こりうることや変動をあらかじめ見込む。",
+        "en": "Means to make provision for an expected possibility or variation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "berücksichtigen",
+    "it": "tenere conto di",
+    "fr": "tenir compte de",
+    "es": "tener en cuenta"
+  },
+  "collocations": {
+    "ja": [
+      "take all factors into account — すべての要因を考慮に入れる",
+      "take the cost into account — 費用を考慮する",
+      "take age into account — 年齢を考慮する",
+      "take circumstances into account — 状況を考慮する",
+      "take differences into account — 違いを考慮する",
+      "take inflation into account — インフレを考慮する",
+      "take risk into account — リスクを考慮する",
+      "take something fully into account — ～を十分に考慮する",
+      "fail to take something into account — ～を考慮し損ねる",
+      "be taken into account — 考慮に入れられる"
+    ],
+    "en": [
+      "take all factors into account",
+      "take the cost into account",
+      "take age into account",
+      "take circumstances into account",
+      "take differences into account",
+      "take inflation into account",
+      "take risk into account",
+      "take something fully into account",
+      "fail to take something into account",
+      "be taken into account"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We need to take all relevant factors into account before making a decision. — 決定を下す前に、関連するすべての要因を考慮に入れる必要がある。",
+      "The calculation takes inflation into account. — その計算ではインフレが考慮されている。",
+      "You should take local conditions into account when planning the project. — そのプロジェクトを計画する際には現地の状況を考慮すべきだ。",
+      "The policy fails to take regional differences into account. — その政策は地域差を考慮していない。",
+      "His experience was taken into account when the committee made its decision. — 委員会が決定を下す際、彼の経験も考慮された。"
+    ],
+    "en": [
+      "We need to take all relevant factors into account before making a decision.",
+      "The calculation takes inflation into account.",
+      "You should take local conditions into account when planning the project.",
+      "The policy fails to take regional differences into account.",
+      "His experience was taken into account when the committee made its decision."
+    ]
+  }
+},
+{
+  "id": "take_into_consideration",
+  "sid": "2026-00628",
+  "word": "take into consideration",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "consideration",
+    "decision",
+    "planning",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb phrase",
+    "forms": {
+      "base": "take into consideration",
+      "third_person": "takes into consideration",
+      "past": "took into consideration",
+      "past_participle": "taken into consideration",
+      "gerund": "taking into consideration"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌteɪk ˌɪntu kənˌsɪdəˈreɪʃən/",
+      "uk": "/ˌteɪk ˌɪntu kənˌsɪdəˈreɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "〜を考慮に入れる",
+      "〜を判断材料として考える",
+      "事情・要因などを勘案する"
+    ],
+    "en": [
+      "to consider something when making a decision or judgment",
+      "to include a fact, circumstance, or factor in one's reasoning",
+      "to give attention to something before reaching a conclusion"
+    ]
+  },
+  "nuance": {
+    "ja": "take into consideration は take into account とほぼ同義で、判断・評価・計画の際に特定の事情や要因を考慮することを表す。take into account よりやや長くフォーマルに響くことがあり、公式文書・ビジネス・行政的な文脈にもよく合う。典型的には take something into consideration の語順を取る。",
+    "en": "Take into consideration is nearly synonymous with take into account. It means to include a factor, circumstance, or fact in one's reasoning before making a decision or judgment. It can sound slightly more formal and is common in business, administrative, and official contexts."
+  },
+  "minimal": {
+    "ja": [
+      "take into consideration：事情・要因を判断材料として考慮する。ややフォーマル。",
+      "take into account：ほぼ同義で、より簡潔かつ非常に一般的。",
+      "consider：〜について考える・考慮する一般語。",
+      "factor in：要因として計算・判断に組み込む。",
+      "allow for：将来の変動・遅延などをあらかじめ見込む。",
+      "heed：警告・助言などを真剣に受け止める。"
+    ],
+    "en": [
+      "take into consideration means to include a factor in one's judgment and can sound somewhat formal.",
+      "take into account is nearly identical but more concise and very common.",
+      "consider is the broad general verb for thinking about something carefully.",
+      "factor in means to include something explicitly as a factor in calculation or reasoning.",
+      "allow for means to make provision for an expected possibility or variation.",
+      "heed means to take advice or warnings seriously."
+    ]
+  },
+  "etymology": {
+    "ja": "consideration はラテン語 considerare『よく観察する、熟考する』に由来する。語源については con-『ともに、十分に』と sidus / sideris『星』との関連が伝統的に指摘され、『星々を観察する』ことから『注意深く考える』へ意味が発達したとされる。take into consideration は『検討の中へ取り込む』という発想。",
+    "en": "Consideration comes from Latin considerare, meaning 'to examine carefully or reflect upon'. The word has traditionally been associated with con- and sidus or sideris, 'star', suggesting careful observation before developing the broader sense of thoughtful judgment. Take into consideration literally conveys bringing something into that process of thought."
+  },
+  "synonyms": [
+    {
+      "word": "take into account",
+      "note": {
+        "ja": "最も近い表現で、意味はほぼ同じ。より簡潔。",
+        "en": "The closest equivalent, with virtually the same meaning and a more concise form."
+      }
+    },
+    {
+      "word": "consider",
+      "note": {
+        "ja": "考慮する一般的な動詞。文脈によってはそのまま置き換え可能。",
+        "en": "The broad general verb for giving careful thought to something."
+      }
+    },
+    {
+      "word": "factor in",
+      "note": {
+        "ja": "ある要素を計算・分析・判断の中に具体的に組み込む。",
+        "en": "Means to explicitly include something as a factor in a calculation or decision."
+      }
+    },
+    {
+      "word": "allow for",
+      "note": {
+        "ja": "予想される条件・変動をあらかじめ織り込む。",
+        "en": "Means to make provision for an expected condition, variation, or difficulty."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "in Betracht ziehen / berücksichtigen",
+    "it": "prendere in considerazione",
+    "fr": "prendre en considération",
+    "es": "tomar en consideración"
+  },
+  "collocations": {
+    "ja": [
+      "take all factors into consideration — すべての要因を考慮に入れる",
+      "take the circumstances into consideration — 事情を考慮する",
+      "take cost into consideration — 費用を考慮する",
+      "take age into consideration — 年齢を考慮する",
+      "take individual needs into consideration — 個々のニーズを考慮する",
+      "take local conditions into consideration — 現地の状況を考慮する",
+      "take something fully into consideration — ～を十分に考慮する",
+      "fail to take something into consideration — ～を考慮し損ねる",
+      "be taken into consideration — 考慮に入れられる",
+      "must be taken into consideration — 考慮されなければならない"
+    ],
+    "en": [
+      "take all factors into consideration",
+      "take the circumstances into consideration",
+      "take cost into consideration",
+      "take age into consideration",
+      "take individual needs into consideration",
+      "take local conditions into consideration",
+      "take something fully into consideration",
+      "fail to take something into consideration",
+      "be taken into consideration",
+      "must be taken into consideration"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We must take all relevant factors into consideration before making a final decision. — 最終決定を下す前に、関連するすべての要因を考慮に入れなければならない。",
+      "The committee took her experience into consideration. — 委員会は彼女の経験を考慮した。",
+      "Local conditions should be taken into consideration when designing the policy. — 政策を設計する際には現地の状況を考慮すべきだ。",
+      "The court took the defendant's age into consideration. — 裁判所は被告人の年齢を考慮した。",
+      "The proposal fails to take regional differences into consideration. — その提案は地域差を考慮していない。"
+    ],
+    "en": [
+      "We must take all relevant factors into consideration before making a final decision.",
+      "The committee took her experience into consideration.",
+      "Local conditions should be taken into consideration when designing the policy.",
+      "The court took the defendant's age into consideration.",
+      "The proposal fails to take regional differences into consideration."
+    ]
+  }
+},
+{
+  "id": "consider",
+  "sid": "2026-00629",
+  "word": "consider",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "thinking",
+    "decision",
+    "judgment",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "consider",
+      "third_person": "considers",
+      "past": "considered",
+      "past_participle": "considered",
+      "gerund": "considering"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈsɪdər/",
+      "uk": "/kənˈsɪdə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "〜についてよく考える、検討する",
+      "〜を考慮する",
+      "〜を…とみなす、考える"
+    ],
+    "en": [
+      "to think carefully about something",
+      "to take something into account when making a decision",
+      "to regard someone or something as having a particular quality or status"
+    ]
+  },
+  "nuance": {
+    "ja": "consider は非常に幅広い動詞で、単に think about より『ある程度注意深く検討する』ニュアンスを持つ。consider an option なら選択肢を検討する、consider the cost なら費用を考慮する、consider him reliable なら彼を信頼できる人だとみなす、というように使える。consider doing の形は自然だが、通常 consider to do とは言わない。",
+    "en": "Consider is a broad verb that usually suggests giving something deliberate thought. It can mean examining an option, taking a factor into account, or regarding someone or something in a particular way. The pattern consider doing is standard, while consider to do is generally not used."
+  },
+  "minimal": {
+    "ja": [
+      "consider：〜についてよく考える、考慮する、〜とみなす。",
+      "think about：〜について考える、というより一般的な表現。",
+      "take into account：判断材料として具体的に考慮に入れる。",
+      "take into consideration：take into account とほぼ同義で、ややフォーマル。",
+      "regard as：〜を…とみなす。",
+      "contemplate：より深く、しばしば長く熟考する。"
+    ],
+    "en": [
+      "consider means to think carefully about, take into account, or regard as.",
+      "think about is the broader everyday expression.",
+      "take into account means to include a factor in a decision.",
+      "take into consideration is nearly synonymous with take into account and somewhat more formal.",
+      "regard as means to view someone or something as having a certain quality.",
+      "contemplate suggests deeper or more prolonged thought."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 considerare『よく観察する、熟考する』に由来する。伝統的には con-『ともに、十分に』＋ sidus / sideris『星』と関連づけられ、『星々を注意深く観察する』ことから『熟考する』という意味へ発展したとされる。",
+    "en": "From Latin considerare, meaning 'to examine carefully or reflect upon'. The word has traditionally been associated with con- and sidus or sideris, 'star', suggesting careful observation before developing the broader sense of thoughtful consideration."
+  },
+  "synonyms": [
+    {
+      "word": "think about",
+      "note": {
+        "ja": "最も一般的な『〜について考える』。consider より口語的で広い。",
+        "en": "The broad everyday expression for thinking about something."
+      }
+    },
+    {
+      "word": "contemplate",
+      "note": {
+        "ja": "より深く、長く熟考する。",
+        "en": "Suggests deeper or more prolonged reflection."
+      }
+    },
+    {
+      "word": "weigh",
+      "note": {
+        "ja": "長所・短所や選択肢を比較検討する。",
+        "en": "Means to compare factors, advantages, disadvantages, or options carefully."
+      }
+    },
+    {
+      "word": "regard",
+      "note": {
+        "ja": "〜を…とみなす、という意味で consider と重なる。",
+        "en": "Overlaps with consider in the sense of viewing someone or something in a particular way."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "berücksichtigen / erwägen",
+    "it": "considerare",
+    "fr": "considérer",
+    "es": "considerar"
+  },
+  "collocations": {
+    "ja": [
+      "consider an option — 選択肢を検討する",
+      "consider a proposal — 提案を検討する",
+      "consider the consequences — 結果を考慮する",
+      "consider the cost — 費用を考慮する",
+      "consider doing something — 〜することを検討する",
+      "seriously consider something — ～を真剣に検討する",
+      "carefully consider something — ～を慎重に検討する",
+      "consider someone reliable — 誰かを信頼できるとみなす",
+      "be considered important — 重要だとみなされる",
+      "all things considered — すべてを考慮すると"
+    ],
+    "en": [
+      "consider an option",
+      "consider a proposal",
+      "consider the consequences",
+      "consider the cost",
+      "consider doing something",
+      "seriously consider something",
+      "carefully consider something",
+      "consider someone reliable",
+      "be considered important",
+      "all things considered"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We are considering several options. — 私たちはいくつかの選択肢を検討している。",
+      "You should consider the long-term consequences before deciding. — 決める前に長期的な結果を考慮すべきだ。",
+      "She is considering moving abroad. — 彼女は海外へ移住することを検討している。",
+      "Many people consider the plan unrealistic. — 多くの人はその計画を非現実的だとみなしている。",
+      "All things considered, the project was a success. — すべてを考慮すると、そのプロジェクトは成功だった。"
+    ],
+    "en": [
+      "We are considering several options.",
+      "You should consider the long-term consequences before deciding.",
+      "She is considering moving abroad.",
+      "Many people consider the plan unrealistic.",
+      "All things considered, the project was a success."
+    ]
+  }
+},
+{
+  "id": "regard",
+  "sid": "2026-00630",
+  "word": "regard",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "judgment",
+    "respect",
+    "consideration",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "countability": "uncountable / countable depending on meaning",
+    "forms": {
+      "base": "regard",
+      "third_person": "regards",
+      "past": "regarded",
+      "past_participle": "regarded",
+      "gerund": "regarding"
+    },
+    "transitivity": "transitive as a verb"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈɡɑːrd/",
+      "uk": "/rɪˈɡɑːd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "〜を…とみなす、考える",
+      "〜を注視する、注意を向ける",
+      "敬意、尊重",
+      "配慮、考慮",
+      "点、観点"
+    ],
+    "en": [
+      "to consider or view someone or something in a particular way",
+      "to look at or pay attention to something",
+      "respect or esteem",
+      "attention or consideration",
+      "a particular aspect or point of view"
+    ]
+  },
+  "nuance": {
+    "ja": "動詞 regard は特に regard A as B『AをBとみなす』の形が重要で、consider A B と近い。名詞では with regard to『〜に関して』、in this regard『この点で』、have regard for『〜を配慮する』など、フォーマルな定型表現が多い。また high regard は『高い評価・敬意』を表す。",
+    "en": "As a verb, regard is especially important in the pattern regard A as B, meaning to view or consider A as B. As a noun, it appears in many formal expressions such as with regard to, in this regard, and have regard for. High regard expresses strong respect or esteem."
+  },
+  "minimal": {
+    "ja": [
+      "regard A as B：AをBとみなす。",
+      "consider A B：AをBだと考える。regard as と近い。",
+      "view A as B：AをBとして見る。やや中立的。",
+      "respect：人・能力などへの敬意を表す一般語。",
+      "with regard to：〜に関して。",
+      "in this regard：この点では。"
+    ],
+    "en": [
+      "regard A as B means to view or consider A as B.",
+      "consider A B is close in meaning to regard A as B.",
+      "view A as B is a neutral alternative for seeing A in a particular way.",
+      "respect is the broad general word for esteem.",
+      "with regard to means concerning or about.",
+      "in this regard means in this respect or on this point."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 regarder『見る、注意を向ける』に由来する。re-『後ろへ、再び』＋ garder『見張る、守る』に関係し、もともとは『注意深く見る』という意味だった。そこから『考慮する』『評価する』『敬意を抱く』へ意味が広がった。",
+    "en": "From Old French regarder, meaning 'to look at or pay attention to', related to re- and garder, 'to guard or watch'. The original sense of looking attentively developed into the meanings of considering, evaluating, and respecting."
+  },
+  "synonyms": [
+    {
+      "word": "consider",
+      "note": {
+        "ja": "〜を…とみなす意味で近い。consider A B の形が可能。",
+        "en": "Close in the sense of judging or viewing something in a particular way."
+      }
+    },
+    {
+      "word": "view",
+      "note": {
+        "ja": "ある観点から〜を見る、〜とみなす。",
+        "en": "Means to see or interpret something in a particular way."
+      }
+    },
+    {
+      "word": "respect",
+      "note": {
+        "ja": "名詞 regard の『敬意』に近い一般語。",
+        "en": "A common synonym for regard in the sense of esteem."
+      }
+    },
+    {
+      "word": "esteem",
+      "note": {
+        "ja": "高い評価・敬意。regard よりややフォーマル。",
+        "en": "A somewhat formal word for high respect or admiration."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "betrachten / Achtung",
+    "it": "considerare / riguardo",
+    "fr": "considérer / égard",
+    "es": "considerar / respeto"
+  },
+  "collocations": {
+    "ja": [
+      "regard A as B — AをBとみなす",
+      "be widely regarded as — 広く〜とみなされている",
+      "be generally regarded as — 一般に〜とみなされている",
+      "hold someone in high regard — 誰かを高く評価する",
+      "have high regard for someone — 誰かを高く評価・尊敬する",
+      "with regard to something — ～に関して",
+      "in this regard — この点では",
+      "in many regards — 多くの点で",
+      "without regard to something — ～を考慮せず",
+      "show regard for others — 他者への配慮を示す"
+    ],
+    "en": [
+      "regard A as B",
+      "be widely regarded as",
+      "be generally regarded as",
+      "hold someone in high regard",
+      "have high regard for someone",
+      "with regard to something",
+      "in this regard",
+      "in many regards",
+      "without regard to something",
+      "show regard for others"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She is widely regarded as one of the leading experts in the field. — 彼女はその分野を代表する専門家の一人だと広くみなされている。",
+      "Many people regard the policy as unfair. — 多くの人はその政策を不公平だとみなしている。",
+      "He is held in high regard by his colleagues. — 彼は同僚から高く評価されている。",
+      "With regard to your proposal, we need more time to review it. — あなたの提案に関しては、検討にもう少し時間が必要です。",
+      "The two systems are similar in this regard. — この点では、その二つのシステムは似ている。"
+    ],
+    "en": [
+      "She is widely regarded as one of the leading experts in the field.",
+      "Many people regard the policy as unfair.",
+      "He is held in high regard by his colleagues.",
+      "With regard to your proposal, we need more time to review it.",
+      "The two systems are similar in this regard."
+    ]
+  }
+},
+{
+  "id": "divulge",
+  "sid": "2026-00631",
+  "word": "divulge",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "information",
+    "secrecy",
+    "communication",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "divulge",
+      "third_person": "divulges",
+      "past": "divulged",
+      "past_participle": "divulged",
+      "gerund": "divulging"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/daɪˈvʌldʒ/",
+      "uk": "/daɪˈvʌldʒ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "秘密・機密情報などを明かす",
+      "本来知られていない情報を漏らす",
+      "詳細・個人情報などを公表する"
+    ],
+    "en": [
+      "to reveal information that was previously secret or private",
+      "to make confidential or sensitive information known",
+      "to disclose details that were not intended to be public"
+    ]
+  },
+  "nuance": {
+    "ja": "divulge は、秘密・機密・個人情報など、通常は公にされていない情報を明かすことを表すフォーマルな語。reveal より対象が『秘密情報』に寄りやすく、disclose とかなり近い。典型的には divulge information, details, secrets のように使う。divulge は通常、情報そのものを目的語に取り、divulge someone のようには使わない。",
+    "en": "Divulge is a formal verb for revealing information that was secret, private, or not previously known. It is narrower than reveal and very close to disclose, especially with confidential or sensitive information. It normally takes the information itself as its object, as in divulge details or divulge a secret."
+  },
+  "minimal": {
+    "ja": [
+      "divulge：秘密・非公開情報を明かす。フォーマル。",
+      "reveal：隠れていたものを明らかにする最も広い語。",
+      "disclose：情報を正式・意図的に開示する。法律・ビジネスでも多い。",
+      "leak：秘密情報を非公式・無断で漏らす。",
+      "betray：秘密を漏らして信頼を裏切る意味にもなる。",
+      "confide：秘密を信頼する相手に打ち明ける。"
+    ],
+    "en": [
+      "divulge means to reveal secret or private information and is formal.",
+      "reveal is the broad general verb for making something known.",
+      "disclose often means to formally or deliberately make information known.",
+      "leak means to release secret information unofficially or without authorization.",
+      "betray can mean to reveal a secret in a way that violates trust.",
+      "confide means to share private information with someone trusted."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 divulgare『広く知らせる、公表する』に由来し、dis-『広く、離れて』＋ vulgus『一般の人々、民衆』に関係する。語源的には『民衆の間に広める』という意味で、そこから『秘密を公にする、明かす』へ発展した。",
+    "en": "From Latin divulgare, meaning 'to make widely known', related to dis- and vulgus, 'the common people or public'. The original idea was to spread something among the public, which developed into the modern sense of revealing private or secret information."
+  },
+  "synonyms": [
+    {
+      "word": "disclose",
+      "note": {
+        "ja": "非常に近い語。法律・金融・ビジネスでは正式な情報開示にもよく使う。",
+        "en": "Very close in meaning and especially common for formal disclosure in legal, financial, or business contexts."
+      }
+    },
+    {
+      "word": "reveal",
+      "note": {
+        "ja": "秘密だけでなく、事実・姿・結果などを明らかにする広い語。",
+        "en": "A broader verb for making facts, identities, results, or hidden things known."
+      }
+    },
+    {
+      "word": "leak",
+      "note": {
+        "ja": "機密情報などを非公式・無断で外部へ漏らす。",
+        "en": "Means to release confidential information unofficially or without authorization."
+      }
+    },
+    {
+      "word": "confide",
+      "note": {
+        "ja": "秘密や個人的なことを信頼できる相手に打ち明ける。",
+        "en": "Means to share private information with someone trusted."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "preisgeben / enthüllen",
+    "it": "divulgare / rivelare",
+    "fr": "divulguer / révéler",
+    "es": "divulgar / revelar"
+  },
+  "collocations": {
+    "ja": [
+      "divulge information — 情報を明かす",
+      "divulge confidential information — 機密情報を明かす",
+      "divulge personal information — 個人情報を明かす",
+      "divulge details — 詳細を明かす",
+      "divulge a secret — 秘密を漏らす",
+      "refuse to divulge something — ～を明かすことを拒む",
+      "be unwilling to divulge details — 詳細を明かしたがらない",
+      "divulge the identity of someone — 誰かの身元を明かす",
+      "divulge the source — 情報源を明かす",
+      "divulge sensitive information — 機微情報を開示する"
+    ],
+    "en": [
+      "divulge information",
+      "divulge confidential information",
+      "divulge personal information",
+      "divulge details",
+      "divulge a secret",
+      "refuse to divulge something",
+      "be unwilling to divulge details",
+      "divulge the identity of someone",
+      "divulge the source",
+      "divulge sensitive information"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She refused to divulge the source of the information. — 彼女はその情報源を明かすことを拒んだ。",
+      "Employees are prohibited from divulging confidential information. — 従業員は機密情報を漏らすことを禁じられている。",
+      "The company would not divulge details of the negotiations. — その会社は交渉の詳細を明かそうとしなかった。",
+      "He accidentally divulged a secret that had been kept for years. — 彼は何年も守られてきた秘密をうっかり漏らしてしまった。",
+      "The witness declined to divulge the person's identity. — 証人はその人物の身元を明かすことを拒んだ。"
+    ],
+    "en": [
+      "She refused to divulge the source of the information.",
+      "Employees are prohibited from divulging confidential information.",
+      "The company would not divulge details of the negotiations.",
+      "He accidentally divulged a secret that had been kept for years.",
+      "The witness declined to divulge the person's identity."
+    ]
+  }
+},
+{
+  "id": "reveal",
+  "sid": "2026-00632",
+  "word": "reveal",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "information",
+    "disclosure",
+    "discovery",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "countability": "countable as a noun in media and entertainment contexts",
+    "plural": "reveals",
+    "forms": {
+      "base": "reveal",
+      "third_person": "reveals",
+      "past": "revealed",
+      "past_participle": "revealed",
+      "gerund": "revealing"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈviːl/",
+      "uk": "/rɪˈviːl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "隠れていた事実・情報などを明らかにする",
+      "秘密・正体などを明かす",
+      "覆いなどを取り除いて姿を見せる",
+      "調査・データなどが事実を示す"
+    ],
+    "en": [
+      "to make something previously hidden or unknown known",
+      "to disclose a secret, identity, fact, or piece of information",
+      "to uncover or expose something to view",
+      "to show or demonstrate a fact through evidence, data, or investigation"
+    ]
+  },
+  "nuance": {
+    "ja": "reveal は『隠れていたものが見える・分かるようになる』という非常に広い語。情報だけでなく identity, truth, results, emotions, damage などにも使える。divulge が主に秘密・非公開情報を人が明かすことに寄るのに対し、reveal は The study revealed that ... のように、研究・証拠・出来事が事実を示す場合にも自然。",
+    "en": "Reveal is a broad verb meaning to make something hidden, unknown, or previously unseen become known or visible. Unlike divulge, which is especially associated with secret or private information disclosed by a person, reveal can also describe evidence, research, events, or physical uncovering."
+  },
+  "minimal": {
+    "ja": [
+      "reveal：隠れていた事実・姿・情報などを明らかにする広い語。",
+      "divulge：秘密・非公開情報を明かす。よりフォーマル。",
+      "disclose：情報を正式・意図的に開示する。",
+      "uncover：隠されていた事実・不正などを発見して明るみに出す。",
+      "expose：隠された問題・不正などを公にさらす。",
+      "unveil：覆いを取って初公開する。製品・計画などにも使う。"
+    ],
+    "en": [
+      "reveal is the broad verb for making something hidden or unknown known.",
+      "divulge focuses on revealing secret or private information.",
+      "disclose often suggests formal or deliberate release of information.",
+      "uncover emphasizes discovering something previously hidden.",
+      "expose often means bringing wrongdoing or hidden problems into public view.",
+      "unveil means to reveal something publicly for the first time."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 reveler『明らかにする』を経て、ラテン語 revelare『覆いを取り除く、明らかにする』に由来する。re- と velum『覆い、ベール』に関係し、語源的には『ベールを取り除く』というイメージ。",
+    "en": "From Old French reveler, ultimately from Latin revelare, meaning 'to uncover or reveal'. It is related to velum, 'veil or covering', so the underlying image is literally that of removing a veil."
+  },
+  "synonyms": [
+    {
+      "word": "divulge",
+      "note": {
+        "ja": "秘密・非公開情報を明かす場合に特に使われる、よりフォーマルな語。",
+        "en": "A more formal verb especially associated with revealing secret or private information."
+      }
+    },
+    {
+      "word": "disclose",
+      "note": {
+        "ja": "法律・金融・ビジネスなどで正式に情報を開示する場合にもよく使う。",
+        "en": "Often used for formal or official release of information, especially in legal, financial, or business contexts."
+      }
+    },
+    {
+      "word": "uncover",
+      "note": {
+        "ja": "調査などによって隠されていた事実を発見することに重点。",
+        "en": "Emphasizes discovering previously hidden facts, often through investigation."
+      }
+    },
+    {
+      "word": "expose",
+      "note": {
+        "ja": "隠されていた不正・問題などを公にさらすニュアンスが強い。",
+        "en": "Often suggests bringing hidden wrongdoing, problems, or vulnerabilities into public view."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "enthüllen / offenbaren",
+    "it": "rivelare",
+    "fr": "révéler",
+    "es": "revelar"
+  },
+  "collocations": {
+    "ja": [
+      "reveal the truth — 真実を明らかにする",
+      "reveal a secret — 秘密を明かす",
+      "reveal someone's identity — 誰かの身元を明かす",
+      "reveal the results — 結果を公表する",
+      "reveal new evidence — 新たな証拠を明らかにする",
+      "reveal details — 詳細を明かす",
+      "reveal the extent of the damage — 被害の規模を明らかにする",
+      "a study reveals that ... — 研究によって〜が明らかになる",
+      "refuse to reveal something — ～を明かすことを拒む",
+      "gradually reveal something — ～を徐々に明らかにする"
+    ],
+    "en": [
+      "reveal the truth",
+      "reveal a secret",
+      "reveal someone's identity",
+      "reveal the results",
+      "reveal new evidence",
+      "reveal details",
+      "reveal the extent of the damage",
+      "a study reveals that ...",
+      "refuse to reveal something",
+      "gradually reveal something"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The investigation revealed serious flaws in the system. — 調査によってそのシステムの重大な欠陥が明らかになった。",
+      "She refused to reveal the source of the information. — 彼女はその情報源を明かすことを拒んだ。",
+      "The company will reveal the results next week. — その会社は来週、結果を公表する。",
+      "The data revealed that demand had fallen sharply. — データから需要が急激に落ち込んでいたことが明らかになった。",
+      "He lifted the cover to reveal a hidden compartment. — 彼が覆いを持ち上げると、隠し区画が現れた。"
+    ],
+    "en": [
+      "The investigation revealed serious flaws in the system.",
+      "She refused to reveal the source of the information.",
+      "The company will reveal the results next week.",
+      "The data revealed that demand had fallen sharply.",
+      "He lifted the cover to reveal a hidden compartment."
+    ]
+  }
+},
+{
+  "id": "disclose",
+  "sid": "2026-00633",
+  "word": "disclose",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "information",
+    "disclosure",
+    "legal",
+    "business"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "disclose",
+      "third_person": "discloses",
+      "past": "disclosed",
+      "past_participle": "disclosed",
+      "gerund": "disclosing"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪsˈkloʊz/",
+      "uk": "/dɪsˈkləʊz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "情報・事実などを開示する、公表する",
+      "秘密・機密情報などを明らかにする",
+      "法律・契約上必要な情報を正式に申告する"
+    ],
+    "en": [
+      "to make information or facts known",
+      "to reveal confidential, private, or previously hidden information",
+      "to formally provide information that one is required or expected to provide"
+    ]
+  },
+  "nuance": {
+    "ja": "disclose は、情報を意図的・正式に明らかにすることを表す。financial information, conflicts of interest, personal data, risks などとよく使われ、法律・金融・企業活動で非常に重要。reveal が広く『明らかにする』なのに対し、disclose は『情報開示』という制度的・公式な響きが強い。divulge とも近いが、divulge は秘密を明かすこと自体に焦点があり、disclose は必要な情報を正式に開示する場合にも中立的に使える。",
+    "en": "Disclose commonly means to make information known deliberately and often formally. It is especially frequent in legal, financial, corporate, and regulatory contexts. Reveal is broader, while divulge focuses more specifically on revealing secret or private information. Disclose can be entirely neutral when information is being provided as required."
+  },
+  "minimal": {
+    "ja": [
+      "disclose：情報を正式・意図的に開示する。",
+      "reveal：隠れていたものを広く明らかにする。",
+      "divulge：秘密・非公開情報を明かす。",
+      "declare：情報・立場などを公式に申告・宣言する。",
+      "report：情報を報告する。",
+      "withhold：情報を意図的に開示しない。disclose の対照語。"
+    ],
+    "en": [
+      "disclose means to formally or deliberately make information known.",
+      "reveal is the broad verb for making something hidden or unknown known.",
+      "divulge focuses on revealing secret or private information.",
+      "declare means to officially state or report something.",
+      "report means to provide information about something.",
+      "withhold means to intentionally keep information from being disclosed."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 disclosen を経て、古フランス語 desclore『開く、明らかにする』に由来する。dis-『離して』＋ clore『閉じる』という構造で、語源的には『閉じていたものを開く』というイメージ。close『閉じる』とも同語族。",
+    "en": "From Middle English disclosen, via Old French desclore, meaning 'to open or reveal'. It combines a prefix meaning 'apart' with clore, 'to close'. The underlying image is literally that of opening what had been closed."
+  },
+  "synonyms": [
+    {
+      "word": "reveal",
+      "note": {
+        "ja": "隠れていた事実・情報・姿などを明らかにする広い語。",
+        "en": "A broader verb for making hidden facts, information, or things known or visible."
+      }
+    },
+    {
+      "word": "divulge",
+      "note": {
+        "ja": "秘密・非公開情報を明かすことに重点。",
+        "en": "Focuses on revealing information that was secret or private."
+      }
+    },
+    {
+      "word": "declare",
+      "note": {
+        "ja": "情報や立場を公式に申告・宣言する。",
+        "en": "Means to officially state or report information or a position."
+      }
+    },
+    {
+      "word": "uncover",
+      "note": {
+        "ja": "調査などによって隠れていた事実を発見し、明らかにする。",
+        "en": "Emphasizes discovering previously hidden information or facts."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "offenlegen / enthüllen",
+    "it": "divulgare / rivelare",
+    "fr": "divulguer / révéler",
+    "es": "divulgar / revelar"
+  },
+  "collocations": {
+    "ja": [
+      "disclose information — 情報を開示する",
+      "disclose confidential information — 機密情報を開示する",
+      "disclose personal information — 個人情報を開示する",
+      "disclose financial information — 財務情報を開示する",
+      "disclose a conflict of interest — 利益相反を開示する",
+      "disclose the terms of an agreement — 契約条件を開示する",
+      "disclose the identity of someone — 誰かの身元を明かす",
+      "be required to disclose something — ～の開示を義務づけられる",
+      "fully disclose something — ～を完全に開示する",
+      "fail to disclose something — ～を開示しない"
+    ],
+    "en": [
+      "disclose information",
+      "disclose confidential information",
+      "disclose personal information",
+      "disclose financial information",
+      "disclose a conflict of interest",
+      "disclose the terms of an agreement",
+      "disclose the identity of someone",
+      "be required to disclose something",
+      "fully disclose something",
+      "fail to disclose something"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company is required to disclose its financial results. — その会社は財務結果を開示することを義務づけられている。",
+      "Employees must disclose any potential conflicts of interest. — 従業員は潜在的な利益相反を申告しなければならない。",
+      "The bank refused to disclose confidential customer information. — その銀行は顧客の機密情報を開示することを拒んだ。",
+      "She disclosed that she had a financial interest in the project. — 彼女はそのプロジェクトに金銭的利害関係があることを明らかにした。",
+      "The report disclosed several previously unknown risks. — その報告書は、それまで知られていなかったいくつかのリスクを明らかにした。"
+    ],
+    "en": [
+      "The company is required to disclose its financial results.",
+      "Employees must disclose any potential conflicts of interest.",
+      "The bank refused to disclose confidential customer information.",
+      "She disclosed that she had a financial interest in the project.",
+      "The report disclosed several previously unknown risks."
+    ]
+  }
+},
+{
+  "id": "uncover",
+  "sid": "2026-00634",
+  "word": "uncover",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "discovery",
+    "investigation",
+    "information",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "uncover",
+      "third_person": "uncovers",
+      "past": "uncovered",
+      "past_participle": "uncovered",
+      "gerund": "uncovering"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ʌnˈkʌvər/",
+      "uk": "/ʌnˈkʌvə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "覆いを取る、露出させる",
+      "隠れていた事実・情報を発見する",
+      "不正・問題・秘密などを調査によって明らかにする"
+    ],
+    "en": [
+      "to remove a cover from something",
+      "to discover something that was hidden or unknown",
+      "to reveal facts, wrongdoing, problems, or information through investigation or examination"
+    ]
+  },
+  "nuance": {
+    "ja": "uncover は『隠れていたものを見つけ出して表に出す』ことを表す。investigation, audit, research, archaeological work などの結果として fraud, evidence, truth, problems などが見つかる場合に特に自然。reveal は単に明らかにする広い語だが、uncover は発見・調査のプロセスを感じさせやすい。",
+    "en": "Uncover suggests discovering something that had been hidden, unknown, or concealed, often through investigation, research, inspection, or excavation. Reveal is broader, while uncover more strongly implies a process of finding what was previously hidden."
+  },
+  "minimal": {
+    "ja": [
+      "uncover：調査・探索によって隠れた事実を発見し明らかにする。",
+      "reveal：隠れていたものを広く明らかにする。",
+      "disclose：情報を正式・意図的に開示する。",
+      "divulge：秘密・非公開情報を明かす。",
+      "expose：隠された不正・問題を公にさらす。",
+      "discover：何かを見つける一般語。必ずしも隠蔽されていたとは限らない。"
+    ],
+    "en": [
+      "uncover means to discover and bring hidden facts to light.",
+      "reveal is the broad verb for making something hidden known.",
+      "disclose means to formally or deliberately release information.",
+      "divulge focuses on revealing secret or private information.",
+      "expose often means publicly revealing wrongdoing or hidden problems.",
+      "discover is the broad general verb for finding something previously unknown."
+    ]
+  },
+  "etymology": {
+    "ja": "un-『取り除く、逆の動作をする』＋ cover『覆う』から成る。文字どおりには『覆いを取る』ことで、そこから『隠されていた事実を明るみに出す』という比喩的意味が発達した。",
+    "en": "Formed from un- plus cover. The literal meaning is 'to remove a covering', which naturally developed into the figurative sense of discovering and bringing hidden facts or problems to light."
+  },
+  "synonyms": [
+    {
+      "word": "discover",
+      "note": {
+        "ja": "未知のものを見つける一般語。uncover より広い。",
+        "en": "A broad verb for finding something previously unknown."
+      }
+    },
+    {
+      "word": "reveal",
+      "note": {
+        "ja": "隠れていた事実・情報・姿などを明らかにする広い語。",
+        "en": "A broad verb for making something hidden or unknown known."
+      }
+    },
+    {
+      "word": "expose",
+      "note": {
+        "ja": "特に不正・腐敗・問題などを公にさらす。",
+        "en": "Often used for publicly revealing wrongdoing, corruption, or hidden problems."
+      }
+    },
+    {
+      "word": "unearth",
+      "note": {
+        "ja": "埋もれていた物や情報を掘り出す。比喩的にも使う。",
+        "en": "Means to dig up or discover something hidden, literally or figuratively."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "aufdecken / enthüllen",
+    "it": "scoprire / portare alla luce",
+    "fr": "découvrir / mettre au jour",
+    "es": "descubrir / destapar"
+  },
+  "collocations": {
+    "ja": [
+      "uncover the truth — 真実を明らかにする",
+      "uncover evidence — 証拠を発見する",
+      "uncover fraud — 詐欺・不正を暴く",
+      "uncover corruption — 汚職を暴く",
+      "uncover a conspiracy — 陰謀を暴く",
+      "uncover a problem — 問題を発見する",
+      "uncover new information — 新しい情報を発見する",
+      "uncover hidden risks — 隠れたリスクを明らかにする",
+      "an investigation uncovers something — 調査によって～が明らかになる",
+      "uncover remains — 遺構・遺物を発掘して露出させる"
+    ],
+    "en": [
+      "uncover the truth",
+      "uncover evidence",
+      "uncover fraud",
+      "uncover corruption",
+      "uncover a conspiracy",
+      "uncover a problem",
+      "uncover new information",
+      "uncover hidden risks",
+      "an investigation uncovers something",
+      "uncover remains"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The investigation uncovered evidence of widespread fraud. — 調査によって広範な不正の証拠が発見された。",
+      "Researchers uncovered a previously unknown link between the two factors. — 研究者たちはその二つの要因の間に、それまで知られていなかった関連性を発見した。",
+      "The audit uncovered serious weaknesses in the company's controls. — 監査によって会社の管理体制に重大な弱点があることが明らかになった。",
+      "Archaeologists uncovered the remains of an ancient settlement. — 考古学者たちは古代集落の遺構を掘り出した。",
+      "The journalist spent months uncovering the truth behind the scandal. — その記者は何か月もかけてスキャンダルの背後にある真実を突き止めた。"
+    ],
+    "en": [
+      "The investigation uncovered evidence of widespread fraud.",
+      "Researchers uncovered a previously unknown link between the two factors.",
+      "The audit uncovered serious weaknesses in the company's controls.",
+      "Archaeologists uncovered the remains of an ancient settlement.",
+      "The journalist spent months uncovering the truth behind the scandal."
+    ]
+  }
+},
+{
+  "id": "expose",
+  "sid": "2026-00635",
+  "word": "expose",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "disclosure",
+    "risk",
+    "investigation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "expose",
+      "third_person": "exposes",
+      "past": "exposed",
+      "past_participle": "exposed",
+      "gerund": "exposing"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪkˈspoʊz/",
+      "uk": "/ɪkˈspəʊz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "隠れていた事実・不正などを明るみに出す",
+      "人・物を危険・光・寒さなどにさらす",
+      "覆いを取って露出させる",
+      "弱点・欠陥などを露呈させる"
+    ],
+    "en": [
+      "to reveal wrongdoing, hidden facts, or problems",
+      "to subject someone or something to danger, light, weather, or another influence",
+      "to uncover or leave something unprotected",
+      "to reveal a weakness, flaw, or vulnerability"
+    ]
+  },
+  "nuance": {
+    "ja": "expose の核は『覆われていたものを外にさらす』こと。そこから expose corruption, expose fraud のように不正を公にする意味と、expose someone to danger のように危険・環境要因にさらす意味の両方が発達している。uncover が『調査して発見する』ことに重点を置くのに対し、expose は『発見したものを外から見える状態にする、公にさらす』感じが強い。",
+    "en": "The core idea of expose is to leave something open, visible, or unprotected. This gives rise both to the sense of publicly revealing wrongdoing and to the pattern expose someone or something to danger, light, chemicals, or other influences. Compared with uncover, expose emphasizes bringing something into view or leaving it unprotected rather than the process of discovery itself."
+  },
+  "minimal": {
+    "ja": [
+      "expose：隠れた問題・不正・弱点を公にさらす。",
+      "uncover：調査や探索で隠れた事実を発見する。",
+      "reveal：隠れていたものを広く明らかにする。",
+      "disclose：情報を正式・意図的に開示する。",
+      "divulge：秘密・非公開情報を明かす。",
+      "expose A to B：AをBにさらす。"
+    ],
+    "en": [
+      "expose means to bring hidden wrongdoing, problems, or vulnerabilities into view.",
+      "uncover emphasizes discovering hidden facts through investigation.",
+      "reveal is the broad verb for making something hidden known.",
+      "disclose means to formally or deliberately release information.",
+      "divulge focuses on revealing secret or private information.",
+      "expose A to B means to subject A to B."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 exposer を経て、ラテン語 exponere『外に置く、示す』に由来する。ex-『外へ』＋ ponere『置く』という構造で、文字どおりには『外に置く』。そこから『さらす』『明るみに出す』という意味になった。position, compose, impose などの -pose と同じ ponere 語族。",
+    "en": "From French exposer, ultimately from Latin exponere, meaning 'to put forth or set out', from ex- ('out') and ponere ('to place'). The literal idea is to put something out in the open, which developed into the senses of revealing and subjecting to an external influence."
+  },
+  "synonyms": [
+    {
+      "word": "reveal",
+      "note": {
+        "ja": "隠れていた事実・情報などを明らかにする広い語。",
+        "en": "A broad verb for making hidden information or facts known."
+      }
+    },
+    {
+      "word": "uncover",
+      "note": {
+        "ja": "調査などによって隠れた事実を見つけ出すことに重点。",
+        "en": "Emphasizes discovering hidden facts, often through investigation."
+      }
+    },
+    {
+      "word": "disclose",
+      "note": {
+        "ja": "情報を正式・意図的に開示する。",
+        "en": "Means to formally or deliberately make information known."
+      }
+    },
+    {
+      "word": "unmask",
+      "note": {
+        "ja": "正体・欺瞞・本質などを暴く。",
+        "en": "Means to reveal the true identity, nature, or deception behind something."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "aufdecken / aussetzen",
+    "it": "esporre / smascherare",
+    "fr": "exposer / dévoiler",
+    "es": "exponer / desenmascarar"
+  },
+  "collocations": {
+    "ja": [
+      "expose corruption — 汚職を暴く",
+      "expose fraud — 詐欺・不正を暴く",
+      "expose wrongdoing — 不正行為を明るみに出す",
+      "expose a scandal — スキャンダルを暴く",
+      "expose a weakness — 弱点を露呈させる",
+      "expose a flaw — 欠陥を明らかにする",
+      "expose someone to danger — 誰かを危険にさらす",
+      "expose skin to sunlight — 皮膚を日光にさらす",
+      "be exposed to radiation — 放射線にさらされる",
+      "be exposed to risk — リスクにさらされる"
+    ],
+    "en": [
+      "expose corruption",
+      "expose fraud",
+      "expose wrongdoing",
+      "expose a scandal",
+      "expose a weakness",
+      "expose a flaw",
+      "expose someone to danger",
+      "expose skin to sunlight",
+      "be exposed to radiation",
+      "be exposed to risk"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The investigation exposed widespread corruption within the agency. — 調査によってその機関内の広範な汚職が明るみに出た。",
+      "The report exposed serious weaknesses in the system. — その報告書はシステムの重大な弱点を露呈させた。",
+      "Workers were exposed to dangerous chemicals. — 作業員たちは危険な化学物質にさらされた。",
+      "The scandal exposed how poorly the organization was managed. — そのスキャンダルによって、その組織の管理がいかに杜撰だったかが明らかになった。",
+      "Prolonged exposure to strong sunlight can damage the skin. — 強い日光に長時間さらされると皮膚を傷めることがある。"
+    ],
+    "en": [
+      "The investigation exposed widespread corruption within the agency.",
+      "The report exposed serious weaknesses in the system.",
+      "Workers were exposed to dangerous chemicals.",
+      "The scandal exposed how poorly the organization was managed.",
+      "Prolonged exposure to strong sunlight can damage the skin."
+    ]
+  }
+},
+{
+  "id": "feign",
+  "sid": "2026-00636",
+  "word": "feign",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "deception",
+    "behavior",
+    "emotion",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "feign",
+      "third_person": "feigns",
+      "past": "feigned",
+      "past_participle": "feigned",
+      "gerund": "feigning"
+    },
+    "transitivity": "transitive / intransitive in some constructions"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/feɪn/",
+      "uk": "/feɪn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "感情・状態などのふりをする、装う",
+      "病気・無知・眠りなどを偽って見せる",
+      "本当ではないものを本物らしく装う"
+    ],
+    "en": [
+      "to pretend to have a feeling, condition, or reaction",
+      "to simulate illness, ignorance, sleep, or another state",
+      "to give a false appearance of something"
+    ]
+  },
+  "nuance": {
+    "ja": "feign は pretend よりややフォーマルで、『本当ではない感情・状態を意図的に演じる』ことに重点がある。feign ignorance, feign illness, feign surprise, feign sleep などが典型的。単に遊びで何かのふりをするというより、しばしば相手を欺く、意図を隠す、状況を切り抜けるために装うニュアンスを持つ。",
+    "en": "Feign is more formal than pretend and emphasizes deliberately displaying a feeling, condition, or state that is not genuine. It is common in phrases such as feign ignorance, feign illness, feign surprise, and feign sleep. It often implies deception or concealment of one's true state or intention."
+  },
+  "minimal": {
+    "ja": [
+      "feign：本当ではない感情・状態を意図的に装う。",
+      "pretend：〜のふりをする一般的な語。遊び・仮定にも使える。",
+      "simulate：状態・動作を人工的に再現する。技術的にも使う。",
+      "fake：偽る、でっち上げる。より口語的で直接的。",
+      "affect：感情・態度などをわざと装う用法がある。やや文語的。",
+      "dissemble：本当の感情・意図を隠して取り繕う。より高度でフォーマル。"
+    ],
+    "en": [
+      "feign means to deliberately pretend to have a feeling or condition that is not genuine.",
+      "pretend is the broad everyday verb and can also be playful or hypothetical.",
+      "simulate means to reproduce or imitate a condition, often technically.",
+      "fake is more informal and directly suggests falsification.",
+      "affect can mean to adopt or display a manner or feeling artificially.",
+      "dissemble means to conceal one's true feelings or intentions behind a false appearance."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 feindre を経て、ラテン語 fingere『形作る、作り上げる、装う』に由来する。同じ語根から fiction『作り話』や fictitious『架空の』も生まれている。語源的には『形を作る』から『見せかけを作る』へ意味が発展した。",
+    "en": "From Old French feindre, ultimately from Latin fingere, meaning 'to shape, form, invent, or pretend'. The same root also gave English fiction and fictitious. The semantic development is from shaping something into form to creating a false appearance."
+  },
+  "synonyms": [
+    {
+      "word": "pretend",
+      "note": {
+        "ja": "最も一般的な『ふりをする』。feign より日常的で意味が広い。",
+        "en": "The broad everyday verb for acting as if something were true."
+      }
+    },
+    {
+      "word": "simulate",
+      "note": {
+        "ja": "状態・症状・動作などを再現・模倣する。技術・医学文脈にも多い。",
+        "en": "Means to imitate or reproduce a state or process, often in technical contexts."
+      }
+    },
+    {
+      "word": "fake",
+      "note": {
+        "ja": "感情・病気・証拠などを偽る。feign より口語的。",
+        "en": "A more informal verb for falsely presenting a feeling, condition, or object as genuine."
+      }
+    },
+    {
+      "word": "dissemble",
+      "note": {
+        "ja": "本心・意図を隠し、別の態度を装う。",
+        "en": "Means to conceal one's true feelings or intentions behind a false appearance."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "vortäuschen / heucheln",
+    "it": "fingere / simulare",
+    "fr": "feindre / simuler",
+    "es": "fingir / simular"
+  },
+  "collocations": {
+    "ja": [
+      "feign ignorance — 知らないふりをする",
+      "feign illness — 病気のふりをする",
+      "feign surprise — 驚いたふりをする",
+      "feign innocence — 無実・無邪気を装う",
+      "feign interest — 興味があるふりをする",
+      "feign sleep — 寝たふりをする",
+      "feign indifference — 無関心を装う",
+      "feign sympathy — 同情しているふりをする",
+      "feign confidence — 自信があるふりをする",
+      "feign an injury — けがをしたふりをする"
+    ],
+    "en": [
+      "feign ignorance",
+      "feign illness",
+      "feign surprise",
+      "feign innocence",
+      "feign interest",
+      "feign sleep",
+      "feign indifference",
+      "feign sympathy",
+      "feign confidence",
+      "feign an injury"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He feigned ignorance when asked about the missing documents. — 彼は紛失した書類について尋ねられると、知らないふりをした。",
+      "She feigned surprise even though she already knew the result. — 彼女はすでに結果を知っていたのに、驚いたふりをした。",
+      "The soldier feigned injury to avoid further questioning. — その兵士はさらに尋問されるのを避けるため、けがをしたふりをした。",
+      "He closed his eyes and feigned sleep. — 彼は目を閉じて寝たふりをした。",
+      "She tried to feign confidence despite her nervousness. — 彼女は緊張していたにもかかわらず、自信があるように装おうとした。"
+    ],
+    "en": [
+      "He feigned ignorance when asked about the missing documents.",
+      "She feigned surprise even though she already knew the result.",
+      "The soldier feigned injury to avoid further questioning.",
+      "He closed his eyes and feigned sleep.",
+      "She tried to feign confidence despite her nervousness."
+    ]
+  }
+},
+{
+  "id": "dissemble",
+  "sid": "2026-00637",
+  "word": "dissemble",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "deception",
+    "concealment",
+    "behavior",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "dissemble",
+      "third_person": "dissembles",
+      "past": "dissembled",
+      "past_participle": "dissembled",
+      "gerund": "dissembling"
+    },
+    "transitivity": "intransitive / transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈsembl/",
+      "uk": "/dɪˈsembl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "本心・意図・動機などを隠す",
+      "別の態度を装って取り繕う",
+      "真実を隠して欺くように振る舞う"
+    ],
+    "en": [
+      "to conceal one's true feelings, motives, or intentions",
+      "to disguise the truth by putting on a false appearance",
+      "to behave deceptively in order to hide what one really thinks or intends"
+    ]
+  },
+  "nuance": {
+    "ja": "dissemble は非常にフォーマルで文語的な語で、単に嘘をつくというより、本当の感情・意図・立場を隠しながら別の態度を見せることを表す。feign が特定の感情や状態を『装う』ことに重点を置くのに対し、dissemble は『本当のものを隠す』側に重点がある。政治・外交・文学的な文脈で見かけることがある。",
+    "en": "Dissemble is a very formal and somewhat literary verb. It does not simply mean to lie; it emphasizes concealing one's true feelings, motives, or intentions behind a misleading appearance. Feign focuses more on pretending to have a particular feeling or state, whereas dissemble focuses on hiding what is actually true."
+  },
+  "minimal": {
+    "ja": [
+      "dissemble：本心・意図を隠して別の態度を装う。",
+      "feign：実際にはない感情・状態を装う。",
+      "pretend：〜のふりをする一般語。",
+      "conceal：事実・感情などを隠す。",
+      "deceive：相手に誤ったことを信じさせる。",
+      "dissimulate：本当の感情・意図を隠す。dissemble と非常に近い。"
+    ],
+    "en": [
+      "dissemble means to conceal one's true feelings or intentions behind a false appearance.",
+      "feign means to pretend to have a feeling or condition that is not genuine.",
+      "pretend is the broad everyday verb for acting as if something were true.",
+      "conceal means simply to hide something.",
+      "deceive means to cause someone to believe something false.",
+      "dissimulate is a very close formal synonym meaning to hide one's true feelings or intentions."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語を経て古フランス語 dissimuler、さらにラテン語 dissimulare『異なるもののように見せる、隠す』に由来する。dissimilis『似ていない』と関係し、語源的には『本当とは違うように見せる』という発想。",
+    "en": "From Old French dissimuler and ultimately Latin dissimulare, meaning 'to conceal or make appear different'. It is related to dissimilis, 'unlike', giving the underlying idea of making something appear unlike what it really is."
+  },
+  "synonyms": [
+    {
+      "word": "dissimulate",
+      "note": {
+        "ja": "ほぼ同義の非常にフォーマルな語。本心・意図を隠す。",
+        "en": "A very close and highly formal synonym for concealing one's true feelings or intentions."
+      }
+    },
+    {
+      "word": "feign",
+      "note": {
+        "ja": "本当ではない感情・状態を意図的に装う。",
+        "en": "Means to deliberately pretend to have a feeling or condition that is not genuine."
+      }
+    },
+    {
+      "word": "conceal",
+      "note": {
+        "ja": "事実・感情などを隠す一般語。偽の態度を見せる必要はない。",
+        "en": "A broader verb for hiding something, without necessarily creating a false appearance."
+      }
+    },
+    {
+      "word": "deceive",
+      "note": {
+        "ja": "相手を欺き、誤ったことを信じさせる。",
+        "en": "Means to mislead someone into believing something false."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "heucheln / sich verstellen",
+    "it": "dissimulare",
+    "fr": "dissimuler",
+    "es": "disimular"
+  },
+  "collocations": {
+    "ja": [
+      "dissemble one's feelings — 本心を隠す",
+      "dissemble one's intentions — 意図を隠す",
+      "dissemble one's motives — 動機を隠す",
+      "attempt to dissemble — 取り繕おうとする",
+      "skillfully dissemble — 巧みに本心を隠す",
+      "dissemble about something — ～について本心を隠す",
+      "no attempt to dissemble — 取り繕おうともしない",
+      "dissemble the truth — 真実を覆い隠す"
+    ],
+    "en": [
+      "dissemble one's feelings",
+      "dissemble one's intentions",
+      "dissemble one's motives",
+      "attempt to dissemble",
+      "skillfully dissemble",
+      "dissemble about something",
+      "no attempt to dissemble",
+      "dissemble the truth"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He tried to dissemble his true intentions during the negotiations. — 彼は交渉中、自分の本当の意図を隠そうとした。",
+      "She dissembled her disappointment behind a polite smile. — 彼女は丁寧な微笑みの裏に失望を隠した。",
+      "The politician was accused of dissembling about his motives. — その政治家は自分の動機について本心を隠していると非難された。",
+      "He made little attempt to dissemble his hostility. — 彼は敵意を隠そうとはほとんどしなかった。",
+      "A skilled negotiator may dissemble without telling an outright lie. — 熟練した交渉者は、明白な嘘をつかずに本心を隠すことがある。"
+    ],
+    "en": [
+      "He tried to dissemble his true intentions during the negotiations.",
+      "She dissembled her disappointment behind a polite smile.",
+      "The politician was accused of dissembling about his motives.",
+      "He made little attempt to dissemble his hostility.",
+      "A skilled negotiator may dissemble without telling an outright lie."
+    ]
+  }
+},
+{
+  "id": "dissimulate",
+  "sid": "2026-00638",
+  "word": "dissimulate",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "deception",
+    "concealment",
+    "behavior",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "dissimulate",
+      "third_person": "dissimulates",
+      "past": "dissimulated",
+      "past_participle": "dissimulated",
+      "gerund": "dissimulating"
+    },
+    "transitivity": "transitive / intransitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈsɪmjəˌleɪt/",
+      "uk": "/dɪˈsɪmjəleɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "本心・感情・意図などを隠す",
+      "本当の状態を取り繕う",
+      "真実を悟られないように装う"
+    ],
+    "en": [
+      "to conceal one's true feelings, intentions, or motives",
+      "to disguise the true nature of something",
+      "to behave in a way intended to prevent others from knowing the truth"
+    ]
+  },
+  "nuance": {
+    "ja": "dissimulate は非常にフォーマルで文語的な語で、本当の感情・意図・動機などを他人に悟られないよう隠すことを表す。dissemble とほぼ同義だが、dissimulate は『隠蔽・偽装』そのものをやや抽象的に述べる感じがある。日常会話では conceal, hide, pretend などのほうが一般的。",
+    "en": "Dissimulate is a highly formal and literary verb meaning to conceal one's true feelings, intentions, motives, or the true nature of something. It is very close to dissemble, though dissimulate can sound slightly more abstract and focused on concealment itself."
+  },
+  "minimal": {
+    "ja": [
+      "dissimulate：本当の感情・意図を隠す。非常にフォーマル。",
+      "dissemble：本心を隠しながら別の態度を装う。",
+      "feign：実際にはない感情・状態を装う。",
+      "conceal：何かを隠す一般語。",
+      "pretend：〜のふりをする一般語。",
+      "deceive：相手に誤ったことを信じさせる。"
+    ],
+    "en": [
+      "dissimulate means to conceal one's true feelings or intentions and is highly formal.",
+      "dissemble means to hide one's true state behind a misleading appearance.",
+      "feign means to pretend to have a feeling or condition that is not genuine.",
+      "conceal is the broad verb for hiding something.",
+      "pretend is the everyday verb for acting as if something were true.",
+      "deceive means to cause someone to believe something false."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 dissimulare『似ていないもののように見せる、隠す』に由来し、dissimilis『似ていない』と関係する。dis-『離れて、異なって』＋ similis『似ている』という構造で、語源的には『本当とは違うように見せる』という発想。",
+    "en": "From Latin dissimulare, meaning 'to conceal or disguise', related to dissimilis, 'unlike'. The elements are dis- ('apart, differently') and similis ('like, similar'), giving the underlying idea of making something appear unlike what it truly is."
+  },
+  "synonyms": [
+    {
+      "word": "dissemble",
+      "note": {
+        "ja": "最も近い語で、本心・意図を隠し別の態度を装う。",
+        "en": "The closest synonym, emphasizing concealment of true feelings or intentions behind a false appearance."
+      }
+    },
+    {
+      "word": "conceal",
+      "note": {
+        "ja": "情報・感情・物などを隠す一般語。",
+        "en": "A broad verb for hiding information, feelings, or objects."
+      }
+    },
+    {
+      "word": "feign",
+      "note": {
+        "ja": "実際には存在しない感情・状態をあるように装う。",
+        "en": "Means to pretend to have a feeling or condition that is not genuine."
+      }
+    },
+    {
+      "word": "mask",
+      "note": {
+        "ja": "本当の感情・性質などを覆い隠す。",
+        "en": "Means to hide or disguise one's true feelings, nature, or condition."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verheimlichen / sich verstellen",
+    "it": "dissimulare",
+    "fr": "dissimuler",
+    "es": "disimular"
+  },
+  "collocations": {
+    "ja": [
+      "dissimulate one's feelings — 本心を隠す",
+      "dissimulate one's intentions — 意図を隠す",
+      "dissimulate one's motives — 動機を隠す",
+      "dissimulate fear — 恐怖を隠す",
+      "dissimulate hostility — 敵意を隠す",
+      "attempt to dissimulate — 本心を隠そうとする",
+      "skillfully dissimulate — 巧みに取り繕う",
+      "dissimulate the truth — 真実を覆い隠す"
+    ],
+    "en": [
+      "dissimulate one's feelings",
+      "dissimulate one's intentions",
+      "dissimulate one's motives",
+      "dissimulate fear",
+      "dissimulate hostility",
+      "attempt to dissimulate",
+      "skillfully dissimulate",
+      "dissimulate the truth"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She tried to dissimulate her disappointment. — 彼女は失望を隠そうとした。",
+      "He was unable to dissimulate his anger completely. — 彼は怒りを完全には隠しきれなかった。",
+      "The diplomat carefully dissimulated his true intentions. — その外交官は本当の意図を慎重に隠した。",
+      "She smiled in an effort to dissimulate her anxiety. — 彼女は不安を隠そうとして微笑んだ。",
+      "He had learned to dissimulate his feelings in public. — 彼は人前で自分の感情を隠すことを身につけていた。"
+    ],
+    "en": [
+      "She tried to dissimulate her disappointment.",
+      "He was unable to dissimulate his anger completely.",
+      "The diplomat carefully dissimulated his true intentions.",
+      "She smiled in an effort to dissimulate her anxiety.",
+      "He had learned to dissimulate his feelings in public."
+    ]
+  }
+},
+{
+  "id": "conceal",
+  "sid": "2026-00639",
+  "word": "conceal",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "concealment",
+    "information",
+    "emotion",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "conceal",
+      "third_person": "conceals",
+      "past": "concealed",
+      "past_participle": "concealed",
+      "gerund": "concealing"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈsiːl/",
+      "uk": "/kənˈsiːl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "物を隠す、見えないようにする",
+      "事実・情報・身元などを知られないようにする",
+      "感情・意図などを表に出さない"
+    ],
+    "en": [
+      "to hide something from sight",
+      "to prevent information, facts, or identity from becoming known",
+      "to keep feelings, intentions, or emotions from being noticed"
+    ]
+  },
+  "nuance": {
+    "ja": "conceal は hide よりややフォーマルで、『意図的に見えない・知られない状態にしておく』ことを表す。conceal a weapon, conceal evidence, conceal one's identity, conceal one's feelings のように、物理的な対象にも抽象的な対象にも使える。dissemble や dissimulate が本心を隠すという特殊なニュアンスを持つのに対し、conceal はもっと広く中立的。",
+    "en": "Conceal is somewhat more formal than hide and usually suggests deliberately keeping something from being seen, known, or noticed. It works with both physical objects and abstract things such as facts, identity, motives, and emotions. Unlike dissemble or dissimulate, it is a broad general verb and does not necessarily imply putting on a false appearance."
+  },
+  "minimal": {
+    "ja": [
+      "conceal：見えない・知られないように隠す。ややフォーマル。",
+      "hide：隠すという最も一般的な語。",
+      "cover up：事実・不正などを隠蔽する。否定的になりやすい。",
+      "withhold：情報などを意図的に与えない。",
+      "dissemble：本心を隠し、別の態度を装う。",
+      "reveal：隠れていたものを明らかにする。conceal の対照語。"
+    ],
+    "en": [
+      "conceal means to deliberately keep something from being seen or known.",
+      "hide is the broad everyday verb.",
+      "cover up often means to conceal wrongdoing or embarrassing facts.",
+      "withhold means to intentionally refuse to provide information or something due.",
+      "dissemble means to conceal one's true feelings behind a misleading appearance.",
+      "reveal means to make something hidden known and contrasts with conceal."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 conceler を経て、ラテン語 concelare『完全に隠す』に由来する。con-『完全に、ともに』＋ celare『隠す』という構造。celare は英語の occult『隠された』とも遠く関連する語根。",
+    "en": "From Old French conceler, ultimately from Latin concelare, meaning 'to hide completely', formed from con- and celare, 'to hide'. The root is associated with the idea of keeping something out of sight or knowledge."
+  },
+  "synonyms": [
+    {
+      "word": "hide",
+      "note": {
+        "ja": "隠すという最も一般的な語。conceal より日常的。",
+        "en": "The broad everyday verb for keeping something out of sight or knowledge."
+      }
+    },
+    {
+      "word": "withhold",
+      "note": {
+        "ja": "情報・支払い・許可などを意図的に与えない。",
+        "en": "Means to deliberately refrain from giving information, payment, permission, or something else."
+      }
+    },
+    {
+      "word": "mask",
+      "note": {
+        "ja": "本当の感情・性質・状態を覆い隠す。",
+        "en": "Means to hide the true nature, feeling, or condition of something."
+      }
+    },
+    {
+      "word": "cover up",
+      "note": {
+        "ja": "特に不正・失敗・事実などを隠蔽する。",
+        "en": "Often means to conceal wrongdoing, mistakes, or embarrassing facts."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verbergen / verschweigen",
+    "it": "nascondere / celare",
+    "fr": "cacher / dissimuler",
+    "es": "ocultar / esconder"
+  },
+  "collocations": {
+    "ja": [
+      "conceal the truth — 真実を隠す",
+      "conceal information — 情報を隠す",
+      "conceal evidence — 証拠を隠す",
+      "conceal one's identity — 身元を隠す",
+      "conceal one's feelings — 感情を隠す",
+      "conceal one's intentions — 意図を隠す",
+      "conceal a weapon — 武器を隠し持つ",
+      "conceal a defect — 欠陥を隠す",
+      "attempt to conceal something — ～を隠そうとする",
+      "deliberately conceal something — ～を意図的に隠す"
+    ],
+    "en": [
+      "conceal the truth",
+      "conceal information",
+      "conceal evidence",
+      "conceal one's identity",
+      "conceal one's feelings",
+      "conceal one's intentions",
+      "conceal a weapon",
+      "conceal a defect",
+      "attempt to conceal something",
+      "deliberately conceal something"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He tried to conceal his disappointment. — 彼は失望を隠そうとした。",
+      "The suspect was accused of concealing evidence. — その容疑者は証拠を隠したとして告発された。",
+      "She concealed her identity during the investigation. — 彼女は調査中、自分の身元を隠した。",
+      "The design helps conceal the cables from view. — その設計によってケーブルが見えないようになっている。",
+      "The company was criticized for concealing important information from investors. — その会社は投資家から重要情報を隠したとして批判された。"
+    ],
+    "en": [
+      "He tried to conceal his disappointment.",
+      "The suspect was accused of concealing evidence.",
+      "She concealed her identity during the investigation.",
+      "The design helps conceal the cables from view.",
+      "The company was criticized for concealing important information from investors."
+    ]
+  }
+},
+{
+  "id": "withhold",
+  "sid": "2026-00640",
+  "word": "withhold",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "information",
+    "payment",
+    "permission",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "withhold",
+      "third_person": "withholds",
+      "past": "withheld",
+      "past_participle": "withheld",
+      "gerund": "withholding"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/wɪðˈhoʊld/",
+      "uk": "/wɪðˈhəʊld/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "情報・証拠などを意図的に明かさない",
+      "支払い・報酬・支援などを与えない、差し控える",
+      "同意・承認・許可などを与えない",
+      "税金などを源泉徴収する"
+    ],
+    "en": [
+      "to deliberately refuse to give or reveal something",
+      "to keep back payment, support, evidence, or information",
+      "to refuse to grant consent, approval, or permission",
+      "to deduct and retain tax or another amount before payment"
+    ]
+  },
+  "nuance": {
+    "ja": "withhold は単に conceal のように『隠す』のではなく、『本来なら渡す・開示する・認めることが可能または期待されているものを、意図的に出さない』ことに重点がある。withhold information, withhold payment, withhold consent のように非常によく使われる。税務では withhold tax が『税を源泉徴収する』という専門的な意味になる。",
+    "en": "Withhold emphasizes deliberately keeping back something that could or might normally be given, revealed, paid, or granted. Unlike conceal, which focuses on hiding something, withhold focuses on not providing it. It is common with information, payment, consent, approval, support, and taxes."
+  },
+  "minimal": {
+    "ja": [
+      "withhold：与える・開示するものを意図的に出さない。",
+      "conceal：見えない・知られないように隠す。",
+      "hide：隠すという最も一般的な語。",
+      "suppress：情報・感情・反応などを抑え込む。",
+      "refuse：要求・依頼などを拒否する一般語。",
+      "disclose：情報を開示する。withhold の対照語になりやすい。"
+    ],
+    "en": [
+      "withhold means to deliberately keep back something that could otherwise be given or revealed.",
+      "conceal means to keep something hidden from sight or knowledge.",
+      "hide is the broad everyday verb for concealment.",
+      "suppress means to prevent something from being expressed, published, or developing.",
+      "refuse is the general verb for saying no to a request or demand.",
+      "disclose means to make information known and often contrasts with withhold."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語系の with『離れて、逆らって』＋ hold『保持する』から成る。現代の with は通常『〜と一緒に』だが、古い用法には『〜に逆らって、〜から離して』という意味があり、withstand や withdraw にもその痕跡がある。withhold は文字どおり『手元に保持して渡さない』という発想。",
+    "en": "Formed from with and hold. In older English, with could mean 'against' or 'away from', a sense also preserved in words such as withstand and withdraw. Withhold therefore literally carries the idea of holding something back."
+  },
+  "synonyms": [
+    {
+      "word": "retain",
+      "note": {
+        "ja": "保持して手放さない。withhold ほど拒否・差し控えの含みは強くない。",
+        "en": "Means to keep possession of something, without necessarily implying refusal to provide it."
+      }
+    },
+    {
+      "word": "conceal",
+      "note": {
+        "ja": "情報・物などを隠すことに重点。",
+        "en": "Focuses on keeping something hidden rather than simply not providing it."
+      }
+    },
+    {
+      "word": "suppress",
+      "note": {
+        "ja": "情報・感情・反応・活動などが表に出ないよう抑える。",
+        "en": "Means to prevent information, emotion, activity, or a reaction from being expressed or developing."
+      }
+    },
+    {
+      "word": "hold back",
+      "note": {
+        "ja": "出す・伝える・進むことを控える口語的な表現。",
+        "en": "A more conversational expression meaning to keep something from being given, expressed, or released."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "zurückhalten / vorenthalten",
+    "it": "trattenere / negare",
+    "fr": "retenir / refuser de communiquer",
+    "es": "retener / ocultar"
+  },
+  "collocations": {
+    "ja": [
+      "withhold information — 情報を開示しない",
+      "withhold evidence — 証拠を隠して提出しない",
+      "withhold payment — 支払いを差し控える",
+      "withhold consent — 同意を与えない",
+      "withhold approval — 承認を与えない",
+      "withhold support — 支援を差し控える",
+      "withhold permission — 許可を与えない",
+      "withhold judgment — 判断を保留する",
+      "withhold tax — 税を源泉徴収する",
+      "withhold something from someone — 誰かに何かを与えずにおく"
+    ],
+    "en": [
+      "withhold information",
+      "withhold evidence",
+      "withhold payment",
+      "withhold consent",
+      "withhold approval",
+      "withhold support",
+      "withhold permission",
+      "withhold judgment",
+      "withhold tax",
+      "withhold something from someone"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company was accused of withholding important information from investors. — その会社は投資家に重要な情報を開示しなかったとして非難された。",
+      "The client withheld payment until the defects were corrected. — 顧客は欠陥が修正されるまで支払いを差し控えた。",
+      "She decided to withhold consent until she had more information. — 彼女はさらに情報を得るまで同意を与えないことにした。",
+      "The witness was suspected of withholding evidence. — その証人は証拠を隠しているのではないかと疑われた。",
+      "Employers are required to withhold certain taxes from employees' wages. — 雇用主は従業員の賃金から一定の税を源泉徴収することを義務づけられている。"
+    ],
+    "en": [
+      "The company was accused of withholding important information from investors.",
+      "The client withheld payment until the defects were corrected.",
+      "She decided to withhold consent until she had more information.",
+      "The witness was suspected of withholding evidence.",
+      "Employers are required to withhold certain taxes from employees' wages."
+    ]
+  }
 }
 ]
