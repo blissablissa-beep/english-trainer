@@ -1,3 +1,854 @@
 [
-
+{
+  "id": "paucity",
+  "sid": "2026-00601",
+  "word": "paucity",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "quantity",
+    "shortage",
+    "formal",
+    "academic"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable / countable in the expression a paucity of"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈpɔːsəti/",
+      "uk": "/ˈpɔːsəti/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "少なすぎること、乏しさ",
+      "不足、欠乏",
+      "必要・期待される量に比べて非常に少ないこと"
+    ],
+    "en": [
+      "the state of being too small in amount or number",
+      "a lack or insufficiency of something",
+      "an inadequately small quantity or number"
+    ]
+  },
+  "nuance": {
+    "ja": "paucity はややフォーマルで、特に evidence, information, data, research, resources などについて『十分な量がない』ことを表す。典型的には a paucity of ... の形を取る。scarcity が需要や必要性との関係で『希少・不足している状態』を表しやすいのに対し、paucity は単純に『存在する量・数があまりにも少ない』ことに焦点を当てやすい。",
+    "en": "Paucity is a formal word emphasizing that the amount or number of something is inadequately small. It is especially common with nouns such as evidence, information, data, research, and resources, usually in the phrase a paucity of. Unlike scarcity, which often emphasizes limited supply relative to need or demand, paucity focuses more directly on there simply being too little."
+  },
+  "minimal": {
+    "ja": [
+      "paucity：量・数が少なすぎること。フォーマル。",
+      "scarcity：必要や需要に対して供給が乏しい状態。",
+      "shortage：具体的な供給不足。しばしば一時的。",
+      "dearth：必要・望まれるものが著しく不足していること。",
+      "lack：不足・欠如を表す最も一般的な語。",
+      "abundance：豊富さ。paucity の対概念。"
+    ],
+    "en": [
+      "paucity means an inadequately small amount or number and is formal.",
+      "scarcity emphasizes limited supply relative to need or demand.",
+      "shortage is a concrete supply shortfall and is often temporary.",
+      "dearth means a serious lack of something needed or desired.",
+      "lack is the broad general term for absence or insufficiency.",
+      "abundance is the contrasting idea of plentiful supply."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 paucitas『少なさ、少数』に由来し、paucus『少ない、わずかな』と関係する。英語の few と遠い印欧語根上のつながりがあるとされ、中心イメージは一貫して『数が少ない』。",
+    "en": "From Latin paucitas, meaning 'fewness or small number', from paucus, 'few or little'. The core idea throughout its history is simply that something exists in only a small amount or number."
+  },
+  "synonyms": [
+    {
+      "word": "scarcity",
+      "note": {
+        "ja": "資源や供給が需要に対して足りないというニュアンスが強い。",
+        "en": "More strongly suggests limited supply relative to need or demand."
+      }
+    },
+    {
+      "word": "dearth",
+      "note": {
+        "ja": "必要なものが著しく不足していること。paucity より不足感が強いことがある。",
+        "en": "A serious lack of something needed or wanted, often stronger than paucity."
+      }
+    },
+    {
+      "word": "lack",
+      "note": {
+        "ja": "不足や欠如を表す一般的で幅広い語。",
+        "en": "The broad general word for absence or insufficiency."
+      }
+    },
+    {
+      "word": "shortage",
+      "note": {
+        "ja": "必要量に対して供給が足りない具体的な状態。",
+        "en": "A concrete situation in which supply falls short of what is needed."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Mangel / Knappheit",
+    "it": "scarsità / penuria",
+    "fr": "pénurie / rareté",
+    "es": "escasez / penuria"
+  },
+  "collocations": {
+    "ja": [
+      "a paucity of evidence — 証拠の乏しさ",
+      "a paucity of information — 情報不足",
+      "a paucity of data — データ不足",
+      "a paucity of research — 研究の少なさ",
+      "a paucity of resources — 資源不足",
+      "a paucity of options — 選択肢の少なさ",
+      "a paucity of reliable sources — 信頼できる情報源の少なさ",
+      "a paucity of candidates — 候補者の少なさ",
+      "due to a paucity of evidence — 証拠不足のため",
+      "reflect a paucity of research — 研究の乏しさを反映する"
+    ],
+    "en": [
+      "a paucity of evidence",
+      "a paucity of information",
+      "a paucity of data",
+      "a paucity of research",
+      "a paucity of resources",
+      "a paucity of options",
+      "a paucity of reliable sources",
+      "a paucity of candidates",
+      "due to a paucity of evidence",
+      "reflect a paucity of research"
+    ]
+  },
+  "example": {
+    "ja": [
+      "There is a paucity of reliable evidence on the long-term effects. — 長期的影響については信頼できる証拠が乏しい。",
+      "The study was limited by a paucity of data. — その研究はデータ不足によって制約を受けた。",
+      "A paucity of qualified candidates made recruitment difficult. — 資格を満たす候補者が少なかったため、採用は難航した。",
+      "The debate reflects a paucity of detailed research on the issue. — その議論は、その問題に関する詳細な研究の乏しさを反映している。",
+      "The region suffers from a paucity of medical facilities. — その地域では医療施設が著しく不足している。"
+    ],
+    "en": [
+      "There is a paucity of reliable evidence on the long-term effects.",
+      "The study was limited by a paucity of data.",
+      "A paucity of qualified candidates made recruitment difficult.",
+      "The debate reflects a paucity of detailed research on the issue.",
+      "The region suffers from a paucity of medical facilities."
+    ]
+  }
+},
+{
+  "id": "dearth",
+  "sid": "2026-00602",
+  "word": "dearth",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "quantity",
+    "shortage",
+    "formal",
+    "academic"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable, usually in the expression a dearth of"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɝːθ/",
+      "uk": "/dɜːθ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "深刻な不足、欠乏",
+      "必要なものが著しく少ないこと",
+      "供給・情報・人材などの乏しさ"
+    ],
+    "en": [
+      "a serious lack of something",
+      "an insufficient supply of something needed or wanted",
+      "a notable absence or shortage"
+    ]
+  },
+  "nuance": {
+    "ja": "dearth は単に『少ない』というより、『必要・望まれるものが著しく足りない』という強い不足感を表す。典型的には a dearth of ... の形で使われ、evidence, information, talent, housing, resources などと相性がよい。paucity が数量の少なさをやや客観的・学術的に述べるのに対し、dearth は不足が問題になっているという含みを持ちやすい。",
+    "en": "Dearth means a serious or notable lack of something that is needed, expected, or desired. It is typically used in the phrase a dearth of and often carries a stronger sense of problematic insufficiency than paucity."
+  },
+  "minimal": {
+    "ja": [
+      "dearth：必要・望まれるものが著しく不足していること。",
+      "paucity：量・数が少なすぎること。より客観的・フォーマル。",
+      "scarcity：需要に対して供給が乏しい状態。",
+      "shortage：具体的な供給不足。しばしば一時的。",
+      "lack：不足・欠如を表す最も一般的な語。",
+      "abundance：豊富さ。dearth の対概念。"
+    ],
+    "en": [
+      "dearth means a serious lack of something needed or desired.",
+      "paucity emphasizes an inadequately small amount or number.",
+      "scarcity emphasizes limited supply relative to demand or need.",
+      "shortage is a concrete supply shortfall, often temporary.",
+      "lack is the broad general term for absence or insufficiency.",
+      "abundance is the contrasting idea of plentiful supply."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 dēorþu『高価であること、物価高、欠乏』に由来し、dear『高価な』と同語族。もともとは『物が不足して高価になる状態』を指し、そこから一般的な『不足・欠乏』の意味へ発展した。",
+    "en": "From Old English dēorþu, meaning 'dearness, high price, or scarcity', and related to dear in its older sense of 'expensive'. The semantic path was from shortage causing high prices to the broader modern meaning of serious lack."
+  },
+  "synonyms": [
+    {
+      "word": "paucity",
+      "note": {
+        "ja": "量や数が不十分なほど少ないこと。dearth よりやや客観的・学術的。",
+        "en": "A formal term for an inadequately small amount or number, often more neutral than dearth."
+      }
+    },
+    {
+      "word": "scarcity",
+      "note": {
+        "ja": "資源・供給が需要に対して不足している状態。",
+        "en": "Limited supply relative to need or demand."
+      }
+    },
+    {
+      "word": "shortage",
+      "note": {
+        "ja": "具体的な供給不足。食料・人材・住宅などによく使う。",
+        "en": "A concrete shortfall in supply, often used for goods, labor, or housing."
+      }
+    },
+    {
+      "word": "lack",
+      "note": {
+        "ja": "不足・欠如を表す最も一般的で幅広い語。",
+        "en": "The broadest general word for absence or insufficiency."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Mangel",
+    "it": "carenza / penuria",
+    "fr": "pénurie / manque",
+    "es": "escasez / carencia"
+  },
+  "collocations": {
+    "ja": [
+      "a dearth of evidence — 証拠の著しい不足",
+      "a dearth of information — 情報不足",
+      "a dearth of data — データ不足",
+      "a dearth of qualified workers — 有資格労働者の不足",
+      "a dearth of affordable housing — 手頃な住宅の不足",
+      "a dearth of resources — 資源不足",
+      "a dearth of investment — 投資不足",
+      "a dearth of research — 研究の不足",
+      "a dearth of talent — 人材不足",
+      "suffer from a dearth of something — ～の不足に悩む"
+    ],
+    "en": [
+      "a dearth of evidence",
+      "a dearth of information",
+      "a dearth of data",
+      "a dearth of qualified workers",
+      "a dearth of affordable housing",
+      "a dearth of resources",
+      "a dearth of investment",
+      "a dearth of research",
+      "a dearth of talent",
+      "suffer from a dearth of something"
+    ]
+  },
+  "example": {
+    "ja": [
+      "There is a dearth of reliable evidence to support the claim. — その主張を裏づける信頼できる証拠が著しく不足している。",
+      "The industry is facing a dearth of skilled workers. — その業界は熟練労働者の不足に直面している。",
+      "A dearth of affordable housing has pushed rents higher. — 手頃な住宅の不足が家賃を押し上げている。",
+      "The report highlights a dearth of research in this area. — その報告書はこの分野における研究不足を指摘している。",
+      "The region suffers from a dearth of medical specialists. — その地域は医療専門家の不足に悩んでいる。"
+    ],
+    "en": [
+      "There is a dearth of reliable evidence to support the claim.",
+      "The industry is facing a dearth of skilled workers.",
+      "A dearth of affordable housing has pushed rents higher.",
+      "The report highlights a dearth of research in this area.",
+      "The region suffers from a dearth of medical specialists."
+    ]
+  }
+},
+{
+  "id": "shortage",
+  "sid": "2026-00603",
+  "word": "shortage",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "quantity",
+    "supply",
+    "economics",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "shortages"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈʃɔːrtɪdʒ/",
+      "uk": "/ˈʃɔːtɪdʒ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "不足、欠乏",
+      "供給不足",
+      "必要量に対して足りない状態"
+    ],
+    "en": [
+      "a situation in which there is not enough of something",
+      "an insufficient supply of something needed or demanded",
+      "a shortfall between available supply and required quantity"
+    ]
+  },
+  "nuance": {
+    "ja": "shortage は、必要とされる量に対して実際の供給が足りない具体的な状況を表す。food shortage, labor shortage, housing shortage, chip shortage のように、商品・人材・住宅など幅広い対象に使える。scarcity がより構造的・経済学的な『希少性』を表せるのに対し、shortage は特定の時期や市場で生じる現実的な不足を表すことが多い。",
+    "en": "Shortage refers to a concrete situation in which the available supply of something is insufficient relative to need or demand. It is common with goods, labor, housing, energy, and other practical resources. Compared with scarcity, which can describe a broader structural condition, shortage often refers to a specific and sometimes temporary supply problem."
+  },
+  "minimal": {
+    "ja": [
+      "shortage：必要量に対して供給が足りない具体的な不足。",
+      "scarcity：資源が需要に対して限られている構造的な希少性。",
+      "dearth：必要なものが著しく不足していること。",
+      "paucity：量・数そのものが少なすぎること。",
+      "lack：不足・欠如を表す最も一般的な語。",
+      "surplus：必要量を超えて余っている状態。shortage の対概念。"
+    ],
+    "en": [
+      "shortage is a concrete shortfall in supply relative to need.",
+      "scarcity is a broader structural condition of limited supply.",
+      "dearth is a serious lack of something needed or desired.",
+      "paucity emphasizes an inadequately small amount or number.",
+      "lack is the broad general word for absence or insufficiency.",
+      "surplus is an amount beyond what is needed and contrasts with shortage."
+    ]
+  },
+  "etymology": {
+    "ja": "short『短い、不足した』＋ -age からできた語。short はもともと長さが短いことを表すが、そこから『必要量に届かない、不十分な』という意味へ広がり、shortage は『足りない状態』を表すようになった。",
+    "en": "Formed from short plus the noun-forming suffix -age. Short originally referred to limited length, but it developed the broader sense of falling below what is required, giving shortage the meaning of an insufficient amount or supply."
+  },
+  "synonyms": [
+    {
+      "word": "scarcity",
+      "note": {
+        "ja": "供給が根本的・構造的に限られている状態を表しやすい。",
+        "en": "Often describes a broader or structural condition of limited supply."
+      }
+    },
+    {
+      "word": "deficit",
+      "note": {
+        "ja": "必要量・予定量に対して不足している数値的な差額に重点。",
+        "en": "Emphasizes a measurable shortfall relative to a required or expected amount."
+      }
+    },
+    {
+      "word": "lack",
+      "note": {
+        "ja": "不足・欠如を表す最も一般的で幅広い語。",
+        "en": "The broadest general term for absence or insufficiency."
+      }
+    },
+    {
+      "word": "dearth",
+      "note": {
+        "ja": "必要なものが著しく不足していることを表す、ややフォーマルな語。",
+        "en": "A somewhat formal term for a serious lack of something needed or desired."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Mangel / Engpass",
+    "it": "carenza / scarsità",
+    "fr": "pénurie / manque",
+    "es": "escasez / falta"
+  },
+  "collocations": {
+    "ja": [
+      "a labor shortage — 労働力不足",
+      "a staff shortage — 人員不足",
+      "a housing shortage — 住宅不足",
+      "a food shortage — 食料不足",
+      "a water shortage — 水不足",
+      "an energy shortage — エネルギー不足",
+      "a supply shortage — 供給不足",
+      "a chip shortage — 半導体不足",
+      "a shortage of skilled workers — 熟練労働者不足",
+      "face a shortage — 不足に直面する",
+      "ease a shortage — 不足を緩和する",
+      "cause a shortage — 不足を引き起こす"
+    ],
+    "en": [
+      "a labor shortage",
+      "a staff shortage",
+      "a housing shortage",
+      "a food shortage",
+      "a water shortage",
+      "an energy shortage",
+      "a supply shortage",
+      "a chip shortage",
+      "a shortage of skilled workers",
+      "face a shortage",
+      "ease a shortage",
+      "cause a shortage"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The industry is facing a severe shortage of skilled workers. — その業界は深刻な熟練労働者不足に直面している。",
+      "A prolonged drought caused a serious water shortage. — 長引く干ばつによって深刻な水不足が発生した。",
+      "The housing shortage has pushed rents higher. — 住宅不足によって家賃が上昇している。",
+      "Hospitals are struggling with staff shortages. — 病院は人員不足に苦しんでいる。",
+      "The supply shortage is expected to ease later this year. — その供給不足は今年後半に緩和すると予想されている。"
+    ],
+    "en": [
+      "The industry is facing a severe shortage of skilled workers.",
+      "A prolonged drought caused a serious water shortage.",
+      "The housing shortage has pushed rents higher.",
+      "Hospitals are struggling with staff shortages.",
+      "The supply shortage is expected to ease later this year."
+    ]
+  }
+},
+{
+  "id": "surplus",
+  "sid": "2026-00604",
+  "word": "surplus",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "quantity",
+    "economics",
+    "finance",
+    "supply"
+  ],
+  "grammar": {
+    "pos": "noun / adjective",
+    "countability": "countable / uncountable depending on context",
+    "plural": "surpluses"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsɝːpləs/",
+      "uk": "/ˈsɜːpləs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "余剰、余り",
+      "必要量・需要を超えた分",
+      "収入が支出を上回る黒字",
+      "余っている、余剰の"
+    ],
+    "en": [
+      "an amount that is more than what is needed or used",
+      "an excess of supply over demand",
+      "an excess of income over expenditure",
+      "more than is required or necessary"
+    ]
+  },
+  "nuance": {
+    "ja": "surplus は『必要量・需要・支出などを超えて余った分』を表す。単に多いというより、基準となる必要量を上回っていることがポイント。経済では supply surplus『供給過剰』、財政では budget surplus『財政黒字』、貿易では trade surplus『貿易黒字』のように非常によく使われる。形容詞として surplus food, surplus equipment のように『余剰の』という意味でも使える。",
+    "en": "Surplus refers to an amount left over because supply, income, or available quantity exceeds what is needed, demanded, or spent. The key idea is excess relative to a reference point. It is common in economics and finance, as in budget surplus, trade surplus, and surplus supply, and it can also function as an adjective."
+  },
+  "minimal": {
+    "ja": [
+      "surplus：必要量を超えて余った分。",
+      "shortage：必要量に対して供給が足りない状態。",
+      "excess：適切・望ましい量を超えた過剰。否定的になりやすい。",
+      "abundance：豊富さ。必ずしも余剰ではない。",
+      "oversupply：需要を超える供給過剰。",
+      "deficit：必要量・収入などに対する不足・赤字。"
+    ],
+    "en": [
+      "surplus is an amount beyond what is needed or demanded.",
+      "shortage is an insufficient supply relative to need.",
+      "excess is more than is appropriate or desirable and often sounds negative.",
+      "abundance means plentiful supply without necessarily implying leftovers.",
+      "oversupply specifically means supply exceeding demand.",
+      "deficit is a shortfall relative to a required or expected amount."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 surplus『余り、残り』を経て、ラテン語 super『上に、超えて』＋ plus『より多く』に由来する。文字どおりには『必要なものを超えてさらに多いもの』という成り立ち。",
+    "en": "From Old French surplus, ultimately from Latin super ('over, above') and plus ('more'). The literal idea is 'more beyond what is required'."
+  },
+  "synonyms": [
+    {
+      "word": "excess",
+      "note": {
+        "ja": "必要・適切な量を超えた過剰。surplus より否定的な含みを持ちやすい。",
+        "en": "An amount beyond what is appropriate or desirable, often more negative than surplus."
+      }
+    },
+    {
+      "word": "remainder",
+      "note": {
+        "ja": "使った後に残ったもの。必ずしも需要超過による余剰ではない。",
+        "en": "What remains after part has been used or removed, without necessarily implying oversupply."
+      }
+    },
+    {
+      "word": "oversupply",
+      "note": {
+        "ja": "需要を上回る供給過剰。",
+        "en": "A supply greater than demand."
+      }
+    },
+    {
+      "word": "excess supply",
+      "note": {
+        "ja": "経済学で、供給量が需要量を上回る状態。",
+        "en": "An economic condition in which quantity supplied exceeds quantity demanded."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Überschuss",
+    "it": "surplus / eccedenza",
+    "fr": "excédent / surplus",
+    "es": "superávit / excedente"
+  },
+  "collocations": {
+    "ja": [
+      "a budget surplus — 財政黒字",
+      "a trade surplus — 貿易黒字",
+      "a current account surplus — 経常黒字",
+      "a surplus of food — 食料の余剰",
+      "a surplus of labor — 労働力の余剰",
+      "surplus supply — 余剰供給",
+      "surplus capacity — 余剰生産能力",
+      "surplus funds — 余剰資金",
+      "surplus inventory — 余剰在庫",
+      "surplus equipment — 余剰設備・余剰機材",
+      "generate a surplus — 黒字・余剰を生み出す",
+      "run a surplus — 黒字になる"
+    ],
+    "en": [
+      "a budget surplus",
+      "a trade surplus",
+      "a current account surplus",
+      "a surplus of food",
+      "a surplus of labor",
+      "surplus supply",
+      "surplus capacity",
+      "surplus funds",
+      "surplus inventory",
+      "surplus equipment",
+      "generate a surplus",
+      "run a surplus"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The country recorded a large trade surplus last year. — その国は昨年、大幅な貿易黒字を記録した。",
+      "The farm sold its surplus produce to neighboring towns. — その農場は余った農産物を近隣の町に販売した。",
+      "A surplus of supply can push prices downward. — 供給の余剰は価格を押し下げることがある。",
+      "The government used the budget surplus to reduce debt. — 政府は財政黒字を債務削減に充てた。",
+      "The company is trying to sell surplus inventory before the end of the year. — その会社は年末までに余剰在庫を売却しようとしている。"
+    ],
+    "en": [
+      "The country recorded a large trade surplus last year.",
+      "The farm sold its surplus produce to neighboring towns.",
+      "A surplus of supply can push prices downward.",
+      "The government used the budget surplus to reduce debt.",
+      "The company is trying to sell surplus inventory before the end of the year."
+    ]
+  }
+},
+{
+  "id": "deficit",
+  "sid": "2026-00605",
+  "word": "deficit",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "finance",
+    "economics",
+    "quantity",
+    "shortfall"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "deficits"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdefɪsɪt/",
+      "uk": "/ˈdefɪsɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "赤字、収支不足",
+      "不足額、欠損",
+      "必要量・期待値に対して足りない分"
+    ],
+    "en": [
+      "the amount by which expenditure exceeds income",
+      "the amount by which something falls short of what is required or expected",
+      "a financial or quantitative shortfall"
+    ]
+  },
+  "nuance": {
+    "ja": "deficit は『必要な量・基準値・収入などに対して足りない差』に焦点を当てる語。budget deficit, trade deficit のような財政・経済用語で非常によく使われるほか、sleep deficit, calorie deficit など『必要量に届いていない状態』にも使われる。shortage が物や人員の供給不足そのものを指しやすいのに対し、deficit は不足分を数値的・比較的に捉えるニュアンスが強い。",
+    "en": "Deficit emphasizes a measurable shortfall relative to a required, expected, or balanced amount. It is especially common in finance and economics, as in budget deficit and trade deficit, but also appears in expressions such as sleep deficit and calorie deficit. Compared with shortage, deficit more strongly suggests the gap between what is available and what is required."
+  },
+  "minimal": {
+    "ja": [
+      "deficit：基準・必要量に対して足りない差額や不足分。",
+      "shortage：物・人員などの具体的な供給不足。",
+      "shortfall：目標・期待値に届かなかった不足分。",
+      "scarcity：資源が需要に対して限られている状態。",
+      "debt：借りて返済義務のある金額。deficit とは別概念。",
+      "surplus：必要量や収入を超えた余剰・黒字。deficit の対概念。"
+    ],
+    "en": [
+      "deficit is a measurable gap below a required or balanced amount.",
+      "shortage is a concrete lack of available supply.",
+      "shortfall is an amount by which a target or expectation is missed.",
+      "scarcity is a broader condition of limited resources relative to demand.",
+      "debt is money owed and is distinct from a deficit.",
+      "surplus is the amount above what is required and contrasts with deficit."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 deficit『それは不足している』に由来し、動詞 deficere『不足する、欠ける、失敗する』の三人称単数形。de-『離れて、下へ』＋ facere『作る、行う』にさかのぼる。英語では『必要量に達していないもの』という意味に発展した。",
+    "en": "From Latin deficit, meaning 'it is lacking', the third-person singular form of deficere, 'to fail, lack, or fall short'. Deficere ultimately combines de- with facere, 'to make or do'."
+  },
+  "synonyms": [
+    {
+      "word": "shortfall",
+      "note": {
+        "ja": "目標値・必要量・予想値に達しなかった不足分。",
+        "en": "The amount by which a target, requirement, or expectation is missed."
+      }
+    },
+    {
+      "word": "shortage",
+      "note": {
+        "ja": "供給不足そのものを表し、物資・人員などに特によく使う。",
+        "en": "A lack of available supply, especially of goods, resources, or workers."
+      }
+    },
+    {
+      "word": "deficiency",
+      "note": {
+        "ja": "必要な質・量・成分などが足りない状態。",
+        "en": "A lack of something necessary in quality, quantity, or composition."
+      }
+    },
+    {
+      "word": "lack",
+      "note": {
+        "ja": "不足・欠如を表す最も一般的な語。",
+        "en": "The broad general term for absence or insufficiency."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Defizit",
+    "it": "deficit",
+    "fr": "déficit",
+    "es": "déficit"
+  },
+  "collocations": {
+    "ja": [
+      "a budget deficit — 財政赤字",
+      "a trade deficit — 貿易赤字",
+      "a fiscal deficit — 財政赤字",
+      "a current account deficit — 経常赤字",
+      "a spending deficit — 支出に対する不足",
+      "a revenue deficit — 歳入不足",
+      "a calorie deficit — カロリー不足",
+      "a sleep deficit — 睡眠不足",
+      "run a deficit — 赤字になる",
+      "reduce the deficit — 赤字を削減する",
+      "finance a deficit — 赤字を資金調達で埋める",
+      "a growing deficit — 拡大する赤字"
+    ],
+    "en": [
+      "a budget deficit",
+      "a trade deficit",
+      "a fiscal deficit",
+      "a current account deficit",
+      "a spending deficit",
+      "a revenue deficit",
+      "a calorie deficit",
+      "a sleep deficit",
+      "run a deficit",
+      "reduce the deficit",
+      "finance a deficit",
+      "a growing deficit"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The government is trying to reduce the budget deficit. — 政府は財政赤字を削減しようとしている。",
+      "The country recorded a large trade deficit last year. — その国は昨年、大幅な貿易赤字を記録した。",
+      "The company is running a deficit because its expenses exceed its revenue. — その会社は支出が収入を上回っているため赤字になっている。",
+      "A persistent sleep deficit can impair concentration. — 慢性的な睡眠不足は集中力を低下させることがある。",
+      "The project faces a funding deficit of several million dollars. — そのプロジェクトは数百万ドルの資金不足に直面している。"
+    ],
+    "en": [
+      "The government is trying to reduce the budget deficit.",
+      "The country recorded a large trade deficit last year.",
+      "The company is running a deficit because its expenses exceed its revenue.",
+      "A persistent sleep deficit can impair concentration.",
+      "The project faces a funding deficit of several million dollars."
+    ]
+  }
+},
+{
+  "id": "myriad",
+  "sid": "2026-00606",
+  "word": "myriad",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "quantity",
+    "abundance",
+    "formal",
+    "literary"
+  ],
+  "grammar": {
+    "pos": "noun / adjective",
+    "countability": "countable as a noun",
+    "plural": "myriads"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈmɪriəd/",
+      "uk": "/ˈmɪriəd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "無数、多数",
+      "非常に多数のもの",
+      "無数の、非常に多くの"
+    ],
+    "en": [
+      "an extremely large number of people or things",
+      "a countless or very large quantity",
+      "extremely numerous or varied"
+    ]
+  },
+  "nuance": {
+    "ja": "myriad は『数えきれないほど多い』という印象を与えるやや文語的・洗練された語。名詞では a myriad of possibilities のように使い、形容詞では myriad possibilities のように of を使わず直接名詞を修飾できる。現代英語では両方とも標準的。plethora がしばしば過剰さを含むのに対し、myriad は単に非常に多数であることを強調する。",
+    "en": "Myriad is a somewhat elevated word emphasizing an extremely large or seemingly countless number. It can be used as a noun in a myriad of possibilities or directly as an adjective in myriad possibilities. Both constructions are standard in modern English. Unlike plethora, myriad does not inherently imply excess."
+  },
+  "minimal": {
+    "ja": [
+      "myriad：無数の、非常に多数の。",
+      "plethora：非常に多く、しばしば多すぎるほどの量。",
+      "abundance：豊富さを表す中立的な語。",
+      "multitude：非常に多数の人・物。数に重点。",
+      "countless：数えきれないほど多い。",
+      "profusion：あふれ出すような豊富さ。"
+    ],
+    "en": [
+      "myriad emphasizes an extremely large or seemingly countless number.",
+      "plethora often suggests an excessive abundance.",
+      "abundance is a broad neutral term for plentiful supply.",
+      "multitude emphasizes a very large number of people or things.",
+      "countless means too many to count.",
+      "profusion suggests rich or overflowing abundance."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 myrias『一万、非常に多数』に由来する。古代ギリシャ語では myrioi が文字どおり『一万』を表すこともあり、そこから『数えきれないほど多い』という比喩的意味へ発展した。",
+    "en": "From Greek myrias, meaning 'ten thousand' or 'a countless number'. In ancient Greek, related forms could literally denote ten thousand, and the word later developed the figurative sense of an immense or countless number."
+  },
+  "synonyms": [
+    {
+      "word": "countless",
+      "note": {
+        "ja": "数え切れないほど多いことを直接表す形容詞。",
+        "en": "An adjective directly meaning too numerous to count."
+      }
+    },
+    {
+      "word": "multitude",
+      "note": {
+        "ja": "非常に多数の人・物を表し、個々の数の多さに重点。",
+        "en": "Emphasizes a very large number of individual people or things."
+      }
+    },
+    {
+      "word": "plethora",
+      "note": {
+        "ja": "非常に多いことを表すが、過剰という含みを持つことがある。",
+        "en": "Means a very large amount and may suggest excess."
+      }
+    },
+    {
+      "word": "host",
+      "note": {
+        "ja": "a host of の形で『多数の』。myriad よりやや一般的。",
+        "en": "Used in a host of to mean a large number and is somewhat more general."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Myriade / unzählige",
+    "it": "miriade",
+    "fr": "myriade",
+    "es": "miríada"
+  },
+  "collocations": {
+    "ja": [
+      "a myriad of possibilities — 無数の可能性",
+      "a myriad of options — 非常に多くの選択肢",
+      "a myriad of factors — 無数の要因",
+      "a myriad of problems — 数多くの問題",
+      "a myriad of reasons — 数え切れないほどの理由",
+      "myriad forms — 無数の形態",
+      "myriad ways — 無数の方法",
+      "myriad challenges — 数多くの課題",
+      "myriad colors — 無数の色",
+      "in myriad ways — 無数の方法で"
+    ],
+    "en": [
+      "a myriad of possibilities",
+      "a myriad of options",
+      "a myriad of factors",
+      "a myriad of problems",
+      "a myriad of reasons",
+      "myriad forms",
+      "myriad ways",
+      "myriad challenges",
+      "myriad colors",
+      "in myriad ways"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The decision was influenced by a myriad of factors. — その決定には無数の要因が影響していた。",
+      "The city offers myriad opportunities for young professionals. — その都市は若い専門職に非常に多くの機会を提供している。",
+      "There are a myriad of ways to approach the problem. — その問題への取り組み方は無数にある。",
+      "The forest is home to myriad species of insects. — その森には無数の昆虫種が生息している。",
+      "Technology has changed daily life in myriad ways. — テクノロジーは日常生活を無数の形で変えてきた。"
+    ],
+    "en": [
+      "The decision was influenced by a myriad of factors.",
+      "The city offers myriad opportunities for young professionals.",
+      "There are a myriad of ways to approach the problem.",
+      "The forest is home to myriad species of insects.",
+      "Technology has changed daily life in myriad ways."
+    ]
+  }
+}
 ]
