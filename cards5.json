@@ -9786,5 +9786,1257 @@
       "Fighting resumed only hours after the ceasefire was announced."
     ]
   }
+},
+{
+  "id": "armistice",
+  "sid": "2026-00570",
+  "word": "armistice",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "war",
+    "diplomacy",
+    "agreement",
+    "history",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "armistices"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɑːrmɪstɪs/",
+      "uk": "/ˈɑːmɪstɪs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "休戦協定",
+      "交戦当事者間の正式な戦闘停止合意",
+      "戦争を終結または中断するための軍事的合意"
+    ],
+    "en": [
+      "a formal agreement between opposing sides to stop fighting",
+      "an official suspension of hostilities between belligerents",
+      "a military agreement that halts fighting, often as a step toward peace"
+    ]
+  },
+  "nuance": {
+    "ja": "armistice は、単なる戦闘停止ではなく、交戦当事者が正式に合意して敵対行為を停止することを表す。ceasefire より制度的・外交的・歴史的な響きが強い。一方、armistice 自体は必ずしも戦争を法的・恒久的に終結させる peace treaty ではなく、戦闘停止後に和平条約が別途締結されることもある。",
+    "en": "Armistice refers to a formal agreement between belligerents to suspend hostilities. It is more institutional, diplomatic, and historically formal than ceasefire. An armistice does not necessarily constitute a final peace treaty; a separate peace settlement may follow."
+  },
+  "minimal": {
+    "ja": [
+      "armistice：正式な軍事的休戦協定。",
+      "ceasefire：戦闘・砲撃などを停止すること。正式性は必須ではない。",
+      "truce：敵対する当事者が一時的に争いをやめる合意。",
+      "peace treaty：戦争状態を正式に終結させる和平条約。",
+      "cessation of hostilities：敵対行為の停止を表す非常にフォーマルな表現。",
+      "peace：戦争・敵対関係がない状態。"
+    ],
+    "en": [
+      "armistice is a formal military agreement suspending hostilities.",
+      "ceasefire focuses on the stopping of fighting and need not be as formal.",
+      "truce is a temporary agreement to suspend hostility.",
+      "peace treaty formally settles or ends a state of war.",
+      "cessation of hostilities is a highly formal expression for the stopping of combat.",
+      "peace is the broader state in which war or hostility is absent."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 armistice を経て、近代ラテン語 armistitium に由来する。arma『武器』＋ sistere『止める、停止させる』から成り、文字どおりには『武器を止めること』。したがって ceasefire と似た発想だが、こちらはラテン語系の非常にフォーマルな語。",
+    "en": "From French armistice, ultimately from modern Latin armistitium, formed from arma ('arms, weapons') and sistere ('to cause to stand, stop'). The literal sense is therefore 'a stopping of arms'."
+  },
+  "synonyms": [
+    {
+      "word": "ceasefire",
+      "note": {
+        "ja": "戦闘停止を表す最も近い語だが、armistice より広く、一時的・非公式な停止にも使える。",
+        "en": "The closest general term, but broader and usable for temporary or less formal suspensions of fighting."
+      }
+    },
+    {
+      "word": "truce",
+      "note": {
+        "ja": "一時的に敵対行為をやめる合意。軍事以外の争いにも使える。",
+        "en": "A temporary agreement to stop hostility and can also be used for nonmilitary disputes."
+      }
+    },
+    {
+      "word": "cessation of hostilities",
+      "note": {
+        "ja": "敵対行為の停止を表す外交・法律上の非常にフォーマルな表現。",
+        "en": "A highly formal diplomatic or legal expression for stopping hostile military action."
+      }
+    },
+    {
+      "word": "suspension of hostilities",
+      "note": {
+        "ja": "敵対行為の一時停止。armistice の説明にも使われる表現。",
+        "en": "A formal expression for a temporary halt in hostilities."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Waffenstillstand",
+    "it": "armistizio",
+    "fr": "armistice",
+    "es": "armisticio"
+  },
+  "collocations": {
+    "ja": [
+      "sign an armistice — 休戦協定に署名する",
+      "agree to an armistice — 休戦協定に合意する",
+      "negotiate an armistice — 休戦協定を交渉する",
+      "conclude an armistice — 休戦協定を締結する",
+      "an armistice agreement — 休戦協定",
+      "armistice negotiations — 休戦交渉",
+      "armistice talks — 休戦協議",
+      "the terms of the armistice — 休戦条件",
+      "an armistice line — 休戦ライン、軍事境界線",
+      "violate the armistice — 休戦協定に違反する",
+      "Armistice Day — 休戦記念日"
+    ],
+    "en": [
+      "sign an armistice",
+      "agree to an armistice",
+      "negotiate an armistice",
+      "conclude an armistice",
+      "an armistice agreement",
+      "armistice negotiations",
+      "armistice talks",
+      "the terms of the armistice",
+      "an armistice line",
+      "violate the armistice",
+      "Armistice Day"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The two sides signed an armistice that brought the fighting to an end. — 両陣営は戦闘を停止させる休戦協定に署名した。",
+      "The armistice took effect at eleven o'clock. — 休戦協定は11時に発効した。",
+      "Negotiations for an armistice continued for several weeks. — 休戦協定をめぐる交渉は数週間続いた。",
+      "The armistice halted the fighting but did not formally end the war. — 休戦協定によって戦闘は停止したが、戦争そのものが正式に終結したわけではなかった。",
+      "Both sides accused the other of violating the terms of the armistice. — 双方が相手側を休戦協定の条件に違反したと非難した。"
+    ],
+    "en": [
+      "The two sides signed an armistice that brought the fighting to an end.",
+      "The armistice took effect at eleven o'clock.",
+      "Negotiations for an armistice continued for several weeks.",
+      "The armistice halted the fighting but did not formally end the war.",
+      "Both sides accused the other of violating the terms of the armistice."
+    ]
+  }
+},
+{
+  "id": "solstice",
+  "sid": "2026-00571",
+  "word": "solstice",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "astronomy",
+    "seasons",
+    "nature",
+    "etymology"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "solstices"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsɑːlstɪs/",
+      "uk": "/ˈsɒlstɪs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "至点",
+      "夏至または冬至",
+      "太陽の見かけ上の位置が最も北または南に達する時点"
+    ],
+    "en": [
+      "either of the two times of year when the Sun reaches its most northerly or southerly position relative to the celestial equator",
+      "the summer or winter solstice",
+      "the astronomical point marking an extreme in the Sun's apparent annual north-south movement"
+    ]
+  },
+  "nuance": {
+    "ja": "solstice は一年に2回あり、summer solstice と winter solstice を総称する語。日常的には『夏至』『冬至』を指すが、天文学的には太陽の見かけ上の位置が最も北または南に達する瞬間を指す。equinox『春分・秋分』と対になる重要語。",
+    "en": "A solstice occurs twice each year: the summer solstice and the winter solstice. In everyday use it refers to those seasonal turning points, while astronomically it is the moment when the Sun reaches its greatest apparent northward or southward position. It contrasts with equinox."
+  },
+  "minimal": {
+    "ja": [
+      "solstice：夏至・冬至。太陽の見かけ上の南北移動が極点に達する時。",
+      "summer solstice：夏至。昼が一年で最も長くなる時期。",
+      "winter solstice：冬至。昼が一年で最も短くなる時期。",
+      "equinox：春分・秋分。昼夜の長さがほぼ等しくなる時期。",
+      "season：季節一般。",
+      "turning point：転換点。比喩的な一般語。"
+    ],
+    "en": [
+      "solstice is either the summer or winter seasonal astronomical turning point.",
+      "summer solstice marks the longest day of the year in a hemisphere.",
+      "winter solstice marks the shortest day of the year in a hemisphere.",
+      "equinox is the time when day and night are approximately equal in length.",
+      "season is the broad general term for a division of the year.",
+      "turning point is a general figurative term for a moment of change."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 solstitium に由来し、sol『太陽』＋ sistere『立ち止まる、止める』から成る。夏至・冬至の頃、太陽の正午高度や日の出・日の入り位置の変化がいったん止まり、方向を反転するように見えることから『太陽が止まる』という名が付いた。armistice の -stice も同じ sistere 系。",
+    "en": "From Latin solstitium, formed from sol ('sun') and sistere ('to cause to stand, stand still'). Around a solstice, the Sun's apparent north-south movement seems to pause before reversing direction. The -stice element is historically related to the same Latin verb seen in armistice."
+  },
+  "synonyms": [
+    {
+      "word": "turning point",
+      "note": {
+        "ja": "季節的・比喩的な転換点を表せるが、天文学用語ではない。",
+        "en": "Can describe a seasonal or figurative point of change but is not an astronomical synonym."
+      }
+    },
+    {
+      "word": "midsummer",
+      "note": {
+        "ja": "夏至頃の時期を指すことがあるが、solstice と完全な同義ではない。",
+        "en": "Can refer to the period around the summer solstice, but is not exactly synonymous."
+      }
+    },
+    {
+      "word": "midwinter",
+      "note": {
+        "ja": "冬の中頃を指し、冬至付近を連想させるが厳密には別概念。",
+        "en": "Refers to the middle of winter and may be associated with the winter solstice, but is not identical."
+      }
+    },
+    {
+      "word": "equinox",
+      "note": {
+        "ja": "同義語ではなく対概念。春分・秋分を表す。",
+        "en": "Not a synonym but the key contrasting astronomical term, referring to the spring or autumn equinox."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Sonnenwende",
+    "it": "solstizio",
+    "fr": "solstice",
+    "es": "solsticio"
+  },
+  "collocations": {
+    "ja": [
+      "summer solstice — 夏至",
+      "winter solstice — 冬至",
+      "the June solstice — 6月の至点",
+      "the December solstice — 12月の至点",
+      "at the solstice — 夏至・冬至の時点で",
+      "around the solstice — 夏至・冬至の頃に",
+      "solstice celebrations — 夏至・冬至の祭典",
+      "solstice festival — 夏至・冬至祭",
+      "mark the solstice — 夏至・冬至を祝う・記念する"
+    ],
+    "en": [
+      "summer solstice",
+      "winter solstice",
+      "the June solstice",
+      "the December solstice",
+      "at the solstice",
+      "around the solstice",
+      "solstice celebrations",
+      "solstice festival",
+      "mark the solstice"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The summer solstice marks the longest day of the year in the Northern Hemisphere. — 北半球では夏至が一年で最も昼の長い日を示す。",
+      "Many cultures hold festivals around the winter solstice. — 多くの文化では冬至の頃に祭りが行われる。",
+      "After the summer solstice, the days gradually become shorter. — 夏至を過ぎると、昼の長さは徐々に短くなる。",
+      "The monument is aligned with the sunrise at the solstice. — その遺跡は夏至または冬至の日の出の方向に合わせて配置されている。",
+      "The June solstice occurs when the Sun reaches its northernmost apparent position. — 6月の至点は、太陽が見かけ上最も北に達するときに起こる。"
+    ],
+    "en": [
+      "The summer solstice marks the longest day of the year in the Northern Hemisphere.",
+      "Many cultures hold festivals around the winter solstice.",
+      "After the summer solstice, the days gradually become shorter.",
+      "The monument is aligned with the sunrise at the solstice.",
+      "The June solstice occurs when the Sun reaches its northernmost apparent position."
+    ]
+  }
+},
+{
+  "id": "equinox",
+  "sid": "2026-00572",
+  "word": "equinox",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "astronomy",
+    "seasons",
+    "nature",
+    "etymology"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "equinoxes"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈiːkwəˌnɑːks/",
+      "uk": "/ˈiːkwɪˌnɒks/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "分点",
+      "春分または秋分",
+      "太陽が天の赤道を横切る時点"
+    ],
+    "en": [
+      "either of the two times of year when the Sun crosses the celestial equator",
+      "the spring or autumn equinox",
+      "the astronomical event associated with nearly equal lengths of day and night"
+    ]
+  },
+  "nuance": {
+    "ja": "equinox は一年に2回あり、春分と秋分を総称する。日常的には『昼と夜の長さがほぼ同じになる日』として説明されることが多いが、天文学的には太陽の中心が天の赤道を横切る瞬間を指す。solstice『夏至・冬至』と対になる基本語。",
+    "en": "An equinox occurs twice a year, in spring and autumn. It is commonly described as the time when day and night are approximately equal in length, but astronomically it is the moment when the center of the Sun crosses the celestial equator. It contrasts with solstice."
+  },
+  "minimal": {
+    "ja": [
+      "equinox：春分・秋分。太陽が天の赤道を横切る時。",
+      "spring equinox：春分。",
+      "autumn equinox：秋分。",
+      "vernal equinox：春分のより専門的・伝統的な呼び方。",
+      "autumnal equinox：秋分のより専門的・伝統的な呼び方。",
+      "solstice：夏至・冬至。太陽の見かけ上の南北位置が極点に達する時。"
+    ],
+    "en": [
+      "equinox is either the spring or autumn event when the Sun crosses the celestial equator.",
+      "spring equinox is the equinox occurring in spring.",
+      "autumn equinox is the equinox occurring in autumn.",
+      "vernal equinox is the traditional astronomical term for the spring equinox.",
+      "autumnal equinox is the traditional term for the autumn equinox.",
+      "solstice is the summer or winter turning point in the Sun's apparent north-south movement."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 aequinoctium に由来し、aequus『等しい』＋ nox, noctis『夜』から成る。文字どおりには『等しい夜』という意味で、春分・秋分の頃に昼と夜の長さがほぼ等しくなることから名付けられた。equal の equ- と nocturnal の noct- が同じ語源要素。",
+    "en": "From Latin aequinoctium, formed from aequus ('equal') and nox, noctis ('night'). The literal meaning is 'equal night', referring to the approximate equality of day and night around an equinox. The elements are related to English equal and nocturnal."
+  },
+  "synonyms": [
+    {
+      "word": "vernal equinox",
+      "note": {
+        "ja": "春分を指す天文学的・伝統的表現。",
+        "en": "The traditional astronomical term for the spring equinox."
+      }
+    },
+    {
+      "word": "autumnal equinox",
+      "note": {
+        "ja": "秋分を指す天文学的・伝統的表現。",
+        "en": "The traditional astronomical term for the autumn equinox."
+      }
+    },
+    {
+      "word": "spring equinox",
+      "note": {
+        "ja": "春分を表す分かりやすい一般的表現。",
+        "en": "A transparent everyday term for the equinox occurring in spring."
+      }
+    },
+    {
+      "word": "solstice",
+      "note": {
+        "ja": "同義語ではなく対概念。夏至・冬至を表す。",
+        "en": "Not a synonym but the main contrasting astronomical term, referring to the summer or winter solstice."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Tagundnachtgleiche / Äquinoktium",
+    "it": "equinozio",
+    "fr": "équinoxe",
+    "es": "equinoccio"
+  },
+  "collocations": {
+    "ja": [
+      "spring equinox — 春分",
+      "autumn equinox — 秋分",
+      "vernal equinox — 春分",
+      "autumnal equinox — 秋分",
+      "the March equinox — 3月の分点",
+      "the September equinox — 9月の分点",
+      "at the equinox — 春分・秋分の時点で",
+      "around the equinox — 春分・秋分の頃に",
+      "equinox celebrations — 春分・秋分の祭典",
+      "the equinox marks the beginning of ... — 分点が〜の始まりを示す"
+    ],
+    "en": [
+      "spring equinox",
+      "autumn equinox",
+      "vernal equinox",
+      "autumnal equinox",
+      "the March equinox",
+      "the September equinox",
+      "at the equinox",
+      "around the equinox",
+      "equinox celebrations",
+      "the equinox marks the beginning of ..."
+    ]
+  },
+  "example": {
+    "ja": [
+      "The spring equinox marks the astronomical beginning of spring in the Northern Hemisphere. — 北半球では春分が天文学上の春の始まりを示す。",
+      "Day and night are approximately equal in length around the equinox. — 春分・秋分の頃には昼と夜の長さがほぼ等しくなる。",
+      "The Sun crosses the celestial equator at each equinox. — 太陽は各分点で天の赤道を横切る。",
+      "Many cultures celebrate festivals around the spring equinox. — 多くの文化では春分の頃に祭りが行われる。",
+      "The September equinox marks the beginning of astronomical autumn in the Northern Hemisphere. — 北半球では9月の分点が天文学上の秋の始まりを示す。"
+    ],
+    "en": [
+      "The spring equinox marks the astronomical beginning of spring in the Northern Hemisphere.",
+      "Day and night are approximately equal in length around the equinox.",
+      "The Sun crosses the celestial equator at each equinox.",
+      "Many cultures celebrate festivals around the spring equinox.",
+      "The September equinox marks the beginning of astronomical autumn in the Northern Hemisphere."
+    ]
+  }
+},
+{
+  "id": "benevolence",
+  "sid": "2026-00573",
+  "word": "benevolence",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "kindness",
+    "character",
+    "formal",
+    "ethics"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bəˈnevələns/",
+      "uk": "/bəˈnevələns/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "善意",
+      "慈愛、慈悲深さ",
+      "他人の幸福を願う親切な心"
+    ],
+    "en": [
+      "the quality of being kind and generous",
+      "a disposition to wish good for others",
+      "kindness motivated by concern for other people's well-being"
+    ]
+  },
+  "nuance": {
+    "ja": "benevolence は、単発の親切な行為というより『他者によいことが起こるよう願う善意・慈愛の姿勢』を表す。kindness より抽象的かつフォーマルで、倫理・哲学・宗教・社会思想などでも使われる。wealthy benefactor's benevolence のように、慈善的な寛大さを指すこともある。",
+    "en": "Benevolence refers less to a single kind act than to a general disposition of goodwill toward others. It is more abstract and formal than kindness and is common in ethical, philosophical, religious, and social contexts."
+  },
+  "minimal": {
+    "ja": [
+      "benevolence：他者の幸福を願う善意・慈愛。",
+      "kindness：親切さを表す最も一般的な語。",
+      "goodwill：好意、善意。友好的な意図に重点。",
+      "charity：慈善・施し。具体的な援助行為にも使う。",
+      "compassion：苦しむ人への共感と助けたい気持ち。",
+      "generosity：惜しみなく与える寛大さ。"
+    ],
+    "en": [
+      "benevolence is a general disposition of goodwill and concern for others.",
+      "kindness is the broad everyday term for being kind.",
+      "goodwill emphasizes friendly or positive intention.",
+      "charity often involves practical help or giving to those in need.",
+      "compassion emphasizes concern for someone who is suffering.",
+      "generosity emphasizes willingness to give freely."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 benevolentia『善意』に由来し、bene『よく、善く』＋ velle『望む』から成る。文字どおりには『人によいことが起こるよう望むこと』。benevolent『善意のある、慈悲深い』と同じ語族。",
+    "en": "From Latin benevolentia, 'goodwill', formed from bene ('well') and velle ('to wish'). The literal idea is 'wishing well' for someone. It belongs to the same family as benevolent."
+  },
+  "synonyms": [
+    {
+      "word": "kindness",
+      "note": {
+        "ja": "最も一般的な『親切さ』。benevolence より日常的。",
+        "en": "The common everyday term for being kind."
+      }
+    },
+    {
+      "word": "goodwill",
+      "note": {
+        "ja": "友好的な好意・善意に重点。",
+        "en": "Emphasizes friendly or positive intention toward others."
+      }
+    },
+    {
+      "word": "compassion",
+      "note": {
+        "ja": "苦しむ相手への共感と救済したい気持ち。",
+        "en": "Emphasizes sympathy for suffering and a desire to help."
+      }
+    },
+    {
+      "word": "generosity",
+      "note": {
+        "ja": "金銭・時間・援助などを惜しみなく与える寛大さ。",
+        "en": "Emphasizes a willingness to give money, time, help, or other resources freely."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Wohlwollen / Güte",
+    "it": "benevolenza",
+    "fr": "bienveillance",
+    "es": "benevolencia"
+  },
+  "collocations": {
+    "ja": [
+      "an act of benevolence — 善意の行為",
+      "show benevolence — 善意を示す",
+      "display benevolence — 慈愛を示す",
+      "human benevolence — 人間の善意",
+      "divine benevolence — 神の慈愛",
+      "paternal benevolence — 父性的な慈愛",
+      "benevolence toward others — 他者への善意",
+      "a spirit of benevolence — 慈愛の精神",
+      "benevolence and compassion — 善意と慈悲",
+      "an atmosphere of benevolence — 善意に満ちた雰囲気"
+    ],
+    "en": [
+      "an act of benevolence",
+      "show benevolence",
+      "display benevolence",
+      "human benevolence",
+      "divine benevolence",
+      "paternal benevolence",
+      "benevolence toward others",
+      "a spirit of benevolence",
+      "benevolence and compassion",
+      "an atmosphere of benevolence"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Her benevolence toward those in need was widely admired. — 困っている人々に対する彼女の慈愛は広く称賛された。",
+      "The donation was seen as an act of genuine benevolence. — その寄付は真の善意による行為と受け止められた。",
+      "The philosopher argued that society depends partly on human benevolence. — その哲学者は、社会は部分的には人間の善意によって成り立っていると論じた。",
+      "He treated his employees with a mixture of authority and benevolence. — 彼は権威と慈愛を併せ持つ態度で従業員に接した。",
+      "Benevolence alone cannot solve every social problem. — 善意だけですべての社会問題を解決できるわけではない。"
+    ],
+    "en": [
+      "Her benevolence toward those in need was widely admired.",
+      "The donation was seen as an act of genuine benevolence.",
+      "The philosopher argued that society depends partly on human benevolence.",
+      "He treated his employees with a mixture of authority and benevolence.",
+      "Benevolence alone cannot solve every social problem."
+    ]
+  }
+},
+{
+  "id": "benevolent",
+  "sid": "2026-00574",
+  "word": "benevolent",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "kindness",
+    "character",
+    "formal",
+    "ethics"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bəˈnevələnt/",
+      "uk": "/bəˈnevələnt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "善意に満ちた",
+      "慈悲深い、親切な",
+      "他者の幸福を願う"
+    ],
+    "en": [
+      "kind and generous",
+      "showing goodwill toward others",
+      "wishing to promote other people's well-being"
+    ]
+  },
+  "nuance": {
+    "ja": "benevolent は、単に親切なだけでなく、『他者によいことが起こるよう願う善意』を備えていることを表すフォーマルな語。benevolent person, benevolent ruler, benevolent organization などのほか、benevolent intentions のように意図や姿勢にも使える。文脈によっては『慈善的な』『温情的な』という訳も自然。",
+    "en": "Benevolent is a formal adjective describing a person, attitude, institution, or action motivated by goodwill and a desire to benefit others. It is broader and more elevated in tone than ordinary kind."
+  },
+  "minimal": {
+    "ja": [
+      "benevolent：他者の幸福を願う善意・慈愛がある。",
+      "kind：親切な。最も一般的で日常的。",
+      "compassionate：苦しむ人への思いやりがある。",
+      "charitable：慈善的な、寛大な。寄付や援助とも結びつきやすい。",
+      "generous：惜しみなく与える、寛大な。",
+      "benign：害のない、穏やかな。benevolent と似るが意味範囲が異なる。"
+    ],
+    "en": [
+      "benevolent means motivated by goodwill and a desire to help others.",
+      "kind is the broad everyday term.",
+      "compassionate emphasizes concern for people who are suffering.",
+      "charitable often relates to generosity or aid.",
+      "generous emphasizes willingness to give freely.",
+      "benign means harmless or gentle and only partly overlaps with benevolent."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 benevolens『善意を持つ』に由来し、bene『よく、善く』＋ velle『望む』から成る。文字どおりには『人によいことを望む』という意味。名詞 benevolence と同じ語族で、malevolent『悪意のある』とは対義的な関係にある。",
+    "en": "From Latin benevolens, meaning 'well-wishing', formed from bene ('well') and velle ('to wish'). The literal sense is 'wishing good for others'. It belongs to the same family as benevolence and contrasts with malevolent."
+  },
+  "synonyms": [
+    {
+      "word": "kind",
+      "note": {
+        "ja": "最も一般的な『親切な』。benevolent より日常的。",
+        "en": "The common everyday adjective for showing kindness."
+      }
+    },
+    {
+      "word": "compassionate",
+      "note": {
+        "ja": "苦しんでいる人への共感と思いやりに重点。",
+        "en": "Emphasizes sympathy and concern for those who are suffering."
+      }
+    },
+    {
+      "word": "charitable",
+      "note": {
+        "ja": "慈善的・寛大な。具体的な援助や寄付とも結びつきやすい。",
+        "en": "Often suggests generosity, aid, or a charitable attitude."
+      }
+    },
+    {
+      "word": "philanthropic",
+      "note": {
+        "ja": "社会全体への慈善活動・公益的援助に重点。",
+        "en": "Emphasizes organized efforts to promote human welfare, often through donations."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "wohlwollend / gütig",
+    "it": "benevolo",
+    "fr": "bienveillant",
+    "es": "benevolente"
+  },
+  "collocations": {
+    "ja": [
+      "a benevolent person — 善意に満ちた人",
+      "a benevolent ruler — 慈悲深い統治者",
+      "a benevolent organization — 慈善的な団体",
+      "benevolent intentions — 善意の意図",
+      "a benevolent attitude — 善意に満ちた態度",
+      "a benevolent smile — 優しく慈愛に満ちた微笑み",
+      "a benevolent gesture — 善意による行為",
+      "benevolent leadership — 温情的・慈愛ある指導",
+      "a benevolent fund — 慈善基金",
+      "a benevolent society — 慈善団体"
+    ],
+    "en": [
+      "a benevolent person",
+      "a benevolent ruler",
+      "a benevolent organization",
+      "benevolent intentions",
+      "a benevolent attitude",
+      "a benevolent smile",
+      "a benevolent gesture",
+      "benevolent leadership",
+      "a benevolent fund",
+      "a benevolent society"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She was known as a benevolent employer who cared about her staff. — 彼女は従業員を気遣う慈愛ある雇用主として知られていた。",
+      "The foundation was established for benevolent purposes. — その財団は慈善的な目的で設立された。",
+      "He gave them a benevolent smile. — 彼は彼らに優しく慈愛に満ちた微笑みを向けた。",
+      "The king tried to cultivate an image of a benevolent ruler. — その王は慈悲深い統治者というイメージを築こうとした。",
+      "The policy was presented as benevolent, though its effects were controversial. — その政策は善意に基づくものとして提示されたが、その影響については議論があった。"
+    ],
+    "en": [
+      "She was known as a benevolent employer who cared about her staff.",
+      "The foundation was established for benevolent purposes.",
+      "He gave them a benevolent smile.",
+      "The king tried to cultivate an image of a benevolent ruler.",
+      "The policy was presented as benevolent, though its effects were controversial."
+    ]
+  }
+},
+{
+  "id": "malevolent",
+  "sid": "2026-00575",
+  "word": "malevolent",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "hostility",
+    "character",
+    "formal",
+    "ethics"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/məˈlevələnt/",
+      "uk": "/məˈlevələnt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "悪意のある",
+      "害意を抱いた",
+      "他人に不幸や害が及ぶことを望む"
+    ],
+    "en": [
+      "having or showing a wish to do harm to others",
+      "motivated by ill will or hostility",
+      "wishing evil or misfortune on someone"
+    ]
+  },
+  "nuance": {
+    "ja": "malevolent は単なる不親切や怒りではなく、『他人に害が及ぶことを望むような悪意』を表すフォーマルで強い語。人・意図・視線・力などに使われる。benevolent の明確な反対語で、benevolent が他者の幸福を願うのに対し、malevolent は他者への害意を示す。",
+    "en": "Malevolent is a strong and formal adjective describing a desire to harm others or bring them misfortune. It can modify people, intentions, expressions, forces, or influences. It is the direct conceptual opposite of benevolent."
+  },
+  "minimal": {
+    "ja": [
+      "malevolent：他人に害が及ぶことを望む悪意がある。",
+      "malicious：人を傷つけようとする悪意がある。行為にも使いやすい。",
+      "spiteful：恨みや腹いせから意地悪な。",
+      "hostile：敵対的な。必ずしも害を望むとは限らない。",
+      "sinister：不吉・邪悪そうで脅威を感じさせる。",
+      "benevolent：善意に満ちた。malevolent の反対。"
+    ],
+    "en": [
+      "malevolent means wishing harm or misfortune on others.",
+      "malicious emphasizes deliberate intent to hurt or cause damage.",
+      "spiteful suggests a desire to hurt someone out of resentment.",
+      "hostile means unfriendly or antagonistic but does not always imply a wish to cause harm.",
+      "sinister suggests something threatening, evil-looking, or ominous.",
+      "benevolent is the direct opposite, meaning well-wishing and kind."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 malevolens『悪意を持つ』に由来し、male『悪く』＋ velle『望む』から成る。文字どおりには『人に悪いことが起こるよう望む』という意味。benevolent の bene『善く』を male『悪く』に置き換えた対義的な構造になっている。",
+    "en": "From Latin malevolens, meaning 'ill-disposed or wishing evil', formed from male ('badly, ill') and velle ('to wish'). It is structurally the opposite of benevolent, which uses bene ('well') instead of male."
+  },
+  "synonyms": [
+    {
+      "word": "malicious",
+      "note": {
+        "ja": "意図的に人を傷つけたり損害を与えたりする悪意に重点。",
+        "en": "Emphasizes a deliberate intention to hurt someone or cause damage."
+      }
+    },
+    {
+      "word": "spiteful",
+      "note": {
+        "ja": "恨み・嫉妬・腹いせから人を傷つけようとする。",
+        "en": "Suggests a desire to hurt someone out of resentment or spite."
+      }
+    },
+    {
+      "word": "malign",
+      "note": {
+        "ja": "形容詞では『有害な、悪意ある』。動詞では『中傷する』。",
+        "en": "As an adjective, means harmful or evil in influence; as a verb, means to speak badly of someone."
+      }
+    },
+    {
+      "word": "wicked",
+      "note": {
+        "ja": "道徳的に邪悪な。malevolent より広い意味。",
+        "en": "A broader word for morally evil or bad."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "böswillig / übelwollend",
+    "it": "malevolo",
+    "fr": "malveillant",
+    "es": "malévolo"
+  },
+  "collocations": {
+    "ja": [
+      "a malevolent person — 悪意のある人",
+      "a malevolent force — 邪悪な力",
+      "a malevolent spirit — 悪霊、邪悪な霊",
+      "a malevolent intention — 悪意ある意図",
+      "a malevolent influence — 悪意ある・有害な影響",
+      "a malevolent gaze — 悪意に満ちた視線",
+      "a malevolent smile — 悪意を帯びた笑み",
+      "a malevolent presence — 邪悪な存在感",
+      "seem malevolent — 悪意があるように見える",
+      "deeply malevolent — 極めて悪意のある"
+    ],
+    "en": [
+      "a malevolent person",
+      "a malevolent force",
+      "a malevolent spirit",
+      "a malevolent intention",
+      "a malevolent influence",
+      "a malevolent gaze",
+      "a malevolent smile",
+      "a malevolent presence",
+      "seem malevolent",
+      "deeply malevolent"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The villain is portrayed as a cold and malevolent figure. — その悪役は冷酷で悪意に満ちた人物として描かれている。",
+      "She sensed a malevolent presence in the abandoned house. — 彼女はその廃屋に邪悪な気配を感じた。",
+      "His remarks seemed deliberately malevolent. — 彼の発言は意図的な悪意によるものに見えた。",
+      "The story centers on a malevolent force that manipulates people's fears. — その物語は、人々の恐怖を操る邪悪な力を中心に展開する。",
+      "He gave his rival a malevolent smile. — 彼はライバルに悪意を帯びた笑みを向けた。"
+    ],
+    "en": [
+      "The villain is portrayed as a cold and malevolent figure.",
+      "She sensed a malevolent presence in the abandoned house.",
+      "His remarks seemed deliberately malevolent.",
+      "The story centers on a malevolent force that manipulates people's fears.",
+      "He gave his rival a malevolent smile."
+    ]
+  }
+},
+{
+  "id": "malevolence",
+  "sid": "2026-00576",
+  "word": "malevolence",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "hostility",
+    "character",
+    "formal",
+    "ethics"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/məˈlevələns/",
+      "uk": "/məˈlevələns/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "悪意、害意",
+      "他人の不幸や損害を望む心",
+      "悪意に満ちた性向"
+    ],
+    "en": [
+      "the wish to cause harm or misfortune to others",
+      "ill will or hostility toward others",
+      "a disposition characterized by harmful or evil intent"
+    ]
+  },
+  "nuance": {
+    "ja": "malevolence は、単なる怒りや敵意ではなく、『他人に害や不幸が及ぶことを望む悪意』を表す強くフォーマルな語。malice と近いが、malevolence は人物の性向・雰囲気・意図などに宿る持続的な悪意を表しやすい。benevolence の明確な対義語。",
+    "en": "Malevolence is a strong and formal word for ill will or a desire to cause harm or misfortune. It is close to malice, but often suggests a more general or enduring disposition of harmful intent. It is the direct conceptual opposite of benevolence."
+  },
+  "minimal": {
+    "ja": [
+      "malevolence：他人の不幸や害を望む悪意・害意。",
+      "malice：人を傷つけようとする悪意。より一般的で法的文脈にも多い。",
+      "spite：恨みや腹いせから生じる意地悪な悪意。",
+      "hostility：敵意・敵対心。必ずしも害を望むとは限らない。",
+      "ill will：人に対する悪感情・悪意。",
+      "benevolence：他者の幸福を願う善意。malevolence の反対。"
+    ],
+    "en": [
+      "malevolence is a desire for others to suffer harm or misfortune.",
+      "malice is a more general term for deliberate ill will and is also common in legal contexts.",
+      "spite is ill will motivated by resentment or a desire to retaliate.",
+      "hostility means antagonism and does not necessarily imply a wish to cause harm.",
+      "ill will is a broad expression for unfriendly or harmful feelings.",
+      "benevolence is the opposite, meaning goodwill and a desire to benefit others."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 malevolentia『悪意』に由来し、male『悪く』＋ velle『望む』から成る。文字どおりには『悪いことを望むこと』。malevolent『悪意のある』の名詞形で、benevolence『善意』とは完全に対照的な構造を持つ。",
+    "en": "From Latin malevolentia, meaning 'ill will', formed from male ('badly, ill') and velle ('to wish'). Literally, it means 'wishing evil'. It is the noun corresponding to malevolent and structurally contrasts with benevolence."
+  },
+  "synonyms": [
+    {
+      "word": "malice",
+      "note": {
+        "ja": "人を傷つけたり害したりしようとする悪意。malevolence より一般的。",
+        "en": "Deliberate ill will or intent to harm; generally more common than malevolence."
+      }
+    },
+    {
+      "word": "spite",
+      "note": {
+        "ja": "恨みや腹いせに基づく悪意。",
+        "en": "Ill will driven by resentment or a desire to hurt someone in return."
+      }
+    },
+    {
+      "word": "ill will",
+      "note": {
+        "ja": "敵意・悪感情を表す一般的な表現。",
+        "en": "A general expression for hostile or unfriendly feelings."
+      }
+    },
+    {
+      "word": "hostility",
+      "note": {
+        "ja": "敵対心。malevolence ほど明確な害意を含まないことがある。",
+        "en": "Antagonism or unfriendliness that does not always imply a wish to cause harm."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Böswilligkeit / Übelwollen",
+    "it": "malevolenza",
+    "fr": "malveillance",
+    "es": "malevolencia"
+  },
+  "collocations": {
+    "ja": [
+      "pure malevolence — 純粋な悪意",
+      "sheer malevolence — むき出しの悪意",
+      "an act of malevolence — 悪意による行為",
+      "a sense of malevolence — 邪悪な気配",
+      "an atmosphere of malevolence — 悪意に満ちた雰囲気",
+      "malevolence toward someone — ～に対する悪意",
+      "motivated by malevolence — 悪意に動機づけられた",
+      "conceal one's malevolence — 悪意を隠す",
+      "radiate malevolence — 悪意を漂わせる",
+      "benevolence and malevolence — 善意と悪意"
+    ],
+    "en": [
+      "pure malevolence",
+      "sheer malevolence",
+      "an act of malevolence",
+      "a sense of malevolence",
+      "an atmosphere of malevolence",
+      "malevolence toward someone",
+      "motivated by malevolence",
+      "conceal one's malevolence",
+      "radiate malevolence",
+      "benevolence and malevolence"
+    ]
+  },
+  "example": {
+    "ja": [
+      "There was unmistakable malevolence in his voice. — 彼の声には明らかな悪意がこもっていた。",
+      "The attack appeared to be motivated by pure malevolence. — その攻撃は純粋な悪意に動機づけられたもののようだった。",
+      "The character radiates an almost supernatural malevolence. — その人物はほとんど超自然的ともいえる邪悪さを漂わせている。",
+      "She could sense the malevolence behind his polite words. — 彼の丁寧な言葉の裏にある悪意を彼女は感じ取った。",
+      "The novel explores both human benevolence and malevolence. — その小説は人間の善意と悪意の両方を描いている。"
+    ],
+    "en": [
+      "There was unmistakable malevolence in his voice.",
+      "The attack appeared to be motivated by pure malevolence.",
+      "The character radiates an almost supernatural malevolence.",
+      "She could sense the malevolence behind his polite words.",
+      "The novel explores both human benevolence and malevolence."
+    ]
+  }
+},
+{
+  "id": "malice",
+  "sid": "2026-00577",
+  "word": "malice",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "hostility",
+    "law",
+    "character",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈmælɪs/",
+      "uk": "/ˈmælɪs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "悪意、害意",
+      "人を傷つけようとする意図",
+      "恨み、敵意"
+    ],
+    "en": [
+      "the intention or desire to harm someone",
+      "ill will toward another person",
+      "deliberate harmful or hostile intent"
+    ]
+  },
+  "nuance": {
+    "ja": "malice は『相手を傷つけたい・害したい』という悪意を表す。malevolence より日常・法律の両方で広く使われ、具体的な発言・行為の背後にある害意を表しやすい。without malice のように『悪意なく』という表現も一般的。法律では malice が専門的意味を持つ場合があり、具体的な定義は法域や文脈によって異なる。",
+    "en": "Malice refers to ill will or a desire to harm another person. It is more common and more readily applied to specific acts or statements than malevolence. It is also important in legal English, where it can have technical meanings that vary by jurisdiction and context."
+  },
+  "minimal": {
+    "ja": [
+      "malice：人を害したいという具体的な悪意・害意。",
+      "malevolence：より重くフォーマルで、悪意ある性向・気質に重点。",
+      "spite：恨みや腹いせから生じる悪意。",
+      "ill will：一般的な悪感情・敵意。",
+      "hostility：敵対心。必ずしも害する意図を含まない。",
+      "resentment：不当な扱いなどに対する恨み・憤り。"
+    ],
+    "en": [
+      "malice is a deliberate wish or intention to harm someone.",
+      "malevolence is more formal and often suggests a broader disposition toward evil or harm.",
+      "spite is malice motivated by resentment or a desire to retaliate.",
+      "ill will is a broad expression for unfriendly or hostile feeling.",
+      "hostility means antagonism and does not necessarily imply intent to harm.",
+      "resentment is bitterness caused by perceived unfairness or injury."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 malice を経てラテン語 malitia『悪、悪意』に由来し、malus『悪い』と関係する。malicious, malign, malevolent などの mal- 系語彙と同族。",
+    "en": "From Old French malice, ultimately from Latin malitia, meaning 'badness, wickedness, or ill will', from malus, 'bad'. It belongs to the same broad mal- family as malicious, malign, and malevolent."
+  },
+  "synonyms": [
+    {
+      "word": "malevolence",
+      "note": {
+        "ja": "悪意ある性向・気質そのものを表しやすく、malice よりフォーマル。",
+        "en": "More formal and often suggests an enduring disposition toward harm or evil."
+      }
+    },
+    {
+      "word": "spite",
+      "note": {
+        "ja": "恨みや腹いせから相手を傷つけようとする悪意。",
+        "en": "Malice motivated by resentment or a desire to hurt someone in return."
+      }
+    },
+    {
+      "word": "ill will",
+      "note": {
+        "ja": "敵意・悪感情を表す一般的な表現。",
+        "en": "A broad phrase for unfriendly or hostile feelings."
+      }
+    },
+    {
+      "word": "rancor",
+      "note": {
+        "ja": "長く残る深い恨み・敵意。",
+        "en": "Deep and persistent bitterness or resentment."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Bosheit / Arglist",
+    "it": "malizia / cattiveria",
+    "fr": "malveillance / méchanceté",
+    "es": "malicia"
+  },
+  "collocations": {
+    "ja": [
+      "with malice — 悪意をもって",
+      "without malice — 悪意なく",
+      "pure malice — 純粋な悪意",
+      "out of malice — 悪意から",
+      "act with malice — 悪意をもって行動する",
+      "bear malice toward someone — ～に悪意を抱く",
+      "harbor malice — 悪意を抱く",
+      "malice toward someone — ～に対する悪意",
+      "actual malice — 現実の悪意、法律上の actual malice",
+      "malice aforethought — 事前の悪意、故意を示す歴史的・法律的表現"
+    ],
+    "en": [
+      "with malice",
+      "without malice",
+      "pure malice",
+      "out of malice",
+      "act with malice",
+      "bear malice toward someone",
+      "harbor malice",
+      "malice toward someone",
+      "actual malice",
+      "malice aforethought"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I don't think she said it out of malice. — 彼女が悪意からそう言ったとは思わない。",
+      "He seemed to bear no malice toward his former rival. — 彼はかつてのライバルに何の悪意も抱いていないようだった。",
+      "The damage appeared to have been caused with deliberate malice. — その損害は意図的な悪意によって引き起こされたようだった。",
+      "She criticized the proposal sharply but without malice. — 彼女はその提案を厳しく批判したが、悪意はなかった。",
+      "In some legal contexts, the meaning of malice is more technical than its ordinary meaning. — 法律上の文脈によっては、malice は日常語より専門的な意味を持つ。"
+    ],
+    "en": [
+      "I don't think she said it out of malice.",
+      "He seemed to bear no malice toward his former rival.",
+      "The damage appeared to have been caused with deliberate malice.",
+      "She criticized the proposal sharply but without malice.",
+      "In some legal contexts, the meaning of malice is more technical than its ordinary meaning."
+    ]
+  }
+},
+{
+  "id": "malicious",
+  "sid": "2026-00578",
+  "word": "malicious",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "hostility",
+    "law",
+    "cybersecurity",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/məˈlɪʃəs/",
+      "uk": "/məˈlɪʃəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "悪意のある",
+      "故意に害を与えようとする",
+      "悪意によって行われる"
+    ],
+    "en": [
+      "intending or intended to cause harm",
+      "motivated by malice",
+      "deliberately harmful or hostile"
+    ]
+  },
+  "nuance": {
+    "ja": "malicious は、人を傷つけたり損害を与えたりしようとする具体的な悪意を表す。malicious remark, malicious rumor, malicious attack のように発言・行為と非常に相性がよい。現代では malicious software, malicious code のようにサイバーセキュリティ分野でも頻出する。malevolent が人物・性向・雰囲気の持続的な邪悪さを表しやすいのに対し、malicious は具体的な意図や行為に焦点を置きやすい。",
+    "en": "Malicious describes something motivated by a deliberate intention to harm. It is especially natural with remarks, rumors, actions, attacks, and software. Compared with malevolent, which often describes a broader disposition or sinister character, malicious more readily focuses on a specific harmful intention or act."
+  },
+  "minimal": {
+    "ja": [
+      "malicious：故意に害を与えようとする悪意のある。",
+      "malevolent：他者の不幸や害を望む性向・邪悪さを持つ。",
+      "spiteful：恨みや腹いせから意地悪な。",
+      "hostile：敵対的な。必ずしも害意があるとは限らない。",
+      "malign：有害な、悪意ある／中傷する。",
+      "harmful：有害な。悪意の有無は問わない。"
+    ],
+    "en": [
+      "malicious emphasizes deliberate intent to cause harm.",
+      "malevolent suggests a broader disposition of wishing harm or evil.",
+      "spiteful suggests harmful behavior motivated by resentment.",
+      "hostile means antagonistic but does not necessarily imply an intention to harm.",
+      "malign can mean harmful or evil as an adjective and 'slander' as a verb.",
+      "harmful describes causing damage without implying malicious intent."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 malicious、古フランス語 malicios を経て、ラテン語 malitiosus『悪意のある』に由来する。語根は malitia『悪意、邪悪さ』、さらに malus『悪い』にさかのぼる。malice と同じ語族。",
+    "en": "From Middle English malicious, via Old French, ultimately from Latin malitiosus, 'wicked or full of malice', from malitia, 'badness or ill will', itself related to malus, 'bad'. It belongs to the same family as malice."
+  },
+  "synonyms": [
+    {
+      "word": "malevolent",
+      "note": {
+        "ja": "よりフォーマルで、悪意ある性向や邪悪な存在感に重点。",
+        "en": "More formal and often emphasizes an enduring evil or harmful disposition."
+      }
+    },
+    {
+      "word": "spiteful",
+      "note": {
+        "ja": "恨みや腹いせから人を傷つけようとする。",
+        "en": "Describes hurtful behavior motivated by resentment or spite."
+      }
+    },
+    {
+      "word": "vindictive",
+      "note": {
+        "ja": "仕返し・報復したい気持ちの強い。",
+        "en": "Emphasizes a strong desire for revenge."
+      }
+    },
+    {
+      "word": "malign",
+      "note": {
+        "ja": "悪意ある・有害なという意味を持つフォーマルな語。",
+        "en": "A formal adjective meaning harmful or evil in nature or influence."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "böswillig / boshaft",
+    "it": "malizioso / malevolo",
+    "fr": "malveillant / malicieux",
+    "es": "malicioso"
+  },
+  "collocations": {
+    "ja": [
+      "malicious intent — 悪意ある意図",
+      "malicious behavior — 悪意ある行為",
+      "a malicious remark — 悪意ある発言",
+      "a malicious rumor — 悪意ある噂",
+      "a malicious accusation — 悪意ある非難・告発",
+      "a malicious attack — 悪意ある攻撃",
+      "malicious damage — 故意による損壊",
+      "malicious software — 悪意あるソフトウェア",
+      "malicious code — 悪意あるコード",
+      "malicious prosecution — 悪意ある不当な訴追"
+    ],
+    "en": [
+      "malicious intent",
+      "malicious behavior",
+      "a malicious remark",
+      "a malicious rumor",
+      "a malicious accusation",
+      "a malicious attack",
+      "malicious damage",
+      "malicious software",
+      "malicious code",
+      "malicious prosecution"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The rumor appears to have been spread with malicious intent. — その噂は悪意をもって広められたようだ。",
+      "She ignored the malicious comments posted online. — 彼女はオンラインに投稿された悪意あるコメントを無視した。",
+      "The system detected and blocked malicious software. — システムは悪意あるソフトウェアを検出して遮断した。",
+      "He denied making any malicious accusation against his colleague. — 彼は同僚に対して悪意ある非難をしたことを否定した。",
+      "The court examined whether the conduct was deliberate and malicious. — 裁判所は、その行為が故意かつ悪意によるものだったかを検討した。"
+    ],
+    "en": [
+      "The rumor appears to have been spread with malicious intent.",
+      "She ignored the malicious comments posted online.",
+      "The system detected and blocked malicious software.",
+      "He denied making any malicious accusation against his colleague.",
+      "The court examined whether the conduct was deliberate and malicious."
+    ]
+  }
 }
 ]
