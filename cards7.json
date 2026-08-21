@@ -5103,5 +5103,152 @@
       "A mood of dejection settled over the room after the announcement."
     ]
   }
+},
+{
+  "id": "despair",
+  "sid": "2026-00741",
+  "word": "despair",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "emotion",
+    "psychology",
+    "general",
+    "literary"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "forms": {
+      "base": "despair",
+      "third_person": "despairs",
+      "past": "despaired",
+      "past_participle": "despaired",
+      "gerund": "despairing"
+    },
+    "transitivity": "usually intransitive as a verb",
+    "countability": "usually uncountable as a noun"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈsper/",
+      "uk": "/dɪˈspeə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "絶望、希望を失った状態",
+      "完全に望みがないと感じること",
+      "動詞で、絶望する、望みを失う"
+    ],
+    "en": [
+      "a state in which someone has lost hope",
+      "a feeling that a situation is hopeless and unlikely to improve",
+      "as a verb, to lose hope completely"
+    ]
+  },
+  "nuance": {
+    "ja": "despair は単なる sadness『悲しみ』や disappointment『失望』よりはるかに強く、改善や成功への希望そのものを失うことに焦点がある。despondency も深い落胆を表すが、まだ必ずしも完全な希望喪失ではないのに対し、despair はより決定的な絶望を示しやすい。動詞では despair of doing something『～する望みを失う』や despair at something『～に絶望する』などが使われる。",
+    "en": "Despair is much stronger than ordinary sadness or disappointment because it centers on the loss of hope itself. Despondency suggests deep discouragement and diminished hope, whereas despair more readily implies that hope has been lost almost completely. As a verb, common patterns include despair of doing something and despair at something."
+  },
+  "minimal": {
+    "ja": [
+      "despair：希望を失った強い絶望。",
+      "despondency：希望が薄れた深い落胆だが、despair ほど完全とは限らない。",
+      "dejection：気分が沈んだ意気消沈。",
+      "discouragement：自信や意欲をくじかれた状態。",
+      "hopelessness：希望がないという状態そのもの。",
+      "disappointment：期待が外れたことによる失望。"
+    ],
+    "en": [
+      "despair is an intense state of losing hope.",
+      "despondency is deep discouragement but does not always imply complete hopelessness.",
+      "dejection is a state of low spirits.",
+      "discouragement emphasizes loss of confidence or motivation.",
+      "hopelessness is the state of having little or no hope.",
+      "disappointment results from expectations not being met."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 desperer を経てラテン語 desperare『希望を失う』に由来する。de-『離れて、失って』＋ sperare『希望する』から成り、語源的にも文字どおり『希望を失う』という意味。sperare は英語の desperate や prosperity とは直接同じ形ではないが、hope を表すラテン語系の語彙につながる。",
+    "en": "From Old French desperer, ultimately from Latin desperare, meaning 'to lose hope'. It is formed from de- and sperare, 'to hope', so its literal historical meaning is essentially 'to be without hope'."
+  },
+  "synonyms": [
+    {
+      "word": "hopelessness",
+      "note": {
+        "ja": "希望がない状態そのものに焦点を当てる。despair はそこに強い感情的苦痛を伴いやすい。",
+        "en": "Focuses on the absence of hope itself; despair often carries a stronger emotional sense of anguish."
+      }
+    },
+    {
+      "word": "despondency",
+      "note": {
+        "ja": "深い落胆と希望の低下。通常は despair よりやや弱い。",
+        "en": "Deep discouragement and diminished hope, generally somewhat weaker than despair."
+      }
+    },
+    {
+      "word": "dejection",
+      "note": {
+        "ja": "気落ち・意気消沈。希望の完全な喪失までは意味しない。",
+        "en": "Low spirits or discouragement without necessarily implying loss of all hope."
+      }
+    },
+    {
+      "word": "anguish",
+      "note": {
+        "ja": "激しい精神的苦痛。絶望とは異なり、希望喪失そのものを必ずしも意味しない。",
+        "en": "Extreme emotional suffering, but not necessarily the loss of hope itself."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Verzweiflung",
+    "it": "disperazione",
+    "fr": "désespoir",
+    "es": "desesperación"
+  },
+  "collocations": {
+    "ja": [
+      "deep despair — 深い絶望",
+      "utter despair — 完全な絶望",
+      "a sense of despair — 絶望感",
+      "sink into despair — 絶望に陥る",
+      "fall into despair — 絶望に陥る",
+      "drive someone to despair — 人を絶望に追い込む",
+      "cry of despair — 絶望の叫び",
+      "despair at the situation — その状況に絶望する",
+      "despair of finding a solution — 解決策を見つける望みを失う",
+      "in despair — 絶望して"
+    ],
+    "en": [
+      "deep despair",
+      "utter despair",
+      "a sense of despair",
+      "sink into despair",
+      "fall into despair",
+      "drive someone to despair",
+      "cry of despair",
+      "despair at the situation",
+      "despair of finding a solution",
+      "in despair"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He fell into despair after repeated failures. — 度重なる失敗の後、彼は絶望に陥った。",
+      "She refused to give in to despair. — 彼女は絶望に屈することを拒んだ。",
+      "The news filled the family with despair. — その知らせで家族は絶望に包まれた。",
+      "They began to despair of finding a peaceful solution. — 彼らは平和的な解決策を見つける望みを失い始めた。",
+      "Despite the setbacks, he did not despair. — 挫折が続いたにもかかわらず、彼は絶望しなかった。"
+    ],
+    "en": [
+      "He fell into despair after repeated failures.",
+      "She refused to give in to despair.",
+      "The news filled the family with despair.",
+      "They began to despair of finding a peaceful solution.",
+      "Despite the setbacks, he did not despair."
+    ]
+  }
 }
 ]
