@@ -6078,5 +6078,405 @@
       "The family consented to a clinical autopsy."
     ]
   }
+},
+{
+  "id": "cancerous",
+  "sid": "2026-00748",
+  "word": "cancerous",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "oncology",
+    "pathology",
+    "disease"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "cancerous"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkænsərəs/",
+      "uk": "/ˈkænsərəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "がん性の、がんの",
+      "悪性腫瘍に関係する",
+      "がん細胞を含む、またはがんによって生じた"
+    ],
+    "en": [
+      "affected by or involving cancer",
+      "containing cancer cells",
+      "malignant in nature"
+    ]
+  },
+  "nuance": {
+    "ja": "cancerous は cancer『がん』に対応する一般的な形容詞で、組織・細胞・腫瘍などががん性であることを表す。malignant と近いが、malignant は医学的には『悪性の』というより広い専門語で、cancerous はより直接的に『がんである、がん細胞を含む』ことを表す。すべての tumor『腫瘍』が cancerous とは限らず、benign tumor『良性腫瘍』もある。",
+    "en": "Cancerous is the ordinary adjective corresponding to cancer and describes tissue, cells, or a growth that contains or consists of cancer. It overlaps with malignant, but malignant is the broader technical term meaning biologically aggressive or cancerous. Not every tumor is cancerous; tumors may also be benign."
+  },
+  "minimal": {
+    "ja": [
+      "cancerous：がん性の、がん細胞を含む。",
+      "cancer：がんという疾患または悪性腫瘍。",
+      "malignant：悪性の。cancerous より専門的で広い。",
+      "benign：良性の。周囲へ侵入・転移する悪性腫瘍とは異なる。",
+      "tumor：腫瘍。良性の場合も悪性の場合もある。",
+      "metastatic：転移性の。原発部位から他部位へ広がったがんに使う。"
+    ],
+    "en": [
+      "cancerous means containing or consisting of cancer.",
+      "cancer is the disease or malignant growth itself.",
+      "malignant is a broader technical adjective for biologically aggressive cancerous disease.",
+      "benign describes a nonmalignant growth.",
+      "a tumor may be either benign or malignant.",
+      "metastatic describes cancer that has spread from its original site."
+    ]
+  },
+  "etymology": {
+    "ja": "cancer『がん』＋形容詞接尾辞 -ous『～の性質を持つ』から成る。cancer はラテン語 cancer『カニ』に由来する。古代医学では、腫瘍から伸びる血管などの外観がカニの脚に似ていると考えられたことが名称の由来とされる。",
+    "en": "Formed from cancer plus the adjectival suffix -ous, meaning 'having the nature of'. Cancer comes from Latin cancer, 'crab'. The medical name is traditionally linked to the crablike appearance once associated with some tumors and their surrounding vessels."
+  },
+  "synonyms": [
+    {
+      "word": "malignant",
+      "note": {
+        "ja": "『悪性の』という医学的な専門語。cancerous と重なるが、より専門的。",
+        "en": "A technical medical adjective meaning malignant or cancerous."
+      }
+    },
+    {
+      "word": "neoplastic",
+      "note": {
+        "ja": "新生物・腫瘍性の。良性・悪性の両方を含み得るため、cancerous と完全な同義語ではない。",
+        "en": "Relating to a neoplasm; it may refer to either benign or malignant growth and is therefore not an exact synonym."
+      }
+    },
+    {
+      "word": "malign",
+      "note": {
+        "ja": "医学ではまれに『悪性の』の意味もあるが、通常は malignant が使われる。",
+        "en": "Can have a medical sense of malignant, though malignant is the standard adjective."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "krebsartig / kanzerös",
+    "it": "canceroso",
+    "fr": "cancéreux",
+    "es": "canceroso"
+  },
+  "collocations": {
+    "ja": [
+      "cancerous cells — がん細胞",
+      "cancerous tissue — がん組織",
+      "cancerous tumor — 悪性腫瘍",
+      "cancerous growth — がん性の腫瘤",
+      "cancerous lesion — がん性病変",
+      "become cancerous — がん化する",
+      "remove cancerous tissue — がん組織を切除する",
+      "cancerous changes — がん性変化",
+      "potentially cancerous — がん性である可能性のある",
+      "noncancerous growth — 非がん性の腫瘤"
+    ],
+    "en": [
+      "cancerous cells",
+      "cancerous tissue",
+      "cancerous tumor",
+      "cancerous growth",
+      "cancerous lesion",
+      "become cancerous",
+      "remove cancerous tissue",
+      "cancerous changes",
+      "potentially cancerous",
+      "noncancerous growth"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The biopsy showed that the tissue was cancerous. — 生検の結果、その組織ががん性であることが分かった。",
+      "The surgeon removed the cancerous tissue. — 外科医はがん組織を切除した。",
+      "Not every tumor is cancerous. — すべての腫瘍ががん性というわけではない。",
+      "The cells appeared cancerous under the microscope. — その細胞は顕微鏡下でがん性の所見を示した。",
+      "Further tests were needed to determine whether the lesion was cancerous. — その病変ががん性かどうかを判断するため、追加検査が必要だった。"
+    ],
+    "en": [
+      "The biopsy showed that the tissue was cancerous.",
+      "The surgeon removed the cancerous tissue.",
+      "Not every tumor is cancerous.",
+      "The cells appeared cancerous under the microscope.",
+      "Further tests were needed to determine whether the lesion was cancerous."
+    ]
+  }
+},
+{
+  "id": "radiology",
+  "sid": "2026-00749",
+  "word": "radiology",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "diagnosis",
+    "medical imaging",
+    "specialty"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌreɪdiˈɑːlədʒi/",
+      "uk": "/ˌreɪdiˈɒlədʒi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "放射線医学",
+      "画像診断学",
+      "X線、CT、MRIなどの画像技術を用いて疾患を診断し、一部では治療も行う医学分野"
+    ],
+    "en": [
+      "the branch of medicine that uses medical imaging to diagnose disease",
+      "a medical specialty involving techniques such as X-rays, CT, MRI, and ultrasound",
+      "a field that also includes image-guided procedures in interventional radiology"
+    ]
+  },
+  "nuance": {
+    "ja": "radiology は名称に radiation『放射線』の語源を含むが、現代の放射線医学は電離放射線を使う検査だけに限定されない。X-ray や CT はX線を使う一方、MRI は磁場と電波、ultrasound は超音波を用いる。diagnostic radiology は画像による診断、interventional radiology は画像を見ながらカテーテルや針などを用いて低侵襲な処置を行う分野。",
+    "en": "Although radiology historically centers on radiation, modern radiology is not limited to imaging that uses ionizing radiation. X-rays and CT use X-rays, while MRI uses magnetic fields and radiofrequency energy, and ultrasound uses sound waves. Diagnostic radiology focuses on diagnosis, whereas interventional radiology uses imaging guidance to perform minimally invasive procedures."
+  },
+  "minimal": {
+    "ja": [
+      "radiology：医用画像を用いる医学分野。",
+      "radiologist：画像を読影し、放射線医学を専門とする医師。",
+      "radiography：X線などを用いて画像を作成する技術。",
+      "radiation oncology：放射線を用いてがんを治療する分野で、radiology とは別の専門領域。",
+      "diagnostic imaging：病気の診断を目的とした画像検査。",
+      "interventional radiology：画像誘導下で低侵襲治療を行う放射線医学の分野。"
+    ],
+    "en": [
+      "radiology is the medical specialty centered on imaging.",
+      "a radiologist is a physician who specializes in interpreting medical images and performing radiologic procedures.",
+      "radiography is the technique of producing images, especially with X-rays.",
+      "radiation oncology uses radiation to treat cancer and is distinct from diagnostic radiology.",
+      "diagnostic imaging refers to imaging used to detect or evaluate disease.",
+      "interventional radiology uses imaging guidance for minimally invasive procedures."
+    ]
+  },
+  "etymology": {
+    "ja": "radio-『放射線、放射』＋ -logy『学問、研究分野』から成る。radio- はラテン語 radius『光線、放射状に伸びるもの』に由来し、-logy はギリシャ語 logos『言葉、説明、学問』に由来する。X線発見後に、放射線を医学に利用する分野の名称として定着した。",
+    "en": "Formed from radio-, relating to rays or radiation, and -logy, meaning 'study or field of knowledge'. Radio- ultimately comes from Latin radius, 'ray', while -logy derives from Greek logos. The term became established after the development of medical uses of X-rays."
+  },
+  "synonyms": [
+    {
+      "word": "medical imaging",
+      "note": {
+        "ja": "画像技術そのものを広く指す。radiology は医学専門分野としての意味が強い。",
+        "en": "A broad term for imaging technologies; radiology more specifically refers to the medical specialty."
+      }
+    },
+    {
+      "word": "diagnostic imaging",
+      "note": {
+        "ja": "診断目的の画像検査に焦点を当てる表現。",
+        "en": "Focuses specifically on imaging used for diagnosis."
+      }
+    },
+    {
+      "word": "imaging",
+      "note": {
+        "ja": "画像検査を広く指す簡潔な語で、radiology より一般的。",
+        "en": "A broad and less specialized term for producing or using medical images."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Radiologie",
+    "it": "radiologia",
+    "fr": "radiologie",
+    "es": "radiología"
+  },
+  "collocations": {
+    "ja": [
+      "diagnostic radiology — 診断放射線医学",
+      "interventional radiology — 画像下治療、インターベンショナルラジオロジー",
+      "radiology department — 放射線科",
+      "radiology report — 画像診断報告書",
+      "radiology examination — 放射線・画像検査",
+      "radiology resident — 放射線科専攻医",
+      "radiology service — 放射線診療部門",
+      "radiology findings — 画像所見",
+      "radiology suite — 放射線検査・処置室",
+      "radiology workflow — 放射線診療の業務フロー"
+    ],
+    "en": [
+      "diagnostic radiology",
+      "interventional radiology",
+      "radiology department",
+      "radiology report",
+      "radiology examination",
+      "radiology resident",
+      "radiology service",
+      "radiology findings",
+      "radiology suite",
+      "radiology workflow"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She decided to specialize in radiology. — 彼女は放射線医学を専門にすることを決めた。",
+      "The images were reviewed by the radiology department. — その画像は放射線科で確認された。",
+      "Modern radiology includes CT, MRI, ultrasound, and X-ray imaging. — 現代の放射線医学にはCT、MRI、超音波、X線画像検査などが含まれる。",
+      "The radiology report described a small lesion in the liver. — 画像診断報告書には肝臓の小さな病変が記載されていた。",
+      "Interventional radiology can be used to perform some minimally invasive procedures. — インターベンショナルラジオロジーでは、一部の低侵襲処置を行うことができる。"
+    ],
+    "en": [
+      "She decided to specialize in radiology.",
+      "The images were reviewed by the radiology department.",
+      "Modern radiology includes CT, MRI, ultrasound, and X-ray imaging.",
+      "The radiology report described a small lesion in the liver.",
+      "Interventional radiology can be used to perform some minimally invasive procedures."
+    ]
+  }
+},
+{
+  "id": "lethal",
+  "sid": "2026-00750",
+  "word": "lethal",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "safety",
+    "toxicity",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "lethal"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈliːθəl/",
+      "uk": "/ˈliːθəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "致命的な、死をもたらす",
+      "死に至らせる可能性のある",
+      "比喩的に、非常に強烈な、破壊的な"
+    ],
+    "en": [
+      "capable of causing death",
+      "sufficient to cause death",
+      "figuratively, extremely powerful or destructive"
+    ]
+  },
+  "nuance": {
+    "ja": "lethal は『実際に死んだ』ことよりも、『死を引き起こす能力・程度がある』ことに焦点を当てる。lethal dose『致死量』、lethal injury『致命傷』、lethal toxin『致死性毒素』など医学・毒性学で頻出する。fatal と近いが、fatal は結果として死に至ったことを述べる場合に特に自然で、lethal は死をもたらし得る性質や能力を強調しやすい。",
+    "en": "Lethal emphasizes the capacity or degree sufficient to cause death rather than necessarily stating that death actually occurred. It is common in expressions such as lethal dose, lethal injury, and lethal toxin. Fatal is similar, but fatal often describes an event or condition that actually results in death, whereas lethal more readily emphasizes killing potential."
+  },
+  "minimal": {
+    "ja": [
+      "lethal：死をもたらし得る、致死性の。",
+      "fatal：結果として死に至る、致命的な。",
+      "deadly：死をもたらす危険がある。lethal より一般的。",
+      "mortal：死をもたらす、または死すべき存在に関する。",
+      "toxic：有毒な。必ずしも致死的とは限らない。",
+      "nonlethal：通常は致死を目的としない、または致死性が低い。"
+    ],
+    "en": [
+      "lethal means capable of causing death.",
+      "fatal often describes something that actually results in death.",
+      "deadly is a more general everyday word for something capable of killing.",
+      "mortal can mean causing death or relating to human mortality.",
+      "toxic means poisonous but does not necessarily mean lethal.",
+      "nonlethal means not intended or expected to cause death under normal use."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 letalis『死をもたらす』に由来し、letum『死』と関係する。語源的にはそのまま『死に関する、死を引き起こす』という意味。",
+    "en": "From Latin letalis, meaning 'deadly' or 'causing death', related to letum, 'death'. The core historical meaning is therefore directly connected with death."
+  },
+  "synonyms": [
+    {
+      "word": "fatal",
+      "note": {
+        "ja": "非常に近いが、fatal は『結果として死に至った』ことを表すのに特に自然。",
+        "en": "Very close in meaning, but fatal is especially natural when emphasizing an outcome that results in death."
+      }
+    },
+    {
+      "word": "deadly",
+      "note": {
+        "ja": "より一般的で日常的な『命に関わる、死をもたらす』。",
+        "en": "A more general and everyday word meaning capable of causing death."
+      }
+    },
+    {
+      "word": "mortal",
+      "note": {
+        "ja": "mortal wound『致命傷』のように死をもたらす意味で使えるが、用法はやや限定的。",
+        "en": "Can mean causing death, as in mortal wound, but its usage is more restricted."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "tödlich",
+    "it": "letale",
+    "fr": "létal",
+    "es": "letal"
+  },
+  "collocations": {
+    "ja": [
+      "lethal dose — 致死量",
+      "lethal injection — 致死注射",
+      "lethal toxin — 致死性毒素",
+      "lethal poison — 致死性の毒",
+      "lethal injury — 致命傷",
+      "lethal weapon — 致死性の武器",
+      "lethal force — 致死的武力",
+      "lethal concentration — 致死濃度",
+      "potentially lethal — 致死的となる可能性のある",
+      "prove lethal — 致命的な結果になる"
+    ],
+    "en": [
+      "lethal dose",
+      "lethal injection",
+      "lethal toxin",
+      "lethal poison",
+      "lethal injury",
+      "lethal weapon",
+      "lethal force",
+      "lethal concentration",
+      "potentially lethal",
+      "prove lethal"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The substance can be lethal in high doses. — その物質は高用量では致死的となることがある。",
+      "The patient had suffered a potentially lethal injury. — その患者は致命的となり得る傷害を負っていた。",
+      "Even a small amount of the toxin can be lethal to some animals. — その毒素は少量でも一部の動物には致死的となることがある。",
+      "The researchers measured the lethal concentration of the chemical. — 研究者らはその化学物質の致死濃度を測定した。",
+      "Without treatment, the infection can sometimes prove lethal. — 治療しなければ、その感染症は場合によっては致命的となることがある。"
+    ],
+    "en": [
+      "The substance can be lethal in high doses.",
+      "The patient had suffered a potentially lethal injury.",
+      "Even a small amount of the toxin can be lethal to some animals.",
+      "The researchers measured the lethal concentration of the chemical.",
+      "Without treatment, the infection can sometimes prove lethal."
+    ]
+  }
 }
 ]
