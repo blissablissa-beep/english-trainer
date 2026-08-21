@@ -5679,5 +5679,404 @@
       "His behavior was condemned as evidence of profound depravity."
     ]
   }
+},
+{
+  "id": "biopsy",
+  "sid": "2026-00745",
+  "word": "biopsy",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "diagnosis",
+    "pathology",
+    "procedure"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "forms": {
+      "base": "biopsy",
+      "third_person": "biopsies",
+      "past": "biopsied",
+      "past_participle": "biopsied",
+      "gerund": "biopsying"
+    },
+    "transitivity": "transitive as a verb",
+    "countability": "countable as a noun",
+    "plural": "biopsies"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈbaɪɑːpsi/",
+      "uk": "/ˈbaɪɒpsi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "生検",
+      "診断のために身体から組織や細胞を採取して調べる検査",
+      "動詞で、生検を行う、組織を採取して検査する"
+    ],
+    "en": [
+      "a medical procedure in which tissue or cells are removed from the body for examination",
+      "a diagnostic test involving microscopic or other analysis of a tissue sample",
+      "as a verb, to remove and examine tissue by biopsy"
+    ]
+  },
+  "nuance": {
+    "ja": "biopsy は単なる画像検査ではなく、実際に組織や細胞を採取して病理学的に調べる検査を指す。腫瘍が良性か悪性かの判断や、炎症・感染・臓器疾患などの診断にも使われる。方法には needle biopsy『針生検』、core needle biopsy『コア針生検』、excisional biopsy『切除生検』などがある。biopsy の結果を評価するのは pathology『病理学』と強く関係する。",
+    "en": "A biopsy is not merely an imaging test; it involves obtaining cells or tissue for pathological examination. It is commonly used to determine whether a lesion is benign or malignant and can also help diagnose inflammatory, infectious, or organ-specific diseases. Methods include needle biopsy, core needle biopsy, and excisional biopsy."
+  },
+  "minimal": {
+    "ja": [
+      "biopsy：組織や細胞を採取して調べる生検。",
+      "pathology：採取した組織などを調べて疾患を診断する病理学。",
+      "cytology：細胞そのものを中心に調べる細胞診。",
+      "needle biopsy：針を使って組織や細胞を採取する生検。",
+      "excisional biopsy：病変全体を切除して調べる切除生検。",
+      "imaging：身体内部を画像として評価する検査で、組織採取そのものではない。"
+    ],
+    "en": [
+      "a biopsy removes tissue or cells for diagnostic examination.",
+      "pathology examines tissue and other specimens to diagnose disease.",
+      "cytology focuses primarily on individual cells.",
+      "a needle biopsy obtains tissue or cells with a needle.",
+      "an excisional biopsy removes an entire lesion for examination.",
+      "imaging evaluates internal structures without necessarily obtaining tissue."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語由来の bio-『生命』＋ -opsy『見ること、観察』から成る。-opsy は opsis『見ること、視覚』に由来し、語源的には『生きた身体から得たものを観察すること』という発想。autopsy の -opsy も同じ語根。",
+    "en": "Formed from bio- ('life') and -opsy ('viewing or examination'), from Greek opsis, meaning 'sight or viewing'. The same -opsy element appears in autopsy."
+  },
+  "synonyms": [
+    {
+      "word": "tissue sampling",
+      "note": {
+        "ja": "組織を採取することを平易に説明した表現。",
+        "en": "A plain-language description of obtaining tissue for examination."
+      }
+    },
+    {
+      "word": "tissue examination",
+      "note": {
+        "ja": "採取した組織を調べるという意味だが、biopsy は採取手技まで含む。",
+        "en": "Refers to examining tissue, whereas biopsy also includes the sampling procedure."
+      }
+    },
+    {
+      "word": "cytology",
+      "note": {
+        "ja": "細胞レベルで調べる検査。組織構造を見る biopsy とは焦点が異なることがある。",
+        "en": "Examination focused on cells; it can differ from tissue biopsy in the type and amount of material obtained."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Biopsie",
+    "it": "biopsia",
+    "fr": "biopsie",
+    "es": "biopsia"
+  },
+  "collocations": {
+    "ja": [
+      "perform a biopsy — 生検を行う",
+      "undergo a biopsy — 生検を受ける",
+      "biopsy sample — 生検検体",
+      "biopsy specimen — 生検標本",
+      "biopsy results — 生検結果",
+      "needle biopsy — 針生検",
+      "core needle biopsy — コア針生検",
+      "excisional biopsy — 切除生検",
+      "liver biopsy — 肝生検",
+      "bone marrow biopsy — 骨髄生検"
+    ],
+    "en": [
+      "perform a biopsy",
+      "undergo a biopsy",
+      "biopsy sample",
+      "biopsy specimen",
+      "biopsy results",
+      "needle biopsy",
+      "core needle biopsy",
+      "excisional biopsy",
+      "liver biopsy",
+      "bone marrow biopsy"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The doctor recommended a biopsy of the suspicious lesion. — 医師は疑わしい病変の生検を勧めた。",
+      "The biopsy showed no evidence of malignancy. — 生検では悪性所見は認められなかった。",
+      "A needle biopsy was performed under imaging guidance. — 画像誘導下で針生検が行われた。",
+      "The tissue obtained by biopsy was sent to the pathology laboratory. — 生検で採取された組織は病理検査室へ送られた。",
+      "The diagnosis was confirmed by biopsy. — 診断は生検によって確定された。"
+    ],
+    "en": [
+      "The doctor recommended a biopsy of the suspicious lesion.",
+      "The biopsy showed no evidence of malignancy.",
+      "A needle biopsy was performed under imaging guidance.",
+      "The tissue obtained by biopsy was sent to the pathology laboratory.",
+      "The diagnosis was confirmed by biopsy."
+    ]
+  }
+},
+{
+  "id": "prostate",
+  "sid": "2026-00746",
+  "word": "prostate",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "anatomy",
+    "urology",
+    "reproductive system"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "prostates"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈprɑːsteɪt/",
+      "uk": "/ˈprɒsteɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "前立腺",
+      "膀胱の下に位置し、尿道の一部を取り囲む腺"
+    ],
+    "en": [
+      "a gland located below the bladder that surrounds part of the urethra",
+      "a gland that contributes fluid to semen"
+    ]
+  },
+  "nuance": {
+    "ja": "prostate は前立腺そのものを指す名詞。膀胱のすぐ下にあり、尿道の最初の部分を取り囲む。前立腺から分泌される液体は精液の一部を構成する。加齢などに伴って前立腺が大きくなることがあり、排尿症状に関係する場合がある。形容詞は prostatic。",
+    "en": "The prostate is a gland located just below the bladder and surrounding the first part of the urethra. Its secretions contribute to seminal fluid. The prostate may enlarge with age, which can sometimes affect urination. The corresponding adjective is prostatic."
+  },
+  "minimal": {
+    "ja": [
+      "prostate：前立腺。",
+      "prostatic：前立腺の。",
+      "bladder：尿を蓄える膀胱。",
+      "urethra：膀胱から体外へ尿を運ぶ尿道。",
+      "semen：精液。",
+      "prostatitis：前立腺の炎症、前立腺炎。"
+    ],
+    "en": [
+      "the prostate is a gland below the bladder.",
+      "prostatic means relating to the prostate.",
+      "the bladder stores urine.",
+      "the urethra carries urine from the bladder to the outside of the body.",
+      "semen is the fluid containing sperm and secretions from several glands.",
+      "prostatitis is inflammation of the prostate."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 prostatēs『前に立つもの、守るもの』に由来する。pro-『前に』＋ histanai『立たせる』の系統で、解剖学的に膀胱の前下方に位置する腺を表す名称として使われるようになった。",
+    "en": "From Greek prostatēs, meaning 'one who stands before or protector', related to pro- ('before') and histanai ('to cause to stand'). The term became established as the anatomical name of the prostate gland."
+  },
+  "synonyms": [
+    {
+      "word": "prostate gland",
+      "note": {
+        "ja": "前立腺を明示的に表す完全な名称。",
+        "en": "The full anatomical expression for the prostate."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Prostata / Vorsteherdrüse",
+    "it": "prostata",
+    "fr": "prostate",
+    "es": "próstata"
+  },
+  "collocations": {
+    "ja": [
+      "prostate gland — 前立腺",
+      "prostate cancer — 前立腺がん",
+      "prostate enlargement — 前立腺肥大",
+      "enlarged prostate — 肥大した前立腺",
+      "prostate biopsy — 前立腺生検",
+      "prostate examination — 前立腺検査",
+      "prostate tissue — 前立腺組織",
+      "prostate surgery — 前立腺手術",
+      "prostate disease — 前立腺疾患",
+      "prostate-specific antigen — 前立腺特異抗原"
+    ],
+    "en": [
+      "prostate gland",
+      "prostate cancer",
+      "prostate enlargement",
+      "enlarged prostate",
+      "prostate biopsy",
+      "prostate examination",
+      "prostate tissue",
+      "prostate surgery",
+      "prostate disease",
+      "prostate-specific antigen"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The prostate is located just below the bladder. — 前立腺は膀胱のすぐ下に位置する。",
+      "The prostate surrounds part of the urethra. — 前立腺は尿道の一部を取り囲んでいる。",
+      "The doctor recommended a prostate biopsy. — 医師は前立腺生検を勧めた。",
+      "An enlarged prostate can sometimes affect urination. — 前立腺の肥大は排尿に影響することがある。",
+      "The prostate contributes fluid to semen. — 前立腺は精液を構成する液体の一部を分泌する。"
+    ],
+    "en": [
+      "The prostate is located just below the bladder.",
+      "The prostate surrounds part of the urethra.",
+      "The doctor recommended a prostate biopsy.",
+      "An enlarged prostate can sometimes affect urination.",
+      "The prostate contributes fluid to semen."
+    ]
+  }
+},
+{
+  "id": "autopsy",
+  "sid": "2026-00747",
+  "word": "autopsy",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "pathology",
+    "forensic medicine",
+    "procedure"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "forms": {
+      "base": "autopsy",
+      "third_person": "autopsies",
+      "past": "autopsied",
+      "past_participle": "autopsied",
+      "gerund": "autopsying"
+    },
+    "transitivity": "transitive as a verb",
+    "countability": "countable as a noun",
+    "plural": "autopsies"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɔːtɑːpsi/",
+      "uk": "/ˈɔːtɒpsi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "剖検、死体解剖",
+      "死因や病変などを調べるため、死後に遺体を医学的に検査すること",
+      "動詞で、剖検を行う"
+    ],
+    "en": [
+      "a medical examination of a body after death",
+      "a postmortem examination performed to determine the cause of death or study disease and injury",
+      "as a verb, to perform an autopsy on a body"
+    ]
+  },
+  "nuance": {
+    "ja": "autopsy は死後に遺体を詳しく調べる医学的検査を指す。死因の特定、病気の進行や臓器の変化の確認、外傷の評価などを目的として行われる。病院で行われる病理解剖と、法医学的目的で行われる forensic autopsy がある。postmortem examination と近いが、autopsy のほうが一般的かつ具体的な語。",
+    "en": "An autopsy is a detailed medical examination performed after death. It may be used to determine the cause of death, investigate disease processes, or evaluate injuries. Autopsies may be clinical or forensic. The term is close to postmortem examination, though autopsy is the more direct and commonly used noun."
+  },
+  "minimal": {
+    "ja": [
+      "autopsy：死後に遺体を調べる剖検。",
+      "biopsy：生体から組織や細胞を採取して調べる生検。",
+      "postmortem examination：死後検査、剖検を表すより説明的な表現。",
+      "forensic autopsy：法医学的な剖検。",
+      "pathology：疾患による組織・臓器の変化を調べる病理学。",
+      "cause of death：死因。"
+    ],
+    "en": [
+      "an autopsy examines a body after death.",
+      "a biopsy examines tissue or cells obtained from a living body.",
+      "postmortem examination is a descriptive term for examination after death.",
+      "a forensic autopsy is performed for legal or investigative purposes.",
+      "pathology studies disease-related changes in tissues and organs.",
+      "cause of death is the disease, injury, or condition responsible for death."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語由来の auto-『自分自身』＋ -opsy『見ること、観察』から成る。元来 autopsia は『自分の目で見ること』という意味だった。そこから、死後に遺体を直接観察・検査する医学的意味へ発展した。biopsy の -opsy と同じ語根。",
+    "en": "From Greek autopsia, meaning 'seeing with one's own eyes', formed from auto- ('self') and opsis ('sight or viewing'). The word later developed its modern medical sense of examining a body after death. The element -opsy is the same as in biopsy."
+  },
+  "synonyms": [
+    {
+      "word": "postmortem examination",
+      "note": {
+        "ja": "死後検査を表す説明的で正式な表現。",
+        "en": "A formal descriptive term for an examination performed after death."
+      }
+    },
+    {
+      "word": "postmortem",
+      "note": {
+        "ja": "名詞として剖検を指すことがある。形容詞では『死後の』。",
+        "en": "Can be used as a noun for an autopsy; as an adjective, it means occurring after death."
+      }
+    },
+    {
+      "word": "necropsy",
+      "note": {
+        "ja": "剖検を表す専門語。特に獣医学ではよく使われる。",
+        "en": "A technical synonym for autopsy, especially common in veterinary medicine."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Autopsie / Obduktion",
+    "it": "autopsia",
+    "fr": "autopsie",
+    "es": "autopsia"
+  },
+  "collocations": {
+    "ja": [
+      "perform an autopsy — 剖検を行う",
+      "conduct an autopsy — 剖検を実施する",
+      "order an autopsy — 剖検を命じる",
+      "autopsy report — 剖検報告書",
+      "autopsy findings — 剖検所見",
+      "autopsy results — 剖検結果",
+      "forensic autopsy — 法医解剖",
+      "complete autopsy — 全身剖検",
+      "autopsy examination — 剖検",
+      "determine the cause of death by autopsy — 剖検で死因を特定する"
+    ],
+    "en": [
+      "perform an autopsy",
+      "conduct an autopsy",
+      "order an autopsy",
+      "autopsy report",
+      "autopsy findings",
+      "autopsy results",
+      "forensic autopsy",
+      "complete autopsy",
+      "autopsy examination",
+      "determine the cause of death by autopsy"
+    ]
+  },
+  "example": {
+    "ja": [
+      "An autopsy was performed to determine the cause of death. — 死因を特定するため剖検が行われた。",
+      "The autopsy revealed evidence of severe internal bleeding. — 剖検で重度の内出血を示す所見が確認された。",
+      "The forensic pathologist conducted the autopsy. — 法医病理医が剖検を行った。",
+      "The autopsy findings were included in the final report. — 剖検所見は最終報告書に記載された。",
+      "The family consented to a clinical autopsy. — 家族は病理解剖に同意した。"
+    ],
+    "en": [
+      "An autopsy was performed to determine the cause of death.",
+      "The autopsy revealed evidence of severe internal bleeding.",
+      "The forensic pathologist conducted the autopsy.",
+      "The autopsy findings were included in the final report.",
+      "The family consented to a clinical autopsy."
+    ]
+  }
 }
 ]
