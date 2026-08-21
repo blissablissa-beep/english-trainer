@@ -1631,5 +1631,554 @@
       "Inflammation of the pharynx is called pharyngitis."
     ]
   }
+},
+{
+  "id": "intestine",
+  "sid": "2026-00714",
+  "word": "intestine",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "anatomy",
+    "digestive system"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "intestines"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈtestɪn/",
+      "uk": "/ɪnˈtestɪn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "腸",
+      "胃から肛門へ続く消化管のうち、小腸と大腸を含む部分"
+    ],
+    "en": [
+      "the part of the digestive tract extending from the stomach toward the anus",
+      "one of the sections of the bowel, especially the small or large intestine"
+    ]
+  },
+  "nuance": {
+    "ja": "intestine は解剖学的な『腸』の基本語で、small intestine『小腸』と large intestine『大腸』に大きく分けられる。日常英語では bowel も近い意味で使われるが、bowel は消化管、とくに腸全体をやや広く指したり、排便に関する文脈で使われたりする。複数形 intestines は『腸全体』を指して使われることも多い。",
+    "en": "Intestine is the standard anatomical term for the bowel extending beyond the stomach. It is divided broadly into the small intestine and large intestine. Bowel is a related everyday and medical term that can refer more broadly to the intestinal tract and is also common in contexts involving bowel function or movements."
+  },
+  "minimal": {
+    "ja": [
+      "intestine：腸を表す基本的な解剖学用語。",
+      "small intestine：小腸。栄養吸収の中心。",
+      "large intestine：大腸。水分吸収や便の形成に関わる。",
+      "bowel：腸・腸管を広く指す語。",
+      "colon：大腸の主要部分で、large intestine と完全な同義ではない。",
+      "rectum：大腸の末端部にある直腸。"
+    ],
+    "en": [
+      "intestine is the basic anatomical term for the bowel.",
+      "the small intestine is the main site of nutrient absorption.",
+      "the large intestine is involved in water absorption and stool formation.",
+      "bowel is a broader common term for the intestinal tract.",
+      "the colon is a major part of the large intestine but is not identical to the entire large intestine.",
+      "the rectum is the terminal section of the large intestine."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 intestinum『内臓、腸』に由来し、intestinus『内側の、内部の』と関係する。これは intus『内側に』の系統で、語源的には『身体の内部にあるもの』という発想。",
+    "en": "From Latin intestinum, meaning 'intestine or internal organ', related to intestinus, 'internal or inward'. It ultimately reflects the idea of something located inside the body."
+  },
+  "synonyms": [
+    {
+      "word": "bowel",
+      "note": {
+        "ja": "腸・腸管を広く指す一般的な語。排便関連の表現にも多い。",
+        "en": "A broad common term for the intestinal tract, also frequent in contexts involving bowel function."
+      }
+    },
+    {
+      "word": "gut",
+      "note": {
+        "ja": "消化管・腸を表すより口語的な語。医学・生物学でも使われる。",
+        "en": "A more informal term for the digestive tract or intestines, though also used in scientific contexts."
+      }
+    },
+    {
+      "word": "intestinal tract",
+      "note": {
+        "ja": "腸管をより明示的に表す医学的・説明的な表現。",
+        "en": "A more explicit medical or descriptive phrase for the intestinal system."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Darm",
+    "it": "intestino",
+    "fr": "intestin",
+    "es": "intestino"
+  },
+  "collocations": {
+    "ja": [
+      "small intestine — 小腸",
+      "large intestine — 大腸",
+      "intestinal wall — 腸壁",
+      "intestinal lining — 腸粘膜",
+      "intestinal bacteria — 腸内細菌",
+      "intestinal tract — 腸管",
+      "intestinal obstruction — 腸閉塞",
+      "intestinal inflammation — 腸の炎症",
+      "intestinal absorption — 腸管吸収",
+      "intestinal contents — 腸内容物"
+    ],
+    "en": [
+      "small intestine",
+      "large intestine",
+      "intestinal wall",
+      "intestinal lining",
+      "intestinal bacteria",
+      "intestinal tract",
+      "intestinal obstruction",
+      "intestinal inflammation",
+      "intestinal absorption",
+      "intestinal contents"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Most nutrient absorption occurs in the small intestine. — 栄養素の吸収の大部分は小腸で行われる。",
+      "The large intestine absorbs water from intestinal contents. — 大腸は腸内容物から水分を吸収する。",
+      "The intestine is lined with tissue specialized for absorption and protection. — 腸の内側は吸収と保護に特化した組織で覆われている。",
+      "The doctor suspected an obstruction in the intestine. — 医師は腸閉塞を疑った。",
+      "Billions of microorganisms live in the human intestine. — 人間の腸内には数十億もの微生物が生息している。"
+    ],
+    "en": [
+      "Most nutrient absorption occurs in the small intestine.",
+      "The large intestine absorbs water from intestinal contents.",
+      "The intestine is lined with tissue specialized for absorption and protection.",
+      "The doctor suspected an obstruction in the intestine.",
+      "Billions of microorganisms live in the human intestine."
+    ]
+  }
+},
+{
+  "id": "bowel",
+  "sid": "2026-00715",
+  "word": "bowel",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "anatomy",
+    "digestive system",
+    "clinical"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable depending on context",
+    "plural": "bowels"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈbaʊəl/",
+      "uk": "/ˈbaʊəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "腸、腸管",
+      "小腸・大腸を含む消化管の腸部分",
+      "排便機能や腸の働き"
+    ],
+    "en": [
+      "the intestine or intestinal tract",
+      "the small and large intestines collectively",
+      "intestinal function, especially in relation to defecation"
+    ]
+  },
+  "nuance": {
+    "ja": "bowel は intestine とかなり近いが、医療・日常表現では腸全体や腸の機能をまとめて指すことが多い。特に bowel movement『排便』、bowel habits『排便習慣』、bowel obstruction『腸閉塞』などで頻出する。単数 bowel も複数 bowels も使われるが、現代の医学英語では bowel を集合的に使う表現が非常に多い。intestine は解剖学的な個々の構造を指すのにより向いている。",
+    "en": "Bowel overlaps strongly with intestine but is especially common when referring collectively to the intestinal tract or its function. It appears frequently in clinical expressions such as bowel movement, bowel habits, and bowel obstruction. Intestine is often more anatomically specific, whereas bowel is especially natural in functional and clinical contexts."
+  },
+  "minimal": {
+    "ja": [
+      "bowel：腸・腸管をまとめて指すことが多い。",
+      "intestine：腸を表す標準的な解剖学用語。",
+      "gut：腸・消化管を表すより口語的な語。",
+      "colon：大腸の主要部分。",
+      "bowel movement：排便。",
+      "bowel obstruction：腸閉塞。"
+    ],
+    "en": [
+      "bowel commonly refers collectively to the intestines or intestinal function.",
+      "intestine is the standard anatomical term for the intestinal structure.",
+      "gut is a more informal term for the digestive tract or intestines.",
+      "the colon is a major part of the large intestine.",
+      "a bowel movement is the passing of stool.",
+      "bowel obstruction is a blockage that prevents normal passage through the intestine."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 boel『腸』を経て、ラテン語 botellus『小さな腸、ソーセージ』に由来する。botellus は botulus『ソーセージ、腸』の指小形で、腸の細長い形状との結びつきが語源に残っている。",
+    "en": "From Old French boel, ultimately from Latin botellus, meaning 'small intestine' or 'small sausage', a diminutive of botulus, 'sausage or intestine'. The history reflects the physical resemblance between intestinal structures and sausage-like forms."
+  },
+  "synonyms": [
+    {
+      "word": "intestine",
+      "note": {
+        "ja": "解剖学的な『腸』の標準語。bowel より構造そのものを指しやすい。",
+        "en": "The standard anatomical term and often more specific to the structure itself."
+      }
+    },
+    {
+      "word": "gut",
+      "note": {
+        "ja": "腸・消化管を表す口語的な語。科学文脈でも gut microbiome などで一般的。",
+        "en": "A more informal word for the intestines or digestive tract, also common scientifically in expressions such as gut microbiome."
+      }
+    },
+    {
+      "word": "intestinal tract",
+      "note": {
+        "ja": "腸管を明示的に表す医学的な表現。",
+        "en": "A more explicit medical expression for the intestinal tract."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Darm",
+    "it": "intestino",
+    "fr": "intestin",
+    "es": "intestino"
+  },
+  "collocations": {
+    "ja": [
+      "bowel movement — 排便",
+      "bowel habits — 排便習慣",
+      "bowel obstruction — 腸閉塞",
+      "bowel disease — 腸疾患",
+      "bowel function — 腸機能",
+      "bowel surgery — 腸の手術",
+      "bowel cancer — 腸がん",
+      "inflammatory bowel disease — 炎症性腸疾患",
+      "irritable bowel syndrome — 過敏性腸症候群",
+      "empty the bowel — 腸内容物を排出する"
+    ],
+    "en": [
+      "bowel movement",
+      "bowel habits",
+      "bowel obstruction",
+      "bowel disease",
+      "bowel function",
+      "bowel surgery",
+      "bowel cancer",
+      "inflammatory bowel disease",
+      "irritable bowel syndrome",
+      "empty the bowel"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The doctor asked whether there had been any change in her bowel habits. — 医師は彼女の排便習慣に変化があったか尋ねた。",
+      "The scan showed a possible bowel obstruction. — 画像検査では腸閉塞の可能性が示された。",
+      "Regular physical activity can help maintain normal bowel function. — 定期的な身体活動は正常な腸機能の維持に役立つことがある。",
+      "He underwent surgery to remove the affected section of bowel. — 彼は病変のある腸の部分を切除する手術を受けた。",
+      "Inflammatory bowel disease includes several chronic inflammatory conditions of the digestive tract. — 炎症性腸疾患には消化管のいくつかの慢性炎症性疾患が含まれる。"
+    ],
+    "en": [
+      "The doctor asked whether there had been any change in her bowel habits.",
+      "The scan showed a possible bowel obstruction.",
+      "Regular physical activity can help maintain normal bowel function.",
+      "He underwent surgery to remove the affected section of bowel.",
+      "Inflammatory bowel disease includes several chronic inflammatory conditions of the digestive tract."
+    ]
+  }
+},
+{
+  "id": "gut",
+  "sid": "2026-00716",
+  "word": "gut",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "anatomy",
+    "digestive system",
+    "informal",
+    "idiom"
+  ],
+  "grammar": {
+    "pos": "noun / verb / adjective",
+    "forms": {
+      "base": "gut",
+      "third_person": "guts",
+      "past": "gutted",
+      "past_participle": "gutted",
+      "gerund": "gutting"
+    },
+    "transitivity": "transitive as a verb",
+    "countability": "countable / uncountable depending on sense",
+    "plural": "guts"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɡʌt/",
+      "uk": "/ɡʌt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "腸、消化管",
+      "腹部、内臓",
+      "直感、本能的な感覚",
+      "複数形 guts で、勇気、度胸",
+      "動詞で、建物・魚などの内部を取り除く"
+    ],
+    "en": [
+      "the intestine or digestive tract, especially in informal or scientific usage",
+      "the abdomen or internal organs",
+      "an instinctive feeling or intuition",
+      "in the plural guts, courage or nerve",
+      "as a verb, to remove the internal contents of something"
+    ]
+  },
+  "nuance": {
+    "ja": "gut は intestine や bowel より口語的だが、gut microbiome, gut bacteria, gut health のように医学・生物学でも非常によく使われる。解剖学的に厳密な一つの器官名というより、胃腸・消化管をまとめて捉える語。比喩的には gut feeling『理屈ではなく直感的に感じること』が非常に一般的。複数形 guts は『内臓』のほか『度胸』を意味する。",
+    "en": "Gut is more informal than intestine or bowel, but it is also extremely common in scientific expressions such as gut microbiome, gut bacteria, and gut health. It often refers broadly to the gastrointestinal tract rather than to one precisely defined anatomical structure. Figuratively, gut feeling is a very common expression for instinctive judgment, while plural guts can mean courage."
+  },
+  "minimal": {
+    "ja": [
+      "gut：腸・消化管を広く指す、やや口語的な語。",
+      "bowel：腸全体や腸機能を臨床的に表すことが多い。",
+      "intestine：腸を表す標準的な解剖学用語。",
+      "stomach：胃。gut 全体と同義ではない。",
+      "gut feeling：論理的分析ではなく直感的な感覚。",
+      "guts：勇気・度胸。または文字どおり内臓。"
+    ],
+    "en": [
+      "gut is a broad, relatively informal term for the intestines or digestive tract.",
+      "bowel is common in clinical expressions involving the intestines and their function.",
+      "intestine is the standard anatomical term.",
+      "stomach is one specific digestive organ and is not synonymous with the whole gut.",
+      "a gut feeling is an instinctive judgment rather than a reasoned conclusion.",
+      "guts can mean courage as well as internal organs."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 guttas『腸、内臓』に由来する。身体内部の腸を表す具体的な意味から、『身体の奥底から感じるもの』という発想で gut feeling『直感』が生まれ、さらに guts『度胸』のような比喩的意味にも発展した。",
+    "en": "From Old English guttas, meaning 'bowels or entrails'. From the literal sense of the body's internal organs developed figurative expressions involving deep instinct, such as gut feeling, and courage, as in guts."
+  },
+  "synonyms": [
+    {
+      "word": "intestine",
+      "note": {
+        "ja": "より解剖学的で中立的な『腸』。",
+        "en": "A more anatomically precise and neutral term for the intestine."
+      }
+    },
+    {
+      "word": "bowel",
+      "note": {
+        "ja": "腸管や腸機能を表し、医療・臨床表現で特に多い。",
+        "en": "Common for the intestinal tract and especially frequent in clinical expressions."
+      }
+    },
+    {
+      "word": "digestive tract",
+      "note": {
+        "ja": "消化管全体を指す、より明示的で専門的な表現。",
+        "en": "A more explicit anatomical term for the entire gastrointestinal passage."
+      }
+    },
+    {
+      "word": "intuition",
+      "note": {
+        "ja": "gut の比喩的意味では『直感』に相当する。",
+        "en": "A synonym for gut in its figurative sense of instinctive judgment."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Darm / Bauchgefühl",
+    "it": "intestino / istinto",
+    "fr": "intestin / intuition",
+    "es": "intestino / intuición"
+  },
+  "collocations": {
+    "ja": [
+      "gut health — 腸の健康",
+      "gut bacteria — 腸内細菌",
+      "gut microbiome — 腸内マイクロバイオーム",
+      "gut flora — 腸内細菌叢",
+      "gut lining — 腸粘膜",
+      "gut function — 腸機能",
+      "gut feeling — 直感",
+      "trust your gut — 自分の直感を信じる",
+      "have the guts to do something — ～する度胸がある",
+      "gut reaction — 直感的・本能的な反応"
+    ],
+    "en": [
+      "gut health",
+      "gut bacteria",
+      "gut microbiome",
+      "gut flora",
+      "gut lining",
+      "gut function",
+      "gut feeling",
+      "trust your gut",
+      "have the guts to do something",
+      "gut reaction"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The gut contains a vast community of microorganisms. — 腸内には非常に多くの微生物が存在する。",
+      "Diet can influence the composition of the gut microbiome. — 食事は腸内マイクロバイオームの構成に影響を与えることがある。",
+      "I had a gut feeling that something was wrong. — 何かがおかしいという直感があった。",
+      "Sometimes you have to trust your gut. — ときには自分の直感を信じなければならない。",
+      "She had the guts to challenge the decision publicly. — 彼女にはその決定に公然と異議を唱える度胸があった。"
+    ],
+    "en": [
+      "The gut contains a vast community of microorganisms.",
+      "Diet can influence the composition of the gut microbiome.",
+      "I had a gut feeling that something was wrong.",
+      "Sometimes you have to trust your gut.",
+      "She had the guts to challenge the decision publicly."
+    ]
+  }
+},
+{
+  "id": "diaphragm",
+  "sid": "2026-00717",
+  "word": "diaphragm",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "anatomy",
+    "respiratory system",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "diaphragms"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdaɪəfræm/",
+      "uk": "/ˈdaɪəfræm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "横隔膜",
+      "胸腔と腹腔を隔て、呼吸に重要な役割を果たすドーム状の筋肉",
+      "機械・カメラなどの隔膜、絞り"
+    ],
+    "en": [
+      "the dome-shaped muscle that separates the thoracic cavity from the abdominal cavity and plays a major role in breathing",
+      "a flexible or thin partition in a device or mechanism",
+      "in optics and photography, a structure controlling the amount of light passing through a lens"
+    ]
+  },
+  "nuance": {
+    "ja": "解剖学で diaphragm と言えば通常は横隔膜を指す。吸息時には横隔膜が収縮して下方へ移動し、胸腔の容積を増やすことで肺への空気の流入を助ける。呼気時には通常弛緩して上方へ戻る。lung『肺』そのものではなく、呼吸運動を生み出す主要な筋肉の一つ。一般語としては『二つの領域を隔てる薄い膜・仕切り』という意味も持つ。",
+    "en": "In anatomy, diaphragm normally refers to the muscular sheet separating the thoracic and abdominal cavities. During inhalation, it contracts and moves downward, increasing thoracic volume and helping draw air into the lungs. During ordinary exhalation, it relaxes and rises. More generally, diaphragm can also mean a thin partition or a device that regulates an opening."
+  },
+  "minimal": {
+    "ja": [
+      "diaphragm：胸腔と腹腔を隔て、呼吸を助ける横隔膜。",
+      "lung：ガス交換を行う肺。",
+      "intercostal muscle：肋骨の間にあり、呼吸運動を助ける肋間筋。",
+      "thoracic cavity：肺や心臓などが収まる胸腔。",
+      "abdominal cavity：多くの消化器官などが収まる腹腔。",
+      "aperture：カメラなどで光の通過量を調節する開口部。"
+    ],
+    "en": [
+      "the diaphragm is the main muscular partition involved in breathing.",
+      "the lungs are the organs in which gas exchange occurs.",
+      "intercostal muscles lie between the ribs and assist breathing.",
+      "the thoracic cavity contains the lungs and heart.",
+      "the abdominal cavity contains many digestive organs.",
+      "an aperture is an opening whose size can regulate the passage of light."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 diaphragma『仕切り、隔壁』に由来し、dia-『～を通して、横切って』＋ phrassein『囲う、仕切る』の系統。語源的な中心イメージは『二つの領域を隔てる仕切り』で、胸腔と腹腔を隔てる横隔膜という解剖学的意味によく対応している。",
+    "en": "From Greek diaphragma, meaning 'partition or barrier', related to dia- ('across, through') and phrassein ('to fence in or partition'). The core idea is a structure separating two regions, which fits the anatomical diaphragm dividing the thoracic and abdominal cavities."
+  },
+  "synonyms": [
+    {
+      "word": "respiratory diaphragm",
+      "note": {
+        "ja": "横隔膜を他の diaphragm と区別して明示する説明的な表現。",
+        "en": "A descriptive term used when distinguishing the anatomical breathing muscle from other kinds of diaphragms."
+      }
+    },
+    {
+      "word": "partition",
+      "note": {
+        "ja": "一般的な意味では『仕切り』。解剖学的な diaphragm の直接の同義語ではない。",
+        "en": "A general word for a dividing structure, but not a precise anatomical synonym."
+      }
+    },
+    {
+      "word": "aperture diaphragm",
+      "note": {
+        "ja": "光学機器で開口量を調節する絞り機構。",
+        "en": "A diaphragm mechanism used in optics to control the size of an opening."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Zwerchfell",
+    "it": "diaframma",
+    "fr": "diaphragme",
+    "es": "diafragma"
+  },
+  "collocations": {
+    "ja": [
+      "the diaphragm contracts — 横隔膜が収縮する",
+      "the diaphragm relaxes — 横隔膜が弛緩する",
+      "diaphragm movement — 横隔膜の動き",
+      "diaphragm function — 横隔膜機能",
+      "diaphragm muscle — 横隔膜",
+      "diaphragmatic breathing — 横隔膜呼吸",
+      "diaphragmatic contraction — 横隔膜収縮",
+      "paralysis of the diaphragm — 横隔膜麻痺",
+      "the diaphragm separates the chest from the abdomen — 横隔膜が胸部と腹部を隔てる",
+      "camera diaphragm — カメラの絞り"
+    ],
+    "en": [
+      "the diaphragm contracts",
+      "the diaphragm relaxes",
+      "diaphragm movement",
+      "diaphragm function",
+      "diaphragm muscle",
+      "diaphragmatic breathing",
+      "diaphragmatic contraction",
+      "paralysis of the diaphragm",
+      "the diaphragm separates the chest from the abdomen",
+      "camera diaphragm"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The diaphragm contracts during inhalation. — 吸息時には横隔膜が収縮する。",
+      "The diaphragm separates the thoracic cavity from the abdominal cavity. — 横隔膜は胸腔と腹腔を隔てている。",
+      "When the diaphragm moves downward, the volume of the chest cavity increases. — 横隔膜が下方へ動くと、胸腔の容積が増える。",
+      "The diaphragm plays a central role in normal breathing. — 横隔膜は通常の呼吸で中心的な役割を果たす。",
+      "Diaphragmatic breathing encourages deeper, more controlled breaths. — 横隔膜呼吸では、より深くコントロールされた呼吸が促される。"
+    ],
+    "en": [
+      "The diaphragm contracts during inhalation.",
+      "The diaphragm separates the thoracic cavity from the abdominal cavity.",
+      "When the diaphragm moves downward, the volume of the chest cavity increases.",
+      "The diaphragm plays a central role in normal breathing.",
+      "Diaphragmatic breathing encourages deeper, more controlled breaths."
+    ]
+  }
 }
 ]
