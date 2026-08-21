@@ -1,1 +1,391 @@
-[]
+[
+{
+  "id": "umbilical_cord_blood",
+  "sid": "2026-00701",
+  "word": "umbilical cord blood",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "obstetrics",
+    "hematology",
+    "transplantation"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ʌmˈbɪlɪkəl kɔːrd blʌd/",
+      "uk": "/ʌmˈbɪlɪkəl kɔːd blʌd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "臍帯血",
+      "出産後に臍帯や胎盤に残る、造血幹細胞を含む血液"
+    ],
+    "en": [
+      "blood remaining in the umbilical cord and placenta after childbirth",
+      "blood that contains hematopoietic stem cells and can be collected for certain medical uses, including transplantation"
+    ]
+  },
+  "nuance": {
+    "ja": "umbilical cord blood は一般に cord blood と短縮される。出産後に臍帯と胎盤に残る血液で、赤血球や白血球などに分化できる造血幹細胞を含む。臍帯血移植では、白血病など一部の血液疾患の治療に利用されることがある。umbilical cord tissue は臍帯そのものの組織を指し、cord blood とは別物。",
+    "en": "Umbilical cord blood is commonly shortened to cord blood. It is the blood remaining in the umbilical cord and placenta after birth and contains hematopoietic stem cells capable of producing blood cells. It may be used in transplantation for certain blood and immune disorders. Cord tissue refers to the tissue of the umbilical cord itself and is distinct from cord blood."
+  },
+  "minimal": {
+    "ja": [
+      "umbilical cord blood：出産後の臍帯・胎盤に残る血液。",
+      "cord blood：umbilical cord blood の一般的な短縮形。",
+      "umbilical cord：胎児と胎盤をつなぐ臍帯。",
+      "placenta：胎盤。",
+      "stem cell：さまざまな細胞へ分化できる幹細胞。",
+      "bone marrow：骨髄。造血幹細胞の主要な供給源の一つ。"
+    ],
+    "en": [
+      "umbilical cord blood is blood remaining in the cord and placenta after birth.",
+      "cord blood is the common shortened form of umbilical cord blood.",
+      "the umbilical cord connects the fetus to the placenta.",
+      "the placenta is the organ that supports fetal development during pregnancy.",
+      "a stem cell can develop into specialized cell types.",
+      "bone marrow is another major source of hematopoietic stem cells."
+    ]
+  },
+  "etymology": {
+    "ja": "umbilical はラテン語 umbilicus『へそ』に由来し、cord はラテン語 chorda を経て『ひも、索状のもの』を意味する。したがって umbilical cord は文字どおり『へそにつながる索』。blood は古英語 blōd に由来する。",
+    "en": "Umbilical comes from Latin umbilicus, meaning 'navel'. Cord ultimately comes from Latin chorda, referring to a string or cordlike structure. Umbilical cord therefore literally refers to the cord attached at the navel. Blood comes from Old English blōd."
+  },
+  "synonyms": [
+    {
+      "word": "cord blood",
+      "note": {
+        "ja": "最も一般的な短縮形。医療文脈でも広く使われる。",
+        "en": "The standard shortened form and widely used in medical contexts."
+      }
+    },
+    {
+      "word": "placental blood",
+      "note": {
+        "ja": "胎盤に関連する血液を指す表現だが、通常 cord blood の完全な同義語としては扱わない。",
+        "en": "Refers to blood associated with the placenta but is not generally used as a complete synonym for cord blood."
+      }
+    },
+    {
+      "word": "hematopoietic stem cell source",
+      "note": {
+        "ja": "臍帯血の医療上の役割を説明する表現。語そのものの同義語ではない。",
+        "en": "A descriptive term for one medical role of cord blood rather than a lexical synonym."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Nabelschnurblut",
+    "it": "sangue del cordone ombelicale",
+    "fr": "sang de cordon ombilical",
+    "es": "sangre de cordón umbilical"
+  },
+  "collocations": {
+    "ja": [
+      "collect cord blood — 臍帯血を採取する",
+      "store cord blood — 臍帯血を保存する",
+      "donate cord blood — 臍帯血を提供する",
+      "cord blood bank — 臍帯血バンク",
+      "cord blood donation — 臍帯血提供",
+      "cord blood transplantation — 臍帯血移植",
+      "cord blood stem cells — 臍帯血由来幹細胞",
+      "umbilical cord blood collection — 臍帯血採取",
+      "public cord blood bank — 公的臍帯血バンク",
+      "private cord blood banking — 民間臍帯血保管"
+    ],
+    "en": [
+      "collect cord blood",
+      "store cord blood",
+      "donate cord blood",
+      "cord blood bank",
+      "cord blood donation",
+      "cord blood transplantation",
+      "cord blood stem cells",
+      "umbilical cord blood collection",
+      "public cord blood bank",
+      "private cord blood banking"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Umbilical cord blood can be collected after the baby is born. — 臍帯血は赤ちゃんが生まれた後に採取できる。",
+      "Cord blood contains hematopoietic stem cells. — 臍帯血には造血幹細胞が含まれている。",
+      "The parents decided to donate the umbilical cord blood to a public bank. — 両親はその臍帯血を公的バンクに提供することにした。",
+      "Cord blood transplantation is used to treat certain blood disorders. — 臍帯血移植は一部の血液疾患の治療に用いられる。",
+      "Cord blood and cord tissue are collected and stored differently. — 臍帯血と臍帯組織は異なる方法で採取・保存される。"
+    ],
+    "en": [
+      "Umbilical cord blood can be collected after the baby is born.",
+      "Cord blood contains hematopoietic stem cells.",
+      "The parents decided to donate the umbilical cord blood to a public bank.",
+      "Cord blood transplantation is used to treat certain blood disorders.",
+      "Cord blood and cord tissue are collected and stored differently."
+    ]
+  }
+},
+{
+  "id": "stem_cell",
+  "sid": "2026-00702",
+  "word": "stem cell",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "biology",
+    "medicine",
+    "cell biology",
+    "regenerative medicine"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "stem cells"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈstem ˌsel/",
+      "uk": "/ˈstem ˌsel/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "幹細胞",
+      "自己複製する能力を持ち、条件に応じて他の種類の細胞へ分化できる細胞"
+    ],
+    "en": [
+      "a cell capable of self-renewal and of developing into one or more specialized cell types",
+      "an unspecialized or relatively unspecialized cell that can produce differentiated cells"
+    ]
+  },
+  "nuance": {
+    "ja": "stem cell は一種類の細胞を指すのではなく、自己複製能と分化能を持つ細胞群の総称。embryonic stem cells, adult stem cells, induced pluripotent stem cells など種類によって分化できる範囲が異なる。すべての stem cell があらゆる細胞になれるわけではなく、pluripotent, multipotent など分化能の違いを区別する必要がある。",
+    "en": "Stem cell is a broad category rather than a single cell type. Different stem cells have different developmental capacities, including embryonic stem cells, adult stem cells, and induced pluripotent stem cells. Not every stem cell can become every type of cell, so distinctions such as pluripotent and multipotent are important."
+  },
+  "minimal": {
+    "ja": [
+      "stem cell：自己複製し、他の細胞へ分化できる幹細胞。",
+      "differentiated cell：特定の機能を持つよう分化した細胞。",
+      "embryonic stem cell：胚由来の多能性幹細胞。",
+      "adult stem cell：成体組織に存在する幹細胞。",
+      "hematopoietic stem cell：血液細胞を生み出す造血幹細胞。",
+      "progenitor cell：幹細胞より分化先が限定された前駆細胞。"
+    ],
+    "en": [
+      "a stem cell can self-renew and produce differentiated cells.",
+      "a differentiated cell has developed a specialized structure and function.",
+      "an embryonic stem cell is a pluripotent stem cell derived from an early embryo.",
+      "an adult stem cell is found in developed tissues and usually has more limited differentiation potential.",
+      "a hematopoietic stem cell gives rise to blood cell lineages.",
+      "a progenitor cell is generally more lineage-restricted than a stem cell."
+    ]
+  },
+  "etymology": {
+    "ja": "stem は古英語 stemn / stefn『植物の茎、幹』に由来する。植物の幹から枝が分かれて伸びるイメージから、生物学ではさまざまな細胞系統の出発点となる細胞を stem cell と呼ぶようになった。",
+    "en": "Stem comes from Old English stemn or stefn, referring to the main stalk or trunk of a plant. In biology, the branching image became a useful metaphor for a cell from which multiple specialized cell lineages can arise."
+  },
+  "synonyms": [
+    {
+      "word": "progenitor cell",
+      "note": {
+        "ja": "前駆細胞。stem cell より自己複製能や分化可能範囲が限定されることが多い。",
+        "en": "A precursor cell that is typically more limited in self-renewal or differentiation potential than a stem cell."
+      }
+    },
+    {
+      "word": "precursor cell",
+      "note": {
+        "ja": "後の細胞型の前段階にある細胞を表す広い語。",
+        "en": "A broad term for a cell that develops into a more specialized cell type."
+      }
+    },
+    {
+      "word": "undifferentiated cell",
+      "note": {
+        "ja": "未分化細胞という説明的表現。ただしすべての未分化細胞が stem cell とは限らない。",
+        "en": "A descriptive term for an unspecialized cell, though not every undifferentiated cell qualifies as a stem cell."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Stammzelle",
+    "it": "cellula staminale",
+    "fr": "cellule souche",
+    "es": "célula madre"
+  },
+  "collocations": {
+    "ja": [
+      "stem cell research — 幹細胞研究",
+      "stem cell therapy — 幹細胞治療",
+      "stem cell transplantation — 幹細胞移植",
+      "stem cell differentiation — 幹細胞の分化",
+      "stem cell self-renewal — 幹細胞の自己複製",
+      "embryonic stem cell — 胚性幹細胞",
+      "adult stem cell — 成体幹細胞",
+      "hematopoietic stem cell — 造血幹細胞",
+      "neural stem cell — 神経幹細胞",
+      "stem cell niche — 幹細胞ニッチ"
+    ],
+    "en": [
+      "stem cell research",
+      "stem cell therapy",
+      "stem cell transplantation",
+      "stem cell differentiation",
+      "stem cell self-renewal",
+      "embryonic stem cell",
+      "adult stem cell",
+      "hematopoietic stem cell",
+      "neural stem cell",
+      "stem cell niche"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Stem cells can develop into specialized cell types under the right conditions. — 幹細胞は適切な条件下で特殊化した細胞へ分化できる。",
+      "The researchers studied how stem cells maintain their ability to self-renew. — 研究者たちは幹細胞がどのように自己複製能を維持するかを研究した。",
+      "Hematopoietic stem cells give rise to the major types of blood cells. — 造血幹細胞は主要な血球系統を生み出す。",
+      "Stem cell transplantation is used in the treatment of some blood disorders. — 幹細胞移植は一部の血液疾患の治療に用いられる。",
+      "Not all stem cells have the same capacity for differentiation. — すべての幹細胞が同じ分化能力を持つわけではない。"
+    ],
+    "en": [
+      "Stem cells can develop into specialized cell types under the right conditions.",
+      "The researchers studied how stem cells maintain their ability to self-renew.",
+      "Hematopoietic stem cells give rise to the major types of blood cells.",
+      "Stem cell transplantation is used in the treatment of some blood disorders.",
+      "Not all stem cells have the same capacity for differentiation."
+    ]
+  }
+},
+{
+  "id": "hematopoietic",
+  "sid": "2026-00703",
+  "word": "hematopoietic",
+  "variants": [
+    "haematopoietic"
+  ],
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "hematology",
+    "biology",
+    "stem cells"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "hematopoietic"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/hɪˌmætəpɔɪˈetɪk/",
+      "uk": "/ˌhiːmətəpɔɪˈetɪk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "造血の、血液細胞の形成に関する",
+      "赤血球・白血球・血小板などの血液細胞を生み出す過程に関係する"
+    ],
+    "en": [
+      "relating to the formation and development of blood cells",
+      "involved in producing blood cell lineages such as red cells, white cells, and platelets"
+    ]
+  },
+  "nuance": {
+    "ja": "hematopoietic は医学・生物学で使う専門的な形容詞で、hematopoiesis『造血』に関するものを表す。特に hematopoietic stem cell『造血幹細胞』、hematopoietic system『造血系』、hematopoietic tissue『造血組織』などで頻出する。米国式では hematopoietic、英国式では haematopoietic という綴りも一般的。",
+    "en": "Hematopoietic is a technical medical and biological adjective meaning related to hematopoiesis, the production of blood cells. It is especially common in phrases such as hematopoietic stem cell, hematopoietic system, and hematopoietic tissue. The spelling haematopoietic is also common in British usage."
+  },
+  "minimal": {
+    "ja": [
+      "hematopoietic：造血に関する。",
+      "hematopoiesis：血液細胞を作る過程、造血。",
+      "hematopoietic stem cell：造血幹細胞。",
+      "hematology：血液と血液疾患を扱う医学分野。",
+      "hemoglobin：赤血球内で酸素を運ぶタンパク質。",
+      "progenitor cell：より分化方向が限定された前駆細胞。"
+    ],
+    "en": [
+      "hematopoietic means relating to blood cell formation.",
+      "hematopoiesis is the process of producing blood cells.",
+      "a hematopoietic stem cell gives rise to blood cell lineages.",
+      "hematology is the medical field concerned with blood and blood disorders.",
+      "hemoglobin is the oxygen-carrying protein in red blood cells.",
+      "a progenitor cell is generally more lineage-restricted than a stem cell."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語由来の要素 hemato-『血』＋ -poietic『作ることに関する』から成る。-poietic は poiein『作る、形成する』に由来するため、hematopoietic は文字どおり『血を作ることに関する』という意味。poetry も遠い語源的には同じ poiein『作る』の系統。",
+    "en": "Formed from hemato-, 'blood', and -poietic, 'producing or forming', ultimately from Greek poiein, 'to make or create'. Hematopoietic therefore literally means 'blood-forming'. The root poiein is also distantly related to poetry through the idea of making or creating."
+  },
+  "synonyms": [
+    {
+      "word": "blood-forming",
+      "note": {
+        "ja": "hematopoietic を平易な英語で表した説明的表現。",
+        "en": "A plain-language descriptive equivalent meaning involved in producing blood cells."
+      }
+    },
+    {
+      "word": "hemopoietic",
+      "note": {
+        "ja": "hematopoietic の別形。医学文献で見られるが、hematopoietic のほうが一般的。",
+        "en": "An alternative form found in medical literature, though hematopoietic is more common."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "hämatopoetisch",
+    "it": "ematopoietico",
+    "fr": "hématopoïétique",
+    "es": "hematopoyético"
+  },
+  "collocations": {
+    "ja": [
+      "hematopoietic stem cell — 造血幹細胞",
+      "hematopoietic stem cell transplantation — 造血幹細胞移植",
+      "hematopoietic system — 造血系",
+      "hematopoietic tissue — 造血組織",
+      "hematopoietic cells — 造血細胞",
+      "hematopoietic progenitor cell — 造血前駆細胞",
+      "hematopoietic disorder — 造血系疾患",
+      "hematopoietic function — 造血機能",
+      "hematopoietic lineage — 造血細胞系統",
+      "hematopoietic recovery — 造血機能の回復"
+    ],
+    "en": [
+      "hematopoietic stem cell",
+      "hematopoietic stem cell transplantation",
+      "hematopoietic system",
+      "hematopoietic tissue",
+      "hematopoietic cells",
+      "hematopoietic progenitor cell",
+      "hematopoietic disorder",
+      "hematopoietic function",
+      "hematopoietic lineage",
+      "hematopoietic recovery"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Hematopoietic stem cells can generate all major blood cell lineages. — 造血幹細胞は主要な血球系統を生み出すことができる。",
+      "Bone marrow is a major site of hematopoietic activity in adults. — 骨髄は成人における主要な造血部位である。",
+      "The patient underwent hematopoietic stem cell transplantation. — その患者は造血幹細胞移植を受けた。",
+      "Researchers are studying the mechanisms that regulate hematopoietic differentiation. — 研究者たちは造血細胞の分化を調節する仕組みを研究している。",
+      "Hematopoietic recovery may take time after intensive treatment. — 強力な治療の後、造血機能の回復には時間がかかることがある。"
+    ],
+    "en": [
+      "Hematopoietic stem cells can generate all major blood cell lineages.",
+      "Bone marrow is a major site of hematopoietic activity in adults.",
+      "The patient underwent hematopoietic stem cell transplantation.",
+      "Researchers are studying the mechanisms that regulate hematopoietic differentiation.",
+      "Hematopoietic recovery may take time after intensive treatment."
+    ]
+  }
+}
+]
