@@ -1002,5 +1002,129 @@
       "The MRI showed compression of the spinal cord."
     ]
   }
+},
+{
+  "id": "lymphoma",
+  "sid": "2026-00709",
+  "word": "lymphoma",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "hematology",
+    "oncology",
+    "lymphatic system"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable depending on context",
+    "plural": "lymphomas"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/lɪmˈfoʊmə/",
+      "uk": "/lɪmˈfəʊmə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "リンパ腫",
+      "主にリンパ球から生じる悪性腫瘍の総称"
+    ],
+    "en": [
+      "a group of cancers arising from lymphocytes",
+      "a malignancy of the lymphatic system or related lymphoid tissues"
+    ]
+  },
+  "nuance": {
+    "ja": "lymphoma は単一の病気ではなく、多数の病型を含む総称。大きく Hodgkin lymphoma と non-Hodgkin lymphoma に分類されることが多い。leukemia と lymphoma はどちらも血液・造血系の悪性腫瘍だが、典型的には leukemia は骨髄や血液中で異常細胞が増える形、lymphoma はリンパ節などのリンパ組織に腫瘤を形成する形で現れやすい。ただし両者の境界は病型によって重なることもある。",
+    "en": "Lymphoma is an umbrella term for many cancers arising from lymphocytes. It is commonly divided into Hodgkin lymphoma and non-Hodgkin lymphoma. Leukemia and lymphoma are both hematologic malignancies, but leukemia more typically presents with abnormal cells in the bone marrow and blood, while lymphoma more often presents as masses in lymph nodes or other lymphoid tissues. The distinction can overlap in some disease types."
+  },
+  "minimal": {
+    "ja": [
+      "lymphoma：主にリンパ球由来の血液がんで、リンパ組織に腫瘤を形成しやすい。",
+      "leukemia：主に骨髄・血液で異常な造血細胞が増える血液がん。",
+      "myeloma：主に形質細胞に由来する血液がん。",
+      "lymph node：リンパ球が集まるリンパ節。",
+      "lymphocyte：免疫に関わる白血球の一種、リンパ球。",
+      "hematologic malignancy：血液・造血・リンパ系の悪性腫瘍の総称。"
+    ],
+    "en": [
+      "lymphoma is a cancer of lymphocytes that often forms masses in lymphoid tissues.",
+      "leukemia more typically involves abnormal blood-forming cells in bone marrow and blood.",
+      "myeloma is a blood cancer arising mainly from plasma cells.",
+      "a lymph node is a structure containing immune cells, including lymphocytes.",
+      "a lymphocyte is a type of white blood cell involved in immunity.",
+      "hematologic malignancy is the umbrella term for cancers of blood, bone marrow, and lymphoid tissues."
+    ]
+  },
+  "etymology": {
+    "ja": "lymph『リンパ』＋ -oma『腫瘍』から成る。lymph はラテン語 lympha『澄んだ水』に由来し、-oma はギリシャ語由来で『腫れ、腫瘍』を表す医学語尾。語源的には『リンパ組織に生じる腫瘍』という構造。",
+    "en": "Formed from lymph and the medical suffix -oma, meaning 'tumor or swelling'. Lymph ultimately comes from Latin lympha, meaning 'clear water', while -oma is of Greek origin and is widely used in names of tumors."
+  },
+  "synonyms": [
+    {
+      "word": "lymphatic cancer",
+      "note": {
+        "ja": "一般向けに説明する表現だが、医学的には lymphoma のほうが標準的。",
+        "en": "A lay descriptive expression, while lymphoma is the standard medical term."
+      }
+    },
+    {
+      "word": "hematologic malignancy",
+      "note": {
+        "ja": "血液系悪性腫瘍というより広い専門語で、lymphoma 以外も含む。",
+        "en": "A broader technical category that includes lymphoma, leukemia, myeloma, and other blood cancers."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Lymphom",
+    "it": "linfoma",
+    "fr": "lymphome",
+    "es": "linfoma"
+  },
+  "collocations": {
+    "ja": [
+      "Hodgkin lymphoma — ホジキンリンパ腫",
+      "non-Hodgkin lymphoma — 非ホジキンリンパ腫",
+      "aggressive lymphoma — 進行の速いリンパ腫",
+      "indolent lymphoma — 進行の遅いリンパ腫",
+      "lymphoma cells — リンパ腫細胞",
+      "lymphoma treatment — リンパ腫治療",
+      "diagnose lymphoma — リンパ腫と診断する",
+      "treat lymphoma — リンパ腫を治療する",
+      "lymphoma patient — リンパ腫患者",
+      "relapsed lymphoma — 再発リンパ腫"
+    ],
+    "en": [
+      "Hodgkin lymphoma",
+      "non-Hodgkin lymphoma",
+      "aggressive lymphoma",
+      "indolent lymphoma",
+      "lymphoma cells",
+      "lymphoma treatment",
+      "diagnose lymphoma",
+      "treat lymphoma",
+      "lymphoma patient",
+      "relapsed lymphoma"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The biopsy confirmed a diagnosis of lymphoma. — 生検によってリンパ腫の診断が確定した。",
+      "Lymphoma can affect lymph nodes and other lymphoid tissues. — リンパ腫はリンパ節やその他のリンパ組織に影響を及ぼすことがある。",
+      "Some lymphomas progress rapidly, while others are relatively indolent. — リンパ腫には急速に進行するものもあれば、比較的ゆっくり進行するものもある。",
+      "The treatment depends on the specific type of lymphoma. — 治療はリンパ腫の具体的な病型によって異なる。",
+      "Lymphoma and leukemia are both classified as hematologic malignancies. — リンパ腫と白血病はいずれも血液系悪性腫瘍に分類される。"
+    ],
+    "en": [
+      "The biopsy confirmed a diagnosis of lymphoma.",
+      "Lymphoma can affect lymph nodes and other lymphoid tissues.",
+      "Some lymphomas progress rapidly, while others are relatively indolent.",
+      "The treatment depends on the specific type of lymphoma.",
+      "Lymphoma and leukemia are both classified as hematologic malignancies."
+    ]
+  }
 }
 ]
