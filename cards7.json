@@ -511,5 +511,496 @@
       "Placental tissue is expelled after the baby is delivered."
     ]
   }
+},
+{
+  "id": "leukemia",
+  "sid": "2026-00705",
+  "word": "leukemia",
+  "variants": [
+    "leukaemia"
+  ],
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "hematology",
+    "oncology",
+    "blood"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable depending on context",
+    "plural": "leukemias / leukaemias"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/luːˈkiːmiə/",
+      "uk": "/luːˈkiːmiə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "白血病",
+      "骨髄などの造血組織で異常な血液細胞が増殖するがんの総称"
+    ],
+    "en": [
+      "a group of cancers affecting blood-forming tissues, especially the bone marrow",
+      "a cancer characterized by abnormal production or proliferation of blood-forming cells"
+    ]
+  },
+  "nuance": {
+    "ja": "leukemia は単一の病気ではなく、複数のタイプを含む総称。acute / chronic、lymphocytic / myeloid などで分類される。異常な白血球系細胞が関与することが多いが、病型によって起源となる細胞や進行速度は異なる。英国式綴りでは leukaemia が一般的。",
+    "en": "Leukemia is an umbrella term for several cancers of blood-forming tissues. Major classifications include acute versus chronic and lymphocytic versus myeloid forms. The exact cell lineage and speed of progression vary by type. The spelling leukaemia is common in British English."
+  },
+  "minimal": {
+    "ja": [
+      "leukemia：造血組織に生じる血液がんの総称。",
+      "lymphoma：主にリンパ系組織に生じるがん。",
+      "myeloma：形質細胞などに関わる血液がん。",
+      "anemia：赤血球やヘモグロビンが不足する状態で、がんとは限らない。",
+      "hematology：血液と血液疾患を扱う医学分野。",
+      "bone marrow：血液細胞がつくられる主要な組織。"
+    ],
+    "en": [
+      "leukemia is a group of cancers of blood-forming tissues.",
+      "lymphoma primarily affects lymphatic tissues.",
+      "myeloma is a blood cancer involving plasma cells or related cells.",
+      "anemia is a deficiency of red cells or hemoglobin and is not necessarily cancer.",
+      "hematology is the medical field concerned with blood and blood disorders.",
+      "bone marrow is a major site of blood cell production."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語由来の leuk-『白い』＋ -emia『血液の状態』から成る。leukos は『白い』、haima は『血』を意味し、語源的には『白い血』という発想。",
+    "en": "Formed from Greek-derived leuk- meaning 'white' and -emia referring to a condition of the blood. The underlying roots are leukos, 'white', and haima, 'blood'."
+  },
+  "synonyms": [
+    {
+      "word": "blood cancer",
+      "note": {
+        "ja": "一般向けの広い表現。leukemia だけでなく lymphoma や myeloma なども含み得る。",
+        "en": "A broad lay term that can include leukemia, lymphoma, myeloma, and other hematologic malignancies."
+      }
+    },
+    {
+      "word": "hematologic malignancy",
+      "note": {
+        "ja": "血液系悪性腫瘍という専門的な総称で、leukemia より広い。",
+        "en": "A technical umbrella term for malignant diseases of the blood and blood-forming tissues."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Leukämie",
+    "it": "leucemia",
+    "fr": "leucémie",
+    "es": "leucemia"
+  },
+  "collocations": {
+    "ja": [
+      "acute leukemia — 急性白血病",
+      "chronic leukemia — 慢性白血病",
+      "lymphocytic leukemia — リンパ性白血病",
+      "myeloid leukemia — 骨髄性白血病",
+      "childhood leukemia — 小児白血病",
+      "diagnose leukemia — 白血病と診断する",
+      "treat leukemia — 白血病を治療する",
+      "leukemia treatment — 白血病治療",
+      "leukemia cells — 白血病細胞",
+      "leukemia patient — 白血病患者"
+    ],
+    "en": [
+      "acute leukemia",
+      "chronic leukemia",
+      "lymphocytic leukemia",
+      "myeloid leukemia",
+      "childhood leukemia",
+      "diagnose leukemia",
+      "treat leukemia",
+      "leukemia treatment",
+      "leukemia cells",
+      "leukemia patient"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The patient was diagnosed with acute leukemia. — その患者は急性白血病と診断された。",
+      "Leukemia affects the body's blood-forming tissues. — 白血病は体内の造血組織に影響を及ぼす。",
+      "Some forms of leukemia progress rapidly, while others develop more slowly. — 白血病には急速に進行する型もあれば、よりゆっくり進行する型もある。",
+      "The treatment plan depends on the type of leukemia. — 治療計画は白血病の種類によって異なる。",
+      "Hematopoietic stem cell transplantation may be used in the treatment of certain leukemias. — 一部の白血病の治療では造血幹細胞移植が用いられることがある。"
+    ],
+    "en": [
+      "The patient was diagnosed with acute leukemia.",
+      "Leukemia affects the body's blood-forming tissues.",
+      "Some forms of leukemia progress rapidly, while others develop more slowly.",
+      "The treatment plan depends on the type of leukemia.",
+      "Hematopoietic stem cell transplantation may be used in the treatment of certain leukemias."
+    ]
+  }
+},
+{
+  "id": "pancreas",
+  "sid": "2026-00706",
+  "word": "pancreas",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "anatomy",
+    "digestive system",
+    "endocrinology"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "pancreases"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈpæŋkriəs/",
+      "uk": "/ˈpæŋkriəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "膵臓",
+      "消化酵素を分泌し、またインスリンなどのホルモンを産生する腹部の臓器"
+    ],
+    "en": [
+      "an organ in the abdomen that produces digestive enzymes",
+      "an organ that also produces hormones such as insulin and glucagon"
+    ]
+  },
+  "nuance": {
+    "ja": "pancreas は消化器系と内分泌系の両方に関わる臓器。外分泌部では消化酵素を含む膵液を十二指腸へ送り、内分泌部では膵島の細胞がインスリンやグルカゴンなどを血中へ分泌する。形容詞は pancreatic。",
+    "en": "The pancreas has both exocrine and endocrine functions. Its exocrine tissue releases digestive enzymes into the duodenum, while endocrine cells in the pancreatic islets release hormones such as insulin and glucagon into the bloodstream. The adjective is pancreatic."
+  },
+  "minimal": {
+    "ja": [
+      "pancreas：消化酵素とホルモンを産生する膵臓。",
+      "pancreatic：膵臓の。",
+      "liver：肝臓。代謝・解毒・胆汁産生などを担う。",
+      "gallbladder：胆嚢。胆汁を貯蔵・濃縮する。",
+      "insulin：血糖調節に重要な膵臓由来ホルモン。",
+      "pancreatitis：膵臓の炎症、膵炎。"
+    ],
+    "en": [
+      "the pancreas produces digestive enzymes and several important hormones.",
+      "pancreatic means relating to the pancreas.",
+      "the liver performs major metabolic and detoxification functions and produces bile.",
+      "the gallbladder stores and concentrates bile.",
+      "insulin is a pancreatic hormone central to blood glucose regulation.",
+      "pancreatitis is inflammation of the pancreas."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 pankreas に由来し、pan-『すべて』＋ kreas『肉』という構造。古代にこの臓器が全体として肉質に見えたことから、『すべて肉のもの』という名前が付いたとされる。",
+    "en": "From Greek pankreas, formed from pan- ('all') and kreas ('flesh'). The name reflects the organ's fleshy appearance, literally suggesting something that is 'all flesh'."
+  },
+  "synonyms": [
+    {
+      "word": "pancreatic gland",
+      "note": {
+        "ja": "膵臓を説明的に指す表現。ただし通常は pancreas を使う。",
+        "en": "A descriptive term for the organ, though pancreas is the standard word."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Bauchspeicheldrüse",
+    "it": "pancreas",
+    "fr": "pancréas",
+    "es": "páncreas"
+  },
+  "collocations": {
+    "ja": [
+      "the pancreas produces insulin — 膵臓がインスリンを産生する",
+      "pancreatic function — 膵機能",
+      "pancreatic enzymes — 膵酵素",
+      "pancreatic juice — 膵液",
+      "pancreatic cells — 膵細胞",
+      "pancreatic tissue — 膵組織",
+      "pancreatic duct — 膵管",
+      "pancreatic cancer — 膵がん",
+      "inflammation of the pancreas — 膵臓の炎症",
+      "remove part of the pancreas — 膵臓の一部を切除する"
+    ],
+    "en": [
+      "the pancreas produces insulin",
+      "pancreatic function",
+      "pancreatic enzymes",
+      "pancreatic juice",
+      "pancreatic cells",
+      "pancreatic tissue",
+      "pancreatic duct",
+      "pancreatic cancer",
+      "inflammation of the pancreas",
+      "remove part of the pancreas"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The pancreas produces enzymes that help digest food. — 膵臓は食物の消化を助ける酵素を産生する。",
+      "Insulin is produced by specialized cells in the pancreas. — インスリンは膵臓の特殊な細胞によって産生される。",
+      "The pancreatic duct carries digestive secretions into the small intestine. — 膵管は消化分泌物を小腸へ運ぶ。",
+      "Inflammation of the pancreas is called pancreatitis. — 膵臓の炎症は膵炎と呼ばれる。",
+      "The pancreas plays an important role in both digestion and blood glucose regulation. — 膵臓は消化と血糖調節の両方で重要な役割を果たす。"
+    ],
+    "en": [
+      "The pancreas produces enzymes that help digest food.",
+      "Insulin is produced by specialized cells in the pancreas.",
+      "The pancreatic duct carries digestive secretions into the small intestine.",
+      "Inflammation of the pancreas is called pancreatitis.",
+      "The pancreas plays an important role in both digestion and blood glucose regulation."
+    ]
+  }
+},
+{
+  "id": "bone_marrow",
+  "sid": "2026-00707",
+  "word": "bone marrow",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "hematology",
+    "anatomy",
+    "blood"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "usually uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈboʊn ˌmæroʊ/",
+      "uk": "/ˈbəʊn ˌmærəʊ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "骨髄",
+      "骨の内部にある柔らかい組織で、血液細胞の産生に重要な役割を果たすもの"
+    ],
+    "en": [
+      "the soft tissue found inside certain bones",
+      "tissue that plays a major role in producing blood cells"
+    ]
+  },
+  "nuance": {
+    "ja": "bone marrow は骨の内部にある組織で、特に red bone marrow『赤色骨髄』では造血が行われる。造血幹細胞から赤血球・多くの白血球・血小板につながる細胞系統が生み出される。yellow bone marrow『黄色骨髄』は脂肪を多く含み、造血機能は赤色骨髄より低い。医学では bone marrow biopsy, bone marrow transplant などの表現が頻出する。",
+    "en": "Bone marrow is the soft tissue inside bones. Red bone marrow is a major site of hematopoiesis, where hematopoietic stem cells give rise to red cells, many white cell lineages, and platelet-producing cells. Yellow bone marrow contains more fat and has less active blood cell production. Common medical expressions include bone marrow biopsy and bone marrow transplant."
+  },
+  "minimal": {
+    "ja": [
+      "bone marrow：骨の内部にある、造血に重要な組織。",
+      "red bone marrow：活発に造血を行う赤色骨髄。",
+      "yellow bone marrow：脂肪を多く含む黄色骨髄。",
+      "hematopoietic stem cell：血液細胞系統を生み出す造血幹細胞。",
+      "blood：血液そのもの。",
+      "spinal cord：脊髄。bone marrow とは全く別の組織。"
+    ],
+    "en": [
+      "bone marrow is soft tissue inside bones and is important for blood cell production.",
+      "red bone marrow is the more hematopoietically active form.",
+      "yellow bone marrow contains more fat and is less active in blood production.",
+      "a hematopoietic stem cell gives rise to blood cell lineages.",
+      "blood is the circulating fluid itself.",
+      "the spinal cord is part of the nervous system and is entirely different from bone marrow."
+    ]
+  },
+  "etymology": {
+    "ja": "bone は古英語 ban『骨』に由来し、marrow は古英語 mearg『骨髄、骨の内部の柔らかい組織』に由来する。marrow は古くから『骨の中心部にある柔らかい物質』を表していた。",
+    "en": "Bone comes from Old English ban, meaning 'bone'. Marrow comes from Old English mearg, referring to the soft substance inside bones. The word has long carried the idea of the soft inner core of a bone."
+  },
+  "synonyms": [
+    {
+      "word": "marrow",
+      "note": {
+        "ja": "文脈が明らかな場合、bone marrow を単に marrow と呼ぶことがある。",
+        "en": "Can refer to bone marrow when the anatomical context is clear."
+      }
+    },
+    {
+      "word": "hematopoietic tissue",
+      "note": {
+        "ja": "造血組織という機能的な表現。bone marrow と完全な同義ではない。",
+        "en": "A functional term for blood-forming tissue and not a complete synonym for bone marrow."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Knochenmark",
+    "it": "midollo osseo",
+    "fr": "moelle osseuse",
+    "es": "médula ósea"
+  },
+  "collocations": {
+    "ja": [
+      "bone marrow transplant — 骨髄移植",
+      "bone marrow transplantation — 骨髄移植",
+      "bone marrow biopsy — 骨髄生検",
+      "bone marrow aspiration — 骨髄穿刺・骨髄吸引",
+      "bone marrow donor — 骨髄提供者",
+      "bone marrow cells — 骨髄細胞",
+      "bone marrow failure — 骨髄不全",
+      "bone marrow suppression — 骨髄抑制",
+      "red bone marrow — 赤色骨髄",
+      "yellow bone marrow — 黄色骨髄"
+    ],
+    "en": [
+      "bone marrow transplant",
+      "bone marrow transplantation",
+      "bone marrow biopsy",
+      "bone marrow aspiration",
+      "bone marrow donor",
+      "bone marrow cells",
+      "bone marrow failure",
+      "bone marrow suppression",
+      "red bone marrow",
+      "yellow bone marrow"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Bone marrow produces most of the body's blood cells. — 骨髄は体内の血液細胞の多くを産生する。",
+      "The doctor recommended a bone marrow biopsy. — 医師は骨髄生検を勧めた。",
+      "Hematopoietic stem cells are found in bone marrow. — 造血幹細胞は骨髄に存在する。",
+      "The patient underwent a bone marrow transplant. — その患者は骨髄移植を受けた。",
+      "Red bone marrow is especially important for hematopoiesis. — 赤色骨髄は造血に特に重要である。"
+    ],
+    "en": [
+      "Bone marrow produces most of the body's blood cells.",
+      "The doctor recommended a bone marrow biopsy.",
+      "Hematopoietic stem cells are found in bone marrow.",
+      "The patient underwent a bone marrow transplant.",
+      "Red bone marrow is especially important for hematopoiesis."
+    ]
+  }
+},
+{
+  "id": "spinal_cord",
+  "sid": "2026-00708",
+  "word": "spinal cord",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "neurology",
+    "anatomy",
+    "nervous system"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "spinal cords"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈspaɪnəl ˌkɔːrd/",
+      "uk": "/ˈspaɪnəl ˌkɔːd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "脊髄",
+      "脳と身体の各部との間で神経信号を伝える中枢神経系の一部"
+    ],
+    "en": [
+      "the long bundle of nervous tissue extending from the brain through the vertebral canal",
+      "a major part of the central nervous system that carries signals between the brain and the body"
+    ]
+  },
+  "nuance": {
+    "ja": "spinal cord は脳とともに central nervous system『中枢神経系』を構成する。脊柱の中を通り、脳と末梢神経系の間で感覚・運動情報を伝えるほか、反射にも重要な役割を果たす。bone marrow『骨髄』とは全く別の組織で、spinal cord は神経組織、bone marrow は骨の内部にある造血などに関わる組織。",
+    "en": "The spinal cord, together with the brain, forms the central nervous system. It runs through the vertebral canal and carries sensory and motor signals between the brain and peripheral nerves, while also participating in reflexes. It is completely different from bone marrow: the spinal cord is nervous tissue, whereas bone marrow is tissue inside bones involved in blood cell production."
+  },
+  "minimal": {
+    "ja": [
+      "spinal cord：脳と身体をつなぐ中枢神経系の神経組織。",
+      "spine：脊柱、背骨という骨格構造。",
+      "vertebral column：脊柱を表す解剖学的な正式語。",
+      "bone marrow：骨内部にある骨髄。spinal cord とは別物。",
+      "brainstem：脳と脊髄をつなぐ脳幹。",
+      "peripheral nerve：中枢神経系と身体各部をつなぐ末梢神経。"
+    ],
+    "en": [
+      "the spinal cord is nervous tissue connecting the brain with the body.",
+      "the spine is the bony vertebral structure.",
+      "the vertebral column is the anatomical term for the spinal column.",
+      "bone marrow is tissue inside bones and is distinct from the spinal cord.",
+      "the brainstem connects major parts of the brain with the spinal cord.",
+      "peripheral nerves connect the central nervous system with the rest of the body."
+    ]
+  },
+  "etymology": {
+    "ja": "spinal は spine『脊柱、背骨』に由来し、spine はラテン語 spina『とげ、背骨』の系統。cord はラテン語 chorda を経て『ひも、索状のもの』を意味するため、spinal cord は文字どおり『脊柱の中を走る索状の組織』という発想。",
+    "en": "Spinal comes from spine, ultimately from Latin spina, meaning 'thorn or backbone'. Cord ultimately comes from Latin chorda, referring to a string or cordlike structure. Spinal cord therefore reflects the cordlike nervous tissue running within the vertebral column."
+  },
+  "synonyms": [
+    {
+      "word": "spinal medulla",
+      "note": {
+        "ja": "脊髄を指す専門的・古典的な表現だが、通常は spinal cord を使う。",
+        "en": "A technical or older anatomical term for the spinal cord; spinal cord is the standard modern expression."
+      }
+    },
+    {
+      "word": "medulla spinalis",
+      "note": {
+        "ja": "解剖学のラテン語名称。",
+        "en": "The Latin anatomical term for the spinal cord."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Rückenmark",
+    "it": "midollo spinale",
+    "fr": "moelle épinière",
+    "es": "médula espinal"
+  },
+  "collocations": {
+    "ja": [
+      "spinal cord injury — 脊髄損傷",
+      "spinal cord compression — 脊髄圧迫",
+      "spinal cord damage — 脊髄損傷",
+      "spinal cord tissue — 脊髄組織",
+      "spinal cord function — 脊髄機能",
+      "spinal cord lesion — 脊髄病変",
+      "spinal cord stimulation — 脊髄刺激",
+      "spinal cord reflex — 脊髄反射",
+      "the spinal cord carries signals — 脊髄が信号を伝える",
+      "protect the spinal cord — 脊髄を保護する"
+    ],
+    "en": [
+      "spinal cord injury",
+      "spinal cord compression",
+      "spinal cord damage",
+      "spinal cord tissue",
+      "spinal cord function",
+      "spinal cord lesion",
+      "spinal cord stimulation",
+      "spinal cord reflex",
+      "the spinal cord carries signals",
+      "protect the spinal cord"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The spinal cord carries signals between the brain and the rest of the body. — 脊髄は脳と身体の各部との間で信号を伝える。",
+      "The vertebral column helps protect the spinal cord. — 脊柱は脊髄を保護するのに役立つ。",
+      "A severe spinal cord injury can affect movement and sensation. — 重度の脊髄損傷は運動や感覚に影響を及ぼすことがある。",
+      "Some reflexes are mediated through the spinal cord. — 一部の反射は脊髄を介して起こる。",
+      "The MRI showed compression of the spinal cord. — MRIでは脊髄の圧迫が認められた。"
+    ],
+    "en": [
+      "The spinal cord carries signals between the brain and the rest of the body.",
+      "The vertebral column helps protect the spinal cord.",
+      "A severe spinal cord injury can affect movement and sensation.",
+      "Some reflexes are mediated through the spinal cord.",
+      "The MRI showed compression of the spinal cord."
+    ]
+  }
 }
 ]
