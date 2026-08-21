@@ -6478,5 +6478,690 @@
       "Without treatment, the infection can sometimes prove lethal."
     ]
   }
+},
+{
+  "id": "fatal",
+  "sid": "2026-00751",
+  "word": "fatal",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "safety",
+    "general",
+    "outcome"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "fatal"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfeɪtəl/",
+      "uk": "/ˈfeɪtəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "致命的な、死をもたらす",
+      "死亡という結果に至る",
+      "比喩的に、取り返しのつかない重大な結果を招く"
+    ],
+    "en": [
+      "causing or resulting in death",
+      "having death as the outcome",
+      "figuratively, causing a disastrous or irreversible result"
+    ]
+  },
+  "nuance": {
+    "ja": "fatal は事故・傷害・病気などが結果として死につながることを強調する語。fatal accident『死亡事故』、fatal injury『致命傷』、fatal disease『死に至る病気』などで頻出する。lethal は『死をもたらす能力・性質がある』ことに焦点を当てやすいのに対し、fatal は実際または予想される結果としての死を強調しやすい。また fatal mistake『致命的なミス』のように、死とは無関係な重大な失敗にも比喩的に使われる。",
+    "en": "Fatal emphasizes death as the actual or expected outcome of an accident, injury, disease, or other event. It is common in expressions such as fatal accident, fatal injury, and fatal disease. Lethal more readily emphasizes the capacity to cause death, whereas fatal emphasizes the deadly outcome. Figuratively, fatal can also describe a disastrous mistake or flaw."
+  },
+  "minimal": {
+    "ja": [
+      "fatal：結果として死に至る、致命的な。",
+      "lethal：死をもたらす能力・程度がある。",
+      "deadly：死をもたらし得る、より一般的な語。",
+      "mortal：死をもたらす。mortal wound など限定的な用法が多い。",
+      "terminal：病気が治癒困難で死に至る段階にある。",
+      "fatal mistake：重大で取り返しのつかないミス。必ずしも死亡とは関係しない。"
+    ],
+    "en": [
+      "fatal emphasizes death as the outcome.",
+      "lethal emphasizes the capacity to cause death.",
+      "deadly is a more general everyday term for something capable of killing.",
+      "mortal can mean causing death, especially in expressions such as mortal wound.",
+      "terminal describes a disease or condition expected to lead to death.",
+      "a fatal mistake is a disastrous or decisive mistake and need not involve death."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 fatalis『運命によって定められた』に由来し、fatum『運命、定められたこと』と関係する。もともとは『運命によって定められた』という意味だったが、とくに『死という運命をもたらす』意味が強まり、現代の『致命的な』へ発展した。同じ語源系には fate『運命』がある。",
+    "en": "From Latin fatalis, meaning 'ordained by fate', from fatum, 'fate or that which has been spoken'. The word gradually developed a strong association with an outcome destined to bring death. Fate comes from the same historical root."
+  },
+  "synonyms": [
+    {
+      "word": "lethal",
+      "note": {
+        "ja": "非常に近いが、死をもたらす能力や性質に焦点を当てやすい。",
+        "en": "Very close in meaning, but more likely to emphasize the capacity to cause death."
+      }
+    },
+    {
+      "word": "deadly",
+      "note": {
+        "ja": "より日常的で広く使える『命に関わる、死をもたらす』。",
+        "en": "A more general and everyday word for something capable of causing death."
+      }
+    },
+    {
+      "word": "mortal",
+      "note": {
+        "ja": "mortal wound のように『死をもたらす』意味で使われるが、用法は比較的限定的。",
+        "en": "Can mean causing death, but this sense occurs in a more restricted set of expressions."
+      }
+    },
+    {
+      "word": "deadly",
+      "note": {
+        "ja": "危険性や殺傷性を広く表すため、結果として死亡したことまでは必ずしも示さない。",
+        "en": "Often describes dangerous or killing potential without necessarily stating that death actually occurred."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "tödlich",
+    "it": "fatale / mortale",
+    "fr": "fatal / mortel",
+    "es": "fatal / mortal"
+  },
+  "collocations": {
+    "ja": [
+      "fatal accident — 死亡事故",
+      "fatal injury — 致命傷",
+      "fatal disease — 致死性疾患",
+      "fatal infection — 死に至る感染症",
+      "fatal outcome — 死亡という転帰",
+      "fatal complication — 致命的な合併症",
+      "prove fatal — 死に至る",
+      "potentially fatal — 死に至る可能性のある",
+      "fatal mistake — 致命的なミス",
+      "fatal flaw — 致命的な欠陥"
+    ],
+    "en": [
+      "fatal accident",
+      "fatal injury",
+      "fatal disease",
+      "fatal infection",
+      "fatal outcome",
+      "fatal complication",
+      "prove fatal",
+      "potentially fatal",
+      "fatal mistake",
+      "fatal flaw"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The driver suffered fatal injuries in the accident. — 運転手はその事故で致命傷を負い、死亡した。",
+      "The infection can be fatal if left untreated. — その感染症は治療しなければ死に至ることがある。",
+      "The condition proved fatal despite intensive treatment. — 集中的な治療にもかかわらず、その病状は死に至った。",
+      "Fortunately, none of the injuries were fatal. — 幸い、いずれの負傷も致命的ではなかった。",
+      "A single fatal mistake brought the entire project to an end. — 一つの致命的なミスがプロジェクト全体を終わらせた。"
+    ],
+    "en": [
+      "The driver suffered fatal injuries in the accident.",
+      "The infection can be fatal if left untreated.",
+      "The condition proved fatal despite intensive treatment.",
+      "Fortunately, none of the injuries were fatal.",
+      "A single fatal mistake brought the entire project to an end."
+    ]
+  }
+},
+{
+  "id": "rigmarole",
+  "sid": "2026-00752",
+  "word": "rigmarole",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "general",
+    "informal",
+    "bureaucracy",
+    "annoyance"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable depending on use",
+    "plural": "rigmaroles"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈrɪɡməˌroʊl/",
+      "uk": "/ˈrɪɡmərəʊl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "やたら複雑で面倒な手続き、一連の煩雑な作業",
+      "長ったらしくてくだらない説明・手順・騒ぎ"
+    ],
+    "en": [
+      "a long, complicated, and often unnecessary procedure",
+      "a tedious or confusing series of actions, explanations, or formalities"
+    ]
+  },
+  "nuance": {
+    "ja": "rigmarole は、必要以上に長く複雑で『なんでこんなに面倒なんだ』と感じるような手続きや一連の作業を表す。bureaucracy よりくだけた語で、書類手続きだけでなく、面倒な説明や儀式的な手順にも使える。通常は話し手の苛立ちや軽い嘲笑を含む。",
+    "en": "Rigmarole describes a procedure or sequence that feels unnecessarily long, complicated, or tedious. It is more informal than bureaucracy and can refer not only to paperwork but also to drawn-out explanations, formalities, or elaborate routines. It usually carries a mildly annoyed or mocking tone."
+  },
+  "minimal": {
+    "ja": [
+      "rigmarole：不必要に長く複雑で面倒な一連の手続き。",
+      "bureaucracy：官僚制度、または官僚的な煩雑さ。",
+      "red tape：規則・書類手続きによる官僚的な面倒。",
+      "hassle：面倒、厄介事。より口語的で広い。",
+      "procedure：単に手順・手続きで、否定的意味は必須ではない。",
+      "fuss：大げさな騒ぎや余計な手間。"
+    ],
+    "en": [
+      "rigmarole is an unnecessarily long and complicated process.",
+      "bureaucracy refers to administrative systems or bureaucratic complexity.",
+      "red tape specifically emphasizes excessive rules and paperwork.",
+      "hassle is a broader informal word for inconvenience or trouble.",
+      "procedure is neutral and simply means an established process.",
+      "fuss emphasizes unnecessary activity, concern, or commotion."
+    ]
+  },
+  "etymology": {
+    "ja": "もともとは ragman roll という表現に由来するとされる。中世の長い巻物や名簿を指した語が、のちに『長々としてまとまりのない話』、さらに『面倒で複雑な手続き』という意味へ発展した。現在の rigmarole という形は音の変化によって成立した。",
+    "en": "The word is generally traced to ragman roll, an old expression referring to a long roll or list. It later developed the sense of a long, rambling account and then of an unnecessarily complicated procedure. The modern form rigmarole arose through phonetic alteration."
+  },
+  "synonyms": [
+    {
+      "word": "red tape",
+      "note": {
+        "ja": "特に官僚的な規則や書類手続きの煩雑さを指す。",
+        "en": "Specifically refers to excessive bureaucratic rules and paperwork."
+      }
+    },
+    {
+      "word": "hassle",
+      "note": {
+        "ja": "面倒・厄介事を広く表す、より日常的な語。",
+        "en": "A more everyday and broader word for inconvenience or trouble."
+      }
+    },
+    {
+      "word": "fuss",
+      "note": {
+        "ja": "必要以上に大げさな手間や騒ぎ。",
+        "en": "Unnecessary activity, concern, or commotion."
+      }
+    },
+    {
+      "word": "palaver",
+      "note": {
+        "ja": "長々しい話し合いや面倒な騒ぎ。英英語では rigmarole に近い場合がある。",
+        "en": "A long-winded discussion or unnecessary fuss, especially in British English."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "umständliches Prozedere / Theater",
+    "it": "trafila / procedura macchinosa",
+    "fr": "tout un cérémonial / procédure interminable",
+    "es": "papeleo / procedimiento engorroso"
+  },
+  "collocations": {
+    "ja": [
+      "go through the whole rigmarole — 面倒な一連の手続きを全部こなす",
+      "the usual rigmarole — いつもの面倒な手続き",
+      "bureaucratic rigmarole — 官僚的で煩雑な手続き",
+      "unnecessary rigmarole — 不必要な面倒",
+      "avoid the rigmarole — 面倒な手続きを避ける",
+      "without all the rigmarole — あれこれ面倒なことをせずに",
+      "the entire rigmarole — 面倒な一連のこと全部",
+      "a complicated rigmarole — 複雑で面倒な手続き"
+    ],
+    "en": [
+      "go through the whole rigmarole",
+      "the usual rigmarole",
+      "bureaucratic rigmarole",
+      "unnecessary rigmarole",
+      "avoid the rigmarole",
+      "without all the rigmarole",
+      "the entire rigmarole",
+      "a complicated rigmarole"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I had to go through the whole rigmarole just to change my address. — 住所を変更するだけなのに、面倒な手続きを一通り全部やらなければならなかった。",
+      "We can skip the usual rigmarole and get straight to the point. — いつもの長ったらしい手順は飛ばして、本題に入りましょう。",
+      "Applying for the permit involved a ridiculous bureaucratic rigmarole. — その許可申請には、ばかばかしいほど煩雑な官僚的手続きが伴った。",
+      "Why do we have to repeat this entire rigmarole every year? — どうして毎年この面倒な一連の手続きを全部繰り返さなければならないのですか。",
+      "They managed to resolve the issue without all the usual rigmarole. — 彼らはいつもの面倒な手続きをあれこれ踏まずに問題を解決できた。"
+    ],
+    "en": [
+      "I had to go through the whole rigmarole just to change my address.",
+      "We can skip the usual rigmarole and get straight to the point.",
+      "Applying for the permit involved a ridiculous bureaucratic rigmarole.",
+      "Why do we have to repeat this entire rigmarole every year?",
+      "They managed to resolve the issue without all the usual rigmarole."
+    ]
+  }
+},
+{
+  "id": "red_tape",
+  "sid": "2026-00753",
+  "word": "red tape",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "bureaucracy",
+    "government",
+    "business",
+    "informal"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌred ˈteɪp/",
+      "uk": "/ˌred ˈteɪp/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "官僚的で煩雑な規則や手続き",
+      "過剰な書類仕事や行政上の面倒",
+      "物事を進めにくくする形式主義的な手続き"
+    ],
+    "en": [
+      "excessive bureaucratic rules, procedures, or paperwork",
+      "official formalities that make something unnecessarily slow or difficult",
+      "administrative requirements regarded as burdensome or inefficient"
+    ]
+  },
+  "nuance": {
+    "ja": "red tape は単なる『手続き』ではなく、必要以上に複雑・遅延的・形式主義的だと話し手が感じている官僚的手続きを指す否定的な表現。government red tape, cut red tape などが典型的。rigmarole は面倒で長ったらしい一連の流れ全般に使えるが、red tape は特に行政・組織・規則・書類仕事に結びつく。",
+    "en": "Red tape is a negative term for bureaucratic rules, paperwork, and formal procedures viewed as excessive, inefficient, or unnecessarily obstructive. It is especially common in government and organizational contexts. Rigmarole can describe any tedious, complicated process, whereas red tape specifically points to bureaucracy and administrative formalities."
+  },
+  "minimal": {
+    "ja": [
+      "red tape：過剰な官僚的規則・書類手続き。",
+      "rigmarole：面倒で長ったらしい一連の手続き全般。",
+      "bureaucracy：官僚制度そのもの、または官僚的な仕組み。",
+      "paperwork：書類仕事。必ずしも不必要とは限らない。",
+      "formality：正式な手続き・形式。必ずしも否定的ではない。",
+      "regulation：規則・規制そのもの。red tape はその過剰さへの批判を含む。"
+    ],
+    "en": [
+      "red tape is excessive bureaucratic procedure or paperwork.",
+      "rigmarole is any tedious and unnecessarily complicated process.",
+      "bureaucracy refers to the administrative system itself or its organizational structure.",
+      "paperwork is document-related work and is not necessarily excessive.",
+      "a formality is an official procedure or convention and is not inherently negative.",
+      "a regulation is a rule, whereas red tape criticizes burdensome procedural complexity."
+    ]
+  },
+  "etymology": {
+    "ja": "歴史的に政府や行政の公文書を赤いテープで束ねたり結んだりした慣習に由来する。そこから、文書処理や公式手続きそのもの、さらに『過剰で面倒な官僚的手続き』を意味する比喩表現へ発展した。",
+    "en": "The expression comes from the historical practice of tying or binding official government documents with red tape. It later became a figurative term for cumbersome official paperwork and excessive bureaucratic procedure."
+  },
+  "synonyms": [
+    {
+      "word": "bureaucracy",
+      "note": {
+        "ja": "官僚制度や行政組織を広く指す。red tape はその制度から生じる煩雑さへの否定的評価。",
+        "en": "Refers broadly to administrative systems; red tape specifically criticizes the burdensome procedures they may produce."
+      }
+    },
+    {
+      "word": "rigmarole",
+      "note": {
+        "ja": "長く複雑で面倒な一連の手順。官僚的でなくても使える。",
+        "en": "A tedious and complicated procedure that does not have to be bureaucratic."
+      }
+    },
+    {
+      "word": "paperwork",
+      "note": {
+        "ja": "書類仕事そのもの。red tape と違い、中立的にも使える。",
+        "en": "Administrative document work itself and can be completely neutral."
+      }
+    },
+    {
+      "word": "bureaucratic hassle",
+      "note": {
+        "ja": "官僚的な面倒をくだけて説明する表現。",
+        "en": "An informal descriptive expression for bureaucratic inconvenience."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Bürokratie / bürokratische Hürden",
+    "it": "burocrazia / pastoie burocratiche",
+    "fr": "paperasserie / lourdeurs administratives",
+    "es": "burocracia / trabas burocráticas"
+  },
+  "collocations": {
+    "ja": [
+      "cut red tape — 官僚的な煩雑さを削減する",
+      "reduce red tape — 煩雑な行政手続きを減らす",
+      "bureaucratic red tape — 官僚的な煩雑な手続き",
+      "government red tape — 政府の煩雑な規制・手続き",
+      "get through the red tape — 面倒な行政手続きを切り抜ける",
+      "be tied up in red tape — 官僚的手続きに縛られる",
+      "remove red tape — 不要な規制や手続きを取り除く",
+      "a mountain of red tape — 山のような煩雑な手続き",
+      "regulatory red tape — 規制上の煩雑な手続き",
+      "administrative red tape — 行政上の煩雑な手続き"
+    ],
+    "en": [
+      "cut red tape",
+      "reduce red tape",
+      "bureaucratic red tape",
+      "government red tape",
+      "get through the red tape",
+      "be tied up in red tape",
+      "remove red tape",
+      "a mountain of red tape",
+      "regulatory red tape",
+      "administrative red tape"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company spent months dealing with government red tape. — その会社は政府の煩雑な手続きへの対応に何か月も費やした。",
+      "The reforms are intended to cut red tape for small businesses. — その改革は中小企業の官僚的な負担を減らすことを目的としている。",
+      "The project was delayed by excessive administrative red tape. — そのプロジェクトは過剰な行政手続きのため遅れた。",
+      "We finally got through all the red tape and received approval. — ようやく煩雑な手続きをすべて終えて承認を得た。",
+      "Entrepreneurs often complain about regulatory red tape. — 起業家は規制上の煩雑な手続きについて不満を述べることが多い。"
+    ],
+    "en": [
+      "The company spent months dealing with government red tape.",
+      "The reforms are intended to cut red tape for small businesses.",
+      "The project was delayed by excessive administrative red tape.",
+      "We finally got through all the red tape and received approval.",
+      "Entrepreneurs often complain about regulatory red tape."
+    ]
+  }
+},
+{
+  "id": "bureaucracy",
+  "sid": "2026-00754",
+  "word": "bureaucracy",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "government",
+    "administration",
+    "organization",
+    "politics",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable depending on sense",
+    "plural": "bureaucracies"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bjʊˈrɑːkrəsi/",
+      "uk": "/bjʊəˈrɒkrəsi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "官僚制、官僚機構",
+      "行政を担う官僚や行政組織",
+      "複雑で形式主義的な行政手続きや組織運営"
+    ],
+    "en": [
+      "a system of administration run by officials according to established rules and procedures",
+      "the body of officials who administer a government or large organization",
+      "excessively complicated administrative procedures or organizational formalities"
+    ]
+  },
+  "nuance": {
+    "ja": "bureaucracy は本来、中立的に『官僚制・行政機構』を表す語で、必ずしも悪い意味ではない。一方、日常英語では slow bureaucracy や unnecessary bureaucracy のように、融通が利かず手続きが多い組織運営を批判する意味でもよく使われる。red tape が特に過剰な規則・書類手続きに焦点を当てるのに対し、bureaucracy は制度・組織・職員・手続き全体まで含み得る。",
+    "en": "Bureaucracy is fundamentally a neutral term for an administrative system or body of officials, so it is not inherently negative. In everyday use, however, it often criticizes slow, rigid, or overly complicated administration. Red tape focuses specifically on burdensome rules and paperwork, whereas bureaucracy can refer to the whole administrative structure, its officials, and its procedures."
+  },
+  "minimal": {
+    "ja": [
+      "bureaucracy：官僚制・行政機構そのものを広く指す。",
+      "red tape：過剰な規則や書類手続きという官僚的な煩雑さ。",
+      "bureaucrat：官僚、行政官。",
+      "bureaucratic：官僚制の、またはお役所的な。",
+      "administration：行政・管理・運営を広く表す中立的な語。",
+      "rigmarole：不必要に長く複雑な一連の手続き。官僚的でなくても使える。"
+    ],
+    "en": [
+      "bureaucracy refers broadly to an administrative system or body of officials.",
+      "red tape specifically means excessive rules, paperwork, and procedural obstacles.",
+      "a bureaucrat is an official working within a bureaucracy.",
+      "bureaucratic means relating to bureaucracy and can imply excessive formality.",
+      "administration is a broader and generally neutral term for managing or governing.",
+      "a rigmarole is any unnecessarily long and complicated procedure."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 bureaucratie に由来し、bureau『事務机、役所』＋ -cratie『支配、統治』から成る。bureau はもともと机を覆う粗い布を表し、そこから机、事務室、役所へ意味が広がった。-cracy はギリシャ語 kratos『力、支配』に由来するため、語源的には『役所による統治』という意味。",
+    "en": "From French bureaucratie, formed from bureau, meaning 'office or administrative department', and -cracy, meaning 'rule or government'. Bureau originally referred to a desk covering and later to a desk, office, and administrative department. The suffix -cracy comes from Greek kratos, meaning 'power or rule'."
+  },
+  "synonyms": [
+    {
+      "word": "administration",
+      "note": {
+        "ja": "行政・運営を広く指す中立的な語で、bureaucracy より否定的含意が弱い。",
+        "en": "A broader and more neutral term for management or government administration."
+      }
+    },
+    {
+      "word": "officialdom",
+      "note": {
+        "ja": "官僚・役人の集団や世界をやや批判的に指す語。",
+        "en": "The collective body or world of officials, often with a mildly critical tone."
+      }
+    },
+    {
+      "word": "red tape",
+      "note": {
+        "ja": "制度全体ではなく、特に煩雑な規則や書類手続きに焦点を当てる。",
+        "en": "Focuses on cumbersome rules and paperwork rather than the administrative system as a whole."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Bürokratie",
+    "it": "burocrazia",
+    "fr": "bureaucratie",
+    "es": "burocracia"
+  },
+  "collocations": {
+    "ja": [
+      "government bureaucracy — 政府官僚機構",
+      "federal bureaucracy — 連邦官僚機構",
+      "state bureaucracy — 国家・州の官僚機構",
+      "large bureaucracy — 大規模な官僚組織",
+      "bloated bureaucracy — 肥大化した官僚機構",
+      "reduce bureaucracy — 官僚的手続きを減らす",
+      "deal with bureaucracy — 官僚制度・行政手続きに対処する",
+      "navigate the bureaucracy — 官僚的な仕組みをうまく切り抜ける",
+      "layers of bureaucracy — 何層にも重なった官僚的組織",
+      "bureaucracy and red tape — 官僚制と煩雑な行政手続き"
+    ],
+    "en": [
+      "government bureaucracy",
+      "federal bureaucracy",
+      "state bureaucracy",
+      "large bureaucracy",
+      "bloated bureaucracy",
+      "reduce bureaucracy",
+      "deal with bureaucracy",
+      "navigate the bureaucracy",
+      "layers of bureaucracy",
+      "bureaucracy and red tape"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The reform was intended to make the government bureaucracy more efficient. — その改革は政府官僚機構をより効率的にすることを目的としていた。",
+      "Small businesses often struggle to navigate the bureaucracy. — 中小企業は官僚的な仕組みをうまく切り抜けるのに苦労することが多い。",
+      "The organization had developed several unnecessary layers of bureaucracy. — その組織には不必要な官僚的階層がいくつも形成されていた。",
+      "The new system is designed to reduce bureaucracy and speed up approvals. — 新しい制度は官僚的な手続きを減らし、承認を迅速化するよう設計されている。",
+      "A functioning bureaucracy is necessary for administering a modern state. — 現代国家の行政運営には機能する官僚機構が必要である。"
+    ],
+    "en": [
+      "The reform was intended to make the government bureaucracy more efficient.",
+      "Small businesses often struggle to navigate the bureaucracy.",
+      "The organization had developed several unnecessary layers of bureaucracy.",
+      "The new system is designed to reduce bureaucracy and speed up approvals.",
+      "A functioning bureaucracy is necessary for administering a modern state."
+    ]
+  }
+},
+{
+  "id": "paperasserie",
+  "sid": "2026-00755",
+  "word": "paperasserie",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "French",
+    "bureaucracy",
+    "administration",
+    "paperwork",
+    "informal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "usually uncountable",
+    "gender": "feminine"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pa.pə.ʁa.sʁi/",
+      "uk": "/pa.pə.ʁa.sʁi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "煩雑な書類仕事",
+      "面倒で大量の事務手続き",
+      "お役所的でうんざりするような書類処理"
+    ],
+    "en": [
+      "tedious or excessive paperwork",
+      "burdensome administrative formalities",
+      "a mass of annoying documents and bureaucratic procedures"
+    ]
+  },
+  "nuance": {
+    "ja": "paperasserie はフランス語で、単なる papiers『書類』や travail administratif『事務作業』より明確に否定的。大量の書類を書いたり提出したりしなければならない状況に対する『面倒くさい』『うんざりする』という評価を含む。英語の paperwork より red tape に近い場合が多いが、red tape が規則や制度上の障害まで含むのに対し、paperasserie は特に書類・事務作業そのものに焦点を当てやすい。",
+    "en": "Paperasserie is a French noun with a distinctly negative tone. It refers to tedious, excessive, or annoying paperwork and administrative formalities. It is often closer to English red tape than neutral paperwork, although paperasserie tends to emphasize the burden of documents and administrative chores themselves."
+  },
+  "minimal": {
+    "ja": [
+      "paperasserie：うんざりするほど煩雑な書類仕事。",
+      "paperwork：英語で書類仕事。中立的にも使える。",
+      "red tape：過剰な規則・書類手続きによる官僚的な障害。",
+      "bureaucracy：官僚制度・行政機構そのもの。",
+      "papiers：フランス語で書類・証明書類を広く指す。",
+      "formalités administratives：行政上の手続き。paperasserie より中立的。"
+    ],
+    "en": [
+      "paperasserie means tedious and excessive paperwork.",
+      "paperwork is a broader English term and can be neutral.",
+      "red tape emphasizes excessive bureaucratic rules and procedural obstacles.",
+      "bureaucracy refers to the administrative system itself.",
+      "papiers is a broad French word for papers or official documents.",
+      "formalités administratives is a more neutral French term for administrative formalities."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 papier『紙、書類』を基礎とする語で、-asserie が大量・反復・煩雑さを感じさせる名詞を形成している。語全体として『大量の紙・書類を扱う煩わしい作業』という意味に発達した。",
+    "en": "Built on French papier, meaning 'paper or document'. The formation developed the sense of an excessive mass of paperwork and the tedious administrative activity associated with it."
+  },
+  "synonyms": [
+    {
+      "word": "red tape",
+      "note": {
+        "ja": "英語ではかなり近いが、規則や制度的障害まで含みやすい。",
+        "en": "A close English equivalent, though it more strongly includes bureaucratic rules and procedural obstacles."
+      }
+    },
+    {
+      "word": "paperwork",
+      "note": {
+        "ja": "書類仕事一般。paperasserie のような否定的ニュアンスは必須ではない。",
+        "en": "General document-related work and not necessarily negative."
+      }
+    },
+    {
+      "word": "bureaucratic hassle",
+      "note": {
+        "ja": "官僚的な面倒を表す英語の口語的な言い換え。",
+        "en": "An informal English paraphrase emphasizing bureaucratic inconvenience."
+      }
+    },
+    {
+      "word": "formalités administratives",
+      "note": {
+        "ja": "フランス語で『行政手続き』。paperasserie より中立的。",
+        "en": "A neutral French expression for administrative formalities."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Papierkram / Papierkrieg",
+    "it": "scartoffie / trafila burocratica",
+    "fr": "paperasserie",
+    "es": "papeleo"
+  },
+  "collocations": {
+    "ja": [
+      "faire de la paperasserie — 面倒な書類仕事をする",
+      "toute cette paperasserie — この大量の面倒な書類仕事",
+      "éviter la paperasserie — 煩雑な書類仕事を避ける",
+      "réduire la paperasserie — 書類手続きの負担を減らす",
+      "paperasserie administrative — 煩雑な行政書類手続き",
+      "paperasserie inutile — 不必要な書類仕事",
+      "être noyé dans la paperasserie — 書類仕事に埋もれる",
+      "des heures de paperasserie — 何時間もの書類仕事"
+    ],
+    "en": [
+      "do tedious paperwork",
+      "all this paperwork",
+      "avoid bureaucratic paperwork",
+      "reduce paperwork",
+      "administrative red tape",
+      "unnecessary paperwork",
+      "be buried in paperwork",
+      "hours of paperwork"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Je passe trop de temps à faire de la paperasserie. — 私は面倒な書類仕事に時間をかけすぎている。",
+      "Toute cette paperasserie ralentit le processus. — この煩雑な書類手続きのせいでプロセスが遅れている。",
+      "Le gouvernement veut réduire la paperasserie administrative. — 政府は煩雑な行政書類手続きを減らそうとしている。",
+      "Elle en a assez de toute cette paperasserie. — 彼女はこの面倒な書類仕事にうんざりしている。",
+      "Nous avons passé la matinée à remplir de la paperasserie. — 私たちは午前中いっぱい面倒な書類を記入して過ごした。"
+    ],
+    "en": [
+      "I spend too much time doing tedious paperwork.",
+      "All this paperwork is slowing down the process.",
+      "The government wants to reduce administrative red tape.",
+      "She is fed up with all this paperwork.",
+      "We spent the morning filling out paperwork."
+    ]
+  }
 }
 ]
