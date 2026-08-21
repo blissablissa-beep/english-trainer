@@ -387,5 +387,129 @@
       "Hematopoietic recovery may take time after intensive treatment."
     ]
   }
+},
+{
+  "id": "placenta",
+  "sid": "2026-00704",
+  "word": "placenta",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "obstetrics",
+    "pregnancy",
+    "anatomy"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "placentas / placentae"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pləˈsentə/",
+      "uk": "/pləˈsentə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "胎盤",
+      "妊娠中に子宮内で形成され、母体と胎児の間の物質交換を支える器官"
+    ],
+    "en": [
+      "the temporary organ that develops in the uterus during pregnancy and supports the fetus",
+      "an organ that enables exchange of oxygen, nutrients, waste products, and other substances between maternal and fetal systems"
+    ]
+  },
+  "nuance": {
+    "ja": "placenta は妊娠中に形成される一時的な器官で、胎児とは umbilical cord『臍帯』でつながっている。母体と胎児の血液が通常そのまま直接混ざるわけではなく、胎盤を介して酸素・栄養素・老廃物などの交換が行われる。また胎盤は妊娠維持に関わるホルモンも産生する。",
+    "en": "The placenta is a temporary organ that develops during pregnancy and is connected to the fetus by the umbilical cord. Maternal and fetal blood normally do not simply mix directly; exchange of oxygen, nutrients, waste products, and other substances occurs across the placental interface. The placenta also produces hormones important for maintaining pregnancy."
+  },
+  "minimal": {
+    "ja": [
+      "placenta：母体と胎児の物質交換を支える胎盤。",
+      "umbilical cord：胎児と胎盤をつなぐ臍帯。",
+      "umbilical cord blood：出産後に臍帯・胎盤に残る血液、臍帯血。",
+      "uterus：胎児が発育する子宮。",
+      "embryo：発生初期の胚。",
+      "fetus：一定の発生段階以降の胎児。"
+    ],
+    "en": [
+      "the placenta is the temporary organ supporting exchange between mother and fetus.",
+      "the umbilical cord connects the fetus to the placenta.",
+      "umbilical cord blood is blood remaining in the cord and placenta after birth.",
+      "the uterus is the organ in which the embryo and fetus develop.",
+      "an embryo is an organism at an early developmental stage.",
+      "a fetus is the developing offspring at a later prenatal stage."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 placenta『平たい菓子、ケーキ』に由来し、さらにギリシャ語 plakous『平たいケーキ』と関係する。胎盤の平たい円盤状の形から、この名称が使われるようになった。",
+    "en": "From Latin placenta, meaning 'flat cake', ultimately related to Greek plakous, also referring to a flat cake. The anatomical term arose from the organ's flat, disk-like shape."
+  },
+  "synonyms": [
+    {
+      "word": "afterbirth",
+      "note": {
+        "ja": "出産後に排出される胎盤や胎膜などを指す一般語。placenta と完全な同義ではない。",
+        "en": "A general term for the placenta and associated membranes expelled after birth, so it is not a precise synonym for placenta."
+      }
+    },
+    {
+      "word": "placental organ",
+      "note": {
+        "ja": "胎盤を説明的に表す表現で、通常の名称としては placenta を使う。",
+        "en": "A descriptive phrase rather than the usual lexical term."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Plazenta / Mutterkuchen",
+    "it": "placenta",
+    "fr": "placenta",
+    "es": "placenta"
+  },
+  "collocations": {
+    "ja": [
+      "the placenta develops — 胎盤が形成される",
+      "the placenta attaches to the uterine wall — 胎盤が子宮壁に付着する",
+      "placental blood flow — 胎盤血流",
+      "placental tissue — 胎盤組織",
+      "placental function — 胎盤機能",
+      "placental development — 胎盤の発達",
+      "placental circulation — 胎盤循環",
+      "placental barrier — 胎盤関門",
+      "placenta previa — 前置胎盤",
+      "placental abruption — 常位胎盤早期剥離"
+    ],
+    "en": [
+      "the placenta develops",
+      "the placenta attaches to the uterine wall",
+      "placental blood flow",
+      "placental tissue",
+      "placental function",
+      "placental development",
+      "placental circulation",
+      "placental barrier",
+      "placenta previa",
+      "placental abruption"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The placenta supplies the fetus with oxygen and nutrients. — 胎盤は胎児への酸素と栄養の供給を支える。",
+      "The fetus is connected to the placenta by the umbilical cord. — 胎児は臍帯によって胎盤につながっている。",
+      "Doctors monitored placental blood flow during the pregnancy. — 医師たちは妊娠中の胎盤血流を観察した。",
+      "The placenta also produces hormones that support pregnancy. — 胎盤は妊娠を支えるホルモンも産生する。",
+      "Placental tissue is expelled after the baby is delivered. — 胎盤組織は赤ちゃんの出産後に排出される。"
+    ],
+    "en": [
+      "The placenta supplies the fetus with oxygen and nutrients.",
+      "The fetus is connected to the placenta by the umbilical cord.",
+      "Doctors monitored placental blood flow during the pregnancy.",
+      "The placenta also produces hormones that support pregnancy.",
+      "Placental tissue is expelled after the baby is delivered."
+    ]
+  }
 }
 ]
