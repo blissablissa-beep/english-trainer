@@ -1126,5 +1126,137 @@
       "Lymphoma and leukemia are both classified as hematologic malignancies."
     ]
   }
+},
+{
+  "id": "myeloma",
+  "sid": "2026-00710",
+  "word": "myeloma",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "hematology",
+    "oncology",
+    "bone marrow"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable depending on context",
+    "plural": "myelomas"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌmaɪəˈloʊmə/",
+      "uk": "/ˌmaɪəˈləʊmə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "骨髄腫",
+      "主に骨髄中の形質細胞が異常に増殖する血液がん",
+      "特に multiple myeloma、多発性骨髄腫を指して使われることが多い"
+    ],
+    "en": [
+      "a cancer involving abnormal proliferation of plasma cells, usually in the bone marrow",
+      "a hematologic malignancy commonly referring to multiple myeloma"
+    ]
+  },
+  "nuance": {
+    "ja": "myeloma は現代の臨床文脈では multiple myeloma『多発性骨髄腫』を指して使われることが多い。主に抗体を産生する形質細胞が骨髄内で異常増殖する疾患で、骨病変、貧血、腎機能障害などを伴うことがある。leukemia や lymphoma と同じ血液系悪性腫瘍だが、myeloma は特に plasma cell『形質細胞』との関連が重要。",
+    "en": "In modern clinical usage, myeloma often refers to multiple myeloma. It is a hematologic malignancy characterized by abnormal proliferation of plasma cells, usually in the bone marrow. It may be associated with bone disease, anemia, kidney impairment, and other complications. Unlike leukemia or lymphoma, its defining cell type is the plasma cell."
+  },
+  "minimal": {
+    "ja": [
+      "myeloma：主に形質細胞に由来する血液がん。",
+      "multiple myeloma：多発性骨髄腫。myeloma の代表的な病型。",
+      "leukemia：主に骨髄・血液中で異常な造血細胞が増殖する血液がん。",
+      "lymphoma：主にリンパ球由来で、リンパ組織に腫瘤を形成しやすい血液がん。",
+      "plasma cell：抗体を産生する免疫細胞、形質細胞。",
+      "bone marrow：形質細胞を含む血液細胞が存在・形成される骨髄。"
+    ],
+    "en": [
+      "myeloma is a blood cancer arising mainly from plasma cells.",
+      "multiple myeloma is the major disease commonly referred to as myeloma.",
+      "leukemia more typically involves abnormal blood-forming cells in bone marrow and blood.",
+      "lymphoma arises mainly from lymphocytes and often forms masses in lymphoid tissues.",
+      "a plasma cell is an immune cell specialized in producing antibodies.",
+      "bone marrow is the tissue in which plasma cells and many other blood cells are found."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語由来の myel-『髄、骨髄』＋ -oma『腫瘍』から成る。myelos は『骨髄』または『髄』を意味し、-oma は医学用語で腫瘍・腫れを表すため、語源的には『骨髄の腫瘍』という構造。",
+    "en": "Formed from Greek-derived myel- meaning 'marrow' and the suffix -oma meaning 'tumor or swelling'. The word therefore literally denotes a tumor associated with marrow."
+  },
+  "synonyms": [
+    {
+      "word": "multiple myeloma",
+      "note": {
+        "ja": "臨床で myeloma と言う場合に最も一般的に指される疾患。",
+        "en": "The disease most commonly meant by myeloma in modern clinical usage."
+      }
+    },
+    {
+      "word": "plasma cell myeloma",
+      "note": {
+        "ja": "多発性骨髄腫をより細胞由来を明示して表す専門的名称。",
+        "en": "A technical term emphasizing that the malignancy arises from plasma cells."
+      }
+    },
+    {
+      "word": "hematologic malignancy",
+      "note": {
+        "ja": "血液系悪性腫瘍という上位概念で、myeloma 以外も含む。",
+        "en": "A broader category that includes myeloma, leukemia, lymphoma, and other blood cancers."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Myelom",
+    "it": "mieloma",
+    "fr": "myélome",
+    "es": "mieloma"
+  },
+  "collocations": {
+    "ja": [
+      "multiple myeloma — 多発性骨髄腫",
+      "plasma cell myeloma — 形質細胞性骨髄腫",
+      "myeloma cells — 骨髄腫細胞",
+      "myeloma treatment — 骨髄腫治療",
+      "diagnose myeloma — 骨髄腫と診断する",
+      "treat myeloma — 骨髄腫を治療する",
+      "relapsed myeloma — 再発骨髄腫",
+      "refractory myeloma — 難治性骨髄腫",
+      "myeloma patient — 骨髄腫患者",
+      "myeloma-related bone disease — 骨髄腫に関連する骨病変"
+    ],
+    "en": [
+      "multiple myeloma",
+      "plasma cell myeloma",
+      "myeloma cells",
+      "myeloma treatment",
+      "diagnose myeloma",
+      "treat myeloma",
+      "relapsed myeloma",
+      "refractory myeloma",
+      "myeloma patient",
+      "myeloma-related bone disease"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The patient was diagnosed with multiple myeloma. — その患者は多発性骨髄腫と診断された。",
+      "Myeloma develops from abnormal plasma cells in the bone marrow. — 骨髄腫は骨髄内の異常な形質細胞から発生する。",
+      "The treatment of myeloma depends on the patient's condition and disease characteristics. — 骨髄腫の治療は患者の状態や疾患の特徴によって異なる。",
+      "Myeloma can affect both the bone marrow and the bones themselves. — 骨髄腫は骨髄だけでなく骨そのものにも影響を及ぼすことがある。",
+      "Researchers are studying new therapies for relapsed myeloma. — 研究者たちは再発骨髄腫に対する新しい治療法を研究している。"
+    ],
+    "en": [
+      "The patient was diagnosed with multiple myeloma.",
+      "Myeloma develops from abnormal plasma cells in the bone marrow.",
+      "The treatment of myeloma depends on the patient's condition and disease characteristics.",
+      "Myeloma can affect both the bone marrow and the bones themselves.",
+      "Researchers are studying new therapies for relapsed myeloma."
+    ]
+  }
 }
 ]
