@@ -1258,5 +1258,378 @@
       "Researchers are studying new therapies for relapsed myeloma."
     ]
   }
+},
+{
+  "id": "esophagus",
+  "sid": "2026-00711",
+  "word": "esophagus",
+  "variants": [
+    "oesophagus"
+  ],
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "anatomy",
+    "digestive system"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "esophagi / esophaguses"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪˈsɑːfəɡəs/",
+      "uk": "/ɪˈsɒfəɡəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "食道",
+      "咽頭から胃まで食物や液体を運ぶ筋肉性の管"
+    ],
+    "en": [
+      "the muscular tube that carries food and liquids from the throat to the stomach",
+      "the part of the digestive tract connecting the pharynx with the stomach"
+    ]
+  },
+  "nuance": {
+    "ja": "esophagus は解剖学・医学で使う『食道』の標準語。食物を消化する場所というより、嚥下された食物や液体を蠕動運動によって胃へ運ぶ通路として働く。米国式綴りは esophagus、英国式では oesophagus が一般的。形容詞は esophageal、英式では oesophageal。",
+    "en": "The esophagus is the muscular passage connecting the pharynx to the stomach. Its main role is transport rather than digestion: coordinated muscular contractions called peristalsis move swallowed food and liquid toward the stomach. Esophagus is the usual American spelling, while oesophagus is common in British English."
+  },
+  "minimal": {
+    "ja": [
+      "esophagus：咽頭と胃をつなぐ食道。",
+      "pharynx：鼻腔・口腔の後方にある咽頭。",
+      "trachea：空気を肺へ運ぶ気管。食道とは別。",
+      "stomach：食道の先につながる胃。",
+      "peristalsis：消化管内容物を送る蠕動運動。",
+      "esophageal：食道の。"
+    ],
+    "en": [
+      "the esophagus carries swallowed material from the pharynx to the stomach.",
+      "the pharynx is the throat region behind the nose and mouth.",
+      "the trachea carries air toward the lungs and is distinct from the esophagus.",
+      "the stomach receives food from the esophagus.",
+      "peristalsis is the wave-like muscular movement that propels material through the digestive tract.",
+      "esophageal means relating to the esophagus."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 oisophagos を経てラテン語 oesophagus に由来する。古くから『食道』を指した語で、英語では米国式の esophagus と英国式の oesophagus に綴りが分かれた。",
+    "en": "From Latin oesophagus, ultimately from Greek oisophagos, an ancient anatomical term for the gullet or esophagus. Modern English has both the American spelling esophagus and the British spelling oesophagus."
+  },
+  "synonyms": [
+    {
+      "word": "gullet",
+      "note": {
+        "ja": "食道を指す一般的・やや古風な語。医学では esophagus のほうが標準的。",
+        "en": "A common or somewhat old-fashioned word for the esophagus; esophagus is the standard medical term."
+      }
+    },
+    {
+      "word": "food pipe",
+      "note": {
+        "ja": "食道を平易に説明する非専門的な表現。",
+        "en": "An informal explanatory expression for the esophagus."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Speiseröhre",
+    "it": "esofago",
+    "fr": "œsophage",
+    "es": "esófago"
+  },
+  "collocations": {
+    "ja": [
+      "esophageal cancer — 食道がん",
+      "esophageal lining — 食道粘膜",
+      "esophageal wall — 食道壁",
+      "esophageal sphincter — 食道括約筋",
+      "lower esophageal sphincter — 下部食道括約筋",
+      "esophageal motility — 食道運動",
+      "esophageal disorder — 食道疾患",
+      "inflammation of the esophagus — 食道の炎症",
+      "the esophagus connects the throat to the stomach — 食道は喉と胃をつなぐ",
+      "food passes through the esophagus — 食物が食道を通過する"
+    ],
+    "en": [
+      "esophageal cancer",
+      "esophageal lining",
+      "esophageal wall",
+      "esophageal sphincter",
+      "lower esophageal sphincter",
+      "esophageal motility",
+      "esophageal disorder",
+      "inflammation of the esophagus",
+      "the esophagus connects the throat to the stomach",
+      "food passes through the esophagus"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The esophagus carries food from the throat to the stomach. — 食道は食物を喉から胃へ運ぶ。",
+      "Peristalsis moves swallowed food through the esophagus. — 蠕動運動によって飲み込んだ食物が食道を進む。",
+      "The trachea and the esophagus perform very different functions. — 気管と食道はまったく異なる機能を果たす。",
+      "Acid reflux can irritate the lining of the esophagus. — 胃酸の逆流は食道粘膜を刺激することがある。",
+      "The lower esophageal sphincter helps prevent stomach contents from flowing backward. — 下部食道括約筋は胃内容物の逆流を防ぐのに役立つ。"
+    ],
+    "en": [
+      "The esophagus carries food from the throat to the stomach.",
+      "Peristalsis moves swallowed food through the esophagus.",
+      "The trachea and the esophagus perform very different functions.",
+      "Acid reflux can irritate the lining of the esophagus.",
+      "The lower esophageal sphincter helps prevent stomach contents from flowing backward."
+    ]
+  }
+},
+{
+  "id": "trachea",
+  "sid": "2026-00712",
+  "word": "trachea",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "anatomy",
+    "respiratory system"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "tracheae / tracheas"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈtreɪkiə/",
+      "uk": "/trəˈkiːə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "気管",
+      "喉頭から左右の主気管支へ空気を運ぶ管"
+    ],
+    "en": [
+      "the tube that carries air from the larynx toward the bronchi and lungs",
+      "a major airway of the respiratory system"
+    ]
+  },
+  "nuance": {
+    "ja": "trachea は呼吸器系の主要な気道で、larynx『喉頭』の下から始まり、胸部で左右の main bronchi『主気管支』へ分かれる。壁には軟骨があり、気道がつぶれにくい構造になっている。esophagus『食道』はその後方に位置し、食物を胃へ運ぶため、両者は機能がまったく異なる。形容詞は tracheal。",
+    "en": "The trachea is a major airway extending from the larynx and dividing into the right and left main bronchi. Its wall is supported by cartilage that helps keep the airway open. The esophagus lies behind it and carries food to the stomach, so the two structures have entirely different functions. The adjective is tracheal."
+  },
+  "minimal": {
+    "ja": [
+      "trachea：喉頭から気管支へ空気を運ぶ気管。",
+      "esophagus：喉から胃へ食物を運ぶ食道。",
+      "larynx：声帯を含み、気管の上部につながる喉頭。",
+      "bronchus：気管から肺へ分岐する気管支。",
+      "airway：空気が通る経路を広く表す語。",
+      "tracheal：気管の。"
+    ],
+    "en": [
+      "the trachea carries air from the larynx toward the bronchi.",
+      "the esophagus carries food from the throat to the stomach.",
+      "the larynx contains the vocal cords and connects with the trachea.",
+      "a bronchus is one of the major airways branching from the trachea.",
+      "airway is the broad term for a passage through which air moves.",
+      "tracheal means relating to the trachea."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 trakheia arteria『粗い動脈』に由来し、trakheia は『粗い、ざらざらした』を意味する。気管の軟骨輪による触感・外観からこの名が使われた。のちに arteria が省略され、trachea が気管そのものを指すようになった。",
+    "en": "From Greek trakheia arteria, literally 'rough artery', with trakheia meaning 'rough'. The name referred to the texture created by the cartilaginous rings of the windpipe. Over time, arteria was dropped and trachea became the anatomical term."
+  },
+  "synonyms": [
+    {
+      "word": "windpipe",
+      "note": {
+        "ja": "気管を表す日常的な語。医学では trachea が標準的。",
+        "en": "The everyday word for the trachea; trachea is the standard anatomical term."
+      }
+    },
+    {
+      "word": "airway",
+      "note": {
+        "ja": "空気の通り道を広く指す語で、trachea より範囲が広い。",
+        "en": "A broader term for any passage through which air travels."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Luftröhre / Trachea",
+    "it": "trachea",
+    "fr": "trachée",
+    "es": "tráquea"
+  },
+  "collocations": {
+    "ja": [
+      "the trachea carries air — 気管が空気を運ぶ",
+      "tracheal wall — 気管壁",
+      "tracheal cartilage — 気管軟骨",
+      "tracheal obstruction — 気管閉塞",
+      "tracheal injury — 気管損傷",
+      "tracheal narrowing — 気管狭窄",
+      "tracheal tube — 気管チューブ",
+      "tracheal intubation — 気管挿管",
+      "the trachea divides into the bronchi — 気管が気管支へ分岐する",
+      "foreign body in the trachea — 気管内異物"
+    ],
+    "en": [
+      "the trachea carries air",
+      "tracheal wall",
+      "tracheal cartilage",
+      "tracheal obstruction",
+      "tracheal injury",
+      "tracheal narrowing",
+      "tracheal tube",
+      "tracheal intubation",
+      "the trachea divides into the bronchi",
+      "foreign body in the trachea"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The trachea carries air from the larynx toward the lungs. — 気管は喉頭から肺の方向へ空気を運ぶ。",
+      "The trachea divides into the right and left main bronchi. — 気管は右と左の主気管支に分かれる。",
+      "Cartilage helps prevent the trachea from collapsing. — 軟骨は気管がつぶれるのを防ぐのに役立つ。",
+      "The esophagus lies behind the trachea. — 食道は気管の後方に位置する。",
+      "A foreign object can obstruct the trachea and interfere with breathing. — 異物が気管を塞ぎ、呼吸を妨げることがある。"
+    ],
+    "en": [
+      "The trachea carries air from the larynx toward the lungs.",
+      "The trachea divides into the right and left main bronchi.",
+      "Cartilage helps prevent the trachea from collapsing.",
+      "The esophagus lies behind the trachea.",
+      "A foreign object can obstruct the trachea and interfere with breathing."
+    ]
+  }
+},
+{
+  "id": "pharynx",
+  "sid": "2026-00713",
+  "word": "pharynx",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "anatomy",
+    "respiratory system",
+    "digestive system"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "pharynges / pharynxes"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfærɪŋks/",
+      "uk": "/ˈfærɪŋks/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "咽頭",
+      "鼻腔・口腔の後方にあり、呼吸と嚥下の両方に関わる筋肉性の通路"
+    ],
+    "en": [
+      "the muscular passage behind the nose and mouth",
+      "a part of the throat involved in both breathing and swallowing"
+    ]
+  },
+  "nuance": {
+    "ja": "pharynx は呼吸器系と消化器系の両方に関わる共有通路。空気は pharynx から larynx を経て trachea へ進み、食物や液体は pharynx から esophagus へ進む。解剖学的には nasopharynx, oropharynx, laryngopharynx に区分される。日常語の throat は pharynx より広く曖昧な表現。",
+    "en": "The pharynx is a shared passage for both the respiratory and digestive systems. Air passes from the pharynx toward the larynx and trachea, while swallowed food and liquid are directed toward the esophagus. Anatomically, it is divided into the nasopharynx, oropharynx, and laryngopharynx. The everyday word throat is broader and less anatomically precise."
+  },
+  "minimal": {
+    "ja": [
+      "pharynx：鼻・口の後方にある、空気と食物の共有通路。",
+      "larynx：喉頭。声帯を含み、気管へ続く。",
+      "trachea：空気を気管支へ運ぶ気管。",
+      "esophagus：食物を胃へ運ぶ食道。",
+      "throat：喉を広く指す日常語。",
+      "nasopharynx：鼻腔の後方にある咽頭上部。"
+    ],
+    "en": [
+      "the pharynx is a shared passage for air and swallowed material.",
+      "the larynx contains the vocal cords and leads toward the trachea.",
+      "the trachea carries air toward the bronchi.",
+      "the esophagus carries food toward the stomach.",
+      "throat is a broad everyday term rather than a precise anatomical structure.",
+      "the nasopharynx is the upper part of the pharynx behind the nasal cavity."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 pharynx『喉、咽頭』に由来する。古くから喉の奥の通路を指す解剖学用語として使われてきた。形容詞は pharyngeal。",
+    "en": "From Greek pharynx, meaning 'throat or pharynx'. It has long been used as an anatomical term for the passage at the back of the nose and mouth. The adjective is pharyngeal."
+  },
+  "synonyms": [
+    {
+      "word": "throat",
+      "note": {
+        "ja": "喉を広く指す日常語で、pharynx より範囲が曖昧。",
+        "en": "A broad everyday term for the throat region and less anatomically precise than pharynx."
+      }
+    },
+    {
+      "word": "pharyngeal passage",
+      "note": {
+        "ja": "咽頭の通路を説明的に表す表現。",
+        "en": "A descriptive phrase for the passage formed by the pharynx."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Rachen / Pharynx",
+    "it": "faringe",
+    "fr": "pharynx",
+    "es": "faringe"
+  },
+  "collocations": {
+    "ja": [
+      "pharyngeal wall — 咽頭壁",
+      "pharyngeal muscles — 咽頭筋",
+      "pharyngeal cavity — 咽頭腔",
+      "pharyngeal reflex — 咽頭反射",
+      "pharyngeal tissue — 咽頭組織",
+      "nasopharynx — 鼻咽頭",
+      "oropharynx — 中咽頭",
+      "laryngopharynx — 下咽頭",
+      "inflammation of the pharynx — 咽頭の炎症",
+      "the pharynx connects the nasal and oral cavities with lower passages — 咽頭は鼻腔・口腔を下部の通路へつなぐ"
+    ],
+    "en": [
+      "pharyngeal wall",
+      "pharyngeal muscles",
+      "pharyngeal cavity",
+      "pharyngeal reflex",
+      "pharyngeal tissue",
+      "nasopharynx",
+      "oropharynx",
+      "laryngopharynx",
+      "inflammation of the pharynx",
+      "the pharynx connects the nasal and oral cavities with lower passages"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The pharynx is involved in both breathing and swallowing. — 咽頭は呼吸と嚥下の両方に関わる。",
+      "Air passes through the pharynx on its way to the larynx and trachea. — 空気は喉頭と気管へ向かう途中で咽頭を通る。",
+      "Swallowed food moves through the pharynx toward the esophagus. — 飲み込まれた食物は咽頭を通って食道へ進む。",
+      "The pharynx is divided into three anatomical regions. — 咽頭は解剖学的に3つの領域に分けられる。",
+      "Inflammation of the pharynx is called pharyngitis. — 咽頭の炎症は咽頭炎と呼ばれる。"
+    ],
+    "en": [
+      "The pharynx is involved in both breathing and swallowing.",
+      "Air passes through the pharynx on its way to the larynx and trachea.",
+      "Swallowed food moves through the pharynx toward the esophagus.",
+      "The pharynx is divided into three anatomical regions.",
+      "Inflammation of the pharynx is called pharyngitis."
+    ]
+  }
 }
 ]
