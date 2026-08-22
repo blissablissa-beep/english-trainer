@@ -12495,5 +12495,278 @@
       "Passengers can check in online before arriving at the airport."
     ]
   }
+},
+{
+  "id": "check_on",
+  "sid": "2026-00795",
+  "word": "check on",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "monitoring",
+    "care",
+    "workplace",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "check on",
+      "third_person": "checks on",
+      "past": "checked on",
+      "past_participle": "checked on",
+      "gerund": "checking on"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌtʃek ˈɑːn/",
+      "uk": "/ˌtʃek ˈɒn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人が無事か、元気か、問題がないか確認する",
+      "物や状況が正常か確認する",
+      "進捗や状態を見に行く、確かめる"
+    ],
+    "en": [
+      "to make sure that someone is safe, well, or all right",
+      "to examine the condition or status of something",
+      "to verify that something is progressing or functioning properly"
+    ]
+  },
+  "nuance": {
+    "ja": "check on は『対象の状態を確認する』ことに焦点がある。check on the patient なら患者の容体確認、check on the oven ならオーブンの状態確認という具合に、人にも物にも使える。check in with someone は会話・連絡そのものに焦点があり、follow up on something は以前の案件について追加対応するニュアンスが強い。",
+    "en": "Check on focuses on verifying the condition, safety, or status of a person or thing. You can check on a patient, a child, a machine, or the progress of a task. Check in with someone emphasizes making contact, while follow up on something emphasizes taking further action after an earlier event or communication."
+  },
+  "minimal": {
+    "ja": [
+      "check on someone：人が無事か、元気か確認する。",
+      "check on something：物や状況が正常か確認する。",
+      "check in with someone：人に軽く連絡して様子を聞く。",
+      "follow up on something：前の案件について追加確認・対応する。",
+      "monitor：継続的に状態を監視する。",
+      "inspect：状態や規則順守などを詳しく点検する。"
+    ],
+    "en": [
+      "check on someone means to make sure they are safe or well.",
+      "check on something means to verify its condition or status.",
+      "check in with someone means to make brief contact and ask how things are going.",
+      "follow up on something means to take further action after an earlier matter.",
+      "monitor means to observe something continuously over time.",
+      "inspect means to examine something carefully, often for condition or compliance."
+    ]
+  },
+  "etymology": {
+    "ja": "check『確認する』＋ on『〜について、〜の状態に対して』から成る句動詞。対象に注意を向けてその状態を確かめる、という自然な組み合わせから現在の意味になった。",
+    "en": "Formed from check and on. The construction developed naturally from the idea of directing a check toward a person, object, or situation in order to verify its condition or status."
+  },
+  "synonyms": [
+    {
+      "word": "monitor",
+      "note": {
+        "ja": "継続的に監視する。check on は一時的・断続的な確認にも使える。",
+        "en": "Means to observe continuously, whereas check on can be a one-time or occasional verification."
+      }
+    },
+    {
+      "word": "inspect",
+      "note": {
+        "ja": "詳しく点検する。check on よりフォーマルで精密な確認になりやすい。",
+        "en": "Means to examine carefully and is generally more formal and detailed than check on."
+      }
+    },
+    {
+      "word": "check in",
+      "note": {
+        "ja": "人に連絡して状況を聞くことに焦点。check on は対象の状態確認そのものに焦点がある。",
+        "en": "Focuses on making contact, while check on focuses more directly on the person's or thing's condition."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "nachsehen / sich nach jemandem erkundigen",
+    "it": "controllare / andare a vedere come sta qualcuno",
+    "fr": "vérifier / prendre des nouvelles de quelqu'un",
+    "es": "comprobar / ver cómo está alguien"
+  },
+  "collocations": {
+    "ja": [
+      "check on someone — 人の様子を確認する",
+      "check on a patient — 患者の容体を確認する",
+      "check on the children — 子どもたちの様子を見る",
+      "check on progress — 進捗を確認する",
+      "check on the status — 状況を確認する",
+      "check on the equipment — 機器の状態を確認する",
+      "check on the food — 料理の様子を見る",
+      "go and check on someone — 人の様子を見に行く",
+      "regularly check on something — 定期的に何かを確認する",
+      "check on whether something is working — 何かが正常に動いているか確認する"
+    ],
+    "en": [
+      "check on someone",
+      "check on a patient",
+      "check on the children",
+      "check on progress",
+      "check on the status",
+      "check on the equipment",
+      "check on the food",
+      "go and check on someone",
+      "regularly check on something",
+      "check on whether something is working"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I'll go check on the patient in a few minutes. — 数分したら患者の様子を見に行きます。",
+      "She went upstairs to check on the children. — 彼女は子どもたちの様子を見るため上の階へ行った。",
+      "Can you check on the progress of the repairs? — 修理の進捗を確認してもらえますか。",
+      "I checked on the oven to make sure the food wasn't burning. — 料理が焦げていないか確認するためオーブンを見た。",
+      "The manager checked on the team several times during the day. — その管理職は日中に何度かチームの状況を確認した。"
+    ],
+    "en": [
+      "I'll go check on the patient in a few minutes.",
+      "She went upstairs to check on the children.",
+      "Can you check on the progress of the repairs?",
+      "I checked on the oven to make sure the food wasn't burning.",
+      "The manager checked on the team several times during the day."
+    ]
+  }
+},
+{
+  "id": "transplantation",
+  "sid": "2026-00796",
+  "word": "transplantation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "surgery",
+    "transplant",
+    "healthcare"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable depending on sense",
+    "plural": "transplantations"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌtrænsplænˈteɪʃən/",
+      "uk": "/ˌtrænsplɑːnˈteɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "臓器・組織・細胞などの移植",
+      "生体組織などを別の場所や別の個体へ移すこと",
+      "植物を別の場所へ植え替えること"
+    ],
+    "en": [
+      "the medical procedure of transferring an organ, tissue, or cells from one location or person to another",
+      "the process of moving biological material to another site or recipient",
+      "the act of moving a plant from one place to another"
+    ]
+  },
+  "nuance": {
+    "ja": "医学で transplantation は、臓器・組織・細胞などを移植する行為・治療法そのものを指す。organ transplantation『臓器移植』、kidney transplantation『腎移植』、stem cell transplantation『幹細胞移植』などが典型。transplant は移植される臓器そのもの、移植手術、または『移植する』という動詞にもなるが、transplantation はよりフォーマルに移植という過程・医療行為を表す。",
+    "en": "In medicine, transplantation refers to the process or procedure of transferring an organ, tissue, or cells. Common examples include organ transplantation, kidney transplantation, and stem cell transplantation. Transplant can refer to the procedure, the transplanted organ or tissue, or the verb itself, while transplantation more formally emphasizes the process or medical intervention."
+  },
+  "minimal": {
+    "ja": [
+      "transplantation：臓器・組織・細胞などを移植する過程・医療行為。",
+      "transplant：移植、移植片、または移植するという動詞。",
+      "implantation：体内に物や組織などを埋め込むこと。",
+      "graft：移植される組織・移植片、または接ぎ木。",
+      "donation：臓器・組織などを提供すること。",
+      "transfusion：血液や血液成分を輸血すること。transplantation とは異なる。"
+    ],
+    "en": [
+      "transplantation is the process or procedure of transferring an organ, tissue, or cells.",
+      "transplant can mean the procedure, the transplanted material, or the act of transplanting.",
+      "implantation means placing something into the body or embedding it in tissue.",
+      "a graft is transplanted tissue or material.",
+      "donation is the act of providing an organ, tissue, or other biological material.",
+      "transfusion involves transferring blood or blood components rather than transplanting tissue or organs."
+    ]
+  },
+  "etymology": {
+    "ja": "transplant『移植する』＋ -ation『行為・過程』から成る。transplant はラテン語 trans-『越えて、向こうへ』＋ plantare『植える』に由来し、文字どおり『別の場所へ植え替える』という意味。植物の植え替えから、臓器・組織などの医学的移植へ意味が広がった。",
+    "en": "Formed from transplant plus the noun-forming suffix -ation. Transplant ultimately combines Latin trans- ('across, beyond') with plantare ('to plant'). The literal idea of moving and replanting something developed from plants to the medical transfer of organs, tissues, and cells."
+  },
+  "synonyms": [
+    {
+      "word": "transplant",
+      "note": {
+        "ja": "より一般的で、移植手術・移植片・動詞として幅広く使える。",
+        "en": "A broader term that can refer to the procedure, the transplanted material, or the verb."
+      }
+    },
+    {
+      "word": "grafting",
+      "note": {
+        "ja": "組織などを移植すること。皮膚移植などで使われ、植物の接ぎ木にも使う。",
+        "en": "The transfer or attachment of tissue, especially in procedures such as skin grafting; also used in horticulture."
+      }
+    },
+    {
+      "word": "implantation",
+      "note": {
+        "ja": "体内へ埋め込むことに焦点があり、transplantation と完全な同義ではない。",
+        "en": "Focuses on placing or embedding something in the body and is not an exact synonym for transplantation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Transplantation(医学) / Umpflanzung(園芸)",
+    "it": "trapianto",
+    "fr": "transplantation / greffe",
+    "es": "trasplante"
+  },
+  "collocations": {
+    "ja": [
+      "organ transplantation — 臓器移植",
+      "kidney transplantation — 腎移植",
+      "liver transplantation — 肝移植",
+      "heart transplantation — 心臓移植",
+      "lung transplantation — 肺移植",
+      "stem cell transplantation — 幹細胞移植",
+      "bone marrow transplantation — 骨髄移植",
+      "transplantation surgery — 移植手術",
+      "transplantation medicine — 移植医療",
+      "eligible for transplantation — 移植の適応となる"
+    ],
+    "en": [
+      "organ transplantation",
+      "kidney transplantation",
+      "liver transplantation",
+      "heart transplantation",
+      "lung transplantation",
+      "stem cell transplantation",
+      "bone marrow transplantation",
+      "transplantation surgery",
+      "transplantation medicine",
+      "eligible for transplantation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The patient underwent kidney transplantation. — その患者は腎移植を受けた。",
+      "Organ transplantation can save the lives of patients with severe organ failure. — 臓器移植は重度の臓器不全患者の命を救うことがある。",
+      "She was evaluated for liver transplantation. — 彼女は肝移植の適応評価を受けた。",
+      "Stem cell transplantation is used to treat certain blood disorders and cancers. — 幹細胞移植は特定の血液疾患やがんの治療に用いられる。",
+      "Successful transplantation requires careful matching and follow-up care. — 移植を成功させるには慎重な適合確認と移植後の経過観察が必要である。"
+    ],
+    "en": [
+      "The patient underwent kidney transplantation.",
+      "Organ transplantation can save the lives of patients with severe organ failure.",
+      "She was evaluated for liver transplantation.",
+      "Stem cell transplantation is used to treat certain blood disorders and cancers.",
+      "Successful transplantation requires careful matching and follow-up care."
+    ]
+  }
 }
 ]
