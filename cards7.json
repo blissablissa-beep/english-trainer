@@ -9874,5 +9874,551 @@
       "The emergency drill tested how quickly staff could evacuate the building."
     ]
   }
+},
+{
+  "id": "rehearsal",
+  "sid": "2026-00776",
+  "word": "rehearsal",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "performance",
+    "training",
+    "preparation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable depending on sense",
+    "plural": "rehearsals"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈhɜːrsəl/",
+      "uk": "/rɪˈhɜːsəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "リハーサル、稽古",
+      "本番を想定した予行演習",
+      "事前に手順や動きを通して練習すること"
+    ],
+    "en": [
+      "a practice session held before a performance or event",
+      "a trial run in which people practice what they will do in the actual event",
+      "the act of preparing by going through actions, lines, or procedures in advance"
+    ]
+  },
+  "nuance": {
+    "ja": "rehearsal は『本番があること』を強く意識した事前練習。演劇・音楽・スピーチなどで非常に一般的だが、emergency rehearsal のように手順確認にも使える。drill は特定の動作や反応を反復して身につける訓練、exercise はより広い演習、rehearsal は本番に近い形で一連の流れを事前に通すことに焦点がある。",
+    "en": "A rehearsal is practice carried out with an actual future performance or event in mind. It is especially common in theater, music, presentations, and ceremonies, but it can also be used for procedural preparation. Drill emphasizes repeated practice of a specific response, while exercise is broader; rehearsal focuses on running through the sequence in preparation for the real event."
+  },
+  "minimal": {
+    "ja": [
+      "rehearsal：本番を想定した予行練習。",
+      "practice：技能向上のための練習全般。",
+      "drill：特定の動作・手順を反復する訓練。",
+      "exercise：訓練・演習を広く表す語。",
+      "run-through：最初から最後まで通して行うリハーサル。",
+      "dress rehearsal：衣装・照明なども本番同様に行う最終リハーサル。"
+    ],
+    "en": [
+      "a rehearsal is practice for a specific upcoming performance or event.",
+      "practice is the broad term for working to improve a skill.",
+      "a drill repeatedly trains a particular response or procedure.",
+      "an exercise is a broader organized training activity.",
+      "a run-through is a complete practice from beginning to end.",
+      "a dress rehearsal is a near-final rehearsal conducted under performance-like conditions."
+    ]
+  },
+  "etymology": {
+    "ja": "rehearse の名詞形。rehearse は中世フランス語 rehearser に由来し、もともと『もう一度言う、繰り返す』という意味を持っていた。そこから台詞や動作を本番前に繰り返す『稽古する』という意味へ発展した。",
+    "en": "The noun form of rehearse. Rehearse comes through Middle French and originally carried the idea of repeating or recounting something. It later developed the specific sense of practicing lines, movements, or procedures before a performance or event."
+  },
+  "synonyms": [
+    {
+      "word": "practice",
+      "note": {
+        "ja": "最も広い『練習』。rehearsal は具体的な本番を想定することが多い。",
+        "en": "The broadest term for repeated preparation; rehearsal usually points toward a specific upcoming event."
+      }
+    },
+    {
+      "word": "run-through",
+      "note": {
+        "ja": "一連の内容を最初から最後まで通して行う予行練習。",
+        "en": "A practice in which the entire sequence is performed from beginning to end."
+      }
+    },
+    {
+      "word": "drill",
+      "note": {
+        "ja": "反復によって特定動作や手順を身につける訓練。",
+        "en": "Training that emphasizes repeated practice of a specific action or procedure."
+      }
+    },
+    {
+      "word": "simulation",
+      "note": {
+        "ja": "現実の状況を人工的に再現する訓練・模擬実験。",
+        "en": "A recreation of real-world conditions for training, testing, or analysis."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Probe",
+    "it": "prova",
+    "fr": "répétition",
+    "es": "ensayo"
+  },
+  "collocations": {
+    "ja": [
+      "dress rehearsal — 本番同様に行う最終リハーサル",
+      "final rehearsal — 最終リハーサル",
+      "full rehearsal — 全体リハーサル",
+      "rehearsal room — 稽古場",
+      "rehearsal schedule — リハーサル日程",
+      "attend a rehearsal — リハーサルに参加する",
+      "hold a rehearsal — リハーサルを行う",
+      "conduct a rehearsal — 予行演習を実施する",
+      "rehearsal for the ceremony — 式典の予行演習",
+      "run-through rehearsal — 通し稽古"
+    ],
+    "en": [
+      "dress rehearsal",
+      "final rehearsal",
+      "full rehearsal",
+      "rehearsal room",
+      "rehearsal schedule",
+      "attend a rehearsal",
+      "hold a rehearsal",
+      "conduct a rehearsal",
+      "rehearsal for the ceremony",
+      "run-through rehearsal"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The cast has a final rehearsal tonight. — 出演者たちは今夜、最終リハーサルを行う。",
+      "We held a full rehearsal before the ceremony. — 私たちは式典の前に全体の予行演習を行った。",
+      "The dress rehearsal went smoothly. — ゲネプロは順調に進んだ。",
+      "They did a quick rehearsal of the presentation before the meeting. — 彼らは会議前にプレゼンテーションの簡単なリハーサルをした。",
+      "The emergency procedure was tested in a rehearsal before the event. — その緊急時手順はイベント前の予行演習で確認された。"
+    ],
+    "en": [
+      "The cast has a final rehearsal tonight.",
+      "We held a full rehearsal before the ceremony.",
+      "The dress rehearsal went smoothly.",
+      "They did a quick rehearsal of the presentation before the meeting.",
+      "The emergency procedure was tested in a rehearsal before the event."
+    ]
+  }
+},
+{
+  "id": "run_through",
+  "sid": "2026-00777",
+  "word": "run-through",
+  "variants": [
+    "run through"
+  ],
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "practice",
+    "rehearsal",
+    "preparation",
+    "performance",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "run-throughs"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈrʌnˌθruː/",
+      "uk": "/ˈrʌn θruː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "通し稽古、通しのリハーサル",
+      "一連の手順を最初から最後まで通して確認すること",
+      "内容や手順の簡単な事前確認"
+    ],
+    "en": [
+      "a practice in which a performance or procedure is carried out from beginning to end",
+      "a complete rehearsal of a sequence without focusing extensively on individual parts",
+      "a quick review or practice of a plan, presentation, or procedure"
+    ]
+  },
+  "nuance": {
+    "ja": "run-through は、演劇・プレゼンテーション・会議・式典・手順などを『最初から最後まで一度通してみる』ことに焦点がある。rehearsal より口語的で、必ずしも本格的なリハーサルとは限らない。quick run-through のように『ざっと一通り確認する』という軽い意味でも非常によく使われる。名詞では run-through とハイフンを入れるのが一般的で、動詞句 run through は別表記になる。",
+    "en": "A run-through focuses on going through an entire performance, presentation, plan, or procedure from beginning to end. It is more informal than rehearsal and does not necessarily imply a full-scale practice. A quick run-through often means a brief review of the whole sequence. The noun is normally hyphenated, while the phrasal verb run through is written as two words."
+  },
+  "minimal": {
+    "ja": [
+      "run-through：最初から最後まで一通り行う通し練習。",
+      "rehearsal：本番に備えたリハーサル全般。",
+      "dress rehearsal：衣装・照明なども本番同様に行う最終リハーサル。",
+      "drill：特定の動作・手順を反復する訓練。",
+      "practice：技能を高めるための練習全般。",
+      "review：内容を振り返り、確認・検討すること。"
+    ],
+    "en": [
+      "a run-through goes through the whole sequence from beginning to end.",
+      "a rehearsal is general practice for an upcoming performance or event.",
+      "a dress rehearsal closely reproduces actual performance conditions.",
+      "a drill repeatedly practices a specific response or procedure.",
+      "practice is the broad term for working to improve a skill.",
+      "a review examines or revisits material rather than necessarily performing it."
+    ]
+  },
+  "etymology": {
+    "ja": "句動詞 run through『最初から最後まで通して行う、ざっと確認する』からできた名詞。run はここでは『一連のものを進める』、through は『端から端まで、最後まで』というイメージを持つ。",
+    "en": "Derived from the phrasal verb run through, meaning to go through something from beginning to end or review it quickly. Run conveys carrying a sequence forward, while through emphasizes completion from one end to the other."
+  },
+  "synonyms": [
+    {
+      "word": "rehearsal",
+      "note": {
+        "ja": "本番前の練習を広く表す語。run-through は特に全体を通すことに焦点がある。",
+        "en": "The broader term for practice before an event; run-through specifically emphasizes completing the whole sequence."
+      }
+    },
+    {
+      "word": "practice",
+      "note": {
+        "ja": "練習全般。run-through より意味が広い。",
+        "en": "A broader term for repeated preparation or skill development."
+      }
+    },
+    {
+      "word": "dry run",
+      "note": {
+        "ja": "本番前に実際の結果を伴わず手順を試す予行演習。run-through と近い。",
+        "en": "A trial of a procedure without the real-world consequences, often close in meaning to run-through."
+      }
+    },
+    {
+      "word": "walkthrough",
+      "note": {
+        "ja": "手順を順番に確認・説明すること。実演より説明に重点が置かれることも多い。",
+        "en": "A step-by-step review or demonstration, often with more emphasis on explanation than performance."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Durchlauf / Probe",
+    "it": "prova completa",
+    "fr": "répétition complète / déroulé",
+    "es": "ensayo completo / repaso"
+  },
+  "collocations": {
+    "ja": [
+      "quick run-through — 簡単な通し確認",
+      "final run-through — 最終の通し稽古",
+      "full run-through — 全体を通したリハーサル",
+      "complete run-through — 一通りの完全な確認",
+      "do a run-through — 通し練習をする",
+      "have a run-through — 一通り練習する",
+      "give something a run-through — 何かを一通り確認する",
+      "run-through of the presentation — プレゼンテーションの通し練習",
+      "run-through of the procedure — 手順の通し確認",
+      "run-through before the event — イベント前の予行演習"
+    ],
+    "en": [
+      "quick run-through",
+      "final run-through",
+      "full run-through",
+      "complete run-through",
+      "do a run-through",
+      "have a run-through",
+      "give something a run-through",
+      "run-through of the presentation",
+      "run-through of the procedure",
+      "run-through before the event"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Let's do a quick run-through before the presentation. — プレゼンの前に簡単に一通り確認しましょう。",
+      "The cast completed a full run-through of the play. — 出演者たちは劇を最初から最後まで通して稽古した。",
+      "We had one final run-through before the ceremony began. — 式典が始まる前に最後の通し練習を一度行った。",
+      "The team did a run-through of the emergency procedure. — チームは緊急時の手順を一通り確認した。",
+      "She gave me a quick run-through of the plan. — 彼女はその計画を私にざっと一通り説明してくれた。"
+    ],
+    "en": [
+      "Let's do a quick run-through before the presentation.",
+      "The cast completed a full run-through of the play.",
+      "We had one final run-through before the ceremony began.",
+      "The team did a run-through of the emergency procedure.",
+      "She gave me a quick run-through of the plan."
+    ]
+  }
+},
+{
+  "id": "insubordination",
+  "sid": "2026-00778",
+  "word": "insubordination",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "workplace",
+    "military",
+    "discipline",
+    "authority",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "usually uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɪnsəˌbɔːrdəˈneɪʃən/",
+      "uk": "/ˌɪnsəbɔːdɪˈneɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "命令不服従",
+      "上司や正当な権限への反抗",
+      "職務上の指示に意図的に従わないこと"
+    ],
+    "en": [
+      "deliberate refusal to obey a lawful or reasonable order from someone in authority",
+      "defiance of a superior or established authority",
+      "failure to comply with workplace, military, or institutional commands in a way regarded as disciplinary misconduct"
+    ]
+  },
+  "nuance": {
+    "ja": "insubordination は単なる意見の相違やミスではなく、上下関係のある場面で権限ある相手の命令・指示に意図的に従わないことを指す。職場では懲戒処分や解雇理由として使われることがあり、軍事文脈ではより重大な規律違反を示すことがある。ただし、何が insubordination に当たるかは就業規則・法律・軍規などによって異なる。",
+    "en": "Insubordination is stronger than simple disagreement or failure. It usually implies deliberate defiance of a superior's legitimate authority or refusal to follow an order. In workplaces it may be treated as disciplinary misconduct, while in military settings it can carry more serious consequences. The exact threshold depends on the applicable rules and jurisdiction."
+  },
+  "minimal": {
+    "ja": [
+      "insubordination：上司や正当な権限への意図的な命令不服従。",
+      "disobedience：命令に従わないこと全般。より広い語。",
+      "defiance：権威などに公然と反抗する態度・行為。",
+      "misconduct：不適切な行為・非違行為を広く表す語。",
+      "insolence：無礼で生意気な態度。命令拒否を必ずしも伴わない。",
+      "mutiny：兵士・船員などによる集団的な反乱。insubordination よりはるかに重大。"
+    ],
+    "en": [
+      "insubordination is deliberate refusal to obey legitimate authority.",
+      "disobedience is the broader act of not obeying.",
+      "defiance emphasizes open resistance to authority.",
+      "misconduct is a broad term for improper behavior.",
+      "insolence means rude or disrespectful behavior and does not necessarily involve refusing an order.",
+      "mutiny is collective rebellion by military personnel or sailors and is much more serious than ordinary insubordination."
+    ]
+  },
+  "etymology": {
+    "ja": "in-『否定』＋ subordination『従属、上下関係』から成る。subordination は subordinate『下位の、従属した』と同系で、ラテン語 sub『下に』＋ ordinare『秩序づける』に由来する。つまり語源的には『下位の立場として従うことの拒否』という構造。",
+    "en": "Formed from in- ('not') and subordination. Subordination is related to subordinate and ultimately to Latin sub ('under') and ordinare ('to arrange or put in order'). The word therefore literally suggests refusal to remain under established authority."
+  },
+  "synonyms": [
+    {
+      "word": "disobedience",
+      "note": {
+        "ja": "命令に従わないことを広く表す。insubordination より一般的。",
+        "en": "A broader term for failure or refusal to obey."
+      }
+    },
+    {
+      "word": "defiance",
+      "note": {
+        "ja": "権威に対する公然とした反抗。態度面のニュアンスが強い。",
+        "en": "Open resistance to authority, often emphasizing attitude or confrontation."
+      }
+    },
+    {
+      "word": "insolence",
+      "note": {
+        "ja": "上司などへの無礼・生意気な態度。命令不服従そのものとは異なる。",
+        "en": "Rude or disrespectful behavior toward authority rather than necessarily refusing an order."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Befehlsverweigerung / Ungehorsam",
+    "it": "insubordinazione",
+    "fr": "insubordination",
+    "es": "insubordinación"
+  },
+  "collocations": {
+    "ja": [
+      "gross insubordination — 重大な命令不服従",
+      "willful insubordination — 故意の命令不服従",
+      "act of insubordination — 命令不服従行為",
+      "insubordination at work — 職場での命令不服従",
+      "dismiss someone for insubordination — 命令不服従を理由に人を解雇する",
+      "disciplinary action for insubordination — 命令不服従に対する懲戒処分",
+      "accused of insubordination — 命令不服従を非難・告発される",
+      "insubordination toward a superior — 上司に対する反抗"
+    ],
+    "en": [
+      "gross insubordination",
+      "willful insubordination",
+      "act of insubordination",
+      "insubordination at work",
+      "dismiss someone for insubordination",
+      "disciplinary action for insubordination",
+      "accused of insubordination",
+      "insubordination toward a superior"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He was disciplined for insubordination after refusing a direct order. — 彼は直接の命令を拒否したため、命令不服従で懲戒処分を受けた。",
+      "The company dismissed the employee for repeated insubordination. — 会社は度重なる命令不服従を理由にその従業員を解雇した。",
+      "Disagreement with a manager does not automatically amount to insubordination. — 上司との意見の相違が自動的に命令不服従に当たるわけではない。",
+      "The officer was accused of insubordination toward a superior. — その将校は上官に対する命令不服従を問われた。",
+      "The rules distinguish between poor performance and willful insubordination. — その規則では、業績不振と故意の命令不服従を区別している。"
+    ],
+    "en": [
+      "He was disciplined for insubordination after refusing a direct order.",
+      "The company dismissed the employee for repeated insubordination.",
+      "Disagreement with a manager does not automatically amount to insubordination.",
+      "The officer was accused of insubordination toward a superior.",
+      "The rules distinguish between poor performance and willful insubordination."
+    ]
+  }
+},
+{
+  "id": "insubordinate",
+  "sid": "2026-00779",
+  "word": "insubordinate",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "workplace",
+    "military",
+    "discipline",
+    "authority",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adjective"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɪnsəˈbɔːrdənət/",
+      "uk": "/ˌɪnsəˈbɔːdɪnət/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "命令に従わない、反抗的な",
+      "上司や正当な権限に意図的に従わない",
+      "規律に反して命令を拒む"
+    ],
+    "en": [
+      "refusing to obey someone in authority",
+      "deliberately disobedient toward a superior or established authority",
+      "showing defiance of legitimate orders or discipline"
+    ]
+  },
+  "nuance": {
+    "ja": "insubordinate は単なる disagreeable『反対意見を持つ』や rude『無礼な』より強く、上下関係のある場面で命令や権限に従わないことを表す。職場では an insubordinate employee、軍隊では insubordinate behavior のように使われる。意見を述べただけで insubordinate になるわけではなく、通常は命令拒否や明確な反抗を含む。",
+    "en": "Insubordinate is stronger than merely disagreeable or rude. It describes deliberate refusal to obey legitimate authority, especially in workplaces, military organizations, or other hierarchical settings. Simply disagreeing with a superior does not necessarily make someone insubordinate."
+  },
+  "minimal": {
+    "ja": [
+      "insubordinate：上司や権限に意図的に従わない。",
+      "disobedient：命令や規則に従わないという一般的な語。",
+      "defiant：公然と反抗的な態度を示す。",
+      "insolent：無礼で生意気な。命令拒否は必須ではない。",
+      "rebellious：権威や規則への反発が強い。",
+      "insubordination：insubordinate の名詞形で、命令不服従。"
+    ],
+    "en": [
+      "insubordinate means deliberately disobedient toward legitimate authority.",
+      "disobedient is the broader everyday word for not obeying.",
+      "defiant emphasizes open resistance or challenge.",
+      "insolent emphasizes disrespectful or rude behavior.",
+      "rebellious suggests a broader tendency to resist authority or rules.",
+      "insubordination is the noun meaning deliberate disobedience to authority."
+    ]
+  },
+  "etymology": {
+    "ja": "in-『～でない』＋ subordinate『下位の、従属する』から成る。subordinate はラテン語 sub『下に』＋ ordinare『秩序づける』に由来する。したがって insubordinate は語源的に『上位の秩序に従わない』というイメージ。",
+    "en": "Formed from in- ('not') and subordinate. Subordinate ultimately comes from Latin sub ('under') and ordinare ('to arrange or put in order'). The word literally suggests not accepting one's position under established authority."
+  },
+  "synonyms": [
+    {
+      "word": "disobedient",
+      "note": {
+        "ja": "最も一般的な『従わない』。insubordinate ほど職場・軍隊の上下関係に限定されない。",
+        "en": "The broader everyday term for failing or refusing to obey."
+      }
+    },
+    {
+      "word": "defiant",
+      "note": {
+        "ja": "権威に対して公然と挑戦的・反抗的な態度を示す。",
+        "en": "Emphasizes openly challenging or resisting authority."
+      }
+    },
+    {
+      "word": "insolent",
+      "note": {
+        "ja": "無礼で生意気な。反抗的ではあっても、命令拒否そのものを意味しない。",
+        "en": "Means disrespectfully rude and does not necessarily imply refusal to obey."
+      }
+    },
+    {
+      "word": "rebellious",
+      "note": {
+        "ja": "規則や権威に反発する傾向を広く表す。",
+        "en": "A broader term for resisting rules, control, or authority."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ungehorsam / aufsässig",
+    "it": "insubordinato",
+    "fr": "insubordonné",
+    "es": "insubordinado"
+  },
+  "collocations": {
+    "ja": [
+      "insubordinate employee — 命令に従わない従業員",
+      "insubordinate behavior — 命令不服従の行動",
+      "insubordinate conduct — 反抗的な行為",
+      "insubordinate attitude — 反抗的な態度",
+      "be insubordinate to a superior — 上司に反抗する",
+      "dismiss an insubordinate employee — 命令に従わない従業員を解雇する",
+      "disciplined for being insubordinate — 命令不服従を理由に懲戒を受ける"
+    ],
+    "en": [
+      "insubordinate employee",
+      "insubordinate behavior",
+      "insubordinate conduct",
+      "insubordinate attitude",
+      "be insubordinate to a superior",
+      "dismiss an insubordinate employee",
+      "disciplined for being insubordinate"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The employee was disciplined for being insubordinate. — その従業員は命令に従わなかったため懲戒処分を受けた。",
+      "His supervisor described his conduct as insubordinate. — 上司は彼の行為を命令不服従だと評した。",
+      "She was not being insubordinate; she was simply questioning the instruction. — 彼女は反抗していたのではなく、単にその指示に疑問を呈していただけだった。",
+      "The officer was accused of making insubordinate remarks to a superior. — その将校は上官に対して反抗的な発言をしたとして非難された。",
+      "Repeatedly refusing reasonable instructions may be considered insubordinate behavior. — 合理的な指示を繰り返し拒否することは、命令不服従の行為とみなされる場合がある。"
+    ],
+    "en": [
+      "The employee was disciplined for being insubordinate.",
+      "His supervisor described his conduct as insubordinate.",
+      "She was not being insubordinate; she was simply questioning the instruction.",
+      "The officer was accused of making insubordinate remarks to a superior.",
+      "Repeatedly refusing reasonable instructions may be considered insubordinate behavior."
+    ]
+  }
 }
 ]
