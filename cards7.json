@@ -7028,139 +7028,1750 @@
   }
 },
 {
-  "id": "paperasserie",
+  "id": "paperwork",
   "sid": "2026-00755",
-  "word": "paperasserie",
-  "level": "C1",
-  "freq": "sometimes",
+  "word": "paperwork",
+  "level": "B2",
+  "freq": "often",
   "tags": [
-    "French",
-    "bureaucracy",
+    "work",
     "administration",
-    "paperwork",
-    "informal"
+    "documents",
+    "bureaucracy",
+    "general"
   ],
   "grammar": {
     "pos": "noun",
-    "countability": "usually uncountable",
-    "gender": "feminine"
+    "countability": "uncountable"
   },
   "pronunciation": {
     "ipa": {
-      "us": "/pa.pə.ʁa.sʁi/",
-      "uk": "/pa.pə.ʁa.sʁi/"
+      "us": "/ˈpeɪpərˌwɜːrk/",
+      "uk": "/ˈpeɪpəwɜːk/"
     }
   },
   "meaning": {
     "ja": [
-      "煩雑な書類仕事",
-      "面倒で大量の事務手続き",
-      "お役所的でうんざりするような書類処理"
+      "書類仕事、事務書類の処理",
+      "申請書・契約書・記録などの必要書類",
+      "文書の記入・整理・提出などの事務作業"
     ],
     "en": [
-      "tedious or excessive paperwork",
-      "burdensome administrative formalities",
-      "a mass of annoying documents and bureaucratic procedures"
+      "work involving forms, documents, records, or administrative papers",
+      "the documents required for a transaction, application, or official process",
+      "administrative tasks involving the completion, organization, or processing of documents"
     ]
   },
   "nuance": {
-    "ja": "paperasserie はフランス語で、単なる papiers『書類』や travail administratif『事務作業』より明確に否定的。大量の書類を書いたり提出したりしなければならない状況に対する『面倒くさい』『うんざりする』という評価を含む。英語の paperwork より red tape に近い場合が多いが、red tape が規則や制度上の障害まで含むのに対し、paperasserie は特に書類・事務作業そのものに焦点を当てやすい。",
-    "en": "Paperasserie is a French noun with a distinctly negative tone. It refers to tedious, excessive, or annoying paperwork and administrative formalities. It is often closer to English red tape than neutral paperwork, although paperasserie tends to emphasize the burden of documents and administrative chores themselves."
+    "ja": "paperwork は書類や文書に関する事務作業を広く指す中立的な語で、それ自体に『不必要に煩雑』という意味はない。ただし too much paperwork や a mountain of paperwork のように使えば、書類仕事への負担感や苛立ちを表せる。red tape は過剰な規則・官僚的手続きそのものへの否定的評価を含むため、paperwork より批判的。",
+    "en": "Paperwork is a broad and generally neutral term for administrative work involving documents. It does not inherently mean that the work is unnecessary or excessively bureaucratic. Expressions such as too much paperwork or a mountain of paperwork can convey frustration. Red tape is more explicitly negative and refers to burdensome bureaucratic rules and procedures."
   },
   "minimal": {
     "ja": [
-      "paperasserie：うんざりするほど煩雑な書類仕事。",
-      "paperwork：英語で書類仕事。中立的にも使える。",
-      "red tape：過剰な規則・書類手続きによる官僚的な障害。",
-      "bureaucracy：官僚制度・行政機構そのもの。",
-      "papiers：フランス語で書類・証明書類を広く指す。",
-      "formalités administratives：行政上の手続き。paperasserie より中立的。"
+      "paperwork：書類仕事・必要書類。基本的には中立。",
+      "red tape：過剰な規則や書類手続きによる官僚的な煩雑さ。",
+      "bureaucracy：官僚制・行政機構そのもの、または官僚的な複雑さ。",
+      "rigmarole：不必要に長く面倒な一連の手続き。",
+      "documentation：記録・証拠・説明のための文書類。",
+      "form：記入する申請書・用紙。"
     ],
     "en": [
-      "paperasserie means tedious and excessive paperwork.",
-      "paperwork is a broader English term and can be neutral.",
-      "red tape emphasizes excessive bureaucratic rules and procedural obstacles.",
-      "bureaucracy refers to the administrative system itself.",
-      "papiers is a broad French word for papers or official documents.",
-      "formalités administratives is a more neutral French term for administrative formalities."
+      "paperwork is document-related administrative work and is usually neutral.",
+      "red tape refers to excessive bureaucratic rules and procedures.",
+      "bureaucracy refers to an administrative system or its complexity.",
+      "a rigmarole is an unnecessarily long and complicated procedure.",
+      "documentation refers to documents used as records, evidence, or instructions.",
+      "a form is a document designed to be filled in."
     ]
   },
   "etymology": {
-    "ja": "フランス語 papier『紙、書類』を基礎とする語で、-asserie が大量・反復・煩雑さを感じさせる名詞を形成している。語全体として『大量の紙・書類を扱う煩わしい作業』という意味に発達した。",
-    "en": "Built on French papier, meaning 'paper or document'. The formation developed the sense of an excessive mass of paperwork and the tedious administrative activity associated with it."
+    "ja": "paper『紙、書類』＋ work『仕事』から成る透明な複合語。もともとは紙を扱う仕事という文字どおりの意味から、書類の作成・記入・整理・提出などの事務作業全般を指すようになった。",
+    "en": "A transparent compound of paper and work. It developed from the literal idea of work involving paper into the modern sense of administrative tasks involving forms, records, and documents."
   },
   "synonyms": [
     {
+      "word": "documentation",
+      "note": {
+        "ja": "文書類そのものや記録作成に焦点があり、paperwork より正式・技術的なことが多い。",
+        "en": "Often more formal or technical and focuses on documents or the creation of records."
+      }
+    },
+    {
+      "word": "administration",
+      "note": {
+        "ja": "書類仕事だけでなく運営・管理業務全般を含む、より広い語。",
+        "en": "A broader term that includes management and organizational tasks beyond paperwork."
+      }
+    },
+    {
       "word": "red tape",
       "note": {
-        "ja": "英語ではかなり近いが、規則や制度的障害まで含みやすい。",
-        "en": "A close English equivalent, though it more strongly includes bureaucratic rules and procedural obstacles."
-      }
-    },
-    {
-      "word": "paperwork",
-      "note": {
-        "ja": "書類仕事一般。paperasserie のような否定的ニュアンスは必須ではない。",
-        "en": "General document-related work and not necessarily negative."
-      }
-    },
-    {
-      "word": "bureaucratic hassle",
-      "note": {
-        "ja": "官僚的な面倒を表す英語の口語的な言い換え。",
-        "en": "An informal English paraphrase emphasizing bureaucratic inconvenience."
-      }
-    },
-    {
-      "word": "formalités administratives",
-      "note": {
-        "ja": "フランス語で『行政手続き』。paperasserie より中立的。",
-        "en": "A neutral French expression for administrative formalities."
+        "ja": "書類そのものではなく、過剰で煩雑な官僚的手続きに焦点を当てる。",
+        "en": "Focuses on excessive bureaucratic procedure rather than document work itself."
       }
     }
   ],
   "equivalents": {
-    "de": "Papierkram / Papierkrieg",
-    "it": "scartoffie / trafila burocratica",
-    "fr": "paperasserie",
-    "es": "papeleo"
+    "de": "Papierkram / Unterlagen",
+    "it": "scartoffie / pratiche",
+    "fr": "paperasse / formalités administratives",
+    "es": "papeleo / documentación"
   },
   "collocations": {
     "ja": [
-      "faire de la paperasserie — 面倒な書類仕事をする",
-      "toute cette paperasserie — この大量の面倒な書類仕事",
-      "éviter la paperasserie — 煩雑な書類仕事を避ける",
-      "réduire la paperasserie — 書類手続きの負担を減らす",
-      "paperasserie administrative — 煩雑な行政書類手続き",
-      "paperasserie inutile — 不必要な書類仕事",
-      "être noyé dans la paperasserie — 書類仕事に埋もれる",
-      "des heures de paperasserie — 何時間もの書類仕事"
+      "do the paperwork — 書類仕事をする",
+      "fill out the paperwork — 必要書類に記入する",
+      "complete the paperwork — 書類手続きを完了する",
+      "submit the paperwork — 書類を提出する",
+      "sign the paperwork — 書類に署名する",
+      "process the paperwork — 書類を処理する",
+      "necessary paperwork — 必要書類",
+      "legal paperwork — 法的書類",
+      "a mountain of paperwork — 山のような書類仕事",
+      "cut down on paperwork — 書類仕事を減らす"
     ],
     "en": [
-      "do tedious paperwork",
-      "all this paperwork",
-      "avoid bureaucratic paperwork",
-      "reduce paperwork",
-      "administrative red tape",
-      "unnecessary paperwork",
-      "be buried in paperwork",
-      "hours of paperwork"
+      "do the paperwork",
+      "fill out the paperwork",
+      "complete the paperwork",
+      "submit the paperwork",
+      "sign the paperwork",
+      "process the paperwork",
+      "necessary paperwork",
+      "legal paperwork",
+      "a mountain of paperwork",
+      "cut down on paperwork"
     ]
   },
   "example": {
     "ja": [
-      "Je passe trop de temps à faire de la paperasserie. — 私は面倒な書類仕事に時間をかけすぎている。",
-      "Toute cette paperasserie ralentit le processus. — この煩雑な書類手続きのせいでプロセスが遅れている。",
-      "Le gouvernement veut réduire la paperasserie administrative. — 政府は煩雑な行政書類手続きを減らそうとしている。",
-      "Elle en a assez de toute cette paperasserie. — 彼女はこの面倒な書類仕事にうんざりしている。",
-      "Nous avons passé la matinée à remplir de la paperasserie. — 私たちは午前中いっぱい面倒な書類を記入して過ごした。"
+      "I still have a lot of paperwork to finish before I leave. — 帰る前にまだたくさんの書類仕事を終えなければならない。",
+      "Please fill out the paperwork and return it to the front desk. — 必要書類に記入して受付に返してください。",
+      "The bank needs additional paperwork before approving the loan. — 銀行は融資を承認する前に追加書類を必要としている。",
+      "We spent most of the morning completing the paperwork. — 私たちは午前中の大半を書類手続きに費やした。",
+      "The new system has significantly reduced unnecessary paperwork. — 新しいシステムによって不要な書類仕事が大幅に減った。"
     ],
     "en": [
-      "I spend too much time doing tedious paperwork.",
-      "All this paperwork is slowing down the process.",
-      "The government wants to reduce administrative red tape.",
-      "She is fed up with all this paperwork.",
-      "We spent the morning filling out paperwork."
+      "I still have a lot of paperwork to finish before I leave.",
+      "Please fill out the paperwork and return it to the front desk.",
+      "The bank needs additional paperwork before approving the loan.",
+      "We spent most of the morning completing the paperwork.",
+      "The new system has significantly reduced unnecessary paperwork."
+    ]
+  }
+},
+{
+  "id": "wage",
+  "sid": "2026-00756",
+  "word": "wage",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "work",
+    "employment",
+    "finance",
+    "economics"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "forms": {
+      "base": "wage",
+      "third_person": "wages",
+      "past": "waged",
+      "past_participle": "waged",
+      "gerund": "waging"
+    },
+    "transitivity": "transitive as a verb",
+    "countability": "countable as a noun",
+    "plural": "wages"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/weɪdʒ/",
+      "uk": "/weɪdʒ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "賃金、労働の対価として支払われる報酬",
+      "特に時間・日・週単位などで支払われる給与",
+      "動詞で、戦争・闘争・運動などを行う、遂行する"
+    ],
+    "en": [
+      "money paid to a worker for work, often calculated by the hour, day, or week",
+      "payment received in return for labor",
+      "as a verb, to carry on or conduct a war, campaign, or struggle"
+    ]
+  },
+  "nuance": {
+    "ja": "wage は労働への金銭的報酬を表し、特に時給・日給・週給など労働時間や労働量に応じた支払いを指しやすい。salary は通常、月額・年額などで定められた固定給を表す。実際の英語では wages と複数形で『賃金・給料』を表すことも非常に多い。動詞の wage は意味が全く異なり、wage war, wage a campaign のように『戦争・運動などを遂行する』を意味する。",
+    "en": "Wage refers to monetary payment for labor and is especially associated with hourly, daily, or weekly pay. Salary more commonly refers to a fixed annual or monthly amount. The plural wages is very common when referring to a worker's earnings. As a verb, wage has a different sense and means to conduct or carry on a war, campaign, or struggle."
+  },
+  "minimal": {
+    "ja": [
+      "wage：労働時間・労働量に応じて支払われる賃金を指しやすい。",
+      "salary：通常は月給・年俸などの固定給。",
+      "earnings：労働や事業から得た収入全体。",
+      "income：給与以外も含む収入全般。",
+      "pay：給料・報酬を広く表す日常的な語。",
+      "compensation：給与・賞与・福利厚生などを含む報酬全体。"
+    ],
+    "en": [
+      "wage often refers to pay calculated according to hours or units of work.",
+      "salary usually refers to a fixed monthly or annual amount.",
+      "earnings are the total amounts earned from work or business activity.",
+      "income is broader and can include money from many sources.",
+      "pay is a common general word for money received for work.",
+      "compensation can include salary, wages, bonuses, and benefits."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 wage または gage『誓約、保証、支払い』に由来し、ゲルマン語系の語にさかのぼる。もともとは『保証として与えるもの』という考えから、労働に対する支払いという意味へ発展した。英語の wager『賭け』や gage『担保、保証』とも歴史的に関連する。",
+    "en": "From Old French wage or gage, meaning 'pledge, security, or payment', ultimately of Germanic origin. The sense developed from something given as a pledge or payment into money paid for labor. It is historically related to words such as wager and gage."
+  },
+  "synonyms": [
+    {
+      "word": "pay",
+      "note": {
+        "ja": "労働への報酬を表す最も一般的な語で、wage より広い。",
+        "en": "A broad everyday term for money received for work."
+      }
+    },
+    {
+      "word": "salary",
+      "note": {
+        "ja": "通常は固定された月給・年俸。wage と支払い方式が異なることが多い。",
+        "en": "Usually a fixed monthly or annual payment rather than hourly or daily pay."
+      }
+    },
+    {
+      "word": "earnings",
+      "note": {
+        "ja": "働いて得た収入全体。個人にも企業にも使える。",
+        "en": "Total income earned from work or business and can apply to individuals or companies."
+      }
+    },
+    {
+      "word": "remuneration",
+      "note": {
+        "ja": "労働・サービスへの報酬を表すフォーマルな語。",
+        "en": "A formal term for payment or reward for work or services."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Lohn",
+    "it": "salario / paga",
+    "fr": "salaire",
+    "es": "salario / sueldo"
+  },
+  "collocations": {
+    "ja": [
+      "hourly wage — 時給",
+      "daily wage — 日給",
+      "weekly wage — 週給",
+      "minimum wage — 最低賃金",
+      "living wage — 生活賃金",
+      "average wage — 平均賃金",
+      "low wages — 低賃金",
+      "wage increase — 賃上げ",
+      "wage growth — 賃金上昇",
+      "wage gap — 賃金格差"
+    ],
+    "en": [
+      "hourly wage",
+      "daily wage",
+      "weekly wage",
+      "minimum wage",
+      "living wage",
+      "average wage",
+      "low wages",
+      "wage increase",
+      "wage growth",
+      "wage gap"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company raised the hourly wage for new employees. — その会社は新入社員の時給を引き上げた。",
+      "Many workers are demanding higher wages. — 多くの労働者が賃上げを求めている。",
+      "The minimum wage differs from one jurisdiction to another. — 最低賃金は地域や法域によって異なる。",
+      "Wage growth has not kept pace with inflation. — 賃金の伸びはインフレに追いついていない。",
+      "The government waged a campaign against corruption. — 政府は汚職撲滅運動を展開した。"
+    ],
+    "en": [
+      "The company raised the hourly wage for new employees.",
+      "Many workers are demanding higher wages.",
+      "The minimum wage differs from one jurisdiction to another.",
+      "Wage growth has not kept pace with inflation.",
+      "The government waged a campaign against corruption."
+    ]
+  }
+},
+{
+  "id": "surrogate_mother",
+  "sid": "2026-00757",
+  "word": "surrogate mother",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "reproductive medicine",
+    "fertility",
+    "family",
+    "law"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "countable",
+    "plural": "surrogate mothers"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsɜːrəɡət ˌmʌðər/",
+      "uk": "/ˈsʌrəɡət ˌmʌðə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "代理母",
+      "他の個人またはカップルのために妊娠・出産を担う女性"
+    ],
+    "en": [
+      "a woman who carries and gives birth to a child for another person or couple",
+      "a woman participating in a surrogacy arrangement"
+    ]
+  },
+  "nuance": {
+    "ja": "surrogate mother は一般的な『代理母』という表現だが、生殖医療や法的文脈では surrogate や gestational carrier が使われることも多い。traditional surrogate は代理母自身の卵子を用いるため遺伝的つながりがある。一方、gestational carrier は別の人の卵子から作られた胚を妊娠するため、通常その子どもとの遺伝的つながりはない。代理出産に関する法的扱いは国や地域によって大きく異なる。",
+    "en": "Surrogate mother is a common general term, though surrogate and gestational carrier are also widely used in medical and legal contexts. A traditional surrogate uses her own egg and therefore has a genetic relationship to the child. A gestational carrier carries an embryo created from another person's egg and ordinarily has no genetic relationship to the child. The legal status of surrogacy varies substantially by jurisdiction."
+  },
+  "minimal": {
+    "ja": [
+      "surrogate mother：代理出産を担う女性を広く指す一般語。",
+      "surrogate：代理母を指す、より短く中立的な表現。",
+      "gestational carrier：遺伝的つながりを持たず妊娠を担う人。",
+      "traditional surrogate：自身の卵子を用いる代理母。",
+      "surrogacy：代理出産という制度・取り決め。",
+      "egg donor：卵子を提供する人。妊娠を担う人とは別の場合がある。"
+    ],
+    "en": [
+      "surrogate mother is a general term for a woman who carries a child for another person or couple.",
+      "surrogate is a shorter and often more neutral term.",
+      "a gestational carrier carries a pregnancy without using her own egg.",
+      "a traditional surrogate uses her own egg and has a genetic relationship to the child.",
+      "surrogacy is the arrangement or practice itself.",
+      "an egg donor provides an egg and may be different from the person who carries the pregnancy."
+    ]
+  },
+  "etymology": {
+    "ja": "surrogate はラテン語 surrogare『代わりに選ぶ、代任させる』に由来する。sub-『下に、代わりに』と rogare『求める、指名する』に関係し、英語では『代理を務める人・もの』という意味へ発展した。surrogate mother は文字どおり『母親の役割を代理する人』という表現。",
+    "en": "Surrogate comes from Latin surrogare, meaning 'to substitute or appoint in place of another'. It developed in English to mean a person or thing acting as a substitute. Surrogate mother therefore literally refers to a mother acting in a substitutive reproductive role."
+  },
+  "synonyms": [
+    {
+      "word": "surrogate",
+      "note": {
+        "ja": "現代英語でよく使われる短い表現。",
+        "en": "A common shorter term in modern English."
+      }
+    },
+    {
+      "word": "gestational carrier",
+      "note": {
+        "ja": "自分の卵子を使わず妊娠を担う人を指す、より医学的で精密な語。",
+        "en": "A more precise medical term for someone who carries a pregnancy without using her own egg."
+      }
+    },
+    {
+      "word": "traditional surrogate",
+      "note": {
+        "ja": "自身の卵子を使用する代理母。",
+        "en": "A surrogate who uses her own egg."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Leihmutter",
+    "it": "madre surrogata / gestante per altri",
+    "fr": "mère porteuse",
+    "es": "madre gestante / gestante subrogada"
+  },
+  "collocations": {
+    "ja": [
+      "surrogate mother arrangement — 代理出産の取り決め",
+      "become a surrogate mother — 代理母になる",
+      "use a surrogate mother — 代理母による出産を利用する",
+      "traditional surrogate mother — 伝統的代理母",
+      "gestational surrogate — 妊娠代理母",
+      "surrogacy agreement — 代理出産契約",
+      "surrogacy arrangement — 代理出産の取り決め",
+      "intended parents — 依頼親",
+      "gestational carrier — 妊娠代理者",
+      "surrogacy law — 代理出産に関する法律"
+    ],
+    "en": [
+      "surrogate mother arrangement",
+      "become a surrogate mother",
+      "use a surrogate mother",
+      "traditional surrogate mother",
+      "gestational surrogate",
+      "surrogacy agreement",
+      "surrogacy arrangement",
+      "intended parents",
+      "gestational carrier",
+      "surrogacy law"
+    ]
+  },
+  "example": {
+    "ja": [
+      "They decided to pursue surrogacy with a gestational carrier. — 彼らは妊娠代理者による代理出産を選ぶことにした。",
+      "The surrogate mother carried the pregnancy for the intended parents. — 代理母は依頼親のために妊娠を担った。",
+      "A traditional surrogate is genetically related to the child. — 伝統的代理母はその子どもと遺伝的につながっている。",
+      "The legal rules governing surrogate motherhood vary by jurisdiction. — 代理出産に関する法的規則は法域によって異なる。",
+      "The clinic explained the difference between a surrogate mother and a gestational carrier. — そのクリニックは代理母と妊娠代理者の違いを説明した。"
+    ],
+    "en": [
+      "They decided to pursue surrogacy with a gestational carrier.",
+      "The surrogate mother carried the pregnancy for the intended parents.",
+      "A traditional surrogate is genetically related to the child.",
+      "The legal rules governing surrogate motherhood vary by jurisdiction.",
+      "The clinic explained the difference between a surrogate mother and a gestational carrier."
+    ]
+  }
+},
+{
+  "id": "ballistic_missile",
+  "sid": "2026-00758",
+  "word": "ballistic missile",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "military",
+    "defense",
+    "geopolitics",
+    "technology"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "countable",
+    "plural": "ballistic missiles"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bəˌlɪstɪk ˈmɪsəl/",
+      "uk": "/bəˌlɪstɪk ˈmɪsaɪl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "弾道ミサイル",
+      "発射後、飛行の大部分を弾道軌道に沿って進むミサイル"
+    ],
+    "en": [
+      "a missile that follows a ballistic trajectory during a substantial part of its flight",
+      "a guided weapon that is powered during part of its flight and then travels largely under gravity and momentum"
+    ]
+  },
+  "nuance": {
+    "ja": "ballistic missile は、発射直後の推進段階の後、飛行のかなりの部分を重力と慣性に従う弾道軌道で飛ぶミサイルを指す。cruise missile は飛行中も主にエンジンで推進され、大気中を航空機に近い形で飛行するため、基本的な飛行原理が異なる。ballistic missile には射程によって短距離・中距離・大陸間などの分類がある。",
+    "en": "A ballistic missile is powered during the early part of its flight and then follows a largely ballistic path governed by gravity and momentum. This contrasts with a cruise missile, which remains powered for most of its flight and travels through the atmosphere more like an aircraft. Ballistic missiles are often classified by range."
+  },
+  "minimal": {
+    "ja": [
+      "ballistic missile：飛行の大部分を弾道軌道で進むミサイル。",
+      "cruise missile：飛行中も主に推進力を使い続ける巡航ミサイル。",
+      "missile：誘導機能を持つ飛翔兵器を広く指す。",
+      "rocket：推進方式を表す語で、必ずしも誘導兵器とは限らない。",
+      "trajectory：飛翔体がたどる軌道。",
+      "intercontinental ballistic missile：大陸間弾道ミサイル。"
+    ],
+    "en": [
+      "a ballistic missile follows a largely ballistic path after its powered phase.",
+      "a cruise missile remains powered through most of its flight.",
+      "missile is a broad term for a guided projectile or weapon.",
+      "rocket refers primarily to a propulsion method and does not necessarily imply a guided weapon.",
+      "trajectory is the path followed by a moving projectile.",
+      "an intercontinental ballistic missile is a ballistic missile designed for intercontinental range."
+    ]
+  },
+  "etymology": {
+    "ja": "ballistic はギリシャ語 ballein『投げる』に由来する語系で、ballistics『弾道学』と同じ。missile はラテン語 mittere『送る、投げる』に由来する。したがって ballistic missile は語源的にも『投射され、弾道に従って飛ぶ飛翔体』という構造になっている。",
+    "en": "Ballistic ultimately comes from Greek ballein, meaning 'to throw', and is related to ballistics. Missile comes from Latin mittere, 'to send or throw'. The phrase therefore literally refers to a missile whose flight follows a ballistic path."
+  },
+  "synonyms": [
+    {
+      "word": "guided missile",
+      "note": {
+        "ja": "誘導ミサイルを広く指す上位語で、弾道ミサイルに限定されない。",
+        "en": "A broader category of guided weapons and not limited to ballistic missiles."
+      }
+    },
+    {
+      "word": "rocket",
+      "note": {
+        "ja": "推進方式を表す語。ballistic missile と同義ではない。",
+        "en": "Refers primarily to rocket propulsion and is not synonymous with ballistic missile."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ballistische Rakete",
+    "it": "missile balistico",
+    "fr": "missile balistique",
+    "es": "misil balístico"
+  },
+  "collocations": {
+    "ja": [
+      "ballistic missile launch — 弾道ミサイル発射",
+      "ballistic missile test — 弾道ミサイル実験",
+      "ballistic missile program — 弾道ミサイル計画",
+      "ballistic missile defense — 弾道ミサイル防衛",
+      "short-range ballistic missile — 短距離弾道ミサイル",
+      "medium-range ballistic missile — 中距離弾道ミサイル",
+      "intermediate-range ballistic missile — 中距離・中間射程弾道ミサイル",
+      "intercontinental ballistic missile — 大陸間弾道ミサイル",
+      "ballistic missile trajectory — 弾道ミサイルの軌道",
+      "ballistic missile capability — 弾道ミサイル能力"
+    ],
+    "en": [
+      "ballistic missile launch",
+      "ballistic missile test",
+      "ballistic missile program",
+      "ballistic missile defense",
+      "short-range ballistic missile",
+      "medium-range ballistic missile",
+      "intermediate-range ballistic missile",
+      "intercontinental ballistic missile",
+      "ballistic missile trajectory",
+      "ballistic missile capability"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The country conducted a ballistic missile test. — その国は弾道ミサイル実験を行った。",
+      "The missile followed a ballistic trajectory after the powered phase. — そのミサイルは推進段階の後、弾道軌道を飛行した。",
+      "The defense system is designed to detect incoming ballistic missiles. — その防衛システムは飛来する弾道ミサイルを探知するよう設計されている。",
+      "Ballistic missiles and cruise missiles follow different flight profiles. — 弾道ミサイルと巡航ミサイルでは飛行プロファイルが異なる。",
+      "The report discussed the development of long-range ballistic missiles. — その報告書は長距離弾道ミサイルの開発について論じていた。"
+    ],
+    "en": [
+      "The country conducted a ballistic missile test.",
+      "The missile followed a ballistic trajectory after the powered phase.",
+      "The defense system is designed to detect incoming ballistic missiles.",
+      "Ballistic missiles and cruise missiles follow different flight profiles.",
+      "The report discussed the development of long-range ballistic missiles."
+    ]
+  }
+},
+{
+  "id": "cruise_missile",
+  "sid": "2026-00759",
+  "word": "cruise missile",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "military",
+    "defense",
+    "geopolitics",
+    "technology"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "countable",
+    "plural": "cruise missiles"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkruːz ˌmɪsəl/",
+      "uk": "/ˈkruːz ˌmɪsaɪl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "巡航ミサイル",
+      "飛行中の大部分で推進力を使い、大気中を飛行する誘導ミサイル"
+    ],
+    "en": [
+      "a guided missile that remains powered during most of its flight",
+      "a missile designed to travel through the atmosphere, often at relatively low altitude, toward a target"
+    ]
+  },
+  "nuance": {
+    "ja": "cruise missile は飛行中の大部分でエンジンによる推進を続け、大気中を航空機に近い形で飛ぶミサイル。ballistic missile が推進段階の後に主として弾道軌道を進むのに対し、cruise missile は飛行中も継続的に推進・誘導される点が大きな違い。発射場所によって air-launched, sea-launched, ground-launched などに分類されることがある。",
+    "en": "A cruise missile remains powered and guided through most of its flight and travels through the atmosphere in a manner more comparable to an aircraft. This differs from a ballistic missile, which follows a largely ballistic trajectory after its powered phase. Cruise missiles may be classified by launch platform, such as air-launched, sea-launched, or ground-launched."
+  },
+  "minimal": {
+    "ja": [
+      "cruise missile：飛行中の大部分で推進・誘導を続ける巡航ミサイル。",
+      "ballistic missile：推進段階の後、主として弾道軌道を飛ぶ弾道ミサイル。",
+      "missile：誘導される飛翔兵器を広く指す。",
+      "rocket：ロケット推進を利用する飛翔体。必ずしも誘導兵器ではない。",
+      "trajectory：飛翔体がたどる軌道。",
+      "guided missile：誘導ミサイルを広く指す上位語。"
+    ],
+    "en": [
+      "a cruise missile remains powered and guided through most of its flight.",
+      "a ballistic missile follows a largely ballistic path after its powered phase.",
+      "missile is a broad term for a guided projectile or weapon.",
+      "rocket refers primarily to a propulsion method and does not necessarily imply a guided weapon.",
+      "trajectory is the path followed by a moving projectile.",
+      "guided missile is a broader category that includes multiple types of missiles."
+    ]
+  },
+  "etymology": {
+    "ja": "cruise はもともと『航行する、巡航する』という意味で、オランダ語 kruisen『十字に進む、巡航する』などに由来する。missile はラテン語 mittere『送る、投げる』に由来する。cruise missile は、目標へ向かって持続的に飛行する性質から名付けられた。",
+    "en": "Cruise comes from a word meaning 'to sail or travel steadily', ultimately related to Dutch kruisen. Missile comes from Latin mittere, meaning 'to send or throw'. The compound reflects the missile's sustained powered flight toward a target."
+  },
+  "synonyms": [
+    {
+      "word": "guided missile",
+      "note": {
+        "ja": "誘導ミサイル全般を表す上位語で、cruise missile に限定されない。",
+        "en": "A broader category of guided weapons and not limited to cruise missiles."
+      }
+    },
+    {
+      "word": "standoff missile",
+      "note": {
+        "ja": "発射母体が目標から離れた位置から使用できるミサイルを指す。cruise missile と重なる場合があるが同義ではない。",
+        "en": "A missile designed for launch from a distance outside some threat zones; it can overlap with cruise missiles but is not an exact synonym."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Marschflugkörper",
+    "it": "missile da crociera",
+    "fr": "missile de croisière",
+    "es": "misil de crucero"
+  },
+  "collocations": {
+    "ja": [
+      "cruise missile launch — 巡航ミサイル発射",
+      "cruise missile strike — 巡航ミサイル攻撃",
+      "cruise missile attack — 巡航ミサイル攻撃",
+      "cruise missile system — 巡航ミサイルシステム",
+      "long-range cruise missile — 長距離巡航ミサイル",
+      "air-launched cruise missile — 空中発射巡航ミサイル",
+      "sea-launched cruise missile — 海上発射巡航ミサイル",
+      "ground-launched cruise missile — 地上発射巡航ミサイル",
+      "cruise missile defense — 巡航ミサイル防衛",
+      "cruise missile capability — 巡航ミサイル能力"
+    ],
+    "en": [
+      "cruise missile launch",
+      "cruise missile strike",
+      "cruise missile attack",
+      "cruise missile system",
+      "long-range cruise missile",
+      "air-launched cruise missile",
+      "sea-launched cruise missile",
+      "ground-launched cruise missile",
+      "cruise missile defense",
+      "cruise missile capability"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The report described the deployment of long-range cruise missiles. — その報告書は長距離巡航ミサイルの配備について記述していた。",
+      "Cruise missiles remain powered during most of their flight. — 巡航ミサイルは飛行中の大部分で推進力を使い続ける。",
+      "The system was designed to detect low-flying cruise missiles. — そのシステムは低高度を飛ぶ巡航ミサイルを探知するよう設計されていた。",
+      "Cruise missiles and ballistic missiles follow fundamentally different flight profiles. — 巡航ミサイルと弾道ミサイルでは飛行プロファイルが根本的に異なる。",
+      "The aircraft was capable of carrying air-launched cruise missiles. — その航空機は空中発射巡航ミサイルを搭載できた。"
+    ],
+    "en": [
+      "The report described the deployment of long-range cruise missiles.",
+      "Cruise missiles remain powered during most of their flight.",
+      "The system was designed to detect low-flying cruise missiles.",
+      "Cruise missiles and ballistic missiles follow fundamentally different flight profiles.",
+      "The aircraft was capable of carrying air-launched cruise missiles."
+    ]
+  }
+},
+{
+  "id": "intercontinental_ballistic_missile",
+  "sid": "2026-00760",
+  "word": "intercontinental ballistic missile",
+  "variants": [
+    "ICBM"
+  ],
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "military",
+    "defense",
+    "geopolitics",
+    "technology"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "countable",
+    "plural": "intercontinental ballistic missiles"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɪntərkɑːntəˈnentəl bəˌlɪstɪk ˈmɪsəl/",
+      "uk": "/ˌɪntəkɒntɪˈnentəl bəˌlɪstɪk ˈmɪsaɪl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "大陸間弾道ミサイル",
+      "大陸間の非常に長い距離を飛行できる弾道ミサイル"
+    ],
+    "en": [
+      "a ballistic missile designed for intercontinental ranges",
+      "a very long-range ballistic missile, commonly abbreviated as ICBM"
+    ]
+  },
+  "nuance": {
+    "ja": "intercontinental ballistic missile は ballistic missile『弾道ミサイル』のうち、特に大陸間の長距離を飛行できるものを指し、通常 ICBM と略される。一般に長距離戦略兵器の文脈で使われる。ballistic は飛行方式、intercontinental は射程・到達範囲を表しているため、語を分解すると意味を理解しやすい。",
+    "en": "An intercontinental ballistic missile is a ballistic missile designed for extremely long ranges between continents and is commonly abbreviated ICBM. The term is used primarily in strategic military contexts. Ballistic describes the flight profile, while intercontinental describes the range."
+  },
+  "minimal": {
+    "ja": [
+      "intercontinental ballistic missile：大陸間射程を持つ弾道ミサイル。",
+      "ICBM：intercontinental ballistic missile の一般的な略語。",
+      "ballistic missile：飛行の大部分を弾道軌道で進むミサイル。",
+      "cruise missile：飛行中の大部分で推進を続ける巡航ミサイル。",
+      "intercontinental：大陸間の。",
+      "long-range missile：長距離ミサイルを広く表す語。"
+    ],
+    "en": [
+      "an intercontinental ballistic missile is a ballistic missile designed for intercontinental range.",
+      "ICBM is the standard abbreviation for intercontinental ballistic missile.",
+      "a ballistic missile follows a largely ballistic trajectory after its powered phase.",
+      "a cruise missile remains powered through most of its flight.",
+      "intercontinental means extending or operating between continents.",
+      "long-range missile is a broader term and does not specify a particular flight profile."
+    ]
+  },
+  "etymology": {
+    "ja": "intercontinental は inter-『～の間』＋ continental『大陸の』、ballistic はギリシャ語 ballein『投げる』に由来する語系、missile はラテン語 mittere『送る、投げる』に由来する。したがって語全体は文字どおり『大陸間を飛ぶ弾道ミサイル』という意味。",
+    "en": "Intercontinental is formed from inter- ('between') and continental. Ballistic ultimately comes from Greek ballein, 'to throw', while missile comes from Latin mittere, 'to send or throw'. The compound literally describes a ballistic missile capable of traveling between continents."
+  },
+  "synonyms": [
+    {
+      "word": "ICBM",
+      "note": {
+        "ja": "intercontinental ballistic missile の標準的で非常に一般的な略語。",
+        "en": "The standard and very common abbreviation for intercontinental ballistic missile."
+      }
+    },
+    {
+      "word": "long-range ballistic missile",
+      "note": {
+        "ja": "より広い表現で、必ずしも ICBM の射程区分を意味しない。",
+        "en": "A broader term that does not necessarily imply the specific range category of an ICBM."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Interkontinentalrakete",
+    "it": "missile balistico intercontinentale",
+    "fr": "missile balistique intercontinental",
+    "es": "misil balístico intercontinental"
+  },
+  "collocations": {
+    "ja": [
+      "ICBM launch — ICBM発射",
+      "ICBM test — ICBM実験",
+      "ICBM program — ICBM計画",
+      "ICBM capability — ICBM能力",
+      "ICBM force — ICBM戦力",
+      "intercontinental ballistic missile test — 大陸間弾道ミサイル実験",
+      "intercontinental ballistic missile program — 大陸間弾道ミサイル計画",
+      "intercontinental ballistic missile capability — 大陸間弾道ミサイル能力",
+      "long-range ballistic missile — 長距離弾道ミサイル",
+      "ballistic missile defense — 弾道ミサイル防衛"
+    ],
+    "en": [
+      "ICBM launch",
+      "ICBM test",
+      "ICBM program",
+      "ICBM capability",
+      "ICBM force",
+      "intercontinental ballistic missile test",
+      "intercontinental ballistic missile program",
+      "intercontinental ballistic missile capability",
+      "long-range ballistic missile",
+      "ballistic missile defense"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The report discussed the country's intercontinental ballistic missile program. — その報告書は同国の大陸間弾道ミサイル計画について論じていた。",
+      "The missile was described as an intercontinental ballistic missile. — そのミサイルは大陸間弾道ミサイルと説明された。",
+      "ICBM is the standard abbreviation for intercontinental ballistic missile. — ICBMはintercontinental ballistic missileの標準的な略語である。",
+      "Intercontinental ballistic missiles are designed for extremely long-range flight. — 大陸間弾道ミサイルは非常に長い距離を飛行するよう設計されている。",
+      "The test drew attention because it involved a new ICBM system. — その実験は新しいICBMシステムを伴うものだったため注目を集めた。"
+    ],
+    "en": [
+      "The report discussed the country's intercontinental ballistic missile program.",
+      "The missile was described as an intercontinental ballistic missile.",
+      "ICBM is the standard abbreviation for intercontinental ballistic missile.",
+      "Intercontinental ballistic missiles are designed for extremely long-range flight.",
+      "The test drew attention because it involved a new ICBM system."
+    ]
+  }
+},
+{
+  "id": "runoff",
+  "sid": "2026-00761",
+  "word": "runoff",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "environment",
+    "hydrology",
+    "politics",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable depending on sense",
+    "plural": "runoffs"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈrʌnˌɔːf/",
+      "uk": "/ˈrʌnɒf/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "地表を流れる雨水・雪解け水、表面流出",
+      "農地や都市部などから河川・湖へ流れ込む流出水",
+      "決選投票",
+      "何かから流れ出る液体や排水"
+    ],
+    "en": [
+      "water from rain or melting snow that flows over the ground into rivers, lakes, or drains",
+      "water carrying substances away from agricultural, urban, or other surfaces",
+      "a second election held when no candidate wins the required majority",
+      "liquid that flows off or away from a surface or area"
+    ]
+  },
+  "nuance": {
+    "ja": "環境・水文学では runoff は雨水や雪解け水が地表を流れて河川・湖・排水路などへ入る現象やその水を指す。agricultural runoff は肥料や農薬を含むことがあり、urban runoff は道路などから油・汚染物質を運ぶことがある。政治では runoff election または単に runoff で、最初の投票で必要な得票条件を満たす候補がいなかった場合の決選投票を指す。",
+    "en": "In environmental and hydrological contexts, runoff is water from precipitation or snowmelt that flows across the land surface into streams, lakes, or drainage systems. Agricultural runoff may carry fertilizers or pesticides, while urban runoff may carry oil and other pollutants. In politics, a runoff or runoff election is a second-round vote held when no candidate meets the required threshold in the first round."
+  },
+  "minimal": {
+    "ja": [
+      "runoff：地表を流れる水、または決選投票。",
+      "drainage：水を排出する仕組みや排水そのもの。",
+      "discharge：河川・管などから流れ出る量や放出。",
+      "overflow：容量を超えてあふれ出ること。",
+      "runoff election：必要な得票条件を満たす候補がいない場合の決選投票。",
+      "landslide：選挙では圧勝。runoff とは意味が異なる。"
+    ],
+    "en": [
+      "runoff is surface water flow or, in politics, a second-round election.",
+      "drainage refers to the removal or channeling of water.",
+      "discharge is the release or flow of water from a river, pipe, or system.",
+      "overflow is water or liquid spilling beyond capacity.",
+      "a runoff election is a second-round vote when no candidate meets the required threshold.",
+      "a landslide is an overwhelming election victory and is unrelated to runoff."
+    ]
+  },
+  "etymology": {
+    "ja": "run off『流れ去る、流出する』からできた名詞。run『流れる・進む』＋ off『離れて』という構造で、もともとは水などが表面から流れ去ることを表す。そこから政治では、最初の選挙で決着がつかなかった候補者同士が『再び競う』決選投票の意味にも発展した。",
+    "en": "Formed from the phrasal verb run off, meaning 'to flow away or move off'. The environmental sense developed directly from water flowing away over a surface. The political sense later developed for a second-round contest held when the first vote does not produce a decisive winner."
+  },
+  "synonyms": [
+    {
+      "word": "surface runoff",
+      "note": {
+        "ja": "水文学で、地表を流れる水であることを明確にした表現。",
+        "en": "A more explicit hydrological term for water flowing over the land surface."
+      }
+    },
+    {
+      "word": "drainage",
+      "note": {
+        "ja": "排水全般を指すが、runoff のように自然に地表を流れる水に限定されない。",
+        "en": "A broader term for the removal or flow of water and not limited to natural surface flow."
+      }
+    },
+    {
+      "word": "second round",
+      "note": {
+        "ja": "政治文脈では決選投票を平易に表す語。",
+        "en": "A common plain-language equivalent for the political sense of runoff."
+      }
+    },
+    {
+      "word": "runoff election",
+      "note": {
+        "ja": "政治での意味を明確にする完全な表現。",
+        "en": "The full expression for the electoral sense of runoff."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Oberflächenabfluss / Stichwahl",
+    "it": "deflusso superficiale / ballottaggio",
+    "fr": "ruissellement / second tour",
+    "es": "escorrentía / segunda vuelta"
+  },
+  "collocations": {
+    "ja": [
+      "surface runoff — 表面流出",
+      "stormwater runoff — 雨水流出",
+      "agricultural runoff — 農業排水・農地からの流出水",
+      "urban runoff — 都市部からの流出水",
+      "runoff water — 流出水",
+      "runoff pollution — 流出水による汚染",
+      "reduce runoff — 流出を減らす",
+      "runoff election — 決選投票",
+      "presidential runoff — 大統領選の決選投票",
+      "advance to a runoff — 決選投票に進む"
+    ],
+    "en": [
+      "surface runoff",
+      "stormwater runoff",
+      "agricultural runoff",
+      "urban runoff",
+      "runoff water",
+      "runoff pollution",
+      "reduce runoff",
+      "runoff election",
+      "presidential runoff",
+      "advance to a runoff"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Heavy rain caused significant runoff into the river. — 大雨によって大量の流出水が川へ流れ込んだ。",
+      "Agricultural runoff can carry fertilizers into nearby lakes. — 農地からの流出水は肥料を近くの湖へ運ぶことがある。",
+      "The city is trying to reduce stormwater runoff. — その市は雨水流出を減らそうとしている。",
+      "Neither candidate won a majority, so the election went to a runoff. — どちらの候補も過半数を獲得できなかったため、選挙は決選投票に進んだ。",
+      "The two leading candidates will face each other in the runoff. — 上位2候補が決選投票で対決する。"
+    ],
+    "en": [
+      "Heavy rain caused significant runoff into the river.",
+      "Agricultural runoff can carry fertilizers into nearby lakes.",
+      "The city is trying to reduce stormwater runoff.",
+      "Neither candidate won a majority, so the election went to a runoff.",
+      "The two leading candidates will face each other in the runoff."
+    ]
+  }
+},
+{
+  "id": "extortion",
+  "sid": "2026-00762",
+  "word": "extortion",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "crime",
+    "law",
+    "coercion",
+    "money"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "usually uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪkˈstɔːrʃən/",
+      "uk": "/ɪkˈstɔːʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "恐喝、強要",
+      "脅迫や威圧によって金銭・財産・利益などを取得すること",
+      "権力や立場を利用して不当に金品を要求すること"
+    ],
+    "en": [
+      "the act of obtaining money, property, or another benefit through threats, force, or coercion",
+      "the use of intimidation or abuse of power to compel someone to give up something of value"
+    ]
+  },
+  "nuance": {
+    "ja": "extortion は、相手の意思に反して金銭や利益を差し出させることに焦点がある。脅迫を用いる場合が典型的だが、法的な定義や要件は法域によって異なる。blackmail と重なることがあるが、blackmail は特に秘密や不名誉な情報を暴露すると脅して要求を通す行為を指しやすい。robbery は直接的な暴力や威嚇によってその場で財物を奪うことに重点がある。",
+    "en": "Extortion centers on compelling someone to surrender money, property, or another benefit through threats, coercion, or abuse of power. Exact legal definitions vary by jurisdiction. It can overlap with blackmail, but blackmail more specifically involves threats to reveal damaging or embarrassing information. Robbery more typically involves taking property through immediate force or intimidation."
+  },
+  "minimal": {
+    "ja": [
+      "extortion：脅迫・強要によって金品や利益を得ること。",
+      "blackmail：秘密や不名誉な情報の暴露をちらつかせて要求すること。",
+      "robbery：暴力や威嚇を用いて財物を奪うこと。",
+      "coercion：人に無理やり行動させる強制。金品取得に限定されない。",
+      "bribery：利益を与えて相手の行為を不正に誘導する贈賄・収賄。",
+      "racketeering：組織的・継続的な違法事業や恐喝などを含む犯罪活動。"
+    ],
+    "en": [
+      "extortion obtains money or another benefit through threats or coercion.",
+      "blackmail typically uses a threat to reveal damaging information.",
+      "robbery involves taking property through force or intimidation.",
+      "coercion is broader and means forcing someone to act against their will.",
+      "bribery involves offering or accepting benefits to improperly influence conduct.",
+      "racketeering refers to organized or ongoing criminal activity that may include extortion."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 extorquere『ねじり取る、無理に奪う』に由来し、ex-『外へ』＋ torquere『ねじる』から成る。語源的には『ねじって外へ取り出す』というイメージで、そこから脅迫や強制によって金品を取り立てる意味へ発展した。",
+    "en": "From Latin extorquere, meaning 'to wrench out or obtain by force', formed from ex- ('out') and torquere ('to twist'). The literal image of twisting something out of someone developed into the modern sense of obtaining money or benefits through coercion."
+  },
+  "synonyms": [
+    {
+      "word": "blackmail",
+      "note": {
+        "ja": "秘密や不名誉な情報を暴露すると脅すタイプの恐喝に特に使われる。",
+        "en": "Especially refers to extortion involving threats to reveal damaging or embarrassing information."
+      }
+    },
+    {
+      "word": "coercion",
+      "note": {
+        "ja": "強制全般を指す広い語。金銭や利益を得ることは必須ではない。",
+        "en": "A broader term for forcing someone to act and does not require obtaining money or property."
+      }
+    },
+    {
+      "word": "intimidation",
+      "note": {
+        "ja": "脅して相手を怖がらせること。extortion の手段になり得る。",
+        "en": "The use of threats or fear to influence someone and can be a means of extortion."
+      }
+    },
+    {
+      "word": "shakedown",
+      "note": {
+        "ja": "恐喝・ゆすりを表すかなり口語的な語。",
+        "en": "An informal term for extortion or coercive demands for money."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Erpressung",
+    "it": "estorsione",
+    "fr": "extorsion",
+    "es": "extorsión"
+  },
+  "collocations": {
+    "ja": [
+      "commit extortion — 恐喝を行う",
+      "extortion scheme — 恐喝計画",
+      "extortion racket — 組織的な恐喝",
+      "extortion attempt — 恐喝未遂",
+      "extortion charge — 恐喝罪の容疑・訴追",
+      "extortion case — 恐喝事件",
+      "victim of extortion — 恐喝の被害者",
+      "money obtained through extortion — 恐喝によって得られた金銭",
+      "accused of extortion — 恐喝で告発される",
+      "threats and extortion — 脅迫と恐喝"
+    ],
+    "en": [
+      "commit extortion",
+      "extortion scheme",
+      "extortion racket",
+      "extortion attempt",
+      "extortion charge",
+      "extortion case",
+      "victim of extortion",
+      "money obtained through extortion",
+      "accused of extortion",
+      "threats and extortion"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The businessman was arrested on suspicion of extortion. — その実業家は恐喝の疑いで逮捕された。",
+      "The group used threats and intimidation to carry out the extortion scheme. — その集団は脅迫と威圧を使って恐喝を行った。",
+      "The victim reported the extortion attempt to the police. — 被害者は恐喝未遂を警察に届け出た。",
+      "Prosecutors alleged that the money had been obtained through extortion. — 検察は、その金銭が恐喝によって得られたものだと主張した。",
+      "The exact legal definition of extortion varies by jurisdiction. — 恐喝の正確な法的定義は法域によって異なる。"
+    ],
+    "en": [
+      "The businessman was arrested on suspicion of extortion.",
+      "The group used threats and intimidation to carry out the extortion scheme.",
+      "The victim reported the extortion attempt to the police.",
+      "Prosecutors alleged that the money had been obtained through extortion.",
+      "The exact legal definition of extortion varies by jurisdiction."
+    ]
+  }
+},
+{
+  "id": "blackmail",
+  "sid": "2026-00763",
+  "word": "blackmail",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "crime",
+    "law",
+    "coercion",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "forms": {
+      "base": "blackmail",
+      "third_person": "blackmails",
+      "past": "blackmailed",
+      "past_participle": "blackmailed",
+      "gerund": "blackmailing"
+    },
+    "transitivity": "transitive as a verb",
+    "countability": "usually uncountable as a noun"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈblækmeɪl/",
+      "uk": "/ˈblækmeɪl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "恐喝、ゆすり",
+      "秘密や不名誉な情報を暴露すると脅して金銭・利益・行動などを要求すること",
+      "動詞で、恐喝する、脅して要求をのませる"
+    ],
+    "en": [
+      "the act of threatening to reveal damaging or embarrassing information in order to obtain money, a benefit, or compliance",
+      "coercion based especially on the threat of disclosure",
+      "as a verb, to force someone to do or give something by making such threats"
+    ]
+  },
+  "nuance": {
+    "ja": "blackmail は extortion と重なるが、特に『秘密や不名誉な情報を暴露するぞ』という脅しを利用する点が特徴。要求されるものは金銭に限らず、行動・協力・沈黙などの場合もある。extortion は暴力・威嚇・権力濫用などを含む、より広い強要的取得を指し得る。法的な定義や構成要件は法域によって異なる。",
+    "en": "Blackmail overlaps with extortion but is especially associated with threats to disclose damaging, embarrassing, or private information. The demanded benefit need not be money; it may involve cooperation, silence, or some other action. Extortion is broader and may involve threats of violence, intimidation, or abuse of power. Exact legal definitions vary by jurisdiction."
+  },
+  "minimal": {
+    "ja": [
+      "blackmail：秘密や不名誉な情報の暴露をちらつかせる恐喝。",
+      "extortion：脅迫・威圧・強制によって金品や利益を得る、より広い恐喝。",
+      "coercion：相手を無理やり行動させる強制。金品取得に限定されない。",
+      "intimidation：相手を怖がらせて圧力をかけること。",
+      "bribery：利益を与えて相手の行動を不正に誘導すること。",
+      "threat：害や不利益を与えると告げる脅し。"
+    ],
+    "en": [
+      "blackmail typically uses a threat to reveal damaging information.",
+      "extortion is a broader term for obtaining benefits through threats or coercion.",
+      "coercion means forcing someone to act against their will and is not limited to obtaining property.",
+      "intimidation means using fear or threats to influence someone.",
+      "bribery involves offering or accepting benefits to improperly influence conduct.",
+      "a threat is a statement or indication that harm or disadvantage may follow."
+    ]
+  },
+  "etymology": {
+    "ja": "black + mail から成るが、この mail は『郵便』ではない。歴史的にはスコットランド国境地域で、mail が『地代・貢納』を意味し、blackmail は略奪を避けるために支払う金銭を指した。そこから『脅迫によって要求される金銭・利益』という現在の意味へ発展した。",
+    "en": "The mail in blackmail is not related to postal mail. Historically, mail could mean 'rent or tribute' in the Scottish border regions, and blackmail referred to payments extracted in return for protection from raids. The word later developed its modern sense of obtaining money or compliance through threats."
+  },
+  "synonyms": [
+    {
+      "word": "extortion",
+      "note": {
+        "ja": "より広い恐喝・強要。情報暴露以外の脅迫手段も含み得る。",
+        "en": "A broader term that can involve many forms of threats or coercion beyond disclosure."
+      }
+    },
+    {
+      "word": "coercion",
+      "note": {
+        "ja": "相手を強制すること全般。blackmail より意味範囲が広い。",
+        "en": "A broader term for forcing someone to act against their will."
+      }
+    },
+    {
+      "word": "shakedown",
+      "note": {
+        "ja": "恐喝・ゆすりを表すかなり口語的な語。",
+        "en": "An informal term for extortion or coercive demands."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Erpressung",
+    "it": "ricatto",
+    "fr": "chantage",
+    "es": "chantaje"
+  },
+  "collocations": {
+    "ja": [
+      "blackmail someone — 人を恐喝する",
+      "blackmail someone into doing something — 人を脅して～させる",
+      "blackmail attempt — 恐喝未遂",
+      "blackmail threat — 恐喝の脅し",
+      "blackmail scheme — 恐喝計画",
+      "victim of blackmail — 恐喝の被害者",
+      "pay blackmail money — 恐喝金を支払う",
+      "use something as blackmail — 何かを恐喝の材料に使う",
+      "emotional blackmail — 感情的脅迫",
+      "blackmail material — 恐喝材料"
+    ],
+    "en": [
+      "blackmail someone",
+      "blackmail someone into doing something",
+      "blackmail attempt",
+      "blackmail threat",
+      "blackmail scheme",
+      "victim of blackmail",
+      "pay blackmail money",
+      "use something as blackmail",
+      "emotional blackmail",
+      "blackmail material"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He threatened to publish the photographs unless she paid him, which amounted to blackmail. — 彼は金を払わなければ写真を公開すると脅し、それは恐喝に当たる行為だった。",
+      "She reported the blackmail attempt to the police. — 彼女は恐喝未遂を警察に届け出た。",
+      "They tried to blackmail him into signing the agreement. — 彼らは彼を脅してその合意書に署名させようとした。",
+      "The information was allegedly used as blackmail material. — その情報は恐喝材料として使われたとされている。",
+      "Blackmail and extortion may be defined differently under different legal systems. — 恐喝と強要による金品取得は、法制度によって異なる定義がなされることがある。"
+    ],
+    "en": [
+      "He threatened to publish the photographs unless she paid him, which amounted to blackmail.",
+      "She reported the blackmail attempt to the police.",
+      "They tried to blackmail him into signing the agreement.",
+      "The information was allegedly used as blackmail material.",
+      "Blackmail and extortion may be defined differently under different legal systems."
+    ]
+  }
+},
+{
+  "id": "shakedown",
+  "sid": "2026-00764",
+  "word": "shakedown",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "crime",
+    "law",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / adjective",
+    "countability": "countable",
+    "plural": "shakedowns"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈʃeɪkˌdaʊn/",
+      "uk": "/ˈʃeɪkdaʊn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ゆすり、恐喝",
+      "金品を脅して巻き上げる行為",
+      "徹底的な捜索・検査",
+      "機械・船・車両などの試運転、慣らし運転"
+    ],
+    "en": [
+      "an informal term for extortion or a coercive demand for money",
+      "a thorough search or inspection",
+      "a test or trial period intended to reveal problems in equipment, a vehicle, or a system"
+    ]
+  },
+  "nuance": {
+    "ja": "犯罪文脈の shakedown は extortion『恐喝』のかなり口語的な言い方で、とくに威圧や脅しを使って金を巻き上げる行為を指しやすい。一方、警察・刑務所などでは shakedown が『徹底捜索』を意味することもある。また shakedown cruise のように、新しい船や機械を実際に動かして問題点を洗い出す試運転の意味もある。",
+    "en": "In crime-related contexts, shakedown is an informal term for extortion, especially demanding money through intimidation. In policing or prison contexts, it can also mean a thorough search. In engineering and transportation, a shakedown can be a trial period used to expose faults before normal operation."
+  },
+  "minimal": {
+    "ja": [
+      "shakedown：口語的なゆすり・恐喝。",
+      "extortion：恐喝を表すより正式・法律的な語。",
+      "blackmail：秘密や不名誉な情報の暴露をちらつかせる恐喝。",
+      "robbery：暴力や威嚇を使って財物を奪う強盗。",
+      "shakedown search：隠し物などを探す徹底捜索。",
+      "shakedown cruise：船などの性能確認を行う試験航海。"
+    ],
+    "en": [
+      "shakedown is an informal term for extortion.",
+      "extortion is the more formal and legal term.",
+      "blackmail typically involves threats to reveal damaging information.",
+      "robbery involves taking property through force or intimidation.",
+      "a shakedown search is a thorough search for hidden or prohibited items.",
+      "a shakedown cruise is a trial voyage used to test a vessel and identify problems."
+    ]
+  },
+  "etymology": {
+    "ja": "句動詞 shake down に由来する。文字どおりには『振って落とす』というイメージで、そこから人を強く揺さぶるように圧力をかけて金品を引き出す『ゆする、恐喝する』という意味が発達した。さらに『徹底的に調べる』『実際に動かして問題を洗い出す』という意味にも広がった。",
+    "en": "Derived from the phrasal verb shake down. The literal image of shaking something until its contents fall out developed figuratively into extracting money through pressure or intimidation. The term also broadened to mean a thorough search or a trial intended to expose weaknesses."
+  },
+  "synonyms": [
+    {
+      "word": "extortion",
+      "note": {
+        "ja": "恐喝を表す正式で法律的な語。shakedown より中立的で専門的。",
+        "en": "The formal and legal term for coercively obtaining money or benefits."
+      }
+    },
+    {
+      "word": "blackmail",
+      "note": {
+        "ja": "暴露の脅しを利用する恐喝。shakedown より手段が限定的。",
+        "en": "Extortion specifically involving threats to disclose damaging information."
+      }
+    },
+    {
+      "word": "shake-up",
+      "note": {
+        "ja": "綴りは似るが『大規模な再編・刷新』で、shakedown とは別語。",
+        "en": "A major reorganization or disruption and not synonymous with shakedown."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Erpressung / Durchsuchung",
+    "it": "estorsione / perquisizione approfondita",
+    "fr": "racket / fouille complète",
+    "es": "extorsión / registro exhaustivo"
+  },
+  "collocations": {
+    "ja": [
+      "extortion shakedown — 恐喝による金品の巻き上げ",
+      "a protection shakedown — みかじめ料を要求するゆすり",
+      "run a shakedown — ゆすりを行う",
+      "victim of a shakedown — ゆすりの被害者",
+      "police shakedown — 警察による徹底捜索、または文脈により不当な金銭要求",
+      "prison shakedown — 刑務所内の一斉捜索",
+      "shakedown search — 徹底捜索",
+      "shakedown cruise — 試験航海",
+      "shakedown test — 試運転・性能確認試験",
+      "shakedown period — 試行・慣らし期間"
+    ],
+    "en": [
+      "extortion shakedown",
+      "a protection shakedown",
+      "run a shakedown",
+      "victim of a shakedown",
+      "police shakedown",
+      "prison shakedown",
+      "shakedown search",
+      "shakedown cruise",
+      "shakedown test",
+      "shakedown period"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The shop owner claimed that the payments were part of a protection shakedown. — 店主は、その支払いがみかじめ料を要求するゆすりの一部だったと主張した。",
+      "Prosecutors described the scheme as a classic shakedown. — 検察はその計画を典型的な恐喝だと評した。",
+      "Officers conducted a shakedown of the prison cells. — 当局は刑務所の独房を徹底的に捜索した。",
+      "The new vessel completed its shakedown cruise successfully. — その新造船は試験航海を無事に終えた。",
+      "The first few weeks served as a shakedown period for the new system. — 最初の数週間は新システムの試行・調整期間となった。"
+    ],
+    "en": [
+      "The shop owner claimed that the payments were part of a protection shakedown.",
+      "Prosecutors described the scheme as a classic shakedown.",
+      "Officers conducted a shakedown of the prison cells.",
+      "The new vessel completed its shakedown cruise successfully.",
+      "The first few weeks served as a shakedown period for the new system."
+    ]
+  }
+},
+{
+  "id": "paramilitary",
+  "sid": "2026-00765",
+  "word": "paramilitary",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "military",
+    "security",
+    "politics",
+    "conflict"
+  ],
+  "grammar": {
+    "pos": "adjective / noun",
+    "countability": "countable as a noun",
+    "plural": "paramilitaries"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌperəˈmɪləˌteri/",
+      "uk": "/ˌpærəˈmɪlətri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "準軍事的な、軍隊に似た組織・活動に関する",
+      "正規軍ではないが軍隊に似た訓練・装備・指揮体系を持つ",
+      "名詞で、準軍事組織またはその構成員"
+    ],
+    "en": [
+      "organized in a way similar to a military force but not part of the regular armed forces",
+      "relating to a group with military-style training, equipment, or command structures",
+      "as a noun, a paramilitary organization or a member of one"
+    ]
+  },
+  "nuance": {
+    "ja": "paramilitary は regular military『正規軍』ではないが、軍隊に似た組織構造・制服・武装・訓練・規律などを持つ集団を表す。政府側の治安組織を指す場合もあれば、非国家武装組織を指す場合もあり、語そのものだけでは合法・非合法、政府系・反政府系を決められない。文脈によって政治的・法的評価が大きく異なる。",
+    "en": "Paramilitary describes a force organized along military lines without being part of the regular armed forces. It can refer to state-affiliated security formations or non-state armed groups, so the word itself does not determine whether the organization is legal, governmental, or insurgent. Its exact status depends heavily on context and jurisdiction."
+  },
+  "minimal": {
+    "ja": [
+      "paramilitary：正規軍ではないが軍隊に似た組織。",
+      "military：正規の軍隊・軍事全般。",
+      "militia：市民兵・民兵。paramilitary と重なるが同義ではない。",
+      "armed group：武装集団を広く指す中立的な表現。",
+      "insurgent group：政府などに対して武装反乱を行う集団。",
+      "security force：治安維持を担う部隊を広く指す。"
+    ],
+    "en": [
+      "paramilitary refers to a military-style force outside the regular armed forces.",
+      "military refers to the official armed forces or military affairs generally.",
+      "militia refers to an armed citizen or irregular force and may overlap with paramilitary.",
+      "armed group is a broad neutral term for an organized group carrying weapons.",
+      "an insurgent group fights against an established authority.",
+      "security force is a broad term for forces responsible for maintaining security."
+    ]
+  },
+  "etymology": {
+    "ja": "para-『～に並ぶ、～に類似した』＋ military『軍事の』から成る。para- はギリシャ語 para『そばに、並んで』に由来し、ここでは『軍隊に近いが正規軍そのものではない』という意味を作る。",
+    "en": "Formed from para- ('beside, alongside, resembling') and military. The prefix para- comes from Greek para, meaning 'beside' or 'alongside', giving the sense of something military-like but not part of the regular military."
+  },
+  "synonyms": [
+    {
+      "word": "militia",
+      "note": {
+        "ja": "民兵・市民兵。軍隊外の武装組織という点で重なるが、制度や構成が異なる場合がある。",
+        "en": "Can overlap with paramilitary, but usually emphasizes a citizen or irregular armed force."
+      }
+    },
+    {
+      "word": "armed group",
+      "note": {
+        "ja": "より広く中立的な『武装集団』。",
+        "en": "A broader and more neutral term for an organized armed organization."
+      }
+    },
+    {
+      "word": "irregular force",
+      "note": {
+        "ja": "正規軍ではない武装部隊を表す軍事的な表現。",
+        "en": "A military term for an armed force outside conventional regular forces."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "paramilitärisch / paramilitärische Gruppe",
+    "it": "paramilitare",
+    "fr": "paramilitaire",
+    "es": "paramilitar"
+  },
+  "collocations": {
+    "ja": [
+      "paramilitary group — 準軍事組織",
+      "paramilitary force — 準軍事部隊",
+      "paramilitary organization — 準軍事組織",
+      "paramilitary unit — 準軍事部隊",
+      "paramilitary training — 準軍事訓練",
+      "paramilitary activity — 準軍事活動",
+      "paramilitary organization members — 準軍事組織の構成員",
+      "state-backed paramilitary group — 国家の支援を受ける準軍事組織",
+      "armed paramilitary force — 武装した準軍事部隊",
+      "paramilitary structure — 準軍事的な組織構造"
+    ],
+    "en": [
+      "paramilitary group",
+      "paramilitary force",
+      "paramilitary organization",
+      "paramilitary unit",
+      "paramilitary training",
+      "paramilitary activity",
+      "paramilitary organization members",
+      "state-backed paramilitary group",
+      "armed paramilitary force",
+      "paramilitary structure"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The report described the group as a paramilitary organization. — その報告書はその集団を準軍事組織と表現した。",
+      "The unit received paramilitary training. — その部隊は準軍事的な訓練を受けた。",
+      "Several paramilitary groups were active in the region. — その地域では複数の準軍事組織が活動していた。",
+      "The organization had a strict paramilitary structure. — その組織は厳格な準軍事的組織構造を持っていた。",
+      "The legal status of paramilitary forces varies from one country to another. — 準軍事部隊の法的地位は国によって異なる。"
+    ],
+    "en": [
+      "The report described the group as a paramilitary organization.",
+      "The unit received paramilitary training.",
+      "Several paramilitary groups were active in the region.",
+      "The organization had a strict paramilitary structure.",
+      "The legal status of paramilitary forces varies from one country to another."
+    ]
+  }
+},
+{
+  "id": "militia",
+  "sid": "2026-00766",
+  "word": "militia",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "military",
+    "security",
+    "politics",
+    "conflict"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / collective",
+    "plural": "militias"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/məˈlɪʃə/",
+      "uk": "/mɪˈlɪʃə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "民兵組織、市民兵",
+      "正規軍とは別に組織された武装部隊",
+      "地域防衛や非常時のために編成される非正規または予備的な軍事組織"
+    ],
+    "en": [
+      "an armed force composed of civilians rather than members of a regular professional army",
+      "a military organization outside the regular armed forces",
+      "a locally organized or reserve force used for defense or emergencies"
+    ]
+  },
+  "nuance": {
+    "ja": "militia は civilians『民間人』を基盤とする非正規・補助的な武装組織を指すことが多い。ただし、歴史的・法的には政府が正式に組織した民兵制度を指すこともある。paramilitary は軍隊に似た訓練・装備・指揮体系を持つことに焦点があり、militia は構成員や制度上の位置づけに焦点が置かれやすい。そのため両者は重なることがあるが、完全な同義語ではない。",
+    "en": "Militia often refers to an armed force made up largely of civilians and operating outside the regular professional military. Historically and legally, however, a militia may also be formally organized by a government. Paramilitary emphasizes military-style organization, training, and command structure, while militia more often emphasizes civilian composition or reserve status. The categories can overlap but are not identical."
+  },
+  "minimal": {
+    "ja": [
+      "militia：民間人を基盤とする民兵・非正規武装部隊。",
+      "paramilitary：正規軍ではないが軍隊風の組織・訓練を持つ部隊。",
+      "regular army：国家の正規陸軍。",
+      "reserve force：必要時に動員される予備役部隊。",
+      "armed group：武装集団を広く指す中立的な語。",
+      "insurgent group：政府などに対して武装反乱を行う集団。"
+    ],
+    "en": [
+      "a militia is often a civilian-based armed force outside the regular military.",
+      "a paramilitary force is organized along military lines but is not part of the regular armed forces.",
+      "a regular army is the state's professional standing land force.",
+      "a reserve force consists of personnel available for mobilization when needed.",
+      "armed group is a broad neutral term for an organized group carrying weapons.",
+      "an insurgent group uses armed resistance against an established authority."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 militia『軍務、兵役、軍隊』に由来し、miles『兵士』と関係する。英語では、正規軍そのものというより、必要に応じて招集される市民兵や地域防衛部隊を指す意味が発達した。",
+    "en": "From Latin militia, meaning 'military service or warfare', related to miles, 'soldier'. In English, the word developed especially toward the sense of a civilian or locally organized force called up when needed."
+  },
+  "synonyms": [
+    {
+      "word": "citizen army",
+      "note": {
+        "ja": "市民を基盤とする軍事組織という点を強調する説明的表現。",
+        "en": "A descriptive term emphasizing a military force composed of citizens."
+      }
+    },
+    {
+      "word": "paramilitary",
+      "note": {
+        "ja": "重なる場合はあるが、軍隊風の組織・訓練に焦点があり、完全な同義語ではない。",
+        "en": "Can overlap with militia, but emphasizes military-style organization and is not an exact synonym."
+      }
+    },
+    {
+      "word": "irregular force",
+      "note": {
+        "ja": "正規軍ではない軍事部隊を広く表す語。",
+        "en": "A broad term for armed forces operating outside conventional regular military structures."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Miliz",
+    "it": "milizia",
+    "fr": "milice",
+    "es": "milicia"
+  },
+  "collocations": {
+    "ja": [
+      "armed militia — 武装民兵",
+      "local militia — 地域民兵",
+      "civilian militia — 市民民兵",
+      "militia group — 民兵組織",
+      "militia member — 民兵組織の構成員",
+      "pro-government militia — 政府支持系民兵",
+      "anti-government militia — 反政府民兵",
+      "militia forces — 民兵部隊",
+      "join a militia — 民兵組織に加わる",
+      "mobilize the militia — 民兵を動員する"
+    ],
+    "en": [
+      "armed militia",
+      "local militia",
+      "civilian militia",
+      "militia group",
+      "militia member",
+      "pro-government militia",
+      "anti-government militia",
+      "militia forces",
+      "join a militia",
+      "mobilize the militia"
+    ]
+  },
+  "example": {
+    "ja": [
+      "A local militia was formed to defend the town. — 町を守るため地域民兵が組織された。",
+      "The report described the fighters as members of an armed militia. — その報告書は戦闘員たちを武装民兵の構成員と説明した。",
+      "The militia operated separately from the regular army. — その民兵組織は正規軍とは別に活動していた。",
+      "Several militias were active in the region. — その地域では複数の民兵組織が活動していた。",
+      "The government called on the militia to assist with local defense. — 政府は地域防衛を支援するため民兵に招集をかけた。"
+    ],
+    "en": [
+      "A local militia was formed to defend the town.",
+      "The report described the fighters as members of an armed militia.",
+      "The militia operated separately from the regular army.",
+      "Several militias were active in the region.",
+      "The government called on the militia to assist with local defense."
+    ]
+  }
+},
+{
+  "id": "scrutiny",
+  "sid": "2026-00767",
+  "word": "scrutiny",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "analysis",
+    "investigation",
+    "evaluation",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "usually uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈskruːtəni/",
+      "uk": "/ˈskruːtɪni/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "綿密な調査、精査",
+      "厳しい吟味、注意深い検討",
+      "細部まで注意を払って調べること"
+    ],
+    "en": [
+      "careful and detailed examination",
+      "close and critical inspection or evaluation",
+      "intense attention given to something in order to detect problems, errors, or important details"
+    ]
+  },
+  "nuance": {
+    "ja": "scrutiny は単なる examination よりも、細部まで厳しく注意深く調べるニュアンスが強い。政府・企業・研究・メディアなどが public scrutiny『世間の厳しい目』や regulatory scrutiny『規制当局の精査』を受ける、という形で非常によく使われる。under scrutiny『精査されて、厳しい視線を浴びて』が特に重要な定型表現。",
+    "en": "Scrutiny is stronger than a neutral examination because it suggests very close, careful, and often critical attention. Governments, companies, research, and public figures may come under public or regulatory scrutiny. The phrase under scrutiny is especially common."
+  },
+  "minimal": {
+    "ja": [
+      "scrutiny：細部まで厳しく行う精査・吟味。",
+      "examination：調査・検査を広く表す中立的な語。",
+      "inspection：状態・規則順守などを確認する点検。",
+      "review：内容を改めて検討・評価すること。",
+      "investigation：事実や原因を明らかにするための調査。",
+      "oversight：継続的な監督・監視。scrutiny は個別の詳しい吟味に焦点を当てやすい。"
+    ],
+    "en": [
+      "scrutiny is close and often critical examination.",
+      "examination is a broad neutral term for looking into something.",
+      "inspection often checks condition, quality, or compliance.",
+      "review means reconsidering or evaluating something.",
+      "investigation seeks to establish facts or causes.",
+      "oversight is ongoing supervision, while scrutiny emphasizes close examination."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 scrutari『徹底的に探す、調べる』に由来し、scruta『ぼろ布、がらくた』と関係する。もともとは雑多な物の中を探り回るような意味で、そこから『細かく調べる、精査する』という意味へ発展した。",
+    "en": "From Latin scrutari, meaning 'to search thoroughly or examine', related to scruta, 'rags or miscellaneous objects'. The image of searching carefully through assorted material developed into the modern sense of close examination."
+  },
+  "synonyms": [
+    {
+      "word": "examination",
+      "note": {
+        "ja": "より中立的で広い『調査・検査』。scrutiny ほど厳しい視線を含まない。",
+        "en": "A broader and more neutral term that does not necessarily imply critical attention."
+      }
+    },
+    {
+      "word": "inspection",
+      "note": {
+        "ja": "設備・書類・施設などの状態や規則順守を確認する点検に使いやすい。",
+        "en": "Often used for checking condition, quality, or compliance."
+      }
+    },
+    {
+      "word": "review",
+      "note": {
+        "ja": "再検討・評価を表す。scrutiny より批判的でない場合が多い。",
+        "en": "Means reconsideration or evaluation and is often less intensely critical."
+      }
+    },
+    {
+      "word": "probe",
+      "note": {
+        "ja": "問題や疑惑について深く調べる調査。原因究明のニュアンスが強い。",
+        "en": "A deep investigation, often into a problem, allegation, or suspected wrongdoing."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "genaue Prüfung / Überprüfung",
+    "it": "esame approfondito / scrutinio",
+    "fr": "examen minutieux",
+    "es": "escrutinio / examen minucioso"
+  },
+  "collocations": {
+    "ja": [
+      "under scrutiny — 精査されて、厳しい視線を浴びて",
+      "close scrutiny — 綿密な精査",
+      "careful scrutiny — 注意深い吟味",
+      "intense scrutiny — 厳しい精査",
+      "public scrutiny — 世間の厳しい目",
+      "media scrutiny — メディアによる厳しいチェック",
+      "regulatory scrutiny — 規制当局による精査",
+      "judicial scrutiny — 司法による審査",
+      "withstand scrutiny — 厳しい吟味に耐える",
+      "come under scrutiny — 精査・批判の対象になる"
+    ],
+    "en": [
+      "under scrutiny",
+      "close scrutiny",
+      "careful scrutiny",
+      "intense scrutiny",
+      "public scrutiny",
+      "media scrutiny",
+      "regulatory scrutiny",
+      "judicial scrutiny",
+      "withstand scrutiny",
+      "come under scrutiny"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company's accounting practices came under intense scrutiny. — その会社の会計慣行は厳しい精査の対象となった。",
+      "The proposal did not withstand close scrutiny. — その提案は綿密に検討すると問題があることが分かった。",
+      "The decision has attracted considerable public scrutiny. — その決定は世間からかなり厳しい目を向けられている。",
+      "The data were subjected to careful scrutiny before publication. — そのデータは公表前に慎重に精査された。",
+      "The regulator placed the transaction under greater scrutiny. — 規制当局はその取引をより厳しく精査した。"
+    ],
+    "en": [
+      "The company's accounting practices came under intense scrutiny.",
+      "The proposal did not withstand close scrutiny.",
+      "The decision has attracted considerable public scrutiny.",
+      "The data were subjected to careful scrutiny before publication.",
+      "The regulator placed the transaction under greater scrutiny."
     ]
   }
 }
