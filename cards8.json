@@ -2003,6 +2003,143 @@
       "It's time to face up to what happened and decide what to do next."
     ]
   }
+},
+{
+  "id": "face_value",
+  "sid": "2026-00815",
+  "word": "face value",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun phrase",
+    "idiom",
+    "daily conversation",
+    "finance",
+    "judgment",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "uncountable",
+    "key_pattern": "take + something/someone + at face value"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfeɪs ˌvæljuː/",
+      "uk": "/ˈfeɪs ˌvæljuː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "貨幣・債券・切手などに表示された額面、額面価格",
+      "表面上の価値・意味",
+      "at face value で、見たまま・言われたままの意味で",
+      "take something at face value で、疑わず額面どおりに受け取る"
+    ],
+    "en": [
+      "the value printed or stated on money, a bond, ticket, stamp, or similar item",
+      "the apparent or stated meaning or value of something",
+      "in at face value, according to what something appears or claims to be",
+      "in take something at face value, to accept something without questioning whether it is completely true or accurate"
+    ]
+  },
+  "nuance": {
+    "ja": "日常英語では take something at face value が特に重要。発言・説明・数字・主張などについて『裏に別の事情があるかもしれないと疑わず、そのまま信じる』ことを表す。しばしば否定文や警告で Don't take it at face value.『鵜呑みにしないで』のように使われる。金融では face value は証券などに記載された『額面価格』で、市場価格 market value とは異なる場合がある。",
+    "en": "In everyday English, take something at face value is especially important. It means accepting a statement, explanation, figure, or claim as it appears without looking for hidden complications or questioning its accuracy. It is often used negatively, as in Don't take it at face value. In finance, face value is the stated or nominal value of an instrument and may differ from its market value."
+  },
+  "minimal": {
+    "ja": [
+      "face value：額面、表面上の価値。",
+      "at face value：額面どおりに、見たままに。",
+      "take something at face value：何かを疑わずそのまま受け取る。",
+      "take someone's word for it：人の言うことをそのまま信じる。",
+      "nominal value：名目価値・額面価値。金融では face value に近い。",
+      "market value：市場で実際につく価値。face value とは異なり得る。"
+    ],
+    "en": [
+      "face value is the stated or apparent value of something.",
+      "at face value means according to how something appears on the surface.",
+      "take something at face value means to accept it without questioning it.",
+      "take someone's word for it means to believe what someone says without requiring proof.",
+      "nominal value is close to face value in financial contexts.",
+      "market value is what something is actually worth in the market and may differ from face value."
+    ]
+  },
+  "etymology": {
+    "ja": "face はここでは『表面・正面』、value は『価値』。もともとは硬貨・紙幣・証券などの表面に記された価値、つまり『額面』を指した。そこから比喩的に、物事が表面上示している意味や価値を、そのまま受け取るという at face value の用法が発達した。",
+    "en": "Face here means the visible surface or front, and value means worth. Face value originally referred to the value shown on the face of a coin, note, or financial instrument. This developed figuratively into at face value, meaning according to what something appears or claims to be on the surface."
+  },
+  "synonyms": [
+    {
+      "word": "nominal value",
+      "note": {
+        "ja": "金融・会計では『名目価値、額面価値』として近い。比喩的な take at face value には通常置き換えられない。",
+        "en": "Close in financial contexts, but it normally cannot replace face value in the idiom take at face value."
+      }
+    },
+    {
+      "word": "stated value",
+      "note": {
+        "ja": "明示・表示された価値という説明的な表現。",
+        "en": "A descriptive expression for a value that is explicitly stated."
+      }
+    },
+    {
+      "word": "apparent meaning",
+      "note": {
+        "ja": "比喩的な face value の『表面上の意味』に近い。",
+        "en": "Close to the figurative sense of the meaning something appears to have."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Nennwert / für bare Münze nehmen",
+    "it": "valore nominale / prendere alla lettera",
+    "fr": "valeur nominale / prendre au pied de la lettre",
+    "es": "valor nominal / tomar al pie de la letra"
+  },
+  "collocations": {
+    "ja": [
+      "at face value — 額面どおりに、表面上は",
+      "take something at face value — 何かを額面どおりに受け取る",
+      "accept something at face value — 何かをそのまま信じる",
+      "not take something at face value — 何かを鵜呑みにしない",
+      "appear true at face value — 一見すると真実に見える",
+      "face value of a bond — 債券の額面価格",
+      "face value of a ticket — チケットの額面価格",
+      "above face value — 額面価格を上回って",
+      "below face value — 額面価格を下回って",
+      "market value versus face value — 市場価値と額面価値"
+    ],
+    "en": [
+      "at face value",
+      "take something at face value",
+      "accept something at face value",
+      "not take something at face value",
+      "appear true at face value",
+      "face value of a bond",
+      "face value of a ticket",
+      "above face value",
+      "below face value",
+      "market value versus face value"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I wouldn't take his explanation at face value. — 私なら彼の説明を額面どおりには受け取らない。",
+      "Don't take everything you read online at face value. — ネットで読むことを何でも鵜呑みにしてはいけない。",
+      "At face value, the proposal seems reasonable. — 表面上は、その提案は妥当に思える。",
+      "The bond has a face value of $1,000. — その債券の額面価格は1,000ドルだ。",
+      "The figures look impressive, but we shouldn't accept them at face value. — その数字は印象的に見えるが、そのまま鵜呑みにすべきではない。"
+    ],
+    "en": [
+      "I wouldn't take his explanation at face value.",
+      "Don't take everything you read online at face value.",
+      "At face value, the proposal seems reasonable.",
+      "The bond has a face value of $1,000.",
+      "The figures look impressive, but we shouldn't accept them at face value."
+    ]
+  }
 }
 
 ]
