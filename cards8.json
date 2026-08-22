@@ -1,2 +1,719 @@
 
-[]
+[
+{
+  "id": "run_into",
+  "sid": "2026-00801",
+  "word": "run into",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "daily conversation",
+    "encounter",
+    "problems",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "run into",
+      "third_person": "runs into",
+      "past": "ran into",
+      "past_participle": "run into",
+      "gerund": "running into"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌrʌn ˈɪntuː/",
+      "uk": "/ˌrʌn ˈɪntuː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人に偶然会う、ばったり出会う",
+      "問題・困難・障害などに直面する",
+      "車などが何かに衝突する"
+    ],
+    "en": [
+      "to meet someone unexpectedly or by chance",
+      "to encounter a problem, difficulty, or obstacle",
+      "to collide with something"
+    ]
+  },
+  "nuance": {
+    "ja": "日常会話では run into someone『人にばったり会う』が非常に自然。meet は単に『会う』だが、run into は偶然性を強く含む。また run into trouble や run into problems のように、予想外の問題に遭遇する意味でも頻出する。物理的には run into a wall のように『〜にぶつかる』という意味もある。",
+    "en": "In everyday conversation, run into someone is a very natural way to say that you met them unexpectedly. Unlike meet, it strongly implies chance. Run into trouble or problems is also common for unexpectedly encountering difficulties. In the literal physical sense, run into can mean collide with something."
+  },
+  "minimal": {
+    "ja": [
+      "run into someone：人に偶然ばったり会う。",
+      "meet someone：人に会う。偶然とは限らない。",
+      "bump into someone：人に偶然会う。run into と非常に近い。",
+      "come across something：物・情報などを偶然見つける。",
+      "run into trouble：問題にぶつかる。",
+      "encounter：人・問題などに遭遇する、というよりフォーマルな語。"
+    ],
+    "en": [
+      "run into someone means to meet them unexpectedly.",
+      "meet someone does not necessarily imply chance.",
+      "bump into someone is very close to run into someone.",
+      "come across something often means to find something by chance.",
+      "run into trouble means to encounter difficulties.",
+      "encounter is a more formal verb for meeting or experiencing someone or something."
+    ]
+  },
+  "etymology": {
+    "ja": "run『走る、進む』＋ into『〜の中へ、〜にぶつかって』から成る。文字どおり『進んでいって何かにぶつかる』という意味から、物理的な衝突だけでなく、人や問題に偶然『ぶつかる』という比喩的な意味へ広がった。",
+    "en": "Formed from run and into. The literal idea of moving into or colliding with something developed figuratively into unexpectedly meeting a person or encountering a problem."
+  },
+  "synonyms": [
+    {
+      "word": "bump into",
+      "note": {
+        "ja": "人に偶然会う意味では非常に近い口語表現。",
+        "en": "A very close informal equivalent for unexpectedly meeting someone."
+      }
+    },
+    {
+      "word": "encounter",
+      "note": {
+        "ja": "人・状況・問題などに遭遇するフォーマル寄りの語。",
+        "en": "A more formal verb for meeting or experiencing someone or something."
+      }
+    },
+    {
+      "word": "come across",
+      "note": {
+        "ja": "人にも使えるが、物・情報・文章などを偶然見つける意味で特によく使われる。",
+        "en": "Can refer to people, but is especially common for finding objects, information, or material by chance."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "jemandem zufällig begegnen / auf Probleme stoßen",
+    "it": "incontrare per caso / imbattersi in",
+    "fr": "tomber sur / rencontrer par hasard",
+    "es": "encontrarse con / tropezar con"
+  },
+  "collocations": {
+    "ja": [
+      "run into an old friend — 昔の友人にばったり会う",
+      "run into someone at the store — 店で人に偶然会う",
+      "run into trouble — 問題にぶつかる",
+      "run into problems — 問題に直面する",
+      "run into difficulties — 困難に直面する",
+      "run into resistance — 抵抗に遭う",
+      "run into opposition — 反対に遭う",
+      "run into a wall — 壁にぶつかる",
+      "run into each other — 偶然出会う",
+      "happen to run into someone — たまたま人に会う"
+    ],
+    "en": [
+      "run into an old friend",
+      "run into someone at the store",
+      "run into trouble",
+      "run into problems",
+      "run into difficulties",
+      "run into resistance",
+      "run into opposition",
+      "run into a wall",
+      "run into each other",
+      "happen to run into someone"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I ran into an old friend at the station yesterday. — 昨日、駅で昔の友人にばったり会った。",
+      "We ran into each other at a coffee shop. — 私たちはカフェで偶然会った。",
+      "The project ran into several unexpected problems. — そのプロジェクトはいくつかの予想外の問題に直面した。",
+      "Let me know if you run into any trouble. — 何か問題にぶつかったら教えてください。",
+      "He wasn't paying attention and ran into a door. — 彼はよそ見をしていてドアにぶつかった。"
+    ],
+    "en": [
+      "I ran into an old friend at the station yesterday.",
+      "We ran into each other at a coffee shop.",
+      "The project ran into several unexpected problems.",
+      "Let me know if you run into any trouble.",
+      "He wasn't paying attention and ran into a door."
+    ]
+  }
+},
+{
+  "id": "come_across",
+  "sid": "2026-00802",
+  "word": "come across",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "daily conversation",
+    "encounter",
+    "impression",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "come across",
+      "third_person": "comes across",
+      "past": "came across",
+      "past_participle": "come across",
+      "gerund": "coming across"
+    },
+    "transitivity": "transitive in the encounter sense; commonly followed by as in the impression sense"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkʌm əˈkrɔːs/",
+      "uk": "/ˌkʌm əˈkrɒs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人・物・情報などに偶然出会う、偶然見つける",
+      "偶然目にする",
+      "come across as ... で、〜という印象を与える、〜のように見える"
+    ],
+    "en": [
+      "to find or encounter someone or something by chance",
+      "to happen to see or discover something",
+      "in come across as, to give a particular impression to other people"
+    ]
+  },
+  "nuance": {
+    "ja": "come across something は、探していたわけではないのに偶然見つけるニュアンスが強い。記事・写真・本・情報などとの相性が特によい。人にも使えるが、日常会話で『人にばったり会う』なら run into や bump into も非常に自然。一方 come across as confident のように as を伴うと、『実際にそうかどうかではなく、他人にそういう印象を与える』という別の重要な意味になる。",
+    "en": "Come across often suggests finding something unexpectedly without deliberately searching for it, especially information, articles, photos, books, or other material. It can also refer to meeting people by chance, though run into and bump into are very natural for that sense. In come across as, the phrase refers to the impression someone gives, not necessarily their true personality."
+  },
+  "minimal": {
+    "ja": [
+      "come across something：物・情報などを偶然見つける。",
+      "run into someone：人に偶然ばったり会う。",
+      "bump into someone：人に偶然会う。run into と非常に近い。",
+      "stumble upon something：思いがけず偶然発見する。",
+      "come across as friendly：親しみやすい人という印象を与える。",
+      "find：見つけるという広い語で、偶然性は必須ではない。"
+    ],
+    "en": [
+      "come across something means to find it unexpectedly.",
+      "run into someone means to meet them unexpectedly.",
+      "bump into someone is very close to run into someone.",
+      "stumble upon something emphasizes a chance discovery.",
+      "come across as friendly means to give the impression of being friendly.",
+      "find is the broad verb for discovering something and does not necessarily imply chance."
+    ]
+  },
+  "etymology": {
+    "ja": "come『来る、進む』＋ across『横切って、向こう側へ』から成る。もともとの『進んでいる途中で何かのところに行き当たる』というイメージから、『偶然出会う・見つける』という意味が発達した。さらに、人の性質が他人へ伝わるという意味から come across as ...『〜という印象を与える』の用法も生まれた。",
+    "en": "Formed from come and across. The physical idea of reaching or encountering something while moving developed into the sense of finding or meeting something by chance. The phrase later also developed the sense of an impression being communicated to others, as in come across as."
+  },
+  "synonyms": [
+    {
+      "word": "run into",
+      "note": {
+        "ja": "人に偶然会う意味で特に自然。come across は物・情報にも非常によく使う。",
+        "en": "Especially natural for unexpectedly meeting a person, while come across is also very common for objects and information."
+      }
+    },
+    {
+      "word": "stumble upon",
+      "note": {
+        "ja": "思いがけず偶然発見する。偶然性をやや強く感じさせる。",
+        "en": "Means to discover something unexpectedly and often emphasizes the element of chance."
+      }
+    },
+    {
+      "word": "encounter",
+      "note": {
+        "ja": "人・物・状況に遭遇するフォーマル寄りの語。",
+        "en": "A more formal verb for meeting or experiencing someone or something."
+      }
+    },
+    {
+      "word": "seem",
+      "note": {
+        "ja": "come across as の意味では近いが、come across as は特に他人に与える印象に焦点がある。",
+        "en": "Can overlap with come across as, though the latter especially emphasizes the impression given to others."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "zufällig finden / auf etwas stoßen / wirken",
+    "it": "imbattersi in / trovare per caso / sembrare",
+    "fr": "tomber sur / trouver par hasard / donner l'impression de",
+    "es": "encontrarse con / encontrar por casualidad / dar la impresión de"
+  },
+  "collocations": {
+    "ja": [
+      "come across an article — 記事を偶然見つける",
+      "come across an old photo — 古い写真を偶然見つける",
+      "come across some information — ある情報を偶然見つける",
+      "come across a reference — ある言及・参考資料を偶然見つける",
+      "come across someone — 人に偶然出会う",
+      "come across as confident — 自信があるような印象を与える",
+      "come across as rude — 無礼な印象を与える",
+      "come across as friendly — 親しみやすい印象を与える",
+      "come across clearly — 明確に伝わる",
+      "come across well — よい印象を与える"
+    ],
+    "en": [
+      "come across an article",
+      "come across an old photo",
+      "come across some information",
+      "come across a reference",
+      "come across someone",
+      "come across as confident",
+      "come across as rude",
+      "come across as friendly",
+      "come across clearly",
+      "come across well"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I came across an interesting article yesterday. — 昨日、面白い記事を偶然見つけた。",
+      "She came across some old photographs while cleaning the attic. — 彼女は屋根裏を片づけているときに古い写真を何枚か偶然見つけた。",
+      "I came across him at a conference a few years ago. — 数年前、ある会議で彼に偶然出会った。",
+      "He comes across as very confident in interviews. — 彼は面接ではとても自信がある人という印象を与える。",
+      "I didn't mean to come across as rude. — 無礼な印象を与えるつもりはなかった。"
+    ],
+    "en": [
+      "I came across an interesting article yesterday.",
+      "She came across some old photographs while cleaning the attic.",
+      "I came across him at a conference a few years ago.",
+      "He comes across as very confident in interviews.",
+      "I didn't mean to come across as rude."
+    ]
+  }
+},
+{
+  "id": "bump_into",
+  "sid": "2026-00803",
+  "word": "bump into",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "daily conversation",
+    "encounter",
+    "movement",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "bump into",
+      "third_person": "bumps into",
+      "past": "bumped into",
+      "past_participle": "bumped into",
+      "gerund": "bumping into"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌbʌmp ˈɪntuː/",
+      "uk": "/ˌbʌmp ˈɪntuː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人に偶然ばったり会う",
+      "人や物に偶然ぶつかる"
+    ],
+    "en": [
+      "to meet someone unexpectedly or by chance",
+      "to collide accidentally with a person or object"
+    ]
+  },
+  "nuance": {
+    "ja": "bump into someone は、街・店・駅などで知人に偶然会ったときに使う非常に自然でカジュアルな表現。run into someone とほぼ同義だが、bump into のほうが少し軽く会話的に感じられることがある。物理的には bump into the table のように『うっかり〜にぶつかる』という意味になる。run into は問題・困難に遭遇する意味にも広く使えるが、bump into はその用法では通常使わない。",
+    "en": "Bump into someone is a very natural and informal way to describe unexpectedly meeting a person. It is very close to run into someone and can sound slightly lighter or more conversational. Literally, bump into also means to collide accidentally with something. Unlike run into, bump into is not normally used for encountering abstract problems or difficulties."
+  },
+  "minimal": {
+    "ja": [
+      "bump into someone：人に偶然ばったり会う。",
+      "run into someone：人に偶然会う。bump into と非常に近い。",
+      "come across someone：人に偶然出会う。物や情報にもよく使う。",
+      "meet someone：人に会う。偶然性は必須ではない。",
+      "bump into something：物にうっかりぶつかる。",
+      "run into trouble：問題に直面する。bump into trouble は通常不自然。"
+    ],
+    "en": [
+      "bump into someone means to meet them unexpectedly.",
+      "run into someone is very close in meaning.",
+      "come across someone can also mean to meet them by chance and is common with things and information too.",
+      "meet someone does not necessarily imply chance.",
+      "bump into something means to collide with it accidentally.",
+      "run into trouble is natural for encountering problems, while bump into trouble is usually not."
+    ]
+  },
+  "etymology": {
+    "ja": "bump『ぶつかる、どんと当たる』＋ into『〜に』から成る。文字どおり『人や物にぶつかる』という意味から、人と偶然出会うことを『道でぶつかる』ように表す比喩的な用法が発達した。",
+    "en": "Formed from bump, meaning 'to collide or strike lightly', and into. The literal sense of accidentally colliding with someone or something developed naturally into the figurative sense of unexpectedly meeting a person."
+  },
+  "synonyms": [
+    {
+      "word": "run into",
+      "note": {
+        "ja": "人に偶然会う意味ではほぼ同義。run into は問題・困難にも使えるため意味範囲が広い。",
+        "en": "Nearly identical for chance meetings, though run into also commonly applies to problems and difficulties."
+      }
+    },
+    {
+      "word": "come across",
+      "note": {
+        "ja": "偶然出会う・見つける。物・情報などにも非常によく使う。",
+        "en": "Means to encounter or find by chance and is especially common with objects and information."
+      }
+    },
+    {
+      "word": "encounter",
+      "note": {
+        "ja": "人や状況に遭遇する、というよりフォーマルな語。",
+        "en": "A more formal verb for meeting or experiencing someone or something."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "jemandem zufällig begegnen / an etwas stoßen",
+    "it": "incontrare per caso / urtare",
+    "fr": "tomber sur quelqu'un / heurter",
+    "es": "encontrarse con alguien por casualidad / chocar con"
+  },
+  "collocations": {
+    "ja": [
+      "bump into an old friend — 昔の友人にばったり会う",
+      "bump into someone downtown — 街中で人に偶然会う",
+      "bump into someone at the store — 店で人に偶然会う",
+      "bump into each other — 偶然出会う",
+      "happen to bump into someone — たまたま人に出会う",
+      "unexpectedly bump into someone — 思いがけず人に出会う",
+      "bump into a table — テーブルにぶつかる",
+      "bump into a wall — 壁にぶつかる"
+    ],
+    "en": [
+      "bump into an old friend",
+      "bump into someone downtown",
+      "bump into someone at the store",
+      "bump into each other",
+      "happen to bump into someone",
+      "unexpectedly bump into someone",
+      "bump into a table",
+      "bump into a wall"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I bumped into Sarah at the supermarket yesterday. — 昨日スーパーでサラにばったり会った。",
+      "We bumped into each other on the way home. — 私たちは帰り道で偶然出会った。",
+      "I haven't seen him in years, but I bumped into him downtown last week. — 何年も彼に会っていなかったが、先週街中でばったり会った。",
+      "She turned around and bumped into a table. — 彼女は振り返ってテーブルにぶつかった。",
+      "Funny enough, I bumped into my old teacher at the airport. — 面白いことに、空港で昔の先生にばったり会った。"
+    ],
+    "en": [
+      "I bumped into Sarah at the supermarket yesterday.",
+      "We bumped into each other on the way home.",
+      "I haven't seen him in years, but I bumped into him downtown last week.",
+      "She turned around and bumped into a table.",
+      "Funny enough, I bumped into my old teacher at the airport."
+    ]
+  }
+},
+{
+  "id": "encounter",
+  "sid": "2026-00804",
+  "word": "encounter",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "general",
+    "formal",
+    "experience",
+    "difficulty",
+    "meeting"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "forms": {
+      "base": "encounter",
+      "third_person": "encounters",
+      "past": "encountered",
+      "past_participle": "encountered",
+      "gerund": "encountering"
+    },
+    "transitivity": "transitive as a verb",
+    "countability": "countable as a noun",
+    "plural": "encounters"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈkaʊntər/",
+      "uk": "/ɪnˈkaʊntə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人・物・状況などに遭遇する、出会う",
+      "問題・困難・抵抗などに直面する",
+      "名詞で、偶然または印象的な出会い・遭遇"
+    ],
+    "en": [
+      "to meet or come across someone or something, often unexpectedly",
+      "to experience or face a problem, difficulty, resistance, or situation",
+      "as a noun, a meeting or experience, especially one that is unexpected or significant"
+    ]
+  },
+  "nuance": {
+    "ja": "encounter は run into や bump into よりフォーマルで、ニュース・ビジネス・学術文脈にも使いやすい。人との偶然の出会いにも使えるが、encounter difficulties、encounter resistance、encounter opposition のように問題や障害に直面する意味も非常に重要。名詞では a chance encounter『偶然の出会い』のように使う。必ずしも偶然性を含むわけではないが、予期せぬ出会いや状況を表すことが多い。",
+    "en": "Encounter is more formal than run into or bump into and works well in news, business, and academic contexts. It can refer to meeting a person, but it is also very common with difficulties, resistance, opposition, and unfamiliar situations. As a noun, a chance encounter means an unexpected meeting. Chance is common but not essential to the word."
+  },
+  "minimal": {
+    "ja": [
+      "encounter：人・問題・状況などに遭遇するフォーマル寄りの語。",
+      "run into：人に偶然会う、または問題に直面する口語的な句動詞。",
+      "bump into：人にばったり会うというカジュアルな表現。",
+      "come across：物・情報などを偶然見つけることによく使う。",
+      "face：問題・困難に直面することを直接的に表す。",
+      "experience：出来事や状態を経験するという広い語。"
+    ],
+    "en": [
+      "encounter is a relatively formal verb for meeting or experiencing someone or something.",
+      "run into is a more conversational expression for chance meetings or unexpected problems.",
+      "bump into is especially casual for unexpectedly meeting a person.",
+      "come across is especially common for finding objects or information by chance.",
+      "face directly means to confront a problem or difficulty.",
+      "experience is the broader verb for undergoing an event or condition."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 encontre『向かい合って、対して』に由来し、最終的にはラテン語 contra『〜に対して、向かい合って』と関係する。もともと『向かい合う』というイメージから、人・敵・問題などに遭遇する意味へ発展した。",
+    "en": "From Old French encontre, meaning 'against' or 'facing', ultimately related to Latin contra, 'against'. The original image of coming face to face with something developed into the modern senses of meeting a person or confronting a situation."
+  },
+  "synonyms": [
+    {
+      "word": "run into",
+      "note": {
+        "ja": "より口語的。人との偶然の出会いや予想外の問題に使う。",
+        "en": "More conversational and common for chance meetings or unexpected problems."
+      }
+    },
+    {
+      "word": "come across",
+      "note": {
+        "ja": "偶然出会う・見つける。特に物や情報との相性がよい。",
+        "en": "Means to find or meet by chance and is especially common with things and information."
+      }
+    },
+    {
+      "word": "face",
+      "note": {
+        "ja": "困難・問題・選択などに直面する意味では近い。",
+        "en": "Close in meaning when confronting a problem, challenge, or difficult situation."
+      }
+    },
+    {
+      "word": "experience",
+      "note": {
+        "ja": "状況・問題などを経験する意味では近いが、遭遇のニュアンスは弱い。",
+        "en": "Similar when undergoing a situation, but weaker in the sense of coming upon something."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "begegnen / antreffen",
+    "it": "incontrare / imbattersi in",
+    "fr": "rencontrer",
+    "es": "encontrar / encontrarse con"
+  },
+  "collocations": {
+    "ja": [
+      "encounter difficulties — 困難に直面する",
+      "encounter problems — 問題に遭遇する",
+      "encounter resistance — 抵抗に遭う",
+      "encounter opposition — 反対に遭う",
+      "encounter obstacles — 障害にぶつかる",
+      "encounter a problem — 問題に直面する",
+      "chance encounter — 偶然の出会い",
+      "brief encounter — 短い出会い",
+      "first encounter — 最初の遭遇・出会い",
+      "close encounter — 間近での遭遇"
+    ],
+    "en": [
+      "encounter difficulties",
+      "encounter problems",
+      "encounter resistance",
+      "encounter opposition",
+      "encounter obstacles",
+      "encounter a problem",
+      "chance encounter",
+      "brief encounter",
+      "first encounter",
+      "close encounter"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We encountered several problems during the project. — 私たちはそのプロジェクトの途中でいくつかの問題に直面した。",
+      "The proposal encountered strong opposition. — その提案は強い反対に遭った。",
+      "She encountered an old colleague at the conference. — 彼女はその会議で昔の同僚に出会った。",
+      "The researchers encountered an unexpected result. — 研究者たちは予想外の結果に遭遇した。",
+      "Their first encounter took place more than twenty years ago. — 彼らが初めて出会ったのは20年以上前だった。"
+    ],
+    "en": [
+      "We encountered several problems during the project.",
+      "The proposal encountered strong opposition.",
+      "She encountered an old colleague at the conference.",
+      "The researchers encountered an unexpected result.",
+      "Their first encounter took place more than twenty years ago."
+    ]
+  }
+},
+{
+  "id": "seem",
+  "sid": "2026-00805",
+  "word": "seem",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "daily conversation",
+    "impression",
+    "uncertainty",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "seem",
+      "third_person": "seems",
+      "past": "seemed",
+      "past_participle": "seemed",
+      "gerund": "seeming"
+    },
+    "transitivity": "intransitive / linking verb"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/siːm/",
+      "uk": "/siːm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "〜のように見える、〜のように思われる",
+      "ある印象を与える",
+      "確実ではないが〜らしい"
+    ],
+    "en": [
+      "to appear to be or have a particular quality",
+      "to give a particular impression",
+      "to suggest that something is true without stating it as certain"
+    ]
+  },
+  "nuance": {
+    "ja": "seem は、話し手が観察・情報・印象から『〜らしい』と判断していることを表し、断定を避ける働きがある。seem + adjective、seem to do、It seems that ... が基本形。look は主に見た目からの判断、sound は聞いた情報や音からの判断になりやすいが、seem は根拠を限定せず広く使える。come across as は特に『他人にどんな印象を与えるか』に焦点がある。",
+    "en": "Seem expresses an impression or judgment without presenting it as certain fact. Common patterns are seem + adjective, seem to + verb, and It seems that .... Look often bases the impression on appearance, while sound often bases it on what is heard. Seem is broader and does not specify the source of the impression. Come across as specifically emphasizes the impression someone gives to others."
+  },
+  "minimal": {
+    "ja": [
+      "seem：根拠を限定せず、〜のように思われる。",
+      "look：見た目から〜のように見える。",
+      "sound：聞いた内容・音から〜のように思える。",
+      "appear：seem に近いが、よりフォーマルなことが多い。",
+      "come across as：他人に〜という印象を与える。",
+      "seem to do：〜するようだ、〜らしい。"
+    ],
+    "en": [
+      "seem gives a general impression without specifying its source.",
+      "look often bases an impression on visual appearance.",
+      "sound often bases an impression on what is heard.",
+      "appear is close to seem but is often more formal.",
+      "come across as emphasizes the impression someone gives to others.",
+      "seem to do means to appear to do or be something."
+    ]
+  },
+  "etymology": {
+    "ja": "古ノルド語系の語に由来し、『ふさわしい、見える』に関連する語から発達した。英語では古くから、物事が観察者に『そのように見える・思われる』ことを表す動詞として使われている。",
+    "en": "The word comes from a Scandinavian source and developed from senses related to appearing or being fitting. In English it has long been used to describe how something appears to an observer rather than asserting what it actually is."
+  },
+  "synonyms": [
+    {
+      "word": "appear",
+      "note": {
+        "ja": "『〜のように見える』という意味で非常に近いが、seem よりフォーマルになりやすい。",
+        "en": "Very close in meaning, but often somewhat more formal than seem."
+      }
+    },
+    {
+      "word": "look",
+      "note": {
+        "ja": "見た目を根拠にした印象を表すことが多い。",
+        "en": "Often expresses an impression based primarily on visual appearance."
+      }
+    },
+    {
+      "word": "sound",
+      "note": {
+        "ja": "発言や聞いた情報・音から受ける印象を表す。",
+        "en": "Often expresses an impression based on something heard."
+      }
+    },
+    {
+      "word": "come across as",
+      "note": {
+        "ja": "人が他人にどんな印象を与えるかに焦点がある。",
+        "en": "Focuses specifically on the impression a person gives to others."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "scheinen",
+    "it": "sembrare",
+    "fr": "sembler",
+    "es": "parecer"
+  },
+  "collocations": {
+    "ja": [
+      "seem happy — 幸せそうに見える",
+      "seem strange — 奇妙に思える",
+      "seem reasonable — 妥当に思える",
+      "seem likely — ありそうに思える",
+      "seem to know — 知っているようだ",
+      "seem to understand — 理解しているようだ",
+      "seem to work — うまく機能しているようだ",
+      "It seems that ... — 〜のようだ",
+      "It seems like ... — 〜みたいだ",
+      "doesn't seem right — 何かおかしいように思える"
+    ],
+    "en": [
+      "seem happy",
+      "seem strange",
+      "seem reasonable",
+      "seem likely",
+      "seem to know",
+      "seem to understand",
+      "seem to work",
+      "It seems that ...",
+      "It seems like ...",
+      "doesn't seem right"
+    ]
+  },
+  "example": {
+    "ja": [
+      "You seem tired today. — 今日は疲れているようですね。",
+      "She seems to know a lot about the subject. — 彼女はその話題についてかなり詳しいようだ。",
+      "It seems that we made the right decision. — 私たちは正しい判断をしたようだ。",
+      "Something doesn't seem right. — 何かがおかしい気がする。",
+      "He seemed friendly at first, but he came across as rather rude during the meeting. — 最初は親しみやすそうだったが、会議ではかなり無礼な印象を与えた。"
+    ],
+    "en": [
+      "You seem tired today.",
+      "She seems to know a lot about the subject.",
+      "It seems that we made the right decision.",
+      "Something doesn't seem right.",
+      "He seemed friendly at first, but he came across as rather rude during the meeting."
+    ]
+  }
+}
+]
