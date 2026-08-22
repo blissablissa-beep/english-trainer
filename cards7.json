@@ -12768,5 +12768,270 @@
       "Successful transplantation requires careful matching and follow-up care."
     ]
   }
+},
+{
+  "id": "paralysis",
+  "sid": "2026-00797",
+  "word": "paralysis",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "medicine",
+    "neurology",
+    "nervous system",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "usually uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pəˈræləsɪs/",
+      "uk": "/pəˈræləsɪs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "麻痺",
+      "身体の一部または全部を随意的に動かせない状態",
+      "比喩的に、組織・制度・意思決定などの機能停止状態"
+    ],
+    "en": [
+      "loss or severe impairment of the ability to move part or all of the body voluntarily",
+      "a condition caused by disruption of nerve or muscle function that prevents normal movement",
+      "figuratively, a state in which an organization, system, or decision-making process cannot function effectively"
+    ]
+  },
+  "nuance": {
+    "ja": "paralysis は主に運動機能の喪失を指す医学用語で、程度や範囲は原因によって異なる。完全に動かせない場合だけでなく、文脈によっては重度の運動障害を広く指すこともある。weakness は筋力低下であり paralysis とは区別される。比喩的には political paralysis や decision paralysis のように、物事が動かなくなった状態を表す。",
+    "en": "Paralysis primarily refers to loss of voluntary motor function, though the degree and distribution vary depending on the cause. It is distinct from weakness, which means reduced strength rather than complete loss of movement. Figuratively, paralysis can describe a system, institution, or person becoming unable to act or make decisions."
+  },
+  "minimal": {
+    "ja": [
+      "paralysis：随意運動が失われる麻痺。",
+      "weakness：筋力低下。paralysis より軽い場合がある。",
+      "paresis：不完全麻痺、部分的な筋力低下を表す医学語。",
+      "numbness：しびれ・感覚低下。運動麻痺とは別。",
+      "paraplegia：主に両下肢の麻痺。",
+      "quadriplegia：四肢麻痺。tetraplegia ともいう。"
+    ],
+    "en": [
+      "paralysis is loss of voluntary movement.",
+      "weakness is reduced strength and may be less severe than paralysis.",
+      "paresis is a medical term for partial paralysis or weakness.",
+      "numbness is loss or reduction of sensation rather than movement.",
+      "paraplegia mainly affects both lower limbs.",
+      "quadriplegia affects all four limbs and is also called tetraplegia."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 paralysis に由来し、para-『そばに、異常に』＋ lyein『ほどく、解く』に関連する。古くから『身体の力が失われる状態』を表す医学語として使われてきた。",
+    "en": "From Greek paralysis, related to para- and lyein, 'to loosen or release'. The term has long been used medically for loss of normal bodily movement or function."
+  },
+  "synonyms": [
+    {
+      "word": "palsy",
+      "note": {
+        "ja": "麻痺を表す古い一般語で、現在は cerebral palsy など特定の語句でよく見られる。",
+        "en": "An older term for paralysis, now especially familiar in expressions such as cerebral palsy."
+      }
+    },
+    {
+      "word": "paresis",
+      "note": {
+        "ja": "完全麻痺ではなく、部分的な筋力低下・不全麻痺を表す医学語。",
+        "en": "A medical term for partial paralysis or incomplete loss of motor strength."
+      }
+    },
+    {
+      "word": "immobility",
+      "note": {
+        "ja": "動けない状態を広く表すが、神経学的麻痺に限定されない。",
+        "en": "A broad term for inability to move and does not necessarily imply neurological paralysis."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Lähmung / Paralyse",
+    "it": "paralisi",
+    "fr": "paralysie",
+    "es": "parálisis"
+  },
+  "collocations": {
+    "ja": [
+      "partial paralysis — 部分麻痺",
+      "complete paralysis — 完全麻痺",
+      "facial paralysis — 顔面麻痺",
+      "temporary paralysis — 一時的な麻痺",
+      "permanent paralysis — 永続的な麻痺",
+      "paralysis of the legs — 脚の麻痺",
+      "cause paralysis — 麻痺を引き起こす",
+      "suffer paralysis — 麻痺を患う",
+      "political paralysis — 政治的機能停止",
+      "decision paralysis — 決断できない状態"
+    ],
+    "en": [
+      "partial paralysis",
+      "complete paralysis",
+      "facial paralysis",
+      "temporary paralysis",
+      "permanent paralysis",
+      "paralysis of the legs",
+      "cause paralysis",
+      "suffer paralysis",
+      "political paralysis",
+      "decision paralysis"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The injury caused partial paralysis of his left leg. — そのけがによって彼の左脚に部分麻痺が生じた。",
+      "She developed temporary facial paralysis. — 彼女は一時的な顔面麻痺を発症した。",
+      "Damage to the spinal cord can cause paralysis. — 脊髄の損傷は麻痺を引き起こすことがある。",
+      "The patient retained sensation despite the paralysis. — その患者は麻痺があったにもかかわらず感覚は保たれていた。",
+      "Political paralysis prevented the government from taking action. — 政治的な機能停止によって政府は行動を取れなかった。"
+    ],
+    "en": [
+      "The injury caused partial paralysis of his left leg.",
+      "She developed temporary facial paralysis.",
+      "Damage to the spinal cord can cause paralysis.",
+      "The patient retained sensation despite the paralysis.",
+      "Political paralysis prevented the government from taking action."
+    ]
+  }
+},
+{
+  "id": "numbness",
+  "sid": "2026-00798",
+  "word": "numbness",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "medicine",
+    "neurology",
+    "sensation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "usually uncountable"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈnʌmnəs/",
+      "uk": "/ˈnʌmnəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "しびれ",
+      "感覚の低下・消失",
+      "触覚などを十分に感じられない状態",
+      "比喩的に、感情が麻痺したような無感覚"
+    ],
+    "en": [
+      "a loss or reduction of physical sensation in part of the body",
+      "a condition in which an area feels less sensitive or cannot be felt normally",
+      "figuratively, a state of emotional insensitivity or inability to feel"
+    ]
+  },
+  "nuance": {
+    "ja": "numbness は主に触覚・痛覚などの感覚が弱くなる、または失われることを表す。手足のしびれでは numbness and tingling『しびれとピリピリ感』が非常によく使われる。paralysis は自分の意思で動かせない運動機能の障害、weakness は筋力低下なので区別が必要。日常語では numbness を『しびれ』と訳すことが多いが、医学的には症状の程度や感覚の種類はさまざま。",
+    "en": "Numbness primarily refers to reduced or absent sensation, such as diminished touch or pain perception. Numbness and tingling is a very common clinical phrase. Paralysis concerns loss of voluntary movement, while weakness concerns reduced strength, so these symptoms should be distinguished."
+  },
+  "minimal": {
+    "ja": [
+      "numbness：感覚が鈍い・感じない状態。",
+      "tingling：ピリピリ・チクチクする異常感覚。",
+      "paralysis：随意運動ができない麻痺。",
+      "weakness：筋力低下。",
+      "paresthesia：しびれ・ピリピリ感などの異常感覚を表す医学語。",
+      "anesthesia：感覚が失われた状態、または麻酔。"
+    ],
+    "en": [
+      "numbness is reduced or absent sensation.",
+      "tingling is a pins-and-needles or prickling sensation.",
+      "paralysis is loss of voluntary movement.",
+      "weakness is reduced muscular strength.",
+      "paresthesia is a medical term for abnormal sensations such as tingling or prickling.",
+      "anesthesia can mean loss of sensation or medically induced insensibility."
+    ]
+  },
+  "etymology": {
+    "ja": "numb『感覚のない、しびれた』＋ -ness『状態』から成る。numb は古英語系の語で、もともと『感覚を失った、動けない』という意味を持ち、そこから身体的・感情的な無感覚を表すようになった。",
+    "en": "Formed from numb plus the noun-forming suffix -ness. Numb comes from an Old English-related word meaning deprived of sensation or unable to move normally, and later developed both physical and emotional senses."
+  },
+  "synonyms": [
+    {
+      "word": "loss of sensation",
+      "note": {
+        "ja": "感覚消失を説明的に表す表現。numbness より医学的に具体的。",
+        "en": "A descriptive medical expression for reduced or absent sensation."
+      }
+    },
+    {
+      "word": "paresthesia",
+      "note": {
+        "ja": "異常感覚を表す医学語で、しびれ・ピリピリ感などを含む。",
+        "en": "A medical term for abnormal sensations such as tingling, prickling, or numbness."
+      }
+    },
+    {
+      "word": "insensitivity",
+      "note": {
+        "ja": "感覚が鈍いことを広く表すが、身体症状に限定されない。",
+        "en": "A broader term for lack of sensitivity and may be physical or figurative."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Taubheitsgefühl",
+    "it": "intorpidimento",
+    "fr": "engourdissement",
+    "es": "entumecimiento"
+  },
+  "collocations": {
+    "ja": [
+      "numbness and tingling — しびれとピリピリ感",
+      "facial numbness — 顔のしびれ",
+      "numbness in the hands — 手のしびれ",
+      "numbness in the fingers — 指のしびれ",
+      "numbness in the legs — 脚のしびれ",
+      "persistent numbness — 持続するしびれ",
+      "temporary numbness — 一時的なしびれ",
+      "cause numbness — しびれを引き起こす",
+      "experience numbness — しびれを感じる",
+      "emotional numbness — 感情の麻痺"
+    ],
+    "en": [
+      "numbness and tingling",
+      "facial numbness",
+      "numbness in the hands",
+      "numbness in the fingers",
+      "numbness in the legs",
+      "persistent numbness",
+      "temporary numbness",
+      "cause numbness",
+      "experience numbness",
+      "emotional numbness"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She reported numbness and tingling in her fingers. — 彼女は指のしびれとピリピリ感を訴えた。",
+      "The patient developed numbness in his left arm. — その患者は左腕にしびれが生じた。",
+      "Pressure on a nerve can cause temporary numbness. — 神経への圧迫は一時的なしびれを引き起こすことがある。",
+      "He could move his leg despite the numbness. — 彼はしびれがあったにもかかわらず脚を動かすことができた。",
+      "After the shock, she described a sense of emotional numbness. — その衝撃の後、彼女は感情が麻痺したような感覚を語った。"
+    ],
+    "en": [
+      "She reported numbness and tingling in her fingers.",
+      "The patient developed numbness in his left arm.",
+      "Pressure on a nerve can cause temporary numbness.",
+      "He could move his leg despite the numbness.",
+      "After the shock, she described a sense of emotional numbness."
+    ]
+  }
 }
 ]
