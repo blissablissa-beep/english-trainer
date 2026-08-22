@@ -11917,5 +11917,583 @@
       "Each tier has different eligibility requirements."
     ]
   }
+},
+{
+  "id": "see_through",
+  "sid": "2026-00791",
+  "word": "see through",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "perception",
+    "deception",
+    "completion",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "see through",
+      "third_person": "sees through",
+      "past": "saw through",
+      "past_participle": "seen through",
+      "gerund": "seeing through"
+    },
+    "transitivity": "transitive"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsiː θruː/",
+      "uk": "/ˈsiː θruː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人のうそ・策略・本心などを見抜く",
+      "困難があっても計画・仕事などを最後までやり遂げる",
+      "透明・半透明な物を通して向こう側を見る"
+    ],
+    "en": [
+      "to recognize the truth behind someone's deception, pretense, or motives",
+      "to continue with a plan, task, or commitment until it is completed",
+      "to be able to see through a transparent or partly transparent material"
+    ]
+  },
+  "nuance": {
+    "ja": "see through someone や see through a lie は『表面にだまされず本質を見抜く』という意味。see something through は『途中で投げ出さず最後までやり抜く』という別の重要な用法で、目的語の位置によって意味が変わりやすい。文字どおりの see through the glass は『ガラス越しに見る』という意味。",
+    "en": "See through someone or see through a lie means to detect the truth beneath deception or appearances. See something through means to continue until it is finished, even when it is difficult. The literal sense, as in see through the glass, simply means to see through a transparent material."
+  },
+  "minimal": {
+    "ja": [
+      "see through someone：人の本心・ごまかしを見抜く。",
+      "see through a lie：うそを見破る。",
+      "see something through：何かを最後までやり遂げる。",
+      "see through glass：ガラス越しに見る。",
+      "detect：何かの存在を発見・感知する。",
+      "see through someone's act：人の演技・ごまかしを見抜く。"
+    ],
+    "en": [
+      "see through someone means to recognize their true motives or deception.",
+      "see through a lie means to recognize that it is false.",
+      "see something through means to continue until completion.",
+      "see through glass means to look through a transparent material.",
+      "detect means to discover or notice the presence of something.",
+      "see through someone's act means to recognize that their behavior is not genuine."
+    ]
+  },
+  "etymology": {
+    "ja": "see『見る』＋ through『〜を通して、最後まで』から成る句動詞。『表面を通り越して奥まで見る』というイメージから『本心や欺瞞を見抜く』の意味が生まれ、through の『最後まで』という意味から see something through『最後までやり遂げる』という用法も発達した。",
+    "en": "Formed from see and through. The idea of looking beyond a surface developed into the figurative sense of recognizing deception or true motives. The sense of through as 'to the end' also produced see something through, meaning to continue until completion."
+  },
+  "synonyms": [
+    {
+      "word": "see past",
+      "note": {
+        "ja": "表面的なものを越えて本質を見る。see through より欺瞞のニュアンスが弱い場合がある。",
+        "en": "Means to look beyond surface appearances, often with less emphasis on deception."
+      }
+    },
+    {
+      "word": "detect",
+      "note": {
+        "ja": "何かを発見・感知する一般的な語。欺瞞を見抜く意味に限定されない。",
+        "en": "A broad verb for discovering or noticing something and is not limited to deception."
+      }
+    },
+    {
+      "word": "unmask",
+      "note": {
+        "ja": "隠された正体や欺瞞を暴く。see through より強く、外に明らかにする感じがある。",
+        "en": "Means to expose someone's true identity or deception and is stronger than merely recognizing it."
+      }
+    },
+    {
+      "word": "follow through",
+      "note": {
+        "ja": "計画や約束を最後まで実行するという点で see something through に近い。",
+        "en": "Close to see something through in the sense of carrying a plan or commitment to completion."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "durchschauen / zu Ende bringen",
+    "it": "smascherare / portare a termine",
+    "fr": "percer à jour / mener jusqu'au bout",
+    "es": "calar / llevar hasta el final"
+  },
+  "collocations": {
+    "ja": [
+      "see through someone — 人の本心を見抜く",
+      "see through a lie — うそを見破る",
+      "see through the deception — ごまかしを見抜く",
+      "see through someone's disguise — 人の変装・偽装を見破る",
+      "see through someone's act — 人の演技を見抜く",
+      "see a project through — プロジェクトを最後までやり遂げる",
+      "see the job through — 仕事を最後までやり遂げる",
+      "see something through to completion — 何かを完成までやり抜く",
+      "see through the glass — ガラス越しに見る",
+      "see through the fog — 霧を通して向こうを見る"
+    ],
+    "en": [
+      "see through someone",
+      "see through a lie",
+      "see through the deception",
+      "see through someone's disguise",
+      "see through someone's act",
+      "see a project through",
+      "see the job through",
+      "see something through to completion",
+      "see through the glass",
+      "see through the fog"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She immediately saw through his excuse. — 彼女はすぐに彼の言い訳を見抜いた。",
+      "I can see through what he is trying to do. — 私には彼が何を企んでいるのか見抜ける。",
+      "They promised to see the project through. — 彼らはそのプロジェクトを最後までやり遂げると約束した。",
+      "He stayed with the team to see the job through to completion. — 彼は仕事を最後まで完成させるためチームに残った。",
+      "You can see through the glass from this side. — こちら側からはそのガラス越しに向こうを見ることができる。"
+    ],
+    "en": [
+      "She immediately saw through his excuse.",
+      "I can see through what he is trying to do.",
+      "They promised to see the project through.",
+      "He stayed with the team to see the job through to completion.",
+      "You can see through the glass from this side."
+    ]
+  }
+},
+{
+  "id": "follow_through",
+  "sid": "2026-00792",
+  "word": "follow through",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "completion",
+    "commitment",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb / noun",
+    "forms": {
+      "base": "follow through",
+      "third_person": "follows through",
+      "past": "followed through",
+      "past_participle": "followed through",
+      "gerund": "following through"
+    },
+    "transitivity": "usually intransitive; commonly followed by on or with"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌfɑːloʊ ˈθruː/",
+      "uk": "/ˌfɒləʊ ˈθruː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "計画・約束・決定などを最後まで実行する",
+      "言ったことを実際の行動に移してやり遂げる",
+      "スポーツで、打つ・投げる動作のあとまで身体の動きを続ける"
+    ],
+    "en": [
+      "to complete something that one has promised, planned, or started",
+      "to take the necessary action after making a decision or commitment",
+      "in sports, to continue the motion of the body after hitting, throwing, or striking something"
+    ]
+  },
+  "nuance": {
+    "ja": "follow through は『言うだけ・始めるだけで終わらず、必要な行動を最後まで続ける』ことに焦点がある。follow through on a promise『約束を実行する』、follow through on a plan『計画を最後まで実行する』のように on と非常によく使われる。see something through は困難があっても物事を完了まで続けることに重点があり、follow through は特に約束・決定・意図を具体的な行動につなげるニュアンスが強い。",
+    "en": "Follow through emphasizes turning an intention, promise, decision, or plan into sustained action and carrying it to completion. It commonly appears as follow through on a promise, commitment, or plan. See something through is similar but focuses more generally on staying with a task until it is finished, whereas follow through often highlights acting on what one has said or decided."
+  },
+  "minimal": {
+    "ja": [
+      "follow through：決めたこと・約束したことを実際に最後まで実行する。",
+      "see something through：困難があっても物事を完成までやり遂げる。",
+      "carry out：計画・命令・任務などを実行する。",
+      "implement：方針・制度・計画などを具体的に実施する。",
+      "complete：単純に完成させる、完了する。",
+      "follow up：その後の確認・追加対応をする。follow through とは別。"
+    ],
+    "en": [
+      "follow through means to act on a commitment and carry it to completion.",
+      "see something through means to stay with something until it is finished.",
+      "carry out means to perform or execute a plan, order, or task.",
+      "implement means to put a policy, system, or plan into effect.",
+      "complete simply means to finish something.",
+      "follow up means to take additional action afterward and is different from follow through."
+    ]
+  },
+  "etymology": {
+    "ja": "follow『後について進む』＋ through『最後まで、完了まで』から成る。文字どおり『最後までついていく』というイメージから、始めた行動や約束を途中で止めず完遂する意味になった。スポーツでは動作を途中で止めず最後まで振り抜くことを表す。",
+    "en": "Formed from follow and through. The literal image is continuing all the way through to the end. This developed into the figurative sense of carrying a commitment or action to completion, as well as the sports sense of continuing a movement after contact or release."
+  },
+  "synonyms": [
+    {
+      "word": "see through",
+      "note": {
+        "ja": "see something through で『最後までやり遂げる』。follow through より、困難の中でも完遂することに焦点がある。",
+        "en": "In the form see something through, it means to continue until completion, often emphasizing persistence."
+      }
+    },
+    {
+      "word": "carry out",
+      "note": {
+        "ja": "計画・指示・任務などを実行する。約束への責任感というニュアンスは必須ではない。",
+        "en": "Means to execute a plan, instruction, or task without necessarily emphasizing commitment."
+      }
+    },
+    {
+      "word": "implement",
+      "note": {
+        "ja": "計画・政策・制度などを実施に移す、というフォーマルな語。",
+        "en": "A formal term for putting a plan, policy, or system into effect."
+      }
+    },
+    {
+      "word": "follow up",
+      "note": {
+        "ja": "後から確認・追加対応すること。follow through の『最後まで実行する』とは異なる。",
+        "en": "Means to take additional action or check on something afterward, not simply to carry it through to completion."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "etwas durchziehen / konsequent umsetzen",
+    "it": "portare a termine / dare seguito",
+    "fr": "aller jusqu'au bout / donner suite",
+    "es": "llevar hasta el final / cumplir"
+  },
+  "collocations": {
+    "ja": [
+      "follow through on a promise — 約束を実行する",
+      "follow through on a commitment — 約束・責任を最後まで果たす",
+      "follow through on a plan — 計画を最後まで実行する",
+      "follow through on a decision — 決定を実行に移す",
+      "follow through on a threat — 脅しを実行に移す",
+      "fail to follow through — 最後まで実行できない",
+      "make sure to follow through — 必ず最後まで実行する",
+      "lack follow-through — 実行力・完遂力に欠ける",
+      "strong follow-through — 強い実行力",
+      "follow-through motion — スポーツでのフォロースルー動作"
+    ],
+    "en": [
+      "follow through on a promise",
+      "follow through on a commitment",
+      "follow through on a plan",
+      "follow through on a decision",
+      "follow through on a threat",
+      "fail to follow through",
+      "make sure to follow through",
+      "lack follow-through",
+      "strong follow-through",
+      "follow-through motion"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She promised to fix the problem and followed through. — 彼女は問題を解決すると約束し、実際に最後までやり遂げた。",
+      "The company failed to follow through on its commitment. — その会社は約束したことを最後まで実行できなかった。",
+      "Good managers follow through on the decisions they make. — 優れた管理職は自分が下した決定をきちんと実行する。",
+      "He has plenty of ideas but rarely follows through on them. — 彼にはアイデアはたくさんあるが、それを最後まで実行することはめったにない。",
+      "A smooth follow-through is important in a golf swing. — ゴルフのスイングでは滑らかなフォロースルーが重要だ。"
+    ],
+    "en": [
+      "She promised to fix the problem and followed through.",
+      "The company failed to follow through on its commitment.",
+      "Good managers follow through on the decisions they make.",
+      "He has plenty of ideas but rarely follows through on them.",
+      "A smooth follow-through is important in a golf swing."
+    ]
+  }
+},
+{
+  "id": "follow_up",
+  "sid": "2026-00793",
+  "word": "follow up",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "communication",
+    "business",
+    "healthcare",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb / noun / adjective",
+    "forms": {
+      "base": "follow up",
+      "third_person": "follows up",
+      "past": "followed up",
+      "past_participle": "followed up",
+      "gerund": "following up"
+    },
+    "transitivity": "intransitive or followed by on / with; transitive in some constructions"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌfɑːloʊ ˈʌp/",
+      "uk": "/ˌfɒləʊ ˈʌp/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "その後で確認する、追加対応する",
+      "さらに調査・追跡する",
+      "人に後から連絡する",
+      "名詞で、フォローアップ、追加確認、追跡対応"
+    ],
+    "en": [
+      "to take additional action after an earlier event, discussion, or task",
+      "to investigate or check something further",
+      "to contact someone again for more information or progress",
+      "as a noun, an additional action, check, meeting, or communication"
+    ]
+  },
+  "nuance": {
+    "ja": "follow up は、最初の連絡・会議・治療・調査などのあとに『その後どうなったか確認する、必要な追加対応をする』ことを表す。follow up with someone は『人に後から連絡する』、follow up on something は『案件・情報などについて追加確認する』。動詞は follow up と2語だが、名詞・形容詞では follow-up meeting、a follow-up のようにハイフンを入れるのが一般的。",
+    "en": "Follow up means taking additional action after an earlier communication, event, treatment, investigation, or task. Follow up with someone means contacting that person again, while follow up on something means checking or pursuing a matter further. The verb is written as two words, while the noun and attributive adjective are commonly hyphenated as follow-up."
+  },
+  "minimal": {
+    "ja": [
+      "follow up：後から確認・追加対応する。",
+      "follow through：決めたこと・約束したことを最後まで実行する。",
+      "check in：相手の状況を軽く確認する。",
+      "pursue：案件や問題をさらに追う。",
+      "monitor：継続的に状況を監視する。",
+      "follow-up：名詞・形容詞では通常ハイフンを使う。"
+    ],
+    "en": [
+      "follow up means to check or take additional action afterward.",
+      "follow through means to carry a commitment or plan to completion.",
+      "check in means to make a brief contact to see how things are going.",
+      "pursue means to continue investigating or working on a matter.",
+      "monitor means to observe something continuously over time.",
+      "follow-up is normally hyphenated when used as a noun or adjective."
+    ]
+  },
+  "etymology": {
+    "ja": "follow『後についていく』＋ up『続けて、さらに』から成る。最初の出来事の『あとを追う』というイメージから、追加連絡・追加調査・経過確認という意味になった。",
+    "en": "Formed from follow and up. The underlying idea is continuing after an earlier action or event, which developed into the senses of checking progress, making additional contact, or pursuing a matter further."
+  },
+  "synonyms": [
+    {
+      "word": "check in",
+      "note": {
+        "ja": "人の状況を軽く確認する口語的な表現。follow up より気軽な場合が多い。",
+        "en": "A more casual expression for contacting someone to see how things are going."
+      }
+    },
+    {
+      "word": "pursue",
+      "note": {
+        "ja": "問題・案件などを引き続き追求する。follow up より積極的・継続的な響きがある。",
+        "en": "Means to continue investigating or working toward something, often more actively than follow up."
+      }
+    },
+    {
+      "word": "check",
+      "note": {
+        "ja": "確認する一般語。follow up のような『前の出来事を受けて』という意味は必須ではない。",
+        "en": "A broad term for verifying something without necessarily implying previous action."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "nachfassen / weiterverfolgen",
+    "it": "dare seguito / ricontattare",
+    "fr": "faire un suivi / relancer",
+    "es": "hacer seguimiento / volver a contactar"
+  },
+  "collocations": {
+    "ja": [
+      "follow up with someone — 人に後から連絡する",
+      "follow up on something — 何かについて追加確認する",
+      "follow up on an email — メールについて再度連絡する",
+      "follow up on a complaint — 苦情について追加対応する",
+      "follow up on a lead — 手がかりを追跡する",
+      "follow up after a meeting — 会議後に追加連絡する",
+      "follow-up email — フォローアップメール",
+      "follow-up meeting — フォローアップ会議",
+      "follow-up appointment — 再診、経過観察の予約",
+      "follow-up question — 追加質問"
+    ],
+    "en": [
+      "follow up with someone",
+      "follow up on something",
+      "follow up on an email",
+      "follow up on a complaint",
+      "follow up on a lead",
+      "follow up after a meeting",
+      "follow-up email",
+      "follow-up meeting",
+      "follow-up appointment",
+      "follow-up question"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I'll follow up with her tomorrow. — 明日、彼女に改めて連絡します。",
+      "The police followed up on several new leads. — 警察はいくつかの新しい手がかりについて追加調査を行った。",
+      "Could you follow up on my previous email? — 前のメールについて確認していただけますか。",
+      "The doctor scheduled a follow-up appointment for next month. — 医師は来月の再診を予約した。",
+      "She sent a follow-up email after the meeting. — 彼女は会議後にフォローアップメールを送った。"
+    ],
+    "en": [
+      "I'll follow up with her tomorrow.",
+      "The police followed up on several new leads.",
+      "Could you follow up on my previous email?",
+      "The doctor scheduled a follow-up appointment for next month.",
+      "She sent a follow-up email after the meeting."
+    ]
+  }
+},
+{
+  "id": "check_in",
+  "sid": "2026-00794",
+  "word": "check in",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "communication",
+    "workplace",
+    "travel",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb / noun",
+    "forms": {
+      "base": "check in",
+      "third_person": "checks in",
+      "past": "checked in",
+      "past_participle": "checked in",
+      "gerund": "checking in"
+    },
+    "transitivity": "usually intransitive; commonly followed by with or at"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌtʃek ˈɪn/",
+      "uk": "/ˌtʃek ˈɪn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人に連絡して様子や進捗を確認する",
+      "ホテル・空港などで到着手続きをする",
+      "所在や到着を知らせる",
+      "名詞で、短い状況確認やチェックイン手続き"
+    ],
+    "en": [
+      "to contact someone briefly to see how they are doing or how something is progressing",
+      "to register one's arrival at a hotel, airport, or similar place",
+      "to report one's presence or status",
+      "as a noun, a brief status conversation or the process of registering arrival"
+    ]
+  },
+  "nuance": {
+    "ja": "仕事や日常会話の check in with someone は、相手の様子や進捗を軽く確認する柔らかい表現。follow up よりも気軽で、必ずしも問題解決や追加対応を目的としない。一方、旅行では check in at a hotel や check in for a flight のように到着・搭乗手続きを意味する。動詞は check in と2語、名詞・形容詞では check-in とハイフンを入れるのが一般的。",
+    "en": "In workplace and everyday English, check in with someone is a relatively casual way to make brief contact and see how things are going. It is lighter than follow up and does not necessarily imply that further action is required. In travel contexts, check in means to register one's arrival. The verb is written as two words, while the noun and attributive adjective are commonly hyphenated as check-in."
+  },
+  "minimal": {
+    "ja": [
+      "check in with someone：人に軽く連絡して様子を確認する。",
+      "follow up with someone：前のやり取りを受けて追加対応・確認をする。",
+      "touch base with someone：人と短く連絡を取り合う。ビジネスでよく使う。",
+      "check on someone：人が無事か、問題がないか確認する。",
+      "check in at a hotel：ホテルでチェックインする。",
+      "check out：ホテルをチェックアウトする、または確認・調査する。"
+    ],
+    "en": [
+      "check in with someone means to make brief contact and see how things are going.",
+      "follow up with someone means to take additional action after an earlier interaction.",
+      "touch base with someone means to make brief contact, especially in business.",
+      "check on someone means to make sure that person is safe or doing well.",
+      "check in at a hotel means to register one's arrival.",
+      "check out can mean to leave a hotel or to examine something."
+    ]
+  },
+  "etymology": {
+    "ja": "check『確認する』＋ in『中へ、到着して』から成る句動詞。旅行で『到着を確認・登録する』という意味から広く使われ、そこから人の状況について『ちょっと確認を入れる』というコミュニケーション上の意味にも発展した。",
+    "en": "Formed from check and in. The travel sense developed around registering and confirming one's arrival, while the interpersonal sense extended the idea to briefly confirming someone's status, well-being, or progress."
+  },
+  "synonyms": [
+    {
+      "word": "touch base",
+      "note": {
+        "ja": "人と短く連絡して情報交換する。職場で特によく使われる。",
+        "en": "Means to make brief contact and exchange updates, especially in workplace English."
+      }
+    },
+    {
+      "word": "follow up",
+      "note": {
+        "ja": "以前の連絡や出来事を受けて追加確認・対応する。check in より目的性が強い。",
+        "en": "Means to take additional action after an earlier interaction and is usually more purpose-driven than check in."
+      }
+    },
+    {
+      "word": "check on",
+      "note": {
+        "ja": "人や物が無事か、問題がないか確認する。",
+        "en": "Means to make sure that a person or thing is safe, well, or functioning properly."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sich melden / einchecken",
+    "it": "farsi sentire / fare il check-in",
+    "fr": "prendre des nouvelles / s'enregistrer",
+    "es": "ponerse en contacto / registrarse"
+  },
+  "collocations": {
+    "ja": [
+      "check in with someone — 人に連絡して様子を確認する",
+      "check in regularly — 定期的に状況確認する",
+      "check in later — 後でまた連絡する",
+      "quick check-in — 短い状況確認",
+      "weekly check-in — 週次の状況確認",
+      "check in with the team — チームの状況を確認する",
+      "check in at the hotel — ホテルにチェックインする",
+      "check in for a flight — 飛行機の搭乗手続きをする",
+      "online check-in — オンラインチェックイン",
+      "check-in desk — チェックインカウンター"
+    ],
+    "en": [
+      "check in with someone",
+      "check in regularly",
+      "check in later",
+      "quick check-in",
+      "weekly check-in",
+      "check in with the team",
+      "check in at the hotel",
+      "check in for a flight",
+      "online check-in",
+      "check-in desk"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I'll check in with you tomorrow to see how things are going. — 明日、様子を見るためにまた連絡します。",
+      "The manager checks in with each team member once a week. — その管理職は週に一度、各チームメンバーの状況を確認する。",
+      "I just wanted to check in and see how you're doing. — ちょっと連絡して、元気にしているか確認したかっただけです。",
+      "We checked in at the hotel shortly after noon. — 私たちは正午過ぎにホテルへチェックインした。",
+      "Passengers can check in online before arriving at the airport. — 乗客は空港に到着する前にオンラインでチェックインできる。"
+    ],
+    "en": [
+      "I'll check in with you tomorrow to see how things are going.",
+      "The manager checks in with each team member once a week.",
+      "I just wanted to check in and see how you're doing.",
+      "We checked in at the hotel shortly after noon.",
+      "Passengers can check in online before arriving at the airport."
+    ]
+  }
 }
 ]
