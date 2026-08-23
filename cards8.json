@@ -9009,164 +9009,161 @@
   }
 },
 {
-  "id": "repudiate",
+  "id": "screw_up",
   "sid": "2026-00861",
-  "word": "repudiate",
-  "level": "C1",
-  "freq": "sometimes",
+  "word": "screw up",
+  "level": "B2",
+  "freq": "very often",
   "tags": [
-    "verb",
-    "rejection",
-    "denial",
-    "responsibility",
-    "formal",
-    "legal",
-    "politics",
+    "phrasal verb",
+    "daily conversation",
+    "mistake",
+    "failure",
+    "informal",
     "general"
   ],
   "grammar": {
-    "pos": "verb",
+    "pos": "phrasal verb",
     "forms": {
-      "base": "repudiate",
-      "third_person": "repudiates",
-      "past": "repudiated",
-      "past_participle": "repudiated",
-      "gerund": "repudiating"
+      "base": "screw up",
+      "third_person": "screws up",
+      "past": "screwed up",
+      "past_participle": "screwed up",
+      "gerund": "screwing up"
     },
-    "transitivity": "transitive",
-    "related": {
-      "noun": "repudiation"
-    },
+    "transitivity": "transitive / intransitive",
+    "separability": "separable when transitive",
     "patterns": [
-      "repudiate + claim / accusation / allegation",
-      "repudiate + agreement / treaty / contract",
-      "repudiate + belief / ideology / position",
-      "repudiate + responsibility",
-      "repudiate + debt"
+      "screw up",
+      "screw up + noun",
+      "screw + noun + up",
+      "screw it / them up",
+      "screw up a chance / plan / relationship",
+      "screw someone up"
     ]
   },
   "pronunciation": {
     "ipa": {
-      "us": "/rɪˈpjuːdieɪt/",
-      "uk": "/rɪˈpjuːdieɪt/"
+      "us": "/ˌskruː ˈʌp/",
+      "uk": "/ˌskruː ˈʌp/"
     }
   },
   "meaning": {
     "ja": [
-      "主張・非難・責任などをきっぱり否認する",
-      "考え・信念・立場などを強く拒絶する",
-      "契約・合意などを認めず履行を拒む",
-      "債務などの支払い義務を認めない"
+      "失敗する、へまをする、やらかす",
+      "仕事・計画・機会などを台無しにする",
+      "何かを間違って処理する",
+      "人に強い悪影響を与える、精神的に傷つける"
     ],
     "en": [
-      "to reject or deny something emphatically",
-      "to refuse to accept a belief, claim, position, or responsibility",
-      "to refuse to recognize or honor an agreement or obligation",
-      "to refuse to acknowledge or pay a debt"
+      "to make a serious or careless mistake",
+      "to spoil or ruin something",
+      "to handle something badly or incorrectly",
+      "to negatively affect someone emotionally or psychologically"
     ]
   },
   "nuance": {
-    "ja": "repudiate は reject や deny よりフォーマルで強く、『自分はそれを認めない・受け入れない』と明確に関係を断つような拒絶を表す。単に提案を断るというより、以前の立場・思想・合意・責任などを公然と否定する場面に向く。disown と近いが、disown は家族・人物・自分との関係を『自分のものではない』として否認する意味が中心で、repudiate は主張・信念・責任・契約など抽象的対象との相性が特によい。",
-    "en": "Repudiate is stronger and more formal than reject or deny. It suggests an emphatic refusal to accept, recognize, or remain associated with something. It is especially common with claims, beliefs, responsibilities, agreements, and debts. Disown often emphasizes rejecting a personal or familial association, whereas repudiate is particularly natural with abstract positions, obligations, and claims."
+    "ja": "screw up はかなり口語的で、I screwed up. なら『やらかした』『しくじった』という感じ。mess up とほぼ同じ場面で使えるが、screw up のほうがやや強く、失敗の深刻さや自責の感情が出やすい。フォーマルな場では make a mistake や mishandle などのほうが無難。",
+    "en": "Screw up is a very informal expression meaning to make a mistake, often a fairly serious or careless one. It overlaps heavily with mess up, but screw up can sound a little stronger and more self-critical. In formal contexts, make a mistake or mishandle is usually more appropriate."
   },
   "minimal": {
     "ja": [
-      "repudiate a claim：主張をきっぱり否定する。",
-      "repudiate an accusation：非難・告発を全面的に否認する。",
-      "repudiate a belief：信念・思想を捨てて否定する。",
-      "repudiate responsibility：責任を否認する。",
-      "disown：自分との関係・家族関係などを否認する。",
-      "reject：拒否する。より一般的。"
+      "I screwed up.：やらかした。",
+      "screw up a plan：計画を台無しにする。",
+      "screw up an order：注文を間違える。",
+      "screw up a chance：チャンスをふいにする。",
+      "mess up：失敗する・台無しにする。少しマイルド。",
+      "make a mistake：間違える。中立的。"
     ],
     "en": [
-      "repudiate a claim means to reject it emphatically.",
-      "repudiate an accusation means to strongly deny it.",
-      "repudiate a belief means to reject a belief one was associated with.",
-      "repudiate responsibility means to refuse to accept responsibility.",
-      "disown often emphasizes denying a personal association.",
-      "reject is the broader everyday and formal verb."
+      "I screwed up means I made a mistake.",
+      "screw up a plan means to ruin it.",
+      "screw up an order means to get it wrong.",
+      "screw up a chance means to waste an opportunity.",
+      "mess up is similar but slightly milder.",
+      "make a mistake is the neutral expression."
     ]
   },
   "etymology": {
-    "ja": "ラテン語 repudiare『拒絶する、離縁する』に由来し、repudium『離婚、拒絶』と関係する。古くは特に配偶者を『拒絶して離縁する』という強い意味を持ち、そこから人だけでなく、考え・責任・契約などを『自分とは関係ないものとして強く退ける』意味へ広がった。",
-    "en": "Repudiate comes from Latin repudiare, meaning to reject or divorce, related to repudium, 'rejection' or 'divorce'. The earlier sense involved formally rejecting a spouse, and the word broadened to emphatically rejecting beliefs, claims, obligations, agreements, and other associations."
+    "ja": "screw は本来『ねじ、ねじで締める』という意味。screw up は文字どおり『ねじってぐちゃぐちゃにする』ようなイメージから、『物事を台無しにする、しくじる』という口語的意味へ広がった。",
+    "en": "Screw originally refers to a screw or to twisting something with a screw. Screw up developed figuratively from the idea of twisting or disrupting something until it no longer works properly."
   },
   "synonyms": [
     {
-      "word": "reject",
+      "word": "mess up",
       "note": {
-        "ja": "受け入れない、拒否する最も広い語。repudiate ほど強い否認を必ずしも含まない。",
-        "en": "The broad general verb for refusing to accept something; it is usually less emphatic than repudiate."
+        "ja": "ほぼ同義。screw up より少しマイルドで幅広い。",
+        "en": "Very close in meaning and usually slightly milder."
       }
     },
     {
-      "word": "deny",
+      "word": "make a mistake",
       "note": {
-        "ja": "事実・主張などが真実ではないと言う。repudiate はさらに『関係・立場ごと拒絶する』感じが出やすい。",
-        "en": "Means to say that something is not true; repudiate often goes further by rejecting association or responsibility."
+        "ja": "間違えるという中立的な表現。",
+        "en": "The neutral standard expression."
       }
     },
     {
-      "word": "disown",
+      "word": "botch",
       "note": {
-        "ja": "人・家族・発言などを自分との関係から切り離して否認する。",
-        "en": "Emphasizes refusing to acknowledge a person, relationship, or thing as one's own."
+        "ja": "仕事・作業を下手にやって台無しにする。",
+        "en": "Means to perform a task badly and spoil the result."
       }
     },
     {
-      "word": "renounce",
+      "word": "blow",
       "note": {
-        "ja": "権利・信念・地位などを明確に放棄する。『手放す』側面が強い。",
-        "en": "Means to formally give up a belief, right, title, claim, or association."
+        "ja": "口語で『チャンスなどをふいにする』。blow it が非常によく使われる。",
+        "en": "Informally means to ruin an opportunity or fail, especially in blow it."
       }
     }
   ],
   "equivalents": {
-    "de": "zurückweisen / ablehnen / sich lossagen von",
-    "it": "ripudiare / respingere",
-    "fr": "répudier / rejeter",
-    "es": "repudiar / rechazar"
+    "de": "vermasseln / Mist bauen",
+    "it": "mandare all'aria / combinare un casino",
+    "fr": "foirer / tout gâcher",
+    "es": "fastidiar / meter la pata"
   },
   "collocations": {
     "ja": [
-      "repudiate a claim — 主張をきっぱり否定する",
-      "repudiate an accusation — 非難・告発を全面否認する",
-      "repudiate an allegation — 申し立てを強く否認する",
-      "repudiate responsibility — 責任を否認する",
-      "repudiate a belief — 信念を拒絶する",
-      "repudiate an ideology — イデオロギーを拒絶する",
-      "repudiate one's former views — 以前の見解を明確に否定する",
-      "repudiate an agreement — 合意を認めない",
-      "repudiate a treaty — 条約を拒絶・破棄する",
-      "repudiate a debt — 債務を認めず支払いを拒む"
+      "screw up badly — ひどくやらかす",
+      "really screw up — 本当に失敗する",
+      "screw up a plan — 計画を台無しにする",
+      "screw up a chance — チャンスをふいにする",
+      "screw up an order — 注文を間違える",
+      "screw up the schedule — スケジュールを狂わせる",
+      "screw up a relationship — 人間関係を台無しにする",
+      "screw someone up — 人に深い悪影響を与える",
+      "don't screw this up — これをしくじるな",
+      "completely screw something up — 完全に台無しにする"
     ],
     "en": [
-      "repudiate a claim",
-      "repudiate an accusation",
-      "repudiate an allegation",
-      "repudiate responsibility",
-      "repudiate a belief",
-      "repudiate an ideology",
-      "repudiate one's former views",
-      "repudiate an agreement",
-      "repudiate a treaty",
-      "repudiate a debt"
+      "screw up badly",
+      "really screw up",
+      "screw up a plan",
+      "screw up a chance",
+      "screw up an order",
+      "screw up the schedule",
+      "screw up a relationship",
+      "screw someone up",
+      "don't screw this up",
+      "completely screw something up"
     ]
   },
   "example": {
     "ja": [
-      "She publicly repudiated her former views. — 彼女は以前の見解を公に否定した。",
-      "The company repudiated the allegations against it. — その会社は自社に対する申し立てを全面的に否認した。",
-      "He refused to repudiate his earlier statement. — 彼は以前の発言を撤回・否定することを拒んだ。",
-      "The government repudiated the agreement. — 政府はその合意を認めない立場を取った。",
-      "They tried to repudiate responsibility for the failure. — 彼らはその失敗に対する責任を否認しようとした。"
+      "I really screwed up this time. — 今回は本当にやらかした。",
+      "Don't screw this up. — これ、しくじるなよ。",
+      "I screwed up the order and sent the wrong item. — 注文を間違えて、違う商品を送ってしまった。",
+      "He had a great opportunity, but he screwed it up. — 彼には大きなチャンスがあったのに、自分で台無しにした。",
+      "That experience really screwed him up. — その経験は彼にかなり深い悪影響を与えた。"
     ],
     "en": [
-      "She publicly repudiated her former views.",
-      "The company repudiated the allegations against it.",
-      "He refused to repudiate his earlier statement.",
-      "The government repudiated the agreement.",
-      "They tried to repudiate responsibility for the failure."
+      "I really screwed up this time.",
+      "Don't screw this up.",
+      "I screwed up the order and sent the wrong item.",
+      "He had a great opportunity, but he screwed it up.",
+      "That experience really screwed him up."
     ]
   }
 },
