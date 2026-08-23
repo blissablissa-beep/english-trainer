@@ -4443,6 +4443,137 @@
   }
 },
 {
+  "id": "once_upon_a_time",
+  "sid": "2026-00831",
+  "word": "once upon a time",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "idiom",
+    "storytelling",
+    "daily conversation",
+    "past",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adverbial phrase / fixed expression"
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌwʌns əˌpɑːn ə ˈtaɪm/",
+      "uk": "/ˌwʌns əˌpɒn ə ˈtaɪm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "むかしむかし、ある昔のこと",
+      "かつては、昔は",
+      "以前のある時点では"
+    ],
+    "en": [
+      "a traditional phrase used to begin a fairy tale or story",
+      "at some time in the past",
+      "formerly, especially when contrasting the past with the present"
+    ]
+  },
+  "nuance": {
+    "ja": "once upon a time は童話の冒頭で使う定型表現として有名だが、会話では『昔はね』『かつては』という少し懐古的・物語的な表現としても使う。単なる once『かつて』よりも情緒的で、昔と今の変化を振り返る文脈によく合う。事務的・学術的な文では usually formerly や once のほうが自然。",
+    "en": "Once upon a time is best known as the traditional opening of fairy tales, but it is also used conversationally to mean 'formerly' or 'at one time in the past.' It often carries a nostalgic, storytelling, or slightly playful tone. In formal factual writing, once or formerly is usually more appropriate."
+  },
+  "minimal": {
+    "ja": [
+      "once upon a time：むかしむかし、昔は。",
+      "once：かつて、一度。",
+      "formerly：以前は、かつて。よりフォーマル。",
+      "in the old days：昔は。懐古的な口語表現。",
+      "back then：当時は。特定の過去の時期を指す。",
+      "long ago：ずっと昔に。"
+    ],
+    "en": [
+      "once upon a time means long ago or formerly, often with a storytelling tone.",
+      "once can simply mean formerly or one time.",
+      "formerly is a more formal word for in the past.",
+      "in the old days is a nostalgic conversational expression.",
+      "back then refers to a particular past period already understood from context.",
+      "long ago means a long time in the past."
+    ]
+  },
+  "etymology": {
+    "ja": "once『ある時に』＋ upon『〜において』＋ a time『ある時代・時点』という古い言い回し。upon は現代の日常語ではやや古風だが、この表現の中では固定されて残っている。直訳的には『ある時のこと』という構造。",
+    "en": "The phrase combines once, upon, and a time in an older English construction. Upon is somewhat archaic in ordinary conversation today, but it survives naturally in this fixed expression. Literally, the phrase means something like 'at a certain time in the past.'"
+  },
+  "synonyms": [
+    {
+      "word": "long ago",
+      "note": {
+        "ja": "『ずっと昔に』。物語にも日常文にも使える。",
+        "en": "Means a long time in the past and works in both stories and ordinary speech."
+      }
+    },
+    {
+      "word": "formerly",
+      "note": {
+        "ja": "『以前は、かつて』。once upon a time よりフォーマルで感情的な響きが弱い。",
+        "en": "A more formal and emotionally neutral equivalent in the sense of 'formerly.'"
+      }
+    },
+    {
+      "word": "in the old days",
+      "note": {
+        "ja": "『昔は』。懐古的で口語的。",
+        "en": "A conversational and often nostalgic expression meaning 'in former times.'"
+      }
+    },
+    {
+      "word": "back then",
+      "note": {
+        "ja": "『その当時は』。すでに話題になっている過去の時期を指す。",
+        "en": "Refers to a specific past period already established in context."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Es war einmal / einst",
+    "it": "C'era una volta / un tempo",
+    "fr": "Il était une fois / autrefois",
+    "es": "Érase una vez / antaño"
+  },
+  "collocations": {
+    "ja": [
+      "Once upon a time, there was ... — むかしむかし、〜がいました",
+      "Once upon a time, I thought ... — 昔は〜と思っていた",
+      "once upon a time in ... — かつて〜で",
+      "once upon a time, long ago — むかしむかし、ずっと昔",
+      "once upon a time, before ... — かつて〜より前には",
+      "what was once upon a time ... — かつて〜だったもの"
+    ],
+    "en": [
+      "Once upon a time, there was ...",
+      "Once upon a time, I thought ...",
+      "once upon a time in ...",
+      "once upon a time, long ago",
+      "once upon a time, before ...",
+      "what was once upon a time ..."
+    ]
+  },
+  "example": {
+    "ja": [
+      "Once upon a time, there was a king who lived in a distant land. — むかしむかし、遠い国にある王様が住んでいました。",
+      "Once upon a time, this neighborhood was full of small shops. — 昔は、この界隈には小さな店がたくさんあった。",
+      "I once thought that success meant making a lot of money. — かつて私は、成功とは大金を稼ぐことだと思っていた。",
+      "Once upon a time, people had to wait weeks for a reply to a letter. — 昔は、手紙の返事を何週間も待たなければならなかった。",
+      "That building was once upon a time the busiest hotel in town. — あの建物はかつて町で最も賑わっていたホテルだった。"
+    ],
+    "en": [
+      "Once upon a time, there was a king who lived in a distant land.",
+      "Once upon a time, this neighborhood was full of small shops.",
+      "I once thought that success meant making a lot of money.",
+      "Once upon a time, people had to wait weeks for a reply to a letter.",
+      "That building was once upon a time the busiest hotel in town."
+    ]
+  }
+},
+{
   "id": "fix",
   "sid": "2026-00832",
   "word": "fix",
