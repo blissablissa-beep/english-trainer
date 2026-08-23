@@ -4737,5 +4737,869 @@
       "I'll fix you something to eat."
     ]
   }
+},
+{
+  "id": "delirium",
+  "sid": "2026-00833",
+  "word": "delirium",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "medical",
+    "mental state",
+    "confusion",
+    "excitement",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "mainly uncountable",
+    "plural": "deliriums (rare)",
+    "related": {
+      "adjective": "delirious"
+    },
+    "patterns": [
+      "be in a state of delirium",
+      "suffer from delirium",
+      "cause / trigger delirium",
+      "a delirium of + excitement / joy"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈlɪriəm/",
+      "uk": "/dɪˈlɪriəm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "せん妄、意識が混乱した状態",
+      "病気・発熱・薬物などに伴う一時的な強い混乱状態",
+      "比喩的に、我を忘れるほどの熱狂・興奮"
+    ],
+    "en": [
+      "a state of severe confusion and disturbed awareness",
+      "an acute state of mental confusion that can occur with illness, fever, medication, or other physical causes",
+      "figuratively, a state of wild excitement or intense enthusiasm"
+    ]
+  },
+  "nuance": {
+    "ja": "医学的な delirium は、注意力・意識・認知が急に混乱する状態を指す。日常語の confusion より専門的で、単に『混乱している』という意味ではない。一方、文学・報道などでは delirium of excitement のように『熱狂して我を忘れた状態』を比喩的に表すことがある。delusion は『妄想・誤った確信』であり、delirium とは別概念。",
+    "en": "In medical contexts, delirium refers to an acute disturbance of attention, awareness, and cognition rather than ordinary confusion. In figurative or literary use, it can describe overwhelming excitement or enthusiasm. Delusion is different: it refers to a false belief or conviction rather than an acute confused state."
+  },
+  "minimal": {
+    "ja": [
+      "delirium：急性の意識・認知の混乱、せん妄。",
+      "delirious：せん妄状態の／熱狂した。",
+      "confusion：混乱。より広く一般的。",
+      "delusion：妄想、誤った確信。",
+      "hallucination：幻覚。実際にはないものを知覚すること。",
+      "dementia：認知症。delirium と同義ではない。"
+    ],
+    "en": [
+      "delirium is an acute state of severe confusion and disturbed awareness.",
+      "delirious means affected by delirium or, figuratively, wildly excited.",
+      "confusion is a much broader everyday term.",
+      "a delusion is a false belief or conviction.",
+      "a hallucination is a perception of something that is not actually present.",
+      "dementia is not synonymous with delirium."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 delirare『正気を失う、道を外れる』に由来する。de-『〜から外れて』＋ lira『畑の畝・溝』が背景にあり、もともとは文字どおり『畝から外れる』こと。そこから比喩的に『正常な思考の道筋から外れる』という意味になった。",
+    "en": "Delirium comes from Latin delirare, meaning to go out of one's mind or deviate from a straight course. It is traditionally analyzed from de- ('away from') and lira ('furrow'), giving the vivid original image of straying from the furrow."
+  },
+  "synonyms": [
+    {
+      "word": "confusion",
+      "note": {
+        "ja": "最も一般的な『混乱』。delirium よりはるかに意味が広い。",
+        "en": "A much broader and more everyday term for a confused state."
+      }
+    },
+    {
+      "word": "disorientation",
+      "note": {
+        "ja": "時間・場所・状況などが分からなくなる見当識の混乱。",
+        "en": "Difficulty knowing where one is, what time it is, or what is happening."
+      }
+    },
+    {
+      "word": "frenzy",
+      "note": {
+        "ja": "比喩的な delirium に近い『熱狂・狂乱』。",
+        "en": "Close to the figurative sense of delirium: wild excitement or uncontrolled activity."
+      }
+    },
+    {
+      "word": "delusion",
+      "note": {
+        "ja": "妄想・誤った確信。delirium の『意識・認知全体の急性混乱』とは異なる。",
+        "en": "A false belief or conviction, distinct from the broader acute confusion of delirium."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Delir / Delirium",
+    "it": "delirio",
+    "fr": "délire",
+    "es": "delirio"
+  },
+  "collocations": {
+    "ja": [
+      "suffer from delirium — せん妄を呈する",
+      "a state of delirium — せん妄状態",
+      "develop delirium — せん妄を発症する",
+      "cause delirium — せん妄を引き起こす",
+      "acute delirium — 急性せん妄",
+      "postoperative delirium — 術後せん妄",
+      "alcohol withdrawal delirium — アルコール離脱に伴うせん妄",
+      "fever-induced delirium — 発熱に伴うせん妄",
+      "a delirium of excitement — 我を忘れるほどの興奮",
+      "a delirium of joy — 狂喜、我を忘れるほどの喜び"
+    ],
+    "en": [
+      "suffer from delirium",
+      "a state of delirium",
+      "develop delirium",
+      "cause delirium",
+      "acute delirium",
+      "postoperative delirium",
+      "alcohol withdrawal delirium",
+      "fever-induced delirium",
+      "a delirium of excitement",
+      "a delirium of joy"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The patient developed delirium after surgery. — その患者は手術後にせん妄を発症した。",
+      "The high fever caused a state of delirium. — 高熱によってせん妄状態になった。",
+      "He drifted in and out of delirium. — 彼はせん妄状態になったり意識が戻ったりしていた。",
+      "The crowd was in a delirium of excitement. — 群衆は我を忘れるほど興奮していた。",
+      "Delirium should not be confused with dementia. — せん妄と認知症を混同してはいけない。"
+    ],
+    "en": [
+      "The patient developed delirium after surgery.",
+      "The high fever caused a state of delirium.",
+      "He drifted in and out of delirium.",
+      "The crowd was in a delirium of excitement.",
+      "Delirium should not be confused with dementia."
+    ]
+  }
+},
+{
+  "id": "delusion",
+  "sid": "2026-00834",
+  "word": "delusion",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "mental state",
+    "belief",
+    "psychology",
+    "medicine",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable depending on sense",
+    "plural": "delusions",
+    "related": {
+      "adjective": "delusional"
+    },
+    "patterns": [
+      "a delusion that ...",
+      "suffer from delusions",
+      "under the delusion that ...",
+      "delusions of grandeur"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈluːʒən/",
+      "uk": "/dɪˈluːʒən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "妄想、誤った確信",
+      "事実ではないことを強く信じ込むこと",
+      "一般に、根拠のない思い込み・幻想"
+    ],
+    "en": [
+      "a false belief that is strongly held despite evidence to the contrary",
+      "a mistaken conviction about reality",
+      "more generally, an unrealistic or mistaken belief about oneself or a situation"
+    ]
+  },
+  "nuance": {
+    "ja": "delusion は、単なる mistake『勘違い』より強く、事実に反する考えを強く信じている状態を表す。医学・精神医学では専門的な意味を持つ一方、一般英語では under the delusion that ...『〜だと思い込んで』や delusions of grandeur『誇大妄想』のように使われる。delirium は意識・注意・認知全体が急に混乱する状態で、delusion とは別概念。",
+    "en": "Delusion is stronger than an ordinary mistake or misconception. It refers to a firmly held false belief, especially in clinical contexts, though it is also used more generally for unrealistic beliefs. Delirium, by contrast, is an acute disturbance of attention and awareness rather than a specific false belief."
+  },
+  "minimal": {
+    "ja": [
+      "delusion：事実に反することを強く信じる妄想。",
+      "delirium：急性の意識・認知の混乱、せん妄。",
+      "hallucination：実際にはないものを知覚する幻覚。",
+      "misconception：誤解・誤った考え。delusion より一般的で軽い。",
+      "illusion：見かけ・知覚上の錯覚、または幻想。",
+      "delusional：妄想的な。"
+    ],
+    "en": [
+      "a delusion is a firmly held false belief.",
+      "delirium is an acute state of disturbed awareness and cognition.",
+      "a hallucination is a perception of something that is not actually present.",
+      "a misconception is an incorrect belief and is usually much less severe.",
+      "an illusion is a misleading appearance or perception.",
+      "delusional means affected by or characterized by delusions."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 deludere『欺く、からかう』に由来し、de-『離れて』＋ ludere『遊ぶ』と関係する。もともとは『だます、惑わせる』という意味から、現実について誤った考えに惑わされることを表すようになった。",
+    "en": "From Latin deludere, meaning to deceive or mock, related to de- and ludere, 'to play'. The sense developed from being deceived or misled into the modern idea of holding a false belief."
+  },
+  "synonyms": [
+    {
+      "word": "misconception",
+      "note": {
+        "ja": "誤った考え・誤解。delusion より一般的で、医学的ニュアンスはない。",
+        "en": "An incorrect belief or understanding and much broader and milder than delusion."
+      }
+    },
+    {
+      "word": "illusion",
+      "note": {
+        "ja": "錯覚・幻想。知覚や見かけが実際と違うことに焦点がある。",
+        "en": "A misleading appearance or perception rather than necessarily a firmly held false belief."
+      }
+    },
+    {
+      "word": "false belief",
+      "note": {
+        "ja": "誤った信念という説明的表現。delusion より中立的。",
+        "en": "A neutral descriptive expression for an incorrect belief."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Wahnvorstellung / Irrglaube",
+    "it": "delirio / illusione",
+    "fr": "délire / illusion",
+    "es": "delirio / falsa creencia"
+  },
+  "collocations": {
+    "ja": [
+      "suffer from delusions — 妄想を抱く",
+      "have a delusion — 妄想を抱く",
+      "under the delusion that ... — 〜だと思い込んで",
+      "delusions of grandeur — 誇大妄想",
+      "paranoid delusion — 被害妄想的な妄想",
+      "persistent delusion — 持続する妄想",
+      "false delusion — 誤った思い込み",
+      "break someone's delusion — 人の思い込みを打ち砕く"
+    ],
+    "en": [
+      "suffer from delusions",
+      "have a delusion",
+      "under the delusion that ...",
+      "delusions of grandeur",
+      "paranoid delusion",
+      "persistent delusion",
+      "false delusion",
+      "break someone's delusion"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He was under the delusion that everyone was against him. — 彼は誰もが自分に敵対していると思い込んでいた。",
+      "The patient experienced persistent delusions. — その患者には持続的な妄想が見られた。",
+      "She had delusions of grandeur. — 彼女には誇大妄想があった。",
+      "It's a common delusion that success comes overnight. — 成功は一夜にして得られるというのはよくある思い込みだ。",
+      "A delusion is not the same as a hallucination. — 妄想と幻覚は同じものではない。"
+    ],
+    "en": [
+      "He was under the delusion that everyone was against him.",
+      "The patient experienced persistent delusions.",
+      "She had delusions of grandeur.",
+      "It's a common delusion that success comes overnight.",
+      "A delusion is not the same as a hallucination."
+    ]
+  }
+},
+{
+  "id": "hallucination",
+  "sid": "2026-00835",
+  "word": "hallucination",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "medicine",
+    "psychology",
+    "perception",
+    "mental state",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable depending on sense",
+    "plural": "hallucinations",
+    "related": {
+      "verb": "hallucinate",
+      "adjective": "hallucinatory"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/həˌluːsəˈneɪʃən/",
+      "uk": "/həˌluːsɪˈneɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "幻覚",
+      "実際には存在しないものを見たり聞いたり感じたりする知覚",
+      "比喩的に、現実とは異なる幻想的な体験"
+    ],
+    "en": [
+      "a perception of something that is not actually present",
+      "an experience of seeing, hearing, feeling, smelling, or tasting something without an external stimulus",
+      "figuratively, an unreal or dreamlike experience"
+    ]
+  },
+  "nuance": {
+    "ja": "hallucination は『知覚』の問題に焦点がある。visual hallucination なら実際にはないものが見える、auditory hallucination なら実際にはない声や音が聞こえる。delusion は事実に反する考えを強く信じる『信念』の問題であり、hallucination とは別。delirium では hallucinations が生じることもあるが、両者は同義ではない。",
+    "en": "Hallucination concerns perception. A visual hallucination involves seeing something that is not there, while an auditory hallucination involves hearing a sound or voice without an external source. Delusion concerns belief rather than perception. Hallucinations may occur during delirium, but the two terms are not synonymous."
+  },
+  "minimal": {
+    "ja": [
+      "hallucination：実際にはないものを知覚する幻覚。",
+      "delusion：事実ではないことを強く信じる妄想。",
+      "delirium：急性の意識・認知の混乱、せん妄。",
+      "illusion：実在する刺激を誤って知覚する錯覚。",
+      "visual hallucination：幻視。",
+      "auditory hallucination：幻聴。"
+    ],
+    "en": [
+      "a hallucination is a perception without an external stimulus.",
+      "a delusion is a firmly held false belief.",
+      "delirium is an acute disturbance of awareness and cognition.",
+      "an illusion is a misperception of something that is actually present.",
+      "a visual hallucination is seeing something that is not there.",
+      "an auditory hallucination is hearing something without an external sound source."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 hallucinari / alucinari『さまよう、思い違いをする』に由来するとされる。そこから、感覚や認識が現実から外れている状態を表す語として発達した。",
+    "en": "The word ultimately comes from Latin forms such as hallucinari or alucinari, associated with wandering mentally or being mistaken. It later developed the specific modern sense of perceiving something without an external stimulus."
+  },
+  "synonyms": [
+    {
+      "word": "illusion",
+      "note": {
+        "ja": "実際に存在するものを誤って知覚すること。hallucination とは異なる。",
+        "en": "A misperception of something that is actually present, unlike a hallucination."
+      }
+    },
+    {
+      "word": "vision",
+      "note": {
+        "ja": "文脈によっては幻視のような意味にもなるが、hallucination より広く中立的。",
+        "en": "Can refer to a supernatural or imagined visual experience, but is broader and less clinical."
+      }
+    },
+    {
+      "word": "apparition",
+      "note": {
+        "ja": "幽霊・幻影など、突然現れる姿を指すことが多い。",
+        "en": "Often refers to a ghostlike or mysterious figure that appears suddenly."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Halluzination",
+    "it": "allucinazione",
+    "fr": "hallucination",
+    "es": "alucinación"
+  },
+  "collocations": {
+    "ja": [
+      "visual hallucination — 幻視",
+      "auditory hallucination — 幻聴",
+      "tactile hallucination — 触覚性幻覚",
+      "experience hallucinations — 幻覚を経験する",
+      "suffer from hallucinations — 幻覚を呈する",
+      "cause hallucinations — 幻覚を引き起こす",
+      "vivid hallucination — 鮮明な幻覚",
+      "drug-induced hallucination — 薬物誘発性の幻覚"
+    ],
+    "en": [
+      "visual hallucination",
+      "auditory hallucination",
+      "tactile hallucination",
+      "experience hallucinations",
+      "suffer from hallucinations",
+      "cause hallucinations",
+      "vivid hallucination",
+      "drug-induced hallucination"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The patient reported auditory hallucinations. — その患者は幻聴を訴えた。",
+      "He experienced vivid visual hallucinations. — 彼は鮮明な幻視を経験した。",
+      "Certain drugs can cause hallucinations. — 一部の薬物は幻覚を引き起こすことがある。",
+      "An illusion is not the same as a hallucination. — 錯覚と幻覚は同じものではない。",
+      "The hallucination felt completely real to her. — その幻覚は彼女には完全に現実のもののように感じられた。"
+    ],
+    "en": [
+      "The patient reported auditory hallucinations.",
+      "He experienced vivid visual hallucinations.",
+      "Certain drugs can cause hallucinations.",
+      "An illusion is not the same as a hallucination.",
+      "The hallucination felt completely real to her."
+    ]
+  }
+},
+{
+  "id": "disorientation",
+  "sid": "2026-00836",
+  "word": "disorientation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "medicine",
+    "neurology",
+    "mental state",
+    "confusion",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "usually uncountable",
+    "related": {
+      "verb": "disorient",
+      "adjective": "disoriented / disorientated"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪsˌɔːriənˈteɪʃən/",
+      "uk": "/dɪsˌɔːriənˈteɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "見当識障害、時間・場所・状況などが分からなくなる状態",
+      "方向感覚の喪失、混乱",
+      "慣れない環境などによる心理的な戸惑い・混乱"
+    ],
+    "en": [
+      "a state of confusion about time, place, identity, or circumstances",
+      "loss of one's sense of direction or location",
+      "a feeling of confusion caused by unfamiliar surroundings or circumstances"
+    ]
+  },
+  "nuance": {
+    "ja": "医学で disorientation は、time『時間』、place『場所』、person『人物・自己』などに関する見当識が乱れることを表す。delirium の一症状として現れることもあるが、disorientation 自体は delirium と同義ではない。一般英語では、新しい環境や急激な変化による『方向感覚を失ったような戸惑い』にも使える。",
+    "en": "In medical contexts, disorientation refers to impaired awareness of time, place, person, or circumstances. It can occur as part of delirium but is not synonymous with delirium itself. In general English, it can also describe the confused feeling caused by an unfamiliar environment or sudden change."
+  },
+  "minimal": {
+    "ja": [
+      "disorientation：時間・場所・状況などの見当識が乱れた状態。",
+      "confusion：混乱全般。より広い語。",
+      "delirium：急性の注意・意識・認知の混乱。",
+      "dizziness：めまい。disorientation とは別。",
+      "vertigo：回転性のめまい。",
+      "disoriented：見当識を失った、方向感覚を失った。"
+    ],
+    "en": [
+      "disorientation is confusion about time, place, identity, or surroundings.",
+      "confusion is a broader everyday term.",
+      "delirium is an acute disturbance of attention and awareness.",
+      "dizziness is a sensation of lightheadedness or unsteadiness and is different from disorientation.",
+      "vertigo is the sensation that you or your surroundings are spinning.",
+      "disoriented means confused about one's location, time, or situation."
+    ]
+  },
+  "etymology": {
+    "ja": "dis-『反対・喪失』＋ orientation『方向づけ、位置づけ』から成る。orientation は orient『東、方向を定める』に由来し、そこから『自分がどこにいて、どちらを向いているかを把握する』という意味へ広がった。disorientation はその方向・位置づけを失った状態。",
+    "en": "Formed from dis- and orientation. Orientation is related to orient, originally connected with the east and the act of determining direction. Disorientation therefore literally suggests losing one's sense of direction or position."
+  },
+  "synonyms": [
+    {
+      "word": "confusion",
+      "note": {
+        "ja": "最も一般的な『混乱』。disorientation より意味が広い。",
+        "en": "The broad everyday term for confusion and less specific than disorientation."
+      }
+    },
+    {
+      "word": "bewilderment",
+      "note": {
+        "ja": "何が起きているのか分からない強い戸惑い。",
+        "en": "Strong confusion or puzzlement about what is happening."
+      }
+    },
+    {
+      "word": "spatial confusion",
+      "note": {
+        "ja": "空間的位置や方向に関する混乱。",
+        "en": "Confusion specifically involving space, position, or direction."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Desorientierung / Orientierungslosigkeit",
+    "it": "disorientamento",
+    "fr": "désorientation",
+    "es": "desorientación"
+  },
+  "collocations": {
+    "ja": [
+      "severe disorientation — 重度の見当識障害",
+      "temporary disorientation — 一時的な見当識障害",
+      "mental disorientation — 精神的な混乱",
+      "spatial disorientation — 空間識失調、方向感覚の混乱",
+      "cause disorientation — 見当識障害を引き起こす",
+      "experience disorientation — 見当識の混乱を経験する",
+      "confusion and disorientation — 混乱と見当識障害",
+      "signs of disorientation — 見当識障害の兆候"
+    ],
+    "en": [
+      "severe disorientation",
+      "temporary disorientation",
+      "mental disorientation",
+      "spatial disorientation",
+      "cause disorientation",
+      "experience disorientation",
+      "confusion and disorientation",
+      "signs of disorientation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The patient showed signs of confusion and disorientation. — その患者には混乱と見当識障害の兆候が見られた。",
+      "He experienced temporary disorientation after waking from anesthesia. — 彼は麻酔から目覚めた後、一時的に見当識を失った。",
+      "The sudden change in surroundings caused some disorientation. — 周囲の急激な変化によって多少の戸惑いが生じた。",
+      "Spatial disorientation can be dangerous for pilots. — 空間識失調はパイロットにとって危険になり得る。",
+      "Disorientation may occur during an episode of delirium. — せん妄の際に見当識障害が起こることがある。"
+    ],
+    "en": [
+      "The patient showed signs of confusion and disorientation.",
+      "He experienced temporary disorientation after waking from anesthesia.",
+      "The sudden change in surroundings caused some disorientation.",
+      "Spatial disorientation can be dangerous for pilots.",
+      "Disorientation may occur during an episode of delirium."
+    ]
+  }
+},
+{
+  "id": "confusion",
+  "sid": "2026-00837",
+  "word": "confusion",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "daily conversation",
+    "mental state",
+    "misunderstanding",
+    "disorder",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable depending on sense",
+    "plural": "confusions",
+    "related": {
+      "verb": "confuse",
+      "adjective": "confused / confusing"
+    },
+    "patterns": [
+      "confusion about + noun",
+      "confusion over + noun",
+      "cause confusion",
+      "avoid confusion",
+      "in confusion",
+      "confusion between A and B"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈfjuːʒən/",
+      "uk": "/kənˈfjuːʒən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "混乱、困惑",
+      "何が起きているのか分からない状態",
+      "誤解、取り違え",
+      "秩序がなくごちゃごちゃした状態"
+    ],
+    "en": [
+      "a state of being unable to think clearly or understand what is happening",
+      "uncertainty or lack of understanding",
+      "a mistake caused by mixing up people, things, or ideas",
+      "a disorganized or chaotic state"
+    ]
+  },
+  "nuance": {
+    "ja": "confusion は非常に広い語で、日常的な『よく分からない』『混乱している』から、医学的な意識・認知の混乱まで使える。ただし医学では disorientation や delirium のほうがより具体的。confusion between A and B は『AとBの取り違え』、confusion about something は『〜についての混乱・理解不足』を表す。",
+    "en": "Confusion is a broad word covering ordinary uncertainty, misunderstanding, disorganized situations, and mental clouding. In medical contexts, more specific terms such as disorientation or delirium may be used when appropriate. Confusion between A and B means mixing them up, while confusion about something means uncertainty or lack of understanding."
+  },
+  "minimal": {
+    "ja": [
+      "confusion：混乱全般。",
+      "disorientation：時間・場所・方向などの見当識の混乱。",
+      "delirium：急性の意識・注意・認知の混乱。",
+      "misunderstanding：意味・意図についての誤解。",
+      "bewilderment：何が起きているか分からない強い困惑。",
+      "confusion between A and B：AとBの取り違え。"
+    ],
+    "en": [
+      "confusion is the broad general term for uncertainty or mental disorder.",
+      "disorientation is confusion about time, place, direction, or surroundings.",
+      "delirium is an acute disturbance of attention and awareness.",
+      "misunderstanding is an incorrect interpretation of meaning or intention.",
+      "bewilderment is a strong state of puzzlement.",
+      "confusion between A and B means mixing A and B up."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 confundere『一緒に混ぜる、混乱させる』に由来し、con-『一緒に』＋ fundere『注ぐ』という構造。文字どおり『いろいろなものを一緒に注いで混ぜる』イメージから、物事の区別がつかず混乱する意味になった。",
+    "en": "From Latin confundere, meaning 'to mix together or throw into disorder', formed from con- ('together') and fundere ('to pour'). The original image is of things being poured together until their distinctions become unclear."
+  },
+  "synonyms": [
+    {
+      "word": "bewilderment",
+      "note": {
+        "ja": "強い困惑。何が起きているのか分からず途方に暮れる感じ。",
+        "en": "A stronger sense of puzzlement and not knowing what is happening."
+      }
+    },
+    {
+      "word": "uncertainty",
+      "note": {
+        "ja": "何が正しいか・どうなるか確信が持てない状態。",
+        "en": "Lack of certainty about what is true or what will happen."
+      }
+    },
+    {
+      "word": "disorder",
+      "note": {
+        "ja": "物理的・社会的な秩序の乱れという意味で重なる。",
+        "en": "Overlaps in the sense of a disorganized or chaotic state."
+      }
+    },
+    {
+      "word": "misunderstanding",
+      "note": {
+        "ja": "意味・意図を間違って理解することに焦点。",
+        "en": "Focuses specifically on understanding something incorrectly."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Verwirrung",
+    "it": "confusione",
+    "fr": "confusion",
+    "es": "confusión"
+  },
+  "collocations": {
+    "ja": [
+      "cause confusion — 混乱を招く",
+      "create confusion — 混乱を生じさせる",
+      "avoid confusion — 混乱を避ける",
+      "clear up the confusion — 混乱を解消する",
+      "confusion about the rules — 規則についての混乱",
+      "confusion over the decision — 決定をめぐる混乱",
+      "confusion between two terms — 2つの用語の取り違え",
+      "a state of confusion — 混乱状態",
+      "mental confusion — 精神的混乱",
+      "mass confusion — 大混乱"
+    ],
+    "en": [
+      "cause confusion",
+      "create confusion",
+      "avoid confusion",
+      "clear up the confusion",
+      "confusion about the rules",
+      "confusion over the decision",
+      "confusion between two terms",
+      "a state of confusion",
+      "mental confusion",
+      "mass confusion"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The new instructions caused a lot of confusion. — 新しい指示は大きな混乱を招いた。",
+      "There seems to be some confusion about the meeting time. — 会議の時間について少し混乱があるようです。",
+      "I apologize for the confusion. — 混乱を招いてしまい申し訳ありません。",
+      "The similarity between the two names often leads to confusion. — その2つの名前が似ているため、よく取り違えが起こる。",
+      "The patient showed signs of confusion and disorientation. — その患者には混乱と見当識障害の兆候が見られた。"
+    ],
+    "en": [
+      "The new instructions caused a lot of confusion.",
+      "There seems to be some confusion about the meeting time.",
+      "I apologize for the confusion.",
+      "The similarity between the two names often leads to confusion.",
+      "The patient showed signs of confusion and disorientation."
+    ]
+  }
+},
+{
+  "id": "bewilderment",
+  "sid": "2026-00838",
+  "word": "bewilderment",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "emotion",
+    "confusion",
+    "reaction",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "usually uncountable",
+    "related": {
+      "verb": "bewilder",
+      "adjective": "bewildered / bewildering"
+    },
+    "patterns": [
+      "in bewilderment",
+      "with bewilderment",
+      "a look of bewilderment",
+      "cause bewilderment"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bɪˈwɪldərmənt/",
+      "uk": "/bɪˈwɪldəmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "当惑、困惑",
+      "何が起きているのか分からず途方に暮れる状態",
+      "理解できず頭が混乱している様子"
+    ],
+    "en": [
+      "a state of being very confused and unable to understand what is happening",
+      "strong puzzlement or uncertainty",
+      "a feeling of being mentally lost or perplexed"
+    ]
+  },
+  "nuance": {
+    "ja": "bewilderment は confusion より感情的で、『いったいどういうこと？』と途方に暮れる感じが強い。単に情報が整理されていないというより、状況が理解できず呆然としている反応を表しやすい。表情や態度と結びついて a look of bewilderment のようによく使われる。",
+    "en": "Bewilderment is more emotional than general confusion. It suggests being so puzzled that one feels mentally lost or unable to make sense of the situation. It is especially common when describing a person's reaction, expression, or behavior."
+  },
+  "minimal": {
+    "ja": [
+      "bewilderment：何が起きているか分からず途方に暮れる困惑。",
+      "confusion：混乱全般。より広い語。",
+      "perplexity：難しい問題などに対する知的な困惑。",
+      "bafflement：まったく理解できないという困惑。",
+      "disorientation：時間・場所・方向などの見当識の混乱。",
+      "bewildered：ひどく困惑した。"
+    ],
+    "en": [
+      "bewilderment is strong confusion that leaves someone feeling mentally lost.",
+      "confusion is the broader general term.",
+      "perplexity often suggests intellectual puzzlement over something difficult.",
+      "bafflement emphasizes complete inability to understand.",
+      "disorientation concerns confusion about time, place, direction, or surroundings.",
+      "bewildered means very confused or puzzled."
+    ]
+  },
+  "etymology": {
+    "ja": "bewilder の名詞形。bewilder は be- と古い wilderness / wild 系の語に関連し、もともと『荒野で道に迷わせる』ようなイメージを持っていた。そこから比喩的に『頭の中で道に迷うほど混乱させる』という意味になった。",
+    "en": "The noun form of bewilder. Bewilder is historically connected with the idea of leading someone astray in the wild or making them lose their way. This physical image developed figuratively into becoming mentally lost or deeply confused."
+  },
+  "synonyms": [
+    {
+      "word": "perplexity",
+      "note": {
+        "ja": "どう考えればよいか分からない知的な困惑。bewilderment よりやや落ち着いた響き。",
+        "en": "Intellectual puzzlement about something difficult, often calmer and more analytical than bewilderment."
+      }
+    },
+    {
+      "word": "bafflement",
+      "note": {
+        "ja": "まったく理解できないという強い困惑。",
+        "en": "Strong puzzlement caused by being unable to understand something at all."
+      }
+    },
+    {
+      "word": "confusion",
+      "note": {
+        "ja": "最も一般的な混乱。bewilderment ほど強い当惑を含まないことも多い。",
+        "en": "The broad general term and often less emotionally intense."
+      }
+    },
+    {
+      "word": "puzzlement",
+      "note": {
+        "ja": "不思議に思う、首をかしげるような困惑。比較的穏やか。",
+        "en": "A milder feeling of being puzzled or uncertain."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Verwirrung / Ratlosigkeit",
+    "it": "sconcerto / smarrimento",
+    "fr": "perplexité / désarroi",
+    "es": "desconcierto / perplejidad"
+  },
+  "collocations": {
+    "ja": [
+      "in bewilderment — 当惑して",
+      "stare in bewilderment — 当惑して見つめる",
+      "look at someone in bewilderment — 困惑して人を見る",
+      "a look of bewilderment — 困惑した表情",
+      "express bewilderment — 困惑を示す",
+      "cause bewilderment — 困惑を引き起こす",
+      "complete bewilderment — 完全な困惑",
+      "sheer bewilderment — まったくの困惑"
+    ],
+    "en": [
+      "in bewilderment",
+      "stare in bewilderment",
+      "look at someone in bewilderment",
+      "a look of bewilderment",
+      "express bewilderment",
+      "cause bewilderment",
+      "complete bewilderment",
+      "sheer bewilderment"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She stared at him in bewilderment. — 彼女は困惑して彼を見つめた。",
+      "His sudden resignation caused widespread bewilderment. — 彼の突然の辞任は広い困惑を招いた。",
+      "There was a look of bewilderment on her face. — 彼女の顔には困惑の表情が浮かんでいた。",
+      "I listened in complete bewilderment as they explained the new rules. — 新しい規則の説明を聞きながら、私は完全に途方に暮れていた。",
+      "The announcement was met with bewilderment rather than anger. — その発表は怒りというより困惑をもって受け止められた。"
+    ],
+    "en": [
+      "She stared at him in bewilderment.",
+      "His sudden resignation caused widespread bewilderment.",
+      "There was a look of bewilderment on her face.",
+      "I listened in complete bewilderment as they explained the new rules.",
+      "The announcement was met with bewilderment rather than anger."
+    ]
+  }
 }
 ]
