@@ -9791,5 +9791,329 @@
       "The procedure had been botched before the new medical team took over."
     ]
   }
+},
+{
+  "id": "winnow",
+  "sid": "2026-00866",
+  "word": "winnow",
+  "level": "C1",
+  "freq": "rarely",
+  "tags": [
+    "verb",
+    "selection",
+    "reduction",
+    "evaluation",
+    "agriculture",
+    "figurative",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "winnow",
+      "third_person": "winnows",
+      "past": "winnowed",
+      "past_participle": "winnowed",
+      "gerund": "winnowing"
+    },
+    "transitivity": "transitive / intransitive",
+    "patterns": [
+      "winnow + grain",
+      "winnow the grain from the chaff",
+      "winnow + candidates / applications / information",
+      "winnow A from B",
+      "winnow through + applications / evidence / data",
+      "winnow down + noun",
+      "winnow + noun + down to + number"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈwɪnoʊ/",
+      "uk": "/ˈwɪnəʊ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "穀物をあおり、風を利用してもみ殻などを取り除く",
+      "不要なものを除いて、価値のあるものを選び出す",
+      "候補・選択肢などを徐々に絞り込む",
+      "大量の情報・資料などを調べて選別する"
+    ],
+    "en": [
+      "to separate grain from chaff by using a current of air",
+      "to separate useful or valuable things from unwanted material",
+      "to reduce a group of candidates or possibilities by careful selection",
+      "to examine a large amount of information and select what is relevant"
+    ]
+  },
+  "nuance": {
+    "ja": "winnow の原義は、穀物を空中に放り上げ、風によって軽いもみ殻を吹き飛ばして実を選り分けること。比喩的には、多数の候補・応募・情報などから不要または劣るものを取り除き、価値のあるものだけを残すことを表す。単に数を減らすというより、注意深い検討と選別の過程を含意する。winnow down は『候補を絞り込む』という意味で特によく使われる。",
+    "en": "Winnow originally means to separate grain from chaff by exposing it to a current of air. Figuratively, it means to examine a collection of candidates, ideas, applications, or information and remove what is unsuitable or irrelevant. It suggests careful selection rather than mere reduction. Winnow down is especially common when describing the gradual narrowing of a list or field."
+  },
+  "minimal": {
+    "ja": [
+      "winnow grain：穀物を風選する。",
+      "winnow the wheat from the chaff：価値のあるものと無価値なものを選り分ける。",
+      "winnow candidates：候補者を選別する。",
+      "winnow down a list：リストを絞り込む。",
+      "winnow through data：大量のデータを調べて必要なものを選ぶ。",
+      "narrow down：範囲・候補を絞る。より一般的。",
+      "sift：細かく調べて選別する。ふるいにかけるイメージ。"
+    ],
+    "en": [
+      "winnow grain means to separate the grain from the chaff.",
+      "winnow the wheat from the chaff means to separate what is valuable from what is worthless.",
+      "winnow candidates means to evaluate and select among candidates.",
+      "winnow down a list means to reduce it through selection.",
+      "winnow through data means to examine data and select what is relevant.",
+      "narrow down is the more common general expression.",
+      "sift emphasizes careful examination and separation."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 windwian『穀物を風にさらして選別する』に由来し、wind『風』と関係する。軽いもみ殻を風で吹き飛ばし、重い穀粒を残す農作業を表した。そこから、不要なものを除去して有用なものを選び出すという比喩的意味が生じた。",
+    "en": "Winnow comes from Old English windwian, meaning to expose grain to the wind in order to separate it, and is related to wind. The agricultural process leaves the heavier grain while the lighter chaff is blown away. This physical sense produced the figurative meaning of removing what is unwanted and retaining what is useful."
+  },
+  "synonyms": [
+    {
+      "word": "sift",
+      "note": {
+        "ja": "資料・証拠などを細かく調べ、有用なものを選別する。winnow と近いが、『ふるいにかける』という発想が中心。",
+        "en": "To examine material, evidence, or information carefully and separate what is useful; based on the image of passing something through a sieve."
+      }
+    },
+    {
+      "word": "narrow down",
+      "note": {
+        "ja": "候補・可能性・範囲を絞り込む最も一般的な表現。",
+        "en": "The common general expression for reducing the number or range of possibilities."
+      }
+    },
+    {
+      "word": "filter",
+      "note": {
+        "ja": "一定の条件に基づいて不要な情報や項目を除外する。機械的・体系的な選別にも使う。",
+        "en": "To remove unwanted items according to particular conditions, often through a systematic or technical process."
+      }
+    },
+    {
+      "word": "screen",
+      "note": {
+        "ja": "応募者・対象などを基準に照らして審査し、不適切なものを除外する。",
+        "en": "To examine people or things according to stated criteria and exclude those that are unsuitable."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "die Spreu vom Weizen trennen / aussieben",
+    "it": "vagliare / selezionare",
+    "fr": "vanner / trier",
+    "es": "aventar / cribar"
+  },
+  "collocations": {
+    "ja": [
+      "winnow grain — 穀物を風選する",
+      "winnow the grain from the chaff — 穀物をもみ殻から選り分ける",
+      "winnow the wheat from the chaff — 良いものと悪いものを選り分ける",
+      "winnow candidates — 候補者を選別する",
+      "winnow applications — 応募書類を選別する",
+      "winnow the field — 候補者・競争者の範囲を絞る",
+      "winnow through the evidence — 証拠を精査して選別する",
+      "winnow through large amounts of data — 大量のデータを精査する",
+      "winnow down a list — リストを絞り込む",
+      "winnow the candidates down to three — 候補者を3人に絞る"
+    ],
+    "en": [
+      "winnow grain",
+      "winnow the grain from the chaff",
+      "winnow the wheat from the chaff",
+      "winnow candidates",
+      "winnow applications",
+      "winnow the field",
+      "winnow through the evidence",
+      "winnow through large amounts of data",
+      "winnow down a list",
+      "winnow the candidates down to three"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The farmers winnowed the grain to separate it from the chaff. — 農家の人々は、もみ殻を取り除くために穀物を風選した。",
+      "The committee winnowed the candidates down to five. — 委員会は候補者を5人に絞り込んだ。",
+      "We need to winnow the reliable evidence from the speculation. — 推測の中から信頼できる証拠を選り分ける必要がある。",
+      "Researchers spent months winnowing through the collected data. — 研究者たちは収集されたデータを何か月もかけて精査した。",
+      "The initial list has been winnowed down from fifty proposals to six. — 当初のリストは50件の提案から6件にまで絞り込まれた。"
+    ],
+    "en": [
+      "The farmers winnowed the grain to separate it from the chaff.",
+      "The committee winnowed the candidates down to five.",
+      "We need to winnow the reliable evidence from the speculation.",
+      "Researchers spent months winnowing through the collected data.",
+      "The initial list has been winnowed down from fifty proposals to six."
+    ]
+  }
+},
+{
+  "id": "narrow_down",
+  "sid": "2026-00867",
+  "word": "narrow down",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "phrasal verb",
+    "selection",
+    "reduction",
+    "possibility",
+    "investigation",
+    "decision",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "narrow down",
+      "third_person": "narrows down",
+      "past": "narrowed down",
+      "past_participle": "narrowed down",
+      "gerund": "narrowing down"
+    },
+    "transitivity": "transitive",
+    "separability": "separable",
+    "patterns": [
+      "narrow down + noun",
+      "narrow + noun + down",
+      "narrow it / them down",
+      "narrow down A to B",
+      "narrow A down to B",
+      "narrow down the possibilities / choices / candidates",
+      "narrow down who / what / where + clause"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌneroʊ ˈdaʊn/",
+      "uk": "/ˌnærəʊ ˈdaʊn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "候補・選択肢などの数を減らす",
+      "範囲・可能性を絞り込む",
+      "調査や検討によって対象を特定に近づける"
+    ],
+    "en": [
+      "to reduce the number of possibilities, choices, or candidates",
+      "to make a range or field of inquiry smaller",
+      "to move closer to identifying something through investigation or elimination"
+    ]
+  },
+  "nuance": {
+    "ja": "narrow down は、広い範囲や多数の可能性から、条件・証拠・比較などを使って候補を減らすことを表す、非常に一般的で中立的な句動詞。narrow the list down to three のように、最終的な数や範囲を to で示せる。目的語が代名詞の場合は narrow it down のように必ず narrow と down の間に置く。winnow down は注意深く選別して不適切なものを除くという比喩的・やや文語的な響きがあるが、narrow down は日常会話から仕事・捜査・研究まで幅広く使える。",
+    "en": "Narrow down is a very common and neutral phrasal verb for reducing a broad range of choices, possibilities, or suspects by applying criteria, examining evidence, or making comparisons. The remaining number or range can be introduced with to, as in narrow the list down to three. When the object is a pronoun, it must come between narrow and down: narrow it down. Unlike the more figurative and somewhat literary winnow down, narrow down is natural in both everyday and professional contexts."
+  },
+  "minimal": {
+    "ja": [
+      "narrow down the choices：選択肢を絞る。",
+      "narrow the list down to five：リストを5件に絞る。",
+      "narrow it down：それを絞り込む。",
+      "narrow down the cause：原因を絞り込む。",
+      "winnow down：注意深い選別によって候補を絞る。やや文語的。",
+      "filter：一定の条件で不要な項目を除外する。",
+      "pinpoint：対象や原因を正確に特定する。"
+    ],
+    "en": [
+      "narrow down the choices means to reduce the available choices.",
+      "narrow the list down to five means to leave five items on the list.",
+      "narrow it down is the required order when the object is a pronoun.",
+      "narrow down the cause means to reduce the number of possible causes.",
+      "winnow down suggests careful selection and is somewhat more literary.",
+      "filter means to exclude items according to particular conditions.",
+      "pinpoint means to identify something precisely."
+    ]
+  },
+  "etymology": {
+    "ja": "narrow は古英語 nearu『狭い、幅の限られた』に由来する。形容詞から『狭くする』という動詞が生じ、down が加わることで、範囲や候補を徐々に小さくするという意味が明確になった。物理的な幅を狭める発想から、選択肢・可能性・調査範囲などを絞る比喩的用法へ発展した。",
+    "en": "Narrow comes from Old English nearu, meaning confined or limited in width. It later developed verbal uses meaning to make something narrower. The addition of down emphasizes reduction toward a smaller range, producing the common figurative sense of reducing choices, possibilities, or the scope of an inquiry."
+  },
+  "synonyms": [
+    {
+      "word": "winnow down",
+      "note": {
+        "ja": "慎重な評価によって劣るものや不適切なものを除き、候補を絞る。narrow down より比喩的でやや文語的。",
+        "en": "To reduce a group through careful evaluation and selection; more figurative and somewhat more literary than narrow down."
+      }
+    },
+    {
+      "word": "filter",
+      "note": {
+        "ja": "一定の条件や基準に基づき、不要な情報・項目を除外する。",
+        "en": "To remove unwanted information or items according to specified conditions or criteria."
+      }
+    },
+    {
+      "word": "shortlist",
+      "note": {
+        "ja": "応募者・候補者などを最終候補のリストに残す。選考の文脈で使われる。",
+        "en": "To place candidates on a reduced final list, especially in a formal selection process."
+      }
+    },
+    {
+      "word": "pinpoint",
+      "note": {
+        "ja": "原因・場所・対象などを正確に突き止める。絞り込みが完了した段階に重点がある。",
+        "en": "To identify an exact cause, location, or target, emphasizing the final precise identification."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "eingrenzen / die Auswahl einschränken",
+    "it": "restringere / ridurre la scelta",
+    "fr": "réduire / restreindre",
+    "es": "reducir / acotar"
+  },
+  "collocations": {
+    "ja": [
+      "narrow down the choices — 選択肢を絞り込む",
+      "narrow down the options — 選べる案を絞り込む",
+      "narrow down the possibilities — 可能性を絞り込む",
+      "narrow down the list — リストを絞り込む",
+      "narrow down the candidates — 候補者を絞り込む",
+      "narrow down the search — 捜索・検索範囲を絞る",
+      "narrow down the cause — 原因を絞り込む",
+      "narrow down the suspects — 容疑者を絞り込む",
+      "narrow it down to two — それを2つに絞る",
+      "gradually narrow down the field — 候補範囲を徐々に絞る"
+    ],
+    "en": [
+      "narrow down the choices",
+      "narrow down the options",
+      "narrow down the possibilities",
+      "narrow down the list",
+      "narrow down the candidates",
+      "narrow down the search",
+      "narrow down the cause",
+      "narrow down the suspects",
+      "narrow it down to two",
+      "gradually narrow down the field"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We have narrowed the list down to three candidates. — 候補者のリストを3人に絞り込んだ。",
+      "These results should help us narrow down the possible causes. — この結果は、考えられる原因を絞り込むのに役立つはずだ。",
+      "I like several of these apartments, but I need to narrow them down to one. — このうち何軒かのアパートが気に入っているが、1軒に絞る必要がある。",
+      "The police used the security footage to narrow down the time of the incident. — 警察は防犯カメラの映像を使って事件の発生時刻を絞り込んだ。",
+      "We still haven't narrowed down where the error is occurring. — エラーがどこで発生しているのか、まだ絞り込めていない。"
+    ],
+    "en": [
+      "We have narrowed the list down to three candidates.",
+      "These results should help us narrow down the possible causes.",
+      "I like several of these apartments, but I need to narrow them down to one.",
+      "The police used the security footage to narrow down the time of the incident.",
+      "We still haven't narrowed down where the error is occurring."
+    ]
+  }
 }
 ]
