@@ -3757,5 +3757,165 @@
       "Several people emerged as claimants to the disputed property."
     ]
   }
+},
+{
+  "id": "respondent",
+  "sid": "2026-00925",
+  "word": "respondent",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "law",
+    "appeal",
+    "petition",
+    "survey",
+    "research",
+    "response",
+    "person",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "respondents",
+    "related": {
+      "verb": "respond",
+      "noun": "response",
+      "opposing_roles": "appellant / petitioner / applicant"
+    },
+    "patterns": [
+      "the respondent in + appeal / proceedings",
+      "the respondent to + petition / application",
+      "the appellant and the respondent",
+      "the petitioner and the respondent",
+      "the respondent argues / submits that + clause",
+      "survey / questionnaire respondents",
+      "respondents who answered + question"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈspɑːndənt/",
+      "uk": "/rɪˈspɒndənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "上訴・申立てなどに応答する相手方、被上訴人、被申立人",
+      "行政・審判手続などで申立てを受ける側の当事者",
+      "アンケート・調査・質問などに回答する人、回答者",
+      "研究の質問に情報を提供する調査対象者"
+    ],
+    "en": [
+      "the party who answers an appeal, petition, or application",
+      "the opposing party in certain administrative, tribunal, or judicial proceedings",
+      "a person who answers a survey, questionnaire, or set of questions",
+      "a person providing responses or information in a research study"
+    ]
+  },
+  "nuance": {
+    "ja": "法律上の respondent は、自ら手続を開始する appellant、petitioner、applicant などに対し、その上訴・申立て・申請に応答する側の当事者を指す。元の事件では plaintiff や defendant であったかにかかわらず、上訴段階で相手方として応答する者は respondent と呼ばれうる。法域によっては、上訴の相手方に appellee を使う場合もある。法律以外では、アンケートや市場調査などに回答する人を表す非常に一般的な調査用語である。",
+    "en": "In legal contexts, a respondent is the party who answers an appeal, petition, application, or similar proceeding initiated by an appellant, petitioner, or applicant. Regardless of whether that party was originally the plaintiff or defendant, the party answering the appeal may be called the respondent. Some jurisdictions, particularly in American appellate terminology, also use appellee. Outside law, respondent is a standard research term for a person who answers a survey, questionnaire, or interview questions."
+  },
+  "minimal": {
+    "ja": [
+      "respondent：上訴・申立て・申請に応答する相手方。または調査への回答者。",
+      "defendant：民事上の請求または刑事上の訴追に対して裁判で防御する当事者。",
+      "appellee：上訴を受け、原判断の維持を求める側。特にアメリカの上訴手続で使われる。",
+      "claimant：権利・金銭・財産・給付などを請求する者。",
+      "appellant：下級審などの判断を不服として上訴を提起する側。"
+    ],
+    "en": [
+      "respondent is the party answering an appeal, petition, or application, or a person answering a survey.",
+      "defendant is the party defending against a civil claim or criminal charge in court.",
+      "appellee is the party responding to an appeal and seeking to preserve the lower decision, especially in American appellate terminology.",
+      "claimant is a person asserting a right to money, property, a benefit, or another remedy.",
+      "appellant is the party that challenges a lower decision by bringing an appeal."
+    ]
+  },
+  "etymology": {
+    "ja": "respondent は respond『応答する』に、人を表す -ent が付いた語である。respond はラテン語 respondere『返答する、応じる』に由来し、re-『返して』と spondere『約束する、誓約する』から成る。相手の問いや主張に応じて返答する者という意味から、法的申立てへの相手方と、調査への回答者の両方を表すようになった。",
+    "en": "Respondent is formed from respond and the suffix -ent, indicating a person performing an action. Respond comes from Latin respondere, meaning to answer or reply, combining re-, meaning 'back,' with spondere, meaning to promise or pledge. From the general idea of answering another person, respondent developed both its legal sense and its research-related sense."
+  },
+  "synonyms": [
+    {
+      "word": "appellee",
+      "note": {
+        "ja": "上訴を提起された側の当事者。特にアメリカの上訴手続で appellant の相手方を表す。",
+        "en": "The party against whom an appeal is brought, especially the counterpart of appellant in American appellate procedure."
+      }
+    },
+    {
+      "word": "answering party",
+      "note": {
+        "ja": "申立て・請求などに応答する側を説明的に表す表現。",
+        "en": "A descriptive expression for the party responding to a claim, petition, or application."
+      }
+    },
+    {
+      "word": "survey participant",
+      "note": {
+        "ja": "調査に参加する人。回答者以外の形で参加する場合も含みうる。",
+        "en": "A person participating in a survey or study, a broader term that may include more than answering questions."
+      }
+    },
+    {
+      "word": "interviewee",
+      "note": {
+        "ja": "面接・聞き取り調査で質問を受ける人。respondent より調査形式が限定される。",
+        "en": "A person answering questions in an interview, with a more specific format than respondent."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Antragsgegner / Beschwerdegegner / Befragter",
+    "it": "resistente / intimato / intervistato",
+    "fr": "défendeur / intimé / répondant",
+    "es": "demandado / recurrido / encuestado"
+  },
+  "collocations": {
+    "ja": [
+      "the named respondent — 名指しされた被申立人",
+      "the respondent in the appeal — 上訴における相手方",
+      "the appellant and the respondent — 上訴人と被上訴人",
+      "the petitioner and the respondent — 申立人と被申立人",
+      "the respondent's argument — 相手方の主張",
+      "the respondent's evidence — 相手方の証拠",
+      "survey respondents — アンケート回答者",
+      "questionnaire respondents — 質問票への回答者",
+      "a majority of respondents — 回答者の過半数",
+      "respondent characteristics — 回答者の属性"
+    ],
+    "en": [
+      "the named respondent",
+      "the respondent in the appeal",
+      "the appellant and the respondent",
+      "the petitioner and the respondent",
+      "the respondent's argument",
+      "the respondent's evidence",
+      "survey respondents",
+      "questionnaire respondents",
+      "a majority of respondents",
+      "respondent characteristics"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The respondent asked the court to dismiss the appeal. — 被上訴人は裁判所に上訴を棄却するよう求めた。",
+      "The respondent argued that the original decision should be upheld. — 被上訴人は原判断が維持されるべきだと主張した。",
+      "The tribunal ordered the respondent to submit additional evidence. — 審判機関は被申立人に追加証拠を提出するよう命じた。",
+      "More than half of the survey respondents supported the proposal. — アンケート回答者の半数を超える人がその提案を支持した。",
+      "Respondents were asked to rate the product on a five-point scale. — 回答者はその製品を5段階で評価するよう求められた。"
+    ],
+    "en": [
+      "The respondent asked the court to dismiss the appeal.",
+      "The respondent argued that the original decision should be upheld.",
+      "The tribunal ordered the respondent to submit additional evidence.",
+      "More than half of the survey respondents supported the proposal.",
+      "Respondents were asked to rate the product on a five-point scale."
+    ]
+  }
 }
 ]
