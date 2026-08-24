@@ -3286,5 +3286,476 @@
       "Years of working in a noisy environment damaged his hearing."
     ]
   }
+},
+{
+  "id": "defendant",
+  "sid": "2026-00922",
+  "word": "defendant",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "law",
+    "court",
+    "civil law",
+    "criminal law",
+    "litigation",
+    "person",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "defendants",
+    "related": {
+      "verb": "defend",
+      "noun": "defense / defence",
+      "lawyer": "defense attorney / defence lawyer",
+      "opposite_party": "plaintiff / claimant"
+    },
+    "patterns": [
+      "the defendant in + case / lawsuit",
+      "the defendant against whom + claim",
+      "the defendant argues / claims / denies that + clause",
+      "the defendant is charged with + offense",
+      "find the defendant liable / guilty",
+      "acquit / convict the defendant",
+      "the plaintiff and the defendant"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈfendənt/",
+      "uk": "/dɪˈfendənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "民事訴訟で原告から訴えを提起された当事者、被告",
+      "刑事裁判で犯罪について正式に訴追されている者、被告人",
+      "裁判上の請求または刑事上の訴追に対して防御する当事者"
+    ],
+    "en": [
+      "a person or organization against whom a civil lawsuit is brought",
+      "a person who has been formally charged and is being tried in a criminal court",
+      "the party required to defend against a claim or criminal charge in court"
+    ]
+  },
+  "nuance": {
+    "ja": "defendant は、裁判で民事上の請求または刑事上の訴追に対して防御する側の当事者を表す。民事事件では、原告 plaintiff または claimant に訴えられた『被告』であり、個人だけでなく企業や団体も defendant になれる。刑事事件では、正式に起訴され裁判を受ける『被告人』を指す。単に捜査対象となっている suspect よりも、裁判手続上の立場が明確な語である。上訴・申立て・一部の審判手続では、相手方が respondent と呼ばれることもある。",
+    "en": "A defendant is the party required to defend against a civil claim or criminal charge in court. In a civil case, the defendant is the person or organization sued by the plaintiff or claimant. In a criminal case, the defendant is the person formally charged and brought before the court. The term describes a specific procedural role and is therefore more precise than suspect. In appeals, petitions, and some tribunal proceedings, the opposing party may instead be called the respondent."
+  },
+ "minimal": {
+  "ja": [
+    "defendant：民事上の請求または刑事上の訴追に対して裁判で防御する当事者。",
+    "suspect：犯罪を行った可能性があるとして捜査対象となっている者。",
+    "the accused：犯罪を行ったとして正式に告発・起訴された者。民事被告には使わない。",
+    "respondent：上訴・申立て・審判などで申立人に対応する相手方。",
+    "plaintiff / claimant：民事上の請求を被告に対して提起する側の当事者。"
+  ],
+  "en": [
+    "defendant is the party defending against a civil claim or criminal charge in court.",
+    "suspect is a person whom investigators believe may have committed a crime.",
+    "the accused is a person formally alleged or charged to have committed a crime and does not refer to a civil defendant.",
+    "respondent is the party answering an appeal, petition, application, or certain tribunal proceeding.",
+    "plaintiff or claimant is the party that brings a civil claim against the defendant."
+  ]
+  },
+  "etymology": {
+  "ja": "defendant はアングロ・フランス語 defendant『防御する者』に由来し、これは defendre『守る、防御する』の現在分詞形である。さらにラテン語 defendere『守る、追い払う』にさかのぼる。攻撃から身を守るという一般的な意味から、法廷で請求や刑事上の訴追に対して自らを守る当事者を表すようになった。",
+  "en": "Defendant comes from Anglo-French defendant, meaning a person who defends, the present participle of defendre, meaning to defend or protect. It ultimately derives from Latin defendere, meaning to ward off or defend. From the general idea of resisting an attack, the word developed its legal sense of a party defending against a civil claim or criminal charge."
+  },
+  "synonyms": [
+    {
+  "word": "the accused",
+  "note": {
+    "ja": "犯罪を行ったとして正式に告発・起訴された者。刑事事件の defendant と重なるが、民事被告には使わない。",
+    "en": "A person formally alleged or charged to have committed a crime. It overlaps with defendant in criminal cases but not in ordinary civil cases."
+      }
+    },
+    {
+      "word": "respondent",
+      "note": {
+        "ja": "上訴・申立て・行政審判などで、申立てに応答する相手方。",
+        "en": "The party responding to an appeal, petition, application, or certain administrative proceedings."
+      }
+    },
+    {
+      "word": "the defense",
+      "note": {
+        "ja": "被告側全体、被告側の弁護士、または被告側の主張・立証を集合的に表す。",
+        "en": "The defendant's side collectively, including its lawyers, arguments, and evidence."
+      }
+    },
+    {
+      "word": "defending party",
+      "note": {
+        "ja": "請求・申立てなどに対して防御する側を表す説明的な表現。",
+        "en": "A descriptive expression for the party defending against a claim, application, or allegation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Beklagter / Angeklagter",
+    "it": "convenuto / imputato",
+    "fr": "défendeur / prévenu / accusé",
+    "es": "demandado / acusado"
+  },
+  "collocations": {
+    "ja": [
+      "the named defendant — 名指しされた被告",
+      "a criminal defendant — 刑事被告人",
+      "a civil defendant — 民事訴訟の被告",
+      "a co-defendant — 共同被告・共同被告人",
+      "the defendant's lawyer — 被告側の弁護士",
+      "the defendant's argument — 被告側の主張",
+      "find the defendant liable — 被告に法的責任があると認定する",
+      "find the defendant guilty — 被告人を有罪と認定する",
+      "acquit the defendant — 被告人に無罪を言い渡す",
+      "dismiss the claim against the defendant — 被告に対する請求を棄却する"
+    ],
+    "en": [
+      "the named defendant",
+      "a criminal defendant",
+      "a civil defendant",
+      "a co-defendant",
+      "the defendant's lawyer",
+      "the defendant's argument",
+      "find the defendant liable",
+      "find the defendant guilty",
+      "acquit the defendant",
+      "dismiss the claim against the defendant"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The defendant denied infringing the plaintiff's trademark rights. — 被告は原告の商標権を侵害したことを否定した。",
+      "The court ordered the defendant to pay damages. — 裁判所は被告に損害賠償を支払うよう命じた。",
+      "The defendant argued that the patent was invalid. — 被告はその特許が無効であると主張した。",
+      "The jury found the defendant not guilty. — 陪審は被告人に無罪の評決を下した。",
+      "The claim against one of the defendants was dismissed. — 被告の一人に対する請求は棄却された。"
+    ],
+    "en": [
+      "The defendant denied infringing the plaintiff's trademark rights.",
+      "The court ordered the defendant to pay damages.",
+      "The defendant argued that the patent was invalid.",
+      "The jury found the defendant not guilty.",
+      "The claim against one of the defendants was dismissed."
+    ]
+  }
+},
+{
+  "id": "plaintiff",
+  "sid": "2026-00923",
+  "word": "plaintiff",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "law",
+    "court",
+    "civil law",
+    "lawsuit",
+    "litigation",
+    "person",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "plaintiffs",
+    "related": {
+      "verb": "sue",
+      "opposite_party": "defendant",
+      "uk_equivalent": "claimant"
+    },
+    "patterns": [
+      "the plaintiff in + case / lawsuit",
+      "the plaintiff alleges / argues / claims that + clause",
+      "the plaintiff seeks + damages / an injunction",
+      "the plaintiff brings a claim against + defendant",
+      "rule / find in favor of the plaintiff",
+      "the plaintiff and the defendant"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈpleɪntɪf/",
+      "uk": "/ˈpleɪntɪf/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "民事訴訟を裁判所に提起する当事者、原告",
+      "他の当事者に対して法的救済を求める個人・企業・団体",
+      "損害賠償・差止め・権利確認などを請求する側"
+    ],
+    "en": [
+      "a person or organization that brings a civil case before a court",
+      "a party seeking a legal remedy against another party",
+      "the party claiming damages, an injunction, a declaration, or another form of relief"
+    ]
+  },
+  "nuance": {
+    "ja": "plaintiff は、民事訴訟を開始し、被告 defendant に対して損害賠償・差止め・権利確認などの救済を求める側の当事者を指す。アメリカ英語では現在も標準的な法律用語である。イングランドおよびウェールズの民事手続では、現在は原則として claimant が正式名称として使われるが、plaintiff も歴史的文脈や他の法域について広く理解される。刑事事件で国家側を表す prosecution や prosecutor とは区別される。",
+    "en": "A plaintiff is the party that initiates a civil lawsuit and seeks a remedy such as damages, an injunction, or a declaration against the defendant. Plaintiff remains the standard term in American civil litigation. In the civil procedure of England and Wales, claimant is now generally the official term, although plaintiff remains widely understood and is used in historical discussion and other jurisdictions. A plaintiff should be distinguished from the prosecution or prosecutor in a criminal case."
+  },
+  "minimal": {
+    "ja": [
+      "plaintiff：民事訴訟を提起し、被告に対して裁判上の救済を求める原告。",
+      "claimant：権利・金銭・救済を請求する者。イングランドおよびウェールズでは民事原告の正式名称。",
+      "complainant：苦情・申立て・犯罪被害などを当局に申し出る者。自ら民事訴訟を提起するとは限らない。",
+      "petitioner：裁判所・行政機関などに正式な申立てを行う者。",
+      "prosecutor：国家を代表して刑事事件を訴追する法律家・公務員。"
+    ],
+    "en": [
+      "plaintiff is the party that brings a civil lawsuit and seeks a judicial remedy against the defendant.",
+      "claimant is a person claiming a right, payment, or remedy and is the official civil term in England and Wales.",
+      "complainant is a person who reports a grievance or alleged offense and does not necessarily bring a civil lawsuit.",
+      "petitioner is a person who submits a formal petition to a court or administrative authority.",
+      "prosecutor is a lawyer or official who conducts a criminal case on behalf of the state."
+    ]
+  },
+  "etymology": {
+    "ja": "plaintiff はアングロ・フランス語 plaintif『不満を訴える者、原告』に由来する。これは plainte『苦情、嘆き』と関係し、さらにラテン語 plangere『胸を打って嘆く、悲しむ』にさかのぼる。被害や不満を訴え出る者という意味から、民事訴訟を提起する当事者を表す法律用語となった。語末の綴りが通常の形容詞的な -ive ではなく -iff である点にも注意が必要である。",
+    "en": "Plaintiff comes from Anglo-French plaintif, meaning a person who complains or brings a legal complaint. It is related to plainte, meaning a complaint or lament, and is ultimately connected with Latin plangere, meaning to lament or beat the breast in grief. The sense developed from a person expressing a grievance into the legal term for the party bringing a civil action."
+  },
+  "synonyms": [
+    {
+      "word": "claimant",
+      "note": {
+        "ja": "権利・金銭・救済を請求する者。特にイングランドおよびウェールズの民事手続で plaintiff に相当する。",
+        "en": "A person seeking a right, payment, or remedy and the usual equivalent of plaintiff in the civil courts of England and Wales."
+      }
+    },
+    {
+      "word": "complainant",
+      "note": {
+        "ja": "犯罪・差別・不正行為などについて苦情や申立てを行う者。",
+        "en": "A person who makes a complaint concerning an offense, discrimination, misconduct, or another grievance."
+      }
+    },
+    {
+      "word": "petitioner",
+      "note": {
+        "ja": "裁判所や行政機関に命令・判断などを求めて正式な申立てを行う者。",
+        "en": "A person who formally asks a court or authority to issue an order or make a decision."
+      }
+    },
+    {
+      "word": "claiming party",
+      "note": {
+        "ja": "請求を行う側の当事者を表す説明的な表現。",
+        "en": "A descriptive expression for the party asserting a claim against another party."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Kläger",
+    "it": "attore / ricorrente",
+    "fr": "demandeur",
+    "es": "demandante"
+  },
+  "collocations": {
+    "ja": [
+      "the plaintiff's claim — 原告の請求",
+      "the plaintiff's argument — 原告の主張",
+      "the plaintiff's evidence — 原告側の証拠",
+      "the plaintiff's lawyer — 原告代理人",
+      "the named plaintiff — 名指しされた原告",
+      "the lead plaintiff — 代表原告",
+      "the plaintiff alleges that — 原告は～と主張する",
+      "the plaintiff seeks damages — 原告は損害賠償を求める",
+      "find for the plaintiff — 原告勝訴の判断を下す",
+      "dismiss the plaintiff's claim — 原告の請求を棄却する"
+    ],
+    "en": [
+      "the plaintiff's claim",
+      "the plaintiff's argument",
+      "the plaintiff's evidence",
+      "the plaintiff's lawyer",
+      "the named plaintiff",
+      "the lead plaintiff",
+      "the plaintiff alleges that",
+      "the plaintiff seeks damages",
+      "find for the plaintiff",
+      "dismiss the plaintiff's claim"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The plaintiff alleged that the defendant had infringed its registered trademark. — 原告は、被告がその登録商標を侵害したと主張した。",
+      "The plaintiff is seeking damages and a permanent injunction. — 原告は損害賠償および恒久的差止命令を求めている。",
+      "The court found in favor of the plaintiff. — 裁判所は原告勝訴の判断を下した。",
+      "The plaintiff failed to provide sufficient evidence of consumer confusion. — 原告は消費者の混同について十分な証拠を提出できなかった。",
+      "The plaintiff and the defendant agreed to settle the case. — 原告と被告は事件を和解によって解決することに合意した。"
+    ],
+    "en": [
+      "The plaintiff alleged that the defendant had infringed its registered trademark.",
+      "The plaintiff is seeking damages and a permanent injunction.",
+      "The court found in favor of the plaintiff.",
+      "The plaintiff failed to provide sufficient evidence of consumer confusion.",
+      "The plaintiff and the defendant agreed to settle the case."
+    ]
+  }
+},
+{
+  "id": "claimant",
+  "sid": "2026-00924",
+  "word": "claimant",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "law",
+    "court",
+    "claim",
+    "insurance",
+    "benefits",
+    "civil law",
+    "person",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "claimants",
+    "related": {
+      "verb": "claim",
+      "noun": "claim",
+      "us_court_equivalent": "plaintiff",
+      "opposite_party": "defendant / respondent"
+    },
+    "patterns": [
+      "a claimant for + compensation / benefits",
+      "a claimant to + property / title / throne",
+      "the claimant in + case / proceedings",
+      "the claimant alleges / argues that + clause",
+      "the claimant seeks + damages / compensation",
+      "the claimant and the defendant"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkleɪmənt/",
+      "uk": "/ˈkleɪmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "権利・金銭・財産などを請求する者、請求者",
+      "イングランドおよびウェールズの民事訴訟における原告",
+      "保険金・損害賠償・給付金などを請求する人",
+      "財産・地位・称号などに対する権利を主張する者"
+    ],
+    "en": [
+      "a person who formally claims a right, payment, property, or benefit",
+      "the party who brings a civil claim in England and Wales",
+      "a person applying for insurance money, compensation, or public benefits",
+      "a person asserting a right to property, a position, or a title"
+    ]
+  },
+  "nuance": {
+    "ja": "claimant は、何らかの権利・金銭・財産・給付などについて『自分に受け取る権利がある』と主張する者を広く表す。保険金請求者、損害賠償請求者、社会保障給付の受給申請者などに使われる。イングランドおよびウェールズの民事手続では、訴訟を提起する側の正式名称として claimant が使われ、アメリカ英語の plaintiff におおむね相当する。ただし claimant は裁判外の保険・行政・補償手続にも使えるため、常に原告を意味するわけではない。",
+    "en": "A claimant is broadly a person who asserts that they are entitled to a right, payment, property, benefit, or remedy. The word is common in insurance, compensation, social security, administrative, and legal contexts. In the civil courts of England and Wales, claimant is the official term for the party bringing a claim and broadly corresponds to plaintiff in American usage. However, claimant does not always mean a party to a lawsuit, since a claim may also be made through an insurer, employer, or administrative authority."
+  },
+  "minimal": {
+    "ja": [
+      "claimant：権利・金銭・財産・給付などを正式に請求する者。",
+      "plaintiff：民事訴訟を裁判所に提起し、被告に対して救済を求める原告。",
+      "applicant：許可・登録・給付などを得るために申請を行う者。",
+      "complainant：犯罪・差別・不正行為などについて苦情や申立てを行う者。",
+      "petitioner：裁判所・行政機関などに命令や判断を求めて正式な申立てを行う者。"
+    ],
+    "en": [
+      "claimant is a person formally asserting a right to money, property, a benefit, or another remedy.",
+      "plaintiff is the party that brings a civil lawsuit and seeks relief against the defendant.",
+      "applicant is a person who applies for permission, registration, admission, or a benefit.",
+      "complainant is a person who reports a grievance, offense, discrimination, or misconduct.",
+      "petitioner is a person who formally asks a court or authority to issue an order or decision."
+    ]
+  },
+  "etymology": {
+    "ja": "claimant は claim『請求する、権利を主張する』に、人を表す -ant が付いた語である。claim は古フランス語 clamer『呼び求める、訴える』を経て、ラテン語 clamare『叫ぶ、声を上げて求める』にさかのぼる。自分の権利を声に出して主張するという発想から、財産・金銭・法的救済などを正式に請求する者を claimant と呼ぶようになった。",
+    "en": "Claimant is formed from claim and the suffix -ant, indicating a person who performs an action. Claim came through Old French clamer, meaning to call out or demand, from Latin clamare, meaning to cry out or call aloud. From the idea of openly asserting a right, claimant developed the sense of a person formally seeking money, property, a benefit, or a legal remedy."
+  },
+  "synonyms": [
+    {
+      "word": "plaintiff",
+      "note": {
+        "ja": "民事訴訟を提起する原告。特にアメリカの裁判手続で一般的。",
+        "en": "The party bringing a civil lawsuit, especially the standard term in American court procedure."
+      }
+    },
+    {
+      "word": "applicant",
+      "note": {
+        "ja": "許可・登録・給付などを求めて申請する者。相手方に対する権利主張とは限らない。",
+        "en": "A person applying for permission, registration, admission, or a benefit, without necessarily asserting a claim against another party."
+      }
+    },
+    {
+      "word": "petitioner",
+      "note": {
+        "ja": "裁判所・行政機関などに正式な申立書を提出する者。",
+        "en": "A person who submits a formal petition requesting an order or decision from a court or authority."
+      }
+    },
+    {
+      "word": "beneficiary",
+      "note": {
+        "ja": "保険・信託・遺言などから利益や給付を受ける権利を持つ者。実際に請求している必要はない。",
+        "en": "A person entitled to receive a benefit under an insurance policy, trust, or will and not necessarily someone currently making a claim."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Anspruchsteller / Antragsteller / Kläger",
+    "it": "richiedente / avente diritto / attore",
+    "fr": "demandeur / requérant",
+    "es": "reclamante / demandante / solicitante"
+  },
+  "collocations": {
+    "ja": [
+      "an insurance claimant — 保険金請求者",
+      "a benefit claimant — 給付金請求者",
+      "a compensation claimant — 補償請求者",
+      "a successful claimant — 請求が認められた者",
+      "the original claimant — 当初の請求者・原告",
+      "the claimant's case — 請求者・原告側の主張",
+      "the claimant's evidence — 請求者・原告側の証拠",
+      "the claimant seeks damages — 原告は損害賠償を求める",
+      "a claimant to the property — その財産に対する権利主張者",
+      "the claimant and the defendant — 原告と被告"
+    ],
+    "en": [
+      "an insurance claimant",
+      "a benefit claimant",
+      "a compensation claimant",
+      "a successful claimant",
+      "the original claimant",
+      "the claimant's case",
+      "the claimant's evidence",
+      "the claimant seeks damages",
+      "a claimant to the property",
+      "the claimant and the defendant"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The claimant is seeking compensation for the losses caused by the breach. — 原告は契約違反によって生じた損失の補償を求めている。",
+      "The claimant failed to establish that the defendant owed a duty of care. — 原告は、被告が注意義務を負っていたことを立証できなかった。",
+      "Each insurance claimant must submit proof of the damage. — 各保険金請求者は損害を証明する資料を提出しなければならない。",
+      "The tribunal ruled in favor of the claimant. — 審判機関は申立人に有利な判断を下した。",
+      "Several people emerged as claimants to the disputed property. — 複数の人物が、その係争中の財産に対する権利を主張した。"
+    ],
+    "en": [
+      "The claimant is seeking compensation for the losses caused by the breach.",
+      "The claimant failed to establish that the defendant owed a duty of care.",
+      "Each insurance claimant must submit proof of the damage.",
+      "The tribunal ruled in favor of the claimant.",
+      "Several people emerged as claimants to the disputed property."
+    ]
+  }
 }
 ]
