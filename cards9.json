@@ -163,5 +163,332 @@
       "The drug antagonizes the effects of the hormone at the receptor level."
     ]
   }
+},
+{
+  "id": "irritate",
+  "sid": "2026-00902",
+  "word": "irritate",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "annoyance",
+    "emotion",
+    "behavior",
+    "physical irritation",
+    "skin",
+    "medical",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "irritate",
+      "third_person": "irritates",
+      "past": "irritated",
+      "past_participle": "irritated",
+      "gerund": "irritating"
+    },
+    "transitivity": "transitive",
+    "related": {
+      "noun": "irritation",
+      "adjective_person": "irritated",
+      "adjective_cause": "irritating",
+      "adjective_tendency": "irritable",
+      "noun_person": "irritant"
+    },
+    "patterns": [
+      "irritate + person",
+      "irritate someone by + -ing",
+      "irritate someone with + noun",
+      "be irritated by / with / at + noun",
+      "irritate the skin / eyes / throat",
+      "irritate an injury / condition"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɪrɪteɪt/",
+      "uk": "/ˈɪrɪteɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人をいら立たせる、じりじりさせる",
+      "反復的・不快な言動によって人を苛立たせる",
+      "皮膚・目・喉などを刺激して、痛み・かゆみ・炎症を起こす",
+      "傷や症状を刺激して悪化させる"
+    ],
+    "en": [
+      "to make someone feel annoyed or impatient",
+      "to cause annoyance through repeated or unpleasant behavior",
+      "to make the skin, eyes, throat, or another body part sore, itchy, or inflamed",
+      "to aggravate an injury or condition through physical stimulation"
+    ]
+  },
+  "nuance": {
+    "ja": "irritate は、小さくても繰り返される不快な刺激によって、人をじわじわといら立たせる場合によく使われる。annoy と近いが、irritate は神経を刺激されるような不快感や、忍耐が削られていく感覚をやや強く表す。通常、antagonize のように相手を敵に回すところまでは含まない。身体については、化学物質・煙・摩擦などが皮膚や粘膜を刺激し、赤み・かゆみ・炎症などを起こすことを表す。",
+    "en": "Irritate commonly describes annoyance caused by a repeated, persistent, or unpleasant stimulus. It is close to annoy but often suggests that someone's nerves or patience are being gradually worn down. It does not normally imply the lasting hostility suggested by antagonize. In physical contexts, chemicals, smoke, friction, or other substances irritate tissue by causing soreness, itching, redness, or inflammation."
+  },
+  "minimal": {
+    "ja": [
+      "irritate：繰り返される不快な刺激によって、じわじわといら立たせる。",
+      "annoy：人を不快・迷惑に感じさせる最も一般的な語。",
+      "exasperate：繰り返される問題によって我慢の限界までいら立たせる。",
+      "provoke：怒り・反応・行動などを引き起こす。",
+      "antagonize：反感を抱かせ、相手を敵対的・非協力的にする。"
+    ],
+    "en": [
+      "irritate: gradually annoy someone through a persistent or unpleasant stimulus.",
+      "annoy: cause general displeasure or mild anger.",
+      "exasperate: make someone extremely impatient or frustrated after repeated difficulty.",
+      "provoke: cause a particular reaction, especially anger or action.",
+      "antagonize: make someone hostile, resentful, or uncooperative."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 irritare『刺激する、興奮させる、怒らせる』に由来し、過去分詞 irritatus を経て英語に入った。それ以前の形成については明確でない。身体を刺激する意味と、感情を刺激して怒らせる意味の両方が古くからあり、現代英語でも心理的・身体的な二つの用法が並行している。",
+    "en": "Irritate comes from Latin irritare, meaning to excite, provoke, stimulate, or anger, through its past participle irritatus. Its earlier formation is uncertain. Both the physical sense of stimulating tissue and the figurative sense of provoking annoyance have a long history and remain central in modern English."
+  },
+  "synonyms": [
+    {
+      "word": "annoy",
+      "note": {
+        "ja": "人を不快にする、迷惑がらせる一般的な語。irritate より広く、刺激が反復的である必要はない。",
+        "en": "The broad general verb for causing displeasure or inconvenience; the cause need not be persistent or repetitive."
+      }
+    },
+    {
+      "word": "exasperate",
+      "note": {
+        "ja": "繰り返される問題や失敗によって、人を我慢の限界までいら立たせる。",
+        "en": "To make someone extremely impatient or frustrated, especially after repeated problems."
+      }
+    },
+    {
+      "word": "aggravate",
+      "note": {
+        "ja": "問題・傷・症状などを悪化させる。米国の口語では『人をいら立たせる』意味でも使われる。",
+        "en": "To make a problem, injury, or condition worse; informally in American English, it can also mean to annoy."
+      }
+    },
+    {
+      "word": "antagonize",
+      "note": {
+        "ja": "相手の反感を買い、敵対的・非協力的な態度を取らせる。irritate より結果が深刻。",
+        "en": "To cause resentment or hostility, producing a more serious relational consequence than irritate."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "reizen / irritieren / ärgern",
+    "it": "irritare / infastidire",
+    "fr": "irriter / agacer",
+    "es": "irritar / molestar"
+  },
+  "collocations": {
+    "ja": [
+      "irritate someone — 人をいら立たせる",
+      "irritate someone by complaining — 不平を言って人をいら立たせる",
+      "constantly irritate someone — 絶えず人をいら立たせる",
+      "easily irritate someone — 容易に人をいら立たせる",
+      "irritate the skin — 皮膚を刺激する",
+      "irritate the eyes — 目を刺激する",
+      "irritate the throat — 喉を刺激する",
+      "irritate sensitive tissue — 敏感な組織を刺激する",
+      "further irritate the injury — 傷をさらに刺激する",
+      "be visibly irritated — 明らかにいら立っている"
+    ],
+    "en": [
+      "irritate someone",
+      "irritate someone by complaining",
+      "constantly irritate someone",
+      "easily irritate someone",
+      "irritate the skin",
+      "irritate the eyes",
+      "irritate the throat",
+      "irritate sensitive tissue",
+      "further irritate the injury",
+      "be visibly irritated"
+    ]
+  },
+  "example": {
+    "ja": [
+      "His habit of interrupting people irritates everyone in the office. — 人の話を遮る彼の癖は、職場の全員をいら立たせている。",
+      "It irritated me that she refused to answer such a simple question. — 彼女がそれほど簡単な質問への回答を拒んだことに、私はいら立った。",
+      "Try not to irritate the client during the negotiations. — 交渉中に依頼人をいら立たせないようにしてください。",
+      "This cleaning product may irritate sensitive skin. — この洗浄剤は敏感な皮膚を刺激する可能性がある。",
+      "The smoke irritated my eyes and throat. — その煙で目と喉が刺激された。"
+    ],
+    "en": [
+      "His habit of interrupting people irritates everyone in the office.",
+      "It irritated me that she refused to answer such a simple question.",
+      "Try not to irritate the client during the negotiations.",
+      "This cleaning product may irritate sensitive skin.",
+      "The smoke irritated my eyes and throat."
+    ]
+  }
+},
+{
+  "id": "exasperate",
+  "sid": "2026-00903",
+  "word": "exasperate",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "annoyance",
+    "frustration",
+    "impatience",
+    "emotion",
+    "repetition",
+    "criticism",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "exasperate",
+      "third_person": "exasperates",
+      "past": "exasperated",
+      "past_participle": "exasperated",
+      "gerund": "exasperating"
+    },
+    "transitivity": "transitive",
+    "related": {
+      "noun": "exasperation",
+      "adjective_person": "exasperated",
+      "adjective_cause": "exasperating"
+    },
+    "patterns": [
+      "exasperate + person",
+      "exasperate someone by + -ing",
+      "be exasperated by / with / at + noun",
+      "be exasperated with + person",
+      "become / grow increasingly exasperated",
+      "leave someone exasperated"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪɡˈzæspəreɪt/",
+      "uk": "/ɪɡˈzɑːspəreɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人をひどくいら立たせる",
+      "繰り返される問題によって人を我慢の限界までうんざりさせる",
+      "解決しない状況や不合理な行動によって人を憤慨・疲弊させる"
+    ],
+    "en": [
+      "to make someone extremely annoyed or impatient",
+      "to wear down someone's patience through repeated problems or failures",
+      "to cause a mixture of frustration, irritation, and helpless anger"
+    ]
+  },
+  "nuance": {
+    "ja": "exasperate は、単発の不快な出来事よりも、同じ問題・失敗・言い訳・無理解などが繰り返され、相手の忍耐が限界に達する状況に使われやすい。感情は単純な怒りだけでなく、『またなのか』『どうして分かってくれないのか』といういら立ち、うんざり、無力感を含む。人の状態には exasperated、原因となる物事には exasperating を使う。",
+    "en": "Exasperate is especially appropriate when a problem, mistake, excuse, or failure to understand occurs repeatedly until someone's patience is exhausted. The resulting emotion is not simply anger but a mixture of irritation, frustration, weariness, and helplessness: Why is this happening again? Exasperated describes the affected person, while exasperating describes the cause."
+  },
+  "minimal": {
+    "ja": [
+      "exasperate：繰り返される問題によって、我慢の限界までいら立たせる。",
+      "irritate：持続的・不快な刺激によって、じわじわといら立たせる。",
+      "annoy：人を不快・迷惑に感じさせる最も一般的な語。",
+      "frustrate：目標達成を妨げ、失望や無力感を抱かせる。",
+      "infuriate：人を激怒させる。うんざりより強烈な怒りに重点がある。"
+    ],
+    "en": [
+      "exasperate: make someone extremely annoyed after repeated problems or failures.",
+      "irritate: gradually annoy someone through a persistent or unpleasant stimulus.",
+      "annoy: cause general displeasure or mild anger.",
+      "frustrate: prevent progress or success and cause disappointment or helplessness.",
+      "infuriate: make someone extremely angry, emphasizing rage rather than exhausted patience."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 exasperare『粗くする、荒立てる、激怒させる』に由来する。ex-『外へ、完全に』と asper『粗い、険しい、厳しい』から成る。もともとは表面や状態を『粗くする』ことを表し、そこから人の感情を荒立てて、ひどくいら立たせるという意味が発達した。asperity『厳しさ、とげとげしさ』とも語源的に関係する。",
+    "en": "Exasperate comes from Latin exasperare, meaning to make rough, aggravate, or provoke severely. It combines ex-, with an intensive sense, and asper, meaning rough, harsh, or severe. The physical idea of making something rough developed into the figurative sense of making a person's feelings agitated and intensely frustrated. It is related to asperity."
+  },
+  "synonyms": [
+    {
+      "word": "irritate",
+      "note": {
+        "ja": "人をじわじわといら立たせる。exasperate より感情の程度が弱く、忍耐の限界までは含意しない。",
+        "en": "To cause gradual annoyance; weaker than exasperate and not necessarily suggestive of exhausted patience."
+      }
+    },
+    {
+      "word": "frustrate",
+      "note": {
+        "ja": "目標・計画・理解などを妨げ、失望や無力感を抱かせる。怒りより障害に重点がある。",
+        "en": "To block progress, achievement, or understanding and cause disappointment or helplessness."
+      }
+    },
+    {
+      "word": "infuriate",
+      "note": {
+        "ja": "人を激怒させる。exasperate のうんざりした焦燥感より、強烈な怒りに重点がある。",
+        "en": "To cause intense anger, emphasizing rage rather than weary frustration."
+      }
+    },
+    {
+      "word": "aggravate",
+      "note": {
+        "ja": "問題・症状などを悪化させる。米国口語では『人をひどくいら立たせる』意味もある。",
+        "en": "To make a problem or condition worse; informally in American English, it can also mean to annoy severely."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "zur Verzweiflung bringen / entnerven",
+    "it": "esasperare / esasperare la pazienza di",
+    "fr": "exaspérer / excéder",
+    "es": "exasperar / sacar de quicio"
+  },
+  "collocations": {
+    "ja": [
+      "exasperate someone — 人をひどくいら立たせる",
+      "exasperate one's colleagues — 同僚をうんざりさせる",
+      "exasperate one's parents — 親をほとほと困らせる",
+      "repeatedly exasperate someone — 繰り返し人をいら立たせる",
+      "be exasperated by the delay — 遅延にひどくいら立つ",
+      "be exasperated with someone — 人に愛想を尽かすほどいら立つ",
+      "become increasingly exasperated — ますますいら立つ",
+      "an exasperating problem — ひどくいら立たしい問題",
+      "an exasperated response — いら立ち切った返答",
+      "say something in exasperation — いら立ちのあまり何かを言う"
+    ],
+    "en": [
+      "exasperate someone",
+      "exasperate one's colleagues",
+      "exasperate one's parents",
+      "repeatedly exasperate someone",
+      "be exasperated by the delay",
+      "be exasperated with someone",
+      "become increasingly exasperated",
+      "an exasperating problem",
+      "an exasperated response",
+      "say something in exasperation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "His repeated failure to follow the instructions exasperated his colleagues. — 指示に何度も従わない彼の態度は、同僚たちをひどくいら立たせた。",
+      "The constant delays have exasperated both customers and employees. — 度重なる遅延は、顧客と従業員の双方をうんざりさせている。",
+      "She became increasingly exasperated with his evasive answers. — 彼の曖昧に逃げる返答に、彼女はいよいよいら立った。",
+      "What exasperates me most is that the same error keeps occurring. — 私が最もいら立つのは、同じエラーが何度も発生することだ。",
+      "With an exasperated sigh, he explained the procedure once again. — 彼はうんざりしたため息をつき、その手順をもう一度説明した。"
+    ],
+    "en": [
+      "His repeated failure to follow the instructions exasperated his colleagues.",
+      "The constant delays have exasperated both customers and employees.",
+      "She became increasingly exasperated with his evasive answers.",
+      "What exasperates me most is that the same error keeps occurring.",
+      "With an exasperated sigh, he explained the procedure once again."
+    ]
+  }
 }
 ]
