@@ -12008,5 +12008,344 @@
       "The applicant will be expected to communicate with overseas clients."
     ]
   }
+},
+{
+  "id": "be_likely_to",
+  "sid": "2026-00879",
+  "word": "be likely to",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "grammatical construction",
+    "adjective construction",
+    "probability",
+    "prediction",
+    "possibility",
+    "inference",
+    "future",
+    "business",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "grammatical construction",
+    "structure": "be + likely to + base verb",
+    "forms": {
+      "present": "am / is / are likely to do",
+      "past": "was / were likely to do",
+      "future": "will be likely to do",
+      "negative": "am / is / are not likely to do",
+      "comparative": "be more / less likely to do",
+      "perfect": "be likely to have + past participle",
+      "that_clause": "It is likely that + clause"
+    },
+    "patterns": [
+      "subject + be likely to + base verb",
+      "subject + be likely to be + noun / adjective",
+      "subject + be likely to have + past participle",
+      "subject + be more / less likely to + base verb",
+      "subject + be highly / very / quite likely to + base verb",
+      "subject + be unlikely to + base verb",
+      "It is likely that + clause",
+      "How likely is + subject + to + base verb?"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi ˈlaɪkli tə/",
+      "uk": "/bi ˈlaɪkli tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "～する可能性が高い",
+      "おそらく～する",
+      "状況・証拠・傾向から見て、～すると考えられる",
+      "ある結果や出来事が生じやすい"
+    ],
+    "en": [
+      "to have a high probability of doing or experiencing something",
+      "to be expected as a probable result",
+      "to appear probable on the basis of evidence, circumstances, or trends",
+      "to be prone to producing a particular result"
+    ]
+  },
+  "nuance": {
+    "ja": "be likely to は、人・物・出来事が～する確率が比較的高いことを表す。義務・規則・役割上の期待は含まない。He is likely to attend. は『彼は出席する可能性が高い』という予測だが、He is expected to attend. は文脈によって『彼は出席する見込みだ』または『彼は出席することを期待されている』となる。likely は very、highly、quite、more、less などで確率の程度を調整できる。反対は be unlikely to。未来だけでなく、be likely to have done の形で過去についての推測にも使える。",
+    "en": "Be likely to expresses a relatively high probability that a person, thing, or event will behave or develop in a particular way. It does not itself express duty, rules, or role-based expectations. He is likely to attend is a prediction about probability, whereas He is expected to attend can describe either a forecast or an external expectation. The degree of probability can be modified with very, highly, quite, more, or less. The opposite is be unlikely to. The perfect form be likely to have done allows inference about a past event."
+  },
+  "minimal": {
+    "ja": [
+      "He is likely to come.：彼は来る可能性が高い。",
+      "He is expected to come.：彼は来ると予想されている・来ることを期待されている。",
+      "He is supposed to come.：彼は来ることになっている。",
+      "He should come.：彼は来るべきだ・おそらく来るだろう。",
+      "He is unlikely to come.：彼は来そうにない。",
+      "It is likely that he will come.：彼が来る可能性は高い。",
+      "probably：おそらく。副詞として文全体や動詞を修飾する。"
+    ],
+    "en": [
+      "He is likely to come makes a probability judgment.",
+      "He is expected to come can express either a forecast or an external expectation.",
+      "He is supposed to come describes an arrangement or expectation.",
+      "He should come can express advice or a moderate expectation depending on context.",
+      "He is unlikely to come means that his arrival is improbable.",
+      "It is likely that he will come is the equivalent that-clause construction.",
+      "probably is the corresponding adverb."
+    ]
+  },
+  "etymology": {
+    "ja": "likely は中英語 likly に由来し、like『似た、同様の』と形容詞を作る接尾辞 -ly から成立した。like は古英語 gelīc『同じ形をした、似ている』にさかのぼる。もともとは『ある性質に合っている、もっともらしい』という意味を持ち、そこから『起こりそうな、可能性の高い』という確率の意味が発達した。",
+    "en": "Likely comes from Middle English likly, historically formed from like and the adjective-forming suffix -ly. Like goes back to Old English gelīc, meaning similar or having the same form. The sense developed from being suitable, characteristic, or plausible to the modern probability meaning of something being expected to happen."
+  },
+  "synonyms": [
+    {
+      "word": "probably",
+      "note": {
+        "ja": "『おそらく』を意味する副詞。be likely to とほぼ同じ確率判断を、異なる文型で表す。",
+        "en": "An adverb expressing a similar probability judgment in a different sentence structure."
+      }
+    },
+    {
+      "word": "be expected to",
+      "note": {
+        "ja": "～すると予想される、または～することを期待される。予測だけでなく外部からの期待も表せる。",
+        "en": "Can express either a prediction or an external expectation concerning someone's role or duty."
+      }
+    },
+    {
+      "word": "be prone to",
+      "note": {
+        "ja": "好ましくない行動・状態が繰り返し起こりやすい。一般的傾向に重点がある。",
+        "en": "Means to have a recurring tendency, especially toward something undesirable."
+      }
+    },
+    {
+      "word": "be apt to",
+      "note": {
+        "ja": "～しがちである、～する可能性がある。傾向を表し、やや形式的または古風に響くことがある。",
+        "en": "Expresses a tendency or probability and can sound somewhat formal or old-fashioned."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "wahrscheinlich / voraussichtlich",
+    "it": "essere probabile che / probabilmente",
+    "fr": "être susceptible de / probablement",
+    "es": "ser probable que / probablemente"
+  },
+  "collocations": {
+    "ja": [
+      "be likely to happen — 起こる可能性が高い",
+      "be likely to occur — 発生する可能性が高い",
+      "be likely to increase — 増加する可能性が高い",
+      "be likely to succeed — 成功する可能性が高い",
+      "be likely to cause problems — 問題を引き起こす可能性が高い",
+      "be highly likely to — ～する可能性が非常に高い",
+      "be more likely to — ～する可能性がより高い",
+      "be less likely to — ～する可能性がより低い",
+      "be unlikely to change — 変化する可能性が低い",
+      "be likely to have occurred — 発生した可能性が高い"
+    ],
+    "en": [
+      "be likely to happen",
+      "be likely to occur",
+      "be likely to increase",
+      "be likely to succeed",
+      "be likely to cause problems",
+      "be highly likely to",
+      "be more likely to",
+      "be less likely to",
+      "be unlikely to change",
+      "be likely to have occurred"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Prices are likely to rise again next year. — 物価は来年再び上昇する可能性が高い。",
+      "The application is unlikely to be approved without additional evidence. — 追加の証拠がなければ、その申請が認められる可能性は低い。",
+      "People are more likely to remember information that is emotionally significant. — 人は感情的に重要な情報を記憶する可能性がより高い。",
+      "The delay is likely to cause further problems. — その遅延はさらなる問題を引き起こす可能性が高い。",
+      "The error is likely to have occurred during data processing. — そのエラーはデータ処理中に発生した可能性が高い。"
+    ],
+    "en": [
+      "Prices are likely to rise again next year.",
+      "The application is unlikely to be approved without additional evidence.",
+      "People are more likely to remember information that is emotionally significant.",
+      "The delay is likely to cause further problems.",
+      "The error is likely to have occurred during data processing."
+    ]
+  }
+},
+{
+  "id": "be_required_to",
+  "sid": "2026-00880",
+  "word": "be required to",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "grammatical construction",
+    "passive",
+    "obligation",
+    "requirement",
+    "rule",
+    "law",
+    "contract",
+    "procedure",
+    "formal",
+    "business",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "grammatical construction",
+    "structure": "be + required to + base verb",
+    "forms": {
+      "present": "am / is / are required to do",
+      "past": "was / were required to do",
+      "future": "will be required to do",
+      "negative": "am / is / are not required to do",
+      "past_negative": "was / were not required to do",
+      "question": "Am / Is / Are + subject + required to do?",
+      "passive": "be required to be + past participle",
+      "perfect": "be required to have + past participle"
+    },
+    "patterns": [
+      "subject + be required to + base verb",
+      "be legally required to + base verb",
+      "be contractually required to + base verb",
+      "be required by law to + base verb",
+      "be required under + law / rule / agreement to + base verb",
+      "be required to provide / submit / disclose + noun",
+      "be required to be + past participle",
+      "be required to have + past participle"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi rɪˈkwaɪərd tə/",
+      "uk": "/bi rɪˈkwaɪəd tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "規則・法律・契約などにより～することを義務づけられている",
+      "手続・職務・条件として～する必要がある",
+      "権限を持つ者や組織から～することを求められている",
+      "一定の要件を満たすために～しなければならない"
+    ],
+    "en": [
+      "to be formally obliged by a rule, law, contract, or authority to do something",
+      "to have to perform an action as part of a procedure, duty, or condition",
+      "to be instructed or compelled by an authorized person or organization to act",
+      "to need to do something in order to satisfy a specified requirement"
+    ]
+  },
+  "nuance": {
+    "ja": "be required to は、外部の規則・法律・契約・手続・権限などに基づく、明確で形式的な義務を表す。be expected to が役割上の期待や予測も表せるのに対し、be required to は通常、従わなければならない要件が存在することを示す。must より客観的・非個人的に聞こえ、法律・契約・規程・申請手続などで頻繁に使われる。否定形 not be required to は『～する必要がない』という義務の不存在を表し、『～してはいけない』という禁止ではない。",
+    "en": "Be required to expresses a clear and usually formal obligation imposed by an external rule, law, contract, procedure, or authority. Unlike be expected to, which can describe either a forecast or a role-based expectation, be required to normally indicates an actual requirement that must be satisfied. It often sounds more objective and impersonal than must and is especially common in laws, contracts, regulations, and application procedures. The negative not be required to means that there is no obligation; it does not mean that the action is prohibited."
+  },
+  "minimal": {
+    "ja": [
+      "You are required to attend.：あなたには出席義務がある。",
+      "You are expected to attend.：あなたは出席することを期待されている。",
+      "You are supposed to attend.：あなたは出席することになっている。",
+      "You should attend.：あなたは出席したほうがよい。",
+      "You are not required to attend.：あなたには出席義務がない。",
+      "You must not attend.：あなたは出席してはいけない。",
+      "Attendance is required.：出席は必須である。"
+    ],
+    "en": [
+      "You are required to attend means that attendance is obligatory.",
+      "You are expected to attend expresses an expectation that may be less strictly enforceable.",
+      "You are supposed to attend describes an arrangement, rule, or social expectation.",
+      "You should attend normally gives advice.",
+      "You are not required to attend means that attendance is optional.",
+      "You must not attend means that attendance is prohibited.",
+      "Attendance is required is the corresponding impersonal noun construction."
+    ]
+  },
+  "etymology": {
+    "ja": "require は古フランス語 requerre・requerir を経て、ラテン語 requirere『求める、必要とする、捜し求める』にさかのぼる。re-『再び、強く』と quaerere『探す、求める』から成る。require someone to do something『人に～するよう求める』を受動態にすると、someone is required to do something『人は～することを義務づけられている』となる。",
+    "en": "Require came through Old French requerre or requerir from Latin requirere, meaning to seek, ask for, or need. It combines re-, carrying an intensive or repeated sense, with quaerere, meaning to seek or ask. Be required to is the passive counterpart of require someone to do something."
+  },
+  "synonyms": [
+    {
+      "word": "have to",
+      "note": {
+        "ja": "外部事情による必要・義務を表す一般的な表現。be required to より会話的。",
+        "en": "The common conversational expression for an obligation or necessity imposed by circumstances."
+      }
+    },
+    {
+      "word": "must",
+      "note": {
+        "ja": "強い義務・必要を表す法助動詞。規則文にも使われるが、話し手の強い指示にもなり得る。",
+        "en": "A modal verb expressing strong obligation or necessity; it can state a rule or convey the speaker's forceful instruction."
+      }
+    },
+    {
+      "word": "be obliged to",
+      "note": {
+        "ja": "義務・事情・道義上、～せざるを得ない。be required to より個人的・道義的な義務にも使える。",
+        "en": "To be under an obligation or compelled by circumstances, including personal or moral obligations."
+      }
+    },
+    {
+      "word": "be expected to",
+      "note": {
+        "ja": "役割・慣習などに基づいて～することを期待されている。必ずしも強制力のある義務ではない。",
+        "en": "To be under a professional or social expectation that may not amount to a formally enforceable requirement."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verpflichtet sein zu / müssen",
+    "it": "essere tenuto a / dovere",
+    "fr": "être tenu de / devoir",
+    "es": "estar obligado a / tener que"
+  },
+  "collocations": {
+    "ja": [
+      "be legally required to — 法的に～する義務がある",
+      "be contractually required to — 契約上～する義務がある",
+      "be required by law to — 法律により～することを義務づけられている",
+      "be required to attend — 出席を義務づけられている",
+      "be required to comply — 遵守することを義務づけられている",
+      "be required to submit a document — 書類を提出する必要がある",
+      "be required to provide information — 情報を提供する必要がある",
+      "be required to disclose information — 情報を開示する義務がある",
+      "be required to obtain permission — 許可を得る必要がある",
+      "not be required to pay — 支払う必要がない"
+    ],
+    "en": [
+      "be legally required to",
+      "be contractually required to",
+      "be required by law to",
+      "be required to attend",
+      "be required to comply",
+      "be required to submit a document",
+      "be required to provide information",
+      "be required to disclose information",
+      "be required to obtain permission",
+      "not be required to pay"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Applicants are required to submit all supporting documents electronically. — 申請者はすべての添付書類を電子的に提出する必要がある。",
+      "The company is legally required to protect personal information. — その会社は個人情報を保護することを法的に義務づけられている。",
+      "Employees will be required to complete the training before using the system. — 従業員はそのシステムを使用する前に研修を修了する必要がある。",
+      "You are not required to attend the meeting. — あなたにはその会議へ出席する義務はない。",
+      "The application was required to be filed within the specified period. — その申請は所定の期間内に提出される必要があった。"
+    ],
+    "en": [
+      "Applicants are required to submit all supporting documents electronically.",
+      "The company is legally required to protect personal information.",
+      "Employees will be required to complete the training before using the system.",
+      "You are not required to attend the meeting.",
+      "The application was required to be filed within the specified period."
+    ]
+  }
 }
 ]
