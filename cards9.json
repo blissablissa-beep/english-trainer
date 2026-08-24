@@ -1114,5 +1114,166 @@
       "The advertisement is visually eye-catching, but its message is unclear."
     ]
   }
+},
+{
+  "id": "showstopper",
+  "sid": "2026-00908",
+  "word": "showstopper",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "performance",
+    "strong impression",
+    "attraction",
+    "critical problem",
+    "obstacle",
+    "business",
+    "technology",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "showstoppers",
+    "alternative_spelling": "show-stopper",
+    "related": {
+      "adjective": "showstopping"
+    },
+    "patterns": [
+      "a real / absolute showstopper",
+      "the showstopper of + event / collection",
+      "be a showstopper",
+      "a potential / major showstopper",
+      "identify / discover a showstopper",
+      "prove to be a showstopper",
+      "a showstopper bug / issue / problem"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈʃoʊˌstɑːpər/",
+      "uk": "/ˈʃəʊˌstɒpə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "観客を圧倒し、公演が止まるほど喝采を受ける演目・演技",
+      "非常に印象的で、最大の見せ場となる人や物",
+      "計画・開発・取引などを進められなくする重大な問題",
+      "製品公開を阻むほど深刻な不具合・欠陥"
+    ],
+    "en": [
+      "a performance so impressive that prolonged applause interrupts the show",
+      "an exceptionally striking person, object, or feature that becomes the main attraction",
+      "a serious problem capable of stopping a project, negotiation, or process",
+      "a critical defect severe enough to prevent a product from being released"
+    ]
+  },
+  "nuance": {
+    "ja": "showstopper の原義は、舞台上の演技があまりに見事で、観客の長い喝采によって公演が一時停止すること。そこから、服装・デザイン・料理・製品などの『圧倒的な見せ場』を称賛する語になった。一方、ビジネス・技術・交渉では、進行を完全に止める重大な障害という否定的な意味でも使われる。That feature is a showstopper. は称賛になり得るが、That bug is a showstopper. は致命的な問題を意味するため、対象と文脈の確認が必要。",
+    "en": "Showstopper originally referred to a theatrical performance so impressive that prolonged applause temporarily stopped the show. It consequently developed a positive sense for an outstanding dress, design, dish, product, or feature that becomes the main attraction. In business, technology, and negotiations, however, it also means a critical obstacle that stops progress completely. That feature is a showstopper may be praise, whereas That bug is a showstopper identifies a release-blocking problem. The noun and context determine the intended evaluation."
+  },
+  "minimal": {
+    "ja": [
+      "showstopper：圧倒的な見せ場、または進行を止めるほど重大な問題。",
+      "highlight：催し・作品などの中で、特に優れた見どころ。",
+      "eye-catcher：見た目によって即座に人の視線を引くもの。",
+      "centerpiece：展示・企画・構成の中心として置かれる最重要要素。",
+      "deal-breaker：合意・購入・関係などを断念させる受け入れ不能な条件。",
+      "fatal flaw：計画・理論・製品などを根本的に成立不能にする致命的欠陥。"
+    ],
+    "en": [
+      "showstopper: an outstanding attraction or a critical problem that completely stops progress.",
+      "highlight: one of the best or most memorable features of an event or work.",
+      "eye-catcher: something that immediately attracts attention through its appearance.",
+      "centerpiece: the most important element deliberately placed at the center of a display or plan.",
+      "deal-breaker: an unacceptable condition that causes someone to abandon an agreement, purchase, or relationship.",
+      "fatal flaw: a fundamental defect that makes a plan, theory, or product unworkable."
+    ]
+  },
+  "etymology": {
+    "ja": "show と stopper から成る複合語。もともとは舞台用語で、演技や歌が非常にすばらしく、観客の喝采が長く続いて公演を一時停止させるものを指した。そこから『圧倒的に印象的なもの』という肯定的意味が生じ、さらに show を文字どおり停止させるという解釈から、『計画や公開を止める重大問題』という否定的意味も発達した。",
+    "en": "Showstopper is a compound of show and stopper. It originated as a theatrical term for a performance so successful that prolonged applause forced the show to pause. This produced the positive sense of an exceptionally impressive attraction. A more literal interpretation of stopping the show then contributed to the negative sense of a critical problem that prevents a project or release from proceeding."
+  },
+  "synonyms": [
+    {
+      "word": "highlight",
+      "note": {
+        "ja": "催し・旅行・作品などの中で特に優れた部分。showstopper ほど圧倒的である必要はない。",
+        "en": "A particularly enjoyable or memorable part of something, without necessarily being overwhelmingly impressive."
+      }
+    },
+    {
+      "word": "centerpiece",
+      "note": {
+        "ja": "展示・食卓・企画などの中心となる最重要要素。目立つことより構成上の中心性に重点がある。",
+        "en": "The central and most important element of a display, table, or plan, emphasizing structural importance."
+      }
+    },
+    {
+      "word": "deal-breaker",
+      "note": {
+        "ja": "取引・選択・関係などを続けられなくする受け入れ不能な条件。",
+        "en": "An unacceptable condition that causes a person to abandon a deal, choice, or relationship."
+      }
+    },
+    {
+      "word": "blocker",
+      "note": {
+        "ja": "作業・開発などの進行を妨げる問題。技術・プロジェクト管理で使われ、showstopper より範囲が広い。",
+        "en": "A problem preventing work from progressing, especially in technology and project management; broader than showstopper."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Publikumsmagnet / Glanzstück / K.-o.-Kriterium",
+    "it": "pezzo forte / elemento spettacolare / ostacolo decisivo",
+    "fr": "clou du spectacle / élément spectaculaire / obstacle rédhibitoire",
+    "es": "número estrella / elemento espectacular / obstáculo insalvable"
+  },
+  "collocations": {
+    "ja": [
+      "a real showstopper — 本当に圧倒的な見せ場",
+      "an absolute showstopper — 文句なしに圧倒的なもの",
+      "the show's biggest showstopper — 公演最大の見せ場",
+      "a showstopper dress — 圧倒的に目を引くドレス",
+      "a showstopper performance — 観客を圧倒する演技",
+      "a potential showstopper — 進行を止めかねない問題",
+      "a major showstopper — 重大な阻害要因",
+      "a technical showstopper — 技術上の致命的問題",
+      "a showstopper bug — 公開を阻む重大な不具合",
+      "prove to be a showstopper — 結果として重大な障害になる"
+    ],
+    "en": [
+      "a real showstopper",
+      "an absolute showstopper",
+      "the show's biggest showstopper",
+      "a showstopper dress",
+      "a showstopper performance",
+      "a potential showstopper",
+      "a major showstopper",
+      "a technical showstopper",
+      "a showstopper bug",
+      "prove to be a showstopper"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Her final song was the showstopper of the evening. — 彼女の最後の歌は、その晩最大の見せ場だった。",
+      "The red evening gown is an absolute showstopper. — その赤いイブニングドレスは圧倒的に目を引く。",
+      "The panoramic roof is one of the car's visual showstoppers. — パノラマルーフは、その車の視覚的な目玉の一つだ。",
+      "The developers discovered a showstopper bug shortly before release. — 開発者たちは公開直前に、公開を阻む重大な不具合を発見した。",
+      "The unresolved licensing issue could prove to be a showstopper for the project. — 未解決のライセンス問題は、そのプロジェクトを停止させる重大な障害になり得る。"
+    ],
+    "en": [
+      "Her final song was the showstopper of the evening.",
+      "The red evening gown is an absolute showstopper.",
+      "The panoramic roof is one of the car's visual showstoppers.",
+      "The developers discovered a showstopper bug shortly before release.",
+      "The unresolved licensing issue could prove to be a showstopper for the project."
+    ]
+  }
 }
 ]
