@@ -14565,5 +14565,1240 @@
       "You might have warned me that the deadline had changed!"
     ]
   }
+},
+{
+  "id": "perhaps_past_tense",
+  "sid": "2026-00894",
+  "word": "perhaps + past tense",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "adverbial construction",
+    "past",
+    "possibility",
+    "uncertainty",
+    "inference",
+    "sentence adverb",
+    "word order",
+    "grammar",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adverbial construction",
+    "structure": "perhaps + subject + past-tense verb",
+    "forms": {
+      "statement": "Perhaps + subject + past-tense verb",
+      "with_did": "Perhaps + subject + did",
+      "negative": "Perhaps + subject + did not + base verb",
+      "internal_position": "subject + perhaps + past-tense verb",
+      "emphatic_did": "subject + perhaps + did + base verb"
+    },
+    "patterns": [
+      "Perhaps + subject + past-tense verb",
+      "Perhaps + subject + did",
+      "Perhaps + subject + did not + base verb",
+      "subject + perhaps + past-tense verb",
+      "subject + perhaps + did + base verb",
+      "Perhaps it was + noun / adjective",
+      "Perhaps there was / were + noun"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pərˈhæps/",
+      "uk": "/pəˈhæps/"
+    },
+    "with_did": {
+      "us": "/pərˈhæps dɪd/",
+      "uk": "/pəˈhæps dɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ひょっとすると～した",
+      "おそらく～だったのかもしれない",
+      "過去の出来事について、一つの可能性として提示する",
+      "確信はないが、～した可能性があると述べる"
+    ],
+    "en": [
+      "used to present a past event as possible but uncertain",
+      "used to suggest one possible explanation for what happened",
+      "used to say that someone possibly performed a past action",
+      "used to make a tentative statement about a past situation"
+    ]
+  },
+  "nuance": {
+    "ja": "perhaps は文全体にかかる副詞で、過去形の文と組み合わせると『ひょっとすると～した』となる。最も自然で分かりやすい位置は文頭で、Perhaps he forgot. のように使う。Perhaps he did. は、Did he forget? などへの『ひょっとするとそうかもしれない』という返答。He perhaps forgot. も文法的だが、やや形式的で文頭の perhaps より使用範囲が狭い。He perhaps did know. の did は強調の助動詞で、『彼はひょっとすると実際に知っていた』という意味になる。したがって、perhaps did をそのまま連続させるのではなく、通常は Perhaps he did. の語順になる。",
+    "en": "Perhaps is a sentence adverb. With a past-tense clause, it presents a past event as possible but uncertain. Sentence-initial position is usually the clearest and most natural: Perhaps he forgot. Perhaps he did is a short response to a question such as Did he forget? He perhaps forgot is grammatical but somewhat more formal and less generally natural. In He perhaps did know, did is emphatic and means that it is possible that he really did know. Therefore, perhaps did is not normally treated as an inseparable sequence; the usual word order is Perhaps he did."
+  },
+  "minimal": {
+    "ja": [
+      "Perhaps he left.：ひょっとすると彼は帰った。",
+      "Perhaps he did.：ひょっとすると、彼はそうしたのかもしれない。",
+      "Perhaps he didn't know.：ひょっとすると、彼は知らなかったのかもしれない。",
+      "He might have left.：彼は帰ったかもしれない。",
+      "He perhaps left.：彼はひょっとすると帰った。文法的だがやや形式的。",
+      "He perhaps did know.：彼はひょっとすると本当に知っていた。",
+      "Perhaps did he leave.：通常の平叙文では不自然な語順。"
+    ],
+    "en": [
+      "Perhaps he left is the normal sentence-initial construction.",
+      "Perhaps he did is a short answer meaning that the action possibly occurred.",
+      "Perhaps he didn't know presents lack of knowledge as a possible explanation.",
+      "He might have left is a modal-perfect equivalent.",
+      "He perhaps left is grammatical but somewhat more formal.",
+      "He perhaps did know contains emphatic did.",
+      "Perhaps did he leave is not the normal word order in an ordinary statement."
+    ]
+  },
+  "etymology": {
+    "ja": "perhaps は中英語 perhap・perhaps に由来し、per『～によって』と hap『偶然、運、出来事』から成る。hap は古ノルド語 happ『幸運、偶然』と関係する。語末の -s は副詞を作る形として後から加わった。したがって、もともとの発想は『偶然によって』『ひょっとした成り行きで』というもの。",
+    "en": "Perhaps developed from Middle English perhap or perhaps, formed from per, meaning by, and hap, meaning chance, fortune, or occurrence. Hap is related to Old Norse happ, meaning good fortune or chance. The final -s developed as an adverbial ending. The original sense was therefore roughly by chance or as chance may have it."
+  },
+  "synonyms": [
+    {
+      "word": "might have done",
+      "note": {
+        "ja": "過去に～したかもしれない。perhaps＋過去形と近いが、法助動詞を使った一体的な述語構造。",
+        "en": "A modal-perfect construction expressing an uncertain past possibility and often equivalent to perhaps plus a past-tense clause."
+      }
+    },
+    {
+      "word": "may have done",
+      "note": {
+        "ja": "～したかもしれない。might have done とほぼ同義で、わずかに可能性を強く感じさせる場合がある。",
+        "en": "A near-equivalent modal-perfect construction, sometimes perceived as slightly less tentative than might have done."
+      }
+    },
+    {
+      "word": "possibly",
+      "note": {
+        "ja": "ひょっとすると、場合によっては。perhaps より可能性そのものを明示する。",
+        "en": "Explicitly presents something as possible and can occur in several positions in a sentence."
+      }
+    },
+    {
+      "word": "maybe",
+      "note": {
+        "ja": "たぶん、ひょっとすると。perhaps より口語的で、特に文頭でよく使う。",
+        "en": "A more conversational near-equivalent, especially common at the beginning of a sentence."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "vielleicht + Präteritum / Perfekt",
+    "it": "forse + passato prossimo / imperfetto",
+    "fr": "peut-être + passé composé / imparfait",
+    "es": "quizá / tal vez + pretérito"
+  },
+  "collocations": {
+    "ja": [
+      "Perhaps he forgot. — ひょっとすると彼は忘れた",
+      "Perhaps she misunderstood. — ひょっとすると彼女は誤解した",
+      "Perhaps they left early. — ひょっとすると彼らは早く帰った",
+      "Perhaps it happened by accident. — ひょっとすると偶然起きた",
+      "Perhaps I made a mistake. — ひょっとすると私が間違えた",
+      "Perhaps he did. — ひょっとすると彼はそうした",
+      "Perhaps she didn't notice. — ひょっとすると彼女は気づかなかった",
+      "Perhaps it was inevitable. — ひょっとするとそれは避けられなかった",
+      "He perhaps did know. — 彼はひょっとすると本当に知っていた",
+      "Perhaps there was another explanation. — ひょっとすると別の説明があった"
+    ],
+    "en": [
+      "Perhaps he forgot.",
+      "Perhaps she misunderstood.",
+      "Perhaps they left early.",
+      "Perhaps it happened by accident.",
+      "Perhaps I made a mistake.",
+      "Perhaps he did.",
+      "Perhaps she didn't notice.",
+      "Perhaps it was inevitable.",
+      "He perhaps did know.",
+      "Perhaps there was another explanation."
+    ]
+  },
+  "example": {
+    "ja": [
+      "Perhaps she misunderstood the instructions. — ひょっとすると彼女は指示を誤解したのかもしれない。",
+      "Did he delete the file? Perhaps he did. — 彼がファイルを削除したのですか。ひょっとすると、そうかもしれない。",
+      "Perhaps they didn't receive our message. — ひょっとすると、彼らは私たちのメッセージを受け取らなかったのかもしれない。",
+      "Perhaps the error occurred during data transfer. — そのエラーはひょっとするとデータ転送中に発生したのかもしれない。",
+      "He perhaps did know about the change, but there is no evidence. — 彼はひょっとすると実際に変更を知っていたのかもしれないが、証拠はない。"
+    ],
+    "en": [
+      "Perhaps she misunderstood the instructions.",
+      "Did he delete the file? Perhaps he did.",
+      "Perhaps they didn't receive our message.",
+      "Perhaps the error occurred during data transfer.",
+      "He perhaps did know about the change, but there is no evidence."
+    ]
+  }
+},
+{
+  "id": "get_to_do",
+  "sid": "2026-00895",
+  "word": "get to do / got to do",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "verb construction",
+    "opportunity",
+    "permission",
+    "experience",
+    "privilege",
+    "obligation",
+    "ambiguity",
+    "informal",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb construction",
+    "structure": "get + to-infinitive",
+    "forms": {
+      "base": "get to do",
+      "third_person": "gets to do",
+      "past": "got to do",
+      "past_participle_us": "gotten to do",
+      "past_participle_uk": "got to do",
+      "gerund": "getting to do",
+      "obligation": "have / has got to do",
+      "informal_obligation": "got to do / gotta do"
+    },
+    "patterns": [
+      "get to + base verb",
+      "got to + base verb",
+      "get to meet / see / visit / work with + noun",
+      "get to choose / decide / try",
+      "Do I get to + base verb?",
+      "never got to + base verb",
+      "finally got to + base verb",
+      "have / has got to + base verb",
+      "subject + got to / gotta + base verb"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɡet tə ˈduː/; past /ˌɡɑːt tə ˈduː/",
+      "uk": "/ˌɡet tə ˈduː/; past /ˌɡɒt tə ˈduː/"
+    },
+    "reduced": {
+      "us": "/ˌɡɛɾə ˈduː/; got to /ˌɡɑːɾə ˈduː/",
+      "uk": "/ˌɡetə ˈduː/; got to /ˌɡɒtə ˈduː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "～する機会を得る、～することができる",
+      "許可・立場・幸運によって～する経験ができる",
+      "過去形 got to do で、～する機会があった、実際に～できた",
+      "never got to do で、結局～する機会がなかった",
+      "have got to do または口語の got to do で、～しなければならない"
+    ],
+    "en": [
+      "to have the opportunity or privilege to do something",
+      "to be allowed or fortunate enough to experience something",
+      "in the past form, to have had and normally used an opportunity",
+      "in never got to do, to have missed or lacked an opportunity",
+      "in have got to do or informal got to do, to be obliged or need to do something"
+    ]
+  },
+  "nuance": {
+    "ja": "get to do の中心的な意味は、単なる能力ではなく、機会・許可・幸運によって『実際に～できる』こと。I got to meet her. は通常『彼女に会う機会を得て、実際に会った』という肯定的な経験を表す。一方、I've got to meet her. は文脈によって『彼女に会わなければならない』になり得る。また、特にアメリカ英語のくだけた会話では I got to go. が I have got to go. の have を省略した形として『もう行かなければ』を意味する。したがって、機会の got to と義務の (have) got to は、主語・時制・後続動詞・文脈から区別する必要がある。",
+    "en": "The central meaning of get to do is not mere ability but having an opportunity, permission, or privilege and normally actually using it. I got to meet her usually means that I had the opportunity and did meet her. By contrast, I've got to meet her can mean that meeting her is necessary. In very informal speech, especially in American English, I got to go can represent I have got to go and mean that the speaker must leave. The opportunity construction and the obligation construction must therefore be distinguished through tense, auxiliaries, the following verb, and context."
+  },
+  "minimal": {
+    "ja": [
+      "I got to meet her.：彼女に会う機会を得て、実際に会った。",
+      "I could meet her.：彼女に会うことが可能だった。実際に会ったとは限らない。",
+      "I was able to meet her.：実際に彼女に会うことができた。",
+      "I've got to meet her.：彼女に会わなければならない、という意味になり得る。",
+      "I got to go.：非常に口語的には『もう行かなければ』。",
+      "I never got to meet her.：結局、彼女に会う機会がなかった。",
+      "Do I get to choose?：私が選んでもよいのですか。"
+    ],
+    "en": [
+      "I got to meet her normally means that the opportunity occurred and the meeting actually happened.",
+      "I could meet her describes possibility but does not necessarily say that the meeting occurred.",
+      "I was able to meet her states successful realization of the meeting.",
+      "I've got to meet her can express necessity or obligation.",
+      "I got to go can informally mean I have got to go.",
+      "I never got to meet her says that the opportunity never occurred.",
+      "Do I get to choose? asks whether the speaker is allowed to make the choice."
+    ]
+  },
+  "etymology": {
+    "ja": "get は中英語 geten に由来し、古ノルド語 geta『得る、到達する、理解する』と関係する。『ある場所・状態へ到達する』という意味から、『～する段階・機会に至る』という get to do の用法が発達した。have got to は、何かを得て保持しているという完了的な表現から、have to に近い必要・義務の意味を持つようになった。",
+    "en": "Get comes from Middle English geten and is related to Old Norse geta, meaning to obtain, reach, or understand. From the idea of reaching a place or state developed get to do, meaning to reach the point or obtain the opportunity to perform an action. Have got to developed from a perfect construction involving possession into a common expression of necessity or obligation."
+  },
+  "synonyms": [
+    {
+      "word": "have the opportunity to",
+      "note": {
+        "ja": "～する機会がある。get to do より形式的で、実際に機会を利用したかは文脈による。",
+        "en": "A more formal expression for possessing an opportunity, without always confirming that it was used."
+      }
+    },
+    {
+      "word": "have a chance to",
+      "note": {
+        "ja": "～する機会がある。口語的で get to do に近いが、実現したかは必ずしも示さない。",
+        "en": "A common conversational expression for an opportunity that does not necessarily confirm realization."
+      }
+    },
+    {
+      "word": "be able to",
+      "note": {
+        "ja": "～することができる。機会・幸運より、能力や実行可能性に重点がある。",
+        "en": "Emphasizes ability or practical possibility rather than opportunity or privilege."
+      }
+    },
+    {
+      "word": "have got to",
+      "note": {
+        "ja": "～しなければならない。形は似ているが、機会ではなく必要・義務を表す。",
+        "en": "Expresses necessity or obligation and must be distinguished from the opportunity sense of get to."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Gelegenheit haben zu / dürfen; müssen",
+    "it": "avere l'opportunità di / riuscire a; dovere",
+    "fr": "avoir l'occasion de / pouvoir; devoir",
+    "es": "tener la oportunidad de / poder; tener que"
+  },
+  "collocations": {
+    "ja": [
+      "get to meet someone — 人に会う機会を得る",
+      "get to know someone — 人と知り合い、徐々によく知る",
+      "get to see something — 何かを見る機会を得る",
+      "get to visit a place — ある場所を訪れる機会を得る",
+      "get to work with someone — 人と一緒に働く機会を得る",
+      "get to choose — 選ぶことを許される",
+      "finally get to do — ようやく～する機会を得る",
+      "never get to do — ～する機会が一度もない",
+      "got to experience — 経験する機会を得た",
+      "have got to leave — 行かなければならない"
+    ],
+    "en": [
+      "get to meet someone",
+      "get to know someone",
+      "get to see something",
+      "get to visit a place",
+      "get to work with someone",
+      "get to choose",
+      "finally get to do",
+      "never get to do",
+      "got to experience",
+      "have got to leave"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I got to meet several foreign attorneys at the conference. — その会議で複数の外国弁護士に会う機会を得た。",
+      "We finally got to visit the museum before returning to Japan. — 日本へ帰る前に、私たちはようやくその美術館を訪れることができた。",
+      "She never got to explain what had happened. — 彼女は結局、何が起きたのか説明する機会を得られなかった。",
+      "Do the children get to choose which activity they join? — 子どもたちは参加する活動を自分で選べるのですか。",
+      "I've got to finish this report before tomorrow morning. — 明日の朝までにこの報告書を仕上げなければならない。"
+    ],
+    "en": [
+      "I got to meet several foreign attorneys at the conference.",
+      "We finally got to visit the museum before returning to Japan.",
+      "She never got to explain what had happened.",
+      "Do the children get to choose which activity they join?",
+      "I've got to finish this report before tomorrow morning."
+    ]
+  }
+},
+{
+  "id": "have_got_to_do",
+  "sid": "2026-00896",
+  "word": "have got to do",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "modal construction",
+    "semi-modal",
+    "obligation",
+    "necessity",
+    "informal",
+    "spoken English",
+    "gotta",
+    "daily conversation",
+    "grammar",
+    "general"
+  ],
+  "grammar": {
+    "pos": "modal construction",
+    "structure": "have / has + got to + base verb",
+    "forms": {
+      "affirmative": "have / has got to do",
+      "contracted": "'ve / 's got to do",
+      "negative": "have / has not got to do",
+      "negative_contracted": "haven't / hasn't got to do",
+      "question": "Have / Has + subject + got to do?",
+      "informal": "got to do / gotta do",
+      "past": "had to do",
+      "future": "will have to do",
+      "perfect": "have / has had to do",
+      "passive": "have / has got to be + past participle"
+    },
+    "patterns": [
+      "subject + have / has got to + base verb",
+      "subject + 've / 's got to + base verb",
+      "Have / Has + subject + got to + base verb?",
+      "subject + haven't / hasn't got to + base verb",
+      "subject + gotta + base verb",
+      "have got to be + noun / adjective",
+      "have got to be + past participle",
+      "There has got to be + noun",
+      "have got to stop / leave / finish / remember"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/hæv ˈɡɑːt tə ˈduː/",
+      "uk": "/hæv ˈɡɒt tə ˈduː/"
+    },
+    "reduced": {
+      "us": "/həv ˈɡɑːɾə ˈduː/",
+      "uk": "/həv ˈɡɒtə ˈduː/"
+    },
+    "gotta": {
+      "us": "/ˈɡɑːɾə/",
+      "uk": "/ˈɡɒtə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "～しなければならない",
+      "～する必要がある",
+      "強い必要性・義務・切迫した事情を表す",
+      "～であるに違いない、と強く確信する",
+      "命令・強い勧めとして、ぜひ～しなければならない"
+    ],
+    "en": [
+      "to be obliged or required to do something",
+      "to need to do something",
+      "to express a strong or immediate necessity",
+      "to express a strong conclusion that something must be true",
+      "to give an emphatic instruction or recommendation"
+    ]
+  },
+  "nuance": {
+    "ja": "have got to は have to とほぼ同じく義務・必要を表すが、特に会話で多く、目前の事情や話し手が強く感じている必要性を表しやすい。通常は現在の義務について使い、過去には had to、未来には will have to を使う。I've got to leave. は『もう行かなければ』。You've got to try this. は義務というより『これはぜひ試してみて』という強い勧め。You've got to be kidding. は『冗談でしょう』という強い推量・驚きを表す。get to do『～する機会を得る』とは文法的にも意味的にも別の構文。",
+    "en": "Have got to expresses obligation or necessity and is very close to have to. It is especially common in conversation and often conveys an immediate need or a necessity strongly felt by the speaker. It normally refers to present circumstances; had to is used for the past and will have to for the future. I've got to leave means that leaving is now necessary. You've got to try this can function as an emphatic recommendation. You've got to be kidding expresses a strong conclusion combined with surprise. It is distinct from get to do, meaning to have an opportunity."
+  },
+  "minimal": {
+    "ja": [
+      "I've got to leave.：もう行かなければならない。",
+      "I got to leave early.：早く帰ることを許された・早く帰る機会を得た。",
+      "I had to leave.：私は帰らなければならなかった。",
+      "I'll have to leave.：私は帰らなければならなくなる。",
+      "I don't have to leave.：帰る必要はない。",
+      "I must not leave.：帰ってはいけない。",
+      "You've got to be kidding.：冗談でしょう。",
+      "You gotta see this.：これをぜひ見て。非常に口語的。"
+    ],
+    "en": [
+      "I've got to leave expresses a present necessity.",
+      "I got to leave early means that I was allowed or had the opportunity to leave early.",
+      "I had to leave is the normal past form of obligation.",
+      "I'll have to leave is the normal future form.",
+      "I don't have to leave means that leaving is unnecessary.",
+      "I must not leave means that leaving is prohibited.",
+      "You've got to be kidding expresses strong disbelief.",
+      "You gotta see this is a highly informal emphatic recommendation."
+    ]
+  },
+  "etymology": {
+    "ja": "get は中英語 geten、古ノルド語 geta『得る、到達する』に関係する。have got は本来、何かを得た結果として現在それを所有していることを表す完了的な構造だった。そこから have got が have『持っている』と同様に使われ、have got to は have to と同じく『～する必要を持っている』という義務表現へ発達した。gotta は got to の発音を反映した非公式な表記。",
+    "en": "Get comes from Middle English geten and is related to Old Norse geta, meaning to obtain or reach. Have got originally described a present state resulting from obtaining something and came to function like possessive have. Have got to then developed as an expression of necessity parallel to have to. Gotta is an informal spelling representing the reduced pronunciation of got to."
+  },
+  "synonyms": [
+    {
+      "word": "have to",
+      "note": {
+        "ja": "外部事情による必要・義務を表す最も一般的な表現。時制を自由に変えられる。",
+        "en": "The general expression for obligation or necessity and can be used freely across different tenses."
+      }
+    },
+    {
+      "word": "must",
+      "note": {
+        "ja": "強い義務・命令、または論理的確信を表す。have got to より形式的な場面にも使える。",
+        "en": "Expresses strong obligation, an authoritative instruction, or a logical conclusion and is suitable in more formal contexts."
+      }
+    },
+    {
+      "word": "need to",
+      "note": {
+        "ja": "必要性を表す。義務より、目的達成のために必要であることに重点がある。",
+        "en": "Emphasizes practical necessity rather than a rule or externally imposed obligation."
+      }
+    },
+    {
+      "word": "be required to",
+      "note": {
+        "ja": "規則・法律・契約などによって正式に～することを義務づけられている。",
+        "en": "Expresses a formal obligation imposed by a rule, law, contract, procedure, or authority."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "müssen",
+    "it": "dovere",
+    "fr": "devoir / il faut que",
+    "es": "tener que / deber"
+  },
+  "collocations": {
+    "ja": [
+      "have got to go — 行かなければならない",
+      "have got to leave — 出発しなければならない",
+      "have got to finish — 終えなければならない",
+      "have got to remember — 覚えておかなければならない",
+      "have got to stop — やめなければならない",
+      "have got to find a way — 方法を見つけなければならない",
+      "have got to be careful — 注意しなければならない",
+      "have got to be kidding — 冗談を言っているに違いない",
+      "There has got to be a solution. — 解決策があるはずだ",
+      "You've got to try this. — これはぜひ試してみて"
+    ],
+    "en": [
+      "have got to go",
+      "have got to leave",
+      "have got to finish",
+      "have got to remember",
+      "have got to stop",
+      "have got to find a way",
+      "have got to be careful",
+      "have got to be kidding",
+      "There has got to be a solution.",
+      "You've got to try this."
+    ]
+  },
+  "example": {
+    "ja": [
+      "I've got to finish this report before tomorrow morning. — 明日の朝までにこの報告書を仕上げなければならない。",
+      "She's got to submit the application by Friday. — 彼女は金曜日までに申請書を提出しなければならない。",
+      "You've got to be more careful with confidential information. — 機密情報の扱いにはもっと注意しなければならない。",
+      "There has got to be another explanation. — 別の説明があるに違いない。",
+      "You've got to try this dish. It's excellent. — この料理はぜひ食べてみて。とてもおいしいよ。"
+    ],
+    "en": [
+      "I've got to finish this report before tomorrow morning.",
+      "She's got to submit the application by Friday.",
+      "You've got to be more careful with confidential information.",
+      "There has got to be another explanation.",
+      "You've got to try this dish. It's excellent."
+    ]
+  }
+},
+{
+  "id": "have_not_got_to_do",
+  "sid": "2026-00897",
+  "word": "haven't got to do",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "modal construction",
+    "semi-modal",
+    "negative",
+    "lack of obligation",
+    "necessity",
+    "British English",
+    "informal",
+    "spoken English",
+    "grammar",
+    "general"
+  ],
+  "grammar": {
+    "pos": "modal construction",
+    "structure": "have / has + not + got to + base verb",
+    "forms": {
+      "first_person": "I / we haven't got to do",
+      "second_person": "you haven't got to do",
+      "third_person_plural": "they haven't got to do",
+      "third_person_singular": "he / she hasn't got to do",
+      "uncontracted": "have / has not got to do",
+      "question": "Have / Has + subject + got to do?",
+      "past": "did not have to do",
+      "future": "will not have to do",
+      "alternative": "do / does not have to do"
+    },
+    "patterns": [
+      "subject + haven't / hasn't got to + base verb",
+      "You haven't got to + base verb",
+      "You haven't got to do anything.",
+      "subject + don't / doesn't have to + base verb",
+      "subject + needn't + base verb",
+      "Have / Has + subject + got to + base verb?"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌhævənt ɡɑːt tə ˈduː/",
+      "uk": "/ˌhævənt ɡɒt tə ˈduː/"
+    },
+    "third_person": {
+      "us": "/ˌhæzənt ɡɑːt tə ˈduː/",
+      "uk": "/ˌhæzənt ɡɒt tə ˈduː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "～する必要はない",
+      "～する義務はない",
+      "～しなくてもよい",
+      "ある行為が任意であり、行わなくても問題ないことを表す"
+    ],
+    "en": [
+      "used to say that there is no need to do something",
+      "used to say that someone is under no obligation to act",
+      "used to give someone permission not to do something",
+      "used to indicate that an action is optional rather than required"
+    ]
+  },
+  "nuance": {
+    "ja": "haven't got to は、have got to『～しなければならない』の否定形で、『～する必要はない』という義務の不存在を表す。通常は英国英語の会話で使われ、don't have to や needn't と近い。You haven't got to come. は『来なくてもよい』であり、『来てはいけない』ではない。米国英語ではこの意味には通常 don't have to を使う。また、haven't got to の並びは文脈によって get to do『～する機会を得る』の現在完了に見える可能性があるため、国際的に明確な表現としては don't have to が安全。",
+    "en": "Haven't got to is the negative form of have got to and expresses absence of necessity or obligation. It is used mainly in conversational British English and is close to don't have to and needn't. You haven't got to come means that coming is optional; it does not mean that coming is prohibited. American English normally prefers don't have to for this meaning. The sequence can also be potentially confused with perfect forms related to get to do, so don't have to is usually clearer in international English."
+  },
+  "minimal": {
+    "ja": [
+      "You haven't got to attend.：出席しなくてもよい。主に英国英語。",
+      "You don't have to attend.：出席しなくてもよい。最も一般的。",
+      "You needn't attend.：出席する必要はない。英国英語的でやや形式的。",
+      "You mustn't attend.：出席してはいけない。",
+      "You aren't supposed to attend.：出席してはいけないことになっている、または出席を期待されていない。",
+      "You aren't required to attend.：出席義務はない。",
+      "You haven't had a chance to attend.：出席する機会がまだなかった。"
+    ],
+    "en": [
+      "You haven't got to attend means that attendance is unnecessary, especially in British English.",
+      "You don't have to attend is the most generally applicable expression.",
+      "You needn't attend is a concise alternative, especially in British English.",
+      "You mustn't attend means that attendance is prohibited.",
+      "You aren't supposed to attend can express prohibition or lack of expectation depending on context.",
+      "You aren't required to attend formally states that there is no obligation.",
+      "You haven't had a chance to attend concerns lack of opportunity, not lack of obligation."
+    ]
+  },
+  "etymology": {
+    "ja": "have got to は、have got が have『持っている』と同様に使われるようになり、そこから have to に近い必要・義務の表現へ発達した。not を加えた haven't got to は、文字どおりには『～する必要を持っていない』という構造で、義務が存在しないことを表す。got は get の過去分詞で、get は古ノルド語 geta『得る、到達する』と関係する。",
+    "en": "Have got came to function similarly to possessive have, and have got to developed into an expression of necessity parallel to have to. Adding not produces haven't got to, literally indicating that the necessity is not present. Got is the past participle of get, which is related to Old Norse geta, meaning to obtain or reach."
+  },
+  "synonyms": [
+    {
+      "word": "don't have to",
+      "note": {
+        "ja": "～する必要はない。英米を問わず使える最も一般的で明確な表現。",
+        "en": "The most common and widely applicable expression for absence of necessity."
+      }
+    },
+    {
+      "word": "needn't",
+      "note": {
+        "ja": "～する必要はない。特に英国英語で使われ、don't have to より簡潔でやや形式的。",
+        "en": "A concise alternative meaning that something is unnecessary, especially common in British English."
+      }
+    },
+    {
+      "word": "be not required to",
+      "note": {
+        "ja": "規則・法律・手続上、～する義務はない。形式的で明確。",
+        "en": "Formally states that no obligation is imposed by a rule, law, contract, or procedure."
+      }
+    },
+    {
+      "word": "be under no obligation to",
+      "note": {
+        "ja": "～する義務を一切負っていない。契約・法律・公式説明などで使われる。",
+        "en": "A formal and emphatic expression stating that no obligation exists."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "nicht müssen / nicht zu brauchen",
+    "it": "non dovere / non essere necessario",
+    "fr": "ne pas être obligé de / ne pas avoir besoin de",
+    "es": "no tener que / no ser necesario"
+  },
+  "collocations": {
+    "ja": [
+      "haven't got to go — 行く必要はない",
+      "haven't got to leave yet — まだ出発する必要はない",
+      "haven't got to pay — 支払う必要はない",
+      "haven't got to attend — 出席する必要はない",
+      "haven't got to decide now — 今決める必要はない",
+      "haven't got to do anything — 何もする必要はない",
+      "haven't got to explain — 説明する必要はない",
+      "hasn't got to work tomorrow — 明日は働く必要がない",
+      "haven't got to worry — 心配する必要はない",
+      "haven't got to bring anything — 何も持ってくる必要はない"
+    ],
+    "en": [
+      "haven't got to go",
+      "haven't got to leave yet",
+      "haven't got to pay",
+      "haven't got to attend",
+      "haven't got to decide now",
+      "haven't got to do anything",
+      "haven't got to explain",
+      "hasn't got to work tomorrow",
+      "haven't got to worry",
+      "haven't got to bring anything"
+    ]
+  },
+  "example": {
+    "ja": [
+      "You haven't got to attend the meeting if you're busy. — 忙しければ、その会議に出席する必要はありません。",
+      "We haven't got to decide today. — 私たちは今日決める必要はない。",
+      "She hasn't got to work tomorrow. — 彼女は明日働く必要がない。",
+      "You haven't got to bring anything to the party. — パーティーには何も持ってくる必要はありません。",
+      "I haven't got to leave yet, so we can continue talking. — まだ帰る必要はないので、話を続けられます。"
+    ],
+    "en": [
+      "You haven't got to attend the meeting if you're busy.",
+      "We haven't got to decide today.",
+      "She hasn't got to work tomorrow.",
+      "You haven't got to bring anything to the party.",
+      "I haven't got to leave yet, so we can continue talking."
+    ]
+  }
+},
+{
+  "id": "do_not_have_to",
+  "sid": "2026-00898",
+  "word": "don't have to",
+  "level": "A2",
+  "freq": "very often",
+  "tags": [
+    "modal construction",
+    "semi-modal",
+    "negative",
+    "lack of obligation",
+    "necessity",
+    "permission",
+    "daily conversation",
+    "grammar",
+    "general"
+  ],
+  "grammar": {
+    "pos": "modal construction",
+    "structure": "do / does not + have to + base verb",
+    "forms": {
+      "first_person": "I / we don't have to do",
+      "second_person": "you don't have to do",
+      "third_person_plural": "they don't have to do",
+      "third_person_singular": "he / she doesn't have to do",
+      "past": "didn't have to do",
+      "future": "won't have to do",
+      "present_perfect": "haven't / hasn't had to do",
+      "question": "Do / Does + subject + have to do?"
+    },
+    "patterns": [
+      "subject + don't / doesn't have to + base verb",
+      "subject + didn't have to + base verb",
+      "subject + won't have to + base verb",
+      "subject + haven't / hasn't had to + base verb",
+      "You don't have to + base verb if you don't want to.",
+      "You don't have to do anything.",
+      "You don't have to be + noun / adjective",
+      "You don't have to be + past participle"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌdoʊnt ˈhæf tə/",
+      "uk": "/ˌdəʊnt ˈhæf tə/"
+    },
+    "third_person": {
+      "us": "/ˌdʌzənt ˈhæf tə/",
+      "uk": "/ˌdʌzənt ˈhæf tə/"
+    },
+    "past": {
+      "us": "/ˌdɪdənt ˈhæf tə/",
+      "uk": "/ˌdɪdənt ˈhæf tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "～する必要はない",
+      "～する義務はない",
+      "～しなくてもよい",
+      "ある行為が任意であり、行うかどうかを選べる",
+      "ある条件を満たすために～することは必須ではない"
+    ],
+    "en": [
+      "used to say that there is no need to do something",
+      "used to say that someone is under no obligation to act",
+      "used to give someone the option not to do something",
+      "used to indicate that an action is optional",
+      "used to say that something is not necessary for satisfying a condition"
+    ]
+  },
+  "nuance": {
+    "ja": "don't have to は義務・必要性の否定であり、『しなくても問題ない』という選択の余地を表す。You don't have to attend. は、出席してもよいが出席義務はないという意味。禁止を表す You mustn't attend.『出席してはいけない』とは正反対になり得る。英米を問わず広く使われ、英国英語の haven't got to や needn't より国際的に分かりやすい。過去形 didn't have to は『する必要がなかった』で、実際にしたかどうかはそれだけでは確定しない。",
+    "en": "Don't have to negates necessity or obligation and leaves the person free to choose. You don't have to attend means that attendance is optional; attending is still permitted. This differs fundamentally from You mustn't attend, which prohibits attendance. The construction is common across varieties of English and is generally clearer internationally than haven't got to or needn't. The past form didn't have to means that an action was unnecessary but does not by itself conclusively state whether the action occurred."
+  },
+  "minimal": {
+    "ja": [
+      "You don't have to attend.：出席しなくてもよい。",
+      "You mustn't attend.：出席してはいけない。",
+      "You haven't got to attend.：出席する必要はない。主に英国英語。",
+      "You needn't attend.：出席する必要はない。簡潔で英国英語的。",
+      "You aren't required to attend.：出席義務はない。形式的。",
+      "I didn't have to go.：行く必要はなかった。実際に行ったかは文だけでは不明。",
+      "I needn't have gone.：行く必要はなかったのに、実際には行った。"
+    ],
+    "en": [
+      "You don't have to attend means that attendance is optional.",
+      "You mustn't attend means that attendance is prohibited.",
+      "You haven't got to attend is a mainly British equivalent.",
+      "You needn't attend is a concise alternative, particularly in British English.",
+      "You aren't required to attend is a formal equivalent.",
+      "I didn't have to go states that going was unnecessary but does not conclusively say whether I went.",
+      "I needn't have gone states that I did go and that doing so was unnecessary."
+    ]
+  },
+  "etymology": {
+    "ja": "have は古英語 habban『持つ、所有する』に由来する。have to は、もともと『～すべきものを持っている』という所有・必要の発想から、義務を表す準法助動詞へ発達した。現代英語では一般動詞のように do を使って否定し、do not have to が『～する必要を持たない』、すなわち義務が存在しないことを表す。",
+    "en": "Have comes from Old English habban, meaning to possess or hold. Have to developed from the idea of possessing something that needed to be done into a semi-modal expression of obligation. Because have to behaves like an ordinary lexical verb in modern English, its negative is formed with do, producing do not have to and the meaning that no obligation exists."
+  },
+  "synonyms": [
+    {
+      "word": "haven't got to",
+      "note": {
+        "ja": "～する必要はない。主に英国英語の会話で使われる。",
+        "en": "A mainly British conversational equivalent expressing absence of necessity."
+      }
+    },
+    {
+      "word": "needn't",
+      "note": {
+        "ja": "～する必要はない。簡潔だが、特に米国英語では don't have to ほど一般的でない。",
+        "en": "A concise modal alternative, though less common than don't have to particularly in American English."
+      }
+    },
+    {
+      "word": "be not required to",
+      "note": {
+        "ja": "規則・法律・手続上、～する義務はない。形式的で客観的。",
+        "en": "A formal and objective expression stating that no rule, law, or procedure imposes the obligation."
+      }
+    },
+    {
+      "word": "be under no obligation to",
+      "note": {
+        "ja": "～する義務を一切負っていない。法律・契約・公式説明などで使われる。",
+        "en": "A formal and emphatic expression stating that no obligation exists."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "nicht müssen / nicht zu brauchen",
+    "it": "non dovere / non essere necessario",
+    "fr": "ne pas avoir besoin de / ne pas être obligé de",
+    "es": "no tener que / no ser necesario"
+  },
+  "collocations": {
+    "ja": [
+      "don't have to go — 行く必要はない",
+      "don't have to attend — 出席する必要はない",
+      "don't have to pay — 支払う必要はない",
+      "don't have to decide now — 今決める必要はない",
+      "don't have to do anything — 何もする必要はない",
+      "don't have to explain — 説明する必要はない",
+      "don't have to worry — 心配する必要はない",
+      "don't have to bring anything — 何も持ってくる必要はない",
+      "doesn't have to be perfect — 完璧である必要はない",
+      "won't have to wait — 待つ必要はないだろう"
+    ],
+    "en": [
+      "don't have to go",
+      "don't have to attend",
+      "don't have to pay",
+      "don't have to decide now",
+      "don't have to do anything",
+      "don't have to explain",
+      "don't have to worry",
+      "don't have to bring anything",
+      "doesn't have to be perfect",
+      "won't have to wait"
+    ]
+  },
+  "example": {
+    "ja": [
+      "You don't have to attend the meeting if you're busy. — 忙しければ、その会議に出席する必要はありません。",
+      "Applicants don't have to submit the original document at this stage. — この段階では、申請者は原本を提出する必要はない。",
+      "The translation doesn't have to be perfect. — その翻訳は完璧である必要はない。",
+      "We didn't have to pay an additional fee. — 私たちは追加料金を支払う必要がなかった。",
+      "You won't have to enter the information again. — その情報をもう一度入力する必要はありません。"
+    ],
+    "en": [
+      "You don't have to attend the meeting if you're busy.",
+      "Applicants don't have to submit the original document at this stage.",
+      "The translation doesn't have to be perfect.",
+      "We didn't have to pay an additional fee.",
+      "You won't have to enter the information again."
+    ]
+  }
+},
+{
+  "id": "must_not_do",
+  "sid": "2026-00899",
+  "word": "must not do",
+  "level": "A2",
+  "freq": "very often",
+  "tags": [
+    "modal construction",
+    "negative",
+    "prohibition",
+    "rule",
+    "warning",
+    "deduction",
+    "strong inference",
+    "formal",
+    "grammar",
+    "general"
+  ],
+  "grammar": {
+    "pos": "modal construction",
+    "structure": "must + not + base verb",
+    "forms": {
+      "affirmative": "must do",
+      "negative": "must not do",
+      "negative_contracted": "mustn't do",
+      "question": "Must + subject + base verb?",
+      "passive": "must not be + past participle",
+      "continuous_inference": "must not be + -ing",
+      "perfect_inference": "must not have + past participle"
+    },
+    "patterns": [
+      "subject + must not + base verb",
+      "subject + mustn't + base verb",
+      "must not enter / use / disclose / exceed",
+      "must not be + noun / adjective",
+      "must not be + past participle",
+      "must not be + -ing",
+      "must not have + past participle"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌmʌst ˈnɑːt/",
+      "uk": "/ˌmʌst ˈnɒt/"
+    },
+    "contracted": {
+      "us": "/ˈmʌsənt/",
+      "uk": "/ˈmʌsənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "絶対に～してはいけない",
+      "規則・法律・命令などにより～することを禁止されている",
+      "危険や重大な結果を避けるため、～してはならない",
+      "状況から判断して、～ではないに違いない",
+      "否定的な事実について強い確信を表す"
+    ],
+    "en": [
+      "used to say that an action is strictly prohibited",
+      "used to impose a rule, command, or formal restriction",
+      "used to warn someone not to do something dangerous or harmful",
+      "used to make a strong negative deduction",
+      "used to express confidence that a negative proposition is true"
+    ]
+  },
+  "nuance": {
+    "ja": "must not の中心的な用法は強い禁止で、You must not enter. は『絶対に入ってはいけない』という意味。don't have to enter『入る必要はない』とは全く異なる。規則・契約・安全上の警告では、短縮しない must not が特に多い。一方、He must not know about the change. のように、人の状態・認識について使うと『彼はその変更を知らないに違いない』という強い推量になる。どちらの意味かは、主語・動詞・文脈によって判断する。",
+    "en": "The central use of must not is strong prohibition. You must not enter means that entry is forbidden and differs fundamentally from You don't have to enter, which means that entry is optional. The uncontracted form must not is especially common in formal rules, contracts, and safety warnings. With states, knowledge, or ongoing situations, it can instead express a strong negative deduction: He must not know about the change means that the speaker confidently concludes that he does not know. Context and the type of verb normally distinguish the two uses."
+  },
+  "minimal": {
+    "ja": [
+      "You must not enter.：入ってはいけない。",
+      "You don't have to enter.：入る必要はない。",
+      "You aren't allowed to enter.：入ることを許可されていない。",
+      "You shouldn't enter.：入らないほうがよい。",
+      "He must not know.：彼は知らないに違いない。",
+      "He can't know.：彼が知っているはずがない。",
+      "He must not have known.：彼は知らなかったに違いない。"
+    ],
+    "en": [
+      "You must not enter means that entry is prohibited.",
+      "You don't have to enter means that entry is optional.",
+      "You aren't allowed to enter explicitly describes lack of permission.",
+      "You shouldn't enter normally gives strong advice rather than an absolute prohibition.",
+      "He must not know expresses a strong negative inference.",
+      "He can't know expresses the impossibility of his knowing.",
+      "He must not have known makes a strong deduction about a past state."
+    ]
+  },
+  "etymology": {
+    "ja": "must は古英語 mōste に由来し、これは mōtan『許されている、機会がある、～しなければならない』の過去形だった。許可・可能性を表す語から、必要性・義務を表す法助動詞へと意味が変化した。これに not を加えると、義務の不存在ではなく、通常は強い禁止または否定的な推量を表す。",
+    "en": "Must comes from Old English mōste, originally the past form of mōtan, a modal verb associated with permission, opportunity, and necessity. Its meaning developed toward strong necessity and obligation. Adding not normally creates prohibition or a strong negative deduction rather than merely removing the obligation."
+  },
+  "synonyms": [
+    {
+      "word": "be not allowed to",
+      "note": {
+        "ja": "～することを許可されていない。禁止を明示する一般的な表現。",
+        "en": "A general expression explicitly stating that permission to act has not been granted."
+      }
+    },
+    {
+      "word": "be prohibited from",
+      "note": {
+        "ja": "規則・法律などにより～することを禁止されている。形式的。",
+        "en": "A formal expression for prohibition imposed by a law, rule, or authority."
+      }
+    },
+    {
+      "word": "may not",
+      "note": {
+        "ja": "文脈により『～してはいけない』または『～しないかもしれない』となる。must not より曖昧。",
+        "en": "Can express either lack of permission or uncertain negative possibility and is therefore more ambiguous."
+      }
+    },
+    {
+      "word": "should not",
+      "note": {
+        "ja": "～しないほうがよい、～すべきではない。通常は助言・道義的判断で、must not より弱い。",
+        "en": "Usually expresses advice or moral judgment and is less absolute than must not."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "nicht dürfen / keinesfalls dürfen",
+    "it": "non dovere / essere vietato",
+    "fr": "ne pas devoir / il est interdit de",
+    "es": "no deber / estar prohibido"
+  },
+  "collocations": {
+    "ja": [
+      "must not enter — 入ってはならない",
+      "must not touch — 触れてはならない",
+      "must not disclose — 開示してはならない",
+      "must not exceed — 超過してはならない",
+      "must not be used — 使用してはならない",
+      "must not be shared — 共有してはならない",
+      "must not be confused with — ～と混同してはならない",
+      "must not forget — 決して忘れてはならない",
+      "must not know — 知らないに違いない",
+      "must not have noticed — 気づかなかったに違いない"
+    ],
+    "en": [
+      "must not enter",
+      "must not touch",
+      "must not disclose",
+      "must not exceed",
+      "must not be used",
+      "must not be shared",
+      "must not be confused with",
+      "must not forget",
+      "must not know",
+      "must not have noticed"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Visitors must not enter this area without permission. — 訪問者は許可なくこの区域へ立ち入ってはならない。",
+      "Confidential information must not be disclosed to third parties. — 機密情報を第三者へ開示してはならない。",
+      "The maximum dosage must not be exceeded. — 最大用量を超えてはならない。",
+      "He must not know that the schedule has changed. — 彼は予定が変更されたことを知らないに違いない。",
+      "She must not have noticed the error. — 彼女はその誤りに気づかなかったに違いない。"
+    ],
+    "en": [
+      "Visitors must not enter this area without permission.",
+      "Confidential information must not be disclosed to third parties.",
+      "The maximum dosage must not be exceeded.",
+      "He must not know that the schedule has changed.",
+      "She must not have noticed the error."
+    ]
+  }
+},
+{
+  "id": "have_to_do",
+  "sid": "2026-00900",
+  "word": "have to do",
+  "level": "A2",
+  "freq": "very often",
+  "tags": [
+    "modal construction",
+    "semi-modal",
+    "obligation",
+    "necessity",
+    "requirement",
+    "circumstance",
+    "deduction",
+    "daily conversation",
+    "grammar",
+    "general"
+  ],
+  "grammar": {
+    "pos": "modal construction",
+    "structure": "have / has to + base verb",
+    "forms": {
+      "present": "have / has to do",
+      "past": "had to do",
+      "future": "will have to do",
+      "present_perfect": "have / has had to do",
+      "past_perfect": "had had to do",
+      "negative": "do / does not have to do",
+      "past_negative": "did not have to do",
+      "question": "Do / Does + subject + have to do?",
+      "past_question": "Did + subject + have to do?",
+      "passive": "have / has to be + past participle"
+    },
+    "patterns": [
+      "subject + have / has to + base verb",
+      "subject + had to + base verb",
+      "subject + will have to + base verb",
+      "subject + have / has had to + base verb",
+      "subject + don't / doesn't have to + base verb",
+      "Do / Does + subject + have to + base verb?",
+      "have to be + noun / adjective",
+      "have to be + past participle",
+      "There has to be + noun"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈhæf tə ˈduː/",
+      "uk": "/ˈhæf tə ˈduː/"
+    },
+    "third_person": {
+      "us": "/ˈhæs tə ˈduː/",
+      "uk": "/ˈhæs tə ˈduː/"
+    },
+    "past": {
+      "us": "/ˈhæd tə ˈduː/",
+      "uk": "/ˈhæd tə ˈduː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "～しなければならない",
+      "事情・規則・必要性によって～する必要がある",
+      "目的を達成するために～することが不可欠である",
+      "状況から判断して～であるに違いない",
+      "強い勧めとして、ぜひ～すべきである"
+    ],
+    "en": [
+      "to be obliged or required to do something",
+      "to need to act because of circumstances, rules, or practical necessity",
+      "to need to do something in order to achieve a result",
+      "to express a strong conclusion that something must be true",
+      "to make an emphatic recommendation"
+    ]
+  },
+  "nuance": {
+    "ja": "have to は、義務・必要を表す最も一般的で中立的な準法助動詞。伝統的には、must が話し手自身の判断・命令、have to が規則や事情など外部から生じる義務を表すと説明されるが、現代英語では両者の境界は絶対的ではない。have to の大きな利点は、had to、will have to、have had to のように自由に時制を変えられること。It has to be true. のように、証拠から導かれる強い確信も表せる。You have to try this. は義務ではなく『これはぜひ試して』という強い勧めになる。",
+    "en": "Have to is the most general and neutral semi-modal expression of obligation or necessity. It is traditionally contrasted with must by saying that must reflects the speaker's authority or judgment, while have to arises from external rules or circumstances, but this distinction is not absolute in modern English. A major advantage of have to is its ability to form past, future, and perfect tenses: had to, will have to, and have had to. It can also express a strong logical conclusion, as in It has to be true, or an emphatic recommendation, as in You have to try this."
+  },
+  "minimal": {
+    "ja": [
+      "I have to leave.：帰らなければならない。",
+      "I've got to leave.：もう帰らなければ。より会話的・切迫的。",
+      "I must leave.：帰らなければならない。強い判断・形式的な響き。",
+      "I had to leave.：帰らなければならなかった。",
+      "I'll have to leave.：帰らなければならなくなる。",
+      "I don't have to leave.：帰る必要はない。",
+      "I mustn't leave.：帰ってはいけない。",
+      "It has to be true.：それは真実に違いない。"
+    ],
+    "en": [
+      "I have to leave expresses a general present necessity.",
+      "I've got to leave is more conversational and can sound more immediate.",
+      "I must leave can sound stronger, more personal, or more formal.",
+      "I had to leave is the normal past form.",
+      "I'll have to leave is the normal future form.",
+      "I don't have to leave means that leaving is unnecessary.",
+      "I mustn't leave means that leaving is prohibited.",
+      "It has to be true expresses a strong conclusion."
+    ]
+  },
+  "etymology": {
+    "ja": "have は古英語 habban『持つ、所有する』に由来するゲルマン系の語。have to は、もともと『行うべき事柄を持っている』という所有の発想から、必要・義務を表す構文へ発達した。法助動詞 must とは異なり、have が一般動詞として活用するため、過去形 had to や未来形 will have to、do を使った疑問・否定を作れる。",
+    "en": "Have comes from the Old English Germanic verb habban, meaning to possess or hold. Have to developed from the idea of having something that needed to be done into a construction expressing necessity or obligation. Unlike the modal must, have behaves as an ordinary verb, allowing forms such as had to and will have to and questions and negatives formed with do."
+  },
+  "synonyms": [
+    {
+      "word": "have got to",
+      "note": {
+        "ja": "～しなければならない。主に現在の義務を表す会話的な表現で、切迫感を伴いやすい。",
+        "en": "A conversational expression of mainly present necessity, often carrying a stronger sense of immediacy."
+      }
+    },
+    {
+      "word": "must",
+      "note": {
+        "ja": "強い義務・命令・論理的確信を表す。過去形・未来形を独自には持たない。",
+        "en": "Expresses strong obligation, authoritative instruction, or logical certainty and lacks independent past and future forms."
+      }
+    },
+    {
+      "word": "need to",
+      "note": {
+        "ja": "～する必要がある。規則上の義務より、目的達成のための実際的必要性に重点がある。",
+        "en": "Emphasizes practical necessity for achieving a purpose rather than a formally imposed obligation."
+      }
+    },
+    {
+      "word": "be required to",
+      "note": {
+        "ja": "法律・規則・契約・手続などにより正式に～することを義務づけられている。",
+        "en": "Expresses a formal obligation imposed by a law, rule, contract, procedure, or authority."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "müssen",
+    "it": "dovere",
+    "fr": "devoir / être obligé de",
+    "es": "tener que / deber"
+  },
+  "collocations": {
+    "ja": [
+      "have to go — 行かなければならない",
+      "have to leave — 出発しなければならない",
+      "have to work — 働かなければならない",
+      "have to decide — 決めなければならない",
+      "have to submit a document — 書類を提出しなければならない",
+      "have to meet a deadline — 期限を守らなければならない",
+      "have to be careful — 注意しなければならない",
+      "have to be approved — 承認されなければならない",
+      "There has to be a reason. — 理由があるに違いない",
+      "You have to try this. — これはぜひ試してみて"
+    ],
+    "en": [
+      "have to go",
+      "have to leave",
+      "have to work",
+      "have to decide",
+      "have to submit a document",
+      "have to meet a deadline",
+      "have to be careful",
+      "have to be approved",
+      "There has to be a reason.",
+      "You have to try this."
+    ]
+  },
+  "example": {
+    "ja": [
+      "I have to finish this report by tomorrow morning. — 明日の朝までにこの報告書を仕上げなければならない。",
+      "Applicants have to submit the form electronically. — 申請者はその書式を電子的に提出しなければならない。",
+      "We had to postpone the meeting because of the storm. — 嵐のため、私たちは会議を延期しなければならなかった。",
+      "The company will have to revise its policy. — その会社は方針を改定しなければならないだろう。",
+      "There has to be a reasonable explanation for the discrepancy. — その不一致には合理的な説明があるに違いない。"
+    ],
+    "en": [
+      "I have to finish this report by tomorrow morning.",
+      "Applicants have to submit the form electronically.",
+      "We had to postpone the meeting because of the storm.",
+      "The company will have to revise its policy.",
+      "There has to be a reasonable explanation for the discrepancy."
+    ]
+  }
 }
 ]
