@@ -11313,5 +11313,700 @@
       "The application should have been filed before the deadline."
     ]
   }
+},
+{
+  "id": "ought_to_have_done",
+  "sid": "2026-00875",
+  "word": "ought to have done",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "modal construction",
+    "modal perfect",
+    "past",
+    "regret",
+    "criticism",
+    "obligation",
+    "expectation",
+    "formal",
+    "grammar",
+    "general"
+  ],
+  "grammar": {
+    "pos": "modal construction",
+    "structure": "ought to + have + past participle",
+    "forms": {
+      "affirmative": "ought to have done",
+      "negative": "ought not to have done",
+      "negative_contracted": "oughtn't to have done",
+      "passive": "ought to have been done",
+      "continuous": "ought to have been doing"
+    },
+    "patterns": [
+      "subject + ought to have + past participle",
+      "subject + ought not to have + past participle",
+      "ought to have been + past participle",
+      "ought to have been + -ing",
+      "ought already to have + past participle",
+      "ought to have + past participle + by now"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɔːt tə həv ˈdʌn/",
+      "uk": "/ˌɔːt tə həv ˈdʌn/"
+    },
+    "reduced": {
+      "us": "/ˌɔːtəv ˈdʌn/",
+      "uk": "/ˌɔːtəv ˈdʌn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "～すべきだったのに、実際にはしなかった",
+      "～しないほうがよかったのに、実際にはしてしまった",
+      "過去の行動について後悔・非難・道義的判断を表す",
+      "当然の成り行きなら、もう～しているはずである",
+      "過去のある時点までに～していることが期待されていた"
+    ],
+    "en": [
+      "used to say that a past action was right, advisable, or morally expected but did not happen",
+      "used in the negative to say that an action happened but was wrong or inadvisable",
+      "used to express regret, criticism, or moral judgment about a past action",
+      "used to say that something was reasonably expected to have happened",
+      "used to describe something expected to have been completed by a particular time"
+    ]
+  },
+  "nuance": {
+    "ja": "ought to have＋過去分詞は、過去に実行するのが正しかった、望ましかった、または当然だったにもかかわらず、実際には実行されなかったことを表す。否定形 ought not to have done は、実際に行ったことが間違いだったという意味。should have done とほぼ置き換えられるが、ought to はやや形式的で使用頻度が低く、道義・責任・客観的な当然性を多少強く感じさせることがある。また、The train ought to have arrived by now. のように、予想どおりならすでに完了しているはずだという意味でも使われる。",
+    "en": "Ought to have followed by a past participle describes a past action that was right, advisable, morally expected, or reasonably necessary but did not occur. The negative ought not to have done normally implies that the action did occur and was wrong. It is usually interchangeable with should have done, but it is somewhat more formal and less frequent and may place slightly greater emphasis on duty, moral responsibility, or objective expectation. It can also express an expectation about a completed event, as in The train ought to have arrived by now."
+  },
+  "minimal": {
+    "ja": [
+      "I ought to have gone.：行くべきだったのに、行かなかった。",
+      "I ought not to have gone.：行くべきではなかったのに、行ってしまった。",
+      "You ought to have apologized.：あなたは謝罪すべきだった。",
+      "It ought to have arrived by now.：それはもう到着しているはずだ。",
+      "It ought to have been done earlier.：それはもっと早く行われるべきだった。",
+      "should have done：ほぼ同義で、より一般的。",
+      "was supposed to：予定・規則・他者からの期待として～することになっていた。"
+    ],
+    "en": [
+      "I ought to have gone implies that going was advisable but I did not go.",
+      "I ought not to have gone implies that I went and that doing so was wrong.",
+      "You ought to have apologized expresses criticism or moral judgment.",
+      "It ought to have arrived by now expresses a reasonable expectation.",
+      "It ought to have been done earlier is the passive construction.",
+      "should have done is nearly equivalent and much more common.",
+      "was supposed to emphasizes an arrangement, rule, or external expectation."
+    ]
+  },
+  "etymology": {
+    "ja": "ought は古英語 āhte に由来し、もともとは owe『負っている』に相当する動詞の過去形だった。『負っていた』という意味から、『義務がある』『当然～すべきである』という法助動詞的な意味が発達した。現代英語では現在・過去のどちらについても ought to を用いる。これに完了形 have＋過去分詞が続くことで、過去に果たされなかった義務や、すでに実現しているはずの事柄を表す。",
+    "en": "Ought comes from Old English āhte, originally the past form of the verb corresponding to modern owe. The idea of owing something developed into the modal meaning of duty, advisability, or what is reasonably expected. In modern English, ought to can refer to both present and past contexts. When followed by the perfect have plus a past participle, it expresses an unfulfilled past duty or an event expected to have occurred."
+  },
+  "synonyms": [
+    {
+      "word": "should have done",
+      "note": {
+        "ja": "ほぼ同義の最も一般的な表現。日常会話では通常こちらが選ばれる。",
+        "en": "The common near-equivalent and the form normally preferred in everyday conversation."
+      }
+    },
+    {
+      "word": "was supposed to",
+      "note": {
+        "ja": "予定・規則・約束・周囲からの期待として、～することになっていた。",
+        "en": "Describes an arrangement, rule, promise, or expectation imposed by circumstances or other people."
+      }
+    },
+    {
+      "word": "was obliged to",
+      "note": {
+        "ja": "義務として～しなければならなかった。実際に行ったかどうかは文脈による。",
+        "en": "Describes a past obligation; whether the action was actually performed depends on the context."
+      }
+    },
+    {
+      "word": "wish one had done",
+      "note": {
+        "ja": "～していればよかったという、実現しなかった過去への明確な後悔を表す。",
+        "en": "Expresses explicit regret that a past action did not occur."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "hätte tun sollen / dürfte bereits getan haben",
+    "it": "avrebbe dovuto fare / dovrebbe aver fatto",
+    "fr": "aurait dû faire / devrait avoir fait",
+    "es": "debería haber hecho / debe de haber hecho"
+  },
+  "collocations": {
+    "ja": [
+      "ought to have known — 知っているべきだった",
+      "ought to have realized — 気づくべきだった",
+      "ought to have told someone — 人に伝えるべきだった",
+      "ought to have apologized — 謝罪すべきだった",
+      "ought to have taken responsibility — 責任を取るべきだった",
+      "ought to have been more careful — もっと注意すべきだった",
+      "ought not to have said that — そんなことを言うべきではなかった",
+      "ought never to have happened — 決して起こるべきではなかった",
+      "ought to have arrived by now — もう到着しているはずだ",
+      "ought to have been completed earlier — もっと早く完了しているべきだった"
+    ],
+    "en": [
+      "ought to have known",
+      "ought to have realized",
+      "ought to have told someone",
+      "ought to have apologized",
+      "ought to have taken responsibility",
+      "ought to have been more careful",
+      "ought not to have said that",
+      "ought never to have happened",
+      "ought to have arrived by now",
+      "ought to have been completed earlier"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I ought to have checked the figures before submitting the report. — 報告書を提出する前に、数字を確認すべきだった。",
+      "You ought to have told her the truth. — あなたは彼女に真実を話すべきだった。",
+      "They ought not to have ignored the warning. — 彼らはその警告を無視すべきではなかった。",
+      "The package ought to have arrived by now. — その荷物はもう到着しているはずだ。",
+      "The problem ought to have been reported immediately. — その問題は直ちに報告されるべきだった。"
+    ],
+    "en": [
+      "I ought to have checked the figures before submitting the report.",
+      "You ought to have told her the truth.",
+      "They ought not to have ignored the warning.",
+      "The package ought to have arrived by now.",
+      "The problem ought to have been reported immediately."
+    ]
+  }
+},
+{
+  "id": "be_supposed_to",
+  "sid": "2026-00876",
+  "word": "be supposed to",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "modal construction",
+    "semi-modal",
+    "expectation",
+    "obligation",
+    "rule",
+    "arrangement",
+    "intention",
+    "hearsay",
+    "grammar",
+    "general"
+  ],
+  "grammar": {
+    "pos": "modal construction",
+    "structure": "be + supposed to + base verb",
+    "forms": {
+      "present": "am / is / are supposed to do",
+      "past": "was / were supposed to do",
+      "negative": "am / is / are not supposed to do",
+      "past_negative": "was / were not supposed to do",
+      "question": "Am / Is / Are + subject + supposed to do?",
+      "past_question": "Was / Were + subject + supposed to do?",
+      "passive": "be supposed to be + past participle"
+    },
+    "patterns": [
+      "subject + am / is / are supposed to + base verb",
+      "subject + was / were supposed to + base verb",
+      "subject + am / is / are not supposed to + base verb",
+      "subject + was / were not supposed to + base verb",
+      "What am / is / are + subject + supposed to do?",
+      "be supposed to be + noun / adjective",
+      "be supposed to have + past participle",
+      "be supposed to be + past participle"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi səˈpoʊzd tə/",
+      "uk": "/bi səˈpəʊzd tə/"
+    },
+    "reduced": {
+      "us": "/bi səˈpoʊstə/",
+      "uk": "/bi səˈpəʊstə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "予定・約束として～することになっている",
+      "規則・役割・周囲の期待として～すべきである",
+      "～してよいことになっている、または～してはいけないことになっている",
+      "一般に～だと考えられている、～だと言われている",
+      "過去に～する予定だったが、実際には実現しなかった",
+      "自分が何をすることを求められているのかを表す"
+    ],
+    "en": [
+      "used to say that something is planned, arranged, or expected",
+      "used to describe a duty, rule, role, or expectation",
+      "used in the negative to say that something is not allowed or advisable",
+      "used to report what people generally believe or say",
+      "used in the past to describe an expected action that often did not happen",
+      "used to ask what someone is expected or required to do"
+    ]
+  },
+  "nuance": {
+    "ja": "be supposed to は、話し手個人の助言よりも、予定・規則・約束・役割・社会的期待など、外部から定められたことを表しやすい。You're supposed to wear a helmet. なら『ヘルメットを着用する決まりだ』。You're not supposed to park here. は単なる助言ではなく『ここは駐車禁止になっている』に近い。was supposed to は『～する予定だった』を表し、I was supposed to call her. のような文では、実際には電話しなかったことを暗示する場合が多いが、文脈によっては過去の予定を中立的に報告するだけの場合もある。また、He is supposed to be rich. のように『～だと言われている』という伝聞・一般的認識も表す。",
+    "en": "Be supposed to commonly expresses an arrangement, rule, promise, assigned role, or social expectation rather than the speaker's personal advice. You're supposed to wear a helmet suggests an external rule or expectation. The negative You're not supposed to park here often means that parking is prohibited. In the past, was supposed to describes a plan or expectation and frequently implies that it was not fulfilled, although context may show that the speaker is merely reporting the original arrangement. The construction can also report general belief or hearsay, as in He is supposed to be rich."
+  },
+  "minimal": {
+    "ja": [
+      "I am supposed to call her.：彼女に電話することになっている。",
+      "I was supposed to call her.：彼女に電話する予定だった。",
+      "You are not supposed to do that.：それをしてはいけないことになっている。",
+      "What am I supposed to do?：私はどうすればよいのですか。",
+      "He is supposed to be an expert.：彼は専門家だと言われている。",
+      "should：話し手の助言・判断として～すべきだ。",
+      "should have done：過去に～すべきだったのに、しなかった。",
+      "be expected to：～することを期待・予想されている。やや形式的。"
+    ],
+    "en": [
+      "I am supposed to call her means that calling her is expected or arranged.",
+      "I was supposed to call her describes a past arrangement and often implies that I did not call.",
+      "You are not supposed to do that means that doing it is against a rule or expectation.",
+      "What am I supposed to do? asks what action is expected or possible.",
+      "He is supposed to be an expert reports a general belief or claim.",
+      "should commonly expresses the speaker's advice or judgment.",
+      "should have done criticizes or regrets an unrealized past action.",
+      "be expected to is a somewhat more formal expression of expectation."
+    ]
+  },
+  "etymology": {
+    "ja": "suppose は古フランス語 supposer を経て、ラテン語 supponere『下に置く、代わりに置く、仮定する』にさかのぼる。sub-『下に』と ponere『置く』から成る。be supposed はもともと『～であると仮定・想定されている』という受動表現だった。そこから、『そのように期待されている』『そうすることになっている』という予定・義務・規則の意味が発達した。",
+    "en": "Suppose came through Old French supposer and is ultimately related to Latin supponere, meaning to place under, substitute, or assume. It combines sub-, meaning under, with ponere, meaning to place. Be supposed originally meant to be assumed or believed to be something. From this developed the meanings of being expected, arranged, required, or intended to do something."
+  },
+  "synonyms": [
+    {
+      "word": "be expected to",
+      "note": {
+        "ja": "～することを期待・予想されている。be supposed to より形式的で、予測や職務上の期待にも使われる。",
+        "en": "To be expected or predicted to do something; more formal and common in professional expectations and forecasts."
+      }
+    },
+    {
+      "word": "should",
+      "note": {
+        "ja": "話し手の助言・判断として～すべきだ。be supposed to より主観的な場合が多い。",
+        "en": "Commonly expresses the speaker's advice or judgment and is often more subjective than be supposed to."
+      }
+    },
+    {
+      "word": "be meant to",
+      "note": {
+        "ja": "～する意図・目的・運命である。予定を表す場合は be supposed to と近い。",
+        "en": "To be intended or designed to do something; close to be supposed to when referring to plans or intended functions."
+      }
+    },
+    {
+      "word": "be required to",
+      "note": {
+        "ja": "規則・法律・契約などにより～することを明確に義務づけられている。",
+        "en": "To be formally obliged by a rule, law, contract, or authority to do something."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sollen / angeblich sein",
+    "it": "dovere / essere tenuto a / si dice che",
+    "fr": "être censé / devoir",
+    "es": "se supone que / deber"
+  },
+  "collocations": {
+    "ja": [
+      "be supposed to meet someone — 人と会うことになっている",
+      "be supposed to start at nine — 9時に始まることになっている",
+      "be supposed to finish something today — 今日何かを終えることになっている",
+      "be supposed to follow the rules — 規則に従うことになっている",
+      "be supposed to wear a uniform — 制服を着用することになっている",
+      "not be supposed to know — 知っていることになっていない",
+      "not be supposed to park here — ここに駐車してはいけないことになっている",
+      "be supposed to be easy — 簡単だと言われている",
+      "be supposed to have happened — 起こったと考えられている",
+      "What am I supposed to do? — 私はどうすればよいのか"
+    ],
+    "en": [
+      "be supposed to meet someone",
+      "be supposed to start at nine",
+      "be supposed to finish something today",
+      "be supposed to follow the rules",
+      "be supposed to wear a uniform",
+      "not be supposed to know",
+      "not be supposed to park here",
+      "be supposed to be easy",
+      "be supposed to have happened",
+      "What am I supposed to do?"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I'm supposed to meet the client at three. — 私は3時に依頼人と会うことになっている。",
+      "We were supposed to leave yesterday, but the flight was canceled. — 私たちは昨日出発する予定だったが、便が欠航した。",
+      "You're not supposed to use your phone in this area. — この区域では携帯電話を使用してはいけないことになっている。",
+      "What am I supposed to do with these documents? — この書類をどうすればよいのですか。",
+      "The new system is supposed to be much faster. — 新しいシステムは、はるかに速いと言われている。"
+    ],
+    "en": [
+      "I'm supposed to meet the client at three.",
+      "We were supposed to leave yesterday, but the flight was canceled.",
+      "You're not supposed to use your phone in this area.",
+      "What am I supposed to do with these documents?",
+      "The new system is supposed to be much faster."
+    ]
+  }
+},
+{
+  "id": "be_expected_to_have_done",
+  "sid": "2026-00877",
+  "word": "be expected to have done",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "grammatical construction",
+    "passive",
+    "perfect infinitive",
+    "past",
+    "expectation",
+    "deadline",
+    "prediction",
+    "formal",
+    "business",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "grammatical construction",
+    "structure": "be + expected + to have + past participle",
+    "forms": {
+      "present": "am / is / are expected to have done",
+      "past": "was / were expected to have done",
+      "negative": "am / is / are not expected to have done",
+      "past_negative": "was / were not expected to have done",
+      "question": "Is / Are + subject + expected to have done?",
+      "past_question": "Was / Were + subject + expected to have done?",
+      "passive_completion": "be expected to have been + past participle"
+    },
+    "patterns": [
+      "subject + is / are expected to have + past participle",
+      "subject + was / were expected to have + past participle",
+      "be expected to have done + by + time",
+      "be expected to have already + past participle",
+      "be expected to have been + past participle",
+      "It was expected that + clause"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi ɪkˌspektɪd tə həv ˈdʌn/",
+      "uk": "/bi ɪkˌspektɪd tə həv ˈdʌn/"
+    },
+    "past_form": {
+      "us": "/wəz ɪkˌspektɪd tə həv ˈdʌn/",
+      "uk": "/wəz ɪkˌspektɪd tə həv ˈdʌn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ある時点までに～を完了していることを期待されている",
+      "過去のある時点までに～を完了しているはずだった",
+      "予定・職務・契約などにより、すでに～を済ませていることが求められていた",
+      "予測によれば、ある行為がすでに完了していると考えられる"
+    ],
+    "en": [
+      "to be expected to have completed an action by a particular time",
+      "to have been under an expectation that an action would already be complete",
+      "to have been required by a schedule, duty, or agreement to complete something",
+      "to be predicted to have completed an action already"
+    ]
+  },
+  "nuance": {
+    "ja": "be expected to have done は、expect の受動形に完了不定詞 to have＋過去分詞を続けた構文。期待や予測の基準時より前に、行為が完了していることを表す。was expected to have done は『過去のある時点までに～を済ませているはずだった』という意味で、予定・職務・契約上の期待を客観的かつ形式的に述べる。文脈上、実際には完了しなかったことを示唆することが多いが、この構文自体は未完了を必ず意味するわけではない。should have done が話し手の後悔・非難・判断を表しやすいのに対し、was expected to have done は外部からの期待や当時の予測に焦点を置く。",
+    "en": "Be expected to have done combines the passive form of expect with the perfect infinitive to have plus a past participle. It places the completed action before the time of the expectation or prediction. Was expected to have done formally describes an action that was expected, scheduled, or required to be complete by a particular past time. Context often suggests that the expectation was not fulfilled, but the construction itself does not logically establish noncompletion. Unlike should have done, which often conveys the speaker's regret, criticism, or judgment, was expected to have done focuses on an external expectation or an earlier prediction."
+  },
+  "minimal": {
+    "ja": [
+      "He was expected to finish by Friday.：彼は金曜日までに終えることを期待されていた。",
+      "He was expected to have finished by Friday.：彼は金曜日までにすでに終えているはずだった。",
+      "She is expected to have arrived by now.：彼女はもう到着していると予想されている。",
+      "The work was expected to have been completed.：その作業は完了しているはずだった。",
+      "was supposed to do：～する予定・決まりだった。",
+      "should have done：～すべきだったのに。後悔・非難を表しやすい。",
+      "was believed to have done：～したと考えられていた。事実認定・伝聞に重点。"
+    ],
+    "en": [
+      "He was expected to finish by Friday focuses on the deadline for finishing.",
+      "He was expected to have finished by Friday views the work as already complete by Friday.",
+      "She is expected to have arrived by now expresses a prediction about completed arrival.",
+      "The work was expected to have been completed contains a passive perfect infinitive.",
+      "was supposed to do describes a past plan, arrangement, or rule.",
+      "should have done often expresses regret or criticism.",
+      "was believed to have done emphasizes belief or reported information rather than expectation."
+    ]
+  },
+  "etymology": {
+    "ja": "expect はラテン語 exspectare『待ち望む、期待する』に由来する。ex-『外へ』と spectare『見る』から成り、文字どおりには『外を見ながら待つ』という発想を持つ。英語では expect＋目的語＋to不定詞の受動形として be expected to が成立する。これに完了不定詞 to have＋過去分詞が加わると、期待の基準時より前に完了している行為を表す。",
+    "en": "Expect comes from Latin exspectare, meaning to await or look out for, formed from ex-, meaning out, and spectare, meaning to look. English be expected to developed as the passive counterpart of expect someone to do something. When followed by the perfect infinitive to have plus a past participle, it describes an action completed before the relevant time of expectation."
+  },
+  "synonyms": [
+    {
+      "word": "was supposed to have done",
+      "note": {
+        "ja": "～を済ませていることになっていた。予定・義務・取り決めを表し、より会話的。",
+        "en": "Describes an action that was arranged, required, or intended to be complete; more conversational."
+      }
+    },
+    {
+      "word": "should have done",
+      "note": {
+        "ja": "～すべきだったのに、実際にはしなかった。話し手の後悔・批判・判断を表しやすい。",
+        "en": "Says that an action was advisable but usually did not happen, often conveying regret or criticism."
+      }
+    },
+    {
+      "word": "was required to have done",
+      "note": {
+        "ja": "規則・契約・命令などにより、ある時点までに～を完了する義務があった。",
+        "en": "Expresses a formal requirement that an action be completed by a particular time."
+      }
+    },
+    {
+      "word": "was believed to have done",
+      "note": {
+        "ja": "～したと考えられていた。期待よりも、事実についての認識・推定に重点がある。",
+        "en": "Describes a belief or inference about a completed action rather than an expectation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "es wurde erwartet, dass jemand etwas getan hatte / hätte getan haben sollen",
+    "it": "ci si aspettava che avesse fatto",
+    "fr": "on s'attendait à ce qu'il ait fait / était censé avoir fait",
+    "es": "se esperaba que hubiera hecho / debía haber hecho"
+  },
+  "collocations": {
+    "ja": [
+      "be expected to have finished — 終えていることを期待される",
+      "be expected to have arrived — 到着していると予想される",
+      "be expected to have completed the work — 作業を完了していることを期待される",
+      "be expected to have submitted the report — 報告書を提出済みであることを期待される",
+      "be expected to have met the deadline — 期限を守っていることを期待される",
+      "be expected to have already left — すでに出発していると予想される",
+      "be expected to have done so by Friday — 金曜日までにそうしていることを期待される",
+      "was originally expected to have done — 当初は～を完了していると期待されていた",
+      "was widely expected to have won — 勝っていたと広く予想されていた",
+      "be expected to have been completed — 完了していると予想・期待される"
+    ],
+    "en": [
+      "be expected to have finished",
+      "be expected to have arrived",
+      "be expected to have completed the work",
+      "be expected to have submitted the report",
+      "be expected to have met the deadline",
+      "be expected to have already left",
+      "be expected to have done so by Friday",
+      "was originally expected to have done",
+      "was widely expected to have won",
+      "be expected to have been completed"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The contractor was expected to have completed the work by Friday. — 請負業者は金曜日までに工事を完了しているはずだった。",
+      "She is expected to have arrived in Berlin by now. — 彼女はもうベルリンに到着していると予想されている。",
+      "All applicants were expected to have submitted the required documents before the interview. — すべての応募者は面接前に必要書類を提出済みであることを求められていた。",
+      "The system was expected to have processed the data overnight. — そのシステムは夜間にデータ処理を終えているはずだった。",
+      "The report was expected to have been completed before the meeting. — その報告書は会議前に完成しているはずだった。"
+    ],
+    "en": [
+      "The contractor was expected to have completed the work by Friday.",
+      "She is expected to have arrived in Berlin by now.",
+      "All applicants were expected to have submitted the required documents before the interview.",
+      "The system was expected to have processed the data overnight.",
+      "The report was expected to have been completed before the meeting."
+    ]
+  }
+},
+{
+  "id": "be_expected_to",
+  "sid": "2026-00878",
+  "word": "be expected to",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "grammatical construction",
+    "passive",
+    "expectation",
+    "prediction",
+    "requirement",
+    "role",
+    "future",
+    "formal",
+    "business",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "grammatical construction",
+    "structure": "be + expected to + base verb",
+    "forms": {
+      "present": "am / is / are expected to do",
+      "past": "was / were expected to do",
+      "future": "will be expected to do",
+      "negative": "am / is / are not expected to do",
+      "past_negative": "was / were not expected to do",
+      "question": "Am / Is / Are + subject + expected to do?",
+      "passive": "be expected to be + past participle",
+      "perfect": "be expected to have + past participle"
+    },
+    "patterns": [
+      "subject + am / is / are expected to + base verb",
+      "subject + was / were expected to + base verb",
+      "subject + will be expected to + base verb",
+      "be expected to increase / decrease / arrive",
+      "be expected to perform / comply / complete",
+      "be expected to be + noun / adjective",
+      "be expected to be + past participle",
+      "be expected to have + past participle"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi ɪkˈspektɪd tə/",
+      "uk": "/bi ɪkˈspektɪd tə/"
+    },
+    "reduced": {
+      "us": "/bi ɪkˈspektɪɾ tə/",
+      "uk": "/bi ɪkˈspektɪd tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "予測によれば～する見込みである",
+      "～することが予想されている",
+      "役割・職務・立場上、～することを期待されている",
+      "一定の基準として～することを求められている",
+      "将来または特定の時点に～することになっている"
+    ],
+    "en": [
+      "to be predicted or considered likely to do something",
+      "to be anticipated to happen or develop in a particular way",
+      "to be required or relied upon to perform a particular role",
+      "to be under an expectation to meet a standard or fulfill a duty",
+      "to be anticipated to act at a future or specified time"
+    ]
+  },
+  "nuance": {
+    "ja": "be expected to には、主に『予測』と『役割上の期待』の二つの用法がある。Prices are expected to rise. なら客観的な予測として『物価は上昇する見込みだ』。Employees are expected to follow the rules. なら『従業員は規則に従うことを求められている』という職務・社会的期待を表す。be supposed to より形式的で、報道・業務・学術文書などに多い。重要なのは否定形で、You are not expected to attend. は通常『出席する必要はない・出席するとは予想されていない』であり、You are not supposed to attend. のような『出席してはいけない』とは異なる。",
+    "en": "Be expected to has two central uses: prediction and role-based expectation. Prices are expected to rise presents a forecast. Employees are expected to follow the rules describes a professional or social expectation. It is generally more formal than be supposed to and is especially common in news, business, and academic writing. The negative is important: You are not expected to attend normally means that attendance is unnecessary or not anticipated, whereas You are not supposed to attend can mean that attendance is not permitted."
+  },
+  "minimal": {
+    "ja": [
+      "Prices are expected to rise.：物価は上昇する見込みだ。",
+      "Employees are expected to comply.：従業員は従うことを求められている。",
+      "She is expected to arrive at six.：彼女は6時に到着する見込みだ。",
+      "You are not expected to attend.：あなたは出席しなくてもよい・出席するとは予想されていない。",
+      "You are not supposed to attend.：あなたは出席してはいけないことになっている。",
+      "be likely to：～する可能性が高い。純粋な可能性・確率に重点。",
+      "be required to：規則・法律などによって明確に義務づけられている。"
+    ],
+    "en": [
+      "Prices are expected to rise expresses a forecast.",
+      "Employees are expected to comply expresses a professional expectation.",
+      "She is expected to arrive at six predicts her arrival.",
+      "You are not expected to attend normally means that attendance is unnecessary or not anticipated.",
+      "You are not supposed to attend can mean that attendance is not permitted.",
+      "be likely to focuses on probability.",
+      "be required to expresses an explicit rule or obligation."
+    ]
+  },
+  "etymology": {
+    "ja": "expect はラテン語 exspectare『待ち望む、期待する』に由来する。ex-『外へ』と spectare『見る』から成り、もとは『外を見ながら何かを待つ』という発想を持つ。expect someone to do something『人が～することを期待する』を受動態にすると、someone is expected to do something『人は～することを期待されている』となる。",
+    "en": "Expect comes from Latin exspectare, meaning to await or look out for, formed from ex-, meaning out, and spectare, meaning to look. The underlying image is that of looking out for something that is anticipated. Be expected to is the passive counterpart of expect someone to do something."
+  },
+  "synonyms": [
+    {
+      "word": "be supposed to",
+      "note": {
+        "ja": "予定・規則・役割として～することになっている。be expected to より会話的で、否定形はしばしば禁止を表す。",
+        "en": "Describes an arrangement, rule, or expected role; more conversational, and its negative often expresses prohibition."
+      }
+    },
+    {
+      "word": "be likely to",
+      "note": {
+        "ja": "～する可能性が高い。人からの期待や義務ではなく、確率に重点がある。",
+        "en": "Means that something will probably happen, emphasizing probability rather than duty or external expectation."
+      }
+    },
+    {
+      "word": "be required to",
+      "note": {
+        "ja": "規則・法律・契約などによって～することを明確に義務づけられている。",
+        "en": "Means to be formally obliged by a rule, law, contract, or authority."
+      }
+    },
+    {
+      "word": "be anticipated to",
+      "note": {
+        "ja": "～すると予想されている。予測を表す形式的な表現で、非人間の主語に多い。",
+        "en": "A formal prediction expression, commonly used with developments, results, and nonhuman subjects."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "voraussichtlich / es wird erwartet, dass / von jemandem wird erwartet, dass",
+    "it": "si prevede che / ci si aspetta che / essere tenuto a",
+    "fr": "être censé / devoir / on s'attend à ce que",
+    "es": "se espera que / estar previsto que"
+  },
+  "collocations": {
+    "ja": [
+      "be expected to increase — 増加する見込みである",
+      "be expected to decrease — 減少する見込みである",
+      "be expected to arrive — 到着する見込みである",
+      "be expected to win — 勝つと予想されている",
+      "be expected to attend — 出席することを期待されている",
+      "be expected to comply — 従うことを求められている",
+      "be expected to meet a deadline — 期限を守ることを求められている",
+      "be expected to perform one's duties — 職務を果たすことを期待されている",
+      "be widely expected to — ～すると広く予想されている",
+      "be generally expected to — 一般に～することを期待されている"
+    ],
+    "en": [
+      "be expected to increase",
+      "be expected to decrease",
+      "be expected to arrive",
+      "be expected to win",
+      "be expected to attend",
+      "be expected to comply",
+      "be expected to meet a deadline",
+      "be expected to perform one's duties",
+      "be widely expected to",
+      "be generally expected to"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Prices are expected to rise again next year. — 物価は来年再び上昇する見込みである。",
+      "All employees are expected to comply with the security policy. — すべての従業員はセキュリティ方針に従うことを求められている。",
+      "The examination results are expected to be announced tomorrow. — 審査結果は明日発表される見込みである。",
+      "You are not expected to attend the meeting unless you wish to. — 希望しない限り、あなたはその会議に出席する必要はない。",
+      "The applicant will be expected to communicate with overseas clients. — その応募者には海外の顧客と連絡を取ることが求められる。"
+    ],
+    "en": [
+      "Prices are expected to rise again next year.",
+      "All employees are expected to comply with the security policy.",
+      "The examination results are expected to be announced tomorrow.",
+      "You are not expected to attend the meeting unless you wish to.",
+      "The applicant will be expected to communicate with overseas clients."
+    ]
+  }
 }
 ]
