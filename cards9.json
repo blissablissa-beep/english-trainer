@@ -3917,5 +3917,161 @@
       "Respondents were asked to rate the product on a five-point scale."
     ]
   }
+},
+{
+  "id": "appellee",
+  "sid": "2026-00926",
+  "word": "appellee",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "noun",
+    "law",
+    "appeal",
+    "court",
+    "appellate procedure",
+    "litigation",
+    "person",
+    "formal",
+    "American English"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "appellees",
+    "related": {
+      "opposite_party": "appellant",
+      "verb": "appeal",
+      "uk_equivalent": "respondent"
+    },
+    "patterns": [
+      "the appellee in + appeal / case",
+      "the appellant and the appellee",
+      "the appellee argues / contends that + clause",
+      "the appellee asks the court to + verb",
+      "affirm the judgment in favor of the appellee",
+      "file a brief on behalf of the appellee"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌæpəˈliː/",
+      "uk": "/ˌæpəˈliː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "上訴を提起された側の当事者、被上訴人",
+      "下級審の判断に対する上訴に応答する側",
+      "通常、原判断の維持を上級裁判所に求める当事者"
+    ],
+    "en": [
+      "the party against whom an appeal is brought",
+      "the party responding to an appeal from a lower court's decision",
+      "the party that normally asks the appellate court to affirm the decision below"
+    ]
+  },
+  "nuance": {
+    "ja": "appellee は主にアメリカの上訴手続で使われ、上訴を提起した appellant に対して、その上訴に応答する『被上訴人』を指す。通常は下級審の判断を維持するよう上級裁判所に求める側だが、appellee であること自体が、必ずしも下級審で全面的に勝訴したことを意味するわけではない。イギリスや国際的な手続では、同様の当事者を respondent と呼ぶことが多い。発音は employee のように語末の -ee に強勢が置かれる。",
+    "en": "Appellee is used mainly in American appellate procedure for the party responding to an appeal brought by the appellant. The appellee normally asks the appellate court to affirm the decision below, although being the appellee does not necessarily mean that the party prevailed on every issue in the lower court. In British and many international legal contexts, respondent is more common. Like many words ending in -ee, appellee is stressed on the final syllable."
+  },
+  "minimal": {
+    "ja": [
+      "appellee：上訴を提起された側で、通常は原判断の維持を求める当事者。",
+      "respondent：上訴・申立て・申請などに応答する相手方を広く表す。",
+      "appellant：下級審などの判断を不服として上訴を提起する当事者。",
+      "defendant：民事上の請求または刑事上の訴追に対して第一審などで防御する当事者。",
+      "prevailing party：ある判断・争点で勝訴した当事者。必ずしも appellee とは限らない。"
+    ],
+    "en": [
+      "appellee is the party against whom an appeal is brought and who normally seeks affirmance of the lower decision.",
+      "respondent is the broader term for a party answering an appeal, petition, or application.",
+      "appellant is the party that brings an appeal challenging a lower decision.",
+      "defendant is the party defending against a civil claim or criminal charge, usually at the trial level.",
+      "prevailing party is the party that succeeded on a decision or issue and is not necessarily the appellee."
+    ]
+  },
+  "etymology": {
+    "ja": "appellee は appeal『上訴する』に、行為を受ける者を表す接尾辞 -ee が付いた語である。appeal はアングロ・フランス語 apeler『呼び出す、上級機関に訴える』を経て、ラテン語 appellare『呼びかける、名を呼ぶ』にさかのぼる。したがって appellee は、文字どおりには『上訴を向けられた者』という構造を持つ。",
+    "en": "Appellee is formed from appeal and the suffix -ee, which commonly identifies the person affected by an action. Appeal came through Anglo-French apeler, meaning to call upon or appeal to a higher authority, from Latin appellare, meaning to address or call by name. Appellee therefore literally denotes the party against whom an appeal is directed."
+  },
+  "synonyms": [
+    {
+      "word": "respondent",
+      "note": {
+        "ja": "上訴・申立てに応答する相手方。appellee より適用範囲が広く、イギリス系の法的文脈で一般的。",
+        "en": "A party responding to an appeal or petition. It is broader than appellee and common in British-style legal terminology."
+      }
+    },
+    {
+      "word": "responding party",
+      "note": {
+        "ja": "上訴などに応答する側を説明的に表す一般表現。",
+        "en": "A descriptive general expression for the party responding to an appeal or other application."
+      }
+    },
+    {
+      "word": "party opposing the appeal",
+      "note": {
+        "ja": "上訴に反対し、原判断の維持を求める側を表す説明的表現。",
+        "en": "A descriptive expression for the party opposing the appeal and normally seeking affirmance."
+      }
+    },
+    {
+      "word": "prevailing party below",
+      "note": {
+        "ja": "下級審で勝訴した当事者。典型的には appellee になるが、両者は常に一致するとは限らない。",
+        "en": "The party that prevailed in the lower court and is commonly, but not invariably, the appellee."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Berufungsbeklagter / Revisionsbeklagter",
+    "it": "appellato",
+    "fr": "intimé",
+    "es": "apelado"
+  },
+  "collocations": {
+    "ja": [
+      "the appellant and the appellee — 上訴人と被上訴人",
+      "the named appellee — 名指しされた被上訴人",
+      "the appellee's brief — 被上訴人側の準備書面",
+      "the appellee's argument — 被上訴人側の主張",
+      "counsel for the appellee — 被上訴人側の代理人",
+      "on behalf of the appellee — 被上訴人を代理して",
+      "rule in favor of the appellee — 被上訴人に有利な判断を下す",
+      "affirm the judgment for the appellee — 被上訴人に有利な原判決を維持する",
+      "the appellee asks for affirmance — 被上訴人が原判断の維持を求める",
+      "the appellee files a response — 被上訴人が答弁書面を提出する"
+    ],
+    "en": [
+      "the appellant and the appellee",
+      "the named appellee",
+      "the appellee's brief",
+      "the appellee's argument",
+      "counsel for the appellee",
+      "on behalf of the appellee",
+      "rule in favor of the appellee",
+      "affirm the judgment for the appellee",
+      "the appellee asks for affirmance",
+      "the appellee files a response"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The appellee asked the court to affirm the judgment. — 被上訴人は裁判所に原判決を維持するよう求めた。",
+      "Counsel for the appellee argued that the appeal was untimely. — 被上訴人側の代理人は、その上訴が期限後に提起されたと主張した。",
+      "The appellee filed its brief two weeks before oral argument. — 被上訴人は口頭弁論の2週間前に準備書面を提出した。",
+      "The appellate court ruled in favor of the appellee. — 上訴裁判所は被上訴人に有利な判断を下した。",
+      "Although the company was the plaintiff at trial, it became the appellee when the defendant appealed. — その会社は第一審では原告だったが、被告が上訴したため被上訴人となった。"
+    ],
+    "en": [
+      "The appellee asked the court to affirm the judgment.",
+      "Counsel for the appellee argued that the appeal was untimely.",
+      "The appellee filed its brief two weeks before oral argument.",
+      "The appellate court ruled in favor of the appellee.",
+      "Although the company was the plaintiff at trial, it became the appellee when the defendant appealed."
+    ]
+  }
 }
 ]
