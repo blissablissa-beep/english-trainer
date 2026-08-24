@@ -4229,5 +4229,649 @@
       "Although the company was the defendant at trial, it became the appellant after challenging the judgment."
     ]
   }
+},
+{
+  "id": "petitioner",
+  "sid": "2026-00928",
+  "word": "petitioner",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "law",
+    "court",
+    "petition",
+    "application",
+    "administrative procedure",
+    "immigration",
+    "intellectual property",
+    "person",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "petitioners",
+    "related": {
+      "verb": "petition",
+      "noun": "petition",
+      "opposite_party": "respondent"
+    },
+    "patterns": [
+      "the petitioner in + case / proceedings",
+      "the petitioner files / submits a petition",
+      "the petitioner asks / requests + authority to + verb",
+      "the petitioner seeks + review / relief / cancellation",
+      "the petitioner and the respondent",
+      "rule / find in favor of the petitioner"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pəˈtɪʃənər/",
+      "uk": "/pəˈtɪʃənə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "裁判所・行政機関などに正式な申立てを行う者、申立人",
+      "命令・審査・救済などを求めて petition を提出する当事者",
+      "請願書を提出する人、請願者",
+      "移民手続などで他者のために申請を行う個人・組織"
+    ],
+    "en": [
+      "a person who submits a formal petition to a court or authority",
+      "a party requesting an order, review, or legal remedy through a petition",
+      "a person who presents or supports a formal public petition",
+      "a person or organization filing an immigration or similar petition on behalf of another person"
+    ]
+  },
+  "nuance": {
+    "ja": "petitioner は、裁判所・行政機関・政府などに petition と呼ばれる正式な申立てや請願を提出する者を表す。相手方は通常 respondent と呼ばれる。一般的な上訴を提起する appellant と異なり、petitioner は裁量的審査、命令、登録取消し、家事事件、移民上の承認など、特定の救済を petition によって求める場合に使われる。具体的な役割は法域や手続によって異なるため、単純に plaintiff の同義語とはならない。",
+    "en": "A petitioner is a person or party that submits a petition requesting an order, review, approval, or other remedy from a court, tribunal, government, or administrative authority. The opposing party is commonly called the respondent. Unlike an appellant, who brings an ordinary appeal, a petitioner may seek discretionary review, cancellation, family-law relief, immigration approval, or another specific remedy through a petition. Its precise procedural meaning depends on the jurisdiction and type of proceeding."
+  },
+  "minimal": {
+    "ja": [
+      "petitioner：petition を提出し、裁判所・行政機関などに命令・審査・救済を求める者。",
+      "applicant：許可・登録・認可・給付などを得るために申請する者。",
+      "appellant：下級審などの判断を不服として通常の上訴を提起する当事者。",
+      "plaintiff / claimant：民事上の請求を被告に対して提起し、裁判上の救済を求める当事者。",
+      "complainant：犯罪・差別・不正行為などについて苦情や申立てを行う者。"
+    ],
+    "en": [
+      "petitioner is a person who files a petition requesting an order, review, or remedy from a court or authority.",
+      "applicant is a person applying for permission, registration, approval, admission, or a benefit.",
+      "appellant is the party that brings an ordinary appeal challenging a lower decision.",
+      "plaintiff or claimant is the party that brings a civil claim against a defendant and seeks judicial relief.",
+      "complainant is a person who reports a grievance, offense, discrimination, or misconduct."
+    ]
+  },
+  "etymology": {
+    "ja": "petitioner は petition『請願する、正式に申し立てる』に、人を表す -er が付いた語である。petition はラテン語 petitio『要求、請求、志願』に由来し、その基礎にある petere は『求める、目指す、向かう』を意味する。権限を持つ者や機関に何かを正式に求める人という発想から、現在の法律上・行政上の意味が成立した。",
+    "en": "Petitioner is formed from petition and the agent suffix -er. Petition comes from Latin petitio, meaning a request, claim, or application, based on petere, meaning to seek, aim at, or request. The word therefore describes a person who formally seeks something from a court, government, or other authority."
+  },
+  "synonyms": [
+    {
+      "word": "applicant",
+      "note": {
+        "ja": "許可・登録・給付などを得るために申請する者。petition を提出するとは限らない。",
+        "en": "A person applying for permission, registration, approval, or a benefit and not necessarily filing a petition."
+      }
+    },
+    {
+      "word": "moving party",
+      "note": {
+        "ja": "裁判所に特定の命令を求める motion を提出する側の当事者。",
+        "en": "The party that files a motion requesting a particular order from a court."
+      }
+    },
+    {
+      "word": "claimant",
+      "note": {
+        "ja": "金銭・財産・給付・法的救済などに対する権利を主張する者。",
+        "en": "A person asserting a right to money, property, a benefit, or another legal remedy."
+      }
+    },
+    {
+      "word": "appellant",
+      "note": {
+        "ja": "原判断の取消し・変更を求めて上訴を提起する当事者。",
+        "en": "The party bringing an appeal and seeking reversal or modification of a lower decision."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Antragsteller / Petent / Beschwerdeführer",
+    "it": "ricorrente / richiedente / firmatario di una petizione",
+    "fr": "requérant / pétitionnaire",
+    "es": "peticionario / solicitante / recurrente"
+  },
+  "collocations": {
+    "ja": [
+      "the named petitioner — 名指しされた申立人",
+      "the petitioner and the respondent — 申立人と被申立人",
+      "the petitioner's argument — 申立人側の主張",
+      "the petitioner's counsel — 申立人側の代理人",
+      "the original petitioner — 当初の申立人",
+      "rule in favor of the petitioner — 申立人に有利な判断を下す",
+      "the petitioner seeks review — 申立人が審査を求める",
+      "the petitioner requests relief — 申立人が救済を求める",
+      "an immigration petitioner — 移民申請上の請願者",
+      "a petitioner for cancellation — 取消請求の申立人"
+    ],
+    "en": [
+      "the named petitioner",
+      "the petitioner and the respondent",
+      "the petitioner's argument",
+      "the petitioner's counsel",
+      "the original petitioner",
+      "rule in favor of the petitioner",
+      "the petitioner seeks review",
+      "the petitioner requests relief",
+      "an immigration petitioner",
+      "a petitioner for cancellation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The petitioner asked the court to review the agency's decision. — 申立人は裁判所に行政機関の判断を審査するよう求めた。",
+      "The respondent challenged the petitioner's interpretation of the statute. — 被申立人は申立人による法令解釈を争った。",
+      "The petitioner sought cancellation of the trademark registration. — 申立人はその商標登録の取消しを求めた。",
+      "The court ruled that the petitioner was not entitled to the requested relief. — 裁判所は、申立人には求めた救済を受ける権利がないと判断した。",
+      "In the immigration case, the employer acted as the petitioner for the foreign worker. — その移民案件では、雇用主が外国人労働者のための申請者となった。"
+    ],
+    "en": [
+      "The petitioner asked the court to review the agency's decision.",
+      "The respondent challenged the petitioner's interpretation of the statute.",
+      "The petitioner sought cancellation of the trademark registration.",
+      "The court ruled that the petitioner was not entitled to the requested relief.",
+      "In the immigration case, the employer acted as the petitioner for the foreign worker."
+    ]
+  }
+},
+{
+  "id": "applicant",
+  "sid": "2026-00929",
+  "word": "applicant",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "noun",
+    "application",
+    "job",
+    "education",
+    "immigration",
+    "intellectual property",
+    "patent",
+    "trademark",
+    "person",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "applicants",
+    "related": {
+      "verb": "apply",
+      "noun": "application",
+      "adjective": "applicable"
+    },
+    "patterns": [
+      "an applicant for + job / visa / registration",
+      "an applicant to + university / program",
+      "a successful / unsuccessful applicant",
+      "the applicant applies for + noun",
+      "the applicant must submit / provide + noun",
+      "patent / trademark applicant"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈæplɪkənt/",
+      "uk": "/ˈæplɪkənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "仕事・学校・制度などに応募する人、応募者",
+      "許可・ビザ・給付などを申請する人、申請者",
+      "特許・商標などの登録を求める出願人",
+      "公的機関に認可・承認・登録を求める個人または組織"
+    ],
+    "en": [
+      "a person who applies for a job, educational place, or program",
+      "a person who formally requests a visa, permit, benefit, or approval",
+      "a person or organization in whose name a patent or trademark application is filed",
+      "a party requesting registration, authorization, or another official status"
+    ]
+  },
+  "nuance": {
+    "ja": "applicant は、仕事・入学・ビザ・許可・給付・登録などを得るため、所定の application を提出する個人または組織を表す。結果がまだ決まっていない段階で使われ、申請が認められた後は employee、student、visa holder、registrant など別の立場になる。知的財産分野では patent applicant、trademark applicant が『特許出願人』『商標出願人』を意味する。特許出願人は発明者 inventor と同一とは限らず、企業などが出願人になる場合もある。",
+    "en": "An applicant is a person or organization that submits an application for a job, admission, permission, a benefit, registration, or another status. The word normally describes the person while the request is still being considered; after approval, a different role such as employee, student, visa holder, or registrant may apply. In intellectual property practice, a patent or trademark applicant is the person or organization in whose name the application is filed. A patent applicant is not necessarily the same person as the inventor."
+  },
+  "minimal": {
+    "ja": [
+      "applicant：仕事・許可・登録・給付などを得るため、所定の申請を行う者。",
+      "candidate：職・選挙・賞などの候補として検討または選考されている者。",
+      "petitioner：petition を提出し、裁判所・行政機関などに命令・審査・救済を求める者。",
+      "claimant：金銭・財産・給付・法的救済などに対する権利を主張する者。",
+      "registrant：すでに登録した者、または登録名義人。申請中とは限らない。"
+    ],
+    "en": [
+      "applicant is a person who submits a prescribed application for a job, permission, registration, or benefit.",
+      "candidate is a person being considered or selected for a position, election, award, or similar role.",
+      "petitioner is a person who files a petition requesting an order, review, or remedy from a court or authority.",
+      "claimant is a person asserting a right to money, property, a benefit, or a legal remedy.",
+      "registrant is a person who has registered or in whose name something is registered and is not necessarily awaiting a decision."
+    ]
+  },
+  "etymology": {
+    "ja": "applicant は apply『申し込む、申請する』と同じ語族に属し、ラテン語 applicare『結び付ける、向ける』にさかのぼる。applicare は ad-『～へ』と plicare『折る』から成り、文字どおりには『何かに折り重ねる、結び付ける』という構造を持つ。そこから、自分自身または申請を特定の目的・地位へ向けるという意味が生まれ、申請を行う人を applicant と呼ぶようになった。",
+    "en": "Applicant belongs to the same word family as apply and ultimately derives from Latin applicare, meaning to attach, direct, or bring into contact. Applicare combines ad-, meaning 'to or toward,' with plicare, meaning 'to fold.' From the idea of directing oneself or a request toward a particular purpose or position, applicant developed the sense of a person who formally applies."
+  },
+  "synonyms": [
+    {
+      "word": "candidate",
+      "note": {
+        "ja": "職・役割・選挙などの候補者。応募者のうち選考対象となった人を指す場合もある。",
+        "en": "A person being considered for a position, role, or election and sometimes someone selected from a larger applicant pool."
+      }
+    },
+    {
+      "word": "petitioner",
+      "note": {
+        "ja": "裁判所・行政機関などに正式な petition を提出する申立人。",
+        "en": "A person who submits a formal petition to a court, government, or administrative authority."
+      }
+    },
+    {
+      "word": "claimant",
+      "note": {
+        "ja": "権利・金銭・保険金・給付などを請求する者。",
+        "en": "A person formally asserting a right to money, insurance proceeds, a benefit, or another remedy."
+      }
+    },
+    {
+      "word": "prospective student",
+      "note": {
+        "ja": "入学を検討または希望している人。まだ正式に出願していない場合も含む。",
+        "en": "A person considering or intending to study at an institution and not necessarily someone who has formally applied."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Bewerber / Antragsteller",
+    "it": "candidato / richiedente",
+    "fr": "candidat / demandeur",
+    "es": "solicitante / candidato"
+  },
+  "collocations": {
+    "ja": [
+      "a job applicant — 求職応募者",
+      "a visa applicant — ビザ申請者",
+      "a successful applicant — 合格した応募者・申請者",
+      "an unsuccessful applicant — 不合格となった応募者・申請者",
+      "a qualified applicant — 資格・適性を備えた応募者",
+      "a patent applicant — 特許出願人",
+      "a trademark applicant — 商標出願人",
+      "an applicant for registration — 登録出願人",
+      "screen applicants — 応募者を審査する",
+      "notify the applicant — 申請者に通知する"
+    ],
+    "en": [
+      "a job applicant",
+      "a visa applicant",
+      "a successful applicant",
+      "an unsuccessful applicant",
+      "a qualified applicant",
+      "a patent applicant",
+      "a trademark applicant",
+      "an applicant for registration",
+      "screen applicants",
+      "notify the applicant"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Each applicant must submit a résumé and two references. — 各応募者は履歴書と2通の推薦状を提出しなければならない。",
+      "The successful applicant will begin work in October. — 採用された応募者は10月に勤務を開始する。",
+      "The visa applicant was asked to provide additional documents. — ビザ申請者は追加書類を提出するよう求められた。",
+      "The trademark applicant responded to the examiner's refusal. — 商標出願人は審査官による拒絶に応答した。",
+      "The applicant amended the specification during patent prosecution. — 出願人は特許権利化手続中に明細書を補正した。"
+    ],
+    "en": [
+      "Each applicant must submit a résumé and two references.",
+      "The successful applicant will begin work in October.",
+      "The visa applicant was asked to provide additional documents.",
+      "The trademark applicant responded to the examiner's refusal.",
+      "The applicant amended the specification during patent prosecution."
+    ]
+  }
+},
+{
+  "id": "complainant",
+  "sid": "2026-00930",
+  "word": "complainant",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "law",
+    "complaint",
+    "criminal law",
+    "administrative procedure",
+    "harassment",
+    "discrimination",
+    "intellectual property",
+    "person",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "complainants",
+    "related": {
+      "verb": "complain",
+      "noun": "complaint",
+      "opposite_party": "respondent"
+    },
+    "patterns": [
+      "the complainant in + case / proceedings",
+      "the complainant files / makes a complaint",
+      "the complainant alleges / claims that + clause",
+      "the complainant against + person / company",
+      "protect the complainant's identity",
+      "the complainant and the respondent"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kəmˈpleɪnənt/",
+      "uk": "/kəmˈpleɪnənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "犯罪・不正行為・差別などについて正式な苦情や申立てを行う者",
+      "警察・行政機関・審判機関などに被害や違反を申し出る人",
+      "苦情処理・懲戒・調査手続を開始する申立人",
+      "一定の紛争処理手続で complaint を提出する側の当事者"
+    ],
+    "en": [
+      "a person who makes a formal complaint about an offense, misconduct, or discrimination",
+      "a person who reports alleged harm or a violation to the police or another authority",
+      "the party initiating a complaint, disciplinary, or investigative procedure",
+      "the party that files a complaint in certain dispute-resolution proceedings"
+    ]
+  },
+  "nuance": {
+    "ja": "complainant は、単に日常的な不平を口にする人ではなく、犯罪、ハラスメント、差別、不正行為、規則違反などについて正式な complaint を提出した者を表す。刑事事件では被害者本人が complainant であることが多いが、第三者が通報・申告している場合もあるため、必ずしも victim と一致しない。また、complainant が申告しても、刑事訴追を行う主体は通常 prosecution である。UDRPなど一部の知的財産紛争処理手続では、申立てを行う側を Complainant、相手方を Respondent と呼ぶ。",
+    "en": "A complainant is not merely someone expressing ordinary dissatisfaction. The term normally identifies a person or party that has made a formal complaint concerning an offense, harassment, discrimination, misconduct, or a regulatory violation. In a criminal matter, the complainant is often the victim, but the two roles are not necessarily identical because another person may report the matter. The state, rather than the complainant, normally conducts the prosecution. In certain intellectual property procedures, including the UDRP, the initiating party is called the Complainant and the opposing party the Respondent."
+  },
+  "minimal": {
+    "ja": [
+      "complainant：犯罪・差別・不正行為などについて正式な苦情・申立てを行う者。",
+      "plaintiff：民事訴訟を裁判所に提起し、被告に対して救済を求める原告。",
+      "claimant：金銭・財産・給付・法的救済などに対する権利を主張する者。",
+      "petitioner：petition を提出し、裁判所・行政機関に命令・審査・救済を求める者。",
+      "victim：犯罪・事故・不正行為などによって実際に被害を受けた者。"
+    ],
+    "en": [
+      "complainant is a person who formally reports or complains about an offense, discrimination, or misconduct.",
+      "plaintiff is the party that brings a civil lawsuit and seeks judicial relief against the defendant.",
+      "claimant is a person asserting a right to money, property, a benefit, or another remedy.",
+      "petitioner is a person who files a petition requesting an order, review, or remedy from a court or authority.",
+      "victim is a person who has actually suffered harm from a crime, accident, or wrongful act."
+    ]
+  },
+  "etymology": {
+    "ja": "complainant は complain『苦情を述べる、訴える』に、人を表す -ant が付いた語である。complain はアングロ・フランス語 compleindre『嘆く、訴える』を経て、ラテン語 plangere『嘆く、悲しみを表す』に関係する。苦しみや不満を訴え出る人という意味から、正式な苦情・告発・申立てを行う者を表す法律・行政用語となった。",
+    "en": "Complainant is formed from complain and the suffix -ant, indicating a person performing an action. Complain came through Anglo-French compleindre, meaning to lament or express a grievance, and is related to Latin plangere, meaning to lament or express grief. The word developed from a person voicing a grievance into a formal legal and administrative term for someone making a complaint."
+  },
+  "synonyms": [
+    {
+      "word": "reporting party",
+      "note": {
+        "ja": "事件・違反などを警察・機関に報告した側を表す中立的な表現。",
+        "en": "A neutral expression for the person or party that reports an incident or violation to an authority."
+      }
+    },
+    {
+      "word": "accuser",
+      "note": {
+        "ja": "他人が不正・犯罪を行ったと非難する人。正式な手続を開始しているとは限らない。",
+        "en": "A person who alleges that another person committed wrongdoing or a crime, without necessarily initiating a formal procedure."
+      }
+    },
+    {
+      "word": "grievant",
+      "note": {
+        "ja": "労働・雇用関係などで正式な grievance を申し立てる人。",
+        "en": "A person who files a formal grievance, especially in employment or labor relations."
+      }
+    },
+    {
+      "word": "informant",
+      "note": {
+        "ja": "警察などに犯罪・不正行為に関する情報を提供する人。自ら被害を申し立てる者とは限らない。",
+        "en": "A person who supplies information about crime or misconduct to the authorities and is not necessarily the injured party."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Beschwerdeführer / Anzeigeerstatter",
+    "it": "denunciante / reclamante",
+    "fr": "plaignant",
+    "es": "denunciante / querellante"
+  },
+  "collocations": {
+    "ja": [
+      "the named complainant — 名指しされた申立人",
+      "the original complainant — 当初の申立人",
+      "the complainant's identity — 申立人の身元",
+      "the complainant's allegations — 申立人の主張・申告内容",
+      "the complainant's testimony — 申立人の証言",
+      "protect the complainant — 申立人を保護する",
+      "interview the complainant — 申立人から事情を聴取する",
+      "the complainant and the respondent — 申立人と被申立人",
+      "a harassment complainant — ハラスメントの申立人",
+      "the UDRP complainant — UDRP手続の申立人"
+    ],
+    "en": [
+      "the named complainant",
+      "the original complainant",
+      "the complainant's identity",
+      "the complainant's allegations",
+      "the complainant's testimony",
+      "protect the complainant",
+      "interview the complainant",
+      "the complainant and the respondent",
+      "a harassment complainant",
+      "the UDRP complainant"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The complainant reported the alleged harassment to the human resources department. — 申立人はハラスメントの疑いを人事部門に報告した。",
+      "The police interviewed both the complainant and the accused person. — 警察は申告者と被疑者の双方から事情を聴取した。",
+      "The agency took steps to protect the complainant's identity. — その機関は申立人の身元を保護する措置を講じた。",
+      "The complainant failed to provide sufficient evidence of the alleged violation. — 申立人は、主張した違反について十分な証拠を提出できなかった。",
+      "Under the UDRP, the complainant sought the transfer of the disputed domain name. — UDRPに基づき、申立人は係争中のドメイン名の移転を求めた。"
+    ],
+    "en": [
+      "The complainant reported the alleged harassment to the human resources department.",
+      "The police interviewed both the complainant and the accused person.",
+      "The agency took steps to protect the complainant's identity.",
+      "The complainant failed to provide sufficient evidence of the alleged violation.",
+      "Under the UDRP, the complainant sought the transfer of the disputed domain name."
+    ]
+  }
+},
+{
+  "id": "petition",
+  "sid": "2026-00931",
+  "word": "petition",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "verb",
+    "law",
+    "court",
+    "request",
+    "public campaign",
+    "government",
+    "intellectual property",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "countability": "countable",
+    "forms": {
+      "base": "petition",
+      "third_person": "petitions",
+      "past": "petitioned",
+      "past_participle": "petitioned",
+      "gerund": "petitioning"
+    },
+    "transitivity": "transitive / intransitive",
+    "related": {
+      "person": "petitioner"
+    },
+    "patterns": [
+      "a petition for / against + noun",
+      "a petition to + court / government",
+      "a petition requesting + noun",
+      "file / submit / sign / circulate a petition",
+      "petition + court / authority",
+      "petition someone for + review / relief",
+      "petition someone to + verb"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pəˈtɪʃən/",
+      "uk": "/pəˈtɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "裁判所・行政機関などに提出する正式な申立書、請願書",
+      "多数の署名を集めて政府・組織などに提出する請願",
+      "命令・審査・取消し・救済などを求める法的申立て",
+      "権限を持つ者・機関に正式に要請する",
+      "裁判所などに命令・審査・救済を申し立てる"
+    ],
+    "en": [
+      "a formal written request submitted to a court, government, or other authority",
+      "a written public request supported by the signatures of many people",
+      "a formal legal application seeking an order, review, cancellation, or remedy",
+      "to make a formal request to a person or authority",
+      "to formally ask a court or authority for an order, review, or relief"
+    ]
+  },
+  "nuance": {
+    "ja": "petition は、個人的にお願いする request よりも正式で、裁判所・政府・行政機関・組織など、判断権限を持つ相手に一定の行為や救済を求める文書または手続を表す。一般社会では署名を集めた『請願書』を意味し、法律上は審査、命令、取消しなどを求める正式な申立てを指す。動詞では petition the court for relief や petition the government to change the law のように使う。具体的な法的効果は法域と手続によって異なる。",
+    "en": "A petition is more formal than an ordinary request and is directed to a court, government, organization, or another body with authority to make a decision. In public life, it often means a written request supported by signatures. In legal procedure, it is a formal filing seeking review, an order, cancellation, or another remedy. As a verb, petition means to make such a formal request. Its precise procedural effect depends on the jurisdiction and type of proceeding."
+  },
+  "minimal": {
+    "ja": [
+      "petition：裁判所・政府などの権限ある機関に、命令・変更・救済を正式に求める申立て・請願。",
+      "application：許可・登録・給付などを得るため、所定の形式で行う申請。",
+      "motion：進行中の裁判で、特定の命令や判断を裁判所に求める申立て。",
+      "appeal：下級審などの判断の取消し・変更を上級機関に求める手続。",
+      "complaint：不正・被害について正式に申し立てる文書、または民事訴訟を開始する訴状。"
+    ],
+    "en": [
+      "petition is a formal request to a court, government, or authority for an order, change, or remedy.",
+      "application is a prescribed request for permission, registration, approval, or a benefit.",
+      "motion is a request made during an ongoing case for a particular court order or ruling.",
+      "appeal is a procedure seeking reversal or modification of a lower decision.",
+      "complaint is a formal statement of a grievance or, in civil procedure, a document initiating a lawsuit."
+    ]
+  },
+  "etymology": {
+    "ja": "petition はラテン語 petitio『要求、請求、志願』に由来し、その基礎にある petere は『求める、目指す、向かう』を意味する。古フランス語 petition を経て英語に入り、権限を持つ者に何かを正式に求める文書や行為を表すようになった。petitioner『申立人・請願者』も同じ語族に属する。",
+    "en": "Petition comes from Latin petitio, meaning a request, claim, or application, based on petere, meaning to seek, aim at, or request. It entered English through French and developed the sense of a formal written request addressed to a person or institution with authority. Petitioner belongs to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "request",
+      "note": {
+        "ja": "何かを求めることを表す最も一般的な語。petition ほど正式・制度的とは限らない。",
+        "en": "The general word for asking for something and not necessarily as formal or institutional as petition."
+      }
+    },
+    {
+      "word": "application",
+      "note": {
+        "ja": "許可・登録・地位・給付などを求めて所定の手続を行う申請。",
+        "en": "A prescribed request for permission, registration, a position, approval, or a benefit."
+      }
+    },
+    {
+      "word": "motion",
+      "note": {
+        "ja": "係属中の裁判で、裁判所に特定の命令・判断を求める申立て。",
+        "en": "A formal request made within an ongoing case for a specific ruling or order."
+      }
+    },
+    {
+      "word": "plea",
+      "note": {
+        "ja": "切実な嘆願、または刑事手続における有罪・無罪などの答弁。",
+        "en": "An urgent or emotional request, or a defendant's formal response to a criminal charge."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Petition / Antrag / Eingabe",
+    "it": "petizione / istanza / ricorso",
+    "fr": "pétition / requête",
+    "es": "petición / solicitud / recurso"
+  },
+  "collocations": {
+    "ja": [
+      "file a petition — 申立書を提出する",
+      "submit a petition — 請願書・申立書を提出する",
+      "sign a petition — 請願書に署名する",
+      "circulate a petition — 署名を集めるため請願書を回す",
+      "grant / deny a petition — 申立てを認める・退ける",
+      "a petition for review — 審査を求める申立て",
+      "a petition for cancellation — 取消しを求める申立て",
+      "an online petition — オンライン請願",
+      "petition the court for relief — 裁判所に救済を申し立てる",
+      "petition the government to change the law — 政府に法改正を請願する"
+    ],
+    "en": [
+      "file a petition",
+      "submit a petition",
+      "sign a petition",
+      "circulate a petition",
+      "grant / deny a petition",
+      "a petition for review",
+      "a petition for cancellation",
+      "an online petition",
+      "petition the court for relief",
+      "petition the government to change the law"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Residents submitted a petition opposing the proposed development. — 住民は開発計画に反対する請願書を提出した。",
+      "More than ten thousand people signed the online petition. — 1万人を超える人々がオンライン請願に署名した。",
+      "The company filed a petition for review of the agency's decision. — その会社は行政機関の判断について審査を求める申立てを行った。",
+      "The trademark owner filed a petition to cancel the disputed registration. — 商標権者は係争中の登録を取り消すための申立てを行った。",
+      "The organization petitioned the government to amend the regulations. — その団体は政府に規則を改正するよう正式に請願した。"
+    ],
+    "en": [
+      "Residents submitted a petition opposing the proposed development.",
+      "More than ten thousand people signed the online petition.",
+      "The company filed a petition for review of the agency's decision.",
+      "The trademark owner filed a petition to cancel the disputed registration.",
+      "The organization petitioned the government to amend the regulations."
+    ]
+  }
 }
 ]
