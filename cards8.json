@@ -12347,5 +12347,1881 @@
       "The application was required to be filed within the specified period."
     ]
   }
+},
+{
+  "id": "be_anticipated_to",
+  "sid": "2026-00881",
+  "word": "be anticipated to",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "grammatical construction",
+    "passive",
+    "prediction",
+    "forecast",
+    "expectation",
+    "future",
+    "formal",
+    "business",
+    "academic",
+    "news",
+    "general"
+  ],
+  "grammar": {
+    "pos": "grammatical construction",
+    "structure": "be + anticipated to + base verb",
+    "forms": {
+      "present": "am / is / are anticipated to do",
+      "past": "was / were anticipated to do",
+      "future": "will be anticipated to do",
+      "negative": "am / is / are not anticipated to do",
+      "passive": "be anticipated to be + past participle",
+      "perfect": "be anticipated to have + past participle",
+      "that_clause": "It is anticipated that + clause"
+    },
+    "patterns": [
+      "subject + be anticipated to + base verb",
+      "be anticipated to increase / decrease / grow",
+      "be anticipated to affect / generate / result in + noun",
+      "be anticipated to be + noun / adjective",
+      "be anticipated to be + past participle",
+      "be anticipated to have + past participle",
+      "It is anticipated that + clause"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi ænˈtɪsəpeɪtɪd tə/",
+      "uk": "/bi ænˈtɪsɪpeɪtɪd tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "予測によれば～する見込みである",
+      "将来～すると見込まれている",
+      "事前の分析・計画などに基づいて～すると予想されている",
+      "ある効果・変化・結果をもたらすと想定されている"
+    ],
+    "en": [
+      "to be formally predicted to do something",
+      "to be expected to happen or develop in the future",
+      "to be forecast on the basis of prior analysis or planning",
+      "to be expected to produce a particular effect, change, or result"
+    ]
+  },
+  "nuance": {
+    "ja": "be anticipated to は、事前の分析・予測・計画に基づく将来の見通しを、形式的かつ客観的に述べる表現。報告書、研究論文、事業計画、経済予測、ニュースなどで使われやすい。be expected to の予測用法と近いが、be anticipated to のほうが硬く、慎重に算出・想定された見通しという響きを持ちやすい。人を主語にすることも文法上は可能だが、役割上の義務を表す用途には通常 be expected to や be required to を使う。日常会話では be expected to、be likely to、probably のほうが自然。",
+    "en": "Be anticipated to presents a future development as a formal, relatively objective forecast based on prior analysis, planning, or assessment. It is especially common in reports, research papers, business plans, economic forecasts, and news writing. It is close to the predictive sense of be expected to, but often sounds more formal and more deliberately forecast. A human subject is grammatically possible, but the construction is not normally used for role-based duties; be expected to or be required to is preferable in that sense. In conversation, be expected to, be likely to, or probably is usually more natural."
+  },
+  "minimal": {
+    "ja": [
+      "Demand is anticipated to increase.：需要は増加すると見込まれている。",
+      "Demand is expected to increase.：需要は増加すると予想されている。より一般的。",
+      "Demand is likely to increase.：需要が増加する可能性は高い。確率判断に重点。",
+      "Employees are expected to attend.：従業員は出席することを期待されている。",
+      "Employees are required to attend.：従業員には出席義務がある。",
+      "It is anticipated that demand will increase.：需要が増加すると見込まれている。",
+      "anticipate doing：～することを予期する。能動形では to do ではなく動名詞が一般的。"
+    ],
+    "en": [
+      "Demand is anticipated to increase is a formal forecast.",
+      "Demand is expected to increase is the more general prediction expression.",
+      "Demand is likely to increase emphasizes probability.",
+      "Employees are expected to attend describes a role-based expectation.",
+      "Employees are required to attend describes a formal obligation.",
+      "It is anticipated that demand will increase is the equivalent impersonal construction.",
+      "In the active construction, anticipate doing is normally used rather than anticipate to do."
+    ]
+  },
+  "etymology": {
+    "ja": "anticipate はラテン語 anticipare『前もって行う、先取りする』に由来する。ante-『前に』と capere『取る』から成り、文字どおりには『前もって取る』という構造。そこから、出来事が起こる前にそれを心に思い描く、予測するという意味が発達した。be anticipated to は anticipate＋目的語＋to不定詞に対応する受動構文。",
+    "en": "Anticipate comes from Latin anticipare, meaning to act in advance or take beforehand. It combines ante-, meaning before, with capere, meaning to take. The literal idea of taking something beforehand developed into mentally considering or predicting an event before it occurs. Be anticipated to is the passive construction corresponding to anticipate something to do something."
+  },
+  "synonyms": [
+    {
+      "word": "be expected to",
+      "note": {
+        "ja": "～すると予想されている。最も近い一般的な表現で、役割上の期待にも使える。",
+        "en": "The closest general equivalent; unlike be anticipated to, it can also express a role-based expectation."
+      }
+    },
+    {
+      "word": "be likely to",
+      "note": {
+        "ja": "～する可能性が高い。分析された予測というより、確率の高さに重点がある。",
+        "en": "Emphasizes the probability that something will happen rather than the formal act of forecasting it."
+      }
+    },
+    {
+      "word": "be projected to",
+      "note": {
+        "ja": "統計・モデル・現在の傾向に基づいて～すると予測されている。数値的予測に多い。",
+        "en": "Used for forecasts based especially on statistics, models, or current trends."
+      }
+    },
+    {
+      "word": "be forecast to",
+      "note": {
+        "ja": "天候・経済・需要などが～すると予報・予測されている。",
+        "en": "Used for formal forecasts concerning weather, economics, demand, and similar developments."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "voraussichtlich / es wird damit gerechnet, dass",
+    "it": "si prevede che / è previsto che",
+    "fr": "il est prévu que / devrait",
+    "es": "se prevé que / está previsto que"
+  },
+  "collocations": {
+    "ja": [
+      "be anticipated to increase — 増加すると見込まれている",
+      "be anticipated to decrease — 減少すると見込まれている",
+      "be anticipated to grow — 成長すると見込まれている",
+      "be anticipated to improve — 改善すると見込まれている",
+      "be anticipated to affect — 影響を与えると予想されている",
+      "be anticipated to generate revenue — 収益を生むと見込まれている",
+      "be anticipated to create jobs — 雇用を生み出すと見込まれている",
+      "be anticipated to result in savings — 節約につながると見込まれている",
+      "be widely anticipated to — ～すると広く予想されている",
+      "be anticipated to be completed — 完了する見込みである"
+    ],
+    "en": [
+      "be anticipated to increase",
+      "be anticipated to decrease",
+      "be anticipated to grow",
+      "be anticipated to improve",
+      "be anticipated to affect",
+      "be anticipated to generate revenue",
+      "be anticipated to create jobs",
+      "be anticipated to result in savings",
+      "be widely anticipated to",
+      "be anticipated to be completed"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Demand for the service is anticipated to increase significantly. — そのサービスへの需要は大幅に増加すると見込まれている。",
+      "The new policy is anticipated to reduce administrative costs. — 新しい方針は管理費を削減すると見込まれている。",
+      "Construction is anticipated to be completed by the end of the year. — 建設工事は年末までに完了する見込みである。",
+      "The proposed amendment is anticipated to affect a wide range of businesses. — 提案された改正は幅広い企業に影響を与えると予想されている。",
+      "It is anticipated that the market will continue to grow. — 市場は引き続き成長すると見込まれている。"
+    ],
+    "en": [
+      "Demand for the service is anticipated to increase significantly.",
+      "The new policy is anticipated to reduce administrative costs.",
+      "Construction is anticipated to be completed by the end of the year.",
+      "The proposed amendment is anticipated to affect a wide range of businesses.",
+      "It is anticipated that the market will continue to grow."
+    ]
+  }
+},
+{
+  "id": "be_forecast_to",
+  "sid": "2026-00882",
+  "word": "be forecast to",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "grammatical construction",
+    "passive",
+    "forecast",
+    "prediction",
+    "future",
+    "data",
+    "weather",
+    "economics",
+    "business",
+    "formal",
+    "news",
+    "general"
+  ],
+  "grammar": {
+    "pos": "grammatical construction",
+    "structure": "be + forecast to + base verb",
+    "forms": {
+      "present": "am / is / are forecast to do",
+      "past": "was / were forecast to do",
+      "future": "will be forecast to do",
+      "negative": "am / is / are not forecast to do",
+      "passive": "be forecast to be + past participle",
+      "perfect": "be forecast to have + past participle",
+      "that_clause": "It is forecast that + clause"
+    },
+    "patterns": [
+      "subject + be forecast to + base verb",
+      "be forecast to increase / decrease / grow",
+      "be forecast to reach + number / level",
+      "be forecast to remain + adjective",
+      "be forecast to be + noun / adjective",
+      "be forecast to be + past participle",
+      "be forecast to have + past participle",
+      "It is forecast that + clause"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi ˈfɔːrkæst tə/",
+      "uk": "/bi ˈfɔːkɑːst tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "予報・予測によれば～する見込みである",
+      "データや専門的分析に基づいて～すると予測されている",
+      "数値・価格・需要などが一定の水準に達すると見込まれている",
+      "天候・経済・市場などが特定の方向へ変化すると予報されている"
+    ],
+    "en": [
+      "to be predicted in a formal forecast to do something",
+      "to be expected on the basis of data or expert analysis to develop in a particular way",
+      "to be predicted to reach a particular number, level, or value",
+      "to be forecast to undergo a particular change in weather, economics, or markets"
+    ]
+  },
+  "nuance": {
+    "ja": "be forecast to は、天気予報、経済予測、市場分析、需要予測など、専門的・体系的な予測に基づく将来の見通しを表す。be expected to や be likely to よりも、予測を行った主体・モデル・データが背後に存在することを感じさせやすい。be projected to と非常に近いが、projected は統計モデルや現在の傾向を将来へ延長した数値予測に特に多い。一方 forecast は天候・経済・売上・需要・価格など、専門家が予報・予測する幅広い対象に使われる。人の義務や役割上の期待には通常使わない。",
+    "en": "Be forecast to presents a future development as the result of a formal forecast, commonly concerning weather, economics, markets, demand, sales, prices, or population. Compared with be expected to or be likely to, it more strongly suggests an identifiable forecast based on data, models, or expert analysis. It is close to be projected to, although projected is especially common for numerical estimates produced by extending statistical trends or models. Forecast applies more broadly to professional predictions. It is not normally used for personal duties or role-based expectations."
+  },
+  "minimal": {
+    "ja": [
+      "Sales are forecast to increase.：売上は増加すると予測されている。",
+      "Sales are projected to increase.：統計・モデル上、売上は増加すると予測されている。",
+      "Sales are expected to increase.：売上は増加すると予想されている。より一般的。",
+      "Sales are likely to increase.：売上が増加する可能性は高い。",
+      "Rain is forecast for tomorrow.：明日は雨の予報である。",
+      "It is forecast that inflation will fall.：インフレ率は低下すると予測されている。",
+      "Employees are expected to attend.：従業員は出席することを期待されている。forecast は使わない。"
+    ],
+    "en": [
+      "Sales are forecast to increase reports a formal forecast.",
+      "Sales are projected to increase often suggests a statistical model or trend-based estimate.",
+      "Sales are expected to increase is the more general prediction.",
+      "Sales are likely to increase expresses probability.",
+      "Rain is forecast for tomorrow uses forecast directly with a weather event.",
+      "It is forecast that inflation will fall is the equivalent that-clause construction.",
+      "Employees are expected to attend expresses a role-based expectation; forecast is not appropriate."
+    ]
+  },
+  "etymology": {
+    "ja": "forecast は fore-『前もって』と cast『投げる、向ける』から成る。文字どおりには『前方へ投げる』という構造で、考えを未来へ向けることから『前もって計画する、予測する』という意味が生じた。forecast の過去形・過去分詞には forecast と forecasted の両方があるが、受動構文 be forecast to では forecast が特によく使われる。",
+    "en": "Forecast is formed from fore-, meaning beforehand, and cast, meaning to throw or direct. The literal image of casting something forward developed into directing one's thought toward the future and predicting what will happen. Both forecast and forecasted occur as past-tense and past-participle forms, although forecast is especially common in the passive construction be forecast to."
+  },
+  "synonyms": [
+    {
+      "word": "be projected to",
+      "note": {
+        "ja": "統計・モデル・現在の傾向を将来へ延長した数値予測に基づいて～すると見込まれている。",
+        "en": "Used especially for numerical estimates based on statistical models or the extension of current trends."
+      }
+    },
+    {
+      "word": "be anticipated to",
+      "note": {
+        "ja": "事前の分析・計画に基づいて～すると見込まれている。forecast より予測方法を特定しない。",
+        "en": "Presents a formal expectation based on prior analysis or planning without necessarily identifying a forecasting process."
+      }
+    },
+    {
+      "word": "be expected to",
+      "note": {
+        "ja": "～すると予想されている。より一般的で、役割上の期待にも使用できる。",
+        "en": "The broader and more common prediction expression, which can also describe a role-based expectation."
+      }
+    },
+    {
+      "word": "be likely to",
+      "note": {
+        "ja": "～する可能性が高い。正式な予測の存在より、確率判断に重点がある。",
+        "en": "Emphasizes probability rather than the existence of a formal forecast."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Prognosen zufolge / voraussichtlich / vorhergesagt werden",
+    "it": "si prevede che / essere previsto in aumento",
+    "fr": "selon les prévisions / être prévu à",
+    "es": "se pronostica que / estar previsto que"
+  },
+  "collocations": {
+    "ja": [
+      "be forecast to increase — 増加すると予測されている",
+      "be forecast to decrease — 減少すると予測されている",
+      "be forecast to grow — 成長すると予測されている",
+      "be forecast to fall — 低下すると予測されている",
+      "be forecast to reach a record high — 過去最高に達すると予測されている",
+      "be forecast to remain stable — 安定した状態が続くと予測されている",
+      "be forecast to exceed expectations — 予想を上回ると予測されている",
+      "be forecast to generate revenue — 収益を生むと予測されている",
+      "be widely forecast to — ～すると広く予測されている",
+      "be forecast to be completed — 完了する見込みである"
+    ],
+    "en": [
+      "be forecast to increase",
+      "be forecast to decrease",
+      "be forecast to grow",
+      "be forecast to fall",
+      "be forecast to reach a record high",
+      "be forecast to remain stable",
+      "be forecast to exceed expectations",
+      "be forecast to generate revenue",
+      "be widely forecast to",
+      "be forecast to be completed"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Global demand is forecast to increase over the next five years. — 世界需要は今後5年間で増加すると予測されている。",
+      "Temperatures are forecast to fall sharply overnight. — 気温は夜間に急激に低下すると予報されている。",
+      "The market is forecast to reach $10 billion by 2030. — その市場は2030年までに100億ドル規模に達すると予測されている。",
+      "Economic growth is forecast to remain weak this year. — 今年の経済成長は低調なままと予測されている。",
+      "The project was initially forecast to have been completed by June. — そのプロジェクトは当初、6月までに完了していると予測されていた。"
+    ],
+    "en": [
+      "Global demand is forecast to increase over the next five years.",
+      "Temperatures are forecast to fall sharply overnight.",
+      "The market is forecast to reach $10 billion by 2030.",
+      "Economic growth is forecast to remain weak this year.",
+      "The project was initially forecast to have been completed by June."
+    ]
+  }
+},
+{
+  "id": "be_projected_to",
+  "sid": "2026-00883",
+  "word": "be projected to",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "grammatical construction",
+    "passive",
+    "projection",
+    "prediction",
+    "statistics",
+    "model",
+    "trend",
+    "future",
+    "economics",
+    "business",
+    "academic",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "grammatical construction",
+    "structure": "be + projected to + base verb",
+    "forms": {
+      "present": "am / is / are projected to do",
+      "past": "was / were projected to do",
+      "future": "will be projected to do",
+      "negative": "am / is / are not projected to do",
+      "passive": "be projected to be + past participle",
+      "perfect": "be projected to have + past participle",
+      "that_clause": "It is projected that + clause"
+    },
+    "patterns": [
+      "subject + be projected to + base verb",
+      "be projected to increase / decrease / grow",
+      "be projected to reach + number / level",
+      "be projected to exceed + number / level",
+      "be projected to remain + adjective",
+      "be projected to be + noun / adjective",
+      "be projected to be + past participle",
+      "It is projected that + clause"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi prəˈdʒektɪd tə/",
+      "uk": "/bi prəˈdʒektɪd tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "統計・計算・モデルに基づいて～すると予測されている",
+      "現在の傾向が続けば～に達すると推計されている",
+      "将来の数量・規模・割合などが～になると見積もられている",
+      "一定の時点までに特定の結果になると予測されている"
+    ],
+    "en": [
+      "to be predicted on the basis of statistics, calculations, or a model",
+      "to be estimated to reach a particular result if current trends continue",
+      "to be calculated to attain a future number, size, proportion, or level",
+      "to be predicted to produce a particular outcome by a specified time"
+    ]
+  },
+  "nuance": {
+    "ja": "be projected to は、人口、売上、費用、市場規模、気温、排出量などについて、統計モデル・計算・現在の傾向を将来へ延長した推計を表す。単なる主観的予想ではなく、何らかの数量的根拠があることを含意しやすい。be forecast to と非常に近いが、projected は特に将来の数値や長期的傾向に多く、forecast は天候・経済・需要などの専門的予測全般に使われる。あくまで予測値なので、実際にその結果になることを保証する表現ではない。",
+    "en": "Be projected to is especially common for estimates of population, sales, costs, market size, temperatures, emissions, and similar quantities based on statistical models, calculations, or the extension of current trends. It usually implies some quantitative basis rather than a purely subjective expectation. It is close to be forecast to, but projected is especially associated with future figures and long-term trends, whereas forecast applies more broadly to professional predictions. A projection remains an estimate and does not guarantee the stated outcome."
+  },
+  "minimal": {
+    "ja": [
+      "Sales are projected to increase.：計算・傾向上、売上は増加すると予測されている。",
+      "Sales are forecast to increase.：売上は専門的予測により増加すると見込まれている。",
+      "Sales are anticipated to increase.：売上は増加すると事前に見込まれている。",
+      "Sales are expected to increase.：売上は増加すると予想されている。最も一般的。",
+      "Sales are likely to increase.：売上が増加する可能性は高い。",
+      "The population is projected at ten million.：人口は1000万人と推計されている。",
+      "It is projected that costs will fall.：費用は低下すると推計されている。"
+    ],
+    "en": [
+      "Sales are projected to increase suggests a calculation or trend-based estimate.",
+      "Sales are forecast to increase reports a professional forecast.",
+      "Sales are anticipated to increase presents a formal prior expectation.",
+      "Sales are expected to increase is the broadest general prediction.",
+      "Sales are likely to increase emphasizes probability.",
+      "The population is projected at ten million gives the estimated future figure directly.",
+      "It is projected that costs will fall is the equivalent that-clause construction."
+    ]
+  },
+  "etymology": {
+    "ja": "project はラテン語 proicere『前へ投げる』の過去分詞 projectum に由来する。pro-『前へ』と iacere『投げる』から成る。物を前方へ投げるという原義から、考えや計画を未来へ延ばす意味が生じ、さらに現在の数値・傾向を将来へ延長して推計するという用法が発達した。名詞 project は第1音節に、動詞 project は第2音節に強勢を置く。",
+    "en": "Project comes from Latin projectum, the past participle of proicere, meaning to throw forward. It combines pro-, meaning forward, with iacere, meaning to throw. The physical idea of throwing something forward developed into extending a plan or calculation into the future and then into estimating future values from present figures or trends. The noun project is stressed on the first syllable, while the verb project is stressed on the second."
+  },
+  "synonyms": [
+    {
+      "word": "be forecast to",
+      "note": {
+        "ja": "天候・経済・売上・需要などについて、専門的な予測により～すると見込まれている。",
+        "en": "Used for a professional forecast concerning weather, economics, sales, demand, or similar developments."
+      }
+    },
+    {
+      "word": "be estimated to",
+      "note": {
+        "ja": "数量・費用・規模などが概算で～と見積もられている。将来に限らず現在・過去にも使える。",
+        "en": "Used for an approximate calculation of quantity, cost, or scale and can refer to the present or past as well as the future."
+      }
+    },
+    {
+      "word": "be anticipated to",
+      "note": {
+        "ja": "事前の分析・計画に基づいて～すると見込まれている。数値モデルの存在は必須でない。",
+        "en": "Expresses a formal prior expectation based on analysis or planning without necessarily implying a numerical model."
+      }
+    },
+    {
+      "word": "be expected to",
+      "note": {
+        "ja": "～すると予想されている。予測を表す最も一般的な表現で、役割上の期待にも使える。",
+        "en": "The broad general prediction expression, which can also describe role-based expectations."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Prognosen zufolge / hochgerechnet werden auf",
+    "it": "secondo le proiezioni / si prevede che",
+    "fr": "selon les projections / devrait atteindre",
+    "es": "según las proyecciones / se proyecta que"
+  },
+  "collocations": {
+    "ja": [
+      "be projected to increase — 増加すると予測されている",
+      "be projected to decrease — 減少すると予測されている",
+      "be projected to grow — 成長すると予測されている",
+      "be projected to decline — 減少すると予測されている",
+      "be projected to reach ten million — 1000万に達すると推計されている",
+      "be projected to exceed expectations — 予想を上回ると推計されている",
+      "be projected to double — 2倍になると予測されている",
+      "be projected to remain stable — 安定した状態が続くと推計されている",
+      "be projected to cost $1 billion — 10億ドルかかると見積もられている",
+      "be projected to generate revenue — 収益を生むと予測されている"
+    ],
+    "en": [
+      "be projected to increase",
+      "be projected to decrease",
+      "be projected to grow",
+      "be projected to decline",
+      "be projected to reach ten million",
+      "be projected to exceed expectations",
+      "be projected to double",
+      "be projected to remain stable",
+      "be projected to cost $1 billion",
+      "be projected to generate revenue"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The global population is projected to reach 9.7 billion by 2050. — 世界人口は2050年までに97億人に達すると推計されている。",
+      "The market is projected to grow by six percent annually. — その市場は年間6％成長すると予測されている。",
+      "The new system is projected to reduce operating costs significantly. — 新しいシステムは運営費を大幅に削減すると見込まれている。",
+      "Demand is projected to remain stable over the next decade. — 需要は今後10年間、安定した状態が続くと推計されている。",
+      "The project was originally projected to cost approximately $500 million. — その事業には当初、約5億ドルかかると見積もられていた。"
+    ],
+    "en": [
+      "The global population is projected to reach 9.7 billion by 2050.",
+      "The market is projected to grow by six percent annually.",
+      "The new system is projected to reduce operating costs significantly.",
+      "Demand is projected to remain stable over the next decade.",
+      "The project was originally projected to cost approximately $500 million."
+    ]
+  }
+},
+{
+  "id": "be_estimated_to",
+  "sid": "2026-00884",
+  "word": "be estimated to",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "grammatical construction",
+    "passive",
+    "estimate",
+    "approximation",
+    "quantity",
+    "cost",
+    "value",
+    "statistics",
+    "formal",
+    "business",
+    "academic",
+    "news",
+    "general"
+  ],
+  "grammar": {
+    "pos": "grammatical construction",
+    "structure": "be + estimated to + base verb",
+    "forms": {
+      "present": "am / is / are estimated to do",
+      "past": "was / were estimated to do",
+      "future": "will be estimated to do",
+      "negative": "am / is / are not estimated to do",
+      "passive": "be estimated to be + past participle",
+      "perfect": "be estimated to have + past participle",
+      "that_clause": "It is estimated that + clause"
+    },
+    "patterns": [
+      "subject + be estimated to + base verb",
+      "be estimated to be + number / age / value",
+      "be estimated to cost + amount",
+      "be estimated to contain + number / quantity",
+      "be estimated to affect + number of people",
+      "be estimated to have + past participle",
+      "be estimated at + amount / value",
+      "It is estimated that + clause"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi ˈestəmeɪtɪd tə/",
+      "uk": "/bi ˈestɪmeɪtɪd tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "概算では～すると見積もられている",
+      "正確な数値は不明だが、約～であると推定されている",
+      "費用・価値・数量などが一定の額や規模になると見積もられている",
+      "現在または過去の事実について、利用可能な情報から～と推定されている",
+      "将来の結果が概算で～になると見込まれている"
+    ],
+    "en": [
+      "to be approximately calculated to do or amount to something",
+      "to be judged to have a particular number, size, age, or value when the exact figure is unknown",
+      "to be calculated approximately to cost, contain, or affect a particular amount",
+      "to be inferred from available information to have done something",
+      "to be approximately predicted to produce a future result"
+    ]
+  },
+  "nuance": {
+    "ja": "be estimated to は、正確な情報が得られない場合に、利用可能なデータ・証拠・計算から概算値や推定を示す。将来だけでなく、現在の人口・価値・年齢、過去の被害・行動などにも使える。be projected to は、現在の傾向やモデルを将来へ延長した予測に重点があるが、be estimated to は時間を問わず『およその数量・状態』を算出する。金額そのものを示す場合は be estimated at、動作や状態を続ける場合は be estimated to が一般的。",
+    "en": "Be estimated to presents an approximate calculation or inference based on available data, evidence, or judgment when an exact figure is unavailable. It can refer to the present, past, or future. Be projected to focuses on extending a model or current trend into the future, whereas be estimated to more broadly calculates an approximate quantity, value, condition, or past fact. Be estimated at is commonly followed directly by an amount or value, while be estimated to is followed by a verb."
+  },
+  "minimal": {
+    "ja": [
+      "The population is estimated to be ten million.：人口は約1000万人と推定されている。",
+      "The population is estimated at ten million.：人口は1000万人と推定されている。",
+      "The population is projected to reach ten million.：人口は将来1000万人に達すると推計されている。",
+      "The work is estimated to cost $1 million.：その工事には100万ドルかかると見積もられている。",
+      "He is estimated to have left yesterday.：彼は昨日出発したと推定されている。",
+      "It is estimated that 500 people attended.：約500人が出席したと推定されている。",
+      "approximately：およそ。数値を直接修飾する副詞。"
+    ],
+    "en": [
+      "The population is estimated to be ten million gives an approximate present figure.",
+      "The population is estimated at ten million expresses the figure directly after at.",
+      "The population is projected to reach ten million gives a future model-based projection.",
+      "The work is estimated to cost $1 million gives an approximate cost.",
+      "He is estimated to have left yesterday makes an inference about a past action.",
+      "It is estimated that 500 people attended is the equivalent impersonal construction.",
+      "approximately is an adverb placed directly before an estimated figure."
+    ]
+  },
+  "etymology": {
+    "ja": "estimate はラテン語 aestimare『価値を評価する、見積もる』に由来し、古フランス語を経て英語に入った。aestimare は価値・重要性・数量などを判断することを表した。estimate something to be ～『何かを～と見積もる』を受動態にすると、something is estimated to be ～『何かは～と見積もられている』となる。",
+    "en": "Estimate comes through French from Latin aestimare, meaning to value, assess, or appraise. The Latin verb referred to judging value, importance, or quantity. Be estimated to is the passive counterpart of constructions such as estimate something to be a particular amount or estimate someone to have done something."
+  },
+  "synonyms": [
+    {
+      "word": "be projected to",
+      "note": {
+        "ja": "統計モデルや現在の傾向を将来へ延長し、将来の数値・結果を予測する。",
+        "en": "Used to predict a future figure or result by extending statistical models or current trends."
+      }
+    },
+    {
+      "word": "be calculated to",
+      "note": {
+        "ja": "計算の結果として～になると算出されている。estimate より計算過程を強く感じさせる。",
+        "en": "Presents a result as produced by calculation, with greater emphasis on the mathematical process."
+      }
+    },
+    {
+      "word": "be believed to",
+      "note": {
+        "ja": "証拠・報告などから～だと考えられている。数量的な概算である必要はない。",
+        "en": "Describes a belief based on evidence or reports and need not involve a numerical approximation."
+      }
+    },
+    {
+      "word": "be thought to",
+      "note": {
+        "ja": "一般に～と考えられている。推定方法を特定しない、より広い表現。",
+        "en": "The broader expression for a general belief or inference without specifying how it was formed."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schätzungsweise / auf etwas geschätzt werden",
+    "it": "si stima che / essere stimato in",
+    "fr": "être estimé à / on estime que",
+    "es": "se estima que / estar estimado en"
+  },
+  "collocations": {
+    "ja": [
+      "be estimated to be — ～であると推定されている",
+      "be estimated to cost — ～の費用がかかると見積もられている",
+      "be estimated to contain — ～を含むと推定されている",
+      "be estimated to affect — ～に影響すると推定されている",
+      "be estimated to generate — ～を生み出すと見積もられている",
+      "be estimated to exceed — ～を超えると推定されている",
+      "be estimated to have occurred — 発生したと推定されている",
+      "be estimated to have died — 死亡したと推定されている",
+      "be estimated at $1 million — 100万ドルと見積もられている",
+      "be conservatively estimated to — 控えめに見積もって～と推定される"
+    ],
+    "en": [
+      "be estimated to be",
+      "be estimated to cost",
+      "be estimated to contain",
+      "be estimated to affect",
+      "be estimated to generate",
+      "be estimated to exceed",
+      "be estimated to have occurred",
+      "be estimated to have died",
+      "be estimated at $1 million",
+      "be conservatively estimated to"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The building is estimated to be more than five hundred years old. — その建物は築500年以上と推定されている。",
+      "The repairs are estimated to cost approximately $2 million. — 修理費は約200万ドルと見積もられている。",
+      "The region is estimated to contain substantial mineral reserves. — その地域には相当量の鉱物資源が存在すると推定されている。",
+      "More than ten thousand people are estimated to have attended the event. — 1万人を超える人々がその催しに参加したと推定されている。",
+      "The economic value of the technology has been estimated at several billion dollars. — その技術の経済的価値は数十億ドルと見積もられている。"
+    ],
+    "en": [
+      "The building is estimated to be more than five hundred years old.",
+      "The repairs are estimated to cost approximately $2 million.",
+      "The region is estimated to contain substantial mineral reserves.",
+      "More than ten thousand people are estimated to have attended the event.",
+      "The economic value of the technology has been estimated at several billion dollars."
+    ]
+  }
+},
+{
+  "id": "be_calculated_to",
+  "sid": "2026-00885",
+  "word": "be calculated to",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "grammatical construction",
+    "passive",
+    "calculation",
+    "result",
+    "intention",
+    "design",
+    "strategy",
+    "criticism",
+    "formal",
+    "business",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "grammatical construction",
+    "structure": "be + calculated to + base verb",
+    "forms": {
+      "present": "am / is / are calculated to do",
+      "past": "was / were calculated to do",
+      "future": "will be calculated to do",
+      "negative": "am / is / are not calculated to do",
+      "passive": "be calculated to be + past participle",
+      "perfect": "be calculated to have + past participle"
+    },
+    "patterns": [
+      "be calculated to cost / produce / yield + amount",
+      "be calculated to be + number / value",
+      "be calculated to result in + noun",
+      "be calculated to achieve + result",
+      "be calculated to impress / deceive / provoke",
+      "be carefully / deliberately calculated to + base verb",
+      "be calculated to appeal to + person / group",
+      "be calculated to have + past participle"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi ˈkælkjəleɪtɪd tə/",
+      "uk": "/bi ˈkælkjʊleɪtɪd tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "計算の結果、～になると算出されている",
+      "一定の数量・費用・結果を生じると計算されている",
+      "特定の結果を生じさせるよう意図的に設計・計画されている",
+      "人を感心させる、欺く、刺激するなどの目的で仕組まれている"
+    ],
+    "en": [
+      "to be mathematically calculated to produce or amount to a particular result",
+      "to be determined by calculation to have a particular cost, value, or effect",
+      "to be deliberately designed or planned to produce a particular result",
+      "to be intended to impress, deceive, provoke, or influence someone"
+    ]
+  },
+  "nuance": {
+    "ja": "be calculated to には異なる二つの用法がある。第一は文字どおりの計算で、The system is calculated to save 20 percent. のように、計算上の結果を示す。be estimated to よりも、具体的な数式・測定値・計算過程によって結果が得られたという響きが強い。第二は calculated を『周到に計画された』という形容詞的な意味で使い、『ある反応や結果を意図的に引き起こすよう仕組まれている』ことを表す。A remark calculated to offend は『人を怒らせるよう意図された発言』であり、操作的・打算的だという批判を含むことが多い。",
+    "en": "Be calculated to has two distinct uses. In the literal use, it presents a result produced by mathematical calculation, measurement, or a defined method. Compared with be estimated to, it more strongly suggests a specific calculation rather than an approximate judgment. In the second use, calculated functions adjectivally and means deliberately planned to produce a particular reaction or result. A remark calculated to offend describes a deliberately provocative remark and often carries a critical implication of manipulation or cold planning."
+  },
+  "minimal": {
+    "ja": [
+      "The system is calculated to save 20 percent.：そのシステムは計算上20％の節約になる。",
+      "The cost is calculated to be $1 million.：費用は計算上100万ドルとなる。",
+      "The cost is estimated to be $1 million.：費用は概算で100万ドルと見積もられている。",
+      "The remark was calculated to offend.：その発言は意図的に人を怒らせるものだった。",
+      "be designed to：特定の目的を果たすよう設計されている。より中立的。",
+      "be intended to：～することを意図されている。意図を直接表す。",
+      "be likely to：～する可能性が高い。意図も計算過程も示さない。"
+    ],
+    "en": [
+      "The system is calculated to save 20 percent reports a calculated result.",
+      "The cost is calculated to be $1 million suggests a defined calculation.",
+      "The cost is estimated to be $1 million presents an approximate figure.",
+      "The remark was calculated to offend means that it was deliberately intended to cause offense.",
+      "be designed to is a more neutral expression of purpose.",
+      "be intended to directly states an intention.",
+      "be likely to expresses probability without implying intention or calculation."
+    ]
+  },
+  "etymology": {
+    "ja": "calculate はラテン語 calculare『小石を使って数える、計算する』に由来する。calculus は『小石』を意味し、古代には小石が計算に使われた。そこから『数値を算出する』という意味が生じ、さらに、人が結果を予測しながら周到に行動することから、『打算的に計画する』という比喩的意味も発達した。",
+    "en": "Calculate comes from Latin calculare, meaning to count or reckon using small stones. Calculus meant a small pebble, and pebbles were historically used as counting aids. From numerical reckoning developed the literal meaning of calculating a result and, later, the figurative sense of planning an action carefully in order to produce a desired effect."
+  },
+  "synonyms": [
+    {
+      "word": "be estimated to",
+      "note": {
+        "ja": "利用可能な情報に基づき、およそ～と見積もられている。厳密な計算を必ずしも含まない。",
+        "en": "Presents an approximate judgment based on available information and does not necessarily imply a precise calculation."
+      }
+    },
+    {
+      "word": "be designed to",
+      "note": {
+        "ja": "特定の機能・目的を果たすよう設計されている。通常は中立的。",
+        "en": "Means to be created for a particular function or purpose and is normally neutral."
+      }
+    },
+    {
+      "word": "be intended to",
+      "note": {
+        "ja": "特定の結果を目指して意図されている。calculated to より中立的で広い。",
+        "en": "Expresses an intended purpose or result and is broader and more neutral than calculated to."
+      }
+    },
+    {
+      "word": "be engineered to",
+      "note": {
+        "ja": "技術的または策略的に、特定の結果を生むよう作られている。",
+        "en": "Means to be technically or strategically constructed to produce a particular result."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "rechnerisch / darauf berechnet sein zu",
+    "it": "essere calcolato per / essere studiato per",
+    "fr": "être calculé pour / être conçu pour",
+    "es": "estar calculado para / estar concebido para"
+  },
+  "collocations": {
+    "ja": [
+      "be calculated to cost — 計算上～の費用がかかる",
+      "be calculated to save — 計算上～を節約する",
+      "be calculated to produce — 計算上～を生み出す",
+      "be calculated to yield — 計算上～の成果をもたらす",
+      "be calculated to result in — 計算上～という結果になる",
+      "be calculated to impress — 人を感心させるよう意図されている",
+      "be calculated to deceive — 人を欺くよう企てられている",
+      "be calculated to provoke — 人を刺激・挑発するよう意図されている",
+      "be calculated to appeal to voters — 有権者に訴えるよう計画されている",
+      "be deliberately calculated to — 意図的に～するよう仕組まれている"
+    ],
+    "en": [
+      "be calculated to cost",
+      "be calculated to save",
+      "be calculated to produce",
+      "be calculated to yield",
+      "be calculated to result in",
+      "be calculated to impress",
+      "be calculated to deceive",
+      "be calculated to provoke",
+      "be calculated to appeal to voters",
+      "be deliberately calculated to"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The new equipment is calculated to reduce energy use by fifteen percent. — 新しい設備は計算上、エネルギー使用量を15％削減する。",
+      "The total cost is calculated to be approximately $3 million. — 総費用は計算上、約300万ドルとなる。",
+      "The changes are calculated to produce substantial savings over ten years. — その変更は計算上、10年間で相当な節約を生み出す。",
+      "His statement appeared to be calculated to provoke an angry response. — 彼の発言は、怒りの反応を意図的に引き起こすためのものに見えた。",
+      "The advertisement was carefully calculated to appeal to younger consumers. — その広告は若い消費者に訴えるよう周到に企画されていた。"
+    ],
+    "en": [
+      "The new equipment is calculated to reduce energy use by fifteen percent.",
+      "The total cost is calculated to be approximately $3 million.",
+      "The changes are calculated to produce substantial savings over ten years.",
+      "His statement appeared to be calculated to provoke an angry response.",
+      "The advertisement was carefully calculated to appeal to younger consumers."
+    ]
+  }
+},
+{
+  "id": "be_believed_to",
+  "sid": "2026-00886",
+  "word": "be believed to",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "grammatical construction",
+    "passive",
+    "reporting construction",
+    "belief",
+    "inference",
+    "evidence",
+    "uncertainty",
+    "formal",
+    "news",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "grammatical construction",
+    "structure": "be + believed to + base verb",
+    "forms": {
+      "present": "am / is / are believed to do",
+      "past": "was / were believed to do",
+      "negative": "am / is / are not believed to do",
+      "passive": "be believed to be + past participle",
+      "continuous": "be believed to be + -ing",
+      "perfect": "be believed to have + past participle",
+      "perfect_passive": "be believed to have been + past participle",
+      "that_clause": "It is believed that + clause"
+    },
+    "patterns": [
+      "subject + be believed to + base verb",
+      "be believed to be + noun / adjective",
+      "be believed to be + -ing",
+      "be believed to have + past participle",
+      "be believed to have been + noun / adjective",
+      "be believed to have been + past participle",
+      "It is believed that + clause"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi bɪˈliːvd tə/",
+      "uk": "/bi bɪˈliːvd tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "～すると考えられている",
+      "～であると信じられている",
+      "証拠・報告・一般的認識に基づいて～と推定されている",
+      "過去に～したと考えられている",
+      "事実として未確認だが、～である可能性が高いと見られている"
+    ],
+    "en": [
+      "to be generally considered or thought to do something",
+      "to be accepted as probably true on the basis of evidence or reports",
+      "to be inferred to have a particular identity, quality, or condition",
+      "to be thought to have performed a past action",
+      "to be regarded as probable although not conclusively established"
+    ]
+  },
+  "nuance": {
+    "ja": "be believed to は、情報の出所を明示せず、証拠・報道・専門家の見解・一般的認識などに基づく判断を客観的な調子で述べる。ニュース、研究、歴史記述、捜査報道などで多い。現在の状態には be believed to be、進行中の行為には be believed to be doing、過去の行為には be believed to have done を使う。事実として確定しているとは限らないため、断定を避ける働きがある。be expected to が将来予測や役割上の期待を表すのに対し、be believed to は現在・過去を含む事実認識に重点を置く。",
+    "en": "Be believed to presents a judgment based on evidence, reports, expert opinion, or general understanding without naming the source. It is common in news, research, historical writing, and reports of investigations. Be believed to be describes a present state, be believed to be doing an ongoing action, and be believed to have done a completed past action. The construction avoids presenting the proposition as conclusively established. Unlike be expected to, which often expresses a future prediction or role-based expectation, be believed to focuses on what is regarded as factually probable."
+  },
+  "minimal": {
+    "ja": [
+      "He is believed to be alive.：彼は生存していると考えられている。",
+      "He is believed to be hiding abroad.：彼は国外に潜伏していると考えられている。",
+      "He is believed to have left the country.：彼は国外へ出たと考えられている。",
+      "It is believed that he left the country.：彼は国外へ出たと考えられている。",
+      "be thought to：～と考えられている。believed より中立的で幅広い。",
+      "be alleged to：～したと主張されている。未証明の疑惑に重点。",
+      "be known to：～することが知られている。事実性がより高い。"
+    ],
+    "en": [
+      "He is believed to be alive describes a believed present state.",
+      "He is believed to be hiding abroad describes a believed ongoing action.",
+      "He is believed to have left the country describes a believed completed action.",
+      "It is believed that he left the country is the equivalent impersonal construction.",
+      "be thought to is a broad and relatively neutral reporting construction.",
+      "be alleged to emphasizes an unproven claim or accusation.",
+      "be known to presents the information as established fact."
+    ]
+  },
+  "etymology": {
+    "ja": "believe は古英語 belȳfan・gelȳfan『信じる、信頼する』に由来するゲルマン系の語。現代英語の be と lieve を組み合わせた語ではなく、語頭部分は古い接頭辞に由来する。believe someone to be ～『人を～だと考える』を受動態にすると、someone is believed to be ～『人は～だと考えられている』となる。",
+    "en": "Believe comes from the Old English Germanic verb belȳfan or gelȳfan, meaning to believe or trust. It is not a modern combination of be and lieve. Be believed to is the passive counterpart of constructions such as believe someone to be something or believe someone to have done something."
+  },
+  "synonyms": [
+    {
+      "word": "be thought to",
+      "note": {
+        "ja": "～と考えられている。be believed to と非常に近く、幅広い推測・見解に使われる。",
+        "en": "A very close and broadly applicable reporting construction for opinions, judgments, and inferences."
+      }
+    },
+    {
+      "word": "be considered to",
+      "note": {
+        "ja": "評価・判断の結果として～と見なされている。人物・物の性質や地位の評価に多い。",
+        "en": "Means to be regarded as having a particular quality or status after evaluation or judgment."
+      }
+    },
+    {
+      "word": "be alleged to",
+      "note": {
+        "ja": "～したと主張・申し立てられている。疑惑は未証明であることを明示する。",
+        "en": "Reports an accusation or claim while emphasizing that it has not been proved."
+      }
+    },
+    {
+      "word": "be understood to",
+      "note": {
+        "ja": "入手可能な情報から～と理解されている。報道で情報源を明示せずに述べる場合にも使う。",
+        "en": "Reports an understanding based on available information, often without identifying a source."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "es wird angenommen, dass / gelten als",
+    "it": "si ritiene che / essere ritenuto",
+    "fr": "on pense que / être considéré comme",
+    "es": "se cree que / ser considerado"
+  },
+  "collocations": {
+    "ja": [
+      "be widely believed to — ～と広く信じられている",
+      "be generally believed to — ～と一般に考えられている",
+      "be believed to be true — 真実であると考えられている",
+      "be believed to be responsible — 責任があると考えられている",
+      "be believed to be hiding — 潜伏していると考えられている",
+      "be believed to contain — ～を含むと考えられている",
+      "be believed to have originated — ～に起源を持つと考えられている",
+      "be believed to have left — 立ち去ったと考えられている",
+      "be believed to have caused — ～を引き起こしたと考えられている",
+      "be believed to have been stolen — 盗まれたと考えられている"
+    ],
+    "en": [
+      "be widely believed to",
+      "be generally believed to",
+      "be believed to be true",
+      "be believed to be responsible",
+      "be believed to be hiding",
+      "be believed to contain",
+      "be believed to have originated",
+      "be believed to have left",
+      "be believed to have caused",
+      "be believed to have been stolen"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The manuscript is believed to be more than eight hundred years old. — その写本は800年以上前のものと考えられている。",
+      "The suspect is believed to be hiding outside the country. — 容疑者は国外に潜伏していると考えられている。",
+      "The fire is believed to have started in the kitchen. — 火災は台所から発生したと考えられている。",
+      "The species is believed to have originated in Southeast Asia. — その種は東南アジアに起源を持つと考えられている。",
+      "Several confidential documents are believed to have been stolen. — 複数の機密文書が盗まれたと考えられている。"
+    ],
+    "en": [
+      "The manuscript is believed to be more than eight hundred years old.",
+      "The suspect is believed to be hiding outside the country.",
+      "The fire is believed to have started in the kitchen.",
+      "The species is believed to have originated in Southeast Asia.",
+      "Several confidential documents are believed to have been stolen."
+    ]
+  }
+},
+{
+  "id": "be_intended_to",
+  "sid": "2026-00887",
+  "word": "be intended to",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "grammatical construction",
+    "passive",
+    "intention",
+    "purpose",
+    "design",
+    "plan",
+    "function",
+    "formal",
+    "business",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "grammatical construction",
+    "structure": "be + intended to + base verb",
+    "forms": {
+      "present": "am / is / are intended to do",
+      "past": "was / were intended to do",
+      "future": "will be intended to do",
+      "negative": "am / is / are not intended to do",
+      "passive": "be intended to be + past participle",
+      "perfect": "be intended to have + past participle",
+      "for_pattern": "be intended for + noun / person"
+    },
+    "patterns": [
+      "subject + be intended to + base verb",
+      "be intended to help / prevent / provide / encourage",
+      "be intended to serve as + noun",
+      "be intended to be + noun / adjective",
+      "be intended to be + past participle",
+      "be intended for + person / group / purpose",
+      "be originally / primarily / specifically intended to + base verb",
+      "be not intended to + base verb"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi ɪnˈtendɪd tə/",
+      "uk": "/bi ɪnˈtendɪd tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "～することを目的としている",
+      "～するよう意図・設計されている",
+      "～するために作られた、導入された",
+      "人が～するつもり・予定になっている",
+      "特定の人・用途に向けられている"
+    ],
+    "en": [
+      "to have been created or introduced for the purpose of doing something",
+      "to be designed or meant to produce a particular effect",
+      "to be planned to serve a particular function",
+      "to be meant or planned for someone to do something",
+      "to be directed toward a particular person, group, or use"
+    ]
+  },
+  "nuance": {
+    "ja": "be intended to は、物・制度・措置・発言・行動などの目的や作り手の意図を表す。The measure is intended to reduce costs. は『その措置は費用削減を目的としている』という意味で、実際に削減に成功することまでは保証しない。be designed to と近いが、designed は構造・機能としての設計を、intended は作り手・話し手の意図をより広く表す。人を主語にした I was intended to... は現代の一般的な予定表現としては不自然な場合があり、通常は I intended to... または I was supposed to... を使う。",
+    "en": "Be intended to describes the purpose or intention behind an object, measure, statement, or action. The measure is intended to reduce costs identifies its purpose but does not guarantee that costs will actually fall. It is close to be designed to, but designed often emphasizes functional construction, while intended more broadly emphasizes the creator's or speaker's purpose. With a human subject, forms such as I was intended to are often unnatural for an ordinary personal plan; I intended to or I was supposed to is usually preferable."
+  },
+  "minimal": {
+    "ja": [
+      "The measure is intended to reduce costs.：その措置は費用削減を目的としている。",
+      "The measure is expected to reduce costs.：その措置は費用を削減すると予想されている。",
+      "The device is designed to reduce noise.：その装置は騒音を減らすよう機能的に設計されている。",
+      "The remark was calculated to offend.：その発言は人を怒らせるよう意図的に仕組まれていた。",
+      "This document is intended for applicants.：この書類は申請者向けである。",
+      "I intended to call her.：私は彼女に電話するつもりだった。",
+      "I was supposed to call her.：私は彼女に電話することになっていた。"
+    ],
+    "en": [
+      "The measure is intended to reduce costs describes its purpose.",
+      "The measure is expected to reduce costs makes a prediction about its effect.",
+      "The device is designed to reduce noise emphasizes functional design.",
+      "The remark was calculated to offend suggests deliberate and often manipulative planning.",
+      "This document is intended for applicants identifies the target audience.",
+      "I intended to call her describes my own plan or intention.",
+      "I was supposed to call her describes an arrangement or expectation."
+    ]
+  },
+  "etymology": {
+    "ja": "intend はラテン語 intendere『～へ向ける、伸ばす、集中する』に由来する。in-『～の方向へ』と tendere『伸ばす』から成り、心や注意を特定の目標へ向けることから『意図する』という意味が発達した。intend something to do ～『何かが～するよう意図する』を受動態にすると、something is intended to do ～となる。",
+    "en": "Intend comes from Latin intendere, meaning to stretch toward, direct, or concentrate. It combines in-, meaning toward, with tendere, meaning to stretch. The image of directing the mind toward a goal developed into the modern meaning of having a purpose or intention. Be intended to is the passive counterpart of intending something to perform a particular function."
+  },
+  "synonyms": [
+    {
+      "word": "be designed to",
+      "note": {
+        "ja": "特定の機能・目的を果たすよう設計されている。構造や機能に重点がある。",
+        "en": "Means to be constructed for a particular function or purpose, emphasizing design and functionality."
+      }
+    },
+    {
+      "word": "be meant to",
+      "note": {
+        "ja": "～することを意図されている、～することになっている。より口語的で意味範囲が広い。",
+        "en": "A more conversational expression covering intended purpose, expected behavior, and arrangements."
+      }
+    },
+    {
+      "word": "be supposed to",
+      "note": {
+        "ja": "予定・規則・役割として～することになっている。目的より外部からの期待に重点がある。",
+        "en": "Describes an arrangement, rule, or external expectation rather than primarily identifying purpose."
+      }
+    },
+    {
+      "word": "be calculated to",
+      "note": {
+        "ja": "特定の反応・結果を生じさせるよう周到に仕組まれている。しばしば打算的・批判的。",
+        "en": "Means to be deliberately planned to produce a particular response or result, often with a critical implication."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "dazu bestimmt sein zu / dazu gedacht sein zu",
+    "it": "essere destinato a / essere concepito per",
+    "fr": "être destiné à / avoir pour but de",
+    "es": "estar destinado a / tener por objeto"
+  },
+  "collocations": {
+    "ja": [
+      "be intended to help — 支援することを目的としている",
+      "be intended to prevent — 防止することを目的としている",
+      "be intended to reduce costs — 費用削減を目的としている",
+      "be intended to improve efficiency — 効率向上を目的としている",
+      "be intended to provide information — 情報提供を目的としている",
+      "be intended to encourage participation — 参加促進を目的としている",
+      "be intended to serve as a guide — 手引きとして機能することを意図されている",
+      "be specifically intended for children — 特に子ども向けに作られている",
+      "be originally intended to — 当初は～することを目的としていた",
+      "not be intended to replace — ～に取って代わることを意図していない"
+    ],
+    "en": [
+      "be intended to help",
+      "be intended to prevent",
+      "be intended to reduce costs",
+      "be intended to improve efficiency",
+      "be intended to provide information",
+      "be intended to encourage participation",
+      "be intended to serve as a guide",
+      "be specifically intended for children",
+      "be originally intended to",
+      "not be intended to replace"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The new procedure is intended to reduce processing time. — 新しい手続は処理時間の短縮を目的としている。",
+      "This guide is intended to help applicants avoid common mistakes. — この手引きは、申請者がよくある間違いを避けるのを助けることを目的としている。",
+      "The device was originally intended to serve as a medical tool. — その装置は当初、医療器具として機能するよう意図されていた。",
+      "The comment was not intended to offend anyone. — その発言は誰かを不快にさせる意図のものではなかった。",
+      "These materials are intended for use in professional training. — これらの資料は専門研修での使用を目的としている。"
+    ],
+    "en": [
+      "The new procedure is intended to reduce processing time.",
+      "This guide is intended to help applicants avoid common mistakes.",
+      "The device was originally intended to serve as a medical tool.",
+      "The comment was not intended to offend anyone.",
+      "These materials are intended for use in professional training."
+    ]
+  }
+},
+{
+  "id": "be_thought_to",
+  "sid": "2026-00888",
+  "word": "be thought to",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "grammatical construction",
+    "passive",
+    "reporting construction",
+    "opinion",
+    "inference",
+    "belief",
+    "uncertainty",
+    "formal",
+    "news",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "grammatical construction",
+    "structure": "be + thought to + base verb",
+    "forms": {
+      "present": "am / is / are thought to do",
+      "past": "was / were thought to do",
+      "negative": "am / is / are not thought to do",
+      "passive": "be thought to be + past participle",
+      "continuous": "be thought to be + -ing",
+      "perfect": "be thought to have + past participle",
+      "perfect_passive": "be thought to have been + past participle",
+      "that_clause": "It is thought that + clause"
+    },
+    "patterns": [
+      "subject + be thought to + base verb",
+      "be thought to be + noun / adjective",
+      "be thought to be + -ing",
+      "be thought to have + past participle",
+      "be thought to have been + noun / adjective",
+      "be thought to have been + past participle",
+      "It is thought that + clause"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi ˈθɔːt tə/",
+      "uk": "/bi ˈθɔːt tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "～すると考えられている",
+      "一般に～であると思われている",
+      "証拠・研究・報告などから～と推定されている",
+      "過去に～したと考えられている",
+      "確定はしていないが、～であるという見方がある"
+    ],
+    "en": [
+      "to be generally considered likely or true",
+      "to be regarded as having a particular quality, identity, or condition",
+      "to be inferred from evidence, research, or reports to do something",
+      "to be considered to have performed a past action",
+      "to be the subject of an accepted but not conclusively proved view"
+    ]
+  },
+  "nuance": {
+    "ja": "be thought to は、誰がそう考えているのかを特定せず、一般的見解・研究上の仮説・証拠に基づく推定などを形式的かつ中立的に述べる。現在の状態には be thought to be、進行中の行為には be thought to be doing、過去の行為には be thought to have done を使う。be believed to とほぼ同義だが、thought は『そのような見解・判断がある』という知的で中立的な響きが強く、believed は信念・確信の程度が多少強く聞こえる場合がある。ただし、多くの文脈では交換可能。",
+    "en": "Be thought to formally and neutrally reports a general view, scholarly hypothesis, or inference without identifying who holds it. Be thought to be describes a present state, be thought to be doing an ongoing action, and be thought to have done a completed past action. It is very close to be believed to, but thought often sounds slightly more neutral and intellectual, presenting a view or judgment, while believed can sometimes suggest a somewhat stronger degree of acceptance or conviction. In many contexts, however, they are interchangeable."
+  },
+  "minimal": {
+    "ja": [
+      "The species is thought to be extinct.：その種は絶滅したと考えられている。",
+      "He is thought to be living abroad.：彼は国外で暮らしていると考えられている。",
+      "The fire is thought to have started here.：火災はここから発生したと考えられている。",
+      "It is thought that the fire started here.：火災はここから発生したと考えられている。",
+      "be believed to：～と信じられている。確信・信念を多少強く感じさせる場合がある。",
+      "be considered to：評価・判断の結果、～と見なされている。",
+      "be known to：～することが知られている。事実としての確実性が高い。"
+    ],
+    "en": [
+      "The species is thought to be extinct reports a present view.",
+      "He is thought to be living abroad reports a believed ongoing situation.",
+      "The fire is thought to have started here reports an inference about a past event.",
+      "It is thought that the fire started here is the equivalent impersonal construction.",
+      "be believed to may suggest somewhat stronger acceptance or conviction.",
+      "be considered to often emphasizes evaluation or classification.",
+      "be known to presents information as established fact."
+    ]
+  },
+  "etymology": {
+    "ja": "thought は think の過去形・過去分詞で、think は古英語 þencan・þencgan『考える、心に思う』に由来するゲルマン系の語。think someone to be ～『人を～だと考える』の受動態として、someone is thought to be ～『人は～だと考えられている』という報告構文が成立する。",
+    "en": "Thought is the past tense and past participle of think. Think comes from the Old English Germanic verb þencan or þencgan, meaning to think, consider, or conceive in the mind. Be thought to developed as the passive counterpart of constructions such as think someone to be something."
+  },
+  "synonyms": [
+    {
+      "word": "be believed to",
+      "note": {
+        "ja": "証拠・報告・一般的認識に基づいて～と信じられている。thought より確信を多少強く感じさせる場合がある。",
+        "en": "Reports a belief based on evidence, reports, or general understanding and may sometimes suggest stronger acceptance."
+      }
+    },
+    {
+      "word": "be considered to",
+      "note": {
+        "ja": "評価・比較・判断の結果、特定の性質や地位を持つと見なされている。",
+        "en": "Means to be regarded as having a particular quality or status after evaluation or comparison."
+      }
+    },
+    {
+      "word": "be assumed to",
+      "note": {
+        "ja": "証明せず、前提として～と仮定されている。実際に正しいとは限らない。",
+        "en": "Means to be accepted as a working assumption without proof and may not actually be correct."
+      }
+    },
+    {
+      "word": "be understood to",
+      "note": {
+        "ja": "入手可能な情報から～と理解されている。報道で非公式情報を示す場合にも多い。",
+        "en": "Reports an understanding based on available information and is often used for unofficially sourced news."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "es wird angenommen, dass / gelten als",
+    "it": "si ritiene che / essere ritenuto",
+    "fr": "on pense que / être considéré comme",
+    "es": "se piensa que / se considera que"
+  },
+  "collocations": {
+    "ja": [
+      "be widely thought to — ～と広く考えられている",
+      "be generally thought to — ～と一般に考えられている",
+      "be thought to be true — 真実であると考えられている",
+      "be thought to be responsible — 責任があると考えられている",
+      "be thought to be living — 暮らしていると考えられている",
+      "be thought to contain — ～を含むと考えられている",
+      "be thought to play a role — 役割を果たすと考えられている",
+      "be thought to have originated — ～に起源を持つと考えられている",
+      "be thought to have caused — ～を引き起こしたと考えられている",
+      "be thought to have been destroyed — 破壊されたと考えられている"
+    ],
+    "en": [
+      "be widely thought to",
+      "be generally thought to",
+      "be thought to be true",
+      "be thought to be responsible",
+      "be thought to be living",
+      "be thought to contain",
+      "be thought to play a role",
+      "be thought to have originated",
+      "be thought to have caused",
+      "be thought to have been destroyed"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The species is thought to be extinct in the wild. — その種は野生では絶滅したと考えられている。",
+      "The suspect is thought to be using a false identity. — 容疑者は偽名を使用していると考えられている。",
+      "The tradition is thought to have originated in northern Italy. — その伝統は北イタリアに起源を持つと考えられている。",
+      "Several factors are thought to contribute to the condition. — 複数の要因がその状態に関与すると考えられている。",
+      "The original records are thought to have been destroyed during the war. — 原記録は戦争中に破壊されたと考えられている。"
+    ],
+    "en": [
+      "The species is thought to be extinct in the wild.",
+      "The suspect is thought to be using a false identity.",
+      "The tradition is thought to have originated in northern Italy.",
+      "Several factors are thought to contribute to the condition.",
+      "The original records are thought to have been destroyed during the war."
+    ]
+  }
+},
+{
+  "id": "could_have_done",
+  "sid": "2026-00889",
+  "word": "could have done",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "modal construction",
+    "modal perfect",
+    "past",
+    "possibility",
+    "opportunity",
+    "ability",
+    "criticism",
+    "counterfactual",
+    "inference",
+    "grammar",
+    "general"
+  ],
+  "grammar": {
+    "pos": "modal construction",
+    "structure": "could + have + past participle",
+    "forms": {
+      "affirmative": "could have done",
+      "contracted": "could've done",
+      "negative": "could not have done",
+      "negative_contracted": "couldn't have done",
+      "passive": "could have been done",
+      "continuous": "could have been doing"
+    },
+    "patterns": [
+      "subject + could have + past participle",
+      "subject + could not have + past participle",
+      "Could + subject + have + past participle?",
+      "could have been + noun / adjective",
+      "could have been + past participle",
+      "could have been + -ing",
+      "could easily / possibly / conceivably have + past participle"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkʊd həv ˈdʌn/",
+      "uk": "/ˌkʊd həv ˈdʌn/"
+    },
+    "reduced": {
+      "us": "/ˌkʊdəv ˈdʌn/",
+      "uk": "/ˌkʊdəv ˈdʌn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "～することもできたのに、実際にはしなかった",
+      "～する機会・能力・選択肢があった",
+      "～してくれてもよかったのに、と過去の不作為を批判する",
+      "ひょっとすると～した可能性がある",
+      "別の条件なら～という結果になり得た",
+      "否定形で、～できたはずがない、～することは不可能だった"
+    ],
+    "en": [
+      "used to describe an ability, opportunity, or option that existed but was not used",
+      "used to criticize someone for failing to take a possible action",
+      "used to say that a past event was possibly true",
+      "used to describe a result that was possible under different circumstances",
+      "used in the negative to say that a past action or event was impossible"
+    ]
+  },
+  "nuance": {
+    "ja": "could have＋過去分詞には複数の用法があり、実際に行為が起きたかどうかは用法によって異なる。I could have won. は通常『勝つこともできたのに、実際には勝たなかった』という未実現の可能性。You could have told me. は『言ってくれてもよかったのに』という批判。一方、He could have taken the wrong train. は『彼は間違った電車に乗った可能性がある』という推測で、実際に乗った可能性を残す。couldn't have done は『～できたはずがない』という強い不可能性の判断にも、過去の能力不足にも使われる。",
+    "en": "Could have followed by a past participle has several uses, and whether the event actually happened depends on context. I could have won normally describes an unrealized possibility and implies that I did not win. You could have told me criticizes someone for failing to take an available action. By contrast, He could have taken the wrong train expresses uncertainty about a past event and leaves open the possibility that he did take it. Couldn't have done can express either strong impossibility or a lack of past ability."
+  },
+  "minimal": {
+    "ja": [
+      "I could have gone.：行くこともできたのに、行かなかった。",
+      "You could have told me.：私に言ってくれてもよかったのに。",
+      "He could have taken the wrong train.：彼は間違った電車に乗った可能性がある。",
+      "It could have been worse.：もっと悪い結果になっていた可能性もある。",
+      "I couldn't have known.：私に分かるはずがなかった。",
+      "should have done：～すべきだった。義務・後悔に重点。",
+      "might have done：ひょっとすると～したかもしれない。推測に重点。"
+    ],
+    "en": [
+      "I could have gone normally implies that going was possible but I did not go.",
+      "You could have told me expresses criticism about a missed action.",
+      "He could have taken the wrong train expresses a possible explanation.",
+      "It could have been worse describes a possible alternative result.",
+      "I couldn't have known says that knowing was impossible.",
+      "should have done emphasizes duty, advice, regret, or criticism.",
+      "might have done primarily expresses uncertainty about a past event."
+    ]
+  },
+  "etymology": {
+    "ja": "could は can の過去形に由来し、古英語 cūþe『知っていた、できた』にさかのぼる。綴りの l は本来発音されず、should・would との類推によって中英語以降に加えられた。これに完了形 have＋過去分詞が続くことで、過去に存在した可能性・能力・選択肢や、過去の出来事についての推測を表すようになった。",
+    "en": "Could developed as the past form of can and goes back to Old English cūþe, meaning knew how to or was able. The letter l is not pronounced and was added historically by analogy with should and would. Combined with the perfect have plus a past participle, could expresses a past possibility, ability, opportunity, alternative result, or inference."
+  },
+  "synonyms": [
+    {
+      "word": "might have done",
+      "note": {
+        "ja": "過去に～した可能性がある。推測用法では could have done と近いが、未使用の能力・機会は通常表さない。",
+        "en": "Expresses uncertainty about a past event and is close to the inferential use of could have done, but normally not the missed-opportunity use."
+      }
+    },
+    {
+      "word": "would have been able to",
+      "note": {
+        "ja": "特定の条件が満たされていれば～できただろう。能力をより明示的に表す。",
+        "en": "More explicitly describes an ability that would have existed if a particular condition had been satisfied."
+      }
+    },
+    {
+      "word": "should have done",
+      "note": {
+        "ja": "過去に～すべきだった。可能性より義務・適切さ・後悔に重点がある。",
+        "en": "Says that a past action was advisable or right, emphasizing duty or regret rather than mere possibility."
+      }
+    },
+    {
+      "word": "was capable of doing",
+      "note": {
+        "ja": "過去に～する能力があった。実際に行ったかどうかは文脈による。",
+        "en": "Describes an existing past ability without necessarily indicating whether the action occurred."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "hätte tun können / könnte getan haben",
+    "it": "avrebbe potuto fare / potrebbe aver fatto",
+    "fr": "aurait pu faire / pourrait avoir fait",
+    "es": "podría haber hecho / pudo haber hecho"
+  },
+  "collocations": {
+    "ja": [
+      "could have done better — もっとよくできたはずだ",
+      "could have won — 勝つこともできた",
+      "could have avoided — 避けることもできた",
+      "could have prevented — 防ぐこともできた",
+      "could have told me — 私に言ってくれてもよかった",
+      "could have been worse — もっと悪い結果にもなり得た",
+      "could have happened — 起こった可能性がある",
+      "could easily have caused — 容易に～を引き起こしかねなかった",
+      "could not have known — 知ることはできなかった",
+      "couldn't have done it without someone — 人なしではそれを成し遂げられなかった"
+    ],
+    "en": [
+      "could have done better",
+      "could have won",
+      "could have avoided",
+      "could have prevented",
+      "could have told me",
+      "could have been worse",
+      "could have happened",
+      "could easily have caused",
+      "could not have known",
+      "couldn't have done it without someone"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I could have finished the report yesterday, but I decided to check the figures again. — 昨日その報告書を完成させることもできたが、数字をもう一度確認することにした。",
+      "You could have told me that the meeting had been canceled. — 会議が中止になったことを私に言ってくれてもよかったのに。",
+      "The error could have occurred during data transfer. — そのエラーはデータ転送中に発生した可能性がある。",
+      "Without the backup, we could have lost all the files. — バックアップがなければ、すべてのファイルを失っていた可能性がある。",
+      "I couldn't have completed the application without her help. — 彼女の助けがなければ、その申請を完了することはできなかった。"
+    ],
+    "en": [
+      "I could have finished the report yesterday, but I decided to check the figures again.",
+      "You could have told me that the meeting had been canceled.",
+      "The error could have occurred during data transfer.",
+      "Without the backup, we could have lost all the files.",
+      "I couldn't have completed the application without her help."
+    ]
+  }
+},
+{
+  "id": "would_have_been_able_to",
+  "sid": "2026-00890",
+  "word": "would have been able to",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "modal construction",
+    "conditional perfect",
+    "past",
+    "ability",
+    "possibility",
+    "counterfactual",
+    "condition",
+    "hypothetical result",
+    "grammar",
+    "general"
+  ],
+  "grammar": {
+    "pos": "modal construction",
+    "structure": "would + have + been able to + base verb",
+    "forms": {
+      "affirmative": "would have been able to do",
+      "contracted": "would've been able to do",
+      "negative": "would not have been able to do",
+      "negative_contracted": "wouldn't have been able to do",
+      "question": "Would + subject + have been able to do?",
+      "passive": "would have been able to be + past participle"
+    },
+    "patterns": [
+      "subject + would have been able to + base verb",
+      "subject + would not have been able to + base verb",
+      "Would + subject + have been able to + base verb?",
+      "if + past perfect, subject + would have been able to + base verb",
+      "without + noun, subject + would not have been able to + base verb",
+      "with + noun, subject + would have been able to + base verb"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌwʊd həv bɪn ˈeɪbəl tə/",
+      "uk": "/ˌwʊd həv biːn ˈeɪbəl tə/"
+    },
+    "reduced": {
+      "us": "/ˌwʊdəv bɪn ˈeɪbəl tə/",
+      "uk": "/ˌwʊdəv bɪn ˈeɪbəl tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ある条件が満たされていれば～できただろう",
+      "実際とは異なる過去の状況なら、～する能力・機会があっただろう",
+      "助力・時間・資源などがあれば、特定の行為を成し遂げられただろう",
+      "否定形で、ある条件下では～できなかっただろう"
+    ],
+    "en": [
+      "used to say that someone could have done something if a condition had been satisfied",
+      "used to describe an ability or opportunity that would have existed in a different past situation",
+      "used to describe a specific achievement that would have been possible with sufficient help, time, or resources",
+      "used in the negative to say that an action would have been impossible under particular conditions"
+    ]
+  },
+  "nuance": {
+    "ja": "would have been able to は、過去の事実に反する条件のもとで存在したはずの能力・可能性を表す。通常は if＋過去完了を伴う仮定法過去完了の結果節で使われる。If I had had more time, I would have been able to finish. は、実際には時間が足りず、完成できなかったことを示す。could have finished でも近い意味を表せるが、could have done は『実際には使わなかった機会』や『ひょっとすると～した』という推測にもなる。would have been able to は、仮定条件から生じる能力という意味がより明確で、曖昧さが少ない。",
+    "en": "Would have been able to describes an ability or possibility that would have existed under a counterfactual past condition. It commonly appears in the result clause of a third conditional with if plus the past perfect. If I had had more time, I would have been able to finish implies that I did not have enough time and did not finish. Could have finished can express a similar idea, but could have also describes unused opportunities or uncertain past possibilities. Would have been able to more explicitly identifies ability as the hypothetical result of a condition."
+  },
+  "minimal": {
+    "ja": [
+      "I would have been able to finish if I had had more time.：もっと時間があれば、完成できただろう。",
+      "I could have finished.：完成することもできた・完成した可能性もある。",
+      "I was able to finish.：実際に完成することができた。",
+      "I would be able to finish.：条件が整えば、完成できるだろう。",
+      "I wouldn't have been able to finish without her.：彼女なしでは完成できなかっただろう。",
+      "couldn't have finished：完成できたはずがない・完成する能力がなかった。",
+      "would have managed to finish：何とか完成できただろう。困難の克服を強調。"
+    ],
+    "en": [
+      "I would have been able to finish if I had had more time describes counterfactual past ability.",
+      "I could have finished can describe either an unused opportunity or a possible past event.",
+      "I was able to finish states that the achievement actually occurred.",
+      "I would be able to finish describes ability under a present or future condition.",
+      "I wouldn't have been able to finish without her describes dependence on her help.",
+      "couldn't have finished can express either impossibility or lack of ability.",
+      "would have managed to finish emphasizes successful completion despite difficulty."
+    ]
+  },
+  "etymology": {
+    "ja": "would は will の過去形に由来し、古英語 wolde にさかのぼる。完了形 have been に able to を続けることで、過去のある条件下で成立したはずの能力を表す。able は古フランス語 able・habile を経て、ラテン語 habilis『扱いやすい、適した、能力のある』に由来し、habere『持つ』と関係する。",
+    "en": "Would developed as the past form of will and goes back to Old English wolde. Combined with the perfect have been and able to, it describes an ability that would have existed under a past condition. Able came through Old French able or habile from Latin habilis, meaning suitable, manageable, or capable, and is related to habere, meaning to have."
+  },
+  "synonyms": [
+    {
+      "word": "could have done",
+      "note": {
+        "ja": "過去に～することが可能だった。未使用の機会・反実仮想・過去の推測など、より広い意味を持つ。",
+        "en": "Expresses past possibility and can describe an unused opportunity, a counterfactual result, or an uncertain past event."
+      }
+    },
+    {
+      "word": "would have managed to",
+      "note": {
+        "ja": "特定の条件下なら、困難を乗り越えて何とか～できただろう。",
+        "en": "Says that someone would have succeeded despite difficulty under particular conditions."
+      }
+    },
+    {
+      "word": "could have managed to",
+      "note": {
+        "ja": "努力すれば何とか～できた可能性がある。能力と困難の克服を表す。",
+        "en": "Suggests that successful completion despite difficulty was possible."
+      }
+    },
+    {
+      "word": "would have had the opportunity to",
+      "note": {
+        "ja": "条件が整えば～する機会を得られただろう。能力より機会に重点がある。",
+        "en": "Describes an opportunity that would have existed, emphasizing opportunity rather than ability."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "hätte tun können / wäre in der Lage gewesen zu",
+    "it": "avrebbe potuto fare / sarebbe stato in grado di",
+    "fr": "aurait pu faire / aurait été capable de",
+    "es": "habría podido hacer / habría sido capaz de"
+  },
+  "collocations": {
+    "ja": [
+      "would have been able to finish — 完成できただろう",
+      "would have been able to attend — 出席できただろう",
+      "would have been able to help — 助けることができただろう",
+      "would have been able to avoid — 避けることができただろう",
+      "would have been able to prevent — 防ぐことができただろう",
+      "would have been able to complete the work — 作業を完了できただろう",
+      "would have been able to meet the deadline — 期限を守ることができただろう",
+      "would not have been able to survive — 生き延びることができなかっただろう",
+      "would never have been able to do — 決して～できなかっただろう",
+      "might have been able to do — ～できた可能性があったかもしれない"
+    ],
+    "en": [
+      "would have been able to finish",
+      "would have been able to attend",
+      "would have been able to help",
+      "would have been able to avoid",
+      "would have been able to prevent",
+      "would have been able to complete the work",
+      "would have been able to meet the deadline",
+      "would not have been able to survive",
+      "would never have been able to do",
+      "might have been able to do"
+    ]
+  },
+  "example": {
+    "ja": [
+      "If I had had more time, I would have been able to review the document more carefully. — もっと時間があれば、その書類をさらに注意深く確認できただろう。",
+      "With the correct data, we would have been able to identify the error earlier. — 正しいデータがあれば、もっと早くエラーを特定できただろう。",
+      "She wouldn't have been able to complete the application without professional advice. — 専門家の助言がなければ、彼女は申請を完了できなかっただろう。",
+      "Would you have been able to attend if the meeting had been held online? — 会議がオンラインで開催されていたら、出席できましたか。",
+      "If the flight had not been canceled, they would have been able to arrive that evening. — 飛行機が欠航していなければ、彼らはその晩に到着できただろう。"
+    ],
+    "en": [
+      "If I had had more time, I would have been able to review the document more carefully.",
+      "With the correct data, we would have been able to identify the error earlier.",
+      "She wouldn't have been able to complete the application without professional advice.",
+      "Would you have been able to attend if the meeting had been held online?",
+      "If the flight had not been canceled, they would have been able to arrive that evening."
+    ]
+  }
+},
+{
+  "id": "would_have_had_the_opportunity_to",
+  "sid": "2026-00891",
+  "word": "would have had the opportunity to",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "modal construction",
+    "conditional perfect",
+    "past",
+    "opportunity",
+    "chance",
+    "counterfactual",
+    "condition",
+    "hypothetical result",
+    "formal",
+    "grammar",
+    "general"
+  ],
+  "grammar": {
+    "pos": "modal construction",
+    "structure": "would + have + had + the opportunity to + base verb",
+    "forms": {
+      "affirmative": "would have had the opportunity to do",
+      "contracted": "would've had the opportunity to do",
+      "negative": "would not have had the opportunity to do",
+      "negative_contracted": "wouldn't have had the opportunity to do",
+      "question": "Would + subject + have had the opportunity to do?"
+    },
+    "patterns": [
+      "subject + would have had the opportunity to + base verb",
+      "subject + would not have had the opportunity to + base verb",
+      "Would + subject + have had the opportunity to + base verb?",
+      "if + past perfect, subject + would have had the opportunity to + base verb",
+      "without + noun, subject + would not have had the opportunity to + base verb",
+      "otherwise, subject + would have had the opportunity to + base verb"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌwʊd həv hæd ði ˌɑːpərˈtuːnəti tə/",
+      "uk": "/ˌwʊd həv hæd ði ˌɒpəˈtjuːnəti tə/"
+    },
+    "reduced": {
+      "us": "/ˌwʊdəv hæd ði ˌɑːpərˈtuːnəti tə/",
+      "uk": "/ˌwʊdəv hæd ði ˌɒpəˈtjuːnəti tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "条件が異なっていれば、～する機会を得られていただろう",
+      "実際には得られなかった経験・行動の機会が存在した可能性を表す",
+      "ある出来事が起きていれば、～できる状況になっていただろう",
+      "否定形で、～する機会を得られなかっただろう"
+    ],
+    "en": [
+      "used to say that an opportunity would have existed if circumstances had been different",
+      "used to describe a chance to act or gain an experience that was not actually available",
+      "used to say that a particular event would have created an opportunity to do something",
+      "used in the negative to say that no such opportunity would have existed"
+    ]
+  },
+  "nuance": {
+    "ja": "would have had the opportunity to は、過去の反実仮想において『行動するための機会・状況が与えられただろう』ことを表す。実際にその行為を実行できたか、また実行したかまでは示さない。would have been able to は能力または実行可能性、would have had the opportunity to は外部から与えられる機会に重点がある。could have done はより簡潔だが、未使用の機会、能力、過去の推測など複数の意味を持つため、この表現のほうが『機会』を明確にできる。やや長く形式的なので、日常会話では would have had a chance to もよく使われる。",
+    "en": "Would have had the opportunity to describes an opportunity that would have existed in a counterfactual past situation. It does not itself establish whether the person had the ability to perform the action or whether they would actually have chosen to do it. Would have been able to emphasizes ability or practical possibility, whereas would have had the opportunity to emphasizes access to a favorable occasion or circumstance. Could have done is shorter but can express ability, unused opportunity, or uncertain past possibility. The present construction is relatively formal; would have had a chance to is common in conversation."
+  },
+  "minimal": {
+    "ja": [
+      "I would have had the opportunity to meet her.：条件が整えば、彼女に会う機会を得られていただろう。",
+      "I would have been able to meet her.：条件が整えば、彼女に会うことが可能だっただろう。",
+      "I could have met her.：彼女に会うこともできた・会った可能性もある。",
+      "I had the opportunity to meet her.：実際に彼女に会う機会があった。",
+      "I would have had a chance to meet her.：彼女に会う機会があっただろう。より口語的。",
+      "I would have met her.：条件が整えば、実際に彼女に会っていただろう。",
+      "I missed the opportunity to meet her.：彼女に会う機会を逃した。"
+    ],
+    "en": [
+      "I would have had the opportunity to meet her says that an opportunity would have existed.",
+      "I would have been able to meet her emphasizes practical ability or possibility.",
+      "I could have met her can describe an unused opportunity or a possible past event.",
+      "I had the opportunity to meet her states that the opportunity actually existed.",
+      "I would have had a chance to meet her is the more conversational version.",
+      "I would have met her predicts that the meeting itself would actually have occurred.",
+      "I missed the opportunity to meet her says that an available opportunity was not used."
+    ]
+  },
+  "etymology": {
+    "ja": "opportunity は古フランス語 opportunité を経て、ラテン語 opportunitas『好都合、適切な時機』に由来する。これは opportunus『都合のよい、好機を与える』から派生した語。opportunus は伝統的に ob portum『港の方向へ』と関連づけられ、船を港へ運ぶ好都合な風のイメージから、望ましい機会・好機という意味が発達したと説明される。",
+    "en": "Opportunity came through Old French opportunité from Latin opportunitas, meaning fitness, convenience, or a favorable occasion, derived from opportunus, meaning suitable or favorable. Opportunus has traditionally been associated with ob portum, toward the harbor, evoking a favorable wind carrying a ship toward port, although the precise historical formation is not entirely certain."
+  },
+  "synonyms": [
+    {
+      "word": "would have had a chance to",
+      "note": {
+        "ja": "～する機会があっただろう。ほぼ同義で、より短く口語的。",
+        "en": "A shorter and more conversational near-equivalent meaning that a chance would have existed."
+      }
+    },
+    {
+      "word": "would have been able to",
+      "note": {
+        "ja": "条件が整っていれば～できただろう。機会より能力・実行可能性に重点がある。",
+        "en": "Emphasizes the ability or practical possibility that would have existed under a condition."
+      }
+    },
+    {
+      "word": "could have done",
+      "note": {
+        "ja": "～することもできた。機会・能力・過去の可能性などを幅広く表す。",
+        "en": "Broadly expresses an unused opportunity, ability, counterfactual possibility, or uncertain past event."
+      }
+    },
+    {
+      "word": "would have been given the opportunity to",
+      "note": {
+        "ja": "～する機会を与えられていただろう。機会を提供する外部の人物・組織を意識させる。",
+        "en": "Explicitly says that another person or organization would have provided the opportunity."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "hätte die Gelegenheit gehabt zu",
+    "it": "avrebbe avuto l'opportunità di",
+    "fr": "aurait eu l'occasion de",
+    "es": "habría tenido la oportunidad de"
+  },
+  "collocations": {
+    "ja": [
+      "would have had the opportunity to meet — 会う機会を得られていただろう",
+      "would have had the opportunity to learn — 学ぶ機会を得られていただろう",
+      "would have had the opportunity to travel — 旅行する機会を得られていただろう",
+      "would have had the opportunity to participate — 参加する機会を得られていただろう",
+      "would have had the opportunity to study abroad — 留学する機会を得られていただろう",
+      "would have had the opportunity to gain experience — 経験を積む機会を得られていただろう",
+      "would have had the opportunity to ask questions — 質問する機会を得られていただろう",
+      "would have had the opportunity to respond — 返答する機会を得られていただろう",
+      "would not have had the opportunity to — ～する機会を得られなかっただろう",
+      "otherwise have had the opportunity to — そうでなければ～する機会があっただろう"
+    ],
+    "en": [
+      "would have had the opportunity to meet",
+      "would have had the opportunity to learn",
+      "would have had the opportunity to travel",
+      "would have had the opportunity to participate",
+      "would have had the opportunity to study abroad",
+      "would have had the opportunity to gain experience",
+      "would have had the opportunity to ask questions",
+      "would have had the opportunity to respond",
+      "would not have had the opportunity to",
+      "otherwise have had the opportunity to"
+    ]
+  },
+  "example": {
+    "ja": [
+      "If I had attended the conference, I would have had the opportunity to meet several foreign attorneys. — その会議に出席していれば、複数の外国弁護士と会う機会を得られていただろう。",
+      "Without the scholarship, she would not have had the opportunity to study abroad. — その奨学金がなければ、彼女は留学する機会を得られなかっただろう。",
+      "Had the interview been longer, we would have had the opportunity to ask more questions. — 面接がもっと長ければ、さらに質問する機会があっただろう。",
+      "If the project had continued, the researchers would have had the opportunity to test the new method. — その研究計画が継続していれば、研究者たちは新しい方法を試す機会を得られていただろう。",
+      "By joining the program, he would have had the opportunity to gain practical experience. — そのプログラムに参加していれば、彼は実務経験を積む機会を得られていただろう。"
+    ],
+    "en": [
+      "If I had attended the conference, I would have had the opportunity to meet several foreign attorneys.",
+      "Without the scholarship, she would not have had the opportunity to study abroad.",
+      "Had the interview been longer, we would have had the opportunity to ask more questions.",
+      "If the project had continued, the researchers would have had the opportunity to test the new method.",
+      "By joining the program, he would have had the opportunity to gain practical experience."
+    ]
+  }
 }
 ]
