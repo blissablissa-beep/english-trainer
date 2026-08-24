@@ -1,1 +1,167 @@
-[]
+[
+{
+  "id": "antagonize",
+  "sid": "2026-00901",
+  "word": "antagonize",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "conflict",
+    "hostility",
+    "provocation",
+    "relationship",
+    "criticism",
+    "formal",
+    "medical",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "antagonize",
+      "third_person": "antagonizes",
+      "past": "antagonized",
+      "past_participle": "antagonized",
+      "gerund": "antagonizing",
+      "uk_spelling": "antagonise"
+    },
+    "transitivity": "transitive",
+    "related": {
+      "noun_person": "antagonist",
+      "noun_state": "antagonism",
+      "adjective": "antagonistic"
+    },
+    "patterns": [
+      "antagonize + person / group",
+      "antagonize someone by + -ing",
+      "risk antagonizing + person / group",
+      "avoid antagonizing + person / group",
+      "deliberately / unnecessarily antagonize someone",
+      "antagonize a receptor / substance / effect"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ænˈtæɡənaɪz/",
+      "uk": "/ænˈtæɡənaɪz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人を怒らせたり反感を抱かせたりして敵に回す",
+      "不用意・挑発的な言動によって人や集団との対立を招く",
+      "人を敵対的・非協力的な態度にさせる",
+      "薬物・物質などが受容体や別の物質の作用を阻害・相殺する"
+    ],
+    "en": [
+      "to make a person or group hostile, resentful, or unfriendly",
+      "to create opposition through provocative or insensitive behavior",
+      "to cause someone to become antagonistic or uncooperative",
+      "in biology or pharmacology, to block or counteract a receptor, substance, or effect"
+    ]
+  },
+  "nuance": {
+    "ja": "antagonize は、単に人を一時的に不快にするだけでなく、反感を抱かせて自分に敵対させたり、協力してくれない状態にしたりすることを表す。政治、交渉、職場、顧客対応などで、不用意・傲慢・挑発的な言動が対立関係を作る場合によく使われる。意図的に挑発する場合にも、結果として不本意に敵を作る場合にも使用できる。専門用法では、薬物などが受容体または別の物質の働きを妨げることを表す。",
+    "en": "Antagonize means more than temporarily upsetting someone. It suggests causing resentment or hostility so that the person or group becomes opposed, unfriendly, or uncooperative. It is common in discussions of politics, negotiations, workplaces, and customer relations, where arrogant, insensitive, or provocative behavior creates conflict. The antagonism may be deliberately provoked or unintentionally caused. In technical contexts, the verb means to block or counteract a receptor, substance, or biological effect."
+  },
+  "minimal": {
+    "ja": [
+      "antagonize：反感を抱かせ、相手を敵対的・非協力的にする。",
+      "alienate：信頼・好意・支持を失い、相手を疎遠にする。",
+      "provoke：怒り・反応・行動などを引き起こす。",
+      "irritate：人をいら立たせる。通常は敵対関係に至るほど強くない。",
+      "offend：無礼・不適切な言動によって感情や価値観を傷つける。"
+    ],
+    "en": [
+      "antagonize: make someone hostile, resentful, or uncooperative.",
+      "alienate: cause someone to become distant and lose their trust or support.",
+      "provoke: cause a particular reaction, especially anger or action.",
+      "irritate: make someone annoyed, usually without creating lasting hostility.",
+      "offend: hurt someone's feelings or violate their values or sense of propriety."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 antagōnizesthai『敵対して争う、対抗する』に由来し、ラテン語・フランス語を経て英語に入った。anti-『反対して、対抗して』と agōnizesthai『競う、戦う』から成る。後者は agōn『競技、争い』に由来し、agony とも語源的に関係する。もとは『敵対して競う』という意味で、そこから『人を敵対させる』という現代の他動詞用法が発達した。",
+    "en": "Antagonize ultimately comes from Greek antagōnizesthai, meaning to struggle or compete against. It combines anti-, meaning against, with agōnizesthai, meaning to contend, from agōn, a contest or struggle. The same Greek family is related to agony. The earlier idea of contending against someone developed into the modern transitive meaning of causing someone to become hostile."
+  },
+  "synonyms": [
+    {
+      "word": "alienate",
+      "note": {
+        "ja": "相手を疎遠にし、支持・信頼・好意を失う。敵意よりも関係の断絶や心理的距離に重点がある。",
+        "en": "To create distance and lose someone's trust, support, or goodwill, emphasizing damaged relations rather than open hostility."
+      }
+    },
+    {
+      "word": "provoke",
+      "note": {
+        "ja": "怒り・反応・行動などを引き起こす。相手を継続的な敵対関係に置くことまでは必ずしも意味しない。",
+        "en": "To cause anger, a reaction, or an action without necessarily creating lasting hostility."
+      }
+    },
+    {
+      "word": "irritate",
+      "note": {
+        "ja": "人をいら立たせる。antagonize より弱く、通常は一時的な不快感を表す。",
+        "en": "To make someone annoyed, normally describing a weaker and more temporary reaction."
+      }
+    },
+    {
+      "word": "offend",
+      "note": {
+        "ja": "無礼・不適切な言動によって、人の感情・信念・価値観を傷つける。",
+        "en": "To hurt someone's feelings or violate their beliefs, values, or sense of propriety."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gegen sich aufbringen / verärgern / antagonisieren",
+    "it": "inimicarsi / provocare / antagonizzare",
+    "fr": "se mettre à dos / braquer / antagoniser",
+    "es": "enemistarse con / provocar / antagonizar"
+  },
+  "collocations": {
+    "ja": [
+      "antagonize customers — 顧客の反感を買う",
+      "antagonize voters — 有権者を敵に回す",
+      "antagonize colleagues — 同僚の反感を招く",
+      "antagonize one's allies — 味方を敵に回す",
+      "antagonize the local community — 地域社会の反感を買う",
+      "deliberately antagonize someone — 意図的に人を挑発する",
+      "unnecessarily antagonize someone — 不必要に人の反感を買う",
+      "risk antagonizing someone — 人を敵に回す危険を冒す",
+      "avoid antagonizing someone — 人の反感を買わないようにする",
+      "antagonize a receptor — 受容体の作用を阻害する"
+    ],
+    "en": [
+      "antagonize customers",
+      "antagonize voters",
+      "antagonize colleagues",
+      "antagonize one's allies",
+      "antagonize the local community",
+      "deliberately antagonize someone",
+      "unnecessarily antagonize someone",
+      "risk antagonizing someone",
+      "avoid antagonizing someone",
+      "antagonize a receptor"
+    ]
+  },
+  "example": {
+    "ja": [
+      "His dismissive attitude antagonized several members of the team. — 彼の相手を見下すような態度は、チームの複数のメンバーの反感を買った。",
+      "The company risks antagonizing its customers by raising prices again. — その会社は再び値上げすることで顧客を敵に回すおそれがある。",
+      "There is no reason to antagonize a potential business partner. — 将来の取引相手になり得る人の反感を買う理由はない。",
+      "The statement unnecessarily antagonized the local community. — その声明は不必要に地域社会の反感を招いた。",
+      "The drug antagonizes the effects of the hormone at the receptor level. — その薬は受容体レベルでホルモンの作用を阻害する。"
+    ],
+    "en": [
+      "His dismissive attitude antagonized several members of the team.",
+      "The company risks antagonizing its customers by raising prices again.",
+      "There is no reason to antagonize a potential business partner.",
+      "The statement unnecessarily antagonized the local community.",
+      "The drug antagonizes the effects of the hormone at the receptor level."
+    ]
+  }
+}
+]
