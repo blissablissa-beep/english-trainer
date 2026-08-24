@@ -10115,5 +10115,519 @@
       "We still haven't narrowed down where the error is occurring."
     ]
   }
+},
+{
+  "id": "shortlist",
+  "sid": "2026-00868",
+  "word": "shortlist",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "noun",
+    "selection",
+    "candidate",
+    "recruitment",
+    "competition",
+    "award",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "forms": {
+      "base": "shortlist",
+      "third_person": "shortlists",
+      "past": "shortlisted",
+      "past_participle": "shortlisted",
+      "gerund": "shortlisting"
+    },
+    "countability": "countable",
+    "plural": "shortlists",
+    "transitivity": "transitive when used as a verb",
+    "patterns": [
+      "shortlist + candidate / applicant / proposal",
+      "shortlist someone for + job / position / award",
+      "be shortlisted for + job / position / award",
+      "be shortlisted as + role",
+      "be shortlisted to + verb",
+      "a shortlist of + candidates / applicants / options",
+      "draw up / make / compile a shortlist",
+      "be on the shortlist"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈʃɔːrtˌlɪst/",
+      "uk": "/ˈʃɔːtˌlɪst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "応募者・候補などを最終候補に選ぶ",
+      "賞・職・契約などの候補者名簿に残す",
+      "選考の最終段階に残った人・案などの一覧",
+      "最終候補者名簿"
+    ],
+    "en": [
+      "to select someone or something for final consideration",
+      "to include a candidate, applicant, or proposal on a reduced final list",
+      "a list of the candidates or options selected for final consideration",
+      "a reduced list from which the final choice will be made"
+    ]
+  },
+  "nuance": {
+    "ja": "動詞 shortlist は、多数の候補を単に減らすことではなく、応募者・作品・提案などを正式な最終候補として残すことを表す。採用、賞、コンペ、業者選定など、選考手続のある場面で特によく使われる。narrow down は候補を絞る過程全般を表すのに対し、shortlist は一定の審査を通過して最終検討の対象になったことに重点がある。名詞では a shortlist of five candidates のように、最終候補の一覧そのものを指す。",
+    "en": "As a verb, shortlist means to place a person, work, proposal, or option on a reduced list for final consideration. It is especially common in recruitment, awards, competitions, and procurement. Narrow down describes the general process of reducing possibilities, whereas shortlist emphasizes that the remaining candidates have passed an initial selection stage and are now under serious final consideration. As a noun, a shortlist is the resulting final list."
+  },
+  "minimal": {
+    "ja": [
+      "shortlist a candidate：候補者を最終候補に残す。",
+      "be shortlisted for a job：求人の最終候補に選ばれる。",
+      "be shortlisted for an award：賞の最終候補に選ばれる。",
+      "a shortlist of candidates：最終候補者の一覧。",
+      "make the shortlist：最終候補に残る。",
+      "narrow down：候補・範囲を絞り込む過程を表す。",
+      "nominate：賞・役職などの候補として正式に推薦する。"
+    ],
+    "en": [
+      "shortlist a candidate means to select the person for final consideration.",
+      "be shortlisted for a job means to reach the final stage of recruitment.",
+      "be shortlisted for an award means to be included among the final candidates.",
+      "a shortlist of candidates is the reduced final list.",
+      "make the shortlist means to be selected for final consideration.",
+      "narrow down describes the broader process of reducing possibilities.",
+      "nominate means to formally propose someone for an award or position."
+    ]
+  },
+  "etymology": {
+    "ja": "short list『短く絞られた候補者名簿』という名詞句から生じた語。short は『短い、限られた』、list は『一覧、名簿』を意味する。まず名詞として最終候補の一覧を表し、その後、その一覧に候補を載せるという動詞用法が発達した。現在は shortlist と一語で綴るのが一般的。",
+    "en": "Shortlist developed from the noun phrase short list, literally a reduced list of candidates. Short means limited in length or number, and list means a series of names or items. The noun came to denote a list of final candidates, after which a verb developed meaning to place someone or something on that list. It is now commonly written as one word."
+  },
+  "synonyms": [
+    {
+      "word": "narrow down",
+      "note": {
+        "ja": "候補・可能性・範囲を減らす一般的な表現。正式な最終候補への選出を必ずしも意味しない。",
+        "en": "The general expression for reducing possibilities or candidates; it does not necessarily imply formal selection for a final list."
+      }
+    },
+    {
+      "word": "select",
+      "note": {
+        "ja": "基準に基づいて選ぶ一般的な語。最終決定にも中間選考にも使える。",
+        "en": "The general verb for choosing according to particular criteria, whether at an intermediate or final stage."
+      }
+    },
+    {
+      "word": "nominate",
+      "note": {
+        "ja": "賞・役職などの候補として正式に推薦・指名する。最終候補に残ることとは区別される。",
+        "en": "To formally propose someone for an award or position; nomination does not necessarily mean reaching the final shortlist."
+      }
+    },
+    {
+      "word": "screen",
+      "note": {
+        "ja": "応募者などを審査し、条件を満たさない者を除外する。選考の初期段階で使われやすい。",
+        "en": "To examine applicants and exclude those who do not meet the requirements, often at an earlier selection stage."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "in die engere Wahl ziehen / engere Auswahlliste",
+    "it": "selezionare per la rosa finale / lista ristretta",
+    "fr": "présélectionner / liste restreinte",
+    "es": "preseleccionar / lista de finalistas"
+  },
+  "collocations": {
+    "ja": [
+      "shortlist a candidate — 候補者を最終候補に残す",
+      "shortlist an applicant — 応募者を最終候補に残す",
+      "shortlist a proposal — 提案を最終候補に残す",
+      "be shortlisted for a position — 役職の最終候補に選ばれる",
+      "be shortlisted for an award — 賞の最終候補に選ばれる",
+      "be shortlisted for an interview — 面接対象として選ばれる",
+      "a shortlist of candidates — 最終候補者の一覧",
+      "draw up a shortlist — 最終候補者名簿を作成する",
+      "be on the shortlist — 最終候補者名簿に載っている",
+      "make the shortlist — 最終候補に残る"
+    ],
+    "en": [
+      "shortlist a candidate",
+      "shortlist an applicant",
+      "shortlist a proposal",
+      "be shortlisted for a position",
+      "be shortlisted for an award",
+      "be shortlisted for an interview",
+      "a shortlist of candidates",
+      "draw up a shortlist",
+      "be on the shortlist",
+      "make the shortlist"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company shortlisted six applicants for the position. — 会社はその職の最終候補として6人の応募者を選んだ。",
+      "She has been shortlisted for a major literary award. — 彼女は主要な文学賞の最終候補に選ばれている。",
+      "Only three proposals were shortlisted for further consideration. — さらに検討する案として、3件の提案だけが最終候補に残された。",
+      "The committee has drawn up a shortlist of potential suppliers. — 委員会は供給業者候補の最終リストを作成した。",
+      "We interviewed ten people, but only four made the shortlist. — 私たちは10人と面接したが、最終候補に残ったのは4人だけだった。"
+    ],
+    "en": [
+      "The company shortlisted six applicants for the position.",
+      "She has been shortlisted for a major literary award.",
+      "Only three proposals were shortlisted for further consideration.",
+      "The committee has drawn up a shortlist of potential suppliers.",
+      "We interviewed ten people, but only four made the shortlist."
+    ]
+  }
+},
+{
+  "id": "screen",
+  "sid": "2026-00869",
+  "word": "screen",
+  "level": "B2",
+  "freq": "very often",
+  "tags": [
+    "verb",
+    "selection",
+    "recruitment",
+    "medical",
+    "security",
+    "film",
+    "protection",
+    "concealment",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "screen",
+      "third_person": "screens",
+      "past": "screened",
+      "past_participle": "screened",
+      "gerund": "screening"
+    },
+    "transitivity": "transitive / intransitive",
+    "patterns": [
+      "screen + applicant / candidate",
+      "screen someone for + disease / condition",
+      "screen someone for + suitability / eligibility",
+      "screen + baggage / passengers",
+      "screen + film / documentary / program",
+      "a film screens at + time / place",
+      "screen A from B",
+      "screen + view / light / wind",
+      "screen + call"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/skriːn/",
+      "uk": "/skriːn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "応募者・候補者などを予備審査する",
+      "病気・健康状態などの有無を調べるために検査する",
+      "乗客・手荷物などを安全上の理由で検査する",
+      "映画・映像作品・番組などを上映・放映する",
+      "人や物を光・風・視線などから遮る",
+      "不都合なものを隠す、かばう",
+      "電話に出る前に発信者や用件を確認する"
+    ],
+    "en": [
+      "to examine applicants or candidates and reject those who are unsuitable",
+      "to test people for a disease or medical condition",
+      "to examine passengers, baggage, or objects for security purposes",
+      "to show a film, television program, or other recorded material",
+      "to protect or hide someone or something from view, light, wind, or harm",
+      "to conceal or protect someone from blame or investigation",
+      "to check the identity or purpose of a caller before answering"
+    ]
+  },
+  "nuance": {
+    "ja": "screen の中心的な発想は、screen『仕切り・覆い』を通して、通すものと遮るものを分けること。採用では、本格的な面接や最終選考の前に、条件を満たさない応募者を除外する予備審査を表す。医療では、症状のない人も含めて病気の可能性を調べるスクリーニング検査を指す。安全検査では危険物などを見つけるために調べる。さらに、スクリーンに映すことから『映画を上映する』、覆いで遮ることから『視線・光・風などから隠す、守る』という意味を持つ。",
+    "en": "The central idea of screen is that of a barrier or filter separating what is allowed through from what is blocked. In recruitment, it usually describes an initial examination used to eliminate unsuitable applicants before interviews or final selection. In medicine, it means testing people, often before symptoms appear, for possible disease. In security, it means checking people or objects for risks. From the physical noun screen come the additional senses of showing a film and shielding something from view, light, wind, or harm."
+  },
+  "minimal": {
+    "ja": [
+      "screen applicants：応募者を予備審査する。",
+      "screen someone for cancer：人にがん検診を行う。",
+      "screen baggage：手荷物を安全検査する。",
+      "screen a film：映画を上映する。",
+      "screen A from B：AをBから遮る・守る。",
+      "screen calls：電話の発信者や用件を確認して選別する。",
+      "shortlist：予備審査後、正式な最終候補に残す。",
+      "filter：一定の条件に基づいて不要なものを除去する。"
+    ],
+    "en": [
+      "screen applicants means to examine them at an initial selection stage.",
+      "screen someone for cancer means to test the person for possible cancer.",
+      "screen baggage means to examine it for security risks.",
+      "screen a film means to show it to an audience.",
+      "screen A from B means to hide or protect A from B.",
+      "screen calls means to check callers before deciding whether to answer.",
+      "shortlist means to select someone for final consideration.",
+      "filter means to remove unwanted material according to particular conditions."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 screne『仕切り、火よけ』に由来し、古フランス語 escren を経た語とされる。それ以前の起源はゲルマン語系と考えられている。もともとは熱・風・視線などを遮る物理的な仕切りを指した。そこから動詞として『遮る』が生じ、さらに、対象を選別・検査することや、映写面に映画を映すことを表すようになった。",
+    "en": "Screen comes from Middle English screne, meaning a partition or protective barrier, through Old French escren and probably ultimately from a Germanic source. It first referred to a physical object that blocked heat, wind, or view. The verb developed the sense of shielding or concealing, followed by the ideas of examining and filtering people or objects and of showing images on a screen."
+  },
+  "synonyms": [
+    {
+      "word": "vet",
+      "note": {
+        "ja": "人物・経歴・情報などを、信頼性や適格性の観点から詳しく調査する。screen より綿密な審査を表しやすい。",
+        "en": "To investigate a person, background, or information carefully for suitability or reliability; usually more thorough than screen."
+      }
+    },
+    {
+      "word": "filter",
+      "note": {
+        "ja": "条件や基準に従って、不要な項目・情報・物質などを除外する。",
+        "en": "To remove unwanted items, information, or material according to particular criteria."
+      }
+    },
+    {
+      "word": "test",
+      "note": {
+        "ja": "病気・能力・品質などを検査する一般的な語。screen は早期発見や予備的選別を含意しやすい。",
+        "en": "The general verb for examining health, ability, or quality; screen often suggests preliminary checking or early detection."
+      }
+    },
+    {
+      "word": "show",
+      "note": {
+        "ja": "映画・映像などを見せる一般的な語。screen は映画館・映画祭・テレビなどでの上映・放映に使われる。",
+        "en": "The general verb for presenting visual material; screen is particularly associated with films, festivals, cinemas, and television."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "überprüfen / untersuchen / vorführen / abschirmen",
+    "it": "esaminare / sottoporre a screening / proiettare / schermare",
+    "fr": "présélectionner / dépister / projeter / protéger",
+    "es": "preseleccionar / examinar / proyectar / proteger"
+  },
+  "collocations": {
+    "ja": [
+      "screen applicants — 応募者を予備審査する",
+      "screen candidates — 候補者を予備審査する",
+      "screen job applications — 求人への応募書類を審査する",
+      "screen someone for cancer — 人にがん検診を行う",
+      "screen newborns for a disorder — 新生児に疾患の検査を行う",
+      "screen passengers — 乗客を安全検査する",
+      "screen baggage — 手荷物を安全検査する",
+      "screen a film — 映画を上映する",
+      "screen someone from view — 人を視界から隠す",
+      "screen calls — 電話を選別する"
+    ],
+    "en": [
+      "screen applicants",
+      "screen candidates",
+      "screen job applications",
+      "screen someone for cancer",
+      "screen newborns for a disorder",
+      "screen passengers",
+      "screen baggage",
+      "screen a film",
+      "screen someone from view",
+      "screen calls"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The HR department screened more than two hundred applications. — 人事部は200件を超える応募書類を予備審査した。",
+      "All newborns are screened for the condition shortly after birth. — すべての新生児が出生後まもなく、その疾患について検査を受ける。",
+      "Airport security screened every passenger before boarding. — 空港の保安担当者は搭乗前にすべての乗客を検査した。",
+      "The documentary will be screened at the festival next month. — そのドキュメンタリーは来月、映画祭で上映される。",
+      "A row of trees screened the house from the road. — 一列に並んだ木々が、道路から家が見えないように遮っていた。"
+    ],
+    "en": [
+      "The HR department screened more than two hundred applications.",
+      "All newborns are screened for the condition shortly after birth.",
+      "Airport security screened every passenger before boarding.",
+      "The documentary will be screened at the festival next month.",
+      "A row of trees screened the house from the road."
+    ]
+  }
+},
+{
+  "id": "enjoy_oneself",
+  "sid": "2026-00870",
+  "word": "enjoy oneself",
+  "level": "A2",
+  "freq": "very often",
+  "tags": [
+    "verb phrase",
+    "reflexive pronoun",
+    "enjoyment",
+    "leisure",
+    "social situation",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb phrase",
+    "forms": {
+      "base": "enjoy oneself",
+      "third_person": "enjoys oneself",
+      "past": "enjoyed oneself",
+      "past_participle": "enjoyed oneself",
+      "gerund": "enjoying oneself"
+    },
+    "transitivity": "transitive with a reflexive pronoun",
+    "reflexive_forms": {
+      "I": "enjoy myself",
+      "you_singular": "enjoy yourself",
+      "he": "enjoy himself",
+      "she": "enjoy herself",
+      "it": "enjoy itself",
+      "we": "enjoy ourselves",
+      "you_plural": "enjoy yourselves",
+      "they": "enjoy themselves"
+    },
+    "patterns": [
+      "enjoy oneself",
+      "enjoy oneself at + event / place",
+      "enjoy oneself with + person / group",
+      "really / thoroughly enjoy oneself",
+      "Did you enjoy yourself?",
+      "Enjoy yourself!",
+      "enjoy + noun",
+      "enjoy + -ing"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈdʒɔɪ wʌnˈself/",
+      "uk": "/ɪnˈdʒɔɪ wʌnˈself/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "楽しく過ごす",
+      "よい時間を過ごす",
+      "その場や活動を楽しむ"
+    ],
+    "en": [
+      "to have a good time",
+      "to take pleasure in an occasion, activity, or situation",
+      "to spend time in an enjoyable way"
+    ]
+  },
+  "nuance": {
+    "ja": "enjoy oneself は『楽しい時間を過ごす』という意味で、主語と同じ人を指す再帰代名詞が必要。I enjoyed myself. は『私は楽しく過ごした』であり、I enjoyed. だけでは通常不完全になる。enjoy the party はパーティーという対象を楽しむのに対し、enjoy oneself at the party は、その場で本人が楽しく過ごすことに焦点を置く。Have fun! と同様に Enjoy yourself! も別れ際や催しへ向かう人への『楽しんできてね』として使える。",
+    "en": "Enjoy oneself means to have a good time, and the reflexive pronoun must agree with the subject. I enjoyed myself is complete, whereas I enjoyed normally requires an object. Enjoy the party focuses on the event as the object of enjoyment, while enjoy oneself at the party focuses on the person's experience. Enjoy yourself! is also a common way of telling someone to have fun."
+  },
+  "minimal": {
+    "ja": [
+      "enjoy myself：私自身が楽しく過ごす。",
+      "enjoy yourself：あなた自身が楽しく過ごす。",
+      "enjoy themselves：彼ら・彼女らが楽しく過ごす。",
+      "Did you enjoy yourself?：楽しかったですか。",
+      "Enjoy yourself!：楽しんできてね。",
+      "enjoy the party：パーティーを楽しむ。",
+      "have a good time：楽しく過ごす。enjoy oneself とほぼ同義。",
+      "have fun：楽しむ。より口語的。"
+    ],
+    "en": [
+      "enjoy myself is used when the subject is I.",
+      "enjoy yourself is used when the subject is you.",
+      "enjoy themselves is used when the subject is they.",
+      "Did you enjoy yourself? asks whether someone had a good time.",
+      "Enjoy yourself! means Have a good time!",
+      "enjoy the party takes the event itself as the object.",
+      "have a good time is nearly equivalent to enjoy oneself.",
+      "have fun is a common conversational alternative."
+    ]
+  },
+  "etymology": {
+    "ja": "enjoy は中英語 enjoien に由来し、古フランス語 enjoir『喜ぶ、楽しむ』を経た語。en- と joie『喜び』から成り、joie は最終的にラテン語 gaudium『喜び』にさかのぼる。oneself は不特定の主語を代表する再帰代名詞で、実際の文では主語に応じて myself、yourself、himself などに置き換わる。",
+    "en": "Enjoy comes from Middle English enjoien and Old French enjoir, meaning to rejoice or take pleasure. It is related to French joie, meaning joy, ultimately from Latin gaudium. Oneself is the generic reflexive pronoun and is replaced in actual sentences by myself, yourself, himself, herself, ourselves, or themselves according to the subject."
+  },
+  "synonyms": [
+    {
+      "word": "have a good time",
+      "note": {
+        "ja": "『楽しい時間を過ごす』という最も近い言い換え。幅広い場面で使える。",
+        "en": "The closest general equivalent, meaning to spend time pleasantly."
+      }
+    },
+    {
+      "word": "have fun",
+      "note": {
+        "ja": "楽しく遊ぶ、楽しむ。enjoy oneself より口語的で活発な楽しさを連想させやすい。",
+        "en": "A common conversational expression, often suggesting active or lively enjoyment."
+      }
+    },
+    {
+      "word": "have a great time",
+      "note": {
+        "ja": "とても楽しく過ごす。have a good time より楽しさを強調する。",
+        "en": "To have a particularly enjoyable experience; stronger than have a good time."
+      }
+    },
+    {
+      "word": "amuse oneself",
+      "note": {
+        "ja": "自分で何かをして退屈を紛らわせる、楽しむ。やや形式的で、enjoy oneself と完全には同じでない。",
+        "en": "To keep oneself entertained, often by finding something to do; somewhat formal and not always equivalent to enjoy oneself."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sich amüsieren / eine schöne Zeit haben",
+    "it": "divertirsi / passare un bel momento",
+    "fr": "s'amuser / passer un bon moment",
+    "es": "divertirse / pasarlo bien"
+  },
+  "collocations": {
+    "ja": [
+      "really enjoy oneself — 本当に楽しく過ごす",
+      "thoroughly enjoy oneself — 心から十分に楽しむ",
+      "enjoy oneself at a party — パーティーで楽しく過ごす",
+      "enjoy oneself at the wedding — 結婚式で楽しく過ごす",
+      "enjoy oneself on vacation — 休暇を楽しむ",
+      "enjoy oneself with friends — 友人たちと楽しく過ごす",
+      "seem to be enjoying oneself — 楽しんでいるように見える",
+      "Did you enjoy yourself? — 楽しかったですか",
+      "I hope you enjoy yourself. — 楽しんでくれるとよいのですが",
+      "Enjoy yourselves! — 皆さん、楽しんでください"
+    ],
+    "en": [
+      "really enjoy oneself",
+      "thoroughly enjoy oneself",
+      "enjoy oneself at a party",
+      "enjoy oneself at the wedding",
+      "enjoy oneself on vacation",
+      "enjoy oneself with friends",
+      "seem to be enjoying oneself",
+      "Did you enjoy yourself?",
+      "I hope you enjoy yourself.",
+      "Enjoy yourselves!"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I really enjoyed myself at the party last night. — 昨夜のパーティーでは本当に楽しく過ごした。",
+      "Did you enjoy yourself on your trip? — 旅行は楽しかったですか。",
+      "The children enjoyed themselves playing in the snow. — 子どもたちは雪遊びを楽しんだ。",
+      "She seems to be enjoying herself at her new school. — 彼女は新しい学校で楽しく過ごしているようだ。",
+      "We haven't enjoyed ourselves this much in years. — こんなに楽しく過ごしたのは何年ぶりだろう。"
+    ],
+    "en": [
+      "I really enjoyed myself at the party last night.",
+      "Did you enjoy yourself on your trip?",
+      "The children enjoyed themselves playing in the snow.",
+      "She seems to be enjoying herself at her new school.",
+      "We haven't enjoyed ourselves this much in years."
+    ]
+  }
 }
 ]
