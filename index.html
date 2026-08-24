@@ -1196,7 +1196,7 @@ const result = validateCards(allCards);
   // Formatting
   // ==================================================
 
-  function partOfSpeechLabel(partOfSpeech) {
+    function partOfSpeechLabel(partOfSpeech) {
     const labels = {
       noun: "N",
       verb: "V",
@@ -1205,10 +1205,15 @@ const result = validateCards(allCards);
       prep: "Prep",
       conj: "Conj",
       pron: "Pron",
-      phrase: "Phrase"
+      phrase: "Phrase",
+
+      "phrasal verb": "Phr.V",
+      "verb phrase": "V Phrase",
+      "verb / noun": "V / N",
+      "modal construction": "Modal"
     };
 
-    return labels[partOfSpeech] || "";
+    return labels[partOfSpeech] || partOfSpeech || "";
   }
 
   function frequencyLabel(frequency) {
@@ -1223,15 +1228,46 @@ const result = validateCards(allCards);
     return UI[getLanguage()].tags[tag] || tag;
   }
 
+  function formatVerbForms(forms) {
+    if (!forms) {
+      return "";
+    }
+
+    if (typeof forms === "string") {
+      return forms;
+    }
+
+    if (
+      typeof forms !== "object" ||
+      Array.isArray(forms)
+    ) {
+      return "";
+    }
+
+    return [
+      forms.base,
+      forms.past,
+      forms.past_participle
+    ]
+      .filter(Boolean)
+      .join(" – ");
+  }
+
   function grammarLine(grammar) {
     if (!grammar) {
       return "";
     }
 
-    if (grammar.pos === "verb") {
+    if (
+      grammar.pos === "verb" ||
+      grammar.pos === "phrasal verb" ||
+      grammar.pos === "verb phrase" ||
+      grammar.pos === "verb / noun"
+    ) {
       return [
-        grammar.forms,
-        grammar.transitivity
+        formatVerbForms(grammar.forms),
+        grammar.transitivity,
+        grammar.separability
       ]
         .filter(Boolean)
         .join(" / ");
@@ -1248,9 +1284,18 @@ const result = validateCards(allCards);
         .join(" / ");
     }
 
-    return "";
-  }
+    if (grammar.pos === "modal construction") {
+      return [
+        grammar.structure,
+        grammar.forms?.negative,
+        grammar.forms?.passive
+      ]
+        .filter(Boolean)
+        .join(" / ");
+    }
 
+    return grammar.structure || "";
+  }
   function renderPills(card) {
     const values = [];
 
