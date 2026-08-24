@@ -4073,5 +4073,161 @@
       "Although the company was the plaintiff at trial, it became the appellee when the defendant appealed."
     ]
   }
+},
+{
+  "id": "appellant",
+  "sid": "2026-00927",
+  "word": "appellant",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "law",
+    "appeal",
+    "court",
+    "appellate procedure",
+    "litigation",
+    "person",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "appellants",
+    "related": {
+      "verb": "appeal",
+      "opposite_party_us": "appellee",
+      "opposite_party_general": "respondent"
+    },
+    "patterns": [
+      "the appellant in + appeal / case",
+      "the appellant appeals from + judgment / decision",
+      "the appellant argues / contends that + clause",
+      "the appellant asks the court to + verb",
+      "the appellant and the appellee / respondent",
+      "rule / find in favor of the appellant"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈpelənt/",
+      "uk": "/əˈpelənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "下級審・行政機関などの判断に対して上訴する当事者、上訴人",
+      "原判断の取消し・変更を上級裁判所に求める者",
+      "審判・行政上の決定に対して不服申立てを行う当事者"
+    ],
+    "en": [
+      "the party who brings an appeal against a decision",
+      "a person or organization asking a higher court to reverse or modify a lower decision",
+      "a party formally challenging a judicial, tribunal, or administrative determination"
+    ]
+  },
+  "nuance": {
+    "ja": "appellant は、裁判所・審判機関・行政機関などの判断を不服として、上級機関に取消しまたは変更を求める『上訴人』を指す。第一審で原告だったか被告だったかは関係なく、上訴を提起した側が appellant となる。アメリカの上訴手続では相手方を appellee、イギリスや国際的な手続では respondent と呼ぶことが多い。単に第一審で敗訴しただけでは appellant にはならず、実際に上訴を提起して初めてこの手続上の地位を得る。",
+    "en": "An appellant is the party that formally challenges a judicial, tribunal, or administrative decision before a higher authority. The appellant may have been either the plaintiff or the defendant in the original proceeding; the role is determined by who brings the appeal. In American appellate procedure, the opposing party is often called the appellee, while respondent is common in British and international contexts. Merely losing below does not make a party an appellant—the party must actually bring an appeal."
+  },
+  "minimal": {
+    "ja": [
+      "appellant：原判断の取消し・変更を求めて上訴を提起する当事者。",
+      "appellee：上訴を提起された側で、通常は原判断の維持を求める当事者。",
+      "respondent：上訴・申立て・申請などに応答する相手方を広く表す。",
+      "plaintiff：民事訴訟を第一審などに提起して救済を求める原告。",
+      "petitioner：裁判所・行政機関に命令や判断を求めて正式な申立てを行う者。"
+    ],
+    "en": [
+      "appellant is the party that brings an appeal seeking reversal or modification of a decision.",
+      "appellee is the party against whom an appeal is brought and who normally seeks affirmance.",
+      "respondent is the broader term for a party answering an appeal, petition, or application.",
+      "plaintiff is the party that initiates a civil lawsuit and seeks relief at the trial level.",
+      "petitioner is a person who formally asks a court or authority to issue an order or decision."
+    ]
+  },
+  "etymology": {
+    "ja": "appellant はアングロ・フランス語 appellant『上訴する者』に由来し、これは apeler『呼びかける、上級機関に訴える』の現在分詞形である。さらにラテン語 appellare『呼びかける、名を呼ぶ』にさかのぼる。下級機関の判断について上級機関に呼びかけ、再検討を求める者という発想から、現在の法律上の意味が成立した。",
+    "en": "Appellant comes from Anglo-French appellant, meaning a person making an appeal, the present participle of apeler, meaning to call upon or appeal to a higher authority. It ultimately derives from Latin appellare, meaning to address or call by name. The legal sense reflects the act of calling upon a higher court or authority to review a decision."
+  },
+  "synonyms": [
+    {
+      "word": "appealing party",
+      "note": {
+        "ja": "上訴を提起する側を平易に説明する表現。",
+        "en": "A plain descriptive expression for the party bringing an appeal."
+      }
+    },
+    {
+      "word": "party bringing the appeal",
+      "note": {
+        "ja": "上訴を開始した当事者を明示的に表す説明表現。",
+        "en": "An explicit descriptive phrase identifying the party that initiated the appeal."
+      }
+    },
+    {
+      "word": "petitioner",
+      "note": {
+        "ja": "上級裁判所に裁量的審査などを求めて petition を提出する場合に使われる。appellant と手続が異なることがある。",
+        "en": "Used when a party files a petition seeking review or another order, sometimes under a procedure different from an ordinary appeal."
+      }
+    },
+    {
+      "word": "cross-appellant",
+      "note": {
+        "ja": "相手方の上訴に対し、自らも原判断の別の部分について交差上訴を提起する当事者。",
+        "en": "A party that files a cross-appeal challenging a different part of the decision after another party has appealed."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Berufungskläger / Revisionskläger / Beschwerdeführer",
+    "it": "appellante",
+    "fr": "appelant",
+    "es": "apelante / recurrente"
+  },
+  "collocations": {
+    "ja": [
+      "the appellant's brief — 上訴人側の準備書面",
+      "the appellant's argument — 上訴人側の主張",
+      "the appellant's counsel — 上訴人側の代理人",
+      "the appellant and the appellee — 上訴人と被上訴人",
+      "the appellant and the respondent — 上訴人と相手方",
+      "rule in favor of the appellant — 上訴人に有利な判断を下す",
+      "reject the appellant's argument — 上訴人の主張を退ける",
+      "the appellant challenges the ruling — 上訴人が判断を争う",
+      "the appellant seeks reversal — 上訴人が原判断の取消しを求める",
+      "the appellant files an opening brief — 上訴人が最初の準備書面を提出する"
+    ],
+    "en": [
+      "the appellant's brief",
+      "the appellant's argument",
+      "the appellant's counsel",
+      "the appellant and the appellee",
+      "the appellant and the respondent",
+      "rule in favor of the appellant",
+      "reject the appellant's argument",
+      "the appellant challenges the ruling",
+      "the appellant seeks reversal",
+      "the appellant files an opening brief"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The appellant asked the court to reverse the judgment. — 上訴人は裁判所に原判決を取り消すよう求めた。",
+      "The appellant argued that the trial court had applied the wrong legal standard. — 上訴人は、第一審裁判所が誤った法的基準を適用したと主張した。",
+      "Counsel for the appellant submitted a written brief. — 上訴人側の代理人は準備書面を提出した。",
+      "The appellate court rejected the appellant's interpretation of the statute. — 上訴裁判所は上訴人による法令解釈を退けた。",
+      "Although the company was the defendant at trial, it became the appellant after challenging the judgment. — その会社は第一審では被告だったが、判決を不服として上訴したため上訴人となった。"
+    ],
+    "en": [
+      "The appellant asked the court to reverse the judgment.",
+      "The appellant argued that the trial court had applied the wrong legal standard.",
+      "Counsel for the appellant submitted a written brief.",
+      "The appellate court rejected the appellant's interpretation of the statute.",
+      "Although the company was the defendant at trial, it became the appellant after challenging the judgment."
+    ]
+  }
 }
 ]
