@@ -14392,5 +14392,178 @@
       "If the proposal had been disclosed earlier, the public would have had a chance to respond."
     ]
   }
+},
+{
+  "id": "might_have_done",
+  "sid": "2026-00893",
+  "word": "might have done",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "modal construction",
+    "modal perfect",
+    "past",
+    "possibility",
+    "uncertainty",
+    "inference",
+    "counterfactual",
+    "criticism",
+    "concession",
+    "grammar",
+    "general"
+  ],
+  "grammar": {
+    "pos": "modal construction",
+    "structure": "might + have + past participle",
+    "forms": {
+      "affirmative": "might have done",
+      "contracted": "might've done",
+      "negative": "might not have done",
+      "passive": "might have been done",
+      "continuous": "might have been doing"
+    },
+    "patterns": [
+      "subject + might have + past participle",
+      "subject + might not have + past participle",
+      "might have been + noun / adjective",
+      "might have been + past participle",
+      "might have been + -ing",
+      "if + past perfect, subject + might have + past participle",
+      "might have + past participle, but + clause",
+      "You might have + past participle!"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌmaɪt həv ˈdʌn/",
+      "uk": "/ˌmaɪt həv ˈdʌn/"
+    },
+    "reduced": {
+      "us": "/ˌmaɪtəv ˈdʌn/",
+      "uk": "/ˌmaɪtəv ˈdʌn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ひょっとすると～したかもしれない",
+      "過去に～した可能性があるが、確かではない",
+      "条件が異なっていれば～した可能性もあった",
+      "～してくれてもよかったのに、と控えめに非難する",
+      "確かに～だったかもしれないが、と譲歩する"
+    ],
+    "en": [
+      "used to say that a past event was possible but uncertain",
+      "used to suggest a tentative explanation for something that happened",
+      "used to describe a possible result under a counterfactual past condition",
+      "used to criticize someone for failing to take an available action",
+      "used to concede that something may have been true before presenting a contrast"
+    ]
+  },
+  "nuance": {
+    "ja": "might have＋過去分詞の中心用法は、過去の出来事について確信度の低い可能性を示すこと。He might have missed the train. は、実際に乗り遅れた可能性も、そうでない可能性も残す。if＋過去完了を伴う場合は、実現しなかった過去の可能性を表し、If we had left earlier, we might have caught the train. なら、実際には早く出ず、電車にも乗れなかったことを示唆する。You might have told me! は『言ってくれてもよかったのに』という非難。may have done とほぼ同義だが、might のほうがやや控えめ・不確実に聞こえることがある。",
+    "en": "The central use of might have followed by a past participle is to express an uncertain possibility concerning a past event. He might have missed the train leaves open both possibilities. With if plus the past perfect, it describes a counterfactual possible result: If we had left earlier, we might have caught the train normally implies that we did not leave earlier and did not catch it. You might have told me! is a reproach meaning that the person should have said something. May have done is often interchangeable, although might can sound slightly more tentative or uncertain."
+  },
+  "minimal": {
+    "ja": [
+      "He might have left.：彼は帰ったかもしれない。",
+      "He might not have left.：彼は帰らなかったかもしれない。",
+      "He may have left.：彼は帰ったかもしれない。might とほぼ同義。",
+      "He could have left.：彼は帰ることもできた・帰った可能性もある。",
+      "He must have left.：彼は帰ったに違いない。",
+      "You might have told me!：私に言ってくれてもよかったのに。",
+      "We might have won if we had practiced more.：もっと練習していれば、勝てたかもしれない。"
+    ],
+    "en": [
+      "He might have left expresses an uncertain past possibility.",
+      "He might not have left expresses the possibility that he did not leave.",
+      "He may have left is nearly equivalent.",
+      "He could have left can describe either an available option or a possible explanation.",
+      "He must have left expresses a strong inference.",
+      "You might have told me! is a reproach.",
+      "We might have won if we had practiced more describes a counterfactual possible result."
+    ]
+  },
+  "etymology": {
+    "ja": "might は may の歴史的な過去形で、古英語 meahte・mihte『力があった、可能だった』にさかのぼる。may は能力・可能性を表すゲルマン系の語。might に完了形 have＋過去分詞が続くことで、過去の不確かな可能性や、実現しなかった仮定的結果を表す構文となった。",
+    "en": "Might developed historically as the past form of may and goes back to Old English meahte or mihte, meaning had the power or was able. May is a Germanic modal associated with ability and possibility. Combined with the perfect have plus a past participle, might expresses an uncertain past possibility or a possible but unrealized result."
+  },
+  "synonyms": [
+    {
+      "word": "may have done",
+      "note": {
+        "ja": "～したかもしれない。推測用法ではほぼ同義だが、might より可能性をわずかに強く感じさせる場合がある。",
+        "en": "A near-equivalent for uncertain past possibility, sometimes perceived as slightly less tentative than might have done."
+      }
+    },
+    {
+      "word": "could have done",
+      "note": {
+        "ja": "～した可能性がある、または～することもできた。推測に加えて能力・機会も表す。",
+        "en": "Can express an uncertain past possibility, but also an unused ability, opportunity, or option."
+      }
+    },
+    {
+      "word": "perhaps did",
+      "note": {
+        "ja": "ひょっとすると～した。副詞 perhaps を用いた、より直接的な言い換え。",
+        "en": "A direct paraphrase using the adverb perhaps to express uncertainty."
+      }
+    },
+    {
+      "word": "should have done",
+      "note": {
+        "ja": "～すべきだった。非難用法では近いが、should のほうが義務・適切さを明確に表す。",
+        "en": "Similar in reproachful contexts, but more explicitly expresses duty or what would have been appropriate."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "könnte getan haben / hätte vielleicht getan",
+    "it": "potrebbe aver fatto / avrebbe potuto fare",
+    "fr": "a peut-être fait / aurait pu faire",
+    "es": "puede que haya hecho / podría haber hecho"
+  },
+  "collocations": {
+    "ja": [
+      "might have happened — 起こったかもしれない",
+      "might have forgotten — 忘れたかもしれない",
+      "might have misunderstood — 誤解したかもしれない",
+      "might have missed the train — 電車に乗り遅れたかもしれない",
+      "might have caused the problem — 問題を引き起こしたかもしれない",
+      "might not have noticed — 気づかなかったかもしれない",
+      "might have been different — 違っていたかもしれない",
+      "might have been avoided — 避けられたかもしれない",
+      "might easily have resulted in — 容易に～という結果になったかもしれない",
+      "might have won if — もし～なら勝てたかもしれない"
+    ],
+    "en": [
+      "might have happened",
+      "might have forgotten",
+      "might have misunderstood",
+      "might have missed the train",
+      "might have caused the problem",
+      "might not have noticed",
+      "might have been different",
+      "might have been avoided",
+      "might easily have resulted in",
+      "might have won if"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She might have misunderstood your question. — 彼女はあなたの質問を誤解したのかもしれない。",
+      "The error might have occurred during data transfer. — そのエラーはデータ転送中に発生したのかもしれない。",
+      "He might not have received the message. — 彼はそのメッセージを受け取っていなかったのかもしれない。",
+      "If we had checked the figures earlier, we might have found the mistake. — もっと早く数字を確認していれば、その誤りを発見できたかもしれない。",
+      "You might have warned me that the deadline had changed! — 締切が変わったことを私に知らせてくれてもよかったのに。"
+    ],
+    "en": [
+      "She might have misunderstood your question.",
+      "The error might have occurred during data transfer.",
+      "He might not have received the message.",
+      "If we had checked the figures earlier, we might have found the mistake.",
+      "You might have warned me that the deadline had changed!"
+    ]
+  }
 }
 ]
