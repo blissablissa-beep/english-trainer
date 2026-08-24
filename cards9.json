@@ -490,5 +490,470 @@
       "With an exasperated sigh, he explained the procedure once again."
     ]
   }
+},
+{
+  "id": "downside",
+  "sid": "2026-00904",
+  "word": "downside",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "disadvantage",
+    "negative aspect",
+    "decision",
+    "evaluation",
+    "risk",
+    "business",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "downsides",
+    "patterns": [
+      "the downside of + noun / -ing",
+      "a downside of + noun / -ing",
+      "the downside to + noun / -ing",
+      "The downside is that + clause.",
+      "one major / obvious / potential downside",
+      "on the downside",
+      "upside and downside"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdaʊnsaɪd/",
+      "uk": "/ˈdaʊnsaɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "物事の不利な面、マイナス面",
+      "選択・計画・状況などに伴う欠点",
+      "好ましい点と引き換えに生じる不都合・代償",
+      "投資・事業などにおける損失または悪化の可能性"
+    ],
+    "en": [
+      "a disadvantage or negative aspect of something",
+      "an unfavorable feature of a choice, plan, or situation",
+      "a cost or inconvenience accompanying a benefit",
+      "the possibility of loss or deterioration in business or investment"
+    ]
+  },
+  "nuance": {
+    "ja": "downside は、全体としては魅力的・有益な選択肢について、『ただし、この点はマイナスだ』と不利な側面を指摘する場合によく使われる。比較的口語的だが、ビジネスでも自然。通常は the downside of ～ または The downside is that... の形を取る。drawback と非常に近いが、downside は upside『プラス面』との対照を意識させ、利点と欠点を両面から評価する響きがある。金融では downside risk『下振れリスク』のように、価格・業績が悪化する方向も表す。",
+    "en": "Downside commonly identifies the negative side of an option that may otherwise be attractive or beneficial. It is conversational but also natural in business contexts. Common structures are the downside of something and The downside is that.... It is very close to drawback, but downside often evokes an explicit contrast with upside and therefore suggests weighing positive and negative sides. In finance, it also refers to the direction of loss or deterioration, as in downside risk."
+  },
+  "minimal": {
+    "ja": [
+      "downside：利点もある物事について、そのマイナス面を指す。",
+      "drawback：計画・製品・方法などの実用上の欠点を指す。",
+      "disadvantage：比較や競争において不利になる条件を広く表す。",
+      "shortcoming：人・制度・製品などに内在する不足・不完全さを表す。",
+      "pitfall：事前には気づきにくい、失敗につながる隠れた危険を表す。"
+    ],
+    "en": [
+      "downside: the negative side of something that may also have benefits.",
+      "drawback: a practical defect or inconvenience in a plan, product, or method.",
+      "disadvantage: any condition that places someone or something in an unfavorable position.",
+      "shortcoming: an inherent weakness, deficiency, or failure to meet a standard.",
+      "pitfall: a hidden or easily overlooked danger that can lead to failure."
+    ]
+  },
+  "etymology": {
+    "ja": "down『下方』と side『側面』から成る複合語。物理的な『下側』という発想から、upside『上側、好ましい面』と対照をなす『不利な側面』という比喩的意味が発達した。現在では、選択・計画・状況などの否定的側面を表す一般的な語として定着している。",
+    "en": "Downside is a compound of down and side. From the physical idea of a lower side, it developed the figurative meaning of an unfavorable aspect in contrast with upside, the favorable aspect. It is now a common term for the negative side of a choice, plan, or situation."
+  },
+  "synonyms": [
+    {
+      "word": "drawback",
+      "note": {
+        "ja": "計画・製品・方法などに伴う具体的な欠点や不便。downside と非常に近い。",
+        "en": "A specific defect or inconvenience associated with a plan, product, or method; very close to downside."
+      }
+    },
+    {
+      "word": "disadvantage",
+      "note": {
+        "ja": "人や物を比較上・競争上不利にする条件。最も一般的で形式的にも使える。",
+        "en": "The broad general term for a condition that creates an unfavorable position or reduces the chance of success."
+      }
+    },
+    {
+      "word": "shortcoming",
+      "note": {
+        "ja": "期待される基準に達していない点。対象そのものに内在する不足に重点がある。",
+        "en": "A weakness or deficiency inherent in something that prevents it from meeting an expected standard."
+      }
+    },
+    {
+      "word": "pitfall",
+      "note": {
+        "ja": "一見しただけでは分かりにくく、誤り・損失・失敗につながる危険。",
+        "en": "A hidden or easily overlooked danger capable of causing mistakes, loss, or failure."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Nachteil / Kehrseite",
+    "it": "svantaggio / lato negativo",
+    "fr": "inconvénient / revers de la médaille",
+    "es": "desventaja / lado negativo"
+  },
+  "collocations": {
+    "ja": [
+      "the main downside — 主なマイナス面",
+      "a major downside — 大きな欠点",
+      "an obvious downside — 明白な欠点",
+      "a potential downside — 潜在的なマイナス面",
+      "the downside of working from home — 在宅勤務のマイナス面",
+      "the downside to this approach — この方法の欠点",
+      "The downside is that... — マイナス面は～ということだ",
+      "weigh the upside and downside — プラス面とマイナス面を比較する",
+      "downside risk — 下振れリスク",
+      "limited downside — 限定的な下落・損失可能性"
+    ],
+    "en": [
+      "the main downside",
+      "a major downside",
+      "an obvious downside",
+      "a potential downside",
+      "the downside of working from home",
+      "the downside to this approach",
+      "The downside is that...",
+      "weigh the upside and downside",
+      "downside risk",
+      "limited downside"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The main downside of working from home is the lack of face-to-face communication. — 在宅勤務の主なマイナス面は、対面でのコミュニケーションが不足することだ。",
+      "The apartment is conveniently located, but the downside is that it is very small. — そのアパートは便利な場所にあるが、難点は非常に狭いことだ。",
+      "One potential downside of the proposal is the increased administrative burden. — その提案の潜在的な欠点の一つは、事務負担が増えることだ。",
+      "We need to consider both the upside and the downside before making a decision. — 決定する前に、プラス面とマイナス面の両方を検討する必要がある。",
+      "The strategy offers significant growth potential with relatively limited downside. — その戦略は、比較的限定された下振れリスクで大きな成長可能性をもたらす。"
+    ],
+    "en": [
+      "The main downside of working from home is the lack of face-to-face communication.",
+      "The apartment is conveniently located, but the downside is that it is very small.",
+      "One potential downside of the proposal is the increased administrative burden.",
+      "We need to consider both the upside and the downside before making a decision.",
+      "The strategy offers significant growth potential with relatively limited downside."
+    ]
+  }
+},
+{
+  "id": "attention_getter",
+  "sid": "2026-00905",
+  "word": "attention-getter",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "attention",
+    "presentation",
+    "advertising",
+    "communication",
+    "rhetoric",
+    "visual impact",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "attention-getters",
+    "alternative_spelling": "attention getter",
+    "patterns": [
+      "an effective / powerful attention-getter",
+      "use something as an attention-getter",
+      "serve as an attention-getter",
+      "a visual / verbal attention-getter",
+      "an attention-getter for + audience / campaign",
+      "begin with an attention-getter"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈtenʃən ˌɡetər/",
+      "uk": "/əˈtenʃən ˌɡetə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人の注意を引くもの・仕掛け",
+      "広告・プレゼン・文章などの冒頭で関心を引く要素",
+      "視覚・音・表現などによって目立つもの",
+      "周囲の注目を集める人や物"
+    ],
+    "en": [
+      "something designed to attract people's attention",
+      "an opening device used to engage an audience in a presentation, advertisement, or piece of writing",
+      "a striking visual, sound, phrase, or feature that makes something noticeable",
+      "a person or thing that naturally attracts considerable notice"
+    ]
+  },
+  "nuance": {
+    "ja": "attention-getter は、人の視線・関心・注意を引きつけるための要素を幅広く指す。プレゼン冒頭の質問・統計・逸話、広告の強い見出し、鮮やかな色、珍しいデザインなどが該当する。注意を引いた後の説得力や内容の質までは保証しない。人について使うこともあるが、attention seeker『注目を浴びたがる人』とは異なり、必ずしも批判的ではない。表記は attention-getter が標準的だが、attention getter も見られる。",
+    "en": "An attention-getter is any device or feature used to capture people's notice or interest. It may be a question, statistic, anecdote, headline, sound, bright color, or unusual design. The term concerns the initial capture of attention and does not imply that the message remains persuasive or valuable afterward. It can describe a person, but unlike attention seeker, it is not necessarily critical. The hyphenated spelling attention-getter is standard, though attention getter also occurs."
+  },
+  "minimal": {
+    "ja": [
+      "attention-getter：人の注意を引くために使われる要素全般。",
+      "hook：続きを知りたいと思わせ、聴衆・読者を内容へ引き込む仕掛け。",
+      "eye-catcher：特に視覚的に目立ち、人の目を引くもの。",
+      "gimmick：注目や売上を狙った奇抜な仕掛け。中身が伴わないという批判を含み得る。",
+      "publicity stunt：報道・世間の注目を集める目的で行われる派手な行為。"
+    ],
+    "en": [
+      "attention-getter: any element used to attract people's initial attention.",
+      "hook: a device that draws an audience into the content and makes them want to continue.",
+      "eye-catcher: something that attracts notice primarily through its visual appearance.",
+      "gimmick: a striking device used to attract attention or sales, sometimes criticized as lacking substance.",
+      "publicity stunt: a conspicuous action performed specifically to gain public or media attention."
+    ]
+  },
+  "etymology": {
+    "ja": "attention と getter から成る複合語。attention はラテン語 attendere『～へ心を向ける』の過去分詞 attentus に由来し、ad-『～へ』と tendere『伸ばす』から成る。getter は get『得る、獲得する』に行為者を表す -er を加えた語。したがって、attention-getter は文字どおり『注意を獲得するもの』を意味する。",
+    "en": "Attention-getter is a compound of attention and getter. Attention ultimately comes from Latin attendere, meaning to direct or stretch the mind toward something, formed from ad-, toward, and tendere, to stretch. Getter combines get with the agent suffix -er. The compound therefore literally means something that gets or captures attention."
+  },
+  "synonyms": [
+    {
+      "word": "hook",
+      "note": {
+        "ja": "聴衆・読者の好奇心を刺激し、その後の内容へ引き込む表現・仕掛け。",
+        "en": "A device that arouses curiosity and draws an audience or reader into the material that follows."
+      }
+    },
+    {
+      "word": "eye-catcher",
+      "note": {
+        "ja": "色・形・デザインなどによって視覚的に目立つもの。視覚以外の注意喚起には通常使わない。",
+        "en": "Something visually striking because of its color, form, or design, normally limited to visual attraction."
+      }
+    },
+    {
+      "word": "gimmick",
+      "note": {
+        "ja": "注目・販売促進のための珍しい工夫。表面的・安っぽいという否定的評価を伴う場合がある。",
+        "en": "An unusual device intended to attract notice or increase sales, sometimes regarded as superficial or cheap."
+      }
+    },
+    {
+      "word": "attention seeker",
+      "note": {
+        "ja": "周囲から注目されることを強く求める人。通常は批判的で、attention-getter とは異なる。",
+        "en": "A person who strongly seeks attention from others; usually critical and distinct from attention-getter."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Blickfang / Aufmerksamkeitsfänger",
+    "it": "elemento che attira l'attenzione / richiamo",
+    "fr": "accroche / élément qui attire l'attention",
+    "es": "elemento llamativo / recurso para captar la atención"
+  },
+  "collocations": {
+    "ja": [
+      "an effective attention-getter — 効果的に注意を引くもの",
+      "a powerful attention-getter — 強力に注意を引くもの",
+      "a visual attention-getter — 視覚的に注意を引く要素",
+      "a verbal attention-getter — 言葉によって注意を引く要素",
+      "an opening attention-getter — 冒頭で注意を引く仕掛け",
+      "use a question as an attention-getter — 質問を注意喚起の仕掛けとして使う",
+      "serve as an attention-getter — 注意を引く役割を果たす",
+      "design an attention-getter — 注意を引く要素を設計する",
+      "a good attention-getter for children — 子どもの注意を引くのに適したもの",
+      "begin a presentation with an attention-getter — 注意を引く要素でプレゼンを始める"
+    ],
+    "en": [
+      "an effective attention-getter",
+      "a powerful attention-getter",
+      "a visual attention-getter",
+      "a verbal attention-getter",
+      "an opening attention-getter",
+      "use a question as an attention-getter",
+      "serve as an attention-getter",
+      "design an attention-getter",
+      "a good attention-getter for children",
+      "begin a presentation with an attention-getter"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The speaker used a surprising statistic as an attention-getter. — 講演者は驚くべき統計を、聴衆の注意を引く仕掛けとして使った。",
+      "A provocative question can be an effective attention-getter at the beginning of a presentation. — 挑発的な質問は、プレゼン冒頭で効果的に注意を引くものになり得る。",
+      "The bright red packaging is clearly intended as an attention-getter. — その鮮やかな赤い包装は、明らかに人目を引くことを意図している。",
+      "The headline was a good attention-getter, but the article itself lacked substance. — その見出しはよく注意を引いたが、記事自体には中身がなかった。",
+      "The unusual building has become an attention-getter for the entire neighborhood. — その珍しい建物は、地域全体で人目を引く存在になっている。"
+    ],
+    "en": [
+      "The speaker used a surprising statistic as an attention-getter.",
+      "A provocative question can be an effective attention-getter at the beginning of a presentation.",
+      "The bright red packaging is clearly intended as an attention-getter.",
+      "The headline was a good attention-getter, but the article itself lacked substance.",
+      "The unusual building has become an attention-getter for the entire neighborhood."
+    ]
+  }
+},
+{
+  "id": "eye_catcher",
+  "sid": "2026-00906",
+  "word": "eye-catcher",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "visual attention",
+    "appearance",
+    "design",
+    "advertising",
+    "fashion",
+    "architecture",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "eye-catchers",
+    "alternative_spelling": "eyecatcher",
+    "related": {
+      "adjective": "eye-catching"
+    },
+    "patterns": [
+      "a real / striking / visual eye-catcher",
+      "make something an eye-catcher",
+      "serve as an eye-catcher",
+      "become an eye-catcher",
+      "an eye-catcher in + place / setting",
+      "an eye-catching + noun"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈaɪ ˌkætʃər/",
+      "uk": "/ˈaɪ ˌkætʃə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "視覚的に目立って人の目を引くもの",
+      "色・形・デザインなどが印象的な物",
+      "展示・広告・服装・建築などで特に注目を集める要素",
+      "見た瞬間に視線を引きつける物や特徴"
+    ],
+    "en": [
+      "a visually striking thing that immediately attracts attention",
+      "an object or feature noticeable because of its color, shape, or design",
+      "a prominent visual element in a display, advertisement, outfit, or building",
+      "something that catches the eye as soon as it is seen"
+    ]
+  },
+  "nuance": {
+    "ja": "eye-catcher は、主に見た目によって人の視線を引きつける物を指す。色彩、形状、大きさ、配置、珍しいデザインなどが理由になる。音・言葉・質問など視覚以外の手段には通常使わない。attention-getter より範囲が狭く、視覚的要素に限定される。英語では eye-catcher も使われるが、an eye-catching design、an eye-catching feature のように形容詞 eye-catching を使うほうが一般に自然で頻度も高い。",
+    "en": "An eye-catcher is something that attracts notice primarily through its visual appearance, such as its color, shape, size, position, or unusual design. It is not normally used for sounds, questions, or other nonvisual devices. It is therefore narrower than attention-getter. Although eye-catcher is established English, the adjective eye-catching is generally more frequent and often more idiomatic, as in an eye-catching design or an eye-catching feature."
+  },
+  "minimal": {
+    "ja": [
+      "eye-catcher：見た目によって即座に人の視線を引くもの。",
+      "attention-getter：視覚・音・言葉などを問わず、注意を引くための要素全般。",
+      "focal point：構成・空間の中で、意図的に視線や関心が集中する中心。",
+      "showstopper：あまりに印象的で、観客を圧倒するほど際立ったもの。",
+      "highlight：展示・催し・作品などの中で、特に優れた見どころ。"
+    ],
+    "en": [
+      "eye-catcher: something that immediately attracts attention through its appearance.",
+      "attention-getter: any visual, verbal, or auditory element used to attract attention.",
+      "focal point: the central element on which attention is deliberately concentrated.",
+      "showstopper: something so impressive that it produces an exceptionally strong audience reaction.",
+      "highlight: one of the best or most memorable features of an event, display, or work."
+    ]
+  },
+  "etymology": {
+    "ja": "eye『目、視線』と catcher『捕らえるもの』から成る複合語で、文字どおりには『視線を捕らえるもの』を意味する。catcher は catch に行為者・道具を表す接尾辞 -er を加えた語。形容詞 eye-catching も同じ比喩に基づき、『視線を捕らえるほど目立つ』ことを表す。",
+    "en": "Eye-catcher is a compound of eye and catcher and literally means something that catches the eye. Catcher is formed from catch plus the agent or instrument suffix -er. The related adjective eye-catching uses the same metaphor of visually capturing someone's attention."
+  },
+  "synonyms": [
+    {
+      "word": "attention-getter",
+      "note": {
+        "ja": "人の注意を引く要素全般。視覚だけでなく、音・質問・統計・表現などにも使える。",
+        "en": "Any device that attracts attention, including sounds, questions, statistics, and verbal expressions as well as visual elements."
+      }
+    },
+    {
+      "word": "focal point",
+      "note": {
+        "ja": "デザイン・部屋・画像などで視線が集まる中心。目立つだけでなく、構成上の中心であることに重点がある。",
+        "en": "The compositional center of a design, room, or image, emphasizing concentrated attention rather than mere conspicuousness."
+      }
+    },
+    {
+      "word": "showstopper",
+      "note": {
+        "ja": "観客の反応を止めるほど圧倒的に印象的な物・演技・人物。eye-catcher より称賛が強い。",
+        "en": "An exceptionally impressive object, performance, or person that produces an overwhelming reaction."
+      }
+    },
+    {
+      "word": "highlight",
+      "note": {
+        "ja": "展示・行事・作品などの中で最も優れた、または記憶に残る見どころ。",
+        "en": "One of the best, most interesting, or most memorable features of something."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Blickfang / Hingucker",
+    "it": "elemento di richiamo / elemento che attira lo sguardo",
+    "fr": "accroche visuelle / élément qui attire le regard",
+    "es": "elemento llamativo / centro de atención visual"
+  },
+  "collocations": {
+    "ja": [
+      "a real eye-catcher — 本当に人目を引くもの",
+      "a striking eye-catcher — 強く目を引くもの",
+      "a visual eye-catcher — 視覚的に目を引く要素",
+      "serve as an eye-catcher — 人目を引く役割を果たす",
+      "become an eye-catcher — 人目を引く存在になる",
+      "make something an eye-catcher — 何かを人目を引くものにする",
+      "an eye-catcher in the room — 部屋の中で人目を引くもの",
+      "an eye-catcher on the page — 紙面上で目を引くもの",
+      "an eye-catching design — 人目を引くデザイン",
+      "an eye-catching color — 人目を引く色"
+    ],
+    "en": [
+      "a real eye-catcher",
+      "a striking eye-catcher",
+      "a visual eye-catcher",
+      "serve as an eye-catcher",
+      "become an eye-catcher",
+      "make something an eye-catcher",
+      "an eye-catcher in the room",
+      "an eye-catcher on the page",
+      "an eye-catching design",
+      "an eye-catching color"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The red sofa is a real eye-catcher in the otherwise neutral room. — その赤いソファは、ほかは落ち着いた色の部屋の中で非常に目を引く。",
+      "The unusual cover makes the book an eye-catcher on the shelf. — 珍しい表紙によって、その本は棚の上で人目を引く存在になっている。",
+      "The building's curved glass facade has become a local eye-catcher. — その建物の曲線的なガラス外壁は、地域で人目を引く存在になっている。",
+      "The designer added a bright yellow detail as an eye-catcher. — デザイナーは目を引く要素として鮮やかな黄色の細部を加えた。",
+      "The exhibition uses several eye-catching displays to attract visitors. — その展示会は来場者を引きつけるために、複数の人目を引く展示を使っている。"
+    ],
+    "en": [
+      "The red sofa is a real eye-catcher in the otherwise neutral room.",
+      "The unusual cover makes the book an eye-catcher on the shelf.",
+      "The building's curved glass facade has become a local eye-catcher.",
+      "The designer added a bright yellow detail as an eye-catcher.",
+      "The exhibition uses several eye-catching displays to attract visitors."
+    ]
+  }
 }
 ]
