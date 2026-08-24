@@ -9634,5 +9634,162 @@
       "Her disavowal of the policy surprised her former allies."
     ]
   }
+},
+{
+  "id": "botch",
+  "sid": "2026-00865",
+  "word": "botch",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "mistake",
+    "failure",
+    "poor workmanship",
+    "incompetence",
+    "criticism",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "botch",
+      "third_person": "botches",
+      "past": "botched",
+      "past_participle": "botched",
+      "gerund": "botching"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "botch + noun",
+      "botch a job / repair / operation",
+      "botch an investigation",
+      "botch an attempt to + verb",
+      "botch the handling / implementation of + noun"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bɑːtʃ/",
+      "uk": "/bɒtʃ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "仕事・作業などをひどく下手に行う",
+      "不注意や技量不足によってしくじる",
+      "処置・計画・捜査などを台無しにする"
+    ],
+    "en": [
+      "to perform a task very badly",
+      "to spoil something through carelessness or incompetence",
+      "to handle an operation, plan, or procedure so badly that it fails"
+    ]
+  },
+  "nuance": {
+    "ja": "botch は、単に間違えるだけでなく、技量不足・不注意・準備不足などによって仕事や処置をひどい出来にしてしまうことを表す。特に修理、工事、手術、捜査、計画の実施など、本来ある程度の能力や慎重さが求められる作業について使われやすい。mess up よりも『仕事ぶりが下手だった』という批判が強く、結果として対象を台無しにしたことに焦点がある。",
+    "en": "Botch means to perform a task so badly that the result is defective, unsuccessful, or ruined. It often implies incompetence, carelessness, or poor preparation. It is especially common with work requiring skill or careful handling, such as repairs, surgery, investigations, and implementation. Compared with mess up, botch places greater emphasis on poor workmanship or incompetent execution."
+  },
+  "minimal": {
+    "ja": [
+      "botch：仕事や処置を下手に行い、結果を台無しにする。",
+      "botch a repair：修理を下手に行う。",
+      "botch an operation：手術を不手際で失敗する。",
+      "mess up：しくじる、台無しにする。より広く口語的。",
+      "bungle：不器用さや手際の悪さからしくじる。",
+      "ruin：完全に台無しにする。行為の下手さより結果に重点。"
+    ],
+    "en": [
+      "botch means to perform a task badly and spoil the result.",
+      "botch a repair means to carry out the repair incompetently.",
+      "botch an operation means to perform an operation badly.",
+      "mess up is broader and more conversational.",
+      "bungle emphasizes clumsy or incompetent handling.",
+      "ruin emphasizes the damaging result rather than poor performance."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語の bocchen に由来し、もともとは『粗雑に修繕する、継ぎ当てする』という意味だったとされる。ただし、それ以前の語源は明確ではない。粗末な修繕という意味から、『仕事を下手に仕上げる』『不手際で台無しにする』という現在の意味へ発達した。",
+    "en": "Botch comes from Middle English bocchen, which referred to patching or repairing something clumsily, although its earlier origin is uncertain. The idea of crude or defective repair developed into the modern sense of performing a task badly and spoiling the result."
+  },
+  "synonyms": [
+    {
+      "word": "bungle",
+      "note": {
+        "ja": "不器用さ・手際の悪さ・判断不足によって仕事をしくじる。botch と非常に近い。",
+        "en": "To handle a task clumsily or incompetently and cause it to fail; very close to botch."
+      }
+    },
+    {
+      "word": "mess up",
+      "note": {
+        "ja": "失敗する・間違える・台無しにするという非常に広い口語表現。",
+        "en": "A very common informal expression covering mistakes, failures, and ruined results."
+      }
+    },
+    {
+      "word": "mishandle",
+      "note": {
+        "ja": "問題・事件・状況などへの対処を誤る。botch より中立的・形式的。",
+        "en": "To deal with a situation or responsibility badly; more neutral and formal than botch."
+      }
+    },
+    {
+      "word": "ruin",
+      "note": {
+        "ja": "完全に台無しにする。作業方法よりも深刻な結果に焦点がある。",
+        "en": "To spoil something severely or completely, with greater emphasis on the result."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verpfuschen / vermasseln",
+    "it": "raffazzonare / pasticciare",
+    "fr": "bâcler / rater",
+    "es": "hacer mal / estropear"
+  },
+  "collocations": {
+    "ja": [
+      "botch a job — 仕事をひどくしくじる",
+      "botch a repair — 修理を下手に行う",
+      "botch an operation — 手術を不手際で失敗する",
+      "botch an investigation — 捜査を不手際で台無しにする",
+      "botch an attempt — 試みをしくじる",
+      "botch the implementation — 実施・導入をしくじる",
+      "botch the handling of a crisis — 危機対応を誤る",
+      "completely botch something — 何かを完全にしくじる",
+      "badly botch something — 何かをひどくやり損なう",
+      "a botched job — ひどい出来の仕事"
+    ],
+    "en": [
+      "botch a job",
+      "botch a repair",
+      "botch an operation",
+      "botch an investigation",
+      "botch an attempt",
+      "botch the implementation",
+      "botch the handling of a crisis",
+      "completely botch something",
+      "badly botch something",
+      "a botched job"
+    ]
+  },
+  "example": {
+    "ja": [
+      "They botched the repair and made the leak even worse. — 彼らは修理をしくじり、水漏れをさらに悪化させた。",
+      "The authorities were accused of botching the investigation. — 当局は捜査を不手際で台無しにしたと非難された。",
+      "The company completely botched the launch of its new service. — その会社は新サービスの開始を完全にしくじった。",
+      "He tried to fix the table himself but botched the job. — 彼は自分でテーブルを直そうとしたが、修理をひどくしくじった。",
+      "The procedure had been botched before the new medical team took over. — 新しい医療チームが引き継ぐ前に、その処置は不手際によって失敗していた。"
+    ],
+    "en": [
+      "They botched the repair and made the leak even worse.",
+      "The authorities were accused of botching the investigation.",
+      "The company completely botched the launch of its new service.",
+      "He tried to fix the table himself but botched the job.",
+      "The procedure had been botched before the new medical team took over."
+    ]
+  }
 }
 ]
