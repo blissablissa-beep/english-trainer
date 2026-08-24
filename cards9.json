@@ -4873,5 +4873,159 @@
       "The organization petitioned the government to amend the regulations."
     ]
   }
+},
+{
+  "id": "office_action",
+  "sid": "2026-00932",
+  "word": "office action",
+  "level": "C1",
+  "freq": "rare",
+  "tags": [
+    "noun phrase",
+    "intellectual property",
+    "patent",
+    "trademark",
+    "USPTO",
+    "examination",
+    "application",
+    "legal",
+    "specialized"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "structure": "compound noun",
+    "countability": "countable",
+    "plural": "office actions",
+    "patterns": [
+      "a non-final / final office action",
+      "an office action concerning + application",
+      "issue / receive an office action",
+      "respond / reply to an office action",
+      "overcome the refusal in an office action",
+      "the deadline for responding to an office action"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɔːfɪs ˌækʃən/",
+      "uk": "/ˈɒfɪs ˌækʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特許庁・商標庁の審査官が出願人に送付する公式な審査通知",
+      "出願に対する拒絶理由・異議・方式上の不備・補正要求などを記載した通知",
+      "米国特許商標庁における審査結果通知",
+      "出願人に一定期間内の応答を求める庁通知"
+    ],
+    "en": [
+      "an official communication from a patent or trademark office concerning an application",
+      "a notice setting out refusals, rejections, objections, formal defects, or requirements identified by an examiner",
+      "an examination communication issued by the United States Patent and Trademark Office",
+      "a notice requiring the applicant to respond within a specified period"
+    ]
+  },
+  "nuance": {
+    "ja": "office action は特に米国特許商標庁（USPTO）の実務で使われる用語で、審査官が出願について発見した拒絶理由、クレームの rejection、方式上の objection、補正要求などを出願人に通知する公式文書を指す。office action が発行されたこと自体は、出願が最終的に拒絶されたことを意味しない。出願人は通常、期限内に意見書・補正書などを提出して応答できる。non-final office action と final office action があるが、final であっても、手続上可能な対応がすべて失われるとは限らない。他国では examination report、examiner's report、official communication など別の名称が使われる。",
+    "en": "Office action is used especially in practice before the United States Patent and Trademark Office. It is an official examiner's communication identifying substantive refusals or claim rejections, formal objections, defects, or other requirements. The issuance of an office action does not by itself mean that the application has been finally refused. The applicant can normally respond with arguments, amendments, evidence, or other required information. Office actions may be non-final or final, although final does not necessarily mean that every procedural option has been exhausted. Other jurisdictions may use terms such as examination report or official communication."
+  },
+  "minimal": {
+    "ja": [
+      "office action：審査官が出願上の拒絶理由・異議・不備・要求をまとめて通知する公式文書。",
+      "examination report：審査結果や問題点を出願人に伝える一般的・国際的な名称。",
+      "refusal：商標などの登録を認めないという審査上の判断。office action に記載されることがある。",
+      "rejection：特許クレームなどを認めないとする審査官の判断。office action の一部を構成しうる。",
+      "notice of allowance：審査の結果、出願またはクレームが登録・特許可能であることを知らせる通知。"
+    ],
+    "en": [
+      "office action is an official examiner's communication collecting refusals, rejections, objections, defects, or requirements concerning an application.",
+      "examination report is a more general international term for a communication reporting examination results and identified issues.",
+      "refusal is an examiner's determination not to permit registration, which may be stated in an office action.",
+      "rejection is an examiner's determination that a patent claim or similar matter is not allowable and may form part of an office action.",
+      "notice of allowance is a communication indicating that an application or claim has been found allowable."
+    ]
+  },
+  "etymology": {
+    "ja": "office action は office『官庁、職務を行う機関』と action『措置、行為』から成る。office はラテン語 officium『職務、奉仕』に、action はラテン語 actio『行為、遂行』に由来する。米国の知的財産実務では、特許商標庁という Office が出願審査において取る公式な処置・通知という意味で専門用語化した。",
+    "en": "Office action combines office, meaning a government authority or institution performing official duties, with action, meaning an official act or measure. Office derives from Latin officium, meaning duty or service, while action comes from Latin actio. In United States intellectual property practice, the expression became a specialized term for an official examination communication issued by the Patent and Trademark Office."
+  },
+  "synonyms": [
+    {
+      "word": "examination report",
+      "note": {
+        "ja": "審査結果や拒絶理由などを記載した報告書。他国の制度で office action に相当することがある。",
+        "en": "A report stating examination results and identified issues, often functioning as the equivalent term in other jurisdictions."
+      }
+    },
+    {
+      "word": "examiner's report",
+      "note": {
+        "ja": "審査官が出願について作成する審査報告。法域によって正式名称や法的効果が異なる。",
+        "en": "A report prepared by an examiner concerning an application, with terminology and legal effects varying by jurisdiction."
+      }
+    },
+    {
+      "word": "official communication",
+      "note": {
+        "ja": "庁から出願人へ送られる公式通知を広く表す一般的な表現。",
+        "en": "A broad general expression for an official notice sent by an intellectual property office to an applicant."
+      }
+    },
+    {
+      "word": "examination notice",
+      "note": {
+        "ja": "審査上の結果・要求を通知する文書を説明的に表す語。",
+        "en": "A descriptive term for a notice communicating examination results or requirements."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Prüfungsbescheid / Beanstandungsbescheid",
+    "it": "comunicazione dell'ufficio / rapporto d'esame",
+    "fr": "notification de l'office / rapport d'examen",
+    "es": "comunicación de la oficina / informe de examen"
+  },
+  "collocations": {
+    "ja": [
+      "a non-final office action — 非最終の審査通知",
+      "a final office action — 最終の審査通知",
+      "issue an office action — オフィスアクションを発行する",
+      "receive an office action — オフィスアクションを受領する",
+      "respond to an office action — オフィスアクションに応答する",
+      "an office action response — オフィスアクションへの応答書",
+      "the response deadline — 応答期限",
+      "an office action citing prior art — 先行技術を引用する審査通知",
+      "an office action citing an earlier registration — 先行登録を引用する審査通知",
+      "overcome the examiner's refusal — 審査官の拒絶理由を解消する"
+    ],
+    "en": [
+      "a non-final office action",
+      "a final office action",
+      "issue an office action",
+      "receive an office action",
+      "respond to an office action",
+      "an office action response",
+      "the response deadline",
+      "an office action citing prior art",
+      "an office action citing an earlier registration",
+      "overcome the examiner's refusal"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The USPTO issued a non-final office action concerning the trademark application. — USPTOはその商標出願について非最終の審査通知を発行した。",
+      "The office action cited an earlier registration as a basis for refusal. — その審査通知では、拒絶の根拠として先行登録が引用されていた。",
+      "The applicant responded to the office action by amending the identification of goods. — 出願人は指定商品を補正することによって審査通知に応答した。",
+      "The patent examiner rejected several claims in the final office action. — 特許審査官は最終オフィスアクションで複数のクレームを拒絶した。",
+      "Failure to respond to the office action by the deadline may result in abandonment of the application. — 期限までに審査通知へ応答しない場合、出願が放棄されたものと扱われる可能性がある。"
+    ],
+    "en": [
+      "The USPTO issued a non-final office action concerning the trademark application.",
+      "The office action cited an earlier registration as a basis for refusal.",
+      "The applicant responded to the office action by amending the identification of goods.",
+      "The patent examiner rejected several claims in the final office action.",
+      "Failure to respond to the office action by the deadline may result in abandonment of the application."
+    ]
+  }
 }
 ]
