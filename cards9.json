@@ -9740,5 +9740,488 @@
       "He sat quietly by the lake, contemplating the view."
     ]
   }
+},
+{
+  "id": "envisage",
+  "sid": "2026-00963",
+  "word": "envisage",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "imagination",
+    "future",
+    "expectation",
+    "planning",
+    "possibility",
+    "formal",
+    "business",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "envisage",
+      "third_person": "envisages",
+      "past": "envisaged",
+      "past_participle": "envisaged",
+      "gerund": "envisaging"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "envisage + noun",
+      "envisage + -ing",
+      "envisage that + clause",
+      "envisage how / what + clause",
+      "envisage someone / something as + noun",
+      "be envisaged as + noun",
+      "as originally envisaged"
+    ],
+    "usage_note": "Use envisage doing, not normally envisage to do."
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈvɪzɪdʒ/",
+      "uk": "/ɪnˈvɪzɪdʒ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "将来の状況や出来事を心に描く",
+      "ある展開・結果が起こり得るものとして想定する",
+      "計画や制度の一部として予定する、構想する",
+      "人や物が特定の役割・状態になる姿を思い描く"
+    ],
+    "en": [
+      "to form a mental picture of a future situation or event",
+      "to consider a development or result as a real possibility",
+      "to plan or provide for something as part of a proposal or arrangement",
+      "to imagine someone or something in a particular role or state"
+    ]
+  },
+  "nuance": {
+    "ja": "envisage は、まだ現実になっていない状況を、ある程度具体的な将来像として心に描くことを表す。単なる空想よりも、計画・予測・現実的な可能性との結び付きが強い。I envisage the project taking three years. なら、現在の見通しとして『その事業には3年かかる状況を想定している』という意味になる。法律・政策・契約などでは、制度や文書が特定の状況を『想定している・予定している』という形式的な用法も多い。イギリス英語で特に一般的で、アメリカ英語では同じ意味で envision が選ばれやすい。後ろに動作を置く場合は envisage doing を用い、通常 envisage to do とはしない。",
+    "en": "Envisage means forming a reasonably concrete mental picture of something that has not yet happened. It is more closely connected with planning, forecasting, or realistic possibility than with unrestricted fantasy. I envisage the project taking three years presents that duration as the speaker's current conception of how the project may develop. In legal, policy, and contractual writing, the verb often means that a document or arrangement anticipates or provides for a particular situation. Envisage is especially common in British English, while American English often favors envision. An action normally follows in the -ing form rather than the to-infinitive."
+  },
+  "minimal": {
+    "ja": [
+      "envisage：将来起こり得る状況を、計画や現実的可能性と結び付けて心に描く。",
+      "envision：envisageとほぼ同義。特にアメリカ英語で一般的で、望ましい将来像にもよく使われる。",
+      "imagine：現実性を問わず、人物・場面・可能性などを心に思い浮かべる最も広い語。",
+      "anticipate：将来起こりそうなことを予期し、場合によっては事前に備える。",
+      "contemplate：決定や行動の可能性について、時間をかけて深く検討する。"
+    ],
+    "en": [
+      "envisage: to picture a possible future situation in connection with planning or realistic expectations.",
+      "envision: nearly synonymous with envisage, especially common in American English and often used for a desired future.",
+      "imagine: the broad term for forming any mental image or possibility, whether realistic or not.",
+      "anticipate: to expect a likely future event and sometimes prepare for it in advance.",
+      "contemplate: to think deeply and carefully about a possible decision, action, or situation."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 envisager に由来する。これは en『～に、～の中に』と visage『顔、外観』から成り、もともとは『顔を見る』『直面する』ことを表した。そこから、ある物事を心の前に置いて見るように『思い描く・考慮する』という意味へ発達した。visage はラテン語 videre『見る』に関連する。",
+    "en": "Envisage comes from French envisager, formed from en and visage, meaning face or appearance. It originally conveyed looking something in the face or confronting it. This developed into the figurative sense of placing a situation before the mind and picturing or considering it. Visage is ultimately related to Latin videre, meaning to see."
+  },
+  "synonyms": [
+    {
+      "word": "envision",
+      "note": {
+        "ja": "将来の状況を心に描く。envisageとほぼ同義だが、アメリカ英語でより一般的。",
+        "en": "To form a mental picture of a future situation; nearly equivalent and more common in American English."
+      }
+    },
+    {
+      "word": "imagine",
+      "note": {
+        "ja": "心に思い浮かべる最も一般的な語。現実的な計画との結び付きは必要ない。",
+        "en": "The general verb for forming a mental image, without necessarily suggesting a realistic plan."
+      }
+    },
+    {
+      "word": "foresee",
+      "note": {
+        "ja": "将来の出来事を予見する。心に描くことより、先を読んで認識することに重点がある。",
+        "en": "To recognize or predict a future event, emphasizing foresight rather than mental visualization."
+      }
+    },
+    {
+      "word": "visualize",
+      "note": {
+        "ja": "人物・物・場面などを視覚的な像として頭に描く。",
+        "en": "To create a specifically visual mental image of a person, object, scene, or outcome."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sich vorstellen / ins Auge fassen",
+    "it": "immaginare / prevedere",
+    "fr": "envisager",
+    "es": "contemplar / prever"
+  },
+  "collocations": {
+    "ja": [
+      "envisage a future — 将来像を思い描く",
+      "envisage a situation — ある状況を想定する",
+      "envisage a possibility — 可能性を想定する",
+      "envisage a scenario — シナリオを想定する",
+      "envisage a role — 役割を思い描く",
+      "envisage significant changes — 大幅な変化を想定する",
+      "envisage further expansion — さらなる拡大を構想する",
+      "envisage doing something — 何かをすることを想定する",
+      "as originally envisaged — 当初想定されていたとおりに",
+      "be envisaged as a long-term solution — 長期的な解決策として構想される"
+    ],
+    "en": [
+      "envisage a future",
+      "envisage a situation",
+      "envisage a possibility",
+      "envisage a scenario",
+      "envisage a role",
+      "envisage significant changes",
+      "envisage further expansion",
+      "envisage doing something",
+      "as originally envisaged",
+      "be envisaged as a long-term solution"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I envisage the project taking at least three years to complete. — その事業の完了には少なくとも3年かかると想定している。",
+      "The company envisages further expansion into Asian markets. — その会社はアジア市場へのさらなる進出を構想している。",
+      "It is difficult to envisage a situation in which the two sides would agree. — 両者が合意するような状況を想像するのは難しい。",
+      "The system was originally envisaged as a temporary solution. — その制度は当初、一時的な解決策として構想されていた。",
+      "The agreement envisages that the rights may eventually be transferred to a third party. — その契約は、権利が最終的に第三者へ移転される可能性を想定している。"
+    ],
+    "en": [
+      "I envisage the project taking at least three years to complete.",
+      "The company envisages further expansion into Asian markets.",
+      "It is difficult to envisage a situation in which the two sides would agree.",
+      "The system was originally envisaged as a temporary solution.",
+      "The agreement envisages that the rights may eventually be transferred to a third party."
+    ]
+  }
+},
+{
+  "id": "envision",
+  "sid": "2026-00964",
+  "word": "envision",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "imagination",
+    "future",
+    "vision",
+    "planning",
+    "possibility",
+    "business",
+    "leadership",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "envision",
+      "third_person": "envisions",
+      "past": "envisioned",
+      "past_participle": "envisioned",
+      "gerund": "envisioning"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "envision + noun",
+      "envision + -ing",
+      "envision someone / something + -ing",
+      "envision someone / something as + noun",
+      "envision a future in which + clause",
+      "be envisioned as + noun"
+    ],
+    "usage_note": "Use envision doing or envision someone doing, not normally envision to do."
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈvɪʒən/",
+      "uk": "/ɪnˈvɪʒən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "将来の状況・結果・完成像を心に描く",
+      "あることが起こる場面を具体的に想像する",
+      "人や物が将来特定の役割・状態になると構想する",
+      "望ましい未来や目標をビジョンとして描く"
+    ],
+    "en": [
+      "to form a mental picture of a future situation, result, or completed form",
+      "to imagine a particular event or development happening",
+      "to conceive of a person or thing in a future role or state",
+      "to picture a desired future or goal as a vision"
+    ]
+  },
+  "nuance": {
+    "ja": "envision は、まだ存在しない状況を、目に見える完成図のように具体的に心に描くことを表す。特に事業計画、製品開発、都市計画、組織の将来像など、目指すべき未来を語る場面でよく使われる。envisageと意味はほぼ同じだが、envisionはアメリカ英語でより一般的であり、創造的・前向き・ビジョン志向の響きを持つことがある。ただし、望ましくない展開を想像する場合にも使用できる。動作を続ける場合は envision doing または envision someone doing を用い、通常 envision to do とはしない。",
+    "en": "Envision means forming a fairly concrete mental picture of something that does not yet exist or has not yet happened. It is especially common when discussing business plans, product development, urban design, organizational goals, and desired future outcomes. It is nearly synonymous with envisage but is more common in American English and can carry a creative, forward-looking, or visionary tone. It is not limited to positive outcomes and may also describe imagining an undesirable development. An action normally follows in the -ing form, as in envision doing or envision someone doing, rather than the to-infinitive."
+  },
+  "minimal": {
+    "ja": [
+      "envision：将来の状況や完成像を、視覚的・具体的なビジョンとして心に描く。",
+      "envisage：現実的な可能性や計画上の展開として将来を想定する。特にイギリス英語で一般的。",
+      "imagine：現実性や将来性を問わず、あらゆる人物・場面・考えを心に思い浮かべる。",
+      "visualize：形・色・配置などを視覚的な心像として思い描くことに重点がある。",
+      "foresee：現在の情報から将来起こることを予見することに重点がある。"
+    ],
+    "en": [
+      "envision: to picture a future situation or completed outcome as a concrete mental vision.",
+      "envisage: to conceive of a future development as a realistic possibility or part of a plan, especially in British English.",
+      "imagine: the broad term for forming any mental image or idea, whether realistic or future-oriented or not.",
+      "visualize: to create a specifically visual mental image of shape, color, position, or appearance.",
+      "foresee: to recognize or predict a future event on the basis of present knowledge."
+    ]
+  },
+  "etymology": {
+    "ja": "接頭辞 en-『～の中に入れる、～にする』と vision『視覚、心に描く像』から作られた語。visionはラテン語 videre『見る』に由来する。文字どおりには『心の視野の中に置く』という構造であり、19世紀に英語で使われるようになった。",
+    "en": "Envision was formed from the prefix en-, meaning to put into or cause to be, and vision, meaning sight or a mental image. Vision ultimately derives from Latin videre, meaning to see. The structure therefore suggests placing something within one's mental field of vision. The verb came into use in English in the nineteenth century."
+  },
+  "synonyms": [
+    {
+      "word": "envisage",
+      "note": {
+        "ja": "将来の状況を想定するほぼ同義の語。イギリス英語や形式的な文章で比較的よく使われる。",
+        "en": "A near-equivalent meaning to conceive of a future situation, relatively common in British and formal usage."
+      }
+    },
+    {
+      "word": "imagine",
+      "note": {
+        "ja": "心に思い浮かべる最も一般的な語。必ずしも具体的な将来像を表さない。",
+        "en": "The general verb for forming a mental image or idea and not necessarily a concrete future vision."
+      }
+    },
+    {
+      "word": "picture",
+      "note": {
+        "ja": "場面や状況を頭の中で画像のように思い描く、という口語的な表現。",
+        "en": "A relatively informal verb meaning to see a scene or situation as an image in one's mind."
+      }
+    },
+    {
+      "word": "conceive of",
+      "note": {
+        "ja": "考えや可能性を頭の中で形成・理解する。視覚的なイメージを伴う必要はない。",
+        "en": "To form or understand an idea or possibility mentally, without requiring a visual image."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sich vorstellen / vor Augen haben",
+    "it": "immaginare / concepire",
+    "fr": "envisager / imaginer",
+    "es": "imaginar / concebir"
+  },
+  "collocations": {
+    "ja": [
+      "envision a future — 将来像を思い描く",
+      "envision a world — ある世界の姿を思い描く",
+      "envision a scenario — シナリオを想像する",
+      "envision a possibility — 可能性を思い描く",
+      "envision a solution — 解決策の完成像を描く",
+      "envision a new system — 新しい制度を構想する",
+      "envision future growth — 将来の成長を思い描く",
+      "envision doing something — 何かをする姿を思い描く",
+      "envision someone as a leader — 人を指導者になる人物として思い描く",
+      "as originally envisioned — 当初構想されていたとおりに"
+    ],
+    "en": [
+      "envision a future",
+      "envision a world",
+      "envision a scenario",
+      "envision a possibility",
+      "envision a solution",
+      "envision a new system",
+      "envision future growth",
+      "envision doing something",
+      "envision someone as a leader",
+      "as originally envisioned"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We envision a future in which clean energy is available to everyone. — 私たちはクリーンエネルギーを誰もが利用できる未来を思い描いている。",
+      "The designers envisioned the building as a flexible community space. — 設計者たちは、その建物を柔軟に利用できる地域交流空間として構想した。",
+      "I cannot envision myself working in the same position for another ten years. — あと10年間も同じ役職で働いている自分は想像できない。",
+      "The system did not function as originally envisioned. — その制度は当初構想されていたとおりには機能しなかった。",
+      "The company envisions expanding the service into several overseas markets. — その会社は、サービスを複数の海外市場へ拡大することを構想している。"
+    ],
+    "en": [
+      "We envision a future in which clean energy is available to everyone.",
+      "The designers envisioned the building as a flexible community space.",
+      "I cannot envision myself working in the same position for another ten years.",
+      "The system did not function as originally envisioned.",
+      "The company envisions expanding the service into several overseas markets."
+    ]
+  }
+},
+{
+  "id": "foresee",
+  "sid": "2026-00965",
+  "word": "foresee",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "prediction",
+    "future",
+    "expectation",
+    "risk",
+    "planning",
+    "formal",
+    "business",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "foresee",
+      "third_person": "foresees",
+      "past": "foresaw",
+      "past_participle": "foreseen",
+      "gerund": "foreseeing"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "foresee + noun",
+      "foresee that + clause",
+      "foresee what / how / when + clause",
+      "foresee + noun + -ing",
+      "foresee doing / needing + noun",
+      "as far as can be foreseen",
+      "a foreseeable consequence / risk"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/fɔːrˈsiː/",
+      "uk": "/fɔːˈsiː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "将来起こる出来事や状況を事前に予見する",
+      "現在の情報や傾向から将来の結果を見通す",
+      "問題・危険・必要性などが生じることをあらかじめ認識する",
+      "将来の展開を予測して想定に入れる"
+    ],
+    "en": [
+      "to know or recognize in advance that something will or may happen",
+      "to perceive a future result from present information or trends",
+      "to anticipate the emergence of a problem, risk, or need",
+      "to predict a future development and take it into account"
+    ]
+  },
+  "nuance": {
+    "ja": "foresee は、現在の状況・知識・傾向などをもとに、将来起こりそうな出来事を前もって見通すことを表す。超自然的に未来を見るというより、経験や合理的判断による予見に使われることが多い。否定形の I don't foresee any problems. は『現時点では問題が起こるとは考えていない』という、ビジネスでも一般的な表現である。法律では foreseeable risk や reasonably foreseeable consequence のように、合理的に予見できた危険・結果という概念と結び付く。foresee自体は予見することを表し、予見した事態に備えて行動することまでは必ずしも含まない。不規則動詞であり、過去形は foresaw、過去分詞は foreseen となる。",
+    "en": "Foresee means recognizing a likely future event on the basis of present circumstances, knowledge, experience, or trends. It generally suggests rational foresight rather than supernatural knowledge. The negative expression I don't foresee any problems is common in business and means that no problems currently appear likely. In legal contexts, the verb is associated with concepts such as foreseeable risk and reasonably foreseeable consequences. Foresee describes recognizing an event in advance but does not necessarily imply taking action to prepare for it. It is irregular: foresee, foresaw, foreseen."
+  },
+  "minimal": {
+    "ja": [
+      "foresee：現在の情報や経験から、将来起こる出来事・問題を前もって見通す。",
+      "predict：データ・理論・判断などに基づき、将来何が起こるかを明示的に予測する。",
+      "anticipate：何かが起こると予期し、多くの場合はそれを見越して準備・対応する。",
+      "expect：ある出来事が起こる可能性が高いと普通に考える。",
+      "envision：将来の状況や完成像を具体的な心のイメージとして描く。"
+    ],
+    "en": [
+      "foresee: to recognize a future event or problem in advance from present information or experience.",
+      "predict: to state or calculate what will happen on the basis of data, theory, or judgment.",
+      "anticipate: to expect something and often prepare or act in advance because of that expectation.",
+      "expect: to regard an event as likely to happen, without necessarily emphasizing analysis or foresight.",
+      "envision: to form a concrete mental picture of a future situation or completed outcome."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語系の fore-『前に、あらかじめ』と see『見る』からなる。文字どおりには『前もって見る』という構造であり、未来の出来事を実際に起こる前に心で認識することを表す。foresee、foresaw、foreseenという活用はsee、saw、seenの不規則活用をそのまま保持している。",
+    "en": "Foresee is formed from fore-, meaning before or in advance, and see. Its literal structure is therefore to see beforehand. Its irregular forms, foresee, foresaw, and foreseen, preserve the same pattern as see, saw, and seen."
+  },
+  "synonyms": [
+    {
+      "word": "predict",
+      "note": {
+        "ja": "将来の出来事を予測する。foreseeよりも予測を言葉や数値で明示することに向いている。",
+        "en": "To state what is expected to happen, often more explicitly or systematically than foresee."
+      }
+    },
+    {
+      "word": "anticipate",
+      "note": {
+        "ja": "出来事を予期し、先回りして考える。事前の準備や対応を含意しやすい。",
+        "en": "To expect an event and think or act ahead of it, often implying preparation."
+      }
+    },
+    {
+      "word": "foretell",
+      "note": {
+        "ja": "未来の出来事を予言する。兆候や予言的能力を連想させ、foreseeより文学的。",
+        "en": "To tell of a future event beforehand, often sounding literary, prophetic, or based on signs."
+      }
+    },
+    {
+      "word": "project",
+      "note": {
+        "ja": "現在の数値や傾向を将来へ延長して、数量的な結果を予測する。",
+        "en": "To estimate a future numerical result by extending current data or trends."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "voraussehen / absehen",
+    "it": "prevedere",
+    "fr": "prévoir",
+    "es": "prever"
+  },
+  "collocations": {
+    "ja": [
+      "foresee a problem — 問題を予見する",
+      "foresee difficulties — 困難を予見する",
+      "foresee a risk — リスクを予見する",
+      "foresee the consequences — 結果を予見する",
+      "foresee a need — 必要性を予見する",
+      "foresee future demand — 将来の需要を予測する",
+      "clearly foresee — 明確に予見する",
+      "reasonably foresee — 合理的に予見する",
+      "be difficult to foresee — 予見するのが難しい",
+      "for the foreseeable future — 予見可能な将来にわたって"
+    ],
+    "en": [
+      "foresee a problem",
+      "foresee difficulties",
+      "foresee a risk",
+      "foresee the consequences",
+      "foresee a need",
+      "foresee future demand",
+      "clearly foresee",
+      "reasonably foresee",
+      "be difficult to foresee",
+      "for the foreseeable future"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I don't foresee any major problems with the proposed schedule. — 提案された日程に大きな問題が生じるとは予想していない。",
+      "Few people foresaw how quickly the market would change. — 市場がこれほど急速に変化することを予見した人はほとんどいなかった。",
+      "The company should have foreseen the increase in demand. — 会社は需要の増加を予見しておくべきだった。",
+      "It is difficult to foresee what effect the regulation will have. — その規制がどのような影響を及ぼすかを予見するのは難しい。",
+      "The manufacturer could reasonably have foreseen the risk of injury. — 製造業者はその負傷リスクを合理的に予見できたはずだ。"
+    ],
+    "en": [
+      "I don't foresee any major problems with the proposed schedule.",
+      "Few people foresaw how quickly the market would change.",
+      "The company should have foreseen the increase in demand.",
+      "It is difficult to foresee what effect the regulation will have.",
+      "The manufacturer could reasonably have foreseen the risk of injury."
+    ]
+  }
 }
 ]
