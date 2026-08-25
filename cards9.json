@@ -5341,5 +5341,323 @@
       "The parties negotiated a coexistence agreement after the cease and desist letter was sent."
     ]
   }
+},
+{
+  "id": "desist",
+  "sid": "2026-00935",
+  "word": "desist",
+  "level": "C1",
+  "freq": "rare",
+  "tags": [
+    "verb",
+    "stopping",
+    "conduct",
+    "law",
+    "warning",
+    "infringement",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "desist",
+      "third_person": "desists",
+      "past": "desisted",
+      "past_participle": "desisted",
+      "gerund": "desisting"
+    },
+    "transitivity": "intransitive",
+    "patterns": [
+      "desist from + noun / -ing",
+      "desist from further use / publication",
+      "order / demand that someone desist from + -ing",
+      "refuse / agree to desist",
+      "cease and desist"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈzɪst/",
+      "uk": "/dɪˈzɪst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "している行為をやめる、中止する",
+      "好ましくない行為・違反行為などを以後行わない",
+      "警告・命令を受けて特定の行為を停止する",
+      "権利侵害などの継続をやめる"
+    ],
+    "en": [
+      "to stop doing something",
+      "to refrain from continuing unwanted or prohibited conduct",
+      "to discontinue an activity after a warning, demand, or order",
+      "to stop continuing an infringement or other alleged violation"
+    ]
+  },
+  "nuance": {
+    "ja": "desist は、すでに行っている行為、特に好ましくない行為・禁止された行為・権利侵害などをやめ、以後も続けないことを表す硬い自動詞である。通常は desist from using、desist from contacting のように from を伴う。日常会話では stop のほうが自然で、desist は警告書、裁判所命令、規則、公式声明などで多く使われる。cease and desist では、cease が行為の停止、desist がその後の不継続を強調するが、実際には意味の近い語を重ねた法律英語の定型表現である。",
+    "en": "Desist is a formal intransitive verb meaning to stop and refrain from continuing an activity, especially conduct regarded as wrongful, prohibited, or infringing. It is normally followed by from and a noun or gerund, as in desist from using the mark. Stop is much more natural in ordinary conversation, while desist is common in legal demands, court orders, regulations, and formal warnings. In cease and desist, the two near-synonyms reinforce the demand to terminate the conduct and not continue it."
+  },
+  "minimal": {
+    "ja": [
+      "desist：問題となる行為をやめ、以後も続けないことを表す硬い自動詞。",
+      "cease：行為・状態が終わる、またはそれを終了させる。desist より適用範囲が広い。",
+      "stop：行為・動作・進行をやめることを表す最も一般的な語。",
+      "refrain：したい可能性のある行為を意識的に控える。",
+      "discontinue：サービス・製品・活動などを正式または恒久的に打ち切る。"
+    ],
+    "en": [
+      "desist formally means to stop wrongful or unwanted conduct and refrain from continuing it.",
+      "cease means to come to an end or cause something to end and has a broader range of uses.",
+      "stop is the ordinary general word for ending an action, movement, or process.",
+      "refrain means to consciously avoid an action that one might otherwise perform.",
+      "discontinue means to formally or permanently stop providing or carrying on a service, product, or activity."
+    ]
+  },
+  "etymology": {
+    "ja": "desist はラテン語 desistere『やめる、身を引く』に由来する。desistere は de-『離れて、～から下がって』と sistere『立たせる、立ち止まる』から成る。何かから離れて立ち止まり、それ以上進まないというイメージから、行為を中止して継続しないという意味が生まれた。形の似た resist『抵抗する』や persist『続ける』も sistere と関係する語である。",
+    "en": "Desist comes from Latin desistere, meaning to stop, stand away from, or leave off. Desistere combines de-, conveying movement away, with sistere, meaning to cause to stand or take a position. The image of stepping away and going no further developed into the modern meaning of stopping an activity and refraining from continuing it. Resist and persist are historically related through the same Latin element."
+  },
+  "synonyms": [
+    {
+      "word": "cease",
+      "note": {
+        "ja": "行為・状態を終了することを表す硬めの語。自動詞・他動詞の両方で使える。",
+        "en": "A relatively formal verb meaning to end or cause an activity or state to end and usable both transitively and intransitively."
+      }
+    },
+    {
+      "word": "refrain",
+      "note": {
+        "ja": "意識的に行為を控えることを表し、通常 refrain from doing の形を取る。",
+        "en": "Means to deliberately avoid an action and is normally used in the pattern refrain from doing."
+      }
+    },
+    {
+      "word": "stop",
+      "note": {
+        "ja": "行為をやめることを表す最も一般的で口語的な語。",
+        "en": "The most common everyday verb for ending an action or activity."
+      }
+    },
+    {
+      "word": "discontinue",
+      "note": {
+        "ja": "製品・サービス・手続・活動などを正式に打ち切る。",
+        "en": "Means to formally stop a product, service, procedure, or continuing activity."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "von etwas ablassen / etwas unterlassen",
+    "it": "desistere / cessare",
+    "fr": "cesser / s'abstenir",
+    "es": "desistir / cesar"
+  },
+  "collocations": {
+    "ja": [
+      "cease and desist — 直ちに中止し、以後も行わない",
+      "desist from using the mark — その標章の使用をやめる",
+      "desist from further infringement — さらなる侵害を行わない",
+      "desist from contacting someone — 人への連絡をやめる",
+      "desist from publication — 公表を中止する",
+      "demand that someone desist — 人に行為の停止を要求する",
+      "order someone to desist — 人に行為をやめるよう命じる",
+      "agree to desist — 行為をやめることに同意する",
+      "refuse to desist — 行為停止を拒む",
+      "immediately desist from the conduct — その行為を直ちにやめる"
+    ],
+    "en": [
+      "cease and desist",
+      "desist from using the mark",
+      "desist from further infringement",
+      "desist from contacting someone",
+      "desist from publication",
+      "demand that someone desist",
+      "order someone to desist",
+      "agree to desist",
+      "refuse to desist",
+      "immediately desist from the conduct"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The letter demanded that the company desist from using the disputed mark. — その書面は、会社に対して係争中の標章の使用をやめるよう要求した。",
+      "The court ordered the defendant to desist from further infringement. — 裁判所は被告に対して、さらなる侵害を行わないよう命じた。",
+      "The website operator agreed to desist from publishing the material. — ウェブサイト運営者は、その資料の公開をやめることに同意した。",
+      "Despite repeated warnings, the seller refused to desist. — 度重なる警告にもかかわらず、販売業者は行為をやめることを拒んだ。",
+      "You are required to cease and desist from all unauthorized use of our trademark. — 当社商標のあらゆる無許可使用を直ちに中止し、以後も行わないよう求めます。"
+    ],
+    "en": [
+      "The letter demanded that the company desist from using the disputed mark.",
+      "The court ordered the defendant to desist from further infringement.",
+      "The website operator agreed to desist from publishing the material.",
+      "Despite repeated warnings, the seller refused to desist.",
+      "You are required to cease and desist from all unauthorized use of our trademark."
+    ]
+  }
+},
+{
+  "id": "cease",
+  "sid": "2026-00936",
+  "word": "cease",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "stopping",
+    "ending",
+    "operation",
+    "business",
+    "conflict",
+    "law",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "cease",
+      "third_person": "ceases",
+      "past": "ceased",
+      "past_participle": "ceased",
+      "gerund": "ceasing"
+    },
+    "transitivity": "transitive / intransitive",
+    "patterns": [
+      "cease + noun",
+      "cease doing",
+      "cease to + verb",
+      "cease operations / production / trading",
+      "cease to exist",
+      "cease and desist"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/siːs/",
+      "uk": "/siːs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "行為・活動などをやめる、中止する",
+      "状態・現象などが終わる、止む",
+      "事業・生産・営業などを停止する",
+      "存在しなくなる",
+      "特定の行為を終了させる"
+    ],
+    "en": [
+      "to stop doing an activity",
+      "to come to an end",
+      "to stop business, production, operations, or another organized activity",
+      "to stop existing",
+      "to cause a particular activity or process to end"
+    ]
+  },
+  "nuance": {
+    "ja": "cease は stop より硬く、公式声明、契約、法律文書、報道などでよく使われる。行為をやめる場合だけでなく、騒音・戦闘・生産・営業・存在などが終了する場合にも使える。cease doing と cease to do は多くの文脈で近いが、cease to exist、cease to be のような固定的な表現では to不定詞が自然である。cease and desist では、cease が現在の行為を停止すること、desist が以後継続しないことを重ねて強調する。",
+    "en": "Cease is more formal than stop and is common in official statements, contracts, legal documents, and news reporting. It can describe not only a person stopping an action but also the ending of noise, conflict, production, business operations, or existence. Cease doing and cease to do are often similar, although the infinitive is particularly natural in expressions such as cease to exist and cease to be. In cease and desist, the two near-synonyms reinforce the demand to end the conduct and not continue it."
+  },
+  "minimal": {
+    "ja": [
+      "cease：行為・活動・状態・存在などが正式または完全に終了する。",
+      "stop：動作・行為・進行をやめることを表す最も一般的な語。",
+      "desist：問題となる行為をやめ、以後も続けないことを表す硬い自動詞。",
+      "discontinue：製品・サービス・活動などを意図的または正式に打ち切る。",
+      "suspend：活動・手続などを将来再開する可能性を残して一時停止する。"
+    ],
+    "en": [
+      "cease formally describes an activity, state, or existence coming to a complete end.",
+      "stop is the ordinary general word for ending an action, movement, or process.",
+      "desist formally means to stop wrongful or unwanted conduct and refrain from continuing it.",
+      "discontinue means to deliberately or officially stop a product, service, or continuing activity.",
+      "suspend means to stop an activity or process temporarily, with the possibility of resuming it."
+    ]
+  },
+  "etymology": {
+    "ja": "cease は古フランス語 cesser を経てラテン語 cessare『停止する、休止する』に由来する。cessare は cedere『行く、退く、譲る』と関係する。進行していたものが退き、動かなくなるという発想から、活動・状態・存在などが終了する意味へ発達した。cessation『停止、中止』も同じ語源を持つ。",
+    "en": "Cease came through Old French cesser from Latin cessare, meaning to stop, delay, or remain inactive. Cessare is related to cedere, meaning to go, withdraw, or yield. The idea of withdrawing from continued movement or activity developed into the modern sense of bringing an action, process, or state to an end. Cessation belongs to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "stop",
+      "note": {
+        "ja": "行為・動作・進行を終了することを表す最も一般的で日常的な語。",
+        "en": "The most common everyday verb for ending an action, movement, or process."
+      }
+    },
+    {
+      "word": "halt",
+      "note": {
+        "ja": "進行・移動・活動を停止させることを表し、突然または強制的な停止にも使われる。",
+        "en": "Means to stop movement, progress, or activity and often suggests an abrupt or forced interruption."
+      }
+    },
+    {
+      "word": "discontinue",
+      "note": {
+        "ja": "製品・サービス・業務などを意図的・公式に打ち切る。",
+        "en": "Means to deliberately or officially stop providing a product, service, or continuing operation."
+      }
+    },
+    {
+      "word": "terminate",
+      "note": {
+        "ja": "契約・雇用・手続などを明確な終点で正式に終了させる。",
+        "en": "Means to formally bring a contract, employment relationship, procedure, or arrangement to a definite end."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "aufhören / einstellen",
+    "it": "cessare / interrompere",
+    "fr": "cesser",
+    "es": "cesar / dejar de"
+  },
+  "collocations": {
+    "ja": [
+      "cease operations — 操業を停止する",
+      "cease production — 生産を停止する",
+      "cease trading — 営業・取引を停止する",
+      "cease publication — 公表・刊行を停止する",
+      "cease using the mark — その標章の使用をやめる",
+      "cease to exist — 存在しなくなる",
+      "cease to be effective — 効力を失う",
+      "hostilities cease — 戦闘行為が終わる",
+      "cease immediately — 直ちに停止する",
+      "cease and desist — 直ちに中止し、以後も行わない"
+    ],
+    "en": [
+      "cease operations",
+      "cease production",
+      "cease trading",
+      "cease publication",
+      "cease using the mark",
+      "cease to exist",
+      "cease to be effective",
+      "hostilities cease",
+      "cease immediately",
+      "cease and desist"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company ceased production at the factory last year. — その会社は昨年、その工場での生産を停止した。",
+      "The agreement will cease to be effective at the end of the month. — その契約は月末に効力を失う。",
+      "The defendant agreed to cease using the disputed trademark. — 被告は係争中の商標の使用をやめることに同意した。",
+      "The noise finally ceased shortly after midnight. — 騒音は午前0時を少し過ぎたころ、ようやく止んだ。",
+      "Unless renewed, the registration will cease to exist. — 更新されなければ、その登録は消滅する。"
+    ],
+    "en": [
+      "The company ceased production at the factory last year.",
+      "The agreement will cease to be effective at the end of the month.",
+      "The defendant agreed to cease using the disputed trademark.",
+      "The noise finally ceased shortly after midnight.",
+      "Unless renewed, the registration will cease to exist."
+    ]
+  }
 }
 ]
