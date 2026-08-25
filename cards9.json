@@ -10376,5 +10376,170 @@
       "Few professional athletes achieve such remarkable career longevity."
     ]
   }
+},
+{
+  "id": "avow",
+  "sid": "2026-00967",
+  "word": "avow",
+  "level": "C1",
+  "freq": "rare",
+  "tags": [
+    "verb",
+    "declaration",
+    "acknowledgment",
+    "belief",
+    "intention",
+    "commitment",
+    "formal",
+    "literary",
+    "politics",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "avow",
+      "third_person": "avows",
+      "past": "avowed",
+      "past_participle": "avowed",
+      "gerund": "avowing"
+    },
+    "transitivity": "transitive",
+    "related": {
+      "noun": "avowal",
+      "adjective": "avowed",
+      "opposite": "disavow"
+    },
+    "patterns": [
+      "avow + belief / intention / support",
+      "avow that + clause",
+      "avow oneself to be + noun / adjective",
+      "openly / publicly avow + noun",
+      "an avowed supporter / opponent",
+      "avowedly + adjective"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈvaʊ/",
+      "uk": "/əˈvaʊ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "信念・意図・立場などを公然と言明する",
+      "自分が何かを支持・信奉していると明確に認める",
+      "隠していた事実・感情などを率直に認める",
+      "自分自身を特定の立場・属性の者であると表明する"
+    ],
+    "en": [
+      "to declare a belief, intention, or position openly and firmly",
+      "to acknowledge explicitly that one supports or believes in something",
+      "to admit a fact or feeling openly rather than conceal it",
+      "to declare oneself to have a particular identity, position, or quality"
+    ]
+  },
+  "nuance": {
+    "ja": "avow は、自分の信念・意図・支持・立場などを、責任を引き受けるように公然と認めることを表す。単に事実を認める acknowledge や、不利な事実をしぶしぶ認めることもある admit より、積極的かつ明示的な宣言という響きが強い。現代の日常会話ではまれで、政治・宗教・文学・歴史的文章などに現れやすい。動詞そのものよりも、an avowed opponent『公然たる反対者』や his avowed intention『本人が明言している意図』のような過去分詞由来の形容詞 avowed の方が比較的よく使われる。反対語の disavow は、ある発言・行為・立場との関係や支持を否認することを表す。",
+    "en": "Avow means openly and explicitly acknowledging a belief, intention, allegiance, or position as one's own, often with a sense of accepting responsibility for it. It sounds more affirmative and declarative than acknowledge, and unlike admit it does not inherently suggest reluctant acceptance of an unfavorable fact. The verb is uncommon in everyday conversation and occurs mainly in formal, political, religious, historical, or literary writing. The related adjective avowed is somewhat more common, as in an avowed opponent or his avowed intention. Its opposite, disavow, means denying association with, responsibility for, or support of something."
+  },
+  "minimal": {
+    "ja": [
+      "avow：信念・意図・立場を自分のものとして公然かつ明確に宣言する。",
+      "acknowledge：事実・存在・功績などを認識し、それを認める。公然たる信念表明とは限らない。",
+      "admit：否定していた事実や不利・不都合な事実を認める含みを持ちやすい。",
+      "declare：情報・決定・立場などを正式または明確に表明する、より広い語。",
+      "confess：罪・過失・秘密・内心などを打ち明けて認める。罪悪感や秘密性を伴いやすい。"
+    ],
+    "en": [
+      "avow: to openly and explicitly declare a belief, intention, or position as one's own.",
+      "acknowledge: to recognize and accept a fact, existence, or contribution without necessarily declaring a personal commitment.",
+      "admit: to accept the truth of something, often something previously denied or personally unfavorable.",
+      "declare: the broader term for stating information, a decision, or a position formally or clearly.",
+      "confess: to reveal and admit a fault, offense, secret, or private feeling, often with a sense of guilt or concealment."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 avowen、古フランス語 avouer『認める、保証する、自分のものと認める』に由来し、最終的にはラテン語 advocare『呼び寄せる、援助者として呼ぶ』にさかのぼる。法的・封建的な文脈で、ある人物や行為を自分と関係するものとして認める意味から、信念や意図を公然と認める現在の意味へ発達した。",
+    "en": "Avow entered Middle English through Old French avouer, meaning to acknowledge, guarantee, or recognize as one's own. It ultimately derives from Latin advocare, meaning to call or summon as an advocate or helper. From the legal and feudal sense of acknowledging a person, claim, or act as one's own, it developed the modern meaning of openly declaring a belief or intention."
+  },
+  "synonyms": [
+    {
+      "word": "declare",
+      "note": {
+        "ja": "立場・意図・事実などを明確に表明する。avowより一般的で適用範囲が広い。",
+        "en": "To state a position, intention, or fact clearly; broader and more common than avow."
+      }
+    },
+    {
+      "word": "profess",
+      "note": {
+        "ja": "信仰・信念・感情などを公言する。表明の真実性を疑う文脈にも用いられる。",
+        "en": "To openly claim a belief, faith, or feeling, sometimes in a context where the sincerity of the claim is questioned."
+      }
+    },
+    {
+      "word": "affirm",
+      "note": {
+        "ja": "ある主張・信念が真実または有効であると強く確認する。",
+        "en": "To state or confirm firmly that a claim, belief, or position is true or valid."
+      }
+    },
+    {
+      "word": "acknowledge",
+      "note": {
+        "ja": "事実や関係を認める中立的な語。avowほど積極的・公然たる宣言を含まない。",
+        "en": "A neutral verb for recognizing a fact or relationship, without the affirmative public commitment suggested by avow."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "offen bekennen / erklären",
+    "it": "dichiarare apertamente / confessare",
+    "fr": "avouer / déclarer ouvertement",
+    "es": "declarar abiertamente / confesar"
+  },
+  "collocations": {
+    "ja": [
+      "avow one's belief — 自分の信念を公言する",
+      "avow one's intention — 自分の意図を明言する",
+      "avow one's support — 支持を公然と表明する",
+      "avow one's loyalty — 忠誠を公言する",
+      "avow one's commitment — 献身・決意を明言する",
+      "publicly avow — 公然と表明する",
+      "openly avow — 率直に公言する",
+      "an avowed supporter — 公然たる支持者",
+      "an avowed opponent — 公然たる反対者",
+      "an avowed intention — 明言された意図"
+    ],
+    "en": [
+      "avow one's belief",
+      "avow one's intention",
+      "avow one's support",
+      "avow one's loyalty",
+      "avow one's commitment",
+      "publicly avow",
+      "openly avow",
+      "an avowed supporter",
+      "an avowed opponent",
+      "an avowed intention"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She openly avowed her support for the reform. — 彼女はその改革への支持を公然と表明した。",
+      "He avowed that he had no intention of abandoning the project. — 彼はその計画を断念する意思はないと明言した。",
+      "The candidate is an avowed opponent of the proposed legislation. — その候補者は、提案されている法案に公然と反対している。",
+      "Although he avowed his loyalty to the organization, his actions suggested otherwise. — 彼は組織への忠誠を公言したが、その行動は別のことを示していた。",
+      "The author avows a deep admiration for classical literature. — その著者は古典文学への深い敬意を公言している。"
+    ],
+    "en": [
+      "She openly avowed her support for the reform.",
+      "He avowed that he had no intention of abandoning the project.",
+      "The candidate is an avowed opponent of the proposed legislation.",
+      "Although he avowed his loyalty to the organization, his actions suggested otherwise.",
+      "The author avows a deep admiration for classical literature."
+    ]
+  }
 }
 ]
