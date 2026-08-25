@@ -5027,5 +5027,160 @@
       "Failure to respond to the office action by the deadline may result in abandonment of the application."
     ]
   }
+},
+{
+  "id": "grace_period",
+  "sid": "2026-00933",
+  "word": "grace period",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun phrase",
+    "time",
+    "deadline",
+    "payment",
+    "contract",
+    "finance",
+    "intellectual property",
+    "patent",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "structure": "compound noun",
+    "countability": "countable",
+    "plural": "grace periods",
+    "patterns": [
+      "a grace period of + number + days / months",
+      "a grace period for + payment / filing",
+      "a grace period before + clause",
+      "during / within the grace period",
+      "grant / allow / provide a grace period",
+      "the grace period expires / ends"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɡreɪs ˌpɪriəd/",
+      "uk": "/ˈɡreɪs ˌpɪəriəd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "期限を過ぎても直ちには罰則・不利益が生じない猶予期間",
+      "支払い・提出・更新などを遅れて行うことが認められる期間",
+      "新しい規則・義務が本格的に適用されるまでの移行的な猶予期間",
+      "発明の公開後も一定の条件下で特許出願が認められうる期間"
+    ],
+    "en": [
+      "a period after a deadline during which no immediate penalty or disadvantage is imposed",
+      "an additional period allowed for making a payment, filing a document, or completing a renewal",
+      "a transitional period before a new rule or obligation is fully enforced",
+      "a period during which certain disclosures may not prevent the filing of a valid patent application"
+    ]
+  },
+  "nuance": {
+    "ja": "grace period は、本来の期限または基準日が到来した後も、一定期間は違約金、権利喪失、契約解除などの不利益を受けずに義務を履行できる『猶予期間』を表す。ただし、本来の期限そのものが変更されたとは限らない。金融、保険、契約、登録更新、行政規制などで広く使われる。特許法では、発明者による公開などから出願までの一定期間について、その公開が特許取得を直ちに妨げない制度を指すが、期間・対象・手続要件は法域によって大きく異なるため、一般化はできない。",
+    "en": "A grace period allows a person to perform an obligation for a limited time after the original deadline or triggering event without immediately suffering a penalty, loss of rights, or termination. It does not necessarily change the original due date. The expression is common in finance, insurance, contracts, renewals, and regulatory transitions. In patent law, it may refer to a period during which certain inventor-related disclosures do not immediately prevent a later patent filing, but its length, scope, and procedural requirements vary significantly by jurisdiction."
+  },
+  "minimal": {
+    "ja": [
+      "grace period：本来の期限後も、一定期間は直ちに不利益を受けず履行できる猶予期間。",
+      "extension：期限そのものを従来より後の日付へ正式に延長すること。",
+      "deadline：提出・支払い・完了などをしなければならない最終期限。",
+      "moratorium：債務支払い・活動・規則執行などを公的・一時的に停止する措置。",
+      "cooling-off period：契約後に考え直し、一定期間内なら撤回・解約できる期間。"
+    ],
+    "en": [
+      "grace period is a limited period after the original deadline during which performance is accepted without immediate disadvantage.",
+      "extension formally moves the deadline to a later date.",
+      "deadline is the final time by which a payment, filing, or task must be completed.",
+      "moratorium is an officially authorized temporary suspension of payments, activities, or enforcement.",
+      "cooling-off period is a period after entering a contract during which a person may reconsider and cancel it."
+    ]
+  },
+  "etymology": {
+    "ja": "grace はラテン語 gratia『好意、恩恵、寛容』に由来し、period はギリシャ語 periodos『一巡、一定の時間』にさかのぼる。したがって grace period は、厳格な期限を直ちに適用せず、好意または制度上の寛容として認められる一定期間という構造を持つ。",
+    "en": "Grace comes from Latin gratia, meaning favor, kindness, or goodwill. Period ultimately comes from Greek periodos, meaning a circuit or a recurring span of time. Grace period therefore developed the sense of a limited interval granted as a form of leniency after or around a strict deadline."
+  },
+  "synonyms": [
+    {
+      "word": "period of grace",
+      "note": {
+        "ja": "grace period と同じ意味を持つ、やや伝統的・形式的な語順。",
+        "en": "A somewhat more traditional or formal expression with essentially the same meaning as grace period."
+      }
+    },
+    {
+      "word": "allowance period",
+      "note": {
+        "ja": "追加的に認められた期間を説明的に表すが、grace period ほど一般的ではない。",
+        "en": "A descriptive term for an additionally permitted period, though less established than grace period."
+      }
+    },
+    {
+      "word": "extension",
+      "note": {
+        "ja": "期限を正式に後ろへ変更すること。元の期限を維持する grace period とは構造が異なる。",
+        "en": "A formal postponement of the deadline itself, structurally different from a grace period following the original deadline."
+      }
+    },
+    {
+      "word": "reprieve",
+      "note": {
+        "ja": "罰・不利益・困難などが一時的に延期または軽減されること。より比喩的にも使われる。",
+        "en": "A temporary delay or relief from punishment, harm, or difficulty and often used more figuratively."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Schonfrist / Nachfrist",
+    "it": "periodo di grazia / periodo di tolleranza",
+    "fr": "délai de grâce",
+    "es": "período de gracia"
+  },
+  "collocations": {
+    "ja": [
+      "a 30-day grace period — 30日間の猶予期間",
+      "a payment grace period — 支払猶予期間",
+      "a contractual grace period — 契約上の猶予期間",
+      "a statutory grace period — 法定の猶予期間",
+      "a patent grace period — 特許法上のグレースピリオド",
+      "grant a grace period — 猶予期間を認める",
+      "provide a grace period — 猶予期間を設ける",
+      "within the grace period — 猶予期間内に",
+      "the grace period expires — 猶予期間が満了する",
+      "take advantage of the grace period — 猶予期間を利用する"
+    ],
+    "en": [
+      "a 30-day grace period",
+      "a payment grace period",
+      "a contractual grace period",
+      "a statutory grace period",
+      "a patent grace period",
+      "grant a grace period",
+      "provide a grace period",
+      "within the grace period",
+      "the grace period expires",
+      "take advantage of the grace period"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The contract provides a ten-day grace period for late payment. — その契約では支払いの遅延について10日間の猶予期間が設けられている。",
+      "No late fee will be charged if payment is made within the grace period. — 猶予期間内に支払えば、遅延料金は課されない。",
+      "The government introduced a six-month grace period before enforcing the new rules. — 政府は新規則を施行する前に6か月の猶予期間を設けた。",
+      "The grace period expired before the company completed the renewal procedure. — 会社が更新手続を完了する前に猶予期間が満了した。",
+      "Patent applicants should not assume that the same disclosure grace period applies in every country. — 特許出願人は、同じ公開猶予制度がすべての国に適用されると考えるべきではない。"
+    ],
+    "en": [
+      "The contract provides a ten-day grace period for late payment.",
+      "No late fee will be charged if payment is made within the grace period.",
+      "The government introduced a six-month grace period before enforcing the new rules.",
+      "The grace period expired before the company completed the renewal procedure.",
+      "Patent applicants should not assume that the same disclosure grace period applies in every country."
+    ]
+  }
 }
 ]
