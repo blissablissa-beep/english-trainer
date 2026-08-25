@@ -10709,5 +10709,2022 @@
       "Although he professed admiration for her work, his comments were consistently critical."
     ]
   }
+},
+{
+  "id": "proclaim",
+  "sid": "2026-00969",
+  "word": "proclaim",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "announcement",
+    "declaration",
+    "official",
+    "public",
+    "politics",
+    "law",
+    "religion",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "proclaim",
+      "third_person": "proclaims",
+      "past": "proclaimed",
+      "past_participle": "proclaimed",
+      "gerund": "proclaiming"
+    },
+    "transitivity": "transitive",
+    "related": {
+      "noun": "proclamation",
+      "person": "proclaimer"
+    },
+    "patterns": [
+      "proclaim + noun",
+      "proclaim that + clause",
+      "proclaim someone + noun / adjective",
+      "proclaim someone to be + noun / adjective",
+      "proclaim oneself + noun / adjective",
+      "be proclaimed + noun",
+      "publicly / officially proclaim"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prəˈkleɪm/",
+      "uk": "/prəˈkleɪm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "決定・事実・方針などを公に、または公式に宣言する",
+      "人物を王・勝者・指導者などであると宣言する",
+      "信念・教え・主張などを広く力強く伝える",
+      "徴候・外見・行動などが、ある事実を明白に示す"
+    ],
+    "en": [
+      "to announce a decision, fact, or policy publicly or officially",
+      "to declare that someone has a particular title, status, or position",
+      "to communicate a belief, teaching, or claim widely and forcefully",
+      "to show or reveal a fact unmistakably through an appearance, sign, or action"
+    ]
+  },
+  "nuance": {
+    "ja": "proclaim は、単に情報を知らせるのではなく、多くの人に届くように堂々と、力強く、または公式な権威をもって宣言することを表す。政府が独立・非常事態・記念日などを宣言する場合や、人物を王・勝者などと宣言する場合に使われる。一方、宗教的教えや信念を広く説くという用法もある。文脈によっては、He proclaimed himself an expert. のように、自分で大げさに肩書きや能力を称するという批判的な響きを持つ。また、Her expression proclaimed her disappointment. のように、表情や行動が感情を明白に示すという比喩的用法もある。",
+    "en": "Proclaim suggests making something known widely, forcefully, solemnly, or with official authority rather than merely passing on information. Governments may proclaim independence, a state of emergency, or a commemorative day, while a person may be proclaimed king or winner. The verb is also used for publicly spreading a religious teaching or strongly held belief. In a sentence such as He proclaimed himself an expert, it can imply a grand or self-important claim. Figuratively, an expression, sign, or action may proclaim a feeling or fact by making it unmistakably apparent."
+  },
+  "minimal": {
+    "ja": [
+      "proclaim：事実・決定・地位などを、広く力強く、または公式な権威をもって宣言する。",
+      "declare：事実・立場・状態などを明確または正式に述べる、より広く中立的な語。",
+      "announce：ニュース・予定・決定などを人々に知らせることに重点がある。",
+      "profess：自分の信念・感情・知識などを公言するが、その真実性が疑われる場合もある。",
+      "avow：信念・意図・支持などを自分のものとして率直かつ公然と認める。"
+    ],
+    "en": [
+      "proclaim: to declare a fact, decision, or status widely and forcefully or with official authority.",
+      "declare: the broader and more neutral term for stating a fact, position, or condition clearly or formally.",
+      "announce: to make news, a plan, or a decision known, emphasizing the communication of information.",
+      "profess: to state one's own belief, feeling, or knowledge, sometimes without assurance of sincerity.",
+      "avow: to openly and affirmatively acknowledge a belief, intention, or allegiance as one's own."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 proclamare『大声で叫ぶ、公に宣言する』に由来し、古フランス語 proclamer を経て英語に入った。ラテン語では pro-『前へ、公に』と clamare『叫ぶ』から成る。claim、exclaim、acclaimなどの語に見られる -claim / -clam と同系であり、文字どおりには『人前で声を上げる』という構造を持つ。",
+    "en": "Proclaim comes through Old French proclamer from Latin proclamare, meaning to cry out or declare publicly. It is formed from pro-, meaning forward or publicly, and clamare, meaning to shout. The same root appears in words such as claim, exclaim, and acclaim, so its literal structure conveys calling something out before others."
+  },
+  "synonyms": [
+    {
+      "word": "declare",
+      "note": {
+        "ja": "事実・立場・決定などを明確または正式に述べる。proclaimほど大々的・力強いとは限らない。",
+        "en": "To state a fact, position, or decision clearly or formally, without necessarily sounding as public or forceful as proclaim."
+      }
+    },
+    {
+      "word": "announce",
+      "note": {
+        "ja": "情報・予定・決定を人々に知らせる一般的な語。公式性や荘重さは必須ではない。",
+        "en": "The general verb for making information, a plan, or a decision known, without requiring solemnity or authority."
+      }
+    },
+    {
+      "word": "pronounce",
+      "note": {
+        "ja": "権限を持つ者が判決・状態・地位などを正式に宣告する。",
+        "en": "To formally declare a judgment, condition, or status, especially by someone with authority."
+      }
+    },
+    {
+      "word": "promulgate",
+      "note": {
+        "ja": "法律・規則・教義などを正式に公布し、広く知らせる非常に硬い語。",
+        "en": "A highly formal verb meaning to officially publish and make a law, regulation, or doctrine widely known."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verkünden / ausrufen",
+    "it": "proclamare",
+    "fr": "proclamer",
+    "es": "proclamar"
+  },
+  "collocations": {
+    "ja": [
+      "proclaim independence — 独立を宣言する",
+      "proclaim victory — 勝利を宣言する",
+      "proclaim a state of emergency — 非常事態を宣言する",
+      "proclaim someone king — 人物を王と宣言する",
+      "proclaim someone the winner — 人物を勝者と宣言する",
+      "proclaim one's innocence — 自分の無実を公然と主張する",
+      "proclaim one's support — 支持を公に表明する",
+      "publicly proclaim — 公然と宣言する",
+      "officially proclaim — 公式に宣言する",
+      "proudly proclaim — 誇らしげに公言する"
+    ],
+    "en": [
+      "proclaim independence",
+      "proclaim victory",
+      "proclaim a state of emergency",
+      "proclaim someone king",
+      "proclaim someone the winner",
+      "proclaim one's innocence",
+      "proclaim one's support",
+      "publicly proclaim",
+      "officially proclaim",
+      "proudly proclaim"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The country proclaimed its independence following the referendum. — その国は国民投票を受けて独立を宣言した。",
+      "The governor proclaimed a state of emergency after the storm. — 知事は嵐の後、非常事態を宣言した。",
+      "She was proclaimed the winner of the competition. — 彼女はその大会の優勝者であると宣言された。",
+      "He proudly proclaimed that the project had been a complete success. — 彼はその事業が完全な成功だったと誇らしげに宣言した。",
+      "The faded sign proclaimed the building's former importance. — 色あせた看板は、その建物がかつて重要な存在だったことを如実に示していた。"
+    ],
+    "en": [
+      "The country proclaimed its independence following the referendum.",
+      "The governor proclaimed a state of emergency after the storm.",
+      "She was proclaimed the winner of the competition.",
+      "He proudly proclaimed that the project had been a complete success.",
+      "The faded sign proclaimed the building's former importance."
+    ]
+  }
+},
+{
+  "id": "pronounce",
+  "sid": "2026-00970",
+  "word": "pronounce",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "verb",
+    "pronunciation",
+    "speech",
+    "declaration",
+    "judgment",
+    "legal",
+    "official",
+    "language",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "pronounce",
+      "third_person": "pronounces",
+      "past": "pronounced",
+      "past_participle": "pronounced",
+      "gerund": "pronouncing"
+    },
+    "transitivity": "transitive / intransitive",
+    "related": {
+      "noun": "pronunciation",
+      "adjective": "pronounceable / unpronounceable"
+    },
+    "patterns": [
+      "pronounce + word / name / sound",
+      "pronounce something correctly / incorrectly",
+      "be pronounced + IPA / like + word",
+      "pronounce someone / something + adjective",
+      "pronounce someone guilty / dead",
+      "pronounce judgment / sentence",
+      "pronounce on / upon + issue"
+    ],
+    "usage_note": "The noun is spelled pronunciation, not pronounciation."
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prəˈnaʊns/",
+      "uk": "/prəˈnaʊns/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "単語・名前・音などを発音する",
+      "言葉を特定の発音で口に出す",
+      "判断・判決・状態などを正式に宣告する",
+      "人や物が特定の状態にあると権威をもって判定する",
+      "問題について正式な意見・判断を述べる"
+    ],
+    "en": [
+      "to produce the sounds of a word, name, or speech sound",
+      "to say a word in a particular way",
+      "to formally declare a judgment, sentence, or status",
+      "to authoritatively determine that someone or something is in a particular condition",
+      "to give a formal opinion or decision on an issue"
+    ]
+  },
+  "nuance": {
+    "ja": "pronounce の最も一般的な意味は、単語や名前を構成する音を実際に口で発することである。How do you pronounce this word? は発音を尋ねる定型表現。一方、医師・裁判官・司式者など権限を持つ人物が、ある状態や地位を正式に確定する場合にも使われる。pronounce someone dead は医師が死亡を正式に確認すること、pronounce someone guilty は有罪と正式に判断することを表す。pronounce on the issue は『その問題について正式な判断を示す』という硬い表現である。なお、動詞では pronounce に ou があるが、名詞は pronunciation となり、母音と綴りが変化する。",
+    "en": "The most common sense of pronounce is producing the sounds that make up a word or name. How do you pronounce this word? is the standard question about pronunciation. The verb is also used when an authorized person, such as a doctor, judge, or officiant, formally establishes a status or judgment. To pronounce someone dead is to formally confirm death, while to pronounce someone guilty is to formally judge that person guilty. Pronounce on an issue is a formal expression meaning to give an authoritative opinion or decision. Note the spelling change from pronounce to pronunciation; pronounciation is incorrect."
+  },
+  "minimal": {
+    "ja": [
+      "pronounce：単語の音を実際に発する、または権威をもって状態・判断を正式に宣告する。",
+      "enunciate：各音節・語を聞き取りやすいよう、明瞭にはっきり発音する。",
+      "articulate：音を明瞭に発する、または考えを筋道立てて言葉に表す。",
+      "announce：情報・予定・決定などを人々に知らせる。",
+      "proclaim：事実・決定・地位などを、広く力強く、または公的権威をもって宣言する。"
+    ],
+    "en": [
+      "pronounce: to produce the sounds of a word or formally declare a judgment or condition with authority.",
+      "enunciate: to pronounce individual sounds, syllables, or words distinctly and clearly.",
+      "articulate: to form speech sounds clearly or express an idea coherently in words.",
+      "announce: to make information, a plan, or a decision known to others.",
+      "proclaim: to declare a fact, decision, or status widely, forcefully, or with public authority."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 pronuntiare『公に知らせる、宣言する』に由来し、古フランス語 prononcier を経て英語に入った。ラテン語では pro-『前へ、公に』と nuntiare『知らせる』から成る。当初は『宣言する』という意味が中心だったが、宣言の際に言葉を声に出すことから『発音する』という意味へ広がった。",
+    "en": "Pronounce comes through Old French prononcier from Latin pronuntiare, meaning to announce or declare publicly. It is formed from pro-, meaning forward or publicly, and nuntiare, meaning to report or announce. From the act of speaking a declaration aloud, it developed the familiar sense of producing the sounds of a word."
+  },
+  "synonyms": [
+    {
+      "word": "say",
+      "note": {
+        "ja": "言葉を口にする最も一般的な語。音の正確な形成に焦点を置くとは限らない。",
+        "en": "The general verb for speaking words, without necessarily focusing on how their sounds are formed."
+      }
+    },
+    {
+      "word": "enunciate",
+      "note": {
+        "ja": "聞き手が理解できるよう、各音や語を明瞭に発音する。",
+        "en": "To form and deliver individual sounds or words distinctly enough to be clearly understood."
+      }
+    },
+    {
+      "word": "declare",
+      "note": {
+        "ja": "判断・状態・立場などを明確または正式に表明する。pronounceの宣告の意味に近い。",
+        "en": "To state a judgment, status, or position clearly or formally, corresponding to the declarative sense of pronounce."
+      }
+    },
+    {
+      "word": "rule",
+      "note": {
+        "ja": "裁判官・裁判所などが法的問題について正式な判断を下す。",
+        "en": "For a judge or court to make an official decision on a legal issue."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "aussprechen / verkünden",
+    "it": "pronunciare",
+    "fr": "prononcer",
+    "es": "pronunciar"
+  },
+  "collocations": {
+    "ja": [
+      "pronounce a word — 単語を発音する",
+      "pronounce a name — 名前を発音する",
+      "pronounce correctly — 正しく発音する",
+      "pronounce clearly — 明瞭に発音する",
+      "be difficult to pronounce — 発音するのが難しい",
+      "pronounce someone dead — 人の死亡を正式に確認する",
+      "pronounce someone guilty — 人に有罪を宣告する",
+      "pronounce judgment — 判決・判断を言い渡す",
+      "pronounce sentence — 刑を宣告する",
+      "pronounce on an issue — 問題について正式な判断を示す"
+    ],
+    "en": [
+      "pronounce a word",
+      "pronounce a name",
+      "pronounce correctly",
+      "pronounce clearly",
+      "be difficult to pronounce",
+      "pronounce someone dead",
+      "pronounce someone guilty",
+      "pronounce judgment",
+      "pronounce sentence",
+      "pronounce on an issue"
+    ]
+  },
+  "example": {
+    "ja": [
+      "How do you pronounce this surname? — この姓はどのように発音しますか。",
+      "The final consonant is not pronounced. — 最後の子音は発音されない。",
+      "The doctor pronounced him dead at the scene. — 医師は現場で彼の死亡を確認した。",
+      "The court pronounced the defendant guilty on all counts. — 裁判所はすべての訴因について被告人に有罪を言い渡した。",
+      "The committee declined to pronounce on the legality of the measure. — 委員会はその措置の適法性について正式な判断を示すことを控えた。"
+    ],
+    "en": [
+      "How do you pronounce this surname?",
+      "The final consonant is not pronounced.",
+      "The doctor pronounced him dead at the scene.",
+      "The court pronounced the defendant guilty on all counts.",
+      "The committee declined to pronounce on the legality of the measure."
+    ]
+  }
+},
+{
+  "id": "mar",
+  "sid": "2026-00971",
+  "word": "mar",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "damage",
+    "appearance",
+    "quality",
+    "imperfection",
+    "experience",
+    "formal",
+    "literary",
+    "journalism",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "mar",
+      "third_person": "mars",
+      "past": "marred",
+      "past_participle": "marred",
+      "gerund": "marring"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "mar + appearance / beauty",
+      "mar + surface / landscape",
+      "mar + event / experience",
+      "mar + reputation / record",
+      "be marred by + defect / incident",
+      "badly / permanently mar + noun"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/mɑːr/",
+      "uk": "/mɑː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "物の外観や美しさを傷つける、損なう",
+      "品質・完全さ・価値などに欠点を生じさせる",
+      "行事・経験・雰囲気などを不快な出来事によって台無しにする",
+      "評判・実績・印象などに傷を付ける"
+    ],
+    "en": [
+      "to damage or spoil the appearance or beauty of something",
+      "to introduce a defect that reduces quality, perfection, or value",
+      "to spoil an event, experience, or atmosphere through an unpleasant incident",
+      "to damage a reputation, record, or favorable impression"
+    ]
+  },
+  "nuance": {
+    "ja": "mar は、物や出来事を完全に破壊するのではなく、傷・汚点・欠陥・不快な出来事によって、それまでの美しさ・完全さ・好ましさを損なうことを表す。A scratch marred the surface. なら、表面そのものは残っているが、傷によって見栄えが悪くなったという意味になる。行事・旅行・業績などにも比喩的に使われ、The event was marred by violence. のような受動態が特に一般的である。damageより文学的・報道的な響きがあり、『本来なら良好だったものに残念な欠点が付いた』という対比を含みやすい。過去形・過去分詞では最後のrを重ねてmarred、-ing形はmarringとなる。",
+    "en": "Mar means reducing the beauty, perfection, or favorable quality of something by introducing a scratch, defect, stain, or unpleasant event. It does not normally suggest total destruction. If a scratch mars a surface, the surface remains intact but its appearance is diminished. The verb is also used figuratively of ceremonies, trips, achievements, reputations, and records. The passive construction be marred by is especially common in journalism. Mar sounds more literary or formal than damage and often highlights the contrast between something that would otherwise have been successful or attractive and the defect that spoiled it."
+  },
+  "minimal": {
+    "ja": [
+      "mar：傷・欠点・不快な出来事によって、本来の美しさ・完全さ・好印象を損なう。",
+      "damage：物・身体・評判などに広く損害や機能低下を与える一般的な語。",
+      "spoil：楽しみ・結果・食物などを悪くし、満足できない状態にする。",
+      "blemish：小さな傷・汚点によって外観や評判の完全さを損なう。",
+      "ruin：価値・機能・成功などをほぼ完全に失わせる、marより強い語。"
+    ],
+    "en": [
+      "mar: to reduce beauty, perfection, or a favorable impression through a defect or unpleasant incident.",
+      "damage: the general verb for causing physical, functional, financial, or reputational harm.",
+      "spoil: to make an experience, result, or food unpleasant, unsuccessful, or unusable.",
+      "blemish: to impair an otherwise good appearance or reputation with a relatively small mark or fault.",
+      "ruin: to destroy value, usefulness, or success almost completely and is stronger than mar."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 merran『妨げる、傷つける、台無しにする』に由来するゲルマン系の語。古高ドイツ語 marrjan『妨げる』などと同系で、もともとは物事の進行を妨げたり悪化させたりすることを表した。そこから、外観・品質・完全さを傷つける現在の意味へ発達した。",
+    "en": "Mar comes from Old English merran, meaning to hinder, injure, or spoil. It is related to other Germanic words carrying the idea of obstruction or impairment. From the broader sense of interfering with or worsening something, it developed the modern meaning of damaging appearance, quality, or perfection."
+  },
+  "synonyms": [
+    {
+      "word": "spoil",
+      "note": {
+        "ja": "物事の楽しさ・成功・品質を悪くする一般的な語。marより口語的で適用範囲が広い。",
+        "en": "The common verb for making an experience, outcome, or quality worse, broader and less formal than mar."
+      }
+    },
+    {
+      "word": "blemish",
+      "note": {
+        "ja": "表面や評判に小さな傷・汚点を付ける。名詞としてもよく使われる。",
+        "en": "To mark an appearance or reputation with a relatively small defect; also commonly used as a noun."
+      }
+    },
+    {
+      "word": "tarnish",
+      "note": {
+        "ja": "金属の光沢を曇らせることから、評判・イメージを徐々に損なう意味でも使う。",
+        "en": "Literally to dull a metal surface and figuratively to damage a reputation or image."
+      }
+    },
+    {
+      "word": "impair",
+      "note": {
+        "ja": "能力・機能・品質などを低下させる硬い語。美観に限定されない。",
+        "en": "A formal verb meaning to reduce ability, function, or quality and not specifically focused on appearance."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "beeinträchtigen / verunstalten",
+    "it": "rovinare / deturpare",
+    "fr": "gâcher / ternir",
+    "es": "estropear / deslucir"
+  },
+  "collocations": {
+    "ja": [
+      "mar the appearance — 外観を損なう",
+      "mar the beauty — 美しさを損なう",
+      "mar the surface — 表面に傷を付ける",
+      "mar the landscape — 景観を損なう",
+      "mar the occasion — 行事を台無しにする",
+      "mar the experience — 経験を残念なものにする",
+      "mar someone's reputation — 人の評判を傷つける",
+      "mar an otherwise perfect record — それ以外は完璧な実績に傷を付ける",
+      "be marred by violence — 暴力によって台無しになる",
+      "be badly marred — ひどく損なわれる"
+    ],
+    "en": [
+      "mar the appearance",
+      "mar the beauty",
+      "mar the surface",
+      "mar the landscape",
+      "mar the occasion",
+      "mar the experience",
+      "mar someone's reputation",
+      "mar an otherwise perfect record",
+      "be marred by violence",
+      "be badly marred"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Several deep scratches marred the polished surface. — いくつもの深い傷が、磨かれた表面の美観を損ねていた。",
+      "The view is marred by a row of abandoned buildings. — その景観は一列に並ぶ廃墟によって損なわれている。",
+      "The ceremony was marred by violent protests outside the venue. — その式典は会場外での暴力的な抗議活動によって台無しになった。",
+      "One minor controversy marred an otherwise successful career. — 一件の小さな論争が、それ以外は成功に満ちた経歴に傷を付けた。",
+      "The delay slightly marred our enjoyment of the trip. — 遅延のせいで、私たちは旅行を心から楽しめなかった。"
+    ],
+    "en": [
+      "Several deep scratches marred the polished surface.",
+      "The view is marred by a row of abandoned buildings.",
+      "The ceremony was marred by violent protests outside the venue.",
+      "One minor controversy marred an otherwise successful career.",
+      "The delay slightly marred our enjoyment of the trip."
+    ]
+  }
+},
+{
+  "id": "distress",
+  "sid": "2026-00972",
+  "word": "distress",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "emotion",
+    "suffering",
+    "emergency",
+    "danger",
+    "finance",
+    "health",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "noun": {
+      "countability": "usually uncountable",
+      "patterns": [
+        "in distress",
+        "cause / experience distress",
+        "emotional / psychological distress",
+        "financial distress",
+        "a distress signal / call"
+      ]
+    },
+    "verb": {
+      "forms": {
+        "base": "distress",
+        "third_person": "distresses",
+        "past": "distressed",
+        "past_participle": "distressed",
+        "gerund": "distressing"
+      },
+      "transitivity": "transitive",
+      "patterns": [
+        "distress + person",
+        "be distressed by / at / about + noun",
+        "be distressed to hear / learn / see",
+        "a distressed person / company",
+        "distressed assets / debt"
+      ]
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈstres/",
+      "uk": "/dɪˈstres/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "強い不安・悲しみ・精神的苦痛",
+      "痛み・呼吸困難などの身体的苦痛",
+      "危険にさらされ、緊急の援助を必要としている状態",
+      "企業・個人が深刻な財政難にある状態",
+      "人をひどく心配させる、悲しませる、苦しめる"
+    ],
+    "en": [
+      "severe anxiety, sadness, or emotional suffering",
+      "physical suffering, pain, or difficulty such as respiratory distress",
+      "a state of danger requiring urgent assistance",
+      "serious financial difficulty affecting a person or business",
+      "to cause someone severe worry, sadness, or suffering"
+    ]
+  },
+  "nuance": {
+    "ja": "distress は、軽い不快感ではなく、対処が難しいほど強い精神的・身体的苦痛を表す。名詞では通常不可算で、She was in considerable distress. のように使う。in distress は人が泣いたり動揺したりしている状態だけでなく、船舶・航空機などが危険に陥り、緊急援助を必要としている状態も表す。金融では financial distress が債務返済や事業継続に支障が出る深刻な財政難を指し、distressed companyやdistressed assetsのdistressedは財務上の問題を抱えた状態を表す。動詞distressは『人に強い苦痛を与える』という他動詞で、受動態のbe distressed by/aboutやbe distressed to hearが特に一般的。形容詞distressingは『人を苦しませるような』、distressedは『苦しんでいる』という方向の違いがある。",
+    "en": "Distress denotes suffering more serious than ordinary discomfort or momentary worry. As a noun it is usually uncountable, as in She was in considerable distress. In distress can describe a visibly upset person, but it also applies to a ship, aircraft, or other party in danger and needing urgent assistance. In finance, financial distress refers to serious difficulty meeting obligations or continuing operations, while distressed companies, debt, or assets are associated with such difficulty. As a transitive verb, distress means causing severe worry, sadness, or suffering and is especially common in passive constructions such as be distressed by, be distressed about, and be distressed to hear. Distressing describes something that causes suffering; distressed describes the person or entity affected."
+  },
+  "minimal": {
+    "ja": [
+      "distress：対処が難しいほどの強い精神的・身体的苦痛、または緊急援助を要する危険状態。",
+      "anxiety：将来の危険・不確実性に対する不安や緊張に重点がある。",
+      "anguish：悲劇・喪失・葛藤などによる極めて激しい精神的苦痛。",
+      "discomfort：軽度から中程度の身体的不快感・居心地の悪さで、distressほど深刻とは限らない。",
+      "hardship：貧困・不足・厳しい生活条件など、長期間耐えなければならない困難。"
+    ],
+    "en": [
+      "distress: severe emotional or physical suffering, or a dangerous condition requiring urgent assistance.",
+      "anxiety: worry or tension focused on future danger, uncertainty, or possible negative events.",
+      "anguish: extremely intense emotional suffering caused by tragedy, loss, or inner conflict.",
+      "discomfort: mild or moderate physical or emotional unease that is not necessarily as serious as distress.",
+      "hardship: difficult living or working conditions, often involving prolonged deprivation or adversity."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 destresse『苦難、圧迫、窮境』を経て、ラテン語 distringere『引き離す、強く締め付ける、苦しめる』にさかのぼる。dis-『離れて』と stringere『強く引く、締める』から成り、四方から引っ張られ締め付けられるような状態から、『苦痛・窮迫』という意味へ発達した。strain、strict、stringentなどもstringereと関係する。",
+    "en": "Distress came through Old French destresse, meaning hardship, pressure, or affliction, and ultimately derives from Latin distringere, meaning to pull apart, constrain, or afflict. It combines dis-, suggesting separation, with stringere, meaning to draw tight. The image of being tightly strained or pulled developed into the senses of suffering, danger, and severe difficulty. Strain, strict, and stringent are historically related to the same Latin root."
+  },
+  "synonyms": [
+    {
+      "word": "suffering",
+      "note": {
+        "ja": "身体的・精神的に苦しむことを表す最も広い語。程度や原因を限定しない。",
+        "en": "The broad general term for experiencing physical or emotional pain, without specifying its degree or cause."
+      }
+    },
+    {
+      "word": "anguish",
+      "note": {
+        "ja": "極めて強い精神的苦痛。distressより激しく、深い悲しみや葛藤を伴いやすい。",
+        "en": "Extremely intense emotional pain, often stronger than distress and associated with grief or inner conflict."
+      }
+    },
+    {
+      "word": "agony",
+      "note": {
+        "ja": "耐え難いほど激しい身体的・精神的苦痛。",
+        "en": "Extreme and almost unbearable physical or emotional pain."
+      }
+    },
+    {
+      "word": "upset",
+      "note": {
+        "ja": "心が乱れ、悲しんだり心配したりしている状態を表す日常的な語。distressより通常は弱い。",
+        "en": "An everyday term for being worried or unhappy and generally less severe than distress."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Not / Bedrängnis / in Not versetzen",
+    "it": "angoscia / difficoltà / angosciare",
+    "fr": "détresse / affliger",
+    "es": "angustia / aflicción / angustiar"
+  },
+  "collocations": {
+    "ja": [
+      "emotional distress — 精神的苦痛",
+      "psychological distress — 心理的苦痛",
+      "severe distress — 深刻な苦痛",
+      "financial distress — 財政難",
+      "respiratory distress — 呼吸窮迫",
+      "a distress signal — 遭難信号",
+      "a distress call — 救難要請・遭難通信",
+      "a ship in distress — 遭難中の船",
+      "cause considerable distress — 大きな苦痛を与える",
+      "be deeply distressed — 深く心を痛めている"
+    ],
+    "en": [
+      "emotional distress",
+      "psychological distress",
+      "severe distress",
+      "financial distress",
+      "respiratory distress",
+      "a distress signal",
+      "a distress call",
+      "a ship in distress",
+      "cause considerable distress",
+      "be deeply distressed"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The news caused considerable distress to the victim's family. — その知らせは被害者の家族に大きな精神的苦痛を与えた。",
+      "She was visibly distressed by the accusations. — 彼女はその非難によって明らかにひどく動揺していた。",
+      "The coast guard received a distress call from the fishing vessel. — 沿岸警備隊はその漁船から救難要請を受けた。",
+      "The company entered financial distress after losing its largest customer. — その会社は最大の顧客を失った後、深刻な財政難に陥った。",
+      "I was distressed to learn that several employees had been injured. — 数名の従業員が負傷したと知り、私は深く心を痛めた。"
+    ],
+    "en": [
+      "The news caused considerable distress to the victim's family.",
+      "She was visibly distressed by the accusations.",
+      "The coast guard received a distress call from the fishing vessel.",
+      "The company entered financial distress after losing its largest customer.",
+      "I was distressed to learn that several employees had been injured."
+    ]
+  }
+},
+{
+  "id": "tarnish",
+  "sid": "2026-00973",
+  "word": "tarnish",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "noun",
+    "metal",
+    "discoloration",
+    "appearance",
+    "reputation",
+    "image",
+    "damage",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "verb": {
+      "forms": {
+        "base": "tarnish",
+        "third_person": "tarnishes",
+        "past": "tarnished",
+        "past_participle": "tarnished",
+        "gerund": "tarnishing"
+      },
+      "transitivity": "transitive / intransitive",
+      "patterns": [
+        "tarnish + metal / surface",
+        "tarnish + reputation / image",
+        "be tarnished by + scandal / allegation",
+        "tarnish easily / quickly",
+        "become tarnished"
+      ]
+    },
+    "noun": {
+      "countability": "usually uncountable",
+      "patterns": [
+        "remove tarnish from + metal",
+        "a layer of tarnish",
+        "show signs of tarnish",
+        "tarnish-resistant"
+      ]
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈtɑːrnɪʃ/",
+      "uk": "/ˈtɑːnɪʃ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "金属の表面の光沢を曇らせる、変色させる",
+      "金属が空気などとの反応によって曇る、変色する",
+      "評判・名声・信用・イメージを傷つける",
+      "金属表面に生じる曇り・変色・薄い腐食層"
+    ],
+    "en": [
+      "to make a metal surface lose its shine or become discolored",
+      "for a metal to become dull or discolored through reaction with its environment",
+      "to damage a reputation, name, record, or public image",
+      "a dull or discolored layer that forms on the surface of a metal"
+    ]
+  },
+  "nuance": {
+    "ja": "物理的なtarnishは、銀・銅・真鍮などの金属が空気中の成分と反応し、表面の光沢を失ったり変色したりすることを表す。必ずしも金属の内部まで深刻に損傷しているとは限らず、表面を磨けば除去できる場合も多い。比喩的には、不祥事・疑惑・失敗などによって、それまで良好だった評判・名声・実績に曇りが生じることを表す。完全に信用を破壊するというより、『輝きや清廉な印象を失わせる』というイメージが中心となる。動詞は他動詞と自動詞の両方で使われ、The scandal tarnished his reputation. と Silver tarnishes over time. の両方が可能。名詞では通常不可算で、remove the tarnishのように使う。",
+    "en": "In its physical sense, tarnish describes the dulling or discoloration of metals such as silver, copper, and brass through reactions with substances in the environment. It often affects the surface and may be removable by polishing, so it does not necessarily indicate serious structural damage. Figuratively, a scandal, allegation, or failure may tarnish a previously favorable reputation, name, or record. The central image is a loss of shine or purity rather than total destruction. The verb can be transitive, as in The scandal tarnished his reputation, or intransitive, as in Silver tarnishes over time. As a noun, tarnish is usually uncountable."
+  },
+  "minimal": {
+    "ja": [
+      "tarnish：金属の表面を曇らせる、または評判・名声から従来の輝きを失わせる。",
+      "rust：主に鉄や鋼に生じる赤褐色の腐食、またはその腐食が進むこと。",
+      "corrode：化学反応によって金属などを徐々に侵食し、材質自体を劣化させる。",
+      "mar：傷・欠点・不快な出来事によって、外観・完全さ・好印象を損なう。",
+      "stain：色素・液体・行為などによって、表面や評判に落ちにくい汚れ・汚点を付ける。"
+    ],
+    "en": [
+      "tarnish: to dull a metal surface or cause a reputation or name to lose its former luster.",
+      "rust: the reddish-brown corrosion formed mainly on iron or steel, or the process of developing it.",
+      "corrode: to gradually eat away and weaken a material through chemical reaction.",
+      "mar: to impair appearance, perfection, or a favorable impression through a defect or unpleasant event.",
+      "stain: to leave a persistent mark or discoloration on a surface or a lasting moral mark on a reputation."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 tarnishen が古フランス語 ternir『曇らせる、光沢を失わせる』の語幹から形成されたもの。フランス語 terne『くすんだ、光沢のない』と関係する。金属や色の輝きが鈍くなるという物理的意味から、名声や評判の輝きが失われるという比喩的意味が生まれた。",
+    "en": "Tarnish entered Middle English from a form related to Old French ternir, meaning to make dull or cause to lose luster, and French terne, meaning dull or lacking brightness. The physical sense of a surface losing its shine gave rise to the figurative sense of a reputation or name losing its former brilliance."
+  },
+  "synonyms": [
+    {
+      "word": "dull",
+      "note": {
+        "ja": "表面の輝き・色・鋭さなどを弱める一般的な語。化学的な変色に限定されない。",
+        "en": "The general verb for reducing brightness, color, sharpness, or intensity and not limited to chemical discoloration."
+      }
+    },
+    {
+      "word": "stain",
+      "note": {
+        "ja": "表面に汚れや変色を残すほか、名誉・評判に汚点を付ける意味でも使われる。",
+        "en": "To leave discoloration on a surface or figuratively leave a moral mark on a name or reputation."
+      }
+    },
+    {
+      "word": "blemish",
+      "note": {
+        "ja": "外観や評判に比較的小さな傷・欠点を生じさせる。",
+        "en": "To impair an otherwise good appearance or reputation with a relatively limited mark or fault."
+      }
+    },
+    {
+      "word": "sully",
+      "note": {
+        "ja": "清廉な評判・名誉・純粋さなどを汚す。tarnishより道徳的な汚点を強く感じさせることがある。",
+        "en": "To soil a reputation, honor, or purity, often suggesting a stronger moral stain than tarnish."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "anlaufen / trüben",
+    "it": "ossidarsi / offuscare",
+    "fr": "ternir",
+    "es": "empañar / deslustrar"
+  },
+  "collocations": {
+    "ja": [
+      "tarnish easily — 変色しやすい",
+      "tarnish over time — 時間とともに曇る",
+      "tarnish the surface — 表面を曇らせる",
+      "tarnish someone's reputation — 人の評判を傷つける",
+      "tarnish someone's image — 人のイメージを損なう",
+      "tarnish a good name — 名声に傷を付ける",
+      "tarnish an otherwise excellent record — それ以外は優れた実績に傷を付ける",
+      "be tarnished by scandal — 不祥事によって評判を損なわれる",
+      "remove tarnish — 曇り・変色を除去する",
+      "tarnish-resistant material — 変色しにくい素材"
+    ],
+    "en": [
+      "tarnish easily",
+      "tarnish over time",
+      "tarnish the surface",
+      "tarnish someone's reputation",
+      "tarnish someone's image",
+      "tarnish a good name",
+      "tarnish an otherwise excellent record",
+      "be tarnished by scandal",
+      "remove tarnish",
+      "tarnish-resistant material"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Silver gradually tarnishes when exposed to air. — 銀は空気にさらされると徐々に変色する。",
+      "The dark tarnish can usually be removed with a suitable polish. — その黒ずみは通常、適切な研磨剤で除去できる。",
+      "The allegations seriously tarnished the company's reputation. — その疑惑は会社の評判を大きく傷つけた。",
+      "One poor decision should not tarnish an otherwise impressive career. — 一度の判断ミスによって、それ以外は立派な経歴全体が損なわれるべきではない。",
+      "His public image was tarnished by the financial scandal. — 彼の公的イメージはその金融不祥事によって傷ついた。"
+    ],
+    "en": [
+      "Silver gradually tarnishes when exposed to air.",
+      "The dark tarnish can usually be removed with a suitable polish.",
+      "The allegations seriously tarnished the company's reputation.",
+      "One poor decision should not tarnish an otherwise impressive career.",
+      "His public image was tarnished by the financial scandal."
+    ]
+  }
+},
+{
+  "id": "skid",
+  "sid": "2026-00974",
+  "word": "skid",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "noun",
+    "vehicle",
+    "driving",
+    "movement",
+    "accident",
+    "decline",
+    "business",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "verb": {
+      "forms": {
+        "base": "skid",
+        "third_person": "skids",
+        "past": "skidded",
+        "past_participle": "skidded",
+        "gerund": "skidding"
+      },
+      "transitivity": "intransitive / sometimes transitive",
+      "patterns": [
+        "skid on + ice / wet road",
+        "skid across + road / surface",
+        "skid into + vehicle / barrier",
+        "skid off + road / runway",
+        "skid to a halt / stop",
+        "send something skidding",
+        "prices / profits skid"
+      ]
+    },
+    "noun": {
+      "countability": "countable",
+      "plural": "skids",
+      "patterns": [
+        "go into a skid",
+        "recover from a skid",
+        "a sideways / uncontrolled skid",
+        "leave skid marks",
+        "hit the skids"
+      ]
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/skɪd/",
+      "uk": "/skɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "車両・車輪などがグリップを失って横滑りする",
+      "滑りながら制御不能な方向へ進む",
+      "価格・利益・経済状態などが急速に下落する",
+      "車両などの横滑り、制御を失った滑走",
+      "重量物を支えたり移動させたりするための台・そり状の支持材"
+    ],
+    "en": [
+      "for a vehicle or its wheels to slide because they have lost traction",
+      "to move uncontrollably across a surface while sliding",
+      "for prices, profits, or economic performance to decline sharply",
+      "an uncontrolled sliding movement, especially by a vehicle",
+      "a platform, runner, or supporting frame used to hold or move a heavy object"
+    ]
+  },
+  "nuance": {
+    "ja": "skid は、動いている車両などが路面との摩擦・グリップを失い、運転者の意図とは異なる方向へ滑ることを表す。特に急ブレーキ、濡れた路面、凍結、急旋回などによる横滑りを連想させる。人が滑る場合にも使えるが、足を取られる瞬間ならslipの方が一般的で、skidはその後ある程度の距離を滑って進む動きに向いている。報道や金融では shares skidded のように、株価・利益・売上などが急落する意味でも使われる。hit the skidsは、事業・関係・人生などが急速に悪化し始めるという口語的な表現。過去形と-ing形では最後のdを重ねてskidded、skiddingとなる。",
+    "en": "Skid describes a moving vehicle or object losing friction or traction and sliding in a direction not fully controlled by the driver or operator. It is particularly associated with hard braking, wet or icy roads, and sudden turns. The verb can describe a person, but slip is more usual for the initial loss of footing, whereas skid suggests continuing to move across the surface. In business and financial reporting, prices, shares, profits, or sales may skid when they fall sharply. The informal expression hit the skids means to begin deteriorating rapidly. The final consonant is doubled in skidded and skidding."
+  },
+  "minimal": {
+    "ja": [
+      "skid：車両・車輪などが接地力を失い、制御されないまま路面を滑る。",
+      "slide：表面上を滑らかに移動する最も広い語で、制御不能とは限らない。",
+      "slip：足・手・物の接触が一瞬失われ、体勢や保持を崩すことに重点がある。",
+      "swerve：障害物を避けるなどして、進行方向を急に横へ変える。滑っているとは限らない。",
+      "spin：車両などが軸を中心に回転する。skidの結果として起こる場合がある。"
+    ],
+    "en": [
+      "skid: for a vehicle or wheel to lose traction and slide across a surface without full control.",
+      "slide: the broad term for moving smoothly over a surface and does not necessarily imply loss of control.",
+      "slip: to momentarily lose secure contact, footing, or grip, often causing a loss of balance.",
+      "swerve: to change direction sharply to one side, without necessarily sliding.",
+      "spin: to rotate around an axis, which may occur as a result of a severe skid."
+    ]
+  },
+  "etymology": {
+    "ja": "古ノルド語 skíð『割った木片、棒、そり板』に関連するスカンディナヴィア系の語に由来する。もともとは重量物や船を支え、滑らせて移動させる木製の梁・そり板を指した。そこから『そり板の上を滑らせる』、さらに車輪や車両が路面を滑るという意味へ発達した。英語のskiとも同系。",
+    "en": "Skid comes from a Scandinavian source related to Old Norse skíð, meaning a split piece of wood, stick, or runner. It originally referred to a wooden beam or runner used to support and move heavy objects or ships. From moving something on such runners, the word developed the sense of sliding and then the modern vehicle-related meaning. It is historically related to ski."
+  },
+  "synonyms": [
+    {
+      "word": "slide",
+      "note": {
+        "ja": "表面との接触を保ったまま滑って移動する一般的な語。意図的な動きにも使える。",
+        "en": "The general verb for moving over a surface while remaining in contact with it and may describe intentional movement."
+      }
+    },
+    {
+      "word": "slip",
+      "note": {
+        "ja": "足元・握り・接触が外れることを表す。通常はskidより短く瞬間的な動き。",
+        "en": "To lose footing, grip, or secure contact, usually suggesting a briefer initial movement than skid."
+      }
+    },
+    {
+      "word": "glide",
+      "note": {
+        "ja": "滑らかに、静かに、制御された状態で進む。制御不能なskidとは対照的。",
+        "en": "To move smoothly, quietly, and often gracefully under control, contrasting with an uncontrolled skid."
+      }
+    },
+    {
+      "word": "plunge",
+      "note": {
+        "ja": "価格・利益などが急激かつ大幅に下落する。比喩的なskidより下落の激しさを強く表す。",
+        "en": "For a price or figure to fall very steeply, often suggesting a more dramatic decline than figurative skid."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schleudern / Rutschen",
+    "it": "sbandare / slittare",
+    "fr": "déraper / dérapage",
+    "es": "derrapar / derrape"
+  },
+  "collocations": {
+    "ja": [
+      "skid on ice — 氷の上で横滑りする",
+      "skid on a wet road — 濡れた道路で横滑りする",
+      "skid off the road — 横滑りして道路から外れる",
+      "skid into a barrier — 横滑りして防護柵などに衝突する",
+      "skid to a halt — 滑りながら停止する",
+      "go into a skid — 横滑りを始める",
+      "recover from a skid — 横滑り状態から制御を取り戻す",
+      "leave skid marks — タイヤの滑走痕を残す",
+      "shares skid — 株価が急落する",
+      "hit the skids — 急速に悪化し始める"
+    ],
+    "en": [
+      "skid on ice",
+      "skid on a wet road",
+      "skid off the road",
+      "skid into a barrier",
+      "skid to a halt",
+      "go into a skid",
+      "recover from a skid",
+      "leave skid marks",
+      "shares skid",
+      "hit the skids"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The car skidded on the icy road and hit a barrier. — その車は凍結した道路で横滑りし、防護柵に衝突した。",
+      "The truck skidded to a halt just before the intersection. — トラックは交差点の直前で滑りながら停止した。",
+      "Police found long skid marks at the scene of the accident. — 警察は事故現場で長いタイヤの滑走痕を発見した。",
+      "The box fell from the shelf and went skidding across the floor. — 箱は棚から落ち、床の上を滑っていった。",
+      "The company's shares skidded after it announced disappointing results. — 期待外れの決算が発表された後、その会社の株価は急落した。"
+    ],
+    "en": [
+      "The car skidded on the icy road and hit a barrier.",
+      "The truck skidded to a halt just before the intersection.",
+      "Police found long skid marks at the scene of the accident.",
+      "The box fell from the shelf and went skidding across the floor.",
+      "The company's shares skidded after it announced disappointing results."
+    ]
+  }
+},
+{
+  "id": "plunge",
+  "sid": "2026-00975",
+  "word": "plunge",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "noun",
+    "movement",
+    "water",
+    "decline",
+    "crisis",
+    "finance",
+    "change",
+    "decision",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "verb": {
+      "forms": {
+        "base": "plunge",
+        "third_person": "plunges",
+        "past": "plunged",
+        "past_participle": "plunged",
+        "gerund": "plunging"
+      },
+      "transitivity": "intransitive / transitive",
+      "patterns": [
+        "plunge into + water / darkness / crisis",
+        "plunge from + height",
+        "plunge by + amount / percentage",
+        "plunge to + level",
+        "plunge something into + liquid",
+        "be plunged into + confusion / mourning",
+        "plunge ahead / downward"
+      ]
+    },
+    "noun": {
+      "countability": "countable",
+      "plural": "plunges",
+      "patterns": [
+        "a plunge in + prices / sales",
+        "a plunge into + water / crisis",
+        "take a plunge",
+        "take the plunge",
+        "a sudden / sharp plunge"
+      ]
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/plʌndʒ/",
+      "uk": "/plʌndʒ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "高い場所から勢いよく落下する、飛び込む",
+      "物を液体などの中へ勢いよく突っ込む、沈める",
+      "価格・売上・温度などが急激かつ大幅に低下する",
+      "危機・混乱・暗闇などの状態へ急に陥る、陥らせる",
+      "危険や不確実性を伴うことへ思い切って踏み出す",
+      "急落、急降下、飛び込み"
+    ],
+    "en": [
+      "to fall or dive suddenly and forcefully from a height",
+      "to push or immerse something forcefully into a liquid or other substance",
+      "for a price, figure, temperature, or level to fall sharply",
+      "to enter or cause someone or something to enter a difficult state suddenly",
+      "to commit oneself decisively to something risky or uncertain",
+      "a sudden steep fall, dive, or downward movement"
+    ]
+  },
+  "nuance": {
+    "ja": "plunge は、下方または内部へ『勢いよく、一気に、深く』移動するイメージを持つ。物理的には水中への飛び込みや物の沈下を表し、比喩的には価格・売上・気温などの急落に使われる。The economy plunged into recession. のように、危機・混乱・不況などの好ましくない状態へ突然入る意味も非常に一般的である。他動詞のbe plunged intoでは、外的な出来事によって突然ある状態に置かれることを表す。take the plungeは、結婚・転職・起業・購入など、迷っていた重大なことを思い切って実行する口語的な表現。下落のplungeは、単なるdropより急激かつ大幅で、しばしば驚きや深刻さを伴う。",
+    "en": "Plunge carries the image of moving downward or inward suddenly, forcefully, and often deeply. Physically, it describes diving into water, falling from a height, or thrusting an object into a substance. Figuratively, it commonly describes a steep fall in prices, sales, temperatures, or other figures. Plunge into is also used when a person, organization, or country suddenly enters an undesirable state such as crisis, confusion, recession, or darkness. The passive be plunged into emphasizes that an external event caused the sudden change. Take the plunge is an informal expression for finally making a major or risky decision after hesitation. As a decline verb, plunge is stronger and more dramatic than the neutral drop."
+  },
+  "minimal": {
+    "ja": [
+      "plunge：物・数値・状況が、勢いよく急激に下方または深い状態へ移る。",
+      "plummet：数値や物体がほぼ垂直に非常な速さで落ちることに重点があり、急落の意味が特に強い。",
+      "dive：意図的に頭や体の前方から飛び込む、または数値が急低下する。",
+      "drop：位置・水準・数値が下がることを表す最も一般的で中立的な語。",
+      "slump：価格・売上・経済活動などが低迷状態へ落ち込み、その状態が続くことを示唆する。"
+    ],
+    "en": [
+      "plunge: to move suddenly and forcefully downward or into a deep or difficult state.",
+      "plummet: to fall almost vertically and extremely rapidly, especially of an object or numerical value.",
+      "dive: to enter headfirst or move deliberately downward, and figuratively to fall sharply in value.",
+      "drop: the general neutral term for moving or becoming lower in position, level, or amount.",
+      "slump: to fall into a depressed level, especially in prices, sales, or economic activity, often suggesting continued weakness."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 plungenが古フランス語 plongier・plungier『水中に沈める、潜る』から入った語。さらに、鉛のおもりを沈めるというイメージからラテン語 plumbum『鉛』と関連すると考えられている。もともとの『水中深くへ沈める』という意味から、急落や困難な状態への突入という比喩的意味が発達した。",
+    "en": "Plunge entered Middle English from Old French plongier or plungier, meaning to immerse or dive. Its deeper history is generally associated with Latin plumbum, meaning lead, through the image of a lead weight sinking into water. From the physical sense of going deeply into water, the word developed its figurative meanings of falling sharply and entering a difficult condition."
+  },
+  "synonyms": [
+    {
+      "word": "plummet",
+      "note": {
+        "ja": "物体・価格・数値などが非常な速さで急落する。plungeよりも落下方向と速度を強調する。",
+        "en": "To fall extremely rapidly, emphasizing the speed and steepness of the downward movement."
+      }
+    },
+    {
+      "word": "dive",
+      "note": {
+        "ja": "水中などへ頭から飛び込む。数値が急落する比喩にも使われる。",
+        "en": "To enter water headfirst or figuratively to fall sharply in value."
+      }
+    },
+    {
+      "word": "immerse",
+      "note": {
+        "ja": "物を液体中に完全に浸す。plungeと異なり、勢いや急激さを必要としない。",
+        "en": "To place something completely under a liquid, without necessarily suggesting force or suddenness."
+      }
+    },
+    {
+      "word": "collapse",
+      "note": {
+        "ja": "構造・制度・価格などが支えを失って崩壊・暴落する。plungeより機能喪失を強く示す。",
+        "en": "To fall apart or fail suddenly, suggesting structural or functional breakdown more strongly than plunge."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "stürzen / einbrechen",
+    "it": "precipitare / immergere",
+    "fr": "plonger / chuter",
+    "es": "sumergirse / desplomarse"
+  },
+  "collocations": {
+    "ja": [
+      "plunge into the water — 水中へ飛び込む",
+      "plunge into darkness — 暗闇に包まれる",
+      "plunge into crisis — 危機に陥る",
+      "plunge into recession — 不況に陥る",
+      "plunge a knife into something — 何かにナイフを突き刺す",
+      "prices plunge — 価格が急落する",
+      "sales plunge — 売上が急落する",
+      "plunge by 20 percent — 20パーセント急落する",
+      "a sharp plunge — 急激な下落",
+      "take the plunge — 思い切って決断・実行する"
+    ],
+    "en": [
+      "plunge into the water",
+      "plunge into darkness",
+      "plunge into crisis",
+      "plunge into recession",
+      "plunge a knife into something",
+      "prices plunge",
+      "sales plunge",
+      "plunge by 20 percent",
+      "a sharp plunge",
+      "take the plunge"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The car broke through the barrier and plunged into the river. — その車は防護柵を突き破り、川へ転落した。",
+      "Share prices plunged by more than 15 percent after the announcement. — 発表後、株価は15パーセントを超えて急落した。",
+      "The sudden loss of its main customer plunged the company into financial crisis. — 最大の顧客を突然失ったことで、その会社は財政危機に陥った。",
+      "A power failure plunged the entire building into darkness. — 停電によって建物全体が突然暗闇に包まれた。",
+      "After months of hesitation, she finally took the plunge and started her own business. — 数か月迷った末、彼女はついに思い切って自分の事業を始めた。"
+    ],
+    "en": [
+      "The car broke through the barrier and plunged into the river.",
+      "Share prices plunged by more than 15 percent after the announcement.",
+      "The sudden loss of its main customer plunged the company into financial crisis.",
+      "A power failure plunged the entire building into darkness.",
+      "After months of hesitation, she finally took the plunge and started her own business."
+    ]
+  }
+},
+{
+  "id": "single_out",
+  "sid": "2026-00976",
+  "word": "single out",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "selection",
+    "attention",
+    "recognition",
+    "criticism",
+    "treatment",
+    "discrimination",
+    "business",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "single out",
+      "third_person": "singles out",
+      "past": "singled out",
+      "past_participle": "singled out",
+      "gerund": "singling out"
+    },
+    "transitivity": "transitive",
+    "separability": "separable",
+    "patterns": [
+      "single out + person / thing",
+      "single + person / thing + out",
+      "single him / her / it / them out",
+      "single someone out for + praise / criticism / attention",
+      "single someone out as + example / leader",
+      "be singled out for + special treatment",
+      "be singled out from / among + group"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌsɪŋɡəl ˈaʊt/",
+      "uk": "/ˌsɪŋɡəl ˈaʊt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "集団の中から特定の人・物だけを選び出す",
+      "人・物を特に注目すべき対象として取り上げる",
+      "特定の人を称賛・批判・非難の対象にする",
+      "一人だけを特別な扱い・不利益な扱いの対象にする"
+    ],
+    "en": [
+      "to select one particular person or thing from a group",
+      "to identify someone or something as especially worthy of attention",
+      "to make a particular person or thing the subject of praise, criticism, or blame",
+      "to treat one person differently or unfairly from others"
+    ]
+  },
+  "nuance": {
+    "ja": "single out は、複数の人・物の中から一人・一つを際立たせ、ほかとは異なる注意や扱いの対象にすることを表す。single someone out for praiseなら肯定的、single someone out for criticismなら否定的であり、表現自体には称賛・非難のどちらか一方の意味はない。特定の人だけを叱責・監視・処罰する文脈では、不公平に狙い撃ちされたという含みを持つことがある。受動態のbe singled out forが非常に一般的。分離可能な句動詞なので、名詞はsingle out the employeeとsingle the employee outの両方が可能だが、代名詞は必ずsingle him outのように間に置き、single out himとは通常いわない。",
+    "en": "Single out means separating one person or thing conceptually from a larger group and giving that individual special attention or treatment. The expression itself is neutral regarding whether that attention is favorable: someone may be singled out for praise or for criticism. In contexts involving discipline, monitoring, or punishment, it can imply that a person has been unfairly targeted. The passive be singled out for is especially common. The phrasal verb is separable, so a noun may appear after out or between the two elements, but a pronoun must normally appear in the middle: single him out, not single out him."
+  },
+  "minimal": {
+    "ja": [
+      "single out：集団の中から一人・一つを特別な注目・評価・処遇の対象として選び出す。",
+      "select：基準に基づいて候補の中から選ぶ中立的・形式的な語。",
+      "pick out：集団の中から見分けて選ぶ、または視覚的に識別する比較的口語的な語。",
+      "identify：人物・物・原因などが何であるかを特定する。特別扱いする意味は含まない。",
+      "target：行動・攻撃・販売・調査などを特定の対象に意図的に向ける。"
+    ],
+    "en": [
+      "single out: to select one member of a group for special attention, evaluation, or treatment.",
+      "select: to choose from among alternatives according to some criterion, in a neutral or formal way.",
+      "pick out: to choose or visually distinguish someone or something from a group, relatively informally.",
+      "identify: to establish who or what a person, thing, or cause is, without implying special treatment.",
+      "target: to deliberately direct an action, attack, campaign, sale, or investigation toward a particular object."
+    ]
+  },
+  "etymology": {
+    "ja": "single『一つの、単独の』を動詞として用い、out『外へ、ほかから離して』を組み合わせた句動詞。singleはラテン語 singulus『一つずつの、個々の』に由来する。集団の中から一つをほかのものの外へ取り出すという空間的なイメージから、特定の対象だけを選んで注目する意味になった。",
+    "en": "The phrasal verb combines single, used as a verb meaning to select one, with out, suggesting separation from the surrounding group. Single ultimately derives from Latin singulus, meaning one at a time or individual. The spatial image of drawing one item out from among others developed into the meaning of selecting it for special attention."
+  },
+  "synonyms": [
+    {
+      "word": "pick out",
+      "note": {
+        "ja": "人・物を集団の中から選ぶ、または見分ける。single outより口語的で、特別扱いの含みは弱い。",
+        "en": "To choose or distinguish someone or something from a group, more informal and less suggestive of special treatment."
+      }
+    },
+    {
+      "word": "select",
+      "note": {
+        "ja": "一定の基準に基づいて選ぶ。single outより中立的で手続的な響きがある。",
+        "en": "To choose according to a criterion, sounding more neutral and procedural than single out."
+      }
+    },
+    {
+      "word": "highlight",
+      "note": {
+        "ja": "情報・特徴・成果などを目立たせ、注意を向ける。必ずしも集団から一つを選ぶとは限らない。",
+        "en": "To make information, a feature, or an achievement especially noticeable, without necessarily selecting only one item."
+      }
+    },
+    {
+      "word": "target",
+      "note": {
+        "ja": "特定の人・集団を行動の対象として狙う。否定的な行為ではsingle outより意図性が強い。",
+        "en": "To deliberately direct action toward a particular person or group, often more purposeful than single out in negative contexts."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "herausgreifen / besonders hervorheben",
+    "it": "individuare / scegliere in particolare",
+    "fr": "distinguer / choisir en particulier",
+    "es": "señalar / destacar"
+  },
+  "collocations": {
+    "ja": [
+      "single someone out for praise — 人を特に称賛する",
+      "single someone out for criticism — 人を特に批判する",
+      "single someone out for blame — 人だけを非難の対象にする",
+      "single someone out for attention — 人を特に注目の対象にする",
+      "single someone out for punishment — 人だけを処罰の対象にする",
+      "single someone out for special treatment — 人だけを特別扱いする",
+      "single something out as an example — 何かを例として特に取り上げる",
+      "single someone out as a leader — 人を指導者として特に取り上げる",
+      "be unfairly singled out — 不当に一人だけ対象にされる",
+      "be singled out from the group — 集団の中から一人だけ選び出される"
+    ],
+    "en": [
+      "single someone out for praise",
+      "single someone out for criticism",
+      "single someone out for blame",
+      "single someone out for attention",
+      "single someone out for punishment",
+      "single someone out for special treatment",
+      "single something out as an example",
+      "single someone out as a leader",
+      "be unfairly singled out",
+      "be singled out from the group"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The manager singled her out for praise because of her excellent work. — 上司は彼女の優れた仕事を特に取り上げて称賛した。",
+      "The report singled out poor communication as the main cause of the failure. — 報告書は意思疎通の不足を失敗の主因として特に指摘した。",
+      "Why was I singled out when everyone made the same mistake? — 全員が同じ間違いをしたのに、なぜ私だけが責められたのですか。",
+      "Several young researchers were singled out as future leaders in the field. — 数名の若手研究者が、その分野の将来の指導者として特に注目された。",
+      "Employees should not be singled out for unfavorable treatment because of their age. — 従業員を年齢を理由に一人だけ不利に扱ってはならない。"
+    ],
+    "en": [
+      "The manager singled her out for praise because of her excellent work.",
+      "The report singled out poor communication as the main cause of the failure.",
+      "Why was I singled out when everyone made the same mistake?",
+      "Several young researchers were singled out as future leaders in the field.",
+      "Employees should not be singled out for unfavorable treatment because of their age."
+    ]
+  }
+},
+{
+  "id": "opt",
+  "sid": "2026-00977",
+  "word": "opt",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "choice",
+    "decision",
+    "preference",
+    "option",
+    "business",
+    "services",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "opt",
+      "third_person": "opts",
+      "past": "opted",
+      "past_participle": "opted",
+      "gerund": "opting"
+    },
+    "transitivity": "intransitive",
+    "related": {
+      "noun": "option",
+      "adjective": "optional",
+      "phrasal_verbs": "opt in / opt out"
+    },
+    "patterns": [
+      "opt for + noun",
+      "opt to do",
+      "opt against + noun / -ing",
+      "opt in to + scheme / service",
+      "opt out of + scheme / service",
+      "opt not to do"
+    ],
+    "usage_note": "Use opt for something, but opt to do something."
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɑːpt/",
+      "uk": "/ɒpt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "複数の選択肢から一つを選ぶ",
+      "検討したうえで特定の行動を取ることに決める",
+      "ある選択肢をほかより好ましいものとして採用する",
+      "制度・サービスへの参加または不参加を選択する"
+    ],
+    "en": [
+      "to choose one possibility from among several alternatives",
+      "to decide to take a particular course of action after consideration",
+      "to adopt one option as preferable to the others",
+      "to choose whether to participate in a scheme, service, or arrangement"
+    ]
+  },
+  "nuance": {
+    "ja": "opt は、利用可能な複数の選択肢を意識し、その中から意図的に一つを選ぶことを表す。chooseよりやや形式的で、商品・サービス・契約条件・治療方法・事業上の方針などを比較して決める場面によく使われる。名詞を続ける場合はopt for the cheaper plan、動作を続ける場合はopt to waitの形にする。opt the cheaper planとは通常いわない。opt not to doは『～しないことを選ぶ』。また、opt inは制度などへの参加を自ら選ぶこと、opt outは参加しない、または参加状態から離脱することを表す。過去形と-ing形では最後のtを重ねてopted、optingとなる。",
+    "en": "Opt implies a deliberate choice made with awareness of available alternatives. It is somewhat more formal than choose and is common when selecting products, services, contractual terms, medical treatments, or business strategies. A noun normally follows for, as in opt for the cheaper plan, while an action follows the to-infinitive, as in opt to wait. Opt the cheaper plan is not standard. Opt not to do means deliberately choosing not to act. Opt in means actively choosing to participate, while opt out means choosing not to participate or withdrawing from an arrangement. The final consonant is doubled in opted and opting."
+  },
+  "minimal": {
+    "ja": [
+      "opt：提示・認識された複数の選択肢から、検討して一つを選ぶ。",
+      "choose：人・物・行動などを選ぶ最も一般的で中立的な語。",
+      "select：一定の基準に基づき、候補の中から慎重または手続的に選ぶ。",
+      "elect：選挙で選ぶ、または権利として特定の行動を選択する硬い語。",
+      "decide：選択肢の比較よりも、迷いを終えて結論・方針を確定することに重点がある。"
+    ],
+    "en": [
+      "opt: to deliberately choose one of several known or presented alternatives.",
+      "choose: the general neutral verb for selecting a person, thing, or course of action.",
+      "select: to choose carefully or procedurally from among candidates according to particular criteria.",
+      "elect: to choose by voting or formally exercise a right to take a particular course of action.",
+      "decide: to reach a conclusion or settle a course of action, emphasizing the end of uncertainty rather than the alternatives."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 opter『選ぶ』を経て、ラテン語 optare『選ぶ、望む、願う』に由来する。同じ語根からoption『選択肢、選択権』やoptional『任意の』が生まれた。もともと『望む』と『選ぶ』が結び付いた語であり、好ましいものを意識的に選択するという意味を持つ。",
+    "en": "Opt entered English through French opter and derives from Latin optare, meaning to choose, wish, or desire. Option and optional come from the same source. The historical connection between wishing and choosing is reflected in the modern sense of deliberately selecting the alternative one prefers."
+  },
+  "synonyms": [
+    {
+      "word": "choose",
+      "note": {
+        "ja": "選ぶことを表す最も一般的な語。optより口語的で、あらゆる選択に使える。",
+        "en": "The most general verb for making a choice, less formal and applicable more broadly than opt."
+      }
+    },
+    {
+      "word": "select",
+      "note": {
+        "ja": "基準に基づいて候補の中から選ぶ。人材・項目・製品などの選定によく使う。",
+        "en": "To choose from among candidates according to criteria, commonly used for people, items, or products."
+      }
+    },
+    {
+      "word": "elect",
+      "note": {
+        "ja": "選挙によって選ぶほか、法律・契約上認められた選択を正式に行う意味がある。",
+        "en": "To choose through voting or formally choose a course of action permitted by law or contract."
+      }
+    },
+    {
+      "word": "go for",
+      "note": {
+        "ja": "ある選択肢を選ぶ口語的な表現。opt forよりくだけている。",
+        "en": "An informal expression meaning to choose or pursue a particular option."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sich entscheiden für / wählen",
+    "it": "optare",
+    "fr": "opter",
+    "es": "optar"
+  },
+  "collocations": {
+    "ja": [
+      "opt for the cheaper option — より安い選択肢を選ぶ",
+      "opt for quality — 品質を優先して選ぶ",
+      "opt for simplicity — 簡潔さを選ぶ",
+      "opt for treatment — 治療を受けることを選ぶ",
+      "opt to remain silent — 沈黙することを選ぶ",
+      "opt to postpone the decision — 決定の延期を選ぶ",
+      "opt not to participate — 参加しないことを選ぶ",
+      "opt in to the scheme — 制度への参加を選ぶ",
+      "opt out of the service — サービスから離脱する",
+      "ultimately opt for — 最終的に～を選ぶ"
+    ],
+    "en": [
+      "opt for the cheaper option",
+      "opt for quality",
+      "opt for simplicity",
+      "opt for treatment",
+      "opt to remain silent",
+      "opt to postpone the decision",
+      "opt not to participate",
+      "opt in to the scheme",
+      "opt out of the service",
+      "ultimately opt for"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We opted for the less expensive of the two proposals. — 私たちは二つの提案のうち、より安価な方を選んだ。",
+      "The company opted to postpone the product launch. — 会社は製品発売を延期することに決めた。",
+      "Several employees opted not to participate in the survey. — 数名の従業員はその調査に参加しないことを選んだ。",
+      "Customers can opt out of receiving promotional emails at any time. — 顧客はいつでも広告メールの受信を停止できる。",
+      "After considering all the alternatives, she ultimately opted for surgery. — すべての選択肢を検討した末、彼女は最終的に手術を選択した。"
+    ],
+    "en": [
+      "We opted for the less expensive of the two proposals.",
+      "The company opted to postpone the product launch.",
+      "Several employees opted not to participate in the survey.",
+      "Customers can opt out of receiving promotional emails at any time.",
+      "After considering all the alternatives, she ultimately opted for surgery."
+    ]
+  }
+},
+{
+  "id": "opt_out",
+  "sid": "2026-00978",
+  "word": "opt out",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "choice",
+    "withdrawal",
+    "participation",
+    "services",
+    "privacy",
+    "marketing",
+    "contract",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "opt out",
+      "third_person": "opts out",
+      "past": "opted out",
+      "past_participle": "opted out",
+      "gerund": "opting out"
+    },
+    "transitivity": "intransitive",
+    "separability": "inseparable",
+    "related": {
+      "opposite": "opt in",
+      "noun": "opt-out",
+      "adjective": "opt-out"
+    },
+    "patterns": [
+      "opt out",
+      "opt out of + scheme / service / activity",
+      "opt out of + -ing",
+      "choose to opt out",
+      "allow someone to opt out",
+      "an opt-out option / provision"
+    ],
+    "usage_note": "Use opt out of something. Do not separate opt and out."
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɑːpt ˈaʊt/",
+      "uk": "/ˌɒpt ˈaʊt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "制度・計画・活動などへの参加を選択によって拒む",
+      "すでに参加しているサービス・契約などから離脱する",
+      "個人情報の利用・広告配信などを受けないよう選択する",
+      "一般に期待される行動・生活様式などに加わらないことを選ぶ"
+    ],
+    "en": [
+      "to choose not to participate in a scheme, plan, or activity",
+      "to withdraw voluntarily from a service, contract, or arrangement",
+      "to choose not to allow the use of personal data or receipt of marketing communications",
+      "to reject participation in a generally expected activity or way of life"
+    ]
+  },
+  "nuance": {
+    "ja": "opt out は、参加するかどうかを本人が選べる状況で、参加しない、または参加状態から離れることを表す。単なる欠席ではなく、制度上の選択権を行使する響きがある。opt out of the pension schemeなら年金制度への加入・継続を選択的に拒むこと、opt out of marketing emailsなら広告メールを受け取らない設定にすることを意味する。初期設定で参加扱いとなり、希望者が離脱手続きを取る仕組みはopt-out systemと呼ばれる。反対に、本人が積極的に同意・登録しなければ参加扱いにならない仕組みはopt-in systemである。動詞ではハイフンなしのopt out、名詞・形容詞ではopt-outと書くのが一般的。",
+    "en": "Opt out is used when participation is subject to individual choice and a person chooses not to participate or decides to withdraw. It suggests exercising an available choice rather than merely being absent. To opt out of a pension scheme is to decline or discontinue participation, while opting out of marketing emails means choosing not to receive them. In an opt-out system, participation or consent may be treated as the default unless the individual takes action to decline. In an opt-in system, active agreement or enrollment is required. The verb is normally written without a hyphen, while the noun and attributive adjective are usually written opt-out."
+  },
+  "minimal": {
+    "ja": [
+      "opt out：選択権を行使して、制度・サービス・活動に参加しない、またはそこから離脱する。",
+      "opt in：積極的な選択・同意によって、制度・サービス・情報配信などへの参加を開始する。",
+      "withdraw：すでに参加・提出・所属しているものから正式に退く、または引き下げる。",
+      "decline：招待・提案・機会などを丁寧または正式に断る。",
+      "unsubscribe：メール配信・オンラインサービスなどの購読登録を解除する。"
+    ],
+    "en": [
+      "opt out: to exercise a choice not to participate in, or to withdraw from, a scheme, service, or activity.",
+      "opt in: to actively choose or consent to participate in a scheme, service, or communication.",
+      "withdraw: to formally leave something one has already joined, submitted, or entered.",
+      "decline: to politely or formally refuse an invitation, offer, or opportunity.",
+      "unsubscribe: to cancel a subscription to emails, online content, or a service."
+    ]
+  },
+  "etymology": {
+    "ja": "opt『選ぶ』とout『外へ、外れて』を組み合わせた句動詞。optはラテン語optare『選ぶ、望む』に由来する。利用可能な制度や集団の『外にいることを選ぶ』という構造から、任意に不参加・離脱を選ぶ現在の意味になった。",
+    "en": "Opt out combines opt, meaning to choose, with out, indicating movement or position outside something. Opt ultimately derives from Latin optare, meaning to choose or wish. The expression therefore literally conveys choosing to remain outside or remove oneself from a scheme or arrangement."
+  },
+  "synonyms": [
+    {
+      "word": "withdraw",
+      "note": {
+        "ja": "参加・申請・競争などから正式に退く。選択制の仕組みでなくても使える。",
+        "en": "To formally leave an activity, application, or competition and not limited to arrangements offering a specific choice."
+      }
+    },
+    {
+      "word": "decline to participate",
+      "note": {
+        "ja": "参加の申し出・機会を断ることを明示する、比較的形式的な表現。",
+        "en": "A relatively formal expression explicitly meaning to refuse an opportunity or invitation to participate."
+      }
+    },
+    {
+      "word": "unsubscribe",
+      "note": {
+        "ja": "メール・情報・サービスなどの購読を解除する。opt outより対象が限定的。",
+        "en": "To cancel a subscription to communications or a service and therefore narrower than opt out."
+      }
+    },
+    {
+      "word": "bow out",
+      "note": {
+        "ja": "役職・競争・活動などから身を引く口語的な表現。穏やかに退く響きがある。",
+        "en": "An informal expression for withdrawing from a role, competition, or activity, often gracefully."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sich abmelden / nicht teilnehmen",
+    "it": "rinunciare / scegliere di non partecipare",
+    "fr": "se désengager / refuser de participer",
+    "es": "darse de baja / optar por no participar"
+  },
+  "collocations": {
+    "ja": [
+      "opt out of the scheme — 制度から離脱する",
+      "opt out of the program — プログラムへの参加を取りやめる",
+      "opt out of the agreement — 合意・協定から離脱する",
+      "opt out of receiving emails — メールを受け取らないよう選択する",
+      "opt out of data collection — データ収集の対象外となるよう選択する",
+      "choose to opt out — 不参加・離脱を選ぶ",
+      "allow users to opt out — 利用者に拒否・離脱の選択肢を与える",
+      "an opt-out mechanism — 拒否・離脱の仕組み",
+      "an opt-out provision — 離脱・適用除外条項",
+      "an opt-out system — 拒否しなければ参加扱いとなる仕組み"
+    ],
+    "en": [
+      "opt out of the scheme",
+      "opt out of the program",
+      "opt out of the agreement",
+      "opt out of receiving emails",
+      "opt out of data collection",
+      "choose to opt out",
+      "allow users to opt out",
+      "an opt-out mechanism",
+      "an opt-out provision",
+      "an opt-out system"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Employees may opt out of the pension scheme by submitting this form. — 従業員はこの書類を提出することで年金制度から離脱できる。",
+      "You can opt out of receiving promotional emails at any time. — 広告メールを受け取らないよう、いつでも設定できる。",
+      "Several countries negotiated the right to opt out of the agreement. — 数か国がその協定から離脱できる権利について交渉した。",
+      "The website must provide users with a simple way to opt out of data collection. — そのウェブサイトは、利用者がデータ収集を拒否できる簡単な方法を提供しなければならない。",
+      "She opted out because she did not agree with the program's conditions. — 彼女はそのプログラムの条件に同意できなかったため、参加しないことを選んだ。"
+    ],
+    "en": [
+      "Employees may opt out of the pension scheme by submitting this form.",
+      "You can opt out of receiving promotional emails at any time.",
+      "Several countries negotiated the right to opt out of the agreement.",
+      "The website must provide users with a simple way to opt out of data collection.",
+      "She opted out because she did not agree with the program's conditions."
+    ]
+  }
+},
+{
+  "id": "opt_in",
+  "sid": "2026-00979",
+  "word": "opt in",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "choice",
+    "consent",
+    "participation",
+    "services",
+    "privacy",
+    "marketing",
+    "registration",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "opt in",
+      "third_person": "opts in",
+      "past": "opted in",
+      "past_participle": "opted in",
+      "gerund": "opting in"
+    },
+    "transitivity": "intransitive",
+    "separability": "inseparable",
+    "related": {
+      "opposite": "opt out",
+      "noun": "opt-in",
+      "adjective": "opt-in"
+    },
+    "patterns": [
+      "opt in",
+      "opt in to + scheme / service / program",
+      "opt in to receive + noun",
+      "choose to opt in",
+      "invite / allow someone to opt in",
+      "an opt-in system / option",
+      "obtain opt-in consent"
+    ],
+    "usage_note": "In opt in to a service, in is the particle and to introduces the service. In opt in to receive emails, to receive is an infinitive."
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɑːpt ˈɪn/",
+      "uk": "/ˌɒpt ˈɪn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "制度・計画・活動への参加を自ら選択する",
+      "サービスや機能の利用を積極的に申し込む",
+      "広告配信・データ利用などに明示的に同意する",
+      "初期状態では対象外となっている仕組みに自ら加わる"
+    ],
+    "en": [
+      "to actively choose to participate in a scheme, plan, or activity",
+      "to request or activate the use of a service or feature",
+      "to give affirmative consent to marketing communications or data use",
+      "to join an arrangement in which nonparticipation is the default"
+    ]
+  },
+  "nuance": {
+    "ja": "opt in は、本人がチェックボックスを選択する、登録する、同意を表明するなど、積極的な行動によって参加状態になることを表す。何もしなければ参加扱いにならない点が中心である。opt in to the programなら制度への参加を選ぶこと、opt in to receive updatesなら最新情報の受信に同意することを意味する。privacyやmarketingの文脈では、本人の積極的な同意を得る仕組みをopt-in systemまたはopt-in modelという。反対のopt-out systemでは、参加・受信などが初期状態となり、希望しない人が拒否や解除の手続きを取る。動詞ではハイフンなしのopt in、名詞・形容詞ではopt-inとするのが一般的。",
+    "en": "Opt in means becoming a participant through an affirmative action, such as selecting a checkbox, registering, or explicitly giving consent. The central idea is that doing nothing does not normally result in participation. To opt in to a program is to choose to join it, while to opt in to receive updates is to consent to receiving them. In privacy and marketing contexts, an opt-in system or model requires some form of active agreement. By contrast, an opt-out system treats participation or receipt as the default and requires action from those who wish to decline. The verb is written without a hyphen, while the noun and attributive adjective are usually written opt-in."
+  },
+  "minimal": {
+    "ja": [
+      "opt in：積極的な選択・同意によって、制度・サービス・情報配信などへの参加を開始する。",
+      "opt out：選択権を行使して参加しない、または参加状態から離脱する。",
+      "sign up：サービス・講座・行事などに氏名や情報を登録して申し込む、比較的口語的な語。",
+      "enroll：学校・講座・保険・制度などへ正式に登録・加入する。",
+      "consent：提案・行為・データ処理などを受け入れる意思を示すが、必ずしも制度への参加を意味しない。"
+    ],
+    "en": [
+      "opt in: to begin participating in a scheme, service, or communication through an affirmative choice or consent.",
+      "opt out: to exercise a choice not to participate or to withdraw from an arrangement.",
+      "sign up: to register one's name or details for a service, course, or event, relatively informally.",
+      "enroll: to formally register or become a member of a school, course, insurance plan, or program.",
+      "consent: to agree to a proposal, action, or use of data, without necessarily joining a continuing arrangement."
+    ]
+  },
+  "etymology": {
+    "ja": "opt『選ぶ』とin『中へ、参加して』を組み合わせた句動詞。optはラテン語optare『選ぶ、望む』に由来する。制度や集団の『中に入ることを選ぶ』という構造から、本人の意思によって参加・登録・同意する意味になった。",
+    "en": "Opt in combines opt, meaning to choose, with in, indicating entry or participation. Opt ultimately derives from Latin optare, meaning to choose or wish. The expression therefore literally conveys choosing to enter or participate in an arrangement."
+  },
+  "synonyms": [
+    {
+      "word": "sign up",
+      "note": {
+        "ja": "サービス・活動などへ登録する日常的な表現。opt inより登録手続きそのものに重点がある。",
+        "en": "An everyday expression for registering for a service or activity, focusing more directly on the registration process."
+      }
+    },
+    {
+      "word": "enroll",
+      "note": {
+        "ja": "教育・保険・福利厚生などの制度に正式に登録する。",
+        "en": "To formally register in an educational, insurance, benefits, or other organized program."
+      }
+    },
+    {
+      "word": "subscribe",
+      "note": {
+        "ja": "情報配信・出版物・オンラインサービスなどを継続的に受け取る契約・登録をする。",
+        "en": "To arrange to receive communications, publications, or an online service on a continuing basis."
+      }
+    },
+    {
+      "word": "participate",
+      "note": {
+        "ja": "活動・行事・制度などに実際に参加する。参加を選択する手続きより、参加行為に重点がある。",
+        "en": "To take part in an activity or arrangement, emphasizing actual involvement rather than the choice or enrollment process."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sich anmelden / ausdrücklich zustimmen",
+    "it": "aderire / scegliere di partecipare",
+    "fr": "adhérer / accepter explicitement",
+    "es": "inscribirse / aceptar expresamente"
+  },
+  "collocations": {
+    "ja": [
+      "opt in to the scheme — 制度への参加を選ぶ",
+      "opt in to the program — プログラムへの参加を選ぶ",
+      "opt in to the service — サービスの利用を選ぶ",
+      "opt in to receive emails — メールの受信に同意する",
+      "opt in to data sharing — データ共有に同意する",
+      "choose to opt in — 参加・同意を選ぶ",
+      "allow users to opt in — 利用者が参加を選べるようにする",
+      "an opt-in system — 明示的な参加を必要とする仕組み",
+      "an opt-in checkbox — 同意・参加用チェックボックス",
+      "opt-in consent — 明示的な選択による同意"
+    ],
+    "en": [
+      "opt in to the scheme",
+      "opt in to the program",
+      "opt in to the service",
+      "opt in to receive emails",
+      "opt in to data sharing",
+      "choose to opt in",
+      "allow users to opt in",
+      "an opt-in system",
+      "an opt-in checkbox",
+      "opt-in consent"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Users must actively opt in before receiving promotional emails. — 利用者が広告メールを受け取るには、積極的に同意しなければならない。",
+      "Employees can opt in to the new benefit program during the enrollment period. — 従業員は登録期間中、新しい福利厚生制度への参加を選べる。",
+      "Only customers who have opted in will receive product updates. — 明示的に登録した顧客だけが製品の最新情報を受け取る。",
+      "The application asks users whether they wish to opt in to data sharing. — そのアプリは利用者にデータ共有への同意を希望するか尋ねる。",
+      "Participation is not automatic; each member must choose to opt in. — 参加は自動ではなく、各会員が自ら参加を選択しなければならない。"
+    ],
+    "en": [
+      "Users must actively opt in before receiving promotional emails.",
+      "Employees can opt in to the new benefit program during the enrollment period.",
+      "Only customers who have opted in will receive product updates.",
+      "The application asks users whether they wish to opt in to data sharing.",
+      "Participation is not automatic; each member must choose to opt in."
+    ]
+  }
+},
+{
+  "id": "preside",
+  "sid": "2026-00980",
+  "word": "preside",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "leadership",
+    "meeting",
+    "proceedings",
+    "court",
+    "ceremony",
+    "authority",
+    "formal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "preside",
+      "third_person": "presides",
+      "past": "presided",
+      "past_participle": "presided",
+      "gerund": "presiding"
+    },
+    "transitivity": "intransitive",
+    "related": {
+      "person": "president / presiding officer",
+      "noun": "presidency",
+      "adjective": "presiding"
+    },
+    "patterns": [
+      "preside over + meeting / court / proceedings",
+      "preside at + meeting / ceremony",
+      "preside over + organization / period / change",
+      "the judge presiding over the case",
+      "a presiding judge / officer",
+      "be presided over by + person"
+    ],
+    "usage_note": "Preside is normally followed by over or, less commonly, at. Do not normally say preside a meeting."
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prɪˈzaɪd/",
+      "uk": "/prɪˈzaɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "会議・審理・式典などで議長・責任者を務める",
+      "裁判や正式な手続を主宰し、その進行を管理する",
+      "組織・活動などを権限ある立場から統括する",
+      "特定の時代・変化・成功・衰退などの期間に指導的地位にある"
+    ],
+    "en": [
+      "to act as the chair or person in charge of a meeting, hearing, or ceremony",
+      "to conduct and control a trial or other formal proceedings",
+      "to direct an organization or activity from a position of authority",
+      "to hold a leading position during a particular period, change, success, or decline"
+    ]
+  },
+  "nuance": {
+    "ja": "preside は、単に人々を率いるのではなく、会議・裁判・審理・式典などで正式な権限を持ち、秩序や進行を管理することを表す。preside over a meetingなら議題の進行、発言者の指名、決定の確認などを担うことを示す。裁判ではthe judge presiding over the caseが、その事件の審理を担当・主宰する裁判官を指す。また、preside over a period of growthのように、ある人物が指導的地位にある間に特定の変化が起きたことを表す。この用法では、その人物が変化を直接引き起こしたとは限らない。preside over a declineには、指導者として衰退を防げなかったという批判的な響きが生じることがある。",
+    "en": "Preside means exercising formal authority over the order and conduct of a meeting, trial, hearing, ceremony, or similar proceeding. Someone who presides over a meeting may manage the agenda, recognize speakers, maintain order, and confirm decisions. In court, the judge presiding over a case is the judge responsible for conducting its proceedings. The verb can also describe being in a position of leadership during a period of growth, change, or decline. This construction does not necessarily mean that the leader personally caused the development, although preside over a decline may carry criticism for failing to prevent it."
+  },
+  "minimal": {
+    "ja": [
+      "preside：会議・裁判・式典などを、正式な権限を持つ議長・責任者として主宰する。",
+      "chair：会議の議長を務める。preside overより直接的で日常的な他動詞。",
+      "lead：集団・活動を目標へ導く広い語で、正式な議事進行に限定されない。",
+      "oversee：仕事・計画が適切に実施されるよう監督するが、自ら議事を進行するとは限らない。",
+      "officiate：結婚式・宗教儀式・競技などで、資格ある執行者・審判として役目を果たす。"
+    ],
+    "en": [
+      "preside: to formally conduct a meeting, trial, or ceremony as its authorized chair or officer.",
+      "chair: to act as chair of a meeting, a more direct and everyday transitive verb than preside over.",
+      "lead: the broad term for guiding a group or activity toward a goal and not limited to formal proceedings.",
+      "oversee: to supervise work or a project without necessarily personally conducting its proceedings.",
+      "officiate: to perform an authorized role at a wedding, religious ceremony, or sporting event."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 praesidere『前に座る、監督する』に由来し、フランス語 présider を経て英語に入った。prae-『前に』と sedere『座る』から成り、文字どおりには『人々の前に座る』ことを表す。会議や集会の前方に座って取り仕切る人物というイメージから、主宰・統括する意味になった。president、presidency、reside、sessionなどもsedere『座る』に関連する。",
+    "en": "Preside comes through French présider from Latin praesidere, meaning to sit before or supervise. It combines prae-, meaning before, with sedere, meaning to sit. The literal image is of a person seated before an assembly in order to direct it. President and presidency come from the same source, while reside and session are also historically related to the Latin root for sitting."
+  },
+  "synonyms": [
+    {
+      "word": "chair",
+      "note": {
+        "ja": "会議の議長として進行する一般的な語。preside overより簡潔で、他動詞として直接目的語を取る。",
+        "en": "The common verb for conducting a meeting as its chair and directly takes the meeting as its object."
+      }
+    },
+    {
+      "word": "conduct",
+      "note": {
+        "ja": "会議・調査・式典などを計画に沿って実施・進行する。正式な最高責任者であるとは限らない。",
+        "en": "To organize and carry out a meeting, investigation, or ceremony without necessarily being its highest authority."
+      }
+    },
+    {
+      "word": "oversee",
+      "note": {
+        "ja": "活動・作業が正しく進むよう上位の立場から監督する。",
+        "en": "To supervise an activity or operation from a position of responsibility."
+      }
+    },
+    {
+      "word": "moderate",
+      "note": {
+        "ja": "討論・パネルなどで発言を調整し、議論を公平かつ円滑に進める。",
+        "en": "To guide a discussion or panel by managing speakers and keeping the exchange balanced and orderly."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "den Vorsitz führen / leiten",
+    "it": "presiedere",
+    "fr": "présider",
+    "es": "presidir"
+  },
+  "collocations": {
+    "ja": [
+      "preside over a meeting — 会議を主宰する",
+      "preside over a hearing — 審理・公聴会を主宰する",
+      "preside over a trial — 裁判を主宰する",
+      "preside over proceedings — 手続を主宰する",
+      "preside over a ceremony — 式典を主宰する",
+      "preside over a committee — 委員会の議長を務める",
+      "preside over an organization — 組織を統括する",
+      "preside over a period of growth — 成長期に指導的地位にある",
+      "preside over a decline — 衰退期に指導的地位にある",
+      "the presiding judge — 裁判を主宰する裁判官"
+    ],
+    "en": [
+      "preside over a meeting",
+      "preside over a hearing",
+      "preside over a trial",
+      "preside over proceedings",
+      "preside over a ceremony",
+      "preside over a committee",
+      "preside over an organization",
+      "preside over a period of growth",
+      "preside over a decline",
+      "the presiding judge"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The chairperson will preside over tomorrow's meeting. — 議長が明日の会議を主宰する。",
+      "The judge presiding over the case rejected the defendant's request. — その事件を担当する裁判官は被告の申立てを退けた。",
+      "She presided over the committee for more than ten years. — 彼女は10年以上にわたり、その委員会の議長を務めた。",
+      "A senior official presided at the opening ceremony. — ある高官が開会式を主宰した。",
+      "The chief executive presided over a period of rapid international expansion. — その最高経営責任者の在任中、会社は急速な海外展開を遂げた。"
+    ],
+    "en": [
+      "The chairperson will preside over tomorrow's meeting.",
+      "The judge presiding over the case rejected the defendant's request.",
+      "She presided over the committee for more than ten years.",
+      "A senior official presided at the opening ceremony.",
+      "The chief executive presided over a period of rapid international expansion."
+    ]
+  }
 }
 ]
