@@ -5182,5 +5182,164 @@
       "Patent applicants should not assume that the same disclosure grace period applies in every country."
     ]
   }
+},
+{
+  "id": "cease_and_desist_letter",
+  "sid": "2026-00934",
+  "word": "cease and desist letter",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun phrase",
+    "law",
+    "demand",
+    "dispute",
+    "intellectual property",
+    "trademark",
+    "copyright",
+    "infringement",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "structure": "compound noun phrase",
+    "countability": "countable",
+    "plural": "cease and desist letters",
+    "variants": {
+      "attributive": "cease-and-desist letter",
+      "short_form": "cease-and-desist"
+    },
+    "patterns": [
+      "a cease and desist letter concerning + conduct",
+      "a cease and desist letter alleging + infringement",
+      "send / issue / receive a cease and desist letter",
+      "respond / reply to a cease and desist letter",
+      "demand that someone cease and desist from + -ing",
+      "comply with / ignore the demands in the letter"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌsiːs ən dɪˈzɪst ˌletər/",
+      "uk": "/ˌsiːs ən dɪˈzɪst ˌletə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特定の行為を直ちに中止し、今後も行わないよう要求する書面",
+      "権利侵害・不正行為などの停止を求める警告書",
+      "訴訟を提起する前に送付されることの多い正式な要求書",
+      "商標権・著作権・特許権などの侵害行為の停止を求める通知"
+    ],
+    "en": [
+      "a letter demanding that a person or organization stop specified conduct and not resume it",
+      "a formal warning alleging infringement, misconduct, or another violation",
+      "a demand letter often sent before legal proceedings are initiated",
+      "a notice requesting the cessation of trademark, copyright, patent, or other rights infringement"
+    ]
+  },
+  "nuance": {
+    "ja": "cease and desist letter は、権利者またはその代理人が、相手方の行為が権利侵害・契約違反・不正競争などに当たると主張し、その行為を停止して再開しないよう要求する書面である。cease は『現在の行為をやめる』、desist は『以後その行為を控える』という組合せである。書面自体は通常、裁判所命令ではなく、送付者の主張と要求を示すものにすぎない。したがって、受領したことだけで侵害が確定したり、訴訟が開始されたりするわけではないが、無視した場合に訴訟へ進む可能性はある。",
+    "en": "A cease and desist letter is correspondence from a rights holder or its representative alleging infringement, breach, unfair competition, harassment, or other wrongful conduct and demanding that the recipient stop and refrain from repeating it. Cease emphasizes stopping the current conduct, while desist emphasizes not continuing or resuming it. The letter is normally not a court order and does not itself establish liability or commence a lawsuit. Nevertheless, it may precede litigation and should be assessed carefully."
+  },
+  "minimal": {
+    "ja": [
+      "cease and desist letter：違反行為を停止し、今後も行わないよう相手方に要求する書面。",
+      "demand letter：支払い・履行・行為停止などを正式に要求する、より広い種類の書面。",
+      "warning letter：問題や違反の可能性を警告する書面。具体的な法的要求を伴わない場合もある。",
+      "injunction：裁判所が一定の行為を禁止または命令する、法的拘束力のある救済・命令。",
+      "takedown notice：ウェブサイトやプラットフォームに対し、特定のコンテンツの削除を求める通知。"
+    ],
+    "en": [
+      "cease and desist letter demands that the recipient stop specified conduct and refrain from repeating it.",
+      "demand letter is the broader term for a formal demand for payment, performance, or cessation of conduct.",
+      "warning letter alerts the recipient to a problem or possible violation and may not contain a specific legal demand.",
+      "injunction is a legally binding court remedy or order requiring or prohibiting particular conduct.",
+      "takedown notice requests that a website or platform remove particular content."
+    ]
+  },
+  "etymology": {
+    "ja": "cease は古フランス語 cesser を経てラテン語 cessare『停止する』に由来する。desist はラテン語 desistere『やめる、身を引く』に由来し、de-『離れて』と sistere『立たせる、立ち止まる』から成る。意味の近い二語を重ねる cease and desist は法律英語に特徴的な二項表現で、『停止し、以後も行わない』ことを強調する。",
+    "en": "Cease comes through French from Latin cessare, meaning to stop. Desist comes from Latin desistere, meaning to stop or stand away, combining de- with sistere, meaning to cause to stand. The pairing cease and desist is a characteristic legal doublet emphasizing both the immediate termination of conduct and refraining from its continuation."
+  },
+  "synonyms": [
+    {
+      "word": "demand letter",
+      "note": {
+        "ja": "支払い、契約履行、侵害停止などを正式に要求する書面の総称。",
+        "en": "A broad term for a letter formally demanding payment, contractual performance, cessation of conduct, or another remedy."
+      }
+    },
+    {
+      "word": "letter before action",
+      "note": {
+        "ja": "訴訟提起前に請求内容と対応期限を相手方へ通知する書面。特にイギリスで使われる。",
+        "en": "A letter notifying the opposing party of a claim and response deadline before litigation, especially in British practice."
+      }
+    },
+    {
+      "word": "infringement notice",
+      "note": {
+        "ja": "知的財産権などの侵害を主張して相手方に通知する書面。",
+        "en": "A notice informing the recipient that particular conduct is alleged to infringe intellectual property or another right."
+      }
+    },
+    {
+      "word": "warning letter",
+      "note": {
+        "ja": "問題行為や違反の可能性を指摘して警告する書面。要求内容は比較的柔軟。",
+        "en": "A letter warning of problematic conduct or a possible violation, often with less specific demands."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Abmahnung / Unterlassungsaufforderung",
+    "it": "lettera di diffida / diffida a cessare",
+    "fr": "mise en demeure de cesser",
+    "es": "carta de cese y desistimiento / requerimiento de cese"
+  },
+  "collocations": {
+    "ja": [
+      "send a cease and desist letter — 行為停止要求書を送る",
+      "issue a cease and desist letter — 行為停止要求書を発行する",
+      "receive a cease and desist letter — 行為停止要求書を受け取る",
+      "respond to a cease and desist letter — 行為停止要求書に回答する",
+      "a trademark cease and desist letter — 商標権に関する行為停止要求書",
+      "a copyright cease and desist letter — 著作権に関する行為停止要求書",
+      "allege infringement — 侵害を主張する",
+      "demand the immediate cessation of use — 使用の即時停止を要求する",
+      "comply with the letter — 書面の要求に従う",
+      "refuse to sign an undertaking — 誓約書への署名を拒む"
+    ],
+    "en": [
+      "send a cease and desist letter",
+      "issue a cease and desist letter",
+      "receive a cease and desist letter",
+      "respond to a cease and desist letter",
+      "a trademark cease and desist letter",
+      "a copyright cease and desist letter",
+      "allege infringement",
+      "demand the immediate cessation of use",
+      "comply with the letter",
+      "refuse to sign an undertaking"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The trademark owner sent a cease and desist letter to the online retailer. — 商標権者はオンライン販売業者に行為停止要求書を送付した。",
+      "The letter demanded that the company immediately cease and desist from using the disputed mark. — その書面は、会社に対して係争中の標章の使用を直ちに中止し、以後も使用しないよう要求した。",
+      "Receiving a cease and desist letter does not necessarily mean that a lawsuit has been filed. — 行為停止要求書を受け取ったからといって、必ずしも訴訟が提起されたことを意味しない。",
+      "The recipient denied infringement and requested further evidence of the alleged rights. — 受領者は侵害を否定し、主張された権利について追加の証拠を求めた。",
+      "The parties negotiated a coexistence agreement after the cease and desist letter was sent. — 行為停止要求書の送付後、当事者らは共存契約について交渉した。"
+    ],
+    "en": [
+      "The trademark owner sent a cease and desist letter to the online retailer.",
+      "The letter demanded that the company immediately cease and desist from using the disputed mark.",
+      "Receiving a cease and desist letter does not necessarily mean that a lawsuit has been filed.",
+      "The recipient denied infringement and requested further evidence of the alleged rights.",
+      "The parties negotiated a coexistence agreement after the cease and desist letter was sent."
+    ]
+  }
 }
 ]
