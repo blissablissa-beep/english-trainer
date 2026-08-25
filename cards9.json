@@ -10541,5 +10541,173 @@
       "The author avows a deep admiration for classical literature."
     ]
   }
+},
+{
+  "id": "profess",
+  "sid": "2026-00968",
+  "word": "profess",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "declaration",
+    "claim",
+    "belief",
+    "religion",
+    "feeling",
+    "knowledge",
+    "formal",
+    "literary",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "profess",
+      "third_person": "professes",
+      "past": "professed",
+      "past_participle": "professed",
+      "gerund": "professing"
+    },
+    "transitivity": "transitive",
+    "related": {
+      "noun": "profession",
+      "person": "professor",
+      "adjective": "professed"
+    },
+    "patterns": [
+      "profess + belief / faith / love",
+      "profess ignorance / innocence",
+      "profess to be + noun / adjective",
+      "profess to know / understand + noun",
+      "profess that + clause",
+      "profess oneself to be + noun / adjective",
+      "a professed belief / intention"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prəˈfes/",
+      "uk": "/prəˈfes/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "信念・感情・立場などを公言する",
+      "自分が特定の性質・知識・能力を持つと称する",
+      "無知・潔白などを明言する、言い張る",
+      "宗教上の信仰を公に告白する",
+      "本当か疑わしい内容を表向き主張する"
+    ],
+    "en": [
+      "to declare a belief, feeling, or position openly",
+      "to claim to possess a particular quality, knowledge, or ability",
+      "to state or insist that one is ignorant, innocent, or otherwise free from responsibility",
+      "to declare one's religious faith publicly",
+      "to claim something that may not be sincere or true"
+    ]
+  },
+  "nuance": {
+    "ja": "profess は、信念・愛情・知識・無知などを言葉で公然と表明することを表す。avowよりも『本人がそう主張している』という発言行為に焦点があり、話し手がその真実性や誠実さを保証していない場合がある。He professed his innocence. は中立的に『無実を主張した』とも読めるが、文脈によっては『無実だと言い張った』という疑いを帯びる。profess to know のような形も、実際に知っているかは不明という距離感を伴いやすい。一方、profess one's faith は宗教的信仰を正式・公然と告白する伝統的な用法であり、必ずしも疑いを含まない。professorと同じ語源を持つが、現代英語のprofessは通常『大学で教える』という意味では使わない。",
+    "en": "Profess means openly stating a belief, feeling, claim, or state of knowledge. Compared with avow, it focuses more on what a person declares and may leave the truth or sincerity of that declaration uncertain. He professed his innocence can neutrally report a claim of innocence, but it may also imply that the speaker has doubts. Similarly, profess to know often creates distance between the claim and the actual state of knowledge. In the traditional religious use, profess one's faith means formally and openly declaring one's faith and need not imply insincerity. Although profess is historically related to professor, the modern verb does not normally mean to teach at a university."
+  },
+  "minimal": {
+    "ja": [
+      "profess：信念・感情・知識などを公言するが、その真実性・誠実さが保証されない場合がある。",
+      "avow：信念・意図・立場を自分のものとして積極的かつ公然と認める。",
+      "claim：証明の有無にかかわらず、ある事実・権利・能力などが真実だと主張する。",
+      "declare：情報・決定・立場などを正式または明確に表明する広い語。",
+      "pretend：真実ではないことを知りながら、そのように装うことを明確に表す。"
+    ],
+    "en": [
+      "profess: to openly state a belief, feeling, or knowledge claim whose truth or sincerity may remain uncertain.",
+      "avow: to affirmatively and openly acknowledge a belief, intention, or position as one's own.",
+      "claim: to assert that a fact, right, or ability is true, whether or not it has been proved.",
+      "declare: the broad term for stating information, a decision, or a position formally or clearly.",
+      "pretend: to act as if something is true while knowing that it is not."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 profiteri『公然と宣言する』に由来する。これは pro-『前に、公に』と fateri『認める、告白する』から成る。もともと知識・信仰・職業などを公に宣言することを表し、同じ語から profession『職業、専門職、信仰告白』や professor『公に専門知識を有する者、教授』も生まれた。",
+    "en": "Profess comes from Latin profiteri, meaning to declare publicly, formed from pro-, meaning before or publicly, and fateri, meaning to acknowledge or confess. It originally referred to openly declaring one's knowledge, faith, or occupation. Profession and professor developed from the same source."
+  },
+  "synonyms": [
+    {
+      "word": "claim",
+      "note": {
+        "ja": "事実・能力・権利などを真実だと主張する。疑わしさを伴う文脈でも広く使える。",
+        "en": "To assert that a fact, ability, or right is true, often without independent confirmation."
+      }
+    },
+    {
+      "word": "declare",
+      "note": {
+        "ja": "立場・意図・事実などを明確または正式に表明する一般的な語。",
+        "en": "The general verb for stating a position, intention, or fact clearly or formally."
+      }
+    },
+    {
+      "word": "avow",
+      "note": {
+        "ja": "信念・立場などを自分のものとして率直かつ公然と認める。professより積極的な自己承認の響きがある。",
+        "en": "To openly acknowledge a belief or position as one's own, often sounding more affirmative than profess."
+      }
+    },
+    {
+      "word": "maintain",
+      "note": {
+        "ja": "反論や疑いがあっても、ある主張が正しいと言い続ける。",
+        "en": "To continue asserting that something is true despite disagreement or doubt."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "bekennen / vorgeben",
+    "it": "professare / dichiarare",
+    "fr": "professer / prétendre",
+    "es": "profesar / afirmar"
+  },
+  "collocations": {
+    "ja": [
+      "profess one's faith — 信仰を告白する",
+      "profess one's belief — 信念を公言する",
+      "profess one's love — 愛を公言する",
+      "profess one's admiration — 敬意・称賛を表明する",
+      "profess one's innocence — 無実を主張する",
+      "profess ignorance — 知らないと明言する",
+      "profess to know — 知っていると称する",
+      "profess to understand — 理解していると称する",
+      "openly profess — 公然と表明する",
+      "a professed commitment — 表明された決意・献身"
+    ],
+    "en": [
+      "profess one's faith",
+      "profess one's belief",
+      "profess one's love",
+      "profess one's admiration",
+      "profess one's innocence",
+      "profess ignorance",
+      "profess to know",
+      "profess to understand",
+      "openly profess",
+      "a professed commitment"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He professed his innocence throughout the investigation. — 彼は調査の間ずっと自分の無実を主張した。",
+      "She professes to know very little about financial markets. — 彼女は金融市場についてほとんど知らないと言っている。",
+      "The politician professed a strong commitment to transparency. — その政治家は透明性への強い決意を表明した。",
+      "They professed their faith before the congregation. — 彼らは会衆の前で信仰を告白した。",
+      "Although he professed admiration for her work, his comments were consistently critical. — 彼は彼女の仕事を称賛していると公言したが、その発言は一貫して批判的だった。"
+    ],
+    "en": [
+      "He professed his innocence throughout the investigation.",
+      "She professes to know very little about financial markets.",
+      "The politician professed a strong commitment to transparency.",
+      "They professed their faith before the congregation.",
+      "Although he professed admiration for her work, his comments were consistently critical."
+    ]
+  }
 }
 ]
