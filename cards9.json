@@ -5659,5 +5659,943 @@
       "Unless renewed, the registration will cease to exist."
     ]
   }
+},
+{
+  "id": "electronic_money",
+  "sid": "2026-00937",
+  "word": "electronic money",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "money",
+    "payment",
+    "finance",
+    "technology",
+    "prepaid",
+    "stored value",
+    "digital",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "normally uncountable",
+    "variants": {
+      "short_form": "e-money",
+      "informal_related_form": "digital money"
+    },
+    "patterns": [
+      "issue / hold / store electronic money",
+      "pay with electronic money",
+      "convert funds into electronic money",
+      "redeem electronic money",
+      "an electronic money issuer",
+      "an electronic money institution"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪˌlekˈtrɑːnɪk ˈmʌni/",
+      "uk": "/ɪˌlekˈtrɒnɪk ˈmʌni/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "電子的または磁気的に保存された金銭的価値、電子マネー",
+      "事前に支払われた資金と引き換えに発行される電子的な支払価値",
+      "カード・アプリ・オンライン口座などを通じて使用される保存価値",
+      "複数の事業者への支払いに利用できる電子的価値"
+    ],
+    "en": [
+      "monetary value stored electronically or magnetically",
+      "electronic payment value issued in exchange for funds received in advance",
+      "stored value used through a card, application, or online account",
+      "electronic value accepted for payment by persons other than its issuer"
+    ]
+  },
+  "nuance": {
+    "ja": "electronic money、通常 e-money は、単に現金を使わず電子的に決済する行為ではなく、電子的に保存された金銭的価値そのものを指す。規制上の定義は法域によって異なるが、典型的には、利用者から受け取った資金と引き換えに発行され、発行者に対する請求権を表し、第三者への支払いに使える前払式の価値である。クレジットカードは後払いの決済手段であり、それ自体が electronic money とは限らない。また、暗号資産や中央銀行デジタル通貨も、当然に e-money と同一分類になるわけではない。",
+    "en": "Electronic money, usually shortened to e-money, refers to electronically stored monetary value rather than merely the act of paying electronically. Regulatory definitions vary by jurisdiction, but the core concept commonly involves prepaid value issued upon receipt of funds, representing a claim on the issuer and accepted for payments by third parties. A credit card is a payment instrument providing credit and is not itself necessarily e-money. Cryptocurrencies and central bank digital currencies are also not automatically classified as e-money."
+  },
+  "minimal": {
+    "ja": [
+      "electronic money：資金と引き換えに発行され、電子的に保存される支払用の金銭的価値。",
+      "electronic payment：電子的な方法で支払いを実行する行為・仕組み。保存価値そのものではない。",
+      "digital currency：デジタル形式の通貨・価値を広く表し、e-moneyや暗号資産などを含みうる。",
+      "cryptocurrency：暗号技術や分散型台帳を利用するデジタル資産。通常のe-moneyとは発行・管理構造が異なる。",
+      "mobile money：携帯電話を通じて保存・送金・決済される金銭的価値。制度によってe-moneyに該当しうる。"
+    ],
+    "en": [
+      "electronic money is monetary value issued for received funds and stored electronically for making payments.",
+      "electronic payment is the act or system of making a payment electronically, not the stored value itself.",
+      "digital currency is a broader term for currency or value in digital form and may include e-money and crypto-assets.",
+      "cryptocurrency is a digital asset using cryptography or distributed-ledger technology and has a different issuance and control structure from ordinary e-money.",
+      "mobile money is monetary value stored, transferred, or used through mobile phones and may qualify as e-money under some systems."
+    ]
+  },
+  "etymology": {
+    "ja": "electronic は electron『電子』から派生し、electron はギリシャ語 ēlektron『琥珀』にさかのぼる。琥珀をこすることで静電気が生じることから、電気に関する語へ発達した。money は古フランス語 monoie を経て、ローマの貨幣鋳造所と関係したラテン語 moneta に由来する。electronic money は、電子技術によって保存・移転される貨幣価値を表す複合語である。",
+    "en": "Electronic derives from electron, which ultimately comes from Greek elektron, meaning amber, a material associated with early observations of static electricity. Money came through Old French monoie from Latin moneta, a word associated with the Roman mint. Electronic money is therefore a compound describing monetary value stored or transferred through electronic technology."
+  },
+  "synonyms": [
+    {
+      "word": "e-money",
+      "note": {
+        "ja": "electronic money の標準的な短縮形。金融・決済・規制分野で広く使われる。",
+        "en": "The standard shortened form of electronic money, widely used in payment, financial, and regulatory contexts."
+      }
+    },
+    {
+      "word": "stored value",
+      "note": {
+        "ja": "カードや口座などに保存され、支払いに使える価値。e-moneyより広い場合がある。",
+        "en": "Value stored on a card, account, or other system for later use and potentially broader than regulated e-money."
+      }
+    },
+    {
+      "word": "digital money",
+      "note": {
+        "ja": "デジタル形式で保持・移転される金銭を表す一般的で広い語。",
+        "en": "A broad, nontechnical expression for money held or transferred in digital form."
+      }
+    },
+    {
+      "word": "electronic cash",
+      "note": {
+        "ja": "現金のように電子的な支払いに使える価値を表す説明的な表現。",
+        "en": "A descriptive expression for electronic value intended to function in payments similarly to cash."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "elektronisches Geld / E-Geld",
+    "it": "moneta elettronica",
+    "fr": "monnaie électronique",
+    "es": "dinero electrónico"
+  },
+  "collocations": {
+    "ja": [
+      "electronic money services — 電子マネーサービス",
+      "an electronic money issuer — 電子マネー発行者",
+      "an electronic money institution — 電子マネー機関",
+      "electronic money regulations — 電子マネーに関する規則",
+      "issue electronic money — 電子マネーを発行する",
+      "hold electronic money — 電子マネーを保有する",
+      "store monetary value electronically — 金銭的価値を電子的に保存する",
+      "pay with electronic money — 電子マネーで支払う",
+      "redeem electronic money — 電子マネーを換金する",
+      "an electronic money account — 電子マネー口座"
+    ],
+    "en": [
+      "electronic money services",
+      "an electronic money issuer",
+      "an electronic money institution",
+      "electronic money regulations",
+      "issue electronic money",
+      "hold electronic money",
+      "store monetary value electronically",
+      "pay with electronic money",
+      "redeem electronic money",
+      "an electronic money account"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Users can load electronic money onto the card before making purchases. — 利用者は買い物をする前にカードへ電子マネーを入金できる。",
+      "The company is authorized to issue electronic money. — その会社は電子マネーを発行する認可を受けている。",
+      "Electronic money can be stored in an online account rather than on a physical card. — 電子マネーは物理的なカードではなくオンライン口座に保存することもできる。",
+      "A credit card payment does not necessarily involve electronic money. — クレジットカードによる支払いが必ずしも電子マネーを伴うとは限らない。",
+      "The legal definition of electronic money differs across jurisdictions. — 電子マネーの法的定義は法域によって異なる。"
+    ],
+    "en": [
+      "Users can load electronic money onto the card before making purchases.",
+      "The company is authorized to issue electronic money.",
+      "Electronic money can be stored in an online account rather than on a physical card.",
+      "A credit card payment does not necessarily involve electronic money.",
+      "The legal definition of electronic money differs across jurisdictions."
+    ]
+  }
+},
+{
+  "id": "investment_trust",
+  "sid": "2026-00938",
+  "word": "investment trust",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun phrase",
+    "investment",
+    "finance",
+    "fund",
+    "company",
+    "stock exchange",
+    "British English",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "structure": "compound noun",
+    "countability": "countable",
+    "plural": "investment trusts",
+    "patterns": [
+      "invest in / through an investment trust",
+      "buy / sell shares in an investment trust",
+      "an investment trust specializing in + asset",
+      "a listed / closed-ended investment trust",
+      "an investment trust trades at + premium / discount",
+      "an investment trust's portfolio / shares"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈvestmənt ˌtrʌst/",
+      "uk": "/ɪnˈvestmənt ˌtrʌst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "多数の投資家から集めた資金をまとめて運用する投資組織",
+      "イギリスで、株式を発行して資金を集めるクローズドエンド型の上場投資会社",
+      "株式・債券・不動産などの分散ポートフォリオを保有する投資会社",
+      "法域によって異なる制度上の投資信託・投資会社"
+    ],
+    "en": [
+      "an investment organization that pools investors' money and invests it in a portfolio of assets",
+      "in British usage, a listed closed-ended investment company that raises capital by issuing shares",
+      "an investment company holding a diversified portfolio of shares, bonds, property, or other assets",
+      "a form of collective investment arrangement whose legal structure varies by jurisdiction"
+    ]
+  },
+  "nuance": {
+    "ja": "イギリス英語の investment trust は、名称に trust を含むものの、通常は法的な信託ではなく、証券取引所に上場するクローズドエンド型の株式会社である。投資家はファンドへ直接償還を請求するのではなく、市場で株式を売買する。そのため株価は純資産価値（NAV）に対してプレミアムまたはディスカウントで取引されることがある。日本語の『投資信託』を一般的に英訳する場合は investment fund や mutual fund のほうが適切なことも多い。アメリカの unit investment trust は、通常のイギリス型 investment trust とは別の制度である。",
+    "en": "In British English, an investment trust is normally a closed-ended company listed on a stock exchange, despite the word trust in its name. Investors generally buy and sell its shares on the market rather than redeeming them directly with the fund. Its share price may therefore trade at a premium or discount to its net asset value. The Japanese term 投資信託 is broader and may be better translated as investment fund or mutual fund depending on the structure. A U.S. unit investment trust is a distinct type of investment vehicle."
+  },
+  "minimal": {
+    "ja": [
+      "investment trust：イギリスでは通常、固定的な株式資本を持ち、市場で株式が売買されるクローズドエンド型投資会社。",
+      "mutual fund：投資家の購入・解約に応じて持分を発行・償還する、主にアメリカのオープンエンド型ファンド。",
+      "unit trust：信託構造を採用し、投資家が受益証券を保有する集合投資スキーム。",
+      "unit investment trust：固定的なポートフォリオと存続期間を持つことが多いアメリカの投資会社形態。",
+      "ETF：取引所で日中売買されるファンドで、多くはオープンエンド型だが構造は一様ではない。"
+    ],
+    "en": [
+      "investment trust in British usage is a closed-ended investment company whose shares trade on the market.",
+      "mutual fund is mainly an American open-ended fund that issues and redeems shares in response to investor demand.",
+      "unit trust is a collective investment scheme structured as a trust in which investors hold units.",
+      "unit investment trust is a U.S. investment company typically holding a relatively fixed portfolio for a specified life.",
+      "ETF is a fund traded throughout the day on an exchange and is often, though not always, open-ended."
+    ]
+  },
+  "etymology": {
+    "ja": "investment は invest『資金を投じる』から派生し、invest はラテン語 investire『衣服を着せる、権限を与える』に由来する。資産や権限を人に与えるという意味から、利益を期待して資金を投入する意味へ発達した。trust は古ノルド語 traust『信頼、保護』に由来する。investment trust は、投資資金を管理・運用する仕組みを表す名称として成立した。",
+    "en": "Investment derives from invest, which ultimately comes from Latin investire, meaning to clothe or confer authority or possession. It later developed the financial sense of committing money in expectation of a return. Trust comes from Old Norse traust, meaning confidence, support, or protection. Investment trust developed as a name for an arrangement or company managing pooled investment capital."
+  },
+  "synonyms": [
+    {
+      "word": "closed-end fund",
+      "note": {
+        "ja": "一定数の株式・持分を発行し、それが市場で売買されるファンド。イギリス型investment trustに最も近い。",
+        "en": "A fund with a relatively fixed number of shares traded in the market and the closest general equivalent to a British investment trust."
+      }
+    },
+    {
+      "word": "investment company",
+      "note": {
+        "ja": "投資資産の保有・運用を主な事業とする会社を広く表す。",
+        "en": "A broad term for a company whose primary business is holding and managing investments."
+      }
+    },
+    {
+      "word": "collective investment scheme",
+      "note": {
+        "ja": "複数の投資家の資金を共同運用する仕組みを包括する広い制度上の語。",
+        "en": "A broad regulatory term covering arrangements that pool and collectively manage investors' money."
+      }
+    },
+    {
+      "word": "investment fund",
+      "note": {
+        "ja": "投資家の資金を集めて運用する仕組みを広く表し、オープンエンド型・クローズドエンド型の双方を含みうる。",
+        "en": "A broad expression for a pooled investment vehicle that may include both open-ended and closed-ended structures."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Investmentgesellschaft / geschlossener Investmentfonds",
+    "it": "società d'investimento a capitale fisso / fondo chiuso",
+    "fr": "société d'investissement à capital fixe / fonds fermé",
+    "es": "sociedad de inversión de capital fijo / fondo cerrado"
+  },
+  "collocations": {
+    "ja": [
+      "a listed investment trust — 上場投資会社",
+      "a closed-ended investment trust — クローズドエンド型投資会社",
+      "a global investment trust — グローバル投資信託",
+      "a property investment trust — 不動産投資会社",
+      "an investment trust portfolio — 投資会社のポートフォリオ",
+      "investment trust shares — 投資会社の株式",
+      "invest in an investment trust — 投資会社に投資する",
+      "manage an investment trust — 投資会社を運用する",
+      "trade at a discount to NAV — NAVに対してディスカウントで取引される",
+      "trade at a premium to NAV — NAVに対してプレミアムで取引される"
+    ],
+    "en": [
+      "a listed investment trust",
+      "a closed-ended investment trust",
+      "a global investment trust",
+      "a property investment trust",
+      "an investment trust portfolio",
+      "investment trust shares",
+      "invest in an investment trust",
+      "manage an investment trust",
+      "trade at a discount to NAV",
+      "trade at a premium to NAV"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The investment trust holds a diversified portfolio of global shares. — その投資会社は世界各国の株式からなる分散ポートフォリオを保有している。",
+      "Shares in the investment trust are traded on the London Stock Exchange. — その投資会社の株式はロンドン証券取引所で取引されている。",
+      "The investment trust was trading at a discount to its net asset value. — その投資会社は純資産価値に対してディスカウントで取引されていた。",
+      "Unlike an open-ended fund, an investment trust does not normally redeem shares on demand. — オープンエンド型ファンドと異なり、investment trustは通常、投資家の請求に応じて株式を償還しない。",
+      "Investment trust should not automatically be used as the English translation of every Japanese 投資信託. — 日本語の『投資信託』を常にinvestment trustと英訳できるわけではない。"
+    ],
+    "en": [
+      "The investment trust holds a diversified portfolio of global shares.",
+      "Shares in the investment trust are traded on the London Stock Exchange.",
+      "The investment trust was trading at a discount to its net asset value.",
+      "Unlike an open-ended fund, an investment trust does not normally redeem shares on demand.",
+      "Investment trust should not automatically be used as the English translation of every Japanese 投資信託."
+    ]
+  }
+},
+{
+  "id": "investment_fund",
+  "sid": "2026-00939",
+  "word": "investment fund",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun phrase",
+    "investment",
+    "finance",
+    "fund",
+    "portfolio",
+    "asset management",
+    "collective investment",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "structure": "compound noun",
+    "countability": "countable",
+    "plural": "investment funds",
+    "patterns": [
+      "an investment fund that invests in + asset",
+      "an investment fund for + investors / purpose",
+      "invest in / establish / manage an investment fund",
+      "an open-ended / closed-ended investment fund",
+      "a public / private investment fund",
+      "the assets / portfolio / performance of an investment fund"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈvestmənt ˌfʌnd/",
+      "uk": "/ɪnˈvestmənt ˌfʌnd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "投資家から集めた資金をまとめて運用する投資ファンド",
+      "株式・債券・不動産などの資産に投資する集合的な仕組み",
+      "特定の投資目的のために設けられた資金",
+      "専門家・運用会社によって管理される投資ポートフォリオ"
+    ],
+    "en": [
+      "a fund that pools money from investors and invests it collectively",
+      "an arrangement investing in shares, bonds, property, or other assets",
+      "a pool of capital established for a particular investment purpose",
+      "an investment portfolio managed by a professional manager or organization"
+    ]
+  },
+  "nuance": {
+    "ja": "investment fund は、複数の投資家または機関から資金を集め、株式・債券・不動産などへ投資する仕組みを広く表す上位概念である。オープンエンド型・クローズドエンド型、上場・非上場、公募・私募、積極運用・指数連動など、さまざまな構造を含みうる。investment trust、mutual fund、ETF、hedge fund などはいずれも、文脈によって investment fund の一種と説明できる。日本語の『投資信託』を制度を限定せず英訳する場合にも使いやすいが、具体的な商品を説明する際は、その法的構造に合った名称を選ぶ必要がある。",
+    "en": "Investment fund is a broad umbrella term for an arrangement that pools capital and invests it in shares, bonds, property, or other assets. It may be open-ended or closed-ended, public or private, listed or unlisted, and actively or passively managed. Mutual funds, investment trusts, ETFs, and hedge funds may all be described as types of investment funds, depending on context. It is often a useful general translation of the Japanese term 投資信託, but a more specific term should be chosen when the legal structure of the product matters."
+  },
+  "minimal": {
+    "ja": [
+      "investment fund：資金をまとめて資産へ投資する仕組みを広く表す上位概念。",
+      "mutual fund：主にアメリカで、投資家の購入・解約に応じて持分を発行・償還するオープンエンド型ファンド。",
+      "investment trust：イギリスでは通常、株式が市場で売買されるクローズドエンド型投資会社。",
+      "ETF：証券取引所で日中売買され、通常は特定の指数・資産・戦略に連動するファンド。",
+      "hedge fund：限定された投資家から資金を集め、比較的柔軟で複雑な戦略を用いる私募型ファンド。"
+    ],
+    "en": [
+      "investment fund is the broad umbrella term for an arrangement pooling capital for investment in assets.",
+      "mutual fund is mainly an American open-ended fund that issues and redeems shares in response to investor demand.",
+      "investment trust in British usage is normally a closed-ended investment company whose shares trade on the market.",
+      "ETF is a fund traded throughout the day on an exchange, commonly following a particular index, asset, or strategy.",
+      "hedge fund is a privately offered fund using relatively flexible and sometimes complex strategies for a limited group of investors."
+    ]
+  },
+  "etymology": {
+    "ja": "investment は invest『利益を期待して資金を投じる』から派生し、ラテン語 investire『衣服を着せる、権限を与える』にさかのぼる。fund はラテン語 fundus『底、基礎、土地』から、フランス語を経て『特定目的のために用意された資金』を意味するようになった。investment fund は、投資を目的として蓄えられ、まとめて運用される資金を表す。",
+    "en": "Investment derives from invest, ultimately from Latin investire, meaning to clothe or confer possession or authority. Fund comes through French from Latin fundus, meaning a bottom, foundation, or estate, and developed the financial sense of money set aside for a particular purpose. Investment fund therefore denotes capital collected and managed for investment."
+  },
+  "synonyms": [
+    {
+      "word": "pooled investment vehicle",
+      "note": {
+        "ja": "複数の投資家の資金を集約して運用する仕組みを表す金融上の説明語。",
+        "en": "A financial term describing a vehicle that combines money from multiple investors for collective investment."
+      }
+    },
+    {
+      "word": "collective investment scheme",
+      "note": {
+        "ja": "投資家の資金を共同運用する制度を表す、主に規制上の包括的な語。",
+        "en": "A broad regulatory term for an arrangement through which investors' money is managed collectively."
+      }
+    },
+    {
+      "word": "investment vehicle",
+      "note": {
+        "ja": "投資に利用される商品・法人・仕組みを広く表し、ファンド以外も含みうる。",
+        "en": "A broad term for a product, entity, or arrangement used for investment and potentially wider than investment fund."
+      }
+    },
+    {
+      "word": "fund",
+      "note": {
+        "ja": "特定目的のために確保・運用される資金、またはその運用組織を表す一般語。",
+        "en": "The general word for money reserved or managed for a particular purpose or the organization managing it."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Investmentfonds / Anlagefonds",
+    "it": "fondo d'investimento",
+    "fr": "fonds d'investissement",
+    "es": "fondo de inversión"
+  },
+  "collocations": {
+    "ja": [
+      "a global investment fund — グローバル投資ファンド",
+      "an equity investment fund — 株式投資ファンド",
+      "a bond investment fund — 債券投資ファンド",
+      "a property investment fund — 不動産投資ファンド",
+      "a private investment fund — 私募投資ファンド",
+      "an actively managed investment fund — 積極運用型投資ファンド",
+      "establish an investment fund — 投資ファンドを設立する",
+      "manage an investment fund — 投資ファンドを運用する",
+      "invest in an investment fund — 投資ファンドに投資する",
+      "the fund's investment portfolio — ファンドの投資ポートフォリオ"
+    ],
+    "en": [
+      "a global investment fund",
+      "an equity investment fund",
+      "a bond investment fund",
+      "a property investment fund",
+      "a private investment fund",
+      "an actively managed investment fund",
+      "establish an investment fund",
+      "manage an investment fund",
+      "invest in an investment fund",
+      "the fund's investment portfolio"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The investment fund holds shares in more than one hundred companies. — その投資ファンドは100社を超える企業の株式を保有している。",
+      "Investors should examine the fees before choosing an investment fund. — 投資家は投資ファンドを選ぶ前に手数料を確認すべきである。",
+      "The company established an investment fund focused on renewable energy. — その会社は再生可能エネルギーに重点を置く投資ファンドを設立した。",
+      "The value of an investment fund can rise or fall with the value of its underlying assets. — 投資ファンドの価値は、その基礎資産の価値に応じて上昇も下落もする。",
+      "Investment fund is often a safer general translation of 投資信託 than investment trust. — investment fundは、投資信託の一般的な英訳としてinvestment trustより無難な場合が多い。"
+    ],
+    "en": [
+      "The investment fund holds shares in more than one hundred companies.",
+      "Investors should examine the fees before choosing an investment fund.",
+      "The company established an investment fund focused on renewable energy.",
+      "The value of an investment fund can rise or fall with the value of its underlying assets.",
+      "Investment fund is often a safer general translation of 投資信託 than investment trust."
+    ]
+  }
+},
+{
+  "id": "fund",
+  "sid": "2026-00940",
+  "word": "fund",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "noun",
+    "verb",
+    "money",
+    "finance",
+    "investment",
+    "organization",
+    "project",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "countability": "countable; funds is also used as a plural mass expression",
+    "plural": "funds",
+    "forms": {
+      "base": "fund",
+      "third_person": "funds",
+      "past": "funded",
+      "past_participle": "funded",
+      "gerund": "funding"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "a fund for + purpose / group",
+      "a fund to support / finance + noun",
+      "set up / establish / manage a fund",
+      "raise / provide / allocate funds",
+      "fund + project / research / organization",
+      "be publicly / privately funded"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/fʌnd/",
+      "uk": "/fʌnd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特定の目的のために確保された資金、基金",
+      "複数の投資家から集めた資金を運用するファンド",
+      "資金を保有・管理・運用する組織",
+      "利用可能な金銭、資金",
+      "事業・研究・活動などに資金を提供する"
+    ],
+    "en": [
+      "an amount of money set aside for a particular purpose",
+      "a pool of money collected from investors and invested collectively",
+      "an organization that holds, manages, or invests money",
+      "money available for spending or a particular use",
+      "to provide money for a project, organization, or activity"
+    ]
+  },
+  "nuance": {
+    "ja": "名詞の fund は、教育、災害救援、年金、投資など、特定の目的のために集められた、または確保された資金を表す。investment fund のように資金を運用する仕組み・組織そのものを指す場合もある。複数形 funds は available funds、lack of funds のように、個別の基金ではなく『利用できるお金』を集合的に表す。動詞の fund は、事業・研究・団体などが活動できるよう資金を提供することを意味する。",
+    "en": "As a noun, fund refers to money collected or reserved for a particular purpose, such as education, disaster relief, pensions, or investment. It may also denote the organization or arrangement that manages the money. The plural funds often means money generally available for use, as in insufficient funds. As a verb, fund means to provide the money necessary for a project, organization, research program, or other activity."
+  },
+  "minimal": {
+    "ja": [
+      "fund：特定目的のために確保された資金、またはその資金を管理する仕組み・組織。",
+      "funds：利用または支出に充てられる金銭を集合的に表す複数形。",
+      "funding：事業・研究・団体などへ資金を提供する行為、または提供される資金。",
+      "capital：事業運営・投資・生産に使用される資金や資産。",
+      "budget：一定期間における収入・支出の計画、または支出可能額。"
+    ],
+    "en": [
+      "fund is a pool of money reserved for a particular purpose or the arrangement managing that money.",
+      "funds is the plural expression for money available to be used or spent.",
+      "funding is the act of providing financial resources or the money provided for an activity.",
+      "capital is money or other assets used for business operations, production, or investment.",
+      "budget is a plan for income and expenditure or the amount available to spend during a period."
+    ]
+  },
+  "etymology": {
+    "ja": "fund はラテン語 fundus『底、基礎、土地』から、フランス語 fond『底、基礎、資本』を経て英語に入った。何かを支える『基礎』という意味から、事業・組織・目的を財政的に支える資金の蓄えを表すようになった。動詞の fund は、そのような財政的基盤を提供するという意味から生まれた。",
+    "en": "Fund ultimately comes from Latin fundus, meaning bottom, foundation, or estate, through French fond, meaning a foundation, stock, or capital. From the idea of a financial foundation supporting an activity or organization, the word developed its modern noun sense. The verb fund arose from the idea of supplying that financial base."
+  },
+  "synonyms": [
+    {
+      "word": "reserve",
+      "note": {
+        "ja": "将来の必要・緊急事態などに備えて残しておく資金や資源。",
+        "en": "Money or resources kept available for future needs, emergencies, or unexpected expenses."
+      }
+    },
+    {
+      "word": "pool",
+      "note": {
+        "ja": "複数の人・組織が共同目的のために集めた資金・資源。",
+        "en": "Money or resources contributed by multiple people or organizations for a shared purpose."
+      }
+    },
+    {
+      "word": "capital",
+      "note": {
+        "ja": "利益を生み出す事業・投資・生産活動に投入される資金や資産。",
+        "en": "Money or assets committed to a business, investment, or productive activity to generate returns."
+      }
+    },
+    {
+      "word": "finance",
+      "note": {
+        "ja": "動詞では事業・購入などに必要な資金を提供する。fundより融資の意味を持つ場合が多い。",
+        "en": "As a verb, means to provide money for a project or purchase and often suggests arranging credit or a loan."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Fonds / Mittel / finanzieren",
+    "it": "fondo / fondi / finanziare",
+    "fr": "fonds / financer",
+    "es": "fondo / fondos / financiar"
+  },
+  "collocations": {
+    "ja": [
+      "an investment fund — 投資ファンド",
+      "a pension fund — 年金基金",
+      "an emergency fund — 緊急予備資金",
+      "a scholarship fund — 奨学基金",
+      "public funds — 公的資金",
+      "insufficient funds — 資金不足、残高不足",
+      "raise funds — 資金を調達する",
+      "allocate funds — 資金を配分する",
+      "fund a project — プロジェクトに資金を提供する",
+      "publicly funded research — 公的資金による研究"
+    ],
+    "en": [
+      "an investment fund",
+      "a pension fund",
+      "an emergency fund",
+      "a scholarship fund",
+      "public funds",
+      "insufficient funds",
+      "raise funds",
+      "allocate funds",
+      "fund a project",
+      "publicly funded research"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The university established a fund to support young researchers. — その大学は若手研究者を支援する基金を設立した。",
+      "The organization is raising funds for disaster relief. — その団体は災害救援のための資金を集めている。",
+      "The payment was rejected because there were insufficient funds in the account. — 口座残高が不足していたため、支払いは拒否された。",
+      "The government agreed to fund the research project for three years. — 政府はその研究プロジェクトに3年間資金を提供することに同意した。",
+      "The investment fund holds shares, bonds, and commercial property. — その投資ファンドは株式、債券および商業用不動産を保有している。"
+    ],
+    "en": [
+      "The university established a fund to support young researchers.",
+      "The organization is raising funds for disaster relief.",
+      "The payment was rejected because there were insufficient funds in the account.",
+      "The government agreed to fund the research project for three years.",
+      "The investment fund holds shares, bonds, and commercial property."
+    ]
+  }
+},
+{
+  "id": "happen_to",
+  "sid": "2026-00941",
+  "word": "happen to",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "verb phrase",
+    "verb construction",
+    "chance",
+    "coincidence",
+    "event",
+    "politeness",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb phrase",
+    "forms": {
+      "base": "happen to",
+      "third_person": "happens to",
+      "past": "happened to",
+      "past_participle": "happened to",
+      "gerund": "happening to"
+    },
+    "transitivity": "construction-dependent",
+    "patterns": [
+      "happen to + base verb",
+      "happen to be / have / know + noun",
+      "Do you happen to + verb?",
+      "If you happen to + verb",
+      "happen to + person / thing",
+      "What happened to + person / thing?"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈhæpən tə/",
+      "uk": "/ˈhæpən tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "偶然～する、たまたま～する",
+      "たまたま～である、偶然～を知っている",
+      "質問や依頼を控えめにするために使われる",
+      "人・物に出来事や変化が起こる",
+      "人・物がある結果・状態になる"
+    ],
+    "en": [
+      "to do something by chance",
+      "to be or know something coincidentally",
+      "to soften a question or request",
+      "to occur to or affect a person or thing",
+      "to cause a person or thing to enter a particular state or situation"
+    ]
+  },
+  "nuance": {
+    "ja": "happen to do は、計画していなかった行為や偶然成立した状況を表す。I happened to see her. は『たまたま彼女を見かけた』という意味で、意図的に会いに行ったのではない。Do you happen to know...? では偶然性を強く問題にするというより、質問を押しつけがましくしない婉曲表現として機能する。一方、happen to someone は『人に何かが起こる』という別構文で、What happened to him? のように使う。happen to は通常、目的語を分離できる句動詞ではない。",
+    "en": "Happen to do describes an unplanned action or a situation that exists by coincidence. I happened to see her means that the meeting was not intentional. In Do you happen to know...?, the expression often functions less as a literal reference to chance and more as a polite softener. Happen to someone is a separate construction meaning that an event or change affects that person, as in What happened to him? Happen to is not normally treated as a separable phrasal verb."
+  },
+  "minimal": {
+    "ja": [
+      "happen to do：予定・意図によらず、偶然ある行為をする、またはある状態にある。",
+      "accidentally：意図せず行うことを表し、失敗・事故という否定的含意を持つことがある。",
+      "by chance：出来事が計画ではなく偶然生じたことを明示する副詞句。",
+      "chance to do：動詞 chance の用法では『偶然～する』だが、名詞の a chance to do は『～する機会』。",
+      "turn out to be：後になって判明した結果・正体が～である。偶然の行為そのものには焦点を置かない。"
+    ],
+    "en": [
+      "happen to do means to perform an action or be in a situation by coincidence rather than by plan.",
+      "accidentally means unintentionally and may suggest an error, accident, or unwanted result.",
+      "by chance explicitly indicates that an event was coincidental rather than planned.",
+      "chance to do as a verb can mean happen to do, while a chance to do as a noun means an opportunity.",
+      "turn out to be describes a result or identity discovered later rather than the accidental performance of an action."
+    ]
+  },
+  "etymology": {
+    "ja": "happen は中英語 hap『偶然、運、出来事』に動詞を作る -en が付いた語である。hap は古ノルド語 happ『幸運、好機』に由来する。もともと『偶然の出来事が生じる』という意味から、happen to do『偶然～する』や happen to someone『人に出来事が起こる』という構文が発達した。perhaps、mishap、haphazard にも同じ hap が含まれる。",
+    "en": "Happen was formed from Middle English hap, meaning chance, fortune, or an event, together with the verbal suffix -en. Hap came from Old Norse happ, meaning good luck or favorable chance. From the idea of an event occurring by chance developed both happen to do and happen to someone. Perhaps, mishap, and haphazard contain the same historical element."
+  },
+  "synonyms": [
+    {
+      "word": "chance to do",
+      "note": {
+        "ja": "動詞としては『偶然～する』という硬めの表現。ただし a chance to do は『～する機会』なので区別が必要。",
+        "en": "As a verb, a somewhat literary expression meaning to happen to do something. It must be distinguished from the noun phrase a chance to do."
+      }
+    },
+    {
+      "word": "by chance",
+      "note": {
+        "ja": "行為・出来事が偶然に生じたことを表す一般的な副詞句。",
+        "en": "A common adverbial phrase indicating that an action or event occurred coincidentally."
+      }
+    },
+    {
+      "word": "accidentally",
+      "note": {
+        "ja": "意図せずに行ったことを表し、ときに誤りや好ましくない結果を含意する。",
+        "en": "Describes an unintentional action and sometimes suggests a mistake or undesirable result."
+      }
+    },
+    {
+      "word": "befall",
+      "note": {
+        "ja": "人に出来事、特に不幸なことが起こるという文語的な動詞。",
+        "en": "A literary verb meaning that an event, especially something unfortunate, happens to a person."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "zufällig etwas tun / jemandem passieren",
+    "it": "capitare di fare / succedere a qualcuno",
+    "fr": "se trouver à faire / arriver à quelqu'un",
+    "es": "dar la casualidad de / pasarle a alguien"
+  },
+  "collocations": {
+    "ja": [
+      "happen to know — たまたま知っている",
+      "happen to be — たまたま～である",
+      "happen to have — たまたま持っている",
+      "happen to see — たまたま見かける",
+      "happen to meet — 偶然出会う",
+      "happen to notice — たまたま気づく",
+      "Do you happen to know...? — ひょっとして～をご存じですか",
+      "If you happen to see... — もし～を見かけたら",
+      "What happened to him? — 彼に何があったのですか",
+      "something happens to the device — その機器に何かが起こる"
+    ],
+    "en": [
+      "happen to know",
+      "happen to be",
+      "happen to have",
+      "happen to see",
+      "happen to meet",
+      "happen to notice",
+      "Do you happen to know...?",
+      "If you happen to see...",
+      "What happened to him?",
+      "something happens to the device"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I happened to meet her at the station yesterday. — 昨日、駅で偶然彼女に会った。",
+      "Do you happen to know where the meeting will be held? — ひょっとして会議がどこで開かれるかご存じですか。",
+      "If you happen to see Ken, please give him this document. — もし健を見かけたら、この書類を渡してください。",
+      "She happened to be in London when the conference began. — 会議が始まったとき、彼女はたまたまロンドンにいた。",
+      "What happened to the files that were stored on this computer? — このコンピューターに保存されていたファイルはどうなったのですか。"
+    ],
+    "en": [
+      "I happened to meet her at the station yesterday.",
+      "Do you happen to know where the meeting will be held?",
+      "If you happen to see Ken, please give him this document.",
+      "She happened to be in London when the conference began.",
+      "What happened to the files that were stored on this computer?"
+    ]
+  }
+},
+{
+  "id": "by_chance",
+  "sid": "2026-00942",
+  "word": "by chance",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "adverb phrase",
+    "chance",
+    "coincidence",
+    "unplanned event",
+    "daily conversation",
+    "politeness",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adv",
+    "structure": "preposition + noun",
+    "patterns": [
+      "meet / find / discover something by chance",
+      "happen entirely / purely by chance",
+      "by chance, + clause",
+      "not by chance",
+      "by any chance + question",
+      "Could / Do / Did you by any chance + verb?"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/baɪ ˈtʃæns/",
+      "uk": "/baɪ ˈtʃɑːns/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "偶然に、たまたま",
+      "計画・意図によらずに",
+      "予想していなかった成り行きによって",
+      "by any chance の形で、ひょっとして、もしかして"
+    ],
+    "en": [
+      "accidentally or coincidentally",
+      "without having been planned or intended",
+      "as the result of an unexpected set of circumstances",
+      "in the form by any chance, used to soften a question or request"
+    ]
+  },
+  "nuance": {
+    "ja": "by chance は、行為・発見・出会いなどが計画されたものではなく、偶然の結果として生じたことを表す中立的な副詞句である。文末に置くのが一般的だが、By chance, I found... のように文頭にも置ける。accidentally と異なり、失敗・過失・望ましくない結果という含みはない。by any chance は主に疑問文で使われ、『ひょっとして』『もしや』という控えめな質問を作る。not by chance は、出来事に意図または明確な理由があったことを示唆する。",
+    "en": "By chance is a neutral adverbial phrase indicating that an action, discovery, or meeting was not planned but occurred coincidentally. It commonly appears at the end of a clause but can also be placed initially. Unlike accidentally, it does not inherently suggest an error, fault, or undesirable result. By any chance is especially common in questions, where it softens the request or inquiry. Not by chance suggests that an event was deliberate or had a meaningful cause."
+  },
+  "minimal": {
+    "ja": [
+      "by chance：出来事が計画や意図によらず、偶然に生じたことを中立的に表す。",
+      "accidentally：意図せず行ったことを表し、失敗・過失・好ましくない結果を含意することがある。",
+      "coincidentally：二つ以上の出来事が偶然一致・関連したことを強調する。",
+      "happen to do：人が偶然ある行為をした、または偶然ある状態だったことを動詞構文で表す。",
+      "randomly：規則・計画・特定の選択基準を用いず、無作為に行うことを表す。"
+    ],
+    "en": [
+      "by chance neutrally indicates that an event occurred coincidentally rather than by plan or intention.",
+      "accidentally describes an unintentional action and may suggest a mistake, fault, or unwanted result.",
+      "coincidentally emphasizes that two or more events unexpectedly correspond or occur together.",
+      "happen to do is a verb construction describing a person doing something or being in a situation by coincidence.",
+      "randomly means without a pattern, plan, or specific selection criterion."
+    ]
+  },
+  "etymology": {
+    "ja": "chance は古フランス語 cheance『起こること、運』に由来し、さらに俗ラテン語 cadentia『落ちること』、ラテン語 cadere『落ちる』にさかのぼる。物事がどのように『降りかかるか』という発想から、予測・制御できない出来事や偶然を表すようになった。by chance は文字どおり『偶然という成り行きによって』という構造を持つ。",
+    "en": "Chance came from Old French cheance, meaning an occurrence or fortune, ultimately from a form related to Latin cadere, meaning to fall. The idea was that events fall or turn out in a particular way beyond a person's control. By chance therefore literally presents chance as the circumstance or means by which something occurred."
+  },
+  "synonyms": [
+    {
+      "word": "coincidentally",
+      "note": {
+        "ja": "出来事同士の偶然の一致を強調する副詞。",
+        "en": "An adverb emphasizing an unexpected correspondence or concurrence between events."
+      }
+    },
+    {
+      "word": "accidentally",
+      "note": {
+        "ja": "意図せずに行ったことを表し、ときに誤り・事故という含みを持つ。",
+        "en": "Describes something done unintentionally and may imply a mistake or accident."
+      }
+    },
+    {
+      "word": "happen to",
+      "note": {
+        "ja": "人が偶然～する、たまたま～であることを表す動詞構文。",
+        "en": "A verb construction indicating that a person does something or is in a situation by coincidence."
+      }
+    },
+    {
+      "word": "fortuitously",
+      "note": {
+        "ja": "偶然に、思いがけず。by chance より硬く、文脈によっては幸運な結果も示唆する。",
+        "en": "A formal word meaning by chance or unexpectedly and sometimes suggesting a fortunate result."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "zufällig / durch Zufall",
+    "it": "per caso",
+    "fr": "par hasard",
+    "es": "por casualidad"
+  },
+  "collocations": {
+    "ja": [
+      "meet someone by chance — 人に偶然会う",
+      "find something by chance — 何かを偶然見つける",
+      "discover something by chance — 何かを偶然発見する",
+      "come across something by chance — 何かを偶然見つける",
+      "happen by chance — 偶然に起こる",
+      "purely by chance — まったくの偶然で",
+      "entirely by chance — 完全に偶然に",
+      "not by chance — 偶然ではなく",
+      "by any chance — ひょっとして",
+      "Do you by any chance know...? — ひょっとして～をご存じですか"
+    ],
+    "en": [
+      "meet someone by chance",
+      "find something by chance",
+      "discover something by chance",
+      "come across something by chance",
+      "happen by chance",
+      "purely by chance",
+      "entirely by chance",
+      "not by chance",
+      "by any chance",
+      "Do you by any chance know...?"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I met my former colleague by chance at the airport. — 空港で以前の同僚に偶然会った。",
+      "The researchers discovered the unusual effect by chance. — 研究者たちはその珍しい効果を偶然発見した。",
+      "We found this small restaurant entirely by chance. — 私たちはこの小さなレストランをまったく偶然に見つけた。",
+      "The similarity between the two designs was not by chance. — 二つのデザインが似ていたのは偶然ではなかった。",
+      "Do you by any chance have a copy of the document? — ひょっとして、その書類の写しをお持ちですか。"
+    ],
+    "en": [
+      "I met my former colleague by chance at the airport.",
+      "The researchers discovered the unusual effect by chance.",
+      "We found this small restaurant entirely by chance.",
+      "The similarity between the two designs was not by chance.",
+      "Do you by any chance have a copy of the document?"
+    ]
+  }
 }
 ]
