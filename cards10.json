@@ -169,5 +169,1477 @@
       "The clocks fall back one hour when daylight saving time ends."
     ]
   }
+},
+{
+  "id": "tenement",
+  "sid": "2026-01002",
+  "word": "tenement",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "housing",
+    "apartment",
+    "property",
+    "urban history",
+    "poverty",
+    "Scotland",
+    "legal",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable in some legal uses",
+    "plural": "tenements",
+    "related": {
+      "occupant": "tenant",
+      "legal_concepts": "dominant tenement / servient tenement"
+    },
+    "patterns": [
+      "a crowded / dilapidated tenement",
+      "a tenement building / block",
+      "live in a tenement",
+      "convert something into tenements",
+      "a Glasgow / Edinburgh tenement",
+      "dominant / servient tenement"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈtenəmənt/",
+      "uk": "/ˈtenəmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "多数の小さな賃貸住戸に分割された都市の集合住宅",
+      "特に貧困地区にある、過密で設備の劣悪な古い賃貸住宅",
+      "スコットランドにおける、共用階段を持つ複数階建ての集合住宅",
+      "古い法的用法における、保有・賃貸の対象となる土地・建物などの不動産",
+      "集合住宅内の個々の住戸"
+    ],
+    "en": [
+      "an urban residential building divided into numerous rented apartments",
+      "especially an old, overcrowded, or poorly maintained apartment building in a low-income area",
+      "in Scotland, a multistory apartment building with a shared entrance and staircase",
+      "in older legal usage, land, buildings, or other property capable of being held",
+      "an individual dwelling within a divided residential building"
+    ]
+  },
+  "nuance": {
+    "ja": "tenementは地域・時代によって評価的な響きが大きく異なる。アメリカ英語、特にニューヨークの都市史では、19世紀から20世紀初頭に労働者・移民が暮らした、過密で採光・換気・衛生設備の不十分な賃貸集合住宅を強く連想させる。そのため、現代の普通のapartment buildingをtenementと呼ぶと、貧困・老朽化・劣悪な居住環境を暗示する可能性がある。一方、スコットランドでは、共用階段を囲む複数の住戸からなる石造集合住宅などを、建物形式として比較的中立的にtenementと呼ぶ。古い不動産法では、tenementは土地・建物など保有できる不動産を広く指し、dominant tenementとservient tenementは地役権の利益を受ける土地と負担を負う土地を表す。",
+    "en": "The connotations of tenement vary considerably by region and historical context. In American English, particularly in the history of New York and other industrial cities, it strongly evokes overcrowded rental buildings occupied by working-class and immigrant families in the nineteenth and early twentieth centuries, often with inadequate light, ventilation, sanitation, and fire safety. Calling an ordinary modern apartment building a tenement may therefore imply poverty, deterioration, or poor conditions. In Scotland, however, tenement can be a relatively neutral architectural term for a multistory building containing separate flats around a shared entrance and staircase. In older property law, a tenement broadly means property capable of being held. A dominant tenement benefits from an easement, while a servient tenement bears its burden."
+  },
+  "minimal": {
+    "ja": [
+      "tenement：多数の賃貸住戸に分割された都市集合住宅で、米語では歴史的に過密・貧困・劣悪な設備を連想させる。",
+      "apartment building：複数の独立した住戸を含む建物を表す、中立的で現代的な一般語。",
+      "slum：住宅一棟ではなく、貧困と劣悪な住環境を特徴とする地区・地域全体。",
+      "public housing：政府・自治体などが低所得者等に提供する公的住宅で、建物形式や劣悪さを意味しない。",
+      "lodging house：居住者が個室を借り、設備の一部を共有する宿泊・居住施設。独立住戸の集合とは限らない。"
+    ],
+    "en": [
+      "tenement: an urban building divided into rented dwellings, historically associated in American English with overcrowding, poverty, and poor facilities.",
+      "apartment building: the neutral modern general term for a building containing multiple independent residential units.",
+      "slum: an entire district characterized by poverty and poor housing conditions rather than one particular building.",
+      "public housing: accommodation provided by a government or public authority, without implying a particular building type or poor condition.",
+      "lodging house: a residence where occupants rent rooms and may share facilities, without necessarily having independent apartments."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語tenementは、古フランス語tenementを経て、ラテン語tenementum『保有物、保有される財産』に由来する。これはtenere『持つ、保有する』から形成された。もともとは保有・占有できる土地や建物を広く表す法律用語だったが、後に賃借人が保有・占有する住居、さらに複数世帯向けの賃貸集合住宅を指すようになった。tenant、tenure、maintainなどもtenereに関係する。",
+    "en": "Tenement entered Middle English through Old French tenement and derives from Latin tenementum, meaning something held or property in one's possession. It was formed from tenere, meaning to hold. The word originally had the broad legal sense of land or buildings capable of being held, then came to denote a dwelling held by a tenant and eventually a building divided into rental dwellings. Tenant and tenure derive from the same Latin root, and maintain is also historically related."
+  },
+  "synonyms": [
+    {
+      "word": "apartment building",
+      "note": {
+        "ja": "複数の独立住戸を備えた建物を表す中立的な現代語。tenementの歴史的・社会的含意を持たない。",
+        "en": "The neutral modern term for a building containing multiple apartments, without the historical or social connotations of tenement."
+      }
+    },
+    {
+      "word": "block of flats",
+      "note": {
+        "ja": "集合住宅を表す主にイギリス英語の中立的な表現。",
+        "en": "A neutral expression used mainly in British English for a building containing multiple flats."
+      }
+    },
+    {
+      "word": "rental property",
+      "note": {
+        "ja": "賃貸される住宅・建物・不動産全般を表し、一戸建ても含み得る。",
+        "en": "A broad term for any property offered for rent and may include individual houses as well as apartment buildings."
+      }
+    },
+    {
+      "word": "walk-up",
+      "note": {
+        "ja": "エレベーターがなく階段で上る集合住宅、またはその住戸。貧困・劣悪さは必須ではない。",
+        "en": "An apartment building or unit reached by stairs because there is no elevator, without necessarily implying poverty or poor conditions."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Mietshaus / Mietskaserne",
+    "it": "caseggiato popolare / edificio in affitto",
+    "fr": "immeuble de rapport / immeuble populaire",
+    "es": "casa de vecindad / edificio de alquiler"
+  },
+  "collocations": {
+    "ja": [
+      "a tenement building — 賃貸集合住宅",
+      "a tenement block — 集合住宅棟",
+      "a crowded tenement — 過密な集合住宅",
+      "a dilapidated tenement — 老朽化した集合住宅",
+      "an overcrowded tenement — 人が過密状態で暮らす集合住宅",
+      "tenement housing — テネメント型の賃貸集合住宅",
+      "tenement dwellers — テネメントの住民",
+      "live in a tenement — テネメントに住む",
+      "a Glasgow tenement — グラスゴー型の集合住宅",
+      "dominant and servient tenements — 要役地と承役地"
+    ],
+    "en": [
+      "a tenement building",
+      "a tenement block",
+      "a crowded tenement",
+      "a dilapidated tenement",
+      "an overcrowded tenement",
+      "tenement housing",
+      "tenement dwellers",
+      "live in a tenement",
+      "a Glasgow tenement",
+      "dominant and servient tenements"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Several families lived in each floor of the overcrowded tenement. — その過密な集合住宅では、各階に複数の家族が暮らしていた。",
+      "Many nineteenth-century tenements lacked adequate ventilation and sanitation. — 19世紀の多くのテネメントには、十分な換気設備や衛生設備がなかった。",
+      "The museum preserves a former tenement apartment occupied by an immigrant family. — その博物館は、かつて移民一家が暮らしたテネメントの一室を保存している。",
+      "They bought a flat in a traditional Edinburgh tenement. — 彼らはエディンバラの伝統的な集合住宅の一室を購入した。",
+      "The easement benefits the dominant tenement and burdens the servient tenement. — その地役権は要役地に利益を与え、承役地に負担を課す。"
+    ],
+    "en": [
+      "Several families lived on each floor of the overcrowded tenement.",
+      "Many nineteenth-century tenements lacked adequate ventilation and sanitation.",
+      "The museum preserves a former tenement apartment occupied by an immigrant family.",
+      "They bought a flat in a traditional Edinburgh tenement.",
+      "The easement benefits the dominant tenement and burdens the servient tenement."
+    ]
+  }
+},
+{
+  "id": "vile",
+  "sid": "2026-01003",
+  "word": "vile",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "morality",
+    "disgust",
+    "unpleasantness",
+    "insult",
+    "behavior",
+    "strong language",
+    "formal",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj",
+    "comparison": {
+      "comparative": "viler / more vile",
+      "superlative": "vilest / most vile"
+    },
+    "related": {
+      "noun": "vileness",
+      "adverb": "vilely",
+      "verb": "vilify"
+    },
+    "patterns": [
+      "a vile person / act / crime",
+      "vile language / abuse",
+      "a vile smell / taste",
+      "vile weather / conditions",
+      "find something vile",
+      "utterly / absolutely vile"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/vaɪl/",
+      "uk": "/vaɪl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "道徳的に極めて卑劣な、邪悪で嫌悪すべき",
+      "人を侮辱・傷つけるような下劣な",
+      "臭い・味・外見などがひどく不快な",
+      "天候・環境・経験などが非常にひどい",
+      "強い嫌悪や軽蔑を引き起こす"
+    ],
+    "en": [
+      "morally extremely bad, wicked, or deserving of disgust",
+      "offensively cruel, abusive, or degrading",
+      "extremely unpleasant in smell, taste, or appearance",
+      "very bad or disagreeable, especially of weather, conditions, or an experience",
+      "causing intense disgust or contempt"
+    ]
+  },
+  "nuance": {
+    "ja": "vileは単にbadより程度が強く、対象に対する強い嫌悪・軽蔑・道徳的非難を含む。a vile crimeなら、犯罪が重大であるだけでなく、卑劣で人間的に許し難いという評価を表す。vile abuseやvile commentsでは、侮辱的・差別的・下劣な言葉を強く非難する。日常英語、特にイギリス英語では、vile weather、a vile smell、This tastes vile.のように、道徳とは無関係な『最悪に不快な』という意味でも使われる。人を直接vileと呼ぶのは非常に強い侮辱になる。比較級はviler、最上級はvilestが規則的な形だが、more vile、most vileも使われる。",
+    "en": "Vile is much stronger than bad and communicates intense disgust, contempt, or moral condemnation. A vile crime is not merely serious but regarded as despicable and deeply offensive to basic human standards. Vile abuse or vile comments strongly condemns language as degrading, hateful, or obscene. In everyday usage, particularly in British English, vile can also describe nonmoral unpleasantness, as in vile weather, a vile smell, or This tastes vile. Calling a person vile is a severe insult. The regular comparative and superlative forms are viler and vilest, although more vile and most vile are also used."
+  },
+  "minimal": {
+    "ja": [
+      "vile：道徳的に卑劣で、または感覚的にひどく不快で、強い嫌悪を引き起こす。",
+      "evil：意図的に重大な害を与える、道徳的に根本から邪悪な性質に重点がある。",
+      "wicked：道徳的に悪いことを表すが、文脈によっては古風・宗教的、または冗談めいた響きも持つ。",
+      "disgusting：吐き気・嫌悪感を引き起こすことに重点があり、必ずしも道徳的な悪を意味しない。",
+      "despicable：軽蔑に値するほど卑劣・利己的な行為や人物に重点がある。"
+    ],
+    "en": [
+      "vile: morally despicable or sensorially extremely unpleasant, causing strong disgust.",
+      "evil: fundamentally morally wrong and intentionally harmful, with emphasis on profound wickedness.",
+      "wicked: morally bad, though it can sound old-fashioned, religious, or even playful depending on context.",
+      "disgusting: causing physical or emotional revulsion, without necessarily implying moral evil.",
+      "despicable: deserving contempt because of particularly base, selfish, or dishonorable behavior."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語vil『価値の低い、卑しい』を経て、ラテン語vilis『安価な、価値のない、卑しい』に由来する。もともとは金銭的・社会的な価値が低いことを表したが、そこから人格・行為が『卑しい、軽蔑すべき』という道徳的意味へ発達し、さらに感覚的にひどく不快なものにも使われるようになった。vilifyも同じ語源を持つ。",
+    "en": "Vile comes through Old French vil, meaning low, base, or worthless, from Latin vilis, meaning cheap, of little value, or contemptible. It originally referred to low material or social value, then developed the moral sense of base or despicable conduct and later the broader sense of something intensely unpleasant. Vilify derives from the same source."
+  },
+  "synonyms": [
+    {
+      "word": "despicable",
+      "note": {
+        "ja": "人・行為が卑劣で軽蔑に値することを表す。感覚的な臭いや味には通常使わない。",
+        "en": "Describes a person or act as base and deserving contempt, but is not normally used for smells or tastes."
+      }
+    },
+    {
+      "word": "repulsive",
+      "note": {
+        "ja": "人・外見・臭い・考えなどが強い嫌悪感を引き起こし、遠ざけたくなることを表す。",
+        "en": "Describes a person, appearance, smell, or idea that produces strong revulsion and a desire to move away."
+      }
+    },
+    {
+      "word": "foul",
+      "note": {
+        "ja": "臭い・空気・言葉・行為などが汚い、腐った、下品で不快であることを表す。",
+        "en": "Describes smells, air, language, or conduct as dirty, rotten, offensive, or obscene."
+      }
+    },
+    {
+      "word": "heinous",
+      "note": {
+        "ja": "犯罪・行為が極めて残虐・邪悪であることを表す非常に硬い語。",
+        "en": "A highly formal adjective for a crime or act that is shockingly cruel or morally wicked."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "abscheulich / widerlich",
+    "it": "vile / ripugnante",
+    "fr": "vil / répugnant",
+    "es": "vil / repugnante"
+  },
+  "collocations": {
+    "ja": [
+      "a vile person — 卑劣極まりない人物",
+      "a vile act — 卑劣な行為",
+      "a vile crime — 極悪非道な犯罪",
+      "a vile accusation — 卑劣な非難・告発",
+      "vile abuse — 下劣な罵倒",
+      "vile language — 下品で嫌悪すべき言葉",
+      "a vile smell — ひどく不快な臭い",
+      "a vile taste — ひどく不快な味",
+      "vile weather — 最悪の天候",
+      "absolutely vile — まったくもって嫌悪すべき・最悪な"
+    ],
+    "en": [
+      "a vile person",
+      "a vile act",
+      "a vile crime",
+      "a vile accusation",
+      "vile abuse",
+      "vile language",
+      "a vile smell",
+      "a vile taste",
+      "vile weather",
+      "absolutely vile"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The court described the attack as a vile and cowardly act. — 裁判所はその襲撃を卑劣かつ臆病な行為と評した。",
+      "She received a series of vile messages on social media. — 彼女はSNS上で一連の下劣なメッセージを受け取った。",
+      "A vile smell was coming from the abandoned building. — その廃ビルからひどく不快な臭いが漂っていた。",
+      "The medicine tasted absolutely vile. — その薬はまったくひどい味がした。",
+      "We stayed indoors because the weather was vile. — 天候が最悪だったため、私たちは屋内にとどまった。"
+    ],
+    "en": [
+      "The court described the attack as a vile and cowardly act.",
+      "She received a series of vile messages on social media.",
+      "A vile smell was coming from the abandoned building.",
+      "The medicine tasted absolutely vile.",
+      "We stayed indoors because the weather was vile."
+    ]
+  }
+},
+{
+  "id": "heinous",
+  "sid": "2026-01004",
+  "word": "heinous",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "crime",
+    "morality",
+    "cruelty",
+    "condemnation",
+    "legal",
+    "journalism",
+    "strong language",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj",
+    "comparison": {
+      "comparative": "more heinous",
+      "superlative": "most heinous"
+    },
+    "related": {
+      "noun": "heinousness",
+      "adverb": "heinously"
+    },
+    "patterns": [
+      "a heinous crime / offense",
+      "a heinous act",
+      "a particularly heinous form of + noun",
+      "morally heinous",
+      "be regarded / condemned as heinous",
+      "the most heinous + plural noun"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈheɪnəs/",
+      "uk": "/ˈheɪnəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "犯罪・行為などが極めて凶悪で憎むべき",
+      "残虐性・非人道性が著しく、強い道徳的非難に値する",
+      "人々に激しい衝撃・嫌悪・憤りを引き起こす"
+    ],
+    "en": [
+      "extremely wicked and deserving intense hatred or condemnation",
+      "shockingly cruel, inhumane, or morally reprehensible",
+      "causing severe outrage, horror, or disgust because of its moral gravity"
+    ]
+  },
+  "nuance": {
+    "ja": "heinousは、殺人・拷問・虐待・戦争犯罪など、極めて重大で残虐な行為を強く非難する際に使われる。単に違法・悪質というだけでなく、人間として許し難いほど凶悪であるという判断を含む。vileは人物・言葉・臭い・味・天候にも使えるが、heinousは通常、重大な犯罪・行為・残虐行為など道徳的対象に限定される。報道・裁判・政治的声明で頻繁に現れるが、heinous crimeがすべての法域で特定の法的分類を意味するわけではなく、文脈によっては強い評価表現にすぎない。日常会話で軽微な失敗や味の悪さに使うと、意図的な誇張・冗談に聞こえる。",
+    "en": "Heinous is used to condemn acts of exceptional moral gravity, such as murder, torture, severe abuse, atrocities, and war crimes. It implies not merely that conduct is illegal or bad but that it is shockingly cruel and fundamentally abhorrent. Vile can describe people, language, smells, tastes, and weather, whereas heinous is normally restricted to serious moral wrongdoing. It is common in journalism, judicial discussion, and official condemnation. However, heinous crime is not necessarily a defined legal classification in every jurisdiction and may simply function as strongly evaluative language. Applying heinous to a minor inconvenience or unpleasant taste normally sounds deliberately exaggerated or humorous."
+  },
+  "minimal": {
+    "ja": [
+      "heinous：犯罪・残虐行為が、極端に凶悪・非人道的で強い道徳的非難に値する。",
+      "vile：道徳的に卑劣、または感覚的にひどく不快であることを表す、適用範囲の広い語。",
+      "atrocious：行為が極めて残虐、または品質・状況が驚くほどひどいことを表す。",
+      "despicable：卑劣・利己的で、人として軽蔑に値することに重点がある。",
+      "egregious：誤り・違反・不正などが、普通の程度を大きく超えて目立って悪い。"
+    ],
+    "en": [
+      "heinous: describes a crime or atrocity as exceptionally wicked, inhumane, and deserving intense moral condemnation.",
+      "vile: the broader term for something morally despicable or sensorially extremely unpleasant.",
+      "atrocious: describes conduct as extremely cruel or a quality or condition as shockingly bad.",
+      "despicable: emphasizes that selfish or dishonorable behavior makes someone worthy of contempt.",
+      "egregious: describes an error, violation, or wrongdoing as outstandingly and conspicuously bad."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語heinousは、古フランス語haineus・haïnos『憎むべき、憎しみに満ちた』に由来する。これはhaine『憎しみ』から形成され、さらにゲルマン系の語源にさかのぼり、英語のhateとも関係する。もともと『憎悪を引き起こす』という意味であり、そこから極めて凶悪で道徳的に許し難いという現在の意味になった。",
+    "en": "Heinous entered Middle English from Old French haineus or haïnos, meaning hateful or full of hatred. It was formed from haine, meaning hatred, which is Germanic in origin and historically related to English hate. Its original sense of arousing hatred developed into the modern meaning of shockingly wicked and morally abhorrent."
+  },
+  "synonyms": [
+    {
+      "word": "atrocious",
+      "note": {
+        "ja": "極めて残虐な行為に使うほか、サービス・天候・演技などが非常に悪い意味にも使える。",
+        "en": "Used for extremely cruel conduct but also for very poor service, weather, performance, or quality."
+      }
+    },
+    {
+      "word": "monstrous",
+      "note": {
+        "ja": "行為・不正・考えなどが人間離れするほど残酷・不当であることを強調する。",
+        "en": "Emphasizes that an act, injustice, or idea is so cruel or outrageous as to seem inhuman."
+      }
+    },
+    {
+      "word": "abhorrent",
+      "note": {
+        "ja": "行為・信念などが道徳的に強い嫌悪を引き起こすことを表す。",
+        "en": "Describes conduct or a belief as causing intense moral disgust and rejection."
+      }
+    },
+    {
+      "word": "odious",
+      "note": {
+        "ja": "人物・行為・制度などが強い嫌悪・憎悪に値することを表す硬い語。",
+        "en": "A formal adjective describing a person, act, or system as deserving intense dislike or hatred."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "abscheulich / ruchlos",
+    "it": "efferato / atroce",
+    "fr": "odieux / abominable",
+    "es": "atroz / abominable"
+  },
+  "collocations": {
+    "ja": [
+      "a heinous crime — 極悪非道な犯罪",
+      "a heinous offense — 極めて凶悪な犯罪・違反",
+      "a heinous act — 凶悪な行為",
+      "a heinous murder — 残虐な殺人",
+      "a heinous attack — 極めて残虐な攻撃",
+      "a heinous atrocity — 極悪非道な残虐行為",
+      "particularly heinous conduct — 特に凶悪な行為",
+      "morally heinous — 道徳的に極めて許し難い",
+      "condemn something as heinous — 何かを凶悪なものとして非難する",
+      "one of the most heinous crimes — 最も凶悪な犯罪の一つ"
+    ],
+    "en": [
+      "a heinous crime",
+      "a heinous offense",
+      "a heinous act",
+      "a heinous murder",
+      "a heinous attack",
+      "a heinous atrocity",
+      "particularly heinous conduct",
+      "morally heinous",
+      "condemn something as heinous",
+      "one of the most heinous crimes"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The judge described the offense as a particularly heinous crime. — 裁判官はその犯罪を特に凶悪なものと評した。",
+      "The international community condemned the attack as a heinous act. — 国際社会はその攻撃を極悪非道な行為として非難した。",
+      "He was accused of committing heinous crimes against civilians. — 彼は民間人に対する極めて凶悪な犯罪を行ったとして告発された。",
+      "Nothing can justify such heinous treatment of vulnerable people. — 弱い立場の人々に対するそのような非人道的扱いを正当化できるものは何もない。",
+      "The investigation revealed the full extent of the heinous abuse. — 調査によって、その凶悪な虐待の全容が明らかになった。"
+    ],
+    "en": [
+      "The judge described the offense as a particularly heinous crime.",
+      "The international community condemned the attack as a heinous act.",
+      "He was accused of committing heinous crimes against civilians.",
+      "Nothing can justify such heinous treatment of vulnerable people.",
+      "The investigation revealed the full extent of the heinous abuse."
+    ]
+  }
+},
+{
+  "id": "despicable",
+  "sid": "2026-01005",
+  "word": "despicable",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "morality",
+    "contempt",
+    "behavior",
+    "character",
+    "dishonesty",
+    "condemnation",
+    "strong language",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj",
+    "comparison": {
+      "comparative": "more despicable",
+      "superlative": "most despicable"
+    },
+    "related": {
+      "verb": "despise",
+      "noun": "despicability / despicableness",
+      "adverb": "despicably"
+    },
+    "patterns": [
+      "a despicable person / act",
+      "despicable behavior / conduct",
+      "find someone / something despicable",
+      "regard something as despicable",
+      "morally / utterly despicable",
+      "it is despicable to do something"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈspɪkəbəl/",
+      "uk": "/dɪˈspɪkəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人物・行為などが卑劣で軽蔑に値する",
+      "弱者を利用するなど、道徳的に非常に下劣な",
+      "不誠実・利己的・臆病で、人として尊敬できない",
+      "強い嫌悪と侮蔑を引き起こす"
+    ],
+    "en": [
+      "deserving contempt because of morally base behavior",
+      "extremely dishonorable, especially through exploiting or harming vulnerable people",
+      "selfish, dishonest, or cowardly in a way that destroys respect",
+      "causing intense moral disgust and contempt"
+    ]
+  },
+  "nuance": {
+    "ja": "despicableは、人物・行為・態度が道徳的に卑しく、尊敬にまったく値しないという強い評価を表す。単に悪い結果を生じさせたのではなく、弱者につけ込む、責任を他人に押し付ける、信頼を裏切るなど、その人の人格や動機に軽蔑すべき点がある場合に適している。heinousほど犯罪の残虐性や重大性を必要とせず、日常的な裏切り・いじめ・卑怯な行動にも使える。vileと近いが、despicableは臭い・味・天候には通常使わず、人間の人格・行為に対する道徳的軽蔑に焦点を置く。人に直接You're despicable.と言うのは非常に強い侮辱になる。",
+    "en": "Despicable describes a person, action, or attitude as morally base and entirely unworthy of respect. It is appropriate when someone exploits the vulnerable, shifts blame, betrays trust, or acts selfishly or cowardly, so that the person's character or motive becomes an object of contempt. Unlike heinous, it does not require an atrocity or extremely serious crime and can describe everyday betrayal, bullying, or dishonorable conduct. It is close to vile, but despicable is normally confined to moral character and behavior rather than smells, tastes, or weather. Directly telling someone You are despicable is a very strong insult."
+  },
+  "minimal": {
+    "ja": [
+      "despicable：人物・行為が卑劣・利己的・不名誉で、人として軽蔑に値する。",
+      "contemptible：尊敬に値せず軽蔑すべきことを表す、despicableに非常に近い硬い語。",
+      "vile：道徳的に卑劣、または臭い・味などが感覚的にひどく不快であることを表す。",
+      "heinous：重大な犯罪・残虐行為が、極端に凶悪で憎むべきことを表す。",
+      "reprehensible：行為・態度が強い非難に値することを、比較的客観的・形式的に表す。"
+    ],
+    "en": [
+      "despicable: describes a person or act as base, selfish, or dishonorable and therefore deserving contempt.",
+      "contemptible: a very close and formal term for something unworthy of respect and deserving contempt.",
+      "vile: describes something as morally base or, more broadly, extremely unpleasant in smell, taste, or other sensation.",
+      "heinous: describes a serious crime or atrocity as exceptionally wicked and abhorrent.",
+      "reprehensible: formally and relatively objectively describes conduct or an attitude as deserving strong condemnation."
+    ]
+  },
+  "etymology": {
+    "ja": "後期ラテン語despicabilis『軽蔑すべき』に由来し、ラテン語despicari・despicere『見下す、軽蔑する』と関連する。despicereはde-『下へ』とspecere『見る』から成り、文字どおりには『下を見る、見下ろす』という構造。そこから『軽蔑する』、さらに『見下され軽蔑されるに値する』という意味が生まれた。despiseも同じラテン語に由来する。",
+    "en": "Despicable comes from Late Latin despicabilis, meaning deserving contempt, and is related to Latin despicari and despicere, meaning to look down on or despise. Despicere combines de-, meaning down, with specere, meaning to look. Its literal image is therefore looking downward at someone or something. This developed into the sense of despising and then deserving to be despised. Despise comes from the same Latin source."
+  },
+  "synonyms": [
+    {
+      "word": "contemptible",
+      "note": {
+        "ja": "軽蔑に値することを直接表す硬い語。despicableとほぼ同義。",
+        "en": "A formal near-synonym directly meaning worthy of contempt."
+      }
+    },
+    {
+      "word": "reprehensible",
+      "note": {
+        "ja": "行為・態度が道徳的に強い非難に値する。法律・公式声明などでも使いやすい。",
+        "en": "Describes morally blameworthy conduct and is suitable for legal, institutional, or official condemnation."
+      }
+    },
+    {
+      "word": "deplorable",
+      "note": {
+        "ja": "行為・状況・基準などが非常に悪く、強い非難や遺憾に値する。",
+        "en": "Describes conduct, conditions, or standards as shockingly bad and deserving condemnation or regret."
+      }
+    },
+    {
+      "word": "base",
+      "note": {
+        "ja": "動機・性格・行為が高潔さを欠き、卑しく不名誉であることを表す文学的な語。",
+        "en": "A literary adjective for motives, character, or conduct that lacks honor and is morally low."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verabscheuungswürdig / niederträchtig",
+    "it": "spregevole / ignobile",
+    "fr": "méprisable",
+    "es": "despreciable"
+  },
+  "collocations": {
+    "ja": [
+      "a despicable person — 卑劣な人物",
+      "a despicable act — 軽蔑すべき行為",
+      "despicable behavior — 卑劣な振る舞い",
+      "despicable conduct — 軽蔑すべき行為",
+      "a despicable lie — 卑劣な嘘",
+      "a despicable betrayal — 卑劣な裏切り",
+      "a despicable crime — 卑劣な犯罪",
+      "morally despicable — 道徳的に軽蔑すべき",
+      "utterly despicable — まったくもって卑劣な",
+      "find something despicable — 何かを軽蔑すべきものと考える"
+    ],
+    "en": [
+      "a despicable person",
+      "a despicable act",
+      "despicable behavior",
+      "despicable conduct",
+      "a despicable lie",
+      "a despicable betrayal",
+      "a despicable crime",
+      "morally despicable",
+      "utterly despicable",
+      "find something despicable"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Exploiting elderly people for financial gain is despicable. — 金銭的利益のために高齢者につけ込むことは卑劣極まりない。",
+      "The judge described his conduct as cowardly and despicable. — 裁判官は彼の行為を臆病かつ軽蔑すべきものと評した。",
+      "She told a despicable lie to avoid taking responsibility. — 彼女は責任を逃れるために卑劣な嘘をついた。",
+      "Targeting vulnerable consumers is a particularly despicable business practice. — 弱い立場の消費者を狙うことは、特に卑劣な商慣行である。",
+      "His betrayal of those who trusted him was utterly despicable. — 自分を信頼していた人々に対する彼の裏切りは、まったくもって卑劣だった。"
+    ],
+    "en": [
+      "Exploiting elderly people for financial gain is despicable.",
+      "The judge described his conduct as cowardly and despicable.",
+      "She told a despicable lie to avoid taking responsibility.",
+      "Targeting vulnerable consumers is a particularly despicable business practice.",
+      "His betrayal of those who trusted him was utterly despicable."
+    ]
+  }
+},
+{
+  "id": "contemptible",
+  "sid": "2026-01006",
+  "word": "contemptible",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "morality",
+    "contempt",
+    "behavior",
+    "character",
+    "dishonor",
+    "condemnation",
+    "formal",
+    "strong language",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj",
+    "comparison": {
+      "comparative": "more contemptible",
+      "superlative": "most contemptible"
+    },
+    "related": {
+      "noun": "contempt",
+      "adverb": "contemptibly",
+      "contrast_adjective": "contemptuous"
+    },
+    "patterns": [
+      "a contemptible person / act",
+      "contemptible behavior / conduct",
+      "find someone / something contemptible",
+      "regard something as contemptible",
+      "morally / utterly contemptible",
+      "it is contemptible to do something"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈtemptəbəl/",
+      "uk": "/kənˈtemptəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人物・行為などが軽蔑に値する",
+      "卑劣・利己的・不名誉で尊敬する価値がない",
+      "卑小・臆病・情けないほど品位を欠いた",
+      "道徳的に下劣で、見下されて当然の"
+    ],
+    "en": [
+      "deserving contempt or complete lack of respect",
+      "dishonorable, selfish, or base in character or conduct",
+      "mean, cowardly, or petty to a degree that destroys respect",
+      "morally degraded and worthy of being looked down upon"
+    ]
+  },
+  "nuance": {
+    "ja": "contemptibleは、人・行為・動機などがあまりに卑劣・卑小・不名誉で、尊敬ではなく軽蔑に値することを表す。despicableと非常に近いが、despicableが強い道徳的嫌悪を前面に出しやすいのに対し、contemptibleは対象を『人として低く、取るに足りない』と見下す評価をより直接的に表す。そのため、弱者いじめ、責任逃れ、卑怯な裏切り、私利私欲のための虚偽などによく使われる。contemptibleは軽蔑される側の性質を表す。一方、contemptuousは軽蔑する側の態度・表情・口調を表し、a contemptuous smileなら『軽蔑を示す笑み』となる。",
+    "en": "Contemptible describes a person, act, or motive as so base, petty, cowardly, or dishonorable that it deserves no respect. It is extremely close to despicable, but despicable often foregrounds strong moral disgust, while contemptible more directly presents the object as low and unworthy of respect. It is therefore suitable for bullying the vulnerable, evading responsibility, cowardly betrayal, or dishonest conduct motivated by self-interest. Contemptible describes the person or conduct receiving contempt. Contemptuous describes the attitude of the person expressing contempt; a contemptuous smile is a smile that shows scorn."
+  },
+  "minimal": {
+    "ja": [
+      "contemptible：卑劣・卑小・不名誉で、尊敬に値せず軽蔑されて当然の。",
+      "despicable：人物・行為が道徳的に卑劣で、強い嫌悪と軽蔑に値する。",
+      "contemptuous：人・態度・表情が、他者への軽蔑を示している。",
+      "reprehensible：行為・態度が道徳的に強い非難に値することを、比較的形式的に表す。",
+      "pathetic：弱々しい・無力・不十分で哀れ、または軽蔑したくなるほど情けない。"
+    ],
+    "en": [
+      "contemptible: base, petty, or dishonorable and therefore unworthy of respect and deserving contempt.",
+      "despicable: morally base and deserving intense disgust and contempt.",
+      "contemptuous: showing that the speaker or actor feels contempt for someone else.",
+      "reprehensible: formally describes conduct or an attitude as morally deserving strong condemnation.",
+      "pathetic: weak, inadequate, or pitiable, sometimes so poor as to provoke scorn."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語contemptibilis『軽蔑すべき』に由来し、その基礎にはcontemnere『軽蔑する、見下す』がある。contemnereの過去分詞contemptusから英語のcontempt『軽蔑』が生まれた。接尾辞-ableに相当する要素によって、文字どおり『軽蔑され得る・軽蔑に値する』という意味を形成している。",
+    "en": "Contemptible derives from Latin contemptibilis, meaning deserving contempt, based on contemnere, meaning to despise or scorn. The past participle contemptus also gave English the noun contempt. Its formation literally conveys being capable or worthy of being treated with contempt."
+  },
+  "synonyms": [
+    {
+      "word": "despicable",
+      "note": {
+        "ja": "道徳的に卑劣で軽蔑すべきことを表す最も近い語。強い嫌悪を伴いやすい。",
+        "en": "The closest common synonym, describing something as morally base and often conveying stronger disgust."
+      }
+    },
+    {
+      "word": "base",
+      "note": {
+        "ja": "動機・性格・行為が高潔さを欠き、道徳的に卑しいことを表す文学的な語。",
+        "en": "A literary adjective for motives, character, or conduct that are morally low and lacking in honor."
+      }
+    },
+    {
+      "word": "ignoble",
+      "note": {
+        "ja": "動機・目的・行為が高潔さや名誉を欠くことを表す硬い語。",
+        "en": "A formal adjective describing a motive, purpose, or act as lacking honor or nobility."
+      }
+    },
+    {
+      "word": "mean",
+      "note": {
+        "ja": "人・行為が意地悪、卑劣、けちであることを表す日常的な語。",
+        "en": "An everyday adjective for behavior that is unkind, petty, selfish, or ungenerous."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verächtlich / verachtenswert",
+    "it": "spregevole",
+    "fr": "méprisable",
+    "es": "despreciable"
+  },
+  "collocations": {
+    "ja": [
+      "a contemptible person — 軽蔑すべき人物",
+      "a contemptible act — 卑劣な行為",
+      "contemptible behavior — 軽蔑すべき振る舞い",
+      "contemptible conduct — 卑劣な行為",
+      "a contemptible lie — 卑劣な嘘",
+      "a contemptible betrayal — 軽蔑すべき裏切り",
+      "a contemptible motive — 卑しい動機",
+      "morally contemptible — 道徳的に軽蔑すべき",
+      "utterly contemptible — まったくもって卑劣な",
+      "regard something as contemptible — 何かを軽蔑すべきものとみなす"
+    ],
+    "en": [
+      "a contemptible person",
+      "a contemptible act",
+      "contemptible behavior",
+      "contemptible conduct",
+      "a contemptible lie",
+      "a contemptible betrayal",
+      "a contemptible motive",
+      "morally contemptible",
+      "utterly contemptible",
+      "regard something as contemptible"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Taking advantage of vulnerable people is utterly contemptible. — 弱い立場の人々につけ込むことは、まったくもって卑劣である。",
+      "He made a contemptible attempt to shift the blame onto a junior employee. — 彼は責任を若手従業員に押し付けようという卑劣な試みをした。",
+      "The court regarded the deliberate concealment of evidence as contemptible conduct. — 裁判所は意図的な証拠隠しを軽蔑すべき行為とみなした。",
+      "She found his willingness to betray his colleagues for personal gain contemptible. — 私益のためなら同僚を裏切る彼の姿勢を、彼女は軽蔑すべきものだと感じた。",
+      "He gave a contemptuous laugh when confronted about his contemptible behavior. — 自分の卑劣な行動を問いただされると、彼は軽蔑を込めて笑った。"
+    ],
+    "en": [
+      "Taking advantage of vulnerable people is utterly contemptible.",
+      "He made a contemptible attempt to shift the blame onto a junior employee.",
+      "The court regarded the deliberate concealment of evidence as contemptible conduct.",
+      "She found his willingness to betray his colleagues for personal gain contemptible.",
+      "He gave a contemptuous laugh when confronted about his contemptible behavior."
+    ]
+  }
+},
+{
+  "id": "contempt",
+  "sid": "2026-01007",
+  "word": "contempt",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "emotion",
+    "disrespect",
+    "morality",
+    "authority",
+    "court",
+    "legal",
+    "formal",
+    "strong language",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "usually uncountable / countable in some legal uses",
+    "related": {
+      "adjectives": "contemptible / contemptuous",
+      "adverb": "contemptuously",
+      "person_legal": "contemnor"
+    },
+    "patterns": [
+      "contempt for + person / rule / authority",
+      "hold someone / something in contempt",
+      "treat someone / something with contempt",
+      "regard something with contempt",
+      "beneath contempt",
+      "contempt of court",
+      "be held / found in contempt"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈtempt/",
+      "uk": "/kənˈtempt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人・行為などを価値がなく尊敬に値しないと考える強い軽蔑",
+      "規則・権威・社会的基準などを公然と無視する態度",
+      "裁判所命令への不服従や司法手続の妨害",
+      "裁判所・議会などの権威を侮辱・軽視する法的に処罰可能な行為"
+    ],
+    "en": [
+      "a strong feeling that a person or thing is worthless or undeserving of respect",
+      "open disregard for a rule, authority, or accepted standard",
+      "disobedience of a court order or obstruction of judicial proceedings",
+      "legally punishable conduct showing disregard for the authority of a court or legislature"
+    ]
+  },
+  "nuance": {
+    "ja": "contemptは単なるdislike『嫌い』ではなく、相手を自分より道徳的・知的・社会的に低く、尊重する価値がないと判断する感情を表す。嫌悪に加えて優越感や見下す態度を伴いやすい。hold someone in contemptは人を軽蔑すること、treat a rule with contemptは規則を守る価値もないかのように無視することを意味する。法的なcontempt of courtは、単に裁判官を内心で嫌うことではなく、裁判所命令への不服従や司法の適正な運営を妨げる行為を指す。米国法では一般に、履行を促す民事的 contempt と、過去の不服従を処罰する刑事的 contempt が区別されるが、分類・手続・制裁は法域によって異なる。",
+    "en": "Contempt is stronger and more hierarchical than dislike. It involves judging someone or something to be morally, intellectually, or socially inferior and unworthy of respect, often combining disgust with a sense of superiority. To hold someone in contempt is to despise that person, while treating a rule with contempt means disregarding it as though it deserves no obedience. Legal contempt of court does not mean privately disliking a judge; it concerns conduct such as disobeying a court order or obstructing the orderly administration of justice. In United States law, civil contempt generally seeks to compel compliance, while criminal contempt generally punishes misconduct, although classifications, procedures, and sanctions vary by jurisdiction."
+  },
+  "minimal": {
+    "ja": [
+      "contempt：相手を価値・品位がなく、尊敬に値しないと見下す強い感情。",
+      "scorn：軽蔑を態度・言葉として公然と示し、相手を拒絶・嘲笑することに重点がある。",
+      "disdain：自分には相手が低俗・取るに足りないとして、関わる価値もないとする冷ややかな軽蔑。",
+      "disrespect：人・規則・権威に相応の敬意を示さないことを表す、より広く比較的弱い語。",
+      "disgust：不潔さ・不道徳さなどに対する強い嫌悪感で、優越感や見下しは必須ではない。"
+    ],
+    "en": [
+      "contempt: a strong judgment that someone or something is inferior, worthless, and undeserving of respect.",
+      "scorn: contempt openly expressed through rejection, ridicule, words, or behavior.",
+      "disdain: cold contempt based on considering someone or something too inferior to deserve attention.",
+      "disrespect: the broader and generally weaker failure to show proper respect for a person, rule, or authority.",
+      "disgust: intense revulsion toward something dirty or immoral, without necessarily involving superiority or scorn."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語contemptus『軽蔑』に由来し、これはcontemnere『見下す、軽んじる』の過去分詞。contemnereはcon-とtemnere『軽蔑する』から成る。古フランス語contemptを経て英語に入り、『価値がないものとして扱うこと』を意味するようになった。contemptibleとcontemptuousも同じ語源を持つ。",
+    "en": "Contempt comes from Latin contemptus, meaning scorn or disdain, the past participle of contemnere, meaning to despise or treat as insignificant. It entered English through French and developed the sense of treating someone or something as lacking worth. Contemptible and contemptuous derive from the same source."
+  },
+  "synonyms": [
+    {
+      "word": "scorn",
+      "note": {
+        "ja": "軽蔑を嘲笑・拒絶・侮辱的態度として外に表すことを強く示す。",
+        "en": "Strongly suggests contempt expressed outwardly through ridicule, rejection, or insulting behavior."
+      }
+    },
+    {
+      "word": "disdain",
+      "note": {
+        "ja": "相手が低俗・劣等で関心に値しないとする、冷たく高慢な軽蔑。",
+        "en": "Cold and often proud contempt based on viewing another person or thing as inferior and unworthy of attention."
+      }
+    },
+    {
+      "word": "derision",
+      "note": {
+        "ja": "人・考えをばかにして笑うこととして表れる軽蔑。",
+        "en": "Contempt expressed by mocking or laughing at a person or idea."
+      }
+    },
+    {
+      "word": "disrespect",
+      "note": {
+        "ja": "適切な敬意を示さないこと。contemptほど強い価値否定を必要としない。",
+        "en": "A failure to show proper respect, without requiring the intense judgment of worthlessness found in contempt."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Verachtung / Missachtung",
+    "it": "disprezzo / oltraggio alla corte",
+    "fr": "mépris / outrage à la cour",
+    "es": "desprecio / desacato"
+  },
+  "collocations": {
+    "ja": [
+      "contempt for authority — 権威に対する軽蔑・無視",
+      "contempt for the law — 法律を軽視する態度",
+      "open contempt — 公然たる軽蔑",
+      "utter contempt — 完全な軽蔑",
+      "hold someone in contempt — 人を軽蔑する・法廷侮辱と認定する",
+      "treat someone with contempt — 人を軽蔑して扱う",
+      "regard something with contempt — 何かを軽蔑の目で見る",
+      "beneath contempt — 軽蔑する価値すらない",
+      "contempt of court — 法廷侮辱・裁判所侮辱",
+      "be found in contempt — 法廷侮辱に当たると認定される"
+    ],
+    "en": [
+      "contempt for authority",
+      "contempt for the law",
+      "open contempt",
+      "utter contempt",
+      "hold someone in contempt",
+      "treat someone with contempt",
+      "regard something with contempt",
+      "beneath contempt",
+      "contempt of court",
+      "be found in contempt"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She made no attempt to hide her contempt for him. — 彼女は彼への軽蔑を隠そうともしなかった。",
+      "The official treated the public's concerns with contempt. — その職員は市民の懸念を軽視して扱った。",
+      "He regarded such dishonest conduct with contempt. — 彼はそのような不誠実な行為を軽蔑していた。",
+      "The witness was held in contempt for refusing to comply with the court order. — その証人は裁判所命令への服従を拒んだため、法廷侮辱と認定された。",
+      "The judge warned that further disruption could constitute contempt of court. — 裁判官は、さらなる妨害行為が法廷侮辱に当たり得ると警告した。"
+    ],
+    "en": [
+      "She made no attempt to hide her contempt for him.",
+      "The official treated the public's concerns with contempt.",
+      "He regarded such dishonest conduct with contempt.",
+      "The witness was held in contempt for refusing to comply with the court order.",
+      "The judge warned that further disruption could constitute contempt of court."
+    ]
+  }
+},
+{
+  "id": "insult",
+  "sid": "2026-01008",
+  "word": "insult",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "noun",
+    "verb",
+    "offense",
+    "disrespect",
+    "language",
+    "behavior",
+    "emotion",
+    "conflict",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "noun": {
+      "countability": "countable",
+      "plural": "insults",
+      "patterns": [
+        "an insult to + person / intelligence",
+        "take something as an insult",
+        "regard something as an insult",
+        "exchange / trade insults",
+        "add insult to injury"
+      ]
+    },
+    "verb": {
+      "forms": {
+        "base": "insult",
+        "third_person": "insults",
+        "past": "insulted",
+        "past_participle": "insulted",
+        "gerund": "insulting"
+      },
+      "transitivity": "transitive",
+      "patterns": [
+        "insult + person / group",
+        "insult someone's intelligence",
+        "feel / be insulted by + remark / offer",
+        "mean / intend to insult",
+        "deeply / publicly insult + person"
+      ]
+    },
+    "related": {
+      "adjectives": "insulting / insulted",
+      "noun_person": "insulter"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": {
+        "noun": "/ˈɪnsʌlt/",
+        "verb": "/ɪnˈsʌlt/"
+      },
+      "uk": {
+        "noun": "/ˈɪnsʌlt/",
+        "verb": "/ɪnˈsʌlt/"
+      }
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人を侮辱する、無礼な言葉・行為によって尊厳を傷つける",
+      "人の知性・能力・人格などを見下していることを示す",
+      "相手の尊厳や価値を傷つける無礼な発言・行為",
+      "到底受け入れられないほど低い評価・報酬・提案",
+      "既に悪い状況をさらに悪化させる屈辱・追い打ち"
+    ],
+    "en": [
+      "to offend someone by saying or doing something disrespectful",
+      "to show that one considers another person's intelligence, ability, or character inferior",
+      "a disrespectful remark or action that attacks someone's dignity",
+      "an offer, payment, or assessment so inadequate that it is offensive",
+      "an additional humiliation or disadvantage imposed on an already bad situation"
+    ]
+  },
+  "nuance": {
+    "ja": "insultは、人の尊厳・知性・能力・社会的立場などを傷つける言葉や行為を表す。単に相手を不快にさせるだけでなく、『あなたには価値がない・劣っている』という軽視が伝わる点が中心となる。動詞insultは意図的な場合にも、意図せず相手に侮辱と受け取られた場合にも使える。名詞のan insult to my intelligenceは、説明や嘘があまりに見え透いていて、自分を愚か者扱いしているという意味。低すぎる報酬や提案をan insultと呼ぶこともある。insultingは侮辱を与える側、insultedは侮辱されたと感じる側を表す。名詞と動詞では強勢が異なる。",
+    "en": "Insult refers to language or conduct that attacks a person's dignity, intelligence, ability, character, or social standing. The central implication is not merely causing discomfort but communicating that the person is inferior or unworthy of respect. The verb can describe deliberate abuse or a remark unintentionally perceived as offensive. An insult to my intelligence means that an explanation or lie is so obvious that it treats the listener as foolish. An extremely inadequate payment or offer may also be called an insult. Insulting describes the remark or person causing the offense, while insulted describes the person who feels offended. The noun and verb have different stress patterns."
+  },
+  "minimal": {
+    "ja": [
+      "insult：無礼な言葉・行為によって、相手の尊厳・知性・人格を直接傷つける。",
+      "offend：言葉・行為が人を不快・立腹させる広い語で、軽蔑を示すとは限らない。",
+      "slight：十分な敬意・注意を与えず、人を軽視したと感じさせる比較的間接的な侮辱。",
+      "slur：人種・性別・出自などの集団的属性を攻撃する侮蔑語、または名誉を傷つける非難。",
+      "affront：人の尊厳・名誉に対する公然かつ重大な侮辱を表す硬い語。"
+    ],
+    "en": [
+      "insult: to directly attack someone's dignity, intelligence, or character through disrespectful words or conduct.",
+      "offend: the broader verb for causing displeasure or anger, without necessarily expressing contempt.",
+      "slight: a relatively indirect insult caused by failing to give someone expected respect or attention.",
+      "slur: a derogatory term attacking a group identity or a damaging accusation against someone's reputation.",
+      "affront: a formal term for an open and serious insult to a person's dignity or honor."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語insultare『飛びかかる、踏みつける、嘲る』に由来し、フランス語insulterを経て英語に入った。insultareはin-『～の上へ、～に対して』とsaltare『跳ぶ』から成り、saltareはsalire『跳ぶ』の反復形。もともとの『相手に飛びかかる』という身体的な攻撃のイメージが、言葉で相手を攻撃・嘲笑する意味へ発達した。",
+    "en": "Insult comes through French insulter from Latin insultare, meaning to leap upon, trample, or taunt. It combines in-, meaning upon or against, with saltare, meaning to jump, a frequentative form of salire. The physical image of jumping upon or attacking someone developed into the modern sense of attacking a person's dignity through words or conduct."
+  },
+  "synonyms": [
+    {
+      "word": "offend",
+      "note": {
+        "ja": "人の感情・信念・礼儀感覚を害する一般的な語。意図的な侮辱でなくても成立する。",
+        "en": "The general verb for hurting someone's feelings, beliefs, or sense of propriety and need not involve deliberate disrespect."
+      }
+    },
+    {
+      "word": "abuse",
+      "note": {
+        "ja": "人を罵倒するほか、身体的・精神的に虐待することも表す、より広く強い語。",
+        "en": "To verbally attack someone or subject them to physical or emotional mistreatment, broader and often stronger than insult."
+      }
+    },
+    {
+      "word": "affront",
+      "note": {
+        "ja": "人の尊厳・名誉・社会的地位に対する公然たる侮辱。名詞として使われることが多い。",
+        "en": "An open insult to dignity, honor, or status, used particularly often as a noun."
+      }
+    },
+    {
+      "word": "mock",
+      "note": {
+        "ja": "人・行動・特徴をまねたり笑ったりして、ばかにする。",
+        "en": "To imitate, laugh at, or speak about someone in a way intended to make them appear foolish."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "beleidigen / Beleidigung",
+    "it": "insultare / insulto",
+    "fr": "insulter / insulte",
+    "es": "insultar / insulto"
+  },
+  "collocations": {
+    "ja": [
+      "insult someone directly — 人を直接侮辱する",
+      "insult someone's intelligence — 人の知性を侮辱する",
+      "a personal insult — 個人に対する侮辱",
+      "a deliberate insult — 意図的な侮辱",
+      "a serious insult — 重大な侮辱",
+      "take something as an insult — 何かを侮辱と受け取る",
+      "feel deeply insulted — ひどく侮辱されたと感じる",
+      "exchange insults — 互いに罵り合う",
+      "an insult to one's intelligence — 人を愚か者扱いするようなもの",
+      "add insult to injury — 悪い状況にさらに追い打ちをかける"
+    ],
+    "en": [
+      "insult someone directly",
+      "insult someone's intelligence",
+      "a personal insult",
+      "a deliberate insult",
+      "a serious insult",
+      "take something as an insult",
+      "feel deeply insulted",
+      "exchange insults",
+      "an insult to one's intelligence",
+      "add insult to injury"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He insulted several colleagues during the meeting. — 彼は会議中に数名の同僚を侮辱した。",
+      "I did not intend to insult you. — あなたを侮辱するつもりはありませんでした。",
+      "That explanation is an insult to our intelligence. — その説明は、私たちを愚か者扱いするようなものだ。",
+      "She regarded the extremely low offer as a personal insult. — 彼女はその極端に低い提案額を個人的な侮辱と受け取った。",
+      "To add insult to injury, the company charged him a cancellation fee. — さらに追い打ちをかけるように、会社は彼にキャンセル料まで請求した。"
+    ],
+    "en": [
+      "He insulted several colleagues during the meeting.",
+      "I did not intend to insult you.",
+      "That explanation is an insult to our intelligence.",
+      "She regarded the extremely low offer as a personal insult.",
+      "To add insult to injury, the company charged him a cancellation fee."
+    ]
+  }
+},
+{
+  "id": "loathsome",
+  "sid": "2026-01009",
+  "word": "loathsome",
+  "level": "C1",
+  "freq": "rare",
+  "tags": [
+    "adjective",
+    "disgust",
+    "hatred",
+    "morality",
+    "appearance",
+    "behavior",
+    "strong language",
+    "literary",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj",
+    "comparison": {
+      "comparative": "more loathsome",
+      "superlative": "most loathsome"
+    },
+    "related": {
+      "verb": "loathe",
+      "noun": "loathsomeness",
+      "adverb": "loathsomely",
+      "contrast_adjective": "loath"
+    },
+    "patterns": [
+      "a loathsome person / creature",
+      "a loathsome act / crime",
+      "a loathsome smell / substance",
+      "find someone / something loathsome",
+      "regard something as loathsome",
+      "utterly / particularly loathsome"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈloʊðsəm/",
+      "uk": "/ˈləʊðsəm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "強い嫌悪・憎悪を引き起こす",
+      "人物・行為などが道徳的に非常に忌まわしい",
+      "生物・物質・臭い・外見などがひどく気味悪く不快な",
+      "近づきたくない、または存在を拒絶したくなるほど嫌な"
+    ],
+    "en": [
+      "causing intense disgust or hatred",
+      "morally repellent or deeply offensive in character or conduct",
+      "physically revolting in appearance, smell, or nature",
+      "so unpleasant that one strongly wishes to avoid or reject it"
+    ]
+  },
+  "nuance": {
+    "ja": "loathsomeは、人や物を見たり考えたりしたときに、強い嫌悪・憎悪が生じることを表す。despicableやcontemptibleが主として道徳的軽蔑に焦点を置くのに対し、loathsomeは道徳的な悪だけでなく、腐敗物、害虫、悪臭、病的な外見など、身体的・感覚的な嫌悪にも使える。vileと近いが、loathsomeは『心から嫌い、遠ざけたい』という反応をより直接的に示し、文学的・劇的な響きが強い。人をloathsomeと呼ぶのは極めて強い侮辱になる。関連語では、loatheは語末が有声の/ð/で『ひどく嫌う』、loathは無声の/θ/で『気が進まない』を意味する。",
+    "en": "Loathsome describes someone or something that arouses intense disgust, hatred, or revulsion. Whereas despicable and contemptible primarily concern moral contempt, loathsome can apply both to moral evil and to physically revolting creatures, substances, smells, or appearances. It is close to vile, but more directly emphasizes the emotional reaction of wanting to reject or avoid the object and often sounds literary or dramatic. Calling a person loathsome is an extremely strong insult. Among the related words, loathe ends with voiced /ð/ and means to hate intensely, while loath ends with voiceless /θ/ and means reluctant."
+  },
+  "minimal": {
+    "ja": [
+      "loathsome：人・行為・物などが、憎悪に近い強い嫌悪を引き起こす。",
+      "repulsive：外見・性質・行動などが強い嫌悪を引き起こし、遠ざけたくなる。",
+      "abhorrent：行為・信念などが道徳的原則に反し、強い拒絶・嫌悪を引き起こす。",
+      "disgusting：身体的・感情的な嫌悪感を引き起こす、より一般的な語。",
+      "despicable：人物・行為が卑劣・不名誉で、軽蔑に値することに重点がある。"
+    ],
+    "en": [
+      "loathsome: causing intense disgust or hatred toward a person, act, creature, or thing.",
+      "repulsive: causing a strong desire to move away because of an unpleasant appearance, nature, or behavior.",
+      "abhorrent: morally incompatible with one's principles and therefore strongly rejected or detested.",
+      "disgusting: the more general term for causing physical or emotional revulsion.",
+      "despicable: emphasizes that a person or act is base, dishonorable, and deserving contempt."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語lothsomはloath『嫌な、敵対的な』と接尾辞-some『～を生じさせる性質の』から成る。loathは古英語lāð『憎むべき、嫌な、敵対的な』に由来する。したがってloathsomeは文字どおり『嫌悪を生じさせる性質の』という構造を持つ。loatheも同じ古英語の語族から生まれた。",
+    "en": "Loathsome comes from Middle English lothsom, formed from loath, meaning hateful or unpleasant, and -some, meaning characterized by or causing. Loath derives from Old English lāð, meaning hateful, hostile, or repugnant. Loathsome therefore literally means having the quality of causing hatred or aversion. Loathe developed from the same Old English word family."
+  },
+  "synonyms": [
+    {
+      "word": "repulsive",
+      "note": {
+        "ja": "人・外見・臭い・考えなどが、近づきたくないほどの強い嫌悪を引き起こす。",
+        "en": "Describes a person, appearance, smell, or idea as creating a strong desire to move away or reject it."
+      }
+    },
+    {
+      "word": "abhorrent",
+      "note": {
+        "ja": "行為・考え・慣行などが道徳的に受け入れ難く、強い嫌悪に値する。",
+        "en": "Describes conduct, an idea, or a practice as morally unacceptable and deserving intense rejection."
+      }
+    },
+    {
+      "word": "odious",
+      "note": {
+        "ja": "人物・行為・制度などが強い憎悪・嫌悪に値することを表す硬い語。",
+        "en": "A formal adjective describing a person, act, or system as deserving strong hatred or disgust."
+      }
+    },
+    {
+      "word": "revolting",
+      "note": {
+        "ja": "食べ物・臭い・行動などが吐き気を催すほど不快であることを表す。",
+        "en": "Describes food, smells, or conduct as so unpleasant that it produces a feeling of physical or moral sickness."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "abscheulich / ekelhaft",
+    "it": "ripugnante / abominevole",
+    "fr": "répugnant / odieux",
+    "es": "repugnante / aborrecible"
+  },
+  "collocations": {
+    "ja": [
+      "a loathsome person — 嫌悪すべき人物",
+      "a loathsome creature — 気味悪く嫌悪すべき生物",
+      "a loathsome act — 忌まわしい行為",
+      "a loathsome crime — 忌むべき犯罪",
+      "loathsome behavior — 嫌悪すべき振る舞い",
+      "a loathsome smell — 吐き気を催すような悪臭",
+      "a loathsome substance — ひどく不快な物質",
+      "morally loathsome — 道徳的に忌まわしい",
+      "utterly loathsome — まったくもって嫌悪すべき",
+      "find something loathsome — 何かに強い嫌悪を感じる"
+    ],
+    "en": [
+      "a loathsome person",
+      "a loathsome creature",
+      "a loathsome act",
+      "a loathsome crime",
+      "loathsome behavior",
+      "a loathsome smell",
+      "a loathsome substance",
+      "morally loathsome",
+      "utterly loathsome",
+      "find something loathsome"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The novel portrays him as a cruel and loathsome character. — その小説は彼を残酷で嫌悪すべき人物として描いている。",
+      "She found his treatment of the vulnerable utterly loathsome. — 彼女は彼の弱者への扱いを、まったくもって忌まわしいものだと感じた。",
+      "A loathsome smell rose from the stagnant water. — よどんだ水から吐き気を催すような臭いが立ち上った。",
+      "The investigation exposed a particularly loathsome form of exploitation. — その調査により、特に忌まわしい形態の搾取が明らかになった。",
+      "I loathe his behavior, but I am loath to confront him directly. — 私は彼の行動をひどく嫌っているが、彼と直接対決するのには気が進まない。"
+    ],
+    "en": [
+      "The novel portrays him as a cruel and loathsome character.",
+      "She found his treatment of the vulnerable utterly loathsome.",
+      "A loathsome smell rose from the stagnant water.",
+      "The investigation exposed a particularly loathsome form of exploitation.",
+      "I loathe his behavior, but I am loath to confront him directly."
+    ]
+  }
+},
+{
+  "id": "dazzling",
+  "sid": "2026-01010",
+  "word": "dazzling",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "light",
+    "brightness",
+    "beauty",
+    "performance",
+    "skill",
+    "impression",
+    "praise",
+    "descriptive",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj",
+    "comparison": {
+      "comparative": "more dazzling",
+      "superlative": "most dazzling"
+    },
+    "related": {
+      "verb": "dazzle",
+      "noun": "dazzle",
+      "adverb": "dazzlingly",
+      "participle": "dazzling"
+    },
+    "patterns": [
+      "dazzling light / sunshine",
+      "a dazzling smile / appearance",
+      "a dazzling performance / display",
+      "dazzling success / achievement",
+      "a dazzling array of + plural noun",
+      "absolutely / visually dazzling"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdæzəlɪŋ/",
+      "uk": "/ˈdæzəlɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "光が極めて強く、まぶしくて目がくらむような",
+      "美しさ・華やかさによって人の目を奪う",
+      "能力・演技・成果などが驚くほど見事な",
+      "種類・数量・規模などが圧倒されるほど豊富な",
+      "理解・判断が追いつかないほど目覚ましく急速な"
+    ],
+    "en": [
+      "extremely bright and difficult to look at",
+      "strikingly beautiful, brilliant, or glamorous",
+      "exceptionally impressive in skill, performance, or achievement",
+      "overwhelmingly rich or extensive in variety, number, or scale",
+      "so remarkable or rapid that it is difficult to fully comprehend"
+    ]
+  },
+  "nuance": {
+    "ja": "dazzlingは、強い光によって一時的に視界や判断力を奪われるというdazzleのイメージを持つ。文字どおりのdazzling sunlightは、称賛というより、直視できないほど強い光を表す。比喩的には、美しさ・才能・演技・成功などが圧倒的で、人が思わず見とれたり驚いたりすることを表す。a dazzling performanceは単に上手なのではなく、華やかさや卓越性によって観客を圧倒する演技を意味する。a dazzling array of optionsでは、選択肢が非常に多く印象的である一方、多すぎて戸惑う可能性も含む。dazzlingは感情を引き起こす側、dazzledはその結果として圧倒・魅了された側を表す。",
+    "en": "Dazzling retains the image of dazzle: light so intense that it temporarily interferes with sight or clear perception. Literal dazzling sunlight is not necessarily praise; it describes brightness too strong to look at comfortably. Figuratively, dazzling describes beauty, talent, performance, or success so impressive that it captures attention and overwhelms the observer. A dazzling performance is not merely competent but brilliant, spectacular, and memorable. A dazzling array of options suggests an impressive variety that may also be difficult to process because of its size. Dazzling describes what causes the effect, while dazzled describes the person who is overwhelmed or captivated."
+  },
+  "minimal": {
+    "ja": [
+      "dazzling：光・美しさ・才能などが強烈で、目や意識を奪うほど印象的な。",
+      "brilliant：光が明るい、または知性・能力・成果が非常に優れている。",
+      "radiant：光や幸福感が内側から穏やかに輝き出ているような。",
+      "glaring：光が不快なほど強い、または誤り・相違などが明白で無視できない。",
+      "stunning：美しさ・成果・出来事などが、衝撃を受けるほど印象的な。"
+    ],
+    "en": [
+      "dazzling: so intense in light, beauty, or brilliance that it captures or overwhelms sight and attention.",
+      "brilliant: extremely bright or exceptionally intelligent, skillful, or successful.",
+      "radiant: shining or expressing happiness with a warm, outward glow.",
+      "glaring: unpleasantly bright, or so obvious that an error or difference cannot be ignored.",
+      "stunning: so beautiful, impressive, or surprising that it produces a feeling of shock."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞dazzleの現在分詞から形容詞化した語。dazzleは中英語のdase・daze『ぼう然とさせる、感覚を鈍らせる』に、反復・小刻みな作用を示す接尾的要素-leが加わった形と考えられている。強い光で人をぼう然とさせる意味から、才能・美しさなどで人を圧倒する比喩的意味が生まれた。",
+    "en": "Dazzling developed as the present participle and adjective of dazzle. Dazzle is generally connected with Middle English dase or daze, meaning to stun or make mentally confused, with a frequentative -le formation. From overwhelming someone with intense light, the verb developed the figurative meaning of overwhelming an observer through beauty, talent, or brilliance."
+  },
+  "synonyms": [
+    {
+      "word": "brilliant",
+      "note": {
+        "ja": "非常に明るい、または知性・作品・成果が卓越していることを表す一般的な称賛語。",
+        "en": "A common term of praise for something exceptionally bright, intelligent, skillful, or successful."
+      }
+    },
+    {
+      "word": "stunning",
+      "note": {
+        "ja": "美しさ・結果・発表などが衝撃的なほど印象的であることを表す。",
+        "en": "Describes beauty, a result, or an announcement as impressive enough to cause shock or amazement."
+      }
+    },
+    {
+      "word": "spectacular",
+      "note": {
+        "ja": "光景・演技・成功などが大規模で華やかに人目を引く。",
+        "en": "Describes a sight, performance, or success as visually dramatic, impressive, and attention-grabbing."
+      }
+    },
+    {
+      "word": "resplendent",
+      "note": {
+        "ja": "衣装・装飾・光景などが豪華でまばゆく輝いていることを表す文学的な語。",
+        "en": "A literary adjective for clothing, decoration, or a scene that shines with magnificent beauty."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "blendend / überwältigend",
+    "it": "abbagliante / straordinario",
+    "fr": "éblouissant",
+    "es": "deslumbrante"
+  },
+  "collocations": {
+    "ja": [
+      "dazzling sunlight — 目がくらむほどの日光",
+      "a dazzling white surface — まぶしく白い表面",
+      "a dazzling smile — まぶしいほど魅力的な笑顔",
+      "a dazzling appearance — 目を奪うほど華やかな姿",
+      "a dazzling performance — 圧倒的に見事な演技",
+      "a dazzling display — 目を見張るような展示・演出",
+      "dazzling success — 目覚ましい成功",
+      "dazzling brilliance — まばゆい輝き・卓越した才気",
+      "a dazzling array of choices — 圧倒されるほど豊富な選択肢",
+      "visually dazzling — 視覚的に目を奪う"
+    ],
+    "en": [
+      "dazzling sunlight",
+      "a dazzling white surface",
+      "a dazzling smile",
+      "a dazzling appearance",
+      "a dazzling performance",
+      "a dazzling display",
+      "dazzling success",
+      "dazzling brilliance",
+      "a dazzling array of choices",
+      "visually dazzling"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The dazzling sunlight reflected off the snow. — 目がくらむような日光が雪に反射していた。",
+      "She gave the audience a dazzling performance. — 彼女は観客を圧倒する見事な演技を披露した。",
+      "The exhibition presents a dazzling array of contemporary artworks. — その展覧会では、目を見張るほど多彩な現代美術作品が展示されている。",
+      "His early success was dazzling, but it proved difficult to sustain. — 彼の初期の成功は目覚ましかったが、それを維持するのは困難だった。",
+      "Visitors were dazzled by the palace's dazzling interior. — 来訪者たちは、その宮殿のまばゆい内装に圧倒された。"
+    ],
+    "en": [
+      "The dazzling sunlight reflected off the snow.",
+      "She gave the audience a dazzling performance.",
+      "The exhibition presents a dazzling array of contemporary artworks.",
+      "His early success was dazzling, but it proved difficult to sustain.",
+      "Visitors were dazzled by the palace's dazzling interior."
+    ]
+  }
 }
 ]
