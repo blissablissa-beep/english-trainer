@@ -8145,5 +8145,668 @@
       "The two teams slogged it out until the final minutes of the match."
     ]
   }
+},
+{
+  "id": "toil",
+  "sid": "2026-01051",
+  "word": "toil",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "noun",
+    "hard work",
+    "labor",
+    "effort",
+    "fatigue",
+    "movement",
+    "literary",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "forms": {
+      "base": "toil",
+      "third_person": "toils",
+      "past": "toiled",
+      "past_participle": "toiled",
+      "gerund": "toiling"
+    },
+    "transitivity": "mainly intransitive",
+    "countability": "uncountable in the sense of hard labor",
+    "patterns": [
+      "toil at / over + task",
+      "toil away at + noun",
+      "toil in + place / conditions",
+      "toil for + years / employer / goal",
+      "toil up / along / through + place",
+      "years / hours of toil",
+      "through hard toil",
+      "be caught in the toils of + noun"
+    ],
+    "related": {
+      "person": "toiler",
+      "adjective": "toilful",
+      "adverb": "toilfully",
+      "abbreviation": "TOIL = time off in lieu"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/tɔɪl/",
+      "uk": "/tɔɪl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "長時間、非常に骨を折って働く",
+      "困難な仕事に辛抱強く取り組み続ける",
+      "重い荷物・険しい地形などに苦労しながら進む",
+      "名詞として、長く疲労を伴う重労働・苦役",
+      "古風な複数形 the toils で、人を捕らえる網・わな、または逃れにくい状況"
+    ],
+    "en": [
+      "to work extremely hard for a long period",
+      "to continue patiently with a difficult and exhausting task",
+      "to move slowly and laboriously because of weight or difficult terrain",
+      "as a noun, prolonged and fatiguing labor",
+      "in the archaic plural the toils, nets, traps, or a situation from which escape is difficult"
+    ]
+  },
+  "nuance": {
+    "ja": "toil は、長時間にわたって身体的・精神的な力を使い、疲れながら働くことを表す。単に努力するだけでなく、仕事が厳しく、負担が大きく、しばしば報酬や評価が十分でないという含みを持つ。slog より文語的で、歴史的な重労働、農作業、低賃金労働、長年の研究などを格調高く描写するのに向く。動詞は通常自動詞で、toil away at a manuscript や toil in the fields のように使う。移動については、重い荷物を持って坂を上るような苦労を表す。大文字の TOIL は別物で、特に英国の職場で時間外勤務の代わりに取得する休暇を意味する。",
+    "en": "Toil describes prolonged work involving substantial physical or mental effort and fatigue. It often implies not only effort but also harsh conditions, a heavy burden, or insufficient reward and recognition. It is more literary than slog and is suitable for describing historical labor, farm work, poorly paid work, or years of demanding research. The verb is normally intransitive, as in toil away at a manuscript or toil in the fields. In the movement sense, it suggests laborious progress, such as climbing a hill while carrying a heavy load. Uppercase TOIL is separate: especially in British workplaces, it abbreviates time off in lieu, meaning leave granted instead of overtime pay."
+  },
+  "minimal": {
+    "ja": [
+      "toil：長期間、疲労を伴うほど骨を折って働くことを文語的・格調高く表す。",
+      "slog：困難・単調な仕事や道のりを、粘り強く少しずつ進むことを口語的に表す。",
+      "labor：身体的・精神的な労働や努力を広く表す中立的・公式的な語。",
+      "drudgery：面白みがなく、繰り返しが多い不快な仕事そのものに重点がある。",
+      "grind：日常的に繰り返される厳しい仕事による消耗感を強調する。",
+      "trudge：疲労・重荷・悪路のため、徒歩でゆっくり重々しく進む。"
+    ],
+    "en": [
+      "toil: a literary or elevated word for working long and hard to the point of fatigue.",
+      "slog: a more conversational word for persistently progressing through difficult or monotonous work or travel.",
+      "labor: a broad neutral or formal term for physical or mental work and exertion.",
+      "drudgery: dull, repetitive, and unpleasant work itself.",
+      "grind: demanding routine work viewed as repetitive and mentally or physically exhausting.",
+      "trudge: to walk slowly and heavily because of fatigue, a burden, or difficult ground."
+    ]
+  },
+  "etymology": {
+    "ja": "労働を表す toil は、中英語 toile『戦い、争い』を経て、アングロフランス語 toyl および toiller『汚す、争う』に由来する。さらにラテン語 tudiculare『押し潰す、すり砕く』にさかのぼり、これはオリーブを砕く機械 tudicula と関係する。『激しい争い』から『長く苦しい努力・労働』へ意味が発達した。一方、the toils『網・わな』は別語源で、中期フランス語 toile『布、網』およびラテン語 tela『織物』に由来する。",
+    "en": "Toil in the sense of labor came through Middle English toile, meaning battle or struggle, from Anglo-French toyl and toiller, meaning to make dirty, fight, or wrangle. These ultimately derive from Latin tudiculare, meaning to crush or grind, related to tudicula, an olive-crushing machine. The sense developed from violent struggle to prolonged difficult effort and labor. The archaic noun the toils, meaning nets or traps, has a separate origin in Middle French toile, meaning cloth or net, from Latin tela, meaning woven fabric."
+  },
+  "synonyms": [
+    {
+      "word": "labor",
+      "note": {
+        "ja": "身体的・精神的な仕事と労力を広く表す、toil より中立的な語。",
+        "en": "A broader and more neutral word for physical or mental work and exertion."
+      }
+    },
+    {
+      "word": "slog",
+      "note": {
+        "ja": "困難や単調さに耐えながら粘り強く進むことを表す、より口語的な語。",
+        "en": "A more conversational word for persisting through difficult or monotonous work."
+      }
+    },
+    {
+      "word": "drudgery",
+      "note": {
+        "ja": "退屈で反復的な重労働を表し、仕事の不快さに重点がある。",
+        "en": "Dull and repetitive hard work, emphasizing the unpleasant nature of the task."
+      }
+    },
+    {
+      "word": "travail",
+      "note": {
+        "ja": "苦痛・困難を伴う労苦を表す、非常に文語的な語。",
+        "en": "A highly literary word for painful or difficult labor and suffering."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Mühsal / schuften / sich abmühen",
+    "it": "fatica / faticare",
+    "fr": "labeur / peiner",
+    "es": "trabajo arduo / esforzarse"
+  },
+  "collocations": {
+    "ja": [
+      "hard toil — 厳しい重労働",
+      "backbreaking toil — 腰が折れるほどの重労働",
+      "years of toil — 長年の労苦",
+      "a life of toil — 労苦に満ちた人生",
+      "the fruits of one's toil — 労働の成果",
+      "toil in the fields — 畑で懸命に働く",
+      "toil away at a task — 作業に長時間懸命に取り組む",
+      "toil over a manuscript — 原稿に苦労して取り組む",
+      "toil in obscurity — 評価されないまま黙々と働く",
+      "toil up a hill — 苦労して坂を上る"
+    ],
+    "en": [
+      "hard toil",
+      "backbreaking toil",
+      "years of toil",
+      "a life of toil",
+      "the fruits of one's toil",
+      "toil in the fields",
+      "toil away at a task",
+      "toil over a manuscript",
+      "toil in obscurity",
+      "toil up a hill"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The workers toiled in the fields from sunrise to sunset. — 労働者たちは日の出から日没まで畑で懸命に働いた。",
+      "She toiled over the manuscript for more than a decade. — 彼女は10年以上にわたってその原稿に苦労して取り組んだ。",
+      "We toiled up the steep hill carrying our heavy bags. — 私たちは重い荷物を運びながら、急な坂を苦労して上った。",
+      "After years of toil, the researchers finally achieved a breakthrough. — 長年の労苦の末、研究者たちはついに画期的な成果を上げた。",
+      "The novel portrays families caught in the toils of poverty and debt. — その小説は、貧困と借金のわなに捕らわれた家族を描いている。"
+    ],
+    "en": [
+      "The workers toiled in the fields from sunrise to sunset.",
+      "She toiled over the manuscript for more than a decade.",
+      "We toiled up the steep hill carrying our heavy bags.",
+      "After years of toil, the researchers finally achieved a breakthrough.",
+      "The novel portrays families caught in the toils of poverty and debt."
+    ]
+  }
+},
+{
+  "id": "nuisance",
+  "sid": "2026-01052",
+  "word": "nuisance",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "annoyance",
+    "problem",
+    "inconvenience",
+    "person",
+    "property",
+    "legal",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "nuisances",
+    "patterns": [
+      "a nuisance",
+      "a nuisance to + person / community",
+      "cause / create / constitute a nuisance",
+      "become / prove to be a nuisance",
+      "make a nuisance of oneself",
+      "public / private nuisance",
+      "a nuisance caused by + noun"
+    ],
+    "related": {
+      "adjective": "nuisance",
+      "legal_terms": [
+        "private nuisance",
+        "public nuisance",
+        "attractive nuisance"
+      ]
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈnuːsəns/",
+      "uk": "/ˈnjuːsəns/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "迷惑・不快感を生じさせる人や物",
+      "厄介で面倒な問題・状況",
+      "日常生活を妨げる騒音・悪臭・害虫など",
+      "法律上、他人の土地の使用・享受を不当に妨害する行為・状態",
+      "法律上、公衆に共通する権利・安全・快適さなどを不当に妨げる行為・状態"
+    ],
+    "en": [
+      "a person or thing that causes annoyance or trouble",
+      "an inconvenient and troublesome problem or situation",
+      "noise, odor, pests, or another condition that interferes with ordinary life",
+      "in law, an activity or condition that unreasonably interferes with another person's use or enjoyment of land",
+      "in law, conduct or a condition that unreasonably interferes with rights shared by the public"
+    ]
+  },
+  "nuance": {
+    "ja": "日常語の nuisance は、重大な危険というより、繰り返し迷惑をかける人、処理に手間のかかる問題、生活を邪魔する物事を指す。What a nuisance! なら『面倒だな』『困ったな』という軽い不満を表す。人を a nuisance と呼ぶと、その人自身を迷惑者扱いするため、直接的で失礼になり得る。法律では日常的な『迷惑』より狭く技術的な意味を持つ。一般に private nuisance は私人の土地使用・享受への重大で不合理な干渉、public nuisance は公衆が共有する権利への干渉に関係するが、具体的な定義・要件・救済は法域によって異なる。",
+    "en": "In everyday use, nuisance usually refers not to extreme danger but to a person who repeatedly causes trouble, a problem requiring inconvenient effort, or a condition that disrupts ordinary life. What a nuisance! expresses mild frustration similar to What a bother! Calling a person a nuisance directly can be rude because it treats the person themselves as the source of annoyance. In law, nuisance has a narrower technical meaning. Broadly, private nuisance concerns substantial and unreasonable interference with a private person's use or enjoyment of land, while public nuisance concerns interference with rights shared by the public. Exact definitions, requirements, and remedies vary by jurisdiction."
+  },
+  "minimal": {
+    "ja": [
+      "nuisance：迷惑や厄介事を繰り返し生じさせる人・物・状況そのもの。",
+      "annoyance：苛立ちという感情、またはその感情を起こす原因を広く表す。",
+      "inconvenience：時間・労力・予定などに実際上の不都合を生じさせること。",
+      "bother：軽い迷惑・面倒を表す、より口語的な語。",
+      "pest：しつこく迷惑をかける人・動物を軽蔑的または冗談めかして表す。",
+      "hazard：事故・損害・負傷を生じさせる危険源であり、単なる迷惑より危険性に重点がある。"
+    ],
+    "en": [
+      "nuisance: a person, thing, or condition that repeatedly causes annoyance, trouble, or interference.",
+      "annoyance: either the feeling of irritation or something that causes that feeling.",
+      "inconvenience: practical difficulty affecting time, effort, comfort, or arrangements.",
+      "bother: a more conversational word for a minor problem, annoyance, or unwanted effort.",
+      "pest: a disparaging or playful term for a persistently annoying person or animal.",
+      "hazard: a source of possible accident, damage, or injury, emphasizing danger rather than mere annoyance."
+    ]
+  },
+  "etymology": {
+    "ja": "nuisance は15世紀に中英語 nusaunce、noisaunce としてアングロフランス語から入った。当初は『害、損害、法律上の迷惑行為』を意味した。語源は古フランス語 nuire『害する、悩ませる』で、さらにラテン語 nocere『害を与える』にさかのぼる。noxious『有害な』も同じラテン語系統に属する。後に意味が弱まり、日常的な『迷惑な人・物事』にも広く使われるようになった。",
+    "en": "Nuisance entered Middle English in the fifteenth century in forms such as nusaunce and noisaunce from Anglo-French. It originally referred to harm, injury, or a legally actionable source of inconvenience. It derives from Old French nuire, meaning to harm or trouble, ultimately from Latin nocere, meaning to injure. Noxious belongs to the same Latin word family. The meaning later weakened and broadened to include ordinary annoying people, things, and situations."
+  },
+  "synonyms": [
+    {
+      "word": "annoyance",
+      "note": {
+        "ja": "苛立たしい人・物事、または苛立ちの感情そのものを表す。",
+        "en": "A person or thing causing irritation, or the feeling of irritation itself."
+      }
+    },
+    {
+      "word": "bother",
+      "note": {
+        "ja": "軽い迷惑・面倒を表す、nuisance より日常的な語。",
+        "en": "A more conversational word for a minor annoyance, difficulty, or unwanted effort."
+      }
+    },
+    {
+      "word": "pest",
+      "note": {
+        "ja": "しつこく迷惑をかける人・動物を表す口語的な語。",
+        "en": "An informal word for a person or animal that causes persistent annoyance."
+      }
+    },
+    {
+      "word": "inconvenience",
+      "note": {
+        "ja": "実際上の不都合・手間・予定の乱れに重点がある。",
+        "en": "Emphasizes practical difficulty, extra effort, or disruption to plans."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Ärgernis / Belästigung / Störung",
+    "it": "fastidio / seccatura / molestia",
+    "fr": "nuisance / gêne / désagrément",
+    "es": "molestia / estorbo"
+  },
+  "collocations": {
+    "ja": [
+      "a minor nuisance — ちょっとした迷惑",
+      "a constant nuisance — 絶え間ない迷惑",
+      "a public nuisance — 公的ニューサンス、公衆への迷惑",
+      "a private nuisance — 私的ニューサンス",
+      "a noise nuisance — 騒音による迷惑",
+      "a nuisance call — 迷惑電話",
+      "cause a nuisance — 迷惑を生じさせる",
+      "constitute a nuisance — ニューサンスに該当する、迷惑となる",
+      "become a nuisance — 厄介な存在になる",
+      "make a nuisance of oneself — 人に迷惑をかける"
+    ],
+    "en": [
+      "a minor nuisance",
+      "a constant nuisance",
+      "a public nuisance",
+      "a private nuisance",
+      "a noise nuisance",
+      "a nuisance call",
+      "cause a nuisance",
+      "constitute a nuisance",
+      "become a nuisance",
+      "make a nuisance of oneself"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The mosquitoes are a constant nuisance during the summer. — 夏の間、蚊は絶えず人を悩ませる厄介な存在だ。",
+      "Having to reset the password every month is a minor nuisance. — 毎月パスワードを再設定しなければならないのは、ちょっとした面倒だ。",
+      "Residents complained that late-night deliveries were causing a serious noise nuisance. — 住民は、深夜の配送が深刻な騒音被害を生じさせていると苦情を申し立てた。",
+      "The court considered whether the smoke substantially interfered with the neighbors' use and enjoyment of their land and therefore constituted a private nuisance. — 裁判所は、その煙が隣人による土地の使用・享受を実質的に妨げ、私的ニューサンスに当たるかを検討した。",
+      "The children were told not to make a nuisance of themselves while the adults were working. — 大人たちが仕事をしている間、迷惑をかけないよう子どもたちは言い聞かされた。"
+    ],
+    "en": [
+      "The mosquitoes are a constant nuisance during the summer.",
+      "Having to reset the password every month is a minor nuisance.",
+      "Residents complained that late-night deliveries were causing a serious noise nuisance.",
+      "The court considered whether the smoke substantially interfered with the neighbors' use and enjoyment of their land and therefore constituted a private nuisance.",
+      "The children were told not to make a nuisance of themselves while the adults were working."
+    ]
+  }
+},
+{
+  "id": "antithesis",
+  "sid": "2026-01053",
+  "word": "antithesis",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "opposition",
+    "contrast",
+    "rhetoric",
+    "writing",
+    "philosophy",
+    "academic",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "antitheses",
+    "patterns": [
+      "the antithesis of + noun",
+      "be the very / complete antithesis of + noun",
+      "an antithesis between A and B",
+      "in antithesis to + noun",
+      "thesis and antithesis",
+      "use / create an antithesis"
+    ],
+    "related": {
+      "adjective": "antithetical / antithetic",
+      "adverb": "antithetically"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ænˈtɪθəsɪs/",
+      "uk": "/ænˈtɪθəsɪs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ある物事と本質的に正反対のもの",
+      "対照的な性質・考え・状態",
+      "修辞学で、対照的な観念を並行構造によって際立たせる技法",
+      "対置された二つの語句・命題のうち、反対側に置かれるもの",
+      "哲学で、先行する命題・立場に対立する命題・段階"
+    ],
+    "en": [
+      "the direct or essential opposite of something",
+      "a sharply contrasting quality, idea, or condition",
+      "in rhetoric, the balanced juxtaposition of contrasting ideas in parallel structures",
+      "the opposing member of a rhetorically contrasted pair",
+      "in philosophy, a proposition or stage opposed to a preceding position or thesis"
+    ]
+  },
+  "nuance": {
+    "ja": "一般用法の antithesis は、単に違っているのではなく、価値・性質・目的などが本質的に正反対であることを強調する硬い語である。the very antithesis of democracy なら、単なる非民主的なものではなく、民主主義の理念と正面から反するものを指す。修辞学では、対照的な二つの観念を並行した文法構造で並べ、違いを印象的に示す技法をいう。単に反対語を二つ使うだけでは、必ずしも修辞学上の antithesis にはならない。哲学では、ある命題・立場に対抗する命題を表すが、具体的な役割は採用される弁証法の体系によって異なる。",
+    "en": "In general use, antithesis is a formal word emphasizing not mere difference but essential opposition in values, qualities, purposes, or character. The very antithesis of democracy describes something directly opposed to the principles of democracy rather than merely something that is not democratic. In rhetoric, antithesis places two contrasting ideas in balanced or parallel grammatical structures to make the opposition memorable. Merely using two antonyms does not necessarily create rhetorical antithesis. In philosophy, it may denote a proposition or position opposed to a thesis, although its precise role depends on the particular dialectical framework."
+  },
+  "minimal": {
+    "ja": [
+      "antithesis：性質・価値・理念などの本質的な正反対、または対照を際立たせる修辞技法。",
+      "opposite：位置・方向・意味・性質などが反対であるものを広く表す一般的な語。",
+      "contrast：二つ以上のものの相違を比較によって目立たせることで、完全な正反対とは限らない。",
+      "contradiction：二つの主張が同時には真にならない、または言行が互いに矛盾すること。",
+      "antonym：別の語と反対の意味を持つ単語という、語彙上の関係。",
+      "paradox：一見矛盾しているが、検討すると真理・洞察を含み得る表現や状況。"
+    ],
+    "en": [
+      "antithesis: an essential opposite in character or principle, or a rhetorical structure emphasizing balanced contrast.",
+      "opposite: the broad general word for something contrary in position, direction, meaning, or quality.",
+      "contrast: a noticeable difference revealed through comparison, without requiring complete opposition.",
+      "contradiction: an incompatibility between claims, facts, or behavior such that both cannot consistently hold.",
+      "antonym: a word having a meaning opposite to that of another word.",
+      "paradox: an apparently contradictory statement or situation that may reveal an underlying truth or insight."
+    ]
+  },
+  "etymology": {
+    "ja": "antithesis は後期ラテン語を経てギリシャ語 antithesis『反対に置くこと、対置』に由来する。これは anti-『反対して、向かい合って』と thesis『置くこと、命題』から成る。thesis は tithenai『置く、据える』に由来するため、antithesis は文字どおりには『反対側に置くこと』を意味する。16世紀に修辞学上の対照を表す語として英語に入り、その後『正反対のもの』や哲学上の対立命題にも用いられるようになった。",
+    "en": "Antithesis came through Late Latin from Greek antithesis, meaning opposition or a placing against. It combines anti-, meaning against or opposite, with thesis, meaning a placing or proposition. Thesis derives from Greek tithenai, meaning to put or place. Antithesis therefore literally means placing something opposite another. It entered English in the sixteenth century as a rhetorical term and later developed its general and philosophical senses."
+  },
+  "synonyms": [
+    {
+      "word": "opposite",
+      "note": {
+        "ja": "反対のものを表す最も一般的な語。antithesis ほど本質的・修辞的な対立を強調しない。",
+        "en": "The most general word for something contrary, without the elevated or rhetorical force of antithesis."
+      }
+    },
+    {
+      "word": "converse",
+      "note": {
+        "ja": "関係・命題の方向を逆にしたものを表す、論理的・形式的な語。",
+        "en": "A logical or formal term for a statement or relationship with its direction reversed."
+      }
+    },
+    {
+      "word": "contrary",
+      "note": {
+        "ja": "性質・方向・立場が反対であるものを表す硬めの語。",
+        "en": "A somewhat formal word for something opposite in nature, direction, or position."
+      }
+    },
+    {
+      "word": "polar opposite",
+      "note": {
+        "ja": "二つのものが両極端に位置するほど正反対であることを強調する表現。",
+        "en": "An emphatic expression describing two things as situated at completely opposite extremes."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Antithese / Gegensatz",
+    "it": "antitesi",
+    "fr": "antithèse",
+    "es": "antítesis"
+  },
+  "collocations": {
+    "ja": [
+      "the antithesis of freedom — 自由の正反対",
+      "the antithesis of democracy — 民主主義の対極",
+      "the antithesis of modernity — 近代性の正反対",
+      "the very antithesis of + noun — まさに～の正反対",
+      "the complete antithesis of + noun — ～の完全な対極",
+      "a clear antithesis — 明確な対置",
+      "a rhetorical antithesis — 修辞的対照法",
+      "create an antithesis — 対照を作り出す",
+      "thesis and antithesis — 正命題と反対命題",
+      "in direct antithesis to + noun — ～と真っ向から対立して"
+    ],
+    "en": [
+      "the antithesis of freedom",
+      "the antithesis of democracy",
+      "the antithesis of modernity",
+      "the very antithesis of + noun",
+      "the complete antithesis of + noun",
+      "a clear antithesis",
+      "a rhetorical antithesis",
+      "create an antithesis",
+      "thesis and antithesis",
+      "in direct antithesis to + noun"
+    ]
+  },
+  "example": {
+    "ja": [
+      "His authoritarian approach is the antithesis of democratic leadership. — 彼の権威主義的な手法は、民主的な指導力の対極にある。",
+      "Her quiet and cautious personality is the complete antithesis of her brother's. — 彼女の物静かで慎重な性格は、兄の性格とは正反対だ。",
+      "The new building is the antithesis of the traditional architecture surrounding it. — その新しい建物は、周囲の伝統建築とは正反対である。",
+      "The sentence creates an antithesis by contrasting promised prosperity with actual poverty. — その文は、約束された繁栄と現実の貧困を対置することで対照法を作り出している。",
+      "The philosopher introduced an antithesis that challenged the original proposition. — その哲学者は、当初の命題に対抗する反対命題を提示した。"
+    ],
+    "en": [
+      "His authoritarian approach is the antithesis of democratic leadership.",
+      "Her quiet and cautious personality is the complete antithesis of her brother's.",
+      "The new building is the antithesis of the traditional architecture surrounding it.",
+      "The sentence creates an antithesis by contrasting promised prosperity with actual poverty.",
+      "The philosopher introduced an antithesis that challenged the original proposition."
+    ]
+  }
+},
+{
+  "id": "contradiction",
+  "sid": "2026-01054",
+  "word": "contradiction",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "inconsistency",
+    "logic",
+    "statement",
+    "evidence",
+    "argument",
+    "disagreement",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "contradictions",
+    "patterns": [
+      "a contradiction between A and B",
+      "a contradiction in + statement / account / evidence",
+      "in contradiction to / with + noun",
+      "contradiction of + claim / principle",
+      "find / reveal / expose a contradiction",
+      "resolve / explain a contradiction",
+      "a contradiction in terms"
+    ],
+    "related": {
+      "verb": "contradict",
+      "adjective": "contradictory",
+      "adverb": "contradictorily"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkɑːntrəˈdɪkʃən/",
+      "uk": "/ˌkɒntrəˈdɪkʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "二つの主張・事実などが互いに両立しないこと、矛盾",
+      "以前の発言や証拠と食い違う発言・内容",
+      "発言と行動、理念と現実などの不一致",
+      "人の主張を否定・反駁すること",
+      "論理学で、ある命題とその否定が同時に主張されること"
+    ],
+    "en": [
+      "an incompatibility between two statements, facts, or ideas that cannot both be true",
+      "a statement or detail inconsistent with an earlier account or piece of evidence",
+      "a conflict between words and actions, principles and practice, or expectation and reality",
+      "the act of denying or speaking against a claim",
+      "in logic, the simultaneous assertion of a proposition and its negation"
+    ]
+  },
+  "nuance": {
+    "ja": "contradiction は、二つの情報・主張・行動などの間に、同時には成立しない食い違いがあることを表す。証言、契約書、報告書、論証などの内容を比較するときによく使われる。発言と行動が一致しない場合にも、a contradiction between his words and actions のように表現できる。単なる違い difference より強く、両者の間に論理的・事実的な不整合があることを示す。ただし日常語では、厳密な論理的矛盾だけでなく、態度・方針・期待との大きな不一致にも広く使われる。",
+    "en": "Contradiction describes an incompatibility between two pieces of information, claims, actions, or principles such that they cannot both hold consistently. It is common when comparing testimony, contractual documents, reports, evidence, and arguments. A mismatch between speech and conduct can also be described as a contradiction between someone's words and actions. The word is stronger than difference because it indicates logical or factual inconsistency. In everyday use, however, it extends beyond strict formal logic to major inconsistencies in behavior, policy, values, and expectations."
+  },
+  "minimal": {
+    "ja": [
+      "contradiction：二つの主張・事実などが両立せず、同時には正しくなり得ないこと。",
+      "inconsistency：複数の発言・行動・基準などに一貫性がないことを広く表す。",
+      "discrepancy：本来一致するはずの数値・記録・説明などの間にある食い違い。",
+      "paradox：一見矛盾しているが、検討すると真理・洞察を含み得る表現や状況。",
+      "antithesis：性質・理念上の正反対、または対照を際立たせる修辞的な対置。",
+      "denial：主張・事実・責任などが真実ではない、または認めないと述べること。"
+    ],
+    "en": [
+      "contradiction: an incompatibility between claims or facts that cannot consistently be true together.",
+      "inconsistency: a broad lack of agreement or uniformity among statements, actions, standards, or behavior.",
+      "discrepancy: a difference between figures, records, or accounts that would normally be expected to agree.",
+      "paradox: an apparently contradictory statement or situation that may contain an underlying truth.",
+      "antithesis: an essential opposite in quality or principle, or a rhetorical juxtaposition of contrasting ideas.",
+      "denial: a statement that a claim, fact, involvement, or responsibility is not true or is not acknowledged."
+    ]
+  },
+  "etymology": {
+    "ja": "contradiction は古フランス語 contradiction を経て、ラテン語 contradictio『反論、否定』に由来する。これは contradicere『反対のことを言う、反論する』から作られ、contra-『反対して』と dicere『言う』に分解できる。文字どおりには『相手に反対して言うこと』を意味し、そこから発言同士が両立しない『矛盾』という意味が発達した。",
+    "en": "Contradiction came through Old French contradiction from Latin contradictio, meaning opposition or denial. It derives from contradicere, meaning to speak against, which combines contra-, meaning against, with dicere, meaning to say. The literal idea of speaking against something developed into the sense of statements or facts that are mutually incompatible."
+  },
+  "synonyms": [
+    {
+      "word": "inconsistency",
+      "note": {
+        "ja": "発言・行動・情報などが一貫していないことを表す、より広い語。",
+        "en": "A broader word for a lack of consistency among statements, conduct, information, or standards."
+      }
+    },
+    {
+      "word": "conflict",
+      "note": {
+        "ja": "考え・利益・情報などが互いに対立し、両立しにくい状態。",
+        "en": "A state in which ideas, interests, or information oppose one another and are difficult to reconcile."
+      }
+    },
+    {
+      "word": "discrepancy",
+      "note": {
+        "ja": "一致すべき数値・記録・説明などに存在する具体的な差異。",
+        "en": "A specific difference between figures, records, or accounts expected to correspond."
+      }
+    },
+    {
+      "word": "incompatibility",
+      "note": {
+        "ja": "二つの性質・条件・制度などが共存・併用できないこと。",
+        "en": "The inability of two qualities, conditions, systems, or claims to coexist or operate together."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Widerspruch",
+    "it": "contraddizione",
+    "fr": "contradiction",
+    "es": "contradicción"
+  },
+  "collocations": {
+    "ja": [
+      "a clear contradiction — 明白な矛盾",
+      "an apparent contradiction — 見かけ上の矛盾",
+      "a fundamental contradiction — 根本的な矛盾",
+      "an internal contradiction — 内部矛盾",
+      "a contradiction between A and B — AとBの間の矛盾",
+      "a contradiction in the evidence — 証拠内の矛盾",
+      "a contradiction in terms — 語義矛盾、形容矛盾",
+      "find a contradiction — 矛盾を発見する",
+      "expose a contradiction — 矛盾を明るみに出す",
+      "resolve a contradiction — 矛盾を解消する"
+    ],
+    "en": [
+      "a clear contradiction",
+      "an apparent contradiction",
+      "a fundamental contradiction",
+      "an internal contradiction",
+      "a contradiction between A and B",
+      "a contradiction in the evidence",
+      "a contradiction in terms",
+      "find a contradiction",
+      "expose a contradiction",
+      "resolve a contradiction"
+    ]
+  },
+  "example": {
+    "ja": [
+      "There is a clear contradiction between the two witnesses' accounts. — 二人の証人の説明の間には明らかな矛盾がある。",
+      "The investigator found several contradictions in his statement. — 捜査官は彼の供述の中にいくつかの矛盾を発見した。",
+      "Her conduct appears to be in direct contradiction to the principles she publicly supports. — 彼女の行動は、公に支持している原則と真っ向から矛盾しているように見える。",
+      "The apparent contradiction can be resolved by distinguishing the two meanings of the term. — その見かけ上の矛盾は、その用語の二つの意味を区別することで解消できる。",
+      "A completely silent conversation may sound like a contradiction in terms. — 『完全に無言の会話』は語義矛盾のように聞こえるかもしれない。"
+    ],
+    "en": [
+      "There is a clear contradiction between the two witnesses' accounts.",
+      "The investigator found several contradictions in his statement.",
+      "Her conduct appears to be in direct contradiction to the principles she publicly supports.",
+      "The apparent contradiction can be resolved by distinguishing the two meanings of the term.",
+      "A completely silent conversation may sound like a contradiction in terms."
+    ]
+  }
 }
 ]
