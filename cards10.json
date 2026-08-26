@@ -1,1 +1,173 @@
-[]
+[
+{
+  "id": "fall_back",
+  "sid": "2026-01001",
+  "word": "fall back",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "movement",
+    "retreat",
+    "military",
+    "position",
+    "habit",
+    "time",
+    "clock",
+    "figurative",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "fall back",
+      "third_person": "falls back",
+      "past": "fell back",
+      "past_participle": "fallen back",
+      "gerund": "falling back"
+    },
+    "transitivity": "intransitive",
+    "separability": "inseparable",
+    "related": {
+      "noun": "fallback",
+      "adjective": "fallback",
+      "extended_phrasal_verb": "fall back on"
+    },
+    "patterns": [
+      "fall back",
+      "fall back from + place / position",
+      "fall back to + place / position / method",
+      "fall back into + habit / pattern",
+      "fall back behind + person / group",
+      "order / force someone to fall back",
+      "clocks fall back"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌfɔːl ˈbæk/",
+      "uk": "/ˌfɔːl ˈbæk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人・集団が後方へ下がる",
+      "軍隊などが現在の位置から退却する",
+      "驚き・恐怖・圧力などを受けて後ずさりする",
+      "順位・位置・進捗などが以前より後ろへ下がる",
+      "以前の方法・状態・習慣へ戻る",
+      "夏時間の終了時に時計が一時間戻る"
+    ],
+    "en": [
+      "to move backward or away from something",
+      "for troops or another organized group to retreat from their current position",
+      "to step backward because of fear, surprise, or pressure",
+      "to move into a lower or more distant position in a group or ranking",
+      "to return to an earlier method, condition, or habit",
+      "for clocks to be set one hour earlier at the end of daylight saving time"
+    ]
+  },
+  "nuance": {
+    "ja": "fall back の中心は、前方の位置を維持せず後方へ移ることである。軍事文脈では、部隊が敵から離れてより安全な位置へ退却することを表す。日常場面では、危険・驚き・群衆の圧力などで人が後ずさりする場合にも使える。fall back to a previous positionは以前の位置へ戻ること、fall back into old habitsは一度やめた好ましくない習慣へ戻ることを表す。アメリカでは夏時間終了時に時計を一時間戻すことを、Spring forward, fall back.という覚え方で表す。fall back onは別の句動詞であり、『後退する』ではなく、第一の手段が使えないときに予備の資源・方法を頼ることを意味する。",
+    "en": "The central meaning of fall back is giving up or leaving a forward position and moving toward the rear. In military contexts, troops fall back when they retreat from the enemy to a safer position. In ordinary situations, a person may fall back because of danger, surprise, or pressure from a crowd. Fall back to a previous position means return to an earlier position or arrangement, while fall back into old habits means return to an undesirable pattern that had previously been stopped. In the United States, Spring forward, fall back is a mnemonic for moving clocks forward and backward for daylight saving time. Fall back on is a separate phrasal verb meaning to rely on a reserve resource or method."
+  },
+  "minimal": {
+    "ja": [
+      "fall back：現在の前方位置を離れて後方へ下がる、または以前の状態へ戻る。",
+      "fall back on：第一の手段が使えないとき、予備の人・資源・方法を頼る。",
+      "retreat：危険・敵・困難から組織的または意図的に退く、より形式的な語。",
+      "back away：危険・不安・ためらいから、対象に向いたまま後ずさりする。",
+      "drop back：集団・競争・順位の中で、ほかの人より後ろの位置へ下がる。"
+    ],
+    "en": [
+      "fall back: to leave a forward position and move toward the rear or return to an earlier state.",
+      "fall back on: to rely on a reserve person, resource, or method when the primary option is unavailable.",
+      "retreat: to withdraw deliberately or systematically from danger, an enemy, or a difficult position.",
+      "back away: to move backward while facing something because of danger, uncertainty, or reluctance.",
+      "drop back: to move into a position behind others in a group, competition, or ranking."
+    ]
+  },
+  "etymology": {
+    "ja": "fall『落ちる、位置を失う』とback『後方へ、元の位置へ』からなる句動詞。もともとは、前進していた人や軍隊が前方の位置を保てず、後方へ下がる物理的な動きを表した。そこから、順位が下がる、以前の方法・状態へ戻るという比喩的意味が生じた。名詞fallbackは、後退先として用意された位置から『予備策・代替案』を意味するようになった。",
+    "en": "Fall back combines fall, in the sense of losing or changing position, with back, meaning toward the rear or a previous position. It originally described the physical movement of a person or military force withdrawing from a forward position. This developed into the figurative senses of losing rank and returning to an earlier method or condition. The noun fallback developed from a reserve position to mean a backup plan or alternative."
+  },
+  "synonyms": [
+    {
+      "word": "retreat",
+      "note": {
+        "ja": "軍隊・集団・人物が危険や不利な位置から意図的に退く。fall backより形式的。",
+        "en": "To deliberately withdraw from danger or an unfavorable position, especially of troops or organized groups, more formally."
+      }
+    },
+    {
+      "word": "withdraw",
+      "note": {
+        "ja": "場所・戦闘・活動・交渉などから正式または意図的に退く。",
+        "en": "To deliberately or formally leave a place, battle, activity, or negotiation."
+      }
+    },
+    {
+      "word": "recede",
+      "note": {
+        "ja": "水・髪の生え際・音・記憶などが徐々に遠ざかる、または後退する。",
+        "en": "To gradually move farther away or backward, especially of water, a hairline, sound, or memory."
+      }
+    },
+    {
+      "word": "revert",
+      "note": {
+        "ja": "以前の状態・方法・所有者などへ戻る。物理的な後退の意味はない。",
+        "en": "To return to an earlier state, method, or owner, without the physical retreat sense."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "zurückweichen / sich zurückziehen",
+    "it": "ritirarsi / indietreggiare",
+    "fr": "reculer / se replier",
+    "es": "retroceder / retirarse"
+  },
+  "collocations": {
+    "ja": [
+      "order the troops to fall back — 部隊に退却を命じる",
+      "fall back to a defensive position — 防御位置まで後退する",
+      "fall back from the front line — 前線から退却する",
+      "fall back in surprise — 驚いて後ずさりする",
+      "fall back behind the group — 集団の後方へ下がる",
+      "fall back to an earlier method — 以前の方法へ戻る",
+      "fall back into old habits — 古い習慣へ逆戻りする",
+      "fall back into silence — 再び沈黙する",
+      "clocks fall back — 時計が一時間戻る",
+      "spring forward, fall back — 春に時計を進め、秋に戻す"
+    ],
+    "en": [
+      "order the troops to fall back",
+      "fall back to a defensive position",
+      "fall back from the front line",
+      "fall back in surprise",
+      "fall back behind the group",
+      "fall back to an earlier method",
+      "fall back into old habits",
+      "fall back into silence",
+      "clocks fall back",
+      "spring forward, fall back"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The troops were ordered to fall back to a more defensible position. — 部隊は、より防御しやすい位置まで退却するよう命じられた。",
+      "The crowd fell back when the doors suddenly opened. — ドアが突然開くと、群衆は後ろへ下がった。",
+      "He fell back in alarm as the dog rushed toward him. — 犬が突進してきたため、彼は驚いて後ずさりした。",
+      "Without regular practice, she gradually fell back into her old habits. — 定期的に練習しなかったため、彼女は徐々に以前の習慣へ戻ってしまった。",
+      "The clocks fall back one hour when daylight saving time ends. — 夏時間が終わると、時計は一時間戻る。"
+    ],
+    "en": [
+      "The troops were ordered to fall back to a more defensible position.",
+      "The crowd fell back when the doors suddenly opened.",
+      "He fell back in alarm as the dog rushed toward him.",
+      "Without regular practice, she gradually fell back into her old habits.",
+      "The clocks fall back one hour when daylight saving time ends."
+    ]
+  }
+}
+]
