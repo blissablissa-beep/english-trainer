@@ -1641,5 +1641,1643 @@
       "Visitors were dazzled by the palace's dazzling interior."
     ]
   }
+},
+{
+  "id": "overlook",
+  "sid": "2026-01011",
+  "word": "overlook",
+  "level": "B2",
+  "freq": "very often",
+  "tags": [
+    "verb",
+    "attention",
+    "mistake",
+    "forgiveness",
+    "view",
+    "location",
+    "supervision",
+    "business",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "overlook",
+      "third_person": "overlooks",
+      "past": "overlooked",
+      "past_participle": "overlooked",
+      "gerund": "overlooking"
+    },
+    "transitivity": "transitive",
+    "related": {
+      "noun": "overlook",
+      "contrast_phrase": "look over"
+    },
+    "patterns": [
+      "overlook + fact / detail / error",
+      "overlook + fault / offense",
+      "a room / building overlooks + place",
+      "overlook the sea / city / garden",
+      "be easily / frequently overlooked",
+      "deliberately / conveniently overlook + noun"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌoʊvərˈlʊk/",
+      "uk": "/ˌəʊvəˈlʊk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "重要な事実・細部・誤りなどに気付かず見落とす",
+      "人・貢献・可能性などを十分に評価・考慮しない",
+      "欠点・軽微な違反・失礼などを意図的に大目に見る",
+      "建物・部屋などが海・庭・都市などを見下ろす位置にある",
+      "高い位置から場所を見渡す",
+      "人・仕事などを監督する"
+    ],
+    "en": [
+      "to fail to notice a fact, detail, error, or problem",
+      "to fail to recognize or adequately consider a person, contribution, or possibility",
+      "to deliberately ignore or forgive a fault, minor offense, or discourtesy",
+      "for a building or room to face and provide a view over a place",
+      "to look down on an area from a higher position",
+      "to supervise a person or activity"
+    ]
+  },
+  "nuance": {
+    "ja": "overlookには三つの主要な意味がある。第一は、注意不足によって事実・細部・誤りを見落とすこと。第二は、問題に気付いているが、軽微なものとして意図的に大目に見ること。第三は、建物などが高い位置から海・庭・都市を見渡すことである。I overlooked the error.だけでは、誤りに気付かなかったのか、気付いたうえで許したのかが文脈によって曖昧になる場合がある。監督する意味も存在するが、現代ではoverseeの方が明確で一般的。overlookは一語の動詞だが、look overは『書類・物などをざっと調べる』という別表現であり、ほぼ逆の意味になることがある。",
+    "en": "Overlook has three principal senses. First, it can mean failing to notice a fact, detail, or error through insufficient attention. Second, it can mean noticing a fault but deliberately choosing to excuse or disregard it. Third, a building or room overlooks a sea, garden, or city when it is positioned above or beside it and provides a view over it. I overlooked the error can therefore be ambiguous between failing to notice the error and deliberately excusing it, depending on context. A supervision sense also exists, but oversee is clearer and more usual in contemporary English. Overlook is one word, whereas look over is a separate expression meaning to inspect something briefly."
+  },
+  "minimal": {
+    "ja": [
+      "overlook：事実を見落とす、欠点を大目に見る、または場所を高所から見渡す。",
+      "look over：書類・物・場所などを、確認のためざっと見る・点検する。",
+      "miss：人・機会・誤りなどを見たり捕らえたりできず、気付かない・逃す。",
+      "ignore：存在に気付いていながら、意図的に注意を向けない。",
+      "oversee：仕事・計画・組織などが適切に進むよう監督する。"
+    ],
+    "en": [
+      "overlook: to fail to notice something, deliberately excuse it, or provide a view over a place.",
+      "look over: to briefly examine a document, object, or place for checking or inspection.",
+      "miss: to fail to see, notice, catch, attend, or take advantage of someone or something.",
+      "ignore: to be aware of something but deliberately give it no attention.",
+      "oversee: to supervise work, a project, or an organization and ensure that it proceeds properly."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語系のover『上に、越えて』とlook『見る』から形成された語。もともとは高い位置から下を見る、または全体を見渡して監督することを表した。そこから、対象の向こう側まで視線が通過してしまうという発想により、『目に留めず見落とす』という意味が生じた。また、欠点を見ても追及せず、その先へ進むことから『大目に見る』という意味にも発達した。",
+    "en": "Overlook was formed from over and look. It originally referred to looking down from above or surveying and supervising an area. From the idea of one's gaze passing over or beyond an object, it developed the sense of failing to notice it. The related idea of seeing a fault but passing over it without action produced the sense of deliberately excusing or disregarding it."
+  },
+  "synonyms": [
+    {
+      "word": "miss",
+      "note": {
+        "ja": "誤り・細部・機会などに気付かない、または取り逃がす一般的な語。",
+        "en": "The general verb for failing to notice a detail or error or failing to take an opportunity."
+      }
+    },
+    {
+      "word": "disregard",
+      "note": {
+        "ja": "事実・規則・助言などを重要でないものとして意図的に考慮しない。",
+        "en": "To deliberately treat a fact, rule, or advice as unimportant and give it no consideration."
+      }
+    },
+    {
+      "word": "excuse",
+      "note": {
+        "ja": "過失・失礼などについて、人を責めず許す。",
+        "en": "To forgive a fault or discourtesy and choose not to blame the person responsible."
+      }
+    },
+    {
+      "word": "face",
+      "note": {
+        "ja": "建物・窓などが特定の方向や場所に向いていることを表す。高所から見渡す意味は必須ではない。",
+        "en": "For a building or window to be oriented toward a direction or place, without necessarily providing an elevated view."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "übersehen / überblicken",
+    "it": "trascurare / affacciarsi su",
+    "fr": "négliger / donner sur",
+    "es": "pasar por alto / tener vistas a"
+  },
+  "collocations": {
+    "ja": [
+      "overlook a detail — 細部を見落とす",
+      "overlook an error — 誤りを見落とす・大目に見る",
+      "overlook an important fact — 重要な事実を見落とす",
+      "overlook a possibility — 可能性を考慮し損なう",
+      "overlook someone's contribution — 人の貢献を正当に評価しない",
+      "overlook a minor offense — 軽微な違反を大目に見る",
+      "overlook the sea — 海を見渡す",
+      "overlook the garden — 庭を見下ろす",
+      "be easily overlooked — 容易に見落とされる",
+      "be frequently overlooked — 頻繁に見過ごされる"
+    ],
+    "en": [
+      "overlook a detail",
+      "overlook an error",
+      "overlook an important fact",
+      "overlook a possibility",
+      "overlook someone's contribution",
+      "overlook a minor offense",
+      "overlook the sea",
+      "overlook the garden",
+      "be easily overlooked",
+      "be frequently overlooked"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We overlooked an important detail in the contract. — 私たちは契約書の重要な細部を見落とした。",
+      "Her contribution to the project is often overlooked. — その事業に対する彼女の貢献は、しばしば正当に評価されていない。",
+      "The manager agreed to overlook the minor violation on this occasion. — 管理者は今回に限り、その軽微な違反を大目に見ることに同意した。",
+      "Our hotel room overlooks the harbor. — 私たちのホテルの部屋からは港が見渡せる。",
+      "Could you look over the document and check whether I have overlooked anything? — この書類にざっと目を通し、私が何か見落としていないか確認してもらえますか。"
+    ],
+    "en": [
+      "We overlooked an important detail in the contract.",
+      "Her contribution to the project is often overlooked.",
+      "The manager agreed to overlook the minor violation on this occasion.",
+      "Our hotel room overlooks the harbor.",
+      "Could you look over the document and check whether I have overlooked anything?"
+    ]
+  }
+},
+{
+  "id": "look_over",
+  "sid": "2026-01012",
+  "word": "look over",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "phrasal verb",
+    "inspection",
+    "review",
+    "documents",
+    "checking",
+    "appearance",
+    "business",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "look over",
+      "third_person": "looks over",
+      "past": "looked over",
+      "past_participle": "looked over",
+      "gerund": "looking over"
+    },
+    "transitivity": "transitive",
+    "separability": "separable",
+    "patterns": [
+      "look over + document / proposal",
+      "look + document / proposal + over",
+      "look it / them over",
+      "look someone over",
+      "have someone look something over",
+      "look something over carefully / quickly"
+    ],
+    "usage_note": "With a pronoun, use look it over or look them over, not normally look over it in the phrasal-verb sense."
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌlʊk ˈoʊvər/",
+      "uk": "/ˌlʊk ˈəʊvə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "書類・提案・文章などに目を通して確認する",
+      "物・建物・機器などの状態を点検する",
+      "誤り・問題がないか、全体をざっと調べる",
+      "人の外見・服装・状態などを頭から足まで観察する",
+      "購入・採用・利用などを決める前に対象を調べる"
+    ],
+    "en": [
+      "to read through a document, proposal, or text in order to check it",
+      "to inspect the condition of an object, building, or piece of equipment",
+      "to examine something generally for errors or problems",
+      "to observe a person's appearance or condition from head to toe",
+      "to examine something before deciding whether to buy, employ, or use it"
+    ]
+  },
+  "nuance": {
+    "ja": "look overは、対象の全体に視線を向け、問題・誤り・状態などを確認することを表す。通常はexamineほど徹底的・専門的ではなく、まず全体を確認する比較的短い点検を示す。ただしcarefullyなどを伴えば、かなり丁寧な確認にも使える。look someone overは、人の健康状態・服装・能力などを頭から足まで観察する意味で、文脈によっては相手を値踏みするような失礼な印象を与える。一語のoverlookは『見落とす・大目に見る・見渡す』であり、look overとは意味が異なる。なお、look over the fenceのように物理的な障害物の上越しに見る場合は、lookと前置詞overの通常の組み合わせであり、点検を意味する句動詞ではない。",
+    "en": "Look over means directing one's attention across an entire object in order to check its condition, content, or possible problems. It usually suggests a relatively brief general inspection rather than the thorough or technical investigation implied by examine. However, an adverb such as carefully can make the checking quite detailed. To look someone over is to inspect the person's appearance, clothing, condition, or suitability from head to toe and may sound as though one is evaluating them rudely. The single word overlook means fail to notice, excuse, or provide a view over something and differs from look over. In look over the fence, over may simply be an ordinary preposition describing the direction of sight rather than part of the inspection phrasal verb."
+  },
+  "minimal": {
+    "ja": [
+      "look over：誤り・問題・状態を確認するため、書類・物・人などを全体的に見る。",
+      "overlook：事実を見落とす、欠点を大目に見る、または場所を高所から見渡す。",
+      "review：内容・成果・判断などを改めて検討・評価する。",
+      "inspect：規格・安全性・状態などを確認するため、体系的・公式に詳しく調べる。",
+      "skim：文章の要点をつかむため、細部を読まず素早く目を通す。"
+    ],
+    "en": [
+      "look over: to generally examine a document, object, or person for errors, problems, condition, or suitability.",
+      "overlook: to fail to notice something, deliberately excuse it, or provide a view over a place.",
+      "review: to reconsider and evaluate content, performance, evidence, or a decision.",
+      "inspect: to examine something systematically and often officially for condition, safety, or compliance.",
+      "skim: to read rapidly for the main points without attending to every detail."
+    ]
+  },
+  "etymology": {
+    "ja": "look『見る』とover『全体にわたって、一方から他方へ』からなる句動詞。視線を対象の一部だけでなく全体に行き渡らせるというイメージから、『ざっと調べる・点検する』という意味が生じた。一語のoverlookも同じ二要素からできているが、歴史的な意味展開と語の強勢が異なるため、現代では別の語として機能する。",
+    "en": "The phrasal verb combines look with over in the sense of across the whole extent of something. The image of directing one's gaze over an entire object developed into the meaning of checking or inspecting it. The single word overlook contains the same two historical elements, but its semantic development and stress pattern differ, so the expressions function as separate items in modern English."
+  },
+  "synonyms": [
+    {
+      "word": "check",
+      "note": {
+        "ja": "正確性・状態・有無などを確認する最も一般的な語。",
+        "en": "The general verb for verifying accuracy, condition, presence, or proper operation."
+      }
+    },
+    {
+      "word": "review",
+      "note": {
+        "ja": "資料・成果・決定などを改めて検討し、必要に応じて評価・修正する。",
+        "en": "To reconsider material, performance, or a decision and evaluate or revise it if necessary."
+      }
+    },
+    {
+      "word": "examine",
+      "note": {
+        "ja": "事実・原因・状態を把握するため、対象を詳しく注意深く調べる。",
+        "en": "To investigate something carefully and in detail to determine its condition, nature, or cause."
+      }
+    },
+    {
+      "word": "scan",
+      "note": {
+        "ja": "必要な情報を探して文章・一覧・場所などを素早く見渡す。",
+        "en": "To rapidly search across a text, list, or area for particular information."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "durchsehen / überprüfen",
+    "it": "dare un'occhiata a / controllare",
+    "fr": "examiner / parcourir",
+    "es": "revisar / echar un vistazo a"
+  },
+  "collocations": {
+    "ja": [
+      "look over a document — 書類に目を通す",
+      "look over a contract — 契約書を確認する",
+      "look over a proposal — 提案書を検討する",
+      "look over an application — 申請書を確認する",
+      "look over the figures — 数値を確認する",
+      "look over a house — 住宅を内見・点検する",
+      "look over the equipment — 機器を点検する",
+      "look someone over — 人の外見・状態を観察する",
+      "look something over carefully — 何かを注意深く確認する",
+      "have an expert look it over — 専門家にそれを確認してもらう"
+    ],
+    "en": [
+      "look over a document",
+      "look over a contract",
+      "look over a proposal",
+      "look over an application",
+      "look over the figures",
+      "look over a house",
+      "look over the equipment",
+      "look someone over",
+      "look something over carefully",
+      "have an expert look it over"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Could you look over the contract before I send it to the client? — 顧客へ送る前に、この契約書を確認してもらえますか。",
+      "The mechanic looked the car over and found no serious problems. — 整備士はその車を点検し、重大な問題はないと判断した。",
+      "I need a few minutes to look over the figures. — その数値を確認するのに数分必要です。",
+      "The doctor looked him over before allowing him to leave. — 医師は彼の状態を診てから帰宅を許可した。",
+      "Please look it over carefully and tell me whether I have overlooked anything. — これを注意深く確認し、私が何か見落としていないか教えてください。"
+    ],
+    "en": [
+      "Could you look over the contract before I send it to the client?",
+      "The mechanic looked the car over and found no serious problems.",
+      "I need a few minutes to look over the figures.",
+      "The doctor looked him over before allowing him to leave.",
+      "Please look it over carefully and tell me whether I have overlooked anything."
+    ]
+  }
+},
+{
+  "id": "oversee",
+  "sid": "2026-01013",
+  "word": "oversee",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "supervision",
+    "management",
+    "project",
+    "organization",
+    "responsibility",
+    "quality",
+    "business",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "oversee",
+      "third_person": "oversees",
+      "past": "oversaw",
+      "past_participle": "overseen",
+      "gerund": "overseeing"
+    },
+    "transitivity": "transitive",
+    "related": {
+      "noun": "oversight",
+      "person": "overseer"
+    },
+    "patterns": [
+      "oversee + project / operation",
+      "oversee + staff / department",
+      "oversee the implementation of + noun",
+      "oversee the development / construction of + noun",
+      "be overseen by + person / body",
+      "be responsible for overseeing + noun"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌoʊvərˈsiː/",
+      "uk": "/ˌəʊvəˈsiː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "仕事・計画などが適切に進むよう監督する",
+      "組織・部門・従業員などを上位の立場から管理する",
+      "制度・方針・事業の実施状況を統括する",
+      "品質・安全性・規則遵守などを確保するため全体を見守る"
+    ],
+    "en": [
+      "to supervise work or a project and ensure that it proceeds properly",
+      "to manage employees, a department, or an organization from a position of authority",
+      "to direct and monitor the implementation of a policy, system, or operation",
+      "to maintain overall responsibility for quality, safety, or regulatory compliance"
+    ]
+  },
+  "nuance": {
+    "ja": "overseeは、個々の作業を自分ですべて行うのではなく、責任ある立場から全体の進捗・品質・安全性・遵守状況を確認し、必要に応じて指示することを表す。manageと近いが、manageが日常的な意思決定・人員配置・資源運用まで含むのに対し、overseeは全体が正しく実施されているかを上から監督する点に重点がある。過去形はoversaw、過去分詞はoverseenで、overseedとはしない。名詞oversightは『監督』を意味する一方、by oversightでは『見落としによって』を意味するため、文脈による区別が必要。overlookにも古くは監督する意味があるが、現代では曖昧さを避けてoverseeを使う方が明確である。",
+    "en": "Oversee means holding overall responsibility for ensuring that work is performed correctly, without necessarily carrying out every task personally. It involves monitoring progress, quality, safety, or compliance and giving direction when necessary. Manage is close but often includes everyday decision-making, staffing, and resource administration, whereas oversee emphasizes supervision from a position of broader responsibility. The irregular forms are oversaw and overseen, not overseed. The noun oversight can mean supervision, but it can also mean an accidental omission or failure to notice something, so context is essential. Although overlook historically has a supervision sense, oversee is clearer for that meaning in contemporary English."
+  },
+  "minimal": {
+    "ja": [
+      "oversee：責任ある上位の立場から、仕事・計画・組織が適切に進むよう全体を監督する。",
+      "supervise：人の具体的な作業・勤務を直接見守り、指示・評価する。",
+      "manage：目標達成のため、日常的に人員・資金・業務・意思決定を運営する。",
+      "monitor：変化・問題を発見するため、状況・数値・進捗を継続的に観察する。",
+      "preside over：会議・裁判・式典などを、正式な議長・責任者として主宰する。"
+    ],
+    "en": [
+      "oversee: to supervise an entire project, operation, or organization from a position of overall responsibility.",
+      "supervise: to directly watch, instruct, and evaluate people performing particular tasks.",
+      "manage: to run personnel, money, operations, and daily decisions in order to achieve an objective.",
+      "monitor: to continuously observe a situation, figure, or process in order to detect change or problems.",
+      "preside over: to formally conduct a meeting, trial, ceremony, or similar proceeding as its chair or officer."
+    ]
+  },
+  "etymology": {
+    "ja": "over『上から、全体にわたって』とsee『見る』からなる古くからの英語の複合動詞。文字どおりには『上から見渡す』ことであり、作業者や活動全体を見渡せる位置から監督する意味へ発達した。overlookも似た構造を持つが、現代英語では主に『見落とす・見下ろす』を意味する。",
+    "en": "Oversee is an English compound of over, meaning above or across the whole of something, and see. Its literal image is viewing an activity from above or from a position where the entire operation is visible. This developed into the meaning of supervising it. Overlook has a similar formation but now primarily means to fail to notice, excuse, or provide a view over something."
+  },
+  "synonyms": [
+    {
+      "word": "supervise",
+      "note": {
+        "ja": "従業員・学生・作業者などの具体的な行動を直接監督する。",
+        "en": "To directly monitor and guide the work of employees, students, or other workers."
+      }
+    },
+    {
+      "word": "manage",
+      "note": {
+        "ja": "組織・事業・資源を日常的に運営し、必要な意思決定を行う。",
+        "en": "To run an organization, operation, or resources and make the necessary daily decisions."
+      }
+    },
+    {
+      "word": "administer",
+      "note": {
+        "ja": "制度・組織・計画を規則・手続に従って管理・執行する硬い語。",
+        "en": "A formal verb for managing and implementing an organization, scheme, or system according to established procedures."
+      }
+    },
+    {
+      "word": "coordinate",
+      "note": {
+        "ja": "複数の人・部門・活動が互いに支障なく連携するよう調整する。",
+        "en": "To organize different people, departments, or activities so that they work together effectively."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "beaufsichtigen / überwachen",
+    "it": "supervisionare / sovrintendere",
+    "fr": "superviser",
+    "es": "supervisar"
+  },
+  "collocations": {
+    "ja": [
+      "oversee a project — 事業を監督する",
+      "oversee operations — 業務全体を統括する",
+      "oversee a department — 部門を監督する",
+      "oversee staff — 職員を監督する",
+      "oversee construction — 建設工事を監督する",
+      "oversee an investigation — 調査を統括する",
+      "oversee the implementation of a policy — 方針の実施を監督する",
+      "oversee regulatory compliance — 規制遵守を監督する",
+      "be directly overseen by — ～によって直接監督される",
+      "an independent body overseeing the process — 手続を監督する独立機関"
+    ],
+    "en": [
+      "oversee a project",
+      "oversee operations",
+      "oversee a department",
+      "oversee staff",
+      "oversee construction",
+      "oversee an investigation",
+      "oversee the implementation of a policy",
+      "oversee regulatory compliance",
+      "be directly overseen by",
+      "an independent body overseeing the process"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She was appointed to oversee the entire project. — 彼女はその事業全体を監督する役に任命された。",
+      "A senior engineer oversaw the installation of the new equipment. — 上級技術者が新しい機器の設置を監督した。",
+      "The committee is responsible for overseeing regulatory compliance. — その委員会は規制遵守を監督する責任を負っている。",
+      "The investigation will be overseen by an independent body. — その調査は独立機関によって監督される。",
+      "He has overseen the company's international operations for five years. — 彼は5年間にわたり、会社の海外業務を統括してきた。"
+    ],
+    "en": [
+      "She was appointed to oversee the entire project.",
+      "A senior engineer oversaw the installation of the new equipment.",
+      "The committee is responsible for overseeing regulatory compliance.",
+      "The investigation will be overseen by an independent body.",
+      "He has overseen the company's international operations for five years."
+    ]
+  }
+},
+{
+  "id": "oversight",
+  "sid": "2026-01014",
+  "word": "oversight",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "supervision",
+    "monitoring",
+    "governance",
+    "regulation",
+    "mistake",
+    "omission",
+    "business",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable for supervision / countable for an unintentional omission",
+    "plural": "oversights",
+    "related": {
+      "verb_supervision": "oversee",
+      "verb_omission": "overlook",
+      "adjective": "oversight"
+    },
+    "patterns": [
+      "oversight of + organization / process",
+      "under the oversight of + person / body",
+      "regulatory / judicial / congressional oversight",
+      "provide / exercise oversight",
+      "a minor / serious oversight",
+      "due to / because of an oversight",
+      "through oversight"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈoʊvərsaɪt/",
+      "uk": "/ˈəʊvəsaɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "組織・活動・手続などが適切に行われるよう監督すること",
+      "権限の濫用・不正・失敗を防ぐために継続的に監視する制度",
+      "不注意によって重要な事実・作業などを見落とすこと",
+      "意図せず生じた記載漏れ・確認漏れ・手続上の誤り"
+    ],
+    "en": [
+      "the supervision of an organization, activity, or process to ensure that it operates properly",
+      "a system of continuing review intended to prevent abuse, misconduct, or failure",
+      "an unintentional failure to notice an important fact or task",
+      "an accidental omission, checking failure, or procedural error"
+    ]
+  },
+  "nuance": {
+    "ja": "oversightには相反する二つの意味がある。不可算名詞として使われるoversightは、業務・組織・政府機関などを上位の立場から監督することを表す。regulatory oversightやlack of oversightはこの意味である。一方、an oversightのように可算名詞として使うと、不注意による見落とし・記載漏れを意味する。The omission was an oversight.なら、意図的ではなく単純な確認漏れだったという説明になる。ただし、an oversightと呼ぶことで責任を軽く見せようとしていると受け取られる場合もある。文脈が曖昧な場合は、監督ならsupervision、不注意ならaccidental omissionなどに言い換えると明確になる。",
+    "en": "Oversight has two contrasting senses. As an uncountable noun, it means supervision exercised over an operation, organization, or public body. Regulatory oversight and lack of oversight use this meaning. As a countable noun, especially in the form an oversight, it means an accidental failure to notice or include something. The omission was an oversight presents the mistake as unintentional. However, describing a serious failure as an oversight may sometimes sound like an attempt to minimize responsibility. When ambiguity matters, supervision can clarify the governance sense and accidental omission can clarify the mistake sense."
+  },
+  "minimal": {
+    "ja": [
+      "oversight：組織・業務の監督、または不注意による見落としという二つの意味を持つ。",
+      "supervision：人・作業が適切に進むよう、直接または継続的に監督すること。",
+      "monitoring：変化・異常・問題を発見するため、状況や数値を継続的に観察すること。",
+      "omission：必要な情報・行為・項目などを含めず、抜かしてしまうこと。",
+      "negligence：要求される注意を怠ることで、単純な見落としより責任の重い概念。"
+    ],
+    "en": [
+      "oversight: either supervision of an operation or an accidental failure to notice or include something.",
+      "supervision: direct or continuing direction of people or work to ensure that it proceeds properly.",
+      "monitoring: continuous observation of conditions or figures in order to detect change or problems.",
+      "omission: the failure to include required information, action, or an item.",
+      "negligence: failure to exercise required care, generally implying greater responsibility than a simple oversight."
+    ]
+  },
+  "etymology": {
+    "ja": "over『上から、全体にわたって』とsight『見ること、視野』から形成された語。もともとは全体を上から見渡して監督することを表した。一方、視線が対象を越えてしまい、重要なものを見ないままにするという発想から、『見落とし』という反対方向の意味も生じた。動詞overseeの名詞として監督を表し、overlookに近い意味で不注意も表すようになった。",
+    "en": "Oversight was formed from over and sight. It originally conveyed viewing an activity from above or across its whole extent and therefore supervising it. The contrasting sense developed from the idea of one's sight passing over something and failing to notice it. The word consequently functions both as a noun related to oversee and as a noun describing a result similar to overlook."
+  },
+  "synonyms": [
+    {
+      "word": "supervision",
+      "note": {
+        "ja": "人・仕事を指示・確認しながら監督すること。oversightの監督の意味を明確に言い換えられる。",
+        "en": "The direction and checking of people or work and an unambiguous equivalent for the supervisory sense."
+      }
+    },
+    {
+      "word": "governance",
+      "note": {
+        "ja": "組織の方針決定・統制・説明責任を含む運営の枠組み。oversightより広い。",
+        "en": "The broader framework for directing, controlling, and ensuring accountability within an organization."
+      }
+    },
+    {
+      "word": "omission",
+      "note": {
+        "ja": "必要な項目・情報・行為などが抜けていること。意図的か不注意かは語自体では決まらない。",
+        "en": "A required item, fact, or action being left out, without itself determining whether the omission was intentional."
+      }
+    },
+    {
+      "word": "lapse",
+      "note": {
+        "ja": "注意・判断・記憶・基準などが一時的に途切れたことによる失敗。",
+        "en": "A temporary failure of attention, judgment, memory, or standards."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Aufsicht / Versehen",
+    "it": "supervisione / svista",
+    "fr": "supervision / oubli",
+    "es": "supervisión / descuido"
+  },
+  "collocations": {
+    "ja": [
+      "regulatory oversight — 規制当局による監督",
+      "government oversight — 政府による監督",
+      "judicial oversight — 司法による監督",
+      "independent oversight — 独立した監督",
+      "effective oversight — 実効的な監督",
+      "lack of oversight — 監督の欠如",
+      "exercise oversight — 監督権限を行使する",
+      "an oversight committee — 監督委員会",
+      "a minor oversight — 軽微な見落とし",
+      "due to an oversight — 不注意による見落としのため"
+    ],
+    "en": [
+      "regulatory oversight",
+      "government oversight",
+      "judicial oversight",
+      "independent oversight",
+      "effective oversight",
+      "lack of oversight",
+      "exercise oversight",
+      "an oversight committee",
+      "a minor oversight",
+      "due to an oversight"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The agency is responsible for regulatory oversight of the industry. — その機関は当該業界を規制・監督する責任を負っている。",
+      "The project was completed under the oversight of an independent committee. — その事業は独立委員会の監督下で完了した。",
+      "The incident revealed a serious lack of management oversight. — その出来事によって、経営上の監督が著しく不足していたことが明らかになった。",
+      "Her name was omitted from the list due to an oversight. — 不注意による見落としで、彼女の名前が一覧から漏れていた。",
+      "Failing to renew the registration was more than a minor oversight. — 登録を更新しなかったことは、単なる軽微な見落としでは済まされなかった。"
+    ],
+    "en": [
+      "The agency is responsible for regulatory oversight of the industry.",
+      "The project was completed under the oversight of an independent committee.",
+      "The incident revealed a serious lack of management oversight.",
+      "Her name was omitted from the list due to an oversight.",
+      "Failing to renew the registration was more than a minor oversight."
+    ]
+  }
+},
+{
+  "id": "omission",
+  "sid": "2026-01015",
+  "word": "omission",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "missing information",
+    "failure",
+    "document",
+    "legal",
+    "contract",
+    "disclosure",
+    "formal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "omissions",
+    "related": {
+      "verb": "omit",
+      "adjective": "omitted"
+    },
+    "patterns": [
+      "the omission of + information / name / provision",
+      "an omission from + document / list",
+      "an act or omission",
+      "a deliberate / accidental omission",
+      "correct / rectify an omission",
+      "liability for an omission"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/oʊˈmɪʃən/",
+      "uk": "/əʊˈmɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "必要な情報・語・項目などを含めず、抜かすこと",
+      "文書・一覧などから抜け落ちた情報・項目",
+      "行うべき行為をしないこと、不作為",
+      "重要な事実を開示・報告しないこと",
+      "不注意または意図によって生じた記載漏れ・手続漏れ"
+    ],
+    "en": [
+      "the act of leaving required information, words, or items out",
+      "a fact or item missing from a document, list, or statement",
+      "a failure to perform an act that could or should have been performed",
+      "a failure to disclose or report a material fact",
+      "a documentary or procedural gap caused accidentally or deliberately"
+    ]
+  },
+  "nuance": {
+    "ja": "omissionは、存在すべき情報・項目・行為が含まれていないことに焦点を置く。単なる空白ではなく、本来あることが期待・要求されていたものの欠落を示すことが多い。oversightは通常、不注意で見落とした原因や失敗を表すが、omissionは結果として何かが抜けていることを表し、故意の可能性もある。法律ではact or omissionとして、積極的な行為だけでなく、一定の義務がある場合に必要な行為をしない不作為も問題となり得る。ただし、単に何もしなかっただけで常に法的責任が生じるわけではなく、義務・因果関係などは法域や法分野によって異なる。文書ではmaterial omissionが、判断に重要な事実の欠落を表す。",
+    "en": "Omission focuses on the absence of information, an item, or an action that was expected or required to be present. It usually describes more than an empty space; it suggests that something relevant has been left out. Oversight generally identifies inadvertence as the cause of a mistake, whereas omission describes the missing result and may be accidental or deliberate. In law, the expression act or omission recognizes that liability may sometimes arise not only from positive conduct but also from failing to act where a duty exists. Mere inactivity does not automatically create legal liability; requirements such as duty and causation depend on the jurisdiction and field of law. In documents and disclosure, a material omission is the absence of a fact important to a decision."
+  },
+  "minimal": {
+    "ja": [
+      "omission：本来含める、開示する、または行うべき情報・項目・行為が欠けていること。",
+      "oversight：注意不足によって何かを見落とすという、通常は意図しない失敗。",
+      "exclusion：人・物・情報を範囲や集団に入れないこと。意図的である場合が多い。",
+      "deletion：既に存在していた文字・情報・項目などを削除すること。",
+      "absence：人・物・性質などが単に存在しない状態で、義務違反や抜かした行為を含意しない。"
+    ],
+    "en": [
+      "omission: the absence of information, an item, or an action that should have been included, disclosed, or performed.",
+      "oversight: an ordinarily unintentional failure to notice something because of insufficient attention.",
+      "exclusion: the act of keeping a person, thing, or information outside a group or scope, often deliberately.",
+      "deletion: the removal of text, information, or an item that was previously present.",
+      "absence: the simple state of a person, thing, or quality not being present, without implying a failure or duty."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語omissio『手放すこと、怠ること』に由来し、動詞omittere『手放す、省略する、怠る』から形成された。omittereはob-『離れて、反対方向へ』とmittere『送る、放つ』から成る。文字どおりには『手から放してそのままにする』という構造で、そこから必要な物事を含めない、または必要な行為をしない意味が生まれた。omit、mission、submitなどもmittereに関係する。",
+    "en": "Omission comes from Latin omissio, meaning a letting go or neglect, formed from omittere, meaning to let go, leave out, or neglect. Omittere combines ob-, suggesting away, with mittere, meaning to send or let go. Its literal image of letting something pass developed into the senses of leaving out information and failing to perform an act. Omit, mission, and submit are historically related to mittere."
+  },
+  "synonyms": [
+    {
+      "word": "exclusion",
+      "note": {
+        "ja": "人・物・情報を意図的に範囲外へ置くこと。omissionより積極的な排除を示しやすい。",
+        "en": "The act of deliberately keeping someone or something outside a group or scope, often more active than omission."
+      }
+    },
+    {
+      "word": "oversight",
+      "note": {
+        "ja": "不注意による見落とし。意図的な省略には通常使わない。",
+        "en": "An accidental failure to notice something and not normally used for deliberate omission."
+      }
+    },
+    {
+      "word": "failure to act",
+      "note": {
+        "ja": "必要または期待される行動を取らないことを直接表す。",
+        "en": "A direct expression for not taking action that was required or expected."
+      }
+    },
+    {
+      "word": "non-disclosure",
+      "note": {
+        "ja": "事実・情報を開示しないこと。特に契約・証券・法的手続で使われる。",
+        "en": "The failure or refusal to reveal information, especially in contracts, securities, or legal proceedings."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Auslassung / Unterlassung",
+    "it": "omissione",
+    "fr": "omission",
+    "es": "omisión"
+  },
+  "collocations": {
+    "ja": [
+      "an accidental omission — 偶発的な記載漏れ",
+      "a deliberate omission — 意図的な省略",
+      "a significant omission — 重大な欠落",
+      "a material omission — 重要事実の欠落",
+      "the omission of a name — 名前の記載漏れ",
+      "an omission from a document — 文書からの項目の欠落",
+      "an act or omission — 作為または不作為",
+      "correct an omission — 記載漏れを訂正する",
+      "liability for an omission — 不作為に対する責任",
+      "errors and omissions — 誤りおよび記載漏れ"
+    ],
+    "en": [
+      "an accidental omission",
+      "a deliberate omission",
+      "a significant omission",
+      "a material omission",
+      "the omission of a name",
+      "an omission from a document",
+      "an act or omission",
+      "correct an omission",
+      "liability for an omission",
+      "errors and omissions"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The omission of the applicant's address delayed the examination. — 出願人の住所が記載されていなかったため、審査が遅れた。",
+      "Her name was missing from the list because of an accidental omission. — 偶発的な記載漏れにより、彼女の名前が一覧から抜けていた。",
+      "The amendment corrected several errors and omissions in the original document. — その修正によって、原文書にあった複数の誤りと記載漏れが訂正された。",
+      "The court considered whether the defendant could be liable for the omission. — 裁判所は、被告がその不作為について責任を負い得るかを検討した。",
+      "The omission of a material fact may give readers a misleading impression. — 重要な事実を記載しないことで、読者に誤解を与える可能性がある。"
+    ],
+    "en": [
+      "The omission of the applicant's address delayed the examination.",
+      "Her name was missing from the list because of an accidental omission.",
+      "The amendment corrected several errors and omissions in the original document.",
+      "The court considered whether the defendant could be liable for the omission.",
+      "The omission of a material fact may give readers a misleading impression."
+    ]
+  }
+},
+{
+  "id": "supervision",
+  "sid": "2026-01016",
+  "word": "supervision",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "management",
+    "workplace",
+    "safety",
+    "education",
+    "training",
+    "children",
+    "professional",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "usually uncountable",
+    "related": {
+      "verb": "supervise",
+      "person": "supervisor",
+      "adjective": "supervisory",
+      "adverb": "supervisorily"
+    },
+    "patterns": [
+      "supervision of + person / work / activity",
+      "under the supervision of + person",
+      "under close / direct supervision",
+      "require / provide supervision",
+      "be responsible for supervision",
+      "work without supervision"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌsuːpərˈvɪʒən/",
+      "uk": "/ˌsuːpəˈvɪʒən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人の仕事・行動を見守り、必要な指示を与えること",
+      "作業が安全かつ正確に行われるよう監督すること",
+      "学生・研修生などに継続的な指導・助言を与えること",
+      "子ども・患者などの安全を確保するため見守ること",
+      "職員・部門・事業の日常的な管理・統括"
+    ],
+    "en": [
+      "the act of watching and directing another person's work or behavior",
+      "the monitoring of an activity to ensure that it is performed safely and correctly",
+      "continuing guidance and advice provided to a student or trainee",
+      "the watching of a child, patient, or other person to ensure safety",
+      "the day-to-day direction of staff, a department, or an operation"
+    ]
+  },
+  "nuance": {
+    "ja": "supervisionは、責任を持つ人物が、部下・学生・研修生・子どもなどの活動を比較的近い位置から見守り、指示・助言・修正を与えることを表す。under supervisionなら監督者が確認できる状態で活動すること、under close supervisionなら頻繁または綿密な観察・指導を受けることを意味する。oversightが組織・制度・統治全体を上位の立場から監督することに使われやすいのに対し、supervisionは具体的な人・作業への直接的な関与を示しやすい。管理者が常に物理的に隣にいる必要はないが、問題を発見し、必要な指示を出す責任を持っていることが前提となる。",
+    "en": "Supervision involves a responsible person watching, guiding, and correcting the activities of employees, students, trainees, children, or others from a relatively direct position. Under supervision means working or acting where a responsible person can review the activity, while under close supervision suggests frequent or careful observation and guidance. Oversight is often used for higher-level institutional governance or accountability, whereas supervision more readily suggests direct involvement with particular people or tasks. The supervisor need not remain physically beside the person at every moment, but is expected to remain responsible for identifying problems and providing direction."
+  },
+  "minimal": {
+    "ja": [
+      "supervision：特定の人・作業を直接見守り、必要な指示・助言・修正を与えること。",
+      "oversight：組織・制度・事業全体が適切に機能するよう、上位の立場から監督すること。",
+      "management：目標達成のため、人員・資金・業務・意思決定を総合的に運営すること。",
+      "monitoring：変化・異常・問題を発見するため、状況や数値を継続的に観察すること。",
+      "surveillance：安全・犯罪捜査・情報収集などのため、人・場所を継続的に監視すること。"
+    ],
+    "en": [
+      "supervision: direct observation and guidance of particular people or tasks, including instructions and corrections.",
+      "oversight: higher-level supervision intended to ensure that an entire organization, system, or operation functions properly.",
+      "management: the comprehensive running of personnel, finances, operations, and decisions in order to achieve objectives.",
+      "monitoring: continuous observation of a condition or measurement in order to detect changes or problems.",
+      "surveillance: systematic observation of people or places for security, investigation, or intelligence purposes."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞superviseから作られた名詞で、superviseは中世ラテン語supervidere『上から見る、監督する』に由来する。super-『上に、越えて』とvidere『見る』から成り、文字どおりには『上から見渡す』という構造。vision、visible、videoなどもvidereに由来する。",
+    "en": "Supervision is the noun formed from supervise, which derives from Medieval Latin supervidere, meaning to look over or inspect. It combines super-, meaning above or over, with videre, meaning to see. Its literal structure is therefore viewing an activity from above. Vision, visible, and video derive from the same Latin root."
+  },
+  "synonyms": [
+    {
+      "word": "oversight",
+      "note": {
+        "ja": "制度・組織・事業の適正性と説明責任を確保するための、より上位・広範な監督。",
+        "en": "Broader, higher-level supervision intended to ensure institutional propriety and accountability."
+      }
+    },
+    {
+      "word": "direction",
+      "note": {
+        "ja": "人・活動へ方針・命令・助言を与え、進む方向を示すこと。",
+        "en": "The act of giving instructions, guidance, or decisions that determine how a person or activity proceeds."
+      }
+    },
+    {
+      "word": "guidance",
+      "note": {
+        "ja": "経験・知識に基づいて助言を与え、人が適切な判断・行動を取れるよう支援すること。",
+        "en": "Advice and support based on knowledge or experience that helps someone make appropriate decisions."
+      }
+    },
+    {
+      "word": "control",
+      "note": {
+        "ja": "人・組織・過程の行動や結果を決定・制限できる権限。supervisionより支配力が強い。",
+        "en": "The power to determine or restrict conduct and outcomes, generally stronger than supervision."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Aufsicht / Betreuung",
+    "it": "supervisione",
+    "fr": "supervision / encadrement",
+    "es": "supervisión"
+  },
+  "collocations": {
+    "ja": [
+      "close supervision — 綿密な監督",
+      "direct supervision — 直接監督",
+      "adult supervision — 成人による見守り",
+      "professional supervision — 専門家による監督・指導",
+      "adequate supervision — 適切な監督",
+      "lack of supervision — 監督不足",
+      "under supervision — 監督下で",
+      "under the supervision of a manager — 管理者の監督下で",
+      "require constant supervision — 常時の見守りを必要とする",
+      "provide supervision and guidance — 監督と指導を提供する"
+    ],
+    "en": [
+      "close supervision",
+      "direct supervision",
+      "adult supervision",
+      "professional supervision",
+      "adequate supervision",
+      "lack of supervision",
+      "under supervision",
+      "under the supervision of a manager",
+      "require constant supervision",
+      "provide supervision and guidance"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Trainees must perform the procedure under close supervision. — 研修生は厳重な監督の下でその手順を行わなければならない。",
+      "The work was completed under the supervision of a senior engineer. — その作業は上級技術者の監督下で完了した。",
+      "Young children should not use the equipment without adult supervision. — 幼い子どもは成人の見守りなしにその機器を使うべきではない。",
+      "The incident resulted partly from inadequate supervision. — その出来事は、監督が不十分だったことにも一部起因していた。",
+      "She provides academic supervision to three doctoral students. — 彼女は3名の博士課程学生を研究指導している。"
+    ],
+    "en": [
+      "Trainees must perform the procedure under close supervision.",
+      "The work was completed under the supervision of a senior engineer.",
+      "Young children should not use the equipment without adult supervision.",
+      "The incident resulted partly from inadequate supervision.",
+      "She provides academic supervision to three doctoral students."
+    ]
+  }
+},
+{
+  "id": "jubilant",
+  "sid": "2026-01017",
+  "word": "jubilant",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "joy",
+    "celebration",
+    "victory",
+    "success",
+    "emotion",
+    "crowd",
+    "news",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj",
+    "comparison": {
+      "comparative": "more jubilant",
+      "superlative": "most jubilant"
+    },
+    "related": {
+      "noun": "jubilation",
+      "verb": "jubilate",
+      "adverb": "jubilantly"
+    },
+    "patterns": [
+      "a jubilant person / crowd",
+      "jubilant supporters / fans",
+      "a jubilant mood / atmosphere",
+      "be jubilant at / over + victory / news",
+      "be jubilant about + result",
+      "appear / sound jubilant"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdʒuːbɪlənt/",
+      "uk": "/ˈdʒuːbɪlənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "勝利・成功・朗報などによって歓喜に満ちた",
+      "喜びを抑えきれず、祝う様子を公然と示す",
+      "群衆・雰囲気などが歓声と興奮に包まれた",
+      "大きな達成を誇らしく喜んでいる"
+    ],
+    "en": [
+      "extremely joyful because of a victory, success, or good news",
+      "openly expressing intense happiness and celebration",
+      "filled with cheering, excitement, and collective joy",
+      "delighted and proud because of an important achievement"
+    ]
+  },
+  "nuance": {
+    "ja": "jubilantは、静かな満足ではなく、勝利・選挙結果・合格・救出・重大な成功などを受けて、喜びが外へあふれ出ている状態を表す。人だけでなく、a jubilant crowd、a jubilant atmosphereのように群衆・雰囲気にも使われる。joyfulより勝利や達成との結び付きが強く、triumphantに近いが、triumphantが勝者としての誇りや優越感を含みやすいのに対し、jubilantは純粋な感情としての大きな喜びに焦点を置く。報道文ややや形式的な文章でよく使われ、日常会話ではoverjoyed、thrilled、really happyなどの方が一般的。",
+    "en": "Jubilant describes joy that is outward, energetic, and difficult to contain rather than quiet satisfaction. It commonly follows a victory, election result, successful examination, rescue, or major achievement. The adjective applies not only to individuals but also to crowds, supporters, moods, and atmospheres. It is more closely associated with victory and achievement than joyful. It approaches triumphant, but triumphant often carries the pride or confidence of a winner, whereas jubilant focuses on intense happiness itself. It is common in journalism and somewhat formal writing; overjoyed, thrilled, or really happy are more usual in everyday conversation."
+  },
+  "minimal": {
+    "ja": [
+      "jubilant：勝利・成功・朗報を受け、祝賀として外に表れるほど歓喜に満ちた。",
+      "joyful：喜びに満ちたことを表す広い語で、勝利や公然たる祝賀は必要ない。",
+      "elated：成功・朗報などによって気分が高揚し、非常に幸せな。",
+      "triumphant：勝利・成功を収めた誇りや勝者としての自信を強く示す。",
+      "ecstatic：理性を忘れるほど圧倒的な幸福・興奮に包まれた、さらに強い語。"
+    ],
+    "en": [
+      "jubilant: intensely joyful after a victory, success, or good news and openly expressing celebration.",
+      "joyful: the broad adjective for being full of joy, without requiring victory or public celebration.",
+      "elated: extremely happy and emotionally uplifted because of success or good news.",
+      "triumphant: showing the pride and confidence of someone who has achieved victory or success.",
+      "ecstatic: overwhelmed by extreme happiness or excitement and generally stronger than jubilant."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語jubilare『歓声を上げる、喜び叫ぶ』の現在分詞jubilansに由来する。jubilareは喜びを声に出して表すことを意味し、そこからjubilant『歓喜している』とjubilation『歓喜』が生まれた。jubilee『記念祭・節目の祝典』とは歴史的に別系統だが、綴りと祝賀の意味が近いため、後世に互いに関連付けられた。",
+    "en": "Jubilant derives from Latin jubilans, the present participle of jubilare, meaning to shout for joy. This produced jubilant, describing someone expressing intense joy, and jubilation, meaning great rejoicing. Jubilee is historically of a different origin, although the similarity in spelling and association with celebration caused the words to influence each other."
+  },
+  "synonyms": [
+    {
+      "word": "elated",
+      "note": {
+        "ja": "成功・朗報によって気分が大きく高揚している。必ずしも喜びを騒がしく表すとは限らない。",
+        "en": "Extremely happy and emotionally uplifted by success or good news, without necessarily celebrating loudly."
+      }
+    },
+    {
+      "word": "exultant",
+      "note": {
+        "ja": "勝利・成功を誇らしく喜び、歓喜を表す硬い語。jubilantに非常に近い。",
+        "en": "A formal near-synonym for proudly expressing great joy at a victory or success."
+      }
+    },
+    {
+      "word": "overjoyed",
+      "note": {
+        "ja": "非常にうれしいことを直接表す一般的な語。公的な勝利との結び付きは弱い。",
+        "en": "A common and direct adjective meaning extremely happy, with less association with public victory."
+      }
+    },
+    {
+      "word": "euphoric",
+      "note": {
+        "ja": "強い幸福感・楽観・興奮によって現実離れした高揚状態にある。",
+        "en": "Experiencing an intense and sometimes unrealistically elevated state of happiness, optimism, or excitement."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "jubelnd / hocherfreut",
+    "it": "giubilante",
+    "fr": "jubilant",
+    "es": "jubilosо / exultante"
+  },
+  "collocations": {
+    "ja": [
+      "a jubilant crowd — 歓喜する群衆",
+      "jubilant supporters — 歓喜する支持者",
+      "jubilant fans — 歓喜するファン",
+      "a jubilant team — 勝利を喜ぶチーム",
+      "a jubilant mood — 歓喜に満ちた雰囲気",
+      "a jubilant atmosphere — 祝賀ムードに満ちた雰囲気",
+      "jubilant celebrations — 歓喜の祝賀行事",
+      "be jubilant over the victory — 勝利に歓喜する",
+      "be jubilant at the news — 朗報に歓喜する",
+      "look absolutely jubilant — 心から歓喜しているように見える"
+    ],
+    "en": [
+      "a jubilant crowd",
+      "jubilant supporters",
+      "jubilant fans",
+      "a jubilant team",
+      "a jubilant mood",
+      "a jubilant atmosphere",
+      "jubilant celebrations",
+      "be jubilant over the victory",
+      "be jubilant at the news",
+      "look absolutely jubilant"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Jubilant supporters filled the streets after the election victory. — 選挙での勝利後、歓喜する支持者たちが通りを埋め尽くした。",
+      "The players were jubilant after winning the championship. — 選手たちは優勝を果たして歓喜していた。",
+      "She sounded jubilant when she called to tell us the news. — その知らせを伝えるため電話してきた彼女の声は、歓喜に満ちていた。",
+      "A jubilant atmosphere spread through the office when the deal was confirmed. — 契約成立が確認されると、オフィスは歓喜に包まれた。",
+      "The rescue team received a jubilant welcome on its return. — 救助隊は帰還時に歓喜の歓迎を受けた。"
+    ],
+    "en": [
+      "Jubilant supporters filled the streets after the election victory.",
+      "The players were jubilant after winning the championship.",
+      "She sounded jubilant when she called to tell us the news.",
+      "A jubilant atmosphere spread through the office when the deal was confirmed.",
+      "The rescue team received a jubilant welcome on its return."
+    ]
+  }
+},
+{
+  "id": "overjoyed",
+  "sid": "2026-01018",
+  "word": "overjoyed",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "joy",
+    "good news",
+    "success",
+    "relief",
+    "emotion",
+    "personal",
+    "daily conversation",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj",
+    "comparison": {
+      "comparative": "more overjoyed",
+      "superlative": "most overjoyed"
+    },
+    "related": {
+      "verb": "overjoy",
+      "noun": "joy",
+      "participle": "overjoyed"
+    },
+    "patterns": [
+      "be overjoyed at / by + news / result",
+      "be overjoyed about + event",
+      "be overjoyed with + result",
+      "be overjoyed to hear / see / learn",
+      "be overjoyed that + clause",
+      "absolutely / simply overjoyed"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌoʊvərˈdʒɔɪd/",
+      "uk": "/ˌəʊvəˈdʒɔɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "非常にうれしい、この上なく喜んでいる",
+      "朗報・成功・再会などによって大きな幸福を感じている",
+      "心配事が解決して、安堵と喜びに満たされている",
+      "期待していた結果を得て心から喜んでいる"
+    ],
+    "en": [
+      "extremely happy or delighted",
+      "filled with great happiness because of good news, success, or a reunion",
+      "experiencing both relief and intense joy after a worry has been resolved",
+      "deeply pleased because a hoped-for result has been achieved"
+    ]
+  },
+  "nuance": {
+    "ja": "overjoyedは、通常のhappyを大きく上回る、個人的で心からの喜びを表す。試験への合格、妊娠・出産の知らせ、大切な人との再会、紛失物の発見など、待ち望んでいた好ましい結果に特に適している。jubilantのように歓声・群衆・祝賀行動を伴う必要はなく、静かに深い喜びを感じている場合にも使える。thrilledより純粋な幸福感が強く、興奮や刺激は必須ではない。動詞overjoyは単独の能動態ではあまり使われず、通常はThe news overjoyed us.よりもWe were overjoyed by the news.のような過去分詞形で現れる。",
+    "en": "Overjoyed expresses sincere personal happiness far beyond ordinary happiness. It is especially appropriate for a long-awaited favorable result, such as passing an examination, receiving family news, reuniting with someone important, or recovering something thought lost. Unlike jubilant, it does not require cheering, a crowd, or visible celebration and can describe quiet but profound joy. Compared with thrilled, it places more emphasis on happiness itself and less on excitement or stimulation. The active verb overjoy is uncommon; the participial adjective is normally used in constructions such as We were overjoyed by the news."
+  },
+  "minimal": {
+    "ja": [
+      "overjoyed：待ち望んだ朗報・成功などによって、個人的にこの上なくうれしい。",
+      "delighted：何かに大いに満足し、うれしく思う丁寧で一般的な語。",
+      "thrilled：喜びに加えて、強い興奮・期待・高揚を感じている。",
+      "jubilant：勝利・成功などを受け、祝賀として外に表れるほど歓喜に満ちた。",
+      "ecstatic：理性を忘れるほど圧倒的な幸福・興奮に包まれた、最も強い語の一つ。"
+    ],
+    "en": [
+      "overjoyed: personally and profoundly happy because of long-awaited good news or success.",
+      "delighted: very pleased and happy, expressed in a common and often polite way.",
+      "thrilled: extremely pleased with an additional sense of excitement, anticipation, or stimulation.",
+      "jubilant: intensely joyful after a victory or success and openly expressing celebration.",
+      "ecstatic: overwhelmed by extreme happiness or excitement and one of the strongest terms in this group."
+    ]
+  },
+  "etymology": {
+    "ja": "over-『過度に、非常に』とjoyed『喜んでいる』から成る。joyは古フランス語joie『喜び』を経て、ラテン語gaudium『喜び』に由来する。over-が感情の程度を強めることで、文字どおり『喜びでいっぱいになった、通常の程度を超えて喜んだ』という意味を形成している。",
+    "en": "Overjoyed is formed from over-, meaning excessively or to a high degree, and joyed. Joy came through Old French joie from Latin gaudium, meaning joy or gladness. The intensifying prefix gives the word its literal sense of being filled with joy beyond the ordinary degree."
+  },
+  "synonyms": [
+    {
+      "word": "delighted",
+      "note": {
+        "ja": "非常にうれしく満足している。overjoyedより程度が穏やかで、社交的な定型表現にも使える。",
+        "en": "Very pleased and satisfied, milder than overjoyed and common in polite social expressions."
+      }
+    },
+    {
+      "word": "thrilled",
+      "note": {
+        "ja": "喜びとともに興奮・期待で気持ちが高まっている。",
+        "en": "Extremely pleased and emotionally excited or stimulated."
+      }
+    },
+    {
+      "word": "elated",
+      "note": {
+        "ja": "成功・朗報によって気分が高揚し、自信や幸福感に満ちている。",
+        "en": "Emotionally uplifted and extremely happy because of success or good news."
+      }
+    },
+    {
+      "word": "ecstatic",
+      "note": {
+        "ja": "我を忘れるほど強烈な幸福・歓喜に包まれている。",
+        "en": "Experiencing happiness or delight so intense that it is almost overwhelming."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "überglücklich",
+    "it": "felicissimo / raggiante",
+    "fr": "fou de joie / ravi",
+    "es": "contentísimo / lleno de alegría"
+  },
+  "collocations": {
+    "ja": [
+      "be overjoyed at the news — その知らせに大喜びする",
+      "be overjoyed by the result — その結果に大喜びする",
+      "be overjoyed with the outcome — その結果に心から満足し喜ぶ",
+      "be overjoyed to hear — ～を聞いて大喜びする",
+      "be overjoyed to see someone — 人に会えて大喜びする",
+      "be overjoyed to learn that — ～だと知って大喜びする",
+      "be overjoyed that someone is safe — 人が無事だと分かって大喜びする",
+      "absolutely overjoyed — この上なく喜んでいる",
+      "simply overjoyed — 本当に大喜びしている",
+      "look overjoyed — 大喜びしているように見える"
+    ],
+    "en": [
+      "be overjoyed at the news",
+      "be overjoyed by the result",
+      "be overjoyed with the outcome",
+      "be overjoyed to hear",
+      "be overjoyed to see someone",
+      "be overjoyed to learn that",
+      "be overjoyed that someone is safe",
+      "absolutely overjoyed",
+      "simply overjoyed",
+      "look overjoyed"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We were overjoyed to hear that both mother and baby were healthy. — 母子ともに健康だと聞き、私たちはこの上なく喜んだ。",
+      "She was overjoyed at passing the examination. — 彼女は試験に合格して大喜びした。",
+      "His family was overjoyed when he returned home safely. — 彼が無事に帰宅すると、家族は心から喜んだ。",
+      "The researchers were overjoyed by the successful result. — 研究者たちは成功という結果に大喜びした。",
+      "I am overjoyed that our proposal has finally been accepted. — 私たちの提案がついに受け入れられ、この上なくうれしく思います。"
+    ],
+    "en": [
+      "We were overjoyed to hear that both mother and baby were healthy.",
+      "She was overjoyed at passing the examination.",
+      "His family was overjoyed when he returned home safely.",
+      "The researchers were overjoyed by the successful result.",
+      "I am overjoyed that our proposal has finally been accepted."
+    ]
+  }
+},
+{
+  "id": "delighted",
+  "sid": "2026-01019",
+  "word": "delighted",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "adjective",
+    "joy",
+    "pleasure",
+    "satisfaction",
+    "politeness",
+    "invitation",
+    "business",
+    "daily conversation",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adj",
+    "comparison": {
+      "comparative": "more delighted",
+      "superlative": "most delighted"
+    },
+    "related": {
+      "noun": "delight",
+      "verb": "delight",
+      "cause_adjective": "delightful",
+      "participle": "delighted"
+    },
+    "patterns": [
+      "be delighted with + result / product",
+      "be delighted by / at + news / development",
+      "be delighted about + event",
+      "be delighted to do",
+      "be delighted that + clause",
+      "I would / I'd be delighted to + verb"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈlaɪtɪd/",
+      "uk": "/dɪˈlaɪtɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "非常にうれしい、大いに喜んでいる",
+      "結果・商品・サービスなどに大変満足している",
+      "招待・提案などを喜んで受け入れる意思がある",
+      "人に会うことや何かをすることを心から楽しみにしている"
+    ],
+    "en": [
+      "very pleased and happy",
+      "highly satisfied with a result, product, or service",
+      "happy and willing to accept an invitation or proposal",
+      "sincerely pleased at the prospect of meeting someone or doing something"
+    ]
+  },
+  "nuance": {
+    "ja": "delightedはvery pleasedより温かく強い喜びを表すが、overjoyedやecstaticほど圧倒的ではない。そのため、日常会話から丁寧なビジネス表現まで幅広く使いやすい。I'm delighted with the result.は結果に大変満足していること、I'm delighted to meet you.は会えたことを心から喜んでいるという丁寧な挨拶を表す。I'd be delighted to help.は単なる承諾ではなく、喜んで引き受けるという好意的な返答になる。delightedは喜びを感じる人、delightfulは喜びを与える人・物・経験を表す。強い形容詞として扱われるため、very delightedよりabsolutely delightedやreally delightedが自然な場合が多い。",
+    "en": "Delighted expresses warmer and stronger pleasure than pleased but is less overwhelming than overjoyed or ecstatic. This makes it useful across everyday conversation, polite correspondence, and business communication. I'm delighted with the result expresses strong satisfaction, while I'm delighted to meet you is a warm and courteous greeting. I'd be delighted to help does more than merely accept; it communicates genuine willingness and pleasure. Delighted describes the person experiencing pleasure, whereas delightful describes the person, thing, or experience that causes it. Because delighted is often treated as a strong adjective, absolutely delighted or really delighted may sound more natural than very delighted."
+  },
+  "minimal": {
+    "ja": [
+      "delighted：何かを非常にうれしく思い、温かい満足・喜びを感じている。",
+      "pleased：結果・出来事などをうれしく、または満足に思う、比較的穏やかで丁寧な語。",
+      "thrilled：喜びに加えて、強い興奮・期待・高揚を感じている。",
+      "overjoyed：待ち望んだ朗報・成功などによって、この上なく喜んでいる。",
+      "delightful：人・物・経験などが、他者に大きな喜びを与える。"
+    ],
+    "en": [
+      "delighted: experiencing warm, strong pleasure and happiness about something.",
+      "pleased: feeling happy or satisfied, generally milder and often used politely.",
+      "thrilled: extremely pleased with an additional sense of excitement or anticipation.",
+      "overjoyed: profoundly happy because of long-awaited good news or success.",
+      "delightful: causing another person considerable pleasure or enjoyment."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞delightの過去分詞から形容詞化した語。delightは古フランス語delit・delitierを経て、ラテン語delectare『喜ばせる、魅了する』に由来する。英語での綴りは、意味的に近いlight『光』との連想によって現在のdelightという形になったが、語源的にはlightと直接関係しない。",
+    "en": "Delighted developed from the past participle of delight. Delight came through Old French delit and delitier from Latin delectare, meaning to please or charm. Its English spelling was influenced by association with light, but the words are not directly related etymologically."
+  },
+  "synonyms": [
+    {
+      "word": "pleased",
+      "note": {
+        "ja": "喜び・満足を表す一般的で丁寧な語。delightedより通常は程度が弱い。",
+        "en": "A common and polite adjective for happiness or satisfaction, generally milder than delighted."
+      }
+    },
+    {
+      "word": "glad",
+      "note": {
+        "ja": "出来事・知らせなどをうれしく思う日常的で自然な語。",
+        "en": "A natural everyday adjective for being happy about an event, fact, or piece of news."
+      }
+    },
+    {
+      "word": "thrilled",
+      "note": {
+        "ja": "非常にうれしく、同時に興奮していることを表す。",
+        "en": "Describes being extremely pleased and emotionally excited at the same time."
+      }
+    },
+    {
+      "word": "gratified",
+      "note": {
+        "ja": "努力が認められた、期待が満たされたなどの理由で、深い満足を感じている硬い語。",
+        "en": "A formal adjective for feeling deep satisfaction because one's efforts were recognized or expectations fulfilled."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "hocherfreut / begeistert",
+    "it": "lieto / felicissimo",
+    "fr": "ravi",
+    "es": "encantado"
+  },
+  "collocations": {
+    "ja": [
+      "be delighted with the result — 結果に大変満足する",
+      "be delighted with the service — サービスに大変満足する",
+      "be delighted at the news — その知らせに大喜びする",
+      "be delighted by the response — 反応を非常にうれしく思う",
+      "be delighted to hear — ～を聞いて大変うれしく思う",
+      "be delighted to meet someone — 人に会えて大変うれしく思う",
+      "be delighted to accept — 喜んで受け入れる",
+      "be delighted to assist — 喜んで支援する",
+      "absolutely delighted — 心から大喜びしている",
+      "I'd be delighted to — 喜んで～します"
+    ],
+    "en": [
+      "be delighted with the result",
+      "be delighted with the service",
+      "be delighted at the news",
+      "be delighted by the response",
+      "be delighted to hear",
+      "be delighted to meet someone",
+      "be delighted to accept",
+      "be delighted to assist",
+      "absolutely delighted",
+      "I'd be delighted to"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We are delighted with the results of the project. — 私たちはその事業の成果に大変満足しています。",
+      "I was delighted to hear that your application had been approved. — あなたの申請が承認されたと聞き、大変うれしく思いました。",
+      "I'd be delighted to attend the reception. — 喜んでそのレセプションに出席いたします。",
+      "The client was absolutely delighted with the final design. — 顧客は最終的なデザインに心から満足していた。",
+      "It was a delightful evening, and we were delighted to meet everyone. — とても楽しい晩で、皆さんにお会いできてうれしく思いました。"
+    ],
+    "en": [
+      "We are delighted with the results of the project.",
+      "I was delighted to hear that your application had been approved.",
+      "I'd be delighted to attend the reception.",
+      "The client was absolutely delighted with the final design.",
+      "It was a delightful evening, and we were delighted to meet everyone."
+    ]
+  }
+},
+{
+  "id": "delight",
+  "sid": "2026-01020",
+  "word": "delight",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "joy",
+    "pleasure",
+    "enjoyment",
+    "satisfaction",
+    "emotion",
+    "formal",
+    "literary",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "noun": {
+      "countability": "uncountable for great pleasure / countable for a source of pleasure",
+      "plural": "delights",
+      "patterns": [
+        "with / in delight",
+        "to someone's delight",
+        "take / find delight in + noun / -ing",
+        "a source of delight",
+        "the delights of + noun"
+      ]
+    },
+    "verb": {
+      "forms": {
+        "base": "delight",
+        "third_person": "delights",
+        "past": "delighted",
+        "past_participle": "delighted",
+        "gerund": "delighting"
+      },
+      "transitivity": "transitive / intransitive with in",
+      "patterns": [
+        "delight + person / audience",
+        "delight someone with + noun",
+        "delight in + noun / -ing",
+        "be delighted by / with + noun",
+        "be delighted to do"
+      ]
+    },
+    "related": {
+      "adjectives": "delighted / delightful",
+      "adverb": "delightfully"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈlaɪt/",
+      "uk": "/dɪˈlaɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "非常に大きな喜び・楽しみ",
+      "人を大いに喜ばせる人・物・経験",
+      "楽しい経験・魅力的な物事",
+      "人を大いに喜ばせる、楽しませる",
+      "ある活動・状況などを大いに楽しむ"
+    ],
+    "en": [
+      "a feeling of very great pleasure or joy",
+      "a person, thing, or experience that gives great pleasure",
+      "an enjoyable experience or attractive feature",
+      "to give someone great pleasure or enjoyment",
+      "to take great pleasure in an activity or situation"
+    ]
+  },
+  "nuance": {
+    "ja": "名詞delightは、単なる満足より明るく生き生きとした大きな喜びを表す。不可算ではShe laughed with delight.のように感情そのものを、可算ではThe garden is a delight.のように喜びを与える対象を指す。複数形the delights of travelは、旅行がもたらすさまざまな楽しみを意味する。他動詞delightは、人・観客などを大いに喜ばせることを表す。delight inは、本人が何かを積極的に楽しむというやや文学的な表現だが、He delights in embarrassing people.のように、他人の不幸を楽しむ否定的な文脈にも使える。delightedは喜びを感じる側、delightfulは喜びを与える側を表す。",
+    "en": "As a noun, delight expresses bright, lively pleasure stronger than ordinary satisfaction. Uncountable use refers to the emotion itself, as in She laughed with delight, while countable use identifies a source of pleasure, as in The garden is a delight. The plural phrase the delights of travel refers to the various pleasures that travel provides. As a transitive verb, delight means giving a person or audience great pleasure. Delight in is a somewhat literary expression for actively taking pleasure in something, but it may also occur negatively, as when someone delights in another person's embarrassment. Delighted describes the person experiencing pleasure, while delightful describes what causes it."
+  },
+  "minimal": {
+    "ja": [
+      "delight：生き生きとした大きな喜び、またはその喜びを与えること・対象。",
+      "joy：幸福・成功・愛情などから生じる、深く純粋な喜び。",
+      "pleasure：満足・快適さ・楽しさを表す最も広い語で、身体的・社交的な満足にも使う。",
+      "enjoyment：活動・経験を実際に楽しんでいる状態・度合い。",
+      "please：人を満足・喜ばせる一般的な動詞で、delightほど強い喜びを必要としない。"
+    ],
+    "en": [
+      "delight: vivid and considerable pleasure, or the act or source of producing that pleasure.",
+      "joy: deep and sincere happiness arising from love, success, or another important source.",
+      "pleasure: the broad term for satisfaction, comfort, or enjoyment, including physical and social pleasure.",
+      "enjoyment: the state or degree of taking pleasure in a particular activity or experience.",
+      "please: the general verb for making someone happy or satisfied and generally milder than delight."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語delit・delightは古フランス語delit『喜び、楽しみ』およびdelitier『喜ばせる』を経て、ラテン語delectare『楽しませる、魅了する』に由来する。英語の綴りにある-gh-は、意味的に近いlight『光』との連想によって後から加わったもので、語源的にはlightと直接関係しない。",
+    "en": "Delight came through Middle English and Old French delit, meaning pleasure, and delitier, meaning to please, from Latin delectare, meaning to charm or give pleasure. The -gh- in the English spelling was added through association with light, but delight and light are not directly related etymologically."
+  },
+  "synonyms": [
+    {
+      "word": "joy",
+      "note": {
+        "ja": "愛情・成功・朗報などによる深い幸福感。delightより内面的・感情的な場合がある。",
+        "en": "Deep happiness arising from love, success, or good news and sometimes more inward or emotional than delight."
+      }
+    },
+    {
+      "word": "pleasure",
+      "note": {
+        "ja": "喜び・満足・快適さを表す一般的な語。delightより程度の幅が広い。",
+        "en": "The general noun for enjoyment, satisfaction, or comfort and broader in degree than delight."
+      }
+    },
+    {
+      "word": "thrill",
+      "note": {
+        "ja": "興奮・緊張を伴う強い喜び、またはその感覚を与える経験。",
+        "en": "A strong feeling of pleasure accompanied by excitement or the experience that produces it."
+      }
+    },
+    {
+      "word": "charm",
+      "note": {
+        "ja": "人を魅了し、好意や喜びを感じさせる力、またはその力で人を喜ばせること。",
+        "en": "The power to attract and please someone, or the act of winning pleasure and affection through that quality."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Freude / erfreuen",
+    "it": "gioia / deliziare",
+    "fr": "délice / ravir",
+    "es": "deleite / deleitar"
+  },
+  "collocations": {
+    "ja": [
+      "with delight — 大喜びで",
+      "to someone's delight — 人が喜んだことに",
+      "take delight in — ～を大いに楽しむ",
+      "find delight in — ～に喜びを見いだす",
+      "a source of delight — 喜びの源",
+      "a constant delight — 絶えず喜びを与えるもの",
+      "the delights of travel — 旅行のさまざまな楽しみ",
+      "delight an audience — 観客を大いに喜ばせる",
+      "delight someone with a performance — 演技で人を喜ばせる",
+      "delight in doing something — ～することを大いに楽しむ"
+    ],
+    "en": [
+      "with delight",
+      "to someone's delight",
+      "take delight in",
+      "find delight in",
+      "a source of delight",
+      "a constant delight",
+      "the delights of travel",
+      "delight an audience",
+      "delight someone with a performance",
+      "delight in doing something"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The children cried out with delight when they saw the presents. — 子どもたちは贈り物を見ると、大喜びで声を上げた。",
+      "To our delight, the application was approved earlier than expected. — 私たちが喜んだことに、その申請は予想より早く承認された。",
+      "The small garden is an absolute delight in spring. — その小さな庭は春になると実にすばらしい。",
+      "The musician delighted the audience with an unexpected encore. — その音楽家は予想外のアンコールで観客を大いに喜ばせた。",
+      "He seems to delight in pointing out other people's mistakes. — 彼は他人の間違いを指摘することを楽しんでいるようだ。"
+    ],
+    "en": [
+      "The children cried out with delight when they saw the presents.",
+      "To our delight, the application was approved earlier than expected.",
+      "The small garden is an absolute delight in spring.",
+      "The musician delighted the audience with an unexpected encore.",
+      "He seems to delight in pointing out other people's mistakes."
+    ]
+  }
 }
 ]
