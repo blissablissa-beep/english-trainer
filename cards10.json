@@ -5545,5 +5545,170 @@
       "He promised to support the decision no matter what the outcome might be."
     ]
   }
+},
+{
+  "id": "whatever",
+  "sid": "2026-01035",
+  "word": "whatever",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "pronoun",
+    "determiner",
+    "adverb",
+    "interjection",
+    "free relative",
+    "concession",
+    "emphasis",
+    "spoken English",
+    "general"
+  ],
+  "grammar": {
+    "pos": "pron",
+    "functions": [
+      "pronoun",
+      "determiner",
+      "concessive clause introducer",
+      "emphatic adverb",
+      "informal interjection"
+    ],
+    "patterns": [
+      "whatever + subject + verb",
+      "whatever + noun",
+      "verb + whatever + subject + verb",
+      "whatever happens / someone says / someone does",
+      "whatever the reason / cost / outcome",
+      "no + noun + whatever",
+      "Whatever do you mean?",
+      "Whatever."
+    ],
+    "usage_note": "Whatever can mean either anything that or no matter what. The standalone interjection Whatever can sound dismissive or rude."
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/wʌtˈevər/",
+      "uk": "/wɒtˈevə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "～するもの・ことは何でも、～するものすべて",
+      "何が～しても、何であっても",
+      "どんな～でも、いかなる～でも",
+      "疑問文を強調して、一体何が・一体どういう",
+      "間投詞として、どうでもいい、はいはい、好きにすれば"
+    ],
+    "en": [
+      "anything or everything that meets a stated condition",
+      "no matter what happens, is said, or is done",
+      "any thing or kind that may be chosen or available",
+      "used to add surprise or emphasis to a question beginning with what",
+      "as an interjection, used to express indifference, dismissal, or unwillingness to continue an argument"
+    ]
+  },
+  "nuance": {
+    "ja": "whatever の主要用法の一つは、whatever you need『あなたが必要とするものは何でも』のような融合関係詞節である。この whatever は節全体を名詞相当の要素にし、主語・目的語・補語として使える。もう一つは Whatever happens『何が起きても』のような譲歩用法で、no matter what happens とほぼ同義になる。whatever reason や whatever method のように名詞を修飾すれば、『どの～であっても』を表す。また no reason whatever のように名詞の後ろに置くと、『いかなる～も全くない』という強調になる。単独の Whatever. は、相手の発言をまともに取り合わない態度を示し、声調によっては無礼・冷淡・受動攻撃的に聞こえる。",
+    "en": "One major use of whatever is in a fused relative construction such as whatever you need, meaning anything that you need. The whole clause functions like a noun phrase and can serve as a subject, object, or complement. Its other central use is concessive, as in Whatever happens, meaning no matter what happens. Before a noun, as in whatever reason or whatever method, it means any one that may apply. When placed after a noun in expressions such as no reason whatever, it adds emphatic force meaning of any kind at all. As a standalone interjection, Whatever. dismisses the preceding remark and may sound indifferent, rude, or passive-aggressive depending on tone."
+  },
+  "minimal": {
+    "ja": [
+      "whatever：『～するものは何でも』という名詞相当の用法と、『何が～しても』という譲歩用法を持つ。",
+      "no matter what：何が起きても結果は変わらない、という譲歩だけを表し、通常は名詞相当の目的語にならない。",
+      "anything：特定されていない何かを指す代名詞で、後ろに主語＋動詞を直接続けることはできない。",
+      "whichever：範囲が限定された選択肢のうち、どれであっても・どちらであっても、を表す。",
+      "whatsoever：否定語の後で『いかなる～も全く』と強調する語で、whatever より用途が狭い。",
+      "regardless of：特定の事情・条件に左右されないことを、前置詞句として表す。"
+    ],
+    "en": [
+      "whatever: can mean anything that or introduce a concession meaning no matter what.",
+      "no matter what: expresses concession but does not normally function as a nominal object meaning anything that.",
+      "anything: refers to an unspecified thing but cannot directly introduce a subject-verb clause.",
+      "whichever: means any one of a known or limited set of alternatives.",
+      "whatsoever: an emphatic word used mainly after negatives to mean of any kind at all.",
+      "regardless of: a prepositional expression indicating that a specified consideration makes no difference."
+    ]
+  },
+  "etymology": {
+    "ja": "whatever は what と ever の複合語で、中英語期から使われている。what は古英語 hwæt『何』、ever は古英語 ǣfre『いつでも、常に』に由来する。両者が結び付くことで、『何であっても』『あり得るすべてのもの』という無制限・譲歩の意味が生じた。『どうでもいい』という単独の間投詞用法は、この『どれであっても違いはない』という意味から発達した。",
+    "en": "Whatever is a compound of what and ever and has been used since Middle English. What comes from Old English hwæt, while ever comes from Old English ǣfre, meaning always or at any time. Their combination created the unrestricted or concessive meaning of any thing that may be relevant or no matter what. The dismissive interjection developed from the idea that the alternatives make no meaningful difference."
+  },
+  "synonyms": [
+    {
+      "word": "anything that",
+      "note": {
+        "ja": "whatever の『～するものは何でも』という融合関係詞用法の言い換え。",
+        "en": "A paraphrase of the fused-relative sense meaning any thing that satisfies the condition."
+      }
+    },
+    {
+      "word": "no matter what",
+      "note": {
+        "ja": "whatever の譲歩用法に対応し、『何が起きても』を表す。",
+        "en": "An equivalent of the concessive use, meaning regardless of what happens."
+      }
+    },
+    {
+      "word": "whichever",
+      "note": {
+        "ja": "限定された複数の選択肢から、どれを選んでも、という意味。",
+        "en": "Means any one of a particular or limited set of choices."
+      }
+    },
+    {
+      "word": "whatsoever",
+      "note": {
+        "ja": "否定文で『いかなる～も全く』を強調する、より限定的な語。",
+        "en": "A more restricted emphatic word used mainly after negative expressions."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "was auch immer / alles, was / egal",
+    "it": "qualunque cosa / qualsiasi / comunque",
+    "fr": "quoi que / tout ce que / n'importe quoi",
+    "es": "lo que sea / cualquier cosa que / sea lo que sea"
+  },
+  "collocations": {
+    "ja": [
+      "whatever happens — 何が起きても",
+      "whatever you want — あなたが望むものは何でも",
+      "whatever you need — あなたが必要とするものは何でも",
+      "whatever you decide — あなたが何を決めても",
+      "whatever it takes — 必要なことは何でも、何としてでも",
+      "whatever the reason — 理由が何であっても",
+      "whatever the outcome — 結果がどうなろうとも",
+      "whatever the cost — どのような犠牲・費用がかかっても",
+      "no evidence whatever — いかなる証拠も全くない",
+      "or whatever — ～か何か、その他何でも"
+    ],
+    "en": [
+      "whatever happens",
+      "whatever you want",
+      "whatever you need",
+      "whatever you decide",
+      "whatever it takes",
+      "whatever the reason",
+      "whatever the outcome",
+      "whatever the cost",
+      "no evidence whatever",
+      "or whatever"
+    ]
+  },
+  "example": {
+    "ja": [
+      "You may choose whatever you think is most appropriate. — あなたが最も適切だと思うものを何でも選んで構いません。",
+      "Whatever happens, we will continue to support the project. — 何が起きても、私たちはそのプロジェクトを支援し続けます。",
+      "Use whatever method produces the most reliable results. — 最も信頼できる結果が得られる方法なら、どの方法を使っても構いません。",
+      "There is no evidence whatever that he disclosed the information. — 彼がその情報を開示したことを示す証拠は全くない。",
+      "Whatever. I've already explained my decision. — もうどうでもいいよ。私の決定についてはすでに説明したから。"
+    ],
+    "en": [
+      "You may choose whatever you think is most appropriate.",
+      "Whatever happens, we will continue to support the project.",
+      "Use whatever method produces the most reliable results.",
+      "There is no evidence whatever that he disclosed the information.",
+      "Whatever. I've already explained my decision."
+    ]
+  }
 }
 ]
