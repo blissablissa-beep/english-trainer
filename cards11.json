@@ -2108,5 +2108,182 @@
       "Italian Sono preoccupato per il lavoro normally means I'm worried about work, not merely I'm preoccupied with work."
     ]
   }
+},
+{
+  "id": "actually",
+  "sid": "2026-01113",
+  "word": "actually",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "adverb",
+    "sentence adverb",
+    "discourse marker",
+    "fact",
+    "correction",
+    "contrast",
+    "surprise",
+    "conversation",
+    "false friend",
+    "formal",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adverb",
+    "word_family": {
+      "adjective": "actual",
+      "noun": "actuality",
+      "phrase": "in actual fact"
+    },
+    "patterns": [
+      "Actually, + clause",
+      "subject + actually + verb",
+      "subject + be + actually + complement",
+      "subject + auxiliary + actually + verb",
+      "not actually + verb / adjective",
+      "what actually happened",
+      "actually mean / say / do",
+      "actually be the case",
+      "actually rather / quite + adjective",
+      "Did you actually ...?",
+      "I actually thought / believed that + clause",
+      "Well, actually, + correction"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈæktʃuəli/; commonly /ˈæktʃəli/",
+      "uk": "/ˈæktʃuəli/; commonly /ˈæktʃəli/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "想像・主張・外見とは異なり、現実には",
+      "ある情報が本当に事実であることを強調して",
+      "相手の思い込みや直前の発言を訂正して、実は",
+      "予想外または意外な事実を導いて、なんと実際に",
+      "自分の発言・希望・判断を言い直して、いや実は",
+      "質問・反対意見・訂正などを会話に持ち出す談話標識として"
+    ],
+    "en": [
+      "in reality, as opposed to what was imagined, claimed, or apparent",
+      "used to emphasize that something is genuinely true",
+      "used to correct an assumption or a previous statement",
+      "used to introduce a surprising or unexpected fact",
+      "used to revise one's own statement, preference, or decision",
+      "used as a discourse marker when introducing a question, disagreement, or correction"
+    ]
+  },
+  "nuance": {
+    "ja": "actually の中心は、想定・外見・発言と現実の事実を対比することである。Actually, it was filed in May. は「4月と思われているが、実際には5月に提出された」のような訂正を示す。文頭の Actually, は会話の方向を変えたり、自分の意見を切り出したりする談話標識にもなる。丁寧な声調なら柔らかな訂正になるが、相手の発言の直後に強く発音すると「いや、違います」と知識を誇示するように聞こえることがある。文中では He actually read the entire document. のように、驚くべき事実を強調する。really は「本当に」のほか程度の強調にも使えるが、actually は原則として事実と想定の対比を示す。最重要の注意点は、イタリア語 attualmente が「現在、目下」を意味することである。英語 actually に対応するのは通常 in realtà、effettivamente、a dire il vero であり、Italian attualmente は English currently または at present に当たる。また English actual は「現実の・実際の」、Italian attuale は「現在の」であり、この形容詞同士も偽の友である。",
+    "en": "The central function of actually is to contrast reality with an assumption, appearance, or previous statement. Actually, it was filed in May corrects an expectation that it was filed at another time. Sentence-initial actually can also redirect a conversation or introduce the speaker's real opinion. With a gentle tone it may soften a correction, but when strongly stressed immediately after another person's statement, it can sound confrontational or pedantic. In medial position, as in He actually read the entire document, it emphasizes a surprising fact. Really can indicate either truth or degree, whereas actually normally signals a contrast between fact and expectation. The crucial false-friend distinction is that Italian attualmente means currently or at present. English actually normally corresponds to Italian in realtà, effettivamente, or a dire il vero. Similarly, English actual means real, while Italian attuale means current or present."
+  },
+  "minimal": {
+    "ja": [
+      "actually：想定・外見・発言と対比して、現実には、実は。",
+      "in fact：前の内容を訂正・補強し、事実をさらにはっきり提示する。",
+      "really：本当に、または非常に。事実性と程度の両方を表せる。",
+      "indeed：確かに、実に。前の発言を確認・強調する、やや形式的な語。",
+      "as a matter of fact：実を言うと、実際のところ。訂正や追加情報を強く導く。",
+      "currently：現在、目下。イタリア語 attualmente の通常の英訳。",
+      "at present：現時点では。現在の一時的な状況をやや形式的に表す。",
+      "Italian attualmente：現在。英語 actually の意味では使わない。",
+      "English actual：現実の・実際の。Italian attuale は通常「現在の」。"
+    ],
+    "en": [
+      "actually contrasts reality with an assumption, appearance, or previous statement.",
+      "in fact explicitly corrects or strengthens an earlier statement with factual information.",
+      "really can emphasize either truth or degree.",
+      "indeed confirms or strengthens a statement and is relatively formal.",
+      "as a matter of fact strongly introduces a correction or additional factual information.",
+      "currently means at the present time and is the usual translation of Italian attualmente.",
+      "at present describes the existing, often temporary, situation in a relatively formal way.",
+      "Italian attualmente means currently and should not normally be translated as actually.",
+      "English actual means real, whereas Italian attuale normally means current."
+    ]
+  },
+  "etymology": {
+    "ja": "形容詞 actual と副詞接尾辞 -ly から形成された。actual は後期ラテン語 actualis「行為・活動に関する」に由来し、その基礎にはラテン語 actus「行為」と agere「行う、動かす」がある。哲学・神学では、可能性として存在するものに対し、現実に実現・作動しているものを表すようになり、そこから actual に「現実の、事実上の」という意味が発達した。actually も当初の「活動として、現実に」という意味から「実際には」へ定着した。イタリア語 attuale と attualmente も同じラテン語 actualis に由来するが、「現在存在している」という時間的意味が中心となったため、英語との意味の分岐が生じた。",
+    "en": "Actually was formed from actual and the adverbial suffix -ly. Actual derives from Late Latin actualis, relating to action or activity, ultimately connected with Latin actus, meaning an act, and agere, meaning to do or set in motion. In philosophy and theology, actual came to describe something realized in fact rather than existing merely as a possibility. From this developed the English meaning real or existing in fact, and actually became established in the sense in reality. Italian attuale and attualmente descend from the same Latin source but developed primarily toward the temporal meanings current and currently, producing the modern false-friend relationship."
+  },
+  "synonyms": [
+    {
+      "word": "in fact",
+      "note": {
+        "ja": "事実を提示して前の認識を訂正したり、直前の主張をさらに強めたりする。",
+        "en": "Introduces a fact that corrects an assumption or provides stronger support for a preceding statement."
+      }
+    },
+    {
+      "word": "really",
+      "note": {
+        "ja": "本当に事実であること、または性質・感情の程度が高いことを表す。",
+        "en": "Indicates that something is genuinely true or intensifies the degree of a quality or feeling."
+      }
+    },
+    {
+      "word": "in reality",
+      "note": {
+        "ja": "外見・想像・理論とは異なる現実の状態を明示的に表す。",
+        "en": "Explicitly contrasts the real situation with appearance, imagination, or theory."
+      }
+    },
+    {
+      "word": "as a matter of fact",
+      "note": {
+        "ja": "実際の事実を持ち出して、訂正・反論・追加説明を行う表現。",
+        "en": "Introduces a factual correction, contradiction, or additional explanation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "tatsächlich / eigentlich / in Wirklichkeit",
+    "it": "in realtà / effettivamente / a dire il vero; not attualmente",
+    "fr": "en fait / réellement / à vrai dire",
+    "es": "en realidad / de hecho / la verdad es que"
+  },
+  "collocations": {
+    "ja": [
+      "actually happen — 実際に起こる",
+      "actually exist — 現実に存在する",
+      "actually mean — 実際には～を意味する",
+      "actually say — 実際にそう発言する",
+      "actually work — 本当に機能する",
+      "what actually happened — 実際に何が起きたか",
+      "not actually necessary — 実際には必要でない",
+      "actually be the case — 実際にそうである",
+      "Well, actually, ... — ええと、実は……",
+      "I actually thought that ... — 私は実際～だと思っていた"
+    ],
+    "en": [
+      "actually happen",
+      "actually exist",
+      "actually mean",
+      "actually say",
+      "actually work",
+      "what actually happened",
+      "not actually necessary",
+      "actually be the case",
+      "Well, actually, ...",
+      "I actually thought that ..."
+    ]
+  },
+  "example": {
+    "ja": [
+      "I thought the patent had expired, but it is actually still in force. — その特許は満了したと思っていたが、実際にはまだ有効だった。",
+      "What actually happened during the examination procedure? — 審査手続中に実際には何が起きたのですか。",
+      "Actually, I would prefer to discuss the claim wording first. — 実は、まず請求項の文言について話し合いたいです。",
+      "The amendment did not actually change the scope of protection. — その補正は、実際には保護範囲を変更しなかった。",
+      "Italian Attualmente lavoro a Tokyo means I currently work in Tokyo, not I actually work in Tokyo. — イタリア語の Attualmente lavoro a Tokyo は「私は現在東京で働いている」という意味であり、「実は東京で働いている」ではない。"
+    ],
+    "en": [
+      "I thought the patent had expired, but it is actually still in force.",
+      "What actually happened during the examination procedure?",
+      "Actually, I would prefer to discuss the claim wording first.",
+      "The amendment did not actually change the scope of protection.",
+      "Italian Attualmente lavoro a Tokyo means I currently work in Tokyo, not I actually work in Tokyo."
+    ]
+  }
 }
 ]
