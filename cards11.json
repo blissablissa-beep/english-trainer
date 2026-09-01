@@ -3338,5 +3338,158 @@
       "Italian Pretendo una risposta means I demand an answer, not I pretend an answer."
     ]
   }
+},
+{
+  "id": "epitome",
+  "sid": "2026-01120",
+  "word": "epitome",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "representation",
+    "embodiment",
+    "typical example",
+    "ideal",
+    "extreme",
+    "summary",
+    "pronunciation",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "epitomes",
+    "patterns": [
+      "the epitome of + noun",
+      "be the epitome of + quality",
+      "the very epitome of + noun",
+      "an epitome of + noun",
+      "the epitome of elegance / success / evil"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪˈpɪtəmi/",
+      "uk": "/ɪˈpɪtəmi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ある性質・種類を最も典型的または完全な形で表している人や物",
+      "特定の性質を目に見える形で体現した存在",
+      "作品や文章などの要点を縮約した概要・要約（古風・まれ）"
+    ],
+    "en": [
+      "a person or thing that represents a quality or type in its most typical or perfect form",
+      "a visible or concrete embodiment of a particular quality",
+      "a condensed summary of a written work or subject, now chiefly historical or rare"
+    ]
+  },
+  "nuance": {
+    "ja": "epitome は、単に「一例」であるだけでなく、ある性質が最も凝縮された典型・体現であることを表す。the epitome of elegance「優雅さの極致」のような肯定的表現にも、the epitome of selfishness「身勝手さの典型」のような否定的表現にも使える。多くの場合、話者による強い評価を伴う。prototype のように最初に作られた試作品を意味するわけではない。また、綴りから /ˈepɪtoʊm/ のように読まず、四音節の /ɪˈpɪtəmi/ と発音する。もともとの「要約」という意味は語源に近いが、現代一般英語では「典型・体現」の意味が中心である。",
+    "en": "Epitome denotes more than an ordinary example: it presents a quality or type in a highly concentrated, representative, or seemingly perfect form. It can be positive, as in the epitome of elegance, or negative, as in the epitome of selfishness, and often conveys a strong evaluation by the speaker. Unlike prototype, it does not mean the first experimental version of a product. Despite its spelling, epitome is pronounced as four syllables, /ɪˈpɪtəmi/. Its older sense of a condensed summary is close to its etymological origin but is uncommon in present-day general English."
+  },
+  "minimal": {
+    "ja": [
+      "epitome：ある性質を最も典型的・完全な形で体現している人や物。肯定・否定の両方に使う。",
+      "embodiment：抽象的な思想・性質・感情などが具体的な人や物として現れたもの。",
+      "quintessence：ある性質の最も純粋で本質的な部分。epitome より本質の凝縮を強調する。",
+      "archetype：同種のものの基礎となる原型、または繰り返し現れる典型的類型。",
+      "exemplar：模範として見習うべき優れた実例。通常は肯定的。",
+      "prototype：量産や完成に先立って作られる最初の模型・試作品。"
+    ],
+    "en": [
+      "epitome is a person or thing that represents a quality or type in its most typical or perfect form.",
+      "embodiment is a concrete expression of an abstract idea, quality, or emotion.",
+      "quintessence is the purest or most essential expression of a quality.",
+      "archetype is an original pattern or a recurring fundamental type.",
+      "exemplar is an outstanding example regarded as worthy of imitation and is normally positive.",
+      "prototype is an initial model produced before a finished or mass-produced version."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 epitomē「切り詰め、要約」に由来する。これは epi-「上に、加えて」と temnein「切る」から成り、長い著作から不要な部分を『切り落として』作った要約を指した。ラテン語 epitome、フランス語を経て英語に入り、当初は書物の要約を意味した。その後、内容の本質を凝縮したものという発想から、ある性質を完全に体現する人や物という現代の中心義が発達した。tome「大冊、書物」も、ギリシャ語の同じ『切る』を表す語根に関係する。",
+    "en": "Epitome comes from Greek epitome, meaning an abridgment or a cutting short. It combines epi-, meaning upon or in addition, with temnein, meaning to cut. It originally referred to a summary produced by cutting away nonessential portions of a longer work. The word entered English through Latin and French. From the idea of a condensed presentation of a work's essential content, it developed the modern sense of a person or thing that perfectly embodies a quality. Tome is historically related through the same Greek root meaning to cut."
+  },
+  "synonyms": [
+    {
+      "word": "embodiment",
+      "note": {
+        "ja": "抽象的な思想・性質などが、人や物として具体的に現れた存在。",
+        "en": "A person or thing in which an abstract idea or quality becomes concrete."
+      }
+    },
+    {
+      "word": "quintessence",
+      "note": {
+        "ja": "ある性質の最も純粋で本質的な形。文学的・強意的な響きがある。",
+        "en": "The purest and most essential expression of a quality, often with a literary or emphatic tone."
+      }
+    },
+    {
+      "word": "archetype",
+      "note": {
+        "ja": "他の同種のものの基礎となる原型、または文化などで繰り返される典型的類型。",
+        "en": "An original pattern or a fundamental type that recurs across similar examples."
+      }
+    },
+    {
+      "word": "exemplar",
+      "note": {
+        "ja": "優れており、模範として見習うべき人物・事例。",
+        "en": "An outstanding example considered worthy of imitation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Inbegriff / Verkörperung",
+    "it": "epitome / incarnazione / quintessenza",
+    "fr": "incarnation / quintessence",
+    "es": "epítome / personificación"
+  },
+  "collocations": {
+    "ja": [
+      "the epitome of elegance — 優雅さの極致",
+      "the epitome of professionalism — プロ意識を体現した存在",
+      "the epitome of success — 成功の典型",
+      "the epitome of modern design — 現代デザインの典型",
+      "the epitome of luxury — ぜいたくの極致",
+      "the epitome of good taste — 洗練された趣味の典型",
+      "the epitome of selfishness — 身勝手さの典型",
+      "the epitome of evil — 悪の権化",
+      "the very epitome of + noun — まさに～の典型",
+      "be widely regarded as the epitome of + noun — ～の典型と広くみなされる"
+    ],
+    "en": [
+      "the epitome of elegance",
+      "the epitome of professionalism",
+      "the epitome of success",
+      "the epitome of modern design",
+      "the epitome of luxury",
+      "the epitome of good taste",
+      "the epitome of selfishness",
+      "the epitome of evil",
+      "the very epitome of + noun",
+      "be widely regarded as the epitome of + noun"
+    ]
+  },
+  "example": {
+    "ja": [
+      "For many architects, the building is the epitome of modernist simplicity. — 多くの建築家にとって、その建物はモダニズムの簡潔さを体現したものだ。",
+      "She remained calm and courteous throughout the dispute, becoming the epitome of professionalism. — 彼女は争いの間も冷静で礼儀正しく、プロ意識を体現する存在となった。",
+      "The small hotel was once regarded as the epitome of understated luxury. — その小さなホテルは、かつて控えめなぜいたくの極致とみなされていた。",
+      "His response was the very epitome of arrogance. — 彼の返答は、まさに傲慢さの典型だった。",
+      "The device was marketed as the epitome of convenience, although many users found it unnecessarily complicated. — その機器は利便性の極致として売り出されたが、多くの利用者は不必要に複雑だと感じた。"
+    ],
+    "en": [
+      "For many architects, the building is the epitome of modernist simplicity.",
+      "She remained calm and courteous throughout the dispute, becoming the epitome of professionalism.",
+      "The small hotel was once regarded as the epitome of understated luxury.",
+      "His response was the very epitome of arrogance.",
+      "The device was marketed as the epitome of convenience, although many users found it unnecessarily complicated."
+    ]
+  }
 }
 ]
