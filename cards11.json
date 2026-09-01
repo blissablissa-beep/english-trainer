@@ -2285,5 +2285,1058 @@
       "Italian Attualmente lavoro a Tokyo means I currently work in Tokyo, not I actually work in Tokyo."
     ]
   }
+},
+{
+  "id": "eventually",
+  "sid": "2026-01114",
+  "word": "eventually",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "adverb",
+    "time",
+    "process",
+    "result",
+    "sequence",
+    "delay",
+    "prediction",
+    "false friend",
+    "formal",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adverb",
+    "word_family": {
+      "adjective": "eventual",
+      "noun": "event",
+      "related_adverb": "eventfully"
+    },
+    "patterns": [
+      "eventually + verb",
+      "will / may eventually + verb",
+      "eventually become / realize / decide",
+      "eventually lead to + noun",
+      "eventually result in + noun",
+      "eventually succeed in + gerund",
+      "be eventually followed by + noun",
+      "and eventually + clause",
+      "Eventually, + clause",
+      "subject + verb + eventually"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪˈventʃuəli/; commonly /ɪˈventʃəli/",
+      "uk": "/ɪˈventʃuəli/; commonly /ɪˈventʃəli/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "長い時間または遅延の後、最終的に",
+      "複数の段階・試行・変化を経た末に",
+      "困難や紆余曲折はあったものの、最後には",
+      "将来のある時点で、いずれは",
+      "一連の原因・過程の最終的な結果として"
+    ],
+    "en": [
+      "in the end, after a considerable period of time or delay",
+      "after passing through several stages, attempts, or changes",
+      "finally, despite difficulties or complications",
+      "at some later point in the future",
+      "as the ultimate result of a sequence of causes or developments"
+    ]
+  },
+  "nuance": {
+    "ja": "eventually は、すぐには実現しなかった結果が、時間の経過・複数の段階・困難などを経て最後に生じることを表す。The patent was eventually granted. は、審査や補正などを経て、最後には特許になったという含みを持つ。過去の出来事だけでなく、The technology will eventually become cheaper. のように将来の到達点を予測することもできる。finally も「ついに」を表すが、話者の安堵・焦りを帯びたり、列挙の最後を示したりできる。eventually は主に時間的・因果的な過程の終点に焦点を置き、列挙の「最後に」には通常使わない。ultimately は時間の経過だけでなく、議論・責任・因果関係の最終的な帰結にも使いやすい。重要なのは、イタリア語 eventualmente が通常「ひょっとすると、場合によっては、必要なら」を意味することである。Italian Eventualmente possiamo modificare la domanda. は We can amend the application if necessary. であり、We will eventually amend the application. ではない。形容詞でも English eventual は「最終的な」、Italian eventuale は「起こり得る、万一の」であり、部分的な偽の友である。",
+    "en": "Eventually indicates that a result occurs after time, intervening stages, delay, or difficulty rather than immediately. The patent was eventually granted suggests a process such as examination and amendment before grant. It can refer to past events or predict a future outcome, as in The technology will eventually become cheaper. Finally can also mean after a delay, but it may express relief or impatience and can introduce the last item in a sequence. Eventually chiefly marks the endpoint of a temporal or causal process and is not normally used merely to introduce the final item in a list. Ultimately can describe not only a temporal endpoint but also the final conclusion concerning logic, responsibility, or causation. Crucially, Italian eventualmente normally means possibly, if appropriate, or if necessary. Italian Eventualmente possiamo modificare la domanda means We can amend the application if necessary, not We will eventually amend the application. English eventual means occurring in the end, whereas Italian eventuale commonly means possible or contingent, making them partial false friends."
+  },
+  "minimal": {
+    "ja": [
+      "eventually：時間・段階・困難を経た末、最終的には。",
+      "finally：長い待機の末の「ついに」、または列挙・手順の最後。感情を帯びることがある。",
+      "ultimately：時間的・論理的・因果的に突き詰めた最終結果として。",
+      "in the end：さまざまな事情や検討を経て、結局は。",
+      "sooner or later：正確な時期は不明だが、遅かれ早かれ確実に。",
+      "at last：長く待ち望んだ出来事がようやく実現したことを強く表す。",
+      "possibly：ひょっとすると、可能性として。イタリア語 eventualmente の訳になり得る。",
+      "if necessary：必要なら。イタリア語 eventualmente の文脈上の訳として非常に多い。",
+      "Italian eventualmente：場合によっては・必要なら。英語 eventually の意味では通常使わない。",
+      "English eventual：最終的な。Italian eventuale は通常「起こり得る・万一の」。"
+    ],
+    "en": [
+      "eventually means in the end after time, stages, delay, or difficulty.",
+      "finally can express relief after a delay or introduce the last item in a sequence.",
+      "ultimately describes the final temporal, logical, or causal result.",
+      "in the end means after all the circumstances or alternatives have been considered.",
+      "sooner or later means at some uncertain but regarded as inevitable future time.",
+      "at last strongly emphasizes that a long-awaited event has finally happened.",
+      "possibly expresses uncertainty and can translate Italian eventualmente.",
+      "if necessary is a very common contextual translation of Italian eventualmente.",
+      "Italian eventualmente means possibly or if necessary, not normally eventually.",
+      "English eventual means final, while Italian eventuale commonly means possible or contingent."
+    ]
+  },
+  "etymology": {
+    "ja": "eventual と副詞接尾辞 -ly から成る。eventual はラテン語 eventus「出来事、結果」に由来し、eventus は evenire「起こる、結果として生じる」から作られた。evenire は ex-「外へ」と venire「来る」から成り、原義は「外へ現れ出る、結果として生じる」である。英語の eventual・eventually はかつて偶発性・条件性に関係する意味でも使われたが、後に「最後に生じる結果」という時間的意味が中心となった。一方、イタリア語 eventuale・eventualmente では「起こる可能性のある、場合によっては」という条件的意味が中心として残った。この意味発達の違いから偽の友関係が生じた。",
+    "en": "Eventually is formed from eventual and the adverbial suffix -ly. Eventual ultimately derives from Latin eventus, meaning an event or outcome, from evenire, meaning to happen or come out as a result. Evenire combines ex-, meaning out, with venire, meaning to come. English eventual and eventually were formerly also associated with contingency, but their dominant modern meanings developed toward the result reached in the end. Italian eventuale and eventualmente retained the contingent senses possible and if circumstances require. This semantic divergence produced the modern false-friend relationship."
+  },
+  "synonyms": [
+    {
+      "word": "finally",
+      "note": {
+        "ja": "待機・困難の末の実現を表すほか、手順や列挙の最終項目を導くこともできる。",
+        "en": "Describes achievement after delay or difficulty and can also introduce the last step or item in a sequence."
+      }
+    },
+    {
+      "word": "ultimately",
+      "note": {
+        "ja": "時間だけでなく、論理・責任・因果関係を突き詰めた最終的な帰結を表す。",
+        "en": "Expresses the final result in terms of time, logic, responsibility, or causation."
+      }
+    },
+    {
+      "word": "in the end",
+      "note": {
+        "ja": "選択肢・困難・事情などを経て到達した結論や結果を会話的に表す。",
+        "en": "A conversational expression for the conclusion or result reached after alternatives, complications, or delay."
+      }
+    },
+    {
+      "word": "sooner or later",
+      "note": {
+        "ja": "時期は分からないが、将来のどこかで必ず起きるという予測を表す。",
+        "en": "Predicts that something will inevitably happen at an unspecified future time."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schließlich / letztendlich / irgendwann",
+    "it": "alla fine / infine / prima o poi; not normalmente eventualmente",
+    "fr": "finalement / à terme",
+    "es": "finalmente / con el tiempo / a la larga"
+  },
+  "collocations": {
+    "ja": [
+      "eventually become + adjective / noun — 最終的に～になる",
+      "eventually decide to do — 最終的に～することを決める",
+      "eventually realize that + clause — やがて～だと気づく",
+      "eventually succeed — 最後には成功する",
+      "eventually lead to + noun — 最終的に～につながる",
+      "eventually result in + noun — 最終的に～という結果になる",
+      "eventually obtain a patent — 最終的に特許を取得する",
+      "be eventually granted — 最終的に認められる",
+      "will eventually have to do — いずれ～しなければならなくなる",
+      "eventually find one's way — 紆余曲折を経てたどり着く"
+    ],
+    "en": [
+      "eventually become + adjective / noun",
+      "eventually decide to do",
+      "eventually realize that + clause",
+      "eventually succeed",
+      "eventually lead to + noun",
+      "eventually result in + noun",
+      "eventually obtain a patent",
+      "be eventually granted",
+      "will eventually have to do",
+      "eventually find one's way"
+    ]
+  },
+  "example": {
+    "ja": [
+      "After several amendments, the application was eventually granted. — 数回の補正を経て、その出願は最終的に特許査定となった。",
+      "The company eventually decided not to challenge the examiner's decision. — 会社は最終的に、審査官の判断を争わないことに決めた。",
+      "If development continues, the technology will eventually become affordable. — 開発が続けば、その技術はいずれ手頃な価格になるだろう。",
+      "What began as a minor disagreement eventually led to litigation. — 小さな意見の相違として始まったことが、最終的には訴訟へ発展した。",
+      "Italian Eventualmente possiamo presentare una divisional application means We can file a divisional application if necessary. — イタリア語の Eventualmente possiamo presentare una domanda divisionale は「必要なら分割出願を提出できます」という意味である。"
+    ],
+    "en": [
+      "After several amendments, the application was eventually granted.",
+      "The company eventually decided not to challenge the examiner's decision.",
+      "If development continues, the technology will eventually become affordable.",
+      "What began as a minor disagreement eventually led to litigation.",
+      "Italian Eventualmente possiamo presentare una domanda divisionale means We can file a divisional application if necessary."
+    ]
+  }
+},
+{
+  "id": "possibly",
+  "sid": "2026-01115",
+  "word": "possibly",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "adverb",
+    "possibility",
+    "uncertainty",
+    "modal",
+    "politeness",
+    "emphasis",
+    "request",
+    "rhetorical question",
+    "false friend",
+    "formal",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adverb",
+    "word_family": {
+      "adjective": "possible",
+      "noun": "possibility",
+      "opposite_adjective": "impossible",
+      "opposite_adverb": "impossibly"
+    },
+    "patterns": [
+      "possibly + verb",
+      "may / might possibly + verb",
+      "could possibly + verb",
+      "could not possibly + verb",
+      "Could you possibly + verb?",
+      "How could + subject + possibly + verb?",
+      "What could possibly + verb?",
+      "quite possibly",
+      "possibly because / due to + noun",
+      "possibly the best / most + adjective",
+      "as soon / quickly as one possibly can",
+      "Possibly, but + clause"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈpɑːsəbli/",
+      "uk": "/ˈpɒsəbli/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "確実ではないが、ひょっとすると",
+      "考えられる一つの可能性として",
+      "可能な手段・範囲の限界まで",
+      "否定文で、どう考えても～できない",
+      "疑問文で、いったいどうして・何が～できるのか",
+      "依頼文で、もし可能でしたら",
+      "断定を避けながら、最上級などを慎重に強調して"
+    ],
+    "en": [
+      "perhaps, although the matter is uncertain",
+      "as one conceivable possibility",
+      "by any means or to the fullest extent that is possible",
+      "in negative statements, under no conceivable circumstances",
+      "in questions, used to express surprise, disbelief, or difficulty imagining an answer",
+      "in requests, if it is possible for the person addressed",
+      "used to qualify a strong assessment such as a superlative"
+    ]
+  },
+  "nuance": {
+    "ja": "possibly は、出来事が起こる可能性はあるが、話者が確信していないことを表す。Maybe や perhaps と近いが、possibly は「可能性として排除できない」という論理的・慎重な響きを持ちやすい。may possibly や might possibly は可能性をさらに控えめに示す。can・could と組み合わせると、単なる不確実性ではなく「考え得る範囲で」という強調になる。I couldn't possibly agree. は「同意しないかもしれない」ではなく「どうしても同意できない」である。Could you possibly send it today? では、相手にとって難しい可能性を認めながら頼むため、依頼が丁寧になる。ただし声調によっては苛立ちを表すこともある。What could possibly go wrong? のような修辞疑問では、驚き・皮肉・強い疑念を示す。イタリア語 possibilmente は英語 possibly と重なる場合もあるが、日常的には「可能なら、できれば」の意味が中心である。Possibilmente entro domani. は Possibly by tomorrow. ではなく、Preferably by tomorrow. または By tomorrow if possible. が自然である。",
+    "en": "Possibly indicates that something is conceivable but uncertain. It overlaps with maybe and perhaps, although possibly more readily presents something as a logical possibility that cannot be excluded. May possibly and might possibly make a suggestion still more tentative. With can or could, possibly often emphasizes the limits of what can be conceived or achieved rather than mere uncertainty. I couldn't possibly agree means that agreement is out of the question, not merely that the speaker might disagree. Could you possibly send it today? politely acknowledges that the request may be difficult, although an impatient tone can reverse the effect. In rhetorical questions such as What could possibly go wrong?, the word can express surprise, irony, or disbelief. Italian possibilmente can sometimes overlap with possibly, but commonly means if possible or preferably. Possibilmente entro domani is naturally translated as Preferably by tomorrow or By tomorrow if possible, not Possibly by tomorrow."
+  },
+  "minimal": {
+    "ja": [
+      "possibly：可能性としては、ひょっとすると。助動詞とともに可能性の限界も強調する。",
+      "maybe：たぶん・ひょっとすると。最も会話的で、文頭または単独で使いやすい。",
+      "perhaps：おそらく・ひょっとすると。maybe よりやや中立的・形式的。",
+      "conceivably：考え得ることとしては。論理的には可能だという慎重な表現。",
+      "probably：おそらく。possibly より実現可能性が高いと話者が判断している。",
+      "if possible：可能なら。実現できる場合にそうしてほしいという条件を表す。",
+      "preferably：できれば。複数の選択肢のうち望ましいものを示す。",
+      "Italian possibilmente：通常「可能なら・できれば」。単なる「ひょっとすると」なら forse。",
+      "Italian forse：ひょっとすると・おそらく。英語 possibly の基本義に近い。"
+    ],
+    "en": [
+      "possibly means perhaps or within the limits of what is conceivable and often combines with modal verbs.",
+      "maybe is the most conversational term and commonly occurs initially or as a complete answer.",
+      "perhaps is slightly more neutral or formal than maybe.",
+      "conceivably cautiously states that something is logically imaginable.",
+      "probably indicates that the speaker considers the event more likely than possibly does.",
+      "if possible sets a condition that something should be done if circumstances permit.",
+      "preferably identifies the more desirable of the available alternatives.",
+      "Italian possibilmente usually means if possible or preferably; simple uncertainty is normally expressed by forse.",
+      "Italian forse means perhaps and is close to the basic meaning of English possibly."
+    ]
+  },
+  "etymology": {
+    "ja": "形容詞 possible と副詞接尾辞 -ly から形成された。possible は古フランス語 possible を経て、ラテン語 possibilis「実行・実現することができる」に由来する。possibilis はラテン語 posse「～することができる」と関係し、posse は potis「能力がある」と esse「存在する」から成立した語である。したがって語源的な中心は、ある物事が能力・状況の範囲内にあり、実現し得ることである。possibility、possible、possibly、impossible は同じ語族に属する。イタリア語 possibile と possibilmente も同じラテン語に由来するが、possibilmente は「可能であれば」という条件的・希望的用法が特に発達した。",
+    "en": "Possibly was formed from possible and the adverbial suffix -ly. Possible entered through Old French possible from Latin possibilis, meaning capable of being done or realized. Possibilis is related to Latin posse, meaning to be able, historically formed from potis, meaning able, and esse, meaning to be. The etymological core is therefore that something lies within the limits of ability or circumstances and can be realized. Possibility, possible, possibly, and impossible belong to the same family. Italian possibile and possibilmente share the Latin source, but possibilmente particularly developed the conditional or preferential sense if possible."
+  },
+  "synonyms": [
+    {
+      "word": "perhaps",
+      "note": {
+        "ja": "確信のない可能性を表す。possibly よりも可能性の論理的限界を強調しない。",
+        "en": "Expresses uncertainty without emphasizing the logical limits of possibility as strongly as possibly can."
+      }
+    },
+    {
+      "word": "maybe",
+      "note": {
+        "ja": "perhaps とほぼ同じ意味を持つ、特に会話で一般的な語。",
+        "en": "A highly common conversational alternative to perhaps."
+      }
+    },
+    {
+      "word": "conceivably",
+      "note": {
+        "ja": "可能性は低くても、論理的には想像・想定できることを表す。",
+        "en": "Indicates that something can logically be imagined even if its probability is low."
+      }
+    },
+    {
+      "word": "potentially",
+      "note": {
+        "ja": "現在は現実化していないが、将来そうなる能力・可能性を持つことを表す。",
+        "en": "Describes a capacity or possibility that has not yet been realized but may develop in the future."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "möglicherweise / vielleicht / womöglich",
+    "it": "forse / può darsi; possibilmente when meaning if possible",
+    "fr": "peut-être / éventuellement",
+    "es": "posiblemente / quizá"
+  },
+  "collocations": {
+    "ja": [
+      "quite possibly — 十分あり得ることとして",
+      "may possibly happen — ひょっとすると起こるかもしれない",
+      "could possibly affect — 影響する可能性があり得る",
+      "cannot possibly know — どうしても知りようがない",
+      "could not possibly agree — どうしても同意できない",
+      "Could you possibly ...? — もし可能でしたら～していただけますか",
+      "How could you possibly know? — いったいどうして分かるのですか",
+      "What could possibly go wrong? — いったい何が問題になり得るだろうか",
+      "possibly the most important — ひょっとすると最も重要な",
+      "as quickly as possibly can — できる限り速く"
+    ],
+    "en": [
+      "quite possibly",
+      "may possibly happen",
+      "could possibly affect",
+      "cannot possibly know",
+      "could not possibly agree",
+      "Could you possibly ...?",
+      "How could you possibly know?",
+      "What could possibly go wrong?",
+      "possibly the most important",
+      "as quickly as one possibly can"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The amendment could possibly affect the scope of the claim. — その補正は、請求項の範囲に影響する可能性がある。",
+      "Could you possibly send us the signed document by Friday? — 可能でしたら、金曜日までに署名済みの書類をお送りいただけますか。",
+      "The examiner cannot possibly assess clarity without reading the entire claim. — 審査官は請求項全体を読まずに明確性を判断できるはずがない。",
+      "This is quite possibly the most important issue in the application. — これはおそらく、その出願における最も重要な問題である。",
+      "Italian Possibilmente entro domani means By tomorrow if possible or Preferably by tomorrow. — イタリア語の Possibilmente entro domani は「可能なら明日までに」または「できれば明日までに」という意味である。"
+    ],
+    "en": [
+      "The amendment could possibly affect the scope of the claim.",
+      "Could you possibly send us the signed document by Friday?",
+      "The examiner cannot possibly assess clarity without reading the entire claim.",
+      "This is quite possibly the most important issue in the application.",
+      "Italian Possibilmente entro domani means By tomorrow if possible or Preferably by tomorrow."
+    ]
+  }
+},
+{
+  "id": "if_necessary",
+  "sid": "2026-01116",
+  "word": "if necessary",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "conditional phrase",
+    "elliptical clause",
+    "necessity",
+    "condition",
+    "instruction",
+    "contingency",
+    "permission",
+    "legal",
+    "patent",
+    "business",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "conditional phrase / elliptical clause",
+    "full_form": "if it is necessary",
+    "patterns": [
+      "If necessary, + imperative",
+      "If necessary, + subject + will / can / may + verb",
+      "subject + can / may + verb + if necessary",
+      "do something if necessary",
+      "be prepared to do something if necessary",
+      "if absolutely necessary",
+      "only if necessary",
+      "if necessary to do / for + noun",
+      "if deemed / considered necessary",
+      "take further action if necessary",
+      "make amendments if necessary",
+      "repeat the procedure if necessary"
+    ],
+    "punctuation": "A comma normally follows an introductory if necessary; no comma is usually needed when it appears at the end."
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪf ˈnesəseri/",
+      "uk": "/ɪf ˈnesəsəri/; also /ɪf ˈnesəsri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "状況上必要になった場合には",
+      "望ましいだけでなく、実際に必要と判断されるなら",
+      "当初の方法だけでは不十分な場合の追加措置として",
+      "必要性が生じたときに限って",
+      "将来の事態に備え、選択肢として行動を留保して"
+    ],
+    "en": [
+      "if circumstances make an action necessary",
+      "if something is judged to be required rather than merely desirable",
+      "as an additional measure if the initial approach proves insufficient",
+      "only when a need for the action arises",
+      "used to preserve an action as an available response to a future contingency"
+    ]
+  },
+  "nuance": {
+    "ja": "if necessary は、ある行動を常に行うのではなく、必要性が生じた場合に限って行うことを示す。文頭では If necessary, we will amend the claim. のようにコンマを置き、条件を先に提示する。文末では We will amend the claim if necessary. が自然で、通常コンマは不要である。if possible は「実行可能なら」であり、必要性ではなく実現可能性を問題にする。if needed はほぼ同義だが、やや口語的である。if required は規則・命令・第三者など外部から要求される場合を示しやすい。when necessary は、必要になる場面が実際にあることをある程度前提とし、as necessary は必要な頻度・程度に応じて行うことを表す。法律・特許文書では if necessary が、誰が、どの基準で、何を必要と判断するのかを明示しない場合がある。そのため、権利・義務や技術的範囲に影響する箇所では、if the examiner requires it や if necessary to establish clarity のように基準を具体化した方がよい場合がある。イタリア語 eventualmente は文脈によって if necessary と訳せるが、単に possibly の意味になる場合もあるため、常に置換できるわけではない。",
+    "en": "If necessary indicates that an action will not be taken in every case but only if a need for it arises. When introductory, as in If necessary, we will amend the claim, it is normally followed by a comma. In final position, We will amend the claim if necessary usually requires no comma. If possible concerns feasibility rather than necessity. If needed is nearly synonymous but somewhat more conversational. If required more readily suggests an external rule, instruction, or demand. When necessary partly presupposes that occasions of need will arise, while as necessary indicates the frequency or extent required. In legal and patent drafting, if necessary may leave unclear who determines necessity and according to what standard. Where rights, duties, or technical scope are affected, a formulation such as if the examiner requires it or if necessary to establish clarity may be preferable. Italian eventualmente can sometimes be translated as if necessary, but it can also express possibility, so the terms are not automatically interchangeable."
+  },
+  "minimal": {
+    "ja": [
+      "if necessary：必要性が生じた場合には。",
+      "if needed：必要なら。if necessary よりやや会話的だが、ほぼ同義。",
+      "if required：規則・命令・事情によって要求されるなら。",
+      "if possible：実行可能なら。必要性ではなく可能性に焦点を置く。",
+      "when necessary：必要なときには。必要になる場面の存在をある程度見込んでいる。",
+      "as necessary：必要な頻度・程度・範囲に応じて。",
+      "where necessary：必要となる事例・状況では。法律・規則文で多い。",
+      "if need be：必要とあらば。やや形式的で強い決意を含み得る。",
+      "Italian se necessario：必要なら。if necessary の最も直接的な相当表現。",
+      "Italian eventualmente：場合によっては・必要なら。文脈によって possibly にも対応する。"
+    ],
+    "en": [
+      "if necessary means if a need for the action arises.",
+      "if needed is nearly synonymous with if necessary but somewhat more conversational.",
+      "if required suggests that a rule, instruction, or circumstance demands the action.",
+      "if possible concerns whether the action can be performed, not whether it is needed.",
+      "when necessary partly anticipates that occasions requiring the action will occur.",
+      "as necessary means to the frequency, extent, or degree required.",
+      "where necessary applies to the cases or circumstances in which a need exists and is common in legal texts.",
+      "if need be is a relatively formal expression meaning if circumstances require it.",
+      "Italian se necessario is the most direct equivalent of if necessary.",
+      "Italian eventualmente can mean if necessary or possibly, depending on context."
+    ]
+  },
+  "etymology": {
+    "ja": "if と necessary から成る透明な条件表現で、完全な形は if it is necessary である。necessary は中英語 necessarie、アングロ・フランス語 necessaire を経て、ラテン語 necessarius「避けられない、不可欠な」に由来する。その基礎にある necesse は「必要である、避けられない」を意味した。if necessary では主語 it と動詞 is が省略されている。このような if + adjective の省略構文は、if possible、if appropriate、if available などにも見られる。",
+    "en": "If necessary is a transparent conditional expression formed from if and necessary, with the full structure if it is necessary. Necessary came through Middle English necessarie and Anglo-French necessaire from Latin necessarius, meaning unavoidable or indispensable. Its base, necesse, meant necessary or unavoidable. In if necessary, the subject it and the verb is are omitted. The same type of elliptical if plus adjective construction appears in if possible, if appropriate, and if available."
+  },
+  "synonyms": [
+    {
+      "word": "if needed",
+      "note": {
+        "ja": "実際に必要になった場合を表す、やや会話的な同義表現。",
+        "en": "A somewhat more conversational equivalent referring to a need that may arise."
+      }
+    },
+    {
+      "word": "if required",
+      "note": {
+        "ja": "法律・規則・命令・相手方などによって求められた場合を示しやすい。",
+        "en": "More readily indicates that an action is demanded by a law, rule, instruction, or another party."
+      }
+    },
+    {
+      "word": "if need be",
+      "note": {
+        "ja": "必要とあらば行動するという、やや形式的で断固とした表現。",
+        "en": "A relatively formal and sometimes determined expression meaning if circumstances demand it."
+      }
+    },
+    {
+      "word": "where necessary",
+      "note": {
+        "ja": "必要性が存在する事例・場所・状況に適用することを表す。",
+        "en": "Applies an action or rule to the cases, places, or circumstances in which it is needed."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "falls nötig / wenn nötig / erforderlichenfalls",
+    "it": "se necessario / all'occorrenza / eventualmente",
+    "fr": "si nécessaire / au besoin",
+    "es": "si es necesario / de ser necesario"
+  },
+  "collocations": {
+    "ja": [
+      "make changes if necessary — 必要なら変更する",
+      "take further action if necessary — 必要なら追加措置を取る",
+      "seek professional advice if necessary — 必要なら専門家の助言を求める",
+      "repeat the procedure if necessary — 必要なら手順を繰り返す",
+      "provide additional information if necessary — 必要なら追加情報を提供する",
+      "amend the claim if necessary — 必要なら請求項を補正する",
+      "consult the applicant if necessary — 必要なら出願人と協議する",
+      "if absolutely necessary — どうしても必要な場合に限り",
+      "only if necessary — 必要な場合に限って",
+      "if deemed necessary — 必要と判断された場合"
+    ],
+    "en": [
+      "make changes if necessary",
+      "take further action if necessary",
+      "seek professional advice if necessary",
+      "repeat the procedure if necessary",
+      "provide additional information if necessary",
+      "amend the claim if necessary",
+      "consult the applicant if necessary",
+      "if absolutely necessary",
+      "only if necessary",
+      "if deemed necessary"
+    ]
+  },
+  "example": {
+    "ja": [
+      "If necessary, we can amend the claim to clarify the relationship between the components. — 必要であれば、構成要素間の関係を明確にするために請求項を補正できます。",
+      "The examiner may request additional experimental data if necessary. — 審査官は、必要な場合には追加の実験データを求めることがある。",
+      "Keep a copy of the original document so that it can be checked if necessary. — 必要な場合に確認できるよう、原本の写しを保管してください。",
+      "We are prepared to file an appeal if absolutely necessary. — どうしても必要であれば、審判請求を行う用意があります。",
+      "Italian Eventualmente possiamo modificare la domanda may mean We can amend the application if necessary. — イタリア語の Eventualmente possiamo modificare la domanda は「必要なら出願を補正できます」という意味になり得る。"
+    ],
+    "en": [
+      "If necessary, we can amend the claim to clarify the relationship between the components.",
+      "The examiner may request additional experimental data if necessary.",
+      "Keep a copy of the original document so that it can be checked if necessary.",
+      "We are prepared to file an appeal if absolutely necessary.",
+      "Italian Eventualmente possiamo modificare la domanda may mean We can amend the application if necessary."
+    ]
+  }
+},
+{
+  "id": "after_all",
+  "sid": "2026-01117",
+  "word": "after all",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "idiom",
+    "adverbial phrase",
+    "discourse marker",
+    "result",
+    "expectation",
+    "reconsideration",
+    "reason",
+    "reminder",
+    "contrast",
+    "conversation",
+    "formal",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiom / adverbial phrase / discourse marker",
+    "patterns": [
+      "subject + verb + after all",
+      "not + verb + after all",
+      "decide to do something after all",
+      "be able to do something after all",
+      "perhaps / maybe + clause + after all",
+      "After all, + reason",
+      "After all, subject + be / have / verb",
+      "It is / was not so + adjective + after all",
+      "as it turned out, ... after all",
+      "after all + determiner + plural noun"
+    ],
+    "punctuation": "Reason-giving After all is normally followed by a comma at the beginning of a sentence. Outcome-related after all usually appears without a comma at the end."
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌæftər ˈɔːl/",
+      "uk": "/ˌɑːftər ˈɔːl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "当初の予想や情報に反して、結局は",
+      "一度は変更・撤回した判断を再び考え直して、やはり",
+      "最終的に判明した事実として、実はやはり",
+      "前の主張を支える当然の理由を示して、何しろ・だって",
+      "相手が忘れている事実を思い出させて、そもそも"
+    ],
+    "en": [
+      "contrary to what was previously expected or believed",
+      "used when returning to or revising an earlier decision",
+      "as the situation ultimately proved to be",
+      "used to introduce an obvious or relevant reason supporting a statement",
+      "used to remind someone of a fact that may have been overlooked"
+    ]
+  },
+  "nuance": {
+    "ja": "after all には大きく二つの用法がある。文末の We decided to file the application after all. は、いったんは出願しないと思われていたが、判断を変えて「結局出願することにした」という意味である。ここでは単なる最終結果ではなく、以前の予想・計画・判断との逆転が重要になる。文頭の After all, the deadline is tomorrow. は「何しろ締切りは明日なのだから」と、話者の主張を支える理由や、相手も知っているはずの事実を提示する。この用法は説明的にも使えるが、声調や文脈によっては「そんなことは当然でしょう」という非難がましい響きを持つ。eventually は時間や段階を経て結果へ到達したことに焦点を置き、以前の予想が覆ったことを必ずしも示さない。なお、after all these years や after all the amendments の after all は、前置詞 after の後に all + 名詞句が続く文字どおりの構造であり、独立した慣用句の after all とは区別される。",
+    "en": "After all has two principal uses. In final position, We decided to file the application after all means that filing had previously seemed unlikely or had been rejected, but the decision was reversed. The important feature is the contrast with an earlier expectation, plan, or belief, not merely the final result. Sentence-initial After all, the deadline is tomorrow introduces a reason supporting the speaker's position or reminds the listener of a supposedly familiar fact. It can be explanatory, but depending on tone it may sound mildly reproachful, as if the fact should have been obvious. Eventually focuses on reaching an outcome after time or intervening stages and does not necessarily imply that an expectation was overturned. In after all these years or after all the amendments, however, after is an ordinary preposition followed by all plus a noun phrase; this literal construction should be distinguished from the idiomatic after all."
+  },
+  "minimal": {
+    "ja": [
+      "after all：予想を覆して結局・やはり。または理由を示して、何しろ。",
+      "eventually：時間・段階・困難を経た末に、最終的に。",
+      "in the end：さまざまな事情を経て、結局は。予想の逆転は必須ではない。",
+      "finally：長い待機の末の「ついに」、または列挙・手順の最後に。",
+      "as it turns out：後に事実が判明してみると、実は。",
+      "on second thought：考え直してみると。判断を変更する際に使う。",
+      "in any case：いずれにせよ。ほかの事情にかかわらず結論が変わらないことを示す。",
+      "because / since：理由を直接示す。理由提示の after all より中立的。",
+      "after all that + noun：すべての～の後で。慣用句ではなく文字どおりの前置詞句。"
+    ],
+    "en": [
+      "after all means contrary to expectation in the end, or introduces a reminder or supporting reason.",
+      "eventually means in the end after time, stages, delay, or difficulty.",
+      "in the end states the final result without necessarily reversing an expectation.",
+      "finally marks achievement after delay or the last item in a sequence.",
+      "as it turns out introduces a fact that became known later.",
+      "on second thought explicitly introduces a decision revised after reconsideration.",
+      "in any case shows that the conclusion remains valid regardless of other circumstances.",
+      "because and since state reasons directly and more neutrally than reason-giving after all.",
+      "after all that plus a noun is a literal prepositional phrase, not the independent idiom."
+    ]
+  },
+  "etymology": {
+    "ja": "after と all から成る表現で、文字どおりには「すべてのことの後で」を表す。関連する事実・出来事・検討事項をすべて経た後に残る結論という発想から、「あれこれあったが結局」という意味が発達した。また、すべての事情を考慮に入れれば当然認めるべき事実を持ち出すことから、「何しろ、そもそも」という理由提示の用法も生まれた。現代英語では、文中・文末の結果用法と、文頭の談話標識用法がともに定着している。",
+    "en": "After all is composed of after and all and literally evokes a point following all relevant events or considerations. From the conclusion remaining after everything had been considered developed the sense despite earlier expectations, in the end. The expression also came to introduce a fact that should be recognized once all circumstances are considered, producing its reason-giving sense after all or after all, remember that. Both the outcome-related use in final position and the discourse-marker use at the beginning of a sentence are firmly established in modern English."
+  },
+  "synonyms": [
+    {
+      "word": "as it turns out",
+      "note": {
+        "ja": "後になって判明した、しばしば予想外の事実を導く。",
+        "en": "Introduces a fact, often unexpected, that became apparent later."
+      }
+    },
+    {
+      "word": "in the end",
+      "note": {
+        "ja": "検討・困難・選択などを経た最終結果を表すが、予想の逆転は必須ではない。",
+        "en": "States the final result after consideration, difficulty, or alternatives without requiring reversed expectations."
+      }
+    },
+    {
+      "word": "on second thought",
+      "note": {
+        "ja": "考え直した結果、直前または以前の判断を変更することを明示する。",
+        "en": "Explicitly signals that an earlier decision or statement is being revised after reconsideration."
+      }
+    },
+    {
+      "word": "when all is said and done",
+      "note": {
+        "ja": "すべての議論・行動・事情を考慮した最終的な結論を表す。",
+        "en": "Introduces the conclusion remaining after all discussion, action, and circumstances have been considered."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schließlich / doch noch / immerhin",
+    "it": "dopotutto / in fin dei conti / alla fine",
+    "fr": "après tout / finalement / tout compte fait",
+    "es": "después de todo / al fin y al cabo / finalmente"
+  },
+  "collocations": {
+    "ja": [
+      "decide to go after all — 考え直して結局行くことにする",
+      "not be necessary after all — 結局必要ではない",
+      "be correct after all — 結局正しいと分かる",
+      "perhaps it was true after all — ひょっとすると結局それは本当だった",
+      "manage to finish after all — 無理と思われたが結局終える",
+      "After all, we have enough time. — 何しろ時間は十分にある",
+      "After all, that is the purpose. — そもそもそれが目的である",
+      "not so difficult after all — 実際にやってみるとそれほど難しくない",
+      "after all these years — これほど長い年月を経て",
+      "after all the amendments — すべての補正を経た後で"
+    ],
+    "en": [
+      "decide to go after all",
+      "not be necessary after all",
+      "be correct after all",
+      "perhaps it was true after all",
+      "manage to finish after all",
+      "After all, we have enough time.",
+      "After all, that is the purpose.",
+      "not so difficult after all",
+      "after all these years",
+      "after all the amendments"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The applicant decided to file an appeal after all. — 出願人は考え直し、結局審判を請求することにした。",
+      "The additional amendment was not necessary after all. — 追加の補正は、結局必要ではなかった。",
+      "Perhaps the examiner's interpretation was correct after all. — ひょっとすると、審査官の解釈は結局正しかったのかもしれない。",
+      "We should review the cited document carefully; after all, it may affect every independent claim. — 引用文献は慎重に検討すべきです。何しろ、すべての独立請求項に影響する可能性があります。",
+      "After all the amendments had been entered, the claims were reviewed again. — すべての補正が反映された後、請求項は再度検討された。"
+    ],
+    "en": [
+      "The applicant decided to file an appeal after all.",
+      "The additional amendment was not necessary after all.",
+      "Perhaps the examiner's interpretation was correct after all.",
+      "We should review the cited document carefully; after all, it may affect every independent claim.",
+      "After all the amendments had been entered, the claims were reviewed again."
+    ]
+  }
+},
+{
+  "id": "sensible",
+  "sid": "2026-01118",
+  "word": "sensible",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "judgment",
+    "reason",
+    "practicality",
+    "decision-making",
+    "behavior",
+    "perception",
+    "false friend",
+    "formal",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "positive": "sensible",
+      "comparative": "more sensible",
+      "superlative": "most sensible",
+      "adverb": "sensibly",
+      "noun": "sensibleness (rare); good sense"
+    },
+    "patterns": [
+      "a sensible person",
+      "a sensible decision / approach / solution",
+      "a sensible thing to do",
+      "It is sensible to do",
+      "be sensible about + noun",
+      "be sensible enough to do",
+      "seem / sound sensible",
+      "perfectly / entirely sensible",
+      "a sensible amount / difference",
+      "be sensible of + noun"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsensəbəl/",
+      "uk": "/ˈsensəbəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人が適切な判断力と分別を持っている",
+      "決定・提案・行動などが現実的で合理的である",
+      "服装・道具などが目的や状況に適していて実用的である",
+      "量・程度などが無視できないほど十分である",
+      "感覚によって知覚できる、または何かを認識している"
+    ],
+    "en": [
+      "having or showing sound judgment and good sense",
+      "reasonable and practical in light of actual circumstances",
+      "suitable and functional for a particular purpose or situation",
+      "large or clear enough to be noticeable or significant",
+      "perceptible to the senses, or aware of something"
+    ]
+  },
+  "nuance": {
+    "ja": "sensible の現代英語における中心は「分別があり、現実的で妥当な」である。a sensible person は、感覚が鋭い人ではなく、状況を冷静に判断できる人を指す。a sensible solution は、必ずしも独創的・理想的ではなくても、現実の制約を考慮して実行可能な解決策である。sensible shoes のように物を修飾すると、見た目よりも安全性・快適性・実用性を優先したものを表す。reasonable と近いが、sensible は特に判断する人の良識や実務感覚を感じさせる。古い・専門的な用法では「感覚で認識できる」「認識している」も表し、sensible heat のような科学用語に残る。イタリア語 sensibile は通常「敏感な、感受性の強い、知覚可能な、顕著な」を意味し、英語 sensitive に近い。Una persona sensibile は a sensitive person であり、a sensible person ではない。英語 sensible に対応するイタリア語は通常 sensato、ragionevole、prudente である。",
+    "en": "The dominant modern meaning of sensible is having or displaying sound, practical judgment. A sensible person is not someone with unusually sharp senses but someone capable of evaluating circumstances calmly. A sensible solution may not be imaginative or ideal, but it is workable under real constraints. When applied to objects, as in sensible shoes, the word suggests that safety, comfort, or function has been prioritized over appearance. It overlaps with reasonable, but sensible more readily evokes the good judgment and practical awareness of the decision-maker. Older and specialized uses meaning perceptible to the senses or aware survive in expressions such as sensible heat. Italian sensibile normally means sensitive, perceptive, noticeable, or emotionally responsive and is therefore a false friend. Una persona sensibile means a sensitive person, not a sensible person. English sensible normally corresponds to Italian sensato, ragionevole, or prudente."
+  },
+  "minimal": {
+    "ja": [
+      "sensible：状況を現実的に判断し、分別のある選択をする。",
+      "reasonable：論理・公平性・事情から見て妥当で、過度ではない。",
+      "practical：理論より実際の使用・実行可能性に重点を置く。",
+      "prudent：将来の危険や損失を避けるため、慎重に判断する。",
+      "wise：知識・経験・深い理解に基づいて優れた判断をする。",
+      "rational：感情より論理・理性に基づいている。",
+      "sensitive：刺激・感情・微妙な変化に強く反応する。sensible とは別語。",
+      "Italian sensibile：敏感な・感受性の強い・顕著な。通常は English sensitive。",
+      "Italian sensato：分別のある・筋の通った。English sensible の主要な相当語。"
+    ],
+    "en": [
+      "sensible describes sound, realistic judgment and practical choices.",
+      "reasonable means fair, logical, appropriate, or not excessive in the circumstances.",
+      "practical emphasizes usefulness and feasibility rather than theory.",
+      "prudent describes careful judgment intended to avoid future danger or loss.",
+      "wise describes excellent judgment based on knowledge, experience, or deep understanding.",
+      "rational means based on logic and reason rather than emotion.",
+      "sensitive means readily affected by stimuli, emotions, or subtle changes and is distinct from sensible.",
+      "Italian sensibile means sensitive, perceptive, or noticeable and usually corresponds to English sensitive.",
+      "Italian sensato means reasonable or showing good sense and is a principal equivalent of English sensible."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 sensible を経て、ラテン語 sensibilis「感覚で認識できる」に由来する。sensibilis は sensus「感覚、知覚、理解」および sentire「感じる、認識する」と関係する。英語でも当初は「感覚で知覚できる」「何かを認識している」を表した。その後、物事を認識し理解できることから「良識・判断力を備えている」という意味が発達し、現代英語ではこちらが中心となった。イタリア語 sensibile は同じラテン語に由来するが、感覚・感情への反応性という古い意味を強く保った。この意味発達の違いから偽の友関係が生じた。",
+    "en": "Sensible came through Old French sensible from Latin sensibilis, meaning perceptible to the senses. Sensibilis is related to sensus, meaning sensation, perception, or understanding, and sentire, meaning to feel or perceive. English sensible originally referred to what could be perceived by the senses or to a person aware of something. From the capacity to perceive and understand developed the meaning possessing good sense or judgment, which now dominates in English. Italian sensibile shares the Latin source but retained a stronger association with sensory and emotional responsiveness. This semantic divergence produced the modern false-friend relationship."
+  },
+  "synonyms": [
+    {
+      "word": "reasonable",
+      "note": {
+        "ja": "論理・公平性・状況に照らして妥当であり、極端でないことを表す。",
+        "en": "Describes something fair, logical, appropriate to the circumstances, or not excessive."
+      }
+    },
+    {
+      "word": "practical",
+      "note": {
+        "ja": "現実に実行・使用でき、具体的な目的に役立つことを重視する。",
+        "en": "Emphasizes that something can be implemented or used effectively for a concrete purpose."
+      }
+    },
+    {
+      "word": "prudent",
+      "note": {
+        "ja": "危険・損失・将来の問題を予測し、慎重に行動する。",
+        "en": "Describes cautious action based on anticipating danger, loss, or future problems."
+      }
+    },
+    {
+      "word": "wise",
+      "note": {
+        "ja": "知識・経験・洞察に基づく、長期的に優れた判断を表す。",
+        "en": "Describes sound long-term judgment based on knowledge, experience, or insight."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "vernünftig / sinnvoll / besonnen",
+    "it": "sensato / ragionevole / prudente; not normally sensibile",
+    "fr": "raisonnable / sensé",
+    "es": "sensato / razonable / prudente"
+  },
+  "collocations": {
+    "ja": [
+      "a sensible person — 分別のある人",
+      "a sensible decision — 妥当で現実的な決定",
+      "a sensible approach — 現実的な取り組み方",
+      "a sensible solution — 実際的で妥当な解決策",
+      "a sensible precaution — 分別のある予防措置",
+      "a sensible thing to do — するのが賢明なこと",
+      "perfectly sensible — 完全に妥当な",
+      "be sensible about money — 金銭について堅実である",
+      "sensible shoes — 実用的で歩きやすい靴",
+      "act sensibly — 分別を持って行動する"
+    ],
+    "en": [
+      "a sensible person",
+      "a sensible decision",
+      "a sensible approach",
+      "a sensible solution",
+      "a sensible precaution",
+      "a sensible thing to do",
+      "perfectly sensible",
+      "be sensible about money",
+      "sensible shoes",
+      "act sensibly"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The sensible approach is to clarify the term before filing the application. — 分別のある現実的な方法は、出願前にその用語を明確にすることだ。",
+      "It would be sensible to keep a record of every communication with the client. — 依頼人とのすべての連絡記録を残しておくのが賢明だろう。",
+      "She made the sensible decision to seek technical advice before amending the claim. — 彼女は請求項を補正する前に技術的助言を求めるという妥当な判断をした。",
+      "Wear sensible shoes because we will be walking around the exhibition all day. — 一日中展示会場を歩くので、歩きやすい実用的な靴を履いてください。",
+      "Italian È una persona sensibile means He or she is a sensitive person, not a sensible person. — イタリア語の È una persona sensibile は「その人は感受性が強い」という意味であり、「分別のある人だ」ではない。"
+    ],
+    "en": [
+      "The sensible approach is to clarify the term before filing the application.",
+      "It would be sensible to keep a record of every communication with the client.",
+      "She made the sensible decision to seek technical advice before amending the claim.",
+      "Wear sensible shoes because we will be walking around the exhibition all day.",
+      "Italian È una persona sensibile means He or she is a sensitive person, not a sensible person."
+    ]
+  }
+},
+{
+  "id": "pretend",
+  "sid": "2026-01119",
+  "word": "pretend",
+  "level": "B1",
+  "freq": "very often",
+  "tags": [
+    "verb",
+    "adjective",
+    "deception",
+    "appearance",
+    "imagination",
+    "play",
+    "claim",
+    "behavior",
+    "false friend",
+    "formal",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / adjective",
+    "forms": {
+      "base": "pretend",
+      "third_person": "pretends",
+      "past": "pretended",
+      "past_participle": "pretended",
+      "gerund": "pretending",
+      "adjective": "pretend"
+    },
+    "transitivity": "transitive / intransitive",
+    "patterns": [
+      "pretend to do",
+      "pretend to be + noun / adjective",
+      "pretend to have + past participle",
+      "pretend not to do",
+      "pretend that + clause",
+      "pretend something is + noun / adjective",
+      "Let's pretend + clause",
+      "only pretend to do",
+      "not pretend to know / understand",
+      "pretend to + knowledge / authority / title",
+      "a pretend game / gun / shop",
+      "play pretend"
+    ]
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prɪˈtend/",
+      "uk": "/prɪˈtend/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "事実ではないことを本当であるかのように見せかける",
+      "実際には持っていない感情・知識・能力などがあるふりをする",
+      "見聞きしたことに気づいていないふりをする",
+      "子どもなどが想像上の人物・状況を演じて遊ぶ",
+      "根拠が十分でないのに、知識・権利・資格などがあると称する",
+      "想像上の、遊びのための、模造の"
+    ],
+    "en": [
+      "to behave as though something untrue were true",
+      "to give the appearance of possessing an emotion, knowledge, or ability one does not possess",
+      "to act as though one has not noticed, heard, or seen something",
+      "to imagine and act out a fictional person or situation in play",
+      "to claim knowledge, authority, status, or entitlement without sufficient basis",
+      "imaginary, imitative, or intended for make-believe play"
+    ]
+  },
+  "nuance": {
+    "ja": "pretend は、現実と異なる状態を意識的に演じることを表す。大人が利益を得たり責任を避けたりするために使えば、欺瞞・不誠実という否定的な含みを持つ。一方、子どもの Let's pretend we're astronauts. のような用法は、想像力を使った無害なごっこ遊びである。pretend to know は、実際には知らないのに知っているふりをすることを表すが、I don't pretend to know everything. では「すべてを知っているなどと主張するつもりはない」という控えめな断りになる。形式的・古風な pretend to authority や pretend to the throne では「権威・王位などへの権利を主張する」という古い意味が残る。専門的・中立的な文章で他人の主張を pretend と表現すると、虚偽だと非難することになるため、単に主張内容を報告するなら claim、assert、allege などの方が適切である。イタリア語 pretendere は通常「強く要求する、当然だと思う、～だと主張する」を意味し、「ふりをする」なら fingere または fare finta di を使う。",
+    "en": "Pretend means consciously presenting a situation different from reality. When an adult does this to obtain an advantage or avoid responsibility, the word can imply deception or dishonesty. In children's language, however, Let's pretend we're astronauts describes harmless imaginative play. Pretend to know means behaving as though one possesses knowledge that one lacks, while I don't pretend to know everything is a modest disclaimer meaning that the speaker makes no such claim. Formal or old-fashioned expressions such as pretend to authority or pretend to the throne preserve the historical sense of asserting a claim. In professional or neutral writing, saying that another party pretends something can accuse that party of falsehood; claim, assert, or allege is more appropriate when merely reporting a position. Italian pretendere normally means to demand, expect as a right, or claim. To express English pretend in Italian, fingere or fare finta di is normally required."
+  },
+  "minimal": {
+    "ja": [
+      "pretend：事実でないことを本当であるかのように振る舞う。",
+      "fake：物・感情・行動などを本物らしく偽造・演出する。より露骨に不正を示しやすい。",
+      "feign：病気・感情・無知などを意図的に装う。pretend より形式的。",
+      "simulate：実物・実際の過程を再現する。または症状などを装う。技術的にも使う。",
+      "impersonate：別人、特に実在人物であるかのように振る舞う。",
+      "make believe：想像上の状況を本当のように考え、特に遊びとして演じる。",
+      "claim：ある事柄が事実・権利であると主張する。虚偽とは限らない。",
+      "Italian pretendere：要求する・当然だと思う・主張する。通常は English demand / expect / claim。",
+      "Italian fingere / fare finta di：ふりをする。English pretend の主要な相当表現。"
+    ],
+    "en": [
+      "pretend means behaving as if something untrue were true.",
+      "fake means producing a false object, emotion, or performance and more readily suggests deliberate dishonesty.",
+      "feign formally means deliberately displaying an illness, emotion, or lack of knowledge one does not genuinely have.",
+      "simulate means reproducing a real process or condition and can also mean falsely displaying symptoms.",
+      "impersonate means behaving as though one were another person, especially an identifiable real person.",
+      "make believe means imagining and acting out a fictional situation, especially as play.",
+      "claim means stating that something is true or that one has a right, without necessarily implying falsehood.",
+      "Italian pretendere means to demand, expect, or claim and does not normally mean English pretend.",
+      "Italian fingere and fare finta di are the principal equivalents of English pretend."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 pretenden、古フランス語 pretendre を経て、ラテン語 praetendere に由来する。prae- は「前に」、tendere は「伸ばす」を意味し、原義は「前へ差し出す、前面に掲げる」だった。そこから理由・権利・主張などを表向きに提示する意味が生まれ、英語ではさらに「本当ではないものを真実らしく見せる」へ発展した。イタリア語 pretendere も同じラテン語に由来するが、「要求する、権利を主張する」という古い意味を中心に保った。pretension、pretense、ostensible なども、表面に掲げられた主張という概念に関連する。",
+    "en": "Pretend came through Middle English pretenden and Old French pretendre from Latin praetendere. The prefix prae- meant before or in front, while tendere meant to stretch. The literal sense was to stretch forth or place something in front. This developed into presenting a reason, right, or claim, and English later extended it to presenting something untrue as though it were real. Italian pretendere shares the Latin origin but retained the older meanings of demanding or asserting a right. Pretension and pretense are related through the same idea of a claim placed forward."
+  },
+  "synonyms": [
+    {
+      "word": "feign",
+      "note": {
+        "ja": "感情・病気・無知などを意図的に装う、より形式的で文学的な語。",
+        "en": "A more formal or literary verb for deliberately displaying an emotion, illness, or ignorance."
+      }
+    },
+    {
+      "word": "fake",
+      "note": {
+        "ja": "本物でない物・感情・行動を意図的に作り出す、口語的で否定的な語。",
+        "en": "An informal and usually negative verb for deliberately producing a false object, emotion, or performance."
+      }
+    },
+    {
+      "word": "simulate",
+      "note": {
+        "ja": "現実の条件・動作・過程を再現する。必ずしも欺く意図はない。",
+        "en": "To reproduce real conditions, actions, or processes, not necessarily with an intention to deceive."
+      }
+    },
+    {
+      "word": "make believe",
+      "note": {
+        "ja": "主に遊びや物語の中で、想像上の状況を本当であるかのように演じる。",
+        "en": "To imagine and act as though a fictional situation were real, especially in play or storytelling."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "so tun als ob / vortäuschen / vorgeben",
+    "it": "fingere / fare finta di; not normally pretendere",
+    "fr": "faire semblant de / feindre",
+    "es": "fingir / hacer como si"
+  },
+  "collocations": {
+    "ja": [
+      "pretend to be asleep — 寝たふりをする",
+      "pretend to know the answer — 答えを知っているふりをする",
+      "pretend not to notice — 気づかないふりをする",
+      "pretend that nothing happened — 何も起きなかったふりをする",
+      "pretend to have forgotten — 忘れたふりをする",
+      "only pretend to care — 気にかけているふりだけをする",
+      "Let's pretend we're explorers. — 探検家ごっこをしよう",
+      "a pretend shop — お店屋さんごっこ",
+      "a pretend gun — おもちゃ・模造の銃",
+      "not pretend to be an expert — 専門家だと称するつもりはない"
+    ],
+    "en": [
+      "pretend to be asleep",
+      "pretend to know the answer",
+      "pretend not to notice",
+      "pretend that nothing happened",
+      "pretend to have forgotten",
+      "only pretend to care",
+      "Let's pretend we're explorers.",
+      "a pretend shop",
+      "a pretend gun",
+      "not pretend to be an expert"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He pretended not to notice the inconsistency in the document. — 彼は書類の不整合に気づかなかったふりをした。",
+      "I do not pretend to understand every technical detail of the invention. — 私はその発明の技術的詳細をすべて理解していると主張するつもりはない。",
+      "The children pretended that the sofa was a sailing ship. — 子どもたちはソファを帆船に見立てて遊んだ。",
+      "In a professional opinion, do not use pretend when you merely mean that a party claims something. — 専門的な意見書では、当事者が何かを主張しているだけなら pretend を使わない方がよい。",
+      "Italian Pretendo una risposta means I demand an answer, not I pretend an answer. — イタリア語の Pretendo una risposta は「私は回答を要求する」という意味であり、「回答のふりをする」ではない。"
+    ],
+    "en": [
+      "He pretended not to notice the inconsistency in the document.",
+      "I do not pretend to understand every technical detail of the invention.",
+      "The children pretended that the sofa was a sailing ship.",
+      "In a professional opinion, do not use pretend when you merely mean that a party claims something.",
+      "Italian Pretendo una risposta means I demand an answer, not I pretend an answer."
+    ]
+  }
 }
 ]
