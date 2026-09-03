@@ -138,7 +138,8 @@ const CARD_FILES = [
   "./cards8.json",
   "./cards9.json",
   "./cards10.json",
-  "./cards11.json"
+  "./cards11.json",
+  "./data/cards12.json"
 ];
 
 const WORDS_PAGE_SIZE = 120;
@@ -503,7 +504,7 @@ async function loadCards() {
     showError(
       "カードデータを読み込めませんでした。\n\n" +
       "次を確認してください。\n" +
-      "・cards.json〜cards11.jsonが存在する\n" +
+      "・cards.json〜cards12.jsonが存在する\n" +
       "・JSONの末尾カンマや引用符に誤りがない\n" +
       "・GitHub Pagesの反映が完了している"
     );
