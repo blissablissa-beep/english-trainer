@@ -139,7 +139,8 @@ const CARD_FILES = [
   "./cards9.json",
   "./cards10.json",
   "./cards11.json",
-  "./data/cards12.json"
+  "./data/cards12.json",
+  "./data/cards13.json"
 ];
 
 const WORDS_PAGE_SIZE = 120;
