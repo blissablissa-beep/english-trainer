@@ -1,5 +1,206 @@
 [
 {
+  "id": "counterfeit",
+  "sid": "2026-01258",
+  "word": "counterfeit",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "noun",
+    "verb",
+    "fake goods",
+    "forgery",
+    "deception",
+    "currency",
+    "documents",
+    "trademark",
+    "intellectual property",
+    "crime",
+    "legal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / noun / verb",
+    "countability": "countable as a noun",
+    "plural": "counterfeits",
+    "forms": {
+      "adjective": "counterfeit",
+      "noun_singular": "counterfeit",
+      "noun_plural": "counterfeits",
+      "verb_base": "counterfeit",
+      "third_person": "counterfeits",
+      "past": "counterfeited",
+      "past_participle": "counterfeited",
+      "gerund": "counterfeiting",
+      "agent_noun": "counterfeiter",
+      "activity_noun": "counterfeiting"
+    },
+    "transitivity": "transitive as a verb",
+    "patterns": [
+      "counterfeit + goods / money / documents",
+      "a counterfeit + noun",
+      "a counterfeit of + genuine item",
+      "produce / sell / distribute counterfeits",
+      "counterfeit money / currency",
+      "counterfeit a banknote / document / product",
+      "be counterfeited",
+      "be difficult to counterfeit",
+      "combat / prevent counterfeiting",
+      "an anti-counterfeiting measure"
+    ],
+    "usage": {
+      "adjective": "Before a noun, counterfeit identifies something made to be mistaken for a genuine item: counterfeit goods.",
+      "noun": "As a countable noun, a counterfeit means a fraudulent imitation: The watch was a counterfeit.",
+      "verb": "As a verb, it means making a fraudulent imitation of something.",
+      "legal_scope": "The precise legal definition of counterfeit goods varies by jurisdiction and statutory context.",
+      "spelling": "The correct spelling ends in -feit, not -fit or -feet."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkaʊntərˌfɪt/",
+      "uk": "/ˈkaʊntəfɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "真正な商品・通貨・文書などに見せかけて作られた偽造の",
+      "商標・包装・外観などを模倣し、真正品と誤認させる偽造品",
+      "通貨・証明書・商品などを欺罔目的で偽造する",
+      "真正なものに似せて作られた偽物・模造品",
+      "比喩的に、見せかけだけで本物ではない"
+    ],
+    "en": [
+      "made in imitation of genuine goods, currency, or documents with the intention of deceiving",
+      "a fraudulent imitation designed to be mistaken for an authentic branded product",
+      "to fraudulently imitate currency, a document, a product, or another genuine item",
+      "an object made to resemble something authentic and passed off as genuine",
+      "figuratively, false or merely outwardly resembling something genuine"
+    ]
+  },
+  "nuance": {
+    "ja": "counterfeit の核心は、真正なものに似せて人を欺くことにある。counterfeit banknote は本物の紙幣として流通させるために作られた偽札であり、counterfeit handbag は真正なブランド品と誤認させる商品を指す。日常語の fake より法律・商取引との結び付きが強い。商標法上の counterfeit mark や counterfeit goods には法域ごとの厳密な定義があり、単なる類似商標や一般的な商標権侵害品のすべてが必ず counterfeit に該当するとは限らない。特許技術を無断で実施した製品も、それだけで外観や表示を偽った counterfeit product になるわけではない。",
+    "en": "The central idea of counterfeit is deceptive imitation of something genuine. A counterfeit banknote is made to circulate as real currency, and a counterfeit handbag is intended to be mistaken for an authentic branded product. The word has stronger legal and commercial associations than the everyday term fake. Counterfeit marks and counterfeit goods may have precise statutory definitions that vary by jurisdiction; not every similar mark or trademark-infringing product necessarily qualifies as counterfeit. Likewise, a product that practices patented technology without authorization is not automatically counterfeit if it does not falsely imitate the genuine product’s identity or presentation."
+  },
+  "minimal": {
+    "ja": [
+      "counterfeit：真正品・通貨・文書と誤認させる目的で作られた偽造物。",
+      "fake：本物ではない物を広く表す、最も一般的で口語的な語。",
+      "forged：署名・文書・紙幣・美術品などを欺く目的で偽造した。作成行為に重点がある。",
+      "imitation：本物に似せた物。欺く意図があるとは限らない。",
+      "knockoff：有名商品のデザインをまねた安価な模倣品。真正品として売るとは限らない。",
+      "pirated：著作物・ソフトウェアなどを権利者の許可なく複製・配布した。",
+      "replica：原物を再現した複製品。複製であることが明示されていれば欺罔性はない。",
+      "infringing：知的財産権を侵害する。外観上の偽装や欺罔を必ずしも伴わない。"
+    ],
+    "en": [
+      "counterfeit describes a fraudulent imitation intended to be mistaken for genuine goods, currency, or documents.",
+      "fake is the broadest and most conversational word for something that is not genuine.",
+      "forged commonly describes signatures, documents, banknotes, or artworks fraudulently created or altered.",
+      "an imitation resembles an original but does not necessarily involve an intention to deceive.",
+      "a knockoff is a cheaper copy of a well-known product design and may not be sold as the genuine article.",
+      "pirated describes copyrighted works or software copied and distributed without authorization.",
+      "a replica reproduces an original object and is not deceptive if clearly presented as a reproduction.",
+      "infringing means violating an intellectual property right and does not necessarily involve deceptive appearance."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 contrefait「模倣された、偽造された」に由来し、contre「対して、対応して」と faire「作る」から成る。faire はラテン語 facere「作る」にさかのぼる。原義は、あるものに「対応する形で作る」、すなわち似せて作ることだった。英語では当初、模倣・似姿を広く表し得たが、次第に真正なものに見せかけて欺くという否定的意味が中心になった。counterfeit とフランス語 contrefaire、イタリア語 contraffare は語源的に対応する。",
+    "en": "Counterfeit comes from Old French contrefait, meaning imitated or forged, formed from contre, against or corresponding to, and faire, to make. Faire ultimately derives from Latin facere, to make. The original idea was making something in correspondence with or in imitation of another thing. Although the word could once refer more broadly to representation or imitation, its dominant meaning became the fraudulent production of something intended to pass as genuine. It is historically related to French contrefaire and Italian contraffare."
+  },
+  "synonyms": [
+    {
+      "word": "fake",
+      "note": {
+        "ja": "本物ではない物を広く指す一般語で、counterfeit ほど欺罔目的や法的意味を必ずしも強調しない。",
+        "en": "A broad everyday term for something not genuine, without necessarily emphasizing legal status or deliberate passing off."
+      }
+    },
+    {
+      "word": "forged",
+      "note": {
+        "ja": "署名・証明書・紙幣・美術品などを、本物として通用させるため不正に作成した。",
+        "en": "Fraudulently made or altered, especially of signatures, certificates, banknotes, and artworks."
+      }
+    },
+    {
+      "word": "fraudulent",
+      "note": {
+        "ja": "欺罔や不正を伴う行為・表示・文書を広く形容する法律的な語。",
+        "en": "A legal or formal term broadly describing conduct, representations, or documents involving deception."
+      }
+    },
+    {
+      "word": "spurious",
+      "note": {
+        "ja": "真正・正当ではなく、見かけだけもっともらしいものを表す形式的な語。",
+        "en": "A formal word for something not genuine or valid despite appearing plausible."
+      }
+    },
+    {
+      "word": "knockoff",
+      "note": {
+        "ja": "有名商品のデザインを模倣した安価な商品を指す口語語。",
+        "en": "An informal term for a cheaper product copying the design of a well-known item."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gefälscht / Fälschung / fälschen",
+    "it": "contraffatto / contraffazione / contraffare",
+    "fr": "contrefait / contrefaçon / contrefaire",
+    "es": "falsificado / falsificación / falsificar"
+  },
+  "collocations": {
+    "ja": [
+      "counterfeit goods — 偽造商品",
+      "counterfeit products — 偽造製品",
+      "counterfeit money — 偽造通貨",
+      "counterfeit banknotes — 偽造紙幣",
+      "counterfeit documents — 偽造文書",
+      "counterfeit medicines — 偽造医薬品",
+      "counterfeit luxury goods — 偽造高級ブランド品",
+      "produce counterfeits — 偽造品を製造する",
+      "sell counterfeit goods — 偽造商品を販売する",
+      "detect a counterfeit — 偽造品を見破る",
+      "combat counterfeiting — 偽造行為と闘う",
+      "anti-counterfeiting measures — 偽造防止策"
+    ],
+    "en": [
+      "counterfeit goods",
+      "counterfeit products",
+      "counterfeit money",
+      "counterfeit banknotes",
+      "counterfeit documents",
+      "counterfeit medicines",
+      "counterfeit luxury goods",
+      "produce counterfeits",
+      "sell counterfeit goods",
+      "detect a counterfeit",
+      "combat counterfeiting",
+      "anti-counterfeiting measures"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Customs officers seized thousands of counterfeit watches at the port. — 税関職員は港で数千個の偽造腕時計を押収した。",
+      "The banknote looked genuine, but the machine identified it as a counterfeit. — その紙幣は本物に見えたが、機械は偽札だと判定した。",
+      "The security pattern makes the document more difficult to counterfeit. — そのセキュリティ模様により、文書の偽造が難しくなる。",
+      "The trademark owner brought an action against the online seller of counterfeit goods. — 商標権者は、偽造商品を販売していたオンライン業者を相手取って訴えを提起した。",
+      "Not every patent-infringing product is counterfeit; infringement and counterfeiting are legally distinct concepts. — 特許権を侵害する製品がすべて偽造品とは限らず、権利侵害と偽造は法的に異なる概念である。"
+    ],
+    "en": [
+      "Customs officers seized thousands of counterfeit watches at the port.",
+      "The banknote looked genuine, but the machine identified it as a counterfeit.",
+      "The security pattern makes the document more difficult to counterfeit.",
+      "The trademark owner brought an action against the online seller of counterfeit goods.",
+      "Not every patent-infringing product is counterfeit; infringement and counterfeiting are legally distinct concepts."
+    ]
+  }
+},
+{
   "id": "genuine",
   "sid": "2026-01259",
   "word": "genuine",
