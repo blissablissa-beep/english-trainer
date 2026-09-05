@@ -497,19 +497,21 @@ async function loadCards() {
 
     CARDS = allCards;
     hideError();
-  } catch (error) {
-    console.error(error);
+ } catch (error) {
+  console.error(error);
 
-    CARDS = [];
+  CARDS = [];
 
-    showError(
-      "カードデータを読み込めませんでした。\n\n" +
-      "次を確認してください。\n" +
-      "・cards.json〜cards12.jsonが存在する\n" +
-      "・JSONの末尾カンマや引用符に誤りがない\n" +
-      "・GitHub Pagesの反映が完了している"
-    );
-  }
+  showError(
+    "カードデータを読み込めませんでした。\n\n" +
+    "実際のエラー：\n" +
+    (error?.message || String(error)) +
+    "\n\n次を確認してください。\n" +
+    "・ファイル名が app.js の指定と完全に一致している\n" +
+    "・JSONの末尾カンマや引用符に誤りがない\n" +
+    "・GitHub Pagesの反映が完了している"
+  );
+}
 }
 
 function showError(message) {
