@@ -1,5 +1,204 @@
 [
 {
+  "id": "vibe",
+  "sid": "2026-01264",
+  "word": "vibe",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "atmosphere",
+    "feeling",
+    "impression",
+    "intuition",
+    "compatibility",
+    "mood",
+    "slang",
+    "internet",
+    "social media",
+    "informal",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable; frequently plural in fixed expressions",
+    "plural": "vibes",
+    "forms": {
+      "noun_singular": "vibe",
+      "noun_plural": "vibes",
+      "verb_base": "vibe",
+      "third_person": "vibes",
+      "past": "vibed",
+      "past_participle": "vibed",
+      "gerund": "vibing",
+      "informal_adjective": "vibey"
+    },
+    "transitivity": "mainly intransitive as a verb",
+    "patterns": [
+      "a good / bad / strange vibe",
+      "get a + adjective + vibe from + person / place",
+      "give off a + adjective + vibe",
+      "have a + adjective + vibe",
+      "good / positive / negative vibes",
+      "the vibe of + place / event",
+      "vibe with + person / idea / music",
+      "vibe to + music",
+      "be vibing",
+      "It’s a vibe."
+    ],
+    "usage": {
+      "singular": "A vibe often means a particular intuitive impression: I got a strange vibe.",
+      "plural": "Vibes commonly describes the general emotional atmosphere or energy: good vibes.",
+      "verb": "Vibe with means feel compatible with, enjoy, or respond positively to someone or something.",
+      "slang": "It’s a vibe means that something creates a distinctive and appealing mood.",
+      "register": "Informal; atmosphere, impression, compatibility, or overall character is preferable in formal writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/vaɪb/",
+      "uk": "/vaɪb/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人・場所・出来事などから直感的に感じられる雰囲気・感じ",
+      "明確な根拠として説明しにくい、好悪や安全性についての印象",
+      "集団・空間に共有されている気分・空気",
+      "動詞として、人・考え・音楽などと感覚が合う、共感する",
+      "動詞として、音楽やその場の雰囲気を気楽に楽しむ"
+    ],
+    "en": [
+      "the atmosphere or feeling intuitively perceived from a person, place, or event",
+      "an impression of appeal, discomfort, or safety that may be difficult to explain objectively",
+      "the mood or emotional character shared within a group or space",
+      "as a verb, to feel compatible with or respond positively to a person, idea, or music",
+      "as a verb, to relax and enjoy music or the surrounding atmosphere"
+    ]
+  },
+  "nuance": {
+    "ja": "vibe は、客観的な特徴よりも、複数の小さな手掛かりから全体として感じ取る主観的な印象を表す。I got a bad vibe from him. は、その人が実際に危険だと証明されたのではなく、話し方・表情・態度などから不安を感じたという意味である。good vibes は明るく心地よい空気、give off a confident vibe は自信のある印象を与えることを表す。動詞の vibe with は、人との相性だけでなく、提案・美学・価値観への共感にも使える。非常に口語的であるため、法律・特許文書では vague impression や overall commercial impression など、判断内容に応じた具体的な語へ置き換える必要がある。",
+    "en": "Vibe describes a subjective overall impression formed from numerous small signals rather than an objectively established characteristic. I got a bad vibe from him means that his manner, expression, or behavior caused unease, not that he was proved dangerous. Good vibes refers to a pleasant emotional atmosphere, while give off a confident vibe describes creating an impression of confidence. As a verb, vibe with can express compatibility with a person or sympathy with an idea, aesthetic, or set of values. Because it is highly informal, legal and patent writing should replace it with a more precise expression such as general impression, overall commercial impression, or perceived character."
+  },
+  "minimal": {
+    "ja": [
+      "vibe：人・場所・物から直感的に感じる、口語的な雰囲気・印象。",
+      "atmosphere：場所・状況・集団を包む全体的な雰囲気。vibe より中立的。",
+      "mood：人の一時的な気分、または作品・場所が生み出す感情的な調子。",
+      "impression：人・物に接した結果として心に形成される印象。",
+      "aura：人・場所を取り巻くように感じられる、独特で時に神秘的な雰囲気。",
+      "energy：人・集団から感じられる活力や感情的な力を表す口語的用法がある。",
+      "vibe with：人・音楽・考えなどと感覚が合い、好意的に反応する。",
+      "click with：人とすぐに打ち解ける、または考えが突然理解できる。"
+    ],
+    "en": [
+      "vibe is an informal intuitive atmosphere or impression associated with a person, place, or thing.",
+      "atmosphere is the overall character of a place, situation, or group and is more neutral than vibe.",
+      "mood is a person’s temporary emotional state or the emotional tone produced by a place or work.",
+      "impression is an idea or feeling formed as a result of encountering someone or something.",
+      "aura is a distinctive and sometimes mysterious quality felt to surround a person or place.",
+      "energy can informally describe the vitality or emotional force perceived from a person or group.",
+      "vibe with means feeling compatible with or responding positively to a person, music, or idea.",
+      "click with means immediately connecting with a person or suddenly understanding an idea."
+    ]
+  },
+  "etymology": {
+    "ja": "vibe は vibration「振動」の短縮形である。vibration はラテン語 vibrare「振る、震わせる」に由来する。物理的な振動や音の響きから、人や場所が発しているように感じられる目に見えない心理的・感情的な「波動」へ意味が比喩的に広がった。20世紀の音楽文化や若者言葉を通じて、vibes が「雰囲気・感じ」を表す語として普及し、その後 vibe が単数名詞および動詞としても一般化した。",
+    "en": "Vibe is a shortening of vibration, which ultimately derives from Latin vibrare, to shake or cause to tremble. The physical idea of vibration or musical resonance was metaphorically extended to an invisible emotional quality seemingly emitted by a person or place. Through twentieth-century music culture and youth slang, vibes became widespread in the sense of atmosphere or feeling. Vibe subsequently became established as both a singular noun and a verb."
+  },
+  "synonyms": [
+    {
+      "word": "atmosphere",
+      "note": {
+        "ja": "場所・出来事・集団に感じられる全体的な特徴を表す、より中立的な語。",
+        "en": "A more neutral term for the overall character felt in a place, event, or group."
+      }
+    },
+    {
+      "word": "impression",
+      "note": {
+        "ja": "人・物・状況に接して形成される考えや感覚を広く表す。",
+        "en": "A broad term for an idea or feeling formed through contact with a person, object, or situation."
+      }
+    },
+    {
+      "word": "mood",
+      "note": {
+        "ja": "人の感情状態、または場・作品が醸し出す感情的な調子。",
+        "en": "A person’s emotional state or the emotional tone created by a setting or artistic work."
+      }
+    },
+    {
+      "word": "aura",
+      "note": {
+        "ja": "人・物・場所を取り巻くように感じられる独特の性質・雰囲気。",
+        "en": "A distinctive quality or atmosphere perceived as surrounding a person, object, or place."
+      }
+    },
+    {
+      "word": "feel",
+      "note": {
+        "ja": "場所・物・デザインなどが与える全体的な感触・印象を表す口語的な名詞。",
+        "en": "An informal noun for the overall character or impression produced by a place, object, or design."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Stimmung / Ausstrahlung / Vibe",
+    "it": "atmosfera / sensazione / vibrazione",
+    "fr": "ambiance / impression / vibe",
+    "es": "ambiente / sensación / vibra"
+  },
+  "collocations": {
+    "ja": [
+      "a good vibe — 好ましい雰囲気",
+      "a bad vibe — 嫌な感じ",
+      "a strange vibe — 奇妙な雰囲気",
+      "positive vibes — 前向きで明るい雰囲気",
+      "give off a friendly vibe — 親しみやすい印象を与える",
+      "get a weird vibe from someone — 人から妙な感じを受ける",
+      "the overall vibe — 全体的な雰囲気",
+      "change the vibe — 場の雰囲気を変える",
+      "vibe with someone — 人と感覚が合う",
+      "vibe with an idea — 考えに共感する",
+      "vibe to the music — 音楽に身を任せて楽しむ",
+      "pass the vibe check — 雰囲気・態度などが好意的に評価される"
+    ],
+    "en": [
+      "a good vibe",
+      "a bad vibe",
+      "a strange vibe",
+      "positive vibes",
+      "give off a friendly vibe",
+      "get a weird vibe from someone",
+      "the overall vibe",
+      "change the vibe",
+      "vibe with someone",
+      "vibe with an idea",
+      "vibe to the music",
+      "pass the vibe check"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The café has a relaxed and welcoming vibe. — そのカフェには、くつろいだ親しみやすい雰囲気がある。",
+      "I got a strange vibe from him, although I couldn’t explain why. — 理由は説明できなかったが、彼から妙な感じを受けた。",
+      "I like the proposal, but I don’t really vibe with the new color scheme. — その提案は気に入っていますが、新しい配色にはあまりしっくりきません。",
+      "The informal dinner helped create a friendly vibe among the overseas delegates. — くだけた夕食会が、海外代表者の間に親しみやすい雰囲気を作るのに役立った。",
+      "A court cannot determine trademark similarity merely from a vague vibe; it must examine the legally relevant factors. — 裁判所は曖昧な印象だけで商標の類似性を判断することはできず、法的に関連する要素を検討しなければならない。"
+    ],
+    "en": [
+      "The café has a relaxed and welcoming vibe.",
+      "I got a strange vibe from him, although I couldn’t explain why.",
+      "I like the proposal, but I don’t really vibe with the new color scheme.",
+      "The informal dinner helped create a friendly vibe among the overseas delegates.",
+      "A court cannot determine trademark similarity merely from a vague vibe; it must examine the legally relevant factors."
+    ]
+  }
+},
+{
   "id": "jury",
   "sid": "2026-01265",
   "word": "jury",
