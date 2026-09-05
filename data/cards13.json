@@ -1,5 +1,197 @@
 [
 {
+  "id": "misinformation",
+  "sid": "2026-01263",
+  "word": "misinformation",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "information",
+    "error",
+    "falsehood",
+    "misunderstanding",
+    "media",
+    "internet",
+    "social media",
+    "communication",
+    "research",
+    "business",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable",
+    "plural": "not normally used",
+    "forms": {
+      "base": "misinformation",
+      "related_verb": "misinform",
+      "past_participle": "misinformed",
+      "related_noun": "information"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "misinformation about + noun",
+      "misinformation concerning + noun",
+      "a piece of misinformation",
+      "spread / circulate / repeat misinformation",
+      "receive / encounter misinformation",
+      "correct / combat misinformation",
+      "be based on misinformation",
+      "be exposed to misinformation",
+      "a source of misinformation",
+      "distinguish misinformation from disinformation"
+    ],
+    "usage": {
+      "uncountable": "Do not normally use a misinformation or misinformations; use a piece of misinformation, a false claim, or examples of misinformation.",
+      "intent": "Misinformation is incorrect or misleading information regardless of intent; it may be spread innocently.",
+      "umbrella_use": "In ordinary public discussion, misinformation is sometimes used broadly enough to include deliberately false information.",
+      "person": "A person who has received incorrect information can be described as misinformed.",
+      "register": "Common in journalism, education, research, public health, law, and discussion of online communication."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌmɪsɪnfərˈmeɪʃən/",
+      "uk": "/ˌmɪsɪnfəˈmeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "事実と異なる、誤った情報",
+      "不正確・不完全で、誤解を生じさせる情報",
+      "確認不足・記憶違い・解釈の誤りなどから共有された情報",
+      "故意であるか否かを問わず、人に誤った認識を与える内容"
+    ],
+    "en": [
+      "information that is factually incorrect",
+      "inaccurate or incomplete information that creates a mistaken impression",
+      "information shared as a result of inadequate verification, faulty memory, or misinterpretation",
+      "content that causes false beliefs regardless of whether anyone intended to deceive"
+    ]
+  },
+  "nuance": {
+    "ja": "misinformation の中心は情報の不正確さであり、発信者の欺罔意図は必須ではない。古い記事を現在の情報だと思って共有する、期限を読み違えて同僚へ伝える、冗談を事実と誤解して再投稿するといった場合が典型的である。これに対し disinformation は、通常、人を欺くため意図的に作成・拡散される情報を指す。ただし一般の報道や政策論議では、misinformation が意図的な虚偽も含む上位概念として使われる場合があり、両者の区別は必ずしも一貫していない。誤りを指摘するときは、発信者の意図まで証明できなければ misinformation の方が慎重な表現である。",
+    "en": "The defining feature of misinformation is inaccuracy, not an intention to deceive. Typical cases include sharing an old article as current, misreading a deadline and passing it to a colleague, or reposting a joke after mistaking it for fact. Disinformation, by contrast, normally refers to material deliberately created or distributed to mislead. In journalism and policy discussion, however, misinformation is sometimes used as a broad category that also includes intentional falsehoods, so usage is not completely uniform. When the information is demonstrably wrong but the speaker’s intention cannot be established, misinformation is generally the more cautious label."
+  },
+  "minimal": {
+    "ja": [
+      "misinformation：故意かどうかを問わず、誤りや誤解を含む情報。",
+      "disinformation：人を欺く目的で意図的に作成・拡散される虚偽・誤誘導情報。",
+      "malinformation：真正な情報を、害を与える目的で文脈から切り離すなどして利用したもの。",
+      "incorrect information：客観的に誤っている情報を直接的・中立的に表す。",
+      "misleading information：必ずしも完全な虚偽ではないが、誤った印象を与える情報。",
+      "rumor：真偽が確認されないまま人から人へ広がる情報。",
+      "inaccuracy：文章・説明・数値などに含まれる個別の誤り・不正確さ。",
+      "misunderstanding：情報を受け取った人の理解・解釈に生じた誤り。"
+    ],
+    "en": [
+      "misinformation is incorrect or misleading information regardless of deceptive intent.",
+      "disinformation is false or misleading information deliberately created or spread to deceive.",
+      "malinformation is genuine information used or reframed with the intention of causing harm.",
+      "incorrect information directly and neutrally describes information contrary to fact.",
+      "misleading information creates a false impression without necessarily being wholly false.",
+      "a rumor is unverified information circulating from person to person.",
+      "an inaccuracy is an individual error or lack of precision in a text, explanation, or figure.",
+      "a misunderstanding is an error in a recipient’s comprehension or interpretation."
+    ]
+  },
+  "etymology": {
+    "ja": "misinformation は、誤り・不適切さを表す接頭辞 mis- と information から成る。mis- は古英語およびゲルマン語系の要素で、misunderstand、misread、misjudge などにも見られる。したがって語の基本構造は「誤った情報」であり、語源上は欺く意図を含まない。関連する動詞 misinform は「人に誤った情報を与える」、形容詞 misinformed は「誤った情報に基づいて判断している」を意味する。",
+    "en": "Misinformation is formed from the prefix mis-, indicating error or improper action, and information. Mis- is an Old English and Germanic element also found in misunderstand, misread, and misjudge. The word’s basic structure therefore means erroneous information and does not inherently imply an intention to deceive. The related verb misinform means to give someone incorrect information, while misinformed describes a person or judgment based on incorrect information."
+  },
+  "synonyms": [
+    {
+      "word": "incorrect information",
+      "note": {
+        "ja": "事実と異なる情報であることを、意図について判断せず中立的に表す。",
+        "en": "A neutral term identifying information as contrary to fact without judging anyone’s intention."
+      }
+    },
+    {
+      "word": "misleading information",
+      "note": {
+        "ja": "内容の選択・表現・文脈などによって、人に誤った印象を与える情報。",
+        "en": "Information that creates a false impression through its content, presentation, selection, or context."
+      }
+    },
+    {
+      "word": "false report",
+      "note": {
+        "ja": "出来事・状況について事実と異なる報告や記事。",
+        "en": "A report or account of an event or situation that is contrary to fact."
+      }
+    },
+    {
+      "word": "inaccuracy",
+      "note": {
+        "ja": "情報・数値・記述の一部に含まれる誤りや精度不足。",
+        "en": "An error or lack of precision in a particular part of information, a figure, or a statement."
+      }
+    },
+    {
+      "word": "falsehood",
+      "note": {
+        "ja": "真実ではない主張・情報。文脈によっては意図的な嘘を示唆する。",
+        "en": "A statement or piece of information that is untrue and may, depending on context, suggest deliberate lying."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Fehlinformation / Falschinformation",
+    "it": "informazione errata / disinformazione involontaria",
+    "fr": "information erronée / mésinformation",
+    "es": "información errónea / información falsa"
+  },
+  "collocations": {
+    "ja": [
+      "spread misinformation — 誤情報を拡散する",
+      "circulate misinformation — 誤情報を流布する",
+      "repeat misinformation — 誤情報を繰り返し伝える",
+      "encounter misinformation — 誤情報に接する",
+      "be exposed to misinformation — 誤情報にさらされる",
+      "correct misinformation — 誤情報を訂正する",
+      "combat misinformation — 誤情報の拡散に対抗する",
+      "a source of misinformation — 誤情報の発信源",
+      "online misinformation — オンライン上の誤情報",
+      "medical misinformation — 医療に関する誤情報",
+      "misinformation about a product — 製品についての誤情報",
+      "be based on misinformation — 誤情報に基づいている"
+    ],
+    "en": [
+      "spread misinformation",
+      "circulate misinformation",
+      "repeat misinformation",
+      "encounter misinformation",
+      "be exposed to misinformation",
+      "correct misinformation",
+      "combat misinformation",
+      "a source of misinformation",
+      "online misinformation",
+      "medical misinformation",
+      "misinformation about a product",
+      "be based on misinformation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The incorrect post spread misinformation about the new travel requirements. — その誤った投稿は、新しい渡航要件について誤情報を広めた。",
+      "She repeated the misinformation because she believed the source was reliable. — 彼女は情報源が信頼できると思っていたため、その誤情報を繰り返し伝えた。",
+      "The organization published a correction to prevent further misinformation. — その組織は、それ以上誤情報が広がるのを防ぐため訂正を公表した。",
+      "The client had received misinformation about the deadline for renewing the trademark registration. — 顧客は、商標登録の更新期限について誤った情報を受け取っていた。",
+      "An inaccurate database entry may generate misinformation about whether a patent is still in force. — データベース上の不正確な記録によって、特許が現在も有効かどうかについて誤情報が生じることがある。"
+    ],
+    "en": [
+      "The incorrect post spread misinformation about the new travel requirements.",
+      "She repeated the misinformation because she believed the source was reliable.",
+      "The organization published a correction to prevent further misinformation.",
+      "The client had received misinformation about the deadline for renewing the trademark registration.",
+      "An inaccurate database entry may generate misinformation about whether a patent is still in force."
+    ]
+  }
+},
+{
   "id": "vibe",
   "sid": "2026-01264",
   "word": "vibe",
