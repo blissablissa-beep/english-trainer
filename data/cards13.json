@@ -1,5 +1,196 @@
 [
 {
+  "id": "errand",
+  "sid": "2026-01269",
+  "word": "errand",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "task",
+    "short trip",
+    "shopping",
+    "message",
+    "delivery",
+    "household",
+    "workplace",
+    "daily routine",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "errands",
+    "forms": {
+      "singular": "errand",
+      "plural": "errands",
+      "person": "errand runner",
+      "compound": "errand boy / errand girl"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "run an errand",
+      "run errands",
+      "do some errands",
+      "go on an errand",
+      "send someone on an errand",
+      "an errand for + person",
+      "an errand to + place",
+      "an errand to do + task",
+      "be out on an errand",
+      "combine several errands"
+    ],
+    "usage": {
+      "movement": "An errand normally involves going somewhere to perform a relatively small practical task.",
+      "verb": "Run is the most characteristic verb: run an errand or run errands.",
+      "purpose": "The purpose may be introduced by to plus a verb: an errand to collect a parcel.",
+      "beneficiary": "For identifies the person whose business is being done: I ran an errand for my neighbor.",
+      "plural": "Run errands commonly describes completing several routine tasks in one outing.",
+      "person_terms": "Errand boy and errand girl can sound dated or demeaning when applied to an adult employee."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈerənd/",
+      "uk": "/ˈerənd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "物を買う・届ける・受け取るために出かけて済ませる用事",
+      "人から頼まれて行う短い外出を伴う仕事",
+      "日常生活で行う買い物・銀行・郵便などの細かな用事",
+      "物・書類・伝言などを特定の場所や人へ運ぶ任務"
+    ],
+    "en": [
+      "a short trip made to buy, deliver, or collect something",
+      "a small practical task involving travel that is performed for another person",
+      "a routine personal task such as shopping or visiting a bank or post office",
+      "a mission to carry an object, document, or message to a particular person or place"
+    ]
+  },
+  "nuance": {
+    "ja": "errand は単なる task ではなく、通常、用事を果たすために自宅・職場などからどこかへ移動することを含む。郵便局で荷物を出す、薬局で薬を受け取る、銀行に寄るといった比較的小さく実務的な用事が典型である。run errands は走ることを意味せず、複数の用事を次々に済ませることを表す。仕事で重要書類を官庁へ届ける場合も errand と呼べるが、専門的・重要な任務には assignment、mission、filing などの方が適切なこともある。I have an errand to run. は、用事の内容を詳しく説明せず一時的にその場を離れる際にも使われる。",
+    "en": "An errand differs from a general task because it normally involves going somewhere away from one’s home or workplace. Typical errands include mailing a parcel, collecting medicine, visiting a bank, or buying groceries. Run errands does not imply literal running; it means completing one or more such practical tasks. Delivering an important document to an authority can also be described as an errand, although assignment, mission, or filing may be more suitable when emphasizing professional importance. I have an errand to run can explain a temporary departure without specifying the details."
+  },
+  "minimal": {
+    "ja": [
+      "errand：小さな実務的用事を済ませるための外出。",
+      "task：行う必要がある仕事・作業全般。外出を伴うとは限らない。",
+      "chore：日常的に繰り返す家事・雑務。面倒な仕事という含みを持つことがある。",
+      "assignment：職場・学校などで正式に割り当てられた仕事・課題。",
+      "mission：特定の重要な目的を達成するための任務。",
+      "delivery：物・荷物・書類などを目的地へ届ける行為。",
+      "favor：他人を助けるために行う親切な行為。",
+      "appointment：医師・顧客などと、特定の時刻に会う約束。"
+    ],
+    "en": [
+      "an errand is a short trip made to complete a small practical task.",
+      "a task is any piece of work that needs to be done and does not necessarily involve travel.",
+      "a chore is a routine household or minor job and may suggest something tedious.",
+      "an assignment is a task formally given in employment or education.",
+      "a mission is a task undertaken to achieve a particular and often important objective.",
+      "a delivery is the act of taking an object, parcel, or document to its destination.",
+      "a favor is an act of kindness performed to help another person.",
+      "an appointment is an arrangement to meet someone at a specified time."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 ǣrende「伝言、任務、用事」に由来し、古いゲルマン諸語の同族語と関係する。もともとは、人に伝えるべき知らせや、特定の目的をもって遂行する任務を表した。使者が伝言や依頼を果たすために出かけるという関係から、物を届ける・受け取る・購入するといった短い外出を伴う日常的な用事を意味するようになった。直前の fool’s errand は、この errand に fool’s が付き、「愚か者にふさわしい無益な任務」を表す。",
+    "en": "Errand comes from Old English aerende, meaning a message, mission, or piece of business, and is related to cognates in other early Germanic languages. It originally referred to information that had to be conveyed or a mission undertaken for a particular purpose. Because a messenger traveled to deliver the message or complete the business, the word developed its modern sense of a short trip to deliver, collect, or purchase something. In fool’s errand, the same noun is modified by fool’s to describe a pointless mission."
+  },
+  "synonyms": [
+    {
+      "word": "task",
+      "note": {
+        "ja": "完了する必要のある仕事・作業を広く表し、移動の有無を問わない。",
+        "en": "A broad term for work that must be completed, whether or not travel is involved."
+      }
+    },
+    {
+      "word": "chore",
+      "note": {
+        "ja": "掃除・洗濯など、日常的に繰り返す小さな仕事・家事。",
+        "en": "A small routine job, especially household work such as cleaning or washing."
+      }
+    },
+    {
+      "word": "assignment",
+      "note": {
+        "ja": "雇用主・教師などによって正式に与えられた仕事・課題。",
+        "en": "A task formally allocated by an employer, teacher, or other authority."
+      }
+    },
+    {
+      "word": "mission",
+      "note": {
+        "ja": "明確で、しばしば重要な目的を達成するために遂行される任務。",
+        "en": "An undertaking carried out to achieve a clear and often important objective."
+      }
+    },
+    {
+      "word": "job",
+      "note": {
+        "ja": "完了する必要のある特定の仕事を表す一般的な語。",
+        "en": "A general word for a particular piece of work that needs to be completed."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Besorgung / Botengang",
+    "it": "commissione",
+    "fr": "course / commission",
+    "es": "recado / mandado"
+  },
+  "collocations": {
+    "ja": [
+      "run an errand — 一つの用事を済ませに行く",
+      "run errands — 複数の用事を済ませる",
+      "do some errands — いくつかの用事を済ませる",
+      "go on an errand — 用事に出かける",
+      "send someone on an errand — 人を使いに出す",
+      "be out on an errand — 用事で外出している",
+      "an errand for someone — 人に頼まれた用事",
+      "a quick errand — すぐに済む用事",
+      "a personal errand — 私的な用事",
+      "a routine errand — 日常的な用事",
+      "combine several errands — 複数の用事をまとめて済ませる",
+      "have an errand to run — 済ませるべき用事がある"
+    ],
+    "en": [
+      "run an errand",
+      "run errands",
+      "do some errands",
+      "go on an errand",
+      "send someone on an errand",
+      "be out on an errand",
+      "an errand for someone",
+      "a quick errand",
+      "a personal errand",
+      "a routine errand",
+      "combine several errands",
+      "have an errand to run"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I need to run a few errands before the shops close. — 店が閉まる前に、いくつか用事を済ませる必要がある。",
+      "Could you run an errand for me and collect this parcel? — 私の代わりに用事を一つ頼まれて、この荷物を受け取ってもらえますか。",
+      "She is out on an errand but should be back in twenty minutes. — 彼女は用事で外出していますが、20分で戻るはずです。",
+      "I combined my trip to the bank with several other errands. — 銀行へ行くついでに、ほかの用事もいくつかまとめて済ませた。",
+      "Before electronic filing became standard, staff frequently ran errands to deliver patent documents to the office. — 電子出願が標準になる前は、職員が特許書類を庁へ届けるため頻繁に使いに出ていた。"
+    ],
+    "en": [
+      "I need to run a few errands before the shops close.",
+      "Could you run an errand for me and collect this parcel?",
+      "She is out on an errand but should be back in twenty minutes.",
+      "I combined my trip to the bank with several other errands.",
+      "Before electronic filing became standard, staff frequently ran errands to deliver patent documents to the office."
+    ]
+  }
+},
+{
   "id": "courtesy",
   "sid": "2026-01270",
   "word": "courtesy",
