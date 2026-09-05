@@ -1152,5 +1152,201 @@
       "We should avoid a pedantic debate over formatting and focus on the substantive objection."
     ]
   }
+},
+{
+  "id": "precise",
+  "sid": "2026-01273",
+  "word": "precise",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "accuracy",
+    "exactness",
+    "clarity",
+    "measurement",
+    "definition",
+    "language",
+    "science",
+    "technology",
+    "patent",
+    "legal",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "precise",
+      "comparative": "more precise",
+      "superlative": "most precise",
+      "noun": "precision",
+      "adverb": "precisely",
+      "opposite": "imprecise"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a precise + noun",
+      "be precise",
+      "be precise about + noun",
+      "be precise in + noun / gerund",
+      "be precise enough to do",
+      "make something more precise",
+      "give a precise definition / description",
+      "at a precise time / location",
+      "to be precise, + clause / phrase",
+      "more precisely, + reformulation"
+    ],
+    "usage": {
+      "measurement": "Precise describes fine consistency or a narrowly specified value, position, or operation.",
+      "language": "It describes wording that conveys the intended meaning without avoidable uncertainty.",
+      "person": "A precise person works or speaks with careful exactness.",
+      "comparison": "More precise and most precise are normally preferred to preciser and precisest.",
+      "discourse_marker": "To be precise and more precisely introduce a correction or a more exact formulation."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prɪˈsaɪs/",
+      "uk": "/prɪˈsaɪs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "数値・測定・位置などが細かい単位まで正確な",
+      "意味・定義・説明などが明確に限定され、曖昧さの少ない",
+      "動作・機械などが細部まで正確に制御された",
+      "人が言葉や作業の細部に注意を払い、正確である",
+      "時間・場所・数量などが厳密に特定された",
+      "to be precise の形で、より正確に言えば"
+    ],
+    "en": [
+      "exact to a fine degree in measurement, quantity, or position",
+      "clearly defined or expressed with little ambiguity",
+      "accurately controlled in movement, operation, or execution",
+      "for a person, careful and exact in speech or work",
+      "specifically fixed or identified in time, place, or amount",
+      "in to be precise, used to introduce a more exact statement"
+    ]
+  },
+  "nuance": {
+    "ja": "precise は、対象が細かく限定・測定・制御され、不要なずれや曖昧さがないことを強調する。正しい結果と一致する accurate と密接だが、複数回の測定値が互いに非常に近ければ precise であり、真の値から外れていれば accurate ではない場合がある。日常語では両者を厳密に区別しないことも多い。exact は完全な一致や一つに確定した値を強調し、precise は表現・測定・操作の細かさと明確さに重点を置く。特許請求項では precise wording が重要だが、過度に限定すると保護範囲を不必要に狭める可能性もある。",
+    "en": "Precise emphasizes that something is finely defined, measured, or controlled without unnecessary variation or ambiguity. It is closely related to accurate, but in technical usage repeated measurements can be precise because they are close to one another while still being inaccurate because they differ from the true value. Everyday English does not always maintain this distinction strictly. Exact emphasizes complete identity or one fully determined value, while precise focuses on fineness and clarity of expression, measurement, or operation. Precise wording is important in patent claims, although excessive specification may unnecessarily narrow the scope of protection."
+  },
+  "minimal": {
+    "ja": [
+      "precise：細部まで明確に限定・測定・制御され、ずれや曖昧さが少ない。",
+      "accurate：測定・情報・説明が真の値や事実に正しく一致している。",
+      "exact：完全に一致している、または値・時点などが厳密に一つへ定まっている。",
+      "specific：一般的でなく、特定の対象・内容を明示している。",
+      "definite：不明確・暫定的でなく、はっきり確定している。",
+      "meticulous：人や作業が細部まで非常に注意深い。",
+      "concise：必要な内容を少ない言葉で明確に表す。",
+      "pedantic：本質に不要な細部や形式へ過度にこだわる。通常は批判的。"
+    ],
+    "en": [
+      "precise means finely defined, measured, or controlled with little variation or ambiguity.",
+      "accurate means correctly corresponding to the true value or actual facts.",
+      "exact means completely identical or fixed at one strictly determined value or point.",
+      "specific means clearly identifying a particular subject rather than speaking generally.",
+      "definite means clearly established rather than uncertain, vague, or provisional.",
+      "meticulous describes a person or process showing extremely careful attention to detail.",
+      "concise means expressing the necessary content clearly in few words.",
+      "pedantic disapprovingly describes excessive concern with details or formal rules that do not serve the main purpose."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 praecisus「切り取られた、短く区切られた」に由来し、フランス語 précis を経て英語に入った。praecisus は praecidere「切り落とす」の過去分詞で、prae-「前で」と caedere「切る」から成る。余分な部分を切り落として境界を明確にするというイメージから、「明確に限定された、厳密な」という意味が発達した。precision、precisely、imprecise も同じ語族に属する。",
+    "en": "Precise comes through French précis from Latin praecisus, meaning cut off or sharply delimited. Praecisus is the past participle of praecidere, to cut off, formed from prae-, before, and caedere, to cut. The image of removing excess material and leaving a clearly defined boundary developed into the meaning exact and unambiguous. Precision, precisely, and imprecise belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "exact",
+      "note": {
+        "ja": "数値・場所・言葉などが完全に一致し、厳密に特定されていることを強調する。",
+        "en": "Emphasizes complete correspondence or strict identification of a value, place, or wording."
+      }
+    },
+    {
+      "word": "accurate",
+      "note": {
+        "ja": "測定・情報・説明が、実際の値や事実と正しく一致している。",
+        "en": "Describes a measurement, statement, or account that correctly corresponds to reality."
+      }
+    },
+    {
+      "word": "specific",
+      "note": {
+        "ja": "一般論ではなく、特定の対象・条件・内容を明確に示す。",
+        "en": "Clearly identifies a particular subject, condition, or detail rather than speaking generally."
+      }
+    },
+    {
+      "word": "rigorous",
+      "note": {
+        "ja": "分析・方法・証明などが厳密で、論理や基準を徹底している。",
+        "en": "Describes analysis, methodology, or proof that applies demanding standards consistently."
+      }
+    },
+    {
+      "word": "meticulous",
+      "note": {
+        "ja": "人・作業が細かな点まで非常に注意深く、入念である。",
+        "en": "Describes a person or process showing extremely careful attention to every detail."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "präzise / genau",
+    "it": "preciso",
+    "fr": "précis",
+    "es": "preciso / exacto"
+  },
+  "collocations": {
+    "ja": [
+      "a precise definition — 明確で厳密な定義",
+      "a precise description — 正確で詳細な説明",
+      "precise wording — 曖昧さの少ない正確な文言",
+      "a precise measurement — 精密な測定",
+      "a precise location — 厳密に特定された位置",
+      "the precise moment — まさにその瞬間",
+      "a precise amount — 厳密な数量",
+      "precise control — 精密な制御",
+      "highly precise — 極めて精密な",
+      "technically precise — 技術的に厳密な",
+      "make something more precise — 何かをより明確・厳密にする",
+      "to be precise — 正確に言えば"
+    ],
+    "en": [
+      "a precise definition",
+      "a precise description",
+      "precise wording",
+      "a precise measurement",
+      "a precise location",
+      "the precise moment",
+      "a precise amount",
+      "precise control",
+      "highly precise",
+      "technically precise",
+      "make something more precise",
+      "to be precise"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Please give me the precise location of the meeting room. — 会議室の正確な位置を教えてください。",
+      "The instrument is capable of extremely precise measurements. — その機器は極めて精密な測定ができる。",
+      "The instructions should be concise but precise. — 指示は簡潔でありながら正確であるべきだ。",
+      "The claim must use precise language to distinguish the invention from the prior art. — その請求項では、発明を先行技術から区別するため、明確で正確な文言を用いなければならない。",
+      "Twenty-seven applications were filed—or twenty-eight, to be precise, if the divisional application is included. — 27件の出願が行われた。より正確には、分割出願を含めれば28件である。"
+    ],
+    "en": [
+      "Please give me the precise location of the meeting room.",
+      "The instrument is capable of extremely precise measurements.",
+      "The instructions should be concise but precise.",
+      "The claim must use precise language to distinguish the invention from the prior art.",
+      "Twenty-seven applications were filed—or twenty-eight, to be precise, if the divisional application is included."
+    ]
+  }
 }
 ]
