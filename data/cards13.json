@@ -1,5 +1,203 @@
 [
 {
+  "id": "orientation",
+  "sid": "2026-01266",
+  "word": "orientation",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "direction",
+    "position",
+    "alignment",
+    "perspective",
+    "attitude",
+    "training",
+    "onboarding",
+    "education",
+    "technology",
+    "engineering",
+    "sexual orientation",
+    "patent",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "orientations",
+    "forms": {
+      "singular": "orientation",
+      "plural": "orientations",
+      "verb": "orient",
+      "past_participle": "oriented",
+      "adjective": "orientational"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "the orientation of + object",
+      "in a vertical / horizontal orientation",
+      "change / adjust the orientation of + object",
+      "orientation toward / towards + goal / idea",
+      "a political / commercial / practical orientation",
+      "an orientation session / program",
+      "attend orientation",
+      "provide orientation for + people",
+      "sexual orientation",
+      "portrait / landscape orientation"
+    ],
+    "usage": {
+      "physical": "Orientation describes the direction in which an object, surface, or structure is positioned relative to a reference.",
+      "figurative": "It can describe a person’s, organization’s, or theory’s characteristic outlook or priorities.",
+      "training": "In education and employment, orientation is an introductory program that familiarizes newcomers with an institution.",
+      "technology": "Screen or page orientation commonly distinguishes portrait from landscape positioning.",
+      "sensitivity": "Sexual orientation is the standard neutral expression for a person’s pattern of romantic or sexual attraction."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɔːriənˈteɪʃən/",
+      "uk": "/ˌɔːriənˈteɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "物体・表面・構造などが基準に対して向いている方向・配置",
+      "人・組織・理論などが持つ基本的な考え方・傾向・重点",
+      "新入社員・新入生などに組織や手続きを説明する導入研修・説明会",
+      "場所や状況を把握し、自分の位置・進むべき方向を理解すること",
+      "画面・用紙などの縦向きまたは横向きの設定",
+      "人が継続的に抱く恋愛的・性的な関心の方向である性的指向"
+    ],
+    "en": [
+      "the direction or alignment of an object, surface, or structure relative to a reference",
+      "the characteristic outlook, tendency, or priority of a person, organization, or theory",
+      "an introductory program that familiarizes new employees or students with an institution and its procedures",
+      "the process of establishing one’s position and direction in a place or situation",
+      "the portrait or landscape positioning of a screen, page, or image",
+      "a person’s enduring pattern of romantic or sexual attraction"
+    ]
+  },
+  "nuance": {
+    "ja": "orientation の物理的用法は、単なる位置 location ではなく、物体がどちらを向き、基準に対してどの角度で配置されているかに焦点を置く。研修の意味では、特定技能を習得する本格的な training よりも、組織・施設・規則・基本手続きを理解する導入段階を指す。考え方について customer orientation と言えば「顧客を重視する姿勢」を表す。sexual orientation は中立的な標準表現であり、本人が任意に選択する一時的な preference として扱うべきではない。特許請求項では orientation が相対的な向きを表す場合、基準軸・表面・他の構成要素との関係を明確にする必要がある。",
+    "en": "In its physical sense, orientation focuses not merely on where an object is located but on the direction it faces or the angle at which it is positioned relative to a reference. In employment and education, orientation is the introductory stage covering an institution, facilities, rules, and basic procedures, whereas training usually develops particular skills in greater depth. Customer orientation describes an outlook that prioritizes customers. Sexual orientation is the standard neutral term and should not be treated as a temporary preference freely selected by an individual. In patent claims, orientation may require a clearly identified axis, surface, or component serving as the reference."
+  },
+  "minimal": {
+    "ja": [
+      "orientation：基準に対する物の向き、考え方の傾向、または新しい環境への導入説明。",
+      "direction：物・移動・作用が向かう方角・進路。",
+      "position：物や人が存在する場所、または他の物との位置関係。",
+      "alignment：複数の物を一直線または適切な相互関係にそろえること。",
+      "perspective：物事を見る観点・視座。",
+      "attitude：人・問題に対する考え方や感情的な姿勢。",
+      "orientation program：新しい組織・環境の基本事項を説明する導入プログラム。",
+      "training：特定の仕事・技能を行えるよう知識と能力を身につけさせる訓練。"
+    ],
+    "en": [
+      "orientation is an object’s direction relative to a reference, an outlook, or an introduction to a new environment.",
+      "direction is the course or side toward which something faces, moves, or acts.",
+      "position is the place occupied by a person or object or its spatial relation to other things.",
+      "alignment is the arrangement of multiple objects in a line or in an appropriate relationship.",
+      "perspective is a particular point of view from which something is considered.",
+      "attitude is a person’s way of thinking or feeling about someone or something.",
+      "an orientation program introduces newcomers to the basic features and procedures of an organization.",
+      "training develops the knowledge and skills required to perform a particular task or job."
+    ]
+  },
+  "etymology": {
+    "ja": "orient「東方、東へ向ける」に名詞接尾辞 -ation が付いた語である。orient はラテン語 oriens「昇るもの、東」、現在分詞 oriri「昇る、生じる」に由来する。太陽が昇る東を基準として地図・建物・自分の位置を定めることから、「方向を定める」という意味が生じた。そこから、物体の向き、状況を把握すること、考え方の方向性、新しい環境に適応するための案内へ意味が広がった。",
+    "en": "Orientation is formed from orient and the noun suffix -ation. Orient derives from Latin oriens, the rising or east, the present participle of oriri, to rise or come into being. Because the east, where the sun rises, served as a reference for positioning maps, buildings, and oneself, orient developed the meaning determine or set a direction. This was extended to an object’s alignment, understanding one’s situation, a person’s outlook, and introductory guidance in a new environment."
+  },
+  "synonyms": [
+    {
+      "word": "alignment",
+      "note": {
+        "ja": "物体を基準や他の物に対して正しくそろえた配置を表す。",
+        "en": "Describes the arrangement of an object in proper relation to a reference or other objects."
+      }
+    },
+    {
+      "word": "direction",
+      "note": {
+        "ja": "物体が向いている方角や、人・物が進む方向を表す。",
+        "en": "The side toward which an object faces or the course along which someone or something moves."
+      }
+    },
+    {
+      "word": "outlook",
+      "note": {
+        "ja": "人・組織が世界や将来を捉える基本的な考え方。",
+        "en": "A person’s or organization’s general way of viewing the world or the future."
+      }
+    },
+    {
+      "word": "induction",
+      "note": {
+        "ja": "特にイギリス英語で、新入社員を組織へ導入する説明・研修。",
+        "en": "Especially in British English, the process of introducing a new employee to an organization."
+      }
+    },
+    {
+      "word": "onboarding",
+      "note": {
+        "ja": "新入社員・顧客などが組織やサービスを利用できる状態にする一連の導入過程。",
+        "en": "The broader process of integrating a new employee or enabling a new customer to use an organization or service."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Ausrichtung / Orientierung / Einführungsveranstaltung",
+    "it": "orientamento / disposizione / introduzione",
+    "fr": "orientation / disposition / séance d’accueil",
+    "es": "orientación / disposición / sesión de bienvenida"
+  },
+  "collocations": {
+    "ja": [
+      "a vertical orientation — 垂直方向の配置",
+      "a horizontal orientation — 水平方向の配置",
+      "portrait orientation — 縦向き",
+      "landscape orientation — 横向き",
+      "change the orientation — 向きを変更する",
+      "spatial orientation — 空間認識、空間的方向づけ",
+      "political orientation — 政治的傾向",
+      "customer orientation — 顧客重視の姿勢",
+      "sexual orientation — 性的指向",
+      "an orientation session — オリエンテーション、導入説明会",
+      "attend orientation — オリエンテーションに参加する",
+      "new employee orientation — 新入社員向け導入研修"
+    ],
+    "en": [
+      "a vertical orientation",
+      "a horizontal orientation",
+      "portrait orientation",
+      "landscape orientation",
+      "change the orientation",
+      "spatial orientation",
+      "political orientation",
+      "customer orientation",
+      "sexual orientation",
+      "an orientation session",
+      "attend orientation",
+      "new employee orientation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Rotate the screen to change it from portrait to landscape orientation. — 画面を回転させ、縦向きから横向きへ変更してください。",
+      "All new employees must attend an orientation session on Monday. — 新入社員は全員、月曜日の導入説明会に参加しなければならない。",
+      "The company has adopted a stronger customer orientation. — その会社は、顧客をいっそう重視する姿勢を採用した。",
+      "The sensor detects changes in the orientation of the mobile device. — そのセンサーは、モバイル端末の向きの変化を検出する。",
+      "The patent claim defines the orientation of the first surface relative to the longitudinal axis. — その特許請求項は、長手軸に対する第1表面の向きを規定している。"
+    ],
+    "en": [
+      "Rotate the screen to change it from portrait to landscape orientation.",
+      "All new employees must attend an orientation session on Monday.",
+      "The company has adopted a stronger customer orientation.",
+      "The sensor detects changes in the orientation of the mobile device.",
+      "The patent claim defines the orientation of the first surface relative to the longitudinal axis."
+    ]
+  }
+},
+{
   "id": "awry",
   "sid": "2026-01267",
   "word": "awry",
