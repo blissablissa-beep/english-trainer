@@ -1,5 +1,197 @@
 [
 {
+  "id": "disinformation",
+  "sid": "2026-01262",
+  "word": "disinformation",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "information",
+    "deception",
+    "falsehood",
+    "media",
+    "internet",
+    "social media",
+    "propaganda",
+    "politics",
+    "security",
+    "business",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable",
+    "plural": "not normally used",
+    "forms": {
+      "base": "disinformation",
+      "related_noun": "information",
+      "related_adjective": "disinformative",
+      "related_verb": "disinform"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "disinformation about + noun",
+      "disinformation concerning + noun",
+      "a piece of disinformation",
+      "spread / circulate / publish disinformation",
+      "create / fabricate disinformation",
+      "expose / identify / counter disinformation",
+      "a disinformation campaign",
+      "a source of disinformation",
+      "be targeted by disinformation",
+      "distinguish disinformation from misinformation"
+    ],
+    "usage": {
+      "uncountable": "Do not normally use a disinformation or disinformations; use a piece of disinformation or examples of disinformation.",
+      "intent": "The standard distinction is that disinformation is deliberately deceptive, whereas misinformation may be shared by mistake.",
+      "content": "It may consist of wholly false claims, altered material, fabricated identities, or misleadingly presented information.",
+      "agent": "The person who repeats it need not know it is false; the deceptive intent may belong to the original creator or campaign.",
+      "register": "Common in journalism, politics, security, media studies, law, and public-policy discussion."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌdɪsɪnfərˈmeɪʃən/",
+      "uk": "/ˌdɪsɪnfəˈmeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人を欺く目的で意図的に作成された虚偽情報",
+      "世論・意思決定・行動に影響を与えるため、計画的に拡散される誤解を招く情報",
+      "情報源・文脈・証拠などを操作して真実らしく見せた情報",
+      "組織的な情報工作で用いられる、偽造・改変・捏造された内容"
+    ],
+    "en": [
+      "false information deliberately created to deceive people",
+      "misleading information systematically distributed to influence opinion, decisions, or conduct",
+      "information made to appear credible through manipulation of its source, context, or supporting evidence",
+      "fabricated, altered, or falsified material used in an organized influence operation"
+    ]
+  },
+  "nuance": {
+    "ja": "disinformation は、内容が誤っていることだけでなく、その作成・発信に欺罔目的があることを中心とする。ある利用者が虚偽だと知らずに再投稿した場合、その利用者の行為は misinformation の拡散と説明できても、元の情報は意図的に作られた disinformation であり得る。事実の一部だけを切り取り、重要な文脈を隠して誤った印象を与える情報も含み得る。propaganda と重なる場合があるが、propaganda は必ずしも虚偽ではなく、特定の主張へ誘導する情報活動全般を表し得る。disinformation は発信者の意図の立証が難しいため、個別の投稿をそう断定する際には慎重さが必要である。",
+    "en": "Disinformation is defined not only by inaccuracy but principally by an intention to deceive in its creation or dissemination. If a user unknowingly reposts a fabricated claim, that user may be spreading misinformation even though the original material was produced as disinformation. The category can include technically true fragments presented without essential context to create a false impression. It may overlap with propaganda, but propaganda need not be false and can include any strategically persuasive communication. Because a speaker’s intention can be difficult to prove, labeling a particular statement disinformation requires care."
+  },
+  "minimal": {
+    "ja": [
+      "disinformation：人を欺くため意図的に作成・拡散される虚偽・誤誘導情報。",
+      "misinformation：誤った情報。共有者に欺く意図があるとは限らない。",
+      "malinformation：真正な情報を、害を与える目的で文脈から切り離すなどして利用する情報。",
+      "propaganda：政治的・思想的目的で人々の考えを誘導する情報活動。必ずしも虚偽ではない。",
+      "fake news：ニュースを装った虚偽情報を指す口語的で政治的含意の強い語。",
+      "rumor：真偽が確認されないまま人から人へ広がる情報。",
+      "false statement：客観的事実と異なる発言。意図的な欺罔とは限らない。",
+      "deception：虚偽・隠蔽・策略などによって人を誤信させる行為全般。"
+    ],
+    "en": [
+      "disinformation is false or misleading information deliberately created or spread to deceive.",
+      "misinformation is inaccurate information whose sharer does not necessarily intend to deceive.",
+      "malinformation is genuine information used or reframed with the intention of causing harm.",
+      "propaganda is communication intended to influence political or ideological views and need not be false.",
+      "fake news is an informal and politically loaded term for fabricated material presented as news.",
+      "a rumor is unverified information circulating from person to person.",
+      "a false statement contradicts objective fact but is not necessarily deliberately deceptive.",
+      "deception is the broader act of causing a false belief through falsehood, concealment, or manipulation."
+    ]
+  },
+  "etymology": {
+    "ja": "disinformation は dis-「反対・除去・否定」と information から構成される。現代的な政治・諜報用語としては、ロシア語 dezinformatsiya「偽情報、情報工作」との関係が深く、この語や概念が20世紀、特に冷戦期の英語圏で広く知られるようになった。ただし、現在の disinformation は特定国家による活動に限られず、政府・企業・団体・個人などが欺く目的で流す情報全般に用いられる。",
+    "en": "Disinformation is formed from dis- and information. As a modern political and intelligence term, it is closely associated with Russian dezinformatsiya, referring to deceptive information and organized influence operations, and became widely known in English during the twentieth century, particularly in the Cold War. In current use, however, disinformation is not limited to state activity and may be produced by governments, companies, organizations, networks, or individuals."
+  },
+  "synonyms": [
+    {
+      "word": "false information",
+      "note": {
+        "ja": "事実と異なる情報を広く表し、欺く意図の有無を問わない。",
+        "en": "A broad term for information contrary to fact, regardless of whether deception was intended."
+      }
+    },
+    {
+      "word": "deceptive content",
+      "note": {
+        "ja": "人を誤信させるよう設計・提示された文章・画像・映像などを表す。",
+        "en": "Text, images, or audiovisual material designed or presented to cause a false belief."
+      }
+    },
+    {
+      "word": "fabrication",
+      "note": {
+        "ja": "事実・証拠・記事などを意図的に捏造したもの。",
+        "en": "A story, fact, document, or piece of evidence that has been deliberately invented."
+      }
+    },
+    {
+      "word": "propaganda",
+      "note": {
+        "ja": "特定の政治的・思想的立場へ人々を誘導するための情報活動。",
+        "en": "Communication intended to guide people toward a particular political or ideological position."
+      }
+    },
+    {
+      "word": "information manipulation",
+      "note": {
+        "ja": "情報の作成・選択・文脈・流通などを操作し、認識に影響を与える行為。",
+        "en": "The alteration of information’s creation, selection, context, or distribution to influence perception."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Desinformation / gezielte Falschinformation",
+    "it": "disinformazione",
+    "fr": "désinformation",
+    "es": "desinformación"
+  },
+  "collocations": {
+    "ja": [
+      "spread disinformation — 偽情報を拡散する",
+      "create disinformation — 偽情報を作成する",
+      "publish disinformation — 偽情報を公表する",
+      "counter disinformation — 偽情報に対抗する",
+      "combat disinformation — 偽情報の拡散と闘う",
+      "identify disinformation — 偽情報を特定する",
+      "expose disinformation — 偽情報であることを暴く",
+      "a disinformation campaign — 組織的な偽情報工作",
+      "online disinformation — オンライン上の偽情報",
+      "state-sponsored disinformation — 国家が支援する偽情報活動",
+      "a source of disinformation — 偽情報の発信源",
+      "disinformation about an election — 選挙についての意図的な偽情報"
+    ],
+    "en": [
+      "spread disinformation",
+      "create disinformation",
+      "publish disinformation",
+      "counter disinformation",
+      "combat disinformation",
+      "identify disinformation",
+      "expose disinformation",
+      "a disinformation campaign",
+      "online disinformation",
+      "state-sponsored disinformation",
+      "a source of disinformation",
+      "disinformation about an election"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The fabricated photographs formed part of a coordinated disinformation campaign. — その捏造写真は、組織的な偽情報工作の一部を構成していた。",
+      "People may spread disinformation without realizing that the original claim was deliberately fabricated. — 人は、元の主張が意図的に捏造されたものだと気づかずに、偽情報を拡散することがある。",
+      "The report distinguishes accidental misinformation from deliberate disinformation. — その報告書は、偶発的な誤情報と意図的な偽情報を区別している。",
+      "The company alleged that its competitor had circulated disinformation about the safety of its products. — その会社は、競合他社が自社製品の安全性について意図的な偽情報を流したと主張した。",
+      "A false claim that a competitor’s patent has expired could constitute disinformation if it was knowingly created to mislead customers. — 競合他社の特許が失効したという虚偽の主張は、顧客を欺く目的で虚偽と知りながら作成された場合、disinformation に該当し得る。"
+    ],
+    "en": [
+      "The fabricated photographs formed part of a coordinated disinformation campaign.",
+      "People may spread disinformation without realizing that the original claim was deliberately fabricated.",
+      "The report distinguishes accidental misinformation from deliberate disinformation.",
+      "The company alleged that its competitor had circulated disinformation about the safety of its products.",
+      "A false claim that a competitor’s patent has expired could constitute disinformation if it was knowingly created to mislead customers."
+    ]
+  }
+},
+{
   "id": "misinformation",
   "sid": "2026-01263",
   "word": "misinformation",
