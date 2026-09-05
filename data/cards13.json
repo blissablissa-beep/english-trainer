@@ -1,5 +1,202 @@
 [
 {
+  "id": "customs",
+  "sid": "2026-01260",
+  "word": "customs",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "plural noun",
+    "customs authority",
+    "border",
+    "imports",
+    "exports",
+    "tax",
+    "tariff",
+    "travel",
+    "trade",
+    "counterfeit goods",
+    "legal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "plural noun / institutional noun",
+    "countability": "plural or uncountable depending on sense",
+    "plural": "customs",
+    "forms": {
+      "base": "customs",
+      "singular_related_word": "custom",
+      "adjective": "customs",
+      "officer": "customs officer",
+      "duty": "customs duty",
+      "plural_duties": "customs duties"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "go through customs",
+      "pass through customs",
+      "clear customs",
+      "get something through customs",
+      "be held / stopped at customs",
+      "declare something at customs",
+      "pay customs duty / duties",
+      "be subject to customs duty",
+      "a customs officer / official",
+      "the customs authorities",
+      "customs seizes / seize + goods",
+      "local customs and traditions"
+    ],
+    "usage": {
+      "no_article": "In travel expressions, customs normally has no article: go through customs, not go through the customs.",
+      "institution": "As the name of an authority or administrative service, customs can be treated institutionally as singular or collectively as plural depending on dialect and context.",
+      "taxes": "Customs can historically refer to import or export duties collectively, but customs duty and customs duties are often clearer.",
+      "adjective": "Customs functions attributively in compounds such as customs officer, customs declaration, and customs clearance.",
+      "traditions": "When customs means traditions, it is the ordinary plural of custom: local customs."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkʌstəmz/",
+      "uk": "/ˈkʌstəmz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "輸出入品を検査し、関税を徴収する税関・税関当局",
+      "空港・港・国境などで税関手続きを行う場所",
+      "輸入品・輸出品に課される関税・税金",
+      "custom の複数形として、社会・地域・集団に定着した慣習・風習"
+    ],
+    "en": [
+      "the government authority that examines imports and exports and collects applicable duties",
+      "the place or process at an airport, port, or border where goods are declared and inspected",
+      "duties or taxes imposed on imported or exported goods",
+      "as the plural of custom, established traditions or practices of a society, region, or group"
+    ]
+  },
+  "nuance": {
+    "ja": "旅行で go through customs と言えば、荷物や持込品について申告・検査を受ける「税関手続きを通る」ことである。passport control や immigration は主として人の入国資格・旅券を審査するのに対し、customs は主として物品・関税・輸出入規制を扱う。clear customs は、人や貨物が必要な手続きを終えて税関を通過することを表す。customs duty は個別の関税、customs duties は複数の関税・課徴金を表しやすい。なお、local customs の customs は「地域の慣習」であり、税関とは文脈上別の意味である。",
+    "en": "In travel, go through customs means completing the declaration or inspection process concerning baggage and goods. Passport control and immigration primarily examine people’s passports and right to enter, whereas customs primarily deals with goods, duties, and import or export restrictions. Clear customs means successfully completing the required customs formalities, whether for a traveler or a shipment. Customs duty commonly refers to an individual type or amount of duty, while customs duties readily refers to multiple charges. In local customs, customs is simply the plural of custom and means traditions rather than the border authority."
+  },
+  "minimal": {
+    "ja": [
+      "customs：輸出入品を検査し、関税を徴収する税関・税関手続き。",
+      "custom：社会的な慣習、または個人の習慣。単数では税関を意味しない。",
+      "immigration：外国人の入国資格・在留資格や旅券を審査する入国管理。",
+      "passport control：旅行者の旅券・本人確認を行う審査所・手続き。",
+      "border control：人・物の国境通過を管理する制度全体。",
+      "customs duty：輸入品または輸出品に課される関税。",
+      "tariff：商品分類ごとの関税率・関税制度、またはその関税。",
+      "excise duty：国内で生産・販売される特定商品にも課される物品税。"
+    ],
+    "en": [
+      "customs is the authority or process responsible for inspecting cross-border goods and collecting duties.",
+      "a custom is a social tradition or personal habitual practice; in the singular it does not mean the border authority.",
+      "immigration examines a foreign national’s passport and legal right to enter or remain.",
+      "passport control is the checkpoint or procedure used to verify travelers’ passports and identities.",
+      "border control is the wider system for regulating the movement of both people and goods across borders.",
+      "customs duty is a tax imposed on imported or exported goods.",
+      "a tariff is a schedule or rate of duties applied to categories of traded goods.",
+      "excise duty is a tax on particular goods that may also be produced and sold domestically."
+    ]
+  },
+  "etymology": {
+    "ja": "custom は古フランス語 custume を経て、ラテン語 consuetudo「習慣、慣行」に由来する。中世には、慣例として支払われる金銭や、権力者が伝統的権利として徴収する料金にも custom が使われた。そこから、国境を越える商品に課される慣例的な公課が customs と呼ばれ、さらにその徴収・検査を担当する官庁そのものも customs と呼ばれるようになった。したがって「慣習」と「税関」は、歴史的には『慣例として認められたもの』という同じ語義から分かれている。",
+    "en": "Custom came through Old French custume from Latin consuetudo, meaning habit or established practice. In medieval use, custom could also refer to a payment traditionally rendered or a charge collected as an established right by an authority. Duties conventionally imposed on goods crossing a border consequently became known as customs, and the same word was extended to the administrative service that collected those duties and inspected the goods. The meanings traditions and border duties therefore developed from the shared idea of something established by customary practice."
+  },
+  "synonyms": [
+    {
+      "word": "customs authority",
+      "note": {
+        "ja": "輸出入規制・物品検査・関税徴収を担当する行政機関を明確に指す。",
+        "en": "Explicitly identifies the administrative body responsible for trade controls, inspections, and duty collection."
+      }
+    },
+    {
+      "word": "border control",
+      "note": {
+        "ja": "人の出入国と物品の輸出入を含む、国境管理全般を表す。",
+        "en": "The broader system governing the cross-border movement of both people and goods."
+      }
+    },
+    {
+      "word": "customs duty",
+      "note": {
+        "ja": "輸入品・輸出品に対して税関が課す税金そのものを表す。",
+        "en": "The tax itself imposed through customs on imported or exported goods."
+      }
+    },
+    {
+      "word": "tariff",
+      "note": {
+        "ja": "輸入品などに適用される関税率・関税表、または関税措置を表す。",
+        "en": "A duty rate, schedule of rates, or trade measure applied to imported goods."
+      }
+    },
+    {
+      "word": "customs service",
+      "note": {
+        "ja": "税関業務を遂行する政府機関・行政部門を指す。",
+        "en": "The government agency or administrative service carrying out customs functions."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Zoll",
+    "it": "dogana",
+    "fr": "douane",
+    "es": "aduana"
+  },
+  "collocations": {
+    "ja": [
+      "go through customs — 税関手続きを通る",
+      "pass through customs — 税関を通過する",
+      "clear customs — 税関手続きを完了する",
+      "be held at customs — 税関で留め置かれる",
+      "declare goods at customs — 税関で物品を申告する",
+      "a customs officer — 税関職員",
+      "a customs inspection — 税関検査",
+      "a customs declaration — 税関申告書、税関申告",
+      "customs clearance — 通関",
+      "customs duty — 関税",
+      "the customs authorities — 税関当局",
+      "customs seizure of counterfeit goods — 税関による偽造品の差押え"
+    ],
+    "en": [
+      "go through customs",
+      "pass through customs",
+      "clear customs",
+      "be held at customs",
+      "declare goods at customs",
+      "a customs officer",
+      "a customs inspection",
+      "a customs declaration",
+      "customs clearance",
+      "customs duty",
+      "the customs authorities",
+      "customs seizure of counterfeit goods"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We had to wait nearly an hour to go through customs. — 私たちは税関手続きを終えるまで1時間近く待たなければならなかった。",
+      "You must declare these goods at customs when you arrive. — 到着時に、これらの物品を税関で申告しなければなりません。",
+      "The shipment has not yet cleared customs. — その貨物はまだ通関を終えていない。",
+      "Customs officers seized products suspected of bearing counterfeit trademarks. — 税関職員は、偽造商標が付されている疑いのある商品を差し押さえた。",
+      "The trademark owner filed an application requesting customs suspension of the suspected counterfeit goods. — 商標権者は、偽造品と疑われる商品の税関での差止めを求める申立てを行った。"
+    ],
+    "en": [
+      "We had to wait nearly an hour to go through customs.",
+      "You must declare these goods at customs when you arrive.",
+      "The shipment has not yet cleared customs.",
+      "Customs officers seized products suspected of bearing counterfeit trademarks.",
+      "The trademark owner filed an application requesting customs suspension of the suspected counterfeit goods."
+    ]
+  }
+},
+{
   "id": "custom",
   "sid": "2026-01261",
   "word": "custom",
