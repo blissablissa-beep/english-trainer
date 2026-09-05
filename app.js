@@ -450,31 +450,43 @@ function validateCards(cards) {
 // ==================================================
 
 async function loadCards() {
+  let loadingFile = "未特定";
+
   try {
+    const files = [
+      "./cards.json",
+      "./cards2.json",
+      "./cards3.json",
+      "./cards4.json",
+      "./cards5.json",
+      "./cards6.json",
+      "./cards7.json",
+      "./cards8.json",
+      "./cards9.json",
+      "./cards10.json",
+      "./cards11.json",
+      "./data/cards12.json",
+      "./data/cards13.json"
+    ];
+
     const allCards = [];
 
-    for (const file of CARD_FILES) {
+    for (const file of files) {
+      loadingFile = file;
+
       const response = await fetch(
-        `${file}?v=${encodeURIComponent(
-          CARDS_VERSION
-        )}`,
-        {
-          cache: "no-store"
-        }
+        `${file}?v=${encodeURIComponent(CARDS_VERSION)}`,
+        { cache: "no-store" }
       );
 
       if (!response.ok) {
-        throw new Error(
-          `${file}: HTTP ${response.status}`
-        );
+        throw new Error(`${file}: HTTP ${response.status}`);
       }
 
       const data = await response.json();
 
       if (!Array.isArray(data)) {
-        throw new Error(
-          `${file} is not a JSON array`
-        );
+        throw new Error(`${file} is not a JSON array`);
       }
 
       allCards.push(...data);
@@ -487,31 +499,23 @@ async function loadCards() {
 
       showError(
         "カードデータに問題があります。\n\n" +
-        result.errors
-          .map(error => `・${error}`)
-          .join("\n")
+        result.errors.map(error => `・${error}`).join("\n")
       );
-
       return;
     }
 
     CARDS = allCards;
     hideError();
- } catch (error) {
-  console.error(error);
+  } catch (error) {
+    console.error(error);
+    CARDS = [];
 
-  CARDS = [];
-
-  showError(
-    "カードデータを読み込めませんでした。\n\n" +
-    "実際のエラー：\n" +
-    (error?.message || String(error)) +
-    "\n\n次を確認してください。\n" +
-    "・ファイル名が app.js の指定と完全に一致している\n" +
-    "・JSONの末尾カンマや引用符に誤りがない\n" +
-    "・GitHub Pagesの反映が完了している"
-  );
-}
+    showError(
+      "カードデータを読み込めませんでした。\n\n" +
+      `処理中のファイル：${loadingFile}\n` +
+      `実際のエラー：${error?.message || String(error)}`
+    );
+  }
 }
 
 function showError(message) {
