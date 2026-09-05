@@ -1,5 +1,202 @@
 [
 {
+  "id": "custom",
+  "sid": "2026-01261",
+  "word": "custom",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "adjective",
+    "tradition",
+    "practice",
+    "habit",
+    "society",
+    "culture",
+    "customer",
+    "business",
+    "manufacturing",
+    "technology",
+    "British English",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / attributive adjective",
+    "countability": "countable for an established practice; uncountable for patronage",
+    "plural": "customs",
+    "forms": {
+      "noun_singular": "custom",
+      "noun_plural": "customs",
+      "adjective": "custom",
+      "compound_adjective": "custom-made",
+      "related_noun": "customer",
+      "related_adjective": "customary",
+      "related_verb": "customize / customise"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a local / social / religious custom",
+      "the custom of + gerund",
+      "it is the custom to do",
+      "according to local custom",
+      "by custom",
+      "depart from custom",
+      "bring one’s custom to + business",
+      "thank someone for their custom",
+      "a custom + product / system / design",
+      "be custom-made for + person / purpose"
+    ],
+    "usage": {
+      "tradition": "As a countable noun, a custom is an established way of behaving shared by a community or group.",
+      "personal_habit": "Custom can describe an individual’s habitual practice, although habit is more common in everyday English.",
+      "patronage": "In British English, uncountable custom means business given to a shop or service provider.",
+      "adjective": "Before a noun, custom means specially designed or made for a particular customer or purpose.",
+      "customs_warning": "The plural customs can mean either traditions or the government border authority; context determines the sense."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkʌstəm/",
+      "uk": "/ˈkʌstəm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特定の社会・地域・集団で長く受け継がれている慣習・しきたり",
+      "ある人が習慣的に行っている行為・やり方",
+      "特定の状況で通常行われる、確立された慣行",
+      "特にイギリス英語で、商店・企業に対する顧客の利用・ひいき",
+      "形容詞として、特定の顧客・目的のために特別に設計・製造された"
+    ],
+    "en": [
+      "an established traditional practice of a particular society, region, or group",
+      "an action or way of behaving habitually followed by an individual",
+      "an established practice normally followed in a particular situation",
+      "especially in British English, business or patronage given to a shop or company",
+      "as an adjective, specially designed or made for a particular customer or purpose"
+    ]
+  },
+  "nuance": {
+    "ja": "名詞の custom は、個人的な反復行動よりも、社会・文化・職業集団に共有され、ある程度長く続いている行動様式を表すことが多い。日本の贈答習慣なら a Japanese custom、毎朝コーヒーを飲む個人の行動なら通常は a habit が自然である。ただし it was his custom to ... のようなやや文語的な表現では、個人の習慣にも使える。形容詞の custom は「顧客や用途に合わせた特注の」を意味し、custom-made や customized と近い。customs が税関を意味する場合は、単なる custom の複数形とは意味的に区別される。",
+    "en": "As a noun, custom more often describes a pattern shared by a society, culture, profession, or group and maintained over time than a simple personal repetition. A Japanese custom is natural for a cultural practice, while habit is usually preferred for an individual’s daily coffee routine. The somewhat literary pattern it was his custom to can nevertheless describe personal behavior. Attributive custom means made or designed for a particular customer or purpose and overlaps with custom-made and customized. When customs means the border authority, it is semantically distinct from the ordinary plural meaning traditions."
+  },
+  "minimal": {
+    "ja": [
+      "custom：社会・集団に定着した慣習。または特定用途向けに作られた「特注の」。",
+      "habit：個人が繰り返すことで身についた、しばしば無意識的な習慣。",
+      "tradition：世代を越えて伝えられてきた信念・行事・慣行。",
+      "convention：社会・職業分野で一般に受け入れられている決まり・慣例。",
+      "practice：実際に繰り返し行われている方法・慣行を広く表す。",
+      "ritual：定められた順序・形式に従う儀式的行為。",
+      "customary：慣習に従った、または通常行われる。",
+      "custom-made：特定の人・目的のため、注文に応じて製作された。"
+    ],
+    "en": [
+      "custom is an established social practice or, as an adjective, something made for a particular purpose.",
+      "habit is a repeated and often automatic pattern of individual behavior.",
+      "tradition is a belief, event, or practice passed down across generations.",
+      "convention is a rule or practice generally accepted within a society or profession.",
+      "practice broadly means a method or activity that is actually and repeatedly followed.",
+      "ritual is a ceremonial action performed according to an established order or form.",
+      "customary means in accordance with custom or normally practiced.",
+      "custom-made means produced to order for a particular person or purpose."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 custume を経て、ラテン語 consuetudo「習慣、慣行」に由来する。これは「慣れる、習慣とする」という意味の consuescere と関係する。社会で反復され、通常のものとして定着した行為という意味から、「慣習・しきたり」を表すようになった。また、商人と繰り返し取引する人が customer「顧客」と呼ばれるようになり、custom 自体にも「ひいき、取引」の意味が生じた。形容詞の「特注の」は、個々の customer のために作るという商業的用法から発達した。",
+    "en": "Custom came through Old French custume from Latin consuetudo, meaning habit or established practice, related to consuescere, to become accustomed. Repeated conduct that became accepted as normal developed into the sense of a social custom. A person who repeatedly did business with a merchant became a customer, and custom itself acquired the sense of commercial patronage. The attributive meaning made to order developed from the commercial idea of producing something specifically for an individual customer."
+  },
+  "synonyms": [
+    {
+      "word": "tradition",
+      "note": {
+        "ja": "共同体の中で世代を越えて伝承されてきた信念・行事・慣行。",
+        "en": "A belief, event, or practice transmitted through generations within a community."
+      }
+    },
+    {
+      "word": "convention",
+      "note": {
+        "ja": "社会・職業・芸術分野などで、共通に受け入れられている行動様式・決まり。",
+        "en": "A way of behaving or organizing things that is commonly accepted in a social, professional, or artistic field."
+      }
+    },
+    {
+      "word": "practice",
+      "note": {
+        "ja": "組織・職業・社会で実際に行われている方法や行動を広く表す。",
+        "en": "A broad term for a method or form of conduct actually followed within an organization, profession, or society."
+      }
+    },
+    {
+      "word": "habit",
+      "note": {
+        "ja": "主として個人が反復することで身につけた行動傾向。",
+        "en": "A behavioral tendency acquired mainly by an individual through repetition."
+      }
+    },
+    {
+      "word": "bespoke",
+      "note": {
+        "ja": "特定の顧客向けに注文製作されたことを表す、特にイギリス英語の形容詞。",
+        "en": "A chiefly British adjective describing something made specifically to an individual customer’s order."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Brauch / Gewohnheit / maßgefertigt",
+    "it": "usanza / consuetudine / su misura",
+    "fr": "coutume / habitude / sur mesure",
+    "es": "costumbre / hábito / hecho a medida"
+  },
+  "collocations": {
+    "ja": [
+      "a local custom — 地域の慣習",
+      "an ancient custom — 古くからの慣習",
+      "a social custom — 社会的慣習",
+      "a religious custom — 宗教上の慣習",
+      "according to custom — 慣習に従って",
+      "observe a custom — 慣習を守る",
+      "follow local customs — 現地の慣習に従う",
+      "the custom of exchanging gifts — 贈り物を交換する慣習",
+      "thank customers for their custom — 顧客のひいきに感謝する",
+      "a custom design — 特注設計",
+      "custom software — 特注ソフトウェア",
+      "a custom-made component — 特注部品"
+    ],
+    "en": [
+      "a local custom",
+      "an ancient custom",
+      "a social custom",
+      "a religious custom",
+      "according to custom",
+      "observe a custom",
+      "follow local customs",
+      "the custom of exchanging gifts",
+      "thank customers for their custom",
+      "a custom design",
+      "custom software",
+      "a custom-made component"
+    ]
+  },
+  "example": {
+    "ja": [
+      "It is a local custom to remove your shoes before entering the room. — 部屋へ入る前に靴を脱ぐのが、その土地の慣習である。",
+      "She made it her custom to review the next day’s schedule before going to bed. — 彼女は寝る前に翌日の日程を確認することを習慣にしていた。",
+      "We would like to thank you for your continued custom. — 長年にわたるご愛顧に感謝申し上げます。",
+      "The company developed custom software for managing international trademark portfolios. — その会社は、国際商標ポートフォリオを管理するための特注ソフトウェアを開発した。",
+      "A custom-made component may still fall within the scope of another company’s patent. — 特注部品であっても、他社の特許権の範囲に属する可能性がある。"
+    ],
+    "en": [
+      "It is a local custom to remove your shoes before entering the room.",
+      "She made it her custom to review the next day’s schedule before going to bed.",
+      "We would like to thank you for your continued custom.",
+      "The company developed custom software for managing international trademark portfolios.",
+      "A custom-made component may still fall within the scope of another company’s patent."
+    ]
+  }
+},
+{
   "id": "disinformation",
   "sid": "2026-01262",
   "word": "disinformation",
