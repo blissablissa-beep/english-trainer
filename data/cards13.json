@@ -1935,5 +1935,3105 @@
       "The jury is still out on whether the new examination policy will improve patent quality."
     ]
   }
+},
+{
+  "id": "orientation",
+  "sid": "2026-01266",
+  "word": "orientation",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "direction",
+    "position",
+    "alignment",
+    "perspective",
+    "attitude",
+    "training",
+    "onboarding",
+    "education",
+    "technology",
+    "engineering",
+    "sexual orientation",
+    "patent",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable / uncountable",
+    "plural": "orientations",
+    "forms": {
+      "singular": "orientation",
+      "plural": "orientations",
+      "verb": "orient",
+      "past_participle": "oriented",
+      "adjective": "orientational"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "the orientation of + object",
+      "in a vertical / horizontal orientation",
+      "change / adjust the orientation of + object",
+      "orientation toward / towards + goal / idea",
+      "a political / commercial / practical orientation",
+      "an orientation session / program",
+      "attend orientation",
+      "provide orientation for + people",
+      "sexual orientation",
+      "portrait / landscape orientation"
+    ],
+    "usage": {
+      "physical": "Orientation describes the direction in which an object, surface, or structure is positioned relative to a reference.",
+      "figurative": "It can describe a person’s, organization’s, or theory’s characteristic outlook or priorities.",
+      "training": "In education and employment, orientation is an introductory program that familiarizes newcomers with an institution.",
+      "technology": "Screen or page orientation commonly distinguishes portrait from landscape positioning.",
+      "sensitivity": "Sexual orientation is the standard neutral expression for a person’s pattern of romantic or sexual attraction."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɔːriənˈteɪʃən/",
+      "uk": "/ˌɔːriənˈteɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "物体・表面・構造などが基準に対して向いている方向・配置",
+      "人・組織・理論などが持つ基本的な考え方・傾向・重点",
+      "新入社員・新入生などに組織や手続きを説明する導入研修・説明会",
+      "場所や状況を把握し、自分の位置・進むべき方向を理解すること",
+      "画面・用紙などの縦向きまたは横向きの設定",
+      "人が継続的に抱く恋愛的・性的な関心の方向である性的指向"
+    ],
+    "en": [
+      "the direction or alignment of an object, surface, or structure relative to a reference",
+      "the characteristic outlook, tendency, or priority of a person, organization, or theory",
+      "an introductory program that familiarizes new employees or students with an institution and its procedures",
+      "the process of establishing one’s position and direction in a place or situation",
+      "the portrait or landscape positioning of a screen, page, or image",
+      "a person’s enduring pattern of romantic or sexual attraction"
+    ]
+  },
+  "nuance": {
+    "ja": "orientation の物理的用法は、単なる位置 location ではなく、物体がどちらを向き、基準に対してどの角度で配置されているかに焦点を置く。研修の意味では、特定技能を習得する本格的な training よりも、組織・施設・規則・基本手続きを理解する導入段階を指す。考え方について customer orientation と言えば「顧客を重視する姿勢」を表す。sexual orientation は中立的な標準表現であり、本人が任意に選択する一時的な preference として扱うべきではない。特許請求項では orientation が相対的な向きを表す場合、基準軸・表面・他の構成要素との関係を明確にする必要がある。",
+    "en": "In its physical sense, orientation focuses not merely on where an object is located but on the direction it faces or the angle at which it is positioned relative to a reference. In employment and education, orientation is the introductory stage covering an institution, facilities, rules, and basic procedures, whereas training usually develops particular skills in greater depth. Customer orientation describes an outlook that prioritizes customers. Sexual orientation is the standard neutral term and should not be treated as a temporary preference freely selected by an individual. In patent claims, orientation may require a clearly identified axis, surface, or component serving as the reference."
+  },
+  "minimal": {
+    "ja": [
+      "orientation：基準に対する物の向き、考え方の傾向、または新しい環境への導入説明。",
+      "direction：物・移動・作用が向かう方角・進路。",
+      "position：物や人が存在する場所、または他の物との位置関係。",
+      "alignment：複数の物を一直線または適切な相互関係にそろえること。",
+      "perspective：物事を見る観点・視座。",
+      "attitude：人・問題に対する考え方や感情的な姿勢。",
+      "orientation program：新しい組織・環境の基本事項を説明する導入プログラム。",
+      "training：特定の仕事・技能を行えるよう知識と能力を身につけさせる訓練。"
+    ],
+    "en": [
+      "orientation is an object’s direction relative to a reference, an outlook, or an introduction to a new environment.",
+      "direction is the course or side toward which something faces, moves, or acts.",
+      "position is the place occupied by a person or object or its spatial relation to other things.",
+      "alignment is the arrangement of multiple objects in a line or in an appropriate relationship.",
+      "perspective is a particular point of view from which something is considered.",
+      "attitude is a person’s way of thinking or feeling about someone or something.",
+      "an orientation program introduces newcomers to the basic features and procedures of an organization.",
+      "training develops the knowledge and skills required to perform a particular task or job."
+    ]
+  },
+  "etymology": {
+    "ja": "orient「東方、東へ向ける」に名詞接尾辞 -ation が付いた語である。orient はラテン語 oriens「昇るもの、東」、現在分詞 oriri「昇る、生じる」に由来する。太陽が昇る東を基準として地図・建物・自分の位置を定めることから、「方向を定める」という意味が生じた。そこから、物体の向き、状況を把握すること、考え方の方向性、新しい環境に適応するための案内へ意味が広がった。",
+    "en": "Orientation is formed from orient and the noun suffix -ation. Orient derives from Latin oriens, the rising or east, the present participle of oriri, to rise or come into being. Because the east, where the sun rises, served as a reference for positioning maps, buildings, and oneself, orient developed the meaning determine or set a direction. This was extended to an object’s alignment, understanding one’s situation, a person’s outlook, and introductory guidance in a new environment."
+  },
+  "synonyms": [
+    {
+      "word": "alignment",
+      "note": {
+        "ja": "物体を基準や他の物に対して正しくそろえた配置を表す。",
+        "en": "Describes the arrangement of an object in proper relation to a reference or other objects."
+      }
+    },
+    {
+      "word": "direction",
+      "note": {
+        "ja": "物体が向いている方角や、人・物が進む方向を表す。",
+        "en": "The side toward which an object faces or the course along which someone or something moves."
+      }
+    },
+    {
+      "word": "outlook",
+      "note": {
+        "ja": "人・組織が世界や将来を捉える基本的な考え方。",
+        "en": "A person’s or organization’s general way of viewing the world or the future."
+      }
+    },
+    {
+      "word": "induction",
+      "note": {
+        "ja": "特にイギリス英語で、新入社員を組織へ導入する説明・研修。",
+        "en": "Especially in British English, the process of introducing a new employee to an organization."
+      }
+    },
+    {
+      "word": "onboarding",
+      "note": {
+        "ja": "新入社員・顧客などが組織やサービスを利用できる状態にする一連の導入過程。",
+        "en": "The broader process of integrating a new employee or enabling a new customer to use an organization or service."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Ausrichtung / Orientierung / Einführungsveranstaltung",
+    "it": "orientamento / disposizione / introduzione",
+    "fr": "orientation / disposition / séance d’accueil",
+    "es": "orientación / disposición / sesión de bienvenida"
+  },
+  "collocations": {
+    "ja": [
+      "a vertical orientation — 垂直方向の配置",
+      "a horizontal orientation — 水平方向の配置",
+      "portrait orientation — 縦向き",
+      "landscape orientation — 横向き",
+      "change the orientation — 向きを変更する",
+      "spatial orientation — 空間認識、空間的方向づけ",
+      "political orientation — 政治的傾向",
+      "customer orientation — 顧客重視の姿勢",
+      "sexual orientation — 性的指向",
+      "an orientation session — オリエンテーション、導入説明会",
+      "attend orientation — オリエンテーションに参加する",
+      "new employee orientation — 新入社員向け導入研修"
+    ],
+    "en": [
+      "a vertical orientation",
+      "a horizontal orientation",
+      "portrait orientation",
+      "landscape orientation",
+      "change the orientation",
+      "spatial orientation",
+      "political orientation",
+      "customer orientation",
+      "sexual orientation",
+      "an orientation session",
+      "attend orientation",
+      "new employee orientation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Rotate the screen to change it from portrait to landscape orientation. — 画面を回転させ、縦向きから横向きへ変更してください。",
+      "All new employees must attend an orientation session on Monday. — 新入社員は全員、月曜日の導入説明会に参加しなければならない。",
+      "The company has adopted a stronger customer orientation. — その会社は、顧客をいっそう重視する姿勢を採用した。",
+      "The sensor detects changes in the orientation of the mobile device. — そのセンサーは、モバイル端末の向きの変化を検出する。",
+      "The patent claim defines the orientation of the first surface relative to the longitudinal axis. — その特許請求項は、長手軸に対する第1表面の向きを規定している。"
+    ],
+    "en": [
+      "Rotate the screen to change it from portrait to landscape orientation.",
+      "All new employees must attend an orientation session on Monday.",
+      "The company has adopted a stronger customer orientation.",
+      "The sensor detects changes in the orientation of the mobile device.",
+      "The patent claim defines the orientation of the first surface relative to the longitudinal axis."
+    ]
+  }
+},
+{
+  "id": "awry",
+  "sid": "2026-01267",
+  "word": "awry",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "adverb",
+    "failure",
+    "problem",
+    "plan",
+    "unexpected result",
+    "direction",
+    "position",
+    "formal",
+    "literary",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / adverb",
+    "forms": {
+      "base": "awry",
+      "comparative": "not normally used",
+      "superlative": "not normally used"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "go awry",
+      "something goes / went awry",
+      "when plans go awry",
+      "if anything goes awry",
+      "something has gone awry",
+      "something seems to have gone awry",
+      "cause a plan to go awry",
+      "set something awry",
+      "look / sit awry",
+      "glance / look awry at + noun"
+    ],
+    "usage": {
+      "predicative": "Awry most commonly follows go: The plan went awry.",
+      "attributive": "It is not normally placed directly before a noun; use a failed plan rather than an awry plan.",
+      "adverbial": "Its older physical sense can function adverbially, meaning crookedly or in the wrong direction.",
+      "comparison": "Comparative and superlative forms are generally avoided.",
+      "pronunciation": "The stress falls on the second syllable, and awry rhymes with a cry, not with sorry."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈraɪ/",
+      "uk": "/əˈraɪ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "計画・試み・状況などが予想どおりに進まず、失敗して",
+      "物事の進行が正しい方向から外れて、おかしくなって",
+      "期待・意図した結果とは異なる状態になって",
+      "物理的に曲がって、斜めになって、位置がずれて",
+      "古風な用法で、疑い・非難などを含む横目で"
+    ],
+    "en": [
+      "for a plan, attempt, or situation, unsuccessfully or contrary to expectation",
+      "off the proper course or developing in a problematic way",
+      "producing a result different from what was intended",
+      "physically crooked, tilted, or displaced from the correct position",
+      "in an older use, with a suspicious, disapproving, or sidelong look"
+    ]
+  },
+  "nuance": {
+    "ja": "現代英語の awry は主として go awry の形で使われ、慎重に立てた計画や正常に進んでいた手続きが、何らかの問題によって意図した方向から外れることを表す。単なる失敗だけでなく、「途中で何かがおかしくなった」という過程を感じさせる。Something went wrong. より少し文語的で、物語・報道・ビジネス上の説明にも使われる。if anything goes awry は「万一何か問題が生じたら」という意味になる。物理的な「斜めに、ねじれて」という意味は現代では比較的まれで、askew や crooked の方が一般的である。",
+    "en": "In modern English, awry occurs chiefly in go awry and describes a planned or initially orderly process departing from its intended course because something has gone wrong. It suggests not only failure but a development that became defective along the way. It is slightly more literary than something went wrong and is common in narrative, journalism, and business accounts. If anything goes awry means if any unexpected problem occurs. The physical sense crookedly or at an angle is now less common, and askew or crooked is generally more natural."
+  },
+  "minimal": {
+    "ja": [
+      "awry：計画・状況が意図した方向から外れ、うまくいかなくなって。",
+      "wrong：誤って、不具合が生じて、期待と異なって。最も一般的。",
+      "amiss：何かがおかしい、正常でない。原因不明の違和感にも使う。",
+      "off track：計画・議論・進行が本来の方向からそれて。",
+      "askew：物が斜め・不均衡な位置にある。物理的配置に多い。",
+      "crooked：直線でなく曲がった、または不正直な。",
+      "backfire：計画・行動が意図と逆の悪い結果をもたらす。",
+      "fall through：計画・契約などが成立せず、実現しない。"
+    ],
+    "en": [
+      "awry describes a plan or situation departing from its intended course and developing unsuccessfully.",
+      "wrong is the most general word for an error, malfunction, or result contrary to expectation.",
+      "amiss suggests that something is not as it should be, sometimes without an identified cause.",
+      "off track means diverted from the intended direction of a plan, discussion, or process.",
+      "askew primarily describes a physical object positioned unevenly or at an angle.",
+      "crooked means physically bent rather than straight or, figuratively, dishonest.",
+      "backfire means producing a harmful result opposite to the one intended.",
+      "fall through means that a plan, agreement, or arrangement fails to be completed."
+    ]
+  },
+  "etymology": {
+    "ja": "awry は、状態・位置を表す古い前置詞的要素 a-「～の状態で」と wry「ねじれた、曲がった」から成る。wry は「曲げる、向きを変える」という意味を持つ古い英語・ゲルマン語系の語に関係する。もとは顔・視線・物体などが横や斜めにねじれた状態を表した。そこから、物事が正しい方向・予定された経路から「曲がって外れる」という比喩が生じ、計画や状況が失敗するという現代の主要な意味へ発達した。",
+    "en": "Awry consists of the old prepositional element a-, meaning in a particular state or position, and wry, meaning twisted or turned. Wry is related to older Germanic words expressing turning or bending. Awry originally described a face, glance, or object turned sideways or crooked. This physical image developed into the figurative idea of events bending away from the proper direction or intended course, producing the modern sense of a plan or situation going wrong."
+  },
+  "synonyms": [
+    {
+      "word": "wrong",
+      "note": {
+        "ja": "物事が正しく機能・進行せず、問題や誤りが生じたことを表す一般語。",
+        "en": "The general term for a process, function, or situation becoming erroneous or problematic."
+      }
+    },
+    {
+      "word": "amiss",
+      "note": {
+        "ja": "状況に何か問題があり、正常な状態ではないことを表す。",
+        "en": "Indicates that something about a situation is faulty or not as it should be."
+      }
+    },
+    {
+      "word": "off course",
+      "note": {
+        "ja": "本来進むべき方向・経路から外れたことを表す。",
+        "en": "Describes movement or development away from the intended direction or route."
+      }
+    },
+    {
+      "word": "askew",
+      "note": {
+        "ja": "物が正しい位置からずれ、斜めになっていることを主に表す。",
+        "en": "Primarily describes an object that is tilted or displaced from its proper position."
+      }
+    },
+    {
+      "word": "unsuccessfully",
+      "note": {
+        "ja": "試みが望んだ結果を達成できなかったことを直接表す。",
+        "en": "Directly indicates that an attempt failed to achieve its intended result."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schief / schiefgehen",
+    "it": "storto / andare storto",
+    "fr": "de travers / mal tourner",
+    "es": "torcido / salir mal"
+  },
+  "collocations": {
+    "ja": [
+      "go awry — うまくいかなくなる",
+      "plans go awry — 計画が狂う",
+      "something went awry — 何かがおかしくなった",
+      "everything went awry — すべてが失敗した",
+      "when things go awry — 物事がうまくいかなくなったとき",
+      "if anything goes awry — 万一何か問題が起きたら",
+      "seem to have gone awry — 何かが狂ったように見える",
+      "quickly go awry — 急速におかしくなる",
+      "cause the plan to go awry — 計画を狂わせる",
+      "prevent things from going awry — 物事がおかしくなるのを防ぐ",
+      "a project gone awry — 失敗に終わったプロジェクト",
+      "negotiations gone awry — うまくいかなくなった交渉"
+    ],
+    "en": [
+      "go awry",
+      "plans go awry",
+      "something went awry",
+      "everything went awry",
+      "when things go awry",
+      "if anything goes awry",
+      "seem to have gone awry",
+      "quickly go awry",
+      "cause the plan to go awry",
+      "prevent things from going awry",
+      "a project gone awry",
+      "negotiations gone awry"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Our travel plans went awry when the last flight was canceled. — 最終便が欠航になり、私たちの旅行計画は狂ってしまった。",
+      "If anything goes awry, call me immediately. — 万一何か問題が起きたら、すぐに電話してください。",
+      "The event was carefully organized, but several things still went awry. — その催しは入念に準備されていたが、それでもいくつかの問題が生じた。",
+      "The filing procedure went awry because the attached document was in an unsupported format. — 添付書類が非対応の形式だったため、出願手続きがうまくいかなかった。",
+      "A single mistranslated limitation can cause an otherwise sound patent strategy to go awry. — 一つの限定事項の誤訳によって、それ以外は堅実な特許戦略が狂うこともある。"
+    ],
+    "en": [
+      "Our travel plans went awry when the last flight was canceled.",
+      "If anything goes awry, call me immediately.",
+      "The event was carefully organized, but several things still went awry.",
+      "The filing procedure went awry because the attached document was in an unsupported format.",
+      "A single mistranslated limitation can cause an otherwise sound patent strategy to go awry."
+    ]
+  }
+},
+{
+  "id": "go-be-on-a-fools-errand",
+  "sid": "2026-01268",
+  "word": "go/be on a fool’s errand",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "idiom",
+    "verb phrase",
+    "noun phrase",
+    "futility",
+    "impossible task",
+    "wasted effort",
+    "mission",
+    "search",
+    "deception",
+    "business",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic verb phrase",
+    "countability": "countable within the noun phrase",
+    "plural": "fool’s errands",
+    "forms": {
+      "base_action": "go on a fool’s errand",
+      "state": "be on a fool’s errand",
+      "causative": "send someone on a fool’s errand",
+      "past_action": "went on a fool’s errand",
+      "past_state": "was / were on a fool’s errand",
+      "past_causative": "sent someone on a fool’s errand"
+    },
+    "transitivity": "intransitive with go / be; transitive with send",
+    "patterns": [
+      "go on a fool’s errand",
+      "be on a fool’s errand",
+      "send someone on a fool’s errand",
+      "turn out to be a fool’s errand",
+      "seem like a fool’s errand",
+      "realize that one is on a fool’s errand",
+      "nothing more than a fool’s errand",
+      "a fool’s errand to do",
+      "embark on a fool’s errand",
+      "avoid wasting time on a fool’s errand"
+    ],
+    "usage": {
+      "article": "The usual idiom is a fool’s errand, not the fool’s errand, unless a previously identified errand is meant.",
+      "possessive": "Fool’s requires an apostrophe before s because it historically means an errand suitable for or assigned to a fool.",
+      "go_and_be": "Go on emphasizes undertaking the mission, while be on describes currently pursuing it.",
+      "causative": "Send someone on a fool’s errand means cause or trick the person into performing a pointless task.",
+      "register": "Common in critical or humorous commentary but unsuitable for neutral descriptions of another person’s work when politeness is required."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɡoʊ ɑːn ə ˌfuːlz ˈerənd/; /ˌbiː ɑːn ə ˌfuːlz ˈerənd/",
+      "uk": "/ˌɡəʊ ɒn ə ˌfuːlz ˈerənd/; /ˌbiː ɒn ə ˌfuːlz ˈerənd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "達成できる見込みのない、無益な任務に出かける",
+      "時間や労力を費やしても成果が得られない仕事に取り組んでいる",
+      "存在しない物や得られない答えを探し求める",
+      "人をだましたり、からかったりして、無意味な用事に行かせる"
+    ],
+    "en": [
+      "to undertake a mission that has little or no chance of success",
+      "to be engaged in a task that wastes time and effort without producing a useful result",
+      "to search for something that does not exist or an answer that cannot be obtained",
+      "to deceive or tease someone by sending them to perform a pointless task"
+    ]
+  },
+  "nuance": {
+    "ja": "a fool’s errand は、その仕事が難しいというだけでなく、目的そのものが達成不能・無意味・誤った前提に基づいていることを示唆する。He is on a fool’s errand. は、その人の判断を「愚か」と評価する強い表現になり得るため、対人場面では注意が必要である。send someone on a fool’s errand は、経験の浅い人に存在しない道具を取りに行かせるようないたずらにも、組織が人に無益な仕事を課す場合にも使える。go on は任務への着手、be on はその最中の状態に焦点を置く。非常に困難でも成功の可能性がある仕事には、必ずしも適さない。",
+    "en": "A fool’s errand suggests more than an ordinary difficult task: its objective is impossible, pointless, or founded on a mistaken premise. He is on a fool’s errand can strongly criticize the person’s judgment and therefore requires care in interpersonal settings. Send someone on a fool’s errand can describe a practical joke, such as making an inexperienced person search for a nonexistent tool, or an organization assigning someone a futile task. Go on focuses on undertaking the mission, while be on describes being engaged in it. The idiom is not necessarily appropriate for a task that is merely very difficult but still has a realistic chance of success."
+  },
+  "minimal": {
+    "ja": [
+      "a fool’s errand：達成不能または無意味で、労力の無駄となる任務・用事。",
+      "a wild-goose chase：存在しない物・見つかりそうにない物を探し回る無駄な追跡。",
+      "a futile exercise：望む結果を生まないと分かっている無益な試み。",
+      "a lost cause：成功・回復の可能性がほとんどない人・運動・計画。",
+      "a waste of time：時間を使う価値のない活動。",
+      "an uphill battle：達成は可能かもしれないが、非常に困難な取り組み。",
+      "a long shot：成功の可能性は低いものの、完全に不可能とは限らない試み。",
+      "mission impossible：達成が極めて困難または不可能に見える任務を表す口語表現。"
+    ],
+    "en": [
+      "a fool’s errand is an impossible or pointless mission that wastes effort.",
+      "a wild-goose chase is a futile search for something nonexistent or extremely unlikely to be found.",
+      "a futile exercise is an attempt known to be incapable of producing the desired result.",
+      "a lost cause is a person, movement, or plan with almost no possibility of success or recovery.",
+      "a waste of time is an activity not worth the time spent on it.",
+      "an uphill battle is an extremely difficult undertaking that may still be achievable.",
+      "a long shot has a low chance of success but is not necessarily impossible.",
+      "mission impossible is an informal description of a task that appears extremely difficult or impossible."
+    ]
+  },
+  "etymology": {
+    "ja": "errand は古英語 ǣrende「伝言、任務、用事」に由来する。fool’s errand は文字どおりには「愚か者の用事」であり、成果が得られない任務や、だまされた人だけが引き受けるような用事を表すようになった。この表現は、初心者やだまされやすい人を、存在しない物を取りに行かせるという古くからのいたずらとも結び付いている。ただし、特定の一つの物語や慣習だけから生まれたと断定できる表現ではない。",
+    "en": "Errand comes from Old English aerende, meaning a message, mission, or piece of business. A fool’s errand literally suggests an errand suitable for a fool and developed into a term for a mission that cannot produce a useful result or that only a deceived person would undertake. The expression is also associated with the long-standing practical joke of sending an inexperienced or gullible person to fetch a nonexistent object. It cannot, however, be securely attributed to one particular story or custom."
+  },
+  "synonyms": [
+    {
+      "word": "wild-goose chase",
+      "note": {
+        "ja": "見つからない物・人・答えを求めて、無駄に探し回ることに重点がある。",
+        "en": "Emphasizes a futile pursuit or search for an object, person, or answer that cannot be found."
+      }
+    },
+    {
+      "word": "futile exercise",
+      "note": {
+        "ja": "最初から有益な結果を生まない試みであることを表す、比較的形式的な表現。",
+        "en": "A relatively formal expression for an undertaking incapable of producing a useful result."
+      }
+    },
+    {
+      "word": "lost cause",
+      "note": {
+        "ja": "成功・改善・救済の見込みがほとんど失われた対象を表す。",
+        "en": "A person, objective, or undertaking for which hope of success, improvement, or rescue is nearly gone."
+      }
+    },
+    {
+      "word": "fruitless task",
+      "note": {
+        "ja": "努力しても成果・結果が得られない仕事。",
+        "en": "A task that produces no useful result despite the effort invested."
+      }
+    },
+    {
+      "word": "waste of effort",
+      "note": {
+        "ja": "費やした労力に見合う成果が期待できないことを直接表す。",
+        "en": "A direct expression for activity unlikely to produce a result worth the effort expended."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ein sinnloses Unterfangen / eine vergebliche Mission",
+    "it": "una commissione inutile / un’impresa vana",
+    "fr": "une course inutile / une mission vouée à l’échec",
+    "es": "un encargo inútil / una misión destinada al fracaso"
+  },
+  "collocations": {
+    "ja": [
+      "go on a fool’s errand — 無益な任務に出かける",
+      "be on a fool’s errand — 無駄な仕事に取り組んでいる",
+      "send someone on a fool’s errand — 人を無意味な用事に行かせる",
+      "embark on a fool’s errand — 無益な試みに乗り出す",
+      "turn out to be a fool’s errand — 結局、無駄な任務だと分かる",
+      "seem like a fool’s errand — 無益な試みに思える",
+      "nothing more than a fool’s errand — 単なる無駄な任務にすぎない",
+      "realize one is on a fool’s errand — 無駄なことをしていると気づく",
+      "a costly fool’s errand — 費用のかかる無益な試み",
+      "a diplomatic fool’s errand — 成功の見込みがない外交任務",
+      "avoid a fool’s errand — 無益な仕事を避ける",
+      "waste time on a fool’s errand — 無意味な仕事に時間を浪費する"
+    ],
+    "en": [
+      "go on a fool’s errand",
+      "be on a fool’s errand",
+      "send someone on a fool’s errand",
+      "embark on a fool’s errand",
+      "turn out to be a fool’s errand",
+      "seem like a fool’s errand",
+      "nothing more than a fool’s errand",
+      "realize one is on a fool’s errand",
+      "a costly fool’s errand",
+      "a diplomatic fool’s errand",
+      "avoid a fool’s errand",
+      "waste time on a fool’s errand"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We went on a fool’s errand looking for a shop that had closed years ago. — 私たちは、何年も前に閉店した店を探すという無駄足を踏んだ。",
+      "Trying to satisfy everyone may be a fool’s errand. — 全員を満足させようとするのは、無益な試みかもしれない。",
+      "The senior workers sent the new employee on a fool’s errand to find a nonexistent tool. — 先輩社員たちは、存在しない道具を探させる無意味なお使いに新人を行かせた。",
+      "Searching for a patent without first defining the relevant technical features can become a fool’s errand. — 関連する技術的特徴を最初に定義せずに特許を探すことは、無益な作業になり得る。",
+      "The attorney warned that pursuing damages against an insolvent company might be a costly fool’s errand. — 弁護士は、支払能力のない会社に損害賠償を求めても、費用のかかる徒労に終わる可能性があると警告した。"
+    ],
+    "en": [
+      "We went on a fool’s errand looking for a shop that had closed years ago.",
+      "Trying to satisfy everyone may be a fool’s errand.",
+      "The senior workers sent the new employee on a fool’s errand to find a nonexistent tool.",
+      "Searching for a patent without first defining the relevant technical features can become a fool’s errand.",
+      "The attorney warned that pursuing damages against an insolvent company might be a costly fool’s errand."
+    ]
+  }
+},
+{
+  "id": "errand",
+  "sid": "2026-01269",
+  "word": "errand",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "task",
+    "short trip",
+    "shopping",
+    "message",
+    "delivery",
+    "household",
+    "workplace",
+    "daily routine",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "errands",
+    "forms": {
+      "singular": "errand",
+      "plural": "errands",
+      "person": "errand runner",
+      "compound": "errand boy / errand girl"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "run an errand",
+      "run errands",
+      "do some errands",
+      "go on an errand",
+      "send someone on an errand",
+      "an errand for + person",
+      "an errand to + place",
+      "an errand to do + task",
+      "be out on an errand",
+      "combine several errands"
+    ],
+    "usage": {
+      "movement": "An errand normally involves going somewhere to perform a relatively small practical task.",
+      "verb": "Run is the most characteristic verb: run an errand or run errands.",
+      "purpose": "The purpose may be introduced by to plus a verb: an errand to collect a parcel.",
+      "beneficiary": "For identifies the person whose business is being done: I ran an errand for my neighbor.",
+      "plural": "Run errands commonly describes completing several routine tasks in one outing.",
+      "person_terms": "Errand boy and errand girl can sound dated or demeaning when applied to an adult employee."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈerənd/",
+      "uk": "/ˈerənd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "物を買う・届ける・受け取るために出かけて済ませる用事",
+      "人から頼まれて行う短い外出を伴う仕事",
+      "日常生活で行う買い物・銀行・郵便などの細かな用事",
+      "物・書類・伝言などを特定の場所や人へ運ぶ任務"
+    ],
+    "en": [
+      "a short trip made to buy, deliver, or collect something",
+      "a small practical task involving travel that is performed for another person",
+      "a routine personal task such as shopping or visiting a bank or post office",
+      "a mission to carry an object, document, or message to a particular person or place"
+    ]
+  },
+  "nuance": {
+    "ja": "errand は単なる task ではなく、通常、用事を果たすために自宅・職場などからどこかへ移動することを含む。郵便局で荷物を出す、薬局で薬を受け取る、銀行に寄るといった比較的小さく実務的な用事が典型である。run errands は走ることを意味せず、複数の用事を次々に済ませることを表す。仕事で重要書類を官庁へ届ける場合も errand と呼べるが、専門的・重要な任務には assignment、mission、filing などの方が適切なこともある。I have an errand to run. は、用事の内容を詳しく説明せず一時的にその場を離れる際にも使われる。",
+    "en": "An errand differs from a general task because it normally involves going somewhere away from one’s home or workplace. Typical errands include mailing a parcel, collecting medicine, visiting a bank, or buying groceries. Run errands does not imply literal running; it means completing one or more such practical tasks. Delivering an important document to an authority can also be described as an errand, although assignment, mission, or filing may be more suitable when emphasizing professional importance. I have an errand to run can explain a temporary departure without specifying the details."
+  },
+  "minimal": {
+    "ja": [
+      "errand：小さな実務的用事を済ませるための外出。",
+      "task：行う必要がある仕事・作業全般。外出を伴うとは限らない。",
+      "chore：日常的に繰り返す家事・雑務。面倒な仕事という含みを持つことがある。",
+      "assignment：職場・学校などで正式に割り当てられた仕事・課題。",
+      "mission：特定の重要な目的を達成するための任務。",
+      "delivery：物・荷物・書類などを目的地へ届ける行為。",
+      "favor：他人を助けるために行う親切な行為。",
+      "appointment：医師・顧客などと、特定の時刻に会う約束。"
+    ],
+    "en": [
+      "an errand is a short trip made to complete a small practical task.",
+      "a task is any piece of work that needs to be done and does not necessarily involve travel.",
+      "a chore is a routine household or minor job and may suggest something tedious.",
+      "an assignment is a task formally given in employment or education.",
+      "a mission is a task undertaken to achieve a particular and often important objective.",
+      "a delivery is the act of taking an object, parcel, or document to its destination.",
+      "a favor is an act of kindness performed to help another person.",
+      "an appointment is an arrangement to meet someone at a specified time."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 ǣrende「伝言、任務、用事」に由来し、古いゲルマン諸語の同族語と関係する。もともとは、人に伝えるべき知らせや、特定の目的をもって遂行する任務を表した。使者が伝言や依頼を果たすために出かけるという関係から、物を届ける・受け取る・購入するといった短い外出を伴う日常的な用事を意味するようになった。直前の fool’s errand は、この errand に fool’s が付き、「愚か者にふさわしい無益な任務」を表す。",
+    "en": "Errand comes from Old English aerende, meaning a message, mission, or piece of business, and is related to cognates in other early Germanic languages. It originally referred to information that had to be conveyed or a mission undertaken for a particular purpose. Because a messenger traveled to deliver the message or complete the business, the word developed its modern sense of a short trip to deliver, collect, or purchase something. In fool’s errand, the same noun is modified by fool’s to describe a pointless mission."
+  },
+  "synonyms": [
+    {
+      "word": "task",
+      "note": {
+        "ja": "完了する必要のある仕事・作業を広く表し、移動の有無を問わない。",
+        "en": "A broad term for work that must be completed, whether or not travel is involved."
+      }
+    },
+    {
+      "word": "chore",
+      "note": {
+        "ja": "掃除・洗濯など、日常的に繰り返す小さな仕事・家事。",
+        "en": "A small routine job, especially household work such as cleaning or washing."
+      }
+    },
+    {
+      "word": "assignment",
+      "note": {
+        "ja": "雇用主・教師などによって正式に与えられた仕事・課題。",
+        "en": "A task formally allocated by an employer, teacher, or other authority."
+      }
+    },
+    {
+      "word": "mission",
+      "note": {
+        "ja": "明確で、しばしば重要な目的を達成するために遂行される任務。",
+        "en": "An undertaking carried out to achieve a clear and often important objective."
+      }
+    },
+    {
+      "word": "job",
+      "note": {
+        "ja": "完了する必要のある特定の仕事を表す一般的な語。",
+        "en": "A general word for a particular piece of work that needs to be completed."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Besorgung / Botengang",
+    "it": "commissione",
+    "fr": "course / commission",
+    "es": "recado / mandado"
+  },
+  "collocations": {
+    "ja": [
+      "run an errand — 一つの用事を済ませに行く",
+      "run errands — 複数の用事を済ませる",
+      "do some errands — いくつかの用事を済ませる",
+      "go on an errand — 用事に出かける",
+      "send someone on an errand — 人を使いに出す",
+      "be out on an errand — 用事で外出している",
+      "an errand for someone — 人に頼まれた用事",
+      "a quick errand — すぐに済む用事",
+      "a personal errand — 私的な用事",
+      "a routine errand — 日常的な用事",
+      "combine several errands — 複数の用事をまとめて済ませる",
+      "have an errand to run — 済ませるべき用事がある"
+    ],
+    "en": [
+      "run an errand",
+      "run errands",
+      "do some errands",
+      "go on an errand",
+      "send someone on an errand",
+      "be out on an errand",
+      "an errand for someone",
+      "a quick errand",
+      "a personal errand",
+      "a routine errand",
+      "combine several errands",
+      "have an errand to run"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I need to run a few errands before the shops close. — 店が閉まる前に、いくつか用事を済ませる必要がある。",
+      "Could you run an errand for me and collect this parcel? — 私の代わりに用事を一つ頼まれて、この荷物を受け取ってもらえますか。",
+      "She is out on an errand but should be back in twenty minutes. — 彼女は用事で外出していますが、20分で戻るはずです。",
+      "I combined my trip to the bank with several other errands. — 銀行へ行くついでに、ほかの用事もいくつかまとめて済ませた。",
+      "Before electronic filing became standard, staff frequently ran errands to deliver patent documents to the office. — 電子出願が標準になる前は、職員が特許書類を庁へ届けるため頻繁に使いに出ていた。"
+    ],
+    "en": [
+      "I need to run a few errands before the shops close.",
+      "Could you run an errand for me and collect this parcel?",
+      "She is out on an errand but should be back in twenty minutes.",
+      "I combined my trip to the bank with several other errands.",
+      "Before electronic filing became standard, staff frequently ran errands to deliver patent documents to the office."
+    ]
+  }
+},
+{
+  "id": "courtesy",
+  "sid": "2026-01270",
+  "word": "courtesy",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "politeness",
+    "respect",
+    "kindness",
+    "favor",
+    "etiquette",
+    "customer service",
+    "business",
+    "legal",
+    "attribution",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / attributive noun",
+    "countability": "uncountable for polite behavior; countable for a polite act or privilege",
+    "plural": "courtesies",
+    "forms": {
+      "singular": "courtesy",
+      "plural": "courtesies",
+      "adjective": "courteous",
+      "adverb": "courteously",
+      "opposite_adjective": "discourteous"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "show / extend courtesy to + person",
+      "treat someone with courtesy",
+      "have the courtesy to do",
+      "as a courtesy to + person",
+      "a common / professional courtesy",
+      "exchange courtesies",
+      "courtesy of + person / organization",
+      "by courtesy of + person / organization",
+      "a courtesy call / visit / copy",
+      "a courtesy bus / car / service"
+    ],
+    "usage": {
+      "uncountable": "Courtesy without an article commonly means polite and considerate behavior.",
+      "countable": "A courtesy is a particular considerate act, privilege, or conventional gesture.",
+      "attributive": "Before a noun, courtesy can indicate something provided free of charge or performed as a polite gesture.",
+      "courtesy_of": "Courtesy of identifies the person or organization providing something and can also indicate the source of an image or material.",
+      "sarcasm": "Courtesy of may be used ironically to identify the unwelcome cause of a problem."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkɜːrtəsi/",
+      "uk": "/ˈkɜːtəsi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "他人への敬意・配慮を示す礼儀正しい態度",
+      "相手への思いやりから行う個別の親切・便宜",
+      "社会・職業上、礼儀として期待される行為",
+      "形容詞的に、無料で提供されるサービス・設備",
+      "courtesy of の形で、人・団体の厚意または提供によって",
+      "画像・情報などの提供元を示す「～提供」"
+    ],
+    "en": [
+      "polite and considerate behavior showing respect for other people",
+      "an individual act of kindness, consideration, or accommodation",
+      "an action conventionally expected as a matter of social or professional politeness",
+      "attributively, a service or facility provided without charge",
+      "in courtesy of, through the kindness, provision, or sponsorship of a person or organization",
+      "a formula identifying the source that supplied an image, item, or information"
+    ]
+  },
+  "nuance": {
+    "ja": "courtesy は、単なる作法の知識ではなく、相手を尊重し負担を減らそうとする態度や行為を表す。He had the courtesy to call. は「彼には電話をする程度の礼儀はあった」という意味で、文脈によっては非難を含む。as a courtesy は、法的義務ではなく配慮として行うことを示す場合があるが、この表現だけで法的義務の有無が決まるわけではない。courtesy copy は正式な送達・提出とは別に参考として送る写し、courtesy bus は顧客向けの無料送迎車である。courtesy of the storm のような皮肉な用法では、「嵐のおかげで」という好ましくない原因を示す。",
+    "en": "Courtesy concerns not merely knowledge of etiquette but conduct intended to respect others and reduce inconvenience. He had the courtesy to call means that he showed at least the expected consideration by calling and may carry an implied criticism. As a courtesy can indicate that an act is voluntary rather than legally required, but the phrase itself does not determine whether a legal obligation exists. A courtesy copy is supplied for information separately from formal service or filing, while a courtesy bus is free transportation for customers. In an ironic expression such as courtesy of the storm, courtesy of identifies an unwelcome cause."
+  },
+  "minimal": {
+    "ja": [
+      "courtesy：相手への敬意・配慮を示す礼儀正しさ、または個別の親切。",
+      "politeness：失礼にならない言葉遣い・態度を広く表す。",
+      "civility：対立があっても保たれる、最低限の礼節ある振る舞い。",
+      "etiquette：特定の社会・職業・場面で守るべき作法・慣例。",
+      "manners：人が社会生活で示す行儀・振る舞い。",
+      "kindness：人を助けたい、苦痛を減らしたいという親切心と行為。",
+      "favor：人のために行う個別の親切・便宜。",
+      "complimentary：商品・サービスが無料で提供されることを明確に表す。"
+    ],
+    "en": [
+      "courtesy is respectful consideration for others or a particular considerate act.",
+      "politeness broadly describes language and behavior that avoid giving offense.",
+      "civility is a basic level of respectful conduct maintained even during disagreement.",
+      "etiquette is the accepted code of behavior for a particular society, profession, or occasion.",
+      "manners are a person’s socially observable standards of behavior.",
+      "kindness is the desire and action to help people or reduce their distress.",
+      "a favor is an individual helpful act performed for another person.",
+      "complimentary explicitly means that a product or service is supplied free of charge."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 curteisie「宮廷風の礼儀、上品な振る舞い」に由来し、court「宮廷」と同じ語族に属する。もとは宮廷にふさわしい洗練された態度や騎士的な作法を表した。そこから身分や場所を問わず、他人への礼儀・配慮・親切を広く意味するようになった。courteous「礼儀正しい」も同じ起源を持つ。courtesy service のような無料提供の意味は、顧客への厚意としてサービスを行うという発想から生じた。",
+    "en": "Courtesy comes from Old French curteisie, meaning courtly manners or refined conduct, and belongs to the same word family as court. It originally described behavior considered appropriate at a royal or noble court, including refinement and chivalrous manners. Its meaning broadened to respectful and considerate conduct toward others regardless of rank or setting. Courteous shares the same origin. The free-of-charge sense in expressions such as courtesy service developed from the idea of providing something as a considerate gesture to a customer or guest."
+  },
+  "synonyms": [
+    {
+      "word": "politeness",
+      "note": {
+        "ja": "言葉遣い・態度が社会的に適切で、相手に不快感を与えないこと。",
+        "en": "Socially appropriate language or behavior that avoids offending others."
+      }
+    },
+    {
+      "word": "civility",
+      "note": {
+        "ja": "意見の対立がある状況でも相手に示す、節度ある礼儀正しさ。",
+        "en": "Restrained and respectful conduct, particularly when people disagree."
+      }
+    },
+    {
+      "word": "consideration",
+      "note": {
+        "ja": "自分の行動が相手の感情・事情・必要性に及ぼす影響への配慮。",
+        "en": "Attention to how one’s conduct affects another person’s feelings, circumstances, or needs."
+      }
+    },
+    {
+      "word": "kindness",
+      "note": {
+        "ja": "相手を助けたり苦痛を減らしたりしようとする思いやり。",
+        "en": "Concern expressed through an effort to help another person or reduce their distress."
+      }
+    },
+    {
+      "word": "favor",
+      "note": {
+        "ja": "相手を助けるために行う具体的な親切・便宜。",
+        "en": "A specific helpful act performed for another person."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Höflichkeit / Entgegenkommen",
+    "it": "cortesia",
+    "fr": "courtoisie",
+    "es": "cortesía"
+  },
+  "collocations": {
+    "ja": [
+      "show courtesy to someone — 人に礼儀を示す",
+      "treat someone with courtesy — 人に礼儀正しく接する",
+      "have the courtesy to do — ～するだけの礼儀をわきまえている",
+      "as a courtesy to someone — 人への配慮・厚意として",
+      "a common courtesy — 当然期待される礼儀",
+      "a professional courtesy — 職業上の礼儀・便宜",
+      "exchange courtesies — 儀礼的な挨拶を交わす",
+      "a courtesy call — 儀礼的な電話・訪問",
+      "a courtesy copy — 参考・便宜のために送る写し",
+      "a courtesy bus — 無料送迎バス",
+      "courtesy of the hotel — ホテルの厚意・提供により",
+      "photo courtesy of + source — 写真提供：～"
+    ],
+    "en": [
+      "show courtesy to someone",
+      "treat someone with courtesy",
+      "have the courtesy to do",
+      "as a courtesy to someone",
+      "a common courtesy",
+      "a professional courtesy",
+      "exchange courtesies",
+      "a courtesy call",
+      "a courtesy copy",
+      "a courtesy bus",
+      "courtesy of the hotel",
+      "photo courtesy of + source"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He had the courtesy to inform us that he would be late. — 彼には、遅れることを私たちに知らせるだけの礼儀はあった。",
+      "Please treat every visitor with courtesy and respect. — すべての来訪者に礼儀と敬意をもって接してください。",
+      "The hotel provides a courtesy bus to the airport. — そのホテルは空港まで無料送迎バスを運行している。",
+      "As a professional courtesy, we sent opposing counsel a copy of the document. — 職業上の礼儀として、私たちは相手方代理人にその書類の写しを送った。",
+      "The patent attorney provided a courtesy copy of the response, but warned that it did not constitute formal service. — 弁理士は応答書の参考用写しを提供したが、それは正式な送達には当たらないと注意を促した。"
+    ],
+    "en": [
+      "He had the courtesy to inform us that he would be late.",
+      "Please treat every visitor with courtesy and respect.",
+      "The hotel provides a courtesy bus to the airport.",
+      "As a professional courtesy, we sent opposing counsel a copy of the document.",
+      "The patent attorney provided a courtesy copy of the response, but warned that it did not constitute formal service."
+    ]
+  }
+},
+{
+  "id": "courteous",
+  "sid": "2026-01271",
+  "word": "courteous",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "politeness",
+    "respect",
+    "consideration",
+    "manners",
+    "behavior",
+    "customer service",
+    "business",
+    "legal",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "courteous",
+      "comparative": "more courteous",
+      "superlative": "most courteous",
+      "noun": "courtesy",
+      "adverb": "courteously",
+      "opposite": "discourteous"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "be courteous",
+      "be courteous to + person",
+      "be courteous toward / towards + person",
+      "be courteous in dealing with + person",
+      "be courteous enough to do",
+      "it is courteous to do",
+      "it was courteous of someone to do",
+      "a courteous manner / reply / gesture",
+      "remain courteous",
+      "courteous but firm"
+    ],
+    "usage": {
+      "person": "Courteous commonly describes a person who behaves with politeness and respect.",
+      "behavior": "It can also modify conduct or communication: a courteous reply.",
+      "preposition": "Use to or toward / towards for the person receiving the courtesy.",
+      "evaluation": "Use of plus a person after an impersonal construction: It was courteous of her to reply.",
+      "comparison": "More courteous and most courteous are preferred to courteser and courtest.",
+      "spelling": "The standard spelling is courteous, not courtus; the middle vowel sequence reflects its relationship with courtesy."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkɜːrtiəs/",
+      "uk": "/ˈkɜːtiəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "他人に礼儀正しく敬意を示す",
+      "相手の感情・事情を配慮した丁重な",
+      "発言・返答・態度などが失礼でなく、節度のある",
+      "対立や不満があっても礼節を保っている"
+    ],
+    "en": [
+      "polite and respectful toward other people",
+      "considerate of another person’s feelings or circumstances",
+      "for a reply, manner, or action, properly respectful and not offensive",
+      "maintaining civility despite disagreement or dissatisfaction"
+    ]
+  },
+  "nuance": {
+    "ja": "courteous は、表面的に丁寧な言葉を使うだけでなく、相手を尊重し、その立場や負担に配慮して振る舞うことを表す。polite とほぼ同義だが、courteous の方がやや形式的で、職業上の応対・書面・公的な場面に適している。courteous but firm は、相手への敬意を保ちながらも、要求・期限・反対意見を曖昧にしない姿勢を表す。相手の意見に同意することまでは意味せず、厳しい拒絶や反論も courteous に伝えることができる。",
+    "en": "Courteous describes more than the use of polite words; it suggests behavior that respects another person and takes account of their position or convenience. It is close to polite but somewhat more formal and especially natural for professional service, correspondence, and public conduct. Courteous but firm describes maintaining respect while clearly communicating a demand, deadline, or disagreement. Courtesy does not require agreement, so even a strong refusal or objection can be expressed courteously."
+  },
+  "minimal": {
+    "ja": [
+      "courteous：相手への敬意と配慮を示す、やや形式的な「礼儀正しい」。",
+      "polite：社会的な作法に従い、失礼でないことを表す最も一般的な語。",
+      "civil：対立・不満があっても、最低限の礼節を保っている。",
+      "considerate：自分の行動が相手の感情・必要性に及ぼす影響をよく考える。",
+      "respectful：相手の地位・権利・感情などに敬意を示す。",
+      "gracious：親切で品があり、相手を快適にさせる寛大な態度を示す。",
+      "deferential：目上の人・権威ある人に敬意を示して控えめに振る舞う。",
+      "courtly：宮廷風に洗練され、儀礼的に丁重な。古風・文学的。"
+    ],
+    "en": [
+      "courteous means showing respectful consideration and is somewhat more formal than polite.",
+      "polite is the most general word for behaving according to accepted manners and avoiding offense.",
+      "civil means maintaining a basic level of politeness despite disagreement or hostility.",
+      "considerate means thinking carefully about how one’s conduct affects another person’s feelings or needs.",
+      "respectful means showing regard for another person’s status, rights, feelings, or dignity.",
+      "gracious suggests kind, dignified, and generous behavior that makes others feel comfortable.",
+      "deferential means respectfully yielding or showing restraint toward a senior or authoritative person.",
+      "courtly means refined and ceremoniously polite in an old-fashioned or literary manner."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 corteis「宮廷風の、礼儀正しい」に由来し、court「宮廷」と同じ語族に属する。もとは宮廷にふさわしい洗練された作法・騎士的な態度を表した。そこから、身分や場所を問わず、人に敬意と配慮を示す「礼儀正しい」という一般的意味へ広がった。名詞 courtesy も同じ起源を持つ。綴りは courtus ではなく courteous であり、語末の -eous はおおむね /iəs/ と発音される。",
+    "en": "Courteous comes from Old French corteis, meaning courtly or polite, and belongs to the same word family as court. It originally described refined manners and chivalrous conduct considered appropriate at a royal or noble court. Its meaning broadened to respectful and considerate behavior toward others in any social setting. The noun courtesy shares the same origin. The standard spelling is courteous rather than courtus, and the final sequence is pronounced approximately /iəs/."
+  },
+  "synonyms": [
+    {
+      "word": "polite",
+      "note": {
+        "ja": "一般に認められた作法に従い、相手に失礼のないよう振る舞う。",
+        "en": "To behave according to accepted manners and avoid causing offense."
+      }
+    },
+    {
+      "word": "civil",
+      "note": {
+        "ja": "親しみや好意がなくても、対立相手に最低限の礼儀を示す。",
+        "en": "To show a minimum level of politeness even without friendliness or agreement."
+      }
+    },
+    {
+      "word": "considerate",
+      "note": {
+        "ja": "相手の感情・負担・都合を考えて行動する。",
+        "en": "To act with awareness of another person’s feelings, burden, or convenience."
+      }
+    },
+    {
+      "word": "respectful",
+      "note": {
+        "ja": "人の尊厳・地位・意見などを尊重する態度を示す。",
+        "en": "To show regard for another person’s dignity, position, or views."
+      }
+    },
+    {
+      "word": "gracious",
+      "note": {
+        "ja": "礼儀正しさに加え、温かさ・品格・寛大さを感じさせる。",
+        "en": "To display warmth, dignity, and generosity in addition to politeness."
+      }
+    ]
+  },
+  "equivalents": {
+    "de": "höflich / zuvorkommend",
+    "it": "cortese",
+    "fr": "courtois",
+    "es": "cortés"
+  },
+  "collocations": {
+    "ja": [
+      "a courteous manner — 礼儀正しい態度",
+      "a courteous reply — 丁重な返答",
+      "a courteous response — 礼を失しない応答",
+      "a courteous gesture — 礼儀・配慮を示す行為",
+      "courteous service — 丁重な接客",
+      "be courteous to customers — 顧客に礼儀正しく接する",
+      "remain courteous — 礼儀正しい態度を保つ",
+      "courteous but firm — 丁重だが毅然とした",
+      "courteous and professional — 礼儀正しく職業的な",
+      "courteous enough to reply — 返事をするだけの礼儀がある",
+      "respond courteously — 丁重に返答する",
+      "treat someone courteously — 人に礼儀正しく接する"
+    ],
+    "en": [
+      "a courteous manner",
+      "a courteous reply",
+      "a courteous response",
+      "a courteous gesture",
+      "courteous service",
+      "be courteous to customers",
+      "remain courteous",
+      "courteous but firm",
+      "courteous and professional",
+      "courteous enough to reply",
+      "respond courteously",
+      "treat someone courteously"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The receptionist was courteous and helpful throughout our visit. — 受付係は、私たちの滞在中ずっと礼儀正しく親切だった。",
+      "It was courteous of her to inform us about the delay in advance. — 遅延について事前に知らせてくれたのは、彼女の丁重な配慮だった。",
+      "Even when the discussion became heated, he remained courteous. — 議論が白熱しても、彼は礼儀正しい態度を崩さなかった。",
+      "Our reply should be courteous but firm about the payment deadline. — 私たちの返答は丁重でありながら、支払期限については毅然としたものであるべきだ。",
+      "The patent attorney sent a courteous response explaining why the proposed amendment could not be accepted. — 弁理士は、提案された補正を受け入れられない理由を説明する丁重な返答を送った。"
+    ],
+    "en": [
+      "The receptionist was courteous and helpful throughout our visit.",
+      "It was courteous of her to inform us about the delay in advance.",
+      "Even when the discussion became heated, he remained courteous.",
+      "Our reply should be courteous but firm about the payment deadline.",
+      "The patent attorney sent a courteous response explaining why the proposed amendment could not be accepted."
+    ]
+  }
+},
+{
+  "id": "pedantic",
+  "sid": "2026-01272",
+  "word": "pedantic",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "criticism",
+    "detail",
+    "rules",
+    "precision",
+    "scholarship",
+    "language",
+    "teaching",
+    "personality",
+    "formal",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "pedantic",
+      "comparative": "more pedantic",
+      "superlative": "most pedantic",
+      "noun_person": "pedant",
+      "noun_quality": "pedantry",
+      "adverb": "pedantically"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "be pedantic",
+      "be pedantic about + noun",
+      "sound / seem pedantic",
+      "become overly pedantic",
+      "a pedantic insistence on + noun",
+      "a pedantic distinction",
+      "a pedantic approach to + noun",
+      "in a pedantic manner",
+      "without sounding pedantic",
+      "at the risk of being pedantic"
+    ],
+    "usage": {
+      "evaluation": "Pedantic is normally disapproving and suggests that attention to detail has become excessive or unhelpful.",
+      "person": "It can describe a person who corrects minor errors or displays learning unnecessarily.",
+      "style": "It can also describe an explanation, distinction, tone, or approach that focuses excessively on technical detail.",
+      "comparison": "More pedantic and most pedantic are preferred to pedanticer and pedanticest.",
+      "self_qualification": "At the risk of being pedantic is used before making a minor but technically accurate correction."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pɪˈdæntɪk/",
+      "uk": "/pɪˈdæntɪk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "細かな規則・定義・形式に必要以上にこだわる",
+      "本質よりも些細な誤りや区別を重視する",
+      "自分の学識をひけらかすような、衒学的な",
+      "他人の言葉遣い・文法・手順を細かく訂正したがる",
+      "説明・文章などが細部に偏り、実用性や分かりやすさを欠く"
+    ],
+    "en": [
+      "excessively concerned with minor rules, definitions, or formal details",
+      "giving greater importance to trivial errors or distinctions than to the central issue",
+      "displaying academic knowledge in an unnecessary or ostentatious way",
+      "inclined to correct other people’s language, grammar, or procedure over minor points",
+      "for an explanation or text, burdened with detail at the expense of usefulness or clarity"
+    ]
+  },
+  "nuance": {
+    "ja": "pedantic は、正確さそのものではなく、細部へのこだわりが目的に比して過剰であるという話者の評価を含む。契約・特許請求項・安全基準のように一語の違いが法的効果を変える場面では、細かな確認は pedantic ではなく必要な precision であり得る。一方、本題に影響しない表記や用語の差を繰り返し訂正して議論を止めるなら pedantic と評されやすい。At the risk of being pedantic, ... は「細かいことを言うようですが」と断って、技術的には重要な訂正を行う表現である。pedant はそのような人、pedantry はその態度を表す。",
+    "en": "Pedantic criticizes not accuracy itself but attention to detail judged excessive in relation to the purpose. In contracts, patent claims, and safety standards, a one-word difference may alter the legal or technical effect, so close scrutiny may constitute necessary precision rather than pedantry. Repeatedly correcting terminology or punctuation that does not affect the issue, however, is readily described as pedantic. At the risk of being pedantic introduces a technically accurate correction while acknowledging that it may appear excessively minor. A pedant is a person displaying this tendency, while pedantry is the behavior or quality."
+  },
+  "minimal": {
+    "ja": [
+      "pedantic：本質より細かな規則・知識・形式に過度にこだわる。通常は批判的。",
+      "precise：意味・数値・表現などが正確で曖昧さがない。通常は肯定的。",
+      "meticulous：細部まで非常に注意深く正確に作業する。多くは肯定的。",
+      "scholarly：深い学識・研究に基づく学術的な。",
+      "academic：学問・大学に関する。または実際的でなく理論的な。",
+      "didactic：教えることを目的とする、または説教調で教訓的すぎる。",
+      "nitpicky：些細な欠点を細かく探して批判する。pedantic より口語的。",
+      "punctilious：礼儀・手続き・義務などを細部まで厳格に守る、形式的な語。"
+    ],
+    "en": [
+      "pedantic disapprovingly describes excessive concern with minor rules, knowledge, or formal detail.",
+      "precise means exact and unambiguous in meaning, measurement, or expression and is normally positive.",
+      "meticulous means extremely careful and accurate about details and is usually complimentary.",
+      "scholarly means demonstrating deep academic learning or research.",
+      "academic concerns scholarship or universities and can also mean theoretical rather than practical.",
+      "didactic means intended to teach or excessively inclined to give moral instruction.",
+      "nitpicky informally describes excessive criticism of trivial faults.",
+      "punctilious formally describes strict attention to etiquette, procedure, or duty."
+    ]
+  },
+  "etymology": {
+    "ja": "pedantic は pedant「衒学者、細かな知識をひけらかす人」から作られた。pedant は16世紀ごろ、フランス語 pédant を経てイタリア語 pedante「教師、学者」から英語に入った。イタリア語 pedante のさらに古い起源については確定しておらず、教育に関係する複数の語との関連が提案されている。当初は教師・学者を表したが、学識を誇示し、細かな規則にこだわる人物という否定的意味が強まり、pedantic が現在の「衒学的な、些末な点にうるさい」を表すようになった。",
+    "en": "Pedantic was formed from pedant, a person who ostentatiously displays learning or insists on minor details. Pedant entered English through French pedant from Italian pedante, meaning a teacher or scholar. The deeper origin of the Italian word is uncertain, and several connections with words relating to education have been proposed. Although pedant initially referred to a teacher or learned person, it acquired the negative sense of someone who parades knowledge and obsesses over rules, giving pedantic its modern disapproving meaning."
+  },
+  "synonyms": [
+    {
+      "word": "nitpicky",
+      "note": {
+        "ja": "本質的でない小さな誤り・欠点を探して批判することを表す、より口語的な語。",
+        "en": "A more conversational word for excessively finding fault with minor and unimportant details."
+      }
+    },
+    {
+      "word": "overly precise",
+      "note": {
+        "ja": "状況が必要とする以上に細かく正確さを追求することを直接表す。",
+        "en": "Directly describes demanding a degree of exactness greater than the situation requires."
+      }
+    },
+    {
+      "word": "dogmatic",
+      "note": {
+        "ja": "自分の信念・理論を絶対に正しいものとして主張し、異論を認めない。",
+        "en": "Describes asserting beliefs or theories as unquestionably correct and refusing alternative views."
+      }
+    },
+    {
+      "word": "punctilious",
+      "note": {
+        "ja": "形式・礼儀・手続きを非常に厳格かつ注意深く守る。",
+        "en": "Describes extremely careful observance of formality, etiquette, or procedure."
+      }
+    },
+    {
+      "word": "bookish",
+      "note": {
+        "ja": "書物・学問に傾倒しており、場合によっては実生活の経験に乏しい。",
+        "en": "Describes a strong orientation toward books and learning, sometimes with limited practical experience."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "pedantisch / kleinlich",
+    "it": "pedante / pignolo",
+    "fr": "pédant / pointilleux",
+    "es": "pedante / puntilloso"
+  },
+  "collocations": {
+    "ja": [
+      "a pedantic person — 細部にうるさい衒学的な人",
+      "a pedantic tone — 衒学的な口調",
+      "a pedantic explanation — 細部に偏った説明",
+      "a pedantic distinction — 些末で形式的な区別",
+      "a pedantic approach — 杓子定規な方法",
+      "pedantic attention to detail — 細部への過度なこだわり",
+      "a pedantic insistence on accuracy — 正確さへの過剰な固執",
+      "sound pedantic — 細かいことにうるさく聞こえる",
+      "be pedantic about grammar — 文法の細部に過度にこだわる",
+      "become overly pedantic — 過度に杓子定規になる",
+      "without being pedantic — 細かいことを言いすぎることなく",
+      "at the risk of being pedantic — 細かいことを言うようだが"
+    ],
+    "en": [
+      "a pedantic person",
+      "a pedantic tone",
+      "a pedantic explanation",
+      "a pedantic distinction",
+      "a pedantic approach",
+      "pedantic attention to detail",
+      "a pedantic insistence on accuracy",
+      "sound pedantic",
+      "be pedantic about grammar",
+      "become overly pedantic",
+      "without being pedantic",
+      "at the risk of being pedantic"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He can be pedantic about minor points of grammar. — 彼は文法上の些細な点に細かくこだわることがある。",
+      "The explanation was accurate but so pedantic that the audience lost interest. — その説明は正確だったが、あまりに細部に偏っていたため、聴衆は興味を失った。",
+      "At the risk of being pedantic, the two terms are not legally identical. — 細かいことを言うようですが、その二つの用語は法律上同一ではありません。",
+      "Insisting on the correct antecedent in a patent claim is not pedantic when the wording affects its scope. — 文言が特許請求項の範囲に影響する場合、正しい先行詞にこだわることは杓子定規ではない。",
+      "We should avoid a pedantic debate over formatting and focus on the substantive objection. — 書式についての些末な議論は避け、実質的な拒絶理由に集中すべきだ。"
+    ],
+    "en": [
+      "He can be pedantic about minor points of grammar.",
+      "The explanation was accurate but so pedantic that the audience lost interest.",
+      "At the risk of being pedantic, the two terms are not legally identical.",
+      "Insisting on the correct antecedent in a patent claim is not pedantic when the wording affects its scope.",
+      "We should avoid a pedantic debate over formatting and focus on the substantive objection."
+    ]
+  }
+},
+{
+  "id": "precise",
+  "sid": "2026-01273",
+  "word": "precise",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "accuracy",
+    "exactness",
+    "clarity",
+    "measurement",
+    "definition",
+    "language",
+    "science",
+    "technology",
+    "patent",
+    "legal",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "precise",
+      "comparative": "more precise",
+      "superlative": "most precise",
+      "noun": "precision",
+      "adverb": "precisely",
+      "opposite": "imprecise"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a precise + noun",
+      "be precise",
+      "be precise about + noun",
+      "be precise in + noun / gerund",
+      "be precise enough to do",
+      "make something more precise",
+      "give a precise definition / description",
+      "at a precise time / location",
+      "to be precise, + clause / phrase",
+      "more precisely, + reformulation"
+    ],
+    "usage": {
+      "measurement": "Precise describes fine consistency or a narrowly specified value, position, or operation.",
+      "language": "It describes wording that conveys the intended meaning without avoidable uncertainty.",
+      "person": "A precise person works or speaks with careful exactness.",
+      "comparison": "More precise and most precise are normally preferred to preciser and precisest.",
+      "discourse_marker": "To be precise and more precisely introduce a correction or a more exact formulation."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prɪˈsaɪs/",
+      "uk": "/prɪˈsaɪs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "数値・測定・位置などが細かい単位まで正確な",
+      "意味・定義・説明などが明確に限定され、曖昧さの少ない",
+      "動作・機械などが細部まで正確に制御された",
+      "人が言葉や作業の細部に注意を払い、正確である",
+      "時間・場所・数量などが厳密に特定された",
+      "to be precise の形で、より正確に言えば"
+    ],
+    "en": [
+      "exact to a fine degree in measurement, quantity, or position",
+      "clearly defined or expressed with little ambiguity",
+      "accurately controlled in movement, operation, or execution",
+      "for a person, careful and exact in speech or work",
+      "specifically fixed or identified in time, place, or amount",
+      "in to be precise, used to introduce a more exact statement"
+    ]
+  },
+  "nuance": {
+    "ja": "precise は、対象が細かく限定・測定・制御され、不要なずれや曖昧さがないことを強調する。正しい結果と一致する accurate と密接だが、複数回の測定値が互いに非常に近ければ precise であり、真の値から外れていれば accurate ではない場合がある。日常語では両者を厳密に区別しないことも多い。exact は完全な一致や一つに確定した値を強調し、precise は表現・測定・操作の細かさと明確さに重点を置く。特許請求項では precise wording が重要だが、過度に限定すると保護範囲を不必要に狭める可能性もある。",
+    "en": "Precise emphasizes that something is finely defined, measured, or controlled without unnecessary variation or ambiguity. It is closely related to accurate, but in technical usage repeated measurements can be precise because they are close to one another while still being inaccurate because they differ from the true value. Everyday English does not always maintain this distinction strictly. Exact emphasizes complete identity or one fully determined value, while precise focuses on fineness and clarity of expression, measurement, or operation. Precise wording is important in patent claims, although excessive specification may unnecessarily narrow the scope of protection."
+  },
+  "minimal": {
+    "ja": [
+      "precise：細部まで明確に限定・測定・制御され、ずれや曖昧さが少ない。",
+      "accurate：測定・情報・説明が真の値や事実に正しく一致している。",
+      "exact：完全に一致している、または値・時点などが厳密に一つへ定まっている。",
+      "specific：一般的でなく、特定の対象・内容を明示している。",
+      "definite：不明確・暫定的でなく、はっきり確定している。",
+      "meticulous：人や作業が細部まで非常に注意深い。",
+      "concise：必要な内容を少ない言葉で明確に表す。",
+      "pedantic：本質に不要な細部や形式へ過度にこだわる。通常は批判的。"
+    ],
+    "en": [
+      "precise means finely defined, measured, or controlled with little variation or ambiguity.",
+      "accurate means correctly corresponding to the true value or actual facts.",
+      "exact means completely identical or fixed at one strictly determined value or point.",
+      "specific means clearly identifying a particular subject rather than speaking generally.",
+      "definite means clearly established rather than uncertain, vague, or provisional.",
+      "meticulous describes a person or process showing extremely careful attention to detail.",
+      "concise means expressing the necessary content clearly in few words.",
+      "pedantic disapprovingly describes excessive concern with details or formal rules that do not serve the main purpose."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 praecisus「切り取られた、短く区切られた」に由来し、フランス語 précis を経て英語に入った。praecisus は praecidere「切り落とす」の過去分詞で、prae-「前で」と caedere「切る」から成る。余分な部分を切り落として境界を明確にするというイメージから、「明確に限定された、厳密な」という意味が発達した。precision、precisely、imprecise も同じ語族に属する。",
+    "en": "Precise comes through French précis from Latin praecisus, meaning cut off or sharply delimited. Praecisus is the past participle of praecidere, to cut off, formed from prae-, before, and caedere, to cut. The image of removing excess material and leaving a clearly defined boundary developed into the meaning exact and unambiguous. Precision, precisely, and imprecise belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "exact",
+      "note": {
+        "ja": "数値・場所・言葉などが完全に一致し、厳密に特定されていることを強調する。",
+        "en": "Emphasizes complete correspondence or strict identification of a value, place, or wording."
+      }
+    },
+    {
+      "word": "accurate",
+      "note": {
+        "ja": "測定・情報・説明が、実際の値や事実と正しく一致している。",
+        "en": "Describes a measurement, statement, or account that correctly corresponds to reality."
+      }
+    },
+    {
+      "word": "specific",
+      "note": {
+        "ja": "一般論ではなく、特定の対象・条件・内容を明確に示す。",
+        "en": "Clearly identifies a particular subject, condition, or detail rather than speaking generally."
+      }
+    },
+    {
+      "word": "rigorous",
+      "note": {
+        "ja": "分析・方法・証明などが厳密で、論理や基準を徹底している。",
+        "en": "Describes analysis, methodology, or proof that applies demanding standards consistently."
+      }
+    },
+    {
+      "word": "meticulous",
+      "note": {
+        "ja": "人・作業が細かな点まで非常に注意深く、入念である。",
+        "en": "Describes a person or process showing extremely careful attention to every detail."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "präzise / genau",
+    "it": "preciso",
+    "fr": "précis",
+    "es": "preciso / exacto"
+  },
+  "collocations": {
+    "ja": [
+      "a precise definition — 明確で厳密な定義",
+      "a precise description — 正確で詳細な説明",
+      "precise wording — 曖昧さの少ない正確な文言",
+      "a precise measurement — 精密な測定",
+      "a precise location — 厳密に特定された位置",
+      "the precise moment — まさにその瞬間",
+      "a precise amount — 厳密な数量",
+      "precise control — 精密な制御",
+      "highly precise — 極めて精密な",
+      "technically precise — 技術的に厳密な",
+      "make something more precise — 何かをより明確・厳密にする",
+      "to be precise — 正確に言えば"
+    ],
+    "en": [
+      "a precise definition",
+      "a precise description",
+      "precise wording",
+      "a precise measurement",
+      "a precise location",
+      "the precise moment",
+      "a precise amount",
+      "precise control",
+      "highly precise",
+      "technically precise",
+      "make something more precise",
+      "to be precise"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Please give me the precise location of the meeting room. — 会議室の正確な位置を教えてください。",
+      "The instrument is capable of extremely precise measurements. — その機器は極めて精密な測定ができる。",
+      "The instructions should be concise but precise. — 指示は簡潔でありながら正確であるべきだ。",
+      "The claim must use precise language to distinguish the invention from the prior art. — その請求項では、発明を先行技術から区別するため、明確で正確な文言を用いなければならない。",
+      "Twenty-seven applications were filed—or twenty-eight, to be precise, if the divisional application is included. — 27件の出願が行われた。より正確には、分割出願を含めれば28件である。"
+    ],
+    "en": [
+      "Please give me the precise location of the meeting room.",
+      "The instrument is capable of extremely precise measurements.",
+      "The instructions should be concise but precise.",
+      "The claim must use precise language to distinguish the invention from the prior art.",
+      "Twenty-seven applications were filed—or twenty-eight, to be precise, if the divisional application is included."
+    ]
+  }
+},
+{
+  "id": "flatter",
+  "sid": "2026-01274",
+  "word": "flatter",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "praise",
+    "compliment",
+    "flattery",
+    "persuasion",
+    "appearance",
+    "clothing",
+    "emotion",
+    "social interaction",
+    "business",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "flatter",
+      "third_person": "flatters",
+      "past": "flattered",
+      "past_participle": "flattered",
+      "gerund": "flattering",
+      "noun": "flattery",
+      "adjective": "flattering",
+      "person_noun": "flatterer"
+    },
+    "transitivity": "transitive; reflexive in flatter oneself",
+    "patterns": [
+      "flatter + person",
+      "flatter someone by + gerund",
+      "flatter someone into + gerund",
+      "be flattered by + praise / attention",
+      "be flattered to do",
+      "be flattered that + clause",
+      "flatter oneself that + clause",
+      "flatter oneself on + noun / gerund",
+      "clothes / lighting / a photograph flatters someone",
+      "flatter to deceive"
+    ],
+    "usage": {
+      "person": "Flatter someone means praising the person excessively or strategically, often without complete sincerity.",
+      "appearance": "A garment, color, photograph, or light can flatter someone by making the person look more attractive.",
+      "passive": "Be flattered usually expresses pleasure at being praised, invited, or selected and does not necessarily imply suspicion.",
+      "reflexive": "Flatter oneself means holding an overly favorable belief about oneself.",
+      "persuasion": "Flatter someone into doing something means obtain cooperation through praise.",
+      "regional_expression": "Flatter to deceive is especially common in British English for something initially impressive that ultimately disappoints."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈflætər/",
+      "uk": "/ˈflætə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人を喜ばせたり何かを得たりするため、実際以上に褒める",
+      "お世辞によって人を特定の行動へ誘導する",
+      "衣服・色・照明・写真などが、人を実際以上に魅力的に見せる",
+      "受動形で、褒め言葉・招待・選出などを光栄に思う",
+      "flatter oneself の形で、自分の能力・重要性などを過大評価する"
+    ],
+    "en": [
+      "to praise someone excessively or strategically in order to please them or obtain an advantage",
+      "to persuade someone to act by giving them compliments",
+      "for clothing, color, lighting, or a photograph, to make someone appear more attractive",
+      "in the passive, to feel honored or pleased by praise, an invitation, or selection",
+      "in flatter oneself, to hold an excessively favorable opinion of one’s own ability or importance"
+    ]
+  },
+  "nuance": {
+    "ja": "flatter は compliment や praise と異なり、褒め方が過剰・不誠実であったり、相手を操作する目的を持ったりする可能性を示唆する。ただし I’m flattered. では、相手のお世辞を非難するのではなく、「そう言っていただけて光栄です」という純粋な感謝を表すことが多い。I’m flattered, but ... は、誘いや申し出を丁重に断る前置きとしても使える。服について That color flatters you. と言えば、その色が顔色・体形などを魅力的に見せるという肯定的な意味になり、不誠実さはない。flatter oneself は「自負する」にも「うぬぼれる」にもなり得るが、しばしば自己評価への皮肉を含む。",
+    "en": "Unlike compliment or praise, flatter may suggest that the approval is excessive, insincere, or intended to manipulate. In I’m flattered, however, the speaker normally expresses genuine pleasure at the compliment, invitation, or attention rather than accusing the other person of insincerity. I’m flattered, but ... can introduce a polite refusal. With clothing, That color flatters you positively means that the color enhances the person’s complexion or appearance and carries no implication of dishonesty. Flatter oneself may mean taking pride in oneself but often carries an ironic suggestion of overconfidence."
+  },
+  "minimal": {
+    "ja": [
+      "flatter：相手を喜ばせたり動かしたりするため、過剰または戦略的に褒める。",
+      "compliment：外見・能力・成果などについて、好意的な評価を言葉で伝える。",
+      "praise：人の行為・性質・成果を高く評価し、称賛する。",
+      "butter up：頼み事などの前に、お世辞で相手の機嫌を取る。非常に口語的。",
+      "fawn over：利益を得ようとして、人に過度にへつらう。",
+      "enhance：外見・品質・価値などをさらに良くする。",
+      "suit：衣服・色・髪型などが人に似合う。",
+      "be flattered：褒められたり選ばれたりして光栄に思う。"
+    ],
+    "en": [
+      "flatter means praising someone excessively or strategically to please or influence them.",
+      "compliment means expressing a favorable judgment about someone’s appearance, ability, or achievement.",
+      "praise means expressing strong approval of a person’s conduct, qualities, or accomplishments.",
+      "butter up informally means flattering someone before making a request or seeking an advantage.",
+      "fawn over means giving someone excessive attention and praise in order to gain favor.",
+      "enhance means improving the appearance, quality, or value of something.",
+      "suit means looking appropriate or attractive on a particular person.",
+      "be flattered means feeling honored or pleased by praise, attention, or selection."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 flater「なでる、愛撫する、お世辞を言う」を経て英語に入った。さらに古い起源は確定していないが、平らな手で優しくなでる動作と、心地よい言葉で相手の機嫌を取る行為との比喩的な関連が指摘されている。身体的に心地よく扱う意味から、言葉で気分をよくする「お世辞を言う」へ発達した。flattery「お世辞」、flattering「人を魅力的に見せる、喜ばせる」も同じ語族である。",
+    "en": "Flatter entered English through Old French flater, meaning to stroke, caress, or praise insincerely. Its deeper origin is uncertain, although a figurative connection has been suggested between gently stroking someone with the flat hand and soothing the person with pleasing words. The physical sense of giving pleasant treatment developed into the verbal sense of pleasing someone through praise. Flattery and flattering belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "compliment",
+      "note": {
+        "ja": "人の外見・能力・所有物などについて、好意的な言葉を伝える。通常、flatter より誠実。",
+        "en": "To make a favorable remark about someone’s appearance, ability, or possessions, normally with less implication of insincerity."
+      }
+    },
+    {
+      "word": "praise",
+      "note": {
+        "ja": "行為・成果・性質などを価値あるものとして、公にまたは強く称賛する。",
+        "en": "To express strong approval of conduct, achievement, or character."
+      }
+    },
+    {
+      "word": "butter up",
+      "note": {
+        "ja": "利益や承諾を得るため、相手にお世辞を言って機嫌を取る。",
+        "en": "To flatter someone informally in order to obtain cooperation, approval, or an advantage."
+      }
+    },
+    {
+      "word": "fawn over",
+      "note": {
+        "ja": "相手の歓心を買うため、過度な称賛・注目・服従を示す。",
+        "en": "To display excessive praise, attention, or submission in order to gain favor."
+      }
+    },
+    {
+      "word": "enhance",
+      "note": {
+        "ja": "服・色・写真などが外見のよい特徴を引き立てる。",
+        "en": "For clothing, color, or an image, to improve or emphasize attractive features."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schmeicheln",
+    "it": "adulare / lusingare / valorizzare",
+    "fr": "flatter / mettre en valeur",
+    "es": "adular / halagar / favorecer"
+  },
+  "collocations": {
+    "ja": [
+      "flatter someone shamelessly — 恥ずかしげもなく人にお世辞を言う",
+      "flatter someone into agreeing — お世辞で人をその気にさせ、同意させる",
+      "be flattered by the attention — 注目されて光栄に思う",
+      "be flattered by the compliment — 褒められてうれしく思う",
+      "be flattered to be invited — 招待されて光栄に思う",
+      "be flattered that someone asked — 人から頼まれて光栄に思う",
+      "flatter oneself that ... — ～だとうぬぼれる",
+      "a flattering photograph — 人を実際以上に魅力的に見せる写真",
+      "a flattering dress — 体形を美しく見せる服",
+      "flattering lighting — 人を美しく見せる照明",
+      "a flattering comparison — 人を持ち上げるような比較",
+      "flatter to deceive — 初めは期待させながら結局は期待外れに終わる"
+    ],
+    "en": [
+      "flatter someone shamelessly",
+      "flatter someone into agreeing",
+      "be flattered by the attention",
+      "be flattered by the compliment",
+      "be flattered to be invited",
+      "be flattered that someone asked",
+      "flatter oneself that ...",
+      "a flattering photograph",
+      "a flattering dress",
+      "flattering lighting",
+      "a flattering comparison",
+      "flatter to deceive"
+    ]
+  },
+  "example": {
+    "ja": [
+      "You don’t need to flatter me; just tell me what you honestly think. — 私にお世辞を言う必要はないので、率直な意見を聞かせてください。",
+      "I’m flattered that you asked for my advice. — 私に助言を求めてくださったことを光栄に思います。",
+      "She tried to flatter the manager into approving the proposal. — 彼女はお世辞を使って、部長にその提案を承認させようとした。",
+      "That jacket really flatters you. — そのジャケットは、あなたをとても魅力的に見せます。",
+      "The inventor was flattered by the praise but still asked for a precise assessment of the patent’s strength. — 発明者は称賛を光栄に思ったが、それでも特許の強さについて正確な評価を求めた。"
+    ],
+    "en": [
+      "You don’t need to flatter me; just tell me what you honestly think.",
+      "I’m flattered that you asked for my advice.",
+      "She tried to flatter the manager into approving the proposal.",
+      "That jacket really flatters you.",
+      "The inventor was flattered by the praise but still asked for a precise assessment of the patent’s strength."
+    ]
+  }
+},
+{
+  "id": "blandish",
+  "sid": "2026-01275",
+  "word": "blandish",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "flattery",
+    "persuasion",
+    "coaxing",
+    "manipulation",
+    "sweet talk",
+    "literary",
+    "formal",
+    "rare",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "blandish",
+      "third_person": "blandishes",
+      "past": "blandished",
+      "past_participle": "blandished",
+      "gerund": "blandishing",
+      "noun": "blandishment",
+      "plural_noun": "blandishments"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "blandish + person",
+      "blandish someone with + praise / promises",
+      "blandish someone into + gerund",
+      "blandish someone out of + noun",
+      "try to blandish someone",
+      "be blandished by + person",
+      "resist being blandished",
+      "use praise to blandish someone",
+      "yield to someone’s blandishments",
+      "resist promises and blandishments"
+    ],
+    "usage": {
+      "rarity": "Blandish is rare in contemporary everyday English and may sound deliberately literary or archaic.",
+      "person_object": "The object is normally the person being influenced rather than the praise itself.",
+      "means": "With introduces the praise or promises used: blandish someone with compliments.",
+      "result": "Into plus a gerund expresses the action obtained through flattery.",
+      "noun": "Blandishment, especially plural blandishments, is more readily encountered than the verb."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈblændɪʃ/",
+      "uk": "/ˈblændɪʃ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "お世辞や甘い言葉を使って人を喜ばせる",
+      "称賛・約束・愛想のよい態度によって人を説得する",
+      "相手の警戒を解き、望む行動を取らせようとする",
+      "人を甘言で丸め込み、利益・同意・情報などを得ようとする"
+    ],
+    "en": [
+      "to please someone with flattering or soothing language",
+      "to persuade someone through compliments, promises, or charming behavior",
+      "to lower another person’s resistance and induce the desired action",
+      "to obtain cooperation, agreement, information, or advantage through sweet talk"
+    ]
+  },
+  "nuance": {
+    "ja": "blandish は flatter より明確に、甘い言葉を説得・操作の手段として使うことを示す。単に相手を褒めるのではなく、その気にさせて何かをさせようとする含みが強い。もっとも、現代の日常会話で blandish を使うと非常に文語的または古風に響くため、通常は coax、cajole、sweet-talk、butter up などが使われる。名詞 blandishments は、お世辞だけでなく、魅力的な約束・誘い・報酬など、人の判断を動かすための甘言全般を表し得る。",
+    "en": "Blandish more clearly than flatter presents pleasing language as a means of persuasion or manipulation. It does not merely describe praising someone; it suggests lowering the person’s resistance in order to secure an action or advantage. The verb sounds highly literary or old-fashioned in present-day conversation, where coax, cajole, sweet-talk, or butter up would normally be used. The plural noun blandishments may include not only compliments but also attractive promises, invitations, and rewards intended to influence judgment."
+  },
+  "minimal": {
+    "ja": [
+      "blandish：甘言・お世辞によって人を喜ばせ、望む行動を取らせようとする。まれで文語的。",
+      "flatter：人を喜ばせたり利益を得たりするため、実際以上に褒める。",
+      "coax：優しい言葉や辛抱強い働きかけで、嫌がる人を徐々に説得する。",
+      "cajole：お世辞・冗談・しつこい働きかけなどで、人をうまく説得する。",
+      "wheedle：執拗な甘言や愛想によって、欲しい物・同意を得る。",
+      "sweet-talk：甘い言葉や魅力的な態度で人をその気にさせる。口語的。",
+      "butter up：頼み事の前などに、お世辞で人の機嫌を取る。非常に口語的。",
+      "fawn over：歓心を買うため、人に過度な称賛・注目を示す。"
+    ],
+    "en": [
+      "blandish means using flattery or soothing language to induce someone to act and is rare and literary.",
+      "flatter means praising someone excessively to please them or obtain an advantage.",
+      "coax means gradually persuading a reluctant person through gentle and patient encouragement.",
+      "cajole means persuading someone through flattery, humor, or persistent friendly pressure.",
+      "wheedle means obtaining something through persistent sweet talk and charm.",
+      "sweet-talk informally means persuading someone with charming and pleasing language.",
+      "butter up informally means flattering someone before asking for cooperation or a favor.",
+      "fawn over means giving excessive praise and attention in order to gain favor."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 blandir「お世辞を言う、愛想よく扱う」を経て、ラテン語 blandiri「なだめる、優しく語りかける、へつらう」に由来する。その基礎にある blandus は「魅力的な、愛想のよい、甘言を弄する」を意味した。英語の bland「刺激がなく穏やかな」も同じ語族に属するが、blandish では「心地よい言葉で相手を動かす」という古い意味が比較的明確に残っている。",
+    "en": "Blandish came through Old French blandir, to flatter or treat pleasingly, from Latin blandiri, to soothe, speak gently to, or flatter. Its base blandus meant charming, smooth, or flattering. English bland belongs to the same word family, although it developed the sense mild or lacking in strong character. Blandish more clearly preserves the older idea of influencing someone through pleasing words."
+  },
+  "synonyms": [
+    {
+      "word": "cajole",
+      "note": {
+        "ja": "お世辞・愛想・冗談・粘り強い働きかけによって、人を説得する。",
+        "en": "To persuade someone through flattery, charm, humor, or persistent friendly pressure."
+      }
+    },
+    {
+      "word": "coax",
+      "note": {
+        "ja": "相手を急かさず、優しい言葉や励ましによって徐々に行動させる。",
+        "en": "To persuade someone gradually through gentle language, patience, or encouragement."
+      }
+    },
+    {
+      "word": "wheedle",
+      "note": {
+        "ja": "しつこい甘言や愛想によって、相手から物・許可・同意を得る。",
+        "en": "To obtain an object, permission, or agreement through persistent sweet talk."
+      }
+    },
+    {
+      "word": "flatter",
+      "note": {
+        "ja": "人を喜ばせるため、または利益を得るために、過剰な称賛を与える。",
+        "en": "To give someone excessive praise in order to please them or gain an advantage."
+      }
+    },
+    {
+      "word": "sweet-talk",
+      "note": {
+        "ja": "魅力的で甘い言葉によって相手を説得する、現代的で口語的な語。",
+        "en": "A modern informal verb meaning to persuade someone with charming and pleasing language."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schmeicheln / mit Schmeicheleien überreden",
+    "it": "lusingare / blandire",
+    "fr": "amadouer / flatter",
+    "es": "adular / engatusar"
+  },
+  "collocations": {
+    "ja": [
+      "blandish someone with praise — 称賛によって人を丸め込む",
+      "blandish someone with compliments — お世辞で人の機嫌を取る",
+      "blandish someone with promises — 甘い約束で人を説得する",
+      "blandish someone into agreeing — 甘言によって人を同意させる",
+      "blandish someone into cooperation — 人を甘言で協力させる",
+      "try to blandish someone — 人を甘言で動かそうとする",
+      "refuse to be blandished — 甘言に乗せられることを拒む",
+      "yield to blandishments — 甘言に屈する",
+      "resist someone’s blandishments — 人の甘言に抵抗する",
+      "empty blandishments — 中身のない甘言",
+      "promises and blandishments — 約束と甘言",
+      "immune to flattery and blandishments — お世辞や甘言に動じない"
+    ],
+    "en": [
+      "blandish someone with praise",
+      "blandish someone with compliments",
+      "blandish someone with promises",
+      "blandish someone into agreeing",
+      "blandish someone into cooperation",
+      "try to blandish someone",
+      "refuse to be blandished",
+      "yield to blandishments",
+      "resist someone’s blandishments",
+      "empty blandishments",
+      "promises and blandishments",
+      "immune to flattery and blandishments"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He tried to blandish the official with extravagant praise. — 彼は大げさな称賛によって、その役人を丸め込もうとした。",
+      "She could not be blandished into supporting a proposal she considered dishonest. — 彼女は、不誠実だと考える提案を支持するよう甘言で説得されることはなかった。",
+      "The negotiator resisted both threats and blandishments. — その交渉担当者は、脅迫にも甘言にも屈しなかった。",
+      "Investors should examine the figures rather than yield to the promoter’s blandishments. — 投資家は、発起人の甘言に乗るのではなく、数値を検討すべきである。",
+      "The examiner cannot be blandished into allowing a patent; the applicant must answer the substantive objections. — 審査官を甘言によって特許査定へ導くことはできず、出願人は実体的な拒絶理由に応答しなければならない。"
+    ],
+    "en": [
+      "He tried to blandish the official with extravagant praise.",
+      "She could not be blandished into supporting a proposal she considered dishonest.",
+      "The negotiator resisted both threats and blandishments.",
+      "Investors should examine the figures rather than yield to the promoter’s blandishments.",
+      "The examiner cannot be blandished into allowing a patent; the applicant must answer the substantive objections."
+    ]
+  }
+},
+{
+  "id": "blandishment",
+  "sid": "2026-01276",
+  "word": "blandishment / blandishments",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "flattery",
+    "persuasion",
+    "coaxing",
+    "enticement",
+    "manipulation",
+    "rhetoric",
+    "literary",
+    "formal",
+    "rare",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable; most commonly plural",
+    "plural": "blandishments",
+    "forms": {
+      "singular": "blandishment",
+      "plural": "blandishments",
+      "verb": "blandish",
+      "related_noun": "flattery"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a blandishment",
+      "someone’s blandishments",
+      "the blandishments of + person / thing",
+      "use blandishments to do",
+      "offer promises and blandishments",
+      "resist someone’s blandishments",
+      "yield / succumb to blandishments",
+      "be unmoved by blandishments",
+      "ignore threats and blandishments",
+      "through a mixture of threats and blandishments"
+    ],
+    "usage": {
+      "number": "The plural blandishments is much more common than the singular blandishment.",
+      "scope": "Blandishments may include compliments, charming attention, tempting promises, or rewards used to influence someone.",
+      "evaluation": "The word normally suggests that the persuasion is manipulative or should not be trusted.",
+      "register": "Literary and formal; flattery, sweet talk, or persuasion is more natural in everyday conversation.",
+      "person_source": "A possessive commonly identifies the persuader: resist the salesperson’s blandishments."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈblændɪʃmənt/; plural /ˈblændɪʃmənts/",
+      "uk": "/ˈblændɪʃmənt/; plural /ˈblændɪʃmənts/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人を喜ばせて説得するための、お世辞・甘言",
+      "相手の警戒を解くための愛想のよい言葉や態度",
+      "人の判断を動かすために提示される魅力的な約束・誘い",
+      "利益・同意・協力を得るための懐柔策"
+    ],
+    "en": [
+      "flattering or pleasing words used to persuade someone",
+      "charming language or behavior intended to lower another person’s resistance",
+      "an attractive promise or inducement offered to influence judgment",
+      "a means of coaxing someone into providing agreement, cooperation, or advantage"
+    ]
+  },
+  "nuance": {
+    "ja": "blandishments は単なる褒め言葉ではなく、相手を説得・懐柔する目的で使われる甘い言葉や魅力的な誘いを表す。内容はお世辞に限らず、地位・利益・報酬の約束、親しげな態度なども含み得る。通常、話者はその手段を表面的・操作的・信用しにくいものとして見ている。threats and blandishments と並べると、「脅しと懐柔」という硬軟両面の働きかけを意味する。現代の日常会話ではかなり仰々しく響き、sweet talk や flattery の方が自然である。",
+    "en": "Blandishments are not merely compliments but pleasing words or attractive inducements used for persuasion. They may include promises of status, profit, reward, or friendly treatment as well as direct flattery. The speaker normally regards these methods as superficial, manipulative, or untrustworthy. Threats and blandishments describes a combination of coercive and conciliatory pressure. The word sounds elevated or old-fashioned in everyday conversation, where sweet talk or flattery would be more natural."
+  },
+  "minimal": {
+    "ja": [
+      "blandishments：人を説得・懐柔するための甘言・お世辞・魅力的な誘い。主に複数形。",
+      "flattery：人を喜ばせたり利益を得たりするための過剰な称賛。",
+      "sweet talk：人をその気にさせるための甘い言葉。口語的。",
+      "cajolery：お世辞や愛想のよい働きかけによる説得。",
+      "coaxing：優しい言葉や辛抱強い働きかけによって行動を促すこと。",
+      "enticement：魅力的な利益・快楽などで人を誘うもの。",
+      "inducement：人に特定の行動を取らせるため提示される利益・動機。",
+      "compliment：外見・能力・成果などへの好意的な発言。操作目的とは限らない。"
+    ],
+    "en": [
+      "blandishments are flattering words or attractive inducements used to persuade or manipulate, chiefly in the plural.",
+      "flattery is excessive praise intended to please someone or obtain an advantage.",
+      "sweet talk is informal pleasing language used to persuade someone.",
+      "cajolery is persuasion through flattery, charm, or friendly pressure.",
+      "coaxing is gentle or patient encouragement intended to produce an action.",
+      "enticement is something attractive that tempts a person toward an action.",
+      "an inducement is a benefit or motive offered to cause a particular action.",
+      "a compliment is a favorable remark about appearance, ability, or achievement and need not be manipulative."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 blandish に、行為・結果・手段を表す名詞接尾辞 -ment が付いて成立した。blandish は古フランス語 blandir を経て、ラテン語 blandiri「なだめる、優しい言葉をかける、へつらう」に由来する。その基礎となる blandus は「愛想のよい、魅力的な、甘言を弄する」を意味した。したがって blandishment は、文字どおりには「甘い言葉でなだめ、働きかける行為・手段」を表す。",
+    "en": "Blandishment was formed from the verb blandish and the noun-forming suffix -ment, which can denote an act, result, or means. Blandish came through Old French blandir from Latin blandiri, meaning to soothe, address gently, or flatter. Its base blandus meant charming, pleasant, or flattering. A blandishment therefore originally represented an act or means of influencing someone through soothing and pleasing language."
+  },
+  "synonyms": [
+    {
+      "word": "flattery",
+      "note": {
+        "ja": "相手を喜ばせたり利益を得たりするための過剰・不誠実な称賛。",
+        "en": "Excessive or insincere praise intended to please someone or secure an advantage."
+      }
+    },
+    {
+      "word": "sweet talk",
+      "note": {
+        "ja": "人を説得したり機嫌を取ったりするための甘い言葉を表す口語表現。",
+        "en": "An informal expression for pleasing language used to persuade or gain favor."
+      }
+    },
+    {
+      "word": "cajolery",
+      "note": {
+        "ja": "愛想・お世辞・粘り強い働きかけによって相手を説得すること。",
+        "en": "Persuasion through charm, flattery, and persistent friendly pressure."
+      }
+    },
+    {
+      "word": "inducement",
+      "note": {
+        "ja": "人に行動させるために提示する利益・報酬・その他の動機。",
+        "en": "A benefit, reward, or other motive offered to cause someone to act."
+      }
+    },
+    {
+      "word": "enticement",
+      "note": {
+        "ja": "魅力的な利益や楽しみを示し、人を行動へ誘うもの。",
+        "en": "Something attractive that tempts or persuades a person to take an action."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Schmeichelei / Lockung",
+    "it": "lusinga / blandizia",
+    "fr": "flatterie / cajolerie",
+    "es": "halago / lisonja"
+  },
+  "collocations": {
+    "ja": [
+      "someone’s blandishments — 人の甘言",
+      "the blandishments of power — 権力の甘い誘惑",
+      "the blandishments of advertisers — 広告業者の巧みな誘い文句",
+      "offer blandishments — 甘言・誘因を提示する",
+      "use blandishments — 甘言を用いる",
+      "resist blandishments — 甘言に抵抗する",
+      "reject someone’s blandishments — 人の甘言を退ける",
+      "yield to blandishments — 甘言に屈する",
+      "succumb to blandishments — 甘言に負ける",
+      "be unmoved by blandishments — 甘言に動じない",
+      "threats and blandishments — 脅しと懐柔",
+      "promises and blandishments — 約束と甘言"
+    ],
+    "en": [
+      "someone’s blandishments",
+      "the blandishments of power",
+      "the blandishments of advertisers",
+      "offer blandishments",
+      "use blandishments",
+      "resist blandishments",
+      "reject someone’s blandishments",
+      "yield to blandishments",
+      "succumb to blandishments",
+      "be unmoved by blandishments",
+      "threats and blandishments",
+      "promises and blandishments"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She remained unmoved by his compliments and blandishments. — 彼女は、彼のお世辞や甘言にも心を動かされなかった。",
+      "The salesperson’s blandishments persuaded several customers to buy unnecessary upgrades. — 販売員の巧みな誘い文句により、数人の顧客は不要なアップグレードを購入した。",
+      "Neither threats nor blandishments could make the witness change her account. — 脅しも甘言も、証人に供述を変えさせることはできなかった。",
+      "Investors should examine the evidence instead of yielding to promises and blandishments. — 投資家は約束や甘言に屈するのではなく、証拠を検討すべきである。",
+      "A patent examiner must assess the claims objectively and remain unaffected by rhetorical blandishments. — 特許審査官は請求項を客観的に評価し、巧みな美辞麗句に影響されないようにしなければならない。"
+    ],
+    "en": [
+      "She remained unmoved by his compliments and blandishments.",
+      "The salesperson’s blandishments persuaded several customers to buy unnecessary upgrades.",
+      "Neither threats nor blandishments could make the witness change her account.",
+      "Investors should examine the evidence instead of yielding to promises and blandishments.",
+      "A patent examiner해야 assess the claims objectively and remain unaffected by rhetorical blandishments."
+    ]
+  }
+},
+{
+  "id": "flattery",
+  "sid": "2026-01277",
+  "word": "flattery",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "praise",
+    "compliment",
+    "persuasion",
+    "manipulation",
+    "insincerity",
+    "social interaction",
+    "business",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "normally uncountable",
+    "plural": "flatteries, rare",
+    "forms": {
+      "base": "flattery",
+      "rare_plural": "flatteries",
+      "verb": "flatter",
+      "adjective": "flattering",
+      "person_noun": "flatterer"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "use flattery",
+      "resort to flattery",
+      "respond to flattery",
+      "be susceptible / immune to flattery",
+      "be influenced by flattery",
+      "win someone over with flattery",
+      "an obvious piece of flattery",
+      "mere / empty / excessive flattery",
+      "flattery will get you nowhere",
+      "imitation is the sincerest form of flattery"
+    ],
+    "usage": {
+      "uncountable": "Flattery is normally uncountable: He used flattery, not He used a flattery.",
+      "individual_remark": "Use a compliment or a flattering remark for one particular favorable comment.",
+      "evaluation": "Flattery often suggests that the praise is excessive, insincere, or motivated by self-interest.",
+      "sincere_response": "That’s very flattering can express genuine pleasure without accusing the speaker of insincerity.",
+      "plural": "Flatteries exists but is rare and literary; compliments is normally preferred for multiple remarks."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈflætəri/",
+      "uk": "/ˈflætəri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人を喜ばせるための過剰な称賛・お世辞",
+      "利益・協力・承認などを得る目的で人を持ち上げること",
+      "必ずしも本心ではない好意的な言葉",
+      "人の自尊心・虚栄心に訴えて判断へ影響を与える手段"
+    ],
+    "en": [
+      "excessive praise intended to please someone",
+      "praise used to obtain advantage, cooperation, or approval",
+      "favorable language that is not necessarily sincere",
+      "a means of influencing judgment by appealing to pride or vanity"
+    ]
+  },
+  "nuance": {
+    "ja": "flattery は praise や compliment よりも、称賛が過剰・不誠実で、何らかの利益を得る目的を持つ可能性を強く示す。Your presentation was very clear. が誠実な評価なら compliment だが、承認を得るために実際以上に持ち上げるなら flattery になり得る。もっとも、That’s very flattering. や I’m flattered. は、相手の発言を不誠実だと非難せず、「そう評価していただけて光栄です」と受け止める表現である。blandishments は、お世辞に加えて甘い約束・報酬・魅力的な誘いまで含みやすい。",
+    "en": "Flattery more strongly than praise or compliment suggests that approval is excessive, insincere, or motivated by a desire for advantage. Your presentation was very clear may be a sincere compliment, but exaggerated praise offered to secure approval can constitute flattery. Nevertheless, That’s very flattering and I’m flattered normally express pleasure at another person’s favorable opinion without accusing them of insincerity. Blandishments more readily includes tempting promises, rewards, and other inducements in addition to flattering words."
+  },
+  "minimal": {
+    "ja": [
+      "flattery：相手を喜ばせたり利益を得たりするための、過剰・不誠実になり得る称賛。",
+      "compliment：外見・能力・成果などに対する個別の好意的な発言。",
+      "praise：人の行為・性質・成果を価値あるものとして称賛すること。",
+      "blandishment：人を懐柔するための甘言・魅力的な誘い。主に複数形。",
+      "sweet talk：人を説得するための甘い言葉。口語的。",
+      "sycophancy：権力者の歓心を買うための卑屈・不誠実な追従。",
+      "adulation：人に対する過度で熱烈な称賛・崇拝。",
+      "appreciation：人や物の価値・貢献を正当に認識し、感謝すること。"
+    ],
+    "en": [
+      "flattery is potentially excessive or insincere praise intended to please someone or obtain an advantage.",
+      "a compliment is an individual favorable remark about appearance, ability, or achievement.",
+      "praise is the expression of approval for a person’s conduct, qualities, or accomplishments.",
+      "a blandishment is flattering language or an attractive inducement used to coax someone, chiefly in the plural.",
+      "sweet talk is informal pleasing language used to persuade someone.",
+      "sycophancy is servile and insincere praise intended to gain favor with a powerful person.",
+      "adulation is excessive and enthusiastic praise or admiration.",
+      "appreciation is proper recognition of and gratitude for someone’s value or contribution."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 flatter に、状態・行為を表す名詞接尾辞 -y が付いて成立した。flatter は古フランス語 flater「なでる、愛撫する、お世辞を言う」に由来するが、それより古い起源は確定していない。心地よい仕方で相手を扱うことから、耳に心地よい言葉で人を喜ばせる意味へ発達した。flattery は、そのような称賛行為や言葉を集合的に表すため、通常は不可算名詞として用いられる。",
+    "en": "Flattery was formed from the verb flatter with the noun-forming suffix -y. Flatter came from Old French flater, meaning to stroke, caress, or praise pleasingly, although its deeper origin is uncertain. The idea of treating someone in a physically pleasing manner developed into pleasing the person with agreeable words. Because flattery collectively describes such praise or conduct, it is normally used as an uncountable noun."
+  },
+  "synonyms": [
+    {
+      "word": "praise",
+      "note": {
+        "ja": "人の性質・行為・成果を高く評価することで、通常は flattery ほど不誠実さを示唆しない。",
+        "en": "Approval of someone’s qualities, conduct, or achievements, normally without the same implication of insincerity."
+      }
+    },
+    {
+      "word": "sweet talk",
+      "note": {
+        "ja": "人を説得したり機嫌を取ったりするための甘い言葉を表す口語表現。",
+        "en": "An informal expression for charming language used to persuade or gain favor."
+      }
+    },
+    {
+      "word": "blandishment",
+      "note": {
+        "ja": "お世辞・約束・誘いなどによって人を懐柔する手段。主に複数形で用いる。",
+        "en": "A flattering remark, promise, or inducement used to coax someone, most commonly in the plural."
+      }
+    },
+    {
+      "word": "adulation",
+      "note": {
+        "ja": "対象を実際以上に高く評価する、過度で熱烈な称賛。",
+        "en": "Excessive and enthusiastic admiration that elevates someone beyond reasonable judgment."
+      }
+    },
+    {
+      "word": "sycophancy",
+      "note": {
+        "ja": "権力・利益を得るために行う、卑屈で不誠実な追従。",
+        "en": "Servile and insincere praise offered to obtain power, favor, or advantage."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Schmeichelei",
+    "it": "adulazione / lusinga",
+    "fr": "flatterie",
+    "es": "adulación / halago interesado"
+  },
+  "collocations": {
+    "ja": [
+      "use flattery — お世辞を使う",
+      "resort to flattery — お世辞に頼る",
+      "empty flattery — 心のこもっていないお世辞",
+      "obvious flattery — 見え透いたお世辞",
+      "excessive flattery — 過剰な称賛",
+      "insincere flattery — 不誠実なお世辞",
+      "be susceptible to flattery — お世辞に弱い",
+      "be immune to flattery — お世辞に動じない",
+      "win someone over with flattery — お世辞で人を味方につける",
+      "dismiss something as flattery — 何かをお世辞にすぎないとして退ける",
+      "flattery will get you nowhere — お世辞を言っても何も得られない",
+      "the sincerest form of flattery — 最も誠実な称賛の形"
+    ],
+    "en": [
+      "use flattery",
+      "resort to flattery",
+      "empty flattery",
+      "obvious flattery",
+      "excessive flattery",
+      "insincere flattery",
+      "be susceptible to flattery",
+      "be immune to flattery",
+      "win someone over with flattery",
+      "dismiss something as flattery",
+      "flattery will get you nowhere",
+      "the sincerest form of flattery"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He used flattery to persuade the manager to approve his request. — 彼はお世辞を使い、部長に自分の要求を承認させようとした。",
+      "She is too experienced to be influenced by empty flattery. — 彼女は経験豊富なので、心のこもっていないお世辞には動かされない。",
+      "That’s very flattering, but I don’t think I deserve so much praise. — そう言っていただけるのは光栄ですが、それほど褒めていただくには値しないと思います。",
+      "The investor ignored the promoter’s flattery and examined the financial records. — 投資家は発起人のお世辞を無視し、財務記録を調査した。",
+      "Flattery cannot overcome a substantive objection to the patent claims. — お世辞によって、特許請求項に対する実体的な拒絶理由を解消することはできない。"
+    ],
+    "en": [
+      "He used flattery to persuade the manager to approve his request.",
+      "She is too experienced to be influenced by empty flattery.",
+      "That’s very flattering, but I don’t think I deserve so much praise.",
+      "The investor ignored the promoter’s flattery and examined the financial records.",
+      "Flattery cannot overcome a substantive objection to the patent claims."
+    ]
+  }
+},
+{
+  "id": "compliment",
+  "sid": "2026-01278",
+  "word": "compliment",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "praise",
+    "approval",
+    "appearance",
+    "achievement",
+    "social interaction",
+    "gratitude",
+    "business",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable as a noun",
+    "plural": "compliments",
+    "forms": {
+      "noun_singular": "compliment",
+      "noun_plural": "compliments",
+      "verb_base": "compliment",
+      "third_person": "compliments",
+      "past": "complimented",
+      "past_participle": "complimented",
+      "gerund": "complimenting",
+      "adjective": "complimentary"
+    },
+    "transitivity": "transitive as a verb",
+    "patterns": [
+      "give / pay someone a compliment",
+      "receive / accept a compliment",
+      "take something as a compliment",
+      "return the compliment",
+      "compliment someone",
+      "compliment someone on + noun / gerund",
+      "compliment someone for + achievement",
+      "compliments to + person",
+      "with someone’s compliments",
+      "fish for compliments"
+    ],
+    "usage": {
+      "verb_pattern": "The standard pattern is compliment someone on something: She complimented me on my presentation.",
+      "noun_pattern": "A compliment is normally countable: give someone a compliment.",
+      "compliments_plural": "Compliments can mean greetings, praise, or good wishes in expressions such as compliments to the chef.",
+      "spelling": "Compliment with i means praise; complement with e means complete, enhance, or form a matching counterpart.",
+      "adjective": "Complimentary can mean expressing praise or provided free of charge.",
+      "register": "Natural in both everyday and professional communication."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkɑːmpləmənt/",
+      "uk": "/ˈkɒmplɪmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人の外見・能力・行為・所有物などを褒める言葉",
+      "人への敬意・評価・称賛を表す行為",
+      "人の外見・能力・成果などについて好意的な評価を伝える",
+      "compliments の形で、挨拶・賛辞・よろしくとの言葉",
+      "with someone’s compliments の形で、厚意により無料で贈られたこと"
+    ],
+    "en": [
+      "a favorable remark about someone’s appearance, ability, conduct, achievement, or possessions",
+      "an act expressing admiration, respect, or approval",
+      "to express a favorable judgment about someone or something associated with them",
+      "in the plural, greetings, praise, or good wishes sent to someone",
+      "in with someone’s compliments, provided as a gift or without charge"
+    ]
+  },
+  "nuance": {
+    "ja": "compliment は、特定の長所・外見・成果について伝える個別の褒め言葉であり、通常は好意的・誠実なものとして理解される。flattery は過剰・不誠実で、利益を得る目的を持つ可能性を示唆する点で異なる。Your English is excellent. は compliment になり得るが、相手から何かを得るために大げさに言えば flattery になり得る。動詞では compliment someone on something とし、compliment on someone とはしない。I’ll take that as a compliment. は、曖昧または少し批判的な発言を、あえて褒め言葉として受け取る表現である。",
+    "en": "A compliment is an individual favorable remark about a particular quality, appearance, possession, or achievement and is normally understood as friendly and sincere. Flattery differs in suggesting possible exaggeration, insincerity, or self-interested motivation. Your English is excellent can be a compliment, but it may become flattery if deliberately exaggerated to obtain an advantage. The verb pattern is compliment someone on something, not compliment on someone. I’ll take that as a compliment humorously or confidently treats an ambiguous or mildly critical remark as praise."
+  },
+  "minimal": {
+    "ja": [
+      "compliment：外見・能力・成果などについて人に伝える、個別の褒め言葉。",
+      "praise：価値ある行為・性質・成果を称賛すること。compliment より広く強い場合がある。",
+      "flattery：相手を喜ばせたり利益を得たりするための、過剰・不誠実になり得る称賛。",
+      "commend：人の行為・成果を正式に高く評価する。",
+      "congratulate：成功・合格・結婚などの喜ばしい出来事について祝意を伝える。",
+      "admire：人・物の性質や成果を優れていると感じ、尊敬・感嘆する。",
+      "complimentary：称賛を表す、または無料で提供される。",
+      "complement：別の物を補い、全体を完成・向上させる。compliment とは別語。"
+    ],
+    "en": [
+      "a compliment is an individual favorable remark about appearance, ability, or achievement.",
+      "praise is approval of valuable conduct, qualities, or achievements and can be broader or stronger.",
+      "flattery is potentially excessive or insincere praise intended to please or influence someone.",
+      "commend means formally expressing approval of someone’s conduct or achievement.",
+      "congratulate means expressing pleasure at someone’s success or happy event.",
+      "admire means regarding someone or something with respect, approval, or wonder.",
+      "complimentary means expressing praise or provided free of charge.",
+      "complement means completing or enhancing something and is distinct from compliment."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 compliment、イタリア語 complimento を経て英語に入り、さらにラテン語 complere「満たす、完成させる」に関係する。もとは礼儀上の義務を「満たす」挨拶・敬意の表明を指し、そこから人を喜ばせる好意的な言葉という意味が発達した。complement も同じラテン語系統に属するが、complement は「欠けた部分を満たして完成させるもの」、compliment は「褒め言葉」と意味・綴りが分かれた。",
+    "en": "Compliment entered English through French compliment and Italian complimento and is ultimately related to Latin complere, to fill or complete. It originally referred to a ceremonial expression that fulfilled a social obligation of politeness or respect. From this developed the modern sense of a favorable remark that pleases another person. Complement belongs to the same Latin word family but developed the meaning something that completes or enhances, while compliment became the word for praise."
+  },
+  "synonyms": [
+    {
+      "word": "praise",
+      "note": {
+        "ja": "人の行動・性質・成果を価値あるものとして評価し、称賛すること。",
+        "en": "Approval expressed for a person’s conduct, qualities, or achievements."
+      }
+    },
+    {
+      "word": "commendation",
+      "note": {
+        "ja": "優れた行為・業績に対する、比較的正式な称賛・表彰。",
+        "en": "Relatively formal praise or recognition for admirable conduct or achievement."
+      }
+    },
+    {
+      "word": "tribute",
+      "note": {
+        "ja": "人物・功績への尊敬・感謝を、公に表明する言葉や行為。",
+        "en": "A public statement or act expressing admiration or gratitude for a person or achievement."
+      }
+    },
+    {
+      "word": "flattering remark",
+      "note": {
+        "ja": "人を喜ばせる好意的な発言。文脈によってはお世辞の含みを持つ。",
+        "en": "A favorable statement that pleases someone and may, depending on context, suggest flattery."
+      }
+    },
+    {
+      "word": "accolade",
+      "note": {
+        "ja": "功績に対して与えられる公的な称賛・賞・栄誉。",
+        "en": "Public praise, an award, or an honor granted in recognition of achievement."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Kompliment / ein Kompliment machen",
+    "it": "complimento / complimentarsi con",
+    "fr": "compliment / complimenter",
+    "es": "cumplido / halago / felicitar"
+  },
+  "collocations": {
+    "ja": [
+      "give someone a compliment — 人を褒める",
+      "pay someone a compliment — 人に賛辞を送る",
+      "receive a compliment — 褒め言葉を受ける",
+      "accept a compliment — 褒め言葉を素直に受け入れる",
+      "take something as a compliment — 何かを褒め言葉として受け取る",
+      "return the compliment — 相手にも同様の褒め言葉を返す",
+      "compliment someone on their work — 人の仕事ぶりを褒める",
+      "compliment someone on their appearance — 人の外見を褒める",
+      "fish for compliments — 褒めてもらおうと誘いをかける",
+      "a sincere compliment — 心からの褒め言葉",
+      "a backhanded compliment — 褒めているようで侮辱を含む言葉",
+      "compliments to the chef — 料理人に賛辞を"
+    ],
+    "en": [
+      "give someone a compliment",
+      "pay someone a compliment",
+      "receive a compliment",
+      "accept a compliment",
+      "take something as a compliment",
+      "return the compliment",
+      "compliment someone on their work",
+      "compliment someone on their appearance",
+      "fish for compliments",
+      "a sincere compliment",
+      "a backhanded compliment",
+      "compliments to the chef"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She complimented me on my presentation. — 彼女は私のプレゼンテーションを褒めてくれた。",
+      "He received several compliments on his new jacket. — 彼は新しいジャケットについて、いくつもの褒め言葉をもらった。",
+      "I wasn’t sure whether her remark was a compliment or a criticism. — 彼女の発言が褒め言葉なのか批判なのか、私には分からなかった。",
+      "The client complimented the legal team on its clear and practical advice. — 顧客は法務チームの明確で実践的な助言を称賛した。",
+      "Calling a patent claim unusually concise can be either a compliment or a warning, depending on the context. — 特許請求項を異例に簡潔だと評することは、文脈によって褒め言葉にも警告にもなり得る。"
+    ],
+    "en": [
+      "She complimented me on my presentation.",
+      "He received several compliments on his new jacket.",
+      "I wasn’t sure whether her remark was a compliment or a criticism.",
+      "The client complimented the legal team on its clear and practical advice.",
+      "Calling a patent claim unusually concise can be either a compliment or a warning, depending on the context."
+    ]
+  }
+},
+{
+  "id": "fawn",
+  "sid": "2026-01279",
+  "word": "fawn",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "verb",
+    "animal",
+    "deer",
+    "color",
+    "flattery",
+    "sycophancy",
+    "admiration",
+    "behavior",
+    "literary",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb / color adjective",
+    "countability": "countable for a young deer; uncountable for the color",
+    "plural": "fawns",
+    "forms": {
+      "noun_singular": "fawn",
+      "noun_plural": "fawns",
+      "verb_base": "fawn",
+      "third_person": "fawns",
+      "past": "fawned",
+      "past_participle": "fawned",
+      "gerund": "fawning",
+      "color": "fawn",
+      "adjective": "fawning"
+    },
+    "transitivity": "intransitive as a verb",
+    "patterns": [
+      "a newborn / young fawn",
+      "a fawn-colored + noun",
+      "fawn over + person",
+      "fawn on / upon + person",
+      "fawn over someone’s work / appearance",
+      "fawn over each other",
+      "fawn for attention / approval",
+      "a fawning admirer",
+      "a fawning manner / tone",
+      "refuse to fawn over + person"
+    ],
+    "usage": {
+      "animal": "As a countable noun, fawn normally means a young deer, especially during its first year.",
+      "color": "Fawn can name a light yellowish-brown color and can modify another noun.",
+      "preposition": "In the flattering sense, fawn is normally followed by over, on, or upon.",
+      "evaluation": "The verb is strongly disapproving and suggests excessive, servile, or self-interested admiration.",
+      "transitivity": "Do not normally say fawn someone; use fawn over or fawn on someone."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/fɔːn/",
+      "uk": "/fɔːn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "生後おおむね一年以内の鹿の子、子鹿",
+      "薄い黄褐色・淡い茶色",
+      "歓心・利益・承認を得るため、人にへつらう",
+      "人を過度に褒めたり、ちやほやしたりする",
+      "相手に従属的な態度で愛想や称賛を示す"
+    ],
+    "en": [
+      "a young deer, especially one in its first year",
+      "a light yellowish-brown color",
+      "to behave flatteringly toward someone in order to gain favor, approval, or advantage",
+      "to give someone excessive praise or admiring attention",
+      "to display affection or admiration in a servile manner"
+    ]
+  },
+  "nuance": {
+    "ja": "動詞 fawn は、単に人を admire「尊敬する」または praise「称賛する」のではなく、相手の権力・地位・人気などから利益を得ようとして、過度にへりくだった称賛を示すことを表す。fawn over は、相手を大げさに褒めてちやほやする行動に焦点を置き、fawn on/upon もほぼ同じ意味だが、やや文語的に響く場合がある。fawning は a fawning admirer や a fawning tone のように、卑屈な追従を表す強い批判語である。子鹿を表す名詞の fawn には、この否定的評価はない。",
+    "en": "As a verb, fawn does not merely mean admire or praise. It suggests exaggerated and servile approval directed toward someone whose power, status, or popularity may provide an advantage. Fawn over emphasizes lavish attention and praise. Fawn on or upon has nearly the same meaning and may sound somewhat more literary. Fawning is strongly critical in expressions such as a fawning admirer or a fawning tone. The noun referring to a young deer carries none of this negative evaluation."
+  },
+  "minimal": {
+    "ja": [
+      "fawn：名詞では子鹿。動詞では、利益や歓心を得るため人に過度にへつらう。",
+      "flatter：人を喜ばせたり利益を得たりするため、実際以上に褒める。",
+      "adore：人・物を深く愛し、非常に好む。へつらいとは限らない。",
+      "gush over：人・物について、興奮して大げさに褒める。",
+      "grovel：許し・利益などを得るため、卑屈に振る舞う。",
+      "kowtow：権力者に対して過度に服従・追従する。",
+      "suck up to：利益を得るため目上の人にへつらう、非常に口語的な表現。",
+      "sycophancy：権力者の歓心を買うための卑屈で不誠実な追従。"
+    ],
+    "en": [
+      "fawn means a young deer or, as a verb, giving someone excessive and servile admiration to gain favor.",
+      "flatter means praising someone excessively to please them or obtain an advantage.",
+      "adore means loving or liking someone or something deeply and does not necessarily imply servility.",
+      "gush over means praising someone or something with excited and excessive enthusiasm.",
+      "grovel means behaving with extreme humility or submission to obtain forgiveness or advantage.",
+      "kowtow means showing excessive obedience or submission to someone powerful.",
+      "suck up to is a highly informal expression for flattering a superior to gain an advantage.",
+      "sycophancy is servile and insincere praise intended to gain favor with someone powerful."
+    ]
+  },
+  "etymology": {
+    "ja": "名詞 fawn「子鹿」は古フランス語 faon を経て、ラテン語 fetus「子を産むこと、子、胎児」に関係する語から英語に入った。一方、動詞 fawn「へつらう」は別系統で、古英語 fagnian「喜ぶ、うれしそうに振る舞う」に由来し、fain「喜んで」と同族である。喜びを示して相手にまとわりつく行動から、権力者などに愛想よくへつらう意味へ発達した。したがって、子鹿が従順に見えるため「へつらう」の意味が生まれたという説明は、直接の語源ではない。",
+    "en": "The noun fawn, a young deer, came through Old French faon and is ultimately related to a Latin word connected with fetus, offspring, or giving birth. The verb fawn, meaning behave servilely, has a separate history. It derives from Old English fagnian, to rejoice or show delight, and is related to fain. From displaying eager pleasure and affection, the verb developed the sense of behaving ingratiatingly toward a powerful person. The flattering sense therefore did not directly originate from the submissive appearance of a young deer."
+  },
+  "synonyms": [
+    {
+      "word": "flatter",
+      "note": {
+        "ja": "相手を喜ばせたり動かしたりする目的で、過剰な称賛を与える。",
+        "en": "To give someone excessive praise in order to please or influence them."
+      }
+    },
+    {
+      "word": "gush over",
+      "note": {
+        "ja": "人・作品などについて、感情をあふれさせて大げさに褒める。",
+        "en": "To praise a person or work with overflowing and often excessive enthusiasm."
+      }
+    },
+    {
+      "word": "grovel",
+      "note": {
+        "ja": "利益・許しを得るため、自尊心を捨てたように卑屈に振る舞う。",
+        "en": "To behave with humiliating submission in order to obtain advantage or forgiveness."
+      }
+    },
+    {
+      "word": "kowtow",
+      "note": {
+        "ja": "権力・権威を持つ人に過度の服従や追従を示す。",
+        "en": "To display excessive obedience or deference toward a powerful authority."
+      }
+    },
+    {
+      "word": "suck up to",
+      "note": {
+        "ja": "目上の人から利益を得るためにへつらう、くだけた批判表現。",
+        "en": "A strongly informal and critical expression for flattering a superior to gain favor."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Rehkitz / rehbraun / jemandem schmeicheln",
+    "it": "cerbiatto / fulvo / adulare",
+    "fr": "faon / fauve / flagorner",
+    "es": "cervatillo / leonado / adular"
+  },
+  "collocations": {
+    "ja": [
+      "a newborn fawn — 生まれたばかりの子鹿",
+      "a spotted fawn — 斑点のある子鹿",
+      "a fawn-colored coat — 淡い黄褐色のコート",
+      "fawn over someone — 人を過度にちやほやする",
+      "fawn on the powerful — 権力者にへつらう",
+      "fawn over a celebrity — 有名人を大げさに持ち上げる",
+      "fawn over someone’s appearance — 人の外見を過度に褒める",
+      "fawn for approval — 承認を得ようとしてへつらう",
+      "a fawning admirer — へつらう崇拝者",
+      "a fawning manner — 卑屈な追従的態度",
+      "a fawning tone — へつらうような口調",
+      "refuse to fawn over someone — 人をちやほやすることを拒む"
+    ],
+    "en": [
+      "a newborn fawn",
+      "a spotted fawn",
+      "a fawn-colored coat",
+      "fawn over someone",
+      "fawn on the powerful",
+      "fawn over a celebrity",
+      "fawn over someone’s appearance",
+      "fawn for approval",
+      "a fawning admirer",
+      "a fawning manner",
+      "a fawning tone",
+      "refuse to fawn over someone"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We saw a doe and her fawn at the edge of the forest. — 森の縁で、雌鹿とその子鹿を見かけた。",
+      "The guests fawned over the famous actor throughout the evening. — 客たちはその晩ずっと、有名俳優を大げさにちやほやしていた。",
+      "He refuses to fawn on senior managers merely to advance his career. — 彼は出世のためだけに上級管理職へへつらうことを拒んでいる。",
+      "The journalist criticized the interview for its fawning tone. — その記者は、インタビューの追従的な口調を批判した。",
+      "A patent applicant must rely on evidence and legal argument, not fawn over the examiner in the hope of securing allowance. — 特許出願人は、特許査定を期待して審査官にへつらうのではなく、証拠と法的主張に依拠しなければならない。"
+    ],
+    "en": [
+      "We saw a doe and her fawn at the edge of the forest.",
+      "The guests fawned over the famous actor throughout the evening.",
+      "He refuses to fawn on senior managers merely to advance his career.",
+      "The journalist criticized the interview for its fawning tone.",
+      "A patent applicant must rely on evidence and legal argument, not fawn over the examiner in the hope of securing allowance."
+    ]
+  }
+},
+{
+  "id": "suck-up-to",
+  "sid": "2026-01280",
+  "word": "suck up to",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "flattery",
+    "sycophancy",
+    "self-interest",
+    "manipulation",
+    "authority",
+    "workplace",
+    "school",
+    "insult",
+    "informal",
+    "American English",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal-prepositional verb",
+    "forms": {
+      "base": "suck up to",
+      "third_person": "sucks up to",
+      "past": "sucked up to",
+      "past_participle": "sucked up to",
+      "gerund": "sucking up to",
+      "person_noun": "suck-up",
+      "person_noun_plural": "suck-ups"
+    },
+    "transitivity": "prepositional transitive",
+    "patterns": [
+      "suck up to + person",
+      "suck up to the boss / teacher",
+      "suck up to someone for + benefit",
+      "suck up to someone by + gerund",
+      "try to suck up to someone",
+      "stop sucking up to someone",
+      "accuse someone of sucking up to + person",
+      "have no need to suck up to anyone",
+      "a shameless suck-up",
+      "such a suck-up"
+    ],
+    "usage": {
+      "object_position": "The person being flattered follows to: suck up to the manager.",
+      "inseparability": "The expression is not separated; do not say suck the manager up to.",
+      "evaluation": "It is strongly disapproving and imputes a selfish motive to the person’s politeness or praise.",
+      "noun": "The noun suck-up is hyphenated and refers disparagingly to a person who behaves this way.",
+      "separate_literal_use": "Suck up without to can literally mean draw in liquid, dust, or air and must be distinguished from this idiom.",
+      "register": "Highly informal and potentially insulting; ingratiate oneself with is appropriate in formal contexts."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌsʌk ˈʌp tuː/",
+      "uk": "/ˌsʌk ˈʌp tuː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "利益を得るため、目上の人・権力者にお世辞を言う",
+      "昇進・評価・許可などを期待して、人の機嫌を取る",
+      "過度な称賛や従順な態度によって歓心を買おうとする",
+      "人に取り入るため、不誠実な親切・同意・追従を示す"
+    ],
+    "en": [
+      "to flatter a superior or powerful person in order to obtain an advantage",
+      "to seek promotion, approval, or permission by pleasing someone",
+      "to gain favor through excessive praise or submissive behavior",
+      "to display insincere kindness, agreement, or devotion in order to ingratiate oneself"
+    ]
+  },
+  "nuance": {
+    "ja": "suck up to は、相手への称賛が不誠実で、利益を得るための行動だと決めつける強い批判表現である。単に上司へ礼儀正しく接したり、正当に評価したりするだけでは suck up to とはいわない。He’s sucking up to the boss. は「あいつは上司にごまをすっている」と、その人の動機や人格まで否定的に評価する。そのため本人へ直接 Stop sucking up. と言えば侮辱的になり得る。主にアメリカ英語でよく使われるが、広く理解される。正式な文脈では seek favor with、ingratiate oneself with、use flattery to influence などが適切である。",
+    "en": "Suck up to strongly criticizes praise or politeness as insincere conduct motivated by personal advantage. Merely treating a manager courteously or offering deserved praise does not amount to sucking up. He’s sucking up to the boss negatively judges both the conduct and the person’s motive or character. Directly telling someone Stop sucking up can therefore be insulting. The expression is especially common in American English but is widely understood. In formal contexts, seek favor with, ingratiate oneself with, or use flattery to influence is more appropriate."
+  },
+  "minimal": {
+    "ja": [
+      "suck up to：利益を得るため目上の人にへつらう。非常に口語的で批判的。",
+      "flatter：人を喜ばせたり動かしたりするため、実際以上に褒める。",
+      "fawn over：人に過度な称賛・注目を示し、ちやほやする。",
+      "ingratiate oneself with：歓心を買うため、意図的に人へ好印象を与える。より形式的。",
+      "curry favor with：利益を得るため、権力者などの機嫌を取る。",
+      "brown-nose：目上の人に卑屈にへつらう。suck up to より下品に響き得る。",
+      "butter up：頼み事を通すため、お世辞で相手の機嫌を取る。",
+      "be courteous to：人に礼儀正しく接する。自己利益や不誠実さは含まない。"
+    ],
+    "en": [
+      "suck up to means flattering a superior for personal advantage and is highly informal and critical.",
+      "flatter means praising someone excessively in order to please or influence them.",
+      "fawn over means giving someone excessive and servile admiration or attention.",
+      "ingratiate oneself with formally means deliberately making oneself agreeable to gain another person’s favor.",
+      "curry favor with means trying to gain advantage by pleasing someone powerful.",
+      "brown-nose means flattering a superior servilely and may sound cruder than suck up to.",
+      "butter up means using flattery to prepare someone to grant a request.",
+      "be courteous to means treating someone politely without implying selfish motivation or insincerity."
+    ]
+  },
+  "etymology": {
+    "ja": "suck は古英語 sūcan「吸う」に由来する。液体などを自分の方へ吸い寄せる物理的意味から、suck up には「吸い上げる」という意味が生まれた。一方、人にへつらう suck up の正確な比喩的成立過程は明確ではない。20世紀のアメリカ口語として広まり、権力者へ過度に接近して好意を得ようとする行動を表すようになった。名詞 suck-up は、この句動詞から作られた比較的新しい人物呼称である。",
+    "en": "Suck comes from Old English sucan, meaning to draw in by suction. The physical meaning produced the literal phrasal verb suck up, as when a machine sucks up liquid or dust. The precise figurative development of suck up for servile flattery is not entirely clear. It became established in twentieth-century American informal usage for behavior intended to gain the favor of someone powerful. The disparaging noun suck-up was subsequently formed from the phrasal verb."
+  },
+  "synonyms": [
+    {
+      "word": "ingratiate oneself with",
+      "note": {
+        "ja": "利益・受容を得るため、人に好かれるよう意図的に振る舞う形式的な表現。",
+        "en": "A formal expression for deliberately making oneself agreeable to another person in order to gain acceptance or advantage."
+      }
+    },
+    {
+      "word": "curry favor with",
+      "note": {
+        "ja": "権力者などを喜ばせる行動によって、好意・利益を得ようとする。",
+        "en": "To seek favor or advantage by acting in ways intended to please someone influential."
+      }
+    },
+    {
+      "word": "brown-nose",
+      "note": {
+        "ja": "昇進・利益などを求め、上司や権力者に卑屈にへつらう。",
+        "en": "To flatter a superior servilely in pursuit of promotion or another advantage."
+      }
+    },
+    {
+      "word": "fawn over",
+      "note": {
+        "ja": "相手に過度な称賛・愛想・注目を示し、歓心を買おうとする。",
+        "en": "To give someone excessive praise, affection, or attention in an attempt to gain favor."
+      }
+    },
+    {
+      "word": "butter up",
+      "note": {
+        "ja": "要求・頼み事を受け入れさせるため、あらかじめ人にお世辞を言う。",
+        "en": "To flatter someone in preparation for asking them to grant a request."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sich bei jemandem einschmeicheln / jemandem in den Hintern kriechen",
+    "it": "leccare i piedi a qualcuno / ingraziarsi qualcuno",
+    "fr": "faire de la lèche à quelqu’un / passer de la pommade à quelqu’un",
+    "es": "hacerle la pelota a alguien / adular a alguien"
+  },
+  "collocations": {
+    "ja": [
+      "suck up to the boss — 上司にごまをする",
+      "suck up to the teacher — 教師に取り入る",
+      "suck up to powerful people — 権力者にへつらう",
+      "constantly suck up to someone — 絶えず人の機嫌を取る",
+      "shamelessly suck up to someone — 恥ずかしげもなく人にへつらう",
+      "try to suck up to someone — 人に取り入ろうとする",
+      "stop sucking up to someone — 人へのごますりをやめる",
+      "suck up to someone for a promotion — 昇進を狙って人にへつらう",
+      "accuse someone of sucking up — 人をごますりだと非難する",
+      "a shameless suck-up — 恥知らずなごますり",
+      "an obvious suck-up — 見え透いたごますりをする人",
+      "have no need to suck up to anyone — 誰にもへつらう必要がない"
+    ],
+    "en": [
+      "suck up to the boss",
+      "suck up to the teacher",
+      "suck up to powerful people",
+      "constantly suck up to someone",
+      "shamelessly suck up to someone",
+      "try to suck up to someone",
+      "stop sucking up to someone",
+      "suck up to someone for a promotion",
+      "accuse someone of sucking up",
+      "a shameless suck-up",
+      "an obvious suck-up",
+      "have no need to suck up to anyone"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He is always sucking up to the boss before promotion decisions. — 彼は昇進の判断が行われる前になると、いつも上司にごまをする。",
+      "You don’t have to suck up to me; just do the work properly. — 私にへつらう必要はないので、仕事をきちんとしてください。",
+      "Her colleagues accused her of sucking up to senior management. — 同僚たちは、彼女が上級管理職に取り入っていると非難した。",
+      "Being courteous to a client is professional conduct, not necessarily sucking up. — 顧客に礼儀正しく接することは職業上の適切な行為であり、必ずしもごますりではない。",
+      "A persuasive patent argument should rely on law and evidence rather than sucking up to the examiner. — 説得力のある特許上の主張は、審査官にへつらうのではなく、法律と証拠に基づくべきである。"
+    ],
+    "en": [
+      "He is always sucking up to the boss before promotion decisions.",
+      "You don’t have to suck up to me; just do the work properly.",
+      "Her colleagues accused her of sucking up to senior management.",
+      "Being courteous to a client is professional conduct, not necessarily sucking up.",
+      "A persuasive patent argument should rely on law and evidence rather than sucking up to the examiner."
+    ]
+  }
+},
+{
+  "id": "shall",
+  "sid": "2026-01281",
+  "word": "shall",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "modal verb",
+    "auxiliary verb",
+    "offer",
+    "suggestion",
+    "future",
+    "intention",
+    "determination",
+    "obligation",
+    "legal",
+    "contract",
+    "formal",
+    "British English",
+    "general"
+  ],
+  "grammar": {
+    "pos": "modal auxiliary verb",
+    "forms": {
+      "base": "shall",
+      "negative": "shall not",
+      "contraction": "shan’t",
+      "historical_past": "should",
+      "third_person": "shall",
+      "infinitive": "not available",
+      "past_participle": "not available",
+      "gerund": "not available"
+    },
+    "transitivity": "modal auxiliary followed by a bare infinitive",
+    "patterns": [
+      "shall + bare infinitive",
+      "shall not + bare infinitive",
+      "Shall I + bare infinitive?",
+      "Shall we + bare infinitive?",
+      "I / we shall + bare infinitive",
+      "you / he / she / they shall + bare infinitive",
+      "no person shall + bare infinitive",
+      "the party shall + bare infinitive",
+      "shall be + past participle",
+      "shall have + past participle"
+    ],
+    "usage": {
+      "bare_infinitive": "Shall is followed by the base form without to: shall go, not shall to go.",
+      "third_person": "It does not take -s: she shall, not she shalls.",
+      "questions": "In questions, shall precedes the subject without do: Shall we begin?",
+      "negative": "Shall not is standard; shan’t is chiefly British and relatively uncommon in formal writing.",
+      "defective_modal": "Shall has no infinitive, participle, or gerund forms.",
+      "should": "Should developed historically as the past form of shall, but in modern English it has largely independent meanings."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "strong /ʃæl/; weak /ʃəl/",
+      "uk": "strong /ʃæl/; weak /ʃəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "Shall I ...? の形で、自分が何かをすることを申し出る",
+      "Shall we ...? の形で、相手と一緒に行うことを提案する",
+      "特に形式的・伝統的なイギリス英語で、I / we の未来を表す",
+      "強い決意・約束・命令を表す",
+      "契約・法令などで、当事者に義務を課す",
+      "規則・宣言などで、将来必ず生じる結果を厳粛に述べる"
+    ],
+    "en": [
+      "in Shall I ...?, to offer to perform an action",
+      "in Shall we ...?, to suggest a joint action",
+      "especially in formal or traditional British English, to express the future with I or we",
+      "to express strong determination, a promise, or a command",
+      "in contracts or legislation, to impose an obligation on a party",
+      "in rules or declarations, to state a future consequence solemnly or authoritatively"
+    ]
+  },
+  "nuance": {
+    "ja": "現代の日常英語では、単純未来を表す shall は大幅に減少し、通常は I’ll、we’ll が使われる。一方、Shall I open the window? は申し出、Shall we begin? は提案として現在も重要で、特にイギリス英語で自然である。アメリカ英語では Shall we ...? は理解されるが、Should we ...?、Would you like me to ...?、Do you want to ...? などが選ばれることも多い。契約書の shall は義務を示す伝統的用法だが、未来・義務・権利・宣言のいずれかが不明確になることがある。したがって、義務なら must、将来の事実なら will、裁量・許可なら may と書き分ける方針も広がっている。",
+    "en": "In present-day everyday English, shall has largely disappeared as a neutral future marker and I’ll or we’ll is normally used instead. Shall I open the window? remains important as an offer, and Shall we begin? as a suggestion, especially in British English. American speakers understand these constructions but may prefer Should we ...?, Would you like me to ...?, or Do you want to ...?. Contractual shall traditionally imposes an obligation, but it can become ambiguous among obligation, futurity, entitlement, and declaration. Many plain-language approaches therefore distinguish must for obligation, will for future fact, and may for permission or discretion."
+  },
+  "minimal": {
+    "ja": [
+      "shall：申し出・提案を表し、形式的文体では未来・決意・法的義務にも使われる。",
+      "will：現代英語で未来・意思・予測を表す一般的な助動詞。",
+      "should：助言・望ましさ・蓋然性・弱い義務を表す。現代では shall と別個の助動詞。",
+      "must：強い義務・必要性を明確に表す。法的義務の shall の代替にもなる。",
+      "may：許可・裁量・可能性を表す。義務は表さない。",
+      "can：能力・可能性・日常的な許可を表す。",
+      "Shall I ...?：自分が何かをすることを相手に申し出る。",
+      "Shall we ...?：相手と一緒に行う行動を提案する。"
+    ],
+    "en": [
+      "shall expresses offers and suggestions and can mark futurity, determination, or legal obligation in formal styles.",
+      "will is the ordinary modern modal for futurity, intention, and prediction.",
+      "should expresses advice, desirability, probability, or a weaker obligation and now functions independently from shall.",
+      "must clearly expresses strong obligation or necessity and may replace obligatory shall in legal drafting.",
+      "may expresses permission, discretion, or possibility rather than obligation.",
+      "can expresses ability, possibility, or informal permission.",
+      "Shall I ...? offers to perform an action for or with the listener.",
+      "Shall we ...? proposes an action to be performed jointly."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 sceal「負っている、義務がある、～すべきである」に由来し、原義は未来ではなく義務・必要性だった。ドイツ語 sollen、オランダ語 zullen などと同族である。「義務として行うべきこと」が将来実現するという関係から、未来を表す助動詞としても使われるようになった。過去形 sceolde は現代英語の should になったが、should は助言・蓋然性など独自の意味を発達させ、現在では単純に shall の過去形とはいえない。",
+    "en": "Shall comes from Old English sceal, meaning owe, be obliged, or be required. Its original force concerned obligation and necessity rather than simple future time. It is related to German sollen and Dutch zullen. Because something owed or required was expected to be performed later, shall developed into a marker of futurity. The old past form sceolde became should, but should developed independent meanings of advice, expectation, and probability and is no longer simply the past tense of shall."
+  },
+  "synonyms": [
+    {
+      "word": "will",
+      "note": {
+        "ja": "未来・意思・予測を表す現代英語の標準的な助動詞。",
+        "en": "The standard modern modal for future events, intentions, and predictions."
+      }
+    },
+    {
+      "word": "must",
+      "note": {
+        "ja": "規則・必要性・命令に基づく強い義務を、shall より明確に表す。",
+        "en": "Expresses strong obligation arising from a rule, necessity, or command more explicitly than shall."
+      }
+    },
+    {
+      "word": "should",
+      "note": {
+        "ja": "望ましい行動・助言・予想を表し、通常は must より弱い。",
+        "en": "Expresses advisable conduct or expectation and is normally weaker than must."
+      }
+    },
+    {
+      "word": "be required to",
+      "note": {
+        "ja": "法律・規則・契約などによって行為を義務付けられていることを明示する。",
+        "en": "Explicitly states that an action is mandatory under a law, rule, or agreement."
+      }
+    },
+    {
+      "word": "be to",
+      "note": {
+        "ja": "正式な予定・指示・取り決めによって、ある行為をすることになっていると表す。",
+        "en": "Indicates an action scheduled or required by a formal plan, instruction, or arrangement."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sollen / werden",
+    "it": "dovere / futuro semplice",
+    "fr": "devoir / futur simple",
+    "es": "deber / futuro simple"
+  },
+  "collocations": {
+    "ja": [
+      "Shall I help you? — お手伝いしましょうか",
+      "Shall I open the window? — 窓を開けましょうか",
+      "Shall we begin? — 始めましょうか",
+      "Shall we discuss this later? — これは後で話し合いましょうか",
+      "I shall return — 私は必ず戻る",
+      "we shall see — いずれ分かるだろう",
+      "you shall not pass — お前を通しはしない",
+      "the buyer shall pay — 買主は支払わなければならない",
+      "shall be entitled to — ～する権利を有するものとする",
+      "shall be deemed to — ～とみなされるものとする",
+      "shall not disclose — 開示してはならない",
+      "as the court shall determine — 裁判所が決定するところに従って"
+    ],
+    "en": [
+      "Shall I help you?",
+      "Shall I open the window?",
+      "Shall we begin?",
+      "Shall we discuss this later?",
+      "I shall return",
+      "we shall see",
+      "you shall not pass",
+      "the buyer shall pay",
+      "shall be entitled to",
+      "shall be deemed to",
+      "shall not disclose",
+      "as the court shall determine"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Shall I carry that bag for you? — そのかばんをお持ちしましょうか。",
+      "Shall we meet in the hotel lobby at nine? — 9時にホテルのロビーで会いましょうか。",
+      "We shall continue despite the difficulties. — 困難があっても、私たちは必ず続ける。",
+      "The licensee shall pay the royalty within thirty days of receiving the invoice. — ライセンシーは、請求書を受領してから30日以内にロイヤルティーを支払わなければならない。",
+      "In plain legal drafting, “The applicant must submit the document” may state the obligation more clearly than “The applicant shall submit the document.” — 平易な法律文書では、The applicant shall submit the document よりも The applicant must submit the document の方が義務を明確に示せる場合がある。"
+    ],
+    "en": [
+      "Shall I carry that bag for you?",
+      "Shall we meet in the hotel lobby at nine?",
+      "We shall continue despite the difficulties.",
+      "The licensee shall pay the royalty within thirty days of receiving the invoice.",
+      "In plain legal drafting, “The applicant must submit the document” may state the obligation more clearly than “The applicant shall submit the document.”"
+    ]
+  }
 }
 ]
