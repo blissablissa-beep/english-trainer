@@ -1,5 +1,202 @@
 [
 {
+  "id": "compliment",
+  "sid": "2026-01278",
+  "word": "compliment",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "praise",
+    "approval",
+    "appearance",
+    "achievement",
+    "social interaction",
+    "gratitude",
+    "business",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable as a noun",
+    "plural": "compliments",
+    "forms": {
+      "noun_singular": "compliment",
+      "noun_plural": "compliments",
+      "verb_base": "compliment",
+      "third_person": "compliments",
+      "past": "complimented",
+      "past_participle": "complimented",
+      "gerund": "complimenting",
+      "adjective": "complimentary"
+    },
+    "transitivity": "transitive as a verb",
+    "patterns": [
+      "give / pay someone a compliment",
+      "receive / accept a compliment",
+      "take something as a compliment",
+      "return the compliment",
+      "compliment someone",
+      "compliment someone on + noun / gerund",
+      "compliment someone for + achievement",
+      "compliments to + person",
+      "with someone’s compliments",
+      "fish for compliments"
+    ],
+    "usage": {
+      "verb_pattern": "The standard pattern is compliment someone on something: She complimented me on my presentation.",
+      "noun_pattern": "A compliment is normally countable: give someone a compliment.",
+      "compliments_plural": "Compliments can mean greetings, praise, or good wishes in expressions such as compliments to the chef.",
+      "spelling": "Compliment with i means praise; complement with e means complete, enhance, or form a matching counterpart.",
+      "adjective": "Complimentary can mean expressing praise or provided free of charge.",
+      "register": "Natural in both everyday and professional communication."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkɑːmpləmənt/",
+      "uk": "/ˈkɒmplɪmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人の外見・能力・行為・所有物などを褒める言葉",
+      "人への敬意・評価・称賛を表す行為",
+      "人の外見・能力・成果などについて好意的な評価を伝える",
+      "compliments の形で、挨拶・賛辞・よろしくとの言葉",
+      "with someone’s compliments の形で、厚意により無料で贈られたこと"
+    ],
+    "en": [
+      "a favorable remark about someone’s appearance, ability, conduct, achievement, or possessions",
+      "an act expressing admiration, respect, or approval",
+      "to express a favorable judgment about someone or something associated with them",
+      "in the plural, greetings, praise, or good wishes sent to someone",
+      "in with someone’s compliments, provided as a gift or without charge"
+    ]
+  },
+  "nuance": {
+    "ja": "compliment は、特定の長所・外見・成果について伝える個別の褒め言葉であり、通常は好意的・誠実なものとして理解される。flattery は過剰・不誠実で、利益を得る目的を持つ可能性を示唆する点で異なる。Your English is excellent. は compliment になり得るが、相手から何かを得るために大げさに言えば flattery になり得る。動詞では compliment someone on something とし、compliment on someone とはしない。I’ll take that as a compliment. は、曖昧または少し批判的な発言を、あえて褒め言葉として受け取る表現である。",
+    "en": "A compliment is an individual favorable remark about a particular quality, appearance, possession, or achievement and is normally understood as friendly and sincere. Flattery differs in suggesting possible exaggeration, insincerity, or self-interested motivation. Your English is excellent can be a compliment, but it may become flattery if deliberately exaggerated to obtain an advantage. The verb pattern is compliment someone on something, not compliment on someone. I’ll take that as a compliment humorously or confidently treats an ambiguous or mildly critical remark as praise."
+  },
+  "minimal": {
+    "ja": [
+      "compliment：外見・能力・成果などについて人に伝える、個別の褒め言葉。",
+      "praise：価値ある行為・性質・成果を称賛すること。compliment より広く強い場合がある。",
+      "flattery：相手を喜ばせたり利益を得たりするための、過剰・不誠実になり得る称賛。",
+      "commend：人の行為・成果を正式に高く評価する。",
+      "congratulate：成功・合格・結婚などの喜ばしい出来事について祝意を伝える。",
+      "admire：人・物の性質や成果を優れていると感じ、尊敬・感嘆する。",
+      "complimentary：称賛を表す、または無料で提供される。",
+      "complement：別の物を補い、全体を完成・向上させる。compliment とは別語。"
+    ],
+    "en": [
+      "a compliment is an individual favorable remark about appearance, ability, or achievement.",
+      "praise is approval of valuable conduct, qualities, or achievements and can be broader or stronger.",
+      "flattery is potentially excessive or insincere praise intended to please or influence someone.",
+      "commend means formally expressing approval of someone’s conduct or achievement.",
+      "congratulate means expressing pleasure at someone’s success or happy event.",
+      "admire means regarding someone or something with respect, approval, or wonder.",
+      "complimentary means expressing praise or provided free of charge.",
+      "complement means completing or enhancing something and is distinct from compliment."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 compliment、イタリア語 complimento を経て英語に入り、さらにラテン語 complere「満たす、完成させる」に関係する。もとは礼儀上の義務を「満たす」挨拶・敬意の表明を指し、そこから人を喜ばせる好意的な言葉という意味が発達した。complement も同じラテン語系統に属するが、complement は「欠けた部分を満たして完成させるもの」、compliment は「褒め言葉」と意味・綴りが分かれた。",
+    "en": "Compliment entered English through French compliment and Italian complimento and is ultimately related to Latin complere, to fill or complete. It originally referred to a ceremonial expression that fulfilled a social obligation of politeness or respect. From this developed the modern sense of a favorable remark that pleases another person. Complement belongs to the same Latin word family but developed the meaning something that completes or enhances, while compliment became the word for praise."
+  },
+  "synonyms": [
+    {
+      "word": "praise",
+      "note": {
+        "ja": "人の行動・性質・成果を価値あるものとして評価し、称賛すること。",
+        "en": "Approval expressed for a person’s conduct, qualities, or achievements."
+      }
+    },
+    {
+      "word": "commendation",
+      "note": {
+        "ja": "優れた行為・業績に対する、比較的正式な称賛・表彰。",
+        "en": "Relatively formal praise or recognition for admirable conduct or achievement."
+      }
+    },
+    {
+      "word": "tribute",
+      "note": {
+        "ja": "人物・功績への尊敬・感謝を、公に表明する言葉や行為。",
+        "en": "A public statement or act expressing admiration or gratitude for a person or achievement."
+      }
+    },
+    {
+      "word": "flattering remark",
+      "note": {
+        "ja": "人を喜ばせる好意的な発言。文脈によってはお世辞の含みを持つ。",
+        "en": "A favorable statement that pleases someone and may, depending on context, suggest flattery."
+      }
+    },
+    {
+      "word": "accolade",
+      "note": {
+        "ja": "功績に対して与えられる公的な称賛・賞・栄誉。",
+        "en": "Public praise, an award, or an honor granted in recognition of achievement."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Kompliment / ein Kompliment machen",
+    "it": "complimento / complimentarsi con",
+    "fr": "compliment / complimenter",
+    "es": "cumplido / halago / felicitar"
+  },
+  "collocations": {
+    "ja": [
+      "give someone a compliment — 人を褒める",
+      "pay someone a compliment — 人に賛辞を送る",
+      "receive a compliment — 褒め言葉を受ける",
+      "accept a compliment — 褒め言葉を素直に受け入れる",
+      "take something as a compliment — 何かを褒め言葉として受け取る",
+      "return the compliment — 相手にも同様の褒め言葉を返す",
+      "compliment someone on their work — 人の仕事ぶりを褒める",
+      "compliment someone on their appearance — 人の外見を褒める",
+      "fish for compliments — 褒めてもらおうと誘いをかける",
+      "a sincere compliment — 心からの褒め言葉",
+      "a backhanded compliment — 褒めているようで侮辱を含む言葉",
+      "compliments to the chef — 料理人に賛辞を"
+    ],
+    "en": [
+      "give someone a compliment",
+      "pay someone a compliment",
+      "receive a compliment",
+      "accept a compliment",
+      "take something as a compliment",
+      "return the compliment",
+      "compliment someone on their work",
+      "compliment someone on their appearance",
+      "fish for compliments",
+      "a sincere compliment",
+      "a backhanded compliment",
+      "compliments to the chef"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She complimented me on my presentation. — 彼女は私のプレゼンテーションを褒めてくれた。",
+      "He received several compliments on his new jacket. — 彼は新しいジャケットについて、いくつもの褒め言葉をもらった。",
+      "I wasn’t sure whether her remark was a compliment or a criticism. — 彼女の発言が褒め言葉なのか批判なのか、私には分からなかった。",
+      "The client complimented the legal team on its clear and practical advice. — 顧客は法務チームの明確で実践的な助言を称賛した。",
+      "Calling a patent claim unusually concise can be either a compliment or a warning, depending on the context. — 特許請求項を異例に簡潔だと評することは、文脈によって褒め言葉にも警告にもなり得る。"
+    ],
+    "en": [
+      "She complimented me on my presentation.",
+      "He received several compliments on his new jacket.",
+      "I wasn’t sure whether her remark was a compliment or a criticism.",
+      "The client complimented the legal team on its clear and practical advice.",
+      "Calling a patent claim unusually concise can be either a compliment or a warning, depending on the context."
+    ]
+  }
+},
+{
   "id": "fawn",
   "sid": "2026-01279",
   "word": "fawn",
