@@ -1,5 +1,192 @@
 [
 {
+  "id": "jury",
+  "sid": "2026-01265",
+  "word": "jury",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "law",
+    "court",
+    "trial",
+    "evidence",
+    "verdict",
+    "criminal law",
+    "civil law",
+    "patent litigation",
+    "competition",
+    "collective noun",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "juries",
+    "forms": {
+      "singular": "jury",
+      "plural": "juries",
+      "member": "juror",
+      "related_verb": "juror selection is expressed with select / empanel a jury",
+      "related_adjective": "jury-related"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a jury of + number + people",
+      "serve on a jury",
+      "sit on a jury",
+      "select / empanel a jury",
+      "present evidence to the jury",
+      "the jury hears / considers + evidence",
+      "the jury finds someone guilty / not guilty",
+      "the jury returns / reaches a verdict",
+      "a jury awards + damages",
+      "the jury is / are still out"
+    ],
+    "usage": {
+      "collective_agreement": "American English normally treats jury as singular: The jury has reached its verdict. British English may use singular or plural agreement depending on whether the body or its individual members are emphasized.",
+      "person": "An individual member is a juror, not a jury.",
+      "role": "A jury normally determines disputed facts and delivers a verdict, while a judge directs the proceedings and rules on law.",
+      "competition": "Jury can also mean a panel judging a competition, particularly in international and European usage.",
+      "jurisdiction": "The composition, powers, and availability of juries differ substantially among legal systems."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdʒʊri/",
+      "uk": "/ˈdʒʊəri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "裁判で証拠を検討し、事実認定と評決を行うために選ばれた市民の集団、陪審",
+      "刑事裁判で被告人が有罪か無罪かを判断する陪審",
+      "民事裁判で責任の有無や損害賠償額などを判断する陪審",
+      "コンテスト・芸術祭などで応募作品を審査する選考委員会・審査団",
+      "the jury is out の形で、結論・評価がまだ確定していないこと"
+    ],
+    "en": [
+      "a group of citizens selected to hear evidence and determine facts or deliver a verdict in a trial",
+      "a body that decides whether a criminal defendant is guilty or not guilty",
+      "a body that may determine liability or damages in a civil action",
+      "a panel that judges entries in a competition or artistic event",
+      "in the jury is out, an indication that a conclusion or evaluation has not yet been reached"
+    ]
+  },
+  "nuance": {
+    "ja": "jury は合議体全体を指し、その一人ひとりは juror と呼ぶ。英米の典型的な陪審裁判では、jury が証人の信用性や侵害の有無などの事実問題を判断し、judge が法律問題・証拠法上の判断・手続指揮を担当する。ただし両者の役割分担は法域や事件によって異なる。アメリカの grand jury は、通常の trial jury とは異なり、主として刑事訴追を進める十分な根拠があるかを審査する。日本の裁判員裁判では市民である裁判員が職業裁判官とともに判断するため、市民のみからなる典型的な英米の jury と同一視すべきではない。",
+    "en": "Jury refers to the body as a whole, while an individual member is a juror. In a typical Anglo-American jury trial, the jury decides factual questions such as witness credibility, infringement, or liability, while the judge rules on law, evidence, and procedure. The exact allocation of functions varies by jurisdiction and case. An American grand jury differs from a trial jury and principally determines whether sufficient grounds exist to proceed with a criminal prosecution. Japan’s saiban-in system combines lay judges with professional judges and should therefore not be treated as identical to the conventional Anglo-American jury."
+  },
+  "minimal": {
+    "ja": [
+      "jury：裁判で証拠を検討し、事実認定・評決を行う市民の合議体。",
+      "juror：陪審を構成する個々の陪審員。",
+      "judge：裁判手続きを指揮し、法律問題を判断する裁判官。",
+      "panel：選任された複数の専門家・裁判官・審査員などからなる合議体の一般語。",
+      "tribunal：紛争を判断する裁判所・審判機関・仲裁廷などを表す形式的な語。",
+      "trial jury：裁判で証拠を聞き、評決を下す陪審。petit jury ともいう。",
+      "grand jury：主に米国で、刑事訴追に進む根拠があるかを審査する大陪審。",
+      "saiban-in：日本の裁判員制度において、職業裁判官とともに一定の刑事事件を審理する市民。"
+    ],
+    "en": [
+      "a jury is a body of citizens that hears evidence and determines facts or delivers a verdict.",
+      "a juror is an individual member of a jury.",
+      "a judge directs judicial proceedings and rules on questions of law.",
+      "a panel is a general term for a selected group of experts, judges, or adjudicators.",
+      "a tribunal is a formal adjudicative body such as a court, administrative body, or arbitral panel.",
+      "a trial jury hears evidence and delivers a verdict and is also called a petit jury.",
+      "a grand jury, principally in the United States, considers whether grounds exist for a criminal prosecution.",
+      "a saiban-in is a Japanese citizen who hears certain criminal cases together with professional judges."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 jurée「宣誓した人々の集団」に由来し、jurer「誓う」を経て、ラテン語 jurare「誓う」にさかのぼる。これは jus、属格 juris「法、権利」と関係する。初期の jury は、一定の事項について宣誓のうえで真実を述べるよう求められた人々の集団だった。そこから、証拠を検討して正式な評決を下す市民の合議体という現代的意味が発達した。juror、jurisdiction、jurisprudence も同じ jus / juris 系統の語である。",
+    "en": "Jury comes from Old French juree, a body of sworn persons, related to jurer, to swear, and ultimately to Latin jurare, to take an oath. This is connected with jus, genitive juris, meaning law or right. An early jury was a group required under oath to state the truth concerning a matter. From this developed the modern institution of citizens who evaluate evidence and deliver a formal verdict. Juror, jurisdiction, and jurisprudence belong to the same jus and juris word family."
+  },
+  "synonyms": [
+    {
+      "word": "panel",
+      "note": {
+        "ja": "裁判・審査・選考などを行うため選ばれた複数人の集団を広く表す。",
+        "en": "A broad term for a selected group responsible for adjudication, review, or evaluation."
+      }
+    },
+    {
+      "word": "tribunal",
+      "note": {
+        "ja": "司法・行政・仲裁などで紛争を判断する公的または準公的な機関。",
+        "en": "A formal judicial, administrative, or arbitral body empowered to decide disputes."
+      }
+    },
+    {
+      "word": "judging panel",
+      "note": {
+        "ja": "コンテスト・賞・競技などで作品や参加者を評価する審査団。",
+        "en": "A group that evaluates entries or participants in a competition or award."
+      }
+    },
+    {
+      "word": "fact finder",
+      "note": {
+        "ja": "訴訟で証拠を評価して事実を認定する主体。陪審の場合も裁判官の場合もある。",
+        "en": "The person or body responsible for evaluating evidence and determining facts in a case."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Jury / Geschworenenkollegium",
+    "it": "giuria",
+    "fr": "jury",
+    "es": "jurado"
+  },
+  "collocations": {
+    "ja": [
+      "serve on a jury — 陪審員として務める",
+      "sit on a jury — 陪審の一員を務める",
+      "select a jury — 陪審を選任する",
+      "empanel a jury — 陪審を正式に構成する",
+      "a jury trial — 陪審裁判",
+      "a trial jury — 審理陪審、小陪審",
+      "a grand jury — 大陪審",
+      "a hung jury — 評決に達しない陪審",
+      "the jury reaches a verdict — 陪審が評決に達する",
+      "the jury finds someone guilty — 陪審が人を有罪と評決する",
+      "the jury awards damages — 陪審が損害賠償を認定する",
+      "the jury is still out — 結論はまだ出ていない"
+    ],
+    "en": [
+      "serve on a jury",
+      "sit on a jury",
+      "select a jury",
+      "empanel a jury",
+      "a jury trial",
+      "a trial jury",
+      "a grand jury",
+      "a hung jury",
+      "the jury reaches a verdict",
+      "the jury finds someone guilty",
+      "the jury awards damages",
+      "the jury is still out"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The jury found the defendant not guilty on all charges. — 陪審は、すべての訴因について被告人を無罪と評決した。",
+      "She was selected to serve on a jury for the first time. — 彼女は初めて陪審員として選任された。",
+      "The judge instructed the jury to disregard the inadmissible evidence. — 裁判官は、証拠能力のない証拠を考慮しないよう陪審に説示した。",
+      "In the patent trial, the jury found that the accused product infringed the asserted claims. — その特許裁判で、陪審は被疑製品が主張された請求項を侵害すると認定した。",
+      "The jury is still out on whether the new examination policy will improve patent quality. — 新しい審査方針が特許の質を改善するかについては、まだ結論が出ていない。"
+    ],
+    "en": [
+      "The jury found the defendant not guilty on all charges.",
+      "She was selected to serve on a jury for the first time.",
+      "The judge instructed the jury to disregard the inadmissible evidence.",
+      "In the patent trial, the jury found that the accused product infringed the asserted claims.",
+      "The jury is still out on whether the new examination policy will improve patent quality."
+    ]
+  }
+},
+{
   "id": "orientation",
   "sid": "2026-01266",
   "word": "orientation",
