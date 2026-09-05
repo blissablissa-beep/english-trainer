@@ -1,5 +1,201 @@
 [
 {
+  "id": "courtesy",
+  "sid": "2026-01270",
+  "word": "courtesy",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "politeness",
+    "respect",
+    "kindness",
+    "favor",
+    "etiquette",
+    "customer service",
+    "business",
+    "legal",
+    "attribution",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / attributive noun",
+    "countability": "uncountable for polite behavior; countable for a polite act or privilege",
+    "plural": "courtesies",
+    "forms": {
+      "singular": "courtesy",
+      "plural": "courtesies",
+      "adjective": "courteous",
+      "adverb": "courteously",
+      "opposite_adjective": "discourteous"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "show / extend courtesy to + person",
+      "treat someone with courtesy",
+      "have the courtesy to do",
+      "as a courtesy to + person",
+      "a common / professional courtesy",
+      "exchange courtesies",
+      "courtesy of + person / organization",
+      "by courtesy of + person / organization",
+      "a courtesy call / visit / copy",
+      "a courtesy bus / car / service"
+    ],
+    "usage": {
+      "uncountable": "Courtesy without an article commonly means polite and considerate behavior.",
+      "countable": "A courtesy is a particular considerate act, privilege, or conventional gesture.",
+      "attributive": "Before a noun, courtesy can indicate something provided free of charge or performed as a polite gesture.",
+      "courtesy_of": "Courtesy of identifies the person or organization providing something and can also indicate the source of an image or material.",
+      "sarcasm": "Courtesy of may be used ironically to identify the unwelcome cause of a problem."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkɜːrtəsi/",
+      "uk": "/ˈkɜːtəsi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "他人への敬意・配慮を示す礼儀正しい態度",
+      "相手への思いやりから行う個別の親切・便宜",
+      "社会・職業上、礼儀として期待される行為",
+      "形容詞的に、無料で提供されるサービス・設備",
+      "courtesy of の形で、人・団体の厚意または提供によって",
+      "画像・情報などの提供元を示す「～提供」"
+    ],
+    "en": [
+      "polite and considerate behavior showing respect for other people",
+      "an individual act of kindness, consideration, or accommodation",
+      "an action conventionally expected as a matter of social or professional politeness",
+      "attributively, a service or facility provided without charge",
+      "in courtesy of, through the kindness, provision, or sponsorship of a person or organization",
+      "a formula identifying the source that supplied an image, item, or information"
+    ]
+  },
+  "nuance": {
+    "ja": "courtesy は、単なる作法の知識ではなく、相手を尊重し負担を減らそうとする態度や行為を表す。He had the courtesy to call. は「彼には電話をする程度の礼儀はあった」という意味で、文脈によっては非難を含む。as a courtesy は、法的義務ではなく配慮として行うことを示す場合があるが、この表現だけで法的義務の有無が決まるわけではない。courtesy copy は正式な送達・提出とは別に参考として送る写し、courtesy bus は顧客向けの無料送迎車である。courtesy of the storm のような皮肉な用法では、「嵐のおかげで」という好ましくない原因を示す。",
+    "en": "Courtesy concerns not merely knowledge of etiquette but conduct intended to respect others and reduce inconvenience. He had the courtesy to call means that he showed at least the expected consideration by calling and may carry an implied criticism. As a courtesy can indicate that an act is voluntary rather than legally required, but the phrase itself does not determine whether a legal obligation exists. A courtesy copy is supplied for information separately from formal service or filing, while a courtesy bus is free transportation for customers. In an ironic expression such as courtesy of the storm, courtesy of identifies an unwelcome cause."
+  },
+  "minimal": {
+    "ja": [
+      "courtesy：相手への敬意・配慮を示す礼儀正しさ、または個別の親切。",
+      "politeness：失礼にならない言葉遣い・態度を広く表す。",
+      "civility：対立があっても保たれる、最低限の礼節ある振る舞い。",
+      "etiquette：特定の社会・職業・場面で守るべき作法・慣例。",
+      "manners：人が社会生活で示す行儀・振る舞い。",
+      "kindness：人を助けたい、苦痛を減らしたいという親切心と行為。",
+      "favor：人のために行う個別の親切・便宜。",
+      "complimentary：商品・サービスが無料で提供されることを明確に表す。"
+    ],
+    "en": [
+      "courtesy is respectful consideration for others or a particular considerate act.",
+      "politeness broadly describes language and behavior that avoid giving offense.",
+      "civility is a basic level of respectful conduct maintained even during disagreement.",
+      "etiquette is the accepted code of behavior for a particular society, profession, or occasion.",
+      "manners are a person’s socially observable standards of behavior.",
+      "kindness is the desire and action to help people or reduce their distress.",
+      "a favor is an individual helpful act performed for another person.",
+      "complimentary explicitly means that a product or service is supplied free of charge."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 curteisie「宮廷風の礼儀、上品な振る舞い」に由来し、court「宮廷」と同じ語族に属する。もとは宮廷にふさわしい洗練された態度や騎士的な作法を表した。そこから身分や場所を問わず、他人への礼儀・配慮・親切を広く意味するようになった。courteous「礼儀正しい」も同じ起源を持つ。courtesy service のような無料提供の意味は、顧客への厚意としてサービスを行うという発想から生じた。",
+    "en": "Courtesy comes from Old French curteisie, meaning courtly manners or refined conduct, and belongs to the same word family as court. It originally described behavior considered appropriate at a royal or noble court, including refinement and chivalrous manners. Its meaning broadened to respectful and considerate conduct toward others regardless of rank or setting. Courteous shares the same origin. The free-of-charge sense in expressions such as courtesy service developed from the idea of providing something as a considerate gesture to a customer or guest."
+  },
+  "synonyms": [
+    {
+      "word": "politeness",
+      "note": {
+        "ja": "言葉遣い・態度が社会的に適切で、相手に不快感を与えないこと。",
+        "en": "Socially appropriate language or behavior that avoids offending others."
+      }
+    },
+    {
+      "word": "civility",
+      "note": {
+        "ja": "意見の対立がある状況でも相手に示す、節度ある礼儀正しさ。",
+        "en": "Restrained and respectful conduct, particularly when people disagree."
+      }
+    },
+    {
+      "word": "consideration",
+      "note": {
+        "ja": "自分の行動が相手の感情・事情・必要性に及ぼす影響への配慮。",
+        "en": "Attention to how one’s conduct affects another person’s feelings, circumstances, or needs."
+      }
+    },
+    {
+      "word": "kindness",
+      "note": {
+        "ja": "相手を助けたり苦痛を減らしたりしようとする思いやり。",
+        "en": "Concern expressed through an effort to help another person or reduce their distress."
+      }
+    },
+    {
+      "word": "favor",
+      "note": {
+        "ja": "相手を助けるために行う具体的な親切・便宜。",
+        "en": "A specific helpful act performed for another person."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Höflichkeit / Entgegenkommen",
+    "it": "cortesia",
+    "fr": "courtoisie",
+    "es": "cortesía"
+  },
+  "collocations": {
+    "ja": [
+      "show courtesy to someone — 人に礼儀を示す",
+      "treat someone with courtesy — 人に礼儀正しく接する",
+      "have the courtesy to do — ～するだけの礼儀をわきまえている",
+      "as a courtesy to someone — 人への配慮・厚意として",
+      "a common courtesy — 当然期待される礼儀",
+      "a professional courtesy — 職業上の礼儀・便宜",
+      "exchange courtesies — 儀礼的な挨拶を交わす",
+      "a courtesy call — 儀礼的な電話・訪問",
+      "a courtesy copy — 参考・便宜のために送る写し",
+      "a courtesy bus — 無料送迎バス",
+      "courtesy of the hotel — ホテルの厚意・提供により",
+      "photo courtesy of + source — 写真提供：～"
+    ],
+    "en": [
+      "show courtesy to someone",
+      "treat someone with courtesy",
+      "have the courtesy to do",
+      "as a courtesy to someone",
+      "a common courtesy",
+      "a professional courtesy",
+      "exchange courtesies",
+      "a courtesy call",
+      "a courtesy copy",
+      "a courtesy bus",
+      "courtesy of the hotel",
+      "photo courtesy of + source"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He had the courtesy to inform us that he would be late. — 彼には、遅れることを私たちに知らせるだけの礼儀はあった。",
+      "Please treat every visitor with courtesy and respect. — すべての来訪者に礼儀と敬意をもって接してください。",
+      "The hotel provides a courtesy bus to the airport. — そのホテルは空港まで無料送迎バスを運行している。",
+      "As a professional courtesy, we sent opposing counsel a copy of the document. — 職業上の礼儀として、私たちは相手方代理人にその書類の写しを送った。",
+      "The patent attorney provided a courtesy copy of the response, but warned that it did not constitute formal service. — 弁理士は応答書の参考用写しを提供したが、それは正式な送達には当たらないと注意を促した。"
+    ],
+    "en": [
+      "He had the courtesy to inform us that he would be late.",
+      "Please treat every visitor with courtesy and respect.",
+      "The hotel provides a courtesy bus to the airport.",
+      "As a professional courtesy, we sent opposing counsel a copy of the document.",
+      "The patent attorney provided a courtesy copy of the response, but warned that it did not constitute formal service."
+    ]
+  }
+},
+{
   "id": "courteous",
   "sid": "2026-01271",
   "word": "courteous",
