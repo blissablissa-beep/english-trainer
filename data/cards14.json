@@ -1,5 +1,201 @@
 [
 {
+  "id": "reflationary",
+  "sid": "2026-01325",
+  "word": "reflationary",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "economics",
+    "reflation",
+    "monetary policy",
+    "fiscal policy",
+    "inflation",
+    "deflation",
+    "economic recovery",
+    "demand",
+    "investment",
+    "formal",
+    "specialized"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "reflationary",
+      "comparative": "more reflationary",
+      "superlative": "most reflationary",
+      "noun": "reflation",
+      "verb": "reflate",
+      "opposite_concepts": "deflationary / disinflationary"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a reflationary + noun",
+      "be reflationary",
+      "become / turn reflationary",
+      "reflationary policy / measures",
+      "reflationary monetary / fiscal policy",
+      "reflationary pressure / effects",
+      "a reflationary environment / cycle",
+      "a reflationary trend",
+      "a reflationary trade / strategy",
+      "be considered reflationary"
+    ],
+    "usage": {
+      "policy": "Reflationary describes policy intended to raise demand, output, employment, prices, or inflation expectations after economic weakness or deflation.",
+      "conditions": "It can also describe economic or market conditions characterized by recovering growth, prices, wages, and nominal activity.",
+      "effect": "A measure may be called reflationary when it is expected to move depressed activity or prices upward.",
+      "inflationary_contrast": "Inflationary broadly means causing or associated with rising prices, whereas reflationary usually implies recovery from deficient demand, deflation, or unusually low inflation.",
+      "attributive": "The word is used mainly before a noun: reflationary policy or a reflationary environment.",
+      "predicative": "Predicative use is also possible: The proposed tax cut may be reflationary.",
+      "comparison": "Comparative forms are grammatically possible but relatively uncommon outside economic analysis.",
+      "register": "The word is specialized and occurs mainly in economics, central-bank communication, financial journalism, and investment analysis."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌriːˈfleɪʃəneri/",
+      "uk": "/ˌriːˈfleɪʃənəri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "景気低迷・デフレ後に、需要・生産・雇用・物価の回復を促す",
+      "金融緩和・財政刺激などによって経済を再び拡大させる",
+      "低すぎる物価・インフレ率・インフレ期待を押し上げる",
+      "経済成長・賃金・物価・名目所得が同時に回復する局面に関する",
+      "景気と物価の回復から利益を得る投資戦略に関する"
+    ],
+    "en": [
+      "intended to restore demand, output, employment, and prices after economic weakness or deflation",
+      "stimulating renewed economic expansion through monetary or fiscal policy",
+      "causing unusually low prices, inflation, or inflation expectations to rise",
+      "relating to conditions in which growth, wages, prices, and nominal income recover together",
+      "relating to an investment strategy intended to benefit from economic and price recovery"
+    ]
+  },
+  "nuance": {
+    "ja": "reflationary は、景気後退・需要不足・デフレなどの後に、経済活動と物価水準を回復させる政策・圧力・環境を表す。reflationary monetary policy なら、金利引下げや資金供給の拡大などによって需要と物価を押し上げる金融政策、reflationary fiscal policy なら、政府支出の増加や減税による刺激策を意味する。inflationary は物価上昇を引き起こすものを広く表し、その物価上昇が望ましいか過度かを問わない。これに対し reflationary は、低迷した経済や低すぎる物価を正常な軌道へ戻すという回復的な含みを持つ。ただし、reflationary policy が予想以上に強く作用すれば、過度な inflationary pressure を生む可能性もある。投資の文脈では、reflationary trade や reflationary strategy が、成長・物価・金利の上昇から利益を得ることを狙う取引を表す。",
+    "en": "Reflationary describes a policy, pressure, or environment that restores economic activity and prices after recession, deficient demand, or deflation. Reflationary monetary policy may involve lower interest rates or increased liquidity intended to strengthen demand and prices. Reflationary fiscal policy may involve increased government spending or tax reductions. Inflationary broadly describes anything causing prices to rise, without indicating whether the increase is a desirable recovery or an excessive development. Reflationary, by contrast, carries the restorative implication of returning a depressed economy or an abnormally low price level toward a more normal path. A reflationary policy that proves stronger than expected may nevertheless generate excessive inflationary pressure. In investment language, a reflationary trade or strategy seeks to benefit from rising growth, prices, and often interest rates."
+  },
+  "minimal": {
+    "ja": [
+      "reflationary：景気低迷・デフレ後の需要・経済活動・物価の回復を促す。",
+      "inflationary：物価上昇を引き起こす、またはインフレを伴う。",
+      "deflationary：需要・賃金・物価などを低下させ、デフレを促す。",
+      "disinflationary：物価上昇率を低下させるが、必ずしも物価そのものを下げない。",
+      "expansionary：経済活動・信用・需要などを拡大させる。",
+      "stimulative：経済・活動・反応などを刺激して活発にする。",
+      "accommodative：特に金融政策が、低金利などによって経済活動を支援する。",
+      "contractionary：需要・信用・経済活動などを抑制・縮小させる。"
+    ],
+    "en": [
+      "reflationary promotes recovery in demand, economic activity, and prices after weakness or deflation.",
+      "inflationary causes or is associated with a rise in the general price level.",
+      "deflationary reduces demand, wages, or prices and contributes to deflation.",
+      "disinflationary lowers the rate of price increases without necessarily causing prices themselves to fall.",
+      "expansionary increases economic activity, credit, demand, or the money supply.",
+      "stimulative encourages greater economic activity or another form of response.",
+      "accommodative describes policy, especially monetary policy, that supports activity through favorable financial conditions.",
+      "contractionary restrains or reduces demand, credit, or economic activity."
+    ]
+  },
+  "etymology": {
+    "ja": "reflation に、性質・関係を表す形容詞接尾辞 -ary が付いて成立した。reflation 自体は re-「再び、元へ」と inflation から作られた。inflation はラテン語 inflare「吹き込む、膨らませる」に由来する。したがって reflationary は、低下した需要・生産・物価などを「再び膨らませる」性質または効果を持つことを語構成上表している。",
+    "en": "Reflationary was formed from reflation with the adjective-forming suffix -ary, indicating relation or character. Reflation itself combines re-, again or back, with inflation. Inflation ultimately derives from Latin inflare, to blow into or expand. Reflationary therefore literally characterizes something capable of expanding depressed demand, output, prices, or nominal activity again."
+  },
+  "synonyms": [
+    {
+      "word": "expansionary",
+      "note": {
+        "ja": "金融・財政政策などが需要・信用・生産を拡大させることを広く表す。",
+        "en": "Broadly describes monetary or fiscal policy that increases demand, credit, production, or economic activity."
+      }
+    },
+    {
+      "word": "stimulative",
+      "note": {
+        "ja": "需要・投資・雇用などを刺激し、活動を活発にする。",
+        "en": "Encourages stronger demand, investment, employment, or economic activity."
+      }
+    },
+    {
+      "word": "accommodative",
+      "note": {
+        "ja": "特に金融政策が、低金利や潤沢な資金供給によって経済活動を支える。",
+        "en": "Especially of monetary policy, supports activity through low rates or ample liquidity."
+      }
+    },
+    {
+      "word": "pro-growth",
+      "note": {
+        "ja": "経済成長を促進または支援することを目的とする。",
+        "en": "Intended to promote or support economic growth."
+      }
+    },
+    {
+      "word": "inflationary",
+      "note": {
+        "ja": "物価を押し上げる性質を表すが、デフレ後の回復という含みは必須ではない。",
+        "en": "Describes a tendency to raise prices without necessarily implying recovery from deflation or weakness."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "reflationär",
+    "it": "reflazionistico",
+    "fr": "reflationniste / reflationniste",
+    "es": "reflacionario"
+  },
+  "collocations": {
+    "ja": [
+      "reflationary policy — リフレーション政策",
+      "reflationary monetary policy — リフレーション的金融政策",
+      "reflationary fiscal policy — リフレーション的財政政策",
+      "reflationary measures — 景気・物価回復策",
+      "reflationary stimulus — リフレーション的な景気刺激",
+      "reflationary pressure — 景気・物価を押し上げる圧力",
+      "reflationary effects — 景気・物価回復効果",
+      "a reflationary environment — 景気・物価が回復する環境",
+      "a reflationary cycle — 景気・物価の上昇局面",
+      "a reflationary trend — 景気・物価回復傾向",
+      "a reflationary trade — リフレーション取引",
+      "a reflationary strategy — リフレーションを見込む投資戦略"
+    ],
+    "en": [
+      "reflationary policy",
+      "reflationary monetary policy",
+      "reflationary fiscal policy",
+      "reflationary measures",
+      "reflationary stimulus",
+      "reflationary pressure",
+      "reflationary effects",
+      "a reflationary environment",
+      "a reflationary cycle",
+      "a reflationary trend",
+      "a reflationary trade",
+      "a reflationary strategy"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The government adopted reflationary measures to revive demand and employment. — 政府は需要と雇用を回復させるため、リフレーション政策を採用した。",
+      "Lower interest rates may have a reflationary effect when the economy is suffering from deficient demand. — 経済が需要不足に陥っている場合、金利引下げには景気と物価を回復させる効果があり得る。",
+      "Investors expected the combination of fiscal spending and monetary easing to be strongly reflationary. — 投資家は、財政支出と金融緩和の組合せに強いリフレーション効果があると予想した。",
+      "The reflationary environment increased demand for commodities and other assets associated with economic growth. — 景気・物価の回復環境によって、商品その他の経済成長に関連する資産への需要が増えた。",
+      "A reflationary recovery may encourage companies to increase research expenditure and file more patent applications. — リフレーションを伴う景気回復により、企業が研究支出と特許出願を増やす可能性がある。"
+    ],
+    "en": [
+      "The government adopted reflationary measures to revive demand and employment.",
+      "Lower interest rates may have a reflationary effect when the economy is suffering from deficient demand.",
+      "Investors expected the combination of fiscal spending and monetary easing to be strongly reflationary.",
+      "The reflationary environment increased demand for commodities and other assets associated with economic growth.",
+      "A reflationary recovery may encourage companies to increase research expenditure and file more patent applications."
+    ]
+  }
+},
+{
   "id": "cope-with",
   "sid": "2026-01326",
   "word": "cope with",
