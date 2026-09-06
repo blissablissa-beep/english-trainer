@@ -1,5 +1,201 @@
 [
 {
+  "id": "in_vivo",
+  "sid": "2026-01347",
+  "word": "in vivo",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "adverb",
+    "Latin phrase",
+    "living organism",
+    "experiment",
+    "biology",
+    "medicine",
+    "pharmacology",
+    "animal study",
+    "research",
+    "science",
+    "patent",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / adverb",
+    "forms": {
+      "base": "in vivo",
+      "opposite": "in vitro",
+      "latin_source": "in vivo",
+      "comparative": "not normally compared",
+      "superlative": "not normally compared"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an in vivo + experiment / study",
+      "an in vivo model",
+      "in vivo testing",
+      "in vivo activity / efficacy / toxicity",
+      "observe / measure something in vivo",
+      "test / evaluate something in vivo",
+      "occur / function in vivo",
+      "demonstrate efficacy in vivo",
+      "confirm in vitro results in vivo",
+      "in vivo rather than in vitro"
+    ],
+    "usage": {
+      "adjective": "Before a noun, in vivo describes research, testing, or a process occurring within a living organism.",
+      "adverb": "As an adverb, it means within a living organism: The compound was tested in vivo.",
+      "subjects": "Depending on context, the living organism may be a human, animal, plant, microorganism, or another living system.",
+      "research": "In biomedical research, in vivo studies allow effects to be observed in the context of metabolism, circulation, immunity, and interactions among organs.",
+      "contrast": "In vitro refers to work outside a living organism in a laboratory system.",
+      "human_studies": "In vivo does not automatically mean a human clinical study; many in vivo experiments are conducted using animal models.",
+      "hyphenation": "The established expression is normally written in vivo without a hyphen, including before a noun.",
+      "italics": "It need not be italicized in ordinary scientific English, although editorial styles vary."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪn ˈviːvoʊ/",
+      "uk": "/ɪn ˈviːvəʊ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "生きている人・動物・植物などの生体内で",
+      "生体を構成する細胞・組織・臓器の相互作用が保たれた状態で",
+      "薬物・化合物などを生体へ投与して行われる",
+      "生体内で生じる作用・反応・代謝に関する",
+      "形容詞として、生体内の、生体を用いた"
+    ],
+    "en": [
+      "within a living human, animal, plant, or other organism",
+      "under conditions in which the interactions of cells, tissues, and organs remain present",
+      "for a substance, tested by administration to or observation within a living organism",
+      "relating to an effect, reaction, or metabolic process occurring inside a living body",
+      "as an adjective, involving or conducted within a living organism"
+    ]
+  },
+  "nuance": {
+    "ja": "in vivo は、生きている生物の体内で現象を観察・測定することを表す。in vitro 実験では細胞や分子への直接的な作用を制御された条件下で調べられるが、in vivo 実験では吸収・分布・代謝・排泄、免疫反応、臓器間相互作用などを含む生体全体での効果を評価できる。その反面、個体差や多数の生物学的要因が関与するため、結果の解釈は複雑になりやすい。また、in vivo study は人を対象とする臨床試験に限られず、動物モデルを用いる実験も含む。in vitro で確認された効果が in vivo で再現されるとは限らず、in vivo で効果が示されても、人への有効性や安全性が直ちに証明されるわけではない。",
+    "en": "In vivo describes observation or measurement within a living organism. An in vitro experiment can examine direct effects on cells or molecules under controlled conditions, whereas an in vivo study can evaluate effects in the context of absorption, distribution, metabolism, excretion, immune responses, and interactions among organs. The involvement of numerous biological factors and individual variation can, however, make in vivo results more complex to interpret. An in vivo study is not necessarily a human clinical trial; it may use an animal model. An effect found in vitro may not be reproduced in vivo, and efficacy in an animal in vivo model does not by itself establish efficacy or safety in humans."
+  },
+  "minimal": {
+    "ja": [
+      "in vivo：生きている人・動物などの生体内で。",
+      "in vitro：細胞・組織・検体などを、生体外の実験室環境で扱って。",
+      "ex vivo：生体から取り出した組織・臓器などを、本来の状態に近い形で生体外において。",
+      "in situ：対象を取り出さず、本来存在する位置・場所において。",
+      "in silico：コンピューターによるモデル・シミュレーションを用いて。",
+      "preclinical：人を対象とする臨床試験に先立つ研究段階の。",
+      "clinical：患者・人の健康管理または人を対象とする研究に関する。",
+      "animal model：人の疾患・生理現象などを研究するために用いる動物または実験系。"
+    ],
+    "en": [
+      "in vivo means within a living human, animal, or other organism.",
+      "in vitro means outside a living organism in a controlled laboratory environment.",
+      "ex vivo commonly means outside the body using tissue or an organ removed while retaining aspects of its original state.",
+      "in situ means in the original place or position without removing the subject.",
+      "in silico means using a computer model or simulation.",
+      "preclinical describes research conducted before testing a treatment in human clinical trials.",
+      "clinical relates to patients, medical care, or research involving human participants.",
+      "an animal model is an animal or experimental system used to investigate human physiology, disease, or treatment."
+    ]
+  },
+  "etymology": {
+    "ja": "in vivo はラテン語の句で、in「～の中で」と vivo「生きているもの」によって構成され、文字どおりには「生きているものの中で」を意味する。vivo は vivus「生きている」の奪格形であり、英語の vivid、revive、survive、vital などと同じく、生命を表す印欧語根に関係する。生体外の人工的環境を表す in vitro との対比により、医学・生物学・薬理学で広く用いられるようになった。",
+    "en": "In vivo is a Latin phrase formed from in and vivo, the ablative form of vivus, living or alive. It therefore literally means within the living. Vivus is related to a wider Indo-European family concerning life, reflected in English words such as vivid, revive, survive, and vital. The phrase became widely established in medicine, biology, and pharmacology in contrast with in vitro, outside a living organism."
+  },
+  "synonyms": [
+    {
+      "word": "within a living organism",
+      "note": {
+        "ja": "in vivo の意味を専門用語を避けて直接説明する表現。",
+        "en": "A direct plain-language explanation of in vivo that avoids the Latin scientific term."
+      }
+    },
+    {
+      "word": "in the body",
+      "note": {
+        "ja": "人体・動物体内で生じることを平易に表すが、植物などには適さない場合がある。",
+        "en": "A plain expression for something occurring within a human or animal body, though less suitable for plants."
+      }
+    },
+    {
+      "word": "whole-organism",
+      "note": {
+        "ja": "単離した細胞・組織ではなく、生物個体全体を対象とすることを強調する。",
+        "en": "Emphasizes that an entire organism rather than isolated cells or tissues is being studied."
+      }
+    },
+    {
+      "word": "animal-based",
+      "note": {
+        "ja": "動物を使用する研究を表すが、in vivo は人・植物なども対象にできるため完全な同義語ではない。",
+        "en": "Describes research using animals, but is not fully synonymous because in vivo can also concern humans or plants."
+      }
+    },
+    {
+      "word": "physiological",
+      "note": {
+        "ja": "生物の正常な機能・過程に関する語であり、生体内で行うという実験場所そのものを必ずしも示さない。",
+        "en": "Relates to the functions and processes of living organisms but does not necessarily specify an in vivo experimental setting."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "in vivo / im lebenden Organismus",
+    "it": "in vivo",
+    "fr": "in vivo",
+    "es": "in vivo"
+  },
+  "collocations": {
+    "ja": [
+      "an in vivo experiment — 生体内実験",
+      "an in vivo study — 生体内研究",
+      "an in vivo model — 生体内モデル",
+      "in vivo testing — 生体を用いた試験",
+      "in vivo activity — 生体内活性",
+      "in vivo efficacy — 生体内での有効性",
+      "in vivo toxicity — 生体内毒性",
+      "in vivo imaging — 生体内イメージング",
+      "in vivo metabolism — 生体内代謝",
+      "observe something in vivo — 何かを生体内で観察する",
+      "evaluate a compound in vivo — 化合物を生体内で評価する",
+      "confirm in vitro findings in vivo — 生体外での知見を生体内で確認する"
+    ],
+    "en": [
+      "an in vivo experiment",
+      "an in vivo study",
+      "an in vivo model",
+      "in vivo testing",
+      "in vivo activity",
+      "in vivo efficacy",
+      "in vivo toxicity",
+      "in vivo imaging",
+      "in vivo metabolism",
+      "observe something in vivo",
+      "evaluate a compound in vivo",
+      "confirm in vitro findings in vivo"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The researchers evaluated the compound in vivo using an animal model. — 研究者たちは、動物モデルを用いてその化合物を生体内で評価した。",
+      "The treatment was effective in vitro but showed little activity in vivo. — その治療法は生体外では有効だったが、生体内ではほとんど活性を示さなかった。",
+      "In vivo imaging allowed the team to observe the process without removing the tissue. — 生体内イメージングにより、研究チームは組織を取り出さずにその過程を観察できた。",
+      "The substance is rapidly metabolized in vivo. — その物質は生体内で急速に代謝される。",
+      "When a patent claim requires an in vivo effect, data from an in vitro assay may not always be sufficient to support the full scope of the claimed invention. — 特許請求項が生体内での効果を要件とする場合、生体外アッセイのデータだけでは、請求された発明の全範囲を常に十分に裏付けられるとは限らない。"
+    ],
+    "en": [
+      "The researchers evaluated the compound in vivo using an animal model.",
+      "The treatment was effective in vitro but showed little activity in vivo.",
+      "In vivo imaging allowed the team to observe the process without removing the tissue.",
+      "The substance is rapidly metabolized in vivo.",
+      "When a patent claim requires an in vivo effect, data from an in vitro assay may not always be sufficient to support the full scope of the claimed invention."
+    ]
+  }
+},
+{
   "id": "contract",
   "sid": "2026-01348",
   "word": "contract",
