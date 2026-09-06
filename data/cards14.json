@@ -1,5 +1,201 @@
 [
 {
+  "id": "upturn",
+  "sid": "2026-01305",
+  "word": "upturn",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "economics",
+    "economy",
+    "business",
+    "market",
+    "improvement",
+    "growth",
+    "sales",
+    "demand",
+    "employment",
+    "finance",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "upturns",
+    "forms": {
+      "singular": "upturn",
+      "plural": "upturns",
+      "related_verb": "turn upward / improve",
+      "opposite": "downturn",
+      "related_terms": "recovery / expansion / upswing"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an upturn",
+      "a sharp / modest / sustained upturn",
+      "an upturn in + economy / market / sales",
+      "during / following an upturn",
+      "experience / see an upturn",
+      "produce / trigger an upturn",
+      "benefit from an upturn",
+      "signal / indicate an upturn",
+      "an economic upturn",
+      "the beginning of an upturn"
+    ],
+    "usage": {
+      "countable": "Upturn is countable and normally requires a determiner in the singular: an upturn, the upturn.",
+      "in_pattern": "Use in to identify the measure or activity that improves: an upturn in sales, demand, or employment.",
+      "scope": "The word can describe improvement in the general economy, a particular industry or market, or one measure such as orders or consumer confidence.",
+      "direction": "Upturn emphasizes a change of direction from decline or weakness toward improvement.",
+      "duration": "The word does not by itself show whether the improvement will be strong or lasting.",
+      "opposite": "The direct opposite is downturn, a change toward worsening economic or business conditions.",
+      "spelling": "Upturn is written as one word when used as a noun."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈʌptɜːrn/",
+      "uk": "/ˈʌptɜːn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "経済・市場・企業業績などが悪化から改善へ転じること",
+      "売上・需要・生産・雇用・価格などが増加し始めること",
+      "特定の産業または地域で景況が上向くこと",
+      "低迷していた状況が好転し、回復の兆しを示すこと",
+      "数量・活動・業績などの上向きの変化"
+    ],
+    "en": [
+      "a change from declining or weak economic conditions toward improvement",
+      "the beginning of an increase in sales, demand, production, employment, prices, or another measure",
+      "an improvement in conditions within a particular industry, market, or region",
+      "a favorable change indicating that a period of weakness may be ending",
+      "an upward movement in the level of activity, performance, or another quantity"
+    ]
+  },
+  "nuance": {
+    "ja": "upturn は、経済・市場・売上などが低下または停滞していた状態から、上向きへ転じる変化に焦点を置く。したがって、すでに高い成長が続いている状態そのものよりも、「底を打って改善し始めた局面」を表すのに適している。an upturn in sales は売上が増加へ転じたことを示すが、その増加が大幅または長期的であるとは限らない。recovery は、以前の悪化や損失から元の水準へ戻る過程全体を表し得るのに対し、upturn はその回復が始まったことを示す方向転換に重点がある。expansion は経済活動が実際に拡大している比較的広い局面、boom は急速で顕著な好況を表す。upturn の反対語は downturn である。",
+    "en": "Upturn focuses on a change of direction in which an economy, market, or business measure begins improving after decline or stagnation. It is therefore especially appropriate for the point or phase at which conditions appear to have reached a low and started moving upward, rather than for an already established period of strong growth. An upturn in sales indicates that sales have begun increasing, but it does not establish that the increase is large or sustainable. Recovery can describe the broader process of regaining a previous level after loss or weakness, whereas upturn emphasizes the initial favorable change in direction. Expansion denotes a broader phase of actual economic growth, and boom suggests unusually rapid and conspicuous prosperity. The direct opposite of upturn is downturn."
+  },
+  "minimal": {
+    "ja": [
+      "upturn：経済・市場・売上などが低迷から改善へ転じること。",
+      "recovery：悪化・損失・不況などから以前の状態へ戻る過程。",
+      "expansion：生産・需要・雇用などが増加する景気拡大局面。",
+      "upswing：活動・人気・業績などが上向く動きを表し、upturn と非常に近い。",
+      "growth：経済・売上・規模などが時間とともに増加すること。",
+      "boom：経済・市場・需要などが急速かつ大幅に拡大する好況。",
+      "improvement：状態・品質・業績などが以前より良くなることを表す一般語。",
+      "downturn：経済・市場・売上などが悪化または減少する局面。"
+    ],
+    "en": [
+      "an upturn is a change from weak or declining conditions toward improvement.",
+      "a recovery is the process of returning toward a former level after decline, loss, or recession.",
+      "an expansion is a phase in which production, demand, employment, and other economic activity increase.",
+      "an upswing is an upward movement in activity, popularity, or performance and is very close to upturn.",
+      "growth is an increase in economic activity, sales, size, or another measure over time.",
+      "a boom is a period of rapid and substantial expansion in an economy, market, or level of demand.",
+      "improvement is the general process of becoming better in condition, quality, or performance.",
+      "a downturn is a change toward worsening or declining economic, market, or business conditions."
+    ]
+  },
+  "etymology": {
+    "ja": "upturn は up「上へ、上向きの」と turn「曲がる、方向を変える」を組み合わせた語で、文字どおりには「上向きへの転換」を意味する。turn は古英語 turnian を経て、ラテン語 tornare「旋盤で回す、回転させる」にさかのぼる。経済・商業上の用法は、下降または停滞していた売上・需要・生産などの線が、上向きへ方向を変えるという視覚的な発想に基づく。対になる downturn は、状況が悪化する方向へ転じることを表す。",
+    "en": "Upturn combines up, indicating a higher or improving direction, with turn, a change of direction. Turn entered English through Old English turnian and ultimately relates to Latin tornare, to turn on a lathe or cause to rotate. Its economic and commercial use reflects the visual idea of a line representing sales, demand, production, or another measure changing from a downward or flat direction to an upward one. The parallel formation downturn describes a change toward decline or worsening conditions."
+  },
+  "synonyms": [
+    {
+      "word": "recovery",
+      "note": {
+        "ja": "不況・損失・病気・低迷などの後に、以前の状態や水準を取り戻す過程。",
+        "en": "The process of regaining a previous condition or level after recession, loss, illness, or weakness."
+      }
+    },
+    {
+      "word": "upswing",
+      "note": {
+        "ja": "経済活動・人気・需要・業績などが上昇へ向かう動き。",
+        "en": "An upward movement in economic activity, popularity, demand, or performance."
+      }
+    },
+    {
+      "word": "improvement",
+      "note": {
+        "ja": "品質・状況・能力・業績などが以前より良くなることを広く表す。",
+        "en": "A broad term for a favorable change in quality, condition, ability, or performance."
+      }
+    },
+    {
+      "word": "expansion",
+      "note": {
+        "ja": "経済・事業・生産・需要などの規模や活動が拡大すること。",
+        "en": "An increase in the scale or activity of an economy, business, production, or demand."
+      }
+    },
+    {
+      "word": "revival",
+      "note": {
+        "ja": "衰退・不人気・停止の後に、活動・関心・成功などが再び活発になること。",
+        "en": "A renewed period of activity, interest, or success after decline, inactivity, or neglect."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Aufschwung / Aufwärtstrend",
+    "it": "ripresa / rialzo",
+    "fr": "reprise / amélioration",
+    "es": "repunte / recuperación"
+  },
+  "collocations": {
+    "ja": [
+      "an economic upturn — 景気の好転",
+      "a global upturn — 世界的な景況改善",
+      "a sharp upturn — 急激な上昇",
+      "a modest upturn — 緩やかな好転",
+      "a sustained upturn — 持続的な回復",
+      "an upturn in sales — 売上の上昇",
+      "an upturn in demand — 需要の回復",
+      "an upturn in employment — 雇用の改善",
+      "experience an upturn — 好転を経験する",
+      "benefit from the upturn — 景況改善の恩恵を受ける",
+      "signal an upturn — 好転の兆候を示す",
+      "the beginning of an upturn — 回復局面の始まり"
+    ],
+    "en": [
+      "an economic upturn",
+      "a global upturn",
+      "a sharp upturn",
+      "a modest upturn",
+      "a sustained upturn",
+      "an upturn in sales",
+      "an upturn in demand",
+      "an upturn in employment",
+      "experience an upturn",
+      "benefit from the upturn",
+      "signal an upturn",
+      "the beginning of an upturn"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The latest figures indicate a modest upturn in consumer spending. — 最新の数値は、個人消費が緩やかに上向いていることを示している。",
+      "Manufacturers benefited from an upturn in overseas demand. — 製造業者は海外需要の回復による恩恵を受けた。",
+      "It is too early to determine whether the upturn will be sustained. — この好転が持続するかどうかを判断するには、まだ早すぎる。",
+      "Employment usually responds more slowly than production at the beginning of an economic upturn. — 景気が好転し始めても、通常、雇用は生産より遅れて反応する。",
+      "The upturn in investment led to an increase in patent applications for manufacturing technologies. — 投資の回復により、製造技術に関する特許出願が増加した。"
+    ],
+    "en": [
+      "The latest figures indicate a modest upturn in consumer spending.",
+      "Manufacturers benefited from an upturn in overseas demand.",
+      "It is too early to determine whether the upturn will be sustained.",
+      "Employment usually responds more slowly than production at the beginning of an economic upturn.",
+      "The upturn in investment led to an increase in patent applications for manufacturing technologies."
+    ]
+  }
+},
+{
   "id": "upswing",
   "sid": "2026-01306",
   "word": "upswing",
