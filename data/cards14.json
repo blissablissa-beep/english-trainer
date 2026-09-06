@@ -1,5 +1,202 @@
 [
 {
+  "id": "recession",
+  "sid": "2026-01301",
+  "word": "recession",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "economics",
+    "economy",
+    "business cycle",
+    "decline",
+    "unemployment",
+    "investment",
+    "finance",
+    "business",
+    "policy",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable or uncountable",
+    "plural": "recessions",
+    "forms": {
+      "singular": "recession",
+      "plural": "recessions",
+      "verb": "recede",
+      "adjective": "recessionary",
+      "related_noun": "recession",
+      "opposite_concept": "economic expansion"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a recession",
+      "an economic recession",
+      "during / in a recession",
+      "enter / fall into a recession",
+      "be in recession",
+      "emerge / recover from a recession",
+      "cause / trigger a recession",
+      "avoid / prevent a recession",
+      "a recession in + country / industry",
+      "the recession of + body part / natural feature"
+    ],
+    "usage": {
+      "economic_sense": "In its principal modern sense, recession means a substantial decline in economic activity extending across the economy.",
+      "countability": "It is countable when referring to a particular period: a severe recession; several recessions.",
+      "without_article": "In be in recession, the noun commonly appears without an article: The economy is in recession.",
+      "technical_definition": "Two consecutive quarters of declining real GDP is a common rule of thumb, but it is not a universal or complete definition of recession.",
+      "non_economic_sense": "In technical contexts, recession can mean the act or process of moving backward, as in gum recession or the recession of a shoreline.",
+      "adjective": "Recessionary describes conditions associated with or likely to cause a recession: recessionary pressure.",
+      "spelling": "Recession has one c and a double s: recession."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈseʃən/",
+      "uk": "/rɪˈseʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "経済活動が広範囲にわたって一定期間縮小する景気後退",
+      "生産・所得・雇用・消費・投資などが全体として落ち込む時期",
+      "特定の国・地域・産業における深刻な経済的停滞",
+      "物・組織・身体の一部などが後退すること",
+      "歯肉や海岸線などが以前の位置から徐々に後退する現象"
+    ],
+    "en": [
+      "a period of significant and widespread decline in economic activity",
+      "a phase in which production, income, employment, consumption, and investment generally weaken",
+      "a serious economic downturn affecting a particular country, region, or industry",
+      "the process of moving or drawing backward",
+      "the gradual retreat of a bodily structure or natural feature, such as gums or a shoreline"
+    ]
+  },
+  "nuance": {
+    "ja": "現代英語で recession は、主として経済全体に広がる「景気後退」を意味する。日常的には実質GDPが2四半期連続で減少することが目安としてよく挙げられるが、これは簡便な判定基準にすぎず、あらゆる国・機関に共通する厳密な定義ではない。実際の判断では、生産・所得・雇用・消費など複数の指標と、落ち込みの深さ・広がり・持続期間が考慮され得る。downturn は規模や期間を限定せず経済の悪化を広く表すのに対し、recession は経済全体に及ぶ、ある程度明確な収縮局面を示す。depression は通常、recession よりはるかに深刻で長期的な経済不振を表す。なお、gum recession のような非経済的用法では、対象が本来の位置から後退することを意味する。",
+    "en": "In contemporary English, recession primarily denotes an economic decline that extends broadly across the economy. Two consecutive quarters of falling real GDP is often cited as a practical rule of thumb, but it is not a complete or universally controlling definition. An official or analytical determination may consider several indicators, including production, income, employment, and consumption, as well as the decline’s depth, diffusion, and duration. Downturn broadly describes worsening economic conditions without necessarily specifying their scale or length, whereas recession suggests a more identifiable contraction affecting the wider economy. Depression normally refers to a much deeper and more prolonged collapse. In noneconomic expressions such as gum recession, the word retains its underlying sense of retreat from a former position."
+  },
+  "minimal": {
+    "ja": [
+      "recession：経済活動が広範囲にわたって一定期間縮小する景気後退。",
+      "downturn：経済・市場・業績などが悪化する局面を広く表す。",
+      "contraction：経済規模・生産・需要などが縮小することに焦点を置く。",
+      "depression：recession より深刻で長期にわたる大規模な経済不振。",
+      "slowdown：経済成長が続いていても、その速度が鈍化すること。",
+      "stagnation：成長や発展がほとんどなく、停滞した状態が続くこと。",
+      "slump：経済・売上・価格などの急激で大幅な落ち込み。",
+      "expansion：生産・雇用・所得などが増加する景気拡大局面。"
+    ],
+    "en": [
+      "a recession is a widespread and sustained decline in economic activity.",
+      "a downturn is any period of worsening economic, market, or business conditions.",
+      "a contraction emphasizes a measurable reduction in economic output, production, or demand.",
+      "a depression is a much deeper and more prolonged economic collapse than an ordinary recession.",
+      "a slowdown is a reduction in the rate of growth, even when economic activity is still increasing.",
+      "stagnation is an extended condition of little or no economic growth or development.",
+      "a slump is a sudden and substantial decline in economic activity, sales, or prices.",
+      "an expansion is a phase in which economic production, employment, and income generally increase."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 recessio「後退、退去」に由来し、これは recedere「後ろへ下がる、退く」から作られた。recedere は re-「後方へ、再び」と cedere「行く、進む、譲る」から成る。英語では当初、一般的な後退・退去を表し、後に景気循環において経済活動が以前の水準から後退することを指す経済用語として定着した。動詞 recede「後退する」、形容詞 recessionary「景気後退の」も同じ語族に属する。",
+    "en": "Recession comes from Latin recessio, meaning a withdrawal or retreat, derived from recedere, to go back or withdraw. Recedere consists of re-, back or again, and cedere, to go, proceed, or yield. The English noun first expressed retreat or movement backward in a general sense and later became established as an economic term for a phase in which activity retreats from its previous level. The verb recede and the adjective recessionary belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "downturn",
+      "note": {
+        "ja": "経済・市場・企業業績などの悪化を広く表し、正式な景気後退に限定されない。",
+        "en": "A broad term for worsening economic, market, or business conditions that need not amount to a formally identified recession."
+      }
+    },
+    {
+      "word": "contraction",
+      "note": {
+        "ja": "経済活動・生産・需要などの量が実際に縮小することを強調する。",
+        "en": "Emphasizes an actual reduction in the volume of economic activity, production, or demand."
+      }
+    },
+    {
+      "word": "depression",
+      "note": {
+        "ja": "生産・雇用・所得などが極めて大幅かつ長期的に落ち込む深刻な経済不振。",
+        "en": "A severe and prolonged economic collapse involving exceptionally large declines in output, employment, and income."
+      }
+    },
+    {
+      "word": "slowdown",
+      "note": {
+        "ja": "経済や事業が成長を続けながら、その成長率が低下する場合にも使える。",
+        "en": "A reduction in the speed of economic or business growth, which may occur even while activity continues to increase."
+      }
+    },
+    {
+      "word": "slump",
+      "note": {
+        "ja": "経済・需要・価格・売上などの急激で大幅な落ち込みを表す。",
+        "en": "A sharp and substantial fall in economic activity, demand, prices, or sales."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Rezession / Wirtschaftsabschwung",
+    "it": "recessione",
+    "fr": "récession",
+    "es": "recesión"
+  },
+  "collocations": {
+    "ja": [
+      "an economic recession — 景気後退",
+      "a severe recession — 深刻な景気後退",
+      "a prolonged recession — 長期化した景気後退",
+      "a global recession — 世界的な景気後退",
+      "enter a recession — 景気後退に入る",
+      "fall into recession — 景気後退に陥る",
+      "be in recession — 景気後退の状態にある",
+      "emerge from a recession — 景気後退から脱する",
+      "recover from a recession — 景気後退から回復する",
+      "trigger a recession — 景気後退を引き起こす",
+      "recessionary pressure — 景気後退圧力",
+      "gum recession — 歯肉退縮"
+    ],
+    "en": [
+      "an economic recession",
+      "a severe recession",
+      "a prolonged recession",
+      "a global recession",
+      "enter a recession",
+      "fall into recession",
+      "be in recession",
+      "emerge from a recession",
+      "recover from a recession",
+      "trigger a recession",
+      "recessionary pressure",
+      "gum recession"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The economy entered a recession after consumer spending and business investment declined sharply. — 個人消費と企業投資が急激に減少した後、その国の経済は景気後退に入った。",
+      "Many small businesses struggled to obtain financing during the recession. — 景気後退中、多くの中小企業が資金調達に苦労した。",
+      "A slowdown in growth does not necessarily mean that the economy is already in recession. — 成長の鈍化は、その経済がすでに景気後退にあることを必ずしも意味しない。",
+      "The government introduced measures intended to prevent the downturn from developing into a prolonged recession. — 政府は、景気の悪化が長期的な景気後退へ発展するのを防ぐための措置を導入した。",
+      "During a recession, some companies reduce their trademark and patent filings, while others invest in intellectual property to prepare for the recovery. — 景気後退時には商標・特許出願を減らす企業がある一方、景気回復に備えて知的財産へ投資する企業もある。"
+    ],
+    "en": [
+      "The economy entered a recession after consumer spending and business investment declined sharply.",
+      "Many small businesses struggled to obtain financing during the recession.",
+      "A slowdown in growth does not necessarily mean that the economy is already in recession.",
+      "The government introduced measures intended to prevent the downturn from developing into a prolonged recession.",
+      "During a recession, some companies reduce their trademark and patent filings, while others invest in intellectual property to prepare for the recovery."
+    ]
+  }
+},
+{
   "id": "prosperity",
   "sid": "2026-01302",
   "word": "prosperity",
