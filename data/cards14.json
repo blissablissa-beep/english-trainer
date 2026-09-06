@@ -1,5 +1,207 @@
 [
 {
+  "id": "loosen",
+  "sid": "2026-01337",
+  "word": "loosen",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "physical action",
+    "fastening",
+    "clothing",
+    "control",
+    "restriction",
+    "rules",
+    "tension",
+    "monetary policy",
+    "figurative",
+    "business",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "loosen",
+      "third_person": "loosens",
+      "past": "loosened",
+      "past_participle": "loosened",
+      "gerund": "loosening",
+      "adjective": "loose",
+      "adverb": "loosely",
+      "noun": "looseness",
+      "opposite": "tighten"
+    },
+    "transitivity": "transitive or intransitive",
+    "patterns": [
+      "loosen + noun",
+      "loosen a knot / screw / lid",
+      "loosen one’s grip on + noun",
+      "loosen restrictions / rules / controls",
+      "loosen monetary policy",
+      "loosen something by + gerund",
+      "loosen enough to do",
+      "begin / start to loosen",
+      "come loose, related but distinct",
+      "loosen up"
+    ],
+    "usage": {
+      "transitive": "Used transitively, loosen means make something less tight, firm, restrictive, or controlled.",
+      "intransitive": "Used intransitively, it means become less tight or firmly fixed: The knot loosened.",
+      "physical": "It commonly applies to knots, screws, lids, clothing, soil, muscles, and a person’s grip.",
+      "rules": "Figuratively, loosen restrictions or controls means make them less strict.",
+      "policy": "Loosen monetary policy means make financial conditions more accommodative, although ease monetary policy is often more idiomatic.",
+      "loosen_up": "Loosen up can mean become physically relaxed, behave less formally, or prepare muscles for activity.",
+      "loose_lose_warning": "Loosen is derived from loose and contains the /s/ sound; it must not be confused with lose, pronounced with /z/.",
+      "tighten_opposite": "Tighten is the direct opposite in both physical and many figurative uses."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈluːsən/",
+      "uk": "/ˈluːsən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "結び目・ねじ・ふた・衣服などを緩める",
+      "固く締まった物、固定された物を緩い状態にする",
+      "握る力・支配・管理などを弱める",
+      "規則・制限・規制・条件などを緩和する",
+      "緊張した筋肉・身体などをほぐす",
+      "自動詞として、物が緩む・固定が弱くなる"
+    ],
+    "en": [
+      "to make a knot, screw, lid, garment, or fastening less tight",
+      "to make something less firmly fixed, compact, or rigid",
+      "to weaken a grip, control, influence, or degree of supervision",
+      "to make a rule, restriction, regulation, or condition less strict",
+      "to relax tense muscles or another physically tight part",
+      "intransitively, to become less tight or firmly secured"
+    ]
+  },
+  "nuance": {
+    "ja": "loosen は、物理的・比喩的に「締まりや拘束の程度を弱める」ことを表す。loosen a screw はねじを完全に取り外すのではなく、締め付けを弱くすること、loosen one’s tie はネクタイを外さず緩めることを意味する。規制について loosen restrictions と言えば、規制を廃止するのではなく、適用条件や厳しさを緩和する。relax restrictions もほぼ同じだが、loosen は締め付けを弱めるという比喩がより明確である。ease は痛み・負担・緊張・政策などを徐々に軽減することに重点を置く。loosen up は、筋肉をほぐすほか、人が緊張を解いてくだけた態度になることも表す。なお、loose は「緩い」、lose は「失う」で、綴りと発音の双方が異なる。",
+    "en": "Loosen means reducing tightness or restraint, either physically or figuratively. Loosen a screw means reducing its tightness rather than necessarily removing it, while loosen one’s tie means making it less tight without taking it off. Loosen restrictions means reducing their strictness or narrowing their constraints, not abolishing them altogether. Relax restrictions is very close, but loosen more clearly preserves the metaphor of reducing a tight grip. Ease focuses on gradually reducing pain, burden, tension, or restrictive policy. Loosen up can describe relaxing muscles or becoming less tense, formal, or inhibited. Loose means not tight, whereas lose means cease to possess; the two words differ in both spelling and pronunciation."
+  },
+  "minimal": {
+    "ja": [
+      "loosen：物・結び目・規制・支配などを、それまでより緩くする。",
+      "loose：固定・締付けが弱い「緩い」という状態を表す形容詞。",
+      "lose：所有物・機会・試合などを失う。loose・loosen とは別語。",
+      "relax：身体・精神をくつろがせる、または規則・制限を緩和する。",
+      "ease：痛み・緊張・負担・制限などを徐々に軽くする。",
+      "slacken：張力・速度・活動・規律などを弱める、または弱まる。",
+      "unfasten：留め具・ボタン・ベルトなどを完全に外す。",
+      "tighten：物を締める、または規則・管理・政策を厳しくする。"
+    ],
+    "en": [
+      "loosen means making an object, fastening, restriction, or form of control less tight.",
+      "loose is the adjective describing the state of not being tight or firmly fixed.",
+      "lose means cease to possess something or fail to win and is distinct from loose and loosen.",
+      "relax means making the body or mind less tense or making a rule or restriction less strict.",
+      "ease means gradually reducing pain, pressure, difficulty, tension, or restriction.",
+      "slacken means reducing tension, speed, activity, or discipline, or becoming weaker.",
+      "unfasten means completely releasing a button, belt, lock, or other fastening.",
+      "tighten means making something physically tighter or making rules, control, or policy stricter."
+    ]
+  },
+  "etymology": {
+    "ja": "形容詞 loose に、「～にする、～になる」を表す動詞接尾辞 -en が付いて成立した。loose は古ノルド語 lauss「自由な、結び付けられていない」に由来し、古英語 lēas とも関係するゲルマン系の語である。もともとは束縛・固定から解放された状態を表し、loosen は「固定や締付けを弱め、そのような状態にする」という意味になった。そこから、規則・支配・金融政策などの厳しさを弱める比喩的用法も発達した。",
+    "en": "Loosen was formed from the adjective loose with the verb-forming suffix -en, meaning make or become. Loose derives from Old Norse lauss, free or unattached, and is related to Old English lēas within the Germanic language family. Its underlying sense was freedom from binding or secure attachment. Loosen therefore came to mean making something less firmly bound or fixed. This physical meaning subsequently extended to reducing the strictness of rules, control, restrictions, and economic policy."
+  },
+  "synonyms": [
+    {
+      "word": "relax",
+      "note": {
+        "ja": "筋肉・精神の緊張を解く、または規則・制限を以前より厳しくなくする。",
+        "en": "To reduce physical or mental tension or make rules and restrictions less strict."
+      }
+    },
+    {
+      "word": "ease",
+      "note": {
+        "ja": "痛み・負担・圧力・制約などを徐々に軽減する。",
+        "en": "To gradually reduce pain, burden, pressure, tension, or restriction."
+      }
+    },
+    {
+      "word": "slacken",
+      "note": {
+        "ja": "ロープなどの張り、活動の速度、規律などを弱める、または弱まる。",
+        "en": "To reduce or undergo a reduction in tension, speed, activity, or discipline."
+      }
+    },
+    {
+      "word": "unfasten",
+      "note": {
+        "ja": "ボタン・ベルト・留め具などを外して、固定を解除する。",
+        "en": "To release a button, belt, clasp, or fastening so that it is no longer secured."
+      }
+    },
+    {
+      "word": "release",
+      "note": {
+        "ja": "握っている物・固定された物・抑制された力などを解放する。",
+        "en": "To free something from a grip, fastening, restraint, or controlled condition."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "lockern / lösen",
+    "it": "allentare / sciogliere",
+    "fr": "desserrer / relâcher",
+    "es": "aflojar / soltar"
+  },
+  "collocations": {
+    "ja": [
+      "loosen a knot — 結び目を緩める",
+      "loosen a screw — ねじを緩める",
+      "loosen the lid — ふたを緩める",
+      "loosen one’s tie — ネクタイを緩める",
+      "loosen one’s belt — ベルトを緩める",
+      "loosen one’s grip — 握る力・支配を弱める",
+      "loosen tight muscles — 硬くなった筋肉をほぐす",
+      "loosen the soil — 土をほぐす",
+      "loosen restrictions — 制限を緩和する",
+      "loosen regulations — 規制を緩和する",
+      "loosen monetary policy — 金融政策を緩和する",
+      "gradually loosen control — 徐々に統制を緩める"
+    ],
+    "en": [
+      "loosen a knot",
+      "loosen a screw",
+      "loosen the lid",
+      "loosen one’s tie",
+      "loosen one’s belt",
+      "loosen one’s grip",
+      "loosen tight muscles",
+      "loosen the soil",
+      "loosen restrictions",
+      "loosen regulations",
+      "loosen monetary policy",
+      "gradually loosen control"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Use this tool to loosen the screw without damaging it. — ねじを傷つけずに緩めるには、この工具を使ってください。",
+      "He loosened his tie after the formal dinner ended. — 正式な夕食会が終わると、彼はネクタイを緩めた。",
+      "The knot gradually loosened as the rope became wet. — ロープがぬれるにつれて、結び目は徐々に緩んだ。",
+      "The government decided to loosen some restrictions on small businesses. — 政府は中小企業に対する一部の制限を緩和することにした。",
+      "Loosening the formal requirements may simplify patent filing, but it must not create uncertainty about the scope of protection. — 形式的要件を緩和すれば特許出願を簡素化できる可能性があるが、保護範囲を不明確にしてはならない。"
+    ],
+    "en": [
+      "Use this tool to loosen the screw without damaging it.",
+      "He loosened his tie after the formal dinner ended.",
+      "The knot gradually loosened as the rope became wet.",
+      "The government decided to loosen some restrictions on small businesses.",
+      "Loosening the formal requirements may simplify patent filing, but it must not create uncertainty about the scope of protection."
+    ]
+  }
+},
+{
   "id": "slacken",
   "sid": "2026-01338",
   "word": "slacken",
