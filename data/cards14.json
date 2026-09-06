@@ -1,5 +1,200 @@
 [
 {
+  "id": "de_facto",
+  "sid": "2026-01344",
+  "word": "de facto",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "adverb",
+    "Latin phrase",
+    "actuality",
+    "practice",
+    "unofficial",
+    "authority",
+    "control",
+    "standard",
+    "government",
+    "legal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / adverb",
+    "forms": {
+      "base": "de facto",
+      "opposite": "de jure",
+      "latin_source": "de facto",
+      "comparative": "not normally compared",
+      "superlative": "not normally compared"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a de facto + noun",
+      "the de facto leader / standard / government",
+      "de facto control of / over + noun",
+      "become / serve as the de facto + noun",
+      "operate / function de facto as + noun",
+      "be de facto responsible for + noun",
+      "exist de facto",
+      "recognize something de facto",
+      "de facto rather than de jure",
+      "both de facto and de jure"
+    ],
+    "usage": {
+      "adjective": "Before a noun, de facto describes a status that exists in reality or practice, whether or not it is formally recognized: the de facto leader.",
+      "adverb": "As an adverb, it means in fact or in practice: The arrangement operated de facto as a monopoly.",
+      "contrast": "De facto is commonly contrasted with de jure, which means existing by law or according to formal legal status.",
+      "legality": "De facto does not by itself mean illegal, invalid, or illegitimate; it indicates that the description is based on actual circumstances.",
+      "hyphenation": "The established phrase is normally written de facto without a hyphen, including before a noun.",
+      "italics": "It is fully established in English and need not be italicized, although editorial styles vary.",
+      "register": "Common in formal, legal, political, academic, and business writing, but also widely understood in general English."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌdeɪ ˈfæktoʊ/",
+      "uk": "/ˌdeɪ ˈfæktəʊ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "法律上・公式上の地位とは別に、事実上存在する",
+      "正式な任命・承認がなくても、実際にはその役割を果たしている",
+      "規則や制度に明記されていなくても、実務上成立している",
+      "形式上の名称や構造ではなく、現実の作用・支配関係に基づく",
+      "副詞として、事実上、実際には"
+    ],
+    "en": [
+      "existing in fact even if not formally or legally recognized",
+      "actually performing a role despite the absence of an official appointment or title",
+      "established in practice even if not expressly prescribed by a rule or system",
+      "based on real operation or control rather than formal description or structure",
+      "as an adverb, in fact or in actual practice"
+    ]
+  },
+  "nuance": {
+    "ja": "de facto の核心は、名目・法的形式・公式な承認ではなく、現実に存在する状態や機能に注目することである。a de facto leader は正式な役職に就いていなくても実際に組織を指揮する人物、a de facto standard は公的機関が制定した規格でなくても市場で広く採用されている標準をいう。反対語の de jure は「法律上・正式には」を意味する。ただし、de facto が直ちに「違法」「無効」「不当」を意味するわけではない。事実上の状態が法律上も一定の効果を認められる場合もあれば、法的地位をまったく持たない場合もある。したがって、法律文書では、単なる実態の説明なのか、そこから何らかの法的効果を主張するのかを明確にする必要がある。",
+    "en": "The core of de facto is attention to actual conditions or functions rather than formal title, legal form, or official recognition. A de facto leader directs an organization in practice without necessarily holding the formal office. A de facto standard is widely followed in the market even though it may not have been formally adopted by an official standards body. Its opposite, de jure, means existing by law or formal right. De facto does not automatically mean illegal, invalid, or improper. A factual arrangement may receive some legal recognition in a particular context, or it may possess no formal legal status at all. Legal writing should therefore clarify whether the phrase merely describes reality or is also being used to support a claimed legal consequence."
+  },
+  "minimal": {
+    "ja": [
+      "de facto：法律上・公式上の承認とは別に、現実または実務上存在する。",
+      "de jure：法律・規則・正式な権限に基づいて存在する。",
+      "actual：想定・名目ではなく、現実の、本当の。",
+      "in practice：理論・規則上ではなく、実際の運用では。",
+      "in effect：形式上の名称にかかわらず、実質的な効果としては。",
+      "unofficial：公的な承認・権限・発表に基づかない非公式の。",
+      "ostensible：外見上・表面上はそう見えるが、実態が異なる可能性のある。",
+      "nominal：名目・名称上はそうであるが、実質的な権限や価値が乏しい。"
+    ],
+    "en": [
+      "de facto describes something existing in reality or practice regardless of formal or legal recognition.",
+      "de jure describes something existing by law, formal rule, or recognized legal right.",
+      "actual means real rather than assumed, nominal, or theoretical.",
+      "in practice contrasts actual operation with theory, rules, or stated intentions.",
+      "in effect describes the practical result regardless of formal name or structure.",
+      "unofficial describes something lacking formal authorization, recognition, or announcement.",
+      "ostensible describes something appearing to be true outwardly although the reality may differ.",
+      "nominal describes something existing in name while possessing little corresponding power, value, or substance."
+    ]
+  },
+  "etymology": {
+    "ja": "de facto はラテン語の句で、de「～から、～に基づいて」と factum「行われたこと、事実」から成り、文字どおりには「事実に基づいて」を意味する。factum は facere「作る、行う」の過去分詞に由来し、英語の fact と同語源である。法律上の権利・形式を表す de jure「法に基づいて」と対比され、政治・法律・外交などの分野から一般の英語へ広がった。",
+    "en": "De facto is a Latin phrase formed from de, from or on the basis of, and facto, the ablative form of factum, a deed or fact. Factum derives from the past participle of facere, to make or do, and is also the source of English fact. The phrase became established in contrast with de jure, on the basis of law, particularly in legal, political, and diplomatic language before spreading into general English."
+  },
+  "synonyms": [
+    {
+      "word": "in practice",
+      "note": {
+        "ja": "規則・理論・公式説明とは別に、実際の運用がどうなっているかを表す。",
+        "en": "Describes how something actually operates as distinct from its rules, theory, or official description."
+      }
+    },
+    {
+      "word": "in effect",
+      "note": {
+        "ja": "形式上の名称や意図にかかわらず、実質的な結果・作用としてはという意味。",
+        "en": "Means as a practical result, regardless of formal designation or stated intention."
+      }
+    },
+    {
+      "word": "in reality",
+      "note": {
+        "ja": "見かけ・主張・想定とは異なる現実の状態を直接的に表す。",
+        "en": "Directly identifies the real situation, often in contrast with appearance, assertion, or assumption."
+      }
+    },
+    {
+      "word": "actual",
+      "note": {
+        "ja": "想像・推定・名目上のものではなく、現実に存在することを表す。",
+        "en": "Describes something that truly exists rather than being imagined, assumed, or merely nominal."
+      }
+    },
+    {
+      "word": "unofficial",
+      "note": {
+        "ja": "正式な任命・承認・発表を受けていないことを表すが、必ずしも実質的な支配や機能までは意味しない。",
+        "en": "Indicates an absence of formal appointment, approval, or announcement without necessarily implying actual control or function."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "de facto / tatsächlich / faktisch",
+    "it": "de facto / di fatto",
+    "fr": "de facto / de fait",
+    "es": "de facto / de hecho"
+  },
+  "collocations": {
+    "ja": [
+      "a de facto leader — 事実上の指導者",
+      "a de facto government — 事実上の政府",
+      "a de facto standard — 事実上の標準",
+      "a de facto monopoly — 事実上の独占",
+      "a de facto relationship — 事実上の関係",
+      "a de facto ban — 事実上の禁止",
+      "de facto control — 事実上の支配",
+      "de facto authority — 事実上の権限・当局",
+      "de facto recognition — 事実上の承認",
+      "become the de facto standard — 事実上の標準となる",
+      "operate de facto as a monopoly — 事実上独占として機能する",
+      "de facto rather than de jure — 法律上ではなく事実上の"
+    ],
+    "en": [
+      "a de facto leader",
+      "a de facto government",
+      "a de facto standard",
+      "a de facto monopoly",
+      "a de facto relationship",
+      "a de facto ban",
+      "de facto control",
+      "de facto authority",
+      "de facto recognition",
+      "become the de facto standard",
+      "operate de facto as a monopoly",
+      "de facto rather than de jure"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Although she had no official title, she was the de facto leader of the organization. — 彼女には正式な役職名がなかったが、その組織の事実上の指導者だった。",
+      "The software became the de facto industry standard because it was adopted by most major companies. — そのソフトウェアは主要企業の大半に採用され、事実上の業界標準となった。",
+      "The restriction did not expressly prohibit imports, but it operated de facto as a ban. — その制限は輸入を明示的に禁止してはいなかったが、事実上の禁止として機能していた。",
+      "Ownership of a minority of the shares does not exclude the possibility of de facto control over the company. — 少数の株式しか所有していないことは、その会社に対する事実上の支配が成立する可能性を排除しない。",
+      "Widespread use of a technical method may make it a de facto standard, but it does not by itself determine whether implementing the method infringes a valid patent. — ある技術的方法が広く利用されれば事実上の標準となり得るが、その実施が有効な特許権を侵害するかどうかは、それだけでは決まらない。"
+    ],
+    "en": [
+      "Although she had no official title, she was the de facto leader of the organization.",
+      "The software became the de facto industry standard because it was adopted by most major companies.",
+      "The restriction did not expressly prohibit imports, but it operated de facto as a ban.",
+      "Ownership of a minority of the shares does not exclude the possibility of de facto control over the company.",
+      "Widespread use of a technical method may make it a de facto standard, but it does not by itself determine whether implementing the method infringes a valid patent."
+    ]
+  }
+},
+{
   "id": "de_jure",
   "sid": "2026-01345",
   "word": "de jure",
