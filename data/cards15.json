@@ -1,5 +1,201 @@
 [
 {
+  "id": "as-a-matter-of-fact",
+  "sid": "2026-01386",
+  "word": "as a matter of fact",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "discourse marker",
+    "phrase",
+    "fact",
+    "emphasis",
+    "correction",
+    "contrast",
+    "clarification",
+    "additional information",
+    "conversation",
+    "writing",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "discourse marker / prepositional phrase",
+    "forms": {
+      "base": "as a matter of fact",
+      "sentence_initial": "As a matter of fact, ...",
+      "sentence_medial": "...; as a matter of fact, ...",
+      "shortened_informal": "matter of fact",
+      "related_adjective": "matter-of-fact",
+      "related_adverb": "matter-of-factly"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "As a matter of fact, + clause",
+      "and, as a matter of fact, + clause",
+      "but, as a matter of fact, + clause",
+      "As a matter of fact, yes.",
+      "As a matter of fact, no.",
+      "As a matter of fact, I do / did.",
+      "not merely X; as a matter of fact, Y",
+      "contrary to that suggestion, as a matter of fact, + clause",
+      "something is, as a matter of fact, + complement",
+      "state something as a matter of fact"
+    ],
+    "usage": {
+      "correction": "It can introduce information correcting or contradicting an assumption: I’m not tired; as a matter of fact, I feel energetic.",
+      "emphasis": "It can emphasize that a statement is genuinely true or more striking than expected.",
+      "addition": "It can introduce relevant additional information, often stronger or more specific than what came before.",
+      "position": "It most commonly appears at the beginning of a clause and is normally followed by a comma.",
+      "tone": "Depending on context, it can sound informative, emphatic, corrective, or mildly confrontational.",
+      "fact": "The phrase signals the speaker’s presentation of something as factual, but it does not itself prove that the statement is true.",
+      "distinction": "Do not confuse as a matter of fact with matter-of-fact, an adjective meaning unemotional and practical.",
+      "register": "It is natural in conversation and general writing, though in formal prose in fact or in reality is often more concise."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əz ə ˌmætər əv ˈfækt/",
+      "uk": "/əz ə ˌmætər əv ˈfækt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "実を言うと、実際のところ",
+      "相手の想定や直前の発言を訂正して「いや実際には」",
+      "ある事実を強調して「事実としては」",
+      "さらに意外または具体的な情報を付け加えて「それどころか」",
+      "質問への返答で「実はそうです／実は違います」"
+    ],
+    "en": [
+      "in fact or in reality",
+      "used to correct an assumption or contradict a preceding statement",
+      "used to emphasize that a statement is genuinely true",
+      "used to add information that is more specific or surprising than what preceded it",
+      "used in a reply to introduce the actual answer, often contrary to expectation"
+    ]
+  },
+  "nuance": {
+    "ja": "as a matter of fact は、単なる事実の追加だけでなく、聞き手の想定を訂正したり、直前の内容より強い事実を提示したりする談話標識である。Are you new here? — As a matter of fact, I’ve worked here for ten years. なら、質問に含まれる想定を穏やかに覆している。I liked the book. As a matter of fact, I read it twice. なら、前の発言をさらに強める具体的な事実を加えている。日本語では文脈に応じて「実は」「実際のところ」「それどころか」などと訳し分ける必要がある。強い訂正に使うと、相手へ「事実を知らない」と指摘するような響きを持つことがある。なお、matter-of-fact は「感情を交えず淡々とした」という別の形容詞であり、意味も文法的役割も異なる。",
+    "en": "As a matter of fact is a discourse marker that does more than introduce an ordinary fact. It may correct the listener’s assumption or add evidence stronger and more specific than the preceding statement. In Are you new here? — As a matter of fact, I’ve worked here for ten years, it gently overturns the assumption contained in the question. In I liked the book. As a matter of fact, I read it twice, it reinforces the first statement with a more striking fact. Its Japanese equivalent therefore varies among 実は, 実際のところ, and それどころか according to context. When used for forceful correction, it may imply that the other person is poorly informed. Matter-of-fact, by contrast, is an adjective meaning unemotional and practical and has a different grammatical function."
+  },
+  "minimal": {
+    "ja": [
+      "as a matter of fact：想定を訂正したり、より強い事実を加えたりして「実は、実際のところ」。",
+      "in fact：事実の訂正・強調・補足を簡潔に導く、非常に近い表現。",
+      "actually：予想や発言と異なる実情を、特に会話で示す。",
+      "in reality：外見・想像・主張とは異なる現実を強調する。",
+      "indeed：直前の内容を確認・強調し、「確かに、実際」と述べる。",
+      "the fact is：重要または不都合な事実を明示的に導入する。",
+      "to tell the truth：隠していた本心・事実を率直に述べる。",
+      "matter-of-fact：感情を交えず実務的・淡々とした。別の形容詞。"
+    ],
+    "en": [
+      "as a matter of fact introduces a correction or a stronger fact and means in fact or actually.",
+      "in fact is a concise and very close expression for correction, emphasis, or supporting information.",
+      "actually commonly introduces a reality different from what was expected or previously stated.",
+      "in reality emphasizes the true situation as contrasted with appearance, imagination, or a claim.",
+      "indeed confirms or strengthens a preceding statement and means certainly or in fact.",
+      "the fact is explicitly introduces an important, difficult, or inconvenient reality.",
+      "to tell the truth introduces an honest admission of a fact, feeling, or opinion.",
+      "matter-of-fact is a separate adjective meaning unemotional, practical, and direct."
+    ]
+  },
+  "etymology": {
+    "ja": "matter はラテン語 materia「材料・物質」に由来し、古フランス語 matere を経て英語に入った。そこから「扱われている事柄・問題」という抽象的意味が発達した。fact はラテン語 factum「なされたこと、出来事」に由来し、facere「行う、作る」の過去分詞に基づく。a matter of fact は本来、推測・意見・法律問題などに対する「事実に関する問題」を意味した。as a matter of fact は「事実に属する事柄として」という発想から、実情を示したり想定を訂正したりする談話標識として定着した。",
+    "en": "Matter comes through Old French matere from Latin materia, meaning material or substance, and developed the abstract sense of a subject or issue under consideration. Fact derives from Latin factum, something done or an event, based on the past participle of facere, to do or make. A matter of fact originally referred to an issue concerning factual reality, as opposed to opinion, speculation, or a matter of law. As a matter of fact developed from the idea of stating something as factual and became an established discourse marker for introducing reality, correction, or emphasis."
+  },
+  "synonyms": [
+    {
+      "word": "in fact",
+      "note": {
+        "ja": "前の内容を訂正・補強し、実際の事実を示す最も近く簡潔な表現。",
+        "en": "The closest and most concise expression for correcting or strengthening a statement with factual information."
+      }
+    },
+    {
+      "word": "actually",
+      "note": {
+        "ja": "予想・印象・相手の発言とは異なる実情を示す、特に会話で一般的な語。",
+        "en": "A common conversational adverb introducing a reality different from an expectation, impression, or statement."
+      }
+    },
+    {
+      "word": "in reality",
+      "note": {
+        "ja": "見かけ・理論・主張と対照される、現実の状態を強調する。",
+        "en": "Emphasizes the real situation in contrast with appearance, theory, imagination, or a claim."
+      }
+    },
+    {
+      "word": "indeed",
+      "note": {
+        "ja": "直前の発言が正しいことを確認し、さらに強く述べたり具体化したりする。",
+        "en": "Confirms a preceding statement and often strengthens or develops it further."
+      }
+    },
+    {
+      "word": "the fact is",
+      "note": {
+        "ja": "議論上重要な事実、特に相手が見落としている現実を明示する。",
+        "en": "Explicitly introduces an important reality, especially one the listener may have overlooked."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "tatsächlich / in der Tat",
+    "it": "in effetti / a dire il vero",
+    "fr": "en fait / à vrai dire",
+    "es": "de hecho / la verdad es que"
+  },
+  "collocations": {
+    "ja": [
+      "as a matter of fact — 実際のところ",
+      "As a matter of fact, yes — 実はそのとおりです",
+      "As a matter of fact, no — 実は違います",
+      "As a matter of fact, I do — 実はそうしています",
+      "As a matter of fact, I did — 実際、そうしました",
+      "but as a matter of fact — しかし実際には",
+      "and as a matter of fact — そして実際",
+      "quite the opposite, as a matter of fact — 実際にはまったく逆で",
+      "as a matter of fact, rather than opinion — 意見ではなく事実の問題として",
+      "state something as a matter of fact — 何かを事実として述べる",
+      "accept something as a matter of fact — 何かを当然の事実として受け入れる",
+      "treat something as a matter of fact — 何かを事実の問題として扱う"
+    ],
+    "en": [
+      "as a matter of fact",
+      "As a matter of fact, yes",
+      "As a matter of fact, no",
+      "As a matter of fact, I do",
+      "As a matter of fact, I did",
+      "but as a matter of fact",
+      "and as a matter of fact",
+      "quite the opposite, as a matter of fact",
+      "as a matter of fact, rather than opinion",
+      "state something as a matter of fact",
+      "accept something as a matter of fact",
+      "treat something as a matter of fact"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I’m not tired; as a matter of fact, I feel more energetic than usual. — 私は疲れていません。実際のところ、いつもより元気に感じます。",
+      "“Is this your first visit to Germany?” “As a matter of fact, I lived there for three years.” — 「ドイツを訪れるのは初めてですか」「実は、そこで3年間暮らしていました。」",
+      "The project was not delayed by a lack of money. As a matter of fact, it came in under budget. — そのプロジェクトは資金不足で遅れたのではない。実際、予算内で完成した。",
+      "She does not oppose the proposal; as a matter of fact, she was the first person to support it. — 彼女はその提案に反対していない。それどころか、最初に支持した人物だった。",
+      "The competitor asserted that the patent had expired, but as a matter of fact, its term had been extended following regulatory review. — 競合他社はその特許が失効したと主張したが、実際には規制当局による審査を受けて存続期間が延長されていた。"
+    ],
+    "en": [
+      "I’m not tired; as a matter of fact, I feel more energetic than usual.",
+      "“Is this your first visit to Germany?” “As a matter of fact, I lived there for three years.”",
+      "The project was not delayed by a lack of money. As a matter of fact, it came in under budget.",
+      "She does not oppose the proposal; as a matter of fact, she was the first person to support it.",
+      "The competitor asserted that the patent had expired, but as a matter of fact, its term had been extended following regulatory review."
+    ]
+  }
+},
+{
   "id": "clog",
   "sid": "2026-01387",
   "word": "clog",
