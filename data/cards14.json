@@ -1,5 +1,204 @@
 [
 {
+  "id": "what-a-waste",
+  "sid": "2026-01333",
+  "word": "What a waste!",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "exclamation",
+    "fixed expression",
+    "waste",
+    "regret",
+    "disappointment",
+    "lost opportunity",
+    "resources",
+    "time",
+    "money",
+    "food",
+    "conversation",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "exclamative noun phrase / fixed expression",
+    "countability": "countable in a waste meaning a wasteful use or lost opportunity",
+    "plural": "wastes, uncommon in this expression",
+    "forms": {
+      "base": "What a waste!",
+      "expanded_form": "What a waste of + noun!",
+      "statement_form": "It’s such a waste.",
+      "related_adjective": "wasteful",
+      "related_verb": "waste",
+      "related_noun": "waste"
+    },
+    "transitivity": "not applicable as an expression",
+    "patterns": [
+      "What a waste!",
+      "What a terrible / complete waste!",
+      "What a waste of + noun!",
+      "What a waste of time / money / food!",
+      "What a waste of talent!",
+      "It’s such a waste.",
+      "It seems like a waste.",
+      "It’s a waste to + verb",
+      "It’s a waste of time + gerund",
+      "It’s a shame to waste + noun"
+    ],
+    "usage": {
+      "exclamation": "What a waste! is an exclamation expressing regret, disappointment, or criticism about unnecessary loss or unused potential.",
+      "article": "The fixed expression uses a because waste here means an instance of wasteful use or a lost opportunity.",
+      "of_pattern": "Use of to identify the wasted resource or potential: What a waste of money!",
+      "degree": "Adjectives can intensify the judgment: What a terrible waste! or What a complete waste!",
+      "intonation": "Falling intonation commonly conveys firm disappointment; an extended or emphatic pronunciation may express stronger frustration.",
+      "people": "Applied directly to a person, What a waste can sound harsh or dehumanizing; What a waste of talent criticizes the unused potential rather than the person’s existence.",
+      "register": "Natural in conversation and informal writing; formal writing usually identifies the specific inefficiency or loss.",
+      "punctuation": "An exclamation mark is common but not required when the tone is restrained."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌwʌt ə ˈweɪst/",
+      "uk": "/ˌwɒt ə ˈweɪst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "なんてもったいない",
+      "時間・金銭・食料などを無駄にしたことへの落胆",
+      "利用できた機会・能力・資源が生かされなかったことへの残念な気持ち",
+      "不必要な損失や非効率を強く批判する表現",
+      "期待された物・行事・活動が役に立たなかったことへの不満"
+    ],
+    "en": [
+      "an expression meaning that something has been needlessly lost or used badly",
+      "an expression of disappointment about wasted time, money, food, or another resource",
+      "regret that an opportunity, ability, or useful object was not properly used",
+      "a critical reaction to unnecessary loss or inefficiency",
+      "dissatisfaction that an expected object, event, or activity proved useless"
+    ]
+  },
+  "nuance": {
+    "ja": "What a waste! は、価値のある物・時間・金銭・機会・能力などが役立てられず失われたことへの残念さや批判を表す。食べ物が捨てられた場面なら「もったいない」、不要な会議なら「まったく時間の無駄だ」、才能が生かされていない場面なら「才能がもったいない」に相当する。What a shame! や What a pity! は残念な出来事全般に使えるが、What a waste! は本来なら有効に使えた価値・可能性が失われたことに焦点を置く。人について He’s a waste. や What a waste. と直接言うと、その人自身に価値がないと評価するような非常に侮辱的な響きになり得る。What a waste of talent. とすれば、批判の対象を人そのものではなく、活用されていない能力へ向けられる。",
+    "en": "What a waste expresses regret or criticism because something valuable—such as time, money, food, opportunity, or ability—has been lost or used badly. When food is discarded, it corresponds to the idea that the food should not have been wasted. Applied to an unnecessary meeting, it may mean a complete waste of time. Applied to unused ability, it means that valuable talent has not been developed or employed. What a shame and What a pity can respond to unfortunate events generally, whereas What a waste focuses on value or potential that could have been used productively. Directly calling a person a waste can be severely insulting because it may deny the person’s own worth. What a waste of talent instead directs criticism toward the failure to use the ability."
+  },
+  "minimal": {
+    "ja": [
+      "What a waste!：価値ある物・時間・機会などが無駄になったことへの「なんてもったいない」。",
+      "What a shame!：残念・恥・非難などを表し、無駄に限定されない。",
+      "What a pity!：不幸・失敗・機会損失などを残念に思う比較的穏やかな表現。",
+      "That’s too bad.：好ましくない知らせに対する「それは残念です」という口語的な反応。",
+      "It’s such a waste.：それが非常にもったいない、またはひどい無駄だと述べる。",
+      "a waste of time：時間を費やす価値がない行為・物事。",
+      "wasteful：金銭・時間・材料などを必要以上に使って無駄にする。",
+      "missed opportunity：利用すれば利益・成功を得られた可能性のある、逃した機会。"
+    ],
+    "en": [
+      "What a waste expresses regret that something valuable has been needlessly lost or badly used.",
+      "What a shame expresses regret, embarrassment, or criticism and is not limited to waste.",
+      "What a pity is a relatively gentle response to misfortune, failure, or a lost opportunity.",
+      "That’s too bad is a conversational response to disappointing or unfavorable news.",
+      "It’s such a waste states that something is extremely wasteful or represents badly used potential.",
+      "a waste of time is an activity or matter not worth the time spent on it.",
+      "wasteful describes using more money, time, or material than is necessary.",
+      "a missed opportunity is a chance that could have produced benefit or success but was not used."
+    ]
+  },
+  "etymology": {
+    "ja": "waste は古フランス語 wast、vast「荒れた、空虚な」に由来し、ラテン語 vastus「荒れ果てた、広大で空の」と関係する。もとは土地が人に利用されず荒廃している状態を表し、そこから資源・時間・能力などが有効に使われず失われる意味へ発達した。What a ...! は驚き・感嘆・非難を表す英語の感嘆構文であり、What a waste! は「これは何という無駄なのか」という形から、強い残念さを示す定型表現となった。",
+    "en": "Waste came through Old French wast or vast, desolate or empty, and is related to Latin vastus, desolate, immense, or empty. It originally described land left uninhabited or uncultivated and developed the meaning of failing to use resources, time, or ability productively. What a ...! is an English exclamative construction expressing surprise, admiration, or criticism. What a waste therefore developed from the literal idea what an instance of waste this is into a fixed reaction of strong regret or disappointment."
+  },
+  "synonyms": [
+    {
+      "word": "What a shame!",
+      "note": {
+        "ja": "残念な出来事への反応として広く使え、機会・資源の無駄に限定されない。",
+        "en": "A broad reaction to an unfortunate situation, not limited to the loss of useful resources or potential."
+      }
+    },
+    {
+      "word": "What a pity!",
+      "note": {
+        "ja": "不幸・失敗・中止などを残念に思う、比較的穏やかな感嘆表現。",
+        "en": "A relatively gentle exclamation expressing regret about misfortune, failure, or cancellation."
+      }
+    },
+    {
+      "word": "That’s too bad.",
+      "note": {
+        "ja": "悪い知らせや期待外れの結果に対する、日常的な「それは残念」。",
+        "en": "An everyday conversational response to bad news or a disappointing outcome."
+      }
+    },
+    {
+      "word": "What a missed opportunity!",
+      "note": {
+        "ja": "利益や成功につながり得た機会を逃したことへの残念さを明示する。",
+        "en": "Explicitly expresses regret that a chance capable of producing benefit or success was lost."
+      }
+    },
+    {
+      "word": "It’s such a waste.",
+      "note": {
+        "ja": "何かが非常にもったいない、またはひどい無駄であることを述べる。",
+        "en": "States that something represents a serious waste of resources, effort, or potential."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Was für eine Verschwendung! / Wie schade!",
+    "it": "Che spreco! / Che peccato!",
+    "fr": "Quel gâchis ! / Quel dommage !",
+    "es": "¡Qué desperdicio! / ¡Qué lástima!"
+  },
+  "collocations": {
+    "ja": [
+      "What a waste! — なんてもったいない",
+      "What a terrible waste! — なんというひどい無駄だ",
+      "What a complete waste! — まったくの無駄だ",
+      "What a waste of time! — なんという時間の無駄だ",
+      "What a waste of money! — なんという金の無駄だ",
+      "What a waste of food! — 食べ物がもったいない",
+      "What a waste of energy! — なんというエネルギーの無駄だ",
+      "What a waste of effort! — なんという労力の無駄だ",
+      "What a waste of space! — なんという空間の無駄だ",
+      "What a waste of talent! — なんと才能がもったいない",
+      "What a waste of an opportunity! — なんともったいない機会損失だ",
+      "It’s such a waste. — 本当にもったいない"
+    ],
+    "en": [
+      "What a waste!",
+      "What a terrible waste!",
+      "What a complete waste!",
+      "What a waste of time!",
+      "What a waste of money!",
+      "What a waste of food!",
+      "What a waste of energy!",
+      "What a waste of effort!",
+      "What a waste of space!",
+      "What a waste of talent!",
+      "What a waste of an opportunity!",
+      "It’s such a waste."
+    ]
+  },
+  "example": {
+    "ja": [
+      "You’re throwing away perfectly good food—what a waste! — まだ十分食べられる物を捨てるなんて、なんてもったいない。",
+      "The meeting lasted three hours but produced no decision. What a waste of time! — 会議は3時間続いたが、何の決定も生まなかった。まったく時間の無駄だ。",
+      "The building could have been restored instead of demolished. What a waste! — その建物は取り壊さずに修復できたはずなのに、なんともったいない。",
+      "She has extraordinary ability but refuses to develop it—what a waste of talent. — 彼女には並外れた能力があるのに、それを伸ばそうとしない。なんと才能がもったいないのだろう。",
+      "The application was abandoned because one renewal notice was overlooked. What a waste of a potentially valuable patent! — 一通の更新通知が見落とされたため、その出願は放棄された。価値ある特許になり得たのに、なんともったいない。"
+    ],
+    "en": [
+      "You’re throwing away perfectly good food—what a waste!",
+      "The meeting lasted three hours but produced no decision. What a waste of time!",
+      "The building could have been restored instead of demolished. What a waste!",
+      "She has extraordinary ability but refuses to develop it—what a waste of talent.",
+      "The application was abandoned because one renewal notice was overlooked. What a waste of a potentially valuable patent!"
+    ]
+  }
+},
+{
   "id": "hassle",
   "sid": "2026-01334",
   "word": "hassle",
