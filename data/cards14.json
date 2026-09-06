@@ -1,5 +1,203 @@
 [
 {
+  "id": "extra-budget",
+  "sid": "2026-01336",
+  "word": "extra budget",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun phrase",
+    "budget",
+    "government",
+    "public finance",
+    "fiscal policy",
+    "public spending",
+    "appropriation",
+    "emergency",
+    "economics",
+    "politics",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "countable",
+    "plural": "extra budgets",
+    "forms": {
+      "singular": "extra budget",
+      "plural": "extra budgets",
+      "preferred_formal_term": "supplementary budget",
+      "alternative_term": "additional budget",
+      "nonstandard_closed_form": "extrabudget",
+      "related_adjective": "extrabudgetary / extra-budgetary"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an extra budget",
+      "an extra budget of + amount",
+      "an extra budget for + purpose",
+      "prepare / compile an extra budget",
+      "approve / adopt an extra budget",
+      "propose / submit an extra budget",
+      "finance an extra budget through + means",
+      "include something in an extra budget",
+      "a supplementary budget",
+      "additional spending under an extra budget"
+    ],
+    "usage": {
+      "spacing": "Extra budget is written as two words. Extrabudget as a single ordinary word is nonstandard or highly exceptional.",
+      "meaning": "An extra budget is an additional government spending and revenue plan adopted after or in addition to the main annual budget.",
+      "formal_term": "Supplementary budget is generally the clearer and more established formal term.",
+      "purpose": "It may address an emergency, unexpected expenditure, changed economic conditions, or a new government policy.",
+      "approval": "An extra or supplementary budget may require legislative or other formal approval, depending on the constitutional and fiscal system.",
+      "extrabudgetary_warning": "Extrabudgetary means outside the regular budgetary system and is not simply the adjective meaning supplementary.",
+      "appropriation": "The budget plan and the legal authority to spend may be conceptually distinct, depending on the jurisdiction.",
+      "register": "Extra budget appears in journalism and discussion of public finance; supplementary budget is preferable in careful formal writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈekstrə ˌbʌdʒɪt/",
+      "uk": "/ˈekstrə ˌbʌdʒɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "当初予算の成立後に追加で編成される補正予算・追加予算",
+      "災害・景気対策・物価高など、予想外の支出へ対応するための予算",
+      "既存の年間予算では不足する支出を賄うための追加的な財政計画",
+      "歳出の追加だけでなく、その財源も示すことのある補足的な政府予算",
+      "より正式な英語では supplementary budget と呼ばれる予算"
+    ],
+    "en": [
+      "an additional budget prepared after or alongside the principal annual budget",
+      "a budget used to address an emergency, economic stimulus, rising prices, or another unexpected need",
+      "an additional fiscal plan covering expenditure not sufficiently provided for in the original budget",
+      "a supplementary government plan that may specify both additional spending and its sources of finance",
+      "a budget more formally and commonly called a supplementary budget"
+    ]
+  },
+  "nuance": {
+    "ja": "extra budget は、日本語の「補正予算」を説明する際に報道などで使われることがあるが、正式かつ国際的に分かりやすい表現としては supplementary budget の方が安定している。extra budget は、当初の年間予算に含まれていなかった緊急支出・景気対策・物価高対策などを追加する予算を指す。単に各部門へ追加で与えられる予算なら additional budget や additional funding の方が自然な場合もある。extrabudgetary または extra-budgetary は「正規の予算制度・予算書の外にある」という別の概念であり、extrabudgetary fund は必ずしも補正予算によって設けられた基金ではない。したがって、extrabudget を一語の名詞として登録するより、extra budget を見出し語とし、supplementary budget を標準的な言い換えとして覚えるのが安全である。",
+    "en": "Extra budget occurs in journalism and in explanations of an additional government budget, including translations of the Japanese concept of a supplementary budget. Supplementary budget is nevertheless the more stable and internationally transparent formal expression. An extra budget commonly provides for emergency expenditure, economic support, cost-of-living measures, or another need not adequately covered by the original annual budget. If the subject is merely additional money assigned to a department or project, additional budget or additional funding may be more natural. Extrabudgetary or extra-budgetary has a different meaning: it describes funds or operations outside the regular budgetary framework. An extrabudgetary fund is therefore not necessarily a fund created through a supplementary budget. It is safer to record extra budget as two words and learn supplementary budget as its principal formal equivalent."
+  },
+  "minimal": {
+    "ja": [
+      "extra budget：当初予算に追加して編成する予算。二語で書く。",
+      "supplementary budget：当初予算を補足・修正する補正予算を表す、より正式な標準表現。",
+      "additional budget：特定の部門・事業などへ追加される予算を広く表す。",
+      "extrabudgetary：正規の予算制度・予算書の外にある。補正予算という意味ではない。",
+      "appropriation：政府・議会などが特定目的への公金支出を正式に認めること、またはその金額。",
+      "contingency fund：予期しない支出や緊急事態に備えて確保された予備費・基金。",
+      "fiscal stimulus：政府支出・減税などによって経済活動を刺激する政策。",
+      "annual budget：一会計年度について編成される基本的な歳入・歳出計画。"
+    ],
+    "en": [
+      "an extra budget is an additional budget prepared after or alongside the original budget and is written as two words.",
+      "a supplementary budget is the more formal standard term for a budget supplementing or amending the original one.",
+      "an additional budget broadly means further funds allocated to a department, project, or purpose.",
+      "extrabudgetary means outside the regular budgetary framework and does not mean supplementary budget.",
+      "an appropriation is formal authorization, especially by a legislature, to spend public money for a specified purpose.",
+      "a contingency fund is money reserved for unexpected expenditure or emergencies.",
+      "fiscal stimulus uses government spending, tax reductions, or similar measures to increase economic activity.",
+      "an annual budget is the principal plan of government revenue and expenditure for a fiscal year."
+    ]
+  },
+  "etymology": {
+    "ja": "extra はラテン語 extra「外に、～を越えて」に由来し、英語では「追加の、通常の範囲を超えた」を意味する。budget は古フランス語 bougette「小さな革袋」に由来し、政府の財政案を入れた袋から、その財政計画自体を表すようになった。extra budget は「通常または当初の予算に加えられる予算」という透明な複合表現である。一方、extrabudgetary は extra- と budgetary を結合し、「予算制度の外にある」という意味を表す。",
+    "en": "Extra derives from Latin extra, outside or beyond, and in English developed the adjectival meaning additional or beyond the ordinary amount. Budget comes from Old French bougette, a small leather bag, and shifted from the bag containing governmental financial proposals to the financial plan itself. Extra budget is therefore a transparent two-word expression meaning a budget additional to the ordinary or original one. Extrabudgetary, by contrast, combines extra- with budgetary and means existing outside the regular budgetary system."
+  },
+  "synonyms": [
+    {
+      "word": "supplementary budget",
+      "note": {
+        "ja": "当初予算へ追加・修正を行う予算を表す、最も明確で形式的な対応表現。",
+        "en": "The clearest and most formal expression for a budget that adds to or modifies the original budget."
+      }
+    },
+    {
+      "word": "additional budget",
+      "note": {
+        "ja": "政府・企業・部門・事業などに追加で与えられる予算を広く表す。",
+        "en": "A broad expression for further budgetary resources provided to a government, business, department, or project."
+      }
+    },
+    {
+      "word": "supplemental appropriation",
+      "note": {
+        "ja": "特に米国の文脈で、当初の歳出権限へ追加される補足的な歳出予算。",
+        "en": "Especially in US usage, an additional appropriation supplementing previously authorized spending."
+      }
+    },
+    {
+      "word": "additional funding",
+      "note": {
+        "ja": "特定の活動・制度・事業へ追加で提供される資金。",
+        "en": "Further money provided for a particular activity, program, institution, or project."
+      }
+    },
+    {
+      "word": "revised budget",
+      "note": {
+        "ja": "収入・費用・事情の変化を反映して、既存の予算を修正したもの。",
+        "en": "An existing budget amended to reflect changed revenue, expenditure, or circumstances."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Nachtragshaushalt",
+    "it": "bilancio supplementare / manovra correttiva",
+    "fr": "budget supplémentaire / budget rectificatif",
+    "es": "presupuesto suplementario"
+  },
+  "collocations": {
+    "ja": [
+      "compile an extra budget — 補正予算を編成する",
+      "prepare an extra budget — 追加予算を作成する",
+      "propose an extra budget — 補正予算を提案する",
+      "approve an extra budget — 補正予算を承認する",
+      "adopt an extra budget — 補正予算を採択する",
+      "an extra budget of three trillion yen — 3兆円規模の補正予算",
+      "an extra budget for emergency relief — 緊急救済のための補正予算",
+      "include subsidies in the extra budget — 補正予算に補助金を盛り込む",
+      "finance the extra budget through borrowing — 借入れによって補正予算の財源を賄う",
+      "submit a supplementary budget — 補正予算を提出する",
+      "supplementary budget legislation — 補正予算関連法",
+      "additional spending under the budget — その予算による追加支出"
+    ],
+    "en": [
+      "compile an extra budget",
+      "prepare an extra budget",
+      "propose an extra budget",
+      "approve an extra budget",
+      "adopt an extra budget",
+      "an extra budget of three trillion yen",
+      "an extra budget for emergency relief",
+      "include subsidies in the extra budget",
+      "finance the extra budget through borrowing",
+      "submit a supplementary budget",
+      "supplementary budget legislation",
+      "additional spending under the budget"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The government prepared an extra budget to finance emergency reconstruction. — 政府は緊急復興の財源を確保するため、補正予算を編成した。",
+      "Parliament approved the supplementary budget after several days of debate. — 議会は数日間の審議後、補正予算を承認した。",
+      "The extra budget includes subsidies intended to reduce the burden of rising energy costs. — その補正予算には、上昇するエネルギー費用の負担軽減を目的とする補助金が含まれている。",
+      "The ministry stated that the additional spending would not require new borrowing. — 同省は、追加支出に新たな借入れは必要ないと述べた。",
+      "The supplementary budget allocated additional funding to support domestic research and the acquisition of strategically important patents. — その補正予算は、国内研究と戦略的に重要な特許の取得を支援するため、追加資金を配分した。"
+    ],
+    "en": [
+      "The government prepared an extra budget to finance emergency reconstruction.",
+      "Parliament approved the supplementary budget after several days of debate.",
+      "The extra budget includes subsidies intended to reduce the burden of rising energy costs.",
+      "The ministry stated that the additional spending would not require new borrowing.",
+      "The supplementary budget allocated additional funding to support domestic research and the acquisition of strategically important patents."
+    ]
+  }
+},
+{
   "id": "loosen",
   "sid": "2026-01337",
   "word": "loosen",
