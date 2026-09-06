@@ -1,5 +1,789 @@
 [
 {
+  "id": "make-waves",
+  "sid": "2026-01365",
+  "word": "make waves",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "idiom",
+    "verb phrase",
+    "impact",
+    "change",
+    "disruption",
+    "controversy",
+    "attention",
+    "innovation",
+    "success",
+    "workplace",
+    "media",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic verb phrase",
+    "forms": {
+      "base": "make waves",
+      "third_person": "makes waves",
+      "past": "made waves",
+      "past_participle": "made waves",
+      "gerund": "making waves",
+      "negative": "not make waves",
+      "related_noun": "wave-making"
+    },
+    "transitivity": "transitive in form but normally treated as a fixed idiom",
+    "patterns": [
+      "make waves",
+      "make waves in + industry / field / community",
+      "make waves with + product / statement / decision",
+      "make waves by + gerund",
+      "begin / continue to make waves",
+      "be afraid to make waves",
+      "avoid making waves",
+      "not want to make waves",
+      "make too many waves",
+      "without making waves"
+    ],
+    "usage": {
+      "disruption": "Make waves can mean causing trouble, controversy, resistance, or unwelcome disruption.",
+      "impact": "It can also positively mean attracting attention, challenging established practices, or producing a significant impact.",
+      "context": "The surrounding language determines whether the expression is approving, disapproving, or neutral.",
+      "prepositions": "In identifies the field or community affected, while with commonly introduces the product, statement, or action producing the effect.",
+      "fixed_plural": "Waves is normally plural in the idiom. Make a wave usually has a literal or different meaning.",
+      "negative_pattern": "Not want to make waves commonly means wanting to avoid conflict, attention, or disruption.",
+      "register": "The expression is informal but common in journalism and relaxed professional communication. Formal alternatives include cause disruption, attract significant attention, and challenge established practice."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌmeɪk ˈweɪvz/",
+      "uk": "/ˌmeɪk ˈweɪvz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "既存の秩序や慣行を乱し、騒ぎ・反発・論争を引き起こす",
+      "目立つ行動や発言によって周囲の注目を集める",
+      "業界・社会・文化などに大きな影響や変化をもたらす",
+      "革新的な成果によって強い印象を与え、話題になる",
+      "否定形で、対立や面倒を避けて波風を立てない"
+    ],
+    "en": [
+      "to disturb an established situation and cause trouble, resistance, or controversy",
+      "to attract attention through a noticeable action, statement, or achievement",
+      "to produce a significant effect or change within an industry, community, or culture",
+      "to become widely discussed because of an innovative or impressive achievement",
+      "in negative constructions, to avoid conflict, disruption, or unwanted attention"
+    ]
+  },
+  "nuance": {
+    "ja": "make waves は、水面に波を起こすというイメージから、安定していた状況を動かして周囲に影響を広げることを表す。文脈によって評価が大きく変わる。He is always making waves at work. なら、職場で余計な問題や対立を引き起こすという批判的な意味になりやすい。一方、The new designer is making waves in the industry. なら、革新的な仕事で注目を集め、大きな影響を与えているという肯定的な意味になる。I don’t want to make waves. は「波風を立てたくない」「事を荒立てたくない」という非常に一般的な用法である。必ずしも公然と争うことだけを意味せず、従来の方法への異議、予想外の提案、内部告発などによって組織を動揺させる場合にも使える。正式な法律・ビジネス文書では、cause controversy、disrupt established practice、attract attention など、実際に生じた効果を具体的に記述する方が明確である。",
+    "en": "Make waves uses the image of disturbing a previously calm surface and causing effects to spread outward. Its evaluation depends heavily on context. He is always making waves at work usually criticizes someone for creating unnecessary conflict or trouble. By contrast, The new designer is making waves in the industry normally praises the person for attracting attention and producing an important impact through innovative work. I don’t want to make waves is a particularly common way of saying that one wishes to avoid conflict, disruption, or unwanted attention. The expression is not limited to open confrontation; questioning established practices, proposing an unexpected change, or exposing misconduct may also make waves. Formal legal and business writing should normally identify the actual effect more precisely with language such as cause controversy, disrupt established practice, or attract significant attention."
+  },
+  "minimal": {
+    "ja": [
+      "make waves：波風・論争を起こす、または大きな影響を与えて注目を集める。",
+      "rock the boat：安定した状況や人間関係を乱し、問題を起こす。",
+      "stir things up：人の感情・対立・活動を刺激して、騒ぎを起こす。",
+      "cause a stir：珍しい行動・出来事によって周囲を騒がせ、注目を集める。",
+      "make an impact：人・分野・状況に明確で重要な影響を与える。",
+      "break new ground：新しい分野・方法を切り開き、先駆的な成果を上げる。",
+      "ruffle feathers：人を怒らせたり不快にさせたりする。",
+      "keep a low profile：目立つ行動を避け、注目されないようにする。"
+    ],
+    "en": [
+      "make waves means causing disruption or attracting attention through a significant impact.",
+      "rock the boat means disturbing a stable situation or relationship and creating possible trouble.",
+      "stir things up means provoking activity, emotion, disagreement, or trouble.",
+      "cause a stir means attracting excited, surprised, or controversial attention.",
+      "make an impact means producing a clear and important effect on a person, field, or situation.",
+      "break new ground means doing pioneering work or opening a new area of activity.",
+      "ruffle feathers means irritating, offending, or upsetting other people.",
+      "keep a low profile means avoiding conspicuous behavior and unwanted attention."
+    ]
+  },
+  "etymology": {
+    "ja": "make waves は、水面に波を起こすと、その動きが周囲へ広がって静かな状態を乱すという物理的現象を比喩化した表現である。wave は古英語 wafian「揺れる、波打つ」に関連するゲルマン語系の語に由来する。水上で船や物体が作る波から、行動・発言・出来事が社会や組織に連鎖的な影響を及ぼすという意味へ発展した。20世紀には特にアメリカ英語で、問題や騒動を引き起こすことを表す口語的な慣用句として広まり、その後、業界で革新的な影響を与えて注目されるという肯定的用法も一般化した。",
+    "en": "Make waves metaphorically extends the physical image of disturbing the surface of water and causing movement to spread outward. Wave is related to Germanic words expressing movement, fluctuation, or swaying. From the waves created by a vessel or object in water, the expression developed the idea that an action, statement, or event can disturb an organization or society and produce spreading consequences. During the twentieth century, particularly in American English, make waves became a common informal idiom for causing trouble or controversy. Its positive use for attracting attention through innovation or significant achievement subsequently became widespread."
+  },
+  "synonyms": [
+    {
+      "word": "rock the boat",
+      "note": {
+        "ja": "安定している状況・集団・人間関係を乱して、問題を起こすことを強調する。",
+        "en": "Emphasizes disturbing a stable situation, group, or relationship and thereby risking trouble."
+      }
+    },
+    {
+      "word": "cause a stir",
+      "note": {
+        "ja": "目立つ行動・発言・出来事によって、人々を驚かせたり話題を呼んだりする。",
+        "en": "Means attracting surprised, excited, or controversial attention through an unusual action or event."
+      }
+    },
+    {
+      "word": "stir things up",
+      "note": {
+        "ja": "対立・感情・活動などを刺激し、静かだった状況を騒がしくする。",
+        "en": "Means provoking emotion, disagreement, or activity in a previously calm situation."
+      }
+    },
+    {
+      "word": "make an impact",
+      "note": {
+        "ja": "ある分野・組織・人々に、明確で重要な影響を与える。通常は中立的または肯定的。",
+        "en": "Means producing a clear and important effect and is normally neutral or positive."
+      }
+    },
+    {
+      "word": "turn heads",
+      "note": {
+        "ja": "外見・成果・新しさなどによって、人々の視線や関心を強く引き付ける。",
+        "en": "Means attracting noticeable attention through appearance, achievement, or novelty."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Wellen schlagen / Staub aufwirbeln",
+    "it": "fare scalpore / smuovere le acque",
+    "fr": "faire des vagues",
+    "es": "levantar polémica / causar sensación"
+  },
+  "collocations": {
+    "ja": [
+      "make waves in the industry — 業界に大きな影響を与える",
+      "make waves in politics — 政界で波紋を広げる",
+      "make waves in the scientific community — 科学界で注目・論争を呼ぶ",
+      "make waves with a new product — 新製品で大きな話題を呼ぶ",
+      "make waves with a controversial statement — 物議を醸す発言で波紋を広げる",
+      "make waves by challenging convention — 慣習に異議を唱えて波風を立てる",
+      "begin to make waves — 注目または騒ぎを起こし始める",
+      "continue making waves — 引き続き大きな影響を与える",
+      "be afraid to make waves — 波風を立てることを恐れる",
+      "avoid making waves — 波風を立てるのを避ける",
+      "not want to make waves — 事を荒立てたくない",
+      "make too many waves — あまりに多くの問題・摩擦を起こす"
+    ],
+    "en": [
+      "make waves in the industry",
+      "make waves in politics",
+      "make waves in the scientific community",
+      "make waves with a new product",
+      "make waves with a controversial statement",
+      "make waves by challenging convention",
+      "begin to make waves",
+      "continue making waves",
+      "be afraid to make waves",
+      "avoid making waves",
+      "not want to make waves",
+      "make too many waves"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The young artist is making waves with her unconventional work. — その若い芸術家は、型破りな作品によって大きな注目を集めている。",
+      "He noticed the accounting error but hesitated to report it because he did not want to make waves. — 彼は会計上の誤りに気づいたが、波風を立てたくなかったため報告をためらった。",
+      "The new policy made waves throughout the industry and drew strong criticism from smaller companies. — その新方針は業界全体に波紋を広げ、中小企業から強い批判を招いた。",
+      "She has never been afraid to make waves when an established practice seems unfair. — 彼女は、従来の慣行が不公正に見える場合、異議を唱えて波風を立てることを恐れたことがない。",
+      "The court’s unexpected interpretation of the patent claim made waves in the intellectual-property community. — 裁判所による予想外の特許請求項解釈は、知的財産分野に大きな波紋を広げた。"
+    ],
+    "en": [
+      "The young artist is making waves with her unconventional work.",
+      "He noticed the accounting error but hesitated to report it because he did not want to make waves.",
+      "The new policy made waves throughout the industry and drew strong criticism from smaller companies.",
+      "She has never been afraid to make waves when an established practice seems unfair.",
+      "The court’s unexpected interpretation of the patent claim made waves in the intellectual-property community."
+    ]
+  }
+},
+{
+  "id": "out-of-the-woods",
+  "sid": "2026-01366",
+  "word": "out of the woods",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "idiom",
+    "adjective phrase",
+    "danger",
+    "difficulty",
+    "recovery",
+    "crisis",
+    "uncertainty",
+    "health",
+    "finance",
+    "business",
+    "figurative",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic adjective phrase",
+    "forms": {
+      "base": "out of the woods",
+      "with_be": "be out of the woods",
+      "negative": "not be out of the woods",
+      "past": "was / were out of the woods",
+      "future": "will be out of the woods",
+      "question": "Are we out of the woods?"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "be out of the woods",
+      "not be out of the woods",
+      "finally be out of the woods",
+      "appear / seem to be out of the woods",
+      "think / believe that someone is out of the woods",
+      "until someone is out of the woods",
+      "once someone is out of the woods",
+      "far from being out of the woods",
+      "Are we out of the woods?",
+      "We’re not out of the woods yet."
+    ],
+    "usage": {
+      "meaning": "Out of the woods means free from the most serious danger, difficulty, uncertainty, or crisis.",
+      "negative": "The expression is especially common in the negative form not out of the woods yet, indicating that improvement has occurred but significant risk remains.",
+      "with_be": "It most commonly follows a form of be: The patient is out of the woods.",
+      "subjects": "The subject can be a person, organization, economy, project, negotiation, or any situation exposed to serious risk.",
+      "degree": "The phrase generally means that the critical danger has passed, not necessarily that every problem has been completely resolved.",
+      "literal_sense": "It may also literally mean having emerged from a wooded area, though the figurative interpretation is usually clear from context.",
+      "register": "It is informal but common in journalism and professional conversation. Formal alternatives include no longer in immediate danger and the principal risk has passed."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌaʊt əv ðə ˈwʊdz/",
+      "uk": "/ˌaʊt əv ðə ˈwʊdz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "深刻な危険・困難・危機的状況を脱して",
+      "病気やけがの最も危険な段階を越えて",
+      "経営・財政上の破綻リスクからひとまず抜け出して",
+      "問題の最悪期を越え、成功・回復の見通しが立って",
+      "not out of the woods yet の形で、まだ安心できない"
+    ],
+    "en": [
+      "free from the most serious danger, difficulty, or crisis",
+      "past the most critical stage of an illness or injury",
+      "no longer exposed to an immediate risk of financial or organizational failure",
+      "beyond the worst stage of a problem and moving toward recovery or success",
+      "in not out of the woods yet, still facing meaningful danger or uncertainty"
+    ]
+  },
+  "nuance": {
+    "ja": "out of the woods は、森の中で道に迷ったり危険にさらされたりしている状態から抜け出すイメージに基づき、危機や困難の最も深刻な段階を脱したことを表す。特によく使われる We’re not out of the woods yet. は、状況が改善していても「まだ安心はできない」「なお重大なリスクが残っている」という慎重な判断を示す。肯定形の We’re finally out of the woods. は、重大な危険がひとまず去ったことを表すが、細かな問題まですべて解決したとは限らない。病状・企業経営・景気・訴訟・プロジェクトなど幅広い状況に使える。人命や法的責任について正式な判断を示す場合には比喩だけに頼らず、immediate danger has passed や significant legal risks remain のように、何の危険が消え、何が残っているかを具体的に示す必要がある。",
+    "en": "Out of the woods evokes the image of emerging from a forest in which one has been lost or exposed to danger. Figuratively, it means that the most serious stage of a crisis or difficulty has passed. The particularly common sentence We’re not out of the woods yet cautiously acknowledges improvement while warning that meaningful risk remains. The affirmative We’re finally out of the woods indicates that the principal danger has passed, but it does not necessarily mean that every minor problem has been resolved. The idiom applies to health, corporate finances, economic conditions, litigation, projects, and many other difficult situations. When formally assessing danger, liability, or legal risk, a document should state precisely what risk has passed and what remains rather than relying solely on the metaphor."
+  },
+  "minimal": {
+    "ja": [
+      "out of the woods：危険・困難・危機の最も深刻な段階を脱して。",
+      "in the clear：疑い・非難・危険・債務などから解放され、問題のない状態で。",
+      "out of danger：危険な状態を脱して。out of the woods より直接的。",
+      "over the worst：病気・危機などの最悪の段階を越えて。",
+      "turn the corner：最悪期を脱し、状況が改善する方向へ転じる。",
+      "safe and sound：危険を免れ、無事で健康な状態で。",
+      "off the hook：責任・義務・困難な立場から解放されて。",
+      "not home free：進展はあっても、成功や安全がまだ保証されていない。"
+    ],
+    "en": [
+      "out of the woods means being beyond the most serious stage of a danger, difficulty, or crisis.",
+      "in the clear means being free from suspicion, blame, danger, debt, or another obstacle.",
+      "out of danger directly states that a person or thing is no longer exposed to danger.",
+      "over the worst means having passed the most severe stage of an illness or crisis.",
+      "turn the corner means passing a critical point and beginning to improve.",
+      "safe and sound means unharmed, secure, and in good condition after possible danger.",
+      "off the hook means being released from responsibility, obligation, or a difficult position.",
+      "not home free means that progress has been made but success or safety is not yet assured."
+    ]
+  },
+  "etymology": {
+    "ja": "out of the woods は、森を危険・迷い・不確実性の場所として捉える古くからの比喩に由来する。視界が悪く道を見失いやすい森から開けた場所へ出れば、進む方向を確認でき、主要な危険を脱したと考えられる。この物理的経験から、「困難な状況を抜け出す」という比喩的意味が発達した。英語では17世紀には not out of the wood のような形で確認され、その後、集合的な森林を表す複数形 woods を用いる out of the woods が標準的な慣用句となった。現代でも not out of the woods yet という否定形が特に広く用いられる。",
+    "en": "Out of the woods developed from the longstanding conception of a forest as a place of danger, disorientation, and uncertainty. Emerging from dense woodland into open ground allows a traveler to see the route ahead and suggests escape from the principal danger. This physical experience developed into the figurative meaning of escaping a difficult situation. Forms such as not out of the wood are recorded from the seventeenth century, after which out of the woods, using the plural noun for an area of woodland, became the standard idiom. The negative construction not out of the woods yet remains especially common."
+  },
+  "synonyms": [
+    {
+      "word": "out of danger",
+      "note": {
+        "ja": "生命・健康・計画などに対する重大な危険が去ったことを、直接的に表す。",
+        "en": "Directly states that a serious threat to life, health, or a project has passed."
+      }
+    },
+    {
+      "word": "in the clear",
+      "note": {
+        "ja": "危険だけでなく、疑い・非難・債務・障害などから解放された状態を表す。",
+        "en": "Describes freedom not only from danger but also from suspicion, blame, debt, or an obstacle."
+      }
+    },
+    {
+      "word": "over the worst",
+      "note": {
+        "ja": "病気・危機・困難の最も厳しい時期を越えたことを表す。",
+        "en": "Means having passed the most severe period of an illness, crisis, or difficult experience."
+      }
+    },
+    {
+      "word": "past the critical stage",
+      "note": {
+        "ja": "病状・計画・危機などが、成否を左右する最も危険な段階を越えたことを表す。",
+        "en": "Indicates that an illness, project, or crisis has moved beyond its most dangerous and decisive phase."
+      }
+    },
+    {
+      "word": "on the road to recovery",
+      "note": {
+        "ja": "病気・経営・経済などが回復へ向かって進んでいることを表す。",
+        "en": "Means progressing toward recovery from illness, financial trouble, or another serious setback."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "über den Berg sein / aus dem Gröbsten heraus sein",
+    "it": "essere fuori pericolo / essere fuori dai guai",
+    "fr": "être tiré d’affaire / être sorti de l’auberge",
+    "es": "estar fuera de peligro / haber salido del apuro"
+  },
+  "collocations": {
+    "ja": [
+      "be out of the woods — 危機を脱している",
+      "not be out of the woods — まだ危機を脱していない",
+      "not be out of the woods yet — まだ安心できない",
+      "finally be out of the woods — ようやく危機を脱する",
+      "seem to be out of the woods — 危機を脱したように見える",
+      "far from being out of the woods — 危機を脱するには程遠い",
+      "until the patient is out of the woods — 患者が危険な状態を脱するまで",
+      "once the company is out of the woods — 会社が経営危機を脱したら",
+      "believe that someone is out of the woods — 人が危機を脱したと考える",
+      "Are we out of the woods? — 私たちはもう危機を脱したのでしょうか",
+      "the economy is not out of the woods — 経済はまだ危機を脱していない",
+      "the project is finally out of the woods — プロジェクトがようやく難局を脱した"
+    ],
+    "en": [
+      "be out of the woods",
+      "not be out of the woods",
+      "not be out of the woods yet",
+      "finally be out of the woods",
+      "seem to be out of the woods",
+      "far from being out of the woods",
+      "until the patient is out of the woods",
+      "once the company is out of the woods",
+      "believe that someone is out of the woods",
+      "Are we out of the woods?",
+      "the economy is not out of the woods",
+      "the project is finally out of the woods"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The patient is recovering, but the doctors say she is not out of the woods yet. — 患者は回復しつつあるが、医師たちはまだ危険な状態を脱していないと言っている。",
+      "Once we obtain the final permit, the project should be out of the woods. — 最終的な許可を取得すれば、そのプロジェクトは難局を脱するはずだ。",
+      "Sales improved this quarter, but the company is still far from being out of the woods. — 今四半期は売上が改善したが、その会社が経営危機を脱するにはまだ程遠い。",
+      "After several days of uncertainty, we finally felt that we were out of the woods. — 数日間の不安定な状況を経て、私たちはようやく危機を脱したと感じた。",
+      "The favorable patent decision removed one major obstacle, but the client was not out of the woods because a separate infringement action remained pending. — 有利な特許判断によって大きな障害の一つは取り除かれたが、別の侵害訴訟が係属していたため、依頼人はまだ危機を脱していなかった。"
+    ],
+    "en": [
+      "The patient is recovering, but the doctors say she is not out of the woods yet.",
+      "Once we obtain the final permit, the project should be out of the woods.",
+      "Sales improved this quarter, but the company is still far from being out of the woods.",
+      "After several days of uncertainty, we finally felt that we were out of the woods.",
+      "The favorable patent decision removed one major obstacle, but the client was not out of the woods because a separate infringement action remained pending."
+    ]
+  }
+},
+{
+  "id": "clear-as-mud",
+  "sid": "2026-01367",
+  "word": "clear as mud",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "idiom",
+    "adjective phrase",
+    "sarcasm",
+    "irony",
+    "confusion",
+    "clarity",
+    "explanation",
+    "instructions",
+    "communication",
+    "humor",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic adjective phrase",
+    "forms": {
+      "base": "clear as mud",
+      "full_form": "as clear as mud",
+      "with_be": "be as clear as mud",
+      "comparative_pattern": "about as clear as mud",
+      "response": "Clear as mud."
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "be as clear as mud",
+      "be about as clear as mud",
+      "That’s as clear as mud.",
+      "The explanation was as clear as mud.",
+      "make something as clear as mud",
+      "remain as clear as mud",
+      "sound as clear as mud",
+      "Clear as mud?",
+      "Clear as mud.",
+      "That made everything clear as mud."
+    ],
+    "usage": {
+      "meaning": "Clear as mud sarcastically means extremely unclear, confusing, or difficult to understand.",
+      "full_form": "The conventional full expression is as clear as mud, although clear as mud is common as a shortened predicate or standalone comment.",
+      "irony": "The expression deliberately compares something with muddy water, which is not transparent, and therefore means the opposite of literally clear.",
+      "response": "Clear as mud can be used after an explanation to indicate humorously that the listener still does not understand.",
+      "question": "Clear as mud? may jokingly acknowledge that the speaker’s own explanation was complicated or confusing.",
+      "tone": "It is informal and humorous but can sound sarcastic or critical when directed at another person’s explanation.",
+      "formal_context": "In formal communication, use unclear, ambiguous, difficult to follow, or requires clarification."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌklɪr əz ˈmʌd/",
+      "uk": "/ˌklɪər əz ˈmʌd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "皮肉として、非常に分かりにくい・まったく明確でない",
+      "説明・指示・規則などが混乱していて理解しにくい",
+      "言葉や構成が曖昧で、何を意味するのか判断できない",
+      "説明を受けた後も、内容が少しも理解できていない",
+      "Clear as mud. の形で「さっぱり分からない」「実に分かりやすいね」と皮肉に言う"
+    ],
+    "en": [
+      "sarcastically, extremely unclear or not understandable at all",
+      "for an explanation, instruction, or rule, confusing and difficult to follow",
+      "ambiguous in wording or structure so that its intended meaning cannot be determined",
+      "still incomprehensible after someone has attempted to explain it",
+      "in Clear as mud, a humorous or sarcastic response meaning that nothing has become clear"
+    ]
+  },
+  "nuance": {
+    "ja": "clear as mud は、泥水が透明ではないことを利用して「泥のように明瞭だ」と逆説的に述べる表現であり、実際には「まったく分からない」「非常に紛らわしい」という意味になる。as clear as crystal や crystal clear が本当に明瞭であることを表すのとは正反対である。複雑な説明を聞いた後に Clear as mud. と言えば、ユーモアを交えて理解できなかったことを示せる。話者自身が Clear as mud? と付け加える場合は、自分の説明が難しかったことを自嘲的に認める響きになる。一方、他人の説明を That was as clear as mud. と評すると、説明が下手だったという批判や皮肉が強くなる場合がある。契約・特許請求項などについて正式に問題を指摘する場合は、ambiguous、internally inconsistent、lacks clarity など、何が不明確なのかを具体的に示す方が適切である。",
+    "en": "Clear as mud is an ironic comparison based on the fact that muddy water is not transparent. It therefore means completely unclear or highly confusing. It is the opposite of genuinely positive expressions such as as clear as crystal and crystal clear. After a complicated explanation, Clear as mud can humorously indicate that the listener has not understood it. When a speaker adds Clear as mud? after explaining something, the phrase can be self-deprecating and acknowledge that the explanation may have been difficult. Describing another person’s explanation as clear as mud, however, may sound sharply sarcastic or critical. In formal criticism of a contract or patent claim, it is more appropriate to identify the defect precisely with expressions such as ambiguous, internally inconsistent, or lacking clarity."
+  },
+  "minimal": {
+    "ja": [
+      "clear as mud：皮肉として、まったく明確でなく非常に分かりにくい。",
+      "crystal clear：完全に明瞭で、誤解の余地がほとんどない。",
+      "unclear：意味・説明・状況などが明確でないことを表す中立的な語。",
+      "ambiguous：複数の解釈が可能で、意味を一つに確定できない。",
+      "confusing：情報や構成が人を混乱させ、理解しにくい。",
+      "vague：内容・範囲・詳細が十分に特定されておらず曖昧な。",
+      "opaque：文章・説明・制度などが極めて分かりにくい。比較的形式的。",
+      "incomprehensible：あまりに難解・混乱していて理解できない。"
+    ],
+    "en": [
+      "clear as mud sarcastically means completely unclear or extremely difficult to understand.",
+      "crystal clear means perfectly clear and leaving almost no room for misunderstanding.",
+      "unclear neutrally describes something whose meaning or nature is not sufficiently apparent.",
+      "ambiguous describes wording or information that reasonably permits more than one interpretation.",
+      "confusing describes something whose presentation or structure causes difficulty in understanding.",
+      "vague means insufficiently specific about content, scope, or detail.",
+      "opaque formally describes writing, reasoning, or a system that is exceptionally difficult to understand.",
+      "incomprehensible means impossible or extremely difficult to understand."
+    ]
+  },
+  "etymology": {
+    "ja": "clear as mud は、直喩の形式を利用した皮肉表現である。clear は「透明な、明瞭な」、mud は「泥」を意味するが、泥水は濁っていて向こうを見通せない。そこで、本来なら明瞭さを強める as clear as ... という比較表現に、明瞭さとは正反対の mud を置くことで、表面的な意味を反転させている。as clear as crystal、as clear as daylight などの肯定的な直喩をもじった表現とも考えられる。19世紀には clear as mud という皮肉な言い回しが英語で使われ、現在では説明や指示が非常に分かりにくいことを表す定型的な慣用句となっている。",
+    "en": "Clear as mud is a sarcastic expression constructed in the form of a simile. Clear means transparent or readily understandable, whereas mud makes water opaque and impossible to see through. Placing mud in the normally intensifying pattern as clear as therefore reverses the apparent meaning of the phrase. It can also be understood as a humorous distortion of positive comparisons such as as clear as crystal or as clear as daylight. Ironic uses of clear as mud appeared in English by the nineteenth century, and the phrase is now a conventional description of an exceptionally confusing explanation or instruction."
+  },
+  "synonyms": [
+    {
+      "word": "completely unclear",
+      "note": {
+        "ja": "内容がまったく明確でないことを、皮肉を使わず直接的に表す。",
+        "en": "Directly states without irony that the content is not understandable or clearly expressed."
+      }
+    },
+    {
+      "word": "confusing",
+      "note": {
+        "ja": "説明・構成・情報などが、受け手を混乱させて理解を困難にする。",
+        "en": "Describes an explanation, structure, or body of information that causes difficulty in understanding."
+      }
+    },
+    {
+      "word": "opaque",
+      "note": {
+        "ja": "文章・推論・制度などが不透明で、意味や仕組みを理解しにくいことを表す形式的な語。",
+        "en": "A formal word for writing, reasoning, or a system whose meaning or operation is difficult to understand."
+      }
+    },
+    {
+      "word": "incomprehensible",
+      "note": {
+        "ja": "複雑さ・表現の悪さ・情報不足などにより、ほとんど理解できない。",
+        "en": "Describes something that is almost or entirely impossible to understand."
+      }
+    },
+    {
+      "word": "muddled",
+      "note": {
+        "ja": "説明・思考・構成などが整理されておらず、混乱している。",
+        "en": "Describes an explanation, thought, or arrangement that is disorganized and confused."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "so klar wie Kloßbrühe / völlig unklar",
+    "it": "chiaro come il fango / per niente chiaro",
+    "fr": "clair comme de l’eau de roche, ironique / complètement obscur",
+    "es": "claro como el barro / nada claro"
+  },
+  "collocations": {
+    "ja": [
+      "as clear as mud — まったく分かりにくい",
+      "about as clear as mud — 泥水と同じくらい分かりにくい",
+      "That’s as clear as mud — それではさっぱり分からない",
+      "Clear as mud — 実に分かりやすいね、さっぱり分からない",
+      "Clear as mud? — 分かりましたか、やはり分かりにくいですよね",
+      "an explanation as clear as mud — まったく分かりにくい説明",
+      "instructions as clear as mud — さっぱり理解できない指示",
+      "a rule as clear as mud — 極めて曖昧な規則",
+      "remain as clear as mud — 相変わらず分かりにくい",
+      "sound as clear as mud — まったく明確に聞こえない",
+      "make everything as clear as mud — かえってすべてを分かりにくくする",
+      "perfectly clear—as mud — 完璧に明確だ、泥水のように"
+    ],
+    "en": [
+      "as clear as mud",
+      "about as clear as mud",
+      "That’s as clear as mud",
+      "Clear as mud",
+      "Clear as mud?",
+      "an explanation as clear as mud",
+      "instructions as clear as mud",
+      "a rule as clear as mud",
+      "remain as clear as mud",
+      "sound as clear as mud",
+      "make everything as clear as mud",
+      "perfectly clear—as mud"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I read the instructions three times, but they were still as clear as mud. — 説明書を3回読んだが、それでもさっぱり分からなかった。",
+      "His ten-minute explanation only made the procedure as clear as mud. — 彼の10分間の説明によって、その手続きはかえって分かりにくくなっただけだった。",
+      "So we submit one form online and another by mail—clear as mud. — つまり、一つの書類はオンラインで、もう一つは郵送で提出するのですね。実に分かりやすい話です。",
+      "The manager finished describing the new system and jokingly asked, “Clear as mud?” — 部長は新制度の説明を終えると、冗談めかして「やはり分かりにくいですか」と尋ねた。",
+      "The amended patent claim was as clear as mud because the phrase “the member” could refer to either of two previously mentioned components. — 補正後の特許請求項は、the member という語句が先に記載された二つの構成要素のどちらも指し得たため、極めて不明確だった。"
+    ],
+    "en": [
+      "I read the instructions three times, but they were still as clear as mud.",
+      "His ten-minute explanation only made the procedure as clear as mud.",
+      "So we submit one form online and another by mail—clear as mud.",
+      "The manager finished describing the new system and jokingly asked, “Clear as mud?”",
+      "The amended patent claim was as clear as mud because the phrase “the member” could refer to either of two previously mentioned components."
+    ]
+  }
+},
+{
+  "id": "let-the-dust-settle",
+  "sid": "2026-01368",
+  "word": "let the dust settle",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "idiom",
+    "verb phrase",
+    "waiting",
+    "calm",
+    "uncertainty",
+    "conflict",
+    "change",
+    "decision",
+    "aftermath",
+    "patience",
+    "business",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic verb phrase",
+    "forms": {
+      "base": "let the dust settle",
+      "third_person": "lets the dust settle",
+      "past": "let the dust settle",
+      "past_participle": "let the dust settle",
+      "gerund": "letting the dust settle",
+      "imperative": "let the dust settle",
+      "variant": "wait for the dust to settle"
+    },
+    "transitivity": "complex-transitive construction: let + object + bare infinitive",
+    "patterns": [
+      "let the dust settle",
+      "wait for the dust to settle",
+      "give the dust time to settle",
+      "let the dust settle before + gerund",
+      "let the dust settle before + clause",
+      "once the dust settles, + clause",
+      "after the dust settles, + clause",
+      "when the dust has settled, + clause",
+      "until the dust settles",
+      "see what happens when the dust settles"
+    ],
+    "usage": {
+      "grammar": "Let is followed by the object the dust and the bare infinitive settle, without to.",
+      "meaning": "The idiom means waiting until confusion, emotion, conflict, or rapid change has diminished and the situation can be assessed clearly.",
+      "variant": "Wait for the dust to settle has the same central meaning and makes the act of waiting explicit.",
+      "sequence": "Before introduces an action that should be delayed, while once, after, or when introduces what can be done when stability returns.",
+      "tense": "The past and past participle of let remain let. In the subordinate image, the dust settles, settled, or has settled according to the time reference.",
+      "tone": "The expression commonly recommends patience, but it may imply avoidance or indecision if a prompt response is required.",
+      "register": "It is informal but common in journalism and professional conversation. Formal alternatives include await stabilization, allow the immediate effects to become clear, and defer evaluation pending further information."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌlet ðə ˈdʌst ˌsetəl/",
+      "uk": "/ˌlet ðə ˈdʌst ˌsetəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "混乱・騒動・感情的な反応が収まるまで待つ",
+      "大きな変化の影響が明らかになるまで判断を控える",
+      "対立や論争が落ち着いてから行動する",
+      "不確実な状況が安定し、事実関係を見極められるようになるのを待つ",
+      "出来事の直後ではなく、最終的な結果や反応が見えてから評価する"
+    ],
+    "en": [
+      "to wait until confusion, disturbance, or strong emotion has subsided",
+      "to postpone judgment until the effects of a major change become clearer",
+      "to wait until a dispute or controversy has calmed down before acting",
+      "to allow an uncertain situation to stabilize so that the facts can be assessed",
+      "to evaluate an event after its immediate consequences and reactions have become apparent"
+    ]
+  },
+  "nuance": {
+    "ja": "let the dust settle は、物が激しく動いた後に舞い上がったほこりが地面へ落ち、再び周囲が見えるようになるという情景を比喩化した表現である。組織変更・選挙・市場の急変・口論・重大発表などの直後には情報や感情が錯綜するため、すぐに結論を出さず、状況が落ち着いて全体像が見えるまで待つという慎重な姿勢を表す。Let’s let the dust settle before making a decision. なら「判断は少し待とう」という提案である。after the dust settles は、騒動後に残る最終的な結果へ焦点を置く。ただし、安全上の危険、法定期限、証拠保全など迅速な対応が必要な場面では、単に待つことが適切とは限らない。このため正式な助言では、何を直ちに行い、何の判断を延期するのかを明確に区別する必要がある。",
+    "en": "Let the dust settle metaphorically evokes dust rising after violent movement and then falling until the surroundings become visible again. Immediately after a reorganization, election, market shock, argument, or major announcement, information and emotions may be unsettled. The idiom recommends delaying judgment until the situation has calmed and its overall shape can be seen. Let’s let the dust settle before making a decision proposes a temporary pause, while after the dust settles focuses on the eventual outcome remaining after the disturbance. Waiting is not necessarily appropriate when safety risks, legal deadlines, or preservation of evidence require immediate action. Formal advice should therefore distinguish measures that must be taken promptly from assessments that can reasonably be postponed."
+  },
+  "minimal": {
+    "ja": [
+      "let the dust settle：混乱・感情・急激な変化が収まり、状況が明確になるまで待つ。",
+      "wait and see：すぐに判断せず、今後の展開を見守る。",
+      "sleep on it：決定を翌日以降まで保留し、時間を置いて考える。",
+      "cool off：怒り・興奮・対立が収まり、冷静になるため時間を置く。",
+      "take a step back：状況から少し距離を取り、より客観的に考える。",
+      "bide one’s time：好機が来るまで辛抱強く行動を控える。",
+      "hold off：行動・決定をしばらく延期する。",
+      "strike while the iron is hot：好機を逃さず直ちに行動する。let the dust settle と対照的。"
+    ],
+    "en": [
+      "let the dust settle means waiting until confusion or rapid change subsides and the situation becomes clearer.",
+      "wait and see means delaying judgment until future developments provide more information.",
+      "sleep on it means postponing a decision until one has had more time, commonly overnight, to consider it.",
+      "cool off means allowing anger, excitement, or conflict to diminish before continuing.",
+      "take a step back means creating some distance from a situation in order to assess it more objectively.",
+      "bide one’s time means patiently waiting for a favorable opportunity to act.",
+      "hold off means postponing an action or decision for a limited period.",
+      "strike while the iron is hot means acting immediately while conditions are favorable and contrasts with letting the dust settle."
+    ]
+  },
+  "etymology": {
+    "ja": "let the dust settle は、戦闘・工事・群衆の移動などによって舞い上がったほこりが、時間とともに地面へ落ち着く物理的現象に由来する。ほこりが空中にある間は視界が遮られ、何が起きたのか、周囲がどのような状態にあるのかを正確に判断しにくい。ほこりが収まれば視界が回復することから、騒動や急変の後、混乱が静まり結果が明確になるまで待つという比喩的意味が発達した。the dust settles や when the dust has settled も同じ比喩に基づく。",
+    "en": "Let the dust settle derives from the physical process in which dust raised by fighting, construction, movement, or another disturbance gradually falls back to the ground. While the dust remains in the air, visibility is poor and it is difficult to determine what has happened or what condition the surroundings are in. Once it settles, the scene becomes visible again. This produced the figurative sense of waiting after a disturbance or rapid change until confusion subsides and the consequences can be assessed. The dust settles and when the dust has settled use the same metaphor."
+  },
+  "synonyms": [
+    {
+      "word": "wait and see",
+      "note": {
+        "ja": "判断や行動を直ちに行わず、今後の出来事から追加情報が得られるのを待つ。",
+        "en": "Means postponing judgment or action until subsequent developments provide additional information."
+      }
+    },
+    {
+      "word": "allow things to calm down",
+      "note": {
+        "ja": "興奮・対立・混乱などが自然に弱まるための時間を与える。",
+        "en": "Means allowing time for excitement, conflict, or confusion to diminish naturally."
+      }
+    },
+    {
+      "word": "take a step back",
+      "note": {
+        "ja": "問題から心理的・時間的な距離を取り、全体を冷静に見直す。",
+        "en": "Means creating psychological or temporal distance in order to reconsider the overall situation calmly."
+      }
+    },
+    {
+      "word": "hold off",
+      "note": {
+        "ja": "より適切な時点や追加情報を待って、予定していた行動を延期する。",
+        "en": "Means delaying an intended action until a more suitable time or further information becomes available."
+      }
+    },
+    {
+      "word": "await developments",
+      "note": {
+        "ja": "今後の進展を待ってから判断することを表す、より形式的な表現。",
+        "en": "A more formal expression for waiting for future events before reaching a decision."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "erst einmal abwarten, bis sich der Staub gelegt hat",
+    "it": "lasciare che si calmino le acque / aspettare che si posi la polvere",
+    "fr": "laisser retomber la poussière",
+    "es": "dejar que se asiente el polvo / esperar a que se calmen las aguas"
+  },
+  "collocations": {
+    "ja": [
+      "let the dust settle — 騒ぎが収まるまで待つ",
+      "wait for the dust to settle — 事態が落ち着くのを待つ",
+      "give the dust time to settle — 状況が落ち着くための時間を置く",
+      "let the dust settle before deciding — 決定する前に状況が落ち着くのを待つ",
+      "let the dust settle before responding — 返答する前に騒ぎが収まるのを待つ",
+      "let the political dust settle — 政治的混乱が収まるまで待つ",
+      "once the dust settles — 事態が落ち着いたら",
+      "after the dust settles — 騒動が収まった後で",
+      "when the dust has settled — 混乱が収まった時点で",
+      "until the dust settles — 状況が落ち着くまで",
+      "see what happens when the dust settles — 事態が落ち着いたとき何が残るかを見る",
+      "reassess the situation after the dust settles — 混乱が収まった後で状況を再評価する"
+    ],
+    "en": [
+      "let the dust settle",
+      "wait for the dust to settle",
+      "give the dust time to settle",
+      "let the dust settle before deciding",
+      "let the dust settle before responding",
+      "let the political dust settle",
+      "once the dust settles",
+      "after the dust settles",
+      "when the dust has settled",
+      "until the dust settles",
+      "see what happens when the dust settles",
+      "reassess the situation after the dust settles"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Let’s let the dust settle before making any major decisions. — 大きな決定をする前に、状況が落ち着くまで待ちましょう。",
+      "After the dust settles, we will have a clearer idea of how the reorganization has affected the staff. — 混乱が収まれば、その組織再編が職員にどのような影響を与えたか、もっと明確に分かるでしょう。",
+      "She wanted to respond immediately, but her adviser told her to wait for the dust to settle. — 彼女はすぐに返答したかったが、助言者は事態が落ち着くまで待つよう勧めた。",
+      "Financial markets may remain volatile until the dust settles after the announcement. — その発表後の混乱が収まるまで、金融市場の不安定な状態が続く可能性がある。",
+      "The client decided to let the dust settle before changing its patent strategy, while instructing the attorney to preserve evidence and meet every pending deadline. — 依頼人は、証拠を保全し係属中のすべての期限を守るよう弁理士に指示する一方、特許戦略の変更については状況が落ち着くまで待つことにした。"
+    ],
+    "en": [
+      "Let’s let the dust settle before making any major decisions.",
+      "After the dust settles, we will have a clearer idea of how the reorganization has affected the staff.",
+      "She wanted to respond immediately, but her adviser told her to wait for the dust to settle.",
+      "Financial markets may remain volatile until the dust settles after the announcement.",
+      "The client decided to let the dust settle before changing its patent strategy, while instructing the attorney to preserve evidence and meet every pending deadline."
+    ]
+  }
+},
+{
   "id": "lost-at-sea",
   "sid": "2026-01369",
   "word": "lost at sea",
