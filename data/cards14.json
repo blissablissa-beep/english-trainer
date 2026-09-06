@@ -1,5 +1,202 @@
 [
 {
+  "id": "downswing",
+  "sid": "2026-01307",
+  "word": "downswing",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "decline",
+    "economics",
+    "business",
+    "market",
+    "sales",
+    "performance",
+    "trend",
+    "sports",
+    "golf",
+    "movement",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "downswings",
+    "forms": {
+      "singular": "downswing",
+      "plural": "downswings",
+      "related_verb": "swing downward / decline",
+      "opposite": "upswing",
+      "related_terms": "downturn / decline / slump"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a downswing",
+      "a sharp / prolonged / cyclical downswing",
+      "a downswing in + noun",
+      "be on the downswing",
+      "experience / enter a downswing",
+      "cause / accelerate a downswing",
+      "recover from a downswing",
+      "an economic / market downswing",
+      "begin the downswing",
+      "during the golf downswing"
+    ],
+    "usage": {
+      "countable": "Downswing is countable and normally requires a determiner in the singular: a downswing, the downswing.",
+      "in_pattern": "Use in to identify what is declining: a downswing in demand, sales, or popularity.",
+      "on_the_downswing": "Be on the downswing means be declining, weakening, or becoming less successful.",
+      "economic_scope": "The word can describe the downward phase of an economic or market cycle, but it does not by itself establish that a recession has begun.",
+      "general_scope": "It may also describe declining popularity, performance, influence, or another measurable trend.",
+      "sports": "In golf and similar sports, the downswing is the downward movement of a club, bat, or arm immediately before impact or release.",
+      "comparison": "Downswing often emphasizes continuing downward movement, while downturn commonly emphasizes the change from favorable to unfavorable conditions.",
+      "spelling": "Downswing is written as one word."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdaʊnswɪŋ/",
+      "uk": "/ˈdaʊnswɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "経済・市場・企業活動などが下向きに進む局面",
+      "売上・需要・生産・人気・業績などの下降傾向",
+      "景気循環や市場循環における下降局面",
+      "好調だった状況が弱まり、低迷へ向かう動き",
+      "ゴルフなどで、クラブや腕を振り下ろして打撃へ移る動作"
+    ],
+    "en": [
+      "a downward phase in economic, market, or business activity",
+      "a declining trend in sales, demand, production, popularity, or performance",
+      "the falling phase of an economic or market cycle",
+      "a movement from favorable or strong conditions toward weakness",
+      "in golf or a similar sport, the downward movement of a club or arm toward impact"
+    ]
+  },
+  "nuance": {
+    "ja": "downswing は、経済・売上・人気などが下向きに動いている局面を表す。downturn と非常に近いが、downturn は好調または安定した状態から悪化へ「方向が転じること」に焦点を置きやすく、downswing はその後に続く下降の動きや景気循環上の下降局面を感じさせやすい。ただし、この区別は絶対的ではなく、多くの経済文脈で両語は置き換えられる。downswing は recession より意味が広く、特定市場・一企業の売上・人気などの低下にも使えるため、downswing が起きても経済全体が景気後退に入ったとは限らない。また、ゴルフでは backswing の頂点からクラブをボールへ向けて振り下ろす動作を the downswing と呼ぶ。このスポーツ用法には、悪化という否定的な意味はない。",
+    "en": "Downswing describes a downward movement in economic activity, sales, popularity, or another changing measure. It is very close to downturn, but downturn often focuses on the change from favorable or stable conditions toward deterioration, whereas downswing more readily suggests the continuing downward movement or falling phase of a cycle. The distinction is not absolute, and the words are interchangeable in many economic contexts. Downswing is broader than recession and can describe decline in one market, one company’s sales, or a person’s popularity; its occurrence therefore does not establish that the wider economy is in recession. In golf, the downswing is the movement from the top of the backswing toward the ball. This sporting use carries no negative implication of deterioration."
+  },
+  "minimal": {
+    "ja": [
+      "downswing：経済・業績・人気などが下向きに進む局面。またはクラブなどを振り下ろす動作。",
+      "downturn：好調・安定していた状況が悪化へ方向転換すること。",
+      "recession：経済活動が広範囲にわたって一定期間縮小する景気後退。",
+      "decline：数量・水準・品質・影響力などが低下することを表す一般語。",
+      "slump：経済・売上・価格・成績などの急激で大幅な落ち込み。",
+      "contraction：経済活動・生産・需要などの規模が実際に縮小すること。",
+      "backswing：ゴルフなどで、打つ前にクラブや腕を後方へ振り上げる動作。",
+      "upswing：経済・業績・人気などが上向きに進む局面。"
+    ],
+    "en": [
+      "a downswing is a downward phase in economic activity, performance, or popularity, or a downward swinging motion in sport.",
+      "a downturn is a change of direction from favorable or stable conditions toward deterioration.",
+      "a recession is a widespread and sustained contraction in overall economic activity.",
+      "a decline is the general process of becoming lower, weaker, worse, or less important.",
+      "a slump is a sharp and substantial fall in economic activity, sales, prices, or performance.",
+      "a contraction is an actual reduction in the size of economic activity, production, or demand.",
+      "a backswing is the backward and upward movement of a club or arm before a stroke.",
+      "an upswing is an upward phase in economic activity, performance, popularity, or another trend."
+    ]
+  },
+  "etymology": {
+    "ja": "downswing は down「下へ、下向きの」と swing「揺れる、弧を描いて動く」を組み合わせた語である。swing は古英語 swingan「打つ、激しく動く」に由来し、後に物が前後・上下へ動くことを表すようになった。もともとの物理的な「下向きに振る動作」は、ゴルフなどのスポーツ用語として明確に残っている。一方、経済・市場・人気などが周期的に上下する様子を振り子の運動に見立て、下降局面を downswing、上昇局面を upswing と呼ぶ比喩的用法も発達した。",
+    "en": "Downswing combines down, indicating a downward direction, with swing, movement along a curve or between positions. Swing comes from Old English swingan, meaning to strike or move forcefully, and later developed the sense of moving backward and forward or upward and downward. The original physical idea of a downward swinging movement remains explicit in sports such as golf. Economic activity, markets, and popularity can also be imagined as moving cyclically like a pendulum, producing the figurative contrast between a downswing and an upswing."
+  },
+  "synonyms": [
+    {
+      "word": "downturn",
+      "note": {
+        "ja": "経済・市場・業績などが好調または安定した状態から悪化へ転じること。",
+        "en": "A change in economic, market, or business conditions from stability or strength toward deterioration."
+      }
+    },
+    {
+      "word": "decline",
+      "note": {
+        "ja": "数量・水準・品質・人気・影響力などが低下することを広く表す。",
+        "en": "A broad term for a reduction in quantity, level, quality, popularity, or influence."
+      }
+    },
+    {
+      "word": "slump",
+      "note": {
+        "ja": "経済活動・需要・売上・価格などの急激で顕著な落ち込み。",
+        "en": "A sharp and conspicuous fall in economic activity, demand, sales, prices, or performance."
+      }
+    },
+    {
+      "word": "contraction",
+      "note": {
+        "ja": "生産・需要・投資・経済規模などが実際に縮小すること。",
+        "en": "A measurable reduction in production, demand, investment, or the size of an economy."
+      }
+    },
+    {
+      "word": "fall",
+      "note": {
+        "ja": "価格・数量・水準などが下がることを表す一般的で中立的な語。",
+        "en": "A general and neutral term for a reduction in price, quantity, level, or value."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Abschwung / Abwärtsbewegung",
+    "it": "fase discendente / flessione",
+    "fr": "mouvement à la baisse / phase descendante",
+    "es": "fase descendente / movimiento a la baja"
+  },
+  "collocations": {
+    "ja": [
+      "an economic downswing — 景気の下降局面",
+      "a cyclical downswing — 景気循環上の下降局面",
+      "a market downswing — 市場の下降局面",
+      "a sharp downswing — 急激な落ち込み",
+      "a prolonged downswing — 長期的な下降局面",
+      "a downswing in sales — 売上の下降",
+      "a downswing in demand — 需要の減少",
+      "a downswing in popularity — 人気の低下",
+      "experience a downswing — 下降局面を経験する",
+      "be on the downswing — 下り坂にある",
+      "the golf downswing — ゴルフのダウンスイング",
+      "begin the downswing — 振り下ろす動作を始める"
+    ],
+    "en": [
+      "an economic downswing",
+      "a cyclical downswing",
+      "a market downswing",
+      "a sharp downswing",
+      "a prolonged downswing",
+      "a downswing in sales",
+      "a downswing in demand",
+      "a downswing in popularity",
+      "experience a downswing",
+      "be on the downswing",
+      "the golf downswing",
+      "begin the downswing"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The manufacturing sector entered a cyclical downswing as overseas demand weakened. — 海外需要が弱まる中、製造業は景気循環上の下降局面に入った。",
+      "The retailer reported a sharp downswing in sales during the final quarter. — その小売業者は最終四半期に売上が急激に落ち込んだと報告した。",
+      "His popularity appears to be on the downswing following the controversy. — その論争を受けて、彼の人気は下り坂にあるようだ。",
+      "The golfer lost control of the club during the downswing. — そのゴルファーはクラブを振り下ろす途中で制御を失った。",
+      "During a downswing in the technology market, companies may reduce patent filings to control costs. — 技術市場の下降局面では、企業が費用を抑えるために特許出願を減らすことがある。"
+    ],
+    "en": [
+      "The manufacturing sector entered a cyclical downswing as overseas demand weakened.",
+      "The retailer reported a sharp downswing in sales during the final quarter.",
+      "His popularity appears to be on the downswing following the controversy.",
+      "The golfer lost control of the club during the downswing.",
+      "During a downswing in the technology market, companies may reduce patent filings to control costs."
+    ]
+  }
+},
+{
   "id": "monetary",
   "sid": "2026-01308",
   "word": "monetary",
