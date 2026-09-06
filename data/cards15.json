@@ -1,5 +1,204 @@
 [
 {
+  "id": "aversion",
+  "sid": "2026-01388",
+  "word": "aversion",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "dislike",
+    "emotion",
+    "attitude",
+    "avoidance",
+    "reluctance",
+    "preference",
+    "psychology",
+    "risk",
+    "behavior",
+    "formal",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable or uncountable; commonly countable in have an aversion to",
+    "plural": "aversions",
+    "forms": {
+      "singular": "aversion",
+      "plural": "aversions",
+      "adjective": "averse",
+      "adverb": "aversely, rare",
+      "related_adjective": "aversive",
+      "related_noun": "risk aversion"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an aversion to + noun",
+      "an aversion to + gerund",
+      "have / feel an aversion to + noun",
+      "develop an aversion to + noun",
+      "overcome one’s aversion to + noun",
+      "a strong / deep / instinctive aversion",
+      "a natural aversion to + noun",
+      "aversion toward + person / thing",
+      "risk / loss aversion",
+      "out of aversion to + noun"
+    ],
+    "usage": {
+      "preposition": "To is the standard preposition: an aversion to conflict, not normally an aversion against conflict.",
+      "gerund": "When followed by an action, to is a preposition and therefore takes a gerund: an aversion to speaking in public.",
+      "article": "A particular strong dislike is commonly countable: She has an aversion to publicity.",
+      "uncountable": "Uncountable use occurs when discussing the general emotional or behavioral phenomenon, especially in psychology and economics.",
+      "intensity": "Aversion is stronger and more formal than dislike and often implies a desire to avoid the object.",
+      "adjective": "The related adjective uses the pattern be averse to: He is averse to taking risks.",
+      "technical": "Aversive describes an unpleasant stimulus or technique that produces avoidance, as in aversive conditioning.",
+      "register": "Aversion is common in formal, psychological, economic, and analytical writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈvɜːrʒən/",
+      "uk": "/əˈvɜːʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人・物・行動などに対する強い嫌悪・反感",
+      "不快な対象から離れ、避けたいという感情",
+      "特定の行動を取ることへの強い抵抗感",
+      "心理学において、不快な刺激によって形成される回避傾向",
+      "経済学・金融において、リスクや損失を避けようとする傾向"
+    ],
+    "en": [
+      "a strong feeling of dislike or opposition toward a person, thing, or activity",
+      "an emotional tendency to avoid something experienced as unpleasant",
+      "a strong reluctance to perform a particular action",
+      "in psychology, an avoidance response associated with an unpleasant stimulus",
+      "in economics or finance, a preference for avoiding risk or loss"
+    ]
+  },
+  "nuance": {
+    "ja": "aversion は、単に好きではないという程度を超え、対象に近づきたくない、関わりたくないという回避傾向を伴う強い嫌悪を表す。an aversion to conflict なら、争いを不快に感じ、できるだけ避けようとする態度である。hatred のように相手へ積極的な敵意を抱くとは限らず、恐怖・不快感・価値観・過去の経験などを理由に距離を置こうとする感情に焦点がある。関連する形容詞は averse で、be averse to doing の形を取る。adverse は「不利な、有害な」という別語なので、be adverse to と混同しない。経済学の risk aversion は、同程度の期待収益であれば不確実性の低い選択肢を好む傾向を表す専門語である。",
+    "en": "Aversion is stronger than merely not liking something and often includes an impulse to avoid contact or involvement. An aversion to conflict describes finding confrontation unpleasant and trying to avoid it whenever possible. Unlike hatred, aversion does not necessarily involve active hostility toward its object; it focuses more on withdrawal caused by fear, disgust, values, or past experience. The related adjective is averse and takes the pattern be averse to doing. Adverse is a different word meaning unfavorable or harmful, so be adverse to should not be substituted for be averse to. In economics, risk aversion is the technical tendency to prefer a less uncertain option when expected returns are otherwise comparable."
+  },
+  "minimal": {
+    "ja": [
+      "aversion：対象を避けたいという気持ちを伴う、強い嫌悪・反感。",
+      "dislike：人・物・行動を好まないという一般的な感情。",
+      "hatred：人・集団・物事に対する非常に強い憎悪・敵意。",
+      "disgust：不潔・不道徳・不快と感じるものへの強い嫌悪感。",
+      "antipathy：人・考えなどへの根深い反感・相性の悪さ。比較的形式的。",
+      "reluctance：行動したくないというためらい・気乗りのしなさ。",
+      "averse：何かを強く嫌い、避けたいと思っている。人の態度を表す形容詞。",
+      "adverse：不利な・有害な。averse とは意味も用法も異なる形容詞。"
+    ],
+    "en": [
+      "aversion is a strong dislike accompanied by a desire to avoid its object.",
+      "dislike is the general feeling of not liking a person, thing, or activity.",
+      "hatred is an extremely strong feeling of hostility toward someone or something.",
+      "disgust is intense revulsion toward something perceived as dirty, immoral, or deeply unpleasant.",
+      "antipathy is a deep and relatively formal term for hostility or incompatibility toward a person or idea.",
+      "reluctance is hesitation or unwillingness to perform an action.",
+      "averse is an adjective describing someone strongly opposed or unwilling to experience something.",
+      "adverse is a separate adjective meaning unfavorable or harmful."
+    ]
+  },
+  "etymology": {
+    "ja": "aversion はラテン語 aversio「背を向けること、転じること」に由来し、フランス語 aversion を経て英語に入った。aversio は動詞 avertere「背ける、そらす」から作られ、a- または ab-「～から離れて」と vertere「向きを変える」から成る。嫌なものから身体や顔を背けるという発想から、強い嫌悪と回避の感情を表すようになった。averse も同じ語源を持つ。一方、adverse はラテン語 adversus「向かい合った、敵対する」に由来する別の発達を持ち、現代英語では「不利な、有害な」を意味する。",
+    "en": "Aversion comes through French aversion from Latin aversio, meaning a turning away. Aversio derives from avertere, to turn away, formed from a- or ab-, away from, and vertere, to turn. The physical image of turning one’s face or body away from something unpleasant developed into the emotional meaning of strong dislike and avoidance. Averse belongs to the same word family. Adverse, by contrast, developed from Latin adversus, turned toward or opposing, and now means unfavorable or harmful."
+  },
+  "synonyms": [
+    {
+      "word": "dislike",
+      "note": {
+        "ja": "人・物・行動を好まないことを広く表し、aversion ほど強い回避感情を必ずしも伴わない。",
+        "en": "The broad term for not liking something and does not necessarily include the strong avoidance associated with aversion."
+      }
+    },
+    {
+      "word": "antipathy",
+      "note": {
+        "ja": "人・思想・制度などへの根深く持続的な反感を表す、比較的形式的な語。",
+        "en": "A relatively formal word for deep and continuing hostility toward a person, idea, or institution."
+      }
+    },
+    {
+      "word": "repugnance",
+      "note": {
+        "ja": "道徳的・感覚的に受け入れ難いものに対する、非常に強い嫌悪・拒絶感。",
+        "en": "A very strong feeling of moral or sensory disgust toward something considered unacceptable."
+      }
+    },
+    {
+      "word": "distaste",
+      "note": {
+        "ja": "人・行動・考え方などを不快・好ましくないと感じる、比較的穏やかな嫌悪。",
+        "en": "A relatively restrained feeling that a person, action, or idea is unpleasant or undesirable."
+      }
+    },
+    {
+      "word": "revulsion",
+      "note": {
+        "ja": "不快・残酷・不道徳なものから本能的に身を引きたくなるほどの激しい嫌悪。",
+        "en": "An intense and often instinctive desire to recoil from something disgusting, cruel, or immoral."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Abneigung / Widerwille",
+    "it": "avversione / repulsione",
+    "fr": "aversion / répugnance",
+    "es": "aversión / repugnancia"
+  },
+  "collocations": {
+    "ja": [
+      "have an aversion to something — 何かに強い嫌悪を抱く",
+      "feel an aversion to something — 何かに反感・嫌悪を覚える",
+      "develop an aversion to something — 何かを強く嫌うようになる",
+      "overcome one’s aversion — 嫌悪感を克服する",
+      "a strong aversion — 強い嫌悪",
+      "a deep aversion — 根深い嫌悪",
+      "an instinctive aversion — 本能的な嫌悪",
+      "a natural aversion — 自然な反感・抵抗感",
+      "an aversion to conflict — 対立への強い抵抗感",
+      "an aversion to taking risks — リスクを取ることへの抵抗感",
+      "risk aversion — リスク回避",
+      "loss aversion — 損失回避"
+    ],
+    "en": [
+      "have an aversion to something",
+      "feel an aversion to something",
+      "develop an aversion to something",
+      "overcome one’s aversion",
+      "a strong aversion",
+      "a deep aversion",
+      "an instinctive aversion",
+      "a natural aversion",
+      "an aversion to conflict",
+      "an aversion to taking risks",
+      "risk aversion",
+      "loss aversion"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She has a strong aversion to unnecessary confrontation. — 彼女は不必要な対立に強い抵抗感を持っている。",
+      "After becoming ill from the meal, he developed an aversion to mushrooms. — その食事で体調を崩して以来、彼はキノコに嫌悪感を抱くようになった。",
+      "His aversion to public speaking prevented him from presenting his own research. — 人前で話すことへの強い抵抗感のため、彼は自分の研究を発表できなかった。",
+      "Risk aversion may lead investors to prefer government bonds to more volatile assets. — リスク回避傾向により、投資家は価格変動の大きい資産より国債を選ぶことがある。",
+      "The client’s aversion to litigation influenced its patent strategy, but the attorney also explained the risks of allowing possible infringement to continue unchallenged. — 依頼人の訴訟への抵抗感は特許戦略に影響したが、弁理士は侵害の可能性を争わずに放置するリスクについても説明した。"
+    ],
+    "en": [
+      "She has a strong aversion to unnecessary confrontation.",
+      "After becoming ill from the meal, he developed an aversion to mushrooms.",
+      "His aversion to public speaking prevented him from presenting his own research.",
+      "Risk aversion may lead investors to prefer government bonds to more volatile assets.",
+      "The client’s aversion to litigation influenced its patent strategy, but the attorney also explained the risks of allowing possible infringement to continue unchallenged."
+    ]
+  }
+},
+{
   "id": "heresy",
   "sid": "2026-01389",
   "word": "heresy",
