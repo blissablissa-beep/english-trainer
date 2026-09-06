@@ -1,5 +1,204 @@
 [
 {
+  "id": "be-torn",
+  "sid": "2026-01331",
+  "word": "be torn",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "idiomatic expression",
+    "adjective phrase",
+    "decision",
+    "conflict",
+    "choice",
+    "emotion",
+    "indecision",
+    "dilemma",
+    "figurative",
+    "conversation",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "predicative adjective phrase / passive construction",
+    "forms": {
+      "base": "be torn",
+      "present": "am / is / are torn",
+      "past": "was / were torn",
+      "present_perfect": "have / has been torn",
+      "future": "will be torn",
+      "participle": "torn",
+      "verb_base": "tear",
+      "verb_past": "tore",
+      "verb_past_participle": "torn"
+    },
+    "transitivity": "not applicable as an adjective phrase; tear is transitive or intransitive depending on sense",
+    "patterns": [
+      "be torn between A and B",
+      "be torn between + noun and + noun",
+      "be torn between + gerund and + gerund",
+      "be torn between whether to do A or B, awkward",
+      "be torn over / about + noun",
+      "be torn over whether + clause",
+      "be torn as to whether + clause",
+      "feel torn between A and B",
+      "remain torn",
+      "be emotionally torn"
+    ],
+    "usage": {
+      "between_pattern": "The standard pattern for two competing alternatives is be torn between A and B.",
+      "parallel_structure": "The elements after between should normally have parallel forms: between staying and leaving.",
+      "whether_pattern": "For a full choice clause, use be torn over whether to do something or be unsure whether to do A or B.",
+      "avoid_mixed_pattern": "Be torn between whether ... is often awkward; use be torn between A and B or be torn over whether ... instead.",
+      "emotion": "The expression suggests that both alternatives exert a strong emotional or practical pull.",
+      "predicative": "Torn in this figurative sense is normally predicative: She was torn between the two offers.",
+      "literal_sense": "In a literal passive construction, be torn means be ripped or split: The document was torn.",
+      "register": "Natural in everyday, professional, and narrative English but less suitable than undecided or unable to determine in highly formal decisions."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi ˈtɔːrn/",
+      "uk": "/bi ˈtɔːn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "二つ以上の選択肢の間で心が引き裂かれるように迷っている",
+      "相反する希望・義務・感情の双方に強く引かれている",
+      "どちらの選択にも重要な利点があり、決断できずにいる",
+      "忠誠・責任・価値観などの対立によって心が揺れている",
+      "文字どおりには、物が破られた・裂かれた状態にある"
+    ],
+    "en": [
+      "to be deeply undecided between two or more alternatives",
+      "to feel strongly pulled by conflicting desires, duties, or emotions",
+      "to have difficulty deciding because each option has important advantages",
+      "to experience emotional conflict between competing loyalties, responsibilities, or values",
+      "literally, to be in a state of having been ripped or split"
+    ]
+  },
+  "nuance": {
+    "ja": "be torn は、単に情報不足で決められないというより、複数の選択肢がそれぞれ強い魅力・義務・感情を伴い、心が別々の方向へ引かれている状態を表す。I’m torn between staying and leaving. なら、残る理由と去る理由の双方が強く、容易に決断できないという意味になる。undecided は結論が出ていないことを中立的に表すが、torn は内面的な葛藤を強調する。ambivalent は同じ対象について肯定的感情と否定的感情を同時に抱くことが中心で、必ずしも二つの選択肢から選ぶ場面とは限らない。on the fence は立場や選択を決めずにいる口語表現で、be torn ほど強い感情的葛藤を示さない場合がある。なお、The paper was torn. では比喩ではなく「紙が破れていた」という文字どおりの受動表現になる。",
+    "en": "Be torn suggests more than lacking enough information to decide. It presents the alternatives as exerting strong emotional, practical, or moral pulls in different directions. I’m torn between staying and leaving means that compelling reasons support both choices and make the decision difficult. Undecided neutrally states that no decision has been reached, whereas torn emphasizes internal conflict. Ambivalent primarily describes simultaneous positive and negative feelings about the same person, object, or proposal and does not necessarily involve a choice between two alternatives. On the fence is an informal expression for withholding a decision or position and may imply less emotional conflict than be torn. In The paper was torn, however, the construction is literal and simply means that the paper had been ripped."
+  },
+  "minimal": {
+    "ja": [
+      "be torn：相反する選択肢・感情・義務の間で、心が引き裂かれるように迷う。",
+      "be undecided：まだ決定・結論を出していないことを中立的に表す。",
+      "be conflicted：相反する感情・価値観・義務を抱え、内面的に葛藤する。",
+      "be ambivalent：同じ対象について肯定的・否定的な感情を同時に持つ。",
+      "be divided：意見・忠誠・感情などが二方向に分かれている。",
+      "be on the fence：どちらの側・選択肢を支持するか決めずにいる。口語的。",
+      "face a dilemma：どちらを選んでも問題のある難しい選択に直面する。",
+      "waver：決心・意見・支持などが揺れ動く。"
+    ],
+    "en": [
+      "be torn means feeling strongly pulled between conflicting choices, emotions, duties, or loyalties.",
+      "be undecided neutrally means that a decision or conclusion has not yet been reached.",
+      "be conflicted means experiencing an internal struggle between incompatible feelings, values, or obligations.",
+      "be ambivalent means having both favorable and unfavorable feelings about the same subject.",
+      "be divided means having one’s opinions, loyalties, or emotions split in different directions.",
+      "be on the fence informally means not having chosen a side or alternative.",
+      "face a dilemma means confronting a difficult choice in which each available option has disadvantages.",
+      "waver means repeatedly changing or weakening in a decision, opinion, or commitment."
+    ]
+  },
+  "etymology": {
+    "ja": "torn は動詞 tear「引き裂く、破る」の過去分詞である。tear は古英語 teran「裂く、引き裂く」に由来し、ドイツ語 zehren などと歴史的に関係するゲルマン系の語である。物が二方向から引かれて裂けるという物理的なイメージから、人の心・忠誠・希望が相反する方向へ引かれる内面的葛藤を表す比喩が生じた。活用は tear–tore–torn であり、涙を意味する名詞 tear とは綴りが同じでも発音が異なる。",
+    "en": "Torn is the past participle of tear, to rip or pull apart. Tear derives from Old English teran, to rend or tear, and belongs to a Germanic word family historically related to words including German zehren. The physical image of an object being pulled in opposing directions until it splits developed into a metaphor for a mind, loyalty, or desire pulled by incompatible alternatives. The verb forms are tear–tore–torn. The verb tear is pronounced differently from the identically spelled noun tear meaning a drop from the eye."
+  },
+  "synonyms": [
+    {
+      "word": "conflicted",
+      "note": {
+        "ja": "相反する感情・義務・価値観を同時に抱え、内面的な争いを感じている。",
+        "en": "Experiencing an internal struggle between incompatible feelings, duties, or values."
+      }
+    },
+    {
+      "word": "undecided",
+      "note": {
+        "ja": "どの案・立場を選ぶか、まだ結論を出していない。",
+        "en": "Not yet having reached a conclusion about which option or position to choose."
+      }
+    },
+    {
+      "word": "ambivalent",
+      "note": {
+        "ja": "同じ対象に対して、好意と反感など相反する感情を同時に抱いている。",
+        "en": "Having simultaneous favorable and unfavorable feelings toward the same subject."
+      }
+    },
+    {
+      "word": "divided",
+      "note": {
+        "ja": "意見・感情・忠誠などが複数の方向に分かれている。",
+        "en": "Having opinions, emotions, or loyalties split between different directions."
+      }
+    },
+    {
+      "word": "on the fence",
+      "note": {
+        "ja": "二つの立場・選択肢のどちらを支持するか決めていない、口語的な表現。",
+        "en": "An informal expression for not having decided which of two positions or alternatives to support."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "hin- und hergerissen sein",
+    "it": "essere combattuto / essere indeciso",
+    "fr": "être partagé / être tiraillé",
+    "es": "estar dividido / estar indeciso"
+  },
+  "collocations": {
+    "ja": [
+      "be torn between two options — 二つの選択肢の間で迷う",
+      "be torn between staying and leaving — 残るか去るかで迷う",
+      "be torn between work and family — 仕事と家族の間で板挟みになる",
+      "be torn between duty and desire — 義務と願望の間で葛藤する",
+      "be torn over the decision — その決定について悩む",
+      "be torn over whether to go — 行くべきか迷う",
+      "be torn as to whether to accept — 受け入れるべきか迷う",
+      "feel torn — 心が揺れる、葛藤を感じる",
+      "feel emotionally torn — 感情的に引き裂かれる",
+      "remain torn — 迷ったままでいる",
+      "completely torn — 完全に決めかねている",
+      "genuinely torn — 本当に心が揺れている"
+    ],
+    "en": [
+      "be torn between two options",
+      "be torn between staying and leaving",
+      "be torn between work and family",
+      "be torn between duty and desire",
+      "be torn over the decision",
+      "be torn over whether to go",
+      "be torn as to whether to accept",
+      "feel torn",
+      "feel emotionally torn",
+      "remain torn",
+      "completely torn",
+      "genuinely torn"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I’m torn between taking the new job and staying with my current team. — 新しい仕事を引き受けるか、現在のチームに残るかで迷っています。",
+      "She felt torn between her professional duties and her family responsibilities. — 彼女は職業上の義務と家庭での責任との間で葛藤していた。",
+      "We are still torn over whether to renovate the apartment or move elsewhere. — 私たちは、その部屋を改装するか別の場所へ引っ越すか、まだ迷っている。",
+      "He was torn because both proposals offered significant advantages. — どちらの提案にも大きな利点があったため、彼は決めかねていた。",
+      "The applicant was torn between narrowing the patent claim to obtain an early allowance and maintaining broader language for stronger protection. — 出願人は、早期の特許査定を得るため請求項を限定するか、より強い保護のため広い文言を維持するかで迷っていた。"
+    ],
+    "en": [
+      "I’m torn between taking the new job and staying with my current team.",
+      "She felt torn between her professional duties and her family responsibilities.",
+      "We are still torn over whether to renovate the apartment or move elsewhere.",
+      "He was torn because both proposals offered significant advantages.",
+      "The applicant was torn between narrowing the patent claim to obtain an early allowance and maintaining broader language for stronger protection."
+    ]
+  }
+},
+{
   "id": "itll-be-all-right",
   "sid": "2026-01332",
   "word": "It’ll be all right.",
