@@ -1,5 +1,218 @@
 [
 {
+  "id": "contract",
+  "sid": "2026-01348",
+  "word": "contract",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "agreement",
+    "obligation",
+    "contract law",
+    "business",
+    "employment",
+    "procurement",
+    "shrink",
+    "muscle",
+    "disease",
+    "medicine",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable as a legal agreement; used without an article in expressions such as under contract",
+    "plural": "contracts",
+    "forms": {
+      "noun_singular": "contract",
+      "noun_plural": "contracts",
+      "verb_base": "contract",
+      "third_person": "contracts",
+      "past": "contracted",
+      "past_participle": "contracted",
+      "gerund": "contracting",
+      "activity_noun": "contracting",
+      "result_noun": "contraction",
+      "person_noun": "contractor",
+      "adjective": "contractual",
+      "adverb": "contractually"
+    },
+    "transitivity": "transitive or intransitive as a verb, depending on meaning",
+    "patterns": [
+      "a contract with / between + parties",
+      "a contract for + goods / services",
+      "a contract to do",
+      "enter into / sign / perform a contract",
+      "be under contract to + person / organization",
+      "contract with + person / company",
+      "contract to do",
+      "contract for + work / services",
+      "contract a disease / infection",
+      "a muscle / material contracts"
+    ],
+    "usage": {
+      "noun": "A contract is an agreement creating legally enforceable rights or obligations, subject to the requirements of the applicable law.",
+      "document": "Contract may refer either to the legal agreement itself or to the document recording its terms.",
+      "oral_contract": "A contract is not necessarily written or signed; oral and conduct-based contracts may be enforceable, although some contracts must satisfy formal requirements.",
+      "agreement_distinction": "Agreement is broader than contract because not every agreement is intended or legally able to create enforceable obligations.",
+      "contracting_verb": "To contract with someone means to enter into a legally binding agreement with that person or organization.",
+      "commission_verb": "To contract someone to do work means to formally engage that person or business to perform it.",
+      "shrink_verb": "When a muscle, material, or volume contracts, it becomes shorter, tighter, or smaller.",
+      "disease_verb": "To contract a disease or infection means to become infected with or develop it.",
+      "pronunciation": "The noun is stressed on the first syllable, while the verb is normally stressed on the second syllable."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "noun /ˈkɑːntrækt/; verb /kənˈtrækt/",
+      "uk": "noun /ˈkɒntrækt/; verb /kənˈtrækt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "当事者間に法的に強制可能な権利・義務を生じさせる契約",
+      "契約条件を記載した契約書",
+      "人・会社などと契約を締結する",
+      "人・会社に契約によって業務を依頼する",
+      "病気・感染症にかかる",
+      "筋肉・器官などが収縮する",
+      "物質・体積などが縮小する",
+      "借金・義務などを負う"
+    ],
+    "en": [
+      "an agreement creating rights or obligations enforceable by law",
+      "a written document recording the terms of a legal agreement",
+      "to enter into a contract with a person or organization",
+      "to formally engage a person or company to perform work",
+      "to become infected with or develop a disease",
+      "for a muscle or organ, to become shorter or tighter",
+      "for a material or volume, to become smaller",
+      "to incur a debt, obligation, or liability"
+    ]
+  },
+  "nuance": {
+    "ja": "名詞の contract は、単なる約束や了解ではなく、原則として法的拘束力を持つ合意を表す。ただし、成立要件、約因の必要性、書面・署名の要否などは法域と契約類型によって異なる。契約書という紙や電子文書を指すこともあるが、契約そのものと契約を証する文書は概念上同一とは限らない。動詞 contract は「契約する」のほか、contract a disease「病気にかかる」、muscles contract「筋肉が収縮する」の意味を持つ。名詞では第一音節、動詞では第二音節に強勢を置く。日本語の「委託する」に当たる意味で人を目的語にする場合、contract someone to do の形は使えるが、日常的には hire や commission の方が自然な場合もある。",
+    "en": "As a noun, contract normally denotes an agreement intended and legally capable of creating enforceable rights or obligations rather than a merely social promise or informal understanding. Requirements concerning formation, consideration, writing, and signature vary by jurisdiction and type of transaction. Contract may also refer to the paper or electronic document recording the agreement, although the legal relationship and the document evidencing it are conceptually distinct. As a verb, contract also means acquire a disease or become physically smaller or tighter. The noun carries first-syllable stress, whereas the verb carries second-syllable stress. Contract someone to do something is possible for formally engaging a service provider, although hire or commission may be more natural in everyday contexts."
+  },
+  "minimal": {
+    "ja": [
+      "contract：法的に強制可能な権利・義務を生じさせる契約、または契約する。",
+      "agreement：二者以上の合意を広く表し、必ずしも法的拘束力を持たない。",
+      "arrangement：当事者間で決めた実務上の取り決め。形式性・法的拘束力は文脈による。",
+      "covenant：一定の行為をする、またはしないという厳格・正式な約束や契約条項。",
+      "undertaking：特定の行為・義務を履行するという正式な約束。",
+      "hire：人を雇う、または報酬を払って物・サービスを一定期間利用する。",
+      "contract：動詞では、筋肉・物質などが収縮するという意味も持つ。",
+      "contract a disease：病気・感染症にかかる。病気と契約するという意味ではない。"
+    ],
+    "en": [
+      "a contract is a legally enforceable agreement, or contract means entering such an agreement.",
+      "an agreement broadly means a shared understanding and is not necessarily legally enforceable.",
+      "an arrangement is a practical understanding whose formality and legal force depend on context.",
+      "a covenant is a solemn or formal promise, often contained in a contract or deed.",
+      "an undertaking is a formal promise to perform or refrain from a particular act.",
+      "hire means employing someone or paying to use property or services for a period.",
+      "contract also means becoming physically shorter, tighter, or smaller.",
+      "contract a disease means becoming infected with or developing it, not making an agreement with it."
+    ]
+  },
+  "etymology": {
+    "ja": "contract はラテン語 contractus に由来し、これは contrahere「引き合わせる、集める、縮める、契約する」の過去分詞である。contrahere は con-「共に」と trahere「引く」から成る。「物を引き合わせる」という発想から、当事者を合意によって結び付ける「契約」の意味と、物理的に引き締める「収縮」の意味が発達した。病気にかかる意味は、病気や感染を自らの身に引き受けるという用法から生じた。",
+    "en": "Contract derives from Latin contractus, the past participle of contrahere, meaning to draw together, collect, shorten, or make an agreement. Contrahere was formed from con-, together, and trahere, to draw. The idea of drawing things or people together developed into the legal sense of binding parties by agreement, while physical drawing together produced the sense of shrinking or tightening. The disease sense developed from the idea of acquiring or taking an illness upon oneself."
+  },
+  "synonyms": [
+    {
+      "word": "agreement",
+      "note": {
+        "ja": "当事者間の合意を広く表すが、すべての agreement が法的に強制可能な contract になるとは限らない。",
+        "en": "A broad term for mutual understanding; not every agreement constitutes a legally enforceable contract."
+      }
+    },
+    {
+      "word": "covenant",
+      "note": {
+        "ja": "契約・証書に含まれる、行為または不作為についての正式で厳格な約束。",
+        "en": "A formal and serious promise, often contained in a contract or deed, to act or refrain from acting."
+      }
+    },
+    {
+      "word": "undertaking",
+      "note": {
+        "ja": "義務の履行や一定の行為について与える正式な約束・確約。",
+        "en": "A formal promise or assurance to perform an obligation or take a particular action."
+      }
+    },
+    {
+      "word": "shrink",
+      "note": {
+        "ja": "物の大きさ・体積などが小さくなることを表す一般語で、物理的意味の contract に近い。",
+        "en": "A general verb for becoming smaller in size or volume, corresponding to the physical sense of contract."
+      }
+    },
+    {
+      "word": "acquire",
+      "note": {
+        "ja": "病気・性質・権利などを得ることを表し、acquire an infection は contract an infection より形式的に響く場合がある。",
+        "en": "Means obtaining a disease, characteristic, or right; acquire an infection may sound more technical than contract an infection."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Vertrag / einen Vertrag schließen / sich zusammenziehen / sich anstecken",
+    "it": "contratto / contrattare / contrarsi / contrarre una malattia",
+    "fr": "contrat / contracter / se contracter / contracter une maladie",
+    "es": "contrato / contratar / contraerse / contraer una enfermedad"
+  },
+  "collocations": {
+    "ja": [
+      "enter into a contract — 契約を締結する",
+      "sign a contract — 契約書に署名する",
+      "perform a contract — 契約を履行する",
+      "breach a contract — 契約に違反する",
+      "terminate a contract — 契約を終了させる",
+      "renew a contract — 契約を更新する",
+      "a binding contract — 法的拘束力のある契約",
+      "an employment contract — 雇用契約",
+      "be under contract — 契約関係にある",
+      "contract with a supplier — 供給業者と契約する",
+      "contract a disease — 病気にかかる",
+      "muscles contract — 筋肉が収縮する"
+    ],
+    "en": [
+      "enter into a contract",
+      "sign a contract",
+      "perform a contract",
+      "breach a contract",
+      "terminate a contract",
+      "renew a contract",
+      "a binding contract",
+      "an employment contract",
+      "be under contract",
+      "contract with a supplier",
+      "contract a disease",
+      "muscles contract"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The two companies entered into a five-year supply contract. — 両社は5年間の供給契約を締結した。",
+      "The contract requires the supplier to deliver the goods by the end of the month. — その契約は、供給業者に月末までの商品引渡しを義務付けている。",
+      "The museum contracted a specialist to restore the painting. — 美術館は、その絵画を修復するため専門家と契約した。",
+      "When exposed to cold temperatures, the material contracts slightly. — その材料は低温にさらされると、わずかに収縮する。",
+      "A patent license contract should clearly specify the licensed patents, permitted acts, territory, duration, and royalty obligations. — 特許ライセンス契約では、対象特許、許諾される行為、地域、期間およびロイヤルティー支払義務を明確に定めるべきである。"
+    ],
+    "en": [
+      "The two companies entered into a five-year supply contract.",
+      "The contract requires the supplier to deliver the goods by the end of the month.",
+      "The museum contracted a specialist to restore the painting.",
+      "When exposed to cold temperatures, the material contracts slightly.",
+      "A patent license contract should clearly specify the licensed patents, permitted acts, territory, duration, and royalty obligations."
+    ]
+  }
+},
+{
   "id": "agreement",
   "sid": "2026-01349",
   "word": "agreement",
