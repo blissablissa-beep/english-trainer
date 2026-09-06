@@ -1,5 +1,199 @@
 [
 {
+  "id": "abatement",
+  "sid": "2026-01340",
+  "word": "abatement",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "reduction",
+    "relief",
+    "pollution",
+    "emissions",
+    "nuisance",
+    "tax",
+    "rent",
+    "law",
+    "environment",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable for the process of reduction or removal; countable for a particular reduction, concession, or legal remedy",
+    "plural": "abatements",
+    "forms": {
+      "singular": "abatement",
+      "plural": "abatements",
+      "verb": "abate"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "the abatement of + noun",
+      "abatement in + noun",
+      "an abatement of + amount / percentage",
+      "pollution / emissions / noise abatement",
+      "nuisance abatement",
+      "tax / rent abatement",
+      "apply for / receive an abatement",
+      "grant / allow an abatement",
+      "an abatement program",
+      "an abatement order / notice"
+    ],
+    "usage": {
+      "general": "Abatement means a reduction in the amount, intensity, severity, or harmful effect of something.",
+      "environment": "In environmental contexts, it commonly refers to measures that reduce pollution, emissions, noise, or other harmful effects.",
+      "nuisance": "Nuisance abatement means ending, removing, or controlling a condition legally regarded as a nuisance.",
+      "tax": "Tax abatement means a reduction, exemption, or cancellation of a tax liability granted under applicable rules.",
+      "rent": "Rent abatement is a reduction or suspension of rent, often because premises cannot be fully used or under the terms of an agreement.",
+      "countability": "Use uncountable abatement for the general process and a countable abatement for a particular reduction or concession.",
+      "legal_scope": "The availability and precise effect of an abatement depend on the relevant jurisdiction, statute, contract, or administrative scheme."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈbeɪtmənt/",
+      "uk": "/əˈbeɪtmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "強さ・量・程度・深刻さが減少すること、軽減",
+      "騒音・汚染・排出物などを抑制または除去すること",
+      "法律上の迷惑状態・危険状態を停止または是正すること",
+      "税金・賃料・料金などの減額・免除・支払停止",
+      "問題や有害な影響を弱めるために講じられる措置"
+    ],
+    "en": [
+      "a reduction in the amount, intensity, degree, or severity of something",
+      "the control or removal of noise, pollution, emissions, or another harmful condition",
+      "the termination or correction of a legally recognized nuisance or hazard",
+      "a reduction, exemption, or temporary suspension of tax, rent, or another payment",
+      "a measure taken to lessen a problem or its harmful effects"
+    ]
+  },
+  "nuance": {
+    "ja": "abatement は、好ましくない現象の強度・量・影響を弱めることを表す、主に形式的・専門的な名詞である。pollution abatement や noise abatement では、単なる自然な減少ではなく、設備・規制・対策による積極的な抑制を指すことが多い。nuisance abatement は、法律上の迷惑状態を軽減するだけでなく、その原因を停止・除去することまで含み得る。tax abatement や rent abatement では、一定の条件に基づく税金・賃料の減額または免除を意味する。reduction より専門性が高く、alleviation が苦痛・困難の緩和に焦点を置くのに対し、abatement は測定可能な排出量、法的な迷惑状態、金銭債務などにも広く用いられる。",
+    "en": "Abatement is a mainly formal or technical noun for reducing the intensity, amount, or harmful effect of an undesirable condition. In pollution abatement and noise abatement, it often refers to active control through equipment, regulation, or other measures rather than a merely natural decline. Nuisance abatement may require the source of a legally recognized nuisance to be stopped or removed, not simply made less serious. Tax abatement and rent abatement refer to a reduction, exemption, or suspension granted under specified conditions. The word is more specialized than reduction. Whereas alleviation focuses particularly on relieving suffering or difficulty, abatement also applies readily to measurable emissions, legal nuisances, and financial liabilities."
+  },
+  "minimal": {
+    "ja": [
+      "abatement：有害な状態・排出物・税金・賃料などの軽減、除去または減免。",
+      "reduction：量・規模・価格・程度などを小さくすることを表す最も一般的な語。",
+      "alleviation：苦痛・困難・負担を和らげること。通常は完全な除去を意味しない。",
+      "mitigation：損害・危険・悪影響の深刻さを軽減すること。",
+      "remission：債務・税・罰の免除、または病気の症状が一時的に消えること。",
+      "exemption：一般的な義務・規則・課税の適用から特定の者を除外すること。",
+      "deduction：課税所得・請求額などから一定額を差し引くこと。",
+      "elimination：問題・危険・不要なものを完全に取り除くこと。"
+    ],
+    "en": [
+      "abatement is the reduction, removal, or remission of a harmful condition, emission, tax, rent, or similar burden.",
+      "reduction is the most general term for making an amount, size, price, or degree smaller.",
+      "alleviation is the easing of suffering, difficulty, or burden, normally without complete removal.",
+      "mitigation is action that reduces the severity of harm, risk, or adverse effects.",
+      "remission is cancellation of a debt, tax, or penalty, or a temporary disappearance of symptoms.",
+      "exemption is the exclusion of a particular person or thing from a general duty, rule, or tax.",
+      "deduction is an amount subtracted from taxable income, a bill, or another total.",
+      "elimination is the complete removal of a problem, danger, or unwanted thing."
+    ]
+  },
+  "etymology": {
+    "ja": "abatement は動詞 abate に、行為・過程・結果を表す接尾辞 -ment が付いて成立した。abate は古フランス語 abatre「打ち倒す、低くする、弱める」に由来し、その battre「打つ」はラテン語 battuere にさかのぼる。したがって原義には、何かを打ち倒して低い状態にするというイメージがある。そこから、勢い・量・価格・負担を減少させることや、迷惑状態を除去することを表す専門的な意味が発達した。",
+    "en": "Abatement was formed from the verb abate with the noun-forming suffix -ment, denoting an act, process, or result. Abate came from Old French abatre, meaning to strike down, lower, or weaken; its element battre, to beat, ultimately derives from Latin battuere. The original image was therefore that of bringing something down. From this developed the specialized senses of reducing force, quantity, price, or burden and removing a nuisance or harmful condition."
+  },
+  "synonyms": [
+    {
+      "word": "reduction",
+      "note": {
+        "ja": "量・程度・規模などが小さくなることを広く表す中立的な語。",
+        "en": "A broad and neutral term for a decrease in amount, degree, size, or extent."
+      }
+    },
+    {
+      "word": "mitigation",
+      "note": {
+        "ja": "危険・損害・環境影響などの深刻さを抑える措置または過程。",
+        "en": "Measures or a process that limits the severity of risk, damage, or environmental effects."
+      }
+    },
+    {
+      "word": "alleviation",
+      "note": {
+        "ja": "痛み・貧困・負担・困難などを和らげること。",
+        "en": "The easing of pain, poverty, burden, or difficulty."
+      }
+    },
+    {
+      "word": "remission",
+      "note": {
+        "ja": "税・債務・罰などの全部または一部を免除すること。",
+        "en": "The cancellation or forgiveness of all or part of a tax, debt, penalty, or other obligation."
+      }
+    },
+    {
+      "word": "suppression",
+      "note": {
+        "ja": "活動・症状・情報・火災などを力や措置によって抑え込むこと。",
+        "en": "The active restraint or control of activity, symptoms, information, fire, or another phenomenon."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Minderung / Verminderung / Beseitigung",
+    "it": "riduzione / abbattimento",
+    "fr": "réduction / atténuation",
+    "es": "reducción / disminución"
+  },
+  "collocations": {
+    "ja": [
+      "pollution abatement — 汚染防止・軽減",
+      "emissions abatement — 排出量の削減",
+      "noise abatement — 騒音防止・軽減",
+      "carbon abatement — 炭素排出量の削減",
+      "nuisance abatement — 法律上の迷惑状態の除去",
+      "hazard abatement — 危険状態の除去・軽減",
+      "tax abatement — 税の減免",
+      "rent abatement — 賃料の減額・支払免除",
+      "an abatement program — 軽減・除去計画",
+      "an abatement order — 除去・是正命令",
+      "apply for an abatement — 減免を申請する",
+      "grant an abatement — 減免を認める"
+    ],
+    "en": [
+      "pollution abatement",
+      "emissions abatement",
+      "noise abatement",
+      "carbon abatement",
+      "nuisance abatement",
+      "hazard abatement",
+      "tax abatement",
+      "rent abatement",
+      "an abatement program",
+      "an abatement order",
+      "apply for an abatement",
+      "grant an abatement"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The new barriers contributed to a substantial abatement of traffic noise. — 新しい防音壁により、交通騒音が大幅に軽減された。",
+      "The factory invested in modern equipment for pollution abatement. — その工場は汚染防止のため、最新設備に投資した。",
+      "The city issued an abatement order requiring the owner to remove the hazardous condition. — 市は、その危険な状態を除去するよう所有者に命じる是正命令を発した。",
+      "The tenant requested a rent abatement because part of the building could not be used. — 建物の一部を使用できなかったため、賃借人は賃料の減額を求めた。",
+      "A patent covering emissions-abatement technology does not itself authorize the patent owner to operate the technology without complying with environmental regulations. — 排出削減技術を対象とする特許は、それ自体として、環境規制を遵守せずに当該技術を実施する権限を特許権者に与えるものではない。"
+    ],
+    "en": [
+      "The new barriers contributed to a substantial abatement of traffic noise.",
+      "The factory invested in modern equipment for pollution abatement.",
+      "The city issued an abatement order requiring the owner to remove the hazardous condition.",
+      "The tenant requested a rent abatement because part of the building could not be used.",
+      "A patent covering emissions-abatement technology does not itself authorize the patent owner to operate the technology without complying with environmental regulations."
+    ]
+  }
+},
+{
   "id": "contractant",
   "sid": "2026-01341",
   "word": "contractant",
