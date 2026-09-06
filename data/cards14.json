@@ -1,5 +1,205 @@
 [
 {
+  "id": "currency",
+  "sid": "2026-01314",
+  "word": "currency",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "money",
+    "finance",
+    "economics",
+    "banking",
+    "foreign exchange",
+    "trade",
+    "payment",
+    "legal tender",
+    "acceptance",
+    "information",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable for a particular monetary system; uncountable in the senses of general circulation or acceptance",
+    "plural": "currencies",
+    "forms": {
+      "singular": "currency",
+      "plural": "currencies",
+      "adjective": "currency-related",
+      "related_adjective": "current",
+      "related_noun": "currentness, rare"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a currency",
+      "the national / local currency",
+      "foreign / domestic currency",
+      "a strong / weak / stable currency",
+      "exchange one currency for another",
+      "pay in + currency",
+      "currency rises / falls / appreciates / depreciates",
+      "a currency exchange / market / crisis",
+      "gain / acquire currency",
+      "have / enjoy wide currency"
+    ],
+    "usage": {
+      "monetary_system": "A currency is a recognized system or form of money used in a particular country, region, or economic area.",
+      "countability": "It is countable when referring to distinct systems such as the yen, euro, and dollar: several currencies.",
+      "collective_use": "Foreign currency and local currency are often used without an article when referring collectively to money of the relevant type.",
+      "acceptance": "Currency can also mean circulation or general acceptance of an idea, expression, or report: the theory gained currency.",
+      "legal_tender": "Currency is not automatically identical to legal tender; the precise legal status of a payment instrument depends on applicable law.",
+      "money_contrast": "Money is the broader everyday concept, while currency usually identifies an officially recognized monetary form or system.",
+      "cash_contrast": "Cash means physical notes and coins, whereas currency can include the broader monetary unit and system.",
+      "spelling": "The plural changes -y to -ies: currencies."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkɜːrənsi/",
+      "uk": "/ˈkʌrənsi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特定の国・地域・経済圏で使用される通貨・貨幣制度",
+      "円・ドル・ユーロなど、価値の計算や支払いに用いられる貨幣単位",
+      "紙幣・硬貨を中心とする、流通している金銭",
+      "外国為替取引の対象となる各国・地域の通貨",
+      "考え・表現・情報などが社会で広く流通し、受け入れられていること",
+      "情報・資格・知識などが現時点でも有効または通用している状態"
+    ],
+    "en": [
+      "the system or form of money used in a particular country, region, or economic area",
+      "a monetary unit such as the yen, dollar, or euro used to state value and make payments",
+      "money, especially notes and coins, in active circulation",
+      "a national or regional form of money traded in foreign-exchange markets",
+      "the circulation and general acceptance of an idea, expression, or piece of information",
+      "the condition of remaining current, valid, or accepted"
+    ]
+  },
+  "nuance": {
+    "ja": "currency は、単なる「お金」ではなく、円・ドル・ユーロのように特定の制度の下で価値表示・支払い・貯蔵に用いられる通貨を指す。money は貨幣という概念や個人の所有する金銭を広く表すのに対し、currency は国家・地域ごとに区別できる貨幣単位・通貨制度に焦点を置く。cash は物理的な紙幣・硬貨を意味するため、銀行預金を含み得る currency より狭い場合がある。foreign currency は自国通貨以外の通貨、currency exchange は通貨の交換または両替所を表す。比喩的な gain currency は、考え・噂・表現などが広く流通し、支持または認知を得ることを意味する。この用法では金銭との直接的な関係はない。なお、currency、money、legal tender の法的範囲は常に一致するとは限らない。",
+    "en": "Currency does not merely mean money in general. It identifies a form or system of money, such as the yen, dollar, or euro, used under a particular monetary framework to state value, make payments, and store purchasing power. Money is the broader concept and can also refer simply to a person’s funds, whereas currency focuses on identifiable national or regional monetary units and systems. Cash refers specifically to physical notes and coins and may therefore be narrower than currency. Foreign currency is money denominated in a currency other than the relevant domestic one, while currency exchange can mean either conversion between currencies or a business providing that service. Figuratively, gain currency means become widely circulated, recognized, or accepted, especially of an idea, rumor, or expression. Currency, money, and legal tender do not necessarily have identical legal boundaries."
+  },
+  "minimal": {
+    "ja": [
+      "currency：国・地域で価値表示・支払いに用いられる特定の通貨または貨幣制度。",
+      "money：交換・支払い・価値の保存に用いられる貨幣を最も広く表す語。",
+      "cash：物理的な紙幣・硬貨、または即時に利用できる現金。",
+      "legal tender：債務の弁済手段として法律上認められた貨幣。",
+      "foreign exchange：異なる通貨の交換、為替市場、または外国通貨。",
+      "coin：金属製の硬貨、または硬貨を鋳造すること。",
+      "banknote：中央銀行などが発行する紙幣。",
+      "denomination：紙幣・硬貨の額面、または通貨単位上の区分。"
+    ],
+    "en": [
+      "currency is a particular monetary unit or system used for valuation and payment in a country or region.",
+      "money is the broadest term for a medium of exchange, payment, and storage of value.",
+      "cash is physical notes and coins or money immediately available for payment.",
+      "legal tender is money legally recognized as a valid means of satisfying a monetary debt.",
+      "foreign exchange is the conversion of currencies, the market for that conversion, or money denominated in a foreign currency.",
+      "a coin is a piece of metal officially issued as money or the act of manufacturing such money.",
+      "a banknote is paper currency issued by a central bank or another authorized institution.",
+      "a denomination is the stated face value of a note or coin or a unit within a currency system."
+    ]
+  },
+  "etymology": {
+    "ja": "中世ラテン語 currentia「流れること、流通」および英語 current「現在流通している、一般に受け入れられている」に関係する。これらはラテン語 currere「走る、流れる」にさかのぼる。currency は当初、考え・言葉・情報などが人々の間を「流通すること」や、一般に通用している状態を表した。そこから、社会の中を流通し、支払い手段として広く受け入れられる貨幣を指す意味が発達した。この歴史は、現代にも残る gain currency「広く通用するようになる」という表現に表れている。",
+    "en": "Currency is related to medieval Latin currentia, a flowing or circulation, and to English current, meaning circulating or generally accepted. These ultimately derive from Latin currere, to run or flow. Currency originally referred to the circulation or general acceptance of words, ideas, or information. The meaning was then extended to money that circulates through society and is commonly accepted as a means of payment. This earlier general sense remains visible in the modern expression gain currency, meaning become widely circulated or accepted."
+  },
+  "synonyms": [
+    {
+      "word": "money",
+      "note": {
+        "ja": "交換・支払い・価値保存に用いられるものを広く表し、特定の通貨制度に限定されない。",
+        "en": "The broad term for anything functioning as a medium of exchange, payment, or storage of value."
+      }
+    },
+    {
+      "word": "cash",
+      "note": {
+        "ja": "主として紙幣・硬貨、またはすぐ支払いに使える資金を指す。",
+        "en": "Principally refers to notes and coins or funds immediately available for payment."
+      }
+    },
+    {
+      "word": "legal tender",
+      "note": {
+        "ja": "金銭債務の弁済について、法律上一定の効力を認められた貨幣。",
+        "en": "Money granted a particular legal status for the payment of monetary debts."
+      }
+    },
+    {
+      "word": "medium of exchange",
+      "note": {
+        "ja": "商品・サービスの取引を容易にするため、交換手段として一般に受け入れられるもの。",
+        "en": "Something generally accepted in exchange to facilitate transactions involving goods and services."
+      }
+    },
+    {
+      "word": "circulation",
+      "note": {
+        "ja": "貨幣・情報・文書などが人々や市場の間で流通すること。",
+        "en": "The movement and distribution of money, information, or documents among people or through a market."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Währung / Umlauf / Geltung",
+    "it": "valuta / moneta / diffusione",
+    "fr": "devise / monnaie / diffusion",
+    "es": "moneda / divisa / difusión"
+  },
+  "collocations": {
+    "ja": [
+      "foreign currency — 外貨",
+      "domestic currency — 国内通貨",
+      "the local currency — 現地通貨",
+      "a national currency — 国家通貨",
+      "a strong currency — 強い通貨",
+      "a stable currency — 安定した通貨",
+      "currency exchange — 両替、通貨交換",
+      "currency markets — 外国為替市場",
+      "currency fluctuations — 為替変動",
+      "currency appreciation — 通貨価値の上昇",
+      "currency depreciation — 通貨価値の下落",
+      "gain currency — 広く流通・支持されるようになる"
+    ],
+    "en": [
+      "foreign currency",
+      "domestic currency",
+      "the local currency",
+      "a national currency",
+      "a strong currency",
+      "a stable currency",
+      "currency exchange",
+      "currency markets",
+      "currency fluctuations",
+      "currency appreciation",
+      "currency depreciation",
+      "gain currency"
+    ]
+  },
+  "example": {
+    "ja": [
+      "You can pay in either the local currency or US dollars. — 現地通貨または米ドルのいずれでも支払うことができます。",
+      "The company suffered losses when the domestic currency depreciated sharply. — 国内通貨が急落した際、その会社は損失を被った。",
+      "Travelers should check the exchange rate before purchasing foreign currency. — 旅行者は外貨を購入する前に為替レートを確認すべきである。",
+      "The claim that the policy would reduce inflation gradually gained currency among economists. — その政策がインフレを抑制するという主張は、経済学者の間で次第に広く受け入れられるようになった。",
+      "The license agreement requires royalties to be paid in the currency specified on each invoice. — そのライセンス契約では、各請求書に指定された通貨でロイヤルティーを支払うことが義務付けられている。"
+    ],
+    "en": [
+      "You can pay in either the local currency or US dollars.",
+      "The company suffered losses when the domestic currency depreciated sharply.",
+      "Travelers should check the exchange rate before purchasing foreign currency.",
+      "The claim that the policy would reduce inflation gradually gained currency among economists.",
+      "The license agreement requires royalties to be paid in the currency specified on each invoice."
+    ]
+  }
+},
+{
   "id": "bankruptcy",
   "sid": "2026-01315",
   "word": "bankruptcy",
