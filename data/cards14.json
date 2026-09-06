@@ -1,5 +1,207 @@
 [
 {
+  "id": "up-to",
+  "sid": "2026-01330",
+  "word": "up to",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "preposition",
+    "adverbial phrase",
+    "maximum",
+    "range",
+    "time",
+    "distance",
+    "responsibility",
+    "choice",
+    "ability",
+    "activity",
+    "standard",
+    "conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "complex preposition / adverbial phrase / predicative expression",
+    "countability": "not applicable",
+    "forms": {
+      "base": "up to",
+      "hyphenated_modifier": "up-to-date / up-to-standard, only in established attributive compounds",
+      "related_expression": "up until",
+      "negative_ability": "not up to",
+      "responsibility": "be up to someone"
+    },
+    "transitivity": "normally followed by a noun phrase, pronoun, number, or gerund; some uses are predicative",
+    "patterns": [
+      "up to + number / amount",
+      "up to + time / point",
+      "up to + place / level",
+      "be up to + person",
+      "be up to + noun / gerund",
+      "What are you up to?",
+      "be up to something",
+      "not be up to + noun / gerund",
+      "live / measure up to + standard",
+      "up to and including + noun"
+    ],
+    "usage": {
+      "maximum": "Up to before a number expresses a maximum and normally includes that number: up to ten people means no more than ten.",
+      "no_guaranteed_minimum": "Up to states a ceiling but does not by itself guarantee any particular minimum.",
+      "time": "Up to can mean until a time or stage: up to the present; events leading up to the meeting.",
+      "distance_level": "It can indicate movement or extent as far as a place, person, level, or boundary.",
+      "responsibility": "Be up to someone means that the person has the responsibility or authority to decide.",
+      "activity": "Be up to something can mean be doing or planning something, often something secret, surprising, or possibly improper.",
+      "ability": "Not be up to something means lack sufficient strength, health, ability, or willingness for it.",
+      "standard": "Up to a standard means reaching the required level, commonly in be up to standard.",
+      "gerund": "After to in this expression, use a noun or gerund rather than an infinitive: Are you up to walking home?"
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈʌp tuː/; weak /ˈʌp tə/",
+      "uk": "/ˈʌp tuː/; weak /ˈʌp tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "数量・金額・程度などが最大で～まで",
+      "時間・段階・場所・高さなどが～まで",
+      "判断・選択・責任が人に委ねられて",
+      "人が何かをしている、または企んでいる",
+      "仕事・活動を行うだけの能力・体力・意欲がある",
+      "要求される基準・水準に達して",
+      "ある時点までに生じた事柄または進行した範囲"
+    ],
+    "en": [
+      "not exceeding a stated number, amount, or degree",
+      "as far as a particular time, stage, place, height, or limit",
+      "dependent on a person’s decision, choice, or responsibility",
+      "engaged in or planning an activity, sometimes secretly or suspiciously",
+      "having sufficient ability, strength, health, or willingness for a task",
+      "reaching a required standard or level",
+      "covering events or progress until a specified point"
+    ]
+  },
+  "nuance": {
+    "ja": "up to は文脈によって意味が大きく変わる。up to ten people は「最大10人」で、通常10を含むが、10人参加することを保証せず、0人から10人までの可能性がある。It’s up to you. は「あなた次第です」「決定はあなたに任されています」を意味する。What are you up to? は中立的に「何をしているの」と尋ねる場合も、何かを企んでいると疑う場合もある。I’m not up to going out. は外出するだけの体力・気力がないという意味で、この to は不定詞標識ではなく前置詞なので going を用いる。The work is not up to standard. は仕事が必要水準に達していないことを表す。法律・広告などで上限を明確にする必要がある場合、up to だけでは最低値が示されないため、from X up to Y、up to and including Y などで範囲を明示することがある。",
+    "en": "The meaning of up to changes substantially with context. Up to ten people means a maximum of ten and normally includes ten, but it does not promise that ten people will participate or establish any particular minimum. It’s up to you means that the choice or responsibility belongs to the listener. What are you up to? can neutrally ask what someone is doing or suspiciously ask what they are planning. I’m not up to going out means lacking sufficient energy, health, or willingness; to is a preposition here, so it is followed by the gerund going. The work is not up to standard means that it fails to reach the required level. In legal or promotional language, up to identifies a ceiling but not a floor, so from X up to Y or up to and including Y may be used when the full range requires clarification."
+  },
+  "minimal": {
+    "ja": [
+      "up to：最大～まで、～次第で、～をしていて、または基準・能力に達して。",
+      "until：特定の時点まで状態・行為が続くことを表す。",
+      "as far as：場所・範囲・程度が～までであることを表す。",
+      "at most：数量・金額が多くてもその値を超えないことを明示する。",
+      "approximately：約、およそ。上限ではなく、数値の近似を表す。",
+      "depend on：結果・決定が人・条件・事情によって決まる。",
+      "capable of：行為を行う能力・性質があることを表す。",
+      "meet a standard：要求される基準・水準を満たす。"
+    ],
+    "en": [
+      "up to can mean a maximum, as far as a limit, someone’s responsibility, engaged in an activity, or capable of meeting a demand.",
+      "until indicates that an action or condition continues to a particular time.",
+      "as far as indicates the endpoint of movement, extent, range, or degree.",
+      "at most explicitly means that a number or amount cannot exceed the stated value.",
+      "approximately indicates an inexact value near a number rather than a maximum.",
+      "depend on means that an outcome or decision is determined by a person, condition, or circumstance.",
+      "capable of means having the ability or qualities required to perform an action.",
+      "meet a standard means satisfying a required level of quality or performance."
+    ]
+  },
+  "etymology": {
+    "ja": "up は古英語 up、upp「上へ」に由来し、to は古英語 tō「～へ、～まで」に由来する。物理的にある地点・高さへ向かい、その限界に到達するという組合せから、数量・時間・程度の「～まで」という意味が発達した。限界へ到達するという発想は be up to standard「基準まで達している」にも残る。責任・活動・能力を表す用法は、この空間的・限界的意味から比喩的に発達した。",
+    "en": "Up derives from Old English up or upp, upward, while to comes from Old English tō, toward or as far as. Their combination originally indicated movement toward and arrival at a physical point or height. This spatial sense developed into the numerical, temporal, and scalar meaning as far as a particular limit. The image of reaching a level remains visible in be up to standard. The meanings involving responsibility, activity, and ability developed figuratively from these ideas of reaching, facing, or being equal to something."
+  },
+  "synonyms": [
+    {
+      "word": "at most",
+      "note": {
+        "ja": "数量・金額が指定された上限を超えないことを、up to より明示的に表す。",
+        "en": "More explicitly states that a number or amount cannot exceed the specified maximum."
+      }
+    },
+    {
+      "word": "until",
+      "note": {
+        "ja": "時間・出来事について、ある時点まで行為・状態が続くことを表す。",
+        "en": "Indicates that an action or state continues to a particular time or event."
+      }
+    },
+    {
+      "word": "as far as",
+      "note": {
+        "ja": "移動・範囲・程度が特定の場所・点・限界まで及ぶことを表す。",
+        "en": "Indicates that movement, extent, or degree reaches a particular place, point, or limit."
+      }
+    },
+    {
+      "word": "depend on",
+      "note": {
+        "ja": "決定・結果が特定の人や条件に左右されることを表す。",
+        "en": "Means that a decision or outcome is determined by a particular person or condition."
+      }
+    },
+    {
+      "word": "capable of",
+      "note": {
+        "ja": "特定の仕事・行為を行うための能力・体力・性質があることを表す。",
+        "en": "Means having the ability, strength, or qualities required for a task or action."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "bis zu / es liegt an / imstande sein",
+    "it": "fino a / dipendere da / essere in grado di",
+    "fr": "jusqu’à / dépendre de / être à la hauteur de",
+    "es": "hasta / depender de / estar a la altura de"
+  },
+  "collocations": {
+    "ja": [
+      "up to ten people — 最大10人まで",
+      "up to one hour — 最大1時間まで",
+      "up to the present — 現在まで",
+      "up to the deadline — 期限まで",
+      "walk up to someone — 人のところまで歩み寄る",
+      "It’s up to you. — あなた次第です",
+      "What are you up to? — 何をしているのですか",
+      "be up to something — 何かをしている、企んでいる",
+      "not feel up to it — それをする気力・体力がない",
+      "be up to the task — その仕事を遂行できる",
+      "be up to standard — 基準に達している",
+      "up to and including Friday — 金曜日を含めてそこまで"
+    ],
+    "en": [
+      "up to ten people",
+      "up to one hour",
+      "up to the present",
+      "up to the deadline",
+      "walk up to someone",
+      "It’s up to you.",
+      "What are you up to?",
+      "be up to something",
+      "not feel up to it",
+      "be up to the task",
+      "be up to standard",
+      "up to and including Friday"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The meeting room can accommodate up to twenty people. — その会議室には最大20人まで収容できる。",
+      "It’s up to you whether we leave today or tomorrow. — 今日出発するか明日出発するかは、あなた次第です。",
+      "What have you been up to since we last met? — 前回会ってから、何をしていましたか。",
+      "I don’t feel up to attending a long dinner after the flight. — 飛行機に乗った後で長い夕食会に出席するだけの気力はありません。",
+      "The patent may remain in force for up to twenty years from the filing date, subject to the applicable law and payment of the required fees. — その特許は、適用法および必要な料金の支払いを条件として、出願日から最大20年間存続し得る。"
+    ],
+    "en": [
+      "The meeting room can accommodate up to twenty people.",
+      "It’s up to you whether we leave today or tomorrow.",
+      "What have you been up to since we last met?",
+      "I don’t feel up to attending a long dinner after the flight.",
+      "The patent may remain in force for up to twenty years from the filing date, subject to the applicable law and payment of the required fees."
+    ]
+  }
+},
+{
   "id": "be-torn",
   "sid": "2026-01331",
   "word": "be torn",
