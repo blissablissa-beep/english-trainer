@@ -1,5 +1,201 @@
 [
 {
+  "id": "counterparty",
+  "sid": "2026-01343",
+  "word": "counterparty",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "contract",
+    "transaction",
+    "other party",
+    "finance",
+    "banking",
+    "derivatives",
+    "credit risk",
+    "settlement",
+    "insolvency",
+    "legal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "counterparties",
+    "forms": {
+      "singular": "counterparty",
+      "plural": "counterparties",
+      "possessive_singular": "counterparty’s",
+      "possessive_plural": "counterparties’",
+      "rare_variant": "contraparty"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a counterparty",
+      "the counterparty to + transaction / contract",
+      "each counterparty",
+      "the other counterparty",
+      "deal / trade with a counterparty",
+      "identify / select a counterparty",
+      "assess a counterparty",
+      "a counterparty performs / defaults",
+      "counterparty risk",
+      "counterparty credit exposure"
+    ],
+    "usage": {
+      "general": "A counterparty is the other person or entity participating in a contract or transaction from the perspective of a particular party.",
+      "financial_context": "The word is especially common in banking, securities, derivatives, lending, insurance, and other financial transactions.",
+      "relationality": "Counterparty is relational: in a two-party transaction, each participant is the other participant’s counterparty.",
+      "preposition": "Use counterparty to a transaction, contract, trade, or agreement.",
+      "risk": "Counterparty risk is the risk that the other party will fail to perform its contractual obligations.",
+      "central_counterparty": "A central counterparty, abbreviated CCP, interposes itself between participants in certain cleared transactions and becomes the buyer to each seller and the seller to each buyer.",
+      "broader_exposure": "In risk-management contexts, the term may identify an entity to which a financial or contractual exposure exists.",
+      "spelling": "The plural changes -y to -ies: counterparties."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkaʊntərˌpɑːrti/",
+      "uk": "/ˈkaʊntəˌpɑːti/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "契約・取引において、自分から見た相手方",
+      "金融取引で売買・貸付け・決済などの反対側に立つ人または法人",
+      "デリバティブ取引などで契約上の義務を履行すべき相手方",
+      "信用リスク・決済リスクなどの対象となる取引相手"
+    ],
+    "en": [
+      "the other person or entity participating in a contract or transaction",
+      "the person or organization on the opposite side of a financial trade, loan, or settlement",
+      "the party expected to perform obligations on the other side of a derivatives or similar contract",
+      "an entity to which a contractual, credit, or settlement exposure exists"
+    ]
+  },
+  "nuance": {
+    "ja": "counterparty は、ある当事者を基準にして、その契約・取引の「反対側にいる相手」を表す相対的な語である。A社とB社が取引する場合、A社から見ればB社が counterparty であり、B社から見ればA社が counterparty となる。contracting party は契約当事者であるという客観的な地位に焦点を置くが、counterparty は特定の当事者から見た相手方という関係に焦点を置く。金融分野で特によく使われ、counterparty risk は相手方が支払・引渡し・決済などの義務を履行しない危険をいう。契約当事者が三者以上いる場合には、other party、relevant party、名称で定義した当事者などを使う方が、どの相手を指すか明確な場合がある。",
+    "en": "Counterparty is a relational term for the participant on the other side of a contract or transaction from the perspective of a particular party. If Company A trades with Company B, B is A’s counterparty and A is B’s counterparty. Contracting party emphasizes the objective status of having entered into the contract, whereas counterparty emphasizes the relationship between one participant and the other side. The word is especially common in finance, where counterparty risk concerns the possibility that the other party will fail to make payment, deliver an asset, settle the transaction, or perform another obligation. In an agreement involving more than two parties, other party, relevant party, or a specifically defined party name may identify the intended entity more clearly."
+  },
+  "minimal": {
+    "ja": [
+      "counterparty：ある当事者から見た、契約・金融取引などの相手方。",
+      "contracting party：契約を締結し、その契約上の権利・義務を有する当事者。",
+      "party：契約・訴訟・取引などに参加する主体を広く表す法律上の一般語。",
+      "other party：二者関係で、自分以外の当事者を表す日常的で明確な表現。",
+      "opposing party：訴訟・交渉などで利害が対立する相手方。",
+      "contractor：契約に基づいて工事・業務・役務などを提供する請負人・事業者。",
+      "third party：当該契約または取引の直接の当事者ではない第三者。",
+      "central counterparty：清算取引で売手と買手の間に入り、双方の相手方となる中央清算機関。"
+    ],
+    "en": [
+      "a counterparty is the other participant in a contract or financial transaction from one party’s perspective.",
+      "a contracting party has entered into a contract and possesses rights or obligations under it.",
+      "party is the broad legal term for a participant in a contract, proceeding, or transaction.",
+      "the other party is an ordinary and clear expression for the remaining participant in a two-party relationship.",
+      "an opposing party is a person or entity with conflicting interests in litigation or negotiation.",
+      "a contractor is engaged under a contract to perform work or provide goods or services.",
+      "a third party is not a direct participant in the contract or transaction concerned.",
+      "a central counterparty stands between buyers and sellers in cleared transactions and becomes counterparty to both sides."
+    ]
+  },
+  "etymology": {
+    "ja": "counterparty は counter-「反対側の、対応する」と party「当事者」から構成される。counter- はラテン語 contra「反対に、向かい合って」に由来し、party は古フランス語 partie を経て、ラテン語 partire「分ける」に関係する。したがって、語の基本的な発想は「取引の反対側に位置する当事者」である。金融規制とリスク管理の発展に伴い、20世紀後半以降、counterparty risk や counterparty exposure などの専門表現で広く使われるようになった。",
+    "en": "Counterparty is formed from counter-, meaning opposite or corresponding, and party. Counter- derives from Latin contra, against or opposite, while party entered English through Old French partie and is related to Latin partire, to divide. The word therefore literally identifies the party on the opposite side of a transaction. It became especially prominent in late twentieth-century financial regulation and risk management through expressions such as counterparty risk and counterparty exposure."
+  },
+  "synonyms": [
+    {
+      "word": "other party",
+      "note": {
+        "ja": "二者間の契約・交渉などで、一方から見たもう一方を表す一般的な表現。",
+        "en": "A general expression for the remaining participant in a two-party contract, negotiation, or relationship."
+      }
+    },
+    {
+      "word": "contracting party",
+      "note": {
+        "ja": "契約を締結して、その契約上の権利または義務を有する主体。",
+        "en": "A person or entity that entered into a contract and holds rights or duties under it."
+      }
+    },
+    {
+      "word": "transaction party",
+      "note": {
+        "ja": "特定の取引に参加する当事者を広く表すが、counterparty ほど定着した単独語ではない。",
+        "en": "A general description of a participant in a transaction, though less established as a fixed term than counterparty."
+      }
+    },
+    {
+      "word": "opposite party",
+      "note": {
+        "ja": "取引・契約などの反対側に立つ者を直接的に表すが、法律英語では counterparty の方が自然な場合が多い。",
+        "en": "Directly describes the participant on the opposite side, although counterparty is often more idiomatic in legal and financial usage."
+      }
+    },
+    {
+      "word": "opposing party",
+      "note": {
+        "ja": "訴訟・紛争・交渉などで利益や主張が対立する相手方。",
+        "en": "A party whose interests or arguments conflict with one’s own in litigation, a dispute, or negotiation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Gegenpartei / Gegenpartei eines Geschäfts / Kontrahent",
+    "it": "controparte",
+    "fr": "contrepartie / cocontractant",
+    "es": "contraparte"
+  },
+  "collocations": {
+    "ja": [
+      "a contractual counterparty — 契約上の相手方",
+      "a trading counterparty — 取引相手方",
+      "a foreign counterparty — 外国の取引相手方",
+      "an eligible counterparty — 適格な取引相手方",
+      "the counterparty to a transaction — 取引の相手方",
+      "deal with a counterparty — 相手方と取引する",
+      "assess a counterparty — 取引相手方を評価する",
+      "identify the counterparty — 取引相手方を特定する",
+      "counterparty risk — 取引相手方の債務不履行リスク",
+      "counterparty credit risk — 取引相手方信用リスク",
+      "counterparty exposure — 取引相手方に対するエクスポージャー",
+      "a central counterparty — 中央清算機関"
+    ],
+    "en": [
+      "a contractual counterparty",
+      "a trading counterparty",
+      "a foreign counterparty",
+      "an eligible counterparty",
+      "the counterparty to a transaction",
+      "deal with a counterparty",
+      "assess a counterparty",
+      "identify the counterparty",
+      "counterparty risk",
+      "counterparty credit risk",
+      "counterparty exposure",
+      "a central counterparty"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Before entering the transaction, the bank assessed the creditworthiness of the counterparty. — 銀行はその取引を開始する前に、取引相手方の信用力を評価した。",
+      "Each company regarded the other as its counterparty under the agreement. — 各社は、その契約において他方を自己の相手方とみなした。",
+      "The investor requested additional collateral to reduce counterparty risk. — 投資家は取引相手方リスクを軽減するため、追加の担保を求めた。",
+      "The counterparty failed to deliver the securities on the agreed settlement date. — 取引相手方は、合意された決済日に証券を引き渡さなかった。",
+      "A patent licensee should confirm that its counterparty owns the licensed rights or has sufficient authority to grant the license. — 特許のライセンシーは、相手方がライセンス対象の権利を保有しているか、またはライセンスを許諾する十分な権限を有していることを確認すべきである。"
+    ],
+    "en": [
+      "Before entering the transaction, the bank assessed the creditworthiness of the counterparty.",
+      "Each company regarded the other as its counterparty under the agreement.",
+      "The investor requested additional collateral to reduce counterparty risk.",
+      "The counterparty failed to deliver the securities on the agreed settlement date.",
+      "A patent licensee should confirm that its counterparty owns the licensed rights or has sufficient authority to grant the license."
+    ]
+  }
+},
+{
   "id": "de_facto",
   "sid": "2026-01344",
   "word": "de facto",
