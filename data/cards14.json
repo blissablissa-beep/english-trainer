@@ -1,5 +1,200 @@
 [
 {
+  "id": "slacken",
+  "sid": "2026-01338",
+  "word": "slacken",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "reduction",
+    "weakening",
+    "speed",
+    "effort",
+    "demand",
+    "tension",
+    "rope",
+    "economy",
+    "business",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "slacken",
+      "third_person": "slackens",
+      "past": "slackened",
+      "past_participle": "slackened",
+      "gerund": "slackening",
+      "adjective": "slack",
+      "noun": "slackness"
+    },
+    "transitivity": "intransitive or transitive",
+    "patterns": [
+      "demand / growth / activity slackens",
+      "the pace / wind slackens",
+      "slacken in + period / place",
+      "slacken as + clause",
+      "slacken one’s pace",
+      "slacken one’s efforts",
+      "slacken one’s grip",
+      "slacken a rope / cable",
+      "slacken the tension",
+      "show signs of slackening"
+    ],
+    "usage": {
+      "intransitive": "Used intransitively, slacken means becoming less strong, active, fast, or intense: Demand slackened.",
+      "transitive": "Used transitively, it means making something less tight, vigorous, or intense: slacken the rope.",
+      "effort": "Slacken one’s efforts means reducing the energy, attention, or determination devoted to an activity.",
+      "physical_tension": "With a rope, cable, grip, or similar object, slacken means reducing tension or tightness.",
+      "economic_context": "In economic and business writing, demand, growth, investment, and economic activity may slacken.",
+      "register": "It is somewhat formal and less common in everyday conversation than slow down, ease, weaken, or loosen."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈslækən/",
+      "uk": "/ˈslækən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "速度・勢い・活動などが弱まる、鈍化する",
+      "需要・成長・関心などが減少する、低調になる",
+      "努力・警戒・規律などを緩める",
+      "ロープ・ケーブル・握る力などの張りを緩める",
+      "風・雨・圧力などの強さが和らぐ"
+    ],
+    "en": [
+      "to become slower, weaker, or less active",
+      "for demand, growth, or interest, to decrease in strength",
+      "to reduce one’s effort, vigilance, or discipline",
+      "to make a rope, cable, grip, or similar thing less tight",
+      "for wind, rain, pressure, or another force, to become less intense"
+    ]
+  },
+  "nuance": {
+    "ja": "slacken は、張力・速度・勢い・努力などが、それまでの強さを失って緩むことを表す。物理的には slacken the rope のように、張っているロープを少し緩めることを意味する。比喩的には demand slackened「需要が弱まった」、the pace slackened「ペースが落ちた」、slacken one’s efforts「努力を緩める」のように使う。loosen と重なるが、loosen は結び目・衣服・規則などを広く「緩くする」語であり、slacken は特に張力、勢い、速度、活動の程度が低下する過程に焦点を置く。経済については weaken や slow よりやや形式的で、緩やかな減速を表すことが多い。",
+    "en": "Slacken describes a loss of tension, speed, force, or effort from a previously stronger state. Physically, slacken the rope means reducing the tension in a taut rope. Figuratively, demand slackened indicates weakening demand, the pace slackened indicates a reduction in speed, and slacken one’s efforts means applying less energy or determination. It overlaps with loosen, but loosen broadly applies to knots, clothing, restrictions, and other things made less tight or restrictive. Slacken focuses more particularly on declining tension, momentum, speed, or activity. In economic writing it is somewhat formal and often suggests a gradual slowing rather than a sudden collapse."
+  },
+  "minimal": {
+    "ja": [
+      "slacken：張力・速度・勢い・活動などが弱まる、またはそれらを緩める。",
+      "loosen：結び目・衣服・規則などを、締まっていない状態または制限の少ない状態にする。",
+      "slow：速度・進行の速さを落とす、または遅くなる最も一般的な語。",
+      "weaken：力・影響力・構造・需要などを弱くする、または弱くなる。",
+      "ease：痛み・圧力・緊張・制限などを徐々に和らげる。",
+      "relax：身体・精神の緊張を解く、または規則・管理を緩和する。",
+      "subside：風・痛み・騒動などが次第に弱まり、静まる。",
+      "slack off：努力・仕事量・活動を怠って減らす、または活動が低下する口語表現。"
+    ],
+    "en": [
+      "slacken means becoming or making something less tense, rapid, forceful, or active.",
+      "loosen means making a knot, garment, rule, or other constraint less tight or restrictive.",
+      "slow is the most general verb for reducing speed or becoming less rapid.",
+      "weaken means causing or undergoing a loss of strength, influence, structure, or demand.",
+      "ease means gradually reducing pain, pressure, tension, or restrictions.",
+      "relax means releasing physical or mental tension or making a rule or control less strict.",
+      "subside means gradually becoming weaker or quieter, especially of wind, pain, or disturbance.",
+      "slack off informally means reducing effort or work through carelessness, or declining in activity."
+    ]
+  },
+  "etymology": {
+    "ja": "slacken は、形容詞 slack「緩んだ、張りのない、活発でない」に動詞を作る接尾辞 -en が付いて成立した。slack は古英語 slæc に由来し、「緩い、怠慢な、動きの遅い」などを意味した。物理的な張りが不足した状態から、速度・需要・努力・規律などが弱まった状態へ意味が広がった。同じ形成を持つ動詞には strengthen「強める」や weaken「弱める」がある。",
+    "en": "Slacken was formed from the adjective slack with the verb-forming suffix -en. Slack comes from Old English slæc, which carried meanings such as loose, inactive, negligent, or slow. The physical idea of lacking tension was extended to reductions in speed, demand, effort, discipline, and intensity. The formation is comparable to verbs such as strengthen and weaken."
+  },
+  "synonyms": [
+    {
+      "word": "ease",
+      "note": {
+        "ja": "圧力・緊張・痛み・速度などを徐々に和らげる、またはそれらが和らぐ。",
+        "en": "To reduce gradually, or become less severe, especially of pressure, tension, pain, or speed."
+      }
+    },
+    {
+      "word": "weaken",
+      "note": {
+        "ja": "力・影響力・勢い・需要などを弱くする、またはそれらが弱くなる。",
+        "en": "To cause or undergo a reduction in strength, influence, momentum, or demand."
+      }
+    },
+    {
+      "word": "slow",
+      "note": {
+        "ja": "動作・成長・進行などの速度を落とす、または速度が落ちる。",
+        "en": "To reduce or undergo a reduction in the speed of movement, growth, or progress."
+      }
+    },
+    {
+      "word": "loosen",
+      "note": {
+        "ja": "物の締まり・固定・拘束を弱め、より自由に動ける状態にする。",
+        "en": "To reduce tightness, fastening, or restraint and allow greater freedom of movement."
+      }
+    },
+    {
+      "word": "abate",
+      "note": {
+        "ja": "問題・騒音・悪天候・強い感情などが弱まる、またはそれらを軽減する形式的な語。",
+        "en": "A formal verb meaning to become or make less intense, especially of a problem, noise, bad weather, or strong emotion."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "nachlassen / lockern",
+    "it": "allentare / diminuire",
+    "fr": "se relâcher / ralentir",
+    "es": "aflojar / disminuir"
+  },
+  "collocations": {
+    "ja": [
+      "slacken the rope — ロープの張りを緩める",
+      "slacken the cable — ケーブルの張力を緩める",
+      "slacken one’s grip — 握る力を緩める",
+      "slacken one’s pace — 歩調・速度を落とす",
+      "slacken one’s efforts — 努力を緩める",
+      "slacken the tension — 緊張・張力を弱める",
+      "demand begins to slacken — 需要が弱まり始める",
+      "economic activity slackens — 経済活動が鈍化する",
+      "growth slackens — 成長が鈍化する",
+      "the wind slackens — 風が弱まる",
+      "the rain slackens — 雨脚が弱まる",
+      "show signs of slackening — 弱まりつつある兆候を示す"
+    ],
+    "en": [
+      "slacken the rope",
+      "slacken the cable",
+      "slacken one’s grip",
+      "slacken one’s pace",
+      "slacken one’s efforts",
+      "slacken the tension",
+      "demand begins to slacken",
+      "economic activity slackens",
+      "growth slackens",
+      "the wind slackens",
+      "the rain slackens",
+      "show signs of slackening"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The wind slackened shortly before sunset. — 日没の少し前に風が弱まった。",
+      "She slackened her pace as she approached the steep hill. — 彼女は急な坂に近づくにつれて歩調を緩めた。",
+      "Consumer demand began to slacken during the second quarter. — 第2四半期に消費者需要が弱まり始めた。",
+      "We must not slacken our efforts simply because the initial results are encouraging. — 初期の結果が好ましいというだけで、努力を緩めてはならない。",
+      "The trademark owner should not slacken its monitoring efforts merely because the number of reported infringements has temporarily declined. — 報告された侵害件数が一時的に減少したというだけで、商標権者は監視活動を緩めるべきではない。"
+    ],
+    "en": [
+      "The wind slackened shortly before sunset.",
+      "She slackened her pace as she approached the steep hill.",
+      "Consumer demand began to slacken during the second quarter.",
+      "We must not slacken our efforts simply because the initial results are encouraging.",
+      "The trademark owner should not slacken its monitoring efforts merely because the number of reported infringements has temporarily declined."
+    ]
+  }
+},
+{
   "id": "abate",
   "sid": "2026-01339",
   "word": "abate",
