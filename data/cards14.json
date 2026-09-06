@@ -1,5 +1,203 @@
 [
 {
+  "id": "neither",
+  "sid": "2026-01321",
+  "word": "neither",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "determiner",
+    "pronoun",
+    "conjunction",
+    "adverb",
+    "negation",
+    "choice",
+    "agreement",
+    "coordination",
+    "inversion",
+    "grammar",
+    "conversation",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "determiner / pronoun / conjunction / adverb",
+    "countability": "not applicable",
+    "forms": {
+      "base": "neither",
+      "correlative_partner": "nor",
+      "positive_counterpart": "either",
+      "adverbial_pattern": "neither + auxiliary + subject",
+      "conjunction": "neither ... nor ..."
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "neither + singular noun",
+      "neither of + plural noun phrase",
+      "neither of + object pronoun",
+      "neither ... nor ...",
+      "neither A nor B",
+      "neither do / can / will + subject",
+      "Me neither.",
+      "Neither one",
+      "on neither side",
+      "neither of whom / which"
+    ],
+    "usage": {
+      "determiner": "Before a noun, neither normally modifies a singular countable noun: neither answer, not neither answers.",
+      "pronoun": "Neither can stand alone for not one and not the other: Neither was suitable.",
+      "of_pattern": "Neither of is followed by a plural noun phrase or object pronoun: neither of the answers; neither of them.",
+      "agreement": "Formal usage often prefers a singular verb after neither of, but plural agreement is common when individual members are emphasized, especially in conversation.",
+      "correlative": "Neither ... nor ... joins two negatively excluded alternatives.",
+      "proximity_agreement": "With neither ... nor ..., the verb often agrees with the nearer subject, although rewriting may be clearer when the subjects differ in number.",
+      "adverbial_agreement": "Neither followed by auxiliary–subject inversion expresses agreement with a negative statement: Neither do I.",
+      "informal_response": "Me neither is a common informal response; Neither do I or Nor do I is more structurally formal.",
+      "double_negative": "Because neither is already negative, it is normally not combined with another negative verb in standard English."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈniːðər/ or /ˈnaɪðər/",
+      "uk": "/ˈnaɪðə/ or /ˈniːðə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "二つのうち、どちらも～ない",
+      "二人・二個のうち、どちらも該当しないもの",
+      "neither A nor B の形で、AもBも～ない",
+      "否定文への同意として、自分または別の人にも当てはまらないこと",
+      "二つの選択肢・人物・物事をともに否定または除外する語"
+    ],
+    "en": [
+      "not one and not the other of two people or things",
+      "as a pronoun, neither one of two alternatives",
+      "in neither A nor B, not A and also not B",
+      "as an adverb, likewise not in response to a negative statement",
+      "a word used to reject or exclude both of two alternatives"
+    ]
+  },
+  "nuance": {
+    "ja": "neither は、原則として二つの選択肢の両方を否定する。neither answer は「二つの答えのどちらも～ない」、neither of the answers は「その二つの答えのどちらも～ない」を意味する。三つ以上をまとめて否定する場合は none of が自然である。ただし、日常英語では二つを厳密に意識せず neither が使われる場合もある。neither ... nor ... は両方を否定する対句で、Neither the buyer nor the seller was ready. のように用いる。二つの主語の数が異なる場合、動詞は近い方の主語に一致させることが多いが、不自然さや曖昧さを避けるため文を書き換えることも望ましい。否定文への同意では Neither do I. のように助動詞と主語を倒置する。Me neither. は非常に自然だが口語的である。",
+    "en": "Neither normally excludes both of two alternatives. Neither answer means not either of two answers, while neither of the answers refers explicitly to the two answers as a group. None of is normally preferred when three or more items are being excluded, although everyday usage does not always observe the numerical distinction strictly. Neither ... nor ... creates a paired negative structure, as in Neither the buyer nor the seller was ready. When coordinated subjects differ in number, the verb often agrees with the nearer subject, but rewriting the sentence may avoid awkwardness or ambiguity. In response to a negative statement, neither takes auxiliary–subject inversion: Neither do I. Me neither is extremely natural in conversation but more informal."
+  },
+  "minimal": {
+    "ja": [
+      "neither：二つのうちどちらも～ない、または否定文に「私も～ない」と同意する。",
+      "either：二つのうちどちらか一方。または否定文で「どちらも～ない」の範囲を作る。",
+      "none：通常、三つ以上または数量を限定しない集合の中で一つも～ない。",
+      "both：二つの人・物の双方。",
+      "neither ... nor ...：AもBも～ない。",
+      "either ... or ...：AかBのどちらか。",
+      "Neither do I.：否定文に対する「私もそうではない」という比較的整った応答。",
+      "Me neither.：否定文に対する「私も」の口語的な応答。"
+    ],
+    "en": [
+      "neither means not either of two alternatives or expresses agreement with a negative statement.",
+      "either means one or the other of two alternatives and also occurs within the scope of a negative.",
+      "none normally means not one of three or more items or of a group whose size is unspecified.",
+      "both means the two people or things considered together.",
+      "neither ... nor ... excludes both A and B.",
+      "either ... or ... presents A and B as alternatives.",
+      "Neither do I is a structurally formal way to agree with a negative statement.",
+      "Me neither is an informal conversational response meaning that the negative statement also applies to the speaker."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 nawþer、næþer などの形に由来し、否定を表す要素と ægþer「二つのうちどちらか、各々」が結び付いた語である。後半は現代英語の either と歴史的に対応する。したがって neither の基本構造は「二つのうち、どちらでもない」である。nor も否定を表す接続的な語として組み合わされ、neither ... nor ... という対応構文が定着した。",
+    "en": "Neither derives from Old English forms such as nawther and næther, combining a negative element with ægther, either or each of two. The latter element is historically related to modern either. The basic structure of neither therefore means not either one of two. Nor developed as a coordinating negative partner, producing the established correlative construction neither ... nor ...."
+  },
+  "synonyms": [
+    {
+      "word": "not either",
+      "note": {
+        "ja": "二つのうちどちらも該当しないことを分析的に表す。",
+        "en": "An analytical expression indicating that neither one of two alternatives applies."
+      }
+    },
+    {
+      "word": "none",
+      "note": {
+        "ja": "ある集合の中で一人・一個も該当しないことを表し、特に三つ以上に用いる。",
+        "en": "Means not one member of a group and is especially appropriate for three or more alternatives."
+      }
+    },
+    {
+      "word": "nor",
+      "note": {
+        "ja": "先行する否定に、もう一つの否定要素を加える接続詞・副詞。",
+        "en": "A conjunction or adverb adding a further negative alternative to an earlier negative statement."
+      }
+    },
+    {
+      "word": "not one nor the other",
+      "note": {
+        "ja": "二つのうち一方も他方も該当しないことを明示する表現。",
+        "en": "An explicit expression meaning not the first and not the second of two alternatives."
+      }
+    },
+    {
+      "word": "neither one",
+      "note": {
+        "ja": "二つのうちどちらの一つも該当しないことを強調する。",
+        "en": "Emphasizes that not even one of the two alternatives applies."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "keiner von beiden / weder ... noch",
+    "it": "nessuno dei due / né ... né",
+    "fr": "ni l’un ni l’autre / ni ... ni",
+    "es": "ninguno de los dos / ni ... ni"
+  },
+  "collocations": {
+    "ja": [
+      "neither answer — どちらの答えも～ない",
+      "neither option — どちらの選択肢も～ない",
+      "neither side — どちら側も～ない",
+      "neither person — どちらの人も～ない",
+      "neither of them — その二人・二つのどちらも～ない",
+      "neither of the two — その二つのどちらも～ない",
+      "neither one — どちらも～ない",
+      "neither A nor B — AもBも～ない",
+      "neither here nor there — 本題と関係のない、重要でない",
+      "neither more nor less — 多くも少なくもなく、まさに",
+      "Neither do I. — 私もそうではありません",
+      "Me neither. — 私も（そうではない）"
+    ],
+    "en": [
+      "neither answer",
+      "neither option",
+      "neither side",
+      "neither person",
+      "neither of them",
+      "neither of the two",
+      "neither one",
+      "neither A nor B",
+      "neither here nor there",
+      "neither more nor less",
+      "Neither do I.",
+      "Me neither."
+    ]
+  },
+  "example": {
+    "ja": [
+      "Neither answer is completely correct. — どちらの答えも完全には正しくない。",
+      "Neither of us knew how to operate the machine. — 私たち二人のどちらも、その機械の操作方法を知らなかった。",
+      "Neither the manager nor the employees were satisfied with the proposal. — 部長も従業員たちも、その提案に満足していなかった。",
+      "“I don’t enjoy crowded restaurants.” “Me neither.” — 「混雑したレストランは好きではありません」「私もです」",
+      "Neither the patent owner nor the licensee may disclose the confidential technical information without written consent. — 特許権者もライセンシーも、書面による同意なく秘密の技術情報を開示してはならない。"
+    ],
+    "en": [
+      "Neither answer is completely correct.",
+      "Neither of us knew how to operate the machine.",
+      "Neither the manager nor the employees were satisfied with the proposal.",
+      "“I don’t enjoy crowded restaurants.” “Me neither.”",
+      "Neither the patent owner nor the licensee may disclose the confidential technical information without written consent."
+    ]
+  }
+},
+{
   "id": "either",
   "sid": "2026-01322",
   "word": "either",
