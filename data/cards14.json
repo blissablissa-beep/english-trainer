@@ -1,5 +1,204 @@
 [
 {
+  "id": "either",
+  "sid": "2026-01322",
+  "word": "either",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "determiner",
+    "pronoun",
+    "conjunction",
+    "adverb",
+    "choice",
+    "alternative",
+    "agreement",
+    "coordination",
+    "negation",
+    "grammar",
+    "conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "determiner / pronoun / conjunction / adverb",
+    "countability": "not applicable",
+    "forms": {
+      "base": "either",
+      "correlative_partner": "or",
+      "negative_counterpart": "neither",
+      "conjunction": "either ... or ...",
+      "negative_adverbial_pattern": "not ... either"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "either + singular noun",
+      "either of + plural noun phrase",
+      "either of + object pronoun",
+      "either ... or ...",
+      "either A or B",
+      "not ... either",
+      "I don’t either.",
+      "either one",
+      "on either side",
+      "either of whom / which"
+    ],
+    "usage": {
+      "determiner": "Before a noun, either normally modifies a singular countable noun: either answer, not either answers.",
+      "pronoun": "Either can stand alone for either one of two alternatives: Either will be acceptable.",
+      "of_pattern": "Either of is followed by a plural noun phrase or object pronoun: either of the answers; either of them.",
+      "agreement": "Formal usage often prefers a singular verb after either of, although plural agreement occurs in informal English.",
+      "correlative": "Either ... or ... presents two alternatives, possibilities, or coordinated elements.",
+      "proximity_agreement": "With either ... or ..., a verb often agrees with the nearer subject; rewriting can be clearer when the subjects differ in number.",
+      "negative_adverb": "At the end of a negative clause, either means also: I don’t know either.",
+      "both_sides": "Either can mean each of two in expressions such as on either side of the road, which commonly means on both sides.",
+      "two_alternatives": "Either traditionally concerns two alternatives; any is generally preferred when selecting freely from three or more."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈiːðər/ or /ˈaɪðər/",
+      "uk": "/ˈaɪðə/ or /ˈiːðə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "二つのうち、どちらか一方の",
+      "二つの選択肢のうち、どちらを選んでも",
+      "either A or B の形で、AかBのいずれか",
+      "否定文の末尾で、～もまた…ない",
+      "特定の表現で、二つの各々・両方",
+      "条件や文脈によって選択可能な二つの代替案を示す語"
+    ],
+    "en": [
+      "one or the other of two people or things",
+      "whichever one of two alternatives is selected",
+      "in either A or B, one of the two alternatives",
+      "at the end of a negative clause, also not",
+      "in certain expressions, each of two or both",
+      "a word presenting two available choices, possibilities, or alternatives"
+    ]
+  },
+  "nuance": {
+    "ja": "either は原則として二つの選択肢を扱い、「どちらか一方」または「どちらでも」を表す。You can choose either option. は二つの選択肢のどちらを選んでもよいという意味で、Choose either A or B. はAかBのいずれか一つを選ぶことを明示する。either of the options の後では、形式的な英語では単数動詞が好まれるが、会話では複数動詞も見られる。on either side の either は「片側だけ」ではなく、通常「両側に」を意味する点に注意が必要である。否定文の末尾では also の否定形に相当し、I don’t like it either. は「私もそれが好きではない」となる。either ... or ... で主語を結ぶ場合、動詞は近い方の主語に一致することが多いが、単複が混在すると不自然になりやすいため、文を書き換える方が明確な場合もある。",
+    "en": "Either normally concerns two alternatives and means one or the other or whichever of the two is chosen. You can choose either option permits the selection of either one, while Choose either A or B explicitly presents the two alternatives. After either of, formal English generally prefers a singular verb, although plural agreement occurs in conversation. In on either side, either commonly means each of the two and therefore both sides, not merely one side. At the end of a negative clause, either corresponds to also under negation: I don’t like it either. When either ... or ... coordinates subjects, the verb often agrees with the nearer subject, but a sentence containing subjects of different numbers may be clearer if rewritten."
+  },
+  "minimal": {
+    "ja": [
+      "either：二つのうちどちらか一方、どちらでも、または否定文で「～もまた…ない」。",
+      "neither：二つのうちどちらも～ない、または否定文への「私も～ない」という同意。",
+      "both：二つの人・物を合わせた双方。",
+      "any：三つ以上を含む集合から、どれでも・誰でも。",
+      "either ... or ...：AかBのどちらか。",
+      "neither ... nor ...：AもBも～ない。",
+      "also：肯定文で「～もまた」を表す。",
+      "too：通常、肯定文の末尾で「～もまた」を表す口語的な語。"
+    ],
+    "en": [
+      "either means one or the other of two, whichever one is chosen, or also not in a negative clause.",
+      "neither means not either of two alternatives or expresses agreement with a negative statement.",
+      "both means the two people or things considered together.",
+      "any permits selection from a group that may contain three or more alternatives.",
+      "either ... or ... presents A and B as alternatives.",
+      "neither ... nor ... excludes both A and B.",
+      "also adds a person, thing, or fact in an affirmative statement.",
+      "too commonly means also at the end of an affirmative clause."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 ægþer「二つの各々、二つのうちどちらか」に由来する。この語は「常に、いずれも」に関係する要素と、「二つのうちどちら」を表す要素から形成されたとされる。もともと「二つの各々」という意味と「二つのうちどちらか」という意味の双方を持っていたため、現代英語でも either option「どちらかの選択肢」と on either side「両側に」という二つの用法が共存している。否定形 neither も歴史的に同じ語を基礎としている。",
+    "en": "Either derives from Old English ægther, meaning each of two or one of two. The formation contained elements associated with each or always and with which of two. Because the earlier word could mean both each of the two and one or the other of the two, modern English retains both uses: either option means whichever one of two options, while on either side commonly means on each of the two sides. The negative form neither developed historically from the same base."
+  },
+  "synonyms": [
+    {
+      "word": "either one",
+      "note": {
+        "ja": "二つのうち、どちらを選んでもよいことを明示する。",
+        "en": "Explicitly indicates that either one of two alternatives may be selected."
+      }
+    },
+    {
+      "word": "one or the other",
+      "note": {
+        "ja": "二つのうち一方を選ぶことを分析的に表す。",
+        "en": "An analytical expression meaning one of two alternatives, but not specifying which."
+      }
+    },
+    {
+      "word": "whichever",
+      "note": {
+        "ja": "選択肢の中からどれを選んでも結果に違いがないことを強調する。",
+        "en": "Emphasizes that the result applies regardless of which available alternative is chosen."
+      }
+    },
+    {
+      "word": "also",
+      "note": {
+        "ja": "肯定文で情報を付け加える「～もまた」。否定文では通常 either を用いる。",
+        "en": "Adds information affirmatively; either is normally used instead at the end of a negative clause."
+      }
+    },
+    {
+      "word": "any",
+      "note": {
+        "ja": "数を二つに限定せず、集合の中のどれでもよいことを表す。",
+        "en": "Allows selection from a group without limiting the number of alternatives to two."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "einer von beiden / entweder ... oder / auch nicht",
+    "it": "uno dei due / o ... o / neanche",
+    "fr": "l’un ou l’autre / soit ... soit / non plus",
+    "es": "cualquiera de los dos / o ... o / tampoco"
+  },
+  "collocations": {
+    "ja": [
+      "either answer — どちらかの答え、どちらの答えでも",
+      "either option — どちらかの選択肢、どちらでも",
+      "either side — どちらか一方、文脈により両側の各々",
+      "either way — どちらにしても",
+      "either one — 二つのうちどちらか",
+      "either of them — その二人・二つのどちらか",
+      "either of the two — その二つのどちらか",
+      "either A or B — AかBのどちらか",
+      "on either side — 両側に",
+      "at either end — 両端に、どちらかの端に",
+      "I don’t either. — 私もそうではありません",
+      "I can’t either. — 私もできません"
+    ],
+    "en": [
+      "either answer",
+      "either option",
+      "either side",
+      "either way",
+      "either one",
+      "either of them",
+      "either of the two",
+      "either A or B",
+      "on either side",
+      "at either end",
+      "I don’t either.",
+      "I can’t either."
+    ]
+  },
+  "example": {
+    "ja": [
+      "Either answer would be acceptable in this context. — この文脈では、どちらの答えでも認められるでしょう。",
+      "You can contact either of us if you need further assistance. — さらに援助が必要であれば、私たち二人のどちらに連絡しても構いません。",
+      "Either the manager or the employees have to open the office tomorrow. — 部長か従業員たちのどちらかが、明日事務所を開けなければならない。",
+      "“I don’t understand the final paragraph.” “I don’t either.” — 「最後の段落が理解できません」「私もです」",
+      "The applicant must either amend the patent claim or explain why the cited document does not disclose the disputed feature. — 出願人は、特許請求項を補正するか、引用文献が争点となっている特徴を開示していない理由を説明しなければならない。"
+    ],
+    "en": [
+      "Either answer would be acceptable in this context.",
+      "You can contact either of us if you need further assistance.",
+      "Either the manager or the employees have to open the office tomorrow.",
+      "“I don’t understand the final paragraph.” “I don’t either.”",
+      "The applicant must either amend the patent claim or explain why the cited document does not disclose the disputed feature."
+    ]
+  }
+},
+{
   "id": "whichever",
   "sid": "2026-01323",
   "word": "whichever",
