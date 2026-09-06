@@ -1,5 +1,203 @@
 [
 {
+  "id": "economy",
+  "sid": "2026-01313",
+  "word": "economy",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "economics",
+    "economic system",
+    "country",
+    "production",
+    "consumption",
+    "trade",
+    "saving",
+    "efficiency",
+    "travel",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / attributive modifier",
+    "countability": "countable for an economic system; uncountable for careful use of resources and economy-class travel",
+    "plural": "economies",
+    "forms": {
+      "singular": "economy",
+      "plural": "economies",
+      "adjective": "economic / economical",
+      "adverb": "economically",
+      "field_noun": "economics",
+      "person_noun": "economist",
+      "attributive": "economy"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an economy",
+      "the national / global / local economy",
+      "a market / planned / mixed economy",
+      "the economy grows / expands / contracts",
+      "stimulate / strengthen / damage the economy",
+      "the state / health of the economy",
+      "an economy of + resource",
+      "for reasons of economy",
+      "economy in the use of + noun",
+      "travel / fly economy"
+    ],
+    "usage": {
+      "economic_system": "As a countable noun, an economy is the system through which a country, region, or community produces, distributes, and consumes goods and services.",
+      "resource_saving": "As an uncountable noun, economy means careful and efficient use of money, time, materials, or effort.",
+      "travel": "Economy or economy class is the standard lower-priced passenger class on an aircraft or other form of transport.",
+      "attributive": "Before another noun, economy can mean inexpensive or designed to offer good value: an economy fare or economy pack.",
+      "economic_economical": "Economic usually means relating to the economy, while economical means avoiding unnecessary expense or waste.",
+      "economics_warning": "Economics is the academic field; economy is the system or condition being studied.",
+      "agreement": "The singular economy takes a singular verb: The economy is growing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪˈkɑːnəmi/",
+      "uk": "/ɪˈkɒnəmi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "国・地域・社会における生産・流通・消費・雇用・取引の仕組み、経済",
+      "特定の国・地域・産業などの経済状態または経済活動",
+      "金銭・時間・材料・労力などを無駄なく使うこと、節約・効率",
+      "飛行機などで最も標準的かつ低価格の座席区分、エコノミークラス",
+      "形容詞的に、価格を抑えた、経済的な、標準的な"
+    ],
+    "en": [
+      "the system through which a country or community produces, distributes, and consumes goods and services",
+      "the economic activity or condition of a particular country, region, or industry",
+      "careful and efficient use of money, time, materials, or effort",
+      "the standard and usually least expensive passenger class on an aircraft or other transport",
+      "attributively, inexpensive, cost-saving, or designed to provide good value"
+    ]
+  },
+  "nuance": {
+    "ja": "economy の中心的な意味は、限られた資源を管理・配分する仕組みである。the Japanese economy なら、日本における生産・雇用・消費・投資・貿易などの経済活動全体を指す。複数形 economies は、the world’s major economies のように各国・地域の経済を個別の制度として数える場合に使われる。一方、for reasons of economy や economy of effort の economy は、資金・材料・労力を無駄なく使う「節約・効率」を意味し、通常は不可算である。economy class は旅行上の低価格な標準座席区分であり、単に economy ともいう。economic は「経済に関する」、economical は「無駄がなく費用が少ない」という違いがある。economics は経済を研究する学問で、economy そのものとは区別される。",
+    "en": "The central idea of economy is the management and allocation of limited resources. The Japanese economy refers to the combined production, employment, consumption, investment, and trade occurring in Japan. The plural economies treats different national or regional systems separately, as in the world’s major economies. In for reasons of economy or economy of effort, however, economy is uncountable and means avoiding unnecessary expenditure or waste. Economy class is the standard lower-priced category of passenger travel and is often shortened simply to economy. Economic normally means relating to the economy, while economical means efficient and not unnecessarily expensive. Economics is the academic discipline that studies economies and should be distinguished from the system or condition called an economy."
+  },
+  "minimal": {
+    "ja": [
+      "economy：国・地域の生産・消費・取引の仕組み、または資源を無駄なく使うこと。",
+      "economics：生産・消費・市場・資源配分などを研究する経済学。",
+      "economic：経済・経済活動・採算などに関する。",
+      "economical：費用・燃料・時間などの無駄が少なく、経済的な。",
+      "finance：資金の調達・管理・投資を扱う活動または分野。",
+      "market：商品・サービス・資産が売買され、価格が形成される場や仕組み。",
+      "industry：特定の商品・サービスを生産・提供する企業群または産業分野。",
+      "saving：金銭・時間・資源などを使わずに残すこと、または削減できた量。"
+    ],
+    "en": [
+      "an economy is a system of production and consumption or the careful use of limited resources.",
+      "economics is the academic study of production, consumption, markets, and resource allocation.",
+      "economic means relating to the economy, economic activity, or commercial viability.",
+      "economical means efficient and not requiring unnecessary money, fuel, time, or materials.",
+      "finance is the activity or field of raising, managing, lending, and investing money.",
+      "a market is a system or place in which goods, services, or assets are exchanged and priced.",
+      "an industry is the group of businesses producing a particular category of goods or services.",
+      "saving is the act of keeping money or resources for later or the amount by which use or cost is reduced."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシャ語 oikonomia「家政、家の管理」に由来し、ラテン語 oeconomia、フランス語 économie を経て英語に入った。oikonomia は oikos「家、世帯」と nomos「規則、管理」、または nemein「配分する、管理する」に関係する要素から成る。もとは世帯の財産や資源を適切に管理することを意味したが、後に国家・社会全体の資源、生産、交換を管理する仕組みへ意味が拡大した。「節約」という意味も、限られた資源を慎重に管理するという原義から発達した。",
+    "en": "Economy derives from Greek oikonomia, household management, and entered English through Latin oeconomia and French économie. Oikonomia combines oikos, house or household, with an element related to nomos, rule or management, and nemein, to distribute or manage. It originally referred to the proper administration of a household and its property. The meaning expanded to the management and organization of production, resources, and exchange throughout a state or society. The sense of thrift or efficiency likewise developed from the original idea of managing limited resources carefully."
+  },
+  "synonyms": [
+    {
+      "word": "economic system",
+      "note": {
+        "ja": "社会が資源を配分し、商品・サービスを生産・流通・消費する仕組みを明示する。",
+        "en": "Explicitly describes the system through which a society allocates resources and produces, distributes, and consumes goods and services."
+      }
+    },
+    {
+      "word": "thrift",
+      "note": {
+        "ja": "金銭や物資を浪費せず、慎重に使用・貯蓄する態度。",
+        "en": "The habit of using and saving money or materials carefully rather than wasting them."
+      }
+    },
+    {
+      "word": "efficiency",
+      "note": {
+        "ja": "最小限の時間・費用・労力・資源で、望む結果を得る能力。",
+        "en": "The ability to obtain a desired result with minimal time, cost, effort, or resources."
+      }
+    },
+    {
+      "word": "frugality",
+      "note": {
+        "ja": "支出を抑え、必要以上に金銭や資源を使わない倹約。",
+        "en": "Careful restraint in spending and avoidance of unnecessary use of money or resources."
+      }
+    },
+    {
+      "word": "market",
+      "note": {
+        "ja": "売り手と買い手の取引によって、商品・サービス・資産の価格が形成される仕組み。",
+        "en": "A mechanism through which buyers and sellers exchange and determine the price of goods, services, or assets."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Wirtschaft / Sparsamkeit / Economy-Klasse",
+    "it": "economia / classe economica",
+    "fr": "économie / classe économique",
+    "es": "economía / clase económica"
+  },
+  "collocations": {
+    "ja": [
+      "the global economy — 世界経済",
+      "the national economy — 国民経済",
+      "a market economy — 市場経済",
+      "a planned economy — 計画経済",
+      "a mixed economy — 混合経済",
+      "a strong economy — 好調な経済",
+      "stimulate the economy — 経済を刺激する",
+      "the economy grows — 経済が成長する",
+      "the economy contracts — 経済が縮小する",
+      "for reasons of economy — 節約上の理由で",
+      "economy of effort — 労力の節約",
+      "fly economy — エコノミークラスで飛行機に乗る"
+    ],
+    "en": [
+      "the global economy",
+      "the national economy",
+      "a market economy",
+      "a planned economy",
+      "a mixed economy",
+      "a strong economy",
+      "stimulate the economy",
+      "the economy grows",
+      "the economy contracts",
+      "for reasons of economy",
+      "economy of effort",
+      "fly economy"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Consumer spending plays an important role in the national economy. — 個人消費は国民経済において重要な役割を果たす。",
+      "The central bank reduced interest rates in an attempt to stimulate the economy. — 中央銀行は経済を刺激するため、金利を引き下げた。",
+      "The design achieves an economy of space by allowing the chairs to be folded. — その設計では椅子を折り畳めるようにすることで、空間を効率的に利用している。",
+      "We flew economy but paid extra for seats with additional legroom. — 私たちはエコノミークラスを利用したが、足元の広い座席には追加料金を支払った。",
+      "A strong system for protecting patents and trademarks can encourage innovation and contribute to the wider economy. — 特許・商標を保護する強固な制度は、革新を促し、より広い経済全体に貢献し得る。"
+    ],
+    "en": [
+      "Consumer spending plays an important role in the national economy.",
+      "The central bank reduced interest rates in an attempt to stimulate the economy.",
+      "The design achieves an economy of space by allowing the chairs to be folded.",
+      "We flew economy but paid extra for seats with additional legroom.",
+      "A strong system for protecting patents and trademarks can encourage innovation and contribute to the wider economy."
+    ]
+  }
+},
+{
   "id": "currency",
   "sid": "2026-01314",
   "word": "currency",
