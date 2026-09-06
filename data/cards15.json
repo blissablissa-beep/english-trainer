@@ -1,5 +1,203 @@
 [
 {
+  "id": "mundane",
+  "sid": "2026-01396",
+  "word": "mundane",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "ordinary",
+    "everyday life",
+    "routine",
+    "boring",
+    "practical",
+    "worldly",
+    "secular",
+    "work",
+    "criticism",
+    "formal",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "mundane",
+      "comparative": "more mundane",
+      "superlative": "most mundane",
+      "adverb": "mundanely",
+      "noun": "mundaneness",
+      "related_noun": "mundanity",
+      "opposite": "extraordinary"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a mundane + task / activity",
+      "mundane work / details",
+      "mundane aspects of + noun",
+      "mundane concerns / matters",
+      "seem / sound / become mundane",
+      "make something seem mundane",
+      "from the extraordinary to the mundane",
+      "rise above the mundane",
+      "the mundane world",
+      "a relatively mundane explanation"
+    ],
+    "usage": {
+      "ordinary": "Mundane commonly describes an ordinary, repetitive, or practical part of daily life.",
+      "boring": "It often suggests dullness or lack of excitement, though it can neutrally distinguish routine matters from exceptional ones.",
+      "objects": "It commonly modifies tasks, routines, details, concerns, explanations, and aspects of life.",
+      "people": "It is usually more natural to describe a person’s life, work, or interests as mundane than to call the person mundane.",
+      "worldly": "In formal, literary, philosophical, or religious contexts, mundane can mean belonging to the earthly world rather than the spiritual or heavenly realm.",
+      "comparison": "More mundane and most mundane are standard.",
+      "pronunciation": "Both /mʌnˈdeɪn/ and /ˈmʌndeɪn/ occur; second-syllable stress is common in American English.",
+      "register": "It is more formal than everyday expressions such as boring, routine, or ordinary."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/mʌnˈdeɪn/; also /ˈmʌndeɪn/",
+      "uk": "/ˈmʌndeɪn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "日常的で特別なところのない、平凡な",
+      "反復的で刺激や面白みに欠ける",
+      "実務的・現実的で、華やかさのない",
+      "物事の通常・基本的な側面に関する",
+      "形式的・文学的に、精神的・天上のものではなく地上世界に属する"
+    ],
+    "en": [
+      "ordinary and belonging to everyday life",
+      "repetitive and lacking excitement or interest",
+      "practical and unglamorous rather than exceptional",
+      "concerned with the routine or basic aspects of something",
+      "formally or literarily, belonging to the earthly world rather than a spiritual or heavenly realm"
+    ]
+  },
+  "nuance": {
+    "ja": "mundane は、日常生活に属し、特別・劇的・刺激的ではないものを表す。mundane tasks は、掃除・書類整理・データ入力など、必要ではあるが面白みに乏しい日常的作業を指す。boring が話者の主観的な退屈を直接示すのに対し、mundane は対象が反復的・平凡・実務的であることをやや距離を置いて表す。ordinary より「華やかさや新鮮味に欠ける」という含みが強いが、必ずしも強い批判ではない。the mundane details that keep a business running のように、目立たないが必要な事柄を肯定的に捉えることもできる。哲学・宗教・文学では、mundane world が「天上・精神世界に対する現世」を意味する。",
+    "en": "Mundane describes something belonging to ordinary life and lacking an exceptional, dramatic, or stimulating quality. Mundane tasks include necessary but unexciting activities such as cleaning, filing documents, and entering data. Boring directly expresses the speaker’s experience of being uninterested, whereas mundane more objectively characterizes something as repetitive, ordinary, or practical. It has a stronger suggestion of lacking glamour or freshness than ordinary, but it is not invariably harsh. In the mundane details that keep a business running, the word may positively acknowledge necessary work that receives little attention. In philosophical, religious, and literary contexts, the mundane world means the earthly realm as opposed to a heavenly or spiritual one."
+  },
+  "minimal": {
+    "ja": [
+      "mundane：日常的・反復的で、特別な刺激や華やかさに欠ける。",
+      "ordinary：普通で特別ではない。最も中立的で、退屈とは限らない。",
+      "banal：ありふれ、使い古されて独創性や知的な面白みに欠ける。",
+      "routine：決まった手順で定期的に行われる、または通常の。",
+      "boring：人に興味や刺激を与えず、退屈に感じさせる。",
+      "tedious：長く単調で、うんざりするほど退屈な。",
+      "prosaic：詩的・想像的・理想的ではなく、実際的で平凡な。",
+      "worldly：精神的・宗教的なものより、世俗的な生活・富・経験に関する。"
+    ],
+    "en": [
+      "mundane means ordinary, routine, practical, and lacking excitement or glamour.",
+      "ordinary means normal and not special and is the most neutral term.",
+      "banal means commonplace and lacking originality or intellectual interest through overuse.",
+      "routine means regularly performed according to an established procedure or otherwise usual.",
+      "boring means causing a person to feel uninterested and lacking stimulation.",
+      "tedious describes something so long and monotonous that it becomes tiresome.",
+      "prosaic means practical and commonplace rather than poetic, imaginative, or idealistic.",
+      "worldly relates to secular life, wealth, and practical experience rather than spiritual matters."
+    ]
+  },
+  "etymology": {
+    "ja": "mundane はフランス語 mondain やラテン語 mundanus「世界の、世俗の」を経て、ラテン語 mundus「世界」に由来する。もともとは天上・精神的領域に対する「地上世界に属する」という意味であった。そこから、現世の日常的な事柄、さらに「普通の、平凡で刺激のない」という現在の一般的意味が発達した。同じラテン語 mundus から、フランス語 monde、イタリア語 mondo、スペイン語 mundo などの「世界」を表す語も生まれている。",
+    "en": "Mundane comes through French mondain and Latin mundanus, meaning of the world or earthly, from Latin mundus, world. Its original sense concerned belonging to the earthly realm as opposed to a heavenly or spiritual sphere. From earthly affairs, it developed associations with the ordinary matters of daily life and eventually the common modern meaning routine, unexceptional, and lacking excitement. The same Latin noun mundus produced words for world such as French monde, Italian mondo, and Spanish mundo."
+  },
+  "synonyms": [
+    {
+      "word": "ordinary",
+      "note": {
+        "ja": "一般的・通常であり、際立って特別ではないことを中立的に表す。",
+        "en": "Neutrally describes something normal, usual, and not especially remarkable."
+      }
+    },
+    {
+      "word": "routine",
+      "note": {
+        "ja": "定期的に同じ方法で繰り返される、または特別な問題のない通常の事柄。",
+        "en": "Describes something regularly repeated in the same way or otherwise standard and unexceptional."
+      }
+    },
+    {
+      "word": "prosaic",
+      "note": {
+        "ja": "想像力・詩情・理想性に欠け、現実的で平凡なことを表す。",
+        "en": "Describes something practical and commonplace rather than imaginative, poetic, or idealistic."
+      }
+    },
+    {
+      "word": "commonplace",
+      "note": {
+        "ja": "頻繁に見られるため、珍しさ・新鮮さ・目立った特徴がない。",
+        "en": "Describes something frequently encountered and therefore lacking novelty or distinction."
+      }
+    },
+    {
+      "word": "humdrum",
+      "note": {
+        "ja": "生活・仕事などが変化に乏しく、単調で退屈なことを表す。",
+        "en": "Describes a life or activity that is monotonous, uneventful, and dull."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "alltäglich / banal / weltlich",
+    "it": "mondano / banale / quotidiano",
+    "fr": "banal / terre-à-terre / mondain",
+    "es": "mundano / cotidiano / trivial"
+  },
+  "collocations": {
+    "ja": [
+      "a mundane task — 平凡で日常的な作業",
+      "mundane work — 地味で単調な仕事",
+      "a mundane routine — 変化に乏しい日課",
+      "mundane details — 日常的で細かな事柄",
+      "mundane activities — 平凡な日常活動",
+      "mundane concerns — 世俗的・日常的な関心事",
+      "mundane matters — 日常の実務的な事柄",
+      "the mundane aspects of life — 生活の平凡な側面",
+      "a mundane explanation — ごく普通で現実的な説明",
+      "seem mundane — 平凡に見える",
+      "rise above the mundane — 平凡な日常を超越する",
+      "the mundane world — 現世・地上世界"
+    ],
+    "en": [
+      "a mundane task",
+      "mundane work",
+      "a mundane routine",
+      "mundane details",
+      "mundane activities",
+      "mundane concerns",
+      "mundane matters",
+      "the mundane aspects of life",
+      "a mundane explanation",
+      "seem mundane",
+      "rise above the mundane",
+      "the mundane world"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The job involves several mundane tasks, such as entering data and organizing files. — その仕事には、データ入力や書類整理など、いくつかの単調な作業が含まれる。",
+      "Even the most mundane routine can become meaningful when shared with someone you love. — どれほど平凡な日課でも、愛する人と共にすれば意味のあるものになり得る。",
+      "The cause of the problem was surprisingly mundane: someone had disconnected the cable. — 問題の原因は驚くほどありふれたもので、誰かがケーブルを抜いていたのだった。",
+      "She transformed mundane scenes from everyday life into memorable works of art. — 彼女は日常生活の平凡な光景を、記憶に残る芸術作品へ変えた。",
+      "Many patent disputes turn not on dramatic technological breakthroughs but on the mundane task of interpreting precisely what the claims say. — 多くの特許紛争を左右するのは劇的な技術革新ではなく、請求項に何が記載されているかを正確に解釈するという地道な作業である。"
+    ],
+    "en": [
+      "The job involves several mundane tasks, such as entering data and organizing files.",
+      "Even the most mundane routine can become meaningful when shared with someone you love.",
+      "The cause of the problem was surprisingly mundane: someone had disconnected the cable.",
+      "She transformed mundane scenes from everyday life into memorable works of art.",
+      "Many patent disputes turn not on dramatic technological breakthroughs but on the mundane task of interpreting precisely what the claims say."
+    ]
+  }
+},
+{
   "id": "novelty",
   "sid": "2026-01397",
   "word": "novelty",
