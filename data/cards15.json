@@ -1,5 +1,202 @@
 [
 {
+  "id": "deductive",
+  "sid": "2026-01357",
+  "word": "deductive",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "reasoning",
+    "logic",
+    "inference",
+    "argument",
+    "evidence",
+    "philosophy",
+    "mathematics",
+    "science",
+    "research",
+    "legal",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "deductive",
+      "comparative": "more deductive",
+      "superlative": "most deductive",
+      "noun": "deduction",
+      "verb": "deduce",
+      "adverb": "deductively",
+      "related_noun": "deductive reasoning"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "deductive + reasoning / logic / argument",
+      "a deductive approach",
+      "a deductive inference",
+      "a deductive conclusion",
+      "a deductive proof",
+      "reason deductively",
+      "derive something through deductive reasoning",
+      "proceed from + general principle + to + particular conclusion",
+      "distinguish deductive reasoning from inductive reasoning",
+      "be deductively valid"
+    ],
+    "usage": {
+      "reasoning": "Deductive reasoning applies premises, rules, or general principles to derive a logically necessary conclusion.",
+      "validity": "A deductive argument is valid when its conclusion cannot be false if all its premises are true.",
+      "soundness": "A sound deductive argument is both valid and based entirely on true premises.",
+      "certainty": "Deduction guarantees the conclusion only when the argument is valid and the premises are true.",
+      "research": "A deductive research approach commonly begins with an existing theory or hypothesis and tests it against observations or data.",
+      "contrast": "Deductive is commonly contrasted with inductive, which develops or supports a generalization from particular observations.",
+      "spelling": "Deductive is related to deduce and deduction; do not confuse it with deductible, which means capable of being subtracted or allowed as a tax deduction."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈdʌktɪv/",
+      "uk": "/dɪˈdʌktɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "一般的な原則・規則・前提から個別の結論を導く、演繹的な",
+      "前提が真であれば結論も必然的に真となる論理的推論に関する",
+      "理論・仮説を先に設定し、観察やデータによって検証する研究方法の",
+      "既知の事実や証拠を論理的に組み合わせて結論を導く",
+      "数学・論理学において、認められた前提から厳密に証明する"
+    ],
+    "en": [
+      "reasoning from general principles, rules, or premises to a particular conclusion",
+      "relating to an inference in which a true conclusion necessarily follows from true premises",
+      "for research, beginning with a theory or hypothesis and testing it against observations or data",
+      "using known facts or evidence in a logically structured way to derive a conclusion",
+      "for mathematics or logic, establishing a proposition rigorously from accepted premises"
+    ]
+  },
+  "nuance": {
+    "ja": "deductive は、一般原則や前提を個別の事例に適用して結論を導く推論を表す。典型例は「すべての人間は死ぬ。ソクラテスは人間である。したがってソクラテスは死ぬ」という三段論法である。演繹的な論証では、前提が真で、かつ論証形式が妥当であれば、結論は必然的に真となる。ただし、論理形式が妥当でも前提自体が誤っていれば、結論の事実上の正しさは保証されない。このため、論理学では valid「妥当な」と sound「健全な」を区別する。inductive reasoning が複数の観察から一般的な傾向・法則を導くのに対し、deductive reasoning は既存の原則からその適用結果を導く。法律実務では、法規範を認定事実に適用して結論を得る過程に演繹的要素があるが、事実認定や法解釈には帰納・類推・価値判断も関与するため、法的推論のすべてが純粋に演繹的とは限らない。",
+    "en": "Deductive describes reasoning that applies general principles or premises to a particular case. A standard example is the syllogism: all humans are mortal; Socrates is human; therefore Socrates is mortal. In a deductive argument, the conclusion necessarily follows when the premises are true and the form of the argument is valid. A valid logical form alone, however, does not establish factual truth if one or more premises are false. Logic therefore distinguishes a valid argument from a sound argument, which is valid and has true premises. Inductive reasoning develops or supports a generalization from observations, whereas deductive reasoning derives the consequences of existing principles. Legal analysis contains a deductive element when a legal rule is applied to established facts, but fact-finding and legal interpretation may also involve induction, analogy, and evaluative judgment, so legal reasoning is not always purely deductive."
+  },
+  "minimal": {
+    "ja": [
+      "deductive：一般原則・前提から、論理的に必然となる個別の結論を導く「演繹的な」。",
+      "inductive：個別の観察・事例から、一般的な傾向や原則を導く「帰納的な」。",
+      "abductive：観察された事実を最もうまく説明する仮説を推定する「アブダクションによる」。",
+      "logical：推論が一貫した原則に従い、矛盾なく組み立てられている。",
+      "inferential：前提・証拠から結論を推論することに関する。",
+      "valid：論理学上、前提がすべて真なら結論が偽になり得ない論証形式の。",
+      "sound：演繹的論証が妥当であり、さらにすべての前提が真である。",
+      "deductible：金額から控除できる、または税務上控除対象となる。deductive とは別語。"
+    ],
+    "en": [
+      "deductive describes reasoning from general principles or premises to a logically necessary particular conclusion.",
+      "inductive describes reasoning from particular observations or cases toward a generalization.",
+      "abductive describes inferring the hypothesis that best explains an observed fact.",
+      "logical means consistently organized according to accepted principles of reasoning.",
+      "inferential relates broadly to drawing a conclusion from premises or evidence.",
+      "valid describes a logical form in which true premises cannot lead to a false conclusion.",
+      "sound describes a deductive argument that is valid and also has entirely true premises.",
+      "deductible means capable of being subtracted or claimed as a tax deduction and is distinct from deductive."
+    ]
+  },
+  "etymology": {
+    "ja": "deductive は、中世ラテン語 deductivus に由来し、その基礎にはラテン語 deducere「導き出す、連れて下る」がある。deducere は de-「離れて、下へ」と ducere「導く」から成る。与えられた原則や前提から結論を「導き出す」という発想が、論理学上の deduction「演繹」の意味へ発展した。deduce、deduction、deductively も同じ語族に属する。なお、金額を差し引く deduction も歴史的には同じ「取り去る、導き出す」という語源に由来するが、現代の deductive は主として論理的推論を表す。",
+    "en": "Deductive comes from Medieval Latin deductivus and is ultimately based on Latin deducere, meaning to lead away, lead down, or derive. Deducere consists of de-, away or down, and ducere, to lead. The idea of leading a conclusion out of given principles or premises developed into the logical sense of deduction. Deduce, deduction, and deductively belong to the same word family. The financial sense of deduction, involving the subtraction of an amount, shares the historical root, but deductive in present-day English principally concerns logical reasoning."
+  },
+  "synonyms": [
+    {
+      "word": "logical",
+      "note": {
+        "ja": "一貫した推論規則に従って結論へ至ることを広く表すが、必ずしも演繹だけを意味しない。",
+        "en": "Broadly describes reasoning that follows consistent principles, without being limited to deduction."
+      }
+    },
+    {
+      "word": "inferential",
+      "note": {
+        "ja": "前提・観察・証拠から何らかの結論を導く推論全般に関する。",
+        "en": "Relates generally to deriving a conclusion from premises, observations, or evidence."
+      }
+    },
+    {
+      "word": "syllogistic",
+      "note": {
+        "ja": "二つの前提から結論を導く三段論法、またはその形式に関する。",
+        "en": "Relates specifically to a syllogism or reasoning that derives a conclusion from two premises."
+      }
+    },
+    {
+      "word": "analytical",
+      "note": {
+        "ja": "対象を要素に分け、関係や原理を体系的に検討する。",
+        "en": "Describes systematically examining something by separating it into elements and relationships."
+      }
+    },
+    {
+      "word": "demonstrative",
+      "note": {
+        "ja": "論理学・哲学では、認められた前提から結論を厳密に証明する推論を表し得る。",
+        "en": "In logic or philosophy, can describe reasoning that rigorously proves a conclusion from accepted premises."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "deduktiv / schlussfolgernd",
+    "it": "deduttivo",
+    "fr": "déductif",
+    "es": "deductivo"
+  },
+  "collocations": {
+    "ja": [
+      "deductive reasoning — 演繹的推論",
+      "deductive logic — 演繹論理",
+      "a deductive argument — 演繹的論証",
+      "a deductive inference — 演繹的推論",
+      "a deductive conclusion — 演繹的に導かれた結論",
+      "a deductive proof — 演繹的証明",
+      "a deductive approach — 演繹的アプローチ",
+      "a deductive method — 演繹的方法",
+      "a deductive research design — 演繹型の研究設計",
+      "be deductively valid — 演繹的に妥当である",
+      "reason deductively — 演繹的に推論する",
+      "distinguish deductive reasoning from induction — 演繹的推論を帰納から区別する"
+    ],
+    "en": [
+      "deductive reasoning",
+      "deductive logic",
+      "a deductive argument",
+      "a deductive inference",
+      "a deductive conclusion",
+      "a deductive proof",
+      "a deductive approach",
+      "a deductive method",
+      "a deductive research design",
+      "be deductively valid",
+      "reason deductively",
+      "distinguish deductive reasoning from induction"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The conclusion follows from the premises by deductive reasoning. — その結論は、演繹的推論によって前提から導かれる。",
+      "A deductive argument may be logically valid even when one of its premises is false. — 演繹的論証は、その前提の一つが誤っていても、論理形式上は妥当である場合がある。",
+      "The researchers adopted a deductive approach by deriving testable hypotheses from the existing theory. — 研究者らは、既存の理論から検証可能な仮説を導く演繹的アプローチを採用した。",
+      "Her solution combined deductive logic with evidence gathered from direct observation. — 彼女の解決方法は、演繹論理と直接観察から得られた証拠を組み合わせたものだった。",
+      "Patent analysis is not purely deductive, because determining claim scope may also require interpretation, analogy, and evaluation of context. — 特許分析は純粋に演繹的なものではない。請求項の範囲を確定する際には、解釈・類推・文脈の評価も必要になり得るからである。"
+    ],
+    "en": [
+      "The conclusion follows from the premises by deductive reasoning.",
+      "A deductive argument may be logically valid even when one of its premises is false.",
+      "The researchers adopted a deductive approach by deriving testable hypotheses from the existing theory.",
+      "Her solution combined deductive logic with evidence gathered from direct observation.",
+      "Patent analysis is not purely deductive, because determining claim scope may also require interpretation, analogy, and evaluation of context."
+    ]
+  }
+},
+{
   "id": "inductive",
   "sid": "2026-01358",
   "word": "inductive",
