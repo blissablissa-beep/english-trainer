@@ -1,5 +1,208 @@
 [
 {
+  "id": "hassle",
+  "sid": "2026-01334",
+  "word": "hassle",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "inconvenience",
+    "difficulty",
+    "annoyance",
+    "argument",
+    "pressure",
+    "harassment",
+    "problem",
+    "conversation",
+    "informal",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable or uncountable as a noun",
+    "plural": "hassles",
+    "forms": {
+      "noun_singular": "hassle",
+      "noun_plural": "hassles",
+      "verb_base": "hassle",
+      "third_person": "hassles",
+      "past": "hassled",
+      "past_participle": "hassled",
+      "gerund": "hassling",
+      "adjective": "hassle-free"
+    },
+    "transitivity": "transitive when meaning annoy or pressure someone; intransitive when meaning argue or dispute",
+    "patterns": [
+      "a hassle",
+      "the hassle of + gerund",
+      "have a hassle with / over + noun",
+      "be worth the hassle",
+      "without any hassle",
+      "hassle + person",
+      "hassle someone about / over + noun",
+      "hassle someone into + gerund",
+      "hassle with someone over + noun",
+      "a hassle-free + noun"
+    ],
+    "usage": {
+      "countable": "A hassle means an inconvenient, annoying, or troublesome situation: Getting a refund was a hassle.",
+      "uncountable": "Hassle can be uncountable when referring generally to inconvenience or difficulty: without hassle.",
+      "verb_person": "To hassle someone means repeatedly annoy, pressure, question, or cause difficulty for that person.",
+      "argument": "Used intransitively, hassle can mean argue or dispute, especially over a minor matter.",
+      "of_pattern": "The hassle of is followed by a noun or gerund: the hassle of changing trains.",
+      "severity": "Hassle usually describes irritating inconvenience rather than a severe danger or disaster.",
+      "harass_contrast": "Hassle is informal and often less severe than harass, although repeated hassling can amount to harassment depending on the conduct.",
+      "register": "Highly natural in informal conversation; inconvenience, difficulty, administrative burden, or harass may be more suitable in formal writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈhæsəl/",
+      "uk": "/ˈhæsəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "時間・労力を余計に要する面倒なこと、厄介事",
+      "手続き・移動・交渉などに伴う煩わしさ・不便",
+      "人との小さな口論・もめ事",
+      "動詞として、人を繰り返し困らせる、うるさく言う",
+      "人に圧力をかけ、望まない行動を取らせようとする",
+      "細かな問題について人と争う、言い合う"
+    ],
+    "en": [
+      "an inconvenient or troublesome situation requiring unnecessary time or effort",
+      "annoyance or difficulty associated with a procedure, journey, purchase, or negotiation",
+      "a minor argument, dispute, or conflict",
+      "as a verb, to repeatedly annoy, question, or cause difficulty for someone",
+      "to pressure someone into doing something they may not wish to do",
+      "to argue or dispute with someone over a relatively minor matter"
+    ]
+  },
+  "nuance": {
+    "ja": "hassle は、重大な危機というより、余計な手間・待ち時間・交渉・書類作業などによって感じる「面倒くささ」を口語的に表す。Filling out the forms was a hassle. は、書類作成が不可能だったのではなく、煩雑で時間や労力を奪われたという意味である。trouble は問題・困難をより広く表し、inconvenience は丁寧で中立的、nuisance は迷惑を生じさせる人・物・状況に焦点を置く。動詞 hassle は Don’t hassle me. のように、人へ繰り返しうるさく言ったり圧力をかけたりすることを表し、名詞より批判的になりやすい。harass は反復的・深刻・違法になり得る嫌がらせにも使われる、より強く形式的な語であるため、通常の小さな面倒には hassle の方が自然である。",
+    "en": "Hassle informally describes inconvenience caused by extra effort, delay, negotiation, paperwork, or minor conflict rather than a major crisis. Filling out the forms was a hassle means that the task was burdensome and time-consuming, not necessarily impossible. Trouble is broader and can describe difficulties of any severity. Inconvenience is more neutral and polite, while nuisance focuses on a person, thing, or situation that repeatedly causes annoyance. As a verb, hassle is more directly critical: Don’t hassle me asks someone to stop repeatedly questioning, pressuring, or bothering the speaker. Harass is a stronger and more formal word that can describe persistent, severe, or legally actionable mistreatment; hassle is more natural for ordinary irritating pressure or inconvenience."
+  },
+  "minimal": {
+    "ja": [
+      "hassle：余計な時間・労力を要する面倒、または人にうるさく圧力をかけること。",
+      "trouble：問題・困難・心配・不都合を広く表す一般語。",
+      "inconvenience：予定・快適さを妨げる不便を表す、より中立的で丁寧な語。",
+      "bother：人を煩わせること、または手間をかけることを表す日常語。",
+      "nuisance：繰り返し迷惑・不便を生じさせる人・物・状況。",
+      "annoyance：いら立たせる出来事、またはいら立った感情。",
+      "harass：人を反復的・攻撃的に苦しめる。hassle より強く形式的。",
+      "fuss：重要でないことについて過度に心配・抗議・騒ぎ立てること。"
+    ],
+    "en": [
+      "a hassle is an irritating inconvenience requiring extra effort, while the verb means repeatedly bothering or pressuring someone.",
+      "trouble is the broad general term for a problem, difficulty, worry, or inconvenience.",
+      "inconvenience is a more neutral and polite term for disruption to comfort or plans.",
+      "bother is an everyday word for annoying someone or making an unnecessary effort.",
+      "a nuisance is a person, thing, or situation that repeatedly causes annoyance or inconvenience.",
+      "an annoyance is an irritating event or the feeling of being irritated.",
+      "harass means subjecting someone to persistent or aggressive mistreatment and is stronger and more formal than hassle.",
+      "fuss is excessive worry, complaint, or activity concerning something relatively unimportant."
+    ]
+  },
+  "etymology": {
+    "ja": "hassle は20世紀半ばにアメリカ英語で広まった比較的新しい語で、正確な起源は確定していない。haggle「値段などをめぐって言い争う」と tussle「もみ合う、争う」の影響を受けた混成語である可能性がしばしば指摘される。当初は口論・もめ事・人を困らせることを表し、そこから手続きや作業に伴う「面倒、煩わしさ」という現在の一般的な名詞用法が発達した。",
+    "en": "Hassle is a relatively recent word that became widespread in mid-twentieth-century American English. Its exact origin is uncertain. It is often suggested that the word was influenced by, or formed as a blend of, haggle, to argue over terms or price, and tussle, to struggle or fight. Its earlier uses involved disputes, arguments, and bothering another person. From these developed the now common noun sense of an inconvenient, troublesome, or unnecessarily demanding process."
+  },
+  "synonyms": [
+    {
+      "word": "inconvenience",
+      "note": {
+        "ja": "人の予定・快適さ・通常の行動を妨げる不便を、中立的・丁寧に表す。",
+        "en": "A neutral and polite term for something that disrupts a person’s plans, comfort, or ordinary activity."
+      }
+    },
+    {
+      "word": "bother",
+      "note": {
+        "ja": "人を煩わせる物事、または余計な手間・心配を表す口語的な語。",
+        "en": "An informal word for something that causes annoyance, worry, or unnecessary effort."
+      }
+    },
+    {
+      "word": "nuisance",
+      "note": {
+        "ja": "継続的・反復的に迷惑や不便を生じさせる人・物・問題。",
+        "en": "A person, thing, or problem that repeatedly causes annoyance or inconvenience."
+      }
+    },
+    {
+      "word": "aggravation",
+      "note": {
+        "ja": "面倒な状況によって生じるいら立ち、またはその原因。特にアメリカ英語で口語的。",
+        "en": "Irritation caused by a troublesome situation, or the source of that irritation, especially in informal American English."
+      }
+    },
+    {
+      "word": "harass",
+      "note": {
+        "ja": "人を繰り返し悩ませ、威圧し、または攻撃的に扱う、hassle より強い語。",
+        "en": "A stronger verb meaning to subject someone repeatedly to troubling, intimidating, or aggressive conduct."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Ärger / Aufwand / jemanden belästigen",
+    "it": "seccatura / fastidio / importunare",
+    "fr": "tracas / corvée / importuner",
+    "es": "molestia / lío / fastidiar"
+  },
+  "collocations": {
+    "ja": [
+      "a real hassle — 本当に面倒なこと",
+      "a major hassle — 大変な厄介事",
+      "an unnecessary hassle — 不要な手間",
+      "the hassle of travelling — 移動の煩わしさ",
+      "be worth the hassle — 手間をかける価値がある",
+      "avoid the hassle — 面倒を避ける",
+      "without any hassle — 何の面倒もなく",
+      "save someone the hassle — 人の手間を省く",
+      "hassle someone about money — 金銭について人にうるさく言う",
+      "hassle someone into agreeing — しつこく圧力をかけて人を同意させる",
+      "a hassle-free process — 手間のかからない手続き",
+      "a hassle-free return — 簡単で面倒のない返品"
+    ],
+    "en": [
+      "a real hassle",
+      "a major hassle",
+      "an unnecessary hassle",
+      "the hassle of travelling",
+      "be worth the hassle",
+      "avoid the hassle",
+      "without any hassle",
+      "save someone the hassle",
+      "hassle someone about money",
+      "hassle someone into agreeing",
+      "a hassle-free process",
+      "a hassle-free return"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Changing trains with several heavy bags was a real hassle. — 重いかばんをいくつも持って電車を乗り換えるのは、本当に面倒だった。",
+      "The application allows customers to change their booking without any hassle. — そのアプリを使えば、顧客は面倒なく予約を変更できる。",
+      "Don’t hassle her about the decision; she needs more time to think. — その決定について彼女にしつこく言わないでください。考える時間がもっと必要です。",
+      "Home delivery saves us the hassle of carrying everything from the shop. — 宅配を利用すれば、店からすべてを運ぶ手間が省ける。",
+      "The simplified filing system reduces the administrative hassle involved in renewing an international trademark registration. — 簡素化された出願システムにより、国際商標登録の更新に伴う事務的な手間が軽減される。"
+    ],
+    "en": [
+      "Changing trains with several heavy bags was a real hassle.",
+      "The application allows customers to change their booking without any hassle.",
+      "Don’t hassle her about the decision; she needs more time to think.",
+      "Home delivery saves us the hassle of carrying everything from the shop.",
+      "The simplified filing system reduces the administrative hassle involved in renewing an international trademark registration."
+    ]
+  }
+},
+{
   "id": "budget",
   "sid": "2026-01335",
   "word": "budget",
