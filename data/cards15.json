@@ -1,5 +1,204 @@
 [
 {
+  "id": "compare-apples-and-oranges",
+  "sid": "2026-01391",
+  "word": "compare apples and oranges",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "idiom",
+    "verb phrase",
+    "comparison",
+    "difference",
+    "incompatibility",
+    "logic",
+    "analysis",
+    "argument",
+    "statistics",
+    "business",
+    "figurative",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic verb phrase",
+    "forms": {
+      "base": "compare apples and oranges",
+      "third_person": "compares apples and oranges",
+      "past": "compared apples and oranges",
+      "past_participle": "compared apples and oranges",
+      "gerund": "comparing apples and oranges",
+      "variant_to": "compare apples to oranges",
+      "variant_with": "compare apples with oranges",
+      "related_expression": "an apples-to-oranges comparison"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "compare apples and oranges",
+      "compare apples to oranges",
+      "compare apples with oranges",
+      "be like comparing apples and oranges",
+      "That’s comparing apples and oranges.",
+      "avoid comparing apples and oranges",
+      "accuse someone of comparing apples and oranges",
+      "an apples-to-oranges comparison",
+      "not compare like with like",
+      "make a meaningful comparison between + nouns"
+    ],
+    "usage": {
+      "meaning": "The idiom means comparing two things that differ in essential respects and therefore cannot be evaluated fairly by the same criteria.",
+      "variants": "Compare apples to oranges and compare apples with oranges are both common. Compare apples and oranges is especially common as a fixed informal phrase.",
+      "gerund": "The expression frequently appears after be like or as a standalone criticism: That is comparing apples and oranges.",
+      "hyphenation": "Before a noun, the compound is hyphenated: an apples-to-oranges comparison.",
+      "logic": "The phrase does not mean that no comparison whatsoever is possible; it means that the proposed comparison ignores relevant differences or lacks a common basis.",
+      "data": "In statistical and business contexts, differences in definitions, periods, populations, currencies, or measurement methods may make a comparison apples-to-oranges.",
+      "contrast": "Compare apples to apples and compare like with like describe a fair comparison using equivalent categories.",
+      "register": "It is informal but common in professional discussion. Formal alternatives include the items are not directly comparable and the comparison lacks a common basis."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kəmˌper ˌæpəlz ən ˈɔːrɪndʒɪz/",
+      "uk": "/kəmˌpeə ˌæpəlz ən ˈɒrɪndʒɪz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "本質的に異なる二つの物事を同じ基準で比較する",
+      "前提・条件・分類が異なる対象を不適切に比較する",
+      "共通の尺度を欠くデータや結果を並べる",
+      "重要な違いを無視して結論を導く",
+      "公平または有意義な比較になっていないことを指摘する"
+    ],
+    "en": [
+      "to compare two things that differ in essential respects",
+      "to evaluate subjects with different conditions, assumptions, or categories by the same standard",
+      "to place data or results lacking a common measurement basis side by side",
+      "to draw a conclusion while ignoring material differences",
+      "to make a comparison that is unfair, misleading, or not meaningful"
+    ]
+  },
+  "nuance": {
+    "ja": "compare apples and oranges は、比較対象の性質・条件・目的などが本質的に異なるため、そのまま同じ基準で評価するのは不適切だと指摘する表現である。例えば、従業員10人の新興企業の総売上高と、世界的企業の総売上高だけを比較して効率を評価すれば、規模・市場・事業構造を無視した apples-to-oranges comparison になり得る。ただし、リンゴとオレンジにも価格・重量・栄養価など比較可能な側面があるように、この慣用句は「両者を一切比較できない」と論理的に断定するものではない。問題は、議論の目的に適した共通基準があるか、重要な相違を調整しているかである。比較を単に避けるのではなく、条件をそろえて compare apples to apples「同種のものを比較する」ことが重要となる。",
+    "en": "Compare apples and oranges criticizes an attempt to evaluate two subjects by the same standard even though their nature, conditions, or purposes differ materially. For example, comparing only the total revenue of a ten-person startup with that of a global corporation to assess efficiency may ignore scale, markets, and business structure and therefore become an apples-to-oranges comparison. The idiom does not logically establish that no comparison at all is possible; apples and oranges can themselves be compared by price, weight, or nutritional value. The relevant question is whether the analysis uses a common basis appropriate to its purpose and adjusts for material differences. A sounder analysis attempts to compare apples to apples by aligning definitions, conditions, and measurement methods."
+  },
+  "minimal": {
+    "ja": [
+      "compare apples and oranges：本質的条件の異なる対象を同じ基準で不適切に比較する。",
+      "compare apples to apples：同種・同条件の対象を公平な基準で比較する。",
+      "compare like with like：同等の性質・条件を持つもの同士を比較する。",
+      "draw a false equivalence：重要な違いを無視し、二つを同等であるかのように扱う。",
+      "make an unfair comparison：一方に不利な基準や異なる条件を用いて比較する。",
+      "contrast：二つ以上の対象の相違点を明確に示す。",
+      "benchmark：基準となる対象・数値と比較し、性能・進捗などを評価する。",
+      "standardize：比較できるよう、定義・単位・条件・手順などを統一する。"
+    ],
+    "en": [
+      "compare apples and oranges means improperly comparing subjects that differ in essential conditions.",
+      "compare apples to apples means fairly comparing subjects belonging to equivalent categories or conditions.",
+      "compare like with like means comparing items sharing materially similar characteristics.",
+      "draw a false equivalence means treating two things as equally significant while ignoring important differences.",
+      "make an unfair comparison means using unequal criteria or conditions that disadvantage one side.",
+      "contrast means identifying and emphasizing differences between two or more subjects.",
+      "benchmark means evaluating performance or progress against an established reference point.",
+      "standardize means aligning definitions, units, conditions, or procedures to make valid comparison possible."
+    ]
+  },
+  "etymology": {
+    "ja": "compare apples and oranges は、リンゴとオレンジがどちらも果物ではあるものの、味・形・性質などが異なることを利用した比喩表現である。異なる種類の物を同一基準で扱う不合理さを示す言い回しとして、20世紀のアメリカ英語で広く定着した。英語では以前から apples and pears など、異なる果物を並べて不適切な比較を示す類似表現が存在した。現在では compare apples to oranges、compare apples with oranges、comparing apples and oranges などの形で、議論・統計・ビジネス分析における比較条件の不一致を指摘する。",
+    "en": "Compare apples and oranges uses the fact that apples and oranges, although both fruit, differ in taste, appearance, and other characteristics. It became widely established in twentieth-century American English as a metaphor for the unreasonable use of one standard to evaluate unlike things. English had earlier used other pairs of different fruit, including apples and pears, in similar comparisons. The modern forms compare apples to oranges, compare apples with oranges, and comparing apples and oranges commonly identify mismatched conditions in argument, statistics, and business analysis."
+  },
+  "synonyms": [
+    {
+      "word": "compare unlike things",
+      "note": {
+        "ja": "重要な性質・目的・条件が異なる対象を比較することを、直接的に表す。",
+        "en": "Directly describes comparing subjects that differ in material characteristics, purposes, or conditions."
+      }
+    },
+    {
+      "word": "draw a false equivalence",
+      "note": {
+        "ja": "重要な相違を無視し、二つの行為・問題・証拠などを同等であるかのように扱う。",
+        "en": "Means treating two actions, problems, or bodies of evidence as equivalent despite important differences."
+      }
+    },
+    {
+      "word": "make an invalid comparison",
+      "note": {
+        "ja": "比較条件や論理的基礎が不足し、結論を適切に支えられない比較を行う。",
+        "en": "Means making a comparison whose conditions or logical basis cannot properly support its conclusion."
+      }
+    },
+    {
+      "word": "compare incomparable things",
+      "note": {
+        "ja": "共通の評価基準を設定しにくい対象を無理に比較する。",
+        "en": "Means forcing a comparison between subjects for which no suitable common standard has been established."
+      }
+    },
+    {
+      "word": "mix categories",
+      "note": {
+        "ja": "異なる分類に属する物や概念を区別せず、同じ種類として扱う。",
+        "en": "Means failing to distinguish items or concepts that belong to different categories."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Äpfel mit Birnen vergleichen",
+    "it": "paragonare le mele con le pere",
+    "fr": "comparer des pommes et des oranges / comparer des choses incomparables",
+    "es": "comparar peras con manzanas"
+  },
+  "collocations": {
+    "ja": [
+      "compare apples and oranges — 本質的に異なるものを比較する",
+      "compare apples to oranges — リンゴをオレンジと比べるような比較をする",
+      "compare apples with oranges — 異質なもの同士を比較する",
+      "be like comparing apples and oranges — まるで異質なものを比べるようである",
+      "That’s comparing apples and oranges — それは比較条件がそろっていない",
+      "avoid comparing apples and oranges — 不適切な比較を避ける",
+      "an apples-to-oranges comparison — 条件のそろわない比較",
+      "an obvious apples-to-oranges comparison — 明らかに不適切な比較",
+      "compare apples to apples — 同種・同条件のものを比較する",
+      "compare like with like — 同等のもの同士を比較する",
+      "use a common basis for comparison — 共通の比較基準を用いる",
+      "adjust for material differences — 重要な相違を調整する"
+    ],
+    "en": [
+      "compare apples and oranges",
+      "compare apples to oranges",
+      "compare apples with oranges",
+      "be like comparing apples and oranges",
+      "That’s comparing apples and oranges",
+      "avoid comparing apples and oranges",
+      "an apples-to-oranges comparison",
+      "an obvious apples-to-oranges comparison",
+      "compare apples to apples",
+      "compare like with like",
+      "use a common basis for comparison",
+      "adjust for material differences"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Comparing the two salaries without considering local living costs is like comparing apples and oranges. — 現地の生活費を考慮せずに二つの給与を比べるのは、条件の異なるものを比較するようなものだ。",
+      "You cannot compare a small family restaurant with a multinational chain; that is comparing apples and oranges. — 小さな家族経営のレストランと多国籍チェーンをそのまま比較することはできない。それでは比較条件がそろっていない。",
+      "The report compared annual revenue with quarterly profit, so its conclusion was based on an apples-to-oranges comparison. — その報告書は年間売上高と四半期利益を比較しており、結論は不適切な比較に基づいていた。",
+      "Before evaluating the results, we need to standardize the measurement methods so that we are not comparing apples and oranges. — 結果を評価する前に、条件の異なるものを比較しないよう測定方法を統一する必要がある。",
+      "Comparing the number of claims in two patents without considering claim scope and jurisdiction may amount to comparing apples and oranges. — 請求項の範囲と法域を考慮せずに二つの特許の請求項数を比較することは、不適切な比較になり得る。"
+    ],
+    "en": [
+      "Comparing the two salaries without considering local living costs is like comparing apples and oranges.",
+      "You cannot compare a small family restaurant with a multinational chain; that is comparing apples and oranges.",
+      "The report compared annual revenue with quarterly profit, so its conclusion was based on an apples-to-oranges comparison.",
+      "Before evaluating the results, we need to standardize the measurement methods so that we are not comparing apples and oranges.",
+      "Comparing the number of claims in two patents without considering claim scope and jurisdiction may amount to comparing apples and oranges."
+    ]
+  }
+},
+{
   "id": "cast-pearls-before-swine",
   "sid": "2026-01392",
   "word": "cast pearls before swine",
