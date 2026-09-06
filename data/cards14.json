@@ -1,5 +1,211 @@
 [
 {
+  "id": "handle",
+  "sid": "2026-01327",
+  "word": "handle",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "management",
+    "problem solving",
+    "control",
+    "touch",
+    "object",
+    "tool",
+    "name",
+    "internet",
+    "business",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable as a noun",
+    "plural": "handles",
+    "forms": {
+      "noun_singular": "handle",
+      "noun_plural": "handles",
+      "verb_base": "handle",
+      "third_person": "handles",
+      "past": "handled",
+      "past_participle": "handled",
+      "gerund": "handling",
+      "agent_noun": "handler",
+      "activity_noun": "handling"
+    },
+    "transitivity": "mainly transitive; intransitive when describing how a vehicle, machine, or material responds to control",
+    "patterns": [
+      "handle + problem / situation / task",
+      "handle + person / customer / complaint",
+      "handle + object / material",
+      "be able / unable to handle + noun",
+      "handle something carefully",
+      "handle something well / badly",
+      "a door / cup / tool handle",
+      "get / have a handle on + noun",
+      "an online / social-media handle",
+      "the car handles well"
+    ],
+    "usage": {
+      "manage": "Handle a problem or task means manage, control, or deal with it competently.",
+      "person": "Handle a person can mean manage the person’s behavior or communicate with them effectively, but it may sound controlling in some contexts.",
+      "touch": "Handle an object means touch, hold, move, or work with it using the hands.",
+      "commercial": "Handle goods, information, payments, or applications means receive, process, manage, or be responsible for them.",
+      "intransitive": "A vehicle or machine handles well when it responds well to control.",
+      "noun_object": "As a noun, a handle is the part designed to be held when opening, lifting, or controlling something.",
+      "understanding": "Get a handle on something means develop sufficient understanding or control of it.",
+      "name": "A handle can informally mean a name, nickname, call sign, or online username."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈhændəl/",
+      "uk": "/ˈhændəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "問題・状況・仕事などを適切に処理・管理する",
+      "人・顧客・苦情などに対応し、必要なやり取りを行う",
+      "物を手で持つ・触る・動かす・取り扱う",
+      "商品・情報・支払い・申請などを受け付け、処理する",
+      "乗り物・機械などを操作・制御する",
+      "名詞として、扉・容器・道具などを持つための取っ手・柄",
+      "口語的に、人の名前・あだ名・オンライン上のユーザー名"
+    ],
+    "en": [
+      "to manage or deal competently with a problem, situation, or task",
+      "to deal with a person, customer, complaint, or communication",
+      "to touch, hold, move, or work with an object using the hands",
+      "to receive, process, manage, or take responsibility for goods, information, payments, or applications",
+      "to operate or control a vehicle, machine, or instrument",
+      "as a noun, the part of a door, container, or tool designed to be held",
+      "informally, a person’s name, nickname, call sign, or online username"
+    ]
+  },
+  "nuance": {
+    "ja": "動詞 handle の中心は、対象を手の内に置き、適切に扱うことである。物理的に物を「手で扱う」という意味から、問題・仕事・人物・情報などを管理・処理する意味へ広がった。I can handle it. は、単に問題へ対応するだけでなく、「自分に任せてよい、対処する能力がある」という自信を表す。cope with は困難な負担に耐えながら何とか機能することを強調するのに対し、handle は状況を制御し、必要な処理を行う能力を感じさせやすい。handle a person は「その人にうまく対処する」を意味するが、人を物のように管理する響きになることもある。名詞の get a handle on は、複雑な問題を理解・制御できる段階へ到達することを表す。SNSなどの handle は、他の利用者がその人を識別するためのユーザー名である。",
+    "en": "The core idea of handle is bringing something under one’s hand and dealing with it appropriately. The physical meaning of touching or manipulating an object developed into the figurative sense of managing problems, tasks, people, and information. I can handle it expresses not merely willingness to respond but confidence that the speaker has the capacity to take control of the matter. Cope with emphasizes continuing to function under difficulty or stress, whereas handle more readily suggests competence, control, and effective processing. Handle a person can mean deal effectively with them, but it may sound as though the person is being managed like an object. The noun phrase get a handle on means reach a sufficient level of understanding or control. On social media, a handle is a username by which other users identify an account."
+  },
+  "minimal": {
+    "ja": [
+      "handle：問題・仕事・人物などを能力をもって処理する、または物を手で扱う。",
+      "cope with：困難・ストレスを抱えながら、何とか対処して機能し続ける。",
+      "deal with：問題・人物・状況に対応することを広く表し、成功は必ずしも含意しない。",
+      "manage：人・組織・状況を管理する、または困難でも何とか成し遂げる。",
+      "process：情報・申請・支払いなどを所定の手順で処理する。",
+      "operate：機械・装置・システムを動かし、その機能を利用する。",
+      "touch：身体、特に手を物に接触させる。",
+      "grip：手で物をしっかり握る、または握るための部分。"
+    ],
+    "en": [
+      "handle means managing a problem or person competently or physically touching and manipulating an object.",
+      "cope with means continuing to function while managing difficulty, pressure, or stress.",
+      "deal with broadly means responding to a problem, person, or situation without necessarily implying success.",
+      "manage means controlling a person or organization or succeeding despite difficulty.",
+      "process means treating information, applications, or payments according to an established procedure.",
+      "operate means controlling a machine, device, or system so that it performs its function.",
+      "touch means bringing part of the body, especially a hand, into contact with something.",
+      "grip means holding something firmly or the part designed to provide a secure hold."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 hand「手」を基礎として中英語期に成立した handel「手で触れる部分、取っ手」に由来する。もともとは道具・容器・扉などを手でつかむための部分を表した。そこから「取っ手を持つ」「手で扱う」という動詞が生まれ、さらに物事を自分の管理下に置くという比喩によって、問題・仕事・人物・情報などを処理する意味へ発達した。人名・ユーザー名を表す口語的な handle も、人や物を識別してつかむ手掛かりという発想に関係する。",
+    "en": "Handle was formed from hand and derives from Middle English handel, a part held by the hand. It originally referred to the part of a tool, container, or door designed to be grasped. From this noun developed the verb meaning to hold, touch, or manipulate with the hands. The physical idea was then extended metaphorically to bringing a problem, task, person, or body of information under one’s control. The informal sense of a name or username similarly treats a handle as a means by which a person or thing can be identified and figuratively grasped."
+  },
+  "synonyms": [
+    {
+      "word": "manage",
+      "note": {
+        "ja": "仕事・組織・状況を管理する、または困難なことを何とか成し遂げる。",
+        "en": "To control work, an organization, or a situation, or to succeed in doing something difficult."
+      }
+    },
+    {
+      "word": "deal with",
+      "note": {
+        "ja": "問題・課題・人物などに対応することを広く表す。",
+        "en": "A broad expression for responding to a problem, matter, task, or person."
+      }
+    },
+    {
+      "word": "process",
+      "note": {
+        "ja": "申請・情報・注文・支払いなどを一定の手順に従って処理する。",
+        "en": "To deal with an application, information, order, or payment according to an established procedure."
+      }
+    },
+    {
+      "word": "manipulate",
+      "note": {
+        "ja": "物・器具を手や機械で巧みに動かす。人に用いると不当に操る意味になり得る。",
+        "en": "To move an object or instrument skillfully; when applied to people, it can mean controlling them unfairly."
+      }
+    },
+    {
+      "word": "control",
+      "note": {
+        "ja": "機械・状況・過程などの動きや結果を指揮・制限する。",
+        "en": "To direct or limit the operation, movement, or outcome of a machine, situation, or process."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "handhaben / bewältigen / Griff",
+    "it": "gestire / maneggiare / maniglia",
+    "fr": "gérer / manier / poignée",
+    "es": "manejar / gestionar / asa"
+  },
+  "collocations": {
+    "ja": [
+      "handle a problem — 問題に対処する",
+      "handle a difficult situation — 困難な状況を処理する",
+      "handle a complaint — 苦情に対応する",
+      "handle a customer — 顧客に対応する",
+      "handle pressure — プレッシャーに対処する",
+      "handle information — 情報を取り扱う",
+      "handle something carefully — 何かを慎重に取り扱う",
+      "a door handle — ドアの取っ手",
+      "a knife handle — ナイフの柄",
+      "get a handle on something — 何かを理解・制御できるようになる",
+      "an online handle — オンライン上のユーザー名",
+      "too hot to handle — 手に負えない、扱うには危険すぎる"
+    ],
+    "en": [
+      "handle a problem",
+      "handle a difficult situation",
+      "handle a complaint",
+      "handle a customer",
+      "handle pressure",
+      "handle information",
+      "handle something carefully",
+      "a door handle",
+      "a knife handle",
+      "get a handle on something",
+      "an online handle",
+      "too hot to handle"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Don’t worry—I can handle the situation. — 心配しないでください。私がその状況に対処できます。",
+      "Customer complaints should be handled politely and promptly. — 顧客からの苦情には、礼儀正しく迅速に対応すべきである。",
+      "Please handle the glass equipment with care. — ガラス製の器具は慎重に取り扱ってください。",
+      "It took me several days to get a handle on the new accounting system. — 新しい会計システムを把握するのに数日かかった。",
+      "The patent department handles applications, renewal deadlines, licences, and communications with foreign associates. — 特許部門は、出願・更新期限・ライセンス・海外代理人との連絡を処理している。"
+    ],
+    "en": [
+      "Don’t worry—I can handle the situation.",
+      "Customer complaints should be handled politely and promptly.",
+      "Please handle the glass equipment with care.",
+      "It took me several days to get a handle on the new accounting system.",
+      "The patent department handles applications, renewal deadlines, licences, and communications with foreign associates."
+    ]
+  }
+},
+{
   "id": "bear-with",
   "sid": "2026-01328",
   "word": "bear with",
