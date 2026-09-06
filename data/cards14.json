@@ -1,5 +1,203 @@
 [
 {
+  "id": "financial",
+  "sid": "2026-01309",
+  "word": "financial",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "finance",
+    "money",
+    "banking",
+    "investment",
+    "accounting",
+    "business",
+    "funding",
+    "assets",
+    "income",
+    "legal",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "financial",
+      "comparative": "more financial, uncommon",
+      "superlative": "most financial, uncommon",
+      "noun": "finance / finances",
+      "adverb": "financially",
+      "related_noun": "financier",
+      "related_verb": "finance"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "financial + noun",
+      "financial support / assistance / advice",
+      "financial position / condition / performance",
+      "financial institution / market / system",
+      "financial loss / difficulty / risk",
+      "be financially secure / independent",
+      "be in financial difficulty",
+      "provide financial support for + noun",
+      "have a financial interest in + noun",
+      "for financial reasons"
+    ],
+    "usage": {
+      "broad_scope": "Financial broadly concerns money, funding, banking, investment, accounting, assets, liabilities, or the management of funds.",
+      "personal": "It can describe a person’s economic circumstances: financial difficulties or financial security.",
+      "business": "In business, it commonly modifies records, results, performance, position, and reporting.",
+      "monetary_contrast": "Monetary more specifically concerns money as a system, central-bank policy, currency, or value expressed in money.",
+      "economic_contrast": "Economic concerns the wider production, distribution, and consumption of goods and services, not merely financial matters.",
+      "noun_finances": "The plural noun finances means the money and financial resources of a person or organization.",
+      "comparison": "Because financial usually classifies a type, comparative and superlative forms are uncommon.",
+      "spelling": "Financial is formed from finance and ends in -cial."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/faɪˈnænʃəl/",
+      "uk": "/faɪˈnænʃəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "金銭・資金または財務に関する",
+      "銀行・投資・融資・保険・証券市場など金融活動に関する",
+      "個人・家庭・企業・組織の収入・支出・資産・負債に関する",
+      "事業の業績・資金状態・会計記録に関する",
+      "金銭的な利益・損失・負担・支援などに関する"
+    ],
+    "en": [
+      "relating to money, funding, or the management of funds",
+      "concerning banking, investment, lending, insurance, or securities markets",
+      "relating to the income, expenses, assets, and liabilities of a person or organization",
+      "concerning a business’s performance, funding condition, or accounting records",
+      "involving benefits, losses, burdens, or support measured in money"
+    ]
+  },
+  "nuance": {
+    "ja": "financial は「金銭・資金・財務に関する」ことを広く表す。個人の financial situation、企業の financial performance、銀行などの financial institution、投資対象としての financial assets など、適用範囲は非常に広い。monetary は貨幣制度・通貨供給・金利・中央銀行政策、または金銭で表示された価値に焦点を置くため、financial より専門的に範囲が限定されることがある。fiscal は主として政府の税・歳出・借入れ・予算に関する。economic は生産・雇用・貿易・消費などを含む経済全体を扱う。financial difficulty は資金不足や債務負担に苦しむ状態、financially secure は必要な支出を賄えるだけの安定した資力がある状態を表す。文脈によっては financial interest が単なる関心ではなく、判断へ影響し得る金銭的利害を意味する。",
+    "en": "Financial is the broad adjective for matters involving money, funding, or finance. It applies to a person’s financial situation, a company’s financial performance, a bank as a financial institution, and investments as financial assets. Monetary has a more specialized focus on money as a system, currency, money supply, interest rates, central-bank policy, or value expressed in money. Fiscal principally concerns government taxation, spending, borrowing, and budgets. Economic covers the wider system of production, employment, trade, and consumption. Financial difficulty describes trouble meeting expenses or obligations, while financially secure suggests having stable resources sufficient for foreseeable needs. In some contexts, a financial interest is not mere curiosity but a monetary stake capable of affecting a person’s judgment."
+  },
+  "minimal": {
+    "ja": [
+      "financial：金銭・資金・銀行・投資・財務管理などに広く関する。",
+      "monetary：貨幣・通貨・中央銀行政策、または金銭で測られる価値に関する。",
+      "fiscal：政府の課税・歳出・借入れ・予算に関する。",
+      "economic：生産・消費・雇用・貿易・資源配分など、経済全般に関する。",
+      "pecuniary：金銭上の利益・損失・利害などを表す、特に法律で用いられる形式的な語。",
+      "commercial：商品の売買・営利事業・市場活動に関する。",
+      "banking：銀行業務・預金・融資・決済などに関する。",
+      "accounting：取引を記録し、財務情報を作成・分析する会計に関する。"
+    ],
+    "en": [
+      "financial broadly concerns money, funding, banking, investment, and the management of funds.",
+      "monetary concerns money, currency, central-bank policy, or value measured in money.",
+      "fiscal concerns government taxation, expenditure, borrowing, and budgets.",
+      "economic concerns the wider system of production, consumption, employment, trade, and resource allocation.",
+      "pecuniary is a formal, especially legal, adjective for matters involving money or financial interests.",
+      "commercial concerns trade, profit-making business, and market activity.",
+      "banking concerns deposits, lending, payments, and the operation of banks.",
+      "accounting concerns recording transactions and preparing or analyzing financial information."
+    ]
+  },
+  "etymology": {
+    "ja": "financial は finance に形容詞接尾辞 -ial が付いて成立した。finance は中世フランス語 finance「支払い、債務の清算、金銭」に由来し、その基礎には finir「終える」がある。finir はラテン語 finire「終える、境界を定める」にさかのぼる。もともとは支払いによって債務や取引を「終結させる」ことを表し、そこから金銭の管理・調達、さらに銀行・投資・企業財務などを広く指す finance の意味が発達した。",
+    "en": "Financial was formed from finance with the adjective-forming suffix -ial. Finance came from medieval French finance, referring to payment, settlement of a debt, or money. It was related to finir, to finish, which derives from Latin finire, to end or set a boundary. The underlying idea was that payment brought a debt or transaction to an end. From settlement by payment, finance developed its broader meanings involving the raising and management of money, banking, investment, and corporate funds."
+  },
+  "synonyms": [
+    {
+      "word": "monetary",
+      "note": {
+        "ja": "貨幣制度・通貨・金融政策、または金銭で表される価値をより具体的に指す。",
+        "en": "More specifically concerns currency, the monetary system, monetary policy, or value expressed in money."
+      }
+    },
+    {
+      "word": "pecuniary",
+      "note": {
+        "ja": "金銭上の損害・利益・利害などについて用いる、法律的で形式的な語。",
+        "en": "A formal and often legal adjective for losses, benefits, interests, or other matters involving money."
+      }
+    },
+    {
+      "word": "economic",
+      "note": {
+        "ja": "金融面に限らず、生産・雇用・消費・貿易など経済活動全般に関する。",
+        "en": "Concerns the economy as a whole, including production, employment, consumption, and trade."
+      }
+    },
+    {
+      "word": "commercial",
+      "note": {
+        "ja": "商品・サービスの取引、営利活動、企業上の利益などに関する。",
+        "en": "Relates to trade, profit-making activities, and the business interests of an enterprise."
+      }
+    },
+    {
+      "word": "budgetary",
+      "note": {
+        "ja": "予算の作成・配分・制限などに特に関する。",
+        "en": "Relates specifically to the preparation, allocation, or limits of a budget."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "finanziell / Finanz-",
+    "it": "finanziario",
+    "fr": "financier",
+    "es": "financiero"
+  },
+  "collocations": {
+    "ja": [
+      "financial support — 金銭的支援",
+      "financial assistance — 財政的援助",
+      "financial advice — 財務・資産運用上の助言",
+      "financial difficulties — 資金上の困難",
+      "financial security — 経済的安定",
+      "financial independence — 経済的自立",
+      "financial performance — 財務業績",
+      "financial statements — 財務諸表",
+      "a financial institution — 金融機関",
+      "financial markets — 金融市場",
+      "a financial interest — 金銭的利害",
+      "a financial loss — 金銭的損失"
+    ],
+    "en": [
+      "financial support",
+      "financial assistance",
+      "financial advice",
+      "financial difficulties",
+      "financial security",
+      "financial independence",
+      "financial performance",
+      "financial statements",
+      "a financial institution",
+      "financial markets",
+      "a financial interest",
+      "a financial loss"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The scholarship provides financial support for students from low-income families. — その奨学金は、低所得家庭の学生に金銭的支援を提供する。",
+      "The company’s financial performance improved during the second half of the year. — その会社の財務業績は、年の後半に改善した。",
+      "She sought independent financial advice before making the investment. — 彼女は投資を行う前に、独立した専門家から財務上の助言を求めた。",
+      "The director disclosed that he had a financial interest in the supplier. — その取締役は、当該供給業者に金銭的利害を有していることを開示した。",
+      "The court examined the financial loss caused by the unauthorized use of the registered trademark. — 裁判所は、登録商標の無断使用によって生じた金銭的損失を検討した。"
+    ],
+    "en": [
+      "The scholarship provides financial support for students from low-income families.",
+      "The company’s financial performance improved during the second half of the year.",
+      "She sought independent financial advice before making the investment.",
+      "The director disclosed that he had a financial interest in the supplier.",
+      "The court examined the financial loss caused by the unauthorized use of the registered trademark."
+    ]
+  }
+},
+{
   "id": "pecuniary",
   "sid": "2026-01310",
   "word": "pecuniary",
