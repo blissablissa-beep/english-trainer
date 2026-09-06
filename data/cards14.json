@@ -1,5 +1,199 @@
 [
 {
+  "id": "abate",
+  "sid": "2026-01339",
+  "word": "abate",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "reduction",
+    "weakening",
+    "intensity",
+    "weather",
+    "emotion",
+    "nuisance",
+    "pollution",
+    "law",
+    "formal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "abate",
+      "third_person": "abates",
+      "past": "abated",
+      "past_participle": "abated",
+      "gerund": "abating",
+      "noun": "abatement"
+    },
+    "transitivity": "intransitive or transitive",
+    "patterns": [
+      "the storm / wind / rain abates",
+      "pain / anger / fear abates",
+      "pressure / demand / enthusiasm abates",
+      "show no sign of abating",
+      "abate gradually / considerably",
+      "abate a nuisance",
+      "abate pollution / emissions",
+      "abate the risk / danger",
+      "take measures to abate + noun",
+      "an order requiring someone to abate + nuisance"
+    ],
+    "usage": {
+      "intransitive": "Used intransitively, abate means becoming less strong, severe, or widespread: The storm abated.",
+      "transitive": "Used transitively, it means reducing, suppressing, or eliminating something harmful or undesirable.",
+      "common_subjects": "Common subjects include storms, winds, pain, anger, fear, pressure, demand, and public interest.",
+      "legal_use": "In legal and regulatory language, abate may mean ending, removing, or reducing a nuisance, hazard, pollution, or other unlawful condition.",
+      "negative_pattern": "Show no sign of abating is a common expression for a problem or force that continues without weakening.",
+      "register": "Abate is formal; ease, weaken, lessen, subside, or reduce is usually more natural in everyday conversation."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈbeɪt/",
+      "uk": "/əˈbeɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "風・雨・嵐・痛みなどの強さが弱まる、和らぐ",
+      "怒り・恐怖・緊張・熱意などが次第に収まる",
+      "問題・危険・公害などを軽減する、抑制する",
+      "迷惑行為・障害・有害な状態を除去または停止する",
+      "需要・圧力・関心などが低下する"
+    ],
+    "en": [
+      "to become less strong or severe, especially of weather, pain, or disturbance",
+      "for anger, fear, tension, or enthusiasm, to diminish gradually",
+      "to reduce or suppress a problem, danger, or harmful condition",
+      "to remove or bring an end to a nuisance, obstruction, or unlawful condition",
+      "for demand, pressure, or interest, to decline in intensity"
+    ]
+  },
+  "nuance": {
+    "ja": "abate は、強く続いていた不快・有害な現象が弱まること、またはそれを弱めることを表す形式的な語である。The storm abated. なら嵐の勢いが収まり、Her anger abated. なら怒りが徐々に和らいだことを意味する。目的語を取る場合は、pollution、risk、nuisance など、抑制または除去すべき好ましくない対象と結び付きやすい。slacken は速度・努力・需要・張力などが緩むことに焦点を置くのに対し、abate は苦痛、悪天候、危険、騒動などの深刻さ・強度が低下することを強調する。法律用語としての abate a nuisance は、単に迷惑の程度を軽くするだけでなく、その状態を停止・除去することまで含み得る。",
+    "en": "Abate is a formal verb describing the weakening of a persistent unpleasant or harmful condition, or action taken to reduce it. The storm abated means that the storm lost intensity, while her anger abated indicates that the emotion gradually subsided. In transitive use, it commonly takes an undesirable object such as pollution, risk, or a nuisance that is to be controlled or removed. Slacken focuses more readily on reductions in speed, effort, demand, or tension, whereas abate emphasizes diminished severity or intensity in pain, bad weather, danger, or disturbance. In legal language, to abate a nuisance may involve terminating or removing the condition rather than merely making it less serious."
+  },
+  "minimal": {
+    "ja": [
+      "abate：悪天候・痛み・危険・騒動などが弱まる、または有害な状態を軽減・除去する。形式的。",
+      "subside：痛み・感情・騒動・水位などが徐々に低下し、静まる。",
+      "slacken：速度・勢い・努力・需要・張力などが緩む、またはそれらを緩める。",
+      "ease：痛み・圧力・緊張・制限などを徐々に和らげる。",
+      "lessen：程度・量・重要性を小さくする、または小さくなる一般的な語。",
+      "diminish：大きさ・強さ・重要性などが徐々に減少する、または減少させる。",
+      "alleviate：苦痛・問題・負担を軽減するが、通常は完全には除去しない。",
+      "eliminate：問題・危険・不要なものを完全に取り除く。"
+    ],
+    "en": [
+      "abate formally means becoming less severe or reducing or removing a harmful condition.",
+      "subside means gradually becoming lower, weaker, or calmer, especially of pain, emotion, disturbance, or water.",
+      "slacken means becoming or making something less rapid, forceful, active, or tense.",
+      "ease means gradually reducing pain, pressure, tension, or restrictions.",
+      "lessen is a general verb meaning to become or make smaller in degree, amount, or importance.",
+      "diminish means gradually becoming or making something smaller in size, strength, or importance.",
+      "alleviate means reducing suffering, difficulty, or burden, normally without eliminating it completely.",
+      "eliminate means removing a problem, danger, or unwanted thing completely."
+    ]
+  },
+  "etymology": {
+    "ja": "abate は古フランス語 abatre「打ち倒す、低くする、弱める」を経て英語に入った。この語は a-「～へ」と battre「打つ」から成り、battre はラテン語 battuere「打つ、たたく」にさかのぼる。もともとの「打ち倒す、低くする」という物理的な意味から、力・勢い・苦痛・価格などを減少させる意味が発達した。名詞 abatement は「減少・軽減」のほか、法律・税務・環境分野で「除去・排除・減免」などを表す。",
+    "en": "Abate entered English through Old French abatre, meaning to strike down, lower, or weaken. The French word was formed from a- and battre, to beat, which ultimately derives from Latin battuere, to beat or strike. The physical idea of striking something down or bringing it lower developed into the senses of reducing force, intensity, pain, or price. The related noun abatement can mean reduction or relief and has specialized uses involving removal, suppression, or remission in legal, tax, and environmental contexts."
+  },
+  "synonyms": [
+    {
+      "word": "subside",
+      "note": {
+        "ja": "痛み・感情・騒動・洪水などが、時間の経過とともに自然に弱まることを表す。",
+        "en": "Describes pain, emotion, disturbance, or flooding becoming weaker or lower naturally over time."
+      }
+    },
+    {
+      "word": "ease",
+      "note": {
+        "ja": "痛み・圧力・緊張・困難などが徐々に和らぐ、またはそれらを和らげる。",
+        "en": "To become or make less severe gradually, especially of pain, pressure, tension, or difficulty."
+      }
+    },
+    {
+      "word": "diminish",
+      "note": {
+        "ja": "量・強度・重要性・価値などを徐々に減少させる、またはそれらが減少する。",
+        "en": "To cause or undergo a gradual reduction in amount, intensity, importance, or value."
+      }
+    },
+    {
+      "word": "alleviate",
+      "note": {
+        "ja": "苦痛・負担・問題の深刻さを軽減する。他動詞として用いる。",
+        "en": "To make suffering, burden, or a problem less severe; it is used transitively."
+      }
+    },
+    {
+      "word": "mitigate",
+      "note": {
+        "ja": "損害・危険・処罰・悪影響などの深刻さを軽減する形式的な語。",
+        "en": "A formal verb meaning to reduce the severity of harm, risk, punishment, or adverse effects."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "nachlassen / mindern / beseitigen",
+    "it": "attenuarsi / diminuire / ridurre",
+    "fr": "s’atténuer / diminuer / réduire",
+    "es": "disminuir / amainar / mitigar"
+  },
+  "collocations": {
+    "ja": [
+      "the storm abates — 嵐が弱まる",
+      "the wind abates — 風が弱まる",
+      "the rain abates — 雨脚が弱まる",
+      "the pain abates — 痛みが和らぐ",
+      "anger abates — 怒りが収まる",
+      "fear abates — 恐怖が薄れる",
+      "pressure abates — 圧力が弱まる",
+      "demand abates — 需要が低下する",
+      "show no sign of abating — 弱まる兆しを見せない",
+      "abate a nuisance — 迷惑な状態を除去・停止する",
+      "abate pollution — 公害・汚染を軽減する",
+      "take measures to abate the risk — リスクを軽減する措置を講じる"
+    ],
+    "en": [
+      "the storm abates",
+      "the wind abates",
+      "the rain abates",
+      "the pain abates",
+      "anger abates",
+      "fear abates",
+      "pressure abates",
+      "demand abates",
+      "show no sign of abating",
+      "abate a nuisance",
+      "abate pollution",
+      "take measures to abate the risk"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The storm finally abated during the night. — 嵐は夜の間にようやく弱まった。",
+      "Her anxiety gradually abated after she received the test results. — 検査結果を受け取ると、彼女の不安は次第に和らいだ。",
+      "The noise showed no sign of abating despite repeated complaints. — 何度も苦情が寄せられたにもかかわらず、騒音は収まる兆しを見せなかった。",
+      "The company installed new equipment to abate harmful emissions from the factory. — その会社は工場からの有害な排出物を削減するため、新しい設備を導入した。",
+      "The injunction required the operator to abate the continuing nuisance without interfering with the patent owner’s lawful rights. — その差止命令は、特許権者の適法な権利を妨げることなく、継続中の迷惑な状態を除去するよう事業者に命じた。"
+    ],
+    "en": [
+      "The storm finally abated during the night.",
+      "Her anxiety gradually abated after she received the test results.",
+      "The noise showed no sign of abating despite repeated complaints.",
+      "The company installed new equipment to abate harmful emissions from the factory.",
+      "The injunction required the operator to abate the continuing nuisance without interfering with the patent owner’s lawful rights."
+    ]
+  }
+},
+{
   "id": "abatement",
   "sid": "2026-01340",
   "word": "abatement",
