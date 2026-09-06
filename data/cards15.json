@@ -1,5 +1,206 @@
 [
 {
+  "id": "nonobviousness",
+  "sid": "2026-01398",
+  "word": "nonobviousness",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "patent",
+    "patentability",
+    "obviousness",
+    "inventive step",
+    "prior art",
+    "skilled person",
+    "invention",
+    "evidence",
+    "intellectual property",
+    "legal",
+    "technical",
+    "American English",
+    "specialized"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable",
+    "plural": "not normally used",
+    "forms": {
+      "base": "nonobviousness",
+      "adjective": "nonobvious",
+      "adverb": "nonobviously, rare",
+      "opposite_noun": "obviousness",
+      "opposite_adjective": "obvious",
+      "statutory_wording": "non-obvious subject matter",
+      "related_term": "inventive step"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "the nonobviousness of + claimed invention",
+      "establish / demonstrate nonobviousness",
+      "support a finding of nonobviousness",
+      "evidence of nonobviousness",
+      "an argument for / against nonobviousness",
+      "assess / determine nonobviousness",
+      "the requirement of nonobviousness",
+      "fail for lack of nonobviousness",
+      "nonobviousness over + prior art",
+      "objective evidence of nonobviousness"
+    ],
+    "usage": {
+      "uncountable": "Nonobviousness is normally uncountable: establish nonobviousness, not establish a nonobviousness.",
+      "american_law": "In United States patent law, nonobviousness is the patentability requirement associated with 35 U.S.C. §103.",
+      "basic_test": "Broadly, the inquiry asks whether the differences between the claimed invention and the prior art would have been obvious to a person having ordinary skill in the art at the legally relevant time.",
+      "claim_focus": "The analysis concerns the claimed invention as a whole rather than merely asking whether each element was separately known.",
+      "evidence": "The determination may involve the scope and content of the prior art, differences from the claimed invention, the level of ordinary skill, articulated reasoning, and relevant objective evidence.",
+      "novelty": "Nonobviousness is distinct from novelty. A claim may be novel because no single prior-art disclosure contains every limitation yet still be obvious in view of the prior art.",
+      "international": "Inventive step is the usual corresponding expression in many non-U.S. patent systems, but the governing legal tests are not necessarily identical.",
+      "spelling": "Nonobviousness is commonly written as one word. The statutory heading uses non-obvious subject matter with a hyphen."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌnɑːnˈɑːbviəsnəs/",
+      "uk": "/ˌnɒnˈɒbviəsnəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "自明でないこと、容易には想到できないこと",
+      "米国特許法上、クレーム発明が当業者にとって自明でないという特許要件",
+      "先行技術との差異が単なる通常の設計・予測可能な変更を超えていること",
+      "発明全体について、先行技術から容易に導かれない性質",
+      "客観的証拠などによって裏付けられ得る非自明性"
+    ],
+    "en": [
+      "the quality of not being obvious or readily apparent",
+      "in United States patent law, the requirement that the claimed invention not have been obvious to a person having ordinary skill in the art",
+      "the quality by which differences from the prior art go beyond an ordinary or predictably derived variation",
+      "the absence of an adequate basis for readily deriving the claimed invention as a whole from the prior art",
+      "a patentability quality that may be supported by relevant objective evidence"
+    ]
+  },
+  "nuance": {
+    "ja": "nonobviousness は、一般的な「意外さ」ではなく、主に米国特許法における専門的な特許要件を表す。発明者本人や一般消費者にとって思いつきにくかったかではなく、法的に関連する先行技術を踏まえ、基準時に当該技術分野の通常の知識・技能を持つ仮想的な当業者にとって自明であったかが問題となる。novelty とは別の要件であり、一件の先行資料にクレームの全構成が開示されていなくても、先行技術の教示を組み合わせる十分な理由があり、結果が予測可能であれば、自明と判断される可能性がある。他方、商業的成功・長期間未解決だった必要性・他者の失敗・予想外の結果などは、主張された発明との結び付きが認められる場合、非自明性を裏付ける客観的証拠となり得る。日本・欧州などでは通常「進歩性」inventive step という語を用いるが、法的判断枠組みまで完全に同一とは限らない。",
+    "en": "Nonobviousness is not merely the everyday quality of being surprising; it is principally a technical requirement of United States patent law. The question is not whether the invention was difficult for the inventor or an ordinary consumer to conceive. It concerns whether, in view of the legally relevant prior art, the claimed invention would have been obvious at the relevant time to the hypothetical person having ordinary skill in the art. It is distinct from novelty. Even when no single reference discloses every claim limitation, the claim may be obvious if the prior art supplies an adequate reason to make a combination or modification with a predictable result. Conversely, commercial success, a long-felt but unresolved need, failure of others, and unexpected results may constitute objective evidence supporting nonobviousness when sufficiently connected to the claimed invention. Many other patent systems use inventive step as the corresponding expression, but their legal tests are not necessarily identical."
+  },
+  "minimal": {
+    "ja": [
+      "nonobviousness：米国特許法上、クレーム発明が当業者にとって自明でないという特許要件。",
+      "obviousness：先行技術を踏まえれば、クレーム発明を当業者が自明に導けたと評価されること。",
+      "inventive step：日本・欧州などで用いられる進歩性。nonobviousness に対応するが、判断枠組みは法域による。",
+      "novelty：発明が基準となる先行技術にすでに開示されていないという新規性。",
+      "anticipation：一件の先行技術がクレームの全要素を開示し、新規性を失わせること。",
+      "prior art：新規性・非自明性などの判断で基準となる既存の技術情報。",
+      "person having ordinary skill in the art：非自明性判断の基準となる、当該技術分野の通常の技能を持つ仮想的人物。",
+      "objective evidence：商業的成功・予想外の結果など、非自明性の判断に関連し得る客観的証拠。"
+    ],
+    "en": [
+      "nonobviousness is the U.S. patent requirement that the claimed invention not have been obvious to a person having ordinary skill in the art.",
+      "obviousness is the conclusion that the claimed invention would have been readily derived by the skilled person in view of the prior art.",
+      "inventive step is the corresponding patentability concept used in Japan, Europe, and many other systems, though legal tests vary.",
+      "novelty is the requirement that the invention not already be disclosed in the relevant prior art.",
+      "anticipation occurs when a single prior-art disclosure contains every element required by a claim and thereby defeats novelty.",
+      "prior art is the existing technical information used in assessing novelty and nonobviousness.",
+      "a person having ordinary skill in the art is the hypothetical skilled person used as the legal reference point for obviousness.",
+      "objective evidence includes commercial success or unexpected results that may bear on the nonobviousness inquiry."
+    ]
+  },
+  "etymology": {
+    "ja": "nonobviousness は、否定を表す接頭辞 non-、形容詞 obvious、性質を表す接尾辞 -ness から成る。obvious はラテン語 obvius「道に立ちはだかる、すぐ目の前にある」に由来し、ob-「～に向かって」と via「道」から構成される。目の前にあって容易に気付くという意味から、「明白な、自明な」へ発展した。したがって nonobviousness は語構成上「自明でない性質」を意味する。米国特許法では、1952年特許法によって35 U.S.C. §103の見出しと本文に非自明性の考え方が明文化され、特許性を判断する中心的概念となった。",
+    "en": "Nonobviousness is formed from the negative prefix non-, the adjective obvious, and the quality-forming suffix -ness. Obvious derives from Latin obvius, standing in the way or readily encountered, formed from ob-, toward, and via, way or road. The idea of something lying directly in one’s path developed into the meaning readily apparent. Nonobviousness therefore literally denotes the quality of not being obvious. In United States patent law, the Patent Act of 1952 codified the nonobviousness concept in 35 U.S.C. §103, making it a central requirement of patentability."
+  },
+  "synonyms": [
+    {
+      "word": "inventive step",
+      "note": {
+        "ja": "日本・欧州その他の多くの特許制度で、発明が当業者にとって容易でないことを求める特許要件。",
+        "en": "The patentability requirement in Japan, Europe, and many other systems that an invention not be readily derivable by the skilled person."
+      }
+    },
+    {
+      "word": "inventiveness",
+      "note": {
+        "ja": "新しい解決策や発想を生み出す創意・工夫を表す一般語で、必ずしも法的要件ではない。",
+        "en": "A general term for creativity in producing new ideas or solutions and not necessarily a legal patent standard."
+      }
+    },
+    {
+      "word": "unobviousness",
+      "note": {
+        "ja": "自明でない性質を表すまれな語で、特許実務では通常 nonobviousness の方が定着している。",
+        "en": "A rare alternative for the quality of not being obvious; nonobviousness is the established U.S. patent term."
+      }
+    },
+    {
+      "word": "technical ingenuity",
+      "note": {
+        "ja": "技術的な問題へ巧妙・独創的な解決策を考案する能力または性質。",
+        "en": "Skill or creativity in devising an ingenious solution to a technical problem."
+      }
+    },
+    {
+      "word": "patentable advance",
+      "note": {
+        "ja": "先行技術に対して特許取得を正当化するだけの技術的前進を表す一般的な表現。",
+        "en": "A general expression for an advance over the prior art sufficient to support patentability."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Nichtnaheliegen / erfinderische Tätigkeit",
+    "it": "non ovvietà / attività inventiva",
+    "fr": "non-évidence / activité inventive",
+    "es": "no evidencia / actividad inventiva"
+  },
+  "collocations": {
+    "ja": [
+      "the requirement of nonobviousness — 非自明性の要件",
+      "assess nonobviousness — 非自明性を評価する",
+      "determine nonobviousness — 非自明性を判断する",
+      "establish nonobviousness — 非自明性を立証する",
+      "demonstrate nonobviousness — 非自明性を示す",
+      "support nonobviousness — 非自明性を裏付ける",
+      "evidence of nonobviousness — 非自明性の証拠",
+      "objective evidence of nonobviousness — 非自明性に関する客観的証拠",
+      "an argument for nonobviousness — 非自明性を肯定する主張",
+      "a finding of nonobviousness — 非自明性があるとの認定",
+      "nonobviousness over the prior art — 先行技術に対する非自明性",
+      "fail for lack of nonobviousness — 非自明性を欠くため特許性が否定される"
+    ],
+    "en": [
+      "the requirement of nonobviousness",
+      "assess nonobviousness",
+      "determine nonobviousness",
+      "establish nonobviousness",
+      "demonstrate nonobviousness",
+      "support nonobviousness",
+      "evidence of nonobviousness",
+      "objective evidence of nonobviousness",
+      "an argument for nonobviousness",
+      "a finding of nonobviousness",
+      "nonobviousness over the prior art",
+      "fail for lack of nonobviousness"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Nonobviousness is a requirement separate from novelty under United States patent law. — 米国特許法上、非自明性は新規性とは別個の要件である。",
+      "The applicant argued that the unexpected result supported the nonobviousness of the claimed invention. — 出願人は、予想外の結果がクレーム発明の非自明性を裏付けると主張した。",
+      "The fact that every individual component was known did not by itself resolve the question of nonobviousness. — 個々の構成要素がすべて既知だったという事実だけでは、非自明性の問題は解決されなかった。",
+      "Commercial success may support nonobviousness only when an adequate connection exists between that success and the claimed invention. — 商業的成功は、その成功とクレーム発明との間に十分な関連性がある場合に限り、非自明性を裏付け得る。",
+      "The examiner rejected the claim for obviousness, while the patent attorney defended its nonobviousness by challenging the proposed combination of references and presenting evidence of unexpected technical effects. — 審査官は自明性を理由に請求項を拒絶したが、弁理士は提示された文献の組合せに反論し、予想外の技術的効果に関する証拠を提出して、その非自明性を主張した。"
+    ],
+    "en": [
+      "Nonobviousness is a requirement separate from novelty under United States patent law.",
+      "The applicant argued that the unexpected result supported the nonobviousness of the claimed invention.",
+      "The fact that every individual component was known did not by itself resolve the question of nonobviousness.",
+      "Commercial success may support nonobviousness only when an adequate connection exists between that success and the claimed invention.",
+      "The examiner rejected the claim for obviousness, while the patent attorney defended its nonobviousness by challenging the proposed combination of references and presenting evidence of unexpected technical effects."
+    ]
+  }
+},
+{
   "id": "patentability",
   "sid": "2026-01399",
   "word": "patentability",
