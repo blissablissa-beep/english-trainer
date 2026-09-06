@@ -1,5 +1,203 @@
 [
 {
+  "id": "cost-of-living",
+  "sid": "2026-01318",
+  "word": "cost of living",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun phrase",
+    "expenses",
+    "prices",
+    "inflation",
+    "income",
+    "housing",
+    "household",
+    "economics",
+    "personal finance",
+    "employment",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "normally uncountable and singular",
+    "plural": "costs of living, possible but uncommon",
+    "forms": {
+      "base": "cost of living",
+      "hyphenated_modifier": "cost-of-living",
+      "abbreviation": "COL, specialized",
+      "related_noun": "living costs / living expenses",
+      "related_index": "cost-of-living index",
+      "related_adjustment": "cost-of-living adjustment"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "the cost of living",
+      "a high / low cost of living",
+      "the rising cost of living",
+      "an increase / rise in the cost of living",
+      "reduce / cover the cost of living",
+      "the cost of living in + place",
+      "keep pace with the cost of living",
+      "a cost-of-living increase / adjustment",
+      "a cost-of-living allowance",
+      "the cost-of-living crisis"
+    ],
+    "usage": {
+      "article": "The phrase commonly takes the definite article when discussed generally: the cost of living is rising.",
+      "indefinite_article": "An indefinite article is natural when describing a particular level: a high cost of living.",
+      "singular_agreement": "The phrase normally takes a singular verb: The cost of living has increased.",
+      "hyphenation": "Hyphenate the phrase when it modifies another noun: a cost-of-living adjustment.",
+      "scope": "It commonly includes the prices of housing, food, transport, utilities, healthcare, and other ordinary necessities.",
+      "comparison": "Cost of living compares the expense of maintaining a certain way or level of life across places or periods.",
+      "measurement": "A cost-of-living index or consumer-price measure is an estimate based on a defined basket and methodology; different measures may produce different results.",
+      "register": "The phrase is standard in everyday, economic, employment, and public-policy discussion."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkɔːst əv ˈlɪvɪŋ/",
+      "uk": "/ˌkɒst əv ˈlɪvɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特定の場所・時期に通常の生活を維持するために必要な費用、生活費",
+      "住居・食料・交通・光熱費・医療など日常生活上の支出水準",
+      "一定の生活水準を保つために必要な金額",
+      "地域間または時期間で比較される生活必需品・サービスの価格水準",
+      "賃金・給付などを調整する際の基準となる生活費の変化"
+    ],
+    "en": [
+      "the amount of money required to maintain ordinary life in a particular place and period",
+      "the general level of spending required for housing, food, transport, utilities, healthcare, and other necessities",
+      "the expense of maintaining a specified standard or pattern of living",
+      "the relative price level of essential goods and services compared across places or periods",
+      "changes in household expenses used as a basis for adjusting wages, pensions, or benefits"
+    ]
+  },
+  "nuance": {
+    "ja": "cost of living は、単に一世帯が実際に支払った金額ではなく、特定の場所・時期に一定の生活水準を維持するために必要となる一般的な費用水準を表す。living expenses は個人や家庭の具体的な支出項目に焦点を置きやすいのに対し、cost of living は東京と地方、現在と前年などを比較する経済的な尺度としても使われる。standard of living は、所得・住宅・医療・教育・余暇などを含む生活の物質的水準であり、その生活を維持する費用とは異なる。inflation は物価全般の継続的な上昇を表し、cost of living の上昇を引き起こし得るが、両者は完全な同義語ではない。a cost-of-living adjustment は、生活費の変化に応じて賃金・年金・給付などを調整することで、しばしば COLA と略される。",
+    "en": "Cost of living does not merely mean the amount one household happened to spend. It describes the general expense required to maintain a given way or standard of life in a particular place and period. Living expenses more readily refers to the specific bills and expenditures of an individual or household, whereas cost of living also functions as an economic basis for comparing cities, countries, or time periods. Standard of living describes the material quality or level of life, including income, housing, healthcare, education, and leisure, rather than the expense required to sustain it. Inflation is a continuing general increase in prices and may raise the cost of living, but the terms are not identical. A cost-of-living adjustment changes wages, pensions, or benefits in response to changing living costs and is often abbreviated to COLA."
+  },
+  "minimal": {
+    "ja": [
+      "cost of living：一定の場所・時期に通常の生活水準を維持するために必要な費用。",
+      "living expenses：家賃・食費・交通費など、個人・家庭が実際に負担する日常的支出。",
+      "standard of living：所得・住宅・医療・消費などによって示される生活の物質的水準。",
+      "inflation：商品・サービスの一般的な価格水準が継続的に上昇すること。",
+      "consumer price index：代表的な消費財・サービスの価格変化を測る統計指標。",
+      "household expenses：世帯が負担する住居・食料・光熱費などの支出全般。",
+      "purchasing power：一定額の金銭で購入できる商品・サービスの量。",
+      "cost-of-living adjustment：生活費の変化に応じた賃金・年金・給付などの調整。"
+    ],
+    "en": [
+      "cost of living is the expense required to maintain a given level of ordinary life in a place and period.",
+      "living expenses are the actual everyday costs incurred by a person or household.",
+      "standard of living is the material quality or level of life reflected in income, housing, healthcare, and consumption.",
+      "inflation is a continuing general increase in the prices of goods and services.",
+      "a consumer price index statistically measures changes in the prices of a defined basket of consumer goods and services.",
+      "household expenses are the housing, food, utility, transport, and other costs paid by a household.",
+      "purchasing power is the quantity of goods and services that a given amount of money can buy.",
+      "a cost-of-living adjustment changes wages, pensions, or benefits in response to changes in living costs."
+    ]
+  },
+  "etymology": {
+    "ja": "cost は古フランス語 cost、現代フランス語 coût に関係し、ラテン語 constare「一定の価格である、成り立つ」にさかのぼる。constare は con-「ともに」と stare「立つ」から成り、価格が確定しているという意味を発達させた。living は古英語 libban「生きる」に由来する live の動名詞・名詞形である。cost of living は文字どおりには「生活することの費用」であり、近代的な物価・賃金・家計の統計が発達するにつれて、一定の生活水準を維持するために必要な費用を表す経済用語として定着した。",
+    "en": "Cost came through Old French cost and is related to modern French coût, ultimately deriving from Latin constare, to stand at a fixed price or consist. Constare combines con-, together, with stare, to stand, and developed the idea of an established price. Living is derived from live, from Old English libban, to be alive. Cost of living therefore literally means the expense of living. As modern statistics concerning prices, wages, and household budgets developed, the phrase became established as an economic term for the amount required to maintain a particular standard of life."
+  },
+  "synonyms": [
+    {
+      "word": "living expenses",
+      "note": {
+        "ja": "個人・家庭が日常生活のために実際に支払う家賃・食費・交通費など。",
+        "en": "The actual housing, food, transport, and other everyday expenses paid by a person or household."
+      }
+    },
+    {
+      "word": "living costs",
+      "note": {
+        "ja": "生活を維持するために必要な個々の費用を表す、cost of living に近い表現。",
+        "en": "A close expression referring to the individual costs required to maintain everyday life."
+      }
+    },
+    {
+      "word": "household expenses",
+      "note": {
+        "ja": "住居・食料・光熱費・保険など、世帯全体が負担する支出。",
+        "en": "The housing, food, utility, insurance, and other expenses borne by an entire household."
+      }
+    },
+    {
+      "word": "living expenditure",
+      "note": {
+        "ja": "生活維持のための支出を表す、統計・行政などで使われる比較的形式的な表現。",
+        "en": "A relatively formal term for expenditure required to maintain life, used in statistical or administrative contexts."
+      }
+    },
+    {
+      "word": "consumer costs",
+      "note": {
+        "ja": "消費者が商品・サービスを購入する際に負担する費用を広く表す。",
+        "en": "A broad expression for the costs consumers bear when purchasing goods and services."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Lebenshaltungskosten",
+    "it": "costo della vita",
+    "fr": "coût de la vie",
+    "es": "coste de vida / costo de vida"
+  },
+  "collocations": {
+    "ja": [
+      "a high cost of living — 高い生活費",
+      "a low cost of living — 低い生活費",
+      "the rising cost of living — 上昇する生活費",
+      "an increase in the cost of living — 生活費の上昇",
+      "the cost of living in Tokyo — 東京の生活費",
+      "cover the cost of living — 生活費を賄う",
+      "reduce the cost of living — 生活費を抑える",
+      "keep pace with the cost of living — 生活費の上昇に追いつく",
+      "a cost-of-living index — 生活費指数",
+      "a cost-of-living adjustment — 生活費調整",
+      "a cost-of-living allowance — 生活費手当",
+      "the cost-of-living crisis — 生活費高騰危機"
+    ],
+    "en": [
+      "a high cost of living",
+      "a low cost of living",
+      "the rising cost of living",
+      "an increase in the cost of living",
+      "the cost of living in Tokyo",
+      "cover the cost of living",
+      "reduce the cost of living",
+      "keep pace with the cost of living",
+      "a cost-of-living index",
+      "a cost-of-living adjustment",
+      "a cost-of-living allowance",
+      "the cost-of-living crisis"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The cost of living is considerably higher in the capital than in most rural areas. — 生活費は、ほとんどの地方部より首都の方がかなり高い。",
+      "Her salary increased, but it did not keep pace with the rising cost of living. — 彼女の給与は上がったが、生活費の上昇には追いつかなかった。",
+      "Housing accounts for a large proportion of the cost of living in many major cities. — 多くの大都市では、住宅費が生活費の大きな割合を占めている。",
+      "The employment contract provides a cost-of-living allowance for employees posted overseas. — その雇用契約では、海外赴任者に生活費手当を支給することが定められている。",
+      "Higher patent-renewal fees may be difficult for small firms to absorb when their other operating costs and the general cost of living are also rising. — その他の運営費や一般的な生活費も上昇している状況では、特許更新料の値上げを小規模企業が吸収することは難しい場合がある。"
+    ],
+    "en": [
+      "The cost of living is considerably higher in the capital than in most rural areas.",
+      "Her salary increased, but it did not keep pace with the rising cost of living.",
+      "Housing accounts for a large proportion of the cost of living in many major cities.",
+      "The employment contract provides a cost-of-living allowance for employees posted overseas.",
+      "Higher patent-renewal fees may be difficult for small firms to absorb when their other operating costs and the general cost of living are also rising."
+    ]
+  }
+},
+{
   "id": "economics",
   "sid": "2026-01319",
   "word": "economics",
