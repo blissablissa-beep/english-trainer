@@ -1,5 +1,208 @@
 [
 {
+  "id": "fulfill",
+  "sid": "2026-01379",
+  "word": "fulfill",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "obligation",
+    "promise",
+    "condition",
+    "requirement",
+    "expectation",
+    "purpose",
+    "potential",
+    "contract",
+    "business",
+    "legal",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base_us": "fulfill",
+      "base_uk": "fulfil",
+      "third_person_us": "fulfills",
+      "third_person_uk": "fulfils",
+      "past": "fulfilled",
+      "past_participle": "fulfilled",
+      "gerund": "fulfilling",
+      "noun": "fulfillment / fulfilment",
+      "adjective": "fulfilling",
+      "related_adjective": "fulfilled"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "fulfill + duty / obligation / promise",
+      "fulfill + condition / requirement / criterion",
+      "fulfill + purpose / function / role",
+      "fulfill + expectation / ambition / dream",
+      "fulfill one’s potential",
+      "fulfill the terms of + agreement",
+      "fulfill one’s responsibilities under + contract",
+      "be required to fulfill + obligation",
+      "be fulfilled by / through + noun",
+      "fail / refuse to fulfill + obligation"
+    ],
+    "usage": {
+      "object": "Fulfill takes an obligation, promise, condition, purpose, expectation, ambition, or similar abstract object.",
+      "spelling": "Fulfill is the standard American spelling. Fulfil is the traditional British spelling; fulfilled and fulfilling normally retain a double l in both varieties.",
+      "obligation": "Fulfill an obligation means perform everything that the obligation requires.",
+      "condition": "Fulfill a condition or requirement means satisfy the applicable standard.",
+      "purpose": "Fulfill a purpose or function means successfully perform the role for which something exists.",
+      "personal": "Fulfill a dream, ambition, or potential means make it real or develop it fully.",
+      "adjectives": "Fulfilling describes an activity that provides satisfaction, while fulfilled describes a person who feels satisfied.",
+      "register": "The verb is neutral to formal and is particularly common in business, legal, and institutional language."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/fʊlˈfɪl/",
+      "uk": "/fʊlˈfɪl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "義務・責任・約束を完全に果たす",
+      "条件・要件・基準を満たす",
+      "目的・機能・役割を果たす",
+      "夢・希望・野心などを実現する",
+      "能力・可能性を十分に発揮する",
+      "人に満足感・充実感を与える"
+    ],
+    "en": [
+      "to perform or discharge an obligation, responsibility, or promise completely",
+      "to satisfy a condition, requirement, criterion, or standard",
+      "to serve an intended purpose, function, or role",
+      "to make a dream, hope, or ambition become real",
+      "to develop and use one’s ability or potential fully",
+      "to provide a person with satisfaction, meaning, or a sense of completion"
+    ]
+  },
+  "nuance": {
+    "ja": "fulfill の中心は、求められている内容、期待される役割、または内在する可能性を十分に「満たす」ことである。fulfill an obligation は義務を履行すること、fulfill a condition は条件を充足すること、fulfill a promise は約束どおり行動することを意味する。accomplish が課題・目的を努力によって成し遂げる過程と成果に焦点を置くのに対し、fulfill は既に存在する義務・期待・条件・目的に適合することを強調しやすい。fulfill a dream では夢を現実にし、fulfill one’s potential では備えている能力を十分に開花させる。なお、a fulfilling career は「充実感を与える仕事」、feel fulfilled は「充実感を覚える」であり、能動的な性質と人の心理状態を区別する。",
+    "en": "The central idea of fulfill is completely satisfying something that is required, expected, promised, intended, or potentially capable of development. Fulfill an obligation means perform what the obligation requires; fulfill a condition means satisfy the applicable condition; and fulfill a promise means act as promised. Whereas accomplish often focuses on completing a task or achieving an objective through effort, fulfill more readily emphasizes conformity with an existing obligation, expectation, condition, or purpose. To fulfill a dream is to make it real, while to fulfill one’s potential is to develop one’s inherent ability fully. A fulfilling career provides satisfaction, whereas a person who feels fulfilled experiences that satisfaction."
+  },
+  "minimal": {
+    "ja": [
+      "fulfill：義務・約束・条件・期待・目的などを十分に満たす。",
+      "accomplish：課題・目的・仕事を努力によって成功裏に成し遂げる。",
+      "achieve：目標・成功・水準・結果などへ到達する。",
+      "satisfy：条件・要件・需要・欲求などを必要な程度まで満たす。",
+      "meet：要件・基準・期限・期待などに達し、適合する。",
+      "perform：職務・義務・作業などを実際に遂行する。",
+      "honor：約束・契約・義務などを尊重し、それに従って履行する。",
+      "realize：計画・夢・可能性などを現実のものにする。"
+    ],
+    "en": [
+      "fulfill means completely satisfying an obligation, promise, condition, expectation, or purpose.",
+      "accomplish means successfully completing a task, objective, or worthwhile undertaking.",
+      "achieve means reaching a desired result, success, level, or status.",
+      "satisfy means meeting a condition, requirement, need, or desire to the necessary degree.",
+      "meet means attaining or complying with a requirement, standard, deadline, or expectation.",
+      "perform means actually carrying out a task, function, duty, or operation.",
+      "honor means respecting and performing a promise, contract, or obligation.",
+      "realize means causing a plan, dream, or possibility to become real."
+    ]
+  },
+  "etymology": {
+    "ja": "fulfill は古英語 fullfyllan に由来し、full「いっぱいの、完全な」と fill「満たす」を組み合わせた語である。文字どおりには「完全に満たす」を意味し、要求・約束・予言などの内容をすべて実現するという意味へ発展した。full と fill はともに古いゲルマン語系の語にさかのぼる。中英語以降、fulfill は義務・約束・期待・目的などを果たす意味で広く使われるようになった。アメリカ英語では fulfill、イギリス英語では伝統的に fulfil と綴るが、派生形 fulfilled と fulfilling では通常どちらも l を二つ重ねる。",
+    "en": "Fulfill comes from Old English fullfyllan, formed from full and fill. Its literal sense was to fill completely, which developed into realizing the entire content of a requirement, promise, prophecy, or expectation. Both full and fill have ancient Germanic origins. From Middle English onward, fulfill became widely used for performing obligations and promises and satisfying purposes or expectations. American English normally uses fulfill, while traditional British spelling is fulfil; the derived forms fulfilled and fulfilling normally contain a double l in both varieties."
+  },
+  "synonyms": [
+    {
+      "word": "satisfy",
+      "note": {
+        "ja": "条件・要件・需要・期待などを、必要とされる水準まで満たす。",
+        "en": "Means meeting a condition, requirement, demand, or expectation to the required degree."
+      }
+    },
+    {
+      "word": "meet",
+      "note": {
+        "ja": "基準・条件・期限・期待などへ到達し、それに適合する。",
+        "en": "Means reaching and complying with a standard, condition, deadline, or expectation."
+      }
+    },
+    {
+      "word": "perform",
+      "note": {
+        "ja": "義務・役割・職務・作業として求められる行動を実際に行う。",
+        "en": "Means actually carrying out the actions required by a duty, function, role, or task."
+      }
+    },
+    {
+      "word": "honor",
+      "note": {
+        "ja": "約束・合意・契約などを尊重し、その内容に従って行動する。",
+        "en": "Means respecting a promise, agreement, or contract by acting in accordance with it."
+      }
+    },
+    {
+      "word": "realize",
+      "note": {
+        "ja": "夢・計画・目標・可能性などを具体的な現実にする。",
+        "en": "Means causing a dream, plan, objective, or possibility to become an actual reality."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "erfüllen / verwirklichen",
+    "it": "adempiere / soddisfare / realizzare",
+    "fr": "remplir / accomplir / réaliser",
+    "es": "cumplir / satisfacer / realizar"
+  },
+  "collocations": {
+    "ja": [
+      "fulfill a duty — 義務を果たす",
+      "fulfill an obligation — 債務・義務を履行する",
+      "fulfill a promise — 約束を果たす",
+      "fulfill a commitment — 確約した責任を果たす",
+      "fulfill a condition — 条件を満たす",
+      "fulfill a requirement — 要件を充足する",
+      "fulfill a purpose — 目的を果たす",
+      "fulfill a function — 機能を果たす",
+      "fulfill expectations — 期待に応える",
+      "fulfill a dream — 夢を実現する",
+      "fulfill one’s potential — 潜在能力を十分に発揮する",
+      "fulfill the terms of an agreement — 合意の条件を履行する"
+    ],
+    "en": [
+      "fulfill a duty",
+      "fulfill an obligation",
+      "fulfill a promise",
+      "fulfill a commitment",
+      "fulfill a condition",
+      "fulfill a requirement",
+      "fulfill a purpose",
+      "fulfill a function",
+      "fulfill expectations",
+      "fulfill a dream",
+      "fulfill one’s potential",
+      "fulfill the terms of an agreement"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She fulfilled her promise to return the money by the end of the month. — 彼女は月末までに金を返すという約束を果たした。",
+      "Applicants must fulfill all the requirements before submitting the final form. — 申請者は最終書類を提出する前に、すべての要件を満たさなければならない。",
+      "The new device performs well, but it does not fulfill its intended purpose. — その新しい装置はよく作動するが、本来の目的を果たしていない。",
+      "After years of training, he finally fulfilled his ambition of becoming a professional musician. — 何年もの訓練を経て、彼はプロの音楽家になるという大望をついに実現した。",
+      "The licensee must fulfill its royalty-payment obligations, while the patent owner must fulfill the corresponding duty to provide the agreed technical information. — ライセンシーはロイヤルティーの支払義務を履行しなければならず、特許権者も合意された技術情報を提供するという対応する義務を履行しなければならない。"
+    ],
+    "en": [
+      "She fulfilled her promise to return the money by the end of the month.",
+      "Applicants must fulfill all the requirements before submitting the final form.",
+      "The new device performs well, but it does not fulfill its intended purpose.",
+      "After years of training, he finally fulfilled his ambition of becoming a professional musician.",
+      "The licensee must fulfill its royalty-payment obligations, while the patent owner must fulfill the corresponding duty to provide the agreed technical information."
+    ]
+  }
+},
+{
   "id": "industrial-waste",
   "sid": "2026-01380",
   "word": "industrial waste",
