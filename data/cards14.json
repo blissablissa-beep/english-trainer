@@ -1,5 +1,204 @@
 [
 {
+  "id": "insolvency",
+  "sid": "2026-01317",
+  "word": "insolvency",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "debt",
+    "financial distress",
+    "solvency",
+    "creditor",
+    "debtor",
+    "cash flow",
+    "liabilities",
+    "bankruptcy",
+    "liquidation",
+    "business",
+    "legal",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "normally uncountable; countable when referring to separate cases or types, though this is less common",
+    "plural": "insolvencies",
+    "forms": {
+      "singular": "insolvency",
+      "plural": "insolvencies",
+      "adjective": "insolvent",
+      "opposite_noun": "solvency",
+      "opposite_adjective": "solvent",
+      "related_verb": "solve, historically related but not a modern equivalent"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "insolvency",
+      "be on the verge of insolvency",
+      "face / avoid insolvency",
+      "lead / contribute to insolvency",
+      "cause a company’s insolvency",
+      "insolvency proceedings",
+      "corporate / personal insolvency",
+      "cash-flow / balance-sheet insolvency",
+      "the risk / likelihood of insolvency",
+      "an insolvency practitioner"
+    ],
+    "usage": {
+      "financial_condition": "Insolvency is a financial or legally defined condition involving inability to pay debts or an unfavorable relationship between liabilities and assets.",
+      "uncountable": "It is normally uncountable when describing the condition: face insolvency; the risk of insolvency.",
+      "legal_tests": "Legal systems may apply a cash-flow test, a balance-sheet test, or another statutory test; the controlling definition depends on jurisdiction and context.",
+      "cash_flow": "Cash-flow insolvency generally concerns inability to pay debts as they become due.",
+      "balance_sheet": "Balance-sheet insolvency generally concerns liabilities exceeding assets under the applicable valuation rules.",
+      "bankruptcy_contrast": "Insolvency is a condition, whereas bankruptcy ordinarily refers to a formal legal proceeding or status.",
+      "liquidation_contrast": "An insolvent company may enter liquidation, restructuring, administration, or another procedure; insolvency does not itself mean that liquidation has occurred.",
+      "person_company": "Both individuals and organizations can be insolvent, although the available legal procedures and terminology vary."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈsɑːlvənsi/",
+      "uk": "/ɪnˈsɒlvənsi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "個人・企業などが期限の到来した債務を支払えない状態、支払不能",
+      "適用される評価基準において、負債が資産を上回る債務超過状態",
+      "債務者が十分な支払能力を失っている財務状態",
+      "倒産・破産・清算・再建などの法的手続きの原因となり得る経営破綻状態",
+      "法令上の特定の基準によって認定される支払能力の欠如"
+    ],
+    "en": [
+      "the condition of being unable to pay debts as they become due",
+      "a condition in which liabilities exceed assets under the applicable valuation rules",
+      "the lack of sufficient financial capacity to meet obligations",
+      "financial distress capable of leading to bankruptcy, liquidation, restructuring, or another legal procedure",
+      "a lack of solvency established under a particular statutory or legal test"
+    ]
+  },
+  "nuance": {
+    "ja": "insolvency は、債務者の「財務状態」を表し、正式な破産・清算手続きそのものではない。代表的な考え方には、期限の到来した債務を支払えるかを見る cash-flow insolvency と、一定の評価方法で負債が資産を上回るかを見る balance-sheet insolvency がある。ただし、具体的な定義・評価対象・時点・推定規定は法域や法令によって異なる。したがって、手元資金が一時的に不足しただけで常に法的な insolvency に該当するとも、資産総額が負債を上回っていれば必ず solvent であるとも限らない。bankruptcy は通常、申立てや命令を伴う正式な法的手続き・地位である。liquidation は資産の換価・債務処理・事業終了を進める手続きであり、insolvency の結果として選ばれることはあるが、両者は同義ではない。会社が insolvency に直面しても、再建・債務整理・資金注入などによって事業を継続できる場合がある。",
+    "en": "Insolvency describes a debtor’s financial condition rather than the formal bankruptcy or liquidation procedure itself. Common approaches include cash-flow insolvency, which concerns whether debts can be paid as they become due, and balance-sheet insolvency, which concerns whether liabilities exceed assets under applicable valuation rules. The exact definition, valuation method, relevant date, and statutory presumptions differ among jurisdictions and legal contexts. A temporary shortage of readily available cash therefore does not invariably establish legal insolvency, and assets exceeding liabilities do not necessarily establish an ability to pay debts when due. Bankruptcy ordinarily denotes a formal legal proceeding or status involving a petition, order, or similar act. Liquidation is a procedure for realizing assets, settling liabilities, and often ending a business. It may result from insolvency but is not synonymous with it. A company facing insolvency may sometimes continue through restructuring, debt arrangements, or additional financing."
+  },
+  "minimal": {
+    "ja": [
+      "insolvency：債務を期限どおり支払えない、または一定の基準で負債が資産を上回る財務状態。",
+      "bankruptcy：支払えない債務を法的に処理する正式な手続きまたは地位。",
+      "liquidation：資産を換価し、債務を処理して、通常は会社の業務を終了させる手続き。",
+      "default：期限までに特定の債務・契約上の義務を履行しないこと。",
+      "illiquidity：保有資産があっても、直ちに利用できる現金が不足している状態。",
+      "financial distress：債務返済や事業継続に困難が生じている広い財務危機状態。",
+      "solvency：債務を履行できる支払能力、または資産・負債関係が健全な状態。",
+      "restructuring：債務・事業・資本構成などを再編して財務状態の改善を図ること。"
+    ],
+    "en": [
+      "insolvency is a financial condition involving inability to pay debts or liabilities exceeding assets under a relevant test.",
+      "bankruptcy is a formal legal proceeding or status for dealing with debts that cannot be paid.",
+      "liquidation realizes assets and settles liabilities, commonly in connection with ending a company’s affairs.",
+      "default is failure to perform a particular debt or contractual obligation when it becomes due.",
+      "illiquidity is a shortage of immediately available cash despite the possible ownership of valuable assets.",
+      "financial distress is the broader condition of difficulty meeting obligations or continuing business.",
+      "solvency is the ability to meet debts or a financially sound relationship between assets and liabilities.",
+      "restructuring reorganizes debts, operations, or capital to improve financial viability."
+    ]
+  },
+  "etymology": {
+    "ja": "insolvency は insolvent に状態を表す接尾辞 -cy が付いて成立した。insolvent はラテン語 insolvens に由来し、否定を表す in- と solvere「解く、解放する、支払う」から成る。solvere は、拘束を「解く」ことから、債務を支払って義務関係を解消する意味を発達させた。したがって insolvent は文字どおりには「支払って解決することができない」、insolvency はその状態を表す。solvent、solvency、solve、solution も歴史的には同じ語族に属する。",
+    "en": "Insolvency was formed from insolvent with the state-forming suffix -cy. Insolvent derives from Latin insolvens and combines the negative prefix in- with solvere, to loosen, release, or pay. Solvere developed the financial sense of discharging a debt and thereby releasing the debtor from the obligation. Insolvent therefore literally represents being unable to pay and discharge an obligation, while insolvency denotes that condition. Solvent, solvency, solve, and solution belong historically to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "inability to pay",
+      "note": {
+        "ja": "期限の到来した債務を支払う能力がないことを直接的に表す。",
+        "en": "Directly describes the lack of capacity to pay debts as they become due."
+      }
+    },
+    {
+      "word": "financial distress",
+      "note": {
+        "ja": "支払困難・資金不足・収益悪化などを含む、insolvency より広い財務危機。",
+        "en": "A broader condition of financial difficulty that may include cash shortages, falling revenue, or payment problems."
+      }
+    },
+    {
+      "word": "illiquidity",
+      "note": {
+        "ja": "資産は保有していても、支払いに利用できる現金や換金容易な資産が不足している状態。",
+        "en": "A shortage of cash or readily realizable assets despite the possible ownership of valuable property."
+      }
+    },
+    {
+      "word": "negative net worth",
+      "note": {
+        "ja": "負債が資産を上回り、純資産がマイナスとなっている財務状態。",
+        "en": "A financial position in which liabilities exceed assets, producing a negative net asset value."
+      }
+    },
+    {
+      "word": "financial failure",
+      "note": {
+        "ja": "個人・企業の財務が破綻することを広く表す、非専門的な表現。",
+        "en": "A broad nontechnical expression for the breakdown of a person’s or organization’s finances."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Zahlungsunfähigkeit / Insolvenz",
+    "it": "insolvenza",
+    "fr": "insolvabilité",
+    "es": "insolvencia"
+  },
+  "collocations": {
+    "ja": [
+      "corporate insolvency — 企業の支払不能",
+      "personal insolvency — 個人の支払不能",
+      "cash-flow insolvency — キャッシュフロー上の支払不能",
+      "balance-sheet insolvency — 貸借対照表上の債務超過",
+      "face insolvency — 支払不能の危機に直面する",
+      "avoid insolvency — 支払不能を回避する",
+      "lead to insolvency — 支払不能につながる",
+      "the risk of insolvency — 支払不能の危険",
+      "insolvency proceedings — 倒産・支払不能処理手続き",
+      "insolvency law — 倒産法",
+      "an insolvency practitioner — 倒産処理の専門家",
+      "on the verge of insolvency — 支払不能寸前で"
+    ],
+    "en": [
+      "corporate insolvency",
+      "personal insolvency",
+      "cash-flow insolvency",
+      "balance-sheet insolvency",
+      "face insolvency",
+      "avoid insolvency",
+      "lead to insolvency",
+      "the risk of insolvency",
+      "insolvency proceedings",
+      "insolvency law",
+      "an insolvency practitioner",
+      "on the verge of insolvency"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company faced insolvency after it lost access to short-term credit. — その会社は短期信用を利用できなくなった後、支払不能の危機に直面した。",
+      "Temporary illiquidity does not necessarily amount to insolvency under every legal test. — 一時的な流動性不足が、あらゆる法的基準の下で必ず支払不能に該当するわけではない。",
+      "The directors obtained professional advice when the risk of insolvency became apparent. — 支払不能の危険が明らかになった時点で、取締役らは専門家の助言を求めた。",
+      "The restructuring provided additional time for the debtor to avoid liquidation and restore solvency. — その再建手続きにより、債務者は清算を回避して支払能力を回復するための追加時間を得た。",
+      "In insolvency proceedings, the treatment of patent and trademark licences depends on the applicable law and the terms of the agreements. — 倒産手続きにおける特許・商標ライセンスの取扱いは、適用法と契約条件によって異なる。"
+    ],
+    "en": [
+      "The company faced insolvency after it lost access to short-term credit.",
+      "Temporary illiquidity does not necessarily amount to insolvency under every legal test.",
+      "The directors obtained professional advice when the risk of insolvency became apparent.",
+      "The restructuring provided additional time for the debtor to avoid liquidation and restore solvency.",
+      "In insolvency proceedings, the treatment of patent and trademark licences depends on the applicable law and the terms of the agreements."
+    ]
+  }
+},
+{
   "id": "cost-of-living",
   "sid": "2026-01318",
   "word": "cost of living",
