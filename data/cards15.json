@@ -1,5 +1,203 @@
 [
 {
+  "id": "banal",
+  "sid": "2026-01395",
+  "word": "banal",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "unoriginal",
+    "commonplace",
+    "trivial",
+    "boring",
+    "cliché",
+    "language",
+    "idea",
+    "art",
+    "criticism",
+    "formal",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "banal",
+      "comparative": "more banal",
+      "superlative": "most banal",
+      "adverb": "banally",
+      "noun": "banality",
+      "plural_noun": "banalities",
+      "related_expression": "the banality of evil"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a banal + comment / observation",
+      "a banal idea / statement",
+      "banal conversation / dialogue",
+      "banal details / routines",
+      "seem / sound / become banal",
+      "dismiss something as banal",
+      "reduce something to a banal formula",
+      "avoid the banal",
+      "the banality of + noun",
+      "a series of banalities"
+    ],
+    "usage": {
+      "meaning": "Banal describes something unoriginal, predictable, and uninteresting because it has been said, written, or experienced too often.",
+      "objects": "It commonly modifies comments, ideas, observations, dialogue, plots, phrases, routines, and details.",
+      "evaluation": "The word is normally critical and suggests both familiarity and a lack of intellectual, artistic, or emotional freshness.",
+      "people": "It more naturally describes what a person says or produces than the person directly.",
+      "comparison": "More banal and most banal are standard.",
+      "pronunciation": "Several pronunciations occur in American English. The second-syllable-stressed /bəˈnæl/ is common; British English commonly uses /bəˈnɑːl/.",
+      "noun": "A banality is a commonplace, unoriginal statement or feature. Banalities often refers to conventional remarks.",
+      "register": "Banal is more formal and intellectually critical than everyday words such as boring or ordinary."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bəˈnæl/; also /ˈbeɪnəl/",
+      "uk": "/bəˈnɑːl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ありふれていて独創性のない、陳腐な",
+      "何度も繰り返されて新鮮味を失った",
+      "予想どおりで面白みのない",
+      "発言・考えなどが浅薄で月並みな",
+      "日常の細部・活動などが平凡で取るに足りない"
+    ],
+    "en": [
+      "so commonplace that it lacks originality or freshness",
+      "made uninteresting through excessive repetition",
+      "predictable and lacking anything distinctive or stimulating",
+      "for a statement or idea, superficial and conventionally expressed",
+      "for everyday details or activities, ordinary and seemingly insignificant"
+    ]
+  },
+  "nuance": {
+    "ja": "banal は、単に広く見られるというだけでなく、使い古され、独創性や知的刺激を失っているという批判を含む。a banal comment は、内容が間違っているとは限らないが、誰でも言える月並みな発言である。ordinary は価値判断を伴わず「普通の」と述べられるのに対し、banal は退屈・浅薄・陳腐という否定的評価を示す。trivial は重要性が低いこと、clichéd は表現や発想が使い古されていることを特に強調する。芸術・文学・学術的議論でよく使われるが、日常的な出来事について the banal details of everyday life のように用いると、平凡で目立たない側面を表すこともある。",
+    "en": "Banal does not merely mean common. It critically suggests that something has become stale and has lost originality or intellectual interest through familiarity or repetition. A banal comment need not be false, but it is predictable and could have been made by almost anyone. Ordinary can neutrally describe something as normal, whereas banal conveys a negative judgment of dullness, superficiality, or lack of freshness. Trivial particularly emphasizes lack of importance, while clichéd emphasizes an overused form of expression or idea. The word is common in criticism of art, literature, and argument, although the banal details of everyday life can more neutrally identify ordinary and inconspicuous aspects of experience."
+  },
+  "minimal": {
+    "ja": [
+      "banal：ありふれ、使い古されて独創性や面白みを失った。",
+      "ordinary：特別・異常ではなく普通の。必ずしも否定的ではない。",
+      "commonplace：頻繁に見られて目新しくない。名詞では月並みな発言も表す。",
+      "clichéd：表現・筋書き・発想などが使い古され、型通りである。",
+      "trite：言葉・考えが繰り返されすぎて新鮮さや効果を失った。",
+      "hackneyed：句・主題・表現などが酷使され、陳腐になった。",
+      "trivial：重要性・価値がほとんどなく、取るに足りない。",
+      "mundane：日常的・世俗的で、刺激や魅力に欠ける。"
+    ],
+    "en": [
+      "banal means commonplace, predictable, and lacking originality or interest.",
+      "ordinary means normal or not exceptional and is not necessarily negative.",
+      "commonplace means frequently encountered and unremarkable and can also denote a conventional remark.",
+      "clichéd describes an expression, plot, or idea that follows an overused formula.",
+      "trite describes words or ideas made ineffective through excessive repetition.",
+      "hackneyed describes a phrase, theme, or expression worn out through overuse.",
+      "trivial means having very little importance, seriousness, or value.",
+      "mundane means belonging to ordinary daily life and lacking excitement or appeal."
+    ]
+  },
+  "etymology": {
+    "ja": "banal はフランス語 banal に由来する。中世フランス語では、領主が ban「布告・支配権」によって住民へ共同使用を命じる製粉所・かまどなどを表し、「共同体全員が使用するもの」という意味を持った。そこから「誰にでも共通の」「普通の」という意味が生まれ、さらに「ありふれて独創性がない」という現在の否定的意味へ発展した。名詞 banality は「陳腐さ」または「月並みな発言」を表す。banal は、ドイツ語 banal、イタリア語 banale、フランス語 banal、スペイン語 banal としてヨーロッパ諸語に広く共有されている。",
+    "en": "Banal was borrowed from French banal. In medieval French, it described facilities such as a mill or oven that inhabitants were required to use under a feudal lord’s ban, or legal authority. From the idea of something used by everyone in the community, it developed the meaning common to all or ordinary. This in turn produced the modern negative sense commonplace and lacking originality. The noun banality means either the quality of being banal or a commonplace remark. Cognate forms are widely shared among European languages, including German banal, Italian banale, French banal, and Spanish banal."
+  },
+  "synonyms": [
+    {
+      "word": "trite",
+      "note": {
+        "ja": "言葉・格言・考えなどが繰り返されすぎて、本来の新鮮さや説得力を失っている。",
+        "en": "Describes words, sayings, or ideas that have lost freshness and force through excessive repetition."
+      }
+    },
+    {
+      "word": "commonplace",
+      "note": {
+        "ja": "頻繁に見聞きされ、珍しさや注目すべき特徴がない。",
+        "en": "Describes something frequently encountered and lacking novelty or distinction."
+      }
+    },
+    {
+      "word": "clichéd",
+      "note": {
+        "ja": "表現・人物像・筋書きなどが、使い古された定型に従っている。",
+        "en": "Describes expression, characterization, or plot following an overused conventional formula."
+      }
+    },
+    {
+      "word": "hackneyed",
+      "note": {
+        "ja": "主題・句・比喩などがあまりに酷使され、陳腐で効果を失っている。",
+        "en": "Describes a theme, phrase, or metaphor made stale and ineffective through overuse."
+      }
+    },
+    {
+      "word": "pedestrian",
+      "note": {
+        "ja": "文章・発想・作品などが想像力や面白みに欠け、平凡である。",
+        "en": "Describes writing, ideas, or creative work lacking imagination, distinction, or excitement."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "banal / abgedroschen",
+    "it": "banale / scontato",
+    "fr": "banal / rebattu",
+    "es": "banal / trillado"
+  },
+  "collocations": {
+    "ja": [
+      "a banal comment — 月並みな発言",
+      "a banal observation — ありふれた見解",
+      "a banal statement — 陳腐な言明",
+      "a banal idea — 独創性のない考え",
+      "a banal phrase — 使い古された表現",
+      "banal conversation — 退屈で月並みな会話",
+      "banal dialogue — 陳腐なせりふ",
+      "a banal plot — ありきたりな筋書き",
+      "the banal details of everyday life — 日常生活の平凡な細部",
+      "dismiss something as banal — 何かを陳腐だとして退ける",
+      "sound banal — 月並みに聞こえる",
+      "the banality of evil — 悪の凡庸さ"
+    ],
+    "en": [
+      "a banal comment",
+      "a banal observation",
+      "a banal statement",
+      "a banal idea",
+      "a banal phrase",
+      "banal conversation",
+      "banal dialogue",
+      "a banal plot",
+      "the banal details of everyday life",
+      "dismiss something as banal",
+      "sound banal",
+      "the banality of evil"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The conversation consisted mainly of banal comments about the weather. — その会話は主として天気についての月並みな発言で占められていた。",
+      "The film had impressive scenery but a banal and predictable plot. — その映画は景色こそ印象的だったが、筋書きは陳腐で予想どおりだった。",
+      "His advice was sensible, although it sounded banal at first. — 彼の助言は、最初は月並みに聞こえたものの、もっともなものだった。",
+      "The artist transformed the banal details of daily life into something emotionally powerful. — その芸術家は日常生活の平凡な細部を、感情に強く訴えるものへ変えた。",
+      "A patent claim should not be rejected merely because its wording appears banal; the relevant question is whether the claimed combination is novel and inventive. — 特許請求項は、その文言が月並みに見えるというだけで拒絶されるべきではなく、問題となるのは請求された組合せが新規性と進歩性を備えているかどうかである。"
+    ],
+    "en": [
+      "The conversation consisted mainly of banal comments about the weather.",
+      "The film had impressive scenery but a banal and predictable plot.",
+      "His advice was sensible, although it sounded banal at first.",
+      "The artist transformed the banal details of daily life into something emotionally powerful.",
+      "A patent claim should not be rejected merely because its wording appears banal; the relevant question is whether the claimed combination is novel and inventive."
+    ]
+  }
+},
+{
   "id": "mundane",
   "sid": "2026-01396",
   "word": "mundane",
