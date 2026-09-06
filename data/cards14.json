@@ -1,5 +1,209 @@
 [
 {
+  "id": "budget",
+  "sid": "2026-01335",
+  "word": "budget",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "adjective",
+    "money",
+    "planning",
+    "income",
+    "expenses",
+    "government",
+    "business",
+    "personal finance",
+    "travel",
+    "accounting",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb / attributive adjective",
+    "countability": "countable as a noun",
+    "plural": "budgets",
+    "forms": {
+      "noun_singular": "budget",
+      "noun_plural": "budgets",
+      "verb_base": "budget",
+      "third_person": "budgets",
+      "past": "budgeted",
+      "past_participle": "budgeted",
+      "gerund": "budgeting",
+      "adjective": "budget / budgetary",
+      "activity_noun": "budgeting"
+    },
+    "transitivity": "transitive or intransitive as a verb",
+    "patterns": [
+      "a budget of + amount",
+      "a budget for + project / period",
+      "set / prepare / approve a budget",
+      "be on / within / over budget",
+      "budget for + expense",
+      "budget + amount + for + purpose",
+      "budget carefully",
+      "be budgeted at + amount",
+      "a budget airline / hotel",
+      "a budgetary constraint / process"
+    ],
+    "usage": {
+      "noun": "A budget is a plan showing expected income, available funds, and intended expenditure over a period or for a project.",
+      "verb_for": "Budget for means allow money for a foreseeable expense: budget for repairs.",
+      "verb_amount": "Budget an amount for a purpose means reserve or plan to spend that amount: budget $5,000 for equipment.",
+      "status": "Within budget means not exceeding the planned amount; over budget means exceeding it.",
+      "personal": "On a budget means having limited money available and needing to control spending.",
+      "attributive": "Before a noun, budget can mean inexpensive or designed for customers seeking low prices: a budget hotel.",
+      "budgetary": "Budgetary is the more formal adjective for matters involving a budget or the budgeting process.",
+      "government": "In government, a budget is a formal plan or proposal concerning public revenue and expenditure, whose legal effect varies by system."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈbʌdʒɪt/",
+      "uk": "/ˈbʌdʒɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "一定期間の予想収入と予定支出を示す予算・収支計画",
+      "事業・購入・活動などに使用できる資金の上限",
+      "政府が予定する歳入・歳出を示す予算案または財政計画",
+      "動詞として、支出を計画し、目的ごとに資金を割り当てる",
+      "将来の費用を予想して、そのための金銭を確保する",
+      "形容詞的に、低価格の、必要最低限の設備・サービスを提供する"
+    ],
+    "en": [
+      "a plan of expected income and intended expenditure for a particular period",
+      "the maximum amount of money available for a project, purchase, or activity",
+      "a government plan or proposal concerning public revenue and spending",
+      "as a verb, to plan expenditure and allocate money among particular purposes",
+      "to anticipate an expense and reserve sufficient money for it",
+      "attributively, inexpensive or providing basic services at a relatively low price"
+    ]
+  },
+  "nuance": {
+    "ja": "budget は、単なる資金額ではなく、一定期間または特定事業について、利用可能な金銭をどのように配分するかを示す計画である。a budget of $10,000 は総額1万ドルの予算、a budget for advertising は広告用の予算を意味する。within budget は予定額を超えずに、under budget は予定額より少ない費用で、over budget は予算超過で、という意味になる。on a tight budget は使える金銭が限られている状態を表す。estimate は特定の費用についての予測額、forecast は将来の収入・支出・経済状態などの予測であり、必ずしも支出権限や上限を設定しない。形容詞的な budget は budget airline や budget hotel のように、低価格を優先し、サービスを簡素化した商品・事業を表す。",
+    "en": "A budget is not merely an amount of money but a plan for allocating available funds over a period or to a particular activity. A budget of $10,000 states the total amount, while a budget for advertising identifies its purpose. Within budget means without exceeding the planned amount, under budget means at a lower cost than planned, and over budget means beyond the approved or expected amount. On a tight budget indicates that only limited funds are available. An estimate predicts the likely cost of a particular item or job, while a forecast predicts future income, expenditure, or economic conditions and does not necessarily authorize spending or establish a ceiling. Attributive budget, as in budget airline or budget hotel, describes a low-priced offering that commonly provides simpler or more limited services."
+  },
+  "minimal": {
+    "ja": [
+      "budget：一定期間・事業について、収入と支出または資金配分を定める予算。",
+      "estimate：商品・工事・事業などに必要となる費用の概算・見積り。",
+      "forecast：将来の収入・需要・支出・経済状況などについての予測。",
+      "spending plan：金銭を何にいくら使うかを示す平易な表現。",
+      "appropriation：政府・議会などが特定目的への支出を正式に認める予算配分。",
+      "fund：特定の目的のために確保・管理される資金。",
+      "allowance：一定期間または特定目的のために与えられる金銭・手当。",
+      "budgetary：予算・予算編成・財政上の制約などに関する形式的な形容詞。"
+    ],
+    "en": [
+      "a budget is a plan allocating income or available funds among expenses over a period or project.",
+      "an estimate is an approximate calculation of the likely cost of an item, job, or project.",
+      "a forecast predicts future income, demand, expenditure, or economic conditions.",
+      "a spending plan is a plain expression for a plan showing how money will be used.",
+      "an appropriation is formal authorization, especially by a legislature, to spend money for a particular purpose.",
+      "a fund is money reserved and managed for a specified purpose.",
+      "an allowance is money provided regularly or for a particular category of expense.",
+      "budgetary is a formal adjective relating to budgets, budgeting, or fiscal constraints."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語 bougette「小さな革袋」に由来する。bougette は bouge「革袋、財布」の指小形で、さらにラテン語 bulga「革袋」にさかのぼる。イギリスでは、財務大臣が政府の財政計画を記した書類を袋に入れて議会へ持参したことから、その袋を開いて財政案を提示することが the budget と呼ばれるようになった。そこから、政府だけでなく企業・家庭・個人の収支計画や利用可能な資金額を広く表すようになった。",
+    "en": "Budget derives from Old French bougette, a small leather bag, the diminutive of bouge, a leather bag or wallet, ultimately from Latin bulga, a leather bag. In Britain, the Chancellor of the Exchequer traditionally brought financial proposals to Parliament in a bag, and opening or presenting the budget came to refer to presenting the government’s financial plan. The word consequently shifted from the container to its fiscal contents and later broadened to cover the income-and-expenditure plans of businesses, households, projects, and individuals."
+  },
+  "synonyms": [
+    {
+      "word": "spending plan",
+      "note": {
+        "ja": "収入・資金をどの目的にいくら使用するかを示す、平易で説明的な表現。",
+        "en": "A plain descriptive expression for a plan showing how income or funds will be spent."
+      }
+    },
+    {
+      "word": "financial plan",
+      "note": {
+        "ja": "予算に加え、貯蓄・投資・資金調達なども含み得る広い財務計画。",
+        "en": "A broader plan that may include budgeting, saving, investment, and financing."
+      }
+    },
+    {
+      "word": "estimate",
+      "note": {
+        "ja": "工事・購入・事業などの費用について、利用可能な情報から算出した概算。",
+        "en": "An approximate calculation of cost based on the information presently available."
+      }
+    },
+    {
+      "word": "allocation",
+      "note": {
+        "ja": "利用可能な資金・資源を特定の目的や部門へ割り当てること、または割当額。",
+        "en": "The assignment of available money or resources to a particular purpose or department."
+      }
+    },
+    {
+      "word": "appropriation",
+      "note": {
+        "ja": "公的機関が特定目的の支出について正式に承認すること、またはその金額。",
+        "en": "Formal authorization, especially by a public body, to spend a specified amount for a particular purpose."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Budget / Haushalt / veranschlagen",
+    "it": "bilancio preventivo / budget / preventivare",
+    "fr": "budget / budgétiser",
+    "es": "presupuesto / presupuestar"
+  },
+  "collocations": {
+    "ja": [
+      "set a budget — 予算を設定する",
+      "prepare a budget — 予算を作成する",
+      "approve a budget — 予算を承認する",
+      "a limited budget — 限られた予算",
+      "a tight budget — 厳しい予算",
+      "within budget — 予算内で",
+      "under budget — 予算額を下回って",
+      "over budget — 予算を超過して",
+      "on a budget — 限られた予算で",
+      "budget for unexpected expenses — 予期しない費用を予算に入れる",
+      "a budget airline — 格安航空会社",
+      "budgetary constraints — 予算上の制約"
+    ],
+    "en": [
+      "set a budget",
+      "prepare a budget",
+      "approve a budget",
+      "a limited budget",
+      "a tight budget",
+      "within budget",
+      "under budget",
+      "over budget",
+      "on a budget",
+      "budget for unexpected expenses",
+      "a budget airline",
+      "budgetary constraints"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We set a monthly budget for food, transport, and entertainment. — 私たちは食費・交通費・娯楽費について月間予算を設定した。",
+      "The construction project was completed on time and within budget. — その建設事業は期限どおり、予算内で完了した。",
+      "You should budget for unexpected repairs when buying an older house. — 古い住宅を購入するときは、予期しない修繕費も予算に入れるべきだ。",
+      "We stayed at a budget hotel near the station to reduce the cost of the trip. — 私たちは旅行費用を抑えるため、駅近くの格安ホテルに宿泊した。",
+      "The company budgeted additional funds for patent searches, filing fees, and foreign prosecution. — その会社は、特許調査・出願料・外国での権利化手続きのために追加資金を予算計上した。"
+    ],
+    "en": [
+      "We set a monthly budget for food, transport, and entertainment.",
+      "The construction project was completed on time and within budget.",
+      "You should budget for unexpected repairs when buying an older house.",
+      "We stayed at a budget hotel near the station to reduce the cost of the trip.",
+      "The company budgeted additional funds for patent searches, filing fees, and foreign prosecution."
+    ]
+  }
+},
+{
   "id": "extra-budget",
   "sid": "2026-01336",
   "word": "extra budget",
