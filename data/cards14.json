@@ -1,5 +1,203 @@
 [
 {
+  "id": "interest-rate",
+  "sid": "2026-01320",
+  "word": "interest rate",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun phrase",
+    "interest",
+    "loan",
+    "borrowing",
+    "saving",
+    "banking",
+    "finance",
+    "monetary policy",
+    "central bank",
+    "investment",
+    "mortgage",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "countable",
+    "plural": "interest rates",
+    "forms": {
+      "singular": "interest rate",
+      "plural": "interest rates",
+      "hyphenated_modifier": "interest-rate",
+      "related_noun": "interest",
+      "related_verb": "accrue / charge / pay interest"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an interest rate",
+      "a high / low interest rate",
+      "an interest rate of + percentage",
+      "the interest rate on + loan / account",
+      "at an interest rate of + percentage",
+      "raise / increase interest rates",
+      "cut / lower interest rates",
+      "interest rates rise / fall",
+      "a fixed / variable interest rate",
+      "an interest-rate increase / cut"
+    ],
+    "usage": {
+      "definition": "An interest rate expresses interest payable or receivable as a proportion of the principal over a specified period.",
+      "countable": "Interest rate is countable: an interest rate, several interest rates.",
+      "on_pattern": "Use on to identify the relevant loan, debt, deposit, or account: the interest rate on the mortgage.",
+      "percentage": "Use of after rate and at before the whole phrase: a rate of five percent; borrowed at an interest rate of five percent.",
+      "hyphenation": "Hyphenate the phrase when it modifies another noun: an interest-rate increase.",
+      "time_basis": "The relevant period, such as per year or per month, must be identified when it is not clear from context.",
+      "calculation": "A quoted interest rate does not by itself show whether interest is simple or compound or whether fees are included.",
+      "legal_scope": "Disclosure requirements, permitted rates, and calculation methods vary according to jurisdiction, contract, and financial product."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɪntrəst ˌreɪt/; also /ˈɪntərest ˌreɪt/",
+      "uk": "/ˈɪntrəst ˌreɪt/; also /ˈɪntərest ˌreɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "借入元本に対して一定期間に支払う利息の割合、金利",
+      "預金・投資元本に対して受け取る利息の割合",
+      "銀行・貸金業者などが融資に適用する利率",
+      "中央銀行の金融政策を通じて設定・誘導される政策金利または市場金利",
+      "元本に対する利息を百分率などで示した数値"
+    ],
+    "en": [
+      "the proportion of a loan’s principal payable as interest over a specified period",
+      "the proportion of a deposit or investment received as interest",
+      "the rate charged by a bank or lender for providing credit",
+      "a policy or market rate influenced by the monetary-policy decisions of a central bank",
+      "a percentage or other ratio expressing interest relative to principal"
+    ]
+  },
+  "nuance": {
+    "ja": "interest rate は、元本に対して一定期間に発生する利息の割合である。借り手にとっては借入費用、預金者・投資家にとっては資金を提供することで得る収益率となる。単に five percent と表示されていても、それが年率か月率か、固定か変動か、単利か複利か、手数料を含むかを確認しなければ実際の負担は分からない。fixed interest rate は一定期間変わらない金利、variable または floating interest rate は指標などに応じて変動する金利を表す。nominal interest rate は通常、物価変動を調整していない名目金利で、real interest rate はインフレの影響を考慮した実質金利である。APR は借入費用を比較するための年率表示だが、その法的定義と含まれる費用は制度によって異なり、単純な契約金利と同一とは限らない。",
+    "en": "An interest rate is the proportion of principal that accrues as interest over a specified period. For a borrower it represents part of the cost of obtaining credit, while for a depositor or investor it represents a return for supplying funds. A quotation of five percent alone does not reveal the actual cost unless one knows whether the period is annual or monthly, whether the rate is fixed or variable, whether interest is simple or compounded, and whether fees are included. A fixed interest rate remains unchanged for an agreed period, whereas a variable or floating rate changes according to an index or other mechanism. A nominal interest rate normally does not adjust for changes in prices, while a real interest rate takes inflation into account. APR is an annualized measure intended to assist comparison of borrowing costs, but its legal definition and included charges vary and it is not necessarily identical to the contractual interest rate."
+  },
+  "minimal": {
+    "ja": [
+      "interest rate：元本に対して一定期間に支払う、または受け取る利息の割合。",
+      "interest：金銭を借りた対価として支払う金額、または預金・投資から得る金額。",
+      "APR：金利や一定の費用を年率で表示した借入コストの指標。",
+      "yield：投資によって得られる収益を投資額などに対する割合で示したもの。",
+      "discount rate：文脈により、将来価値の現在価値換算や中央銀行融資などに用いる率。",
+      "fixed rate：契約で定めた期間中、原則として変化しない金利。",
+      "variable rate：基準金利・指標・契約条件などに応じて変動する金利。",
+      "exchange rate：一つの通貨を別の通貨へ交換する際の比率。"
+    ],
+    "en": [
+      "an interest rate is the proportion of principal paid or received as interest over a specified period.",
+      "interest is the monetary amount paid for borrowing or earned from a deposit or investment.",
+      "APR is an annualized measure of borrowing cost that may include interest and specified charges.",
+      "yield expresses investment income or return as a proportion of price, principal, or another base.",
+      "a discount rate is used, depending on context, to calculate present value or price certain central-bank lending.",
+      "a fixed rate ordinarily remains unchanged for a period specified by contract.",
+      "a variable rate changes according to a reference rate, index, or contractual mechanism.",
+      "an exchange rate is the ratio at which one currency can be exchanged for another."
+    ]
+  },
+  "etymology": {
+    "ja": "interest はラテン語 interesse「間にある、重要である、関係する」に由来し、inter-「間に」と esse「ある」から成る。債権者が返済の遅延などによって被る利害・損失を表す用法から、資金を貸す対価として支払われる金銭の意味が発達した。rate は中世ラテン語 rata「計算された割合」に関係し、ラテン語 reri「計算する、考える」にさかのぼる。interest rate は、利息を元本との比較によって計算した割合を意味する。",
+    "en": "Interest derives from Latin interesse, to be between, matter, or concern, combining inter-, between, with esse, to be. A sense involving a creditor’s stake or loss resulting from delayed payment developed into the money paid for the use of borrowed funds. Rate is related to medieval Latin rata, a calculated proportion, ultimately from Latin reri, to calculate or consider. Interest rate therefore denotes the calculated proportion between interest and the principal on which it accrues."
+  },
+  "synonyms": [
+    {
+      "word": "rate of interest",
+      "note": {
+        "ja": "interest rate と同じ意味を持つ、やや形式的な語順の表現。",
+        "en": "A slightly more formal alternative construction with the same basic meaning as interest rate."
+      }
+    },
+    {
+      "word": "borrowing rate",
+      "note": {
+        "ja": "借り手が融資について負担する金利に焦点を置く。",
+        "en": "Focuses on the rate charged to a borrower for obtaining a loan or other credit."
+      }
+    },
+    {
+      "word": "lending rate",
+      "note": {
+        "ja": "銀行などの貸し手が融資に適用する金利。",
+        "en": "The rate at which a bank or another lender provides loans."
+      }
+    },
+    {
+      "word": "deposit rate",
+      "note": {
+        "ja": "銀行などが預金者へ支払う利息の割合。",
+        "en": "The rate of interest paid by a bank or similar institution on deposited funds."
+      }
+    },
+    {
+      "word": "yield",
+      "note": {
+        "ja": "投資から生じる収益を価格・投資額・額面などとの割合で表したもの。",
+        "en": "Investment income or return expressed relative to price, amount invested, face value, or another base."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Zinssatz",
+    "it": "tasso d’interesse",
+    "fr": "taux d’intérêt",
+    "es": "tipo de interés / tasa de interés"
+  },
+  "collocations": {
+    "ja": [
+      "a high interest rate — 高金利",
+      "a low interest rate — 低金利",
+      "a fixed interest rate — 固定金利",
+      "a variable interest rate — 変動金利",
+      "a nominal interest rate — 名目金利",
+      "a real interest rate — 実質金利",
+      "an interest rate of five percent — 5パーセントの金利",
+      "raise interest rates — 金利を引き上げる",
+      "cut interest rates — 金利を引き下げる",
+      "interest rates rise — 金利が上昇する",
+      "the interest rate on a loan — 融資に適用される金利",
+      "an interest-rate increase — 金利引上げ"
+    ],
+    "en": [
+      "a high interest rate",
+      "a low interest rate",
+      "a fixed interest rate",
+      "a variable interest rate",
+      "a nominal interest rate",
+      "a real interest rate",
+      "an interest rate of five percent",
+      "raise interest rates",
+      "cut interest rates",
+      "interest rates rise",
+      "the interest rate on a loan",
+      "an interest-rate increase"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The bank offered the loan at a fixed interest rate of four percent per year. — 銀行は年4パーセントの固定金利で融資を提供した。",
+      "Higher interest rates can reduce demand for mortgages and business loans. — 金利の上昇は、住宅ローンや事業融資への需要を減少させることがある。",
+      "The interest rate on this savings account changes according to market conditions. — この普通預金口座の金利は市場環境に応じて変動する。",
+      "Borrowers should compare the total cost of credit rather than looking only at the advertised interest rate. — 借り手は、広告表示された金利だけでなく、信用供与の総費用を比較すべきである。",
+      "The licence agreement provides that overdue royalties accrue interest at the rate specified in the contract, subject to applicable law. — そのライセンス契約では、適用法に従い、支払期限を過ぎたロイヤルティーに契約所定の利率による利息が発生すると定めている。"
+    ],
+    "en": [
+      "The bank offered the loan at a fixed interest rate of four percent per year.",
+      "Higher interest rates can reduce demand for mortgages and business loans.",
+      "The interest rate on this savings account changes according to market conditions.",
+      "Borrowers should compare the total cost of credit rather than looking only at the advertised interest rate.",
+      "The licence agreement provides that overdue royalties accrue interest at the rate specified in the contract, subject to applicable law."
+    ]
+  }
+},
+{
   "id": "neither",
   "sid": "2026-01321",
   "word": "neither",
