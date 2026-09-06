@@ -1,5 +1,205 @@
 [
 {
+  "id": "patentability",
+  "sid": "2026-01399",
+  "word": "patentability",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "patent",
+    "patent law",
+    "invention",
+    "patent eligibility",
+    "novelty",
+    "inventive step",
+    "nonobviousness",
+    "utility",
+    "prior art",
+    "intellectual property",
+    "legal",
+    "technical",
+    "specialized"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable",
+    "plural": "not normally used",
+    "forms": {
+      "base": "patentability",
+      "adjective": "patentable",
+      "opposite_adjective": "unpatentable",
+      "related_noun": "patent",
+      "related_verb": "patent",
+      "related_expression": "patentability requirement"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "the patentability of + invention / claim",
+      "assess / determine / evaluate patentability",
+      "establish / support patentability",
+      "challenge / question patentability",
+      "affect / defeat patentability",
+      "a patentability search / analysis",
+      "a patentability requirement / criterion",
+      "an opinion on patentability",
+      "patentability over + prior art",
+      "be relevant to patentability"
+    ],
+    "usage": {
+      "uncountable": "Patentability is normally uncountable: assess patentability, not assess a patentability.",
+      "meaning": "Patentability means the capacity of an invention or claimed subject matter to satisfy the legal requirements for obtaining a patent.",
+      "multiple_requirements": "The applicable requirements may include eligible subject matter, novelty, inventive step or nonobviousness, utility or industrial applicability, and sufficient disclosure, depending on the jurisdiction and type of patent.",
+      "claim_focus": "Patentability is generally assessed in relation to the claimed subject matter rather than an invention described only in broad or commercial terms.",
+      "eligibility": "Patentability is broader than patent eligibility or patentable subject matter, which addresses whether the relevant category of subject matter can receive patent protection.",
+      "validity": "Patentability concerns whether patent protection should be granted; validity concerns whether an issued patent remains legally enforceable, though the underlying issues may overlap.",
+      "search": "A patentability search principally investigates prior art relevant to novelty and inventive step or nonobviousness but cannot conclusively guarantee that a patent will be granted.",
+      "jurisdiction": "Patentability requirements and examination standards vary by jurisdiction, filing date, claim type, and applicable law."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌpætəntəˈbɪləti/; also /ˌpeɪtəntəˈbɪləti/",
+      "uk": "/ˌpeɪtəntəˈbɪləti/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "発明・考案などが法的な特許要件を満たし得る性質、特許性",
+      "クレームされた発明について特許を取得できる可能性",
+      "新規性・進歩性または非自明性などを満たしていること",
+      "特許適格性・実用性または産業上の利用可能性などを含む総合的な特許要件",
+      "先行技術調査と法的分析によって評価される特許取得可能性"
+    ],
+    "en": [
+      "the capacity of an invention to satisfy the legal requirements for patent protection",
+      "the possibility that a claimed invention qualifies for the grant of a patent",
+      "compliance with requirements such as novelty and inventive step or nonobviousness",
+      "the overall legal qualification potentially including eligibility, utility or industrial applicability, and sufficient disclosure",
+      "the prospect of obtaining patent protection as assessed through prior-art searching and legal analysis"
+    ]
+  },
+  "nuance": {
+    "ja": "patentability は「特許性」、すなわち発明またはクレームされた主題が、適用法上の特許要件を満たすかという総合的な概念である。単に技術が新しいという意味ではなく、新規性、進歩性・非自明性、特許適格性、実用性・産業上の利用可能性、開示要件など、法域に応じた複数の問題が関係し得る。patent eligibility は保護対象となり得る主題の種類かを問う、より限定された概念であり、patentability 全体とは同義ではない。また、patentability search は主として関連する先行技術を調べ、新規性や進歩性を予備的に評価するものだが、未公開資料・調査範囲・審査官の判断などがあるため、特許取得を保証するものではない。さらに、特許を取得できることと、その技術を他者の権利を侵害せず実施できることは別問題である。",
+    "en": "Patentability is the overall legal capacity of an invention or claimed subject matter to satisfy the requirements for patent protection. It does not merely mean that a technology appears new. Depending on the jurisdiction, relevant questions may include novelty, inventive step or nonobviousness, patent eligibility, utility or industrial applicability, and disclosure requirements. Patent eligibility is narrower: it asks whether the subject matter belongs to a category capable of receiving patent protection and is therefore not synonymous with patentability as a whole. A patentability search principally investigates prior art to make a preliminary assessment of novelty and inventive step or nonobviousness, but it cannot guarantee grant because unpublished material, search limitations, and legal judgment may affect the result. Patentability also does not establish freedom to operate; a patentable invention may still fall within the scope of another person’s patent."
+  },
+  "minimal": {
+    "ja": [
+      "patentability：発明・クレームが適用法上の特許要件を満たす性質、特許性。",
+      "patent eligibility：主題が特許保護の対象となり得る種類に属するかという特許適格性。",
+      "novelty：発明が基準となる先行技術にすでに開示されていないという新規性。",
+      "inventive step：日本・欧州などで、発明が当業者に容易に想到できないことを求める進歩性。",
+      "nonobviousness：米国特許法上、クレーム発明が当業者にとって自明でないという要件。",
+      "validity：成立した特許が法的に有効であり続けるかという問題。",
+      "freedom to operate：他者の権利を侵害せず、製品・方法を実施できるかという問題。",
+      "patentability search：新規性・進歩性などを評価するための先行技術調査。"
+    ],
+    "en": [
+      "patentability is the capacity of an invention or claim to satisfy the applicable legal requirements for a patent.",
+      "patent eligibility asks whether the subject matter belongs to a category capable of patent protection.",
+      "novelty is the requirement that an invention not already be disclosed in the relevant prior art.",
+      "inventive step is the requirement used in Japan, Europe, and many other systems that an invention not be readily derivable by the skilled person.",
+      "nonobviousness is the U.S. requirement that the claimed invention not have been obvious to a person having ordinary skill in the art.",
+      "validity concerns whether an issued patent remains legally effective.",
+      "freedom to operate concerns whether a product or process can be practiced without infringing another party’s rights.",
+      "a patentability search investigates prior art to assess novelty and inventive step or nonobviousness."
+    ]
+  },
+  "etymology": {
+    "ja": "patentability は patentable「特許を受け得る」に、性質・能力を表す接尾辞 -ity が付いて成立した。patentable は patent と -able から成る。patent はラテン語 patens「開いている、公にされている」に由来し、patere「開いている」の現在分詞である。君主が公に権利を付与する open letters、すなわち letters patent から、発明について一定期間の排他的権利を与える制度と証書を表すようになった。そこから patentability は、発明がそのような権利付与の法的条件を満たす性質を意味するようになった。",
+    "en": "Patentability was formed from patentable with the suffix -ity, which denotes a quality or capacity. Patentable consists of patent and -able. Patent ultimately derives from Latin patens, open or exposed, the present participle of patere, to be open. Letters patent were open official documents through which a sovereign publicly granted rights or privileges. Patent consequently came to denote the document and legal right granting a limited exclusive right in an invention. Patentability then developed as the term for an invention’s capacity to meet the legal conditions for that grant."
+  },
+  "synonyms": [
+    {
+      "word": "eligibility for patent protection",
+      "note": {
+        "ja": "発明が特許保護を受けるための法的条件を満たし得ることを一般的に表す。",
+        "en": "Generally describes an invention’s capacity to meet the legal conditions for patent protection."
+      }
+    },
+    {
+      "word": "patent qualification",
+      "note": {
+        "ja": "特許取得のための要件充足を説明する一般的表現だが、patentability ほど定着した専門語ではない。",
+        "en": "A general description of qualification for a patent but less established as a technical term than patentability."
+      }
+    },
+    {
+      "word": "capacity to be patented",
+      "note": {
+        "ja": "発明が特許を受けられる法的性質を、説明的に言い換えた表現。",
+        "en": "An explanatory paraphrase for the legal capacity of an invention to receive patent protection."
+      }
+    },
+    {
+      "word": "patentworthiness",
+      "note": {
+        "ja": "特許を与えるに値する性質を表すまれな語で、通常は patentability が使われる。",
+        "en": "A rare term for deserving or qualifying for a patent; patentability is normally preferred."
+      }
+    },
+    {
+      "word": "registrability",
+      "note": {
+        "ja": "商標・意匠などが登録要件を満たす性質。特許の patentability と対応するが対象が異なる。",
+        "en": "The capacity of a trademark, design, or other right to satisfy registration requirements; the protected subject differs."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Patentierbarkeit",
+    "it": "brevettabilità",
+    "fr": "brevetabilité",
+    "es": "patentabilidad"
+  },
+  "collocations": {
+    "ja": [
+      "assess patentability — 特許性を評価する",
+      "determine patentability — 特許性を判断する",
+      "evaluate patentability — 特許性を検討する",
+      "establish patentability — 特許性を立証する",
+      "support patentability — 特許性を裏付ける",
+      "challenge patentability — 特許性を争う",
+      "affect patentability — 特許性に影響を与える",
+      "a patentability requirement — 特許要件",
+      "a patentability search — 特許性調査",
+      "a patentability analysis — 特許性分析",
+      "a patentability opinion — 特許性に関する意見",
+      "patentability over the prior art — 先行技術に対する特許性"
+    ],
+    "en": [
+      "assess patentability",
+      "determine patentability",
+      "evaluate patentability",
+      "establish patentability",
+      "support patentability",
+      "challenge patentability",
+      "affect patentability",
+      "a patentability requirement",
+      "a patentability search",
+      "a patentability analysis",
+      "a patentability opinion",
+      "patentability over the prior art"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The attorney conducted a prior-art search to make a preliminary assessment of the invention’s patentability. — 弁理士は、発明の特許性を予備的に評価するため先行技術調査を行った。",
+      "Commercial success alone does not necessarily establish patentability. — 商業的成功だけで必ずしも特許性が認められるわけではない。",
+      "The newly discovered publication may affect the patentability of several claims. — 新たに発見された刊行物は、複数の請求項の特許性に影響する可能性がある。",
+      "Patentability requirements differ among jurisdictions, so a favorable opinion in one country may not determine the result elsewhere. — 特許要件は法域によって異なるため、ある国での肯定的な見解が他国での結果を決定するとは限らない。",
+      "Although the improvement appeared to have patentability over the known products, the client still needed a separate freedom-to-operate analysis before commercialization. — その改良は既知の製品に対して特許性を有するように見えたが、依頼人は事業化の前に別途、実施自由性の分析を行う必要があった。"
+    ],
+    "en": [
+      "The attorney conducted a prior-art search to make a preliminary assessment of the invention’s patentability.",
+      "Commercial success alone does not necessarily establish patentability.",
+      "The newly discovered publication may affect the patentability of several claims.",
+      "Patentability requirements differ among jurisdictions, so a favorable opinion in one country may not determine the result elsewhere.",
+      "Although the improvement appeared to have patentability over the known products, the client still needed a separate freedom-to-operate analysis before commercialization."
+    ]
+  }
+},
+{
   "id": "prior-art",
   "sid": "2026-01400",
   "word": "prior art",
