@@ -1,1 +1,202 @@
-[]
+[
+{
+  "id": "agreement",
+  "sid": "2026-01349",
+  "word": "agreement",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "consent",
+    "accord",
+    "arrangement",
+    "contract",
+    "negotiation",
+    "opinion",
+    "grammar",
+    "business",
+    "international relations",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable for a particular arrangement or document; uncountable for the state of agreeing or grammatical agreement",
+    "plural": "agreements",
+    "forms": {
+      "singular": "agreement",
+      "plural": "agreements",
+      "verb": "agree",
+      "adjective": "agreed",
+      "related_adjective": "agreeable",
+      "opposite": "disagreement"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an agreement between + parties",
+      "an agreement with + person / organization",
+      "an agreement on / about + subject",
+      "an agreement to do",
+      "an agreement that + clause",
+      "reach / conclude / enter into an agreement",
+      "sign / perform / terminate an agreement",
+      "be in agreement with + person / proposition",
+      "by mutual agreement",
+      "subject-verb agreement"
+    ],
+    "usage": {
+      "consensus": "Uncountable agreement means a shared opinion or the state of accepting the same position.",
+      "arrangement": "A countable agreement is a particular arrangement under which parties accept specified terms.",
+      "document": "Agreement may also refer to the written document recording the parties’ arrangement.",
+      "legal_effect": "Some agreements are legally enforceable contracts, while others are social, political, preliminary, or otherwise non-binding.",
+      "prepositions": "Use between for the participating parties, with for the other party, and on or about for the subject matter.",
+      "infinitive": "Agreement to do identifies an action that the parties have accepted: an agreement to supply goods.",
+      "grammar_sense": "In grammar, agreement means correspondence between related words in features such as number, person, or gender.",
+      "drafting": "Calling a document an agreement does not by itself conclusively determine its legal character or enforceability."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈɡriːmənt/",
+      "uk": "/əˈɡriːmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "二人以上の人が同じ提案・条件・方針を受け入れること、合意",
+      "当事者間で取り決められた条件・約束",
+      "権利・義務などを定める協定・契約",
+      "合意内容を記載した書面",
+      "意見・判断・説明などが一致している状態",
+      "文法上、主語と動詞などの人称・数・性が一致すること"
+    ],
+    "en": [
+      "the act or state of two or more people accepting the same proposal, terms, or course of action",
+      "an arrangement containing terms or promises accepted by the parties",
+      "a contract or formal instrument establishing rights and obligations",
+      "a written document recording what the parties have agreed",
+      "the state of opinions, judgments, or accounts being consistent with one another",
+      "in grammar, correspondence between related words in person, number, gender, or another feature"
+    ]
+  },
+  "nuance": {
+    "ja": "agreement は「同意している状態」から、具体的な取り決め、さらにその内容を記載した文書までを広く表す。contract は通常、法律上強制可能な権利・義務を生じさせる合意に焦点を置くが、agreement は友人同士の非公式な約束や政治的合意など、法的拘束力のないものも含み得る。したがって、Every contract is an agreement, but not every agreement is a contract. という整理が一般的に可能である。ただし、文書の表題が Agreement か Contract かだけで法的拘束力が決まるわけではない。in agreement は「同意して」、reach an agreement は「協議の結果、合意に達する」を意味する。文法では subject-verb agreement のように、語形の数・人称などの一致を表す。",
+    "en": "Agreement broadly covers the state of agreeing, a particular arrangement, and the document recording that arrangement. Contract normally focuses on an agreement that creates legally enforceable rights or obligations, whereas agreement may also include an informal understanding between friends or a political arrangement without legal force. It is therefore generally possible to say that every contract is an agreement, but not every agreement is a contract. The title Agreement or Contract does not by itself determine whether a document is legally binding. In agreement means sharing the same view, while reach an agreement emphasizes successful completion of negotiation. In grammar, agreement describes correspondence in features such as number and person, as in subject-verb agreement."
+  },
+  "minimal": {
+    "ja": [
+      "agreement：当事者間の合意・取り決めを広く表し、法的拘束力を持つとは限らない。",
+      "contract：原則として、法律上強制可能な権利・義務を生じさせる契約。",
+      "arrangement：実務上の方法・役割などについて決めた取り決め。",
+      "understanding：明示的な契約でなくても、当事者間に成立している了解。",
+      "accord：対立・交渉を経て成立した正式な合意。外交文脈でも使われる。",
+      "consensus：集団内で広く共有される意見・判断。",
+      "consent：特定の提案・行為を自由意思で承認すること。",
+      "settlement：紛争・訴訟・請求を終結させるための合意。"
+    ],
+    "en": [
+      "an agreement is a broad mutual understanding or arrangement and is not necessarily legally binding.",
+      "a contract normally creates rights or obligations enforceable by law.",
+      "an arrangement is a practical plan concerning how activities, responsibilities, or resources will be organized.",
+      "an understanding is an accepted position between parties that may not be expressly stated in a formal contract.",
+      "an accord is a formal agreement, often reached after disagreement or diplomatic negotiation.",
+      "consensus is an opinion or judgment broadly shared within a group.",
+      "consent is voluntary approval of a particular proposal, act, or request.",
+      "a settlement is an agreement that resolves a dispute, lawsuit, or claim."
+    ]
+  },
+  "etymology": {
+    "ja": "agreement は動詞 agree に、状態・結果・行為を表す接尾辞 -ment が付いて成立した。agree は古フランス語 agreer「喜ばせる、満足させる、同意する」に由来し、これは句 a gré「好みに、意にかなって」と関係する。gré はラテン語 gratus「喜ばしい、ありがたい」にさかのぼる。相手の提案が意にかなうという発想から、「同意する」「意見が一致する」という意味が発達した。",
+    "en": "Agreement was formed from the verb agree with the noun-forming suffix -ment, which denotes a state, act, or result. Agree came from Old French agreer, meaning to please, satisfy, or consent, and is related to the phrase a gré, according to one’s pleasure. Gré ultimately derives from Latin gratus, pleasing or welcome. The idea that another person’s proposal was acceptable or pleasing developed into the meanings consent and hold the same opinion."
+  },
+  "synonyms": [
+    {
+      "word": "arrangement",
+      "note": {
+        "ja": "当事者が実務上の行動・役割・日程などについて決めた取り決め。",
+        "en": "A practical understanding about conduct, responsibilities, schedules, or the organization of activities."
+      }
+    },
+    {
+      "word": "understanding",
+      "note": {
+        "ja": "必ずしも正式な書面にされていない、当事者間の共通認識・了解。",
+        "en": "A shared understanding between parties that is not necessarily expressed in a formal written document."
+      }
+    },
+    {
+      "word": "accord",
+      "note": {
+        "ja": "交渉・対立の後に成立した正式な合意を表し、国際関係でもよく用いられる。",
+        "en": "A formal agreement, often reached after negotiation or conflict and commonly used in international relations."
+      }
+    },
+    {
+      "word": "consensus",
+      "note": {
+        "ja": "集団の構成員の間で広く共有される意見・判断。",
+        "en": "An opinion or judgment broadly shared among the members of a group."
+      }
+    },
+    {
+      "word": "contract",
+      "note": {
+        "ja": "法律上強制可能な権利・義務を生じさせる合意であり、agreement より法的意味が強い。",
+        "en": "An agreement creating legally enforceable rights or obligations and therefore carrying a stronger legal implication."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Vereinbarung / Einigung / Übereinstimmung",
+    "it": "accordo / intesa / concordanza",
+    "fr": "accord / entente / convention",
+    "es": "acuerdo / convenio / concordancia"
+  },
+  "collocations": {
+    "ja": [
+      "reach an agreement — 合意に達する",
+      "enter into an agreement — 契約・協定を締結する",
+      "sign an agreement — 契約書・協定書に署名する",
+      "conclude an agreement — 合意・協定を成立させる",
+      "honor an agreement — 合意を遵守する",
+      "breach an agreement — 合意・契約に違反する",
+      "terminate an agreement — 契約・協定を終了させる",
+      "a binding agreement — 法的拘束力のある合意",
+      "a mutual agreement — 相互の合意",
+      "an agreement between the parties — 当事者間の合意",
+      "be in agreement with someone — 人と意見が一致している",
+      "subject-verb agreement — 主語と動詞の一致"
+    ],
+    "en": [
+      "reach an agreement",
+      "enter into an agreement",
+      "sign an agreement",
+      "conclude an agreement",
+      "honor an agreement",
+      "breach an agreement",
+      "terminate an agreement",
+      "a binding agreement",
+      "a mutual agreement",
+      "an agreement between the parties",
+      "be in agreement with someone",
+      "subject-verb agreement"
+    ]
+  },
+  "example": {
+    "ja": [
+      "After several weeks of negotiation, the parties finally reached an agreement. — 数週間の交渉を経て、当事者たちはようやく合意に達した。",
+      "The agreement requires both companies to protect confidential information. — その契約は、両社に秘密情報の保護を義務付けている。",
+      "We are in agreement about the need to revise the schedule. — 日程を見直す必要があるという点で、私たちの意見は一致している。",
+      "Their informal agreement was never recorded in writing. — 彼らの非公式な取り決めは、一度も書面にされなかった。",
+      "A trademark coexistence agreement should define the permitted marks, goods, services, territories, and methods of use with sufficient precision. — 商標共存契約では、使用を認める商標、商品、役務、地域および使用方法を十分明確に定めるべきである。"
+    ],
+    "en": [
+      "After several weeks of negotiation, the parties finally reached an agreement.",
+      "The agreement requires both companies to protect confidential information.",
+      "We are in agreement about the need to revise the schedule.",
+      "Their informal agreement was never recorded in writing.",
+      "A trademark coexistence agreement should define the permitted marks, goods, services, territories, and methods of use with sufficient precision."
+    ]
+  }
+}
+]
