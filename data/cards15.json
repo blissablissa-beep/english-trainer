@@ -1,5 +1,791 @@
 [
 {
+  "id": "inductive",
+  "sid": "2026-01358",
+  "word": "inductive",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "reasoning",
+    "logic",
+    "inference",
+    "observation",
+    "evidence",
+    "probability",
+    "philosophy",
+    "science",
+    "research",
+    "legal",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "inductive",
+      "comparative": "more inductive",
+      "superlative": "most inductive",
+      "noun": "induction",
+      "verb": "induce",
+      "adverb": "inductively",
+      "related_noun": "inductive reasoning"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "inductive + reasoning / logic / argument",
+      "an inductive approach",
+      "an inductive inference",
+      "an inductive generalization",
+      "an inductive conclusion",
+      "an inductive research method",
+      "reason inductively",
+      "infer a general rule from + observations",
+      "draw an inductive conclusion from + evidence",
+      "distinguish inductive reasoning from deductive reasoning"
+    ],
+    "usage": {
+      "reasoning": "Inductive reasoning uses particular observations, examples, or data to develop or support a broader generalization.",
+      "probability": "An inductive conclusion is normally probable or well supported rather than logically guaranteed.",
+      "strength": "Inductive arguments are commonly evaluated as stronger or weaker according to how well the evidence supports the conclusion.",
+      "new_evidence": "An inductive conclusion remains open to revision when additional observations or contrary evidence become available.",
+      "research": "An inductive research approach commonly begins with observations or collected data and develops patterns, categories, hypotheses, or theories from them.",
+      "contrast": "Inductive reasoning is commonly contrasted with deductive reasoning, which derives necessary consequences from stated premises.",
+      "technical_sense": "In electrical engineering, inductive can also refer to electromagnetic induction or to a circuit containing inductance."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪnˈdʌktɪv/",
+      "uk": "/ɪnˈdʌktɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "個別の観察・事例・データから一般的な傾向や法則を導く、帰納的な",
+      "証拠に基づいて、必然的ではないが蓋然性のある結論を形成する",
+      "研究において、収集したデータからパターン・仮説・理論を構築する",
+      "経験的な事例を積み重ねて一般化を行う",
+      "電気・電子工学において、電磁誘導またはインダクタンスに関する"
+    ],
+    "en": [
+      "reasoning from particular observations, examples, or data toward a general conclusion",
+      "forming a probable rather than logically necessary conclusion on the basis of evidence",
+      "for research, developing patterns, hypotheses, or theories from collected data",
+      "making a generalization through the accumulation of empirical cases",
+      "in electrical engineering, relating to electromagnetic induction or inductance"
+    ]
+  },
+  "nuance": {
+    "ja": "inductive は、個別の観察や事例から、より一般的な傾向・規則・説明を導く推論を表す。例えば、これまで観察した多数の金属が加熱によって膨張したことから「金属は加熱すると膨張する」と一般化するのが帰納的推論である。ただし、観察例がどれほど多くても、未観察のすべての事例について結論が必然的に成立するとは限らない。このため、演繹的論証が valid か invalid かで評価されるのに対し、帰納的論証は通常 strong か weak か、または証拠によってどの程度支持されるかで評価される。新しい反例によって結論が修正され得ることも帰納の重要な特徴である。研究方法では、inductive approach はデータを出発点として概念や理論を形成する方法を指すが、実際の研究は帰納と演繹を往復することが多い。なお、工学分野の inductive load「誘導性負荷」などでは、論理的推論ではなく電磁誘導に関する意味となる。",
+    "en": "Inductive describes reasoning that moves from particular observations or cases toward a broader tendency, rule, or explanation. For example, observing that numerous metals expand when heated and then generalizing that metals expand when heated is inductive reasoning. Regardless of the number of observations, however, the conclusion is not logically guaranteed for every unobserved case. Deductive arguments are therefore classified as valid or invalid, whereas inductive arguments are commonly assessed as strong or weak, or according to the degree of support provided by the evidence. An inductive conclusion can also be revised when a new counterexample appears. In research methodology, an inductive approach begins with data and develops concepts or theories from it, although actual research frequently moves back and forth between induction and deduction. In engineering expressions such as inductive load, the word instead relates to electromagnetic induction."
+  },
+  "minimal": {
+    "ja": [
+      "inductive：個別の観察・事例から一般的な傾向や原則を導く「帰納的な」。",
+      "deductive：一般原則・前提から、論理的に必然となる個別の結論を導く「演繹的な」。",
+      "abductive：観察された事実を最もうまく説明する仮説を推定する「アブダクションによる」。",
+      "empirical：理論だけでなく、観察・実験・経験から得られる証拠に基づく。",
+      "inferential：前提・観察・証拠から結論を導く推論全般に関する。",
+      "probabilistic：結論や予測を確率によって表現・評価する。",
+      "generalizing：個別の事例から、より広い集団・状況に当てはまる結論を形成する。",
+      "induced：外部の作用によって引き起こされた。inductive とは用法が異なる。"
+    ],
+    "en": [
+      "inductive describes reasoning from particular observations or cases toward a generalization.",
+      "deductive describes reasoning from general principles or premises to a logically necessary particular conclusion.",
+      "abductive describes inferring the hypothesis that best explains an observed fact.",
+      "empirical means based on evidence obtained through observation, experiment, or experience.",
+      "inferential relates broadly to deriving conclusions from premises, observations, or evidence.",
+      "probabilistic describes conclusions or predictions expressed and evaluated in terms of probability.",
+      "generalizing means forming a conclusion intended to apply beyond the particular observed cases.",
+      "induced means caused or produced by an external influence and differs in use from inductive."
+    ]
+  },
+  "etymology": {
+    "ja": "inductive は、ラテン語 inducere「中へ導く、もたらす」を基礎とする後期ラテン語 inductivus に由来する。inducere は in-「中へ」と ducere「導く」から成る。個別の事例を集め、それらを通じて一般的な原則へ「導く」という発想から、論理学上の induction「帰納」の意味が発達した。induction、inductively、induce も同じ語族に属する。ただし induce は現代英語で「引き起こす」「説得して行わせる」などの意味にも広く使われる。また、電磁誘導を表す induction から、inductive circuit や inductive load などの工学的用法も生じた。",
+    "en": "Inductive comes from Late Latin inductivus, based on Latin inducere, meaning to lead in, bring in, or introduce. Inducere consists of in-, into, and ducere, to lead. The idea of being led through particular cases toward a general principle developed into the logical sense of induction. Induction, inductively, and induce belong to the same word family, although induce now also commonly means to cause something or persuade someone to act. The electrical sense of induction produced technical expressions such as inductive circuit and inductive load."
+  },
+  "synonyms": [
+    {
+      "word": "empirical",
+      "note": {
+        "ja": "観察・実験・経験によって得られた証拠に基づくことを強調する。",
+        "en": "Emphasizes reliance on evidence obtained through observation, experiment, or experience."
+      }
+    },
+    {
+      "word": "inferential",
+      "note": {
+        "ja": "観察・証拠・前提から結論を導く推論全般を表し、帰納だけには限定されない。",
+        "en": "Broadly relates to drawing conclusions from observations, evidence, or premises and is not limited to induction."
+      }
+    },
+    {
+      "word": "generalizing",
+      "note": {
+        "ja": "複数の個別事例に共通する特徴を、より広い集団や状況へ拡張する。",
+        "en": "Extends characteristics found in particular cases to a broader class or range of situations."
+      }
+    },
+    {
+      "word": "probabilistic",
+      "note": {
+        "ja": "必然的な結論ではなく、証拠に基づく確率・蓋然性を扱う。",
+        "en": "Deals with probability or evidential likelihood rather than a logically necessary conclusion."
+      }
+    },
+    {
+      "word": "data-driven",
+      "note": {
+        "ja": "既存の理論や直感よりも、収集したデータを判断・分析の出発点とする。",
+        "en": "Uses collected data rather than an existing theory or intuition as the principal basis for analysis."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "induktiv",
+    "it": "induttivo",
+    "fr": "inductif",
+    "es": "inductivo"
+  },
+  "collocations": {
+    "ja": [
+      "inductive reasoning — 帰納的推論",
+      "inductive logic — 帰納論理",
+      "an inductive argument — 帰納的論証",
+      "an inductive inference — 帰納的推論",
+      "an inductive generalization — 帰納的一般化",
+      "an inductive conclusion — 帰納的に導かれた結論",
+      "an inductive approach — 帰納的アプローチ",
+      "an inductive research method — 帰納的研究方法",
+      "inductive evidence — 帰納的結論を支える証拠",
+      "reason inductively — 帰納的に推論する",
+      "a strong inductive argument — 強い帰納的論証",
+      "an inductive load — 誘導性負荷"
+    ],
+    "en": [
+      "inductive reasoning",
+      "inductive logic",
+      "an inductive argument",
+      "an inductive inference",
+      "an inductive generalization",
+      "an inductive conclusion",
+      "an inductive approach",
+      "an inductive research method",
+      "inductive evidence",
+      "reason inductively",
+      "a strong inductive argument",
+      "an inductive load"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The scientists used inductive reasoning to identify a general pattern in the observations. — 科学者たちは、観察結果の中に一般的なパターンを見いだすため、帰納的推論を用いた。",
+      "An inductive conclusion can be strongly supported by evidence without being logically certain. — 帰納的結論は、論理的に確実でなくても、証拠によって強く支持されることがある。",
+      "The researchers adopted an inductive approach and developed their theory from the interview data. — 研究者らは帰納的アプローチを採用し、インタビューのデータから理論を構築した。",
+      "One contrary example may require us to revise an inductive generalization. — 一つの反例によって、帰納的一般化の修正が必要になる場合がある。",
+      "A series of similar judicial decisions may provide inductive support for predicting how a court will interpret a patent claim, but it cannot guarantee the outcome. — 一連の類似した裁判例は、裁判所が特許請求項をどのように解釈するかを予測する帰納的根拠となり得るが、その結果を保証するものではない。"
+    ],
+    "en": [
+      "The scientists used inductive reasoning to identify a general pattern in the observations.",
+      "An inductive conclusion can be strongly supported by evidence without being logically certain.",
+      "The researchers adopted an inductive approach and developed their theory from the interview data.",
+      "One contrary example may require us to revise an inductive generalization.",
+      "A series of similar judicial decisions may provide inductive support for predicting how a court will interpret a patent claim, but it cannot guarantee the outcome."
+    ]
+  }
+},
+{
+  "id": "be-all-ears",
+  "sid": "2026-01359",
+  "word": "be all ears",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "idiom",
+    "expression",
+    "listening",
+    "attention",
+    "interest",
+    "conversation",
+    "response",
+    "invitation",
+    "humor",
+    "informal",
+    "daily conversation",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic expression",
+    "forms": {
+      "base": "be all ears",
+      "present_first_person": "I am all ears",
+      "present_third_person": "he / she is all ears",
+      "past": "was / were all ears",
+      "future": "will be all ears",
+      "present_perfect": "have / has been all ears",
+      "contraction": "I’m all ears"
+    },
+    "transitivity": "not applicable; the verb be functions as a linking verb",
+    "patterns": [
+      "I’m all ears.",
+      "We’re all ears.",
+      "be all ears when + clause",
+      "be all ears as + clause",
+      "be all ears for + noun",
+      "If you have an idea, I’m all ears.",
+      "Tell me more—I’m all ears.",
+      "Go ahead; I’m all ears.",
+      "someone suddenly became all ears",
+      "someone was all ears"
+    ],
+    "usage": {
+      "meaning": "Be all ears means to be ready, willing, and interested in listening carefully to what someone is about to say.",
+      "common_form": "I’m all ears is by far the most common form and functions as an invitation for the other person to continue speaking.",
+      "tense": "The verb be changes normally according to tense and subject: she was all ears; they will be all ears.",
+      "complement": "The expression is usually complete without an object, although for, when, or as may introduce the topic or situation.",
+      "tone": "It is friendly, informal, and mildly playful rather than literally descriptive.",
+      "attention": "It expresses both attentive listening and interest; it does not merely mean that the speaker can hear.",
+      "formal_context": "In highly formal writing, use expressions such as be ready to listen, welcome someone’s views, or give full attention."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/biː ɔːl ˈɪrz/",
+      "uk": "/biː ɔːl ˈɪəz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "相手の話を注意深く聞く準備ができている",
+      "相手が話そうとしている内容に強い関心を示す",
+      "「ぜひ聞かせて」「聞く準備はできている」と発言を促す",
+      "話・提案・説明などへ全神経を集中して耳を傾ける",
+      "過去形では、ある話題が出た途端に強く興味を示して聞き入ったこと"
+    ],
+    "en": [
+      "to be fully prepared to listen carefully to someone",
+      "to show strong interest in what another person is about to say",
+      "to invite someone to continue by indicating a willingness to listen",
+      "to give complete attention to a story, proposal, or explanation",
+      "in the past tense, to have listened with particular interest when a subject arose"
+    ]
+  },
+  "nuance": {
+    "ja": "be all ears は、文字どおりには「全身が耳である」という誇張表現で、「ぜひ聞かせて」「しっかり聞いています」という積極的な関心を表す。単に音声が聞こえることではなく、相手の話に注意を向け、続きを歓迎していることが重要である。最も一般的なのは I’m all ears. で、相談・面白い話・提案・説明などを促す親しみのある返答として使われる。Tell me what happened—I’m all ears. のように、相手が話し始める直前に用いるのが自然である。文脈によっては「その話だけは聞き逃すまいと急に興味を示した」という少しユーモラスな含みも生じる。業務上の会話でもくだけた場面なら使えるが、契約書・意見書・正式な通知では welcome your comments や give careful consideration to のような具体的表現が適している。",
+    "en": "Be all ears is a deliberately exaggerated image in which the listener is figuratively nothing but ears. It means not merely being able to hear but actively directing attention toward another person and welcoming what they have to say. The most common form is I’m all ears, a friendly response that encourages someone to share a story, concern, proposal, or explanation. It is especially natural immediately before the other person begins or continues speaking, as in Tell me what happened—I’m all ears. In some contexts it humorously suggests that a person suddenly became highly interested when a particular topic arose. It can be used in relaxed professional conversation, but formal correspondence and legal documents normally require a more specific expression such as welcome your comments or give careful consideration to."
+  },
+  "minimal": {
+    "ja": [
+      "be all ears：相手の話に強い関心を持ち、注意深く聞く準備ができている。",
+      "listen：意識的に音・話へ注意を向けて聞くことを表す一般的な動詞。",
+      "hear：音が耳に入る、または話を聞いて知る。注意深さは必ずしも含まない。",
+      "pay attention：話・作業・状況へ意識を集中する。聴覚だけには限定されない。",
+      "hear someone out：反論・判断をせず、相手の話を最後まで聞く。",
+      "lend an ear：悩みや相談などに耳を傾ける。be all ears より支援的な響きがある。",
+      "be attentive：人や物事に注意を払い、必要な配慮を示している。",
+      "be all eyes：非常に注意深く見る。耳を傾ける be all ears とは感覚が異なる。"
+    ],
+    "en": [
+      "be all ears means being eager and fully prepared to listen to what someone has to say.",
+      "listen is the general verb for consciously directing attention to a sound or speaker.",
+      "hear means perceiving sound or learning something by being told and does not necessarily imply close attention.",
+      "pay attention means concentrating on a person, task, or situation and is not limited to listening.",
+      "hear someone out means listening until the person has finished before judging or responding.",
+      "lend an ear means listening sympathetically, especially to someone’s concern or problem.",
+      "be attentive means giving careful attention and appropriate consideration to someone or something.",
+      "be all eyes means watching something with intense attention rather than listening."
+    ]
+  },
+  "etymology": {
+    "ja": "be all ears は、聞くことへ全注意を集中している状態を、身体全体が耳になったかのように表現する誇張的な比喩である。英語では all を身体部位と組み合わせ、ある感覚や態度が全面に出ていることを表す用法があり、all eyes「目を凝らしている」なども同じ発想に基づく。all ears という表現は近代英語で定着し、やがて I’m all ears. の形で、相手に発言を促す慣用的な応答として広く使われるようになった。ここでの ears は複数形で固定されており、通常は an ear や one ear に置き換えない。",
+    "en": "Be all ears is a hyperbolic metaphor presenting a person as though the entire body had become ears in order to concentrate on listening. English can combine all with a body part to suggest that a particular sense or attitude completely dominates, as also seen in all eyes. The expression all ears became established in modern English and subsequently developed into the conventional conversational response I’m all ears, which invites another person to speak. Ears is fixed in the plural in this idiom and is not normally replaced by an ear or one ear."
+  },
+  "synonyms": [
+    {
+      "word": "listen attentively",
+      "note": {
+        "ja": "相手の話へ意識を集中して注意深く聞くことを、中立的かつ直接的に表す。",
+        "en": "Neutrally and directly describes concentrating carefully on what someone is saying."
+      }
+    },
+    {
+      "word": "hear someone out",
+      "note": {
+        "ja": "途中で遮ったり判断したりせず、相手が言いたいことを最後まで聞く。",
+        "en": "To listen until someone has finished speaking without interrupting or making an immediate judgment."
+      }
+    },
+    {
+      "word": "lend an ear",
+      "note": {
+        "ja": "特に悩み・相談・不満について、親身になって相手の話を聞く。",
+        "en": "To listen sympathetically, particularly when someone wants to discuss a concern or problem."
+      }
+    },
+    {
+      "word": "give someone one’s full attention",
+      "note": {
+        "ja": "ほかのことに気を取られず、相手へ注意を完全に集中する。",
+        "en": "To concentrate completely on someone without allowing other matters to distract one’s attention."
+      }
+    },
+    {
+      "word": "be eager to hear",
+      "note": {
+        "ja": "相手の話・説明・知らせをぜひ聞きたいという積極的な関心を示す。",
+        "en": "To show active interest and enthusiasm about hearing someone’s story, explanation, or news."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ganz Ohr sein",
+    "it": "essere tutt’orecchi",
+    "fr": "être tout ouïe",
+    "es": "ser todo oídos"
+  },
+  "collocations": {
+    "ja": [
+      "I’m all ears — ぜひ聞かせてください",
+      "we’re all ears — 私たちは聞く準備ができています",
+      "go ahead; I’m all ears — どうぞ、しっかり聞いています",
+      "tell me; I’m all ears — 話してください、ぜひ聞きたいです",
+      "I’m all ears if you have a suggestion — 提案があるならぜひ聞かせてください",
+      "be all ears for the latest news — 最新情報に熱心に耳を傾ける",
+      "suddenly become all ears — 突然強い関心を示して聞き始める",
+      "sit there all ears — その場で一心に耳を傾けている",
+      "be all ears when someone speaks — 人が話すとき注意深く耳を傾ける",
+      "be all ears during the explanation — 説明の間じゅう熱心に聞く",
+      "if you want to talk, I’m all ears — 話したければ、喜んで聞きます",
+      "the moment money was mentioned, he was all ears — 金の話が出た途端、彼は聞き耳を立てた"
+    ],
+    "en": [
+      "I’m all ears",
+      "we’re all ears",
+      "go ahead; I’m all ears",
+      "tell me; I’m all ears",
+      "I’m all ears if you have a suggestion",
+      "be all ears for the latest news",
+      "suddenly become all ears",
+      "sit there all ears",
+      "be all ears when someone speaks",
+      "be all ears during the explanation",
+      "if you want to talk, I’m all ears",
+      "the moment money was mentioned, he was all ears"
+    ]
+  },
+  "example": {
+    "ja": [
+      "You said you had an interesting story, so I’m all ears. — 面白い話があると言っていましたね。ぜひ聞かせてください。",
+      "If you have a better solution to the problem, we’re all ears. — その問題についてもっとよい解決策があるなら、ぜひお聞かせください。",
+      "She became all ears as soon as he mentioned the possibility of a promotion. — 彼が昇進の可能性に触れた途端、彼女は熱心に耳を傾け始めた。",
+      "Go ahead and explain what happened—I’m all ears. — どうぞ何が起きたのか説明してください。しっかり聞いています。",
+      "The client said, “I’m all ears,” when the patent attorney offered to explain the advantages and risks of the proposed amendment. — 弁理士が提案された補正の利点とリスクを説明すると申し出ると、依頼人は「ぜひ聞かせてください」と答えた。"
+    ],
+    "en": [
+      "You said you had an interesting story, so I’m all ears.",
+      "If you have a better solution to the problem, we’re all ears.",
+      "She became all ears as soon as he mentioned the possibility of a promotion.",
+      "Go ahead and explain what happened—I’m all ears.",
+      "The client said, “I’m all ears,” when the patent attorney offered to explain the advantages and risks of the proposed amendment."
+    ]
+  }
+},
+{
+  "id": "lend-an-ear",
+  "sid": "2026-01360",
+  "word": "lend an ear",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "idiom",
+    "expression",
+    "listening",
+    "sympathy",
+    "support",
+    "attention",
+    "advice",
+    "concern",
+    "conversation",
+    "figurative",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic verb phrase",
+    "forms": {
+      "base": "lend an ear",
+      "third_person": "lends an ear",
+      "past": "lent an ear",
+      "past_participle": "lent an ear",
+      "gerund": "lending an ear",
+      "variant": "lend a sympathetic ear"
+    },
+    "transitivity": "intransitive within the idiom; the listener or subject is commonly introduced by to",
+    "patterns": [
+      "lend an ear to + person",
+      "lend an ear to + concern / complaint / proposal",
+      "lend someone an ear",
+      "lend a sympathetic ear to + person",
+      "lend a willing ear to + person / request",
+      "be willing to lend an ear",
+      "always lend an ear when + clause",
+      "thank someone for lending an ear",
+      "need someone to lend an ear",
+      "refuse to lend an ear to + argument"
+    ],
+    "usage": {
+      "meaning": "Lend an ear means to listen attentively, often with sympathy, patience, or a willingness to help.",
+      "preposition": "The person or matter being heard commonly follows to: lend an ear to a colleague’s concerns.",
+      "double_object": "The pattern lend someone an ear is also possible, especially when emphasizing personal support.",
+      "variants": "Adjectives such as sympathetic, willing, or attentive can specify the listener’s attitude.",
+      "temporary_support": "The image of lending suggests making one’s attention temporarily available to another person.",
+      "response": "Listening does not necessarily mean agreeing, advising, or solving the speaker’s problem.",
+      "register": "The expression is conversational and mildly figurative but is also acceptable in general professional communication."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌlend ən ˈɪr/",
+      "uk": "/ˌlend ən ˈɪə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人の話・悩み・不満などに注意深く耳を傾ける",
+      "相手に共感や忍耐を示しながら話を聞く",
+      "話したい人のために時間を取り、聞き役になる",
+      "意見・提案・訴えなどを検討する姿勢を示す",
+      "必ずしも助言や解決をせず、話を聞くことで相手を支える"
+    ],
+    "en": [
+      "to listen attentively to someone’s story, concern, or complaint",
+      "to hear someone with sympathy, patience, or understanding",
+      "to make time to serve as a listener for someone who wants to talk",
+      "to show willingness to consider an opinion, proposal, or appeal",
+      "to support someone through listening without necessarily offering advice or a solution"
+    ]
+  },
+  "nuance": {
+    "ja": "lend an ear は、時間と注意を相手に一時的に「貸す」という比喩から、親身になって話を聞くことを表す。be all ears が「ぜひ聞かせて」と強い関心や聞く準備を明るく示すのに対し、lend an ear は悩み・不満・相談などを聞いて相手を支えるという含みを持ちやすい。lend a sympathetic ear とすれば、共感を示しながら聞くことがさらに明確になる。ただし、耳を傾けることは、相手の主張に同意したり、助言を与えたり、問題を解決したりすることまでは意味しない。lend an ear to a proposal のように、人だけでなく提案・議論・要望などを聞き入れる意味でも使える。自然な慣用句だが、正式な法律文書では hear the parties、consider the submissions、invite comments など、具体的な手続きを示す表現が適切である。",
+    "en": "Lend an ear metaphorically describes making one’s time and attention temporarily available to another person. Whereas be all ears often conveys eager interest and an upbeat invitation to speak, lend an ear more readily suggests supportive listening to a concern, complaint, or personal problem. Lend a sympathetic ear makes the element of empathy explicit. Listening in this way does not necessarily mean agreeing with the speaker, giving advice, or solving the problem. The object after to may also be a proposal, argument, or request rather than a person. Although the idiom is natural in general conversation and informal professional communication, formal legal writing usually requires a more specific expression such as hear the parties, consider the submissions, or invite comments."
+  },
+  "minimal": {
+    "ja": [
+      "lend an ear：人の話・悩みなどに、親身または注意深く耳を傾ける。",
+      "be all ears：相手の話に強い関心を持ち、「ぜひ聞かせて」と発言を促す。",
+      "listen：意識的に音や話へ注意を向けて聞くことを表す一般的な動詞。",
+      "hear：音が耳に入る、または話を聞いて知る。意識的な注意は必須ではない。",
+      "hear someone out：判断や反論を急がず、相手の話を最後まで聞く。",
+      "listen sympathetically：相手の感情を理解し、共感を示しながら話を聞く。",
+      "take heed：警告・忠告に注意を払い、それを真剣に受け止める。",
+      "turn a deaf ear：訴え・助言・要求を意図的に聞き入れない。lend an ear と対照的。"
+    ],
+    "en": [
+      "lend an ear means listening attentively or sympathetically to someone’s story or concern.",
+      "be all ears expresses eager interest and encourages another person to begin or continue speaking.",
+      "listen is the general verb for consciously directing attention to a sound or speaker.",
+      "hear means perceiving sound or learning something by being told and does not require deliberate attention.",
+      "hear someone out means listening until the person has finished before judging or responding.",
+      "listen sympathetically means hearing someone while showing understanding of the person’s feelings.",
+      "take heed means paying serious attention to and acting upon advice or a warning.",
+      "turn a deaf ear means deliberately refusing to listen to an appeal, request, or advice."
+    ]
+  },
+  "etymology": {
+    "ja": "lend an ear は、耳を物のように一時的に「貸す」という比喩に基づく。古英語に由来する lend は、本来、物を一定期間他人に使わせることを意味する。そこから、自分の時間・注意・援助を相手のために提供するという比喩的用法が発達した。ear も古英語 ēare にさかのぼる古いゲルマン語系の語である。英語では古くから give ear to や lend one’s ears to のように、耳を相手へ向けることによって「注意深く聞く」を表してきた。現代では lend an ear、特に lend a sympathetic ear が定着した形となっている。",
+    "en": "Lend an ear is based on the metaphor of temporarily lending one’s ear as though it were an object. Lend, from Old English, originally meant allowing another person to use something for a limited time. It consequently developed figurative uses involving the provision of one’s time, attention, or assistance. Ear derives from Old English eare and has deep Germanic roots. English has long used expressions such as give ear to and lend one’s ears to for directing attention toward a speaker. In present-day usage, lend an ear, especially lend a sympathetic ear, has become the established form."
+  },
+  "synonyms": [
+    {
+      "word": "listen attentively",
+      "note": {
+        "ja": "相手の話へ意識を集中して注意深く聞くことを、中立的かつ直接的に表す。",
+        "en": "Neutrally and directly describes concentrating carefully on what someone is saying."
+      }
+    },
+    {
+      "word": "hear someone out",
+      "note": {
+        "ja": "相手を途中で遮ったり結論を急いだりせず、その話を最後まで聞く。",
+        "en": "To listen until someone has finished without interrupting or reaching a premature judgment."
+      }
+    },
+    {
+      "word": "give someone one’s attention",
+      "note": {
+        "ja": "他のことに気を取られず、相手の話や必要性へ注意を向ける。",
+        "en": "To direct one’s attention toward another person rather than being distracted by other matters."
+      }
+    },
+    {
+      "word": "listen sympathetically",
+      "note": {
+        "ja": "相手の感情や事情への理解・共感を示しながら話を聞く。",
+        "en": "To listen while showing understanding and sympathy for another person’s feelings or circumstances."
+      }
+    },
+    {
+      "word": "be receptive to",
+      "note": {
+        "ja": "意見・提案・批判などを最初から拒まず、受け入れて検討する姿勢を持つ。",
+        "en": "To be willing to receive and consider an opinion, suggestion, or criticism."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "jemandem ein offenes Ohr leihen / für jemanden ein offenes Ohr haben",
+    "it": "prestare ascolto / porgere un orecchio",
+    "fr": "prêter une oreille attentive",
+    "es": "prestar oído / escuchar atentamente"
+  },
+  "collocations": {
+    "ja": [
+      "lend an ear to someone — 人の話に耳を傾ける",
+      "lend an ear to someone’s concerns — 人の懸念に耳を傾ける",
+      "lend an ear to a complaint — 苦情を注意深く聞く",
+      "lend an ear to a proposal — 提案に耳を傾ける",
+      "lend a sympathetic ear — 親身になって話を聞く",
+      "lend a willing ear — 進んで耳を傾ける",
+      "lend an attentive ear — 注意深く耳を傾ける",
+      "be ready to lend an ear — 話を聞く用意がある",
+      "always willing to lend an ear — いつでも進んで話を聞く",
+      "thank someone for lending an ear — 話を聞いてくれたことに感謝する",
+      "need someone to lend an ear — 誰かに話を聞いてもらう必要がある",
+      "refuse to lend an ear — 耳を傾けることを拒む"
+    ],
+    "en": [
+      "lend an ear to someone",
+      "lend an ear to someone’s concerns",
+      "lend an ear to a complaint",
+      "lend an ear to a proposal",
+      "lend a sympathetic ear",
+      "lend a willing ear",
+      "lend an attentive ear",
+      "be ready to lend an ear",
+      "always willing to lend an ear",
+      "thank someone for lending an ear",
+      "need someone to lend an ear",
+      "refuse to lend an ear"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Whenever I have a problem, she is willing to lend an ear. — 私が問題を抱えたとき、彼女はいつでも進んで話を聞いてくれる。",
+      "Thank you for lending a sympathetic ear when I needed someone to talk to. — 誰かに話を聞いてもらいたかったとき、親身に耳を傾けてくれてありがとう。",
+      "The manager lent an ear to the employees’ concerns but did not promise an immediate solution. — 管理職は従業員の懸念に耳を傾けたが、直ちに解決するとは約束しなかった。",
+      "Before rejecting the proposal, we should at least lend an ear to the arguments in its favor. — その提案を退ける前に、少なくとも賛成する側の主張には耳を傾けるべきだ。",
+      "The patent attorney lent an attentive ear to the inventor’s explanation before assessing whether the additional features were supported by the original application. — 弁理士は、追加された特徴が当初の出願に裏付けられているかを評価する前に、発明者の説明へ注意深く耳を傾けた。"
+    ],
+    "en": [
+      "Whenever I have a problem, she is willing to lend an ear.",
+      "Thank you for lending a sympathetic ear when I needed someone to talk to.",
+      "The manager lent an ear to the employees’ concerns but did not promise an immediate solution.",
+      "Before rejecting the proposal, we should at least lend an ear to the arguments in its favor.",
+      "The patent attorney lent an attentive ear to the inventor’s explanation before assessing whether the additional features were supported by the original application."
+    ]
+  }
+},
+{
+  "id": "go-cold-turkey",
+  "sid": "2026-01361",
+  "word": "go cold turkey",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "idiom",
+    "verb phrase",
+    "cessation",
+    "habit",
+    "addiction",
+    "withdrawal",
+    "smoking",
+    "alcohol",
+    "technology",
+    "self-control",
+    "health",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic verb phrase",
+    "forms": {
+      "base": "go cold turkey",
+      "third_person": "goes cold turkey",
+      "past": "went cold turkey",
+      "past_participle": "gone cold turkey",
+      "gerund": "going cold turkey",
+      "related_noun": "cold-turkey withdrawal",
+      "attributive": "a cold-turkey approach"
+    },
+    "transitivity": "intransitive; the thing stopped is normally introduced by on or specified elsewhere",
+    "patterns": [
+      "go cold turkey",
+      "go cold turkey on + substance / habit",
+      "go cold turkey from + substance",
+      "decide / try to go cold turkey",
+      "quit + noun + cold turkey",
+      "stop + gerund + cold turkey",
+      "give up + noun + cold turkey",
+      "after going cold turkey",
+      "a cold-turkey approach to + noun",
+      "experience withdrawal after going cold turkey"
+    ],
+    "usage": {
+      "meaning": "Go cold turkey means to stop an addictive substance or established habit abruptly and completely rather than reducing it gradually.",
+      "preposition": "On is common when naming a habit or substance: go cold turkey on social media. From is also used, especially when emphasizing withdrawal from a substance.",
+      "alternative_pattern": "Cold turkey can function adverbially after quit, stop, or give up: She quit smoking cold turkey.",
+      "scope": "The expression is used both for substance use and, often humorously, for habits such as gaming, social media, caffeine, or shopping.",
+      "withdrawal": "Abruptly stopping some substances can cause withdrawal symptoms; the idiom itself does not indicate whether stopping suddenly is medically safe.",
+      "register": "It is informal. Formal contexts normally use stop abruptly, discontinue immediately, or undergo abrupt withdrawal.",
+      "hyphenation": "Hyphenation is common before a noun, as in a cold-turkey approach, but normally absent in go cold turkey."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɡoʊ koʊld ˈtɜːrki/",
+      "uk": "/ˌɡəʊ kəʊld ˈtɜːki/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "依存性のある物質の使用を、段階的に減らさず突然完全にやめる",
+      "喫煙・飲酒などの習慣を、準備期間を置かずきっぱり断つ",
+      "SNS・ゲーム・買い物などの習慣を一気にやめる",
+      "補助薬や代替手段を用いず、自力で習慣を断とうとする",
+      "突然の中止によって離脱症状を経験することを含意する場合がある"
+    ],
+    "en": [
+      "to stop using an addictive substance suddenly and completely rather than reducing it gradually",
+      "to give up a habit such as smoking or drinking without a transitional period",
+      "to stop an established habit such as social media, gaming, or shopping all at once",
+      "to attempt to quit without replacement products or other forms of assistance",
+      "sometimes, to undergo withdrawal symptoms following abrupt cessation"
+    ]
+  },
+  "nuance": {
+    "ja": "go cold turkey は、少しずつ量や頻度を減らすのではなく、ある時点できっぱり完全にやめることを表す。典型的にはたばこ・アルコール・薬物などについて使われるが、現代の日常会話では caffeine、social media、video games、online shopping などにも、しばしば誇張やユーモアを込めて用いられる。I quit smoking cold turkey. のように cold turkey を副詞的に使う形も非常に一般的である。この表現には、意志の力だけで突然やめたという含みが生じることがあるが、必ずしも専門的支援を一切受けなかったことまで厳密に意味するわけではない。なお、アルコールや一部の医薬品などは突然中止すると危険な離脱症状が生じることがあるため、この慣用句を医学的な推奨と解釈すべきではない。",
+    "en": "Go cold turkey emphasizes stopping completely at a particular point rather than gradually reducing the amount or frequency. It is traditionally associated with tobacco, alcohol, and drugs, but in everyday speech it is also applied, often humorously or hyperbolically, to caffeine, social media, video games, and online shopping. The adverbial construction I quit smoking cold turkey is also extremely common. The expression may suggest relying primarily on willpower and stopping without a gradual plan, although it does not invariably establish that no professional support was used. Because abruptly discontinuing alcohol or certain medications can produce dangerous withdrawal effects, the idiom should not itself be understood as medical advice."
+  },
+  "minimal": {
+    "ja": [
+      "go cold turkey：依存物質や習慣を、徐々に減らさず突然完全にやめる。",
+      "quit：仕事・活動・習慣などをやめることを広く表す一般的な動詞。",
+      "give up：習慣・活動・所有物などを手放し、継続しないことにする。",
+      "cut down on：使用量・頻度を減らすが、完全にはやめない。",
+      "taper off：量・強度・頻度を少しずつ減らし、最終的にやめる。",
+      "wean oneself off：依存している物・習慣から段階的に離れる。",
+      "abstain from：飲酒・喫煙・特定の行為などを意識的に控える。より形式的。",
+      "withdrawal：依存性のある物質を減量・中止した際に生じる心身の反応。"
+    ],
+    "en": [
+      "go cold turkey means stopping a substance or habit abruptly and completely rather than gradually.",
+      "quit is the general verb for ceasing a job, activity, or habit.",
+      "give up means deciding to stop an activity or relinquish something one has used or enjoyed.",
+      "cut down on means reducing the amount or frequency without stopping completely.",
+      "taper off means gradually reducing an amount, intensity, or frequency before stopping.",
+      "wean oneself off means progressively becoming independent of a substance or established habit.",
+      "abstain from formally means deliberately avoiding alcohol, smoking, or another activity.",
+      "withdrawal is the physical or psychological response caused by reducing or stopping an addictive substance."
+    ]
+  },
+  "etymology": {
+    "ja": "cold turkey が突然の中止を意味するようになった正確な経緯については、複数の説明があり確定していない。一説では、薬物などを突然断った際の青白く鳥肌の立った皮膚が、冷えた七面鳥の皮に似ていることに由来するとされる。別の説明では、cold turkey がもともと率直で飾り気のない話し方や行動を表し、準備や婉曲表現なしに直ちに事を行う意味から「突然やめる」へ発展したとされる。20世紀前半には、依存性物質を急に断つことを表す用法が英語で定着した。現在では物質依存に限らず、さまざまな習慣を一気に断つ場合にも使われる。",
+    "en": "The precise origin of cold turkey in the sense of abrupt cessation is uncertain, and several explanations have been proposed. One theory connects it with the pale, gooseflesh-like skin experienced during severe withdrawal, which was thought to resemble the skin of a cold turkey. Another traces it to an earlier use of cold turkey for plain, direct, and unembellished speech or action, from which the idea of acting immediately without preparation may have developed. By the early twentieth century, the expression had become established for suddenly stopping the use of an addictive substance. Its scope later expanded to many other habits."
+  },
+  "synonyms": [
+    {
+      "word": "quit abruptly",
+      "note": {
+        "ja": "活動・習慣・物質の使用を突然やめることを、中立的かつ直接的に表す。",
+        "en": "Neutrally and directly describes suddenly stopping an activity, habit, or substance."
+      }
+    },
+    {
+      "word": "stop completely",
+      "note": {
+        "ja": "量を減らすだけでなく、使用・行動を完全に終了することを強調する。",
+        "en": "Emphasizes ending the use or activity entirely rather than merely reducing it."
+      }
+    },
+    {
+      "word": "give up",
+      "note": {
+        "ja": "習慣・活動・嗜好品などをやめるという一般的な表現で、突然か段階的かは示さない。",
+        "en": "A general expression for abandoning a habit or activity without specifying whether the process is sudden or gradual."
+      }
+    },
+    {
+      "word": "abstain from",
+      "note": {
+        "ja": "特定の物質・飲食物・行為を意識的に避けることを表す、比較的形式的な語。",
+        "en": "A relatively formal expression for deliberately avoiding a particular substance, food, drink, or activity."
+      }
+    },
+    {
+      "word": "cut something out",
+      "note": {
+        "ja": "食生活・日課などから、好ましくない物や行為を完全に取り除く口語表現。",
+        "en": "An informal expression for completely removing an unwanted item or activity from one’s diet or routine."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "etwas von heute auf morgen aufgeben / einen kalten Entzug machen",
+    "it": "smettere di colpo / interrompere bruscamente",
+    "fr": "arrêter net / arrêter du jour au lendemain",
+    "es": "dejarlo de golpe / dejarlo en seco"
+  },
+  "collocations": {
+    "ja": [
+      "go cold turkey on cigarettes — たばこを突然きっぱりやめる",
+      "go cold turkey on alcohol — 酒を突然完全に断つ",
+      "go cold turkey on caffeine — カフェインを一気に断つ",
+      "go cold turkey on social media — SNSを突然完全にやめる",
+      "go cold turkey on video games — テレビゲームを一気にやめる",
+      "decide to go cold turkey — 一気にやめることを決意する",
+      "try to go cold turkey — 突然完全にやめようとする",
+      "quit smoking cold turkey — 禁煙を突然始める",
+      "give up sugar cold turkey — 砂糖を一気に断つ",
+      "a cold-turkey approach — 段階を踏まず一気にやめる方法",
+      "cold-turkey withdrawal — 突然の中止による離脱",
+      "experience symptoms after going cold turkey — 突然やめた後に症状を経験する"
+    ],
+    "en": [
+      "go cold turkey on cigarettes",
+      "go cold turkey on alcohol",
+      "go cold turkey on caffeine",
+      "go cold turkey on social media",
+      "go cold turkey on video games",
+      "decide to go cold turkey",
+      "try to go cold turkey",
+      "quit smoking cold turkey",
+      "give up sugar cold turkey",
+      "a cold-turkey approach",
+      "cold-turkey withdrawal",
+      "experience symptoms after going cold turkey"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He went cold turkey and stopped smoking completely on New Year’s Day. — 彼は元日にたばこをきっぱりやめ、その後は一本も吸わなかった。",
+      "I tried going cold turkey on coffee, but the headaches made it difficult to concentrate. — コーヒーを一気に断とうとしたが、頭痛のため集中するのが難しかった。",
+      "Instead of gradually limiting her screen time, she went cold turkey on social media for a month. — 彼女は画面を見る時間を徐々に減らすのではなく、1か月間SNSを完全に断った。",
+      "Going cold turkey is not always the safest way to stop using a substance, so professional advice may be necessary. — 物質の使用を突然中止することが常に最も安全な方法とは限らないため、専門家の助言が必要な場合がある。",
+      "The company could not go cold turkey on the licensed technology because its existing products still depended on several patented components. — 既存製品がなお複数の特許部品に依存していたため、その会社はライセンス技術の使用を突然全面的に中止することができなかった。"
+    ],
+    "en": [
+      "He went cold turkey and stopped smoking completely on New Year’s Day.",
+      "I tried going cold turkey on coffee, but the headaches made it difficult to concentrate.",
+      "Instead of gradually limiting her screen time, she went cold turkey on social media for a month.",
+      "Going cold turkey is not always the safest way to stop using a substance, so professional advice may be necessary.",
+      "The company could not go cold turkey on the licensed technology because its existing products still depended on several patented components."
+    ]
+  }
+},
+{
   "id": "long-face",
   "sid": "2026-01362",
   "word": "long face",
