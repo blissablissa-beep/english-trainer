@@ -1,5 +1,202 @@
 [
 {
+  "id": "whichever",
+  "sid": "2026-01323",
+  "word": "whichever",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "determiner",
+    "pronoun",
+    "relative word",
+    "choice",
+    "alternative",
+    "free choice",
+    "condition",
+    "indefinite reference",
+    "grammar",
+    "conversation",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "determiner / pronoun / fused relative",
+    "countability": "not applicable",
+    "forms": {
+      "base": "whichever",
+      "components": "which + ever",
+      "person_counterpart": "whoever",
+      "thing_counterpart": "whatever",
+      "place_counterpart": "wherever",
+      "time_counterpart": "whenever"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "whichever + singular noun",
+      "whichever + plural noun",
+      "whichever of + plural noun phrase",
+      "whichever of + object pronoun",
+      "choose / take / use whichever",
+      "whichever is / comes + adjective",
+      "whichever you prefer / choose",
+      "whichever comes first",
+      "whichever is earlier / later",
+      "whichever way + clause"
+    ],
+    "usage": {
+      "determiner": "Before a noun, whichever means any one or group selected from a limited set: whichever route you choose.",
+      "pronoun": "Whichever can stand without a following noun: Take whichever you prefer.",
+      "fused_relative": "It can introduce a clause that functions as a noun phrase: Whichever is cheaper will be acceptable.",
+      "of_pattern": "Whichever of is followed by a plural noun phrase or object pronoun: whichever of the proposals; whichever of them.",
+      "number": "Unlike either, whichever is not inherently limited to two alternatives and can refer to any number in a defined set.",
+      "agreement": "Verb agreement depends on the number of the noun or referent: whichever option is; whichever applicants are selected.",
+      "no_matter_which": "In concessive use, whichever can mean no matter which: Whichever way you approach it, the result is the same.",
+      "limited_choice": "Whichever normally implies a known or contextually limited range of alternatives; whatever is broader and less restricted."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/wɪtʃˈevər/",
+      "uk": "/wɪtʃˈevə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "限られた選択肢の中で、どれでも好きなもの・どちらでも",
+      "選択肢のうち、実際に選ばれるものはどれであっても",
+      "どの人・物・方法が該当するにせよ、そのもの",
+      "whichever ... の形で、どの～であっても結果が変わらないこと",
+      "名詞を伴わず、選択可能なもののうち好きな方・もの"
+    ],
+    "en": [
+      "any one selected from a known or limited group of alternatives",
+      "the particular alternative that is eventually chosen or proves applicable",
+      "no matter which person, thing, method, or possibility is involved",
+      "a word indicating that the result remains the same regardless of the alternative selected",
+      "as a pronoun, whichever one or ones the person prefers"
+    ]
+  },
+  "nuance": {
+    "ja": "whichever は、文脈上分かっている複数の選択肢から「どれを選んでも」「実際に選ばれるどれか」を表す。Choose whichever seat you like. なら、利用可能な座席の中から好きなものを選べる。either は原則として二つのうちどちらかを指すが、whichever は二つに限定されず、三つ以上の選択肢にも使える。which は話者が選択肢を尋ねる語であるのに対し、whichever は選択を相手に委ねたり、どの選択でも結果が同じであることを示したりする。whatever は対象の範囲が明示されていない場合にも使える、より広い語である。Whichever comes first や whichever is earlier は、契約・規則・日程説明で二つ以上の基準のうち最初に成立するものを指定する便利な表現である。",
+    "en": "Whichever refers to any alternative selected from a group understood from context or to the particular alternative that ultimately applies. Choose whichever seat you like permits selection from the available seats. Either is traditionally limited to one of two alternatives, whereas whichever can be used with two, three, or more. Which asks the speaker or listener to identify an alternative, while whichever leaves the choice open or indicates that the result does not depend on the selection. Whatever is broader and can refer to a thing or course of action without a clearly defined set of alternatives. Whichever comes first and whichever is earlier are particularly useful in contracts, rules, and schedules for identifying the first of two or more possible events or dates."
+  },
+  "minimal": {
+    "ja": [
+      "whichever：既知・限定された選択肢の中からどれを選んでも、または実際に該当するどれか。",
+      "which：限定された選択肢の中から、どれかを尋ねたり特定したりする。",
+      "either：原則として二つのうちどちらか一方、またはどちらでも。",
+      "whatever：範囲を限定せず、何でも・何が～しようとも。",
+      "whoever：誰でも、または実際に該当する人が誰であっても。",
+      "wherever：どこでも、または場所がどこであっても。",
+      "whenever：いつでも、または時点がいつであっても。",
+      "any：数や範囲を厳密に限定せず、集合の中のどれでも・誰でも。"
+    ],
+    "en": [
+      "whichever means any one selected from a known or limited set, or the alternative that ultimately applies.",
+      "which asks about or identifies an item from a limited set of alternatives.",
+      "either means one or the other of two alternatives or whichever of the two is chosen.",
+      "whatever means anything or no matter what, without requiring a clearly limited set.",
+      "whoever means any person or no matter which person turns out to be relevant.",
+      "wherever means in any place or no matter where.",
+      "whenever means at any time or no matter when.",
+      "any permits selection from a group without strictly specifying its size or limits."
+    ]
+  },
+  "etymology": {
+    "ja": "which に、選択の自由または「～であっても」を表す ever が付いて成立した。which は古英語 hwilc「どの、どのような」に由来し、歴史的には who と like に対応する要素を含む。ever は古英語 æfre「常に、いつでも」に由来する。この組合せにより、whichever は「いずれのものを選ぶ場合であっても」「実際にどのものが該当しようとも」という意味を持つようになった。whoever、whatever、wherever、whenever も同様の形成を持つ。",
+    "en": "Whichever was formed from which and ever. Which derives from Old English hwilc, which or what kind of, and historically contains elements related to who and like. Ever comes from Old English æfre, always or at any time. Their combination produced the sense no matter which one is selected or whichever one ultimately proves relevant. Whoever, whatever, wherever, and whenever follow the same general pattern of formation."
+  },
+  "synonyms": [
+    {
+      "word": "any one that",
+      "note": {
+        "ja": "限定された集合の中から、条件を満たすどれでもよいことを分析的に表す。",
+        "en": "An analytical expression for any one member of a limited set that satisfies the stated condition."
+      }
+    },
+    {
+      "word": "no matter which",
+      "note": {
+        "ja": "どの選択肢であっても、結果や判断が変わらないことを明示する。",
+        "en": "Explicitly states that the result or judgment is unchanged regardless of the alternative."
+      }
+    },
+    {
+      "word": "either",
+      "note": {
+        "ja": "二つの選択肢のうち、どちらか一方またはどちらでもよいことを表す。",
+        "en": "Refers to one or the other of two alternatives or permits the choice of either one."
+      }
+    },
+    {
+      "word": "whatever",
+      "note": {
+        "ja": "選択肢を明確に限定せず、何でも、または何が起きようともという意味を表す。",
+        "en": "Means anything or no matter what without requiring a clearly defined set of alternatives."
+      }
+    },
+    {
+      "word": "any",
+      "note": {
+        "ja": "選択範囲の中のどれでもよいことを、より簡潔かつ一般的に表す。",
+        "en": "More simply and generally permits the selection of any member of an available group."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "welcher auch immer / gleich welcher",
+    "it": "qualunque / qualsiasi / quello che",
+    "fr": "n’importe lequel / quel que soit",
+    "es": "cualquiera / sea cual sea"
+  },
+  "collocations": {
+    "ja": [
+      "whichever option — どの選択肢でも",
+      "whichever method — どの方法でも",
+      "whichever route — どの経路でも",
+      "whichever candidate — どの候補者であっても",
+      "whichever of the two — 二つのうちどちらでも",
+      "whichever of them — それらのうちどれでも",
+      "choose whichever you prefer — 好きなものをどれでも選ぶ",
+      "whichever is cheaper — より安い方",
+      "whichever is greater — いずれか大きい方",
+      "whichever comes first — いずれか早く到来する方",
+      "whichever is later — いずれか遅い方",
+      "whichever way you look at it — どのように考えても"
+    ],
+    "en": [
+      "whichever option",
+      "whichever method",
+      "whichever route",
+      "whichever candidate",
+      "whichever of the two",
+      "whichever of them",
+      "choose whichever you prefer",
+      "whichever is cheaper",
+      "whichever is greater",
+      "whichever comes first",
+      "whichever is later",
+      "whichever way you look at it"
+    ]
+  },
+  "example": {
+    "ja": [
+      "You may choose whichever seat is most comfortable. — 最も快適な座席をどれでも選んで構いません。",
+      "Take whichever of these books you would find most useful. — これらの本のうち、最も役立つと思うものをどれでも持っていってください。",
+      "We can travel by train or bus, whichever is cheaper. — 電車でもバスでも、より安い方で行けます。",
+      "Whichever way you look at the figures, the project made a substantial loss. — その数値をどう見ても、その事業には多額の損失が生じた。",
+      "The licence will expire ten years after the effective date or when the patent expires, whichever comes first. — そのライセンスは、発効日から10年後または特許の存続期間満了時のいずれか早い時点で終了する。"
+    ],
+    "en": [
+      "You may choose whichever seat is most comfortable.",
+      "Take whichever of these books you would find most useful.",
+      "We can travel by train or bus, whichever is cheaper.",
+      "Whichever way you look at the figures, the project made a substantial loss.",
+      "The licence will expire ten years after the effective date or when the patent expires, whichever comes first."
+    ]
+  }
+},
+{
   "id": "reflation",
   "sid": "2026-01324",
   "word": "reflation",
