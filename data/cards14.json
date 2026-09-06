@@ -1,5 +1,207 @@
 [
 {
+  "id": "reflation",
+  "sid": "2026-01324",
+  "word": "reflation",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "economics",
+    "monetary policy",
+    "fiscal policy",
+    "inflation",
+    "deflation",
+    "prices",
+    "demand",
+    "economic recovery",
+    "central bank",
+    "investment",
+    "formal",
+    "specialized"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "normally uncountable",
+    "plural": "reflations, rare",
+    "forms": {
+      "base": "reflation",
+      "rare_plural": "reflations",
+      "verb": "reflate",
+      "third_person": "reflates",
+      "past": "reflated",
+      "past_participle": "reflated",
+      "gerund": "reflating",
+      "adjective": "reflationary",
+      "opposite_concept": "deflation / disinflation"
+    },
+    "transitivity": "not applicable as a noun; reflate can be transitive or intransitive",
+    "patterns": [
+      "reflation",
+      "economic / global reflation",
+      "monetary / fiscal reflation",
+      "a period / policy of reflation",
+      "promote / generate / support reflation",
+      "attempt to reflate the economy",
+      "reflationary policy / pressure",
+      "a reflationary environment",
+      "a reflation trade",
+      "reflation following deflation"
+    ],
+    "usage": {
+      "policy_sense": "Reflation can mean deliberate monetary or fiscal stimulation intended to raise demand, output, employment, and the price level after weakness or deflation.",
+      "outcome_sense": "It can also describe the resulting recovery of prices, inflation expectations, nominal spending, or economic activity.",
+      "uncountable": "The word is normally uncountable: pursue reflation; signs of reflation.",
+      "technical_scope": "Technical usage may specifically refer to restoring a depressed price level toward its previous trend.",
+      "inflation_contrast": "Reflation is generally a recovery from deficient demand or abnormally low prices and does not necessarily mean uncontrolled or excessive inflation.",
+      "policy_tools": "Depending on context, reflationary measures may include lower interest rates, increased money or credit availability, tax reductions, or higher government spending.",
+      "market_use": "A reflation trade is an investment strategy based on expectations of strengthening growth, prices, and nominal activity.",
+      "register": "Reflation is specialized economic and financial vocabulary and is uncommon in ordinary conversation."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌriːˈfleɪʃən/",
+      "uk": "/ˌriːˈfleɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "景気低迷・デフレの後、需要・生産・雇用・物価水準を回復させる政策",
+      "金融緩和・財政刺激などによって経済活動を再び拡大させること",
+      "低下した物価水準を従来の傾向または望ましい水準へ戻すこと",
+      "デフレまたは低インフレから、物価・賃金・名目成長が回復する局面",
+      "景気と物価の回復を予想して資産価格などが動く市場環境"
+    ],
+    "en": [
+      "policy intended to restore demand, output, employment, and prices after economic weakness or deflation",
+      "the stimulation of economic activity through expansionary monetary or fiscal measures",
+      "the restoration of a depressed price level toward its previous trend or a desired level",
+      "a phase in which prices, wages, inflation expectations, and nominal growth recover from unusually low levels",
+      "a market environment shaped by expectations of stronger growth and rising prices"
+    ]
+  },
+  "nuance": {
+    "ja": "reflation は、単に物価が上昇する inflation と異なり、景気低迷・需要不足・デフレなどによって低下した経済活動や物価水準を、政策によって回復させるという意味を持つ。金融政策では金利引下げや資金供給の拡大、財政政策では政府支出の増加や減税などが reflationary measures となり得る。狭い技術的用法では、物価水準が長期的な傾向線を下回った後、その水準へ戻ることを指す。したがって、reflation は通常、デフレからの正常化または景気回復の初期段階として肯定的・中立的に語られ、直ちに制御不能なインフレを意味しない。ただし刺激が過度または長期化すれば、望ましい回復を超えて高インフレへつながる可能性はある。金融市場の reflation trade は、成長・物価・金利の上昇を見込んで、それによって利益を得やすい資産へ投資する戦略を表す。",
+    "en": "Unlike inflation, which simply denotes a rise in the general price level, reflation carries the idea of restoring economic activity and prices after recession, deficient demand, or deflation. Lower interest rates and increased liquidity may serve as monetary reflationary measures, while greater government spending or tax reductions may provide fiscal reflation. In a narrower technical sense, reflation is the recovery of a price level that has fallen below its longer-term trend. It is therefore often presented neutrally or positively as normalization following deflation or as an early phase of recovery and does not automatically imply excessive or uncontrolled inflation. If stimulus becomes too strong or persists too long, however, the recovery may develop into undesirably high inflation. In financial markets, a reflation trade is a strategy designed to benefit from expectations of stronger growth, rising prices, and often higher interest rates."
+  },
+  "minimal": {
+    "ja": [
+      "reflation：低迷・デフレ後の需要・経済活動・物価水準を政策によって回復させること。",
+      "inflation：商品・サービスの一般的な価格水準が継続的に上昇すること。",
+      "deflation：一般的な価格水準が広範かつ持続的に下落すること。",
+      "disinflation：物価は上昇しているが、その上昇率が低下すること。",
+      "economic recovery：景気後退や低迷の後、経済活動が改善・回復する過程。",
+      "monetary easing：金利引下げや資金供給によって金融環境を緩和すること。",
+      "fiscal stimulus：政府支出・減税などによって総需要と経済活動を刺激すること。",
+      "stimulus：経済活動を活発にするための政策的な刺激策を広く表す。"
+    ],
+    "en": [
+      "reflation is policy-led restoration of demand, economic activity, and prices after weakness or deflation.",
+      "inflation is a continuing increase in the general price level of goods and services.",
+      "deflation is a broad and persistent decline in the general price level.",
+      "disinflation is a reduction in the rate of inflation while prices generally continue to rise.",
+      "economic recovery is the process of improving after recession or prolonged weakness.",
+      "monetary easing relaxes financial conditions through lower rates, additional liquidity, or similar measures.",
+      "fiscal stimulus uses government spending, tax reductions, or related measures to strengthen aggregate demand.",
+      "stimulus is the broad term for policy action intended to increase economic activity."
+    ]
+  },
+  "etymology": {
+    "ja": "reflation は re-「再び、元へ」と inflation から作られた経済用語である。inflation はラテン語 inflare「吹き込む、膨らませる」に由来し、in-「中へ」と flare「吹く」から成る。経済上の inflation が通貨量や物価水準の膨張を表すようになった後、低下した価格・需要・経済活動を再び膨らませ、以前の水準へ戻す政策または過程を表すため reflation が形成された。したがって、語の構造上も単なる継続的な物価上昇より「再び膨らませる」という回復の意味が強い。",
+    "en": "Reflation was formed from re-, again or back, and inflation. Inflation derives from Latin inflare, to blow into or expand, combining in-, into, with flare, to blow. After inflation became an economic term for expansion in money or the price level, reflation was created to describe deliberately expanding depressed demand, prices, or activity again and restoring them toward an earlier or desired path. Its structure therefore emphasizes renewed expansion or recovery rather than an indefinite continuation of rising prices."
+  },
+  "synonyms": [
+    {
+      "word": "economic stimulus",
+      "note": {
+        "ja": "金融・財政措置によって需要・生産・雇用などを活性化させる政策全般。",
+        "en": "The broad use of monetary or fiscal measures to strengthen demand, output, and employment."
+      }
+    },
+    {
+      "word": "monetary easing",
+      "note": {
+        "ja": "金利引下げ・資金供給などによって借入れや支出を促す金融政策。",
+        "en": "Monetary policy that lowers rates or increases liquidity to encourage borrowing and spending."
+      }
+    },
+    {
+      "word": "fiscal stimulus",
+      "note": {
+        "ja": "政府支出の増加・減税などによって総需要を拡大する財政政策。",
+        "en": "Fiscal policy that expands aggregate demand through increased public spending, tax reductions, or similar measures."
+      }
+    },
+    {
+      "word": "economic recovery",
+      "note": {
+        "ja": "景気後退・不況・低迷の後に、生産・雇用・所得などが改善する過程。",
+        "en": "The process in which production, employment, and income improve after recession or weakness."
+      }
+    },
+    {
+      "word": "price-level recovery",
+      "note": {
+        "ja": "下落または低迷していた一般物価水準が以前の傾向・水準へ戻ること。",
+        "en": "The return of a depressed general price level toward its former level or trend."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Reflation / Wiederbelebung durch expansive Politik",
+    "it": "reflazione",
+    "fr": "reflation",
+    "es": "reflación"
+  },
+  "collocations": {
+    "ja": [
+      "economic reflation — 経済のリフレーション",
+      "global reflation — 世界的な景気・物価回復",
+      "monetary reflation — 金融政策によるリフレーション",
+      "fiscal reflation — 財政政策によるリフレーション",
+      "a policy of reflation — リフレーション政策",
+      "promote reflation — リフレーションを促進する",
+      "generate reflation — 景気・物価回復を生み出す",
+      "reflate the economy — 経済を再膨張・回復させる",
+      "reflationary policy — リフレーション政策",
+      "reflationary pressure — 景気・物価を押し上げる圧力",
+      "a reflationary environment — 景気・物価が回復する環境",
+      "a reflation trade — リフレーション取引"
+    ],
+    "en": [
+      "economic reflation",
+      "global reflation",
+      "monetary reflation",
+      "fiscal reflation",
+      "a policy of reflation",
+      "promote reflation",
+      "generate reflation",
+      "reflate the economy",
+      "reflationary policy",
+      "reflationary pressure",
+      "a reflationary environment",
+      "a reflation trade"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The government adopted a policy of reflation to revive demand after years of deflation. — 政府は長年のデフレ後に需要を回復させるため、リフレーション政策を採用した。",
+      "Lower interest rates and increased public spending contributed to the reflation of the economy. — 金利引下げと政府支出の増加が、経済の回復と物価の押上げに寄与した。",
+      "Reflation does not necessarily mean that inflation has become excessive. — リフレーションは、インフレが過度になったことを必ずしも意味しない。",
+      "Investors began a reflation trade as expectations of stronger growth and higher prices increased. — 成長加速と物価上昇への期待が強まると、投資家はリフレーション取引を始めた。",
+      "Reflation may encourage companies to resume investment in research, patents, and new trademarks after a prolonged downturn. — リフレーションによって、企業が長期的な景気低迷後に研究・特許・新規商標への投資を再開する可能性がある。"
+    ],
+    "en": [
+      "The government adopted a policy of reflation to revive demand after years of deflation.",
+      "Lower interest rates and increased public spending contributed to the reflation of the economy.",
+      "Reflation does not necessarily mean that inflation has become excessive.",
+      "Investors began a reflation trade as expectations of stronger growth and higher prices increased.",
+      "Reflation may encourage companies to resume investment in research, patents, and new trademarks after a prolonged downturn."
+    ]
+  }
+},
+{
   "id": "reflationary",
   "sid": "2026-01325",
   "word": "reflationary",
