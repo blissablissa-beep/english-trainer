@@ -1,5 +1,210 @@
 [
 {
+  "id": "finance",
+  "sid": "2026-01311",
+  "word": "finance",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "money",
+    "funding",
+    "banking",
+    "investment",
+    "credit",
+    "business",
+    "economics",
+    "accounting",
+    "government",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "normally uncountable as the field or activity; plural finances for available monetary resources",
+    "plural": "finances",
+    "forms": {
+      "noun": "finance",
+      "plural_noun": "finances",
+      "verb_base": "finance",
+      "third_person": "finances",
+      "past": "financed",
+      "past_participle": "financed",
+      "gerund": "financing",
+      "activity_noun": "financing",
+      "adjective": "financial",
+      "adverb": "financially",
+      "person_noun": "financier"
+    },
+    "transitivity": "transitive as a verb",
+    "patterns": [
+      "finance + project / purchase / operation",
+      "finance something through / with + source",
+      "finance something by + gerund",
+      "be financed by / through + source",
+      "raise / obtain / provide finance",
+      "apply for finance",
+      "public / private / corporate finance",
+      "the finance industry / sector",
+      "personal / company finances",
+      "manage / examine someone’s finances"
+    ],
+    "usage": {
+      "field": "As an uncountable noun, finance means the management, raising, lending, and investment of money.",
+      "funding": "Finance can also mean money or credit provided for a particular purpose: obtain finance for a project.",
+      "plural": "Finances refers to the money, income, expenses, assets, and financial condition of a person, organization, or government.",
+      "verb": "As a transitive verb, finance means providing or obtaining the money needed for an activity or purchase.",
+      "financing": "Financing commonly refers to the arrangement or provision of funds for a transaction or project.",
+      "pronunciation": "Pronunciation varies; both first-syllable and second-syllable stress are heard, especially across dialects and contexts.",
+      "register": "Finance is standard in everyday business language as well as in economics, banking, law, and government."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfaɪnæns/; also /fəˈnæns/",
+      "uk": "/ˈfaɪnæns/; also /faɪˈnæns/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "金銭・資産・負債・投資などを管理する活動または学問分野、財務・金融",
+      "銀行による融資、企業の資金調達、投資などを扱う制度・業界",
+      "特定の事業・購入・活動に必要な資金または信用",
+      "finances の形で、個人・企業・政府などの財政状態・資金事情",
+      "動詞として、事業・購入・活動に必要な資金を提供する",
+      "動詞として、借入れ・投資・税収などによって費用を賄う"
+    ],
+    "en": [
+      "the activity or study of managing money, assets, liabilities, and investments",
+      "the system or industry involving banking, lending, corporate funding, and investment",
+      "money or credit made available for a particular project, purchase, or activity",
+      "in the plural finances, the monetary resources and financial condition of a person, company, or government",
+      "as a verb, to provide the money required for a project, purchase, or activity",
+      "as a verb, to meet a cost through borrowing, investment, taxation, or another source of funds"
+    ]
+  },
+  "nuance": {
+    "ja": "finance は名詞と動詞の双方で使われる。不可算名詞としての finance は、資金の調達・管理・貸付け・投資などを扱う活動または学問分野であり、banking より広く、企業財務・公共財政・投資も含む。特定目的の「資金・融資」という意味では obtain finance や provide finance のように使われる。複数形 finances は、個人・企業・政府が実際に利用できる資金や、その収支・財政状態を表すため、finance と区別する必要がある。動詞 finance は、必要な費用を誰が、またはどの資金源が負担するかを表し、The project was financed by a bank loan. のように受動形でも頻繁に用いられる。fund は資金を提供する行為を広く表すのに対し、finance は融資・投資・自己資金などを組み合わせた資金調達の仕組みまで意識させることがある。",
+    "en": "Finance functions as both a noun and a verb. As an uncountable noun, it denotes the activity or discipline concerned with raising, managing, lending, and investing money. It is broader than banking because it also encompasses corporate finance, public finance, and investment. In obtain finance or provide finance, it means funding or credit for a specific purpose. The plural finances refers to the actual resources, income, expenditure, and monetary condition of a person, company, or government and should therefore be distinguished from the general field of finance. As a verb, finance identifies who or what supplies the money required for an activity and frequently appears in the passive, as in The project was financed by a bank loan. Fund broadly means provide money, while finance can additionally suggest the arrangement of borrowing, investment, equity, or other funding sources."
+  },
+  "minimal": {
+    "ja": [
+      "finance：資金の調達・管理・投資を扱う活動・分野、または必要な費用を賄うこと。",
+      "finances：個人・企業・政府が持つ資金や、その収支・財政状態。",
+      "financing：取引・購入・事業のために資金を手配・提供すること。",
+      "fund：特定の活動へ資金を提供する、または特定目的のための資金。",
+      "funding：事業・研究・組織などへ提供される資金、またはその提供。",
+      "banking：預金・融資・決済などを扱う銀行業務・銀行産業。",
+      "investment：将来の収益・価値増加を期待して資金を投入すること。",
+      "accounting：取引を記録し、財務情報を作成・報告する会計。"
+    ],
+    "en": [
+      "finance is the activity or field of raising, managing, and investing money, or the act of paying for something.",
+      "finances are the monetary resources and financial condition of a person, company, or government.",
+      "financing is the arrangement or provision of funds for a transaction, purchase, or project.",
+      "fund means to provide money for an activity or a sum reserved for a particular purpose.",
+      "funding is money provided for a business, organization, research program, or other activity.",
+      "banking is the industry and activity involving deposits, lending, and payment services.",
+      "investment is the commitment of money in expectation of future income or an increase in value.",
+      "accounting is the recording, preparation, and reporting of financial transactions and information."
+    ]
+  },
+  "etymology": {
+    "ja": "中世フランス語 finance「支払い、債務の清算、金銭」に由来し、fin「終わり」および finir「終える」と関係する。これらはラテン語 finis「終わり、境界」および finire「終える」にさかのぼる。もともと finance は、金銭を支払うことによって債務・罰金・取引を「終結させる」ことを表した。そこから、支払いに用いる金銭、資金の調達・管理、さらには銀行・投資・企業財務を扱う広い分野へ意味が発達した。",
+    "en": "Finance came from medieval French finance, meaning payment, settlement of a debt, or money, and is related to fin, an end, and finir, to finish. These derive from Latin finis, an end or boundary, and finire, to bring to an end. Finance originally referred to bringing a debt, penalty, or transaction to a conclusion by making payment. Its meaning subsequently extended to the money used for payment, the raising and management of funds, and eventually the broad field encompassing banking, investment, corporate funding, and public finance."
+  },
+  "synonyms": [
+    {
+      "word": "fund",
+      "note": {
+        "ja": "特定の事業・組織・活動に必要な金銭を提供することを表す一般的な動詞。",
+        "en": "A general verb meaning to provide the money required by a project, organization, or activity."
+      }
+    },
+    {
+      "word": "funding",
+      "note": {
+        "ja": "研究・事業・公共サービスなどへ提供される資金、またはその提供行為。",
+        "en": "Money supplied for research, business, public services, or another activity, or the act of supplying it."
+      }
+    },
+    {
+      "word": "capital",
+      "note": {
+        "ja": "事業の開始・運営・拡大や投資に使用できる資金・資産。",
+        "en": "Money or assets available for establishing, operating, expanding, or investing in a business."
+      }
+    },
+    {
+      "word": "credit",
+      "note": {
+        "ja": "後払いまたは借入れを可能にする信用、または貸付可能な資金。",
+        "en": "An arrangement or capacity allowing payment to be deferred or money to be borrowed."
+      }
+    },
+    {
+      "word": "bankroll",
+      "note": {
+        "ja": "事業・活動・人物へ資金を提供することを表す、比較的口語的な動詞。",
+        "en": "A relatively informal verb meaning to provide the money supporting a project, activity, or person."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Finanzen / Finanzierung / finanzieren",
+    "it": "finanza / finanziamento / finanziare",
+    "fr": "finance / financement / financer",
+    "es": "finanzas / financiación / financiar"
+  },
+  "collocations": {
+    "ja": [
+      "corporate finance — 企業財務",
+      "public finance — 公共財政",
+      "personal finance — 個人財務、家計管理",
+      "international finance — 国際金融",
+      "the finance industry — 金融業界",
+      "raise finance — 資金を調達する",
+      "obtain finance — 融資・資金を得る",
+      "provide finance — 資金を提供する",
+      "finance a project — 事業へ資金を提供する",
+      "finance a purchase — 購入資金を調達する",
+      "manage one’s finances — 自分の家計・資金を管理する",
+      "be financed by a bank loan — 銀行融資によって資金を賄われる"
+    ],
+    "en": [
+      "corporate finance",
+      "public finance",
+      "personal finance",
+      "international finance",
+      "the finance industry",
+      "raise finance",
+      "obtain finance",
+      "provide finance",
+      "finance a project",
+      "finance a purchase",
+      "manage one’s finances",
+      "be financed by a bank loan"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She studied finance before beginning a career in investment banking. — 彼女は投資銀行業界で働き始める前に、金融を学んだ。",
+      "The company obtained finance from several banks to construct the new factory. — その会社は新工場を建設するため、複数の銀行から資金を調達した。",
+      "The project was financed partly through public funds and partly through private investment. — その事業の費用は、一部を公的資金、一部を民間投資によって賄った。",
+      "He reviewed his finances before deciding whether he could afford the trip. — 彼は旅行費用を負担できるか判断する前に、自分の家計状況を確認した。",
+      "The start-up used venture capital to finance the development and patenting of its new technology. — その新興企業は、新技術の開発と特許取得の費用を賄うためにベンチャーキャピタルを利用した。"
+    ],
+    "en": [
+      "She studied finance before beginning a career in investment banking.",
+      "The company obtained finance from several banks to construct the new factory.",
+      "The project was financed partly through public funds and partly through private investment.",
+      "He reviewed his finances before deciding whether he could afford the trip.",
+      "The start-up used venture capital to finance the development and patenting of its new technology."
+    ]
+  }
+},
+{
   "id": "banking",
   "sid": "2026-01312",
   "word": "banking",
