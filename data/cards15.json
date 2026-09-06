@@ -1,5 +1,200 @@
 [
 {
+  "id": "lost-at-sea",
+  "sid": "2026-01369",
+  "word": "lost at sea",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "idiom",
+    "adjective phrase",
+    "sea",
+    "navigation",
+    "disappearance",
+    "death",
+    "confusion",
+    "uncertainty",
+    "helplessness",
+    "figurative",
+    "maritime",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective phrase / idiomatic expression",
+    "forms": {
+      "base": "lost at sea",
+      "with_be": "be lost at sea",
+      "past": "was / were lost at sea",
+      "reported_status": "missing or lost at sea",
+      "figurative_variant": "feel lost at sea",
+      "related_idiom": "all at sea"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "be lost at sea",
+      "become lost at sea",
+      "get lost at sea",
+      "go missing at sea",
+      "be presumed lost at sea",
+      "be declared lost at sea",
+      "lives lost at sea",
+      "feel lost at sea",
+      "leave someone lost at sea",
+      "be completely lost at sea without + noun"
+    ],
+    "usage": {
+      "literal": "Literally, lost at sea describes a person, vessel, or object that has disappeared, become untraceable, or cannot find its way while at sea.",
+      "death": "In historical and maritime accounts, be lost at sea can indicate that someone died at sea, especially when the body or vessel was not recovered.",
+      "figurative": "Figuratively, it describes feeling confused, directionless, isolated, or unable to deal with an unfamiliar situation.",
+      "related_idiom": "All at sea is a more established idiom, especially in British English, for being thoroughly confused.",
+      "preposition": "At sea means on or in the open sea. By sea instead refers to a means of transportation.",
+      "article": "The expression normally uses sea without an article: lost at sea, not lost at the sea.",
+      "register": "The literal expression is neutral and can occur in formal reports. Its figurative use is more literary or conversational."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌlɔːst ət ˈsiː/",
+      "uk": "/ˌlɒst ət ˈsiː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "海上で道や現在位置を見失って",
+      "人・船舶・物品などが海上で行方不明になって",
+      "海難事故によって死亡し、遺体などが発見されていない",
+      "比喩的に、何をすべきか分からず途方に暮れて",
+      "知識・支援・方向性を欠き、孤立して混乱した状態で"
+    ],
+    "en": [
+      "unable to determine one’s position or direction while at sea",
+      "missing and untraceable after a person, vessel, or object disappears at sea",
+      "dead as a result of a maritime disaster, especially when no body or vessel is recovered",
+      "figuratively, confused and unable to determine what to do",
+      "figuratively, isolated and lacking the knowledge, support, or direction needed to proceed"
+    ]
+  },
+  "nuance": {
+    "ja": "lost at sea には、文字どおりの海事上の意味と比喩的な意味がある。文字どおりには、船や人が海上で現在位置を見失った場合だけでなく、海難事故後に行方不明となり、しばしば死亡したと推定される場合にも使われる。この意味では lives lost at sea や presumed lost at sea のように、深刻で事実的な表現となる。比喩的には、広大な海の中で方向を失ったイメージから、新しい仕事・複雑な制度・人生上の変化などに直面し、指針や支援を欠いて途方に暮れていることを表す。ただし「混乱している」という純粋な慣用句としては、特にイギリス英語の all at sea の方が定着している。なお at sea は「航海中・海上で」、by sea は「海路で」であり、意味が異なる。",
+    "en": "Lost at sea has both a literal maritime meaning and a figurative one. Literally, it may describe someone who cannot determine their position, but it also commonly refers to a person or vessel that disappeared during a maritime incident and may be presumed dead. In this sense, expressions such as lives lost at sea and presumed lost at sea are serious and factual. Figuratively, the image of having no direction in a vast sea describes someone who feels helpless or confused when facing a new job, complex system, or major life change without sufficient guidance. For the purely idiomatic meaning thoroughly confused, all at sea is more firmly established, particularly in British English. At sea means on the sea or during a voyage, whereas by sea identifies sea as a method of transportation."
+  },
+  "minimal": {
+    "ja": [
+      "lost at sea：文字どおりには海上で遭難・行方不明の、比喩的には方向性を失い途方に暮れた。",
+      "all at sea：何が起きているか、どうすべきか分からず完全に混乱して。",
+      "adrift：船が漂流している、または比喩的に目標・支えを失って。",
+      "shipwrecked：乗っていた船が難破し、海岸・海上などに取り残されて。",
+      "missing at sea：海上で行方不明となり、所在や安否が確認できない。",
+      "confused：状況・説明・選択肢などを理解できず混乱して。",
+      "at a loss：どう答えるか、何をするか分からず途方に暮れて。",
+      "out of one’s depth：知識・能力を超える状況に置かれ、対処できなくなって。"
+    ],
+    "en": [
+      "lost at sea literally means missing or unable to navigate at sea and figuratively means confused and directionless.",
+      "all at sea means completely confused about what is happening or what to do.",
+      "adrift describes a vessel floating without control or, figuratively, a person lacking direction or support.",
+      "shipwrecked means left in danger or isolation after the destruction of one’s vessel.",
+      "missing at sea means unaccounted for after disappearing during a voyage or maritime incident.",
+      "confused means unable to understand a situation, explanation, or set of choices.",
+      "at a loss means uncertain about what to say or do.",
+      "out of one’s depth means facing a situation beyond one’s knowledge, experience, or ability."
+    ]
+  },
+  "etymology": {
+    "ja": "lost at sea は、動詞 lose の過去分詞 lost と、古くから「航海中・海上で」を表す at sea の組み合わせである。sea は古英語 sǣ に由来し、ドイツ語 See やオランダ語 zee などと同族である。航海技術が発達する以前、陸地の見えない海上で位置や方角を失うことは生命に直結する危険であったため、lost at sea は遭難・行方不明・海上での死亡を表すようになった。さらに、目印のない広大な海で方向を失う経験から、知識や指針を欠いて混乱するという比喩的意味も生じた。類似表現の all at sea は、19世紀までに「完全に混乱して」という慣用的意味を確立した。",
+    "en": "Lost at sea combines the past participle lost with at sea, a longstanding expression meaning on the sea or during a voyage. Sea derives from Old English sæ and is related to German See and Dutch zee. Before modern navigation, losing one’s position beyond sight of land presented an immediate threat to life, so lost at sea came to describe maritime disappearance, disaster, and death. The experience of lacking direction in a vast area without visible landmarks also produced the figurative sense of being confused or without guidance. The related expression all at sea had become established by the nineteenth century as an idiom meaning thoroughly confused."
+  },
+  "synonyms": [
+    {
+      "word": "all at sea",
+      "note": {
+        "ja": "特にイギリス英語で、状況を理解できず、どうすべきか分からないことを表す定着した慣用句。",
+        "en": "An established idiom, especially in British English, for being completely confused about a situation."
+      }
+    },
+    {
+      "word": "adrift",
+      "note": {
+        "ja": "船が制御されず漂流していること、または人が目標・所属・精神的支えを失っていることを表す。",
+        "en": "Describes a vessel floating without control or a person lacking purpose, belonging, or emotional support."
+      }
+    },
+    {
+      "word": "missing at sea",
+      "note": {
+        "ja": "航海・海難事故中に行方が分からなくなり、安否を確認できない状態を表す。",
+        "en": "Describes someone whose location and condition remain unknown after a voyage or maritime incident."
+      }
+    },
+    {
+      "word": "at a loss",
+      "note": {
+        "ja": "問題や予想外の状況に直面し、何を言うべきか、どう行動すべきか分からない。",
+        "en": "Means being unable to decide what to say or do when faced with a problem or unexpected situation."
+      }
+    },
+    {
+      "word": "directionless",
+      "note": {
+        "ja": "明確な目標・方針・進路がなく、どこへ向かうべきか定まらない。",
+        "en": "Describes someone or something lacking a clear aim, policy, or course of action."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "auf See verschollen / völlig orientierungslos",
+    "it": "disperso in mare / completamente disorientato",
+    "fr": "perdu en mer / complètement désorienté",
+    "es": "perdido en el mar / completamente desorientado"
+  },
+  "collocations": {
+    "ja": [
+      "be lost at sea — 海上で遭難・行方不明になる",
+      "become lost at sea — 海上で方向を見失う",
+      "get lost at sea — 海上で迷う",
+      "go missing at sea — 海上で行方不明になる",
+      "be presumed lost at sea — 海上で遭難死したと推定される",
+      "be declared lost at sea — 海上で行方不明または死亡したと認定される",
+      "sailors lost at sea — 海上で行方不明・死亡した船員",
+      "lives lost at sea — 海上で失われた命",
+      "a vessel lost at sea — 海上で失われた船舶",
+      "feel lost at sea — 途方に暮れたように感じる",
+      "leave someone lost at sea — 人を指針のない混乱状態に置く",
+      "completely lost at sea — 完全に方向性を失い混乱して"
+    ],
+    "en": [
+      "be lost at sea",
+      "become lost at sea",
+      "get lost at sea",
+      "go missing at sea",
+      "be presumed lost at sea",
+      "be declared lost at sea",
+      "sailors lost at sea",
+      "lives lost at sea",
+      "a vessel lost at sea",
+      "feel lost at sea",
+      "leave someone lost at sea",
+      "completely lost at sea"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The fishing boat was reported lost at sea during the storm. — その漁船は嵐の中、海上で行方不明になったと報告された。",
+      "A memorial was built for the sailors who had been lost at sea. — 海上で命を落とした船員たちのために慰霊碑が建てられた。",
+      "Without a working compass, the crew feared that they would become lost at sea. — 正常に作動する方位磁針がなかったため、乗組員は海上で方向を見失うことを恐れた。",
+      "During my first week in the new department, I felt completely lost at sea. — 新しい部署での最初の一週間、私は何をすべきか分からず完全に途方に暮れていた。",
+      "The unfamiliar patent classification system left the new assistant feeling lost at sea until an experienced attorney explained its structure. — 慣れない特許分類制度のため、新任の補助者は途方に暮れていたが、経験豊富な弁理士がその構造を説明すると理解できるようになった。"
+    ],
+    "en": [
+      "The fishing boat was reported lost at sea during the storm.",
+      "A memorial was built for the sailors who had been lost at sea.",
+      "Without a working compass, the crew feared that they would become lost at sea.",
+      "During my first week in the new department, I felt completely lost at sea.",
+      "The unfamiliar patent classification system left the new assistant feeling lost at sea until an experienced attorney explained its structure."
+    ]
+  }
+},
+{
   "id": "have-a-sweet-tooth",
   "sid": "2026-01370",
   "word": "have a sweet tooth",
