@@ -1,5 +1,204 @@
 [
 {
+  "id": "in_vitro",
+  "sid": "2026-01346",
+  "word": "in vitro",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "adverb",
+    "Latin phrase",
+    "laboratory",
+    "experiment",
+    "biology",
+    "medicine",
+    "cell culture",
+    "diagnostics",
+    "fertilization",
+    "research",
+    "science",
+    "patent",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / adverb",
+    "forms": {
+      "base": "in vitro",
+      "opposite": "in vivo",
+      "abbreviation_diagnostics": "IVD",
+      "abbreviation_fertilization": "IVF",
+      "latin_source": "in vitro",
+      "comparative": "not normally compared",
+      "superlative": "not normally compared"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an in vitro + experiment / study / assay",
+      "an in vitro model",
+      "in vitro testing",
+      "in vitro diagnostic + noun",
+      "in vitro fertilization",
+      "grow / culture cells in vitro",
+      "test / examine something in vitro",
+      "be produced / observed in vitro",
+      "demonstrate activity in vitro",
+      "in vitro rather than in vivo"
+    ],
+    "usage": {
+      "adjective": "Before a noun, in vitro describes testing, research, or a process conducted outside a living organism in a laboratory setting.",
+      "adverb": "As an adverb, it means outside a living organism or in laboratory conditions: The cells were cultured in vitro.",
+      "scope": "The term is not limited to literal glass vessels and may include plastic culture dishes, microplates, and other laboratory systems.",
+      "diagnostics": "In vitro diagnostics are tests performed on specimens such as blood or tissue taken from the human body.",
+      "fertilization": "In vitro fertilization involves combining eggs and sperm outside the body to create embryos before subsequent transfer or preservation.",
+      "contrast": "In vivo refers to a process or experiment occurring within a living organism.",
+      "hyphenation": "The established scientific expression is generally written in vitro without a hyphen, including before a noun, although some editorial styles use in-vitro.",
+      "italics": "Scientific style guides differ on italics; consistent treatment within a document is advisable."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪn ˈviːtroʊ/",
+      "uk": "/ɪn ˈviːtrəʊ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "細胞・組織・生体物質などを、生体外の実験室環境で扱って",
+      "生物の体内ではなく、培養容器・試験系などの中で行われる",
+      "採取した血液・組織などの検体を体外で検査する",
+      "卵子と精子を体外で受精させる",
+      "形容詞として、生体外の、試験管内の"
+    ],
+    "en": [
+      "performed on cells, tissues, or biological material outside a living organism in a laboratory",
+      "occurring in a culture vessel or experimental system rather than inside the body",
+      "for diagnosis, performed on blood, tissue, or another specimen removed from the body",
+      "for fertilization, involving the combination of eggs and sperm outside the body",
+      "as an adjective, relating to laboratory processes conducted outside a living organism"
+    ]
+  },
+  "nuance": {
+    "ja": "in vitro は「試験管内で」と訳されることが多いが、実際には試験管やガラス容器に限定されず、培養皿・マイクロプレート・人工膜などを用いる生体外の実験系を広く含む。in vitro experiment は条件を制御しやすく、細胞や分子に対する直接的な作用を調べるのに適している一方、代謝・免疫・臓器間相互作用などを含む生体全体の反応を完全には再現できないことがある。そのため、ある物質が in vitro で効果を示しても、人間または動物の体内で同じ効果を示すとは限らない。in vivo は生体内、ex vivo は生体から取り出した組織・臓器などを比較的本来の状態を保ちながら調べる実験を指すことが多いが、in vitro と ex vivo の境界は分野によって必ずしも一貫しない。",
+    "en": "In vitro is often translated literally as in a test tube, but it is not restricted to test tubes or glass vessels. It broadly includes experimental systems outside a living organism, such as culture dishes, microplates, and artificial membranes. In vitro experiments permit close control of conditions and are useful for examining direct effects on cells or molecules, but they may not reproduce whole-organism processes such as metabolism, immunity, and interactions among organs. Consequently, an effect demonstrated in vitro does not necessarily occur in a human or animal body. In vivo means within a living organism. Ex vivo commonly concerns tissues or organs removed from an organism and studied while retaining aspects of their original state, although the boundary between ex vivo and in vitro is not entirely consistent across disciplines."
+  },
+  "minimal": {
+    "ja": [
+      "in vitro：細胞・組織・検体などを、生体外の実験室環境で扱って。",
+      "in vivo：生きている人・動物などの生体内で。",
+      "ex vivo：生体から取り出した組織・臓器などを、本来の状態に近い形で生体外において。",
+      "in situ：対象を取り出さず、本来存在する位置・場所において。",
+      "in silico：コンピューターによるモデル・シミュレーションを用いて。",
+      "clinical：患者を対象とする診療・臨床研究に関する。",
+      "laboratory：実験室で行われることを広く表し、必ずしも生物学的試料に限定されない。",
+      "IVF：卵子と精子を体外で受精させて胚を形成する体外受精。"
+    ],
+    "en": [
+      "in vitro means outside a living organism in a controlled laboratory environment.",
+      "in vivo means within a living human, animal, or other organism.",
+      "ex vivo commonly means outside the body using tissue or an organ removed while retaining aspects of its original state.",
+      "in situ means in the original place or position without removing the subject.",
+      "in silico means using a computer model or simulation.",
+      "clinical relates to patients, medical care, or research involving human participants.",
+      "laboratory broadly describes work performed in a laboratory and is not limited to biological specimens.",
+      "IVF is a procedure in which eggs and sperm are combined outside the body to form embryos."
+    ]
+  },
+  "etymology": {
+    "ja": "in vitro はラテン語で、in「～の中で」と vitro「ガラス」によって構成され、文字どおりには「ガラスの中で」を意味する。vitro は vitrum「ガラス」の奪格形であり、英語の vitreous「ガラス質の」や vitrify「ガラス化する」と同語族である。初期の生物学的実験でガラス製の試験管・培養容器が使われたことから、生体外の実験環境を表す語として定着した。現代では容器がプラスチックなどであっても in vitro と呼ばれる。",
+    "en": "In vitro is Latin for in glass, formed from in and vitro, the ablative form of vitrum, glass. Vitrum is also related to English words such as vitreous and vitrify. Because early biological experiments outside the body were conducted in glass test tubes and culture vessels, the phrase became established for laboratory work outside a living organism. In modern usage, a process may be described as in vitro even when the vessel is made of plastic or another material."
+  },
+  "synonyms": [
+    {
+      "word": "in the laboratory",
+      "note": {
+        "ja": "実験室で行われることを一般的に表すが、生体外実験に限定されない。",
+        "en": "A general expression for work conducted in a laboratory, not specifically limited to experiments outside an organism."
+      }
+    },
+    {
+      "word": "outside the body",
+      "note": {
+        "ja": "生体の外で行われることを平易に説明する表現。",
+        "en": "A plain-language explanation indicating that a procedure or test takes place outside the body."
+      }
+    },
+    {
+      "word": "cell-based",
+      "note": {
+        "ja": "培養細胞などを利用する試験を表すが、すべての in vitro 試験が細胞を使用するとは限らない。",
+        "en": "Describes testing based on cultured cells, although not every in vitro system contains living cells."
+      }
+    },
+    {
+      "word": "laboratory-based",
+      "note": {
+        "ja": "実験室内の設備・手法に基づくことを表す、より広い形容詞。",
+        "en": "A broader adjective describing work based on laboratory facilities or methods."
+      }
+    },
+    {
+      "word": "extracorporeal",
+      "note": {
+        "ja": "血液循環や治療手順などが身体の外で行われることを表す医学的な語。",
+        "en": "A medical term for a circulation, procedure, or treatment taking place outside the body."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "in vitro / außerhalb des Organismus",
+    "it": "in vitro",
+    "fr": "in vitro",
+    "es": "in vitro"
+  },
+  "collocations": {
+    "ja": [
+      "an in vitro experiment — 生体外実験",
+      "an in vitro study — 生体外研究",
+      "an in vitro assay — 生体外アッセイ",
+      "an in vitro model — 生体外モデル",
+      "in vitro testing — 生体外試験",
+      "in vitro activity — 生体外での活性",
+      "in vitro toxicity — 生体外で確認される毒性",
+      "in vitro diagnostics — 体外診断",
+      "an in vitro diagnostic device — 体外診断用医療機器",
+      "in vitro fertilization — 体外受精",
+      "culture cells in vitro — 細胞を生体外で培養する",
+      "demonstrate efficacy in vitro — 生体外で有効性を示す"
+    ],
+    "en": [
+      "an in vitro experiment",
+      "an in vitro study",
+      "an in vitro assay",
+      "an in vitro model",
+      "in vitro testing",
+      "in vitro activity",
+      "in vitro toxicity",
+      "in vitro diagnostics",
+      "an in vitro diagnostic device",
+      "in vitro fertilization",
+      "culture cells in vitro",
+      "demonstrate efficacy in vitro"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The researchers cultured the cells in vitro for seven days. — 研究者たちは、その細胞を生体外で7日間培養した。",
+      "The compound inhibited viral replication in vitro. — その化合物は、生体外実験でウイルスの複製を阻害した。",
+      "An effect observed in vitro may not occur in the same way in the human body. — 生体外で観察された効果が、人体内でも同じように生じるとは限らない。",
+      "The laboratory developed an in vitro diagnostic test using blood samples. — その研究所は、血液検体を使用する体外診断検査を開発した。",
+      "A patent application claiming an in vitro assay should describe the experimental conditions sufficiently clearly to support the claimed invention. — 生体外アッセイを請求する特許出願では、請求された発明を裏付けられる程度に実験条件を明確に記載すべきである。"
+    ],
+    "en": [
+      "The researchers cultured the cells in vitro for seven days.",
+      "The compound inhibited viral replication in vitro.",
+      "An effect observed in vitro may not occur in the same way in the human body.",
+      "The laboratory developed an in vitro diagnostic test using blood samples.",
+      "A patent application claiming an in vitro assay should describe the experimental conditions sufficiently clearly to support the claimed invention."
+    ]
+  }
+},
+{
   "id": "in_vivo",
   "sid": "2026-01347",
   "word": "in vivo",
