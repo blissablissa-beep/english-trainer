@@ -1,5 +1,201 @@
 [
 {
+  "id": "prosperity",
+  "sid": "2026-01302",
+  "word": "prosperity",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "wealth",
+    "success",
+    "economic growth",
+    "economy",
+    "business",
+    "society",
+    "well-being",
+    "development",
+    "policy",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "normally uncountable",
+    "plural": "prosperities, rare",
+    "forms": {
+      "base": "prosperity",
+      "rare_plural": "prosperities",
+      "verb": "prosper",
+      "adjective": "prosperous",
+      "adverb": "prosperously",
+      "opposite": "adversity / poverty / economic decline"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "prosperity",
+      "economic / national / shared prosperity",
+      "a period / era of prosperity",
+      "bring / create / promote prosperity",
+      "achieve / enjoy prosperity",
+      "contribute to prosperity",
+      "the prosperity of + country / community / business",
+      "prosperity depends on + noun / clause",
+      "prosperity through + means",
+      "peace and prosperity"
+    ],
+    "usage": {
+      "uncountable": "Prosperity is normally uncountable: achieve prosperity, not achieve a prosperity.",
+      "period": "To identify a particular historical phase, use a period or era of prosperity.",
+      "scope": "The word may refer to the success of a person or business, but it commonly describes the economic condition of a country, region, or community.",
+      "breadth": "Prosperity can include material comfort, secure employment, successful business activity, and improving living standards rather than wealth alone.",
+      "adjective": "Prosperous describes a successful and financially comfortable person, business, place, or period.",
+      "register": "Prosperity is relatively formal and common in economics, politics, public policy, and institutional language."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prɑːˈsperəti/",
+      "uk": "/prɒˈsperəti/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "個人・企業・社会などが経済的に成功し、豊かな状態にあること",
+      "経済活動が活発で、所得・雇用・生活水準などが安定または向上している状態",
+      "事業・地域・国家などが継続的に発展し、繁栄していること",
+      "単なる金銭の蓄積に限らず、安全・機会・生活上の余裕を伴う豊かさ",
+      "物事が順調に進み、成功と成長を享受している状態"
+    ],
+    "en": [
+      "the condition of being economically successful, flourishing, and financially secure",
+      "a state in which economic activity, income, employment, and living standards are strong or improving",
+      "the sustained success and development of a business, community, region, or country",
+      "material well-being accompanied by security, opportunity, and a comfortable standard of living",
+      "a general condition of success, growth, and favorable circumstances"
+    ]
+  },
+  "nuance": {
+    "ja": "prosperity は、単に多額の財産を所有していることではなく、個人・企業・社会が順調に発展し、経済的な安定や生活上の余裕を享受している状態を表す。wealth は蓄積された資産・富そのものに焦点を置くのに対し、prosperity は活発な経済活動、所得、雇用、成長などを含む広い繁栄の状態を示す。economic prosperity は国や地域全体の豊かさを、shared prosperity や broadly shared prosperity は、その利益が一部の人だけでなく社会に広く行き渡ることを強調する。boom は急速だが一時的であり得る好況を指すのに対し、prosperity は必ずしも急成長を意味せず、持続的な成功や安定にも使える。政治的な標語では peace and prosperity のように肯定的な理想を表すため頻繁に用いられるが、実際に誰がその繁栄を享受しているかは別途検討する必要がある。",
+    "en": "Prosperity is not limited to possessing a large amount of money. It describes favorable conditions in which individuals, businesses, or societies flourish and enjoy economic security and material comfort. Wealth focuses more directly on accumulated assets or valuable resources, whereas prosperity suggests a broader state involving productive activity, income, employment, growth, and living standards. Economic prosperity commonly concerns an entire country or region, while shared or broadly shared prosperity emphasizes that its benefits extend beyond a small privileged group. A boom may be rapid and temporary, whereas prosperity can describe sustained success and stability without exceptionally fast growth. The phrase peace and prosperity frequently expresses a positive political or social ideal, although it does not by itself establish how evenly the benefits are distributed."
+  },
+  "minimal": {
+    "ja": [
+      "prosperity：経済的成功・成長・安定を伴う、個人・社会・国家の繁栄。",
+      "wealth：個人・組織・国家が所有する金銭・資産・資源としての富。",
+      "affluence：高い所得と豊富な物質的資源を持つ裕福な状態。",
+      "success：目標を達成したこと、または望ましい結果を得たことを広く表す。",
+      "well-being：健康・安全・満足などを含む、生活全体の良好な状態。",
+      "flourishing：人・文化・事業などが活発に成長し、その能力を十分に発揮している状態。",
+      "boom：経済・需要・市場などが急速に拡大する好況期。",
+      "abundance：必要量を超えるほど物や資源が豊富に存在すること。"
+    ],
+    "en": [
+      "prosperity is flourishing economic success accompanied by growth, security, and material comfort.",
+      "wealth is the money, assets, and valuable resources owned by a person, organization, or country.",
+      "affluence is the condition of having a high income and abundant material resources.",
+      "success broadly means achieving a goal or obtaining a desired result.",
+      "well-being is a favorable overall condition involving health, security, comfort, and satisfaction.",
+      "flourishing is active and successful development in which a person, culture, or enterprise realizes its potential.",
+      "a boom is a period of rapid expansion in an economy, market, or level of demand.",
+      "abundance is the existence of goods or resources in quantities greater than what is needed."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 prosperitas「幸運、成功、繁栄」に由来し、古フランス語 prosperité を経て英語に入った。ラテン語 prosperitas は prosper「好都合な、成功している」と関係し、prosper は pro-「前へ」と、希望・期待を表す spes に関係する要素から成ると説明される。根底には「期待どおりに前進する、物事が好都合に進む」という発想がある。そこから、事業や社会が順調に発展し、物質的・経済的に豊かである状態を表すようになった。動詞 prosper と形容詞 prosperous も同じ語族に属する。",
+    "en": "Prosperity came through Old French prosperité from Latin prosperitas, meaning good fortune, success, or flourishing conditions. Prosperitas is related to prosper, favorable or successful. Prosper is traditionally analyzed as containing pro-, forward, together with an element connected with spes, hope or expectation. Its underlying idea is that events proceed favorably or according to one’s hopes. Prosperity consequently developed into the term for the successful and materially comfortable condition of a person, enterprise, community, or country. The verb prosper and the adjective prosperous belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "wealth",
+      "note": {
+        "ja": "金銭・不動産・投資・天然資源など、所有される価値ある資産に重点を置く。",
+        "en": "Emphasizes valuable assets such as money, property, investments, and natural resources."
+      }
+    },
+    {
+      "word": "affluence",
+      "note": {
+        "ja": "高い所得や豊富な消費財による、物質的に裕福な生活状態を表す。",
+        "en": "Describes a materially comfortable condition based on high income and plentiful goods."
+      }
+    },
+    {
+      "word": "flourishing",
+      "note": {
+        "ja": "事業・文化・社会などが活発に発展し、良好な状態にあることを表す。",
+        "en": "Describes active and successful development in a business, culture, society, or other field."
+      }
+    },
+    {
+      "word": "success",
+      "note": {
+        "ja": "目標の達成や望ましい結果を広く表し、必ずしも経済的な豊かさを意味しない。",
+        "en": "Broadly denotes achievement or a favorable result and need not involve material wealth."
+      }
+    },
+    {
+      "word": "well-being",
+      "note": {
+        "ja": "所得だけでなく、健康・安全・人間関係・生活満足度などを含む良好な状態。",
+        "en": "A favorable condition encompassing health, security, relationships, and life satisfaction as well as income."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Wohlstand / Gedeihen",
+    "it": "prosperità / benessere",
+    "fr": "prospérité",
+    "es": "prosperidad"
+  },
+  "collocations": {
+    "ja": [
+      "economic prosperity — 経済的繁栄",
+      "national prosperity — 国家の繁栄",
+      "shared prosperity — 広く分かち合われる繁栄",
+      "long-term prosperity — 長期的な繁栄",
+      "a period of prosperity — 繁栄の時代",
+      "peace and prosperity — 平和と繁栄",
+      "achieve prosperity — 繁栄を実現する",
+      "enjoy prosperity — 繁栄を享受する",
+      "create prosperity — 繁栄を生み出す",
+      "promote prosperity — 繁栄を促進する",
+      "contribute to prosperity — 繁栄に貢献する",
+      "the prosperity of the region — 地域の繁栄"
+    ],
+    "en": [
+      "economic prosperity",
+      "national prosperity",
+      "shared prosperity",
+      "long-term prosperity",
+      "a period of prosperity",
+      "peace and prosperity",
+      "achieve prosperity",
+      "enjoy prosperity",
+      "create prosperity",
+      "promote prosperity",
+      "contribute to prosperity",
+      "the prosperity of the region"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The region enjoyed several decades of peace and prosperity. — その地域は数十年にわたって平和と繁栄を享受した。",
+      "Economic growth does not automatically produce shared prosperity. — 経済成長によって、社会全体で共有される繁栄が自動的に実現するわけではない。",
+      "The government argued that investment in education would contribute to long-term prosperity. — 政府は、教育への投資が長期的な繁栄に寄与すると主張した。",
+      "The town’s prosperity once depended almost entirely on the shipping industry. — その町の繁栄は、かつて海運業にほぼ全面的に依存していた。",
+      "A reliable intellectual-property system can support prosperity by encouraging innovation, investment, and fair competition. — 信頼できる知的財産制度は、革新・投資・公正な競争を促すことによって、繁栄を支えることができる。"
+    ],
+    "en": [
+      "The region enjoyed several decades of peace and prosperity.",
+      "Economic growth does not automatically produce shared prosperity.",
+      "The government argued that investment in education would contribute to long-term prosperity.",
+      "The town’s prosperity once depended almost entirely on the shipping industry.",
+      "A reliable intellectual-property system can support prosperity by encouraging innovation, investment, and fair competition."
+    ]
+  }
+},
+{
   "id": "downturn",
   "sid": "2026-01304",
   "word": "downturn",
