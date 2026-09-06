@@ -1,5 +1,210 @@
 [
 {
+  "id": "liquidation",
+  "sid": "2026-01316",
+  "word": "liquidation",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "company law",
+    "insolvency",
+    "bankruptcy",
+    "assets",
+    "creditor",
+    "debt",
+    "winding up",
+    "business closure",
+    "sale",
+    "finance",
+    "legal",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable for the process; countable for a particular case or sale",
+    "plural": "liquidations",
+    "forms": {
+      "singular": "liquidation",
+      "plural": "liquidations",
+      "verb": "liquidate",
+      "third_person": "liquidates",
+      "past": "liquidated",
+      "past_participle": "liquidated",
+      "gerund": "liquidating",
+      "person_noun": "liquidator",
+      "adjective": "liquidated / liquidation"
+    },
+    "transitivity": "not applicable as a noun; liquidate is transitive or intransitive depending on context",
+    "patterns": [
+      "liquidation",
+      "enter / go into liquidation",
+      "put a company into liquidation",
+      "force a company into liquidation",
+      "liquidation proceedings",
+      "the liquidation of + company / assets",
+      "sell assets in liquidation",
+      "a voluntary / compulsory liquidation",
+      "a liquidation sale",
+      "liquidation value"
+    ],
+    "usage": {
+      "company_process": "Liquidation is the process of collecting and realizing an entity’s assets, settling liabilities, and distributing any remaining value in connection with ending its affairs.",
+      "uncountable": "Use liquidation without an article for the general process or legal state: enter liquidation; be in liquidation.",
+      "countable": "A liquidation or liquidations can refer to an individual case or separate company closures.",
+      "asset_conversion": "Liquidation can also mean converting investments, inventory, or other assets into cash.",
+      "sale": "A liquidation sale disposes of inventory or assets, often because a business is closing, although the exact commercial circumstances may vary.",
+      "bankruptcy_contrast": "Bankruptcy and liquidation overlap in some systems, but bankruptcy does not always require liquidation and the legal terminology differs by jurisdiction.",
+      "dissolution_contrast": "Liquidation concerns settling affairs and distributing assets; dissolution is the formal termination of the entity’s legal existence.",
+      "jurisdiction": "The available procedures, terminology, priorities, and consequences vary substantially among legal systems."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌlɪkwɪˈdeɪʃən/",
+      "uk": "/ˌlɪkwɪˈdeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "会社の資産を換価し、債務を処理して、その業務を終了させる清算",
+      "支払不能または株主の決定などを理由として会社を閉鎖する法的手続き",
+      "財産・投資・在庫などを売却して現金に換えること",
+      "債権者などへ分配するため、資産を回収・処分すること",
+      "閉店・事業終了などに伴って在庫を処分価格で販売すること",
+      "比喩的または歴史的に、人・集団・制度などを排除・消滅させること"
+    ],
+    "en": [
+      "the process of realizing a company’s assets, settling liabilities, and ending its affairs",
+      "a legal procedure for closing a company because of insolvency, a decision by its members, or another ground",
+      "the conversion of property, investments, or inventory into cash",
+      "the collection and disposal of assets for distribution to creditors or other entitled parties",
+      "the sale of inventory at reduced prices in connection with the closure of a business",
+      "figuratively or historically, the elimination or destruction of a person, group, or institution"
+    ]
+  },
+  "nuance": {
+    "ja": "liquidation の中心は、資産を現金化し、債務その他の関係を整理して、会社・投資・財産関係を終結させることである。会社法上の liquidation では、liquidator が財産を回収・売却し、法定の優先順位などに従って債権者へ分配し、残余財産があれば株主などへ分配する。必ずしも支払不能の場合だけに行われるわけではなく、債務を支払える会社が株主の判断で自主的に清算される場合もある。bankruptcy は債務を処理する法的制度を広く指し、法域によっては清算型だけでなく再建型も含むため、liquidation と同一ではない。winding up は会社の業務を終了・整理する過程を広く指し、liquidation とほぼ同義に用いられる法域もある。dissolution は通常、清算後に法人格が正式に消滅する最終段階を指す。なお、投資の liquidation は会社閉鎖を意味せず、単に資産を売却して現金化することもある。",
+    "en": "The central idea of liquidation is converting assets into cash and settling liabilities or other affairs so that a company, investment, or property arrangement can be brought to an end. In company liquidation, a liquidator collects and sells assets, distributes proceeds to creditors according to applicable priorities, and may distribute any surplus to shareholders or other entitled parties. Liquidation does not occur only because of insolvency; a solvent company may also be voluntarily liquidated following a decision by its members. Bankruptcy is a broader jurisdiction-dependent legal system for dealing with debt and may include reorganization as well as liquidation, so the two terms are not identical. Winding up broadly describes bringing a company’s affairs to an end and is used almost interchangeably with liquidation in some jurisdictions. Dissolution usually refers to the later formal termination of the entity’s legal existence. In investment contexts, liquidation may simply mean selling assets for cash and does not imply closure of a company."
+  },
+  "minimal": {
+    "ja": [
+      "liquidation：資産を換価し、債務を整理して、会社・投資などの関係を終結させること。",
+      "bankruptcy：支払えない債務を法的に処理する手続き・地位で、清算型と再建型を含み得る。",
+      "insolvency：債務を期限どおり支払えない、または一定の基準で負債が資産を上回る財務状態。",
+      "winding up：会社の業務を終了し、債務・資産関係を整理する過程。",
+      "dissolution：清算などの後、法人の法的存在を正式に終了させること。",
+      "reorganization：債務や事業を再編し、会社の存続・再建を目指す手続き。",
+      "administration：会社を管財人の管理下に置き、再建または秩序ある処分を進める法域固有の手続き。",
+      "asset sale：会社または個人が特定の資産を売却する取引で、必ずしも清算を意味しない。"
+    ],
+    "en": [
+      "liquidation converts assets into cash and settles liabilities in order to conclude a company’s or investment’s affairs.",
+      "bankruptcy is a legal process or status for dealing with unpayable debts and may include either liquidation or reorganization.",
+      "insolvency is a financial condition involving inability to pay debts or liabilities exceeding assets under a relevant test.",
+      "winding up is the process of bringing a company’s operations and financial affairs to an end.",
+      "dissolution is the formal termination of a legal entity’s existence, commonly after its affairs have been settled.",
+      "reorganization restructures debts and operations in an attempt to preserve or rehabilitate a business.",
+      "administration is a jurisdiction-specific procedure placing a company under an administrator’s control for rescue or orderly disposal.",
+      "an asset sale transfers particular assets and does not necessarily involve the liquidation of the seller."
+    ]
+  },
+  "etymology": {
+    "ja": "動詞 liquidate に行為・過程を表す接尾辞 -ion が付いて成立した。liquidate は後期ラテン語 liquidare「明らかにする、清算する」に由来し、その基礎に liquidus「液体の、明瞭な」がある。複雑な債権・債務の金額を「明確にする」ことから、勘定を確定・決済する意味が発達した。さらに、資産を現金という利用しやすい形へ変換して債務を処理すること、そして会社の業務を終了させる法的手続きを表すようになった。",
+    "en": "Liquidation was formed from liquidate with the action-forming suffix -ion. Liquidate derives from Late Latin liquidare, to make clear or settle, based on liquidus, liquid or clear. The idea of making a complicated account clear developed into determining and settling the amount of a debt or obligation. The word then came to describe converting assets into the readily usable form of cash, paying liabilities, and ultimately the legal process of bringing a company’s affairs to an end."
+  },
+  "synonyms": [
+    {
+      "word": "winding up",
+      "note": {
+        "ja": "会社の業務を終了し、債務を処理して資産を分配する過程を表す法律用語。",
+        "en": "A legal term for ending a company’s operations, settling liabilities, and distributing its assets."
+      }
+    },
+    {
+      "word": "asset realization",
+      "note": {
+        "ja": "資産を売却・回収し、債権者への分配に利用できる金銭へ換えること。",
+        "en": "The sale or collection of assets to convert them into money available for distribution."
+      }
+    },
+    {
+      "word": "dissolution",
+      "note": {
+        "ja": "会社・法人などの法的存在を正式に終了させる最終的な手続き。",
+        "en": "The formal termination of a company’s or other legal entity’s existence."
+      }
+    },
+    {
+      "word": "closure",
+      "note": {
+        "ja": "店舗・工場・企業・事業などが営業を終了することを広く表す。",
+        "en": "A broad term for a shop, factory, company, or operation ceasing business."
+      }
+    },
+    {
+      "word": "sell-off",
+      "note": {
+        "ja": "資産・株式・在庫などを短期間に大量に売却すること。",
+        "en": "The rapid or extensive sale of assets, shares, inventory, or other property."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Liquidation / Abwicklung",
+    "it": "liquidazione",
+    "fr": "liquidation",
+    "es": "liquidación"
+  },
+  "collocations": {
+    "ja": [
+      "enter liquidation — 清算手続きに入る",
+      "go into liquidation — 清算に入る",
+      "put a company into liquidation — 会社を清算手続きに入れる",
+      "compulsory liquidation — 強制清算",
+      "voluntary liquidation — 任意清算",
+      "liquidation proceedings — 清算手続き",
+      "the liquidation of a company — 会社の清算",
+      "the liquidation of assets — 資産の換価",
+      "a liquidation sale — 閉店・清算処分セール",
+      "liquidation value — 清算価値",
+      "a court-appointed liquidator — 裁判所が選任した清算人",
+      "distribution upon liquidation — 清算時の財産分配"
+    ],
+    "en": [
+      "enter liquidation",
+      "go into liquidation",
+      "put a company into liquidation",
+      "compulsory liquidation",
+      "voluntary liquidation",
+      "liquidation proceedings",
+      "the liquidation of a company",
+      "the liquidation of assets",
+      "a liquidation sale",
+      "liquidation value",
+      "a court-appointed liquidator",
+      "distribution upon liquidation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company went into liquidation after it became unable to pay its creditors. — その会社は債権者への支払いができなくなった後、清算手続きに入った。",
+      "The liquidator sold the company’s assets and distributed the proceeds according to the applicable priorities. — 清算人は会社の資産を売却し、適用される優先順位に従って売却代金を分配した。",
+      "The shareholders approved the voluntary liquidation of the solvent company. — 株主は、支払能力のある会社を任意清算することを承認した。",
+      "The investor avoided further losses by liquidating the position before the market declined. — 投資家は市場が下落する前にその投資ポジションを現金化し、さらなる損失を回避した。",
+      "During liquidation, patents and trademarks may be sold, licensed, abandoned, or otherwise dealt with under the applicable law. — 清算中、特許・商標は、適用法に従って売却・ライセンス・放棄その他の処理を受ける場合がある。"
+    ],
+    "en": [
+      "The company went into liquidation after it became unable to pay its creditors.",
+      "The liquidator sold the company’s assets and distributed the proceeds according to the applicable priorities.",
+      "The shareholders approved the voluntary liquidation of the solvent company.",
+      "The investor avoided further losses by liquidating the position before the market declined.",
+      "During liquidation, patents and trademarks may be sold, licensed, abandoned, or otherwise dealt with under the applicable law."
+    ]
+  }
+},
+{
   "id": "insolvency",
   "sid": "2026-01317",
   "word": "insolvency",
