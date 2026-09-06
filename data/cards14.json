@@ -1,5 +1,203 @@
 [
 {
+  "id": "bear-in-mind",
+  "sid": "2026-01329",
+  "word": "bear in mind",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "idiom",
+    "verb phrase",
+    "memory",
+    "consideration",
+    "attention",
+    "advice",
+    "warning",
+    "decision making",
+    "planning",
+    "business",
+    "legal",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic verb phrase",
+    "forms": {
+      "base": "bear in mind",
+      "third_person": "bears in mind",
+      "past": "bore in mind",
+      "past_participle": "borne in mind",
+      "gerund": "bearing in mind",
+      "common_imperative": "Bear in mind that ...",
+      "close_equivalent": "keep in mind"
+    },
+    "transitivity": "transitive; the object may be a noun phrase, pronoun, wh-clause, or that-clause",
+    "patterns": [
+      "bear + noun + in mind",
+      "bear it / this / that in mind",
+      "bear in mind + noun",
+      "bear in mind that + clause",
+      "bear in mind what / how / why + clause",
+      "bearing in mind + noun",
+      "bearing in mind that + clause",
+      "something should be borne in mind",
+      "with something borne in mind",
+      "important to bear in mind"
+    ],
+    "usage": {
+      "that_clause": "Bear in mind that introduces a fact, limitation, or warning that should influence thought or action.",
+      "noun_position": "A short noun or pronoun commonly appears between bear and in mind: bear this in mind.",
+      "long_object": "A longer object or clause commonly follows the complete phrase: bear in mind the practical difficulties; bear in mind that costs may rise.",
+      "gerund": "Bearing in mind can introduce a relevant consideration: Bearing in mind the deadline, we should begin now.",
+      "passive": "The formal passive construction is should be borne in mind, using borne rather than born.",
+      "memory_and_consideration": "The phrase can mean remember, but usually suggests actively considering the information when deciding or acting.",
+      "imperative": "The imperative Bear in mind ... is common in advice, explanations, and warnings and may sound firmer than Please remember.",
+      "register": "Natural in both professional and everyday English; keep in mind is slightly more conversational."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌber ɪn ˈmaɪnd/",
+      "uk": "/ˌbeər ɪn ˈmaɪnd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "重要な事実・条件・注意点を忘れずに覚えておく",
+      "判断・計画・行動をするとき、特定の事情を考慮に入れる",
+      "後で必要になる情報を意識にとどめておく",
+      "相手に重要な制約・例外・警告を念頭に置くよう求める",
+      "bearing in mind の形で、ある事情を考慮すれば"
+    ],
+    "en": [
+      "to remember an important fact, condition, or warning",
+      "to consider a particular circumstance when making a decision, plan, or judgment",
+      "to keep information consciously available because it will be relevant later",
+      "to ask someone to take account of an important limitation, exception, or caution",
+      "in bearing in mind, considering or taking account of a relevant fact"
+    ]
+  },
+  "nuance": {
+    "ja": "bear in mind は、単に過去の情報を記憶しているだけでなく、その情報を現在または将来の判断・行動に反映させることを表す。Bear in mind that the deadline is Friday. は、金曜日という期限を覚えるだけでなく、作業計画をそれに合わせるよう促している。remember は情報を忘れないこと、consider はある事項について考えることを広く表す。take into account は複数の事情を評価・計算・判断へ具体的に組み入れる、より分析的な表現である。keep in mind は bear in mind とほぼ同義だが、やや会話的である。形式的な文章では It should be borne in mind that ... が使われるが、冗長に響くこともあるため、The court should consider that ... のように具体的な主語と動詞へ書き換えると明確になる場合がある。",
+    "en": "Bear in mind means more than retaining information in memory; it usually requires allowing that information to influence a present or future decision or action. Bear in mind that the deadline is Friday asks the listener not only to remember the date but also to plan accordingly. Remember focuses on not forgetting information, while consider broadly means thinking about a matter. Take into account is more analytical and suggests incorporating a factor into an evaluation, calculation, or decision. Keep in mind is nearly synonymous with bear in mind but is somewhat more conversational. Formal writing sometimes uses It should be borne in mind that ..., although a direct construction such as The court should consider that ... may be clearer."
+  },
+  "minimal": {
+    "ja": [
+      "bear in mind：重要な事実を覚えておき、判断・行動の際に考慮する。",
+      "keep in mind：bear in mind とほぼ同じで、やや会話的な「念頭に置く」。",
+      "remember：事実・経験・予定などを忘れずに記憶している、または思い出す。",
+      "consider：決定前に事情・選択肢・意見などをよく考える。",
+      "take into account：関連する要因を評価・計算・判断へ具体的に組み入れる。",
+      "take into consideration：事情・影響などを考慮する、やや形式的な表現。",
+      "be aware of：事実・問題・危険などの存在を知り、認識している。",
+      "not lose sight of：他の問題に気を取られても、重要な目的・事実を見失わない。"
+    ],
+    "en": [
+      "bear in mind means remembering an important fact and considering it when deciding or acting.",
+      "keep in mind is a slightly more conversational near-equivalent meaning to remember and consider.",
+      "remember means retaining or recalling a fact, experience, intention, or appointment.",
+      "consider means thinking carefully about a circumstance, option, or opinion before deciding.",
+      "take into account means incorporating a relevant factor into an evaluation, calculation, or decision.",
+      "take into consideration is a relatively formal expression for considering a circumstance or effect.",
+      "be aware of means knowing and recognizing the existence of a fact, problem, or danger.",
+      "not lose sight of means continuing to remember an important objective or fact despite distractions."
+    ]
+  },
+  "etymology": {
+    "ja": "bear は古英語 beran「運ぶ、担う、支える」に由来し、mind は古英語 gemynd「記憶、思考、心」にさかのぼる。bear something in mind は、ある事実や考えを心の中に「携えておく、保持する」という比喩に基づく。物理的な荷物を運ぶ bear が、責任・感情・考えなどを精神的に保持する意味へ広がった。過去形は bore、過去分詞は borne であり、受動形では It should be borne in mind. となる。",
+    "en": "Bear comes from Old English beran, to carry, support, or sustain, while mind derives from Old English gemynd, memory, thought, or the faculty of thinking. Bear something in mind is based on the metaphor of carrying or retaining a fact or idea within one’s mind. The physical verb bear thus extended to the mental retention of a responsibility, feeling, or consideration. Its past tense is bore and its past participle is borne, producing the formal passive expression It should be borne in mind."
+  },
+  "synonyms": [
+    {
+      "word": "keep in mind",
+      "note": {
+        "ja": "情報・条件などを忘れず、後の判断で考慮することを表す、やや会話的な表現。",
+        "en": "A somewhat conversational expression meaning to remember information and consider it in a later decision."
+      }
+    },
+    {
+      "word": "remember",
+      "note": {
+        "ja": "事実・予定・経験などを記憶に保持する、または再び思い出す。",
+        "en": "To retain or recall a fact, appointment, experience, or intended action."
+      }
+    },
+    {
+      "word": "take into account",
+      "note": {
+        "ja": "関連する事情・数値・影響を評価や判断へ具体的に反映させる。",
+        "en": "To incorporate a relevant circumstance, figure, or effect into an evaluation or decision."
+      }
+    },
+    {
+      "word": "consider",
+      "note": {
+        "ja": "決定・評価を行う前に、事実・選択肢・影響について注意深く考える。",
+        "en": "To think carefully about a fact, option, or consequence before making a decision or evaluation."
+      }
+    },
+    {
+      "word": "heed",
+      "note": {
+        "ja": "警告・助言などに注意を払い、それに従って行動する形式的な語。",
+        "en": "A formal verb meaning to pay attention to a warning or advice and act accordingly."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "im Gedächtnis behalten / berücksichtigen",
+    "it": "tenere a mente / tenere presente",
+    "fr": "garder à l’esprit / ne pas oublier",
+    "es": "tener en cuenta / tener presente"
+  },
+  "collocations": {
+    "ja": [
+      "bear this in mind — このことを念頭に置く",
+      "bear that in mind — そのことを覚えておく",
+      "bear in mind that ... — ～ということを念頭に置く",
+      "bear in mind the cost — 費用を考慮する",
+      "bear in mind the deadline — 期限を念頭に置く",
+      "bear in mind the possibility — その可能性を考慮する",
+      "important to bear in mind — 念頭に置くことが重要である",
+      "something to bear in mind — 覚えておくべきこと",
+      "bearing in mind the circumstances — 事情を考慮すれば",
+      "bearing in mind that ... — ～ということを考慮すれば",
+      "should be borne in mind — 念頭に置かれるべきである",
+      "always bear in mind — 常に念頭に置く"
+    ],
+    "en": [
+      "bear this in mind",
+      "bear that in mind",
+      "bear in mind that ...",
+      "bear in mind the cost",
+      "bear in mind the deadline",
+      "bear in mind the possibility",
+      "important to bear in mind",
+      "something to bear in mind",
+      "bearing in mind the circumstances",
+      "bearing in mind that ...",
+      "should be borne in mind",
+      "always bear in mind"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Bear in mind that the last train leaves shortly after midnight. — 終電は午前0時を少し過ぎた時刻に出ることを覚えておいてください。",
+      "We should bear the additional maintenance costs in mind before purchasing the equipment. — その機器を購入する前に、追加の保守費用を考慮すべきである。",
+      "Bearing in mind the weather forecast, we decided to hold the event indoors. — 天気予報を考慮して、私たちは催しを屋内で行うことにした。",
+      "It should be borne in mind that the survey involved only a small number of participants. — その調査の参加者が少数に限られていたことを念頭に置くべきである。",
+      "When amending a patent claim, the applicant must bear in mind whether the new wording is supported by the original disclosure. — 特許請求項を補正する際、出願人は新しい文言が当初の開示によって裏付けられているかを考慮しなければならない。"
+    ],
+    "en": [
+      "Bear in mind that the last train leaves shortly after midnight.",
+      "We should bear the additional maintenance costs in mind before purchasing the equipment.",
+      "Bearing in mind the weather forecast, we decided to hold the event indoors.",
+      "It should be borne in mind that the survey involved only a small number of participants.",
+      "When amending a patent claim, the applicant must bear in mind whether the new wording is supported by the original disclosure."
+    ]
+  }
+},
+{
   "id": "up-to",
   "sid": "2026-01330",
   "word": "up to",
