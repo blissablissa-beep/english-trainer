@@ -1,5 +1,201 @@
 [
 {
+  "id": "downturn",
+  "sid": "2026-01304",
+  "word": "downturn",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "economics",
+    "economy",
+    "business",
+    "market",
+    "decline",
+    "sales",
+    "demand",
+    "employment",
+    "finance",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "downturns",
+    "forms": {
+      "singular": "downturn",
+      "plural": "downturns",
+      "related_verb": "turn down, not normally used as the corresponding economic verb",
+      "opposite": "upturn",
+      "related_terms": "decline / slowdown / recession"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a downturn",
+      "a sharp / severe / prolonged downturn",
+      "a downturn in + economy / market / sales",
+      "during / amid a downturn",
+      "experience / suffer a downturn",
+      "face / withstand a downturn",
+      "cause / trigger a downturn",
+      "recover / rebound from a downturn",
+      "the current economic downturn",
+      "an industry-wide downturn"
+    ],
+    "usage": {
+      "countable": "Downturn is countable and normally requires a determiner in the singular: a downturn, the downturn.",
+      "in_pattern": "Use in to identify what has declined: a downturn in sales, demand, or economic activity.",
+      "scope": "The word can describe an entire economy, a particular market or industry, or one measure such as sales or demand.",
+      "severity": "A downturn does not by itself specify the depth, duration, or official status of the decline.",
+      "economic_relation": "A downturn may develop into a recession, but the word can also describe a milder, shorter, or more localized decline.",
+      "opposite": "The corresponding opposite is upturn, meaning an improvement or increase in economic or business activity.",
+      "spelling": "Downturn is written as one word when used as a noun."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdaʊntɜːrn/",
+      "uk": "/ˈdaʊntɜːn/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "経済活動・市場・企業業績などが悪化する局面",
+      "売上・需要・生産・雇用・価格などの減少",
+      "特定の産業または地域における景況の低迷",
+      "成長や好調な傾向が下向きへ転じること",
+      "人・組織・活動などの成功や勢いが衰える時期"
+    ],
+    "en": [
+      "a period in which economic, market, or business conditions become worse",
+      "a decline in sales, demand, production, employment, prices, or another measure",
+      "a period of weak activity in a particular industry or region",
+      "a change from growth or favorable performance to a downward trend",
+      "a period in which the success or momentum of a person, organization, or activity diminishes"
+    ]
+  },
+  "nuance": {
+    "ja": "downturn は、経済・市場・企業業績などが下向きになることを広く表す語であり、悪化の深さや期間について厳密な条件を課さない。a downturn in sales なら一企業の売上減少、an industry downturn なら特定産業全体の低迷、an economic downturn なら経済全般の悪化を指し得る。recession は通常、経済活動が広範囲かつ一定期間にわたり縮小する、より明確な景気局面を表すため、すべての downturn が recession に該当するわけではない。slowdown は成長率が低下しても活動自体は成長している場合に使えるが、downturn は一般に数値や状況が実際に悪い方向へ転じたことを示唆する。slump は downturn より急激または大幅な落ち込みを強く感じさせることが多い。反対語は upturn である。",
+    "en": "Downturn broadly describes a downward movement in economic, market, or business conditions without imposing a precise requirement concerning depth or duration. A downturn in sales may affect only one company, an industry downturn may affect a particular sector, and an economic downturn may involve the wider economy. Recession normally denotes a more identifiable and broadly distributed contraction, so not every downturn constitutes a recession. A slowdown can occur when activity is still growing but at a reduced rate, whereas downturn usually suggests that a measure or condition has actually begun moving in an unfavorable direction. Slump often conveys a sharper or more substantial decline than downturn. Its natural opposite is upturn."
+  },
+  "minimal": {
+    "ja": [
+      "downturn：経済・市場・売上などが悪化または減少する局面を広く表す。",
+      "recession：経済活動が広範囲にわたって一定期間縮小する景気後退。",
+      "depression：recession よりも深刻かつ長期的な大規模経済不況。",
+      "slowdown：成長や活動の速度が鈍化すること。数値自体は増加を続けている場合もある。",
+      "slump：経済・売上・価格などの急激で大幅な落ち込み。",
+      "decline：数量・品質・重要性などが低下することを表す最も一般的な語。",
+      "contraction：生産・需要・経済規模などが実際に縮小すること。",
+      "upturn：経済・市場・業績などが上向き、改善し始めること。"
+    ],
+    "en": [
+      "a downturn is a broad decline or worsening in economic, market, or business conditions.",
+      "a recession is a widespread and sustained contraction in economic activity.",
+      "a depression is a more severe and prolonged economic collapse than an ordinary recession.",
+      "a slowdown is a reduction in the rate of growth or activity, which may occur while the measure is still increasing.",
+      "a slump is a sharp and substantial fall in economic activity, sales, or prices.",
+      "a decline is the general term for a reduction in quantity, quality, importance, or strength.",
+      "a contraction is an actual reduction in output, demand, economic activity, or size.",
+      "an upturn is the beginning of improvement or growth in an economy, market, or business."
+    ]
+  },
+  "etymology": {
+    "ja": "downturn は down「下へ、下向きの」と turn「曲がる、方向を変える」を組み合わせた語で、文字どおりには「下向きへの転換」を意味する。turn は古英語 turnian を経て、ラテン語 tornare「旋盤で回す、回転させる」にさかのぼる。経済・商業上の downturn は、それまで横ばいまたは上向きだった活動・売上・需要などが、下向きへ転じるという図式に基づく。対になる upturn も同様に、状況が上向きへ転じることを表す。",
+    "en": "Downturn combines down, indicating a lower or declining direction, with turn, a change of direction. Turn entered English through Old English turnian and ultimately relates to Latin tornare, to turn on a lathe or cause to rotate. In economic and commercial use, a downturn represents the point or period in which activity, sales, demand, or another measure turns downward after being stable or increasing. The contrasting formation upturn similarly describes a change toward improvement or growth."
+  },
+  "synonyms": [
+    {
+      "word": "decline",
+      "note": {
+        "ja": "数量・水準・品質・勢力などが低下することを広く表す一般語。",
+        "en": "The general term for a reduction in quantity, level, quality, power, or importance."
+      }
+    },
+    {
+      "word": "recession",
+      "note": {
+        "ja": "経済全体に広がり、一定期間継続する景気後退を表す。",
+        "en": "A contraction in economic activity that extends broadly across the economy and persists for a meaningful period."
+      }
+    },
+    {
+      "word": "slump",
+      "note": {
+        "ja": "経済・市場・需要・売上などの急激で大幅な落ち込みを強調する。",
+        "en": "Emphasizes a sharp and substantial fall in economic activity, markets, demand, or sales."
+      }
+    },
+    {
+      "word": "contraction",
+      "note": {
+        "ja": "生産・需要・投資・経済規模などが縮小することに焦点を置く。",
+        "en": "Focuses on a measurable reduction in production, demand, investment, or the size of an economy."
+      }
+    },
+    {
+      "word": "setback",
+      "note": {
+        "ja": "計画・進歩・成功を一時的に妨げる問題や後退を表す。",
+        "en": "A problem or reversal that temporarily interrupts progress or success."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Abschwung / Rückgang",
+    "it": "flessione / calo / fase negativa",
+    "fr": "ralentissement / baisse / repli",
+    "es": "desaceleración / caída / recesión"
+  },
+  "collocations": {
+    "ja": [
+      "an economic downturn — 景気の悪化",
+      "a global downturn — 世界的な景気悪化",
+      "a severe downturn — 深刻な低迷",
+      "a sharp downturn — 急激な落ち込み",
+      "a prolonged downturn — 長期的な低迷",
+      "a market downturn — 市況の悪化",
+      "an industry downturn — 業界の低迷",
+      "a downturn in sales — 売上の減少",
+      "a downturn in demand — 需要の落ち込み",
+      "experience a downturn — 低迷を経験する",
+      "withstand the downturn — 景気悪化に耐える",
+      "recover from a downturn — 低迷から回復する"
+    ],
+    "en": [
+      "an economic downturn",
+      "a global downturn",
+      "a severe downturn",
+      "a sharp downturn",
+      "a prolonged downturn",
+      "a market downturn",
+      "an industry downturn",
+      "a downturn in sales",
+      "a downturn in demand",
+      "experience a downturn",
+      "withstand the downturn",
+      "recover from a downturn"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The construction industry experienced a sharp downturn as borrowing costs increased. — 借入費用の上昇に伴い、建設業界は急激な低迷を経験した。",
+      "A temporary downturn in sales does not necessarily indicate a fundamental problem with the business. — 一時的な売上減少が、必ずしも事業の根本的な問題を示すわけではない。",
+      "The company reduced unnecessary expenditure to help it withstand the economic downturn. — 会社は景気悪化に耐えられるよう、不要な支出を削減した。",
+      "Although economic growth slowed, the country avoided a serious downturn. — 経済成長は鈍化したものの、その国は深刻な景気悪化を回避した。",
+      "During an industry downturn, maintaining valuable patents and trademarks may strengthen a company’s position when demand recovers. — 業界の低迷期にも価値ある特許や商標を維持することで、需要回復時の企業の立場が強化される可能性がある。"
+    ],
+    "en": [
+      "The construction industry experienced a sharp downturn as borrowing costs increased.",
+      "A temporary downturn in sales does not necessarily indicate a fundamental problem with the business.",
+      "The company reduced unnecessary expenditure to help it withstand the economic downturn.",
+      "Although economic growth slowed, the country avoided a serious downturn.",
+      "During an industry downturn, maintaining valuable patents and trademarks may strengthen a company’s position when demand recovers."
+    ]
+  }
+},
+{
   "id": "upturn",
   "sid": "2026-01305",
   "word": "upturn",
