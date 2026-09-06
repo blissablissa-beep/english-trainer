@@ -1,5 +1,205 @@
 [
 {
+  "id": "receptive",
+  "sid": "2026-01394",
+  "word": "receptive",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "willingness",
+    "openness",
+    "ideas",
+    "feedback",
+    "learning",
+    "communication",
+    "attitude",
+    "response",
+    "biology",
+    "technology",
+    "business",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "receptive",
+      "comparative": "more receptive",
+      "superlative": "most receptive",
+      "adverb": "receptively",
+      "noun": "receptiveness / receptivity",
+      "opposite": "unreceptive"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "be receptive to + noun",
+      "be receptive to + gerund",
+      "be receptive to the idea that + clause",
+      "be receptive toward / towards + person / proposal",
+      "seem / appear receptive",
+      "become more / less receptive to + noun",
+      "remain receptive to + suggestion",
+      "a receptive audience",
+      "a receptive attitude / environment",
+      "receptive to feedback / change"
+    ],
+    "usage": {
+      "preposition": "To is the standard preposition: receptive to criticism, not normally receptive of criticism.",
+      "gerund": "Because to is a preposition, it is followed by a gerund when an action follows: receptive to changing the policy.",
+      "attitude": "For people, receptive means willing to listen to, consider, or accept an idea, suggestion, or influence.",
+      "audience": "A receptive audience responds with interest and is willing to understand or appreciate what is presented.",
+      "technical": "In biology and technology, receptive can describe something capable of receiving a stimulus, signal, material, or reproductive influence.",
+      "degree": "More receptive and most receptive are the standard comparative forms.",
+      "evaluation": "The word is generally positive, but being excessively receptive may imply insufficient critical judgment.",
+      "register": "It is neutral to formal and common in professional, academic, scientific, and institutional writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈseptɪv/",
+      "uk": "/rɪˈseptɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "新しい考え・提案・助言などを進んで聞き入れる",
+      "批判・フィードバック・変化を受け入れて検討する姿勢がある",
+      "人の話や作品に関心を示し、好意的に反応する",
+      "学習・経験・外部からの影響を吸収しやすい",
+      "生物学的に、刺激・受精・移植などを受け入れられる状態の",
+      "技術的に、信号・電波・情報などを受信できる"
+    ],
+    "en": [
+      "willing to listen to and consider a new idea, proposal, or piece of advice",
+      "open to accepting criticism, feedback, or change",
+      "interested in and favorably responsive to a speaker, message, or work",
+      "capable of absorbing learning, experience, or external influence",
+      "in biology, capable of receiving a stimulus, fertilization, implantation, or other influence",
+      "in technology, capable of receiving a signal, transmission, or information"
+    ]
+  },
+  "nuance": {
+    "ja": "receptive は、外部から来る考え・提案・感情・刺激などを拒まず、受け入れる用意があることを表す。be receptive to feedback なら、フィードバックに必ず同意するという意味ではなく、まず耳を傾け、真剣に検討する姿勢があることを示す。open-minded と近いが、open-minded は固定観念にとらわれず幅広い考えを検討する一般的な性格・態度を表し、receptive は特定の提案・影響・働きかけを受け入れやすい状態に焦点を置く。an appreciative audience が発表の価値を理解して好意的に評価する聴衆であるのに対し、a receptive audience は内容を受け入れ、話を聞く用意のある聴衆である。通常は肯定的だが、何でも無批判に受け入れることまでは意味しない。",
+    "en": "Receptive describes readiness to receive an idea, proposal, emotion, stimulus, or other external influence instead of rejecting it immediately. Be receptive to feedback does not mean automatically agreeing with the feedback; it means being willing to listen and consider it seriously. Open-minded is close but generally describes a broader freedom from fixed assumptions, whereas receptive focuses on readiness to respond to a particular suggestion or influence. An appreciative audience recognizes and favorably evaluates the quality of a presentation, while a receptive audience is willing to listen to and accept its message. The adjective is normally positive but does not inherently mean accepting everything without critical judgment."
+  },
+  "minimal": {
+    "ja": [
+      "receptive：考え・提案・助言・影響などを受け入れて検討する用意がある。",
+      "open-minded：固定観念にとらわれず、異なる考え方を公平に検討する。",
+      "responsive：刺激・要求・働きかけに素早く適切な反応を示す。",
+      "appreciative：感謝を示す、または物事の価値・良さを理解して評価する。",
+      "amenable：提案・説得・指導などを受け入れる意思がある。比較的形式的。",
+      "susceptible：影響・病気・損害などを受けやすい。しばしば否定的。",
+      "accepting：人・状況・相違などを批判せず受け入れる。",
+      "unreceptive：提案・考え・働きかけを受け入れようとしない。"
+    ],
+    "en": [
+      "receptive means willing to receive and consider an idea, proposal, advice, or influence.",
+      "open-minded means willing to evaluate differing ideas fairly without fixed assumptions.",
+      "responsive means reacting readily and appropriately to a stimulus, request, or influence.",
+      "appreciative means showing gratitude or recognizing and valuing quality.",
+      "amenable formally means willing to accept a proposal, persuasion, guidance, or control.",
+      "susceptible means easily affected by an influence, disease, or harm and is often negative.",
+      "accepting means tolerating or welcoming a person, situation, or difference without criticism.",
+      "unreceptive means unwilling to consider or respond positively to an idea or approach."
+    ]
+  },
+  "etymology": {
+    "ja": "receptive は、フランス語 réceptif や中世ラテン語 receptivus を経て、ラテン語 recipere「受け取る、受け入れる」に由来する。recipere は re-「戻って」と capere「取る」から成る。もともとは物・刺激などを受け取る能力を表し、そこから考え・提案・影響を心理的に受け入れる用意があるという意味へ広がった。receive、reception、recipient、receptacle なども同じラテン語系統に属する。名詞 receptivity は、物理的・生物学的な受容性と、心理的な受容力の両方に使われる。",
+    "en": "Receptive came through French réceptif and Medieval Latin receptivus from Latin recipere, meaning to receive or take in. Recipere was formed from re-, back, and capere, to take. The adjective initially concerned the capacity to receive an object or stimulus and subsequently developed the psychological sense of being willing to accept an idea, proposal, or influence. Receive, reception, recipient, and receptacle belong to the same Latin family. The noun receptivity can describe both physical or biological capacity and psychological openness."
+  },
+  "synonyms": [
+    {
+      "word": "open-minded",
+      "note": {
+        "ja": "自分と異なる考え・方法・文化などを、先入観にとらわれず検討する。",
+        "en": "Describes considering unfamiliar ideas, methods, or cultures without being restricted by prejudice."
+      }
+    },
+    {
+      "word": "amenable",
+      "note": {
+        "ja": "提案・助言・説得などを受け入れ、それに従う可能性があることを表す形式的な語。",
+        "en": "A formal adjective describing someone willing or likely to accept a suggestion, advice, or persuasion."
+      }
+    },
+    {
+      "word": "responsive",
+      "note": {
+        "ja": "質問・要求・刺激・変化などに対し、素早く積極的な反応を示す。",
+        "en": "Describes responding readily and positively to a question, request, stimulus, or change."
+      }
+    },
+    {
+      "word": "welcoming",
+      "note": {
+        "ja": "人・考え・変化などを好意的に迎え、受け入れる態度を示す。",
+        "en": "Describes receiving a person, idea, or change in a friendly and favorable manner."
+      }
+    },
+    {
+      "word": "accepting",
+      "note": {
+        "ja": "人の相違・状況・欠点などを否定せず、そのまま受け入れる。",
+        "en": "Describes tolerating or embracing differences, circumstances, or imperfections without rejection."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "aufgeschlossen / empfänglich",
+    "it": "ricettivo / disponibile",
+    "fr": "réceptif / ouvert",
+    "es": "receptivo / abierto"
+  },
+  "collocations": {
+    "ja": [
+      "be receptive to new ideas — 新しい考えを受け入れる姿勢がある",
+      "be receptive to feedback — フィードバックに耳を傾ける",
+      "be receptive to criticism — 批判を受け止める用意がある",
+      "be receptive to change — 変化を受け入れる姿勢がある",
+      "be receptive to suggestions — 提案を進んで検討する",
+      "be receptive to alternative approaches — 別の方法を受け入れて検討する",
+      "seem receptive — 受け入れる姿勢があるように見える",
+      "become more receptive — より受容的になる",
+      "remain receptive — 引き続き意見を聞き入れる姿勢を保つ",
+      "a receptive audience — 内容を好意的に受け入れる聴衆",
+      "a receptive attitude — 受容的な態度",
+      "a receptive environment — 新しい考えを受け入れやすい環境"
+    ],
+    "en": [
+      "be receptive to new ideas",
+      "be receptive to feedback",
+      "be receptive to criticism",
+      "be receptive to change",
+      "be receptive to suggestions",
+      "be receptive to alternative approaches",
+      "seem receptive",
+      "become more receptive",
+      "remain receptive",
+      "a receptive audience",
+      "a receptive attitude",
+      "a receptive environment"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The manager was receptive to our suggestion for improving the workflow. — 部長は、作業の流れを改善するという私たちの提案を進んで検討した。",
+      "Good students remain receptive to constructive criticism. — 優れた学生は、建設的な批判を受け入れる姿勢を保つ。",
+      "The audience appeared receptive to the speaker’s unconventional argument. — 聴衆は、講演者の型破りな主張を好意的に受け止めているようだった。",
+      "She was initially skeptical but became more receptive after seeing the evidence. — 彼女は当初懐疑的だったが、証拠を見た後はより受け入れる姿勢を示した。",
+      "The examiner seemed receptive to a narrower patent claim, but the attorney first considered whether the objection could be overcome without sacrificing commercially important scope. — 審査官はより狭い特許請求項を受け入れる姿勢を示しているようだったが、弁理士はまず、商業上重要な範囲を犠牲にせず拒絶理由を解消できるか検討した。"
+    ],
+    "en": [
+      "The manager was receptive to our suggestion for improving the workflow.",
+      "Good students remain receptive to constructive criticism.",
+      "The audience appeared receptive to the speaker’s unconventional argument.",
+      "She was initially skeptical but became more receptive after seeing the evidence.",
+      "The examiner seemed receptive to a narrower patent claim, but the attorney first considered whether the objection could be overcome without sacrificing commercially important scope."
+    ]
+  }
+},
+{
   "id": "banal",
   "sid": "2026-01395",
   "word": "banal",
