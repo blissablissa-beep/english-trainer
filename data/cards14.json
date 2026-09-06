@@ -1,5 +1,204 @@
 [
 {
+  "id": "economics",
+  "sid": "2026-01319",
+  "word": "economics",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "academic subject",
+    "social science",
+    "economy",
+    "markets",
+    "production",
+    "consumption",
+    "trade",
+    "incentives",
+    "cost",
+    "policy",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable; normally singular despite ending in -s",
+    "plural": "not normally used",
+    "forms": {
+      "base": "economics",
+      "related_noun": "economy",
+      "person_noun": "economist",
+      "adjective": "economic / economical",
+      "adverb": "economically",
+      "major_branches": "microeconomics / macroeconomics"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "study / teach economics",
+      "a degree / course in economics",
+      "the study of economics",
+      "economics is + adjective",
+      "the economics of + project / industry",
+      "basic / applied economics",
+      "behavioral / environmental economics",
+      "microeconomics and macroeconomics",
+      "from an economics perspective",
+      "an economics professor / student"
+    ],
+    "usage": {
+      "singular_agreement": "Economics normally takes a singular verb when referring to the academic discipline: Economics is a social science.",
+      "no_article": "The subject normally appears without an article: study economics, not study the economics.",
+      "of_pattern": "The economics of something means its costs, revenues, incentives, and overall economic practicality.",
+      "discipline": "Economics studies how individuals, businesses, governments, and societies allocate scarce resources.",
+      "microeconomics": "Microeconomics examines choices and interactions involving individuals, households, firms, and particular markets.",
+      "macroeconomics": "Macroeconomics examines economy-wide matters such as growth, inflation, unemployment, and monetary or fiscal policy.",
+      "economy_warning": "Economy is the system or condition being studied; economics is the field that studies it.",
+      "economic_economical": "Economic means relating to the economy; economical usually means efficient or inexpensive."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌiːkəˈnɑːmɪks/; also /ˌekəˈnɑːmɪks/",
+      "uk": "/ˌiːkəˈnɒmɪks/; also /ˌekəˈnɒmɪks/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "限られた資源を人・企業・政府・社会がどのように配分するかを研究する経済学",
+      "商品・サービスの生産・分配・消費・取引を研究する社会科学",
+      "市場・価格・雇用・所得・景気・政策などを分析する学問",
+      "特定の事業・製品・産業に関する費用・収益・採算性",
+      "人々の選択・誘因・制度が経済的結果へ及ぼす影響の研究"
+    ],
+    "en": [
+      "the social science studying how individuals, businesses, governments, and societies allocate scarce resources",
+      "the study of the production, distribution, exchange, and consumption of goods and services",
+      "the discipline analyzing markets, prices, employment, income, business cycles, and public policy",
+      "the costs, revenues, incentives, and commercial viability of a particular project, product, or industry",
+      "the study of how choices, incentives, and institutions affect economic outcomes"
+    ]
+  },
+  "nuance": {
+    "ja": "economics は語末に -s があるが、学問名としては通常、単数扱いとなり Economics is ... とする。economy が現実の生産・消費・雇用・取引から成る「経済」そのものを表すのに対し、economics はその仕組みを研究する「経済学」である。microeconomics は個人・家庭・企業・特定市場の選択や価格形成を、macroeconomics は経済全体の成長・物価・失業・金融政策・財政政策などを扱う。the economics of a project と言う場合は学問一般ではなく、その事業の費用構造・予想収益・誘因・採算性を意味する。この用法では、技術的に実現可能でも the economics do not work のように、費用に見合わず事業として成立しないことを表せる。ただし、学問名としての基本的な一致は単数である。",
+    "en": "Although economics ends in -s, it normally takes singular agreement as the name of an academic discipline: Economics is a social science. Economy denotes the actual system of production, consumption, employment, and exchange, whereas economics is the field that studies how that system operates. Microeconomics examines the choices and interactions of individuals, households, firms, and particular markets. Macroeconomics examines economy-wide matters such as growth, inflation, unemployment, monetary policy, and fiscal policy. In the economics of a project, the word refers not to the discipline generally but to the project’s cost structure, expected revenue, incentives, and commercial viability. In this specialized use, the economics do not work can mean that something is technically possible but not financially sustainable. The discipline itself nevertheless normally takes a singular verb."
+  },
+  "minimal": {
+    "ja": [
+      "economics：資源配分・生産・消費・市場・政策などを研究する経済学。",
+      "economy：国・地域における生産・消費・取引の仕組み、または資源の効率的利用。",
+      "economic：経済・経済活動・採算などに関する。",
+      "economical：費用・燃料・時間などの無駄が少なく、経済的な。",
+      "microeconomics：個人・企業・特定市場の選択・価格・誘因を研究するミクロ経済学。",
+      "macroeconomics：成長・物価・失業など経済全体の動きを研究するマクロ経済学。",
+      "finance：資金調達・管理・貸付け・投資を扱う活動または学問分野。",
+      "business studies：企業経営・会計・マーケティング・組織などを扱う学問分野。"
+    ],
+    "en": [
+      "economics is the study of resource allocation, production, consumption, markets, and economic policy.",
+      "an economy is a system of production and consumption or the efficient use of resources.",
+      "economic means relating to the economy, economic activity, or commercial viability.",
+      "economical means efficient and not requiring unnecessary money, fuel, time, or materials.",
+      "microeconomics studies choices, prices, and incentives involving individuals, firms, and particular markets.",
+      "macroeconomics studies economy-wide activity, growth, inflation, unemployment, and policy.",
+      "finance is the activity or field of raising, managing, lending, and investing money.",
+      "business studies examines management, accounting, marketing, organizations, and commercial operations."
+    ]
+  },
+  "etymology": {
+    "ja": "economics は economy に学問分野を表す -ics が付いて成立した。economy はギリシャ語 oikonomia「家政、家の管理」に由来し、oikos「家、世帯」と、nomos「規則、管理」または nemein「配分する、管理する」に関係する要素から成る。もとは世帯の財産・食料・労働などを管理することを意味したが、後に国家・社会全体の生産・交換・資源配分へ対象が広がった。economics は、そのような経済活動の法則と仕組みを体系的に研究する学問の名称となった。",
+    "en": "Economics was formed from economy with -ics, a suffix used in the names of fields of study. Economy derives from Greek oikonomia, household management, combining oikos, house or household, with an element related to nomos, rule or management, and nemein, to distribute or administer. The original concept concerned managing a household’s property, food, and labor. Its scope later expanded to the production, exchange, and allocation of resources throughout a state or society. Economics consequently became the name of the systematic discipline studying the mechanisms and principles of such activity."
+  },
+  "synonyms": [
+    {
+      "word": "economic science",
+      "note": {
+        "ja": "経済現象を体系的・科学的に研究する分野であることを明示する形式的な表現。",
+        "en": "A formal expression emphasizing the systematic and scientific study of economic phenomena."
+      }
+    },
+    {
+      "word": "political economy",
+      "note": {
+        "ja": "経済と政治制度・権力・公共政策の関係を研究する分野で、経済学の歴史的名称でもある。",
+        "en": "The study of relationships among economics, political institutions, power, and public policy, and a historical name for economics."
+      }
+    },
+    {
+      "word": "microeconomics",
+      "note": {
+        "ja": "消費者・企業・特定市場における選択、価格、資源配分を研究する分野。",
+        "en": "The field studying choices, prices, and resource allocation involving consumers, firms, and particular markets."
+      }
+    },
+    {
+      "word": "macroeconomics",
+      "note": {
+        "ja": "国民所得・成長・物価・雇用・政策など経済全体を研究する分野。",
+        "en": "The field studying economy-wide income, growth, inflation, employment, and policy."
+      }
+    },
+    {
+      "word": "economic analysis",
+      "note": {
+        "ja": "費用・便益・価格・誘因・市場への影響などを経済学的に分析すること。",
+        "en": "The examination of costs, benefits, prices, incentives, and market effects using economic principles."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Wirtschaftswissenschaft / Volkswirtschaftslehre",
+    "it": "economia / scienze economiche",
+    "fr": "économie / science économique",
+    "es": "economía / ciencias económicas"
+  },
+  "collocations": {
+    "ja": [
+      "study economics — 経済学を学ぶ",
+      "teach economics — 経済学を教える",
+      "a degree in economics — 経済学の学位",
+      "an economics professor — 経済学教授",
+      "an economics student — 経済学専攻の学生",
+      "basic economics — 経済学の基礎",
+      "applied economics — 応用経済学",
+      "behavioral economics — 行動経済学",
+      "environmental economics — 環境経済学",
+      "international economics — 国際経済学",
+      "the economics of the project — その事業の採算・経済性",
+      "from an economics perspective — 経済学の観点から"
+    ],
+    "en": [
+      "study economics",
+      "teach economics",
+      "a degree in economics",
+      "an economics professor",
+      "an economics student",
+      "basic economics",
+      "applied economics",
+      "behavioral economics",
+      "environmental economics",
+      "international economics",
+      "the economics of the project",
+      "from an economics perspective"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Economics examines how societies allocate limited resources among competing uses. — 経済学は、社会が競合する用途へ限られた資源をどのように配分するかを研究する。",
+      "She studied economics and later joined the central bank. — 彼女は経済学を学び、その後中央銀行へ入った。",
+      "Microeconomics focuses on individual markets, while macroeconomics examines the economy as a whole. — ミクロ経済学が個別市場に焦点を置くのに対し、マクロ経済学は経済全体を分析する。",
+      "The technology is technically effective, but the economics of large-scale production remain uncertain. — その技術は技術的には有効だが、大規模生産の採算性は依然として不明である。",
+      "The economics of patent protection involve balancing incentives for innovation against competition and public access. — 特許保護の経済学には、革新への誘因と競争・公衆のアクセスとの均衡を図る問題が含まれる。"
+    ],
+    "en": [
+      "Economics examines how societies allocate limited resources among competing uses.",
+      "She studied economics and later joined the central bank.",
+      "Microeconomics focuses on individual markets, while macroeconomics examines the economy as a whole.",
+      "The technology is technically effective, but the economics of large-scale production remain uncertain.",
+      "The economics of patent protection involve balancing incentives for innovation against competition and public access."
+    ]
+  }
+},
+{
   "id": "interest-rate",
   "sid": "2026-01320",
   "word": "interest rate",
