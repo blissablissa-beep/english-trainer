@@ -1,5 +1,203 @@
 [
 {
+  "id": "contracting_party",
+  "sid": "2026-01342",
+  "word": "contracting party",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun phrase",
+    "contract",
+    "agreement",
+    "party",
+    "rights",
+    "obligations",
+    "counterparty",
+    "treaty",
+    "Madrid Protocol",
+    "legal",
+    "business",
+    "intellectual property",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "countable",
+    "plural": "contracting parties",
+    "forms": {
+      "singular": "contracting party",
+      "plural": "contracting parties",
+      "defined_term_singular": "Contracting Party",
+      "defined_term_plural": "Contracting Parties",
+      "related_noun": "contract",
+      "related_verb": "contract",
+      "rare_equivalent": "contractant"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a contracting party",
+      "the contracting parties",
+      "each contracting party",
+      "either / neither contracting party",
+      "both contracting parties",
+      "the other contracting party",
+      "rights of a contracting party",
+      "obligations of the contracting parties",
+      "a dispute between the contracting parties",
+      "consent of all contracting parties"
+    ],
+    "usage": {
+      "general": "A contracting party is a person, company, organization, state, or other entity that has entered into a contract or agreement.",
+      "private_contract": "In an ordinary private contract, the expression identifies a party that possesses rights or assumes obligations under that contract.",
+      "party": "Once the parties have been identified or defined, the shorter term party is normally sufficient throughout the agreement.",
+      "capitalization": "Capitalize Contracting Party when the expression is formally defined or used as an official treaty term; otherwise lowercase is usual.",
+      "treaty": "In treaties, Contracting Party may mean a state or intergovernmental organization bound by or party to the instrument.",
+      "madrid_protocol": "Under the Madrid Protocol terminology, a Contracting Party is a country or intergovernmental organization that is a party to the Protocol.",
+      "third_party": "A third-party beneficiary may receive enforceable benefits under some legal systems without itself being a contracting party.",
+      "legal_scope": "The rights, duties, capacity, and status of a contracting party depend on the applicable law and the particular agreement."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈtræktɪŋ ˈpɑːrti/",
+      "uk": "/kənˈtræktɪŋ ˈpɑːti/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "契約を締結し、その契約上の権利・義務を有する人または法人",
+      "複数当事者間の合意に直接参加している契約当事者",
+      "条約・国際協定の締約国または締約政府間機関",
+      "マドリッド協定議定書の当事者である国または政府間機関"
+    ],
+    "en": [
+      "a person or legal entity that has entered into a contract and possesses rights or obligations under it",
+      "a party directly participating in an agreement among two or more parties",
+      "a state or intergovernmental organization that is a party to a treaty or international agreement",
+      "a country or intergovernmental organization that is a party to the Madrid Protocol"
+    ]
+  },
+  "nuance": {
+    "ja": "contracting party は、契約を実際に締結し、その契約に基づく権利・義務を負う主体を表す標準的な法律英語である。契約書の冒頭で当事者を特定した後は、通常は単に party と呼べば足りる。counterparty は、ある当事者から見た「相手方」に焦点を置く相対的な語である。signatory は文書へ署名した者を意味するため、必ずしも契約の最終的な当事者と完全には一致しない。third party は契約外の者であり、third-party beneficiary は契約から利益を受ける場合があっても、それだけで contracting party になるわけではない。条約や国際登録制度で大文字の Contracting Party とされる場合は、私人ではなく締約国・締約政府間機関を指すことがあるため、文脈に注意が必要である。",
+    "en": "Contracting party is the standard legal expression for an entity that has entered into a contract and holds rights or assumes obligations under it. After the parties have been identified at the beginning of an agreement, the shorter term party is normally sufficient. Counterparty is relational and focuses on the other participant from one party’s perspective. A signatory is someone that signed a document and does not necessarily correspond perfectly to the ultimate contracting party. A third party is outside the contract, and a third-party beneficiary does not become a contracting party merely because the contract benefits that person. In treaties and international registration systems, capitalized Contracting Party may instead designate a participating state or intergovernmental organization."
+  },
+  "minimal": {
+    "ja": [
+      "contracting party：契約を締結し、その契約上の権利・義務を有する当事者。",
+      "party：契約書で定義された当事者を表す、より簡潔で一般的な語。",
+      "party to a contract：特定の契約の当事者であることを明示する表現。",
+      "counterparty：ある当事者から見た契約・取引上の相手方。",
+      "contractor：契約に基づいて工事・業務・役務などを提供する請負人・事業者。",
+      "signatory：契約書・条約などに署名した人・組織・国。",
+      "third party：当該契約の直接の当事者ではない第三者。",
+      "contractant：contracting party と同様の意味を持つが、現代英語では極めて稀な語。"
+    ],
+    "en": [
+      "a contracting party has entered into a contract and possesses rights or obligations under it.",
+      "party is the shorter and more general term normally used after the participants have been defined.",
+      "a party to a contract explicitly identifies an entity as a participant in a particular contract.",
+      "a counterparty is the other participant in a contract or transaction from one party’s perspective.",
+      "a contractor is engaged under a contract to perform work or provide goods or services.",
+      "a signatory is a person, organization, or state that has signed an agreement or treaty.",
+      "a third party is a person or entity that is not a direct party to the relevant contract.",
+      "contractant has a similar meaning but is extremely rare in contemporary English."
+    ]
+  },
+  "etymology": {
+    "ja": "contracting は動詞 contract「契約を締結する」の現在分詞に由来し、party はラテン語 partire「分ける」に関係する古フランス語 partie を経て英語に入った。party はもともと全体から分けられた一部分を意味し、そこから法律関係・訴訟・合意に参加する一方の主体を表すようになった。contracting party は文字どおり「契約する側」を意味し、稀な contractant よりも現代法律英語で広く定着している。",
+    "en": "Contracting is the present-participle form of contract, while party entered English through Old French partie and is ultimately related to Latin partire, to divide. Party originally denoted a portion of a whole and later came to identify one side or participant in a legal relationship, proceeding, or agreement. Contracting party therefore literally means a party engaged in making a contract and has become much more firmly established in modern legal English than the rare noun contractant."
+  },
+  "synonyms": [
+    {
+      "word": "party to the contract",
+      "note": {
+        "ja": "特定の契約に参加し、その契約上の権利・義務を有する者を明示する。",
+        "en": "Explicitly identifies an entity that participates in and possesses rights or duties under a particular contract."
+      }
+    },
+    {
+      "word": "party",
+      "note": {
+        "ja": "契約書内で当事者が既に定義されている場合に用いる、標準的で簡潔な呼称。",
+        "en": "The standard concise designation used after the participants have been identified or defined in the agreement."
+      }
+    },
+    {
+      "word": "counterparty",
+      "note": {
+        "ja": "契約・取引の一方の立場から見た他方の当事者を表す。",
+        "en": "Identifies the other participant in a contract or transaction from the perspective of one party."
+      }
+    },
+    {
+      "word": "signatory",
+      "note": {
+        "ja": "契約・条約・その他の文書へ署名した主体であることに重点を置く。",
+        "en": "Emphasizes that a person, organization, or state has signed a contract, treaty, or other instrument."
+      }
+    },
+    {
+      "word": "contractant",
+      "note": {
+        "ja": "契約する者を意味するが、現代の英文契約書では通常用いられない極めて稀な語。",
+        "en": "An extremely rare noun for one who contracts, normally avoided in contemporary English agreements."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Vertragspartei / Vertragspartner",
+    "it": "parte contraente / contraente",
+    "fr": "partie contractante / contractant",
+    "es": "parte contratante / contratante"
+  },
+  "collocations": {
+    "ja": [
+      "each contracting party — 各契約当事者",
+      "either contracting party — いずれか一方の契約当事者",
+      "neither contracting party — いずれの契約当事者も～ない",
+      "both contracting parties — 双方の契約当事者",
+      "the other contracting party — 他方の契約当事者",
+      "the contracting parties’ intentions — 契約当事者の意思",
+      "the rights of a contracting party — 契約当事者の権利",
+      "the obligations of the contracting parties — 契約当事者の義務",
+      "a dispute between the contracting parties — 契約当事者間の紛争",
+      "consent of all contracting parties — 全契約当事者の同意",
+      "identify the contracting parties — 契約当事者を特定する",
+      "bind each contracting party — 各契約当事者を拘束する"
+    ],
+    "en": [
+      "each contracting party",
+      "either contracting party",
+      "neither contracting party",
+      "both contracting parties",
+      "the other contracting party",
+      "the contracting parties’ intentions",
+      "the rights of a contracting party",
+      "the obligations of the contracting parties",
+      "a dispute between the contracting parties",
+      "consent of all contracting parties",
+      "identify the contracting parties",
+      "bind each contracting party"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Each contracting party must perform its obligations in good faith. — 各契約当事者は、自己の義務を誠実に履行しなければならない。",
+      "The amendment requires the written consent of both contracting parties. — その変更には、双方の契約当事者による書面での同意が必要である。",
+      "A contracting party may be liable for losses caused by its breach of the agreement. — 契約当事者は、その契約違反によって生じた損失について責任を負うことがある。",
+      "A third-party beneficiary is not necessarily a contracting party. — 第三者受益者は、必ずしも契約当事者ではない。",
+      "The patent license should identify each contracting party by its complete legal name and specify the rights granted under the licensed patents. — 特許ライセンス契約では、各契約当事者を正式な法人名で特定し、ライセンス対象特許について許諾される権利を明記すべきである。"
+    ],
+    "en": [
+      "Each contracting party must perform its obligations in good faith.",
+      "The amendment requires the written consent of both contracting parties.",
+      "A contracting party may be liable for losses caused by its breach of the agreement.",
+      "A third-party beneficiary is not necessarily a contracting party.",
+      "The patent license should identify each contracting party by its complete legal name and specify the rights granted under the licensed patents."
+    ]
+  }
+},
+{
   "id": "counterparty",
   "sid": "2026-01343",
   "word": "counterparty",
