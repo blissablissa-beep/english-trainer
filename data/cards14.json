@@ -1,5 +1,208 @@
 [
 {
+  "id": "bankruptcy",
+  "sid": "2026-01315",
+  "word": "bankruptcy",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "debt",
+    "insolvency",
+    "creditor",
+    "debtor",
+    "court",
+    "business",
+    "finance",
+    "liquidation",
+    "reorganization",
+    "legal",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable for the legal state or process; countable for individual cases or occurrences",
+    "plural": "bankruptcies",
+    "forms": {
+      "singular": "bankruptcy",
+      "plural": "bankruptcies",
+      "noun_person": "bankrupt",
+      "adjective": "bankrupt",
+      "verb": "bankrupt",
+      "third_person": "bankrupts",
+      "past": "bankrupted",
+      "past_participle": "bankrupted",
+      "gerund": "bankrupting",
+      "related_noun": "bankrupt"
+    },
+    "transitivity": "not applicable as a noun; bankrupt is transitive as a verb",
+    "patterns": [
+      "bankruptcy",
+      "file for bankruptcy",
+      "declare bankruptcy",
+      "be in bankruptcy",
+      "go / become bankrupt",
+      "force / drive someone into bankruptcy",
+      "avoid / face bankruptcy",
+      "bankruptcy proceedings / protection",
+      "emerge from bankruptcy",
+      "a rise in bankruptcies"
+    ],
+    "usage": {
+      "legal_process": "Bankruptcy is a formal legal process for dealing with debts that a debtor cannot pay, but its procedures and consequences vary substantially by jurisdiction.",
+      "uncountable": "Use bankruptcy without an article for the state or process: file for bankruptcy; face bankruptcy.",
+      "countable": "The plural bankruptcies refers to separate cases or business failures: a rise in corporate bankruptcies.",
+      "insolvency_contrast": "Insolvency is a financial condition involving inability to pay debts or liabilities exceeding assets under an applicable test; bankruptcy is a legal status or proceeding.",
+      "liquidation_contrast": "Bankruptcy does not always require liquidation; some systems permit repayment plans or reorganization.",
+      "jurisdiction": "In some jurisdictions bankruptcy applies principally to individuals, while insolvent companies enter liquidation, administration, or another corporate procedure.",
+      "verb_adjective": "The usual expression is go bankrupt; bankrupt can also be a transitive verb meaning cause financial ruin.",
+      "spelling": "The plural changes -y to -ies: bankruptcies."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈbæŋkrʌptsi/",
+      "uk": "/ˈbæŋkrʌptsi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "債務を支払えない人または事業体の債務・財産関係を処理する法的手続き、破産",
+      "裁判所その他の権限ある機関によって認められる破産状態",
+      "債務者の財産を換価・分配し、または返済計画・事業再建を行う制度",
+      "個人・企業などが債務を履行できず、経済的に破綻した状態",
+      "比喩的に、思想・政策・道徳などが完全に失敗し、価値を失った状態"
+    ],
+    "en": [
+      "a legal process for resolving the debts and property affairs of a debtor unable to pay",
+      "a formal legal status recognized by a court or other competent authority",
+      "a system involving liquidation and distribution of assets, a repayment plan, or financial reorganization",
+      "the condition of complete financial failure caused by inability to meet obligations",
+      "figuratively, the complete failure or exhaustion of an idea, policy, or moral position"
+    ]
+  },
+  "nuance": {
+    "ja": "bankruptcy の核心は、単なる資金不足ではなく、支払不能などの問題を法的制度の下で処理することにある。insolvency は、期日の到来した債務を支払えない、または一定の基準で負債が資産を上回るといった財務状態を表す。これに対し bankruptcy は通常、申立て・命令などを伴う法的手続きまたは地位であるため、insolvent であっても直ちに bankrupt とは限らない。また bankruptcy は必ずしも事業の消滅を意味せず、法域や手続きによっては財産の換価だけでなく、返済計画や事業再建が行われる。英米間でも用語法が異なり、例えばイングランドおよびウェールズの公的案内では bankruptcy は個人の債務処理に用いられ、会社には liquidation などの手続きが適用される。一方、米国では企業も連邦破産法上の手続きを利用できる。したがって、特定案件では現地法上の正式な手続名を確認する必要がある。",
+    "en": "The central idea of bankruptcy is not mere shortage of money but the treatment of unpayable debts through a formal legal system. Insolvency describes a financial condition, such as inability to pay debts as they fall due or liabilities exceeding assets under an applicable test. Bankruptcy ordinarily refers to a legal proceeding or status involving a petition, order, or other formal act, so an insolvent person or company is not necessarily already bankrupt. Bankruptcy also does not invariably mean termination of a business: depending on the jurisdiction and procedure, it may involve liquidation, a repayment plan, or reorganization. Terminology differs between legal systems. Official guidance for England and Wales, for example, uses bankruptcy for individuals and applies procedures such as liquidation to companies, whereas US federal bankruptcy procedures are available to businesses as well as individuals. The exact local name and legal consequences must therefore be checked in a particular case."
+  },
+  "minimal": {
+    "ja": [
+      "bankruptcy：返済不能な債務を法的に処理する手続き・地位、または破産状態。",
+      "insolvency：債務を期限どおり支払えない、または負債が資産を上回る財務状態。",
+      "liquidation：資産を換価し、債権者への分配などを行って事業体を清算する手続き。",
+      "reorganization：債務・事業・資本構成を再編し、事業継続を目指す手続き。",
+      "administration：会社を保護下に置き、管財人が再建・処分を進める法域固有の手続き。",
+      "winding up：会社の業務を終了し、債務処理と資産分配を行う清算過程。",
+      "default：期限までに債務・契約上の義務を履行しないこと。",
+      "financial failure：個人・企業が経済的に破綻することを広く表す非専門的な表現。"
+    ],
+    "en": [
+      "bankruptcy is a legal proceeding or status for dealing with debts that cannot be paid.",
+      "insolvency is a financial condition involving inability to pay debts or liabilities exceeding assets under a relevant test.",
+      "liquidation is the realization and distribution of assets, commonly as part of closing an entity.",
+      "reorganization restructures debts, operations, or capital in an effort to preserve a business.",
+      "administration is a jurisdiction-specific procedure placing a company under an administrator’s control for rescue or orderly disposal.",
+      "winding up is the process of ending a company’s affairs, settling liabilities, and distributing remaining assets.",
+      "default is failure to perform a debt or contractual obligation when it becomes due.",
+      "financial failure is a nontechnical general expression for the economic collapse of a person or business."
+    ]
+  },
+  "etymology": {
+    "ja": "イタリア語 banca rotta「壊された台」に由来する表現が、フランス語 banqueroute などを経て英語へ入ったとされる。banca は両替商や金貸しが取引に使った「台、長椅子」、rotta は「壊れた」を意味する。支払い能力を失った商人の取引台が壊されたという説明で知られるが、具体的な慣習の詳細については慎重に扱う必要がある。英語では bankrupt が先に人の状態を表し、これに状態・制度を表す -cy が加わって bankruptcy「破産状態・破産制度」が成立した。",
+    "en": "Bankruptcy is historically connected with Italian banca rotta, literally a broken bench, and entered English through forms including French banqueroute. Banca referred to the bench or table used by money changers and lenders, while rotta meant broken. The expression is traditionally explained by reference to the breaking of an insolvent merchant’s trading bench, although details of the supposed practice should be treated cautiously. English first developed bankrupt for the affected person or condition, and the suffix -cy produced bankruptcy for the state and legal institution."
+  },
+  "synonyms": [
+    {
+      "word": "insolvency",
+      "note": {
+        "ja": "支払能力または資産・負債の関係に関する財務状態であり、正式な破産手続きの開始とは限らない。",
+        "en": "A financial condition concerning ability to pay or the relation between assets and liabilities, not necessarily a formal bankruptcy proceeding."
+      }
+    },
+    {
+      "word": "financial collapse",
+      "note": {
+        "ja": "個人・企業などの財政状態が重大かつ全面的に破綻することを表す一般的な表現。",
+        "en": "A general expression for a severe and comprehensive breakdown in the finances of a person or business."
+      }
+    },
+    {
+      "word": "liquidation",
+      "note": {
+        "ja": "資産を売却・換価して債権者などへ分配し、通常は事業体を終了させる手続き。",
+        "en": "A process of realizing and distributing assets, usually in connection with ending an entity’s operations."
+      }
+    },
+    {
+      "word": "failure",
+      "note": {
+        "ja": "企業が事業を継続できなくなることを広く表すが、正式な破産手続きを必ずしも意味しない。",
+        "en": "A broad term for a business becoming unable to continue, without necessarily indicating formal bankruptcy."
+      }
+    },
+    {
+      "word": "ruin",
+      "note": {
+        "ja": "財産・事業・生活などが完全に破壊された状態を表す、感情的で非専門的な語。",
+        "en": "An emotive, nontechnical term for the complete destruction of a person’s finances, business, or position."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Insolvenz / Konkurs",
+    "it": "fallimento / bancarotta",
+    "fr": "faillite",
+    "es": "quiebra / bancarrota"
+  },
+  "collocations": {
+    "ja": [
+      "file for bankruptcy — 破産を申し立てる",
+      "declare bankruptcy — 破産を宣言する、破産手続きに入る",
+      "face bankruptcy — 破産の危機に直面する",
+      "avoid bankruptcy — 破産を回避する",
+      "be driven into bankruptcy — 破産へ追い込まれる",
+      "bankruptcy proceedings — 破産手続き",
+      "bankruptcy protection — 破産法上の保護",
+      "a bankruptcy petition — 破産申立て",
+      "a bankruptcy court — 破産裁判所",
+      "a bankruptcy estate — 破産財団",
+      "emerge from bankruptcy — 破産手続きから脱する",
+      "a rise in corporate bankruptcies — 企業破産の増加"
+    ],
+    "en": [
+      "file for bankruptcy",
+      "declare bankruptcy",
+      "face bankruptcy",
+      "avoid bankruptcy",
+      "be driven into bankruptcy",
+      "bankruptcy proceedings",
+      "bankruptcy protection",
+      "a bankruptcy petition",
+      "a bankruptcy court",
+      "a bankruptcy estate",
+      "emerge from bankruptcy",
+      "a rise in corporate bankruptcies"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The retailer filed for bankruptcy after it became unable to pay its suppliers. — その小売業者は仕入先への支払いができなくなった後、破産を申し立てた。",
+      "Bankruptcy may involve either liquidation or a plan for repaying and restructuring debts. — 破産手続きには、清算または債務の返済・再編計画が含まれる場合がある。",
+      "The fact that a company is insolvent does not necessarily mean that it has formally entered bankruptcy. — 会社が支払不能であるという事実は、正式に破産手続きへ入ったことを必ずしも意味しない。",
+      "Several restaurants were driven into bankruptcy by the prolonged decline in customer demand. — 顧客需要の長期的な減少により、複数の飲食店が破産へ追い込まれた。",
+      "A company’s patents and trademarks may form valuable assets in bankruptcy proceedings, subject to applicable law and existing licenses. — 適用法および既存のライセンス関係によっては、会社の特許・商標が破産手続きにおける重要な資産となり得る。"
+    ],
+    "en": [
+      "The retailer filed for bankruptcy after it became unable to pay its suppliers.",
+      "Bankruptcy may involve either liquidation or a plan for repaying and restructuring debts.",
+      "The fact that a company is insolvent does not necessarily mean that it has formally entered bankruptcy.",
+      "Several restaurants were driven into bankruptcy by the prolonged decline in customer demand.",
+      "A company’s patents and trademarks may form valuable assets in bankruptcy proceedings, subject to applicable law and existing licenses."
+    ]
+  }
+},
+{
   "id": "liquidation",
   "sid": "2026-01316",
   "word": "liquidation",
