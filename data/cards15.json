@@ -1,5 +1,202 @@
 [
 {
+  "id": "accomplish",
+  "sid": "2026-01378",
+  "word": "accomplish",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "achievement",
+    "completion",
+    "goal",
+    "task",
+    "success",
+    "effort",
+    "work",
+    "project",
+    "business",
+    "academic",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "accomplish",
+      "third_person": "accomplishes",
+      "past": "accomplished",
+      "past_participle": "accomplished",
+      "gerund": "accomplishing",
+      "noun": "accomplishment",
+      "adjective": "accomplished"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "accomplish + task / goal / objective",
+      "accomplish something",
+      "accomplish what + clause",
+      "accomplish everything / nothing",
+      "accomplish something by + gerund",
+      "accomplish something through + noun",
+      "be able / manage to accomplish + noun",
+      "successfully accomplish + noun",
+      "be accomplished within + period",
+      "have much / little to accomplish"
+    ],
+    "usage": {
+      "object": "Accomplish normally takes a task, objective, result, or other achievable outcome as its direct object.",
+      "person": "Do not normally accomplish a person; use persuade, defeat, train, or another verb describing the intended effect.",
+      "action": "Accomplish doing something is generally unnatural. Use accomplish something by doing something or manage to do something.",
+      "completion": "The verb usually implies successful completion or attainment, not merely an attempt.",
+      "question": "What did you accomplish? asks what useful result or completed work was achieved.",
+      "passive": "The passive is common when the result or method is emphasized: This can be accomplished by reducing costs.",
+      "register": "Accomplish is neutral to somewhat formal. Get something done is more conversational."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈkɑːmplɪʃ/",
+      "uk": "/əˈkʌmplɪʃ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "課題・仕事・計画などを最後まで成し遂げる",
+      "目標・目的を努力によって達成する",
+      "意図していた結果を実現する",
+      "困難な作業を成功裏に完了する",
+      "手段・方法によって特定の効果をもたらす"
+    ],
+    "en": [
+      "to complete a task, job, or plan successfully",
+      "to achieve a goal or objective through effort",
+      "to bring about an intended result",
+      "to finish a difficult piece of work successfully",
+      "to produce a particular effect by means of an action or method"
+    ]
+  },
+  "nuance": {
+    "ja": "accomplish は、課題・目的・仕事などについて、単に取り組むだけでなく、意図した結果まで到達して「成し遂げる」ことを表す。accomplish a task は課題を完了すること、accomplish a goal は目標を達成すること、accomplish a great deal は多くの成果を上げることを意味する。achieve と非常に近いが、achieve は成功・地位・水準などへの到達に広く使われ、accomplish は具体的な仕事・任務・目的を完遂する過程に焦点を置きやすい。complete は単に終わらせることを表し得るが、accomplish には価値のある結果や努力を要した成功という含みがある。なお accomplished が人を修飾する場合は、「成し遂げられた」ではなく「熟練した、教養・才能のある」という意味になることがある。",
+    "en": "Accomplish means bringing a task, objective, or piece of work to its intended result rather than merely attempting it. Accomplish a task emphasizes successful completion, accomplish a goal emphasizes attainment, and accomplish a great deal means producing many worthwhile results. It closely overlaps with achieve, but achieve is widely used for reaching a level, status, success, or result, whereas accomplish more readily focuses on completing a specific undertaking or purpose. Complete can simply mean bringing something to an end, while accomplish often suggests a useful result and some degree of effort. When accomplished describes a person, it may have the distinct meaning highly skilled, educated, or talented."
+  },
+  "minimal": {
+    "ja": [
+      "accomplish：課題・目的・仕事を努力によって成功裏に成し遂げる。",
+      "achieve：目標・成功・水準・結果などに到達する。",
+      "complete：作業・書類・過程などを最後まで終える。成功の価値までは必ずしも強調しない。",
+      "fulfill：義務・約束・条件・期待などを満たす。",
+      "attain：努力の末に、高い水準・地位・目標へ到達する。比較的形式的。",
+      "carry out：計画・命令・調査などを実行する。",
+      "finish：始めた作業・活動を終えることを表す最も一般的な語。",
+      "accomplished：人について、特定分野で高い技能・実績を備えた。"
+    ],
+    "en": [
+      "accomplish means successfully completing a task, objective, or worthwhile undertaking.",
+      "achieve means reaching a desired result, level, status, or success.",
+      "complete means bringing a task, document, or process to its end without necessarily emphasizing achievement.",
+      "fulfill means satisfying an obligation, promise, condition, expectation, or purpose.",
+      "attain formally means reaching a high level, position, or goal after effort.",
+      "carry out means performing or implementing a plan, instruction, investigation, or duty.",
+      "finish is the most general verb for bringing an activity or piece of work to an end.",
+      "accomplished describes a person who possesses a high degree of skill, education, or achievement."
+    ]
+  },
+  "etymology": {
+    "ja": "accomplish は中英語 accomplisshen に由来し、古フランス語 accomplir「完成する、成し遂げる」を経て英語に入った。古フランス語の語は a-「～へ」と complir「満たす、完成する」から成り、complir はラテン語 complere「満たす、完成させる」にさかのぼる。complere は com-「ともに、完全に」と plere「満たす」から成る。必要な要素をすべて満たして完成させるという発想から、課題・目的を成功裏に成し遂げるという現在の意味が発達した。accomplishment と accomplished も同じ語族に属する。",
+    "en": "Accomplish comes from Middle English accomplisshen, borrowed through Old French accomplir, meaning to complete or fulfill. The French verb consisted of a- and complir, to fill or complete, which ultimately derives from Latin complere. Complere was formed from com-, together or completely, and plere, to fill. The underlying idea of filling all requirements and bringing something to completion developed into the modern sense of successfully carrying out a task or achieving an objective. Accomplishment and accomplished belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "achieve",
+      "note": {
+        "ja": "努力によって望ましい結果・成功・水準・地位などへ到達する。",
+        "en": "Means reaching a desired result, success, level, or position through effort."
+      }
+    },
+    {
+      "word": "complete",
+      "note": {
+        "ja": "作業・手続き・書類などの必要な部分をすべて終わらせる。",
+        "en": "Means finishing every required part of a task, procedure, or document."
+      }
+    },
+    {
+      "word": "fulfill",
+      "note": {
+        "ja": "義務・約束・条件・期待・目的などを十分に満たす。",
+        "en": "Means fully satisfying an obligation, promise, condition, expectation, or purpose."
+      }
+    },
+    {
+      "word": "carry out",
+      "note": {
+        "ja": "計画・指示・実験・調査・義務などを実際に実行する。",
+        "en": "Means performing or implementing a plan, instruction, experiment, investigation, or duty."
+      }
+    },
+    {
+      "word": "bring about",
+      "note": {
+        "ja": "行動・政策・状況などによって、特定の結果や変化を生じさせる。",
+        "en": "Means causing a particular result or change through an action, policy, or set of circumstances."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "vollbringen / erreichen / bewältigen",
+    "it": "compiere / realizzare / portare a termine",
+    "fr": "accomplir / réaliser",
+    "es": "lograr / cumplir / llevar a cabo"
+  },
+  "collocations": {
+    "ja": [
+      "accomplish a task — 課題を成し遂げる",
+      "accomplish a goal — 目標を達成する",
+      "accomplish an objective — 目的を達成する",
+      "accomplish a mission — 任務を遂行する",
+      "accomplish one’s purpose — 目的を果たす",
+      "accomplish a great deal — 多くのことを成し遂げる",
+      "accomplish nothing — 何も成果を上げない",
+      "accomplish the impossible — 不可能と思われることを成し遂げる",
+      "successfully accomplish something — 何かを成功裏に達成する",
+      "accomplish something through cooperation — 協力によって何かを実現する",
+      "accomplish something within a year — 1年以内に何かを達成する",
+      "what one hopes to accomplish — 達成したいと考えていること"
+    ],
+    "en": [
+      "accomplish a task",
+      "accomplish a goal",
+      "accomplish an objective",
+      "accomplish a mission",
+      "accomplish one’s purpose",
+      "accomplish a great deal",
+      "accomplish nothing",
+      "accomplish the impossible",
+      "successfully accomplish something",
+      "accomplish something through cooperation",
+      "accomplish something within a year",
+      "what one hopes to accomplish"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We accomplished everything we had planned to do that day. — 私たちは、その日に予定していたことをすべて成し遂げた。",
+      "She accomplished her goal through patience and consistent effort. — 彼女は忍耐と継続的な努力によって目標を達成した。",
+      "What do you hope to accomplish during your first year in the position? — その職に就いて最初の1年間に、何を達成したいと考えていますか。",
+      "The same result can be accomplished by using a simpler and less expensive method. — 同じ結果は、より簡単で費用のかからない方法を使用することで実現できる。",
+      "The amendment accomplished its immediate purpose of distinguishing the patent claim from the prior art without unnecessarily narrowing its scope. — その補正は、特許請求項の範囲を不必要に狭めることなく先行技術から区別するという当面の目的を達成した。"
+    ],
+    "en": [
+      "We accomplished everything we had planned to do that day.",
+      "She accomplished her goal through patience and consistent effort.",
+      "What do you hope to accomplish during your first year in the position?",
+      "The same result can be accomplished by using a simpler and less expensive method.",
+      "The amendment accomplished its immediate purpose of distinguishing the patent claim from the prior art without unnecessarily narrowing its scope."
+    ]
+  }
+},
+{
   "id": "fulfill",
   "sid": "2026-01379",
   "word": "fulfill",
