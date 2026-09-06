@@ -1,5 +1,210 @@
 [
 {
+  "id": "scorch",
+  "sid": "2026-01385",
+  "word": "scorch",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "noun",
+    "heat",
+    "burning",
+    "fire",
+    "cooking",
+    "damage",
+    "plants",
+    "weather",
+    "surface",
+    "figurative",
+    "technology",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "countability": "countable as a noun",
+    "plural": "scorches",
+    "forms": {
+      "verb_base": "scorch",
+      "third_person": "scorches",
+      "past": "scorched",
+      "past_participle": "scorched",
+      "gerund": "scorching",
+      "noun_singular": "scorch",
+      "noun_plural": "scorches",
+      "adjective": "scorched",
+      "participial_adjective": "scorching",
+      "related_noun": "scorching"
+    },
+    "transitivity": "transitive or intransitive",
+    "patterns": [
+      "scorch + food / fabric / surface",
+      "heat / fire scorches + noun",
+      "be scorched by + heat / sun / fire",
+      "scorch easily",
+      "scorch in the sun",
+      "scorch the earth / land",
+      "a scorched + noun",
+      "a scorch on + surface",
+      "leave a scorch mark",
+      "scorching heat / weather"
+    ],
+    "usage": {
+      "degree": "Scorch usually means damaging or discoloring the surface with intense heat without necessarily burning the object completely.",
+      "transitive": "As a transitive verb, it identifies what heat damages: The iron scorched the shirt.",
+      "intransitive": "As an intransitive verb, it describes becoming scorched: This fabric scorches easily.",
+      "noun": "A scorch is an area or mark caused by excessive heat, though scorch mark is more common.",
+      "plants": "Sun, heat, chemicals, or lack of water can scorch leaves by drying, browning, or damaging them.",
+      "scorching": "Scorching commonly means extremely hot: scorching weather. It can also mean severely critical: a scorching review.",
+      "contrast": "Scorch is stronger than brown but often less complete than burn up, char, or incinerate.",
+      "register": "It is natural in everyday, technical, environmental, and descriptive writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/skɔːrtʃ/",
+      "uk": "/skɔːtʃ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "強い熱で物の表面を焦がす・変色させる",
+      "食べ物を焦げ付かせる",
+      "日光・高温によって植物や土地を乾燥・損傷させる",
+      "火災・爆発などによって表面を焼く",
+      "名詞として、熱によって生じた焦げ・焦げ跡",
+      "scorching の形で、焼けつくように暑い、または痛烈な"
+    ],
+    "en": [
+      "to burn or discolor the surface of something with intense heat",
+      "to overheat food so that its surface or bottom burns",
+      "for sunlight or extreme heat, to dry out and damage plants or land",
+      "for fire or an explosion, to burn the surface of an object",
+      "as a noun, an area or mark produced by excessive heat",
+      "in scorching, extremely hot or, figuratively, severely critical"
+    ]
+  },
+  "nuance": {
+    "ja": "scorch は、物全体を焼失させるというより、強い熱によって表面を焦がし、茶色・黒色に変色させたり損傷させたりすることを表す。The iron scorched the shirt. なら、アイロンの熱でシャツに焦げ跡が付いたという意味である。料理では、鍋底のソースや牛乳などを焦げ付かせる場面に使える。植物について leaves scorched by the sun と言えば、強い日差しや高温により葉が乾燥し、茶色く傷んだ状態を表す。char は表面を黒い炭状にすること、singe は毛・布などの表面を炎で軽く焼くことに焦点がある。scorching は scorching heat「焼けつくような暑さ」のほか、a scorching criticism「痛烈な批判」のように比喩的にも使われる。",
+    "en": "Scorch usually means damaging and discoloring the surface through intense heat rather than destroying the entire object. The iron scorched the shirt means that the heat left a burned or discolored area on the fabric. In cooking, it can describe burning sauce, milk, or other food against the bottom of a pan. Leaves scorched by the sun are dried, browned, and damaged by intense sunlight or heat. Char emphasizes reducing the surface to a black carbonized state, whereas singe commonly means lightly burning hair, fabric, or another surface with a flame. Scorching occurs literally in scorching heat and figuratively in expressions such as a scorching criticism."
+  },
+  "minimal": {
+    "ja": [
+      "scorch：強い熱によって物の表面を焦がし、変色・損傷させる。",
+      "burn：火・熱・薬品などで物を焼く・損傷させる最も一般的な語。",
+      "char：物の表面を黒く炭状になるまで焼く。",
+      "singe：毛・布・紙などの表面や端を炎で軽く焼く。",
+      "sear：肉などの表面を強火で短時間焼く、または熱で皮膚・植物を焼く。",
+      "toast：パンなどを適度に褐色になるまで焼く。通常は望ましい加熱。",
+      "brown：料理の表面を茶色にする。焦げによる損傷とは限らない。",
+      "incinerate：物を高温で完全またはほぼ完全に焼却する。"
+    ],
+    "en": [
+      "scorch means damaging or discoloring the surface of something through intense heat.",
+      "burn is the most general verb for damaging something with fire, heat, or chemicals.",
+      "char means burning a surface until it becomes black and carbonized.",
+      "singe means lightly burning the surface or edge of hair, cloth, paper, or similar material.",
+      "sear means applying intense heat briefly to a surface or damaging skin or plants with extreme heat.",
+      "toast means heating bread or similar food until it becomes desirably brown.",
+      "brown means making the surface of food brown and does not necessarily imply damage.",
+      "incinerate means destroying something completely or almost completely by intense burning."
+    ]
+  },
+  "etymology": {
+    "ja": "scorch は中英語 scorchen に由来するが、それ以前の起源は確定していない。古フランス語 escorchier「皮をはぐ」との関連が提案されることがあるものの、意味・語形上の問題があり確実ではない。英語では、中世以降、火や強い熱によって表面を焼き、乾燥・変色させる意味で使われてきた。そこから、太陽が土地や植物を焼く意味、さらに scorching criticism「焼き尽くすような痛烈な批判」のような比喩的用法が発達した。",
+    "en": "Scorch comes from Middle English scorchen, but its deeper origin is uncertain. A connection with Old French escorchier, to strip off the skin, has sometimes been proposed, although phonological and semantic difficulties make the relationship insecure. Since the medieval period, the English verb has described burning, drying, or discoloring a surface through fire or intense heat. It subsequently extended to damage caused by the sun and to figurative expressions such as scorching criticism."
+  },
+  "synonyms": [
+    {
+      "word": "burn",
+      "note": {
+        "ja": "火・熱・摩擦・薬品などによって、物・皮膚・植物を損傷させることを広く表す。",
+        "en": "The broad verb for damaging an object, skin, or vegetation through fire, heat, friction, or chemicals."
+      }
+    },
+    {
+      "word": "char",
+      "note": {
+        "ja": "高熱により表面を黒くし、部分的に炭化させる。",
+        "en": "Means blackening and partly carbonizing a surface through intense heat."
+      }
+    },
+    {
+      "word": "singe",
+      "note": {
+        "ja": "毛・布・紙などを炎に近づけ、表面または端だけを軽く焼く。",
+        "en": "Means lightly burning only the surface or edge of hair, fabric, paper, or similar material."
+      }
+    },
+    {
+      "word": "sear",
+      "note": {
+        "ja": "強烈な熱によって表面を急速に焼く。料理では肉の表面を焼き固める。",
+        "en": "Means rapidly burning or cooking a surface with intense heat, especially when browning meat."
+      }
+    },
+    {
+      "word": "blacken",
+      "note": {
+        "ja": "煙・火・熱などによって物の表面を黒くする。",
+        "en": "Means causing a surface to become black through smoke, fire, heat, or another process."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "versengen / anbrennen",
+    "it": "bruciacchiare / abbrustolire",
+    "fr": "roussir / brûler superficiellement",
+    "es": "chamuscar / abrasar"
+  },
+  "collocations": {
+    "ja": [
+      "scorch the surface — 表面を焦がす",
+      "scorch the fabric — 布を焦がす",
+      "scorch the food — 食べ物を焦がす",
+      "scorch the grass — 草を焼けさせる",
+      "scorch the earth — 土地を焼き払う",
+      "be scorched by the sun — 日光で焼ける・傷む",
+      "scorched leaves — 高温で傷んだ葉",
+      "scorched earth — 焼け焦げた土地",
+      "a scorch mark — 焦げ跡",
+      "scorching heat — 焼けつくような暑さ",
+      "scorching weather — 猛烈に暑い天候",
+      "a scorching criticism — 痛烈な批判"
+    ],
+    "en": [
+      "scorch the surface",
+      "scorch the fabric",
+      "scorch the food",
+      "scorch the grass",
+      "scorch the earth",
+      "be scorched by the sun",
+      "scorched leaves",
+      "scorched earth",
+      "a scorch mark",
+      "scorching heat",
+      "scorching weather",
+      "a scorching criticism"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The hot iron scorched the sleeve of my shirt. — 熱いアイロンでシャツの袖を焦がしてしまった。",
+      "Reduce the heat so that the milk does not scorch on the bottom of the pan. — 牛乳が鍋底で焦げ付かないよう、火を弱めてください。",
+      "Several plants had been scorched by the intense afternoon sun. — 数本の植物が午後の強烈な日差しで焼けて傷んでいた。",
+      "The explosion scorched the walls but did not cause the building to collapse. — 爆発によって壁は焼け焦げたが、建物は倒壊しなかった。",
+      "The patent describes a temperature-control mechanism designed to seal the package without scorching the heat-sensitive material. — その特許は、熱に弱い材料を焦がすことなく包装を封止するための温度制御機構を記載している。"
+    ],
+    "en": [
+      "The hot iron scorched the sleeve of my shirt.",
+      "Reduce the heat so that the milk does not scorch on the bottom of the pan.",
+      "Several plants had been scorched by the intense afternoon sun.",
+      "The explosion scorched the walls but did not cause the building to collapse.",
+      "The patent describes a temperature-control mechanism designed to seal the package without scorching the heat-sensitive material."
+    ]
+  }
+},
+{
   "id": "as-a-matter-of-fact",
   "sid": "2026-01386",
   "word": "as a matter of fact",
