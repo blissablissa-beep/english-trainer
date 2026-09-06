@@ -1,1 +1,197 @@
-[]
+[
+{
+  "id": "prior-art",
+  "sid": "2026-01400",
+  "word": "prior art",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "patent",
+    "patentability",
+    "novelty",
+    "nonobviousness",
+    "invention",
+    "disclosure",
+    "publication",
+    "technology",
+    "intellectual property",
+    "legal",
+    "technical"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "normally uncountable",
+    "plural": "not normally used",
+    "forms": {
+      "base": "prior art",
+      "attributive": "prior-art",
+      "related_phrase": "state of the art",
+      "related_noun": "prior-art reference",
+      "related_search": "prior-art search"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "prior art relating to + noun",
+      "prior art concerning + noun",
+      "prior art against + claim / patent",
+      "constitute / qualify as prior art",
+      "cite / disclose / identify prior art",
+      "search for prior art",
+      "distinguish the invention from the prior art",
+      "be anticipated by the prior art",
+      "be obvious in view of the prior art",
+      "a prior-art reference / search / disclosure"
+    ],
+    "usage": {
+      "uncountable": "Prior art is normally uncountable: relevant prior art, not a prior art. For an individual document or disclosure, use a prior-art reference or a piece of prior art.",
+      "hyphenation": "The expression is normally written without a hyphen as a noun, but is often hyphenated before another noun: prior art and a prior-art search.",
+      "legal_scope": "Prior art is a legal category whose precise scope and relevant date depend on the applicable patent law and circumstances.",
+      "reference": "A patent, published application, journal article, product, public use, sale, presentation, or other disclosure may qualify as prior art if the governing legal requirements are satisfied.",
+      "patentability": "Prior art is principally used in assessing requirements such as novelty and inventive step or nonobviousness.",
+      "possessor": "The expression does not mean merely information already known personally to the inventor or examiner."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌpraɪər ˈɑːrt/",
+      "uk": "/ˌpraɪə ˈɑːt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特許出願の基準日前に公衆が利用できた技術・知識・開示から成る先行技術",
+      "発明の新規性や進歩性・非自明性を判断するために参照される既存の技術情報",
+      "一定の法的要件を満たす先行特許・公開特許出願・刊行物その他の開示",
+      "場合により、公然実施・販売・口頭発表・オンライン公開などを含む既存の開示",
+      "特定の請求項を拒絶または無効とする根拠として引用される先行資料"
+    ],
+    "en": [
+      "existing technical knowledge or disclosures made available before the legally relevant date of a patent application",
+      "earlier technical information used to assess novelty and inventive step or nonobviousness",
+      "earlier patents, published applications, publications, or other disclosures satisfying the applicable legal requirements",
+      "existing disclosures that may include public use, sales, presentations, or online publication depending on the governing law",
+      "earlier material cited as a possible basis for rejecting or invalidating a patent claim"
+    ]
+  },
+  "nuance": {
+    "ja": "prior art は単に「以前から存在した技術」を漠然と表すのではなく、特許性判断に利用できる法的な先行技術を指す。ある資料が技術的に古くても、公開時期・公開態様・出願との関係・適用される法域上の例外などによっては、特定の請求項に対する prior art として利用できないことがある。新規性判断では通常、一つの先行技術文献が請求項の全要素を適切に開示しているかが問題となる。一方、進歩性・非自明性では、複数の先行技術を組み合わせる論理や、当業者の知識が検討されることがある。prior art search は関連資料を探す調査であり、その調査で見つかった資料が法的に有効な prior art となるかは別途評価を要する。",
+    "en": "Prior art is not merely a loose description of technology that existed earlier; it is a legal category of information capable of being used in a patentability analysis. Technically old material may not qualify against a particular claim because of its publication date, manner of availability, relationship to the application, or an exception under the applicable law. For novelty, the question is generally whether a single prior-art disclosure adequately contains all the required claim elements. Inventive-step or nonobviousness analysis may involve reasoning based on multiple prior-art references and the knowledge of a skilled person. A prior-art search identifies potentially relevant material, but whether each result legally qualifies as prior art requires a separate analysis."
+  },
+  "minimal": {
+    "ja": [
+      "prior art：特許の新規性・進歩性などを判断する際に利用される、法的に適格な既存の技術・開示。",
+      "prior-art reference：先行技術として引用・検討される個別の特許文献・論文その他の資料。",
+      "state of the art：ある時点における技術水準。文脈や法域によって prior art と重なるが、常に同一ではない。",
+      "background art：発明の背景を説明する既存技術。必ずしも法的に適格な先行技術とは限らない。",
+      "common general knowledge：関連分野の当業者に一般的に知られている技術知識。",
+      "novelty：請求発明が適格な一つの先行開示にすべて示されていないことを求める特許要件。",
+      "anticipation：一つの先行技術によって請求発明の全要素が開示され、新規性が否定されること。",
+      "prior-art search：発明に関連する先行特許・刊行物・その他の公開情報を探索する調査。"
+    ],
+    "en": [
+      "prior art is legally qualifying existing technology or disclosure used to assess novelty and inventive step or nonobviousness.",
+      "a prior-art reference is an individual patent document, article, or other source considered or cited as prior art.",
+      "the state of the art is the level of technological development at a particular time and is not always legally identical to prior art.",
+      "background art is existing technology presented to explain an invention’s context and does not necessarily qualify legally as prior art.",
+      "common general knowledge is technical knowledge generally possessed by skilled persons in the relevant field.",
+      "novelty requires that the claimed invention not be fully disclosed in a qualifying single earlier disclosure.",
+      "anticipation occurs when one prior-art disclosure contains every required element of a patent claim.",
+      "a prior-art search is an investigation for earlier patents, publications, and other public information relevant to an invention."
+    ]
+  },
+  "etymology": {
+    "ja": "prior はラテン語 prior「前の、より先の」に由来し、art はラテン語 ars「技術、技能」にさかのぼる。特許法における art は美術ではなく、技術・技術分野・技術的知識を意味する。したがって prior art は文字どおりには「先行する技術」であり、発明より前に利用可能であった技術的知識や開示を表す法律用語として定着した。日本語では通常「先行技術」と訳される。",
+    "en": "Prior derives from Latin prior, meaning earlier or former, while art ultimately comes from Latin ars, meaning skill or technique. In patent terminology, art does not refer to fine art but to technology, a technical field, or technical knowledge. Prior art therefore literally denotes earlier technology and became established as the legal term for technical information or disclosures available before the relevant date. It is commonly translated into Japanese as 先行技術."
+  },
+  "synonyms": [
+    {
+      "word": "state of the art",
+      "note": {
+        "ja": "特定時点における技術の到達水準を表す。法的文脈によっては先行技術の総体に近いが、常に同義ではない。",
+        "en": "The level of technological development reached at a particular time; it may overlap with prior art but is not invariably identical."
+      }
+    },
+    {
+      "word": "existing technology",
+      "note": {
+        "ja": "すでに存在する技術を広く表す一般語で、prior art の法的な適格性までは示さない。",
+        "en": "A general expression for technology already in existence, without establishing that it legally qualifies as prior art."
+      }
+    },
+    {
+      "word": "earlier disclosure",
+      "note": {
+        "ja": "対象となる出願・発明より前に行われた開示を表すが、その開示が先行技術になるかは別途判断を要する。",
+        "en": "A disclosure made earlier than the application or invention, although its legal status as prior art requires further analysis."
+      }
+    },
+    {
+      "word": "background art",
+      "note": {
+        "ja": "明細書などで発明の背景として説明される既存技術で、必ずしも引用可能な先行技術とは限らない。",
+        "en": "Existing technology discussed as background to an invention, which does not necessarily constitute citable prior art."
+      }
+    },
+    {
+      "word": "prior disclosure",
+      "note": {
+        "ja": "関連する基準日より前に公表・提供された情報。法的効果は公開状況や適用法によって異なる。",
+        "en": "Information disclosed before the relevant date, whose legal effect depends on its availability and the applicable law."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Stand der Technik",
+    "it": "stato della tecnica / arte anteriore",
+    "fr": "état de la technique / art antérieur",
+    "es": "estado de la técnica / arte previo"
+  },
+  "collocations": {
+    "ja": [
+      "relevant prior art — 関連する先行技術",
+      "pertinent prior art — 当該発明に関係する先行技術",
+      "cited prior art — 引用された先行技術",
+      "previously undisclosed prior art — 従来開示されていなかった先行技術",
+      "constitute prior art — 先行技術に該当する",
+      "qualify as prior art — 法的に先行技術として適格である",
+      "cite prior art — 先行技術を引用する",
+      "disclose prior art — 先行技術を開示する",
+      "search for prior art — 先行技術を調査する",
+      "distinguish over the prior art — 先行技術との差異を明らかにする",
+      "a prior-art reference — 先行技術文献",
+      "a prior-art search — 先行技術調査"
+    ],
+    "en": [
+      "relevant prior art",
+      "pertinent prior art",
+      "cited prior art",
+      "previously undisclosed prior art",
+      "constitute prior art",
+      "qualify as prior art",
+      "cite prior art",
+      "disclose prior art",
+      "search for prior art",
+      "distinguish over the prior art",
+      "a prior-art reference",
+      "a prior-art search"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The examiner cited three prior-art references against the application. — 審査官は、その出願に対して三件の先行技術文献を引用した。",
+      "Our search uncovered relevant prior art in a technical journal published twenty years ago. — 私たちの調査により、20年前に発行された技術雑誌から関連する先行技術が見つかった。",
+      "The applicant amended the claim to distinguish the invention from the prior art. — 出願人は、発明を先行技術から区別するために請求項を補正した。",
+      "An earlier document does not automatically qualify as prior art against every patent application. — より古い文献だからといって、すべての特許出願に対して自動的に先行技術となるわけではない。",
+      "The patent attorney argued that the cited reference was not prior art because it had been published after the relevant filing date. — 弁理士は、引用文献が関連する出願日より後に公開されたため先行技術には該当しないと主張した。"
+    ],
+    "en": [
+      "The examiner cited three prior-art references against the application.",
+      "Our search uncovered relevant prior art in a technical journal published twenty years ago.",
+      "The applicant amended the claim to distinguish the invention from the prior art.",
+      "An earlier document does not automatically qualify as prior art against every patent application.",
+      "The patent attorney argued that the cited reference was not prior art because it had been published after the relevant filing date."
+    ]
+  }
+}
+]
