@@ -1,5 +1,202 @@
 [
 {
+  "id": "de_jure",
+  "sid": "2026-01345",
+  "word": "de jure",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "adverb",
+    "Latin phrase",
+    "law",
+    "legal status",
+    "official",
+    "authority",
+    "recognition",
+    "government",
+    "control",
+    "de facto",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / adverb",
+    "forms": {
+      "base": "de jure",
+      "opposite": "de facto",
+      "latin_source": "de iure",
+      "common_misspelling": "de jule",
+      "comparative": "not normally compared",
+      "superlative": "not normally compared"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a de jure + noun",
+      "the de jure leader / government / standard",
+      "de jure authority / control / recognition",
+      "be de jure responsible for + noun",
+      "exist de jure",
+      "be recognized de jure",
+      "become de jure + noun / adjective",
+      "de jure rather than de facto",
+      "both de jure and de facto",
+      "de facto but not de jure"
+    ],
+    "usage": {
+      "adjective": "Before a noun, de jure describes a status existing by law or formal right: the de jure government.",
+      "adverb": "As an adverb, it means by law or as a matter of formal legal status: The office remained de jure under his control.",
+      "contrast": "De jure is commonly contrasted with de facto, which describes what exists in fact or actual practice.",
+      "legality": "The expression identifies formal legal status but does not necessarily describe how power, rights, or arrangements operate in practice.",
+      "spelling": "The standard English spelling is de jure, not de jule. The original classical Latin spelling is de iure.",
+      "hyphenation": "The phrase is normally written without a hyphen, including before a noun.",
+      "italics": "It is established in English and need not be italicized, although editorial styles vary.",
+      "register": "Used principally in legal, political, diplomatic, academic, and other formal writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌdeɪ ˈdʒʊri/",
+      "uk": "/ˌdeɪ ˈdʒʊəri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "事実上の状態とは別に、法律上存在する",
+      "法律・規則・正式な権限に基づいて認められた",
+      "正式な任命・承認・資格によって地位を有する",
+      "実際の運用や支配ではなく、法的形式に基づく",
+      "副詞として、法律上、正式には"
+    ],
+    "en": [
+      "existing as a matter of law even if actual practice differs",
+      "recognized under a law, rule, or formal legal authority",
+      "holding a status through official appointment, recognition, or qualification",
+      "based on legal form rather than actual operation or control",
+      "as an adverb, by law or according to formal legal status"
+    ]
+  },
+  "nuance": {
+    "ja": "de jure は、現実に何が行われているかではなく、法律・規則・正式な権限によって認められている状態を表す。a de jure leader は法律上または正式には指導者である人物を指すが、実権を別の人物が握っている可能性がある。反対に de facto leader は正式な地位がなくても実際に指揮している人物である。ただし、de jure と de facto は常に対立するわけではなく、一人の人物が法律上も事実上も指導者である場合もある。また、de jure は単に「合法的な」という評価語ではなく、特定の権限・地位・制度が法的に成立していることを示す。法律文書では、形式上の権利と実際の支配・運用のどちらを論じているかを明確にする必要がある。",
+    "en": "De jure describes a status recognized by law, rule, or formal authority rather than what happens in actual practice. A de jure leader holds the office legally or officially, although another person may exercise the real power. Conversely, a de facto leader exercises authority in practice without necessarily holding the formal position. De jure and de facto are not always opposed: the same person or arrangement may possess both formal legal status and practical reality. De jure is not merely an evaluative synonym for lawful; it indicates that a particular status, authority, right, or system exists as a matter of law. Legal writing should make clear whether it concerns formal entitlement or actual control and operation."
+  },
+  "minimal": {
+    "ja": [
+      "de jure：法律・規則・正式な権限に基づいて存在する。",
+      "de facto：公式な承認の有無にかかわらず、現実または実務上存在する。",
+      "legal：法律に関係する、または法律によって認められている。",
+      "lawful：法律に違反せず、法によって許されている。",
+      "legitimate：法律・規則・社会的原則などに照らして正当な。",
+      "official：公的機関・権限ある者によって正式に認められた。",
+      "formal：所定の形式・手続き・規則に従った。",
+      "statutory：制定法によって定められた、または制定法に由来する。"
+    ],
+    "en": [
+      "de jure describes something existing by law, formal rule, or recognized legal right.",
+      "de facto describes something existing in reality or practice regardless of formal recognition.",
+      "legal means relating to law or recognized by law.",
+      "lawful means permitted by and not contrary to law.",
+      "legitimate means lawful, properly justified, or consistent with accepted rules or principles.",
+      "official means formally authorized or recognized by a public body or person in authority.",
+      "formal means following an established form, procedure, or convention.",
+      "statutory describes something prescribed by or deriving from legislation."
+    ]
+  },
+  "etymology": {
+    "ja": "de jure はラテン語の句で、de「～から、～に基づいて」と iure「法・権利」によって構成され、「法に基づいて」を意味する。iure はラテン語 ius「法、権利」の奪格形である。英語では通常、文字 j を用いた de jure という綴りが定着しているが、古典ラテン語式には de iure と書かれる。事実に基づく状態を表す de facto と対比され、法律・政治・外交などの分野で使用されるようになった。",
+    "en": "De jure is a Latin phrase formed from de, from or on the basis of, and iure, the ablative form of ius, law or right. It therefore literally means on the basis of law. English conventionally uses the spelling de jure, while de iure reflects classical Latin spelling. The phrase became established in legal, political, and diplomatic language in contrast with de facto, on the basis of fact."
+  },
+  "synonyms": [
+    {
+      "word": "by law",
+      "note": {
+        "ja": "ある地位・権利・義務が法律上成立していることを直接的に表す。",
+        "en": "Directly indicates that a status, right, or obligation exists under the law."
+      }
+    },
+    {
+      "word": "legally",
+      "note": {
+        "ja": "法律上、または法律に従った方法でという意味を表す一般的な副詞。",
+        "en": "A general adverb meaning as a matter of law or in a manner consistent with law."
+      }
+    },
+    {
+      "word": "as a matter of law",
+      "note": {
+        "ja": "事実認定ではなく、法律上の判断・効果として成立することを明示する形式的表現。",
+        "en": "A formal expression indicating that something follows as a legal conclusion rather than a factual finding."
+      }
+    },
+    {
+      "word": "officially",
+      "note": {
+        "ja": "公的機関または権限ある者によって正式に認められていることを表す。",
+        "en": "Indicates formal recognition or authorization by an institution or person in authority."
+      }
+    },
+    {
+      "word": "formally",
+      "note": {
+        "ja": "正式な形式・手続き・地位に従っていることを表すが、必ずしも法律上とは限らない。",
+        "en": "Indicates compliance with an established form, procedure, or status but does not necessarily mean by law."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "de jure / rechtlich / von Rechts wegen",
+    "it": "de iure / di diritto",
+    "fr": "de jure / en droit",
+    "es": "de jure / de derecho"
+  },
+  "collocations": {
+    "ja": [
+      "a de jure leader — 法律上・正式な指導者",
+      "a de jure government — 法律上の政府",
+      "a de jure authority — 法律上の権限・当局",
+      "a de jure standard — 正式に制定された標準",
+      "de jure control — 法律上の支配",
+      "de jure ownership — 法律上の所有権",
+      "de jure recognition — 法律上・正式な承認",
+      "de jure equality — 法律上の平等",
+      "be recognized de jure — 法律上正式に承認される",
+      "exist de jure — 法律上存在する",
+      "de jure rather than de facto — 事実上ではなく法律上の",
+      "both de jure and de facto — 法律上も事実上も"
+    ],
+    "en": [
+      "a de jure leader",
+      "a de jure government",
+      "a de jure authority",
+      "a de jure standard",
+      "de jure control",
+      "de jure ownership",
+      "de jure recognition",
+      "de jure equality",
+      "be recognized de jure",
+      "exist de jure",
+      "de jure rather than de facto",
+      "both de jure and de facto"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He remained the de jure head of the organization, although his deputy exercised effective control. — 副代表が実権を行使していたものの、彼はその組織の法律上の代表者であり続けた。",
+      "The constitution guaranteed de jure equality, but substantial inequality persisted in practice. — 憲法は法律上の平等を保障していたが、実際には重大な不平等が残っていた。",
+      "The two territories were administered separately both de facto and de jure. — その二つの地域は、事実上も法律上も別々に統治されていた。",
+      "Legal ownership and de facto control do not always belong to the same person. — 法律上の所有権と事実上の支配が、常に同一人物に属するとは限らない。",
+      "A company may be the de jure owner of a patent while another entity exercises de facto control over its licensing decisions. — ある会社が特許の法律上の所有者であっても、別の主体がライセンス判断を事実上支配している場合がある。"
+    ],
+    "en": [
+      "He remained the de jure head of the organization, although his deputy exercised effective control.",
+      "The constitution guaranteed de jure equality, but substantial inequality persisted in practice.",
+      "The two territories were administered separately both de facto and de jure.",
+      "Legal ownership and de facto control do not always belong to the same person.",
+      "A company may be the de jure owner of a patent while another entity exercises de facto control over its licensing decisions."
+    ]
+  }
+},
+{
   "id": "in_vitro",
   "sid": "2026-01346",
   "word": "in vitro",
