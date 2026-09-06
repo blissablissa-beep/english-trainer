@@ -1,5 +1,201 @@
 [
 {
+  "id": "pecuniary",
+  "sid": "2026-01310",
+  "word": "pecuniary",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "money",
+    "financial interest",
+    "loss",
+    "gain",
+    "damages",
+    "compensation",
+    "legal",
+    "business",
+    "finance",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "pecuniary",
+      "comparative": "more pecuniary, rare",
+      "superlative": "most pecuniary, rare",
+      "noun": "pecuniary interest / pecuniary loss",
+      "adverb": "pecuniarily, rare",
+      "opposite": "non-pecuniary"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "pecuniary + noun",
+      "pecuniary interest / advantage / benefit",
+      "pecuniary loss / damage / harm",
+      "pecuniary compensation / award",
+      "pecuniary motive / consideration",
+      "have a pecuniary interest in + noun",
+      "derive a pecuniary benefit from + noun",
+      "suffer pecuniary loss",
+      "for pecuniary gain",
+      "pecuniary and non-pecuniary damage"
+    ],
+    "usage": {
+      "meaning": "Pecuniary means relating to money, especially a monetary interest, benefit, loss, obligation, or remedy.",
+      "register": "It is highly formal and is used principally in legal, regulatory, insurance, and financial contexts.",
+      "attributive": "The adjective normally appears before a noun: pecuniary loss or pecuniary interest.",
+      "predicative": "Predicative use is possible but uncommon: the benefit was purely pecuniary.",
+      "legal_scope": "The precise distinction between pecuniary and non-pecuniary loss or damage depends on the jurisdiction and legal context.",
+      "comparison": "Because pecuniary normally classifies a matter as involving money, comparative and superlative forms are rare.",
+      "everyday_alternative": "In ordinary conversation, financial or involving money is usually more natural.",
+      "spelling": "The spelling is pecuniary, with the sequence -cuni-."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/pɪˈkjuːnieri/",
+      "uk": "/pɪˈkjuːniəri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "金銭に関する、または金銭で評価できる",
+      "金銭上の利益・利害・動機に関する",
+      "収入・支出・財産などに直接生じる経済的な損失に関する",
+      "金銭として支払われる補償・制裁・報酬に関する",
+      "法律上、精神的・身体的・社会的な非金銭的損害と対比される金銭的な"
+    ],
+    "en": [
+      "relating to money or capable of being measured in money",
+      "concerning a monetary benefit, interest, advantage, or motive",
+      "relating to economic loss directly affecting income, expenses, or property",
+      "involving compensation, a penalty, or a reward paid in money",
+      "in law, monetary in contrast with emotional, physical, or other non-monetary harm"
+    ]
+  },
+  "nuance": {
+    "ja": "pecuniary は「金銭に関する」という意味の非常に形式的な語で、特に法律文書・判決・規制・保険などで用いられる。a pecuniary interest は、判断や行動によって金銭的な利益または損失を受ける可能性のある利害関係を表す。pecuniary loss は、逸失利益・追加費用・財産価値の減少など、金銭で算定しやすい損失を指しやすい。これに対し non-pecuniary loss は、苦痛・名誉・生活上の享受の喪失など、直接的な市場価格を持たない損害を表し得る。ただし、この分類や賠償範囲は法域・法分野によって異なる。financial は個人財務・企業財務・金融市場などを広く表す一般的な形容詞であり、pecuniary は個別の金銭的利益・損失・動機を硬い文体で特定する傾向がある。日常会話で使うと、意図的に法律家らしい、または古風な響きになりやすい。",
+    "en": "Pecuniary is a highly formal adjective meaning involving money and is especially common in legal documents, judgments, regulation, and insurance. A pecuniary interest is a stake under which a decision or event may cause a person monetary gain or loss. Pecuniary loss readily covers items that can be calculated financially, such as lost earnings, additional expenses, or diminished property value. Non-pecuniary loss may cover harm without a direct market price, such as pain, damage to reputation, or loss of enjoyment of life. The classification and availability of compensation nevertheless vary by jurisdiction and field of law. Financial is the broader everyday and professional adjective for personal finance, corporate accounts, banking, and markets. Pecuniary more narrowly and formally identifies a particular monetary benefit, loss, interest, or motive. In ordinary conversation, it may sound deliberately legalistic or old-fashioned."
+  },
+  "minimal": {
+    "ja": [
+      "pecuniary：金銭上の利益・損失・利害などに関する、特に法律で用いられる形式的な語。",
+      "financial：金銭・資金・銀行・投資・企業財務などに広く関する。",
+      "monetary：貨幣・通貨・金融政策、または金銭で表示される価値に関する。",
+      "fiscal：政府の課税・歳出・借入れ・予算に関する。",
+      "economic：生産・消費・雇用・貿易など、経済活動全般に関する。",
+      "commercial：取引・営利事業・市場での販売活動に関する。",
+      "material：文脈によって、精神的でなく物質的・経済的な利益や事情に関する。",
+      "non-pecuniary：精神的苦痛など、金銭そのものではなく直接的な金額評価が難しいものに関する。"
+    ],
+    "en": [
+      "pecuniary is a formal, especially legal, adjective concerning monetary benefits, losses, interests, or motives.",
+      "financial broadly concerns money, funding, banking, investment, and corporate finance.",
+      "monetary concerns money, currency, central-bank policy, or value expressed in money.",
+      "fiscal principally concerns government taxation, expenditure, borrowing, and budgets.",
+      "economic concerns the wider system of production, consumption, employment, and trade.",
+      "commercial concerns trade, profit-making activity, and the sale of goods or services.",
+      "material can refer, depending on context, to physical or economic interests rather than spiritual or emotional ones.",
+      "non-pecuniary concerns harm or benefits not consisting directly of money and often difficult to value financially."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 pecuniarius「金銭に関する」に由来し、その基礎に pecunia「金銭、財産」がある。pecunia は pecus「家畜、群れ」と関係する。古代社会では牛などの家畜が重要な財産であり、交換・価値の基準としても機能したため、「家畜」を表す語から「財産」、さらに「金銭」を表す語が発達した。英語の pecuniary はこの歴史を受け継ぎ、現在では主として法律・財務上の「金銭的な」を意味する。",
+    "en": "Pecuniary comes from Latin pecuniarius, relating to money, based on pecunia, money or property. Pecunia is related to pecus, cattle or a herd. In ancient societies, livestock constituted an important form of property and could function as a measure or means of exchange. A word associated with cattle therefore developed senses involving property and eventually money. English pecuniary preserves this history and now principally means monetary in legal and financial language."
+  },
+  "synonyms": [
+    {
+      "word": "financial",
+      "note": {
+        "ja": "資金・財務・銀行・投資などに広く使える、pecuniary より一般的な語。",
+        "en": "A more general adjective applicable to funding, accounting, banking, investment, and money matters."
+      }
+    },
+    {
+      "word": "monetary",
+      "note": {
+        "ja": "貨幣制度・通貨・中央銀行政策、または金銭で表示された価値に関する。",
+        "en": "Relates to currency, monetary systems, central-bank policy, or value expressed in money."
+      }
+    },
+    {
+      "word": "economic",
+      "note": {
+        "ja": "金銭に限らず、生産・所得・雇用・消費などの経済的事項を広く表す。",
+        "en": "Broadly concerns production, income, employment, consumption, and other aspects of the economy."
+      }
+    },
+    {
+      "word": "material",
+      "note": {
+        "ja": "精神的・観念的なものと対比して、物質的または実際的な利益を表すことがある。",
+        "en": "Can describe physical or practical benefits in contrast with emotional, spiritual, or abstract considerations."
+      }
+    },
+    {
+      "word": "money-related",
+      "note": {
+        "ja": "金銭に関することを平易かつ直接的に表す、非専門的な言い換え。",
+        "en": "A plain and direct nontechnical alternative meaning connected with money."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "finanziell / geldlich / vermögensrechtlich",
+    "it": "pecuniario",
+    "fr": "pécuniaire",
+    "es": "pecuniario"
+  },
+  "collocations": {
+    "ja": [
+      "a pecuniary interest — 金銭的利害",
+      "a pecuniary advantage — 金銭的利益",
+      "a pecuniary benefit — 金銭上の利益",
+      "pecuniary gain — 金銭的利得",
+      "a pecuniary motive — 金銭目的",
+      "pecuniary loss — 金銭的損失",
+      "pecuniary damage — 金銭的損害",
+      "pecuniary compensation — 金銭的補償",
+      "a pecuniary penalty — 金銭的制裁",
+      "pecuniary liability — 金銭上の責任",
+      "for pecuniary gain — 金銭的利益を目的として",
+      "pecuniary and non-pecuniary losses — 金銭的損失と非金銭的損失"
+    ],
+    "en": [
+      "a pecuniary interest",
+      "a pecuniary advantage",
+      "a pecuniary benefit",
+      "pecuniary gain",
+      "a pecuniary motive",
+      "pecuniary loss",
+      "pecuniary damage",
+      "pecuniary compensation",
+      "a pecuniary penalty",
+      "pecuniary liability",
+      "for pecuniary gain",
+      "pecuniary and non-pecuniary losses"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The official was required to disclose any pecuniary interest in the proposed transaction. — その職員は、提案された取引に関する金銭的利害を開示することを求められた。",
+      "The claimant sought compensation for both pecuniary and non-pecuniary losses. — 原告は、金銭的損失と非金銭的損失の双方について補償を求めた。",
+      "There was no evidence that she had acted for pecuniary gain. — 彼女が金銭的利益を目的として行動したことを示す証拠はなかった。",
+      "Lost income and medical expenses may constitute pecuniary loss, depending on the applicable law. — 適用法によっては、逸失収入と医療費が金銭的損失を構成することがある。",
+      "The court considered whether the unauthorized use of the patent had caused the owner a measurable pecuniary loss. — 裁判所は、特許の無断使用によって権利者に算定可能な金銭的損失が生じたかを検討した。"
+    ],
+    "en": [
+      "The official was required to disclose any pecuniary interest in the proposed transaction.",
+      "The claimant sought compensation for both pecuniary and non-pecuniary losses.",
+      "There was no evidence that she had acted for pecuniary gain.",
+      "Lost income and medical expenses may constitute pecuniary loss, depending on the applicable law.",
+      "The court considered whether the unauthorized use of the patent had caused the owner a measurable pecuniary loss."
+    ]
+  }
+},
+{
   "id": "finance",
   "sid": "2026-01311",
   "word": "finance",
