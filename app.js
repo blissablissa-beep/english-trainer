@@ -140,7 +140,8 @@ const CARD_FILES = [
   "./cards10.json",
   "./cards11.json",
   "./data/cards12.json",
-  "./data/cards13.json"
+  "./data/cards13.json",
+  "./data/cards14.json"
 ];
 
 const WORDS_PAGE_SIZE = 120;
@@ -466,7 +467,8 @@ async function loadCards() {
       "./cards10.json",
       "./cards11.json",
       "./data/cards12.json",
-      "./data/cards13.json"
+      "./data/cards13.json",
+      "./data/cards14.json"
     ];
 
     const allCards = [];
