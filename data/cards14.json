@@ -9738,5 +9738,1384 @@
       "A trademark coexistence agreement should define the permitted marks, goods, services, territories, and methods of use with sufficient precision."
     ]
   }
+},
+{
+  "id": "stagflation",
+  "sid": "2026-01350",
+  "word": "stagflation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "economy",
+    "stagnation",
+    "inflation",
+    "unemployment",
+    "prices",
+    "growth",
+    "supply shock",
+    "monetary policy",
+    "fiscal policy",
+    "business",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "normally uncountable",
+    "plural": "not normally used",
+    "forms": {
+      "base": "stagflation",
+      "adjective": "stagflationary",
+      "source_words": "stagnation + inflation"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a period / episode of stagflation",
+      "the risk / threat / prospect of stagflation",
+      "fears / signs of stagflation",
+      "lead to / cause stagflation",
+      "experience / face stagflation",
+      "slip / fall into stagflation",
+      "emerge from stagflation",
+      "combat / avoid stagflation",
+      "stagflation caused by + noun",
+      "stagflation accompanied by + noun"
+    ],
+    "usage": {
+      "uncountable": "Stagflation is normally uncountable: The economy faced stagflation, not a stagflation.",
+      "episodes": "Use a period, episode, or bout of stagflation when referring to one particular occurrence.",
+      "definition": "The term generally describes stagnating or contracting output occurring together with persistent high or rising inflation.",
+      "unemployment": "High or rising unemployment is often associated with stagflation, although definitions do not always expressly require it.",
+      "no_fixed_threshold": "There is no universally accepted numerical threshold determining exactly when weak growth and inflation constitute stagflation.",
+      "policy": "The condition presents a policy dilemma because measures intended to reduce inflation may further weaken growth, while stimulus may intensify inflation.",
+      "register": "Used primarily in economics, finance, journalism, business, and public-policy discussion."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/stæɡˈfleɪʃən/",
+      "uk": "/stæɡˈfleɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "景気停滞と高いインフレが同時に続く経済状態",
+      "経済成長が弱い、またはマイナスである一方、物価が上昇すること",
+      "高い失業率と継続的な物価上昇を伴うことの多い経済停滞",
+      "景気刺激とインフレ抑制を両立しにくくする政策上の困難な状態"
+    ],
+    "en": [
+      "an economic condition combining stagnation with persistent high inflation",
+      "a situation in which prices rise while economic growth remains weak or negative",
+      "economic stagnation often accompanied by high unemployment and continuing price increases",
+      "a difficult policy environment in which supporting growth and controlling inflation may require conflicting measures"
+    ]
+  },
+  "nuance": {
+    "ja": "stagflation は stagnation と inflation を組み合わせた語で、通常なら景気停滞時には需要低下によって物価上昇圧力が弱まるという単純な想定に反し、低成長と高インフレが同時に続く状態を表す。原油・原材料価格の急騰、供給能力の低下、通貨安、インフレ期待の定着などが関連する場合があるが、原因は個々の局面によって異なる。政策当局にとっては、金利を上げればインフレを抑えやすくなる一方で景気をさらに悪化させる可能性があり、景気刺激策を採れば物価上昇を強める可能性がある。この語には統一された数値基準がないため、一時的な物価上昇と成長鈍化だけで直ちに stagflation と断定するのは慎重であるべきである。",
+    "en": "Stagflation blends stagnation and inflation and describes the apparently difficult combination of persistently weak growth and high inflation. It runs against the simple expectation that declining demand during economic stagnation should reduce inflationary pressure. Sharp increases in energy or raw-material costs, impaired productive capacity, currency depreciation, and entrenched inflation expectations may contribute, although the causes differ among episodes. Policymakers face a dilemma: raising interest rates may restrain inflation but further weaken output and employment, while stimulating demand may intensify price pressures. Because the term has no universally accepted numerical definition, temporary inflation accompanied by a modest slowdown should not automatically be labeled stagflation."
+  },
+  "minimal": {
+    "ja": [
+      "stagflation：景気停滞またはマイナス成長と、高いインフレが同時に続く状態。",
+      "stagnation：経済活動・成長・進歩などがほとんど止まっている状態。",
+      "inflation：物価の一般的水準が継続的に上昇し、貨幣の購買力が低下すること。",
+      "recession：生産・所得・雇用などの経済活動が広範に縮小する景気後退。",
+      "reflation：デフレまたは低迷状態から物価と経済活動を回復させようとすること。",
+      "deflation：物価の一般的水準が継続的に下落すること。",
+      "disinflation：インフレ率が低下すること。物価水準そのものは上昇し続ける場合がある。",
+      "slump：経済・市場・需要などの急激または深刻な落ち込み。"
+    ],
+    "en": [
+      "stagflation combines economic stagnation or contraction with persistent high inflation.",
+      "stagnation is a state in which economic activity, growth, or progress has largely stopped.",
+      "inflation is a continuing rise in the general price level that reduces the purchasing power of money.",
+      "a recession is a broad contraction in output, income, employment, and other economic activity.",
+      "reflation is an effort or process of restoring prices and economic activity after deflation or weakness.",
+      "deflation is a sustained decline in the general price level.",
+      "disinflation is a decline in the inflation rate even though prices may continue to rise.",
+      "a slump is a sudden or severe decline in an economy, market, or demand."
+    ]
+  },
+  "etymology": {
+    "ja": "stagflation は stagnation「停滞」と inflation「インフレ」を組み合わせた混成語である。stagnation はラテン語 stagnum「池、たまり水」に由来し、動きや成長が止まることを表す。inflation はラテン語 inflare「膨らませる」に由来する。この二つを結合することで、経済が停滞しているにもかかわらず物価が上昇するという、従来は両立しにくいと考えられていた状態を表す語となった。関連する形容詞は stagflationary である。",
+    "en": "Stagflation is a blend of stagnation and inflation. Stagnation ultimately derives from Latin stagnum, a pond or body of standing water, and developed the sense of an absence of movement or growth. Inflation derives from Latin inflare, to blow into or inflate. Combining the two elements created a term for the coexistence of economic stagnation and rising prices, conditions once commonly regarded as unlikely to persist together. The corresponding adjective is stagflationary."
+  },
+  "synonyms": [
+    {
+      "word": "inflationary stagnation",
+      "note": {
+        "ja": "インフレを伴う経済停滞という構成要素を直接説明する形式的な表現。",
+        "en": "A formal descriptive expression directly identifying economic stagnation accompanied by inflation."
+      }
+    },
+    {
+      "word": "stagnant inflationary economy",
+      "note": {
+        "ja": "成長が停滞しながら物価上昇が続く経済を説明する表現。",
+        "en": "A descriptive phrase for an economy in which growth is stagnant while prices continue to rise."
+      }
+    },
+    {
+      "word": "economic malaise",
+      "note": {
+        "ja": "低成長・失業・投資不足などを含む経済の長期的な不調を広く表す。",
+        "en": "A broad term for prolonged economic weakness that may include low growth, unemployment, and inadequate investment."
+      }
+    },
+    {
+      "word": "slow growth with high inflation",
+      "note": {
+        "ja": "stagflation の中心的な状態を専門用語を使わず直接説明する。",
+        "en": "A plain-language description of the central combination represented by stagflation."
+      }
+    },
+    {
+      "word": "supply-shock inflation",
+      "note": {
+        "ja": "供給制約や原材料価格上昇から生じるインフレで、stagflation の原因となることがあるが同義ではない。",
+        "en": "Inflation caused by supply disruption or rising input costs, which may contribute to stagflation but is not synonymous with it."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Stagflation",
+    "it": "stagflazione",
+    "fr": "stagflation",
+    "es": "estanflación"
+  },
+  "collocations": {
+    "ja": [
+      "a period of stagflation — スタグフレーション期",
+      "an episode of stagflation — スタグフレーションの局面",
+      "the risk of stagflation — スタグフレーションのリスク",
+      "the threat of stagflation — スタグフレーションの脅威",
+      "fears of stagflation — スタグフレーションへの懸念",
+      "signs of stagflation — スタグフレーションの兆候",
+      "persistent stagflation — 持続的なスタグフレーション",
+      "global stagflation — 世界的なスタグフレーション",
+      "experience stagflation — スタグフレーションを経験する",
+      "slip into stagflation — スタグフレーションに陥る",
+      "combat stagflation — スタグフレーションに対処する",
+      "avoid stagflation — スタグフレーションを回避する"
+    ],
+    "en": [
+      "a period of stagflation",
+      "an episode of stagflation",
+      "the risk of stagflation",
+      "the threat of stagflation",
+      "fears of stagflation",
+      "signs of stagflation",
+      "persistent stagflation",
+      "global stagflation",
+      "experience stagflation",
+      "slip into stagflation",
+      "combat stagflation",
+      "avoid stagflation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The economy faced stagflation as prices rose despite weak growth. — 経済成長が弱いにもかかわらず物価が上昇し、その国はスタグフレーションに直面した。",
+      "A sharp increase in energy costs intensified fears of stagflation. — エネルギー価格の急騰によって、スタグフレーションへの懸念が強まった。",
+      "Stagflation presents policymakers with particularly difficult choices. — スタグフレーションは政策当局にとりわけ難しい選択を迫る。",
+      "Higher interest rates may reduce inflation but worsen the stagnation component of stagflation. — 金利の引上げはインフレを抑える可能性がある一方、スタグフレーションにおける景気停滞を悪化させることがある。",
+      "During stagflation, a company may face both rising costs for patented components and weakening demand for its finished products. — スタグフレーション下では、企業は特許部品のコスト上昇と完成品需要の低下の両方に直面することがある。"
+    ],
+    "en": [
+      "The economy faced stagflation as prices rose despite weak growth.",
+      "A sharp increase in energy costs intensified fears of stagflation.",
+      "Stagflation presents policymakers with particularly difficult choices.",
+      "Higher interest rates may reduce inflation but worsen the stagnation component of stagflation.",
+      "During stagflation, a company may face both rising costs for patented components and weakening demand for its finished products."
+    ]
+  }
+},
+{
+  "id": "procrustean",
+  "sid": "2026-01351",
+  "word": "Procrustean",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "adjective",
+    "Greek mythology",
+    "rigidity",
+    "conformity",
+    "standardization",
+    "classification",
+    "uniformity",
+    "criticism",
+    "policy",
+    "legal",
+    "academic",
+    "literary",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "Procrustean",
+      "lowercase_variant": "procrustean",
+      "proper_noun": "Procrustes",
+      "fixed_expression": "a Procrustean bed",
+      "comparative": "more Procrustean",
+      "superlative": "most Procrustean",
+      "rare_noun": "Procrusteanism"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a Procrustean + approach / rule / system",
+      "a Procrustean standard",
+      "a Procrustean classification",
+      "a Procrustean framework",
+      "a Procrustean solution",
+      "apply a Procrustean rule to + noun",
+      "force something into a Procrustean framework",
+      "fit something to a Procrustean model",
+      "reduce something to Procrustean uniformity",
+      "the Procrustean bed of + theory / policy"
+    ],
+    "usage": {
+      "meaning": "Procrustean describes a method or system that forces different people, facts, or situations to conform to one rigid and arbitrary standard.",
+      "evaluation": "The word is strongly critical and implies that relevant differences are distorted, ignored, or removed.",
+      "allusion": "It alludes to Procrustes, who forced travelers to fit his bed by stretching them or cutting off parts of their bodies.",
+      "capitalization": "The traditional spelling is Procrustean with a capital P because it derives from a proper name; lowercase procrustean also occurs in modern usage.",
+      "comparison": "Comparative forms are possible but uncommon because the word is mainly used in formal criticism.",
+      "register": "It is learned, literary, and formal and may be unfamiliar to general readers.",
+      "clarity": "In writing for a broad audience, rigid, arbitrary, or one-size-fits-all may communicate the intended criticism more directly."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/proʊˈkrʌstiən/",
+      "uk": "/prəʊˈkrʌstiən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "多様な対象を一つの画一的な基準へ無理に合わせる",
+      "個別の事情を無視して、あらかじめ決めた型を厳格に適用する",
+      "理論・分類・制度に合わない事実を切り捨てたり歪めたりする",
+      "柔軟性を欠き、例外や差異を認めない",
+      "プロクルーステースの寝台のような、無理な画一化を行う"
+    ],
+    "en": [
+      "forcing diverse people or situations to conform to a single rigid standard",
+      "applying a predetermined model without regard to individual circumstances",
+      "discarding or distorting facts that do not fit a theory, classification, or system",
+      "inflexible and unwilling to recognize exceptions or meaningful differences",
+      "resembling the bed of Procrustes in imposing arbitrary uniformity"
+    ]
+  },
+  "nuance": {
+    "ja": "Procrustean は、基準が単に厳格であることではなく、その基準へ対象を合わせるために、対象の重要な特徴を歪めたり切り捨てたりすることを批判する語である。one-size-fits-all と近いが、Procrustean の方が学術的・文学的で、強制性と有害性を強く示唆する。例えば、性質の異なる事件へ同じ法的テストを機械的に適用することや、データを理論に合うよう選別することを a Procrustean approach と批判できる。標準化そのものは効率性・安全性・公平性に役立つ場合があるため、個別事情を適切に考慮した統一基準を Procrustean と呼ぶべきではない。",
+    "en": "Procrustean criticizes more than mere strictness. It suggests that important characteristics are distorted, removed, or ignored in order to make the subject fit a predetermined standard. It resembles one-size-fits-all, but is more learned and literary and carries stronger implications of coercion and harm. A legal test mechanically applied to fundamentally different cases or data selected to fit a theory may be criticized as Procrustean. Standardization itself can promote efficiency, safety, and fairness, so a uniform standard that appropriately accommodates relevant differences should not automatically be described as Procrustean."
+  },
+  "minimal": {
+    "ja": [
+      "Procrustean：多様な対象を一つの恣意的・画一的な型へ無理に合わせる。",
+      "rigid：規則・考え方・構造などが硬直し、変更や例外を認めない。",
+      "inflexible：状況に応じて方針・方法を変更する柔軟性がない。",
+      "arbitrary：客観的・合理的な根拠ではなく、恣意的な判断に基づく。",
+      "one-size-fits-all：個人差・状況差を考慮せず、同じ解決策を全員に適用する。",
+      "standardized：一定の基準に統一された。必ずしも批判的な意味ではない。",
+      "uniform：全体にわたって同じ形・性質・基準を持つ。",
+      "dogmatic：自分の信念・理論を絶対視し、異論や証拠を受け入れない。"
+    ],
+    "en": [
+      "Procrustean describes forcing diverse subjects into one arbitrary and rigid pattern.",
+      "rigid means fixed and unwilling to permit change, adaptation, or exceptions.",
+      "inflexible means unable or unwilling to adapt a policy or method to circumstances.",
+      "arbitrary means based on personal choice rather than an objective or rational principle.",
+      "one-size-fits-all describes applying the same solution without considering differences among people or situations.",
+      "standardized means made consistent with an established standard and is not necessarily critical.",
+      "uniform means having the same form, character, or standard throughout.",
+      "dogmatic describes treating one’s beliefs or theories as unquestionably correct despite opposing views or evidence."
+    ]
+  },
+  "etymology": {
+    "ja": "Procrustean はギリシア神話の人物 Procrustes「プロクルーステース」の名に由来する。伝説によれば、彼は旅人を自分の寝台に寝かせ、寝台より短ければ身体を引き伸ばし、長ければはみ出した部分を切り落として、無理に寝台の長さへ合わせた。Procrustes の名はギリシア語 Prokroustēs に由来し、「引き伸ばす者」などと解される。この物語から、対象を恣意的な基準へ強制的に適合させる制度・理論・方法を Procrustean と呼ぶようになった。",
+    "en": "Procrustean derives from Procrustes, a figure in Greek mythology. According to the legend, he made travelers lie on his bed and forced them to match its length, stretching those who were too short and cutting down those who were too tall. The name comes through Latin Procrustes from Greek Prokroustēs and is associated with stretching or hammering out. The story produced the figurative adjective Procrustean for a system, theory, or method that compels diverse subjects to fit an arbitrary standard."
+  },
+  "synonyms": [
+    {
+      "word": "rigid",
+      "note": {
+        "ja": "規則・制度・考え方が固定され、状況に応じた変更や例外を認めない。",
+        "en": "Describes a rule, system, or attitude that is fixed and does not permit adaptation or exceptions."
+      }
+    },
+    {
+      "word": "inflexible",
+      "note": {
+        "ja": "個別の事情や変化へ対応して方法を調整する柔軟性がない。",
+        "en": "Describes an inability or unwillingness to adjust a method to individual circumstances or change."
+      }
+    },
+    {
+      "word": "one-size-fits-all",
+      "note": {
+        "ja": "異なる人・問題・状況へ同じ方法を一律に適用することを批判する比較的口語的な語。",
+        "en": "A relatively informal critical term for applying the same method to different people, problems, or situations."
+      }
+    },
+    {
+      "word": "arbitrary",
+      "note": {
+        "ja": "合理的・一貫した原則ではなく、恣意的な選択や権力に基づく。",
+        "en": "Based on personal choice or power rather than a rational and consistently applied principle."
+      }
+    },
+    {
+      "word": "conformist",
+      "note": {
+        "ja": "既存の規範・慣習への同調を重視するが、Procrustean ほど強制的な画一化を必ずしも意味しない。",
+        "en": "Favoring conformity to established norms, though not necessarily implying the coercive uniformity of Procrustean."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "prokrustisch / schematisch-gewaltsam",
+    "it": "procustiano",
+    "fr": "procrustéen",
+    "es": "procustiano"
+  },
+  "collocations": {
+    "ja": [
+      "a Procrustean approach — 個別事情を無視する画一的な方法",
+      "a Procrustean rule — 無理に一律適用される規則",
+      "a Procrustean system — 画一化を強制する制度",
+      "a Procrustean standard — 恣意的で硬直的な基準",
+      "a Procrustean framework — 対象を無理に当てはめる枠組み",
+      "a Procrustean classification — 差異を無視する画一的分類",
+      "a Procrustean solution — 一律で柔軟性のない解決策",
+      "a Procrustean formula — 機械的に適用される定式",
+      "a Procrustean bed — プロクルーステースの寝台、無理な画一化の枠",
+      "impose a Procrustean model — 画一的なモデルを押し付ける",
+      "force facts into a Procrustean framework — 事実を硬直的な枠組みに無理に当てはめる",
+      "avoid a Procrustean interpretation — 画一的で不自然な解釈を避ける"
+    ],
+    "en": [
+      "a Procrustean approach",
+      "a Procrustean rule",
+      "a Procrustean system",
+      "a Procrustean standard",
+      "a Procrustean framework",
+      "a Procrustean classification",
+      "a Procrustean solution",
+      "a Procrustean formula",
+      "a Procrustean bed",
+      "impose a Procrustean model",
+      "force facts into a Procrustean framework",
+      "avoid a Procrustean interpretation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The policy was criticized as Procrustean because it ignored substantial regional differences. — その政策は重大な地域差を無視していたため、画一的すぎると批判された。",
+      "We should not force every student into a Procrustean model of education. — すべての生徒を画一的な教育モデルへ無理に当てはめるべきではない。",
+      "The researcher distorted the evidence by fitting it into a Procrustean theoretical framework. — その研究者は証拠を硬直的な理論的枠組みに当てはめ、歪めてしまった。",
+      "A uniform procedure can be useful, provided that it does not become Procrustean. — 統一的な手続きは、それが個別事情を無視するものにならない限り、有用であり得る。",
+      "A Procrustean interpretation of patent claims may disregard technically meaningful differences between inventions. — 特許請求項を画一的に解釈すると、発明間の技術的に意味のある相違を無視するおそれがある。"
+    ],
+    "en": [
+      "The policy was criticized as Procrustean because it ignored substantial regional differences.",
+      "We should not force every student into a Procrustean model of education.",
+      "The researcher distorted the evidence by fitting it into a Procrustean theoretical framework.",
+      "A uniform procedure can be useful, provided that it does not become Procrustean.",
+      "A Procrustean interpretation of patent claims may disregard technically meaningful differences between inventions."
+    ]
+  }
+},
+{
+  "id": "ad_hoc",
+  "sid": "2026-01352",
+  "word": "ad hoc",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "adverb",
+    "Latin phrase",
+    "specific purpose",
+    "temporary",
+    "committee",
+    "solution",
+    "organization",
+    "arbitration",
+    "technology",
+    "legal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / adverb",
+    "forms": {
+      "base": "ad hoc",
+      "hyphenated_variant": "ad-hoc",
+      "latin_source": "ad hoc",
+      "comparative": "more ad hoc",
+      "superlative": "most ad hoc",
+      "related_noun": "adhocism"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an ad hoc + committee / group / team",
+      "an ad hoc solution / arrangement",
+      "an ad hoc tribunal",
+      "ad hoc arbitration",
+      "on an ad hoc basis",
+      "create / establish something ad hoc",
+      "deal with something ad hoc",
+      "respond ad hoc to + problem",
+      "be formed ad hoc",
+      "rather ad hoc"
+    ],
+    "usage": {
+      "adjective": "Before a noun, ad hoc describes something created or selected for a particular purpose: an ad hoc committee.",
+      "adverb": "As an adverb, it means for the particular purpose or case concerned: The group was formed ad hoc.",
+      "temporary": "An ad hoc body is often temporary, but temporary existence is not an essential part of every use.",
+      "neutral_use": "The phrase can neutrally describe a specially constituted group, tribunal, procedure, or technical network.",
+      "negative_use": "It may critically describe an improvised, unsystematic, or poorly planned response to an immediate problem.",
+      "arbitration": "Ad hoc arbitration is administered according to arrangements chosen by the parties rather than by a permanent arbitral institution.",
+      "technology": "An ad hoc network is formed directly among devices for a particular situation without relying on fixed infrastructure.",
+      "hyphenation": "Ad hoc without a hyphen is widely accepted, including before a noun; some editorial styles use ad-hoc attributively.",
+      "italics": "The phrase is established in English and need not normally be italicized."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌæd ˈhɑːk/",
+      "uk": "/ˌæd ˈhɒk/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特定の目的・問題・状況に対処するために設けられた",
+      "常設ではなく、個別の案件のために編成された",
+      "一般的な制度ではなく、特定の場合に限って用いられる",
+      "十分な計画や一貫した方針を欠く、場当たり的な",
+      "副詞として、特定の目的のために、その都度"
+    ],
+    "en": [
+      "created or selected for a particular purpose, problem, or situation",
+      "constituted for an individual matter rather than as a permanent body",
+      "used for a particular case rather than as part of a general system",
+      "improvised or lacking a consistent and systematic plan",
+      "as an adverb, for a specific purpose or on a case-by-case basis"
+    ]
+  },
+  "nuance": {
+    "ja": "ad hoc は、ある具体的な目的のために人・制度・方法などを特別に用意することを表す。an ad hoc committee は特定の問題を検討するために設置された委員会であり、この用法自体に批判的な意味はない。ad hoc arbitration も、常設仲裁機関によらず、当事者が当該事件のために手続きを構成する仲裁を表す中立的な専門語である。一方、an ad hoc approach や a series of ad hoc decisions は、長期的な方針や一貫した原則を欠き、問題が起きるたびに場当たり的に対応するという批判を含みやすい。ad hoc は temporary と重なることが多いが、中心的意味は期間の短さではなく、特定の目的に限定されていることである。",
+    "en": "Ad hoc describes a person, body, procedure, or method specially selected or created for a particular purpose. An ad hoc committee is established to examine a specific issue, and this use is not inherently critical. Ad hoc arbitration is likewise a neutral technical term for arbitration organized by the parties for the particular dispute rather than administered by a permanent arbitral institution. By contrast, an ad hoc approach or a series of ad hoc decisions may criticize a lack of long-term planning or consistent principles. Although ad hoc arrangements are often temporary, the central meaning concerns limitation to a particular purpose rather than short duration itself."
+  },
+  "minimal": {
+    "ja": [
+      "ad hoc：特定の目的・問題・案件のために特別に設けられた。",
+      "temporary：限られた期間だけ存在・継続し、永続的でない。",
+      "provisional：最終決定までの間、暫定的に採用される。",
+      "improvised：事前の準備が十分でなく、その場で考案・用意された。",
+      "case-by-case：一般ルールで一律に処理せず、個々の事例ごとに判断する。",
+      "purpose-built：特定の用途のために最初から設計・製作された。",
+      "special：通常のものとは異なり、特定の目的・人・機会のための。",
+      "systematic：一定の計画・原則・方法に従って体系的に行われる。"
+    ],
+    "en": [
+      "ad hoc means created or selected for a particular purpose, issue, or case.",
+      "temporary means existing or continuing for a limited period rather than permanently.",
+      "provisional describes something adopted until a final decision or arrangement is made.",
+      "improvised means devised or prepared at the time without adequate advance planning.",
+      "case-by-case means deciding each matter individually rather than applying one general rule automatically.",
+      "purpose-built means designed and made from the outset for one particular function.",
+      "special means intended for a particular purpose, person, or occasion rather than being ordinary.",
+      "systematic means carried out according to an organized plan, principle, or method."
+    ]
+  },
+  "etymology": {
+    "ja": "ad hoc はラテン語の句で、ad「～へ、～のために」と hoc「これ」を組み合わせ、文字どおりには「このために」を意味する。hoc は指示代名詞 hic「これ」の中性対格形である。個別の目的・問題に向けて何かを用意するという意味で、外交・法律・行政・学術などの分野から英語に定着した。現代英語では、特定目的の組織・措置を表す中立的用法と、場当たり的な対応を批判する用法の両方を持つ。",
+    "en": "Ad hoc is a Latin phrase formed from ad, to or for, and hoc, the neuter accusative form of hic, this. It therefore means literally for this. The expression became established in English through diplomatic, legal, administrative, and academic usage for something directed toward a particular purpose or issue. Modern English uses it both neutrally for specially constituted bodies or measures and critically for improvised or unsystematic responses."
+  },
+  "synonyms": [
+    {
+      "word": "purpose-specific",
+      "note": {
+        "ja": "特定の目的・用途に限定して設計または選択されたことを明確に表す。",
+        "en": "Clearly describes something designed or selected for one particular purpose or use."
+      }
+    },
+    {
+      "word": "case-specific",
+      "note": {
+        "ja": "一般的な制度ではなく、特定の事件・状況だけに関係する。",
+        "en": "Relates to one particular case or situation rather than a general system."
+      }
+    },
+    {
+      "word": "temporary",
+      "note": {
+        "ja": "一定期間だけ存在することを強調するが、特定目的のためとは限らない。",
+        "en": "Emphasizes limited duration but does not necessarily indicate creation for a particular purpose."
+      }
+    },
+    {
+      "word": "improvised",
+      "note": {
+        "ja": "十分な事前計画なしにその場で用意されたことを表し、批判的用法の ad hoc に近い。",
+        "en": "Describes something devised without sufficient advance planning and resembles the critical use of ad hoc."
+      }
+    },
+    {
+      "word": "one-off",
+      "note": {
+        "ja": "一度限りの出来事・措置・製品を表す口語的な語。",
+        "en": "An informal term for an event, measure, or product intended to occur or be made only once."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ad hoc / eigens dafür / fallbezogen",
+    "it": "ad hoc / apposito",
+    "fr": "ad hoc / spécialement constitué",
+    "es": "ad hoc / específico para el caso"
+  },
+  "collocations": {
+    "ja": [
+      "an ad hoc committee — 特定目的のための臨時委員会",
+      "an ad hoc group — 特別に編成されたグループ",
+      "an ad hoc team — 特定案件のためのチーム",
+      "an ad hoc meeting — 必要に応じて開かれる会議",
+      "an ad hoc solution — 個別目的のための解決策、場当たり的な解決策",
+      "an ad hoc arrangement — 特定の場合のための取り決め",
+      "an ad hoc decision — 個別的・場当たり的な決定",
+      "an ad hoc tribunal — 特定事件のために設置された裁判所・法廷",
+      "ad hoc arbitration — アドホック仲裁",
+      "an ad hoc network — アドホックネットワーク",
+      "on an ad hoc basis — 必要に応じて、個別に",
+      "be established ad hoc — 特定目的のために設置される"
+    ],
+    "en": [
+      "an ad hoc committee",
+      "an ad hoc group",
+      "an ad hoc team",
+      "an ad hoc meeting",
+      "an ad hoc solution",
+      "an ad hoc arrangement",
+      "an ad hoc decision",
+      "an ad hoc tribunal",
+      "ad hoc arbitration",
+      "an ad hoc network",
+      "on an ad hoc basis",
+      "be established ad hoc"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The government established an ad hoc committee to investigate the incident. — 政府はその事件を調査するため、特別委員会を設置した。",
+      "Technical experts are invited to the meetings on an ad hoc basis. — 技術専門家は必要に応じて個別に会議へ招かれる。",
+      "The parties chose ad hoc arbitration instead of proceedings administered by a permanent institution. — 当事者は、常設機関が管理する手続きではなく、アドホック仲裁を選択した。",
+      "A series of ad hoc measures cannot replace a coherent long-term policy. — 一連の場当たり的な措置によって、一貫した長期政策を置き換えることはできない。",
+      "Patent claims should be interpreted according to consistent legal principles rather than adjusted ad hoc to reach a preferred result. — 特許請求項は、望ましい結論へ導くためにその都度調整するのではなく、一貫した法的原則に従って解釈すべきである。"
+    ],
+    "en": [
+      "The government established an ad hoc committee to investigate the incident.",
+      "Technical experts are invited to the meetings on an ad hoc basis.",
+      "The parties chose ad hoc arbitration instead of proceedings administered by a permanent institution.",
+      "A series of ad hoc measures cannot replace a coherent long-term policy.",
+      "Patent claims should be interpreted according to consistent legal principles rather than adjusted ad hoc to reach a preferred result."
+    ]
+  }
+},
+{
+  "id": "a_posteriori",
+  "sid": "2026-01353",
+  "word": "a posteriori",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "adverb",
+    "Latin phrase",
+    "philosophy",
+    "epistemology",
+    "logic",
+    "experience",
+    "evidence",
+    "empirical",
+    "reasoning",
+    "science",
+    "academic",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / adverb",
+    "forms": {
+      "base": "a posteriori",
+      "opposite": "a priori",
+      "latin_source": "a posteriori",
+      "comparative": "not normally compared",
+      "superlative": "not normally compared"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a posteriori knowledge / justification",
+      "an a posteriori argument",
+      "an a posteriori judgment",
+      "an a posteriori proposition / truth",
+      "a posteriori reasoning",
+      "determine / establish something a posteriori",
+      "know something a posteriori",
+      "reason a posteriori from + evidence",
+      "be justified a posteriori",
+      "a priori rather than a posteriori"
+    ],
+    "usage": {
+      "adjective": "Before a noun, a posteriori describes knowledge, justification, or reasoning that depends on experience or empirical evidence.",
+      "adverb": "As an adverb, it means on the basis of experience, observation, or subsequently available evidence.",
+      "article": "Use an before the phrase when it modifies a singular countable noun: an a posteriori argument.",
+      "philosophy": "The philosophical distinction concerns the basis of knowledge or justification, not merely the chronological order in which a belief was formed.",
+      "necessity": "A posteriori does not necessarily mean contingent; some philosophical theories recognize necessary truths that can be known only through experience.",
+      "general_use": "Outside philosophy, it may more loosely mean inferred after examining facts or results.",
+      "hindsight": "It does not inherently imply unfair hindsight or retrospective distortion, although an a posteriori explanation may be criticized on that basis.",
+      "hyphenation": "The phrase is normally written as two words without a hyphen.",
+      "italics": "It may be italicized in formal writing, but established English usage often leaves it in roman type."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌeɪ pɑːˌstɪriˈɔːraɪ/",
+      "uk": "/ˌeɪ pɒˌstɪəriˈɔːraɪ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "経験・観察・実験的証拠に基づいて知られる",
+      "現実の事実や結果を調べた上で導かれる",
+      "原因・原理からではなく、観察された結果から推論する",
+      "哲学上、経験から独立しては正当化できない",
+      "一般的用法で、事後的に、結果を見てから"
+    ],
+    "en": [
+      "known on the basis of experience, observation, or empirical evidence",
+      "derived after examining actual facts or results",
+      "reasoning from observed effects toward a cause, explanation, or principle",
+      "in philosophy, incapable of being justified independently of experience",
+      "in broader usage, determined retrospectively or after the results are available"
+    ]
+  },
+  "nuance": {
+    "ja": "a posteriori は認識論において、ある知識・信念の正当化が経験に依存することを表す。例えば「この金属片は熱い」という判断は、実際に触れる、測定するなどの経験的情報を必要とするため、典型的に a posteriori である。反対語の a priori は、特定の経験的観察に依存せず、論理・定義・純粋な推論などによって知り得ることを表す。この区別は、命題が経験より前に考えられたか後に考えられたかという時間的区別ではなく、その正当化の根拠に関する区別である。また、a posteriori と contingent「偶然的な」は同義ではなく、哲学上は necessary a posteriori truth「経験によってのみ知られる必然的真理」という概念も論じられる。一般語では「結果を見てから判断する」という緩やかな意味にも使われる。",
+    "en": "In epistemology, a posteriori describes knowledge or belief whose justification depends on experience. The judgment that a particular piece of metal is hot, for example, normally requires empirical information obtained by touching or measuring it and is therefore a posteriori. Its opposite, a priori, concerns what can be known or justified independently of particular empirical observations through logic, definition, or pure reasoning. The distinction concerns the basis of justification rather than whether a thought occurred chronologically before or after an experience. A posteriori is also not synonymous with contingent; philosophers discuss necessary a posteriori truths that are necessary but knowable only through experience. In broader usage, the phrase may simply mean determined after examining the results."
+  },
+  "minimal": {
+    "ja": [
+      "a posteriori：経験・観察・実験的証拠に基づいて知られる、または推論される。",
+      "a priori：特定の経験的観察に依存せず、論理・定義・推論などに基づいて知られる。",
+      "empirical：観察・実験・経験から得られた証拠に基づく。",
+      "inductive：個別の観察例から一般的な結論を導く。",
+      "deductive：一般的な前提・規則から論理的に個別の結論を導く。",
+      "ex post：行為・取引・出来事が発生した後の視点または評価。",
+      "retrospective：過去の出来事を振り返って考察・評価する。",
+      "post hoc：ある出来事の後に生じたこと、またはその前後関係を因果関係と誤認する推論に関する。"
+    ],
+    "en": [
+      "a posteriori describes knowledge or reasoning based on experience, observation, or empirical evidence.",
+      "a priori describes knowledge or justification independent of particular empirical observations.",
+      "empirical means based on evidence obtained through observation, experiment, or experience.",
+      "inductive reasoning moves from particular observations toward a broader generalization.",
+      "deductive reasoning derives a particular conclusion logically from general premises or rules.",
+      "ex post describes a perspective or evaluation adopted after an act, transaction, or event.",
+      "retrospective means looking back upon and evaluating past events.",
+      "post hoc means occurring after an event or concerns reasoning that mistakes temporal sequence for causation."
+    ]
+  },
+  "etymology": {
+    "ja": "a posteriori は中世ラテン語の句で、a「～から」と posteriori「後のもの、後に来るもの」から成り、文字どおりには「後に来るものから」を意味する。posteriori は posterior「より後の」の奪格形であり、post「後に」と関係する。スコラ哲学では、観察された結果から原因・原理へ向かう推論を表し、後に経験に基づく知識・正当化を表す認識論上の用語として定着した。反対語は a priori「先にあるものから」である。",
+    "en": "A posteriori is a Medieval Latin phrase formed from a, from, and posteriori, the ablative form of posterior, later or coming after. It therefore literally means from what comes later. Posterior is related to Latin post, after. In scholastic philosophy, the phrase described reasoning from observed effects toward causes or principles. It later became an epistemological term for knowledge or justification based on experience. Its conventional opposite is a priori, from what comes before."
+  },
+  "synonyms": [
+    {
+      "word": "empirical",
+      "note": {
+        "ja": "観察・実験・経験から得られたデータや証拠に基づくことを表す、最も近い一般的な学術語。",
+        "en": "The closest common academic term for something based on data or evidence obtained through observation or experiment."
+      }
+    },
+    {
+      "word": "experience-based",
+      "note": {
+        "ja": "抽象的な理論だけでなく、実際の経験に基づいていることを平易に表す。",
+        "en": "A plain expression indicating reliance on actual experience rather than abstract theory alone."
+      }
+    },
+    {
+      "word": "evidence-based",
+      "note": {
+        "ja": "利用可能な証拠を検討して判断・方針を形成することを表すが、哲学上の厳密な同義語ではない。",
+        "en": "Describes forming a judgment or policy from available evidence, though it is not a strict philosophical synonym."
+      }
+    },
+    {
+      "word": "inductive",
+      "note": {
+        "ja": "観察された個別事例から一般的な規則・結論を導く推論を表す。",
+        "en": "Describes reasoning that derives a general rule or conclusion from particular observations."
+      }
+    },
+    {
+      "word": "after the fact",
+      "note": {
+        "ja": "出来事や結果が生じた後で判断・説明するという一般的用法に近い口語表現。",
+        "en": "An ordinary expression resembling the broader use of a posteriori for judgment or explanation after results are known."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "a posteriori / erfahrungsabhängig / im Nachhinein",
+    "it": "a posteriori / empirico",
+    "fr": "a posteriori / empirique",
+    "es": "a posteriori / empírico"
+  },
+  "collocations": {
+    "ja": [
+      "a posteriori knowledge — 経験に基づく知識",
+      "a posteriori justification — 経験に基づく正当化",
+      "an a posteriori argument — 経験的証拠に基づく議論",
+      "an a posteriori judgment — 経験に基づく判断",
+      "an a posteriori proposition — 経験によって知られる命題",
+      "an a posteriori truth — 経験によって知られる真理",
+      "a posteriori reasoning — 経験的・事後的推論",
+      "a posteriori evidence — 事後的・経験的証拠",
+      "a posteriori probability — 観察後に評価される確率",
+      "know something a posteriori — 何かを経験に基づいて知る",
+      "determine something a posteriori — 何かを事後的に決定する",
+      "a priori and a posteriori — ア・プリオリとア・ポステリオリ"
+    ],
+    "en": [
+      "a posteriori knowledge",
+      "a posteriori justification",
+      "an a posteriori argument",
+      "an a posteriori judgment",
+      "an a posteriori proposition",
+      "an a posteriori truth",
+      "a posteriori reasoning",
+      "a posteriori evidence",
+      "a posteriori probability",
+      "know something a posteriori",
+      "determine something a posteriori",
+      "a priori and a posteriori"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Knowledge of the substance’s color is a posteriori because it depends on observation. — その物質の色に関する知識は観察に依存するため、経験的なものである。",
+      "The researchers reached their conclusion a posteriori from the experimental results. — 研究者たちは実験結果に基づいて経験的に結論へ到達した。",
+      "The theory was not derived purely by reason but supported by an a posteriori argument. — その理論は純粋な理性だけから導かれたのではなく、経験的な議論によって裏付けられた。",
+      "An a posteriori explanation may be accurate even though it could not have predicted the event. — 事後的な説明は、その出来事を予測できなかったとしても正確であり得る。",
+      "Inventive step should not be denied merely by constructing an a posteriori account of the invention after reading the patent application. — 特許出願を読んだ後で発明の成立過程を事後的に組み立てるだけで、進歩性を否定すべきではない。"
+    ],
+    "en": [
+      "Knowledge of the substance’s color is a posteriori because it depends on observation.",
+      "The researchers reached their conclusion a posteriori from the experimental results.",
+      "The theory was not derived purely by reason but supported by an a posteriori argument.",
+      "An a posteriori explanation may be accurate even though it could not have predicted the event.",
+      "Inventive step should not be denied merely by constructing an a posteriori account of the invention after reading the patent application."
+    ]
+  }
+},
+{
+  "id": "retrospective",
+  "sid": "2026-01354",
+  "word": "retrospective",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "noun",
+    "past",
+    "review",
+    "hindsight",
+    "research",
+    "medicine",
+    "art",
+    "exhibition",
+    "legislation",
+    "legal",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / noun",
+    "countability": "countable as a noun for an exhibition or review of a person’s work",
+    "plural": "retrospectives",
+    "forms": {
+      "adjective": "retrospective",
+      "noun_singular": "retrospective",
+      "noun_plural": "retrospectives",
+      "adverb": "retrospectively",
+      "related_noun": "retrospection",
+      "related_phrase": "in retrospect"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a retrospective + study / analysis / review",
+      "retrospective legislation / effect",
+      "a retrospective assessment of + noun",
+      "a retrospective look at + noun",
+      "a retrospective on + artist / period",
+      "hold / organize a retrospective",
+      "a major / comprehensive retrospective",
+      "apply something retrospectively",
+      "view something retrospectively",
+      "in retrospect, + clause"
+    ],
+    "usage": {
+      "adjective": "Retrospective describes an analysis, judgment, or presentation that looks back at past events or work.",
+      "noun": "As a countable noun, a retrospective is an exhibition, publication, or program surveying a person’s work over an extended period.",
+      "research": "A retrospective study examines past events or exposures using information already available from records, samples, questionnaires, or other evidence.",
+      "prospective_contrast": "A prospective study identifies participants or conditions and then follows future events or outcomes.",
+      "law": "Retrospective legislation concerns past events or transactions and may alter the legal consequences attached to them.",
+      "retroactive_distinction": "Retrospective can merely mean looking backward, whereas retroactive specifically emphasizes operation or legal effect extending into the past.",
+      "a_posteriori_distinction": "A posteriori concerns knowledge or justification based on experience and is not a general synonym for retrospective.",
+      "register": "Common in academic, medical, legal, artistic, journalistic, and professional contexts."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌretrəˈspektɪv/",
+      "uk": "/ˌretrəˈspektɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "過去の出来事・判断・期間などを振り返って検討する",
+      "既存の記録・資料を用いて過去の事象を調査する",
+      "法律・規則などが制定前の行為・事実に関係する、遡及的な",
+      "芸術家・作家などの長期間にわたる業績を回顧する",
+      "名詞として、作品・活動を年代的または包括的に紹介する回顧展"
+    ],
+    "en": [
+      "looking back at and evaluating past events, decisions, or periods",
+      "examining past events using records or information already available",
+      "for a law or rule, relating or applying to acts or facts occurring before its adoption",
+      "surveying an artist’s, writer’s, or other creator’s work over an extended period",
+      "as a noun, an exhibition or presentation reviewing a substantial body of past work"
+    ]
+  },
+  "nuance": {
+    "ja": "retrospective は、現在の時点から過去を振り返り、出来事・判断・作品などを再検討することを表す。a retrospective analysis は過去のデータや結果を用いる分析であり、必ずしも否定的ではない。ただし、現在知っている結果を過去の判断者も予測できたはずだと考える retrospective judgment には、後知恵による歪みが入り得る。医学研究では retrospective study が既存の診療記録などを調査するのに対し、prospective study は研究開始後の対象を追跡する。法律では retrospective と retroactive が重なる場合があるが、retrospective は過去を対象とする性質を広く表し、retroactive は新しい規則が過去の行為・権利へ法的効果を及ぼすことをより直接的に表す。名詞では美術家などの長年の作品をまとめた「回顧展」を意味する。",
+    "en": "Retrospective describes looking backward from the present to reconsider past events, decisions, data, or creative work. A retrospective analysis uses past information and is not inherently critical. Retrospective judgment may, however, be distorted by hindsight if present knowledge is attributed unfairly to an earlier decision-maker. In medical research, a retrospective study examines existing records or other evidence concerning past exposures and outcomes, whereas a prospective study follows participants or events forward after the study begins. In law, retrospective and retroactive sometimes overlap, but retrospective broadly concerns the past, while retroactive more directly emphasizes a new rule producing legal effects for earlier acts or rights. As a noun, a retrospective surveys a substantial period of an artist’s or creator’s work."
+  },
+  "minimal": {
+    "ja": [
+      "retrospective：現在から過去を振り返って分析・評価する、または名詞で回顧展。",
+      "prospective：将来を見越した、または対象を将来に向かって追跡する。",
+      "retroactive：新しい法律・規則・変更が過去の行為や期間へ効果を及ぼす。",
+      "historical：過去の出来事・歴史に関する。",
+      "nostalgic：過去を懐かしく、しばしば理想化して思い出す。",
+      "in retrospect：過去を振り返って考えると。",
+      "a posteriori：経験・観察・証拠に基づいて知る、または推論する。",
+      "post hoc：出来事の後に行われる、または時間的前後関係を因果関係と誤認する推論に関する。"
+    ],
+    "en": [
+      "retrospective means looking back at past events or, as a noun, an exhibition surveying past work.",
+      "prospective means looking toward the future or following subjects forward after a study begins.",
+      "retroactive describes a law, rule, or change that produces effects concerning an earlier act or period.",
+      "historical means relating to history or events of the past.",
+      "nostalgic means remembering the past with affection and often idealizing it.",
+      "in retrospect means when considering a past event with later knowledge.",
+      "a posteriori describes knowledge or reasoning based on experience, observation, or evidence.",
+      "post hoc means occurring after an event or concerns reasoning that mistakes temporal sequence for causation."
+    ]
+  },
+  "etymology": {
+    "ja": "retrospective はラテン語 retrospectus「振り返ったこと」に由来する。retrospectus は動詞 retrospicere「後ろを見る」の過去分詞で、retro「後方へ」と specere「見る」から成る。specere は inspect、prospect、spectator などにも見られる語根である。「後ろを見る」という文字どおりの意味から、過去の出来事や業績を現在の視点から再検討する意味が発達した。",
+    "en": "Retrospective derives from Latin retrospectus, a looking back, related to the past participle of retrospicere, to look backward. Retrospicere was formed from retro, backward, and specere, to look. The same visual root appears in words such as inspect, prospect, and spectator. The literal idea of looking behind developed into the modern senses of reviewing past events and surveying a creator’s earlier work."
+  },
+  "synonyms": [
+    {
+      "word": "backward-looking",
+      "note": {
+        "ja": "過去へ注意を向けていることを直接表すが、文脈によっては保守的という批判も含む。",
+        "en": "Directly describes attention directed toward the past and may sometimes criticize a lack of forward thinking."
+      }
+    },
+    {
+      "word": "historical",
+      "note": {
+        "ja": "過去の出来事・記録・発展に関することを広く表す。",
+        "en": "Broadly describes something relating to past events, records, or development."
+      }
+    },
+    {
+      "word": "retrospective review",
+      "note": {
+        "ja": "過去の判断・記録・業績などを現在の時点から再検討すること。",
+        "en": "An examination from the present of past decisions, records, events, or achievements."
+      }
+    },
+    {
+      "word": "recapitulative",
+      "note": {
+        "ja": "過去の内容・議論・発展を要約して振り返ることを表す形式的な語。",
+        "en": "A formal word for summarizing and reviewing earlier material, discussion, or development."
+      }
+    },
+    {
+      "word": "retroactive",
+      "note": {
+        "ja": "過去を振り返るだけでなく、法律・規則などの効果を過去へ及ぼすことを強調する。",
+        "en": "Emphasizes that a law, rule, or change operates upon earlier acts or periods rather than merely reviewing them."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "retrospektiv / rückblickend / Retrospektive",
+    "it": "retrospettivo / retrospettiva",
+    "fr": "rétrospectif / rétrospective",
+    "es": "retrospectivo / retrospectiva"
+  },
+  "collocations": {
+    "ja": [
+      "a retrospective study — 後ろ向き研究",
+      "a retrospective analysis — 回顧的分析",
+      "a retrospective review — 過去にさかのぼる検討",
+      "a retrospective assessment — 事後的評価",
+      "a retrospective judgment — 過去を振り返った判断",
+      "retrospective data — 過去の記録から得たデータ",
+      "retrospective legislation — 遡及的な法律",
+      "retrospective effect — 遡及的効果",
+      "a retrospective exhibition — 回顧展",
+      "a major retrospective — 大規模な回顧展",
+      "a retrospective on an artist — ある芸術家の回顧展",
+      "apply a rule retrospectively — 規則を遡及的に適用する"
+    ],
+    "en": [
+      "a retrospective study",
+      "a retrospective analysis",
+      "a retrospective review",
+      "a retrospective assessment",
+      "a retrospective judgment",
+      "retrospective data",
+      "retrospective legislation",
+      "retrospective effect",
+      "a retrospective exhibition",
+      "a major retrospective",
+      "a retrospective on an artist",
+      "apply a rule retrospectively"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The hospital conducted a retrospective study using ten years of patient records. — その病院は10年分の患者記録を用いて後ろ向き研究を実施した。",
+      "A retrospective analysis revealed several weaknesses in the original procedure. — 過去にさかのぼる分析によって、当初の手続きにいくつかの弱点が明らかになった。",
+      "The museum organized a major retrospective of the painter’s work. — その美術館は、その画家の作品を集めた大規模な回顧展を開催した。",
+      "The amendment should not be given retrospective effect unless the legislation clearly requires it. — 法律が明確に求めていない限り、その改正に遡及的効果を与えるべきではない。",
+      "A retrospective assessment of inventive step must avoid using knowledge of the patented invention as a roadmap to reconstruct it from the prior art. — 進歩性を事後的に評価する際には、特許発明の知識を手掛かりとして先行技術から発明を再構成することを避けなければならない。"
+    ],
+    "en": [
+      "The hospital conducted a retrospective study using ten years of patient records.",
+      "A retrospective analysis revealed several weaknesses in the original procedure.",
+      "The museum organized a major retrospective of the painter’s work.",
+      "The amendment should not be given retrospective effect unless the legislation clearly requires it.",
+      "A retrospective assessment of inventive step must avoid using knowledge of the patented invention as a roadmap to reconstruct it from the prior art."
+    ]
+  }
+},
+{
+  "id": "a_priori",
+  "sid": "2026-01355",
+  "word": "a priori",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "adverb",
+    "Latin phrase",
+    "philosophy",
+    "epistemology",
+    "logic",
+    "reasoning",
+    "knowledge",
+    "assumption",
+    "theory",
+    "academic",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / adverb",
+    "forms": {
+      "base": "a priori",
+      "opposite": "a posteriori",
+      "latin_source": "a priori",
+      "comparative": "not normally compared",
+      "superlative": "not normally compared"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a priori knowledge / justification",
+      "an a priori argument",
+      "an a priori judgment",
+      "an a priori proposition / truth",
+      "a priori reasoning",
+      "an a priori assumption",
+      "know something a priori",
+      "reason a priori from + principle",
+      "be justified a priori",
+      "a priori rather than a posteriori"
+    ],
+    "usage": {
+      "adjective": "Before a noun, a priori describes knowledge, justification, or reasoning independent of particular empirical experience.",
+      "adverb": "As an adverb, it means through reason or principle without relying on specific observation: The conclusion cannot be known a priori.",
+      "article": "Use an before the phrase when it modifies a singular countable noun: an a priori assumption.",
+      "philosophy": "The philosophical distinction concerns the basis of justification rather than the chronological order in which a belief was formed.",
+      "not_innate": "A priori knowledge is not necessarily innate; a person may acquire the concepts needed for such reasoning through experience.",
+      "not_obvious": "A priori does not necessarily mean self-evident, obvious, analytic, or necessarily true.",
+      "general_use": "Outside philosophy, the phrase may mean assumed in advance or determined from theory before examining the particular facts.",
+      "evaluation": "An a priori assumption may be criticized as unsupported when it improperly replaces examination of available evidence.",
+      "hyphenation": "The phrase is normally written as two words without a hyphen."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌeɪ praɪˈɔːraɪ/",
+      "uk": "/ˌeɪ praɪˈɔːraɪ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "個別の経験・観察・実験的証拠に依存せずに知られる",
+      "論理・定義・原理などに基づいて導かれる",
+      "事実や結果を調査する前に前提として置かれた",
+      "経験的検証よりも理論的推論に基づく",
+      "副詞として、先験的に、あらかじめ"
+    ],
+    "en": [
+      "knowable independently of particular experience, observation, or experiment",
+      "derived from logic, definition, or general principle",
+      "assumed before the relevant facts or results have been examined",
+      "based on theoretical reasoning rather than empirical investigation",
+      "as an adverb, independently of experience or in advance"
+    ]
+  },
+  "nuance": {
+    "ja": "a priori は認識論において、ある信念の正当化が個別の経験的証拠に依存しないことを表す。例えば、ある語の意味と論理規則を理解していれば、具体的な物を観察せずに判断できる命題は a priori とされ得る。反対語の a posteriori は、観察・測定・経験などに基づいて知られることを表す。この区別は知識を得た時期ではなく、その正当化の根拠に関する。また、a priori は必ずしも innate「生得的」、obvious「自明な」、analytic「分析的」、necessary「必然的」と同義ではない。一般的な文章では、an a priori assumption が「事実を調べる前から置かれた前提」を意味し、証拠を無視した先入観として批判されることもある。",
+    "en": "In epistemology, a priori describes a belief whose justification does not depend on particular empirical evidence. A proposition that can be established from understood concepts and logical principles without observing specific objects may qualify as a priori. Its opposite, a posteriori, concerns knowledge based on observation, measurement, or experience. The distinction concerns the basis of justification rather than the time at which the belief was acquired. A priori is not automatically synonymous with innate, obvious, analytic, or necessary. In broader writing, an a priori assumption may mean a position adopted before the facts were examined and may be criticized as a prejudice or unsupported presumption."
+  },
+  "minimal": {
+    "ja": [
+      "a priori：個別の経験的観察に依存せず、論理・定義・原理などに基づいて知られる。",
+      "a posteriori：経験・観察・実験的証拠に基づいて知られる、または正当化される。",
+      "deductive：一般的な前提・規則から論理的に個別の結論を導く。",
+      "inductive：個別の観察例から一般的な結論を導く。",
+      "theoretical：実際の観察・応用より、理論・抽象的原理に関する。",
+      "empirical：観察・実験・経験から得られた証拠に基づく。",
+      "preconceived：十分な証拠を調べる前から形成されている。",
+      "axiomatic：証明を要しない公理として受け入れられている。"
+    ],
+    "en": [
+      "a priori describes knowledge justified independently of particular empirical observations.",
+      "a posteriori describes knowledge justified through experience, observation, or experimental evidence.",
+      "deductive reasoning derives a particular conclusion logically from general premises or rules.",
+      "inductive reasoning derives a broader generalization from particular observations.",
+      "theoretical relates to abstract principles or models rather than direct observation or application.",
+      "empirical means based on evidence obtained through observation, experiment, or experience.",
+      "preconceived describes an idea formed before sufficient evidence has been examined.",
+      "axiomatic describes something accepted as a foundational principle without proof."
+    ]
+  },
+  "etymology": {
+    "ja": "a priori は中世ラテン語の句で、a「～から」と priori「前のもの、先にあるもの」から成り、文字どおりには「先にあるものから」を意味する。priori は prior「より前の、先行する」の奪格形である。スコラ哲学では原因・原理から結果へ向かう論証を表し、後に経験から独立した知識・正当化を表す認識論上の用語として定着した。反対語は a posteriori「後に来るものから」である。",
+    "en": "A priori is a Medieval Latin phrase formed from a, from, and priori, the ablative form of prior, earlier or preceding. It therefore literally means from what comes before. In scholastic philosophy, it described reasoning from causes or principles toward effects. It later became established in epistemology for knowledge or justification independent of experience. Its conventional opposite is a posteriori, from what comes later."
+  },
+  "synonyms": [
+    {
+      "word": "non-empirical",
+      "note": {
+        "ja": "観察・実験から得られた証拠に依存しないことを直接表す学術的な語。",
+        "en": "An academic term directly indicating independence from evidence obtained through observation or experiment."
+      }
+    },
+    {
+      "word": "reason-based",
+      "note": {
+        "ja": "個別の観察より、論理や理性的推論を根拠とすることを平易に表す。",
+        "en": "A plain expression for something based on logic or rational inference rather than particular observation."
+      }
+    },
+    {
+      "word": "deductive",
+      "note": {
+        "ja": "前提・一般原則から論理的な結論を導く推論を表すが、a priori と完全には一致しない。",
+        "en": "Describes reasoning from premises or general principles to a logical conclusion, though it is not fully synonymous with a priori."
+      }
+    },
+    {
+      "word": "in advance",
+      "note": {
+        "ja": "一般的用法の a priori に近く、事実や結果を確認する前にという意味を表す。",
+        "en": "Corresponds to the broader use of a priori meaning before the particular facts or results are known."
+      }
+    },
+    {
+      "word": "preconceived",
+      "note": {
+        "ja": "証拠を十分に検討する前から形成された考えを表し、通常は批判的である。",
+        "en": "Describes an idea formed before adequate examination of the evidence and is normally critical."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "a priori / erfahrungsunabhängig / von vornherein",
+    "it": "a priori",
+    "fr": "a priori / indépendamment de l’expérience",
+    "es": "a priori"
+  },
+  "collocations": {
+    "ja": [
+      "a priori knowledge — 経験から独立した知識",
+      "a priori justification — 経験に依存しない正当化",
+      "an a priori argument — 原理・論理に基づく議論",
+      "an a priori judgment — 先験的判断",
+      "an a priori proposition — 経験に依存せず知られる命題",
+      "an a priori truth — 先験的に知られる真理",
+      "a priori reasoning — 先験的推論",
+      "an a priori assumption — あらかじめ置かれた前提",
+      "an a priori principle — 経験に先立つ原理",
+      "know something a priori — 何かを経験に依存せず知る",
+      "reject something a priori — 何かを初めから排除する",
+      "a priori and a posteriori — ア・プリオリとア・ポステリオリ"
+    ],
+    "en": [
+      "a priori knowledge",
+      "a priori justification",
+      "an a priori argument",
+      "an a priori judgment",
+      "an a priori proposition",
+      "an a priori truth",
+      "a priori reasoning",
+      "an a priori assumption",
+      "an a priori principle",
+      "know something a priori",
+      "reject something a priori",
+      "a priori and a posteriori"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The conclusion follows a priori from the definitions and the rules of logic. — その結論は、定義と論理規則から経験に依存せず導かれる。",
+      "We cannot know a priori how consumers will respond to the new product. — 消費者が新製品にどう反応するかを、経験的調査なしにあらかじめ知ることはできない。",
+      "The researcher tested the assumption instead of accepting it a priori. — その研究者は前提を無条件に受け入れず、実際に検証した。",
+      "An a priori model may provide useful predictions, but its assumptions must still be examined carefully. — 理論先行のモデルは有用な予測を与え得るが、その前提はなお慎重に検討しなければならない。",
+      "A patent claim should not be treated a priori as broad or narrow merely because it contains a particular technical term. — 特許請求項に特定の技術用語が含まれるというだけで、その範囲が広い、または狭いと初めから決めつけるべきではない。"
+    ],
+    "en": [
+      "The conclusion follows a priori from the definitions and the rules of logic.",
+      "We cannot know a priori how consumers will respond to the new product.",
+      "The researcher tested the assumption instead of accepting it a priori.",
+      "An a priori model may provide useful predictions, but its assumptions must still be examined carefully.",
+      "A patent claim should not be treated a priori as broad or narrow merely because it contains a particular technical term."
+    ]
+  }
+},
+{
+  "id": "prospective",
+  "sid": "2026-01356",
+  "word": "prospective",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "future",
+    "potential",
+    "expected",
+    "applicant",
+    "customer",
+    "employee",
+    "buyer",
+    "research",
+    "medicine",
+    "legal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "prospective",
+      "comparative": "more prospective",
+      "superlative": "most prospective",
+      "adverb": "prospectively",
+      "related_noun": "prospect",
+      "contrast": "retrospective"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a prospective + buyer / customer / employer",
+      "a prospective employee / student / candidate",
+      "a prospective study",
+      "prospective data collection",
+      "a prospective assessment of + noun",
+      "prospective application / effect",
+      "apply a rule prospectively",
+      "identify / attract prospective customers",
+      "provide information to prospective buyers",
+      "prospective rather than retrospective"
+    ],
+    "usage": {
+      "future_status": "Before a person noun, prospective means expected, intending, or likely to acquire a particular future status: a prospective buyer.",
+      "forward_looking": "It can describe an analysis, policy, or assessment directed toward future events or consequences.",
+      "research": "A prospective study enrolls or identifies subjects and follows them forward to observe later exposures, events, or outcomes.",
+      "law": "Prospective application means applying a law or ruling to future conduct or events rather than altering the legal consequences of completed past events.",
+      "potential_distinction": "Potential broadly means possible, whereas prospective often suggests that the person or event is specifically contemplated or reasonably expected.",
+      "person_reference": "Prospective commonly modifies buyer, customer, employee, employer, student, candidate, parent, or licensee.",
+      "comparison": "Comparative forms are grammatically possible but uncommon; more promising or more likely is often clearer.",
+      "false_friend": "Prospective means future or likely, while perspective means a viewpoint or way of seeing something."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prəˈspektɪv/",
+      "uk": "/prəˈspektɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "将来ある地位・役割に就く可能性が高い、見込みの",
+      "購入・契約・応募などを検討している",
+      "将来の出来事・結果を見越した、前向きの",
+      "研究開始後に対象を将来へ向かって追跡する",
+      "法律・規則などを施行後の行為・事実に適用する"
+    ],
+    "en": [
+      "expected or likely to acquire a particular status or role in the future",
+      "considering a purchase, contract, application, or other course of action",
+      "directed toward or concerned with future events and consequences",
+      "for a study, following subjects forward after their selection or enrollment",
+      "for a law or rule, applying to future conduct or events"
+    ]
+  },
+  "nuance": {
+    "ja": "prospective は、まだ現実には成立していないが、将来そうなることが具体的に想定されている人・地位・出来事を表す。a prospective buyer は単に購入能力がある人ではなく、実際に購入を検討している見込み客である。potential は可能性を広く表すのに対し、prospective は将来の地位・取引がより具体的に見込まれている場合に使われやすい。研究では、prospective study が対象を研究開始後の将来へ向かって追跡するのに対し、retrospective study は既存の記録などを用いて過去を調査する。法律では prospective application が将来の事案への適用を表し、過去の出来事へ効果を及ぼす retrospective または retroactive application と対比される。perspective「視点」とは綴り・意味が異なる。",
+    "en": "Prospective describes a person, status, or event that does not yet exist in its contemplated form but is specifically expected or under consideration. A prospective buyer is not merely someone capable of buying; the person is considering a purchase. Potential expresses possibility broadly, while prospective more readily suggests a contemplated future role or transaction. In research, a prospective study follows subjects or events forward after selection or enrollment, whereas a retrospective study investigates the past through existing records or other evidence. In law, prospective application concerns future cases or conduct and contrasts with retrospective or retroactive operation affecting earlier events. Prospective must also be distinguished from perspective, which means a viewpoint."
+  },
+  "minimal": {
+    "ja": [
+      "prospective：将来そうなると具体的に見込まれる、または将来へ向けて行われる。",
+      "potential：実現する能力・可能性を持つが、具体的に予定されているとは限らない。",
+      "future：現在より後の時期に属することを表す最も一般的な語。",
+      "would-be：ある地位・職業などを得ようとしているが、まだ実現していない。",
+      "prospective study：対象を選定した後、将来へ向かって追跡する研究。",
+      "retrospective：現在から過去を振り返って分析・評価する。",
+      "forward-looking：将来の必要性・変化・機会を積極的に考慮する。",
+      "perspective：物事を見る立場・観点。prospective とは別語。"
+    ],
+    "en": [
+      "prospective describes something specifically expected in the future or directed toward future events.",
+      "potential describes a capacity or possibility that may never develop into an actual event or status.",
+      "future is the most general adjective for something belonging to a time after the present.",
+      "would-be describes someone trying or wishing to attain a status that has not yet been achieved.",
+      "a prospective study follows selected subjects forward to observe later events or outcomes.",
+      "retrospective means looking backward from the present to analyze or evaluate the past.",
+      "forward-looking means actively considering future needs, developments, or opportunities.",
+      "perspective means a viewpoint or manner of seeing something and is distinct from prospective."
+    ]
+  },
+  "etymology": {
+    "ja": "prospective はラテン語 prospectivus「前方を見ることに関する」に由来し、その基礎にある prospicere は pro-「前方へ」と specere「見る」から成る。もともとの「前を見る」というイメージから、将来を見越した、または将来そうなると予想されるという意味が発達した。prospect「見込み・展望」、retrospective「過去を振り返る」、inspect「調べる」、spectator「観客」なども、見ることを表す同じ語根を持つ。",
+    "en": "Prospective derives from Latin prospectivus, relating to looking forward, based on prospicere, to look forward. Prospicere was formed from pro-, forward, and specere, to look. The image of looking ahead developed into the senses concerned with future events and likely to attain a future status. Prospect, retrospective, inspect, and spectator share the same root relating to sight."
+  },
+  "synonyms": [
+    {
+      "word": "potential",
+      "note": {
+        "ja": "将来実現する可能性・能力があることを広く表すが、具体的な予定や意思は必要としない。",
+        "en": "Broadly indicates a capacity or possibility of future realization without requiring a specific plan or intention."
+      }
+    },
+    {
+      "word": "expected",
+      "note": {
+        "ja": "利用可能な情報・予定・予測から、将来生じると考えられている。",
+        "en": "Considered likely to occur in the future on the basis of available information, plans, or predictions."
+      }
+    },
+    {
+      "word": "anticipated",
+      "note": {
+        "ja": "将来生じると予想され、あらかじめ考慮されている。",
+        "en": "Expected to occur and taken into consideration in advance."
+      }
+    },
+    {
+      "word": "future",
+      "note": {
+        "ja": "現在より後に存在・発生することを表す一般語で、実現可能性の程度は示さない。",
+        "en": "A general adjective for something existing or occurring after the present without indicating its degree of likelihood."
+      }
+    },
+    {
+      "word": "forward-looking",
+      "note": {
+        "ja": "将来の変化・必要性・機会を考慮する進歩的な姿勢を表すことが多い。",
+        "en": "Often positively describes an approach that considers future changes, needs, and opportunities."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "künftig / voraussichtlich / prospektiv",
+    "it": "potenziale / futuro / prospettico",
+    "fr": "potentiel / futur / prospectif",
+    "es": "potencial / futuro / prospectivo"
+  },
+  "collocations": {
+    "ja": [
+      "a prospective buyer — 購入見込者",
+      "a prospective customer — 見込み客",
+      "a prospective employer — 将来の雇用主候補",
+      "a prospective employee — 採用候補者",
+      "a prospective student — 入学希望者",
+      "a prospective candidate — 候補となり得る人",
+      "a prospective licensee — ライセンシー候補",
+      "a prospective study — 前向き研究",
+      "prospective data collection — 前向きのデータ収集",
+      "a prospective assessment — 将来を見越した評価",
+      "prospective application — 将来に向けた適用",
+      "apply a rule prospectively — 規則を将来に向かって適用する"
+    ],
+    "en": [
+      "a prospective buyer",
+      "a prospective customer",
+      "a prospective employer",
+      "a prospective employee",
+      "a prospective student",
+      "a prospective candidate",
+      "a prospective licensee",
+      "a prospective study",
+      "prospective data collection",
+      "a prospective assessment",
+      "prospective application",
+      "apply a rule prospectively"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The agent arranged a viewing for several prospective buyers. — 仲介業者は複数の購入希望者のために内覧を手配した。",
+      "Prospective employees must provide proof of their qualifications. — 採用候補者は資格を証明する書類を提出しなければならない。",
+      "The researchers conducted a prospective study and followed the participants for five years. — 研究者たちは前向き研究を実施し、参加者を5年間追跡した。",
+      "The court decided that the new rule should apply prospectively rather than retrospectively. — 裁判所は、新しい規則を遡及的ではなく将来に向かって適用すべきだと判断した。",
+      "A prospective patent licensee should examine the ownership, validity, territorial scope, and remaining term of the relevant patents before signing the agreement. — 特許のライセンシー候補は、契約へ署名する前に、対象特許の権利帰属、有効性、地域的範囲および残存期間を確認すべきである。"
+    ],
+    "en": [
+      "The agent arranged a viewing for several prospective buyers.",
+      "Prospective employees must provide proof of their qualifications.",
+      "The researchers conducted a prospective study and followed the participants for five years.",
+      "The court decided that the new rule should apply prospectively rather than retrospectively.",
+      "A prospective patent licensee should examine the ownership, validity, territorial scope, and remaining term of the relevant patents before signing the agreement."
+    ]
+  }
 }
 ]
