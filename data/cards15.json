@@ -1,5 +1,204 @@
 [
 {
+  "id": "heresy",
+  "sid": "2026-01389",
+  "word": "heresy",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "religion",
+    "doctrine",
+    "belief",
+    "orthodoxy",
+    "dissent",
+    "history",
+    "Christianity",
+    "controversy",
+    "figurative",
+    "formal",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable or uncountable",
+    "plural": "heresies",
+    "forms": {
+      "singular": "heresy",
+      "plural": "heresies",
+      "person_noun": "heretic",
+      "adjective": "heretical",
+      "adverb": "heretically",
+      "related_noun": "hereticism, rare"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "heresy against + doctrine / church",
+      "the heresy of + belief / proposition",
+      "be accused / convicted of heresy",
+      "condemn something as heresy",
+      "declare / pronounce something heresy",
+      "commit / preach / teach heresy",
+      "suppress / prosecute heresy",
+      "a religious / theological heresy",
+      "be considered economic / political heresy",
+      "border on heresy"
+    ],
+    "usage": {
+      "religious": "In its strict religious sense, heresy is a belief or doctrine that contradicts the officially accepted teaching of a church or religious community.",
+      "historical_scope": "The precise definition and consequences of heresy have varied among religions, denominations, institutions, and historical periods.",
+      "countability": "Uncountable heresy denotes the general offense or concept. A heresy or heresies denotes particular rejected doctrines.",
+      "person": "A person who holds or teaches heretical beliefs is a heretic.",
+      "figurative": "Figuratively, heresy means an opinion radically opposed to the accepted assumptions of a profession, political movement, art form, or other community.",
+      "evaluation": "In figurative use, the word can be humorous, provocative, or critical rather than literally religious.",
+      "distinction": "Heresy differs from apostasy, which means abandoning or renouncing a religion, and from blasphemy, which involves insulting or showing contempt toward the sacred.",
+      "register": "The religious use is formal and historical or theological. Figurative use is common in educated commentary."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈherəsi/",
+      "uk": "/ˈherəsi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "宗教団体の正統教義に反する信仰・教説、異端",
+      "正統教義に反する考えを唱えること、異端の罪",
+      "歴史上、宗教当局によって禁止・処罰の対象とされた教説",
+      "比喩的に、ある分野の通説・原則へ根本的に反する考え",
+      "集団内で受け入れ難いと見なされる、型破りで挑発的な意見"
+    ],
+    "en": [
+      "a religious belief or doctrine contrary to the officially accepted teaching of a religious body",
+      "the offense of holding or teaching beliefs rejected as contrary to orthodox doctrine",
+      "historically, a doctrine prohibited or punished by religious authorities",
+      "figuratively, an idea fundamentally opposed to the accepted principles of a field",
+      "an unconventional or provocative opinion regarded as unacceptable within a group"
+    ]
+  },
+  "nuance": {
+    "ja": "heresy は、単に珍しい宗教的意見ではなく、ある宗教共同体が正統と認める教義に反すると判断された教説を指す。何が heresy に当たるかは、宗教・宗派・時代によって異なるため、歴史的文脈を離れて一律に判断することはできない。apostasy は信仰そのものを捨てる「棄教」、blasphemy は神聖なものを侮辱する「冒瀆」であり、heresy とは区別される。現代では比喩的用法も多く、Questioning unlimited economic growth was once treated as heresy. のように、学問・政治・芸術・職業分野の定説へ反する意見を表す。この用法では、話者がその意見を本当に誤りだと考えているとは限らず、むしろ既成概念への大胆な挑戦を面白く強調する場合がある。",
+    "en": "Heresy does not simply mean an unusual religious opinion. It refers to a teaching judged contrary to the doctrine that a particular religious community accepts as orthodox. What qualifies as heresy depends on the religion, denomination, institution, and historical period, so it cannot be classified uniformly outside its context. Apostasy is the abandonment or renunciation of faith, while blasphemy involves insulting or showing contempt toward something sacred. Modern English also uses heresy figuratively for an opinion opposed to the established assumptions of economics, politics, art, science, or a profession. In this use, the speaker need not believe that the opinion is actually wrong and may instead be emphasizing its bold challenge to convention."
+  },
+  "minimal": {
+    "ja": [
+      "heresy：宗教の正統教義に反する教説。比喩的には、ある分野の定説への根本的な反対。",
+      "heterodoxy：一般に認められた正統的見解とは異なる考え。heresy より中立的。",
+      "apostasy：それまで属していた宗教・信仰を放棄・否認すること、棄教。",
+      "blasphemy：神・宗教・神聖なものを侮辱・冒瀆する言動。",
+      "schism：宗教団体・政党などが教義・方針の対立によって分裂すること。",
+      "dissent：公認された意見・多数派・権威に反対すること。",
+      "heresy, figurative：学問・業界・文化などの常識に真っ向から反する意見。",
+      "heresay：標準的な英単語ではない綴り。伝聞証拠は hearsay。"
+    ],
+    "en": [
+      "heresy is doctrine contrary to religious orthodoxy or, figuratively, an idea opposed to accepted principles.",
+      "heterodoxy is departure from an accepted orthodox view and is generally more neutral than heresy.",
+      "apostasy is the abandonment or renunciation of a religion previously professed.",
+      "blasphemy is speech or conduct showing contempt or insult toward a deity, religion, or sacred matter.",
+      "schism is a formal division within a religious body, political party, or organization.",
+      "dissent is disagreement with an official, majority, or authoritative position.",
+      "figurative heresy is an opinion directly challenging the conventional wisdom of a profession or culture.",
+      "heresay is not the standard spelling; hearsay is the legal and general term for secondhand information."
+    ]
+  },
+  "etymology": {
+    "ja": "heresy は古フランス語 heresie と後期ラテン語 haeresis を経て、ギリシャ語 hairesis「選択、学派、思想体系」に由来する。hairesis は haireisthai「自ら選ぶ」に関係する。ギリシャ語では当初、特定の思想・学派を選ぶこと自体に必ずしも否定的意味はなかった。しかし初期キリスト教の教義論争を通じ、教会が正統と認めない教説や、それを選び取る行為を表す否定的意味が発達した。その後、英語では宗教以外の分野でも、支配的な考えに反する意見を比喩的に heresy と呼ぶようになった。",
+    "en": "Heresy entered English through Old French heresie and Late Latin haeresis from Greek hairesis, meaning choice, school of thought, or philosophical system. Hairesis is related to haireisthai, to choose for oneself. In Greek, belonging to a particular school did not necessarily carry a negative meaning. Through doctrinal disputes in early Christianity, however, the term developed the condemnatory sense of teaching rejected by the church as contrary to orthodoxy. English later extended heresy beyond religion to ideas that challenge the dominant assumptions of any field."
+  },
+  "synonyms": [
+    {
+      "word": "heterodoxy",
+      "note": {
+        "ja": "宗教・哲学などで、正統とされる教説とは異なる立場を表す、比較的中立的な語。",
+        "en": "A relatively neutral term for a position differing from accepted orthodoxy in religion or philosophy."
+      }
+    },
+    {
+      "word": "unorthodox belief",
+      "note": {
+        "ja": "一般的・公認の教義や見解に従わない考えを、強い断罪を避けて表す。",
+        "en": "Describes a belief departing from an accepted doctrine or view without necessarily condemning it strongly."
+      }
+    },
+    {
+      "word": "false doctrine",
+      "note": {
+        "ja": "宗教的・思想的な教えを誤りと評価して表す直接的な語。",
+        "en": "Directly describes a religious or ideological teaching judged to be erroneous."
+      }
+    },
+    {
+      "word": "dissent",
+      "note": {
+        "ja": "宗教・政治・組織などの公認された立場や多数派の意見に反対すること。",
+        "en": "Means disagreement with an official or majority position in religion, politics, or an organization."
+      }
+    },
+    {
+      "word": "doctrinal deviation",
+      "note": {
+        "ja": "公認された教義から外れていることを、分析的・比較的中立的に表す。",
+        "en": "An analytical and relatively neutral expression for departure from an accepted body of doctrine."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Häresie / Ketzerei",
+    "it": "eresia",
+    "fr": "hérésie",
+    "es": "herejía"
+  },
+  "collocations": {
+    "ja": [
+      "religious heresy — 宗教上の異端",
+      "theological heresy — 神学上の異端",
+      "a dangerous heresy — 危険視される異端思想",
+      "the heresy of denying a doctrine — 教義を否定するという異端",
+      "be accused of heresy — 異端の罪で告発される",
+      "be convicted of heresy — 異端の罪で有罪とされる",
+      "condemn something as heresy — 何かを異端として断罪する",
+      "declare something heresy — 何かを異端と宣言する",
+      "preach heresy — 異端の教説を説く",
+      "suppress heresy — 異端思想を弾圧する",
+      "political heresy — 政治上の定説に反する考え",
+      "border on heresy — 異端に近い、常識外れに見える"
+    ],
+    "en": [
+      "religious heresy",
+      "theological heresy",
+      "a dangerous heresy",
+      "the heresy of denying a doctrine",
+      "be accused of heresy",
+      "be convicted of heresy",
+      "condemn something as heresy",
+      "declare something heresy",
+      "preach heresy",
+      "suppress heresy",
+      "political heresy",
+      "border on heresy"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The church condemned the teaching as heresy. — 教会はその教説を異端として断罪した。",
+      "Several scholars were accused of heresy for challenging the accepted doctrine. — 数人の学者が、公認された教義に異議を唱えたため異端の罪で告発された。",
+      "Heresy and apostasy were treated as distinct offenses in that legal system. — その法制度では、異端と棄教は異なる犯罪として扱われていた。",
+      "At the time, suggesting that the company should abandon its most profitable product sounded like business heresy. — 当時、その会社が最も収益性の高い製品を廃止すべきだと提案することは、ビジネス上の異端に聞こえた。",
+      "In patent practice, questioning a familiar drafting convention may initially appear to be heresy, but the wording should ultimately be judged by its legal effect rather than tradition alone. — 特許実務では、定着した起草慣行に疑問を呈することは当初、異端のように見えるかもしれないが、文言は最終的に伝統だけでなく、その法的効果によって評価されるべきである。"
+    ],
+    "en": [
+      "The church condemned the teaching as heresy.",
+      "Several scholars were accused of heresy for challenging the accepted doctrine.",
+      "Heresy and apostasy were treated as distinct offenses in that legal system.",
+      "At the time, suggesting that the company should abandon its most profitable product sounded like business heresy.",
+      "In patent practice, questioning a familiar drafting convention may initially appear to be heresy, but the wording should ultimately be judged by its legal effect rather than tradition alone."
+    ]
+  }
+},
+{
   "id": "sour-grapes",
   "sid": "2026-01390",
   "word": "sour grapes",
