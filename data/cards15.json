@@ -1,5 +1,206 @@
 [
 {
+  "id": "mushroom",
+  "sid": "2026-01381",
+  "word": "mushroom",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "fungus",
+    "food",
+    "nature",
+    "growth",
+    "expansion",
+    "shape",
+    "cloud",
+    "biology",
+    "cooking",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable as an individual fungus or food item; uncountable when treated as a food ingredient",
+    "plural": "mushrooms",
+    "forms": {
+      "noun_singular": "mushroom",
+      "noun_plural": "mushrooms",
+      "verb_base": "mushroom",
+      "third_person": "mushrooms",
+      "past": "mushroomed",
+      "past_participle": "mushroomed",
+      "gerund": "mushrooming",
+      "attributive": "mushroom",
+      "shape_adjective": "mushroom-shaped"
+    },
+    "transitivity": "mainly intransitive as a verb",
+    "patterns": [
+      "a wild / edible / poisonous mushroom",
+      "a mushroom grows",
+      "pick / gather / cultivate mushrooms",
+      "sliced / chopped mushroom",
+      "a mushroom cloud",
+      "mushroom into + noun",
+      "mushroom from + amount + to + amount",
+      "mushroom across / throughout + place",
+      "costs / demand / population mushrooms",
+      "a rapidly mushrooming + noun"
+    ],
+    "usage": {
+      "countability": "An individual mushroom is countable: a mushroom, several mushrooms. As a food or flavor, mushroom can be uncountable: mushroom soup.",
+      "biology": "In everyday language, mushroom usually refers to the visible fruiting body of certain fungi, especially one with a stalk and cap.",
+      "fungus": "Mushroom is not a scientific synonym for every fungus; molds, yeasts, and many other fungi are not normally called mushrooms.",
+      "food": "The word does not itself mean edible. Wild mushrooms should not be eaten unless reliably identified as safe.",
+      "verb": "As an intransitive verb, mushroom means to grow, spread, or increase extremely rapidly.",
+      "into": "Mushroom into emphasizes development into a much larger form or scale.",
+      "attributive": "Mushroom commonly modifies another noun: mushroom soup, mushroom cultivation, mushroom cloud."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈmʌʃruːm/; also /ˈmʌʃrʊm/",
+      "uk": "/ˈmʌʃruːm/; also /ˈmʌʃrʊm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "一般に傘と柄を持つ、菌類の目に見える子実体、キノコ",
+      "食材として用いられるマッシュルーム・キノコ類",
+      "キノコのような形をした物、特にキノコ雲",
+      "動詞として、規模・数・費用などが急速に増大する",
+      "動詞として、組織・建物・活動などが各地に急速に広がる"
+    ],
+    "en": [
+      "the visible fruiting body of certain fungi, typically having a stalk and cap",
+      "an edible fungus used as a food ingredient",
+      "something shaped like a mushroom, especially a mushroom cloud",
+      "as a verb, to increase extremely rapidly in size, number, cost, or importance",
+      "as a verb, to spread or appear rapidly across an area"
+    ]
+  },
+  "nuance": {
+    "ja": "mushroom は日常語では、傘と柄を持つ典型的なキノコ、または食用キノコ全般を指す。イギリス英語では mushroom が栽培・食用のもの、toadstool が野生または毒キノコという印象を伴うことがあるが、この区別は科学的な分類ではなく、一貫していない。fungus は菌類全体を表すため、カビ・酵母なども含み、mushroom より広い。動詞 mushroom は、キノコが短期間で突然現れ、大きくなるように、人口・費用・需要・企業などが「急増する」「急速に広がる」ことを表す。増加が望ましいか有害かは文脈によるが、制御しにくいほど急速な拡大を示唆する場合が多い。",
+    "en": "In everyday language, mushroom refers to the familiar stalk-and-cap fruiting body or more generally to edible mushrooms. In British usage, mushroom may sometimes suggest an edible or cultivated type, whereas toadstool may suggest a wild or poisonous one, but this distinction is neither scientific nor consistent. Fungus is the broader biological term and includes molds, yeasts, and organisms that do not produce structures commonly called mushrooms. As a verb, mushroom compares rapid growth or proliferation with the apparently sudden appearance of mushrooms. Whether the increase is beneficial or harmful depends on context, although the verb often suggests expansion so fast that it may be difficult to control."
+  },
+  "minimal": {
+    "ja": [
+      "mushroom：特定の菌類の子実体であるキノコ。または急速に増大・拡大する。",
+      "fungus：キノコ・カビ・酵母などを含む菌類全体を表す生物学的な語。",
+      "toadstool：典型的には野生・毒キノコを連想させる日常語だが、科学的分類ではない。",
+      "mold：食品・壁などに広がる、綿毛状または粉状に見える菌類。",
+      "yeast：発酵・製パンなどに使われる単細胞の菌類、酵母。",
+      "sprout：植物が芽を出す、または物事が突然各所に現れる。",
+      "proliferate：数・種類などが急速かつ大量に増える。比較的形式的。",
+      "skyrocket：価格・費用・数値などが極めて急激に上昇する。"
+    ],
+    "en": [
+      "mushroom is the fruiting body of certain fungi or, as a verb, means growing or spreading very rapidly.",
+      "fungus is the broad biological term covering mushrooms, molds, yeasts, and related organisms.",
+      "toadstool is an everyday term often suggesting a wild or poisonous mushroom but has no precise scientific definition.",
+      "mold is a fungus growing as a fuzzy or powdery layer on food, walls, or other material.",
+      "yeast is a single-celled fungus used in fermentation and baking.",
+      "sprout means beginning to grow or, figuratively, appearing suddenly in many places.",
+      "proliferate formally means increasing rapidly and extensively in number or variety.",
+      "skyrocket means rising extremely rapidly, especially of prices, costs, or numerical values."
+    ]
+  },
+  "etymology": {
+    "ja": "mushroom は中英語 musheron などの形を経て、アングロ・フランス語または古フランス語の mousseron「キノコ」に由来する。フランス語 mousseron のさらに古い起源については確定していないが、mousse「苔・泡」に関係する可能性が指摘されている。英語では当初キノコを表す名詞として使われ、キノコが短期間で突然成長して見えることから、16世紀以降、急速に成長・出現するという比喩的用法が発達した。現代では名詞・動詞のほか、mushroom cloud や mushroom-shaped のように形状を表す語としても用いられる。",
+    "en": "Mushroom entered English in Middle English forms such as musheron from Anglo-French or Old French mousseron, meaning a mushroom. The deeper origin of the French word is uncertain, though a connection with mousse, moss or foam, has been proposed. Initially used as a noun for the fungus, mushroom developed figurative verbal use from the apparently sudden and rapid growth of mushrooms. From the sixteenth century onward, it could describe something expanding or appearing quickly. It now also occurs in shape-related expressions such as mushroom cloud and mushroom-shaped."
+  },
+  "synonyms": [
+    {
+      "word": "fungus",
+      "note": {
+        "ja": "菌類を表す広い生物学的用語で、キノコだけでなくカビ・酵母なども含む。",
+        "en": "The broad biological term for organisms including mushrooms, molds, and yeasts."
+      }
+    },
+    {
+      "word": "toadstool",
+      "note": {
+        "ja": "野生または毒性のあるキノコを連想させやすいが、厳密な科学用語ではない。",
+        "en": "An everyday term often associated with a wild or poisonous mushroom but lacking a strict scientific meaning."
+      }
+    },
+    {
+      "word": "proliferate",
+      "note": {
+        "ja": "物・組織・細胞などが短期間に大量に増殖・拡散する。",
+        "en": "Means increasing or spreading extensively in a short period, especially in number or variety."
+      }
+    },
+    {
+      "word": "multiply",
+      "note": {
+        "ja": "人・物・問題などの数や量が大きく増える。",
+        "en": "Means increasing substantially in number or amount."
+      }
+    },
+    {
+      "word": "burgeon",
+      "note": {
+        "ja": "事業・需要・関心などが急速に成長・発展する、比較的形式的な語。",
+        "en": "A relatively formal verb for growing or developing rapidly, especially of business, demand, or interest."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Pilz / explosionsartig wachsen",
+    "it": "fungo / crescere rapidamente",
+    "fr": "champignon / pousser comme des champignons",
+    "es": "hongo / seta / proliferar rápidamente"
+  },
+  "collocations": {
+    "ja": [
+      "an edible mushroom — 食用キノコ",
+      "a poisonous mushroom — 毒キノコ",
+      "a wild mushroom — 野生のキノコ",
+      "a cultivated mushroom — 栽培キノコ",
+      "sliced mushrooms — 薄切りにしたキノコ",
+      "mushroom soup — キノコのスープ",
+      "mushroom cultivation — キノコ栽培",
+      "a mushroom cloud — キノコ雲",
+      "mushroom-shaped — キノコ状の",
+      "costs mushroom — 費用が急増する",
+      "demand mushrooms — 需要が急増する",
+      "mushroom into a major industry — 急成長して大産業になる"
+    ],
+    "en": [
+      "an edible mushroom",
+      "a poisonous mushroom",
+      "a wild mushroom",
+      "a cultivated mushroom",
+      "sliced mushrooms",
+      "mushroom soup",
+      "mushroom cultivation",
+      "a mushroom cloud",
+      "mushroom-shaped",
+      "costs mushroom",
+      "demand mushrooms",
+      "mushroom into a major industry"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She added sliced mushrooms to the sauce. — 彼女はソースに薄切りのキノコを加えた。",
+      "Never eat a wild mushroom unless it has been reliably identified as safe. — 安全であると確実に同定されていない野生のキノコは、決して食べてはいけない。",
+      "Small cafés have mushroomed throughout the neighborhood in recent years. — 近年、その地域の至る所で小さなカフェが急増した。",
+      "The project’s costs mushroomed after the company repeatedly changed the design. — 会社が設計を繰り返し変更したため、そのプロジェクトの費用は急増した。",
+      "Patent applications relating to mushroom-based packaging have mushroomed as companies search for alternatives to petroleum-derived plastics. — 企業が石油由来プラスチックの代替品を模索するなか、キノコ由来の包装材に関する特許出願が急増している。"
+    ],
+    "en": [
+      "She added sliced mushrooms to the sauce.",
+      "Never eat a wild mushroom unless it has been reliably identified as safe.",
+      "Small cafés have mushroomed throughout the neighborhood in recent years.",
+      "The project’s costs mushroomed after the company repeatedly changed the design.",
+      "Patent applications relating to mushroom-based packaging have mushroomed as companies search for alternatives to petroleum-derived plastics."
+    ]
+  }
+},
+{
   "id": "halfhearted",
   "sid": "2026-01382",
   "word": "halfhearted",
