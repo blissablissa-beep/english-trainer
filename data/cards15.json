@@ -1,5 +1,206 @@
 [
 {
+  "id": "novelty",
+  "sid": "2026-01397",
+  "word": "novelty",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "newness",
+    "originality",
+    "innovation",
+    "unusualness",
+    "product",
+    "entertainment",
+    "patent",
+    "prior art",
+    "intellectual property",
+    "legal",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable for the quality of being new; countable for a new or amusing object or experience",
+    "plural": "novelties",
+    "forms": {
+      "singular": "novelty",
+      "plural": "novelties",
+      "adjective": "novel",
+      "adverb": "novelly, rare",
+      "related_noun": "novelty item",
+      "legal_expression": "lack of novelty"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "the novelty of + noun / gerund",
+      "have / possess novelty",
+      "lose / retain its novelty",
+      "novelty wears off",
+      "a novelty for + person",
+      "a novelty item / product / gift",
+      "assess / establish novelty",
+      "destroy / negate novelty",
+      "lack novelty",
+      "a lack of novelty over + prior art"
+    ],
+    "usage": {
+      "newness": "As an uncountable noun, novelty means the quality of being new, original, unfamiliar, or unusual.",
+      "object": "As a countable noun, a novelty is an unusual, amusing, or newly introduced object, activity, or experience.",
+      "wear_off": "When the novelty wears off, something stops being exciting because it is no longer new or unfamiliar.",
+      "patent": "In patent law, novelty is a requirement that the claimed invention not already have been made available in the relevant prior art under the applicable law.",
+      "legal_scope": "The precise novelty test, relevant date, territorial scope, disclosure rules, and available exceptions depend on the governing jurisdiction.",
+      "contrast": "Novelty concerns newness. Inventive step or nonobviousness separately concerns whether the advance would have been obvious.",
+      "adjective": "The related adjective novel means new and different, not a work of fiction when used adjectivally.",
+      "register": "The general senses are neutral, while the patent sense is technical and legal."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈnɑːvəlti/",
+      "uk": "/ˈnɒvəlti/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "新しいこと・独創的であること、新規性",
+      "見慣れず珍しいことによる面白さ・新鮮味",
+      "新奇で面白い物・体験・娯楽",
+      "実用性より珍しさや面白さを売りにする小物・商品",
+      "特許法上、発明が先行技術に開示されていないという要件",
+      "新しさが薄れるまでの一時的な魅力"
+    ],
+    "en": [
+      "the quality of being new, original, or different from what existed before",
+      "interest or pleasure arising from something being unfamiliar or unusual",
+      "a new, unusual, or entertaining object, activity, or experience",
+      "a small product sold principally for amusement or unusual appearance",
+      "in patent law, the requirement that an invention not already be disclosed in the relevant prior art",
+      "the temporary appeal that something possesses while it remains new"
+    ]
+  },
+  "nuance": {
+    "ja": "novelty には、①新しさ・新規性、②珍しい物や体験、③新しいために感じられる一時的な面白さ、という主要な意味がある。The novelty soon wore off. なら、最初は新鮮で面白かったが、慣れるにつれて魅力が薄れたという意味である。a novelty item は、実用性より珍しさ・冗談・装飾性を重視した商品を指すことが多い。特許法上の novelty は専門的な「新規性」であり、単に発明が珍しい、独創的、商業的に新しいという意味ではない。一般に、特許請求された発明の全構成が基準となる先行開示から直接かつ明確に把握できる場合、新規性が問題となる。一方、複数の資料を組み合わせた容易想到性の議論は、通常、進歩性・非自明性の問題であり、新規性とは区別される。",
+    "en": "Novelty has three principal senses: newness or originality, an unusual object or experience, and the temporary interest created by unfamiliarity. The novelty soon wore off means that something initially seemed exciting but became less appealing through familiarity. A novelty item is commonly sold more for amusement, unusual appearance, or decoration than for serious practical value. In patent law, novelty is a technical requirement and does not merely mean that an invention seems unusual, creative, or commercially new. Broadly, novelty is at issue when all elements of a claimed invention can be derived from a relevant prior disclosure under the applicable standard. An argument based on combining multiple references more commonly concerns inventive step or nonobviousness and should be distinguished from novelty."
+  },
+  "minimal": {
+    "ja": [
+      "novelty：物事の新しさ・珍しさ。または特許法上の新規性。",
+      "originality：発想・作品が模倣ではなく、独自に生み出された性質。",
+      "innovation：新しい考え・方法・技術を実用的な変化として導入すること。",
+      "newness：単純に新しい状態・性質を表す中立的な語。",
+      "novelty item：珍しさ・面白さを主な価値とする小物・商品。",
+      "inventive step：先行技術から当業者が容易に想到できないという特許要件。",
+      "nonobviousness：主にアメリカ特許法で、発明が自明でないことを求める要件。",
+      "priority：複数の出願などの間で、どちらが先かを決定する時間的優先関係。"
+    ],
+    "en": [
+      "novelty is the quality of being new or unusual or, in patent law, the requirement of newness.",
+      "originality is the quality of being independently created rather than copied or imitative.",
+      "innovation is the introduction of a new idea, method, or technology as a practical change.",
+      "newness neutrally denotes the state or quality of being new.",
+      "a novelty item is a product valued mainly for its amusing or unusual character.",
+      "inventive step is the patent requirement that an invention not be obvious to the relevant skilled person.",
+      "nonobviousness is principally the American patent-law requirement that an invention not be obvious.",
+      "priority is the temporal precedence used to determine which of multiple claims or applications comes first."
+    ]
+  },
+  "etymology": {
+    "ja": "novelty は古フランス語 noveleté「新しさ、新しい物」を経て、ラテン語 novellus「若い、新しい」に由来する。novellus は novus「新しい」の指小形である。英語では当初、新しい状態・新奇な物を広く表し、そこから珍しさによる一時的な魅力や、面白い小物という意味が発達した。特許制度の発展に伴い、発明が既知でないことを表す専門用語としても定着した。novel「新しい、斬新な」と innovation の基礎にある novus も同じラテン語族に属する。小説を意味する novel も、もとは「新しい話」という発想から発達した。",
+    "en": "Novelty came through Old French noveleté, meaning newness or a new thing, from Latin novellus, young or new. Novellus was a diminutive of novus, new. In English, novelty initially referred broadly to the condition of being new or to something new and unusual. It subsequently developed the senses of temporary appeal through unfamiliarity and an amusing or unusual object. With the development of patent systems, it became established as the technical term for the requirement that an invention be new. Novel and the Latin base underlying innovation belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "newness",
+      "note": {
+        "ja": "物・状況・考えなどが新しいという状態を、評価をあまり加えず直接的に表す。",
+        "en": "Directly and neutrally describes the state of an object, situation, or idea being new."
+      }
+    },
+    {
+      "word": "originality",
+      "note": {
+        "ja": "作品・発想・方法などが模倣ではなく、独自性を持つことを強調する。",
+        "en": "Emphasizes that a work, idea, or method is independently conceived rather than imitative."
+      }
+    },
+    {
+      "word": "innovation",
+      "note": {
+        "ja": "新しい方法・製品・技術などを導入し、実際の改善や変化を生み出すこと。",
+        "en": "The introduction of a new method, product, or technology that produces practical change or improvement."
+      }
+    },
+    {
+      "word": "unfamiliarity",
+      "note": {
+        "ja": "人がまだ十分に知っておらず、慣れていないことから生じる新鮮さ・違和感。",
+        "en": "The quality of being insufficiently known or experienced and therefore seeming new or strange."
+      }
+    },
+    {
+      "word": "original feature",
+      "note": {
+        "ja": "従来の物には見られない、独自または新しい特徴。",
+        "en": "A distinctive or new feature not found in what previously existed."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Neuheit / Neuigkeitswert",
+    "it": "novità / novità brevettuale",
+    "fr": "nouveauté",
+    "es": "novedad"
+  },
+  "collocations": {
+    "ja": [
+      "the novelty of something — 何かの新しさ・珍しさ",
+      "a sense of novelty — 新鮮さを感じること",
+      "novelty value — 目新しさによる価値",
+      "the novelty wears off — 新鮮味が薄れる",
+      "lose its novelty — 目新しさを失う",
+      "a novelty item — 珍奇な小物・面白商品",
+      "a novelty gift — 面白さを狙った贈り物",
+      "assess novelty — 新規性を評価する",
+      "establish novelty — 新規性を立証・確認する",
+      "lack novelty — 新規性を欠く",
+      "destroy novelty — 新規性を喪失させる",
+      "a novelty search — 新規性調査"
+    ],
+    "en": [
+      "the novelty of something",
+      "a sense of novelty",
+      "novelty value",
+      "the novelty wears off",
+      "lose its novelty",
+      "a novelty item",
+      "a novelty gift",
+      "assess novelty",
+      "establish novelty",
+      "lack novelty",
+      "destroy novelty",
+      "a novelty search"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The children enjoyed the novelty of sleeping in a tent. — 子どもたちはテントで眠るという珍しい体験を楽しんだ。",
+      "Working from home was exciting at first, but the novelty soon wore off. — 在宅勤務は最初こそ新鮮だったが、その目新しさはすぐに薄れた。",
+      "The shop sells novelty gifts shaped like fruit and animals. — その店は果物や動物の形をした面白い贈答品を販売している。",
+      "The design attracted attention because of its novelty, although its practical value remained uncertain. — そのデザインは斬新さによって注目を集めたが、実用的な価値はなお不明だった。",
+      "The examiner concluded that the patent claim lacked novelty because every claimed element was disclosed in a single earlier publication. — 審査官は、請求されたすべての構成要素が一件の先行刊行物に開示されていたため、その特許請求項は新規性を欠くと判断した。"
+    ],
+    "en": [
+      "The children enjoyed the novelty of sleeping in a tent.",
+      "Working from home was exciting at first, but the novelty soon wore off.",
+      "The shop sells novelty gifts shaped like fruit and animals.",
+      "The design attracted attention because of its novelty, although its practical value remained uncertain.",
+      "The examiner concluded that the patent claim lacked novelty because every claimed element was disclosed in a single earlier publication."
+    ]
+  }
+},
+{
   "id": "nonobviousness",
   "sid": "2026-01398",
   "word": "nonobviousness",
