@@ -1,5 +1,203 @@
 [
 {
+  "id": "monetary",
+  "sid": "2026-01308",
+  "word": "monetary",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "money",
+    "currency",
+    "economics",
+    "monetary policy",
+    "central bank",
+    "interest rates",
+    "inflation",
+    "finance",
+    "damages",
+    "legal",
+    "business",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "monetary",
+      "comparative": "more monetary, uncommon",
+      "superlative": "most monetary, uncommon",
+      "noun": "money",
+      "related_noun": "monetarism",
+      "related_adjective": "monetarist",
+      "adverb": "monetarily"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "monetary + noun",
+      "monetary policy / system / authority",
+      "monetary expansion / tightening",
+      "monetary value / reward / compensation",
+      "in monetary terms",
+      "have monetary value",
+      "convert something into monetary terms",
+      "monetary and fiscal policy",
+      "for monetary purposes",
+      "a non-monetary benefit / remedy"
+    ],
+    "usage": {
+      "economic": "In economics, monetary commonly concerns money supply, credit, interest rates, currency, and central-bank policy.",
+      "value": "Monetary can also mean expressed, measured, or provided in money: monetary value or monetary compensation.",
+      "policy_contrast": "Monetary policy is conducted principally through central-bank measures, while fiscal policy concerns government taxation, spending, and borrowing.",
+      "financial_contrast": "Financial is broader and can concern banking, investment, corporate finance, or the management of funds generally.",
+      "attributive": "Monetary is used mainly before a noun, although predicative use is possible in expressions such as the benefit was monetary.",
+      "comparison": "Because monetary normally classifies a type rather than a degree, comparative and superlative forms are uncommon.",
+      "register": "The word is formal and especially common in economics, banking, law, government, and business."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈmɑːnəteri/",
+      "uk": "/ˈmʌnɪtəri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "貨幣・通貨または貨幣制度に関する",
+      "通貨供給量・金利・信用などを通じた中央銀行の政策に関する",
+      "金銭で表される、または金銭として支払われる",
+      "物・権利・利益などの金銭的価値に関する",
+      "金銭上の利益・損失・報酬・制裁などに関する"
+    ],
+    "en": [
+      "relating to money, currency, or a system of money",
+      "concerning central-bank policy involving money supply, interest rates, credit, or currency",
+      "expressed, measured, or provided in money",
+      "relating to the financial value of an object, right, benefit, or service",
+      "involving a gain, loss, reward, penalty, or remedy in the form of money"
+    ]
+  },
+  "nuance": {
+    "ja": "monetary は、広く「お金に関する」という意味を持つが、経済学では特に通貨供給量・金利・信用・為替などを扱う貨幣面を示す。monetary policy は、中央銀行などが金利や資金供給を通じて物価・需要・経済活動に影響を与える政策であり、政府の課税・歳出・借入れを扱う fiscal policy とは区別される。financial は銀行・投資・資金管理・企業財務などを含む、より広い語である。monetary value や monetary compensation では、価値または補償が金銭で表示・提供されることを表す。金銭以外の満足・休暇・差止命令などと対比する場合には non-monetary benefit や non-monetary remedy が使われる。monetary は形式的な語で、日常会話では money、financial、paid などの方が自然な場合も多い。",
+    "en": "Monetary broadly means relating to money, but in economics it particularly identifies the money-and-credit side of the economy, including money supply, interest rates, credit conditions, and currency. Monetary policy refers to measures taken principally by a central bank to influence prices, demand, and economic activity through such mechanisms. It contrasts with fiscal policy, which concerns government taxation, expenditure, and borrowing. Financial is broader and can cover banking, investment, funding, corporate finance, and the general management of money. In monetary value or monetary compensation, the adjective indicates that value or compensation is measured or provided in money. Non-monetary benefit and non-monetary remedy contrast money with advantages such as time off or relief such as an injunction. Monetary is formal, and everyday English may instead use money, financial, or paid."
+  },
+  "minimal": {
+    "ja": [
+      "monetary：貨幣・通貨・中央銀行政策、または金銭で測られる価値に関する。",
+      "financial：銀行・投資・資金調達・財務・資産管理などを広く扱う。",
+      "fiscal：政府の歳入・課税・歳出・借入れ・予算に関する。",
+      "economic：生産・消費・雇用・所得・資源配分など、経済全般に関する。",
+      "pecuniary：金銭に関することを表す、特に法律で使われる形式的な語。",
+      "cash：現金そのもの、または現金で支払われることを強調する。",
+      "currency：国家・地域で流通する通貨制度または具体的な通貨。",
+      "non-monetary：金銭によらない、または金銭で直接表されない。"
+    ],
+    "en": [
+      "monetary concerns money, currency, central-bank policy, or value measured in money.",
+      "financial broadly concerns banking, investment, funding, corporate finance, and the management of assets.",
+      "fiscal concerns government revenue, taxation, expenditure, borrowing, and budgets.",
+      "economic concerns the wider system of production, consumption, employment, income, and resource allocation.",
+      "pecuniary is a formal, especially legal, adjective meaning relating to money.",
+      "cash emphasizes physical money or payment made immediately in money.",
+      "currency is the money system or particular form of money circulating in a country or region.",
+      "non-monetary describes something not consisting of or directly measured in money."
+    ]
+  },
+  "etymology": {
+    "ja": "後期ラテン語 monetarius「貨幣・造幣に関する」に由来し、これはラテン語 moneta「貨幣、造幣所」から作られた。moneta はローマで造幣所と結び付いていた女神ユーノー・モネータの名に関係する。Moneta はラテン語 monere「警告する、助言する」と関連付けられており、ユーノーがローマ人に危険を警告したという伝承もある。造幣所から貨幣そのものへ意味が移り、英語の money、mint、monetary などの貨幣関連語へつながった。",
+    "en": "Monetary derives from Late Latin monetarius, relating to money or a mint, which was formed from Latin moneta, money or a place where money was coined. Moneta is associated with Juno Moneta, at whose Roman temple a mint was located. The title Moneta is traditionally connected with Latin monere, to warn or advise, and with a tradition that Juno warned the Romans of danger. The association of the temple with coin production allowed moneta to develop from the name of the mint into a word for money itself, ultimately contributing to English money, mint, and monetary."
+  },
+  "synonyms": [
+    {
+      "word": "financial",
+      "note": {
+        "ja": "資金・投資・銀行・企業財務などに関する最も広い形容詞で、monetary より適用範囲が広い。",
+        "en": "The broader adjective for funding, investment, banking, and corporate finance."
+      }
+    },
+    {
+      "word": "pecuniary",
+      "note": {
+        "ja": "金銭上の利益・損害・利害などを表す、法律的で形式的な語。",
+        "en": "A formal and especially legal term for interests, benefits, losses, or damages involving money."
+      }
+    },
+    {
+      "word": "fiscal",
+      "note": {
+        "ja": "主として政府の課税・支出・借入れ・予算に関する。",
+        "en": "Relates principally to government taxation, expenditure, borrowing, and budgets."
+      }
+    },
+    {
+      "word": "economic",
+      "note": {
+        "ja": "貨幣面に限らず、生産・雇用・消費・貿易などの経済活動全般に関する。",
+        "en": "Concerns the economy generally, including production, employment, consumption, and trade rather than money alone."
+      }
+    },
+    {
+      "word": "cash",
+      "note": {
+        "ja": "現金または即時に利用可能な金銭としての支払い・価値を強調する。",
+        "en": "Emphasizes payment or value in physical money or funds immediately available as money."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "monetär / geldpolitisch",
+    "it": "monetario",
+    "fr": "monétaire",
+    "es": "monetario"
+  },
+  "collocations": {
+    "ja": [
+      "monetary policy — 金融政策",
+      "monetary authorities — 通貨・金融当局",
+      "a monetary system — 貨幣制度",
+      "monetary expansion — 金融緩和、通貨供給の拡大",
+      "monetary tightening — 金融引締め",
+      "monetary stability — 通貨・物価の安定",
+      "a monetary union — 通貨同盟",
+      "monetary value — 金銭的価値",
+      "a monetary reward — 金銭的報酬",
+      "monetary compensation — 金銭による補償",
+      "monetary damages — 金銭賠償",
+      "in monetary terms — 金銭に換算すれば"
+    ],
+    "en": [
+      "monetary policy",
+      "monetary authorities",
+      "a monetary system",
+      "monetary expansion",
+      "monetary tightening",
+      "monetary stability",
+      "a monetary union",
+      "monetary value",
+      "a monetary reward",
+      "monetary compensation",
+      "monetary damages",
+      "in monetary terms"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The central bank tightened monetary policy in response to persistent inflation. — 中央銀行は持続的なインフレに対応して金融政策を引き締めた。",
+      "The two countries discussed the advantages and risks of forming a monetary union. — 両国は通貨同盟を形成する利点と危険性について協議した。",
+      "Volunteer work may provide considerable satisfaction even when it offers no monetary reward. — ボランティア活動は金銭的報酬がなくても、大きな満足をもたらすことがある。",
+      "It is difficult to express the cultural importance of the building entirely in monetary terms. — その建物の文化的重要性を完全に金銭へ換算して表すことは難しい。",
+      "The trademark owner sought both monetary damages and an injunction prohibiting further sales of the counterfeit goods. — 商標権者は、金銭賠償と、偽造商品のさらなる販売を禁止する差止命令の双方を求めた。"
+    ],
+    "en": [
+      "The central bank tightened monetary policy in response to persistent inflation.",
+      "The two countries discussed the advantages and risks of forming a monetary union.",
+      "Volunteer work may provide considerable satisfaction even when it offers no monetary reward.",
+      "It is difficult to express the cultural importance of the building entirely in monetary terms.",
+      "The trademark owner sought both monetary damages and an injunction prohibiting further sales of the counterfeit goods."
+    ]
+  }
+},
+{
   "id": "financial",
   "sid": "2026-01309",
   "word": "financial",
