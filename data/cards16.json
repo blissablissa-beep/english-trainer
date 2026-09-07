@@ -1,5 +1,203 @@
 [
 {
+  "id": "obliteration",
+  "sid": "2026-01429",
+  "word": "obliteration",
+  "level": "C2",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "destruction",
+    "erasure",
+    "removal",
+    "concealment",
+    "war",
+    "memory",
+    "writing",
+    "medicine",
+    "documents",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "normally uncountable; countable when referring to a particular act or instance",
+    "plural": "obliterations, uncommon",
+    "forms": {
+      "singular": "obliteration",
+      "plural": "obliterations",
+      "verb": "obliterate",
+      "third_person": "obliterates",
+      "past": "obliterated",
+      "past_participle": "obliterated",
+      "gerund": "obliterating",
+      "adjective": "obliterated / obliterative"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "the obliteration of + place / object / evidence",
+      "complete / total / near obliteration",
+      "obliteration by + force / event",
+      "obliteration from + record / memory",
+      "cause / result in obliteration",
+      "threaten something with obliteration",
+      "save something from obliteration",
+      "the obliteration of a mark / inscription",
+      "the obliteration of a distinction",
+      "obliteration of a cavity / vessel"
+    ],
+    "usage": {
+      "destruction": "Obliteration may mean the complete or almost complete destruction of a place, object, group, or system.",
+      "erasure": "It can mean removing, covering, or damaging writing, marks, records, or evidence until they can no longer be read or recognized.",
+      "figurative": "It may describe the disappearance of a memory, identity, distinction, culture, or other abstract quality.",
+      "medical": "In medicine, it can refer to the closing, filling, or disappearance of a cavity, passage, space, or vessel.",
+      "intensity": "The word is much stronger than damage and normally suggests that recognition, existence, or function has almost entirely disappeared.",
+      "register": "It is formal and often dramatic; destruction, erasure, removal, or blockage may be clearer in ordinary contexts."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˌblɪtəˈreɪʃən/",
+      "uk": "/əˌblɪtəˈreɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "物・場所・組織などを完全またはほぼ完全に破壊すること",
+      "文字・印・記録などを読めない、または識別できない状態にすること",
+      "証拠・痕跡などを消し去ること",
+      "記憶・文化・個性・区別などが完全に失われること",
+      "医学的に、空洞・管・血管などが閉鎖・消失すること"
+    ],
+    "en": [
+      "the complete or nearly complete destruction of an object, place, organization, or system",
+      "the act of making writing, a mark, or a record unreadable or unrecognizable",
+      "the removal or destruction of evidence, traces, or other signs of existence",
+      "the complete loss of a memory, culture, identity, distinction, or other abstract quality",
+      "in medicine, the closing, filling, or disappearance of a cavity, passage, or vessel"
+    ]
+  },
+  "nuance": {
+    "ja": "obliteration は、対象が単に損傷するのではなく、存在・形状・機能・識別可能性がほとんど失われるほど徹底的に破壊・消去されることを表す。the obliteration of a city は都市の壊滅、the obliteration of a signature は署名が読めなくなるほど消されることを意味する。比喩的には、文化・記憶・個性・二つの概念の区別が完全に消えることにも使える。annihilation と近いが、annihilation は存在そのものの消滅を、obliteration は破壊・上書き・摩耗などによって痕跡や識別可能性まで失わせることを強調しやすい。",
+    "en": "Obliteration implies far more than ordinary damage. It suggests that an object’s existence, form, function, or recognizability has been almost entirely destroyed. The obliteration of a city describes devastating physical destruction, while the obliteration of a signature means that the signature has been erased, covered, or damaged until it is unreadable. Figuratively, the word can describe the disappearance of a culture, memory, identity, or conceptual distinction. Annihilation more directly emphasizes total nonexistence, whereas obliteration often emphasizes destroying or covering something so thoroughly that no recognizable trace remains."
+  },
+  "minimal": {
+    "ja": [
+      "obliteration：対象の存在・機能・識別可能性や痕跡まで、ほぼ完全に破壊・消去すること。",
+      "destruction：物・制度などを壊し、存在または機能を損なうことを広く表す。",
+      "annihilation：対象を完全に消滅させ、何も残さないことを強く表す。",
+      "erasure：文字・記録・データ・記憶などを消すこと。",
+      "elimination：不要・危険な物や問題を取り除き、存在しない状態にすること。",
+      "devastation：場所・生活・感情などに広範かつ深刻な破壊・打撃を与えること。",
+      "effacement：表面の印・特徴・記憶・個性などを消して目立たなくすること。形式的。",
+      "deletion：文書・データなどから特定の文字・情報・項目を削除すること。"
+    ],
+    "en": [
+      "obliteration is destruction or erasure so complete that existence, function, recognizability, or visible traces are nearly lost.",
+      "destruction broadly means damaging something so that its existence or function is seriously impaired.",
+      "annihilation strongly emphasizes the total elimination of something’s existence.",
+      "erasure is the removal of writing, records, data, or memories.",
+      "elimination means removing an unwanted or dangerous thing or problem completely.",
+      "devastation is widespread and severe physical, social, or emotional destruction.",
+      "effacement formally means erasing or making surface features, memories, or individuality less visible.",
+      "deletion is the removal of particular words, information, or items from a document or data system."
+    ]
+  },
+  "etymology": {
+    "ja": "obliteration は動詞 obliterate に名詞接尾辞 -ion が付いた語である。obliterate はラテン語 oblitterare「文字を消す、抹消する」に由来し、ob-「～に向かって、上に」と littera「文字」から成る。原義は、文字の上に別の印を付けたり表面をこすったりして読めなくすることだった。そこから、痕跡を消すこと、さらに物や場所を徹底的に破壊して識別不能にすることへ意味が拡大した。",
+    "en": "Obliteration was formed from obliterate and the noun-forming suffix -ion. Obliterate comes from Latin oblitterare, to erase or strike out letters, formed from ob-, against or over, and littera, letter. Its original sense involved marking over or rubbing writing until it became unreadable. The meaning broadened from erasing written marks to removing all traces and ultimately to destroying an object or place so thoroughly that it is no longer recognizable."
+  },
+  "synonyms": [
+    {
+      "word": "annihilation",
+      "note": {
+        "ja": "人・物・勢力などを完全に破壊し、存在しない状態にすることを極めて強く表す。",
+        "en": "An exceptionally strong word for completely destroying a person, object, or force so that it ceases to exist."
+      }
+    },
+    {
+      "word": "destruction",
+      "note": {
+        "ja": "物・場所・制度などを壊し、その構造・機能・存在を失わせることを広く表す。",
+        "en": "A broad term for damaging an object, place, or system so that its structure, function, or existence is lost."
+      }
+    },
+    {
+      "word": "erasure",
+      "note": {
+        "ja": "文字・画像・記録・データ・記憶などを消去する行為または結果。",
+        "en": "The act or result of removing writing, images, records, data, or memories."
+      }
+    },
+    {
+      "word": "effacement",
+      "note": {
+        "ja": "表面上の印・特徴、または人の個性・歴史などを消して認識しにくくすること。",
+        "en": "The formal act of erasing or obscuring surface marks, distinctive features, identity, or history."
+      }
+    },
+    {
+      "word": "devastation",
+      "note": {
+        "ja": "地域・社会・生活などに広範囲で極めて深刻な破壊や苦痛をもたらすこと。",
+        "en": "Widespread and extremely serious destruction or suffering affecting a place, society, or way of life."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Auslöschung / Vernichtung / Tilgung",
+    "it": "obliterazione / cancellazione / annientamento",
+    "fr": "oblitération / effacement / anéantissement",
+    "es": "obliteración / borrado / aniquilación"
+  },
+  "collocations": {
+    "ja": [
+      "complete obliteration — 完全な破壊・消滅",
+      "total obliteration — 徹底的な壊滅",
+      "near obliteration — ほぼ完全な消滅",
+      "the obliteration of a city — 都市の壊滅",
+      "the obliteration of evidence — 証拠の完全な抹消",
+      "the obliteration of a mark — 標章・印の抹消",
+      "the obliteration of an inscription — 碑文・刻印の消失",
+      "the obliteration of a distinction — 区別の完全な消失",
+      "the obliteration of memory — 記憶の消失",
+      "threaten something with obliteration — 何かを壊滅の危機にさらす",
+      "save something from obliteration — 何かを消滅から救う",
+      "result in obliteration — 完全な破壊・消失をもたらす"
+    ],
+    "en": [
+      "complete obliteration",
+      "total obliteration",
+      "near obliteration",
+      "the obliteration of a city",
+      "the obliteration of evidence",
+      "the obliteration of a mark",
+      "the obliteration of an inscription",
+      "the obliteration of a distinction",
+      "the obliteration of memory",
+      "threaten something with obliteration",
+      "save something from obliteration",
+      "result in obliteration"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The explosion caused the near obliteration of the building. — その爆発によって建物はほぼ完全に破壊された。",
+      "Centuries of exposure to wind and rain resulted in the obliteration of the inscription. — 数世紀にわたって風雨にさらされた結果、碑文は完全に読めなくなった。",
+      "The historian warned against the obliteration of minority cultures. — その歴史家は、少数派文化が消滅する危険について警告した。",
+      "The alteration caused the obliteration of several important entries in the document. — その改変によって、文書中の複数の重要な記載が判読不能になった。",
+      "The obliteration of the original trademark from the packaging may affect whether consumers continue to perceive the goods as originating from the trademark owner. — 包装から元の商標を完全に抹消することは、需要者が商品を引き続き商標権者に由来するものと認識するかどうかに影響し得る。"
+    ],
+    "en": [
+      "The explosion caused the near obliteration of the building.",
+      "Centuries of exposure to wind and rain resulted in the obliteration of the inscription.",
+      "The historian warned against the obliteration of minority cultures.",
+      "The alteration caused the obliteration of several important entries in the document.",
+      "The obliteration of the original trademark from the packaging may affect whether consumers continue to perceive the goods as originating from the trademark owner."
+    ]
+  }
+},
+{
   "id": "obliterate",
   "sid": "2026-01430",
   "word": "obliterate",
