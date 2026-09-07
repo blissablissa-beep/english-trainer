@@ -4924,5 +4924,207 @@
       "After reading the patent specification for several hours, the attorney finally surrendered to the arms of Morpheus."
     ]
   }
+},
+{
+  "id": "housing",
+  "sid": "2026-01446",
+  "word": "housing",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "accommodation",
+    "residence",
+    "buildings",
+    "property",
+    "public policy",
+    "economics",
+    "construction",
+    "enclosure",
+    "machinery",
+    "engineering",
+    "patent"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "usually uncountable for accommodation; countable for a protective enclosure",
+    "plural": "housings in the enclosure sense",
+    "forms": {
+      "uncountable_noun": "housing",
+      "countable_singular": "a housing",
+      "countable_plural": "housings",
+      "verb": "house",
+      "third_person": "houses",
+      "past": "housed",
+      "past_participle": "housed",
+      "gerund": "housing",
+      "related_noun": "house"
+    },
+    "transitivity": "not applicable as a noun",
+    "patterns": [
+      "affordable / public / private housing",
+      "a shortage / supply of housing",
+      "provide housing for + people",
+      "the housing market",
+      "housing costs / prices",
+      "a housing development",
+      "a housing for + component",
+      "a protective / outer housing",
+      "be mounted / accommodated in a housing",
+      "a housing defining / containing + structure"
+    ],
+    "usage": {
+      "accommodation": "Housing is normally uncountable when it means homes or accommodation collectively: affordable housing, not affordable housings.",
+      "individual_home": "For one particular place where someone lives, use a house, a home, an apartment, or a housing unit rather than a housing.",
+      "enclosure": "In engineering, a housing is a countable outer structure that contains, supports, or protects a mechanical or electronic component.",
+      "plural": "The plural housings is normal for multiple casings or enclosures but not normally for multiple homes.",
+      "market": "Housing commonly functions attributively in expressions such as housing market, housing policy, and housing costs.",
+      "pronunciation": "Housing is pronounced with /z/, reflecting the verb house /haʊz/, rather than the noun house /haʊs/.",
+      "patent_use": "In patent claims, housing can identify a structural enclosure, but its boundaries, components, and relationship to other elements may require further clarification."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈhaʊzɪŋ/",
+      "uk": "/ˈhaʊzɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人々が居住するための住宅・住居を集合的に表す語",
+      "住宅の提供・整備・管理",
+      "特定の集団に提供される宿舎・居住施設",
+      "住宅市場・住宅政策などに関係する住宅分野",
+      "機械部品・電子部品などを収容・支持・保護する筐体",
+      "装置の内部構造を囲む外殻・ケース"
+    ],
+    "en": [
+      "houses, apartments, and other places to live considered collectively",
+      "the provision, development, or management of places for people to live",
+      "residential accommodation provided for a particular group",
+      "the sector concerned with homes, property markets, and residential policy",
+      "a structure containing, supporting, or protecting a mechanical or electronic component",
+      "an outer case or body enclosing the internal parts of a device"
+    ]
+  },
+  "nuance": {
+    "ja": "housing は、住宅・社会政策の文脈と、機械・特許の文脈で可算性が異なる。住宅・住居を集合的に表す場合は通常不可算で、We need more affordable housing. のように用いる。一戸の住居を a housing とは通常いわず、a house、an apartment、a home、a housing unit などを使う。一方、工学分野の a housing は、部品を収容・支持・保護する「筐体」であり、複数形 housings も自然である。housing は casing や enclosure と重なるが、必ずしも完全に密閉された構造を意味せず、装置の本体や支持構造を兼ねることもある。特許文言では、housing が一体部品なのか、複数部品から構成されるのかは、この語だけでは必ずしも確定しない。",
+    "en": "Housing differs in countability between its residential and engineering senses. When it refers collectively to homes or accommodation, it is normally uncountable, as in We need more affordable housing. One residence is not normally called a housing; a house, an apartment, a home, or a housing unit is used instead. In engineering, a housing is a countable structure that contains, supports, or protects components, and the plural housings is entirely natural. Housing overlaps with casing and enclosure but does not necessarily imply a completely sealed structure and may also serve as the main body or support of a device. In patent language, housing alone does not always establish whether the structure is integral or assembled from several parts."
+  },
+  "minimal": {
+    "ja": [
+      "housing：集合的な住宅・住居、または機械・装置の部品を収容する筐体。",
+      "house：独立した一戸の建物としての家、または人・物を収容する。",
+      "home：人が生活し、心理的な帰属を感じる住まい。",
+      "accommodation：一時的または恒常的に滞在・居住するための場所。",
+      "residence：人が居住する家・建物、または居住という状態を表す形式的な語。",
+      "enclosure：物・領域を囲み、外部から区切る構造。",
+      "casing：機械・電子部品を覆って保護する外側のケース。",
+      "shell：内部構造を囲む比較的薄い外殻。"
+    ],
+    "en": [
+      "housing means residential accommodation collectively or a structure containing and protecting parts of a machine or device.",
+      "a house is an individual residential building, while the verb house means providing space for people or objects.",
+      "a home is a place where someone lives and feels a sense of personal belonging.",
+      "accommodation is a place provided for temporary or permanent residence or lodging.",
+      "a residence is a formal term for a home, building, or the state of living in a particular place.",
+      "an enclosure is a structure surrounding and separating an object or area.",
+      "a casing is an outer cover protecting mechanical or electronic components.",
+      "a shell is a relatively thin outer structure surrounding internal parts."
+    ]
+  },
+  "etymology": {
+    "ja": "housing は house に、行為・結果・物を表す接尾辞 -ing が付いて成立した。house は古英語 hus「家、住居」に由来し、ドイツ語 Haus、オランダ語 huis などと同族である。名詞 house の語末は /s/ だが、「収容する」を意味する動詞 house は /z/ で発音されるため、そこから生じた housing も /ˈhaʊzɪŋ/ と発音される。「人を住まわせること・住居」という意味から、物を内部に収容する構造、すなわち機械や装置の筐体を表す意味も発達した。",
+    "en": "Housing was formed from house with the suffix -ing, which can denote an action, result, or associated object. House derives from Old English hus, meaning a dwelling, and is related to German Haus and Dutch huis. The noun house ends in /s/, but the verb house, meaning to accommodate or contain, is pronounced with /z/, giving housing the pronunciation /ˈhaʊzɪŋ/. From the senses of providing people with places to live and accommodating something developed the engineering meaning of a structure that contains or protects parts of a machine or device."
+  },
+  "synonyms": [
+    {
+      "word": "accommodation",
+      "note": {
+        "ja": "人が滞在・居住するために提供される部屋・建物などを広く表す。",
+        "en": "A broad term for rooms or buildings provided for people to stay or live in."
+      }
+    },
+    {
+      "word": "residential property",
+      "note": {
+        "ja": "居住目的で使用される住宅・土地を、不動産として捉える表現。",
+        "en": "Houses, apartments, or land considered as property intended for residential use."
+      }
+    },
+    {
+      "word": "enclosure",
+      "note": {
+        "ja": "部品・装置・空間を囲み、外部から区切る構造。",
+        "en": "A structure that surrounds a component, device, or space and separates it from the outside."
+      }
+    },
+    {
+      "word": "casing",
+      "note": {
+        "ja": "装置や部品の周囲を覆い、衝撃・汚れなどから保護する外側のケース。",
+        "en": "An outer cover placed around a device or component to protect it from impact, dirt, or other conditions."
+      }
+    },
+    {
+      "word": "body",
+      "note": {
+        "ja": "機械・器具の主要な構造部分で、他の部品を支持・収容することがある。",
+        "en": "The main structural part of a machine or instrument, which may support or contain other components."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Wohnraum / Wohnungswesen / Gehäuse",
+    "it": "alloggi / edilizia abitativa / alloggiamento",
+    "fr": "logement / habitat / boîtier",
+    "es": "vivienda / alojamiento / carcasa"
+  },
+  "collocations": {
+    "ja": [
+      "affordable housing — 手頃な価格の住宅",
+      "public housing — 公営住宅",
+      "social housing — 社会住宅",
+      "a housing shortage — 住宅不足",
+      "the housing supply — 住宅供給",
+      "the housing market — 住宅市場",
+      "housing costs — 住居費",
+      "a housing development — 住宅開発",
+      "a protective housing — 保護筐体",
+      "an outer housing — 外側筐体",
+      "a sensor housing — センサー筐体",
+      "be mounted within the housing — 筐体内に取り付けられる"
+    ],
+    "en": [
+      "affordable housing",
+      "public housing",
+      "social housing",
+      "a housing shortage",
+      "the housing supply",
+      "the housing market",
+      "housing costs",
+      "a housing development",
+      "a protective housing",
+      "an outer housing",
+      "a sensor housing",
+      "be mounted within the housing"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The city is experiencing a serious shortage of affordable housing. — その都市では、手頃な価格の住宅が深刻に不足している。",
+      "The company provides temporary housing for employees transferred from overseas. — その会社は海外から赴任した従業員に仮住居を提供している。",
+      "Rising housing costs have forced many families to move farther from the city center. — 住居費の上昇により、多くの家族が都心から離れた場所への転居を余儀なくされている。",
+      "The motor is enclosed in a lightweight aluminum housing. — モーターは軽量なアルミニウム製筐体に収容されている。",
+      "The claim recites a housing containing the sensor, but the specification should clarify whether the housing may be formed from multiple connected components. — 請求項にはセンサーを収容する筐体が記載されているが、その筐体を接続された複数の部品から形成できるか、明細書で明確にすることが望ましい。"
+    ],
+    "en": [
+      "The city is experiencing a serious shortage of affordable housing.",
+      "The company provides temporary housing for employees transferred from overseas.",
+      "Rising housing costs have forced many families to move farther from the city center.",
+      "The motor is enclosed in a lightweight aluminum housing.",
+      "The claim recites a housing containing the sensor, but the specification should clarify whether the housing may be formed from multiple connected components."
+    ]
+  }
 }
 ]
