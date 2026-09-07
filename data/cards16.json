@@ -1779,5 +1779,203 @@
       "If a patent claim defines a parameter by an equation, the symbols and method of measurement should be explained clearly in the specification."
     ]
   }
+},
+{
+  "id": "embodiment",
+  "sid": "2026-01442",
+  "word": "embodiment",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "representation",
+    "personification",
+    "physical form",
+    "implementation",
+    "invention",
+    "patent",
+    "specification",
+    "engineering",
+    "legal",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "embodiments",
+    "forms": {
+      "singular": "embodiment",
+      "plural": "embodiments",
+      "verb": "embody",
+      "past_participle": "embodied",
+      "gerund": "embodying"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an embodiment of + quality / idea",
+      "the embodiment of + abstract quality",
+      "a physical / concrete embodiment of + idea",
+      "find embodiment in + person / object",
+      "in one embodiment",
+      "in another embodiment",
+      "according to an embodiment",
+      "a preferred embodiment",
+      "an alternative embodiment",
+      "the illustrated / disclosed embodiment"
+    ],
+    "usage": {
+      "personification": "In general English, the embodiment of a quality is a person or thing that represents that quality in a particularly clear or complete form.",
+      "physical_form": "Embodiment can mean a concrete or physical form in which an abstract idea, design, or principle is expressed.",
+      "patent_use": "In patent writing, an embodiment is a particular way of implementing or realizing an invention.",
+      "actuality": "A patent embodiment need not necessarily be a prototype that was actually constructed or tested; the context should distinguish working examples from predicted or hypothetical examples.",
+      "claim_scope": "A disclosed embodiment is not automatically identical to the full scope of a claim, and limitations of a particular embodiment should not be inserted into broader claim language without an appropriate interpretive basis.",
+      "number": "Patent specifications commonly describe multiple embodiments, alternatives, and variations.",
+      "register": "The word is formal in its general sense and highly conventional in patent and technical writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪmˈbɑːdimənt/",
+      "uk": "/ɪmˈbɒdɪmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "抽象的な性質・思想などを明確に体現する人・物",
+      "考え・原理・設計などが具体的または物理的な形を取ったもの",
+      "ある概念を目に見える形で表現したもの",
+      "特許・技術文書で、発明を具体的に実現する一つの構成・実施形態",
+      "発明の特定の構造・手順・材料・条件などを組み合わせた態様",
+      "複数の選択肢のうち、説明または図示された一つの具体例"
+    ],
+    "en": [
+      "a person or thing that clearly and completely represents an abstract quality or idea",
+      "a concrete or physical form taken by an idea, principle, or design",
+      "a visible or tangible expression of a concept",
+      "in patent and technical writing, a particular implementation or realization of an invention",
+      "a particular combination of structures, steps, materials, or conditions implementing an invention",
+      "one specific example among several possible alternatives described or illustrated"
+    ]
+  },
+  "nuance": {
+    "ja": "一般英語の embodiment は、抽象的な性質が人や物に具体的に現れていることを表す。She is the embodiment of patience. と言えば、その人が忍耐という性質を典型的かつ完全に表しているという強い表現になる。特許実務では「実施形態」と訳され、発明を実現する具体的な構造・方法・条件などを指す。ただし、embodiment は必ずしも実際に製作された試作品を意味せず、明細書上の説明として構成された態様も含み得る。また、一つの実施形態に記載された細部が当然に請求項の限定となるわけではない。請求項の範囲、明細書全体、明示的な定義や限定などを踏まえて判断する必要がある。preferred embodiment は「好ましい実施形態」であって、唯一の実施形態を意味しない。",
+    "en": "In general English, embodiment describes an abstract quality or idea taking a particularly clear form in a person or thing. She is the embodiment of patience strongly suggests that she represents patience in an exemplary or nearly complete way. In patent practice, embodiment refers to a particular structure, method, condition, or other way of realizing an invention. It does not necessarily mean that a physical prototype was actually built; an embodiment may be presented descriptively or predictively in the specification. Nor does every detail of one embodiment automatically become a limitation of a broader claim. Claim scope must be assessed from the claim language, the specification as a whole, and any relevant definitions or disclaimers. A preferred embodiment is a favored implementation, not necessarily the only possible one."
+  },
+  "minimal": {
+    "ja": [
+      "embodiment：性質・思想を具体的に体現するもの、または発明の具体的な実施形態。",
+      "example：一般的な説明を具体化するために挙げられる個別の例。",
+      "implementation：設計・計画・技術を実際に機能する形へ移すこと、またはその実現形態。",
+      "realization：考え・計画・設計などを現実のものにすること、またはその結果。",
+      "manifestation：性質・状態・現象などが外部に現れたもの。",
+      "personification：抽象的な性質を人として表すこと、またはその性質を典型的に示す人。",
+      "prototype：試験・評価・開発のために製作された初期的な実物モデル。",
+      "claim：特許で保護を求める発明を文言によって画定する部分。実施形態とは同一ではない。"
+    ],
+    "en": [
+      "an embodiment is a concrete representation of a quality or idea or a particular implementation of an invention.",
+      "an example is a particular case used to illustrate a general explanation.",
+      "an implementation is the act or result of putting a design, plan, or technology into working form.",
+      "a realization is the process or result of making an idea, plan, or design real.",
+      "a manifestation is an outward appearance or expression of a quality, condition, or phenomenon.",
+      "personification is representing an abstract quality as a person or a person who characteristically displays it.",
+      "a prototype is an early physical model constructed for testing, evaluation, or development.",
+      "a claim defines in words the invention for which patent protection is sought and is not identical to an embodiment."
+    ]
+  },
+  "etymology": {
+    "ja": "embodiment は動詞 embody に、行為・状態・結果を表す接尾辞 -ment を加えて作られた。embody は em-「中に入れる、ある状態にする」と body「身体、形あるもの」から成り、文字どおりには「身体を与える、形あるものにする」という発想を持つ。body は古英語 bodig に由来する。抽象的な思想・性質を具体的な形で表すという意味から、技術や発明を特定の構造・方法として具体化した「実施形態」という専門的用法が発達した。",
+    "en": "Embodiment was formed from the verb embody with the suffix -ment, which denotes an act, condition, or result. Embody combines em-, meaning to put into or cause to be in a particular state, with body, a physical form. Body derives from Old English bodig. The literal idea is therefore giving a body or concrete form to something. From the representation of an abstract idea or quality in tangible form developed the technical use for a particular structure or method in which an invention is realized."
+  },
+  "synonyms": [
+    {
+      "word": "personification",
+      "note": {
+        "ja": "抽象的な性質・概念を人の姿で表すこと、またはその性質を典型的に示す人物。",
+        "en": "The representation of an abstract quality as a person or a person who characteristically represents that quality."
+      }
+    },
+    {
+      "word": "manifestation",
+      "note": {
+        "ja": "内在する性質・状態・現象などが、観察できる形で外部に現れたもの。",
+        "en": "An observable outward appearance or expression of an underlying quality, condition, or phenomenon."
+      }
+    },
+    {
+      "word": "realization",
+      "note": {
+        "ja": "思想・計画・設計などを具体化して現実のものにすること、またはその結果。",
+        "en": "The act or result of making an idea, plan, or design concrete and real."
+      }
+    },
+    {
+      "word": "implementation",
+      "note": {
+        "ja": "計画・設計・技術を、実際に使用または機能できる形で実現すること。",
+        "en": "The act or result of putting a plan, design, or technology into usable or functioning form."
+      }
+    },
+    {
+      "word": "instantiation",
+      "note": {
+        "ja": "一般的な概念・型・設計を、特定の具体例として実現することを表す技術的な語。",
+        "en": "A technical term for creating a specific concrete instance of a general concept, type, or design."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Verkörperung / Ausführungsform",
+    "it": "incarnazione / forma di realizzazione",
+    "fr": "incarnation / mode de réalisation",
+    "es": "encarnación / realización / forma de realización"
+  },
+  "collocations": {
+    "ja": [
+      "the embodiment of courage — 勇気の体現",
+      "the embodiment of elegance — 優雅さを体現するもの",
+      "a physical embodiment of an idea — 思想を物理的に具体化したもの",
+      "a concrete embodiment of a principle — 原理の具体的な表現",
+      "an embodiment of the invention — 発明の一実施形態",
+      "in one embodiment — 一実施形態では",
+      "in another embodiment — 別の実施形態では",
+      "according to an embodiment — 一実施形態によれば",
+      "a preferred embodiment — 好ましい実施形態",
+      "an alternative embodiment — 代替的な実施形態",
+      "the illustrated embodiment — 図示された実施形態",
+      "the disclosed embodiments — 開示された実施形態"
+    ],
+    "en": [
+      "the embodiment of courage",
+      "the embodiment of elegance",
+      "a physical embodiment of an idea",
+      "a concrete embodiment of a principle",
+      "an embodiment of the invention",
+      "in one embodiment",
+      "in another embodiment",
+      "according to an embodiment",
+      "a preferred embodiment",
+      "an alternative embodiment",
+      "the illustrated embodiment",
+      "the disclosed embodiments"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She was widely regarded as the embodiment of patience and kindness. — 彼女は忍耐と親切を体現する人物として広く認められていた。",
+      "The building is a physical embodiment of the architect’s philosophy. — その建物は建築家の思想を物理的な形で体現したものである。",
+      "This prototype is the first practical embodiment of the original concept. — この試作品は、当初の構想を初めて実用的な形にしたものである。",
+      "In one embodiment, the sensor is mounted inside the housing. — 一実施形態では、センサーは筐体の内部に取り付けられる。",
+      "The claim should not necessarily be limited to the dimensions shown in the preferred embodiment unless the claim language or specification provides an appropriate basis for that limitation. — 請求項の文言または明細書にその限定の適切な根拠がない限り、請求項を好ましい実施形態に示された寸法へ当然に限定すべきとは限らない。"
+    ],
+    "en": [
+      "She was widely regarded as the embodiment of patience and kindness.",
+      "The building is a physical embodiment of the architect’s philosophy.",
+      "This prototype is the first practical embodiment of the original concept.",
+      "In one embodiment, the sensor is mounted inside the housing.",
+      "The claim should not necessarily be limited to the dimensions shown in the preferred embodiment unless the claim language or specification provides an appropriate basis for that limitation."
+    ]
+  }
 }
 ]
