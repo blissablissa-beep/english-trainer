@@ -5128,200 +5128,405 @@
   }
 },
 {
-  "id": "call-for",
-  "sid": "2026-01448",
-  "word": "call for",
+  "id": "junk",
+  "sid": "2026-01447",
+  "word": "junk",
   "level": "B2",
   "freq": "often",
   "tags": [
-    "phrasal-prepositional verb",
-    "requirement",
-    "demand",
-    "request",
-    "appeal",
-    "collection",
-    "prediction",
-    "public statement",
-    "business",
-    "politics",
-    "formal",
+    "noun",
+    "verb",
+    "adjective",
+    "rubbish",
+    "clutter",
+    "discarding",
+    "low quality",
+    "unwanted information",
+    "technology",
+    "food",
+    "email",
+    "informal",
     "general"
   ],
   "grammar": {
-    "pos": "phrasal-prepositional verb",
+    "pos": "noun / verb / attributive adjective",
+    "countability": "normally uncountable for unwanted or worthless material; countable for the separate ship sense",
+    "plural": "junks in the ship sense; not normally used for rubbish",
     "forms": {
-      "base": "call for",
-      "third_person": "calls for",
-      "past": "called for",
-      "past_participle": "called for",
-      "gerund": "calling for",
-      "related_noun": "call"
+      "noun": "junk",
+      "verb_base": "junk",
+      "third_person": "junks",
+      "past": "junked",
+      "past_participle": "junked",
+      "gerund": "junking",
+      "attributive": "junk",
+      "related_noun": "junkyard",
+      "related_adjective": "junky / junky-looking"
     },
-    "transitivity": "prepositional transitive and inseparable",
+    "transitivity": "transitive as a verb",
     "patterns": [
-      "call for + noun",
-      "call for + person to do",
-      "call for action / reform",
-      "call for an investigation",
-      "call for calm / restraint",
-      "call for applications / proposals",
-      "call for someone / something",
-      "call for someone at + time",
-      "the situation calls for + noun",
-      "the forecast calls for + weather"
+      "a pile / piece of junk",
+      "be full of junk",
+      "clear out / get rid of junk",
+      "junk mail / email",
+      "junk food",
+      "a junk shop / dealer",
+      "junk + object",
+      "junk an old machine",
+      "junk a plan / proposal",
+      "send / move something to junk"
     ],
     "usage": {
-      "require": "When a situation calls for something, that thing is required or appropriate.",
-      "demand": "When a person or organization calls for something, they publicly request or demand it.",
-      "announcement": "Call for can introduce an official invitation for applications, proposals, evidence, or submissions.",
-      "collection": "Especially in British English, call for someone can mean visiting a place in order to collect that person.",
-      "weather": "Especially in American English, a forecast calls for particular weather when it predicts those conditions.",
-      "inseparability": "The object follows for; do not place it between call and for in these senses.",
-      "person_pattern": "Call for someone to do something means publicly request, demand, or state that the person should perform the action.",
-      "context": "The intended meaning is normally determined by whether the subject is a situation, person, announcement, or forecast."
+      "uncountable": "Junk is normally uncountable when it means unwanted or worthless material: a lot of junk, not many junks.",
+      "individual_item": "Use a piece of junk or an item of junk for one particular unwanted object.",
+      "verb": "As a verb, junk means discarding, abandoning, or deciding not to use something.",
+      "attributive": "Before another noun, junk indicates something unwanted, unhealthy, of poor quality, or intended for discarded material.",
+      "evaluation": "Calling an object junk is strongly dismissive and expresses a judgment that it has little value or usefulness.",
+      "technology": "In computing and communication, junk can refer to unwanted email, files, data, search results, or automatically generated content.",
+      "ship_homonym": "A junk can also mean a traditional East or Southeast Asian sailing vessel; this is a separate countable sense with a different history.",
+      "drug_slang": "Junk has also been used as slang for heroin, but this sense is context-dependent and should be used with caution."
     }
   },
   "pronunciation": {
     "ipa": {
-      "us": "/ˈkɔːl fɔːr/",
-      "uk": "/ˈkɔːl fɔː/"
+      "us": "/dʒʌŋk/",
+      "uk": "/dʒʌŋk/"
     }
   },
   "meaning": {
     "ja": [
-      "状況・仕事などが特定の行為・能力・対応を必要とする",
-      "人・組織が行動・改革・調査などを公に要求する",
-      "応募・提案・情報などを正式に募集する",
-      "人や物を迎え・受け取りに立ち寄る",
-      "料理・飲物などを注文または要求する",
-      "天気予報などが特定の状況を予測する"
+      "不要になった物・がらくた・廃品",
+      "価値や品質が非常に低いと評価される物",
+      "コンピューター内の不要なファイル・データ・検索結果",
+      "望まれていない広告・郵便物・電子メール",
+      "動詞として、物を廃棄する、計画などを放棄する",
+      "形容詞的に、不健康な、質の低い、または不要な",
+      "別義で、中国などの伝統的な帆船・ジャンク船"
     ],
     "en": [
-      "for a situation or task, to require a particular action, ability, or response",
-      "for a person or organization, to publicly demand or request action, reform, or an investigation",
-      "to formally invite applications, proposals, information, or submissions",
-      "to visit a place in order to collect a person or thing",
-      "to request or order food, drink, or another item",
-      "for a forecast, to predict particular conditions"
+      "old, unwanted, or discarded objects and material",
+      "something regarded as having very little value or quality",
+      "unwanted files, data, or search results in a computer system",
+      "unwanted advertising, mail, or email",
+      "as a verb, to discard an object or abandon a plan",
+      "attributively, unhealthy, poor-quality, or unwanted",
+      "in a separate sense, a traditional Chinese or East Asian sailing vessel"
     ]
   },
   "nuance": {
-    "ja": "call for は、主語によって意味が変わる。This job calls for patience. では、仕事の性質上、忍耐が「必要である」という客観的な必要性を表す。The committee called for an investigation. では、委員会が調査を公に「要求した」という意味になる。a call for proposals のような名詞句では、提案の正式な募集を表す。イギリス英語を中心に I’ll call for you at eight. と言えば、8時に相手を迎えに行くことを意味する。demand より call for の方が、声明・要請・提言という公的な響きを持ちやすいが、文脈によっては強い要求にもなる。call on someone to do も公に行動を求める表現だが、call for は要求される行動・物を直接目的語に置きやすい。",
-    "en": "The meaning of call for depends substantially on its subject. In This job calls for patience, the nature of the work objectively requires patience. In The committee called for an investigation, the committee publicly requested or demanded an investigation. The noun phrase a call for proposals refers to a formal invitation for submissions. Particularly in British English, I’ll call for you at eight means that the speaker will come to collect the listener. Call for often has the public tone of a statement, appeal, or recommendation and may be weaker than demand, although it can express a forceful demand in context. Call on someone to do something similarly requests action, but call for more readily takes the requested action or thing itself as its object."
+    "ja": "junk は、不要・無価値・低品質だと判断された物を広く表す、くだけた語である。rubbish や trash と重なるが、junk は古い機械、壊れた家具、使わないケーブルなど、場所を占めながら残されている物に特によく使われる。必ずしも完全な廃棄物ではなく、所有者には不要でも修理・再利用・収集が可能な場合がある。That computer is junk. のように可算物を直接 junk と呼べるが、文法上の junk はこの意味では通常不可算である。動詞では、物を捨てるだけでなく、計画・制度・提案などを採用せず廃止することも表す。なお、a Chinese junk の junk は伝統的な帆船を表す別義であり、「がらくた」という評価とは関係しない。",
+    "en": "Junk is an informal and dismissive term for material considered unwanted, worthless, or of poor quality. It overlaps with rubbish and trash but is especially common for old machines, broken furniture, unused cables, and similar objects that remain while taking up space. Such material is not necessarily beyond all use; it may still be repaired, recycled, collected, or valuable to someone else. A countable object can be described as junk, as in That computer is junk, but junk remains grammatically uncountable in this sense. As a verb, it can mean discarding an object or abandoning a plan, policy, or proposal. The separate expression a Chinese junk refers to a traditional sailing vessel and carries no suggestion that the vessel is worthless."
   },
   "minimal": {
     "ja": [
-      "call for：何かを必要とする、公に要求する、または正式に募集する。",
-      "require：条件・規則・状況によって何かを必要不可欠とする。",
-      "demand：権利・権限・強い必要性に基づいて、何かを強く要求する。",
-      "ask for：何かをもらう・してもらうよう一般的に頼む。",
-      "request：礼儀正しく、または正式に何かを求める。",
-      "appeal for：援助・資金・情報などを得るため、公に強く呼びかける。",
-      "call on：特定の人・組織に対して行動するよう公に求める。",
-      "send for：人・物が自分のいる場所へ来るよう呼びにやる、または取り寄せる。"
+      "junk：不要・無価値・低品質だと見なされる物、またはそれを廃棄する。",
+      "rubbish：不要な廃棄物を広く表すイギリス英語の一般語。発言を「くだらない」と評する際にも使う。",
+      "trash：ごみ・廃棄物を表す主にアメリカ英語の一般語。",
+      "garbage：主に家庭から出る生ごみなどの廃棄物。比喩的に質の低い情報も表す。",
+      "clutter：必要性の低い物が集まり、空間や表示を雑然とさせている状態。",
+      "scrap：再利用・リサイクルのために残された金属・材料の断片や廃材。",
+      "debris：破壊・事故・工事などの後に残る破片・残骸。",
+      "discard：不要になった物を捨てることを中立的・やや形式的に表す。"
     ],
     "en": [
-      "call for means requiring something, publicly demanding it, or formally inviting submissions.",
-      "require means making something necessary because of a condition, rule, or situation.",
-      "demand means strongly insisting on something as a right, necessity, or exercise of authority.",
-      "ask for is the general expression for requesting an object or action.",
-      "request means politely or formally asking for something.",
-      "appeal for means making an urgent public request for assistance, money, or information.",
-      "call on means publicly asking a particular person or organization to take action.",
-      "send for means arranging for a person or thing to come to one’s location."
+      "junk is unwanted, worthless, or poor-quality material, or the act of discarding or abandoning something.",
+      "rubbish is the general British English term for waste and can also dismiss an idea as nonsense.",
+      "trash is the common American English term for discarded material or waste.",
+      "garbage commonly means household waste and can figuratively describe very poor-quality information.",
+      "clutter is an accumulation of unnecessary things that makes a space or display disorderly.",
+      "scrap is waste metal or other leftover material retained for reuse or recycling.",
+      "debris consists of scattered fragments or remains left by destruction, an accident, or construction.",
+      "discard is a neutral and somewhat formal verb meaning to throw away something no longer wanted."
     ]
   },
   "etymology": {
-    "ja": "call は古ノルド語 kalla「大声で呼ぶ、名付ける」に由来し、古英語の同義語に代わって中英語に定着した。for は目的・対象・追求を示す前置詞である。「何かを求めて呼ぶ」という文字どおりの用法から、物を要求する、人を迎えに行く、公に行動を求めるという意味が発達した。さらに、ある状況が特定の対応をいわば「求めている」という比喩から、「必要とする」という意味も生まれた。",
-    "en": "Call derives from Old Norse kalla, meaning to cry out or name, and became established in Middle English in place of an earlier Old English verb. The preposition for identifies an object, purpose, or thing sought. From the literal idea of calling in order to obtain something developed the senses requesting an item, collecting a person, and publicly demanding action. The meaning require arose metaphorically from a situation being understood as calling for an appropriate response."
+    "ja": "「がらくた」を意味する junk は、中英語で古い船舶用ロープや索具を表した語に由来すると考えられている。使い古したロープは切り分けられ、再利用される低価値の材料となったため、意味が廃品・不要物全般へ広がった。そこから「価値の低い物」、さらに動詞の「廃棄する、放棄する」という用法が生じた。一方、伝統的な東アジアの帆船を表す junk は別系統の語で、ヨーロッパ諸語がマレー語・ジャワ語系の船舶名称を介して取り入れたものとされる。",
+    "en": "Junk in the sense of discarded material is generally traced to a Middle English word for old ship's rope or cable. Worn rope could be cut apart and reused as low-value material, allowing the meaning to broaden to discarded or unwanted objects generally. From this developed the senses poor-quality material and, as a verb, to discard or abandon. Junk meaning a traditional East Asian sailing vessel has a separate origin and entered European languages through a Malay or Javanese term for a type of ship."
   },
   "synonyms": [
     {
-      "word": "require",
+      "word": "rubbish",
       "note": {
-        "ja": "状況・作業・規則などが、特定の物・能力・行為を必要とする。",
-        "en": "For a situation, task, or rule, to make a particular object, ability, or action necessary."
+        "ja": "不要な廃棄物を広く表し、特にイギリス英語で日常的に使われる。",
+        "en": "A broad everyday term for unwanted waste, especially common in British English."
       }
     },
     {
-      "word": "demand",
+      "word": "trash",
       "note": {
-        "ja": "権利・必要性・権限を根拠として、何かを強く要求する。",
-        "en": "To insist strongly on receiving something or having an action performed."
+        "ja": "捨てられる物・ごみを表す、特にアメリカ英語で一般的な語。",
+        "en": "A common term, especially in American English, for material that is thrown away."
       }
     },
     {
-      "word": "request",
+      "word": "clutter",
       "note": {
-        "ja": "人・組織に対し、物・情報・行為などを礼儀正しく、または正式に求める。",
-        "en": "To ask politely or formally for an object, information, or action."
+        "ja": "多数の不要な物が空間を占め、乱雑な状態を生じさせていることを表す。",
+        "en": "An accumulation of unnecessary objects creating disorder in a space."
       }
     },
     {
-      "word": "appeal for",
+      "word": "scrap",
       "note": {
-        "ja": "援助・寄付・情報・協力などを得るため、不特定多数へ公に呼びかける。",
-        "en": "To make an urgent public request for assistance, donations, information, or cooperation."
+        "ja": "製造・解体などで残り、再利用やリサイクルが可能な金属・材料。",
+        "en": "Metal or other material left from manufacturing or dismantling and potentially suitable for reuse."
       }
     },
     {
-      "word": "necessitate",
+      "word": "waste",
       "note": {
-        "ja": "ある事情が特定の結果・対応を不可避または必要にする、形式的な語。",
-        "en": "A formal verb meaning that circumstances make a particular result or response necessary."
+        "ja": "使用後に不要となった物質・材料を広く表す、中立的で正式な語。",
+        "en": "A broad, neutral term for material that is no longer wanted after use or production."
       }
     }
   ],
   "equivalents": {
-    "de": "erfordern / fordern / aufrufen zu",
-    "it": "richiedere / esigere / invocare",
-    "fr": "nécessiter / réclamer / appeler à",
-    "es": "requerir / exigir / pedir"
+    "de": "Gerümpel / Schrott / wegwerfen",
+    "it": "cianfrusaglie / rottame / buttare",
+    "fr": "bric-à-brac / ferraille / jeter",
+    "es": "trastos / chatarra / desechar"
   },
   "collocations": {
     "ja": [
-      "call for action — 行動を求める",
-      "call for reform — 改革を要求する",
-      "call for an investigation — 調査を求める",
-      "call for calm — 冷静さを呼びかける",
-      "call for restraint — 自制を求める",
-      "call for caution — 慎重な対応を必要とする",
-      "call for patience — 忍耐を必要とする",
-      "call for applications — 応募を募集する",
-      "call for proposals — 提案を募集する",
-      "call for further research — 追加研究の必要性を示す",
-      "call for someone at eight — 8時に人を迎えに行く",
-      "the forecast calls for rain — 天気予報では雨が予想されている"
+      "a pile of junk — がらくたの山",
+      "a piece of junk — がらくた一個",
+      "be full of junk — がらくたでいっぱいである",
+      "clear out the junk — 不用品を一掃する",
+      "get rid of junk — 不用品を処分する",
+      "junk mail — 迷惑な広告郵便",
+      "junk email — 迷惑メール",
+      "junk food — 栄養価の低い食品・ジャンクフード",
+      "a junk shop — 古物・がらくたを扱う店",
+      "a junk dealer — 廃品・古物商",
+      "junk an old machine — 古い機械を廃棄する",
+      "junk the proposal — 提案を放棄する"
     ],
     "en": [
-      "call for action",
-      "call for reform",
-      "call for an investigation",
-      "call for calm",
-      "call for restraint",
-      "call for caution",
-      "call for patience",
-      "call for applications",
-      "call for proposals",
-      "call for further research",
-      "call for someone at eight",
-      "the forecast calls for rain"
+      "a pile of junk",
+      "a piece of junk",
+      "be full of junk",
+      "clear out the junk",
+      "get rid of junk",
+      "junk mail",
+      "junk email",
+      "junk food",
+      "a junk shop",
+      "a junk dealer",
+      "junk an old machine",
+      "junk the proposal"
     ]
   },
   "example": {
     "ja": [
-      "This delicate operation calls for patience and precision. — この繊細な作業には、忍耐と正確さが必要である。",
-      "Local residents called for an independent investigation into the accident. — 地域住民は、その事故について独立した調査を求めた。",
-      "The university issued a call for research proposals. — その大学は研究提案の募集を発表した。",
-      "I’ll call for you at the hotel at seven thirty. — 7時30分にホテルへあなたを迎えに行きます。",
-      "The examiner’s objection calls for a substantive response rather than a merely formal amendment. — 審査官の拒絶理由に対しては、単なる形式的補正ではなく実質的な応答が必要である。"
+      "The garage is full of old furniture and other junk. — 車庫は古い家具やその他のがらくたでいっぱいだ。",
+      "I found this camera in a junk shop, but it still works perfectly. — このカメラは古物店で見つけたが、今でも完全に動作する。",
+      "The email service automatically moved the message to the junk folder. — メールサービスは、そのメッセージを自動的に迷惑メールフォルダーへ移した。",
+      "Management decided to junk the original plan and start again. — 経営陣は当初の計画を放棄し、最初からやり直すことにした。",
+      "The patent search produced a large amount of irrelevant junk, so the search terms had to be refined. — その特許調査では無関係で役に立たない検索結果が大量に出たため、検索語を絞り込む必要があった。"
     ],
     "en": [
-      "This delicate operation calls for patience and precision.",
-      "Local residents called for an independent investigation into the accident.",
-      "The university issued a call for research proposals.",
-      "I’ll call for you at the hotel at seven thirty.",
-      "The examiner’s objection calls for a substantive response rather than a merely formal amendment."
+      "The garage is full of old furniture and other junk.",
+      "I found this camera in a junk shop, but it still works perfectly.",
+      "The email service automatically moved the message to the junk folder.",
+      "Management decided to junk the original plan and start again.",
+      "The patent search produced a large amount of irrelevant junk, so the search terms had to be refined."
+    ]
+  }
+},
+{
+  "id": "call-off",
+  "sid": "2026-01448",
+  "word": "call off",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "cancellation",
+    "termination",
+    "event",
+    "meeting",
+    "search",
+    "strike",
+    "attack",
+    "order",
+    "business",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "call off",
+      "third_person": "calls off",
+      "past": "called off",
+      "past_participle": "called off",
+      "gerund": "calling off",
+      "related_noun": "cancellation"
+    },
+    "transitivity": "transitive and separable",
+    "patterns": [
+      "call off + noun",
+      "call + noun + off",
+      "call + pronoun + off",
+      "call off a meeting / event",
+      "call off a search",
+      "call off a strike",
+      "call off an attack",
+      "call off an agreement / deal",
+      "call off the dogs",
+      "be called off because of + noun"
+    ],
+    "usage": {
+      "cancellation": "Call off commonly means canceling a planned event, activity, or arrangement before it is completed.",
+      "termination": "It can also mean ordering an activity already in progress, such as a search, attack, or strike, to stop.",
+      "separability": "With a noun object, both call off the meeting and call the meeting off are possible.",
+      "pronoun": "A pronoun must come between the verb and particle: call it off, not call off it.",
+      "agent": "The subject is normally a person or organization with authority or practical ability to cancel or stop the activity.",
+      "register": "Call off is neutral and natural in conversation; cancel or terminate may be preferable in formal documents.",
+      "legal_context": "In legal or contractual writing, call off may be too informal or imprecise unless it is defined; cancel, terminate, withdraw, or discontinue may identify the intended legal effect more clearly."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkɔːl ˈɔːf/",
+      "uk": "/ˌkɔːl ˈɒf/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "予定されていた会議・試合・行事などを中止する",
+      "計画・取引・契約交渉などを取りやめる",
+      "進行中の捜索・攻撃・作戦などを打ち切る",
+      "ストライキ・抗議行動などの中止を命じる",
+      "人・動物に追跡・攻撃・批判をやめさせる",
+      "婚約・結婚式などの予定を破棄する"
+    ],
+    "en": [
+      "to cancel a planned meeting, game, event, or other activity",
+      "to abandon a plan, deal, or negotiation",
+      "to order an ongoing search, attack, or operation to stop",
+      "to bring a strike, protest, or similar action to an end",
+      "to order a person or animal to stop pursuing, attacking, or criticizing someone",
+      "to cancel an engagement, wedding, or similar arrangement"
+    ]
+  },
+  "nuance": {
+    "ja": "call off は、予定されていたことを実施前に中止する場合と、すでに始まっている行動を途中で打ち切る場合の両方に使える。call off the meeting は会議を開催しないことにし、call off the search は進行中の捜索を終了させることを表し得る。postpone や put off は後日に延期するだけで再実施を予定しているのに対し、call off は原則としてその予定・活動自体を中止する。ただし、後から新たに計画し直すことまでは妨げない。契約について call off the contract と言うこともあるが、法的な効果を正確に示す必要がある文書では terminate、cancel、rescind、withdraw などを事情に応じて使い分けるべきである。",
+    "en": "Call off can describe either canceling something before it begins or stopping an activity already in progress. Call off the meeting means deciding not to hold it, while call off the search may mean ending an ongoing search. Postpone and put off move an activity to a later time with an expectation that it may still occur; call off normally cancels the activity itself, although a new event can later be arranged. People sometimes say call off the contract, but legal writing should select a more precise verb such as terminate, cancel, rescind, or withdraw according to the intended legal effect."
+  },
+  "minimal": {
+    "ja": [
+      "call off：予定・行事を中止する、または進行中の活動を打ち切る。",
+      "cancel：予定・予約・行事などを実施しないことにする最も一般的な語。",
+      "postpone：予定を中止せず、後の日時まで延期する。",
+      "put off：予定・決定・行動を後回しにする、より口語的な表現。",
+      "terminate：契約・雇用・活動などを正式に終了させる。",
+      "abort：開始済みの計画・任務・処理を完了前に緊急停止する。",
+      "withdraw：提案・申請・支援などを撤回する。",
+      "call for：何かを必要とする、公に要求する、または正式に募集する。"
+    ],
+    "en": [
+      "call off means canceling a planned event or ordering an ongoing activity to stop.",
+      "cancel is the general verb for deciding that an appointment, reservation, or event will not take place.",
+      "postpone means moving an activity to a later time rather than canceling it.",
+      "put off is a more conversational expression for delaying an event, decision, or action.",
+      "terminate means formally bringing a contract, employment relationship, or activity to an end.",
+      "abort means stopping an operation, mission, or process before completion, often because of an urgent problem.",
+      "withdraw means removing a proposal, application, offer, or support that was previously presented.",
+      "call for means requiring something, publicly demanding it, or formally inviting submissions."
+    ]
+  },
+  "etymology": {
+    "ja": "call は古ノルド語 kalla「大声で呼ぶ、名付ける」に由来する。off は接触・継続している状態から離れることを表す。もともと call off は、人や動物を呼び戻して追跡・攻撃などをやめさせることを表した。そこから、命令によって活動を停止させるという意味が広がり、会議・試合・計画などを「中止する」という現代の一般的用法が発達した。",
+    "en": "Call derives from Old Norse kalla, meaning to cry out or name. Off expresses movement away from contact or continuation. Call off originally described recalling a person or animal and thereby stopping a pursuit or attack. From the idea of ending an activity by command developed the broader modern meaning of canceling a meeting, event, plan, or arrangement."
+  },
+  "synonyms": [
+    {
+      "word": "cancel",
+      "note": {
+        "ja": "予定されていた行事・予約・注文などを実施または有効化しないことにする。",
+        "en": "To decide that a planned event, reservation, order, or arrangement will not take place or remain effective."
+      }
+    },
+    {
+      "word": "abort",
+      "note": {
+        "ja": "計画・任務・技術的処理などを、完了する前に途中で停止する。",
+        "en": "To stop a plan, mission, or technical process before it has been completed."
+      }
+    },
+    {
+      "word": "terminate",
+      "note": {
+        "ja": "契約・雇用・活動などを、正式な効果を伴って終了させる。",
+        "en": "To formally bring a contract, employment relationship, or continuing activity to an end."
+      }
+    },
+    {
+      "word": "abandon",
+      "note": {
+        "ja": "計画・試み・方針などを断念し、それ以上続けない。",
+        "en": "To give up a plan, attempt, or policy and cease pursuing it."
+      }
+    },
+    {
+      "word": "discontinue",
+      "note": {
+        "ja": "継続していた活動・サービス・手続などを終了し、以後行わない。",
+        "en": "To stop an activity, service, or procedure that had previously been continuing."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "absagen / abbrechen / zurückrufen",
+    "it": "annullare / disdire / interrompere",
+    "fr": "annuler / interrompre / rappeler",
+    "es": "cancelar / suspender / retirar"
+  },
+  "collocations": {
+    "ja": [
+      "call off a meeting — 会議を中止する",
+      "call off a game — 試合を中止する",
+      "call off an event — 行事を中止する",
+      "call off a wedding — 結婚式を取りやめる",
+      "call off a deal — 取引を取りやめる",
+      "call off negotiations — 交渉を打ち切る",
+      "call off a search — 捜索を打ち切る",
+      "call off an attack — 攻撃を中止する",
+      "call off a strike — ストライキを中止する",
+      "call off the operation — 作戦を中止する",
+      "call it off — それを中止する",
+      "call off the dogs — 追及・攻撃をやめさせる"
+    ],
+    "en": [
+      "call off a meeting",
+      "call off a game",
+      "call off an event",
+      "call off a wedding",
+      "call off a deal",
+      "call off negotiations",
+      "call off a search",
+      "call off an attack",
+      "call off a strike",
+      "call off the operation",
+      "call it off",
+      "call off the dogs"
+    ]
+  },
+  "example": {
+    "ja": [
+      "They called off the outdoor concert because of the storm. — 嵐のため、野外コンサートは中止された。",
+      "The police called off the search shortly after midnight. — 警察は真夜中を過ぎて間もなく捜索を打ち切った。",
+      "We may have to call the meeting off if the chairperson cannot attend. — 議長が出席できなければ、会議を中止しなければならないかもしれない。",
+      "The union called off the strike after reaching an agreement with management. — 労働組合は経営側との合意成立後、ストライキを中止した。",
+      "The applicant called off the interview after concluding that a written response would address the patent examiner’s objections more effectively. — 出願人は、書面による応答の方が特許審査官の拒絶理由に効果的に対処できると判断し、面接を取りやめた。"
+    ],
+    "en": [
+      "They called off the outdoor concert because of the storm.",
+      "The police called off the search shortly after midnight.",
+      "We may have to call the meeting off if the chairperson cannot attend.",
+      "The union called off the strike after reaching an agreement with management.",
+      "The applicant called off the interview after concluding that a written response would address the patent examiner’s objections more effectively."
     ]
   }
 },
