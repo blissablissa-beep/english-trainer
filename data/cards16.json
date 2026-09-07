@@ -5128,6 +5128,204 @@
   }
 },
 {
+  "id": "call-for",
+  "sid": "2026-01448",
+  "word": "call for",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal-prepositional verb",
+    "requirement",
+    "demand",
+    "request",
+    "appeal",
+    "collection",
+    "prediction",
+    "public statement",
+    "business",
+    "politics",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal-prepositional verb",
+    "forms": {
+      "base": "call for",
+      "third_person": "calls for",
+      "past": "called for",
+      "past_participle": "called for",
+      "gerund": "calling for",
+      "related_noun": "call"
+    },
+    "transitivity": "prepositional transitive and inseparable",
+    "patterns": [
+      "call for + noun",
+      "call for + person to do",
+      "call for action / reform",
+      "call for an investigation",
+      "call for calm / restraint",
+      "call for applications / proposals",
+      "call for someone / something",
+      "call for someone at + time",
+      "the situation calls for + noun",
+      "the forecast calls for + weather"
+    ],
+    "usage": {
+      "require": "When a situation calls for something, that thing is required or appropriate.",
+      "demand": "When a person or organization calls for something, they publicly request or demand it.",
+      "announcement": "Call for can introduce an official invitation for applications, proposals, evidence, or submissions.",
+      "collection": "Especially in British English, call for someone can mean visiting a place in order to collect that person.",
+      "weather": "Especially in American English, a forecast calls for particular weather when it predicts those conditions.",
+      "inseparability": "The object follows for; do not place it between call and for in these senses.",
+      "person_pattern": "Call for someone to do something means publicly request, demand, or state that the person should perform the action.",
+      "context": "The intended meaning is normally determined by whether the subject is a situation, person, announcement, or forecast."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkɔːl fɔːr/",
+      "uk": "/ˈkɔːl fɔː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "状況・仕事などが特定の行為・能力・対応を必要とする",
+      "人・組織が行動・改革・調査などを公に要求する",
+      "応募・提案・情報などを正式に募集する",
+      "人や物を迎え・受け取りに立ち寄る",
+      "料理・飲物などを注文または要求する",
+      "天気予報などが特定の状況を予測する"
+    ],
+    "en": [
+      "for a situation or task, to require a particular action, ability, or response",
+      "for a person or organization, to publicly demand or request action, reform, or an investigation",
+      "to formally invite applications, proposals, information, or submissions",
+      "to visit a place in order to collect a person or thing",
+      "to request or order food, drink, or another item",
+      "for a forecast, to predict particular conditions"
+    ]
+  },
+  "nuance": {
+    "ja": "call for は、主語によって意味が変わる。This job calls for patience. では、仕事の性質上、忍耐が「必要である」という客観的な必要性を表す。The committee called for an investigation. では、委員会が調査を公に「要求した」という意味になる。a call for proposals のような名詞句では、提案の正式な募集を表す。イギリス英語を中心に I’ll call for you at eight. と言えば、8時に相手を迎えに行くことを意味する。demand より call for の方が、声明・要請・提言という公的な響きを持ちやすいが、文脈によっては強い要求にもなる。call on someone to do も公に行動を求める表現だが、call for は要求される行動・物を直接目的語に置きやすい。",
+    "en": "The meaning of call for depends substantially on its subject. In This job calls for patience, the nature of the work objectively requires patience. In The committee called for an investigation, the committee publicly requested or demanded an investigation. The noun phrase a call for proposals refers to a formal invitation for submissions. Particularly in British English, I’ll call for you at eight means that the speaker will come to collect the listener. Call for often has the public tone of a statement, appeal, or recommendation and may be weaker than demand, although it can express a forceful demand in context. Call on someone to do something similarly requests action, but call for more readily takes the requested action or thing itself as its object."
+  },
+  "minimal": {
+    "ja": [
+      "call for：何かを必要とする、公に要求する、または正式に募集する。",
+      "require：条件・規則・状況によって何かを必要不可欠とする。",
+      "demand：権利・権限・強い必要性に基づいて、何かを強く要求する。",
+      "ask for：何かをもらう・してもらうよう一般的に頼む。",
+      "request：礼儀正しく、または正式に何かを求める。",
+      "appeal for：援助・資金・情報などを得るため、公に強く呼びかける。",
+      "call on：特定の人・組織に対して行動するよう公に求める。",
+      "send for：人・物が自分のいる場所へ来るよう呼びにやる、または取り寄せる。"
+    ],
+    "en": [
+      "call for means requiring something, publicly demanding it, or formally inviting submissions.",
+      "require means making something necessary because of a condition, rule, or situation.",
+      "demand means strongly insisting on something as a right, necessity, or exercise of authority.",
+      "ask for is the general expression for requesting an object or action.",
+      "request means politely or formally asking for something.",
+      "appeal for means making an urgent public request for assistance, money, or information.",
+      "call on means publicly asking a particular person or organization to take action.",
+      "send for means arranging for a person or thing to come to one’s location."
+    ]
+  },
+  "etymology": {
+    "ja": "call は古ノルド語 kalla「大声で呼ぶ、名付ける」に由来し、古英語の同義語に代わって中英語に定着した。for は目的・対象・追求を示す前置詞である。「何かを求めて呼ぶ」という文字どおりの用法から、物を要求する、人を迎えに行く、公に行動を求めるという意味が発達した。さらに、ある状況が特定の対応をいわば「求めている」という比喩から、「必要とする」という意味も生まれた。",
+    "en": "Call derives from Old Norse kalla, meaning to cry out or name, and became established in Middle English in place of an earlier Old English verb. The preposition for identifies an object, purpose, or thing sought. From the literal idea of calling in order to obtain something developed the senses requesting an item, collecting a person, and publicly demanding action. The meaning require arose metaphorically from a situation being understood as calling for an appropriate response."
+  },
+  "synonyms": [
+    {
+      "word": "require",
+      "note": {
+        "ja": "状況・作業・規則などが、特定の物・能力・行為を必要とする。",
+        "en": "For a situation, task, or rule, to make a particular object, ability, or action necessary."
+      }
+    },
+    {
+      "word": "demand",
+      "note": {
+        "ja": "権利・必要性・権限を根拠として、何かを強く要求する。",
+        "en": "To insist strongly on receiving something or having an action performed."
+      }
+    },
+    {
+      "word": "request",
+      "note": {
+        "ja": "人・組織に対し、物・情報・行為などを礼儀正しく、または正式に求める。",
+        "en": "To ask politely or formally for an object, information, or action."
+      }
+    },
+    {
+      "word": "appeal for",
+      "note": {
+        "ja": "援助・寄付・情報・協力などを得るため、不特定多数へ公に呼びかける。",
+        "en": "To make an urgent public request for assistance, donations, information, or cooperation."
+      }
+    },
+    {
+      "word": "necessitate",
+      "note": {
+        "ja": "ある事情が特定の結果・対応を不可避または必要にする、形式的な語。",
+        "en": "A formal verb meaning that circumstances make a particular result or response necessary."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "erfordern / fordern / aufrufen zu",
+    "it": "richiedere / esigere / invocare",
+    "fr": "nécessiter / réclamer / appeler à",
+    "es": "requerir / exigir / pedir"
+  },
+  "collocations": {
+    "ja": [
+      "call for action — 行動を求める",
+      "call for reform — 改革を要求する",
+      "call for an investigation — 調査を求める",
+      "call for calm — 冷静さを呼びかける",
+      "call for restraint — 自制を求める",
+      "call for caution — 慎重な対応を必要とする",
+      "call for patience — 忍耐を必要とする",
+      "call for applications — 応募を募集する",
+      "call for proposals — 提案を募集する",
+      "call for further research — 追加研究の必要性を示す",
+      "call for someone at eight — 8時に人を迎えに行く",
+      "the forecast calls for rain — 天気予報では雨が予想されている"
+    ],
+    "en": [
+      "call for action",
+      "call for reform",
+      "call for an investigation",
+      "call for calm",
+      "call for restraint",
+      "call for caution",
+      "call for patience",
+      "call for applications",
+      "call for proposals",
+      "call for further research",
+      "call for someone at eight",
+      "the forecast calls for rain"
+    ]
+  },
+  "example": {
+    "ja": [
+      "This delicate operation calls for patience and precision. — この繊細な作業には、忍耐と正確さが必要である。",
+      "Local residents called for an independent investigation into the accident. — 地域住民は、その事故について独立した調査を求めた。",
+      "The university issued a call for research proposals. — その大学は研究提案の募集を発表した。",
+      "I’ll call for you at the hotel at seven thirty. — 7時30分にホテルへあなたを迎えに行きます。",
+      "The examiner’s objection calls for a substantive response rather than a merely formal amendment. — 審査官の拒絶理由に対しては、単なる形式的補正ではなく実質的な応答が必要である。"
+    ],
+    "en": [
+      "This delicate operation calls for patience and precision.",
+      "Local residents called for an independent investigation into the accident.",
+      "The university issued a call for research proposals.",
+      "I’ll call for you at the hotel at seven thirty.",
+      "The examiner’s objection calls for a substantive response rather than a merely formal amendment."
+    ]
+  }
+},
+{
   "id": "alike",
   "sid": "2026-01449",
   "word": "alike",
