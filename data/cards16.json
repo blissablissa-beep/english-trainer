@@ -1,5 +1,201 @@
 [
 {
+  "id": "humanoid",
+  "sid": "2026-01431",
+  "word": "humanoid",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "noun",
+    "robot",
+    "robotics",
+    "human form",
+    "human-like",
+    "artificial intelligence",
+    "engineering",
+    "science fiction",
+    "technology",
+    "patent",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / noun",
+    "countability": "countable as a noun",
+    "plural": "humanoids",
+    "forms": {
+      "adjective": "humanoid",
+      "noun_singular": "humanoid",
+      "noun_plural": "humanoids",
+      "common_compound": "humanoid robot",
+      "related_adjective": "anthropomorphic",
+      "related_noun": "android"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a humanoid + robot / figure / creature",
+      "a humanoid in appearance / form",
+      "have a humanoid shape / body",
+      "appear / look humanoid",
+      "a human-sized humanoid robot",
+      "a bipedal humanoid robot",
+      "design / develop / build a humanoid robot",
+      "a humanoid capable of + gerund",
+      "humanoid movement / locomotion",
+      "human–humanoid interaction"
+    ],
+    "usage": {
+      "adjective": "As an adjective, humanoid describes something having a form, structure, or appearance resembling that of a human.",
+      "noun": "As a countable noun, a humanoid is a robot, creature, or fictional being with a generally human-like form.",
+      "robotics": "A humanoid robot is designed with a body arrangement approximating the human form, although the degree of resemblance varies.",
+      "function": "Humanoid does not necessarily mean that the robot thinks, behaves, speaks, or possesses intelligence like a human.",
+      "android": "Android often suggests a robot or artificial being with a more convincingly human appearance, but the distinction is not applied consistently.",
+      "anthropomorphic": "Anthropomorphic is broader and can describe nonhuman things given human appearance, behavior, emotions, or personality."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈhjuːmənɔɪd/",
+      "uk": "/ˈhjuːmənɔɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "形・身体構造・外見などが人間に似た",
+      "頭・胴体・腕・脚など、人間型の身体配置を持つ",
+      "名詞として、人間に似た形のロボット・生物・架空の存在",
+      "humanoid robot の形で、人型ロボット",
+      "必ずしも人間そっくりではないが、全体的な形態が人間型の"
+    ],
+    "en": [
+      "having a form, bodily structure, or appearance resembling that of a human",
+      "having a human-like arrangement of a head, torso, arms, and legs",
+      "as a noun, a robot, creature, or fictional being with a generally human form",
+      "in humanoid robot, a robot designed with a body approximating the human form",
+      "human-shaped overall without necessarily possessing a highly realistic human appearance"
+    ]
+  },
+  "nuance": {
+    "ja": "humanoid の中心は知能ではなく形態である。humanoid robot は通常、人間に近い胴体・頭部・腕・脚などを備え、人間用に設計された環境や道具を利用できるよう構成されたロボットを指す。ただし、二足歩行、両腕、五本指、人間らしい顔のすべてを必ず備えるという一律の条件があるわけではない。android は特に外見まで人間と見分けにくい人工存在を示唆することが多いが、SFや一般用法では humanoid と重なる。anthropomorphic は形だけでなく、動物・物・ソフトウェアなどに人間の感情・人格・行動を与える場合にも使える、より広い語である。",
+    "en": "Humanoid primarily concerns form rather than intelligence. A humanoid robot typically has a human-like arrangement of torso, head, arms, or legs and may be designed to operate in environments and use tools made for humans. There is no single universal requirement that every humanoid must walk on two legs, have two complete arms, possess five-fingered hands, or display a realistic face. Android often suggests an artificial being whose outward appearance is especially close to that of a human, although ordinary and science-fiction usage overlaps. Anthropomorphic is broader and can describe animals, objects, or software given human emotions, personality, behavior, or form."
+  },
+  "minimal": {
+    "ja": [
+      "humanoid：全体的な形・身体構造が人間に似たもの、またはそのようなロボット・存在。",
+      "humanoid robot：人間型の身体構造を持つよう設計されたロボット。",
+      "android：特に外見・行動が人間に酷似した人工的存在を指すことが多い。",
+      "robot：自動的またはプログラムに従って作業する機械。人間型とは限らない。",
+      "anthropomorphic：非人間の物・動物などに、人間の姿・感情・性格を持たせた。",
+      "bipedal：二本の脚で立つ、または歩行する。人間型であるとは限らない。",
+      "cyborg：生物の身体と人工的・機械的な部品を組み合わせた存在。",
+      "automaton：自動的に動作する機械・人形、または機械的に行動する人。"
+    ],
+    "en": [
+      "humanoid describes something with an overall form or bodily structure resembling that of a human.",
+      "a humanoid robot is a robot designed with a body arrangement approximating the human form.",
+      "an android often means an artificial being whose appearance or behavior closely resembles a human.",
+      "a robot is a machine that performs tasks automatically or under programmed control and need not be human-shaped.",
+      "anthropomorphic describes a nonhuman thing or animal given human form, emotions, personality, or behavior.",
+      "bipedal means standing or walking on two legs and does not necessarily mean humanoid.",
+      "a cyborg combines a biological organism with artificial or mechanical components.",
+      "an automaton is a self-operating machine or figure, or figuratively a person behaving mechanically."
+    ]
+  },
+  "etymology": {
+    "ja": "humanoid は human と、形・類似性を表す接尾辞 -oid から成る。human はラテン語 humanus「人間の、人間らしい」に由来する。-oid はギリシャ語 eidos「形、姿」に由来し、android「人間に似たもの」、spheroid「球状のもの」などにも見られる。したがって humanoid は文字どおりには「人間のような形を持つもの」を意味し、当初は人間に似た生物・架空の存在などに使われ、後にロボット工学の用語として広く用いられるようになった。",
+    "en": "Humanoid is formed from human and the suffix -oid, indicating form or resemblance. Human derives from Latin humanus, human or relating to humankind. The suffix -oid comes from Greek eidos, form or appearance, and also occurs in words such as android and spheroid. Humanoid therefore literally means having a human-like form. It was applied to human-shaped creatures and fictional beings and later became widely established in robotics."
+  },
+  "synonyms": [
+    {
+      "word": "human-like",
+      "note": {
+        "ja": "外見・行動・声・能力など、何らかの点で人間に似ていることを広く表す。",
+        "en": "A broad expression for resembling humans in appearance, behavior, voice, ability, or another respect."
+      }
+    },
+    {
+      "word": "anthropomorphic",
+      "note": {
+        "ja": "動物・物・神・システムなどに、人間の姿・感情・意図・人格を与えた。",
+        "en": "Describes an animal, object, deity, or system given human form, emotion, intention, or personality."
+      }
+    },
+    {
+      "word": "android",
+      "note": {
+        "ja": "一般に、外見や行動が人間に非常によく似たロボット・人工生命体。",
+        "en": "Generally, a robot or artificial being whose appearance or behavior closely resembles that of a human."
+      }
+    },
+    {
+      "word": "human-shaped",
+      "note": {
+        "ja": "知能・動作などについて含意せず、外形が人間の形をしていることを直接表す。",
+        "en": "Directly describes an object’s human form without implying intelligence or human-like behavior."
+      }
+    },
+    {
+      "word": "anthropoid",
+      "note": {
+        "ja": "人間に似た形を持つという意味だが、現代では主に類人猿に関する生物学的文脈で使われる。",
+        "en": "Means human-like in form but is now used mainly in biological contexts relating to apes."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "humanoid / menschenähnlich / humanoider Roboter",
+    "it": "umanoide / robot umanoide",
+    "fr": "humanoïde / robot humanoïde",
+    "es": "humanoide / robot humanoide"
+  },
+  "collocations": {
+    "ja": [
+      "a humanoid robot — 人型ロボット",
+      "a human-sized humanoid — 人間と同程度の大きさの人型ロボット",
+      "a bipedal humanoid robot — 二足歩行型の人型ロボット",
+      "a fully autonomous humanoid — 完全自律型の人型ロボット",
+      "a humanoid figure — 人間に似た姿",
+      "a humanoid appearance — 人間型の外見",
+      "a humanoid body — 人間型の身体",
+      "humanoid movement — 人間に似た動作",
+      "humanoid locomotion — 人間型ロボットの移動・歩行",
+      "humanoid robot development — 人型ロボットの開発",
+      "humanoid robot technology — 人型ロボット技術",
+      "human–humanoid interaction — 人間と人型ロボットの相互作用"
+    ],
+    "en": [
+      "a humanoid robot",
+      "a human-sized humanoid",
+      "a bipedal humanoid robot",
+      "a fully autonomous humanoid",
+      "a humanoid figure",
+      "a humanoid appearance",
+      "a humanoid body",
+      "humanoid movement",
+      "humanoid locomotion",
+      "humanoid robot development",
+      "humanoid robot technology",
+      "human–humanoid interaction"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company demonstrated a humanoid robot capable of carrying boxes. — その会社は、箱を運ぶことのできる人型ロボットを実演した。",
+      "The machine has a humanoid body but no human-like face. — その機械は人間型の身体を持つが、人間らしい顔は備えていない。",
+      "Researchers are teaching the humanoid to maintain its balance on uneven ground. — 研究者たちは、その人型ロボットに不整地でバランスを保つ方法を学習させている。",
+      "A robot can be intelligent and autonomous without being humanoid. — ロボットは人間型でなくても、高度な知能と自律性を持つことができる。",
+      "The patent claim covers a control system for humanoid robots but does not require the robot to have a realistic human appearance. — その特許請求項は人型ロボットの制御システムを対象としているが、ロボットが写実的な人間の外見を持つことまでは要求していない。"
+    ],
+    "en": [
+      "The company demonstrated a humanoid robot capable of carrying boxes.",
+      "The machine has a humanoid body but no human-like face.",
+      "Researchers are teaching the humanoid to maintain its balance on uneven ground.",
+      "A robot can be intelligent and autonomous without being humanoid.",
+      "The patent claim covers a control system for humanoid robots but does not require the robot to have a realistic human appearance."
+    ]
+  }
+},
+{
   "id": "clutter",
   "sid": "2026-01432",
   "word": "clutter",
