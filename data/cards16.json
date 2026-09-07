@@ -1581,5 +1581,203 @@
       "A patent-management system can improve productivity, but every automatically generated filing deadline must still be verified."
     ]
   }
+},
+{
+  "id": "equation",
+  "sid": "2026-01440",
+  "word": "equation",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "mathematics",
+    "algebra",
+    "science",
+    "engineering",
+    "equality",
+    "calculation",
+    "relationship",
+    "comparison",
+    "factor",
+    "technology",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "equations",
+    "forms": {
+      "singular": "equation",
+      "plural": "equations",
+      "verb": "equate",
+      "adjective": "equational",
+      "related_adjective": "equal"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an equation",
+      "an equation for + quantity / process",
+      "an equation involving + variables",
+      "an equation of the form + expression",
+      "solve an equation",
+      "write / formulate / derive an equation",
+      "substitute a value into an equation",
+      "both sides of an equation",
+      "factor something into the equation",
+      "be part of the equation"
+    ],
+    "usage": {
+      "mathematics": "In mathematics, an equation states that two expressions or quantities are equal, normally using the equals sign.",
+      "countability": "Equation is countable: an equation, several equations, or a system of equations.",
+      "formula_distinction": "An equation asserts equality, whereas a formula commonly provides a rule for calculating a quantity or expresses a standard relationship.",
+      "expression_distinction": "A mathematical expression contains numbers, variables, and operations but does not necessarily assert equality.",
+      "figurative": "Figuratively, equation can mean a situation considered as a combination of interacting factors.",
+      "equate_distinction": "Equation is the noun for a mathematical statement or balanced relationship; equate is the corresponding verb.",
+      "pronunciation": "The middle consonant is commonly pronounced /ʒ/, as in the middle of vision."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪˈkweɪʒən/",
+      "uk": "/ɪˈkweɪʒən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "二つの数式・数量が等しいことを等号で示す方程式・等式",
+      "未知数を含み、その値を求めることのできる数学的な式",
+      "物理量や変数の関係を表す数式",
+      "複数の要因が相互に影響する状況・関係",
+      "二つの物事を同一または同等として扱うこと",
+      "判断や計画において考慮すべき要素の組み合わせ"
+    ],
+    "en": [
+      "a mathematical statement that two expressions or quantities are equal",
+      "a mathematical statement containing an unknown value that can be determined",
+      "a statement expressing the relationship between physical quantities or variables",
+      "a situation involving several interacting factors",
+      "the treatment of two things as identical or equivalent",
+      "a combination of elements that must be considered in a decision or plan"
+    ]
+  },
+  "nuance": {
+    "ja": "数学における equation は、等号によって左右の式が等しいと主張するものである。例えば x + 2 = 5 は equation だが、x + 2 だけなら expression「数式・式」であり、等式ではない。formula は特定の値を計算する規則や一般的関係を表すことが多く、equation と重なる場合はあるものの完全な同義語ではない。日常語では、複雑な問題を構成する要因の組み合わせを表し、Money is only one part of the equation. のように使う。また、the equation of A with B のような形式的用法では、異なる二つのものを同一視することを表すが、通常の会話では equating A with B の方が自然である。",
+    "en": "In mathematics, an equation asserts that the expressions on its two sides are equal, normally through an equals sign. For example, x + 2 = 5 is an equation, whereas x + 2 by itself is an expression. A formula commonly provides a rule for calculating a value or states a general relationship, so it can overlap with equation but is not an exact synonym. In everyday language, equation refers to the combination of factors making up a complicated situation, as in Money is only one part of the equation. The formal expression the equation of A with B can mean treating two things as identical, although equating A with B is more natural in ordinary usage."
+  },
+  "minimal": {
+    "ja": [
+      "equation：二つの数式・数量が等しいことを示す等式、または複数要因から成る関係。",
+      "formula：値を計算する規則、または一般的な関係を記号で表した公式。",
+      "expression：数・変数・演算記号から成る式で、等号を含む必要はない。",
+      "identity：変数の許されるすべての値について成立する等式。",
+      "inequality：二つの値の大小関係を不等号で示す不等式。",
+      "calculation：数値や記号を操作して結果を求める計算過程。",
+      "variable：方程式の中で変化し得る値、または未知の値を表す記号。",
+      "equate：二つの物を等しいものとして扱う、または両者が等しいとする。"
+    ],
+    "en": [
+      "an equation states that two mathematical expressions or quantities are equal or represents a relationship among several factors.",
+      "a formula is a symbolic rule for calculating a value or expressing a general relationship.",
+      "an expression consists of numbers, variables, and operations and need not contain an equals sign.",
+      "an identity is an equation true for every permitted value of its variables.",
+      "an inequality states the relative size of two values by using an inequality sign.",
+      "a calculation is the process of manipulating numbers or symbols to obtain a result.",
+      "a variable is a symbol representing a value that can change or remain unknown.",
+      "equate means treating two things as equal or stating that they have the same value."
+    ]
+  },
+  "etymology": {
+    "ja": "equation はラテン語 aequatio「等しくすること、均等化」に由来し、フランス語を経て英語に入った。aequatio は動詞 aequare「等しくする」から作られ、その基礎には aequus「等しい、平らな、公平な」がある。英語では当初、物事を等しくする行為や状態を広く表したが、やがて数学において二つの量が等しいことを示す式を指す専門用語となった。equal、equality、equate、equivalent も同じラテン語系統に属する。",
+    "en": "Equation comes through French from Latin aequatio, meaning an equalizing or making equal. Aequatio was formed from aequare, to make equal, based on aequus, meaning equal, level, or fair. In English, the word initially referred broadly to the act or condition of making things equal and later became the mathematical term for a statement that two quantities are equal. Equal, equality, equate, and equivalent belong to the same Latin word family."
+  },
+  "synonyms": [
+    {
+      "word": "formula",
+      "note": {
+        "ja": "数量を求める方法や、変数間の一般的な関係を記号で表したもの。",
+        "en": "A symbolic rule showing how to calculate a quantity or representing a general relationship among variables."
+      }
+    },
+    {
+      "word": "equality",
+      "note": {
+        "ja": "数学では二つの量が等しいという関係を表し、一般語では同等性を意味する。",
+        "en": "In mathematics, the relationship of two quantities having the same value; generally, the state of being equal."
+      }
+    },
+    {
+      "word": "relationship",
+      "note": {
+        "ja": "二つ以上の数量・要素・事象が相互にどのように関連するかを表す一般語。",
+        "en": "A general term for the way in which two or more quantities, elements, or events are connected."
+      }
+    },
+    {
+      "word": "expression",
+      "note": {
+        "ja": "数・変数・演算記号を組み合わせた数学的な式で、必ずしも等式ではない。",
+        "en": "A mathematical combination of numbers, variables, and operations that does not necessarily assert equality."
+      }
+    },
+    {
+      "word": "balance",
+      "note": {
+        "ja": "複数の要素・力・利益などが釣り合っている状態を表す。",
+        "en": "A state in which different elements, forces, or interests are appropriately proportioned."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Gleichung",
+    "it": "equazione",
+    "fr": "équation",
+    "es": "ecuación"
+  },
+  "collocations": {
+    "ja": [
+      "a mathematical equation — 数学上の方程式",
+      "a simple equation — 単純な方程式",
+      "a complex equation — 複雑な方程式",
+      "a linear equation — 一次方程式",
+      "a quadratic equation — 二次方程式",
+      "solve an equation — 方程式を解く",
+      "formulate an equation — 方程式を立てる",
+      "derive an equation — 方程式を導出する",
+      "substitute a value into an equation — 方程式に値を代入する",
+      "both sides of the equation — 等式の両辺",
+      "part of the equation — 状況を構成する一要素",
+      "factor something into the equation — ある要素を考慮に入れる"
+    ],
+    "en": [
+      "a mathematical equation",
+      "a simple equation",
+      "a complex equation",
+      "a linear equation",
+      "a quadratic equation",
+      "solve an equation",
+      "formulate an equation",
+      "derive an equation",
+      "substitute a value into an equation",
+      "both sides of the equation",
+      "part of the equation",
+      "factor something into the equation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Can you solve this equation without using a calculator? — 計算機を使わずに、この方程式を解けますか。",
+      "The equation describes the relationship between pressure and temperature. — その方程式は圧力と温度の関係を表している。",
+      "Substitute the measured value for x in the equation. — 方程式の x に測定値を代入してください。",
+      "Salary is important, but flexibility is also part of the equation. — 給与は重要だが、柔軟性も考慮すべき要素の一つである。",
+      "If a patent claim defines a parameter by an equation, the symbols and method of measurement should be explained clearly in the specification. — 特許請求項がパラメータを方程式によって定義する場合、その記号と測定方法を明細書で明確に説明することが望ましい。"
+    ],
+    "en": [
+      "Can you solve this equation without using a calculator?",
+      "The equation describes the relationship between pressure and temperature.",
+      "Substitute the measured value for x in the equation.",
+      "Salary is important, but flexibility is also part of the equation.",
+      "If a patent claim defines a parameter by an equation, the symbols and method of measurement should be explained clearly in the specification."
+    ]
+  }
 }
 ]
