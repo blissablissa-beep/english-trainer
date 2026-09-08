@@ -1,1 +1,612 @@
-[]
+[
+{
+  "id": "direct",
+  "sid": "2026-01491",
+  "word": "direct",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "verb",
+    "adverb",
+    "direction",
+    "communication",
+    "management",
+    "film",
+    "cause",
+    "evidence",
+    "cost",
+    "tax",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / verb / adverb",
+    "forms": {
+      "adjective": "direct",
+      "comparative": "more direct",
+      "superlative": "most direct",
+      "verb_base": "direct",
+      "third_person": "directs",
+      "past": "directed",
+      "past_participle": "directed",
+      "gerund": "directing",
+      "adverb": "direct / directly",
+      "noun": "direction / director / directness",
+      "opposite": "indirect"
+    },
+    "transitivity": "transitive or intransitive as a verb",
+    "patterns": [
+      "a direct + route / flight / connection",
+      "direct contact / communication",
+      "a direct effect / cause / result",
+      "a direct answer / question",
+      "direct + person / organization / activity",
+      "direct someone to + place / source",
+      "direct someone to do",
+      "direct something at / toward + target",
+      "direct attention to + noun",
+      "go / fly / travel direct"
+    ],
+    "usage": {
+      "adjective": "As an adjective, direct means proceeding without an intermediate person, place, stage, or cause.",
+      "communication": "A direct statement expresses its meaning clearly and openly rather than through hints.",
+      "verb_management": "Direct a person, team, or activity means control, supervise, or give instructions.",
+      "verb_route": "Direct someone to a place means show or tell that person where to go.",
+      "verb_target": "Direct something at or toward a target means aim or address it there.",
+      "infinitive": "Direct someone to do something is a formal pattern meaning instruct or order the person to act.",
+      "adverb": "Direct can function as an adverb of route in expressions such as fly direct and go direct; directly is preferred for many other adverbial meanings.",
+      "comparison": "More direct and most direct are generally preferred to directer and directest.",
+      "pronunciation": "Both /dəˈrekt/ and /daɪˈrekt/ occur, with variation by speaker, region, and emphasis."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dəˈrekt/; also /daɪˈrekt/",
+      "uk": "/dəˈrekt/; also /daɪˈrekt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "途中の場所・人物・段階を介さず、目的地・相手へまっすぐ到達する",
+      "原因と結果の間に重要な中間要因がない、直接的な",
+      "考え・質問・批判などを遠回しにせず、明確に表す",
+      "本人・原典・製造者などから直接得られた",
+      "動詞として、人・組織・事業・制作活動などを指揮・監督する",
+      "人へ道順・行動・参照先などを指示する",
+      "注意・発言・光・資源などを特定の対象へ向ける",
+      "副詞として、途中に立ち寄らず直接に"
+    ],
+    "en": [
+      "reaching a destination or person without an intermediate place, person, or stage",
+      "operating between a cause and result without a significant intervening factor",
+      "expressing a thought, question, or criticism clearly and openly rather than by implication",
+      "obtained personally or from an original source, producer, or authority",
+      "as a verb, to control, supervise, or lead a person, organization, project, or production",
+      "to tell or show someone where to go, what to do, or what source to consult",
+      "to aim attention, speech, light, resources, or another action at a particular target",
+      "as an adverb, without stopping or passing through an intermediate point"
+    ]
+  },
+  "nuance": {
+    "ja": "direct の中心は、出発点と対象の間に不要な介在がないことである。a direct flight は途中で乗り換えない便、direct contact は第三者を介さない接触、a direct cause は結果へ直結する原因を表す。人の話し方について direct と言うと、「率直で明確」という肯定的評価にも、「遠慮がなくぶっきらぼう」という否定的評価にもなり得る。動詞では direct a company が組織を指揮すること、direct someone to the office が人を案内・誘導すること、direct a question at someone が質問をその人へ向けることを表す。副詞 direct は移動経路について使われやすく、その他の意味では directly の方が一般的である。",
+    "en": "The central idea of direct is the absence of unnecessary intervention between a starting point and its target. A direct flight involves no change of aircraft, direct contact occurs without a third party, and a direct cause operates immediately upon a result. Describing a person as direct may positively suggest honesty and clarity or negatively suggest bluntness and lack of tact. As a verb, direct a company means control its activities, direct someone to the office means guide or refer the person there, and direct a question at someone means address it to that person. The adverb direct is especially common for routes and movement, while directly is more usual in many other adverbial senses."
+  },
+  "minimal": {
+    "ja": [
+      "direct：中間的な人物・場所・要因を介さず、対象へまっすぐ向かう。",
+      "indirect：別の人物・段階・要因・推論などを介して作用する。",
+      "straight：曲がったり方向を変えたりせず、まっすぐな。",
+      "explicit：意味・条件などを曖昧にせず、言葉で明示した。",
+      "frank：不快に思われる可能性があっても、意見を率直に述べる。",
+      "guide：道順・知識・助言を与えて、人を目的地や判断へ導く。",
+      "manage：組織・事業・資源などの日常的な運営を担当する。",
+      "directly：中間的な介在なしに、直ちに、または明示的に。"
+    ],
+    "en": [
+      "direct means proceeding straight to a target without an intermediate person, place, stage, or cause.",
+      "indirect means operating through another person, stage, cause, mechanism, or inference.",
+      "straight means continuing without bending, turning, or changing direction.",
+      "explicit means clearly stated in words without ambiguity or implication.",
+      "frank means openly expressing an opinion even when it may be unwelcome.",
+      "guide means showing a route or providing knowledge and advice toward a destination or decision.",
+      "manage means taking responsibility for the regular operation of an organization, business, or resources.",
+      "directly means without intermediate intervention, immediately, or explicitly."
+    ]
+  },
+  "etymology": {
+    "ja": "direct はラテン語 directus「まっすぐにされた、方向づけられた」に由来し、これは dirigere「まっすぐにする、導く」の過去分詞である。dirigere は dis-「別々に」と regere「導く、支配する」から形成された。物理的に正しい方向へまっすぐ進ませるという概念から、道順を示す、活動を指揮する、発言を特定の相手へ向ける、遠回しにせず明言する、といった意味が発達した。direction、director、directory、indirect も同じ語族に属する。",
+    "en": "Direct comes from Latin directus, meaning straightened or guided, the past participle of dirigere, to set straight or direct. Dirigere was formed from dis-, apart, and regere, to guide or rule. The physical idea of setting something on a straight and proper course developed into the senses of showing a route, managing an activity, aiming a statement at someone, and speaking without circumlocution. Direction, director, directory, and indirect belong to the same historical word family."
+  },
+  "synonyms": [
+    {
+      "word": "straight",
+      "note": {
+        "ja": "経路・線・方向などが曲がらず、または途中に寄らず進む。",
+        "en": "Proceeding without bending, turning, or making an intermediate stop."
+      }
+    },
+    {
+      "word": "immediate",
+      "note": {
+        "ja": "時間的遅れや中間的な段階・人物が存在しない。",
+        "en": "Occurring without delay or without an intervening stage or person."
+      }
+    },
+    {
+      "word": "explicit",
+      "note": {
+        "ja": "意味・条件・意図などが、推測を必要とせず明確に述べられている。",
+        "en": "Stated clearly enough that no inference is needed to identify the meaning, condition, or intention."
+      }
+    },
+    {
+      "word": "guide",
+      "note": {
+        "ja": "人へ道順・説明・助言を与え、目的地・行動・理解へ導く。",
+        "en": "To show a route or provide explanation and advice toward a destination, action, or understanding."
+      }
+    },
+    {
+      "word": "supervise",
+      "note": {
+        "ja": "人・作業を監督し、適切に実施されるよう管理する。",
+        "en": "To oversee people or work and ensure that activities are performed properly."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "direkt / unmittelbar / leiten",
+    "it": "diretto / dirigere",
+    "fr": "direct / diriger",
+    "es": "directo / dirigir"
+  },
+  "collocations": {
+    "ja": [
+      "a direct route — 直行経路・最短経路",
+      "a direct flight — 直行便",
+      "direct contact — 直接の接触",
+      "direct communication — 直接的な意思疎通",
+      "a direct effect — 直接的な影響",
+      "a direct cause — 直接原因",
+      "a direct answer — 率直で明確な回答",
+      "direct evidence — 直接証拠",
+      "direct costs — 直接費",
+      "direct a company — 会社を指揮・経営する",
+      "direct attention to something — 何かへ注意を向ける",
+      "fly direct to a city — 都市へ直行便で行く"
+    ],
+    "en": [
+      "a direct route",
+      "a direct flight",
+      "direct contact",
+      "direct communication",
+      "a direct effect",
+      "a direct cause",
+      "a direct answer",
+      "direct evidence",
+      "direct costs",
+      "direct a company",
+      "direct attention to something",
+      "fly direct to a city"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Is there a direct train from the airport to the city center? — 空港から市内中心部までの直通列車はありますか。",
+      "Please give me a direct answer to the question. — その質問に率直で明確な答えをください。",
+      "She directed the research team for more than ten years. — 彼女は10年以上にわたり、その研究チームを指揮した。",
+      "The receptionist directed us to the conference room on the second floor. — 受付係は私たちを2階の会議室へ案内した。",
+      "Whether an act constitutes direct patent infringement depends on the applicable law and whether the relevant claim requirements are satisfied. — ある行為が特許権の直接侵害に該当するかは、適用法および関連する請求項の要件が満たされるかによって決まる。"
+    ],
+    "en": [
+      "Is there a direct train from the airport to the city center?",
+      "Please give me a direct answer to the question.",
+      "She directed the research team for more than ten years.",
+      "The receptionist directed us to the conference room on the second floor.",
+      "Whether an act constitutes direct patent infringement depends on the applicable law and whether the relevant claim requirements are satisfied."
+    ]
+  }
+},
+{
+  "id": "directly",
+  "sid": "2026-01492",
+  "word": "directly",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "adverb",
+    "immediacy",
+    "direction",
+    "communication",
+    "cause",
+    "relationship",
+    "contact",
+    "business",
+    "evidence",
+    "legal",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adverb / conjunction, chiefly British and dated in the conjunctive use",
+    "forms": {
+      "base": "directly",
+      "adjective": "direct",
+      "opposite_adverb": "indirectly",
+      "opposite_adjective": "indirect",
+      "related_noun": "direction / directness"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "go / come directly to + place / person",
+      "speak / write directly to + person",
+      "directly affect / influence + noun",
+      "be directly related / connected to + noun",
+      "be directly responsible for + noun",
+      "deal directly with + person / organization",
+      "report directly to + person",
+      "directly before / after / above / below",
+      "directly opposite + place / object",
+      "directly or indirectly"
+    ],
+    "usage": {
+      "without_intermediary": "Directly commonly means without an intermediate person, organization, process, or cause.",
+      "immediately": "It can mean immediately or with little delay: I will contact you directly.",
+      "straight_line": "It can describe movement or position in a straight line: directly above the door.",
+      "communication": "Speak directly can mean addressing someone personally or expressing a point openly and clearly.",
+      "causation": "Directly affect or cause means operating without a significant intervening factor.",
+      "position": "Directly often appears before the verb, adjective, participle, preposition, or spatial expression it modifies.",
+      "direct_comparison": "Direct is common as an adverb of travel in fly direct; directly is preferred for meanings such as personally, immediately, and as an immediate consequence.",
+      "conjunction": "In chiefly British and now dated use, directly can mean as soon as: I will call you directly I arrive.",
+      "legal_scope": "The phrase directly or indirectly is common in legal drafting but can be broad unless the relevant conduct or relationship is defined."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dəˈrektli/; also /daɪˈrektli/",
+      "uk": "/dəˈrektli/; also /daɪˈrektli/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "第三者・仲介者・中間段階を介さず、直接に",
+      "時間を置かず、直ちに・すぐに",
+      "遠回しにせず、率直かつ明確に",
+      "曲がったり寄り道したりせず、まっすぐに",
+      "位置的に、ちょうど真上・真下・正面などに",
+      "結果へ中間的な要因を介さず、直接作用して",
+      "主に古風なイギリス英語で、～するとすぐに"
+    ],
+    "en": [
+      "without an intermediary, third party, or intermediate stage",
+      "immediately or with little delay",
+      "openly and clearly rather than through implication",
+      "in a straight line without turning or making an intermediate stop",
+      "in an exact spatial position such as immediately above, below, or opposite something",
+      "through an immediate causal relationship without a significant intervening factor",
+      "chiefly in dated British use, as soon as"
+    ]
+  },
+  "nuance": {
+    "ja": "directly は文脈によって「仲介なしに」「すぐに」「まっすぐに」「率直に」という意味になる。I spoke directly to the manager. は本人と直接話したこと、I’ll call you directly. はすぐ連絡すること、The office is directly above us. は位置が真上であることを表す。speak directly は、第三者を介さず話す意味にも、遠回しにせず率直に話す意味にも解釈できるため、文脈が重要である。移動については fly direct to Paris のように direct も副詞として使えるが、deal directly with the supplier のような仲介なしの関係では directly が自然である。契約書の directly or indirectly は広い範囲を含み得るため、誰を介した行為まで対象とするかが問題になることがある。",
+    "en": "Depending on context, directly can mean without an intermediary, immediately, in a straight line, or openly. I spoke directly to the manager means that the manager was personally addressed, I’ll call you directly can mean very soon, and The office is directly above us identifies an exact position. Speak directly can refer either to communicating without a third party or to speaking frankly, so context matters. Direct can also serve as an adverb of movement in fly direct to Paris, but directly is natural for the absence of an intermediary in deal directly with the supplier. In contracts, directly or indirectly may have a broad reach, making it important to consider which intermediated acts or relationships are intended to be covered."
+  },
+  "minimal": {
+    "ja": [
+      "directly：仲介なしに、直ちに、まっすぐに、または率直に。",
+      "indirectly：中間的な人物・要因・段階・推論などを介して。",
+      "immediately：時間的な遅れなしに、直ちに。",
+      "personally：代理人・第三者ではなく、本人自身が。",
+      "straight：移動について、曲がったり寄り道したりせず直接に。",
+      "explicitly：意味・条件・意図などを言葉ではっきりと明示して。",
+      "frankly：不快に思われる可能性があっても、率直に。",
+      "exactly：位置・数量・内容などが完全に一致する形で、正確に。"
+    ],
+    "en": [
+      "directly means without an intermediary, immediately, in a straight line, or openly.",
+      "indirectly means through an intermediate person, cause, stage, relationship, or inference.",
+      "immediately means without delay in time.",
+      "personally means by the person concerned rather than by an agent or third party.",
+      "straight means following a route without turning or making an intermediate stop.",
+      "explicitly means stating a meaning, condition, or intention clearly in words.",
+      "frankly means expressing an opinion openly even when it may be unwelcome.",
+      "exactly means with complete correspondence in position, amount, or content."
+    ]
+  },
+  "etymology": {
+    "ja": "directly は形容詞 direct に、副詞を作る接尾辞 -ly を加えて形成された。direct はラテン語 directus「まっすぐにされた、方向づけられた」に由来し、dirigere「まっすぐにする、導く」の過去分詞である。物理的にまっすぐ進むという意味から、中間者を介さずに、時間を置かずに、遠回しにせず明確に、という副詞的意味が発達した。古いイギリス英語では、時間的な即時性から directly が接続詞として「～するとすぐに」を意味する用法も生じた。",
+    "en": "Directly was formed by adding the adverbial suffix -ly to direct. Direct derives from Latin directus, meaning straightened or guided, the past participle of dirigere, to set straight or direct. From the physical sense of moving in a straight line developed the adverbial meanings without an intermediary, without delay, and without circumlocution. In older British usage, the temporal sense immediately also produced a conjunctive use meaning as soon as."
+  },
+  "synonyms": [
+    {
+      "word": "immediately",
+      "note": {
+        "ja": "別の出来事の直後、または要求された時点で、遅れることなく。",
+        "en": "Without delay, either at the required time or immediately after another event."
+      }
+    },
+    {
+      "word": "personally",
+      "note": {
+        "ja": "代理人・部下・第三者に任せず、本人自身が。",
+        "en": "By the person concerned rather than through an agent, subordinate, or third party."
+      }
+    },
+    {
+      "word": "straight",
+      "note": {
+        "ja": "移動・経路について、途中で曲がったり立ち寄ったりせずに。",
+        "en": "For movement or a route, without turning or stopping at an intermediate place."
+      }
+    },
+    {
+      "word": "explicitly",
+      "note": {
+        "ja": "内容を推測に委ねず、言葉によって明確に示して。",
+        "en": "By stating the content clearly in words rather than leaving it to inference."
+      }
+    },
+    {
+      "word": "firsthand",
+      "note": {
+        "ja": "他者の報告・伝聞を介さず、自分の経験・観察から直接に。",
+        "en": "Directly from one’s own experience or observation rather than through another person’s report."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "direkt / unmittelbar",
+    "it": "direttamente",
+    "fr": "directement",
+    "es": "directamente"
+  },
+  "collocations": {
+    "ja": [
+      "speak directly to someone — 人に直接話す",
+      "contact someone directly — 人へ直接連絡する",
+      "deal directly with a supplier — 供給業者と直接取引する",
+      "report directly to the manager — 管理者直属である",
+      "directly affect the result — 結果へ直接影響する",
+      "directly cause damage — 損害を直接引き起こす",
+      "be directly responsible for — ～に直接責任を負う",
+      "be directly related to — ～と直接関係している",
+      "directly above the entrance — 入口の真上に",
+      "directly opposite the station — 駅の真向かいに",
+      "directly before the meeting — 会議の直前に",
+      "directly or indirectly — 直接または間接に"
+    ],
+    "en": [
+      "speak directly to someone",
+      "contact someone directly",
+      "deal directly with a supplier",
+      "report directly to the manager",
+      "directly affect the result",
+      "directly cause damage",
+      "be directly responsible for",
+      "be directly related to",
+      "directly above the entrance",
+      "directly opposite the station",
+      "directly before the meeting",
+      "directly or indirectly"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Please send the completed form directly to the finance department. — 記入済みの書類を財務部へ直接送ってください。",
+      "The hotel is directly opposite the railway station. — そのホテルは鉄道駅の真向かいにある。",
+      "If you have a concern, speak directly to your manager. — 懸念がある場合は、管理者へ直接話してください。",
+      "The rise in fuel prices directly affected the company’s operating costs. — 燃料価格の上昇は、会社の運営費へ直接影響した。",
+      "The agreement prohibits the licensee from directly or indirectly transferring the patented technology to an unauthorized third party. — その契約は、ライセンシーが特許技術を直接または間接に、許可されていない第三者へ移転することを禁止している。"
+    ],
+    "en": [
+      "Please send the completed form directly to the finance department.",
+      "The hotel is directly opposite the railway station.",
+      "If you have a concern, speak directly to your manager.",
+      "The rise in fuel prices directly affected the company’s operating costs.",
+      "The agreement prohibits the licensee from directly or indirectly transferring the patented technology to an unauthorized third party."
+    ]
+  }
+},
+{
+  "id": "catch-up-with",
+  "sid": "2026-01493",
+  "word": "catch up with",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "movement",
+    "competition",
+    "progress",
+    "meeting",
+    "conversation",
+    "news",
+    "consequences",
+    "work",
+    "technology",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal-prepositional verb",
+    "forms": {
+      "base": "catch up with",
+      "third_person": "catches up with",
+      "past": "caught up with",
+      "past_participle": "caught up with",
+      "gerund": "catching up with",
+      "related_noun": "catch-up",
+      "related_adjective": "catch-up"
+    },
+    "transitivity": "prepositional transitive",
+    "patterns": [
+      "catch up with + person / group",
+      "catch up with a competitor",
+      "catch up with developments / technology",
+      "catch up with someone later",
+      "finally catch up with + person",
+      "struggle / try to catch up with",
+      "take time to catch up with + person",
+      "the law catches up with + person",
+      "the past catches up with + person",
+      "consequences catch up with + person"
+    ],
+    "usage": {
+      "movement": "Catch up with someone means reach that person after starting behind them.",
+      "progress": "It can mean reaching the same standard, level, or position as another person, organization, or technology.",
+      "social": "Catch up with someone can mean meeting or contacting the person to exchange recent news.",
+      "consequences": "If the law, past, age, or consequences catch up with someone, their earlier conduct or changing condition finally affects them.",
+      "inseparability": "The expression is not separated: catch up with her, not catch her up with.",
+      "irregular_forms": "The forms follow catch: catch–caught–caught.",
+      "with_vs_on": "Catch up with normally takes a person, competitor, or developing field; catch up on takes unfinished work, missed news, reading, or sleep.",
+      "ambiguity": "I need to catch up with Maya can mean either reach Maya physically or meet her to exchange news; context determines the sense."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkætʃ ˈʌp wɪð/; also /ˌkætʃ ˈʌp wɪθ/",
+      "uk": "/ˌkætʃ ˈʌp wɪð/; also /ˌkætʃ ˈʌp wɪθ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "先に進んでいる人へ追いつく",
+      "競争相手と同じ水準・順位・成果へ到達する",
+      "技術・情報・社会の変化など、進歩するものへ対応して遅れを取り戻す",
+      "しばらく会っていなかった人と会い、近況を話し合う",
+      "後から人に連絡し、話し合いや情報交換を行う",
+      "過去の行為・年齢・疲労などの影響が、最終的に本人へ及ぶ",
+      "捜査機関・法律などが、逃れていた人物を最終的に捕らえる"
+    ],
+    "en": [
+      "to reach a person who started or moved ahead of you",
+      "to reach the same level, position, or performance as a competitor",
+      "to overcome delay in responding to developing technology, information, or social change",
+      "to meet someone after a period apart and exchange recent news",
+      "to contact someone later for conversation or an exchange of information",
+      "for the effects of past conduct, age, or exhaustion, to finally affect someone",
+      "for the law or authorities, to finally discover or capture someone who had avoided them"
+    ]
+  },
+  "nuance": {
+    "ja": "catch up with は「後ろから追いつく」という物理的意味から、能力・技術・進捗の差を埋める意味へ広がった。I caught up with Ken at the station. は駅で歩いているKenに追いついたとも、駅でKenに会って近況を話したとも解釈でき、文脈が必要である。人との再会を表す場合は、単なる短い挨拶ではなく、互いの最近の出来事について話す含みがある。The consequences caught up with him. では、以前は避けられていた行為の結果が、ついに本人へ及んだことを表す。catch up on は対象が異なり、catch up on emails や catch up on sleep のように、たまった仕事・見逃した情報・不足した睡眠を取り戻すことをいう。",
+    "en": "Catch up with developed from the physical idea of reaching someone from behind into the broader sense of closing a gap in ability, technology, or progress. I caught up with Ken at the station can mean that the speaker physically reached Ken or met him and exchanged recent news, so context is necessary. In the social sense, the phrase usually implies more than a brief greeting and suggests discussing what has happened recently. The consequences caught up with him means that effects previously avoided finally reached him. Catch up on takes a different kind of object: catch up on emails or catch up on sleep means completing accumulated work, learning missed information, or compensating for a shortage."
+  },
+  "minimal": {
+    "ja": [
+      "catch up with：人へ追いつく、同じ水準に達する、近況を語り合う、または結果が本人へ及ぶ。",
+      "catch up on：たまった仕事・見逃した情報・不足した睡眠などを取り戻す。",
+      "keep up with：人・変化と同じ速度・水準を維持し、遅れないようにする。",
+      "meet up with：事前の約束などにより、人と会う。",
+      "get together with：人と集まり、交流・活動を共にする。",
+      "overtake：後ろから追いついて、その人・車・競争相手より前へ出る。",
+      "draw level with：競争相手と同じ位置・得点・水準に並ぶ。",
+      "fall behind：他者より進捗・位置・水準が遅れる。"
+    ],
+    "en": [
+      "catch up with means reaching someone, matching a level, exchanging recent news, or finally experiencing consequences.",
+      "catch up on means completing accumulated work, learning missed information, or compensating for lost sleep.",
+      "keep up with means maintaining the same speed or level as a person or continuing development.",
+      "meet up with means meeting someone, often according to an arrangement.",
+      "get together with means meeting people for social interaction or a shared activity.",
+      "overtake means reaching someone or something from behind and then moving ahead.",
+      "draw level with means reaching the same position, score, or standard as a competitor.",
+      "fall behind means becoming slower or less advanced than another person or expected schedule."
+    ]
+  },
+  "etymology": {
+    "ja": "catch は中英語 cacchen を経て、北フランス語系の cachier「追いかける、捕らえる」に由来する。up は、位置・程度・完成への到達を表す副詞である。catch up は、先行する人との距離をなくして同じ位置へ到達するという意味から成立した。これに with を加えた catch up with は、追いつく対象を示す。物理的な位置の差から、知識・技術・進捗の差を埋めること、さらに人と再会して近況の情報差を埋めることへ意味が広がった。",
+    "en": "Catch came through Middle English cacchen from a northern French form related to cachier, to chase or capture. Up can express reaching a position, degree, or state of completion. Catch up developed from the idea of eliminating the distance between oneself and someone ahead. Adding with identifies the person, group, or development being reached. From physical distance, the phrase expanded to closing gaps in knowledge, technology, and progress and then to meeting someone and closing the informational gap created by time apart."
+  },
+  "synonyms": [
+    {
+      "word": "reach",
+      "note": {
+        "ja": "移動して人・場所・水準などへ到達する。",
+        "en": "To arrive at a person, place, level, or other destination through movement or development."
+      }
+    },
+    {
+      "word": "draw level with",
+      "note": {
+        "ja": "競争・得点・位置などで、先行していた相手と同じ水準に並ぶ。",
+        "en": "To reach the same position, score, or level as someone who was previously ahead."
+      }
+    },
+    {
+      "word": "meet up with",
+      "note": {
+        "ja": "約束または偶然により人と会い、一緒に時間を過ごす。",
+        "en": "To meet someone by arrangement or chance and spend time together."
+      }
+    },
+    {
+      "word": "reconnect with",
+      "note": {
+        "ja": "しばらく交流していなかった人と、再び連絡・交流する。",
+        "en": "To establish contact or a relationship again after a period without communication."
+      }
+    },
+    {
+      "word": "close the gap with",
+      "note": {
+        "ja": "能力・業績・得点などにおける相手との差を縮める。",
+        "en": "To reduce the difference between oneself and another person in performance, score, or ability."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "jemanden einholen / sich mit jemandem austauschen",
+    "it": "raggiungere / aggiornarsi con qualcuno",
+    "fr": "rattraper / retrouver quelqu’un pour prendre des nouvelles",
+    "es": "alcanzar / ponerse al día con alguien"
+  },
+  "collocations": {
+    "ja": [
+      "catch up with a friend — 友人と会って近況を語り合う",
+      "catch up with someone later — 後で人に連絡する・合流する",
+      "catch up with the others — ほかの人たちに追いつく",
+      "catch up with a competitor — 競争相手に追いつく",
+      "catch up with the market leader — 市場首位の企業に追いつく",
+      "catch up with new technology — 新技術への遅れを取り戻す",
+      "catch up with recent developments — 最近の動向に追いつく",
+      "try to catch up with someone — 人に追いつこうとする",
+      "struggle to catch up with — ～に追いつくのに苦労する",
+      "the law catches up with someone — 法の追及が人に及ぶ",
+      "the past catches up with someone — 過去の行為の結果が本人に及ぶ",
+      "exhaustion catches up with someone — 蓄積した疲労が人に現れる"
+    ],
+    "en": [
+      "catch up with a friend",
+      "catch up with someone later",
+      "catch up with the others",
+      "catch up with a competitor",
+      "catch up with the market leader",
+      "catch up with new technology",
+      "catch up with recent developments",
+      "try to catch up with someone",
+      "struggle to catch up with",
+      "the law catches up with someone",
+      "the past catches up with someone",
+      "exhaustion catches up with someone"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Walk more slowly so that I can catch up with you. — 私が追いつけるように、もう少しゆっくり歩いてください。",
+      "Smaller companies are struggling to catch up with the market leader. — 小規模な企業は、市場首位の企業へ追いつくのに苦労している。",
+      "I met Naomi for coffee so that we could catch up with each other. — お互いの近況を語り合うため、私はナオミと会ってコーヒーを飲んだ。",
+      "After years of ignoring the problem, the consequences finally caught up with the company. — 長年その問題を無視した結果、その影響がついに会社へ及んだ。",
+      "Patent professionals must continually study new decisions to catch up with developments in claim interpretation and emerging technology. — 特許実務家は、請求項解釈と新興技術の進展に追いつくため、新しい判決を継続的に研究しなければならない。"
+    ],
+    "en": [
+      "Walk more slowly so that I can catch up with you.",
+      "Smaller companies are struggling to catch up with the market leader.",
+      "I met Naomi for coffee so that we could catch up with each other.",
+      "After years of ignoring the problem, the consequences finally caught up with the company.",
+      "Patent professionals must continually study new decisions to catch up with developments in claim interpretation and emerging technology."
+    ]
+  }
+}
+]
