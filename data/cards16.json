@@ -9139,6 +9139,409 @@
   }
 },
 {
+  "id": "dependency",
+  "sid": "2026-01467",
+  "word": "dependency",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "dependence",
+    "reliance",
+    "relationship",
+    "support",
+    "software",
+    "technology",
+    "project management",
+    "grammar",
+    "territory",
+    "business",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable for a particular dependent relationship, requirement, person, or territory; uncountable in some general uses",
+    "plural": "dependencies",
+    "forms": {
+      "singular": "dependency",
+      "plural": "dependencies",
+      "verb": "depend",
+      "adjective": "dependent",
+      "related_noun": "dependence",
+      "opposite_noun": "independence",
+      "opposite_adjective": "independent"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "dependency on / upon + person / thing",
+      "a dependency between + elements",
+      "have / create a dependency",
+      "reduce / eliminate dependency on + noun",
+      "identify / manage dependencies",
+      "a software / package dependency",
+      "a project / task dependency",
+      "a dependency relationship",
+      "financial / economic dependency",
+      "a dependency of + country"
+    ],
+    "usage": {
+      "preposition": "Use dependency on or upon for the person, resource, or system relied upon.",
+      "countable": "A dependency can be one identifiable requirement or relationship: The library has three external dependencies.",
+      "uncountable": "Dependency can be used more generally for a continuing state of reliance: economic dependency on exports.",
+      "dependence_difference": "Dependence is often preferred for the general condition of relying on something, while dependency readily refers to a specific relationship, requirement, or dependent entity.",
+      "software": "In computing, a dependency is a package, library, service, or component required for software to operate or be built.",
+      "projects": "In project management, a dependency is a relationship in which one task relies on another task or event.",
+      "territory": "A dependency can be a territory governed or administered by another country.",
+      "person": "The sense a person relying on another for support exists but dependent is more usual for a person claimed for tax or financial purposes."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈpendənsi/",
+      "uk": "/dɪˈpendənsi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人・物・制度などへ頼らなければ成り立たない状態・依存",
+      "二つ以上の物事の間で、一方が他方を必要とする依存関係",
+      "作業・計画において、別の作業や出来事の完了を前提とする関係",
+      "ソフトウェアの動作・構築に必要な外部ライブラリ・パッケージ・サービス",
+      "経済的・財政的に他者の支援へ依存する状態",
+      "別の国によって統治・管理される属領・保護領",
+      "文法上、一つの語・要素が別の語・要素に従属する関係"
+    ],
+    "en": [
+      "a state in which a person, system, or institution relies on something else in order to function",
+      "a relationship in which one element requires or is determined by another",
+      "in a project, a relationship making one task depend on another task or event",
+      "a package, library, service, or component required to build or operate software",
+      "a condition of relying on another person or institution for economic or financial support",
+      "a territory governed or administered by another country",
+      "in grammar, a relationship in which one word or element is subordinate to another"
+    ]
+  },
+  "nuance": {
+    "ja": "dependency は「依存している状態」と「依存の対象・関係」の両方を表す。economic dependency on oil では一般的な依存状態、a dependency between two tasks では個別に特定できる関係を指す。dependence も「依存」を意味するが、dependence は状態そのものに重点を置きやすく、dependency は技術・計画・システムにおける個々の必要条件を表す場合に特に自然である。ソフトウェアでは、プログラムが利用する外部パッケージなどが dependency であり、それ自体がさらに別のパッケージを必要とする場合は transitive dependency と呼ばれる。日常語で人について使うと、自立性の欠如という否定的評価を帯びる場合がある。",
+    "en": "Dependency can describe both the condition of relying on something and the particular relationship or entity relied upon. Economic dependency on oil refers to a general condition, whereas a dependency between two tasks identifies a specific relationship. Dependence has a similar meaning but more readily emphasizes the state itself; dependency is especially natural for an identifiable requirement in technology, planning, or systems. In software, a dependency is an external package or component used by a program. If that component itself requires another package, the latter may be described as a transitive dependency. When applied to a person in ordinary language, dependency can sometimes imply an undesirable lack of independence."
+  },
+  "minimal": {
+    "ja": [
+      "dependency：人・作業・システムなどが別の要素を必要とする状態・関係・対象。",
+      "dependence：他者・物質・資源などへ頼っている状態そのもの。",
+      "reliance：支援・情報・機能などを信頼し、頼りにすること。",
+      "interdependence：複数の人・組織・要素が相互に依存している状態。",
+      "requirement：目標達成・適合のために満たす必要がある条件。",
+      "prerequisite：別の行為・段階の前に満たしておく必要がある前提条件。",
+      "dependent：他者に依存する人、または他の要素によって決まるもの。",
+      "independence：他者の支配・支援・資源などに依存しない状態。"
+    ],
+    "en": [
+      "dependency is a state, relationship, or entity in which one person, task, or system requires another.",
+      "dependence emphasizes the general condition of relying on another person, substance, or resource.",
+      "reliance is the act or condition of trusting and depending on support, information, or functionality.",
+      "interdependence is a condition in which multiple people, organizations, or elements depend on one another.",
+      "a requirement is a condition that must be satisfied for compliance or achievement.",
+      "a prerequisite is a condition that must be satisfied before another action or stage can occur.",
+      "a dependent is a person relying on another or an element determined by something else.",
+      "independence is freedom from reliance on another authority, source of support, or resource."
+    ]
+  },
+  "etymology": {
+    "ja": "dependency は dependent を基礎として、状態・性質を表す接尾辞 -cy を加えて形成された。depend はラテン語 dependere「ぶら下がる、～に頼る」に由来し、de-「下へ」と pendere「ぶら下がる」から成る。ある物が別の物からぶら下がり、それなしでは支えられないという物理的なイメージから、「他者・条件・資源に依存する」という抽象的な意味が発達した。pendant、suspend、pending なども、pendere に関連する同じ語族に属する。",
+    "en": "Dependency was formed from dependent with the suffix -cy, which expresses a state or quality. Depend derives from Latin dependere, meaning to hang down or rely upon, formed from de-, down, and pendere, to hang. The physical image of one object hanging from and being supported by another developed into the abstract meaning of relying on another person, condition, or resource. Pendant, suspend, and pending belong to the same historical word family connected with pendere."
+  },
+  "synonyms": [
+    {
+      "word": "dependence",
+      "note": {
+        "ja": "人・物・資源などに頼らなければならない状態を表し、状態そのものに重点を置く。",
+        "en": "The condition of having to rely on a person, object, or resource, with emphasis on the state itself."
+      }
+    },
+    {
+      "word": "reliance",
+      "note": {
+        "ja": "人・制度・情報などを信頼し、その支援・機能を頼りにすること。",
+        "en": "The condition of trusting and depending on a person, institution, or source of information."
+      }
+    },
+    {
+      "word": "requirement",
+      "note": {
+        "ja": "システムの動作・計画の実行・規則への適合に必要な条件。",
+        "en": "A condition necessary for operating a system, carrying out a plan, or complying with a rule."
+      }
+    },
+    {
+      "word": "prerequisite",
+      "note": {
+        "ja": "次の段階・行為が可能になる前に満たさなければならない条件。",
+        "en": "A condition that must be satisfied before a later stage or action becomes possible."
+      }
+    },
+    {
+      "word": "subordination",
+      "note": {
+        "ja": "ある人・要素が別の人・要素より下位に置かれ、その支配・決定に従う関係。",
+        "en": "A relationship in which one person or element is placed below and governed by another."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Abhängigkeit / Abhängigkeitselement",
+    "it": "dipendenza",
+    "fr": "dépendance",
+    "es": "dependencia"
+  },
+  "collocations": {
+    "ja": [
+      "dependency on foreign energy — 外国産エネルギーへの依存",
+      "economic dependency — 経済的依存",
+      "financial dependency — 財政的依存",
+      "mutual dependency — 相互依存",
+      "a dependency relationship — 依存関係",
+      "create a dependency — 依存関係を生じさせる",
+      "reduce dependency on oil — 石油への依存を減らす",
+      "identify project dependencies — プロジェクト上の依存関係を特定する",
+      "manage task dependencies — タスク間の依存関係を管理する",
+      "a software dependency — ソフトウェア依存関係・依存パッケージ",
+      "an external dependency — 外部依存要素",
+      "a transitive dependency — 推移的依存関係・間接依存パッケージ"
+    ],
+    "en": [
+      "dependency on foreign energy",
+      "economic dependency",
+      "financial dependency",
+      "mutual dependency",
+      "a dependency relationship",
+      "create a dependency",
+      "reduce dependency on oil",
+      "identify project dependencies",
+      "manage task dependencies",
+      "a software dependency",
+      "an external dependency",
+      "a transitive dependency"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The country is trying to reduce its dependency on imported fuel. — その国は輸入燃料への依存を減らそうとしている。",
+      "The project manager identified a dependency between the two tasks. — プロジェクト管理者は、その二つの作業間にある依存関係を特定した。",
+      "This application has several external software dependencies. — このアプリケーションには、複数の外部ソフトウェア依存要素がある。",
+      "Excessive dependency on a single customer creates a serious business risk. — 単一の顧客へ過度に依存することは、重大な事業上のリスクを生じさせる。",
+      "The patent specification should clearly explain the functional dependency between the sensor output and the controller’s operation. — 特許明細書では、センサー出力と制御装置の動作との機能的な依存関係を明確に説明すべきである。"
+    ],
+    "en": [
+      "The country is trying to reduce its dependency on imported fuel.",
+      "The project manager identified a dependency between the two tasks.",
+      "This application has several external software dependencies.",
+      "Excessive dependency on a single customer creates a serious business risk.",
+      "The patent specification should clearly explain the functional dependency between the sensor output and the controller’s operation."
+    ]
+  }
+},
+{
+  "id": "gratification",
+  "sid": "2026-01468",
+  "word": "gratification",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "satisfaction",
+    "pleasure",
+    "desire",
+    "reward",
+    "emotion",
+    "psychology",
+    "self-control",
+    "achievement",
+    "consumer behavior",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "normally uncountable; countable in formal use for a particular source or instance of satisfaction",
+    "plural": "gratifications, uncommon",
+    "forms": {
+      "singular": "gratification",
+      "plural": "gratifications",
+      "verb": "gratify",
+      "adjective": "gratified / gratifying",
+      "adverb": "gratifyingly"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "gain / derive gratification from + noun / gerund",
+      "seek / provide gratification",
+      "the gratification of + desire / need",
+      "a source of gratification",
+      "instant / immediate gratification",
+      "delayed gratification",
+      "personal / emotional / sexual gratification",
+      "feel a sense of gratification",
+      "do something for one’s own gratification",
+      "sacrifice long-term benefits for immediate gratification"
+    ],
+    "usage": {
+      "uncountable": "Gratification is normally uncountable when referring generally to pleasure or satisfaction.",
+      "countable": "A gratification can formally mean a particular pleasure, reward, or source of satisfaction, but this use is uncommon.",
+      "source": "Use derive or gain gratification from something to identify the activity or achievement producing satisfaction.",
+      "desire": "The gratification of a desire or need means satisfying or fulfilling it.",
+      "instant": "Instant gratification is pleasure obtained immediately without waiting or making a sustained effort.",
+      "delayed": "Delayed gratification is the acceptance of a smaller present discomfort or the postponement of pleasure for a potentially greater future benefit.",
+      "adjectives": "Gratified describes a person who feels pleased; gratifying describes the event or result producing that feeling.",
+      "register": "Gratification is more formal and analytical than pleasure and is common in psychology, ethics, and consumer-behavior discussions."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɡrætɪfɪˈkeɪʃən/",
+      "uk": "/ˌɡrætɪfɪˈkeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "欲求・願望・必要が満たされたことで得られる満足・喜び",
+      "努力・成功・承認などから得られる達成感・充足感",
+      "欲望や衝動を満たすこと",
+      "人へ満足・喜びを与えること",
+      "特定の行為・経験によって得られる心理的な報酬",
+      "形式的用法で、満足・喜びをもたらす物事"
+    ],
+    "en": [
+      "pleasure or satisfaction obtained when a desire, wish, or need is fulfilled",
+      "a sense of fulfillment derived from effort, success, recognition, or achievement",
+      "the act of satisfying a desire or impulse",
+      "the act or result of giving someone pleasure or satisfaction",
+      "a psychological reward obtained from a particular action or experience",
+      "formally, a particular event or thing providing pleasure or satisfaction"
+    ]
+  },
+  "nuance": {
+    "ja": "gratification は、単に楽しい感覚を表す pleasure よりも、欲求・期待・努力などが満たされた結果として生じる満足感に重点を置く。She derived gratification from helping others. なら、人助けによって内面的な充足感を得たことを表す。instant gratification は、努力や待機をせず直ちに得られる満足であり、買い物・娯楽・デジタルサービスなどの文脈で、長期的利益を損なう行動として批判的に使われることも多い。これに対して delayed gratification は、将来のより大きな利益のために現在の欲求を抑えることをいう。gratification は必ずしも利己的・否定的ではないが、self-gratification や personal gratification は文脈によって自己中心的な含みを持ち得る。",
+    "en": "Gratification emphasizes satisfaction resulting from the fulfillment of a desire, expectation, effort, or need, rather than pleasure as a simple enjoyable feeling. She derived gratification from helping others describes an inward sense of fulfillment produced by the activity. Instant gratification is satisfaction obtained without delay or sustained effort and is often discussed critically in connection with consumption, entertainment, and digital services that may undermine longer-term interests. Delayed gratification means postponing present pleasure for a potentially greater future benefit. Gratification is not inherently selfish or negative, although self-gratification and personal gratification can acquire a self-centered implication in some contexts."
+  },
+  "minimal": {
+    "ja": [
+      "gratification：欲求・期待・努力が満たされたことで得られる満足・充足感。",
+      "satisfaction：必要・期待・基準などが満たされたと感じることを表す最も一般的な語。",
+      "pleasure：楽しい・心地よい経験から生じる喜び・快感。",
+      "fulfillment：能力・目的・可能性を十分に生かしたことによる深い充足感。",
+      "contentment：現状に満足し、それ以上を強く求めない穏やかな心境。",
+      "reward：行為・努力に対して与えられる利益、またはそれ自体がもたらす満足。",
+      "instant gratification：欲求を我慢せず、直ちに得られる満足。",
+      "delayed gratification：将来の利益のため、現在の満足を先延ばしにすること。"
+    ],
+    "en": [
+      "gratification is pleasure or fulfillment resulting from satisfying a desire, expectation, or effort.",
+      "satisfaction is the general feeling that a need, expectation, or standard has been adequately met.",
+      "pleasure is enjoyment or a pleasant feeling produced by an agreeable experience.",
+      "fulfillment is deep satisfaction derived from fully using one’s abilities or achieving a meaningful purpose.",
+      "contentment is a peaceful state of being satisfied with one’s present circumstances.",
+      "a reward is a benefit given for an action or effort or the satisfaction produced by that benefit.",
+      "instant gratification is satisfaction obtained immediately without postponing a desire.",
+      "delayed gratification is postponing present pleasure for a potentially greater future benefit."
+    ]
+  },
+  "etymology": {
+    "ja": "gratification は動詞 gratify に、行為・過程・結果を表す接尾辞 -ation を加えて形成された。gratify はフランス語 gratifier、ラテン語 gratificari「親切にする、喜ばせる」に由来する。gratificari は gratus「喜ばしい、ありがたい」と facere「作る、行う」に関係し、文字どおりには「喜ばしい状態にする」という発想を持つ。そこから、他者を喜ばせること、欲求を満たすこと、そして欲求が満たされた結果として得られる満足感という意味が発達した。gratitude、grateful、gratuitous も gratus に関連する語族である。",
+    "en": "Gratification was formed from the verb gratify with the suffix -ation, denoting an act, process, or result. Gratify came through French gratifier from Latin gratificari, to oblige or please. Gratificari is related to gratus, pleasing or welcome, and facere, to make or do, conveying the idea of making something pleasing. From this developed the senses of pleasing another person, satisfying a desire, and experiencing satisfaction as a result. Gratitude, grateful, and gratuitous are also historically related to Latin gratus."
+  },
+  "synonyms": [
+    {
+      "word": "satisfaction",
+      "note": {
+        "ja": "欲求・必要・期待・基準などが十分に満たされたと感じること。",
+        "en": "The feeling that a desire, need, expectation, or standard has been adequately met."
+      }
+    },
+    {
+      "word": "pleasure",
+      "note": {
+        "ja": "楽しい・心地よい経験や感覚によって生じる喜び。",
+        "en": "Enjoyment or a pleasant feeling produced by an agreeable experience or sensation."
+      }
+    },
+    {
+      "word": "fulfillment",
+      "note": {
+        "ja": "意味ある目的の達成や能力の発揮によって得られる深い充足感。",
+        "en": "Deep satisfaction obtained by achieving a meaningful purpose or fully using one’s abilities."
+      }
+    },
+    {
+      "word": "contentment",
+      "note": {
+        "ja": "現在の状態で十分だと感じる、穏やかで持続的な満足。",
+        "en": "A peaceful and continuing state of satisfaction with one’s present circumstances."
+      }
+    },
+    {
+      "word": "reward",
+      "note": {
+        "ja": "努力・行動への対価として得られる利益、喜び、満足感。",
+        "en": "A benefit, pleasure, or sense of satisfaction received in return for effort or conduct."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Befriedigung / Genugtuung",
+    "it": "gratificazione / soddisfazione",
+    "fr": "gratification / satisfaction",
+    "es": "gratificación / satisfacción"
+  },
+  "collocations": {
+    "ja": [
+      "instant gratification — 即時的な満足",
+      "immediate gratification — すぐに得られる満足",
+      "delayed gratification — 満足の先延ばし",
+      "personal gratification — 個人的な満足",
+      "emotional gratification — 感情的な充足",
+      "sexual gratification — 性的満足",
+      "seek gratification — 満足を求める",
+      "provide gratification — 満足感を与える",
+      "derive gratification from helping others — 人助けから充足感を得る",
+      "a source of gratification — 満足の源",
+      "a sense of gratification — 満足感",
+      "the gratification of a desire — 欲望を満たすこと"
+    ],
+    "en": [
+      "instant gratification",
+      "immediate gratification",
+      "delayed gratification",
+      "personal gratification",
+      "emotional gratification",
+      "sexual gratification",
+      "seek gratification",
+      "provide gratification",
+      "derive gratification from helping others",
+      "a source of gratification",
+      "a sense of gratification",
+      "the gratification of a desire"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She derived considerable gratification from helping young researchers develop their skills. — 彼女は若い研究者の能力向上を助けることから、大きな充足感を得ていた。",
+      "Online shopping makes it easy to seek instant gratification. — オンラインショッピングでは、即時的な満足を求めることが容易になる。",
+      "Saving money requires the ability to delay gratification. — 貯蓄には、目先の満足を先延ばしにする能力が必要である。",
+      "He felt a deep sense of gratification when the project was finally completed. — そのプロジェクトがようやく完成したとき、彼は深い満足感を覚えた。",
+      "Obtaining a patent may provide professional gratification, but the scope and commercial value of the resulting right require separate evaluation. — 特許を取得することは職業上の満足をもたらし得るが、得られた権利の範囲と商業的価値は別途評価する必要がある。"
+    ],
+    "en": [
+      "She derived considerable gratification from helping young researchers develop their skills.",
+      "Online shopping makes it easy to seek instant gratification.",
+      "Saving money requires the ability to delay gratification.",
+      "He felt a deep sense of gratification when the project was finally completed.",
+      "Obtaining a patent may provide professional gratification, but the scope and commercial value of the resulting right require separate evaluation."
+    ]
+  }
+},
+{
   "id": "appall",
   "sid": "2026-01469",
   "word": "appall",
