@@ -474,7 +474,7 @@ async function loadCards() {
       "./data/cards14.json",
       "./data/cards15.json",
       "./data/cards16.json",
-      "/data/cards17.json"
+      "./data/cards17.json"
     ];
 
     const allCards = [];
