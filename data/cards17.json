@@ -9049,6 +9049,810 @@
   }
 },
 {
+  "id": "prosecution",
+  "sid": "2026-01556",
+  "word": "prosecution",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "criminal law",
+    "legal proceedings",
+    "prosecutor",
+    "court",
+    "government",
+    "patent",
+    "trademark",
+    "intellectual property",
+    "application",
+    "examination",
+    "law",
+    "legal",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable for a particular criminal case; uncountable for the activity, process, or prosecuting side",
+    "plural": "prosecutions",
+    "forms": {
+      "singular": "prosecution",
+      "plural": "prosecutions",
+      "verb": "prosecute",
+      "person_noun": "prosecutor",
+      "adjective": "prosecutorial",
+      "related_phrase": "patent prosecution"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "the prosecution of + person / offense / application",
+      "a prosecution for + offense",
+      "bring / initiate / commence a prosecution",
+      "face / avoid prosecution",
+      "be liable / subject to prosecution",
+      "the prosecution alleges / argues that + clause",
+      "the prosecution and the defense",
+      "patent / trademark prosecution",
+      "during prosecution of + application",
+      "the prosecution history of + patent / application"
+    ],
+    "usage": {
+      "criminal_process": "In criminal law, prosecution means formally pursuing a criminal case against an accused person.",
+      "prosecuting_side": "The prosecution can collectively mean the government lawyers presenting the criminal case against the defendant.",
+      "preposition_for": "For identifies the alleged offense: a prosecution for fraud.",
+      "preposition_of": "Of may identify the accused person, offense, or matter being pursued: the prosecution of the defendant.",
+      "patent": "Patent prosecution means handling a patent application before a patent office, including filing, examination, amendment, argument, and related procedures.",
+      "litigation_contrast": "Patent prosecution concerns obtaining a patent and is distinct from patent litigation or enforcement against an alleged infringer.",
+      "spelling": "Prosecution must not be confused with persecution, which means persistent cruel or unfair treatment."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌprɑːsɪˈkjuːʃən/",
+      "uk": "/ˌprɒsɪˈkjuːʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "犯罪の疑いがある人物を裁判所で正式に訴追すること",
+      "刑事事件において被告人の有罪を主張・立証しようとする検察側",
+      "特定の犯罪について行われる刑事手続・公訴",
+      "計画・作業などを最後まで遂行することを表す古風または形式的用法",
+      "特許出願を特許庁へ提出し、審査に対応して権利化を進める手続",
+      "商標出願について審査・拒絶理由・補正などに対応する権利化手続"
+    ],
+    "en": [
+      "the formal pursuit of criminal proceedings against a person accused of an offense",
+      "the government lawyers and authorities presenting the criminal case against a defendant",
+      "a criminal proceeding brought in respect of a particular offense",
+      "in older or formal use, the carrying out of a plan or activity until completion",
+      "the process of filing and handling a patent application before a patent office",
+      "the process of obtaining registration of a trademark through examination and related procedures"
+    ]
+  },
+  "nuance": {
+    "ja": "prosecution は文脈によって大きく意味が異なる。criminal prosecution では、国家が犯罪の嫌疑について被告人を正式に訴追することを表す。また、the prosecution は法廷で被告人の有罪を主張する「検察側」を集合的に指す。これに対し patent prosecution は刑事訴追ではなく、特許出願の作成・提出、拒絶理由への応答、補正、審判などを通じて権利化を進める実務をいう。trademark prosecution も同様に商標登録を得るための手続である。特許侵害者を相手に訴訟を提起することは通常 patent litigation または patent enforcement であり、patent prosecution とは区別する。prosecution と persecution は綴りが似ているが、後者は人種・宗教・信条などを理由とする「迫害」を意味する。",
+    "en": "Prosecution has substantially different meanings depending on context. Criminal prosecution is the formal pursuit by the state of charges against a person accused of an offense. The prosecution can also collectively mean the lawyers presenting the case against the defendant. Patent prosecution, by contrast, has nothing to do with criminal charges. It means professional work directed toward obtaining a patent, including preparing and filing an application, responding to office actions, amending claims, and pursuing appeals or related procedures. Trademark prosecution similarly concerns obtaining trademark registration. Proceedings against an alleged patent infringer are normally described as patent litigation or patent enforcement, not patent prosecution. Prosecution should also be distinguished from persecution, meaning persistent cruel or discriminatory treatment."
+  },
+  "minimal": {
+    "ja": [
+      "prosecution：犯罪の正式な訴追、検察側、または特許・商標出願の権利化手続。",
+      "prosecutor：国家を代表して刑事事件の訴追を担当する法律家・公務員。",
+      "litigation：裁判所で当事者が請求・抗弁を争う訴訟手続。",
+      "enforcement：法律・義務・判決・知的財産権などを実際に執行・行使すること。",
+      "patent prosecution：特許出願を提出し、審査へ対応して特許取得を目指す手続。",
+      "prosecution history：出願手続中の提出書類・審査経過・当事者の主張などの記録。",
+      "persecution：人種・宗教・政治的信条などを理由とする継続的な迫害。",
+      "defense：訴追・請求・非難に対して被告人・被告側が行う防御。"
+    ],
+    "en": [
+      "prosecution means formal criminal proceedings, the prosecuting side, or the process of obtaining patent or trademark rights.",
+      "a prosecutor is a lawyer or official who conducts criminal proceedings on behalf of the state.",
+      "litigation is the process in which parties contest claims and defenses before a court.",
+      "enforcement is the practical application of a law, obligation, judgment, or intellectual property right.",
+      "patent prosecution is the process of filing and handling an application in an effort to obtain a patent.",
+      "prosecution history is the record of submissions, examination events, and arguments made while an application was pending.",
+      "persecution is persistent cruel or discriminatory treatment based on religion, ethnicity, political belief, or another characteristic.",
+      "the defense is the party or case opposing a prosecution, claim, or accusation."
+    ]
+  },
+  "etymology": {
+    "ja": "prosecution はラテン語 prosecutio「追跡、遂行」に由来し、その基礎となる prosequi は pro-「前へ」と sequi「ついて行く」から成る。もともとは、ある対象を追い続けることや、計画を最後まで遂行することを表した。そこから、犯罪の嫌疑を法的手続によって追及する「訴追」という意味が発達した。特許・商標分野の prosecution も、出願を提出してから登録・特許査定などの結果に至るまで手続を継続して進めるという、同じ「遂行」の意味に基づく。",
+    "en": "Prosecution comes from Latin prosecutio, a pursuit or continuation, based on prosequi, formed from pro-, forward, and sequi, to follow. It originally described following something through or carrying an activity to completion. This developed into the legal meaning of pursuing an accusation through criminal proceedings. Its use in patent and trademark prosecution rests on the same sense of carrying a matter forward through procedural stages from filing toward grant or registration."
+  },
+  "synonyms": [
+    {
+      "word": "criminal proceedings",
+      "note": {
+        "ja": "犯罪の嫌疑について、国家が被告人に対して進める正式な裁判手続。",
+        "en": "Formal court proceedings pursued by the state against a person accused of a criminal offense."
+      }
+    },
+    {
+      "word": "legal action",
+      "note": {
+        "ja": "権利・責任・違反などについて裁判所その他の法的手続を開始・遂行すること。",
+        "en": "The initiation or pursuit of proceedings concerning a right, liability, or violation."
+      }
+    },
+    {
+      "word": "litigation",
+      "note": {
+        "ja": "民事・刑事などの争いを裁判所で争い、判断を求める手続。",
+        "en": "The process of contesting a civil or criminal matter before a court and seeking a judgment."
+      }
+    },
+    {
+      "word": "application proceedings",
+      "note": {
+        "ja": "特許・商標などの出願から審査・処分に至る一連の行政手続。",
+        "en": "Administrative procedures extending from the filing of an application through examination and disposition."
+      }
+    },
+    {
+      "word": "pursuit",
+      "note": {
+        "ja": "目標・請求・活動などを継続して追い求め、遂行すること。",
+        "en": "The continuing effort to follow, obtain, or carry forward a goal, claim, or activity."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Strafverfolgung / Anklage / Patenterteilungsverfahren",
+    "it": "azione penale / accusa / procedura di brevettazione",
+    "fr": "poursuites / ministère public / procédure de délivrance",
+    "es": "procesamiento / acusación / tramitación de patente"
+  },
+  "collocations": {
+    "ja": [
+      "criminal prosecution — 刑事訴追",
+      "federal prosecution — 連邦法に基づく訴追",
+      "a prosecution for fraud — 詐欺罪による訴追",
+      "bring a prosecution — 公訴を提起する",
+      "face prosecution — 訴追を受ける可能性に直面する",
+      "avoid prosecution — 訴追を免れる",
+      "be subject to prosecution — 訴追の対象となる",
+      "the prosecution and the defense — 検察側と弁護側",
+      "the prosecution’s evidence — 検察側の証拠",
+      "patent prosecution — 特許出願の権利化手続",
+      "trademark prosecution — 商標出願の権利化手続",
+      "prosecution history — 出願経過、包袋記録"
+    ],
+    "en": [
+      "criminal prosecution",
+      "federal prosecution",
+      "a prosecution for fraud",
+      "bring a prosecution",
+      "face prosecution",
+      "avoid prosecution",
+      "be subject to prosecution",
+      "the prosecution and the defense",
+      "the prosecution’s evidence",
+      "patent prosecution",
+      "trademark prosecution",
+      "prosecution history"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The authorities decided not to bring a prosecution because the evidence was insufficient. — 当局は証拠が不十分だったため、公訴を提起しないことにした。",
+      "The prosecution argued that the defendant had deliberately altered the records. — 検察側は、被告人が故意に記録を改ざんしたと主張した。",
+      "Anyone who knowingly submits a false document may face prosecution. — 虚偽の文書を故意に提出した者は、訴追を受ける可能性がある。",
+      "The company hired outside counsel to handle the prosecution of its international trademark applications. — 会社は国際商標出願の権利化手続を担当させるため、外部弁護士を起用した。",
+      "Statements made during patent prosecution may affect the later interpretation or enforcement of the granted claims. — 特許出願の権利化手続中に行われた陳述は、登録後の請求項の解釈または権利行使に影響する可能性がある。"
+    ],
+    "en": [
+      "The authorities decided not to bring a prosecution because the evidence was insufficient.",
+      "The prosecution argued that the defendant had deliberately altered the records.",
+      "Anyone who knowingly submits a false document may face prosecution.",
+      "The company hired outside counsel to handle the prosecution of its international trademark applications.",
+      "Statements made during patent prosecution may affect the later interpretation or enforcement of the granted claims."
+    ]
+  }
+},
+{
+  "id": "prosecutor",
+  "sid": "2026-01557",
+  "word": "prosecutor",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "person",
+    "criminal law",
+    "criminal proceedings",
+    "court",
+    "government",
+    "evidence",
+    "lawyer",
+    "law",
+    "legal",
+    "patent",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "prosecutors",
+    "forms": {
+      "singular": "prosecutor",
+      "plural": "prosecutors",
+      "verb": "prosecute",
+      "activity_noun": "prosecution",
+      "adjective": "prosecutorial",
+      "related_noun": "prosecuting attorney"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a public / federal / state prosecutor",
+      "the chief / lead prosecutor",
+      "a prosecutor in + jurisdiction / case",
+      "the prosecutor assigned to + case",
+      "the prosecutor alleges / argues that + clause",
+      "prosecutors charged someone with + offense",
+      "prosecutors presented / disclosed evidence",
+      "work as a prosecutor",
+      "be appointed as prosecutor",
+      "cooperate with prosecutors"
+    ],
+    "usage": {
+      "criminal_law": "A prosecutor is a public official or lawyer who conducts criminal proceedings on behalf of the state.",
+      "jurisdiction": "Titles and institutional roles vary by jurisdiction; examples include public prosecutor, district attorney, Crown prosecutor, and procurator fiscal.",
+      "article": "As a singular countable noun, prosecutor requires an article or determiner: a prosecutor or the prosecutor.",
+      "prosecution_side": "The prosecution refers collectively to the prosecuting side, whereas a prosecutor refers to an individual official or lawyer.",
+      "neutral_role": "A prosecutor represents the public authority and is not simply the personal lawyer of the victim.",
+      "patent_use": "Patent prosecutor is sometimes used for a professional handling patent applications, but patent practitioner or patent prosecution attorney may be clearer.",
+      "spelling": "Prosecutor is spelled with -cutor and should not be confused with persecutor, a person who persecutes others."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈprɑːsɪˌkjuːtər/",
+      "uk": "/ˈprɒsɪkjuːtə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "国家・公共機関を代表して刑事事件を訴追する法律家・公務員",
+      "被告人の有罪を立証するため証拠と法的主張を裁判所へ提出する検察官",
+      "犯罪捜査機関と連携し、起訴するかどうかを判断する担当者",
+      "刑事手続で証人尋問・論告などを行う訴追側の法律家",
+      "法域によって、検事・地区検事・王立検察官などと呼ばれる者",
+      "業界用法で、特許出願の作成・審査対応を担当する専門家"
+    ],
+    "en": [
+      "a lawyer or public official who conducts criminal proceedings on behalf of the state",
+      "a lawyer who presents evidence and legal arguments in an effort to prove a defendant’s guilt",
+      "an official who works with investigators and decides whether criminal charges should be pursued",
+      "a lawyer who examines witnesses and presents the prosecution case in criminal proceedings",
+      "a person whose title may be public prosecutor, district attorney, Crown prosecutor, or another jurisdiction-specific term",
+      "in professional jargon, a practitioner who prepares and handles patent applications"
+    ]
+  },
+  "nuance": {
+    "ja": "prosecutor は、犯罪被害者個人の代理人ではなく、原則として国家・公共の利益を代表して刑事訴追を担当する法律家または公務員を指す。具体的な権限や役職名は法域によって異なり、米国の district attorney、英国の Crown prosecutor などが相当し得る。the prosecution は検察側全体を表す集合的な語だが、a prosecutor は個々の検察官を指す。検察官が起訴・主張を行ったという事実だけで被告人の有罪が確定するわけではない。知的財産業界では patent prosecutor が特許出願の権利化を担当する専門家を指すことがあるが、刑事訴追の担当者との誤解を避けるため patent attorney handling prosecution などの方が明確な場合がある。",
+    "en": "A prosecutor is generally a lawyer or public official who represents the state or public interest in criminal proceedings rather than serving merely as the victim’s personal lawyer. The prosecutor’s powers and official title vary by jurisdiction and may correspond to a district attorney, public prosecutor, Crown prosecutor, or another office. The prosecution collectively denotes the prosecuting side, whereas a prosecutor identifies an individual lawyer or official. The fact that a prosecutor brings charges or makes an allegation does not establish the defendant’s guilt. In intellectual property jargon, patent prosecutor may describe a professional handling patent applications, but patent practitioner or patent attorney handling prosecution may avoid confusion with criminal prosecution."
+  },
+  "minimal": {
+    "ja": [
+      "prosecutor：国家を代表して刑事事件を訴追する検察官・法律家。",
+      "prosecution：刑事訴追、検察側、または特許・商標出願の権利化手続。",
+      "defense attorney：刑事事件で被疑者・被告人を弁護する法律家。",
+      "plaintiff’s attorney：民事記訟で原告を代理する法律家。",
+      "district attorney：米国の一定の法域で刑事訴追を担当する公選または任命の検察官。",
+      "Crown prosecutor：英国などで国王を代表して刑事訴追を行う検察官。",
+      "investigator：証拠・情報を収集し、事件・疑惑・原因などを調査する人。",
+      "persecutor：他人を継続的に迫害・虐待する人。prosecutorとは別語。"
+    ],
+    "en": [
+      "a prosecutor is a lawyer or official who conducts criminal proceedings on behalf of the state.",
+      "prosecution means criminal proceedings, the prosecuting side, or the process of obtaining patent or trademark rights.",
+      "a defense attorney represents and defends a suspect or defendant in criminal proceedings.",
+      "a plaintiff’s attorney represents the party bringing a claim in civil litigation.",
+      "a district attorney is an elected or appointed official responsible for criminal prosecution in certain United States jurisdictions.",
+      "a Crown prosecutor conducts criminal proceedings on behalf of the Crown in the United Kingdom and certain other jurisdictions.",
+      "an investigator gathers evidence and information concerning an incident, allegation, or cause.",
+      "a persecutor is someone who persistently oppresses or mistreats others and is unrelated in meaning to prosecutor."
+    ]
+  },
+  "etymology": {
+    "ja": "prosecutor は後期ラテン語 prosecutor「追跡する者、請求を遂行する者」に由来し、その基礎となる prosequi は pro-「前へ」と sequi「ついて行く」から成る。ある事件・請求を最後まで追い続ける者という意味から、犯罪の嫌疑を法廷で追及する公務員・法律家を指すようになった。同じ語族には prosecute、prosecution、prosecutorial がある。persecutor は「迫害者」を意味する別語なので、綴りと意味の双方を区別する必要がある。",
+    "en": "Prosecutor comes from Late Latin prosecutor, a person who pursues or carries a claim forward, based on prosequi, formed from pro-, forward, and sequi, to follow. The idea of a person pursuing a matter or claim to its conclusion developed into the modern sense of a public official or lawyer who pursues criminal charges in court. Prosecute, prosecution, and prosecutorial belong to the same word family. Persecutor, meaning a person who oppresses others, is a different word."
+  },
+  "synonyms": [
+    {
+      "word": "prosecuting attorney",
+      "note": {
+        "ja": "国家・政府機関を代表し、刑事事件の訴追を担当する弁護士。",
+        "en": "An attorney who represents the state or government in conducting criminal proceedings."
+      }
+    },
+    {
+      "word": "public prosecutor",
+      "note": {
+        "ja": "公共機関の職員として、国家または社会を代表して刑事訴追を行う者。",
+        "en": "A public official who conducts criminal proceedings on behalf of the state or community."
+      }
+    },
+    {
+      "word": "district attorney",
+      "note": {
+        "ja": "米国の一定の地域で、州法上の犯罪などの訴追を指揮・担当する検察官。",
+        "en": "A United States official who directs or conducts prosecutions within a particular local jurisdiction."
+      }
+    },
+    {
+      "word": "Crown prosecutor",
+      "note": {
+        "ja": "英国などで、国王を代表して刑事事件の訴追を行う検察官。",
+        "en": "A prosecutor who conducts criminal proceedings on behalf of the Crown in the United Kingdom or another relevant jurisdiction."
+      }
+    },
+    {
+      "word": "state’s attorney",
+      "note": {
+        "ja": "米国の一部法域で、州または地域を代表して刑事訴追を担当する公務員。",
+        "en": "In certain United States jurisdictions, an official who represents the state or locality in criminal proceedings."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Staatsanwalt / Ankläger",
+    "it": "pubblico ministero / procuratore",
+    "fr": "procureur / représentant du ministère public",
+    "es": "fiscal / acusador público"
+  },
+  "collocations": {
+    "ja": [
+      "a public prosecutor — 検察官",
+      "a federal prosecutor — 連邦検察官",
+      "a state prosecutor — 州の検察官",
+      "the chief prosecutor — 主任検察官、検事正",
+      "the lead prosecutor — 主任公判担当検察官",
+      "an experienced prosecutor — 経験豊富な検察官",
+      "the prosecutor assigned to the case — 事件を担当する検察官",
+      "prosecutors brought charges — 検察側が起訴した",
+      "prosecutors presented evidence — 検察側が証拠を提出した",
+      "the prosecutor questioned the witness — 検察官が証人を尋問した",
+      "cooperate with prosecutors — 検察側に協力する",
+      "work as a prosecutor — 検察官として勤務する"
+    ],
+    "en": [
+      "a public prosecutor",
+      "a federal prosecutor",
+      "a state prosecutor",
+      "the chief prosecutor",
+      "the lead prosecutor",
+      "an experienced prosecutor",
+      "the prosecutor assigned to the case",
+      "prosecutors brought charges",
+      "prosecutors presented evidence",
+      "the prosecutor questioned the witness",
+      "cooperate with prosecutors",
+      "work as a prosecutor"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She worked as a prosecutor before entering private practice. — 彼女は民間の法律実務に移る前、検察官として勤務していた。",
+      "The prosecutor decided that there was insufficient evidence to bring charges. — 検察官は、起訴するには証拠が不十分だと判断した。",
+      "The defense attorney challenged the evidence presented by the prosecutor. — 弁護人は検察官が提出した証拠の信用性を争った。",
+      "Prosecutors must disclose certain evidence to the defense in accordance with the applicable rules. — 検察側は適用される規則に従い、一定の証拠を弁護側へ開示しなければならない。",
+      "In patent practice, the expression patent prosecutor may refer to an attorney or agent who handles application drafting and examination rather than litigation. — 特許実務では、patent prosecutor は訴訟ではなく、出願書類の作成や審査対応を担当する弁護士・弁理士等を指す場合がある。"
+    ],
+    "en": [
+      "She worked as a prosecutor before entering private practice.",
+      "The prosecutor decided that there was insufficient evidence to bring charges.",
+      "The defense attorney challenged the evidence presented by the prosecutor.",
+      "Prosecutors must disclose certain evidence to the defense in accordance with the applicable rules.",
+      "In patent practice, the expression patent prosecutor may refer to an attorney or agent who handles application drafting and examination rather than litigation."
+    ]
+  }
+},
+{
+  "id": "right-holder",
+  "sid": "2026-01558",
+  "word": "right holder / rights holder",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "person",
+    "organization",
+    "ownership",
+    "legal right",
+    "intellectual property",
+    "patent",
+    "trademark",
+    "copyright",
+    "licensing",
+    "enforcement",
+    "law",
+    "legal",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "compound noun",
+    "countability": "countable",
+    "plural": "right holders / rights holders",
+    "forms": {
+      "singular": "right holder / rights holder",
+      "plural": "right holders / rights holders",
+      "possessive_singular": "right holder’s / rights holder’s",
+      "possessive_plural": "right holders’ / rights holders’",
+      "closed_variant": "rightsholder / rightsholders",
+      "related_phrase": "holder of rights"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "the holder of + right",
+      "a patent / trademark / copyright holder",
+      "an intellectual property rights holder",
+      "the rights holder in + work / invention",
+      "the rights holder’s consent",
+      "obtain permission from the rights holder",
+      "identify / notify the rights holder",
+      "rights holders may enforce + rights",
+      "on behalf of the rights holder",
+      "transfer rights to a new holder"
+    ],
+    "usage": {
+      "right_vs_rights": "Right holder readily refers to the holder of a specific right, while rights holder often refers more broadly to a person holding one or more rights.",
+      "spelling": "Right holder and rights holder are normally written as two words; rightsholder is also used by some institutions and writers.",
+      "article": "As a singular countable noun, the expression requires a determiner: a rights holder or the right holder.",
+      "legal_status": "A right holder may be a natural person, company, organization, public body, assignee, or another entity recognized by the applicable law.",
+      "creator": "The right holder is not necessarily the original author, inventor, or creator because rights may be assigned, inherited, or otherwise transferred.",
+      "licensee": "A licensee receives permission or contractual rights but does not automatically become the owner or holder of the underlying right.",
+      "standing": "Whether a licensee or other interested person may bring enforcement proceedings depends on the applicable law and the terms of the relevant agreement."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈraɪt ˌhoʊldər/; rights holder /ˈraɪts ˌhoʊldər/",
+      "uk": "/ˈraɪt ˌhəʊldə/; rights holder /ˈraɪts ˌhəʊldə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "法律上の権利を保有・享有する個人または法人",
+      "特許権・商標権・著作権などの知的財産権を保有する者",
+      "契約・譲渡・相続などによって権利を取得した者",
+      "権利の利用を許諾し、または侵害に対して権利行使できる者",
+      "著作物・発明・ブランドなどに関する排他的権利を有する者",
+      "法令または契約により一定の請求・利益を受ける資格を持つ者"
+    ],
+    "en": [
+      "a natural or legal person that owns or enjoys a legal right",
+      "a person or entity holding a patent, trademark, copyright, or other intellectual property right",
+      "a person who has acquired a right through agreement, assignment, or inheritance",
+      "a person entitled to license a right or take action against its infringement",
+      "a person possessing exclusive rights relating to a work, invention, or brand",
+      "a person entitled under law or contract to assert a particular claim or benefit"
+    ]
+  },
+  "nuance": {
+    "ja": "right holder または rights holder は、法的に一定の権利を保有する主体を表す。知的財産分野では、patent holder、trademark holder、copyright holder の上位概念として使える。権利者は必ずしも最初の発明者・著作者・創作者とは限らず、譲渡・相続・法人への承継などによって権利を取得した者も含まれ得る。owner とほぼ同義になる場合も多いが、holder は登録・契約・法律関係上その権利を保持していることに焦点を置く。licensee は通常、権利の利用許諾を受けた者であり、基礎となる権利そのものの権利者とは限らない。ただし、独占的実施権者などが自己名義で権利行使できるかは法域・権利の種類・契約内容によって異なる。",
+    "en": "Right holder or rights holder identifies the person or entity legally holding a particular right. In intellectual property, it can function as a general term covering patent, trademark, copyright, and other IP holders. The right holder is not necessarily the original inventor, author, or creator because rights may pass through assignment, inheritance, employment arrangements, or corporate succession. Holder frequently overlaps with owner but emphasizes possession of the right within a legal, contractual, or registered relationship. A licensee ordinarily has permission or contractual authority to use the right and does not necessarily hold the underlying ownership. Whether an exclusive licensee or another interested person may enforce the right independently depends on the jurisdiction, type of right, and agreement."
+  },
+  "minimal": {
+    "ja": [
+      "right holder：特定の法律上の権利を保有・享有する個人または法人。",
+      "rights holder：一つまたは複数の権利、特に知的財産権を持つ者。",
+      "owner：財産・権利を法的に所有する者。",
+      "assignee：契約上の譲渡によって権利・利益を取得した譲受人。",
+      "licensee：権利者から一定の利用・実施を許諾された者。",
+      "licensor：自己の権利について他人へ利用・実施を許諾する者。",
+      "author：著作物を創作した者。常に現在の著作権者であるとは限らない。",
+      "inventor：発明を創作した者。常に現在の特許権者であるとは限らない。"
+    ],
+    "en": [
+      "a right holder is a natural or legal person that possesses or enjoys a particular legal right.",
+      "a rights holder possesses one or more rights, especially intellectual property rights.",
+      "an owner is a person or entity with legal ownership of property or a right.",
+      "an assignee acquires a right or interest through a contractual assignment.",
+      "a licensee receives permission from a right holder to use or practice a protected right.",
+      "a licensor permits another person to use or practice a right that the licensor controls.",
+      "an author creates a work but is not necessarily its current copyright holder.",
+      "an inventor creates an invention but is not necessarily the current patent holder."
+    ]
+  },
+  "etymology": {
+    "ja": "right holder は right「権利」と holder「保有する者」を組み合わせた複合名詞である。right は古英語 riht「正しい、正当な、法にかなった」に由来し、「正当と認められるもの」から法的権利の意味を発達させた。holder は hold「持つ、保持する」に行為者を表す接尾辞 -er を加えた語である。したがって right holder は文字どおり「権利を保持する者」を意味する。rights holder や一語の rightsholder という表記も使われる。",
+    "en": "Right holder is a compound of right and holder. Right comes from Old English riht, meaning correct, just, or lawful, and developed the legal sense of something a person is entitled to claim or exercise. Holder was formed from hold with the agent suffix -er and means a person or entity possessing or maintaining something. A right holder is therefore literally a person or entity holding a right. The forms rights holder and the closed spelling rightsholder are also used."
+  },
+  "synonyms": [
+    {
+      "word": "rights owner",
+      "note": {
+        "ja": "一つまたは複数の法律上の権利を所有する者で、right holderと多くの文脈で重なる。",
+        "en": "A person owning one or more legal rights and substantially overlapping with rights holder in many contexts."
+      }
+    },
+    {
+      "word": "proprietor",
+      "note": {
+        "ja": "財産・事業・登録商標などを所有する者を表す形式的な法律用語。",
+        "en": "A formal legal term for the owner of property, a business, a registered trademark, or another interest."
+      }
+    },
+    {
+      "word": "owner",
+      "note": {
+        "ja": "物・財産・権利について法的な所有権を持つ個人または法人。",
+        "en": "A natural or legal person possessing legal ownership of property, an asset, or a right."
+      }
+    },
+    {
+      "word": "titleholder",
+      "note": {
+        "ja": "財産・権利について法的権原または名義を持つ者。",
+        "en": "A person or entity possessing legal title to property or a right."
+      }
+    },
+    {
+      "word": "entitled person",
+      "note": {
+        "ja": "法律・契約などに基づき、権利・給付・請求を行使できる者。",
+        "en": "A person legally or contractually qualified to exercise a right or receive a benefit."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Rechtsinhaber / Rechteinhaber",
+    "it": "titolare del diritto / titolare dei diritti",
+    "fr": "titulaire du droit / titulaire des droits",
+    "es": "titular del derecho / titular de los derechos"
+  },
+  "collocations": {
+    "ja": [
+      "a patent right holder — 特許権者",
+      "a trademark rights holder — 商標権者",
+      "a copyright holder — 著作権者",
+      "an intellectual property rights holder — 知的財産権者",
+      "the legitimate rights holder — 正当な権利者",
+      "identify the rights holder — 権利者を特定する",
+      "notify the rights holder — 権利者へ通知する",
+      "obtain the rights holder’s consent — 権利者の同意を得る",
+      "on behalf of the rights holder — 権利者を代理して",
+      "protect the interests of rights holders — 権利者の利益を保護する",
+      "rights holder information — 権利者情報",
+      "rights holder authorization — 権利者の許諾"
+    ],
+    "en": [
+      "a patent right holder",
+      "a trademark rights holder",
+      "a copyright holder",
+      "an intellectual property rights holder",
+      "the legitimate rights holder",
+      "identify the rights holder",
+      "notify the rights holder",
+      "obtain the rights holder’s consent",
+      "on behalf of the rights holder",
+      "protect the interests of rights holders",
+      "rights holder information",
+      "rights holder authorization"
+    ]
+  },
+  "example": {
+    "ja": [
+      "You must obtain permission from the rights holder before reproducing the photograph. — その写真を複製する前に、権利者の許可を得なければならない。",
+      "The platform removed the material after receiving notice from the copyright holder. — プラットフォームは著作権者から通知を受けた後、その素材を削除した。",
+      "The original creator is not always the current rights holder. — 最初の創作者が常に現在の権利者であるとは限らない。",
+      "The agreement requires the licensee to notify the rights holder of suspected infringement. — 契約では、実施権者が侵害の疑いを権利者へ通知することを求めている。",
+      "The patent holder may authorize another company to practice the invention without transferring ownership of the patent right. — 特許権者は、特許権の所有権を移転せずに、別の会社へ発明の実施を許諾することができる。"
+    ],
+    "en": [
+      "You must obtain permission from the rights holder before reproducing the photograph.",
+      "The platform removed the material after receiving notice from the copyright holder.",
+      "The original creator is not always the current rights holder.",
+      "The agreement requires the licensee to notify the rights holder of suspected infringement.",
+      "The patent holder may authorize another company to practice the invention without transferring ownership of the patent right."
+    ]
+  }
+},
+{
+  "id": "owner",
+  "sid": "2026-01559",
+  "word": "owner",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "person",
+    "organization",
+    "ownership",
+    "property",
+    "business",
+    "company",
+    "rights",
+    "intellectual property",
+    "patent",
+    "trademark",
+    "law",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "owners",
+    "forms": {
+      "singular": "owner",
+      "plural": "owners",
+      "possessive_singular": "owner’s",
+      "possessive_plural": "owners’",
+      "verb": "own",
+      "noun": "ownership",
+      "adjective": "owner-operated / owner-occupied"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "the owner of + property / business / right",
+      "a property / home / business owner",
+      "the current / previous / original owner",
+      "the legal / beneficial owner",
+      "be owned by + person / company",
+      "transfer ownership to + person",
+      "change / identify / locate the owner",
+      "obtain the owner’s consent",
+      "return something to its owner",
+      "joint / co-owners of + noun"
+    ],
+    "usage": {
+      "article": "As a singular countable noun, owner normally requires an article or another determiner: an owner, the owner, or its owner.",
+      "preposition": "Of identifies the thing owned: the owner of the building.",
+      "person_or_entity": "An owner may be an individual, company, organization, public body, or another legal entity.",
+      "possession": "Physical possession does not necessarily establish ownership; a borrower, tenant, or custodian may possess property belonging to another person.",
+      "legal_beneficial": "Legal owner and beneficial owner may identify different persons, depending on the relevant legal arrangement and jurisdiction.",
+      "company": "A shareholder owns shares in a company but is not ordinarily described as directly owning each asset held by the company.",
+      "rights": "In intellectual property, patent owner, trademark owner, and copyright owner identify the person or entity holding the relevant right."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈoʊnər/",
+      "uk": "/ˈəʊnə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "物・土地・建物などを法的に所有する個人または法人",
+      "店・会社・事業などを所有・経営する人",
+      "動物・車・機器などの持ち主",
+      "株式・口座・資産などについて法律上の名義を持つ者",
+      "財産から生じる利益を実質的に受ける者",
+      "特許権・商標権・著作権などを所有する権利者"
+    ],
+    "en": [
+      "a natural or legal person possessing legal ownership of an object, land, or building",
+      "a person who owns and often operates a shop, company, or business",
+      "the person to whom an animal, vehicle, or piece of equipment belongs",
+      "a person or entity holding legal title to shares, an account, or another asset",
+      "a person who ultimately enjoys the benefit arising from property",
+      "the person or entity owning a patent, trademark, copyright, or other intellectual property right"
+    ]
+  },
+  "nuance": {
+    "ja": "owner は、物・財産・事業・権利などについて所有権を持つ個人または法人を広く表す。単に物を手に持っている possessor や、借りて使用している tenant・borrower が必ずしも owner であるとは限らない。会社について business owner は事業の所有者を表すが、shareholder は会社の株式を所有する者であり、会社名義の個々の資産を直接所有するわけではない。legal owner は法的名義を持つ者、beneficial owner は財産から実質的な利益を受ける者を指すが、具体的な定義は法域や制度によって異なる。知的財産分野では owner と holder がしばしば重なるが、holder は特定の権利を保有する法的地位に焦点を置きやすい。",
+    "en": "Owner broadly identifies an individual or entity possessing ownership of property, a business, or a legal right. A person who physically possesses an item or uses it as a tenant or borrower is not necessarily its owner. A business owner owns an enterprise, whereas a shareholder owns shares in a company and does not ordinarily own the company’s individual assets directly. Legal owner generally identifies the holder of legal title, while beneficial owner identifies a person ultimately enjoying the property’s benefits, although the precise definitions vary by jurisdiction and regulatory context. In intellectual property, owner and holder frequently overlap, but holder may place greater emphasis on the legal status of possessing a particular right."
+  },
+  "minimal": {
+    "ja": [
+      "owner：物・財産・事業・権利について所有権を持つ個人または法人。",
+      "holder：権利・文書・口座・地位などを法的または事実上保持する者。",
+      "possessor：物を現実に占有・支配している者。所有者とは限らない。",
+      "proprietor：事業・施設・財産などの所有者を表す形式的な語。",
+      "shareholder：会社が発行した株式を保有する株主。",
+      "tenant：所有者から建物・土地などを借りて使用する賃借人。",
+      "legal owner：財産または権利について法律上の名義を持つ者。",
+      "beneficial owner：名義とは別に、財産・権利から実質的利益を受ける者。"
+    ],
+    "en": [
+      "an owner is a natural or legal person possessing ownership of property, a business, or a right.",
+      "a holder legally or factually possesses a right, document, account, or status.",
+      "a possessor has physical custody or control of something but is not necessarily its owner.",
+      "a proprietor is a formal term for the owner of a business, establishment, or property.",
+      "a shareholder owns shares issued by a company.",
+      "a tenant occupies or uses land or a building rented from its owner.",
+      "a legal owner is the person or entity holding legal title to property or a right.",
+      "a beneficial owner ultimately enjoys the benefits of property or a right despite possible differences in formal title."
+    ]
+  },
+  "etymology": {
+    "ja": "owner は own「所有する、自分自身の」に行為者を表す接尾辞 -er を加えた語である。own は古英語 āgen「自分自身の、所有された」に由来し、古英語 āgan「所有する」と関係する。もともとは人に固有のもの、またはその人に属するものという意味を持ち、そこから物・土地・事業・権利などを法的または社会的に自分のものとして持つという意味が発達した。ownership は owner に状態を表す接尾辞 -ship を加えた語である。",
+    "en": "Owner was formed from own with the agent suffix -er. Own comes from Old English āgen, meaning one’s personal or possessed, and is related to the Old English verb āgan, to possess. The word originally identified something belonging particularly to a person and developed into the modern concept of legally or socially possessing property, land, a business, or a right. Ownership was formed from owner with the suffix -ship, which denotes a state or condition."
+  },
+  "synonyms": [
+    {
+      "word": "proprietor",
+      "note": {
+        "ja": "店・事業・施設・財産などを所有する人を表す、ownerより形式的な語。",
+        "en": "A more formal term than owner for a person owning a shop, business, establishment, or property."
+      }
+    },
+    {
+      "word": "holder",
+      "note": {
+        "ja": "権利・資格・文書・口座などを保持する者で、必ずしも完全な所有権を意味しない。",
+        "en": "A person possessing a right, status, document, or account without necessarily having complete ownership."
+      }
+    },
+    {
+      "word": "possessor",
+      "note": {
+        "ja": "物を現実に保持・管理・支配している者で、法的所有者とは限らない。",
+        "en": "A person physically holding or controlling something who is not necessarily its legal owner."
+      }
+    },
+    {
+      "word": "titleholder",
+      "note": {
+        "ja": "財産・資産・権利について正式な法的名義を持つ者。",
+        "en": "A person or entity holding formal legal title to property, an asset, or a right."
+      }
+    },
+    {
+      "word": "right holder",
+      "note": {
+        "ja": "法律上の権利、特に知的財産権を保有・享有する者。",
+        "en": "A person or entity possessing or enjoying a legal right, especially an intellectual property right."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Eigentümer / Besitzer / Inhaber",
+    "it": "proprietario / titolare",
+    "fr": "propriétaire / titulaire",
+    "es": "propietario / titular"
+  },
+  "collocations": {
+    "ja": [
+      "a property owner — 不動産所有者",
+      "a home owner — 住宅所有者",
+      "a business owner — 事業主",
+      "a restaurant owner — レストラン経営者",
+      "a vehicle owner — 車両所有者",
+      "the original owner — 元の所有者",
+      "the current owner — 現在の所有者",
+      "the legal owner — 法律上の所有者",
+      "the beneficial owner — 実質的所有者",
+      "a joint owner — 共同所有者",
+      "obtain the owner’s permission — 所有者の許可を得る",
+      "transfer ownership to a new owner — 新しい所有者へ所有権を移転する"
+    ],
+    "en": [
+      "a property owner",
+      "a home owner",
+      "a business owner",
+      "a restaurant owner",
+      "a vehicle owner",
+      "the original owner",
+      "the current owner",
+      "the legal owner",
+      "the beneficial owner",
+      "a joint owner",
+      "obtain the owner’s permission",
+      "transfer ownership to a new owner"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The restaurant owner greeted every customer personally. — そのレストランの経営者は、すべての客に自ら挨拶した。",
+      "We found the wallet and returned it to its owner. — 私たちは財布を見つけて持ち主に返した。",
+      "The tenant must obtain the owner’s permission before altering the building. — 賃借人は建物を改造する前に所有者の許可を得なければならない。",
+      "The company is the legal owner of the equipment, although another business currently possesses it. — 別の企業が現在その機器を占有しているが、法律上の所有者はその会社である。",
+      "The patent owner granted the manufacturer a non-exclusive license without transferring ownership of the patent. — 特許権者は、特許権の所有権を移転することなく、製造業者に非独占的実施権を許諾した。"
+    ],
+    "en": [
+      "The restaurant owner greeted every customer personally.",
+      "We found the wallet and returned it to its owner.",
+      "The tenant must obtain the owner’s permission before altering the building.",
+      "The company is the legal owner of the equipment, although another business currently possesses it.",
+      "The patent owner granted the manufacturer a non-exclusive license without transferring ownership of the patent."
+    ]
+  }
+},
+{
   "id": "fee",
   "sid": "2026-01560",
   "word": "fee",
