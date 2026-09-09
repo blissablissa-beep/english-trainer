@@ -1,5 +1,200 @@
 [
 {
+  "id": "unit-price",
+  "sid": "2026-01584",
+  "word": "unit price",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun phrase",
+    "price",
+    "cost",
+    "sales",
+    "purchasing",
+    "retail",
+    "manufacturing",
+    "accounting",
+    "contract",
+    "business",
+    "commerce",
+    "general"
+  ],
+  "grammar": {
+    "pos": "countable noun phrase",
+    "countability": "countable",
+    "plural": "unit prices",
+    "forms": {
+      "singular": "unit price",
+      "plural": "unit prices",
+      "related_phrase": "price per unit",
+      "related_noun": "unit pricing"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a unit price",
+      "the unit price",
+      "unit price of + amount",
+      "unit price for + product",
+      "unit price per + unit of measurement",
+      "at a unit price of + amount",
+      "calculate / determine the unit price",
+      "increase / reduce the unit price",
+      "compare unit prices",
+      "multiply the unit price by + quantity"
+    ],
+    "usage": {
+      "definition": "Unit price is the price charged for one item or one specified unit of quantity, weight, volume, time, or service.",
+      "article": "As a singular countable noun phrase, it normally requires a determiner: a unit price or the unit price.",
+      "of": "At a unit price of is commonly followed by the amount charged for each unit.",
+      "for": "For may identify the product or service whose unit price is being discussed.",
+      "cost": "Unit price normally refers to the amount charged to a buyer, whereas unit cost refers to the seller’s or producer’s cost for each unit.",
+      "calculation": "The total price is generally calculated by multiplying the unit price by the relevant quantity, subject to taxes, discounts, fees, and contractual terms.",
+      "measurement": "The unit must be identified clearly because it may mean one item, kilogram, liter, hour, license, or another defined quantity."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈjuːnɪt praɪs/",
+      "uk": "/ˈjuːnɪt praɪs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "商品一個・一組など、一単位当たりの販売価格",
+      "重量・容量・長さなどの一定量当たりの価格",
+      "サービスの一時間・一回など、定められた提供単位当たりの料金",
+      "契約上の数量に乗じて総額を計算する基準価格",
+      "異なる容量・数量の商品を比較するために換算された単位当たりの価格"
+    ],
+    "en": [
+      "the selling price charged for one item, set, or other individual unit",
+      "the price for a specified unit of weight, volume, length, or another measurement",
+      "the charge for one hour, occasion, or other defined unit of service",
+      "the basic contractual price multiplied by quantity to calculate the total amount",
+      "a standardized price used to compare products sold in different package sizes or quantities"
+    ]
+  },
+  "nuance": {
+    "ja": "unit price は、価格計算の基礎となる「一単位当たりの価格」を表す。単位は商品一個とは限らず、1kg、1リットル、1メートル、1時間、1ライセンスなど、取引で定義された単位になり得る。unit price と unit cost は混同しやすいが、前者は通常、買主に提示・請求される価格、後者は一単位を生産・取得・提供するために売主側で発生する費用を指す。契約では、単位の定義、数量、税、割引、送料、最低購入量などによって支払総額が変わるため、unit price だけで最終金額が確定するとは限らない。",
+    "en": "Unit price is the price used as the basis for calculating an amount payable for a defined quantity. A unit need not be one physical item; it may be a kilogram, liter, meter, hour, license, or another measure established by the transaction. Unit price is easily confused with unit cost. The former ordinarily means the price quoted or charged to the buyer, while the latter refers to the seller’s or producer’s cost of acquiring, producing, or providing each unit. In a contract, the total amount may also depend on the definition of the unit, quantity, taxes, discounts, shipping charges, and minimum purchase requirements."
+  },
+  "minimal": {
+    "ja": [
+      "unit price：商品・数量・サービスなどの一単位当たりに設定された価格。",
+      "price per unit：unit price とほぼ同じ意味の、説明的な表現。",
+      "unit cost：一単位の商品を生産・取得・提供するために発生する原価・費用。",
+      "total price：数量・税・割引などを反映した取引全体の価格。",
+      "retail price：小売業者が一般消費者へ販売する際の価格。",
+      "wholesale price：卸売段階で大量購入者・小売業者へ提示される価格。",
+      "list price：割引前に公表・設定されている標準価格。",
+      "unit pricing：商品価格を重量・容量などの共通単位当たりで表示する方式。"
+    ],
+    "en": [
+      "unit price is the price established for one defined unit of a product, quantity, or service.",
+      "price per unit is a descriptive expression with essentially the same meaning as unit price.",
+      "unit cost is the cost of producing, acquiring, or providing one unit.",
+      "total price is the amount for the complete transaction after quantity, tax, discounts, and other terms are considered.",
+      "retail price is the price charged by a retailer to the final consumer.",
+      "wholesale price is the price offered to retailers or other buyers purchasing goods in quantity.",
+      "list price is the standard published price before discounts.",
+      "unit pricing is the practice of displaying a product’s price per standard unit of weight, volume, or quantity."
+    ]
+  },
+  "etymology": {
+    "ja": "unit はラテン語 unus「一つ」に由来する語族に属し、全体を構成する一個・一定量を意味する。price はラテン語 pretium「価格、価値、報酬」に由来し、古フランス語を経て英語に入った。unit price は、この二語を組み合わせて、商品・材料・サービスなどの「一つの定められた単位に対応する価格」を表す複合名詞となった。製造・調達・小売・契約など、数量に基づいて総額を計算する分野で広く使われる。",
+    "en": "Unit belongs to a word family ultimately derived from Latin unus, meaning one, and refers to one item or defined quantity forming part of a whole. Price comes through French from Latin pretium, meaning price, value, or reward. The compound unit price therefore means the price corresponding to one defined unit of goods, material, or service. It became a standard expression in manufacturing, procurement, retailing, contracting, and other fields in which totals are calculated from quantities."
+  },
+  "synonyms": [
+    {
+      "word": "price per unit",
+      "note": {
+        "ja": "一単位当たりの価格であることを直接的に示す、unit price とほぼ同義の表現。",
+        "en": "A direct descriptive expression essentially equivalent to unit price."
+      }
+    },
+    {
+      "word": "per-item price",
+      "note": {
+        "ja": "商品一個ごとに設定された価格。重量・時間などの単位には通常使わない。",
+        "en": "The price charged for each individual item, normally excluding measures such as weight or time."
+      }
+    },
+    {
+      "word": "rate",
+      "note": {
+        "ja": "時間・数量・距離などの単位に応じて設定される料金・割合。",
+        "en": "An amount charged or calculated according to a unit of time, quantity, distance, or another measure."
+      }
+    },
+    {
+      "word": "selling price",
+      "note": {
+        "ja": "売主が商品・サービスを買主へ販売する際に設定する価格。",
+        "en": "The price at which a seller offers or transfers a product or service to a buyer."
+      }
+    },
+    {
+      "word": "unit cost",
+      "note": {
+        "ja": "一単位を生産・取得・提供するための費用であり、販売価格とは限らない。",
+        "en": "The cost of producing, acquiring, or providing one unit rather than necessarily its selling price."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Stückpreis / Einheitspreis",
+    "it": "prezzo unitario",
+    "fr": "prix unitaire",
+    "es": "precio unitario"
+  },
+  "collocations": {
+    "ja": [
+      "a fixed unit price — 固定された単価",
+      "an agreed unit price — 合意された単価",
+      "the average unit price — 平均単価",
+      "a lower unit price — より低い単価",
+      "the unit price of the product — 商品の単価",
+      "at a unit price of ten dollars — 一単位10ドルの価格で",
+      "calculate the unit price — 単価を計算する",
+      "determine the unit price — 単価を決定する",
+      "increase the unit price — 単価を引き上げる",
+      "reduce the unit price — 単価を引き下げる",
+      "compare unit prices — 単位当たりの価格を比較する",
+      "multiply the unit price by the quantity — 単価に数量を掛ける"
+    ],
+    "en": [
+      "a fixed unit price",
+      "an agreed unit price",
+      "the average unit price",
+      "a lower unit price",
+      "the unit price of the product",
+      "at a unit price of ten dollars",
+      "calculate the unit price",
+      "determine the unit price",
+      "increase the unit price",
+      "reduce the unit price",
+      "compare unit prices",
+      "multiply the unit price by the quantity"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The unit price is printed next to the total package price. — 単位当たりの価格は、包装全体の価格の隣に表示されている。",
+      "The supplier offered a lower unit price for orders exceeding one thousand pieces. — 供給業者は、千個を超える注文についてより低い単価を提示した。",
+      "To calculate the total, multiply the unit price by the number of items ordered. — 合計額を計算するには、単価に注文個数を掛けてください。",
+      "Although the unit cost decreased, the company did not reduce the unit price charged to customers. — 一単位当たりの原価は下がったが、会社は顧客に請求する単価を引き下げなかった。",
+      "The license agreement sets a unit price for each patented component supplied to the manufacturer. — そのライセンス契約は、製造業者へ供給される特許対象部品一個ごとの価格を定めている。"
+    ],
+    "en": [
+      "The unit price is printed next to the total package price.",
+      "The supplier offered a lower unit price for orders exceeding one thousand pieces.",
+      "To calculate the total, multiply the unit price by the number of items ordered.",
+      "Although the unit cost decreased, the company did not reduce the unit price charged to customers.",
+      "The license agreement sets a unit price for each patented component supplied to the manufacturer."
+    ]
+  }
+},
+{
   "id": "bull-in-a-china-shop",
   "sid": "2026-01585",
   "word": "a bull in a china shop",
