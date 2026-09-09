@@ -2220,6 +2220,604 @@
   }
 },
 {
+  "id": "so-that",
+  "sid": "2026-01525",
+  "word": "so that",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "conjunction",
+    "purpose",
+    "result",
+    "reason",
+    "clause",
+    "grammar",
+    "modal verb",
+    "sentence connector",
+    "spoken English",
+    "written English",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "subordinating conjunction",
+    "forms": {
+      "base": "so that",
+      "informal_reduction": "so",
+      "purpose_alternative": "in order that",
+      "infinitive_alternative": "in order to / so as to",
+      "separate_construction": "so + adjective / adverb + that"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "main clause + so that + subject + can / will + verb",
+      "main clause + so that + subject + could / would + verb",
+      "main clause + so that + subject + may / might + verb",
+      "main clause + so that + subject + do / does / did not + verb",
+      "so that everyone can + verb",
+      "so that there is / are + noun",
+      "so that no one + verb",
+      "main clause, so that + result clause",
+      "so + adjective / adverb + that + clause",
+      "in order to / so as to + verb"
+    ],
+    "usage": {
+      "purpose": "So that introduces the intended purpose of an action and commonly occurs with can, could, will, would, may, or might.",
+      "result": "It can also introduce an actual result or consequence, particularly when the clause is separated by a comma.",
+      "subject": "Unlike an infinitive purpose construction, so that introduces a complete clause with its own subject.",
+      "different_subjects": "So that is especially useful when the subject of the purpose clause differs from that of the main clause.",
+      "tense": "Present or future contexts often use can or will, while past contexts commonly use could or would.",
+      "omission": "That is frequently omitted in informal English: I wrote it down so I wouldn’t forget.",
+      "negative_purpose": "Negative purpose can be expressed with so that ... not, although so as not to or in order not to may be more concise when the subject is the same.",
+      "comma": "A comma is often used before a result clause but is normally omitted before a closely integrated purpose clause.",
+      "so_adjective_that": "So that must be distinguished from so + adjective or adverb + that, which expresses degree and consequence.",
+      "formal_alternative": "In order that is more formal but often sounds unnecessarily heavy in ordinary writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "strong /ˌsoʊ ˈðæt/; weak /sə ðət/",
+      "uk": "strong /ˌsəʊ ˈðæt/; weak /sə ðət/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ある目的を実現するために、～するように",
+      "人が何かをできるように",
+      "望ましくないことが起きないように",
+      "前の行為・状況の結果として、そのため～",
+      "別の主語を持つ目的節を導く接続詞",
+      "結果として生じた状態・変化を説明する接続表現"
+    ],
+    "en": [
+      "for the purpose of making a particular action or result possible",
+      "in order that someone can do something",
+      "with the intention of preventing an unwanted event",
+      "with the result or consequence that something happens",
+      "a conjunction introducing a purpose clause with its own subject",
+      "a connective introducing a state or change resulting from the preceding situation"
+    ]
+  },
+  "nuance": {
+    "ja": "so that には大きく分けて目的と結果の二つの用法がある。I spoke slowly so that everyone could understand. では、ゆっくり話した目的を表す。一方、The road was closed, so that we had to turn back. では、道路閉鎖の結果として引き返したことを表す。ただし、この結果用法では現代英語では so のみを使うことも多い。目的節では can、could、will、would、may、might などの助動詞を伴うことが多く、主節が過去なら could や would が自然である。to不定詞と異なり、so that の後には主語と動詞を備えた節が続くため、主節と異なる人物の行動を目的として示せる。口語では that が省略されることが多い。so tired that ... のような so + 形容詞・副詞 + that は程度から生じる結果を表す別の構文である。",
+    "en": "So that has two principal uses: purpose and result. I spoke slowly so that everyone could understand explains the intended purpose of speaking slowly. The road was closed, so that we had to turn back presents turning back as the result of the closure, although modern English often uses so alone for this meaning. Purpose clauses commonly contain can, could, will, would, may, or might, with could and would particularly natural after a past-tense main clause. Unlike a purpose infinitive, so that is followed by a full clause with its own subject, making it useful when different people perform the two actions. That is frequently omitted in conversation. The construction so + adjective or adverb + that, as in so tired that I fell asleep, is a separate degree-and-result construction."
+  },
+  "minimal": {
+    "ja": [
+      "so that：目的「～するために」または結果「そのため～」を表す。",
+      "to：主節と目的の行為者が同じ場合に使える最も簡潔な目的表現。",
+      "in order to：目的を明示する、to よりやや強調的・形式的な表現。",
+      "so as to：目的を表すやや形式的な表現。主に書き言葉で使う。",
+      "in order that：完全な節を導いて目的を表す、非常に形式的な表現。",
+      "so：結果「だから、そのため」を表す等位接続詞。",
+      "therefore：前の情報から生じる論理的結果を表す形式的な副詞。",
+      "so ... that ...：程度が非常に高いため、特定の結果が生じることを表す。"
+    ],
+    "en": [
+      "so that expresses either purpose, meaning in order that, or result, meaning with the result that.",
+      "to is the most concise purpose construction when the same person performs both actions.",
+      "in order to states purpose more explicitly and somewhat more formally than to alone.",
+      "so as to is a relatively formal purpose construction used mainly in writing.",
+      "in order that formally introduces a complete clause expressing purpose.",
+      "so is a coordinating conjunction meaning therefore or as a result.",
+      "therefore is a formal adverb introducing a logical consequence of earlier information.",
+      "so ... that ... expresses a degree sufficiently great to produce a particular result."
+    ]
+  },
+  "etymology": {
+    "ja": "so は古英語 swā「そのように、その程度に」に由来し、that は古英語 þæt に由来する。so that は本来「そのように、その結果～」という関係を示し、ある行為から生じる結果を表した。意図した結果はその行為の目的でもあるため、「～という結果になるように」から「～するために」という目的用法が発達した。このため、現代英語でも結果用法と目的用法の両方が残っている。目的を表す in order that はより明示的で形式的だが、日常英語では so that の方が自然である。",
+    "en": "So derives from Old English swā, meaning in that manner or to that degree, while that derives from Old English þæt. The combination so that originally connected an action with the state or consequence produced by it. Because an intended consequence can also constitute the purpose of an action, the meaning developed from with the result that to in order that. Modern English consequently retains both result and purpose uses. In order that expresses purpose more explicitly and formally, but so that is generally more natural in ordinary English."
+  },
+  "synonyms": [
+    {
+      "word": "in order that",
+      "note": {
+        "ja": "主語と動詞を持つ節を導き、目的を明示する形式的な接続表現。",
+        "en": "A formal conjunction introducing a clause with its own subject and verb to state a purpose explicitly."
+      }
+    },
+    {
+      "word": "in order to",
+      "note": {
+        "ja": "主節の行為者が何かをする目的を、to より明示的に表す。",
+        "en": "An infinitive construction stating more explicitly the purpose for which the subject acts."
+      }
+    },
+    {
+      "word": "so as to",
+      "note": {
+        "ja": "主として書き言葉で、行為の目的を表すやや形式的な不定詞表現。",
+        "en": "A somewhat formal infinitive construction used mainly in writing to express purpose."
+      }
+    },
+    {
+      "word": "with the result that",
+      "note": {
+        "ja": "前の行為・状況によって、後ろの結果が実際に生じたことを明示する。",
+        "en": "Explicitly indicates that the following event actually occurred as a consequence of the preceding situation."
+      }
+    },
+    {
+      "word": "so",
+      "note": {
+        "ja": "前の状況から生じた結果を「だから、そのため」と簡潔に導く。",
+        "en": "A concise coordinating conjunction introducing a result or consequence of the preceding situation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "damit / sodass",
+    "it": "affinché / in modo che / cosicché",
+    "fr": "afin que / pour que / de sorte que",
+    "es": "para que / de modo que"
+  },
+  "collocations": {
+    "ja": [
+      "so that everyone can understand — 全員が理解できるように",
+      "so that I can remember — 私が覚えておけるように",
+      "so that we can avoid confusion — 私たちが混乱を避けられるように",
+      "so that you will know — あなたが分かるように",
+      "so that they could see — 彼らが見えるように",
+      "so that no one would notice — 誰にも気づかれないように",
+      "so that nothing is lost — 何も失われないように",
+      "so that there is no doubt — 疑いの余地がないように",
+      "so that it remains clear — それが明確なままとなるように",
+      "so that the deadline can be met — 期限に間に合うように",
+      "so that the result is reproducible — 結果を再現できるように",
+      "so that each claim is properly supported — 各請求項が適切に裏付けられるように"
+    ],
+    "en": [
+      "so that everyone can understand",
+      "so that I can remember",
+      "so that we can avoid confusion",
+      "so that you will know",
+      "so that they could see",
+      "so that no one would notice",
+      "so that nothing is lost",
+      "so that there is no doubt",
+      "so that it remains clear",
+      "so that the deadline can be met",
+      "so that the result is reproducible",
+      "so that each claim is properly supported"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Please speak slowly so that everyone can understand you. — 全員が理解できるように、ゆっくり話してください。",
+      "I wrote the address down so that I would not forget it. — 忘れないように、その住所を書き留めた。",
+      "She moved the chair so that her colleague could reach the shelf. — 同僚が棚に手を伸ばせるように、彼女は椅子を動かした。",
+      "The company simplified the procedure so that customers could complete it online. — 顧客がオンラインで手続きを完了できるように、会社はその手続きを簡素化した。",
+      "The applicant amended the description so that the terminology would correspond consistently with the patent claims. — 出願人は、用語が特許請求項と一貫して対応するように明細書を補正した。"
+    ],
+    "en": [
+      "Please speak slowly so that everyone can understand you.",
+      "I wrote the address down so that I would not forget it.",
+      "She moved the chair so that her colleague could reach the shelf.",
+      "The company simplified the procedure so that customers could complete it online.",
+      "The applicant amended the description so that the terminology would correspond consistently with the patent claims."
+    ]
+  }
+},
+{
+  "id": "in-order-to",
+  "sid": "2026-01526",
+  "word": "in order to",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "infinitive phrase",
+    "purpose",
+    "grammar",
+    "formal",
+    "written English",
+    "spoken English",
+    "sentence structure",
+    "business",
+    "academic",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "purpose infinitive marker",
+    "forms": {
+      "base": "in order to",
+      "negative": "in order not to",
+      "different_subject": "in order for + noun / pronoun + to",
+      "clausal_alternative": "so that + clause",
+      "formal_clausal_alternative": "in order that + clause",
+      "close_alternative": "so as to"
+    },
+    "transitivity": "not applicable; followed by a bare verb after to",
+    "patterns": [
+      "in order to + verb",
+      "in order to be + adjective / past participle",
+      "in order to have + past participle",
+      "in order not to + verb",
+      "main clause + in order to + verb",
+      "In order to + verb, main clause",
+      "in order for + person + to + verb",
+      "in order for something to happen",
+      "in order that + subject + can / may + verb",
+      "so that + subject + can / could + verb"
+    ],
+    "usage": {
+      "purpose": "In order to introduces the purpose or intended objective of an action.",
+      "same_subject": "The understood subject of the infinitive is normally the subject of the main clause.",
+      "different_subject": "When another person or thing performs the purpose action, use in order for someone or something to do, or use so that plus a clause.",
+      "negative": "The normal negative form is in order not to, not not in order to when the intended meaning is negative purpose.",
+      "emphasis": "It states purpose more explicitly and emphatically than to alone.",
+      "position": "The phrase can follow the main clause or appear at the beginning of the sentence.",
+      "comma": "When an introductory in order to phrase precedes the main clause, a comma is often used, especially if the phrase is long.",
+      "register": "It is natural in formal, academic, business, and legal writing but can sound unnecessarily heavy when simple to is equally clear.",
+      "result_warning": "In order to expresses intended purpose, not an unintended result or mere sequence of events.",
+      "modifier_warning": "The subject of the main clause must logically be capable of performing the infinitive action."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪn ˈɔːrdər tə/",
+      "uk": "/ɪn ˈɔːdə tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特定の目的を達成するために",
+      "何かを可能にすることを目的として",
+      "望ましい結果を得るための手段として",
+      "in order not to の形で、望ましくない結果を避けるために",
+      "in order for ... to の形で、別の人・物が行動できるように",
+      "行為の目的を単純な to 不定詞より明示的に示す表現"
+    ],
+    "en": [
+      "for the purpose of achieving a particular objective",
+      "with the intention of making something possible",
+      "as a means of obtaining a desired result",
+      "in the form in order not to, for the purpose of avoiding an unwanted result",
+      "in the form in order for ... to, so that another person or thing can act",
+      "an expression stating purpose more explicitly than a simple to-infinitive"
+    ]
+  },
+  "nuance": {
+    "ja": "in order to は、主節の行為がどの目的で行われるかを明示する表現である。I left early in order to catch the train. では、早く出発した人と列車に乗ろうとする人は同一である。別の人物が目的節の行為をする場合、I left early in order for my colleague to use the car. のように in order for + 人 + to do を使うか、so that my colleague could use the car のような完全な節にする。単純な to も同じ目的を表せる場合が多く、in order to は目的を強調したい場合や、to が目的なのか結果なのか曖昧になり得る場合に有用である。否定は in order not to do の語順にする。なお、In order to reduce costs, several offices were closed. は文法上、several offices が費用を削減しようとしたように見えるため、The company closed several offices in order to reduce costs. のように行為者を明示する方がよい。",
+    "en": "In order to explicitly states the purpose for which the action in the main clause is performed. In I left early in order to catch the train, the person who left and the person intending to catch the train are the same. If another person performs the purpose action, use in order for someone to do something, as in I left early in order for my colleague to use the car, or use a complete clause such as so that my colleague could use the car. A simple to-infinitive can often express the same purpose, while in order to is useful for emphasis or when the function of to might otherwise be unclear. Its negative form is in order not to do. An introductory phrase must logically modify the main-clause subject; In order to reduce costs, several offices were closed can appear to assign the intention to the offices, so an explicit actor is preferable."
+  },
+  "minimal": {
+    "ja": [
+      "in order to：目的を明示して「～するために」を表す。",
+      "to：同一主語による目的を表す、最も簡潔な不定詞表現。",
+      "so as to：目的を表すやや形式的な不定詞表現。",
+      "so that：主語と動詞を持つ節によって目的または結果を表す。",
+      "in order that：完全な節によって目的を明示する形式的な表現。",
+      "in order for ... to：別の人・物が行動するための条件・目的を表す。",
+      "in order not to：望ましくない行為・結果を避ける目的を表す。",
+      "for the purpose of：名詞・動名詞を伴い、目的を非常に明示的・形式的に表す。"
+    ],
+    "en": [
+      "in order to explicitly introduces the purpose of an action.",
+      "to is the most concise infinitive construction expressing purpose with the same subject.",
+      "so as to is a somewhat formal infinitive construction expressing purpose.",
+      "so that introduces a complete clause expressing purpose or result.",
+      "in order that is a formal conjunction introducing a complete purpose clause.",
+      "in order for ... to identifies a different person or thing that performs the intended action.",
+      "in order not to expresses the purpose of avoiding an unwanted action or result.",
+      "for the purpose of formally and explicitly states purpose before a noun or gerund."
+    ]
+  },
+  "etymology": {
+    "ja": "order はラテン語 ordo「列、配列、秩序」に由来し、古フランス語 ordre を経て英語へ入った。in order は本来「適切な配列・状態にある」という意味だが、in order to では「ある目的が実現するよう物事を整える」という発想から、目的を示す接続的な不定詞表現となった。単純な to 不定詞にも古くから目的用法があるが、in order を加えることで目的関係がより明示的になる。現代英語では形式的な文章に多い一方、日常的な文では単純な to で十分なことも多い。",
+    "en": "Order derives from Latin ordo, meaning a row, arrangement, or regular sequence, and entered English through Old French ordre. In order originally described something being properly arranged or in a suitable condition. In order to developed from the idea of arranging or acting so that an intended objective could be achieved and became an explicit purpose construction. The simple to-infinitive has also long expressed purpose, but adding in order makes the purposive relationship more explicit. In modern English, the longer expression is common in formal writing, although simple to is often sufficient in ordinary sentences."
+  },
+  "synonyms": [
+    {
+      "word": "to",
+      "note": {
+        "ja": "主節と不定詞の行為者が同じ場合、目的を最も簡潔に表す。",
+        "en": "The most concise way to express purpose when the main verb and infinitive share the same subject."
+      }
+    },
+    {
+      "word": "so as to",
+      "note": {
+        "ja": "in order to とほぼ同じだが、やや形式的で書き言葉的な目的表現。",
+        "en": "A purpose construction nearly equivalent to in order to but somewhat more formal and literary."
+      }
+    },
+    {
+      "word": "so that",
+      "note": {
+        "ja": "完全な節を導き、主節とは異なる主語による目的も自然に表せる。",
+        "en": "Introduces a complete clause and readily permits a purpose action with a different subject."
+      }
+    },
+    {
+      "word": "with the aim of",
+      "note": {
+        "ja": "名詞・動名詞を伴い、計画・政策などの具体的な目標を表す。",
+        "en": "Introduces a noun or gerund stating the intended objective of a plan, policy, or action."
+      }
+    },
+    {
+      "word": "for the purpose of",
+      "note": {
+        "ja": "行為・制度・文書などの目的を非常に明示的かつ形式的に述べる。",
+        "en": "A highly explicit and formal phrase stating the purpose of an action, system, or document."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "um ... zu",
+    "it": "per / al fine di",
+    "fr": "pour / afin de",
+    "es": "para / a fin de"
+  },
+  "collocations": {
+    "ja": [
+      "in order to succeed — 成功するために",
+      "in order to avoid confusion — 混乱を避けるために",
+      "in order to save time — 時間を節約するために",
+      "in order to reduce costs — 費用を削減するために",
+      "in order to meet the deadline — 期限に間に合わせるために",
+      "in order to ensure accuracy — 正確性を確保するために",
+      "in order to determine whether — ～かどうか判断するために",
+      "in order not to forget — 忘れないように",
+      "in order not to disclose the information — 情報を開示しないために",
+      "in order for the system to work — システムが機能するために",
+      "in order for everyone to participate — 全員が参加できるように",
+      "in order to distinguish the invention — 発明を区別するために"
+    ],
+    "en": [
+      "in order to succeed",
+      "in order to avoid confusion",
+      "in order to save time",
+      "in order to reduce costs",
+      "in order to meet the deadline",
+      "in order to ensure accuracy",
+      "in order to determine whether",
+      "in order not to forget",
+      "in order not to disclose the information",
+      "in order for the system to work",
+      "in order for everyone to participate",
+      "in order to distinguish the invention"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We left early in order to avoid the morning traffic. — 朝の渋滞を避けるため、私たちは早く出発した。",
+      "She wrote down the instructions in order not to forget them. — 指示を忘れないように、彼女はそれを書き留めた。",
+      "The door must remain open in order for the equipment to be moved safely. — 機器を安全に移動できるように、扉を開けたままにしなければならない。",
+      "The company reorganized its sales team in order to improve profitability. — 会社は収益性を改善するため、営業チームを再編した。",
+      "The applicant added experimental data in order to demonstrate that the claimed effect was reproducible. — 出願人は、請求された効果に再現性があることを示すため、実験データを追加した。"
+    ],
+    "en": [
+      "We left early in order to avoid the morning traffic.",
+      "She wrote down the instructions in order not to forget them.",
+      "The door must remain open in order for the equipment to be moved safely.",
+      "The company reorganized its sales team in order to improve profitability.",
+      "The applicant added experimental data in order to demonstrate that the claimed effect was reproducible."
+    ]
+  }
+},
+{
+  "id": "in-order-not-to",
+  "sid": "2026-01527",
+  "word": "in order not to",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "infinitive phrase",
+    "negative purpose",
+    "avoidance",
+    "prevention",
+    "grammar",
+    "sentence structure",
+    "formal",
+    "written English",
+    "spoken English",
+    "business",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "negative purpose infinitive marker",
+    "forms": {
+      "base": "in order not to",
+      "positive": "in order to",
+      "concise_alternative": "not to",
+      "formal_alternative": "so as not to",
+      "clausal_alternative": "so that + subject + do / does / did not",
+      "different_subject": "in order for + noun / pronoun + not to"
+    },
+    "transitivity": "not applicable; followed by the base form of a verb",
+    "patterns": [
+      "in order not to + verb",
+      "in order not to be + adjective / past participle",
+      "in order not to have to + verb",
+      "main clause + in order not to + verb",
+      "In order not to + verb, main clause",
+      "in order for + person + not to + verb",
+      "so that + subject + will / would not + verb",
+      "so that + subject + does / did not + verb",
+      "not in order to A, but to B",
+      "take care in order not to + verb"
+    ],
+    "usage": {
+      "negative_purpose": "In order not to introduces an action or result that the subject intends to avoid.",
+      "word_order": "Not normally comes before to: in order not to do, not in order to not do in careful standard writing.",
+      "same_subject": "The understood subject of the infinitive is normally the subject of the main clause.",
+      "different_subject": "If another person or thing is to avoid the action, use in order for someone not to do or so that someone will not do.",
+      "not_in_order_to": "Not in order to negates the purpose itself: I called not in order to complain, but to offer help.",
+      "split_negative": "In order to not do occurs, especially when not is closely contrasted with another verb phrase, but in order not to do is generally preferred.",
+      "position": "The phrase may follow the main clause or appear at the beginning of the sentence.",
+      "comma": "An introductory in order not to phrase is usually followed by a comma.",
+      "register": "It is explicit and moderately formal; simple not to is often more concise.",
+      "modifier_warning": "The subject of the main clause must logically be capable of intending or performing the action expressed by the infinitive."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪn ˌɔːrdər ˈnɑːt tə/",
+      "uk": "/ɪn ˌɔːdə ˈnɒt tə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "望ましくない行為をしないために",
+      "特定の結果が生じることを防ぐために",
+      "危険・誤解・失敗などを避ける目的で",
+      "人や物が特定の状態にならないように",
+      "意図的に何かを控える理由・目的を示して",
+      "主節の行為者が別の行為を避けることを目的として"
+    ],
+    "en": [
+      "for the purpose of avoiding an unwanted action",
+      "with the intention of preventing a particular result",
+      "in order to avoid danger, misunderstanding, or failure",
+      "so that a person or thing does not enter a particular state",
+      "introducing the purpose for deliberately refraining from something",
+      "indicating that the subject acts with the objective of not performing another action"
+    ]
+  },
+  "nuance": {
+    "ja": "in order not to は、主節の行為が「あることを避ける」という目的で行われたことを明示する。I whispered in order not to wake the baby. では、ささやいた目的は赤ちゃんを起こさないことである。通常、ささやいた人と起こさないように行動した人は同一である。目的となる節に別の主語が必要なら、I closed the door in order for the baby not to hear us. または so that the baby would not hear us とする。語順上、in order not to do が標準的であり、not in order to do は「～する目的ではなく」という別の意味になる。例えば I contacted her not in order to complain, but to apologize. は「苦情を言うためではなく、謝るために連絡した」という意味である。単純な not to でも目的を表せるが、in order not to は否定が主節ではなく目的にかかることを明確にできる。",
+    "en": "In order not to explicitly states that the action in the main clause was performed for the purpose of avoiding another action or result. In I whispered in order not to wake the baby, the purpose of whispering was to prevent the baby from waking. The person performing the main action is normally also the understood subject of the infinitive. If a different subject is required, use in order for someone not to do something or a clause with so that, as in so that the baby would not hear us. The standard word order is in order not to do. Not in order to do has a different meaning: it rejects the stated purpose, as in I contacted her not in order to complain, but to apologize. Simple not to can also express negative purpose, but in order not to makes it particularly clear that the negation belongs to the intended purpose."
+  },
+  "minimal": {
+    "ja": [
+      "in order not to：望ましくない行為・結果を避けるために。",
+      "not to：同一主語による否定目的を簡潔に表す。",
+      "so as not to：否定目的を表す、やや形式的な不定詞表現。",
+      "so that ... not：完全な節によって、何かが起きないようにする目的を表す。",
+      "in order for ... not to：別の人・物が行為をしないための条件・目的を表す。",
+      "to avoid：望ましくない物事を避ける目的を直接的に表す。",
+      "to prevent：出来事・行為が発生しないよう阻止する目的を表す。",
+      "not in order to：ある行為を目的としていないことを表す。"
+    ],
+    "en": [
+      "in order not to introduces the purpose of avoiding an unwanted action or result.",
+      "not to is a concise negative purpose construction with the same understood subject.",
+      "so as not to is a somewhat formal infinitive construction expressing negative purpose.",
+      "so that ... not uses a complete clause to express the purpose of preventing something.",
+      "in order for ... not to identifies a different person or thing that is to avoid the action.",
+      "to avoid directly states the objective of escaping or preventing something undesirable.",
+      "to prevent expresses the purpose of stopping an event or action from occurring.",
+      "not in order to means that the following action was not the purpose."
+    ]
+  },
+  "etymology": {
+    "ja": "in order not to は、目的を表す in order to の不定詞部分を not で否定した構造である。order はラテン語 ordo「列、配列、秩序」に由来し、古フランス語 ordre を経て英語へ入った。in order to は「目的が実現するように物事を整える」という発想から「～するために」を意味するようになった。そこへ否定辞 not を不定詞の直前に置くことで、「ある行為を行わないことを目的として」という否定目的が形成される。否定辞が in order の前に置かれると目的そのものの否定になるため、語順によって意味が変わる。",
+    "en": "In order not to is formed by placing the negative particle not before the infinitive in the purpose construction in order to. Order derives through Old French ordre from Latin ordo, meaning a row, arrangement, or regular sequence. In order to developed from the idea of arranging or acting so that an intended objective would be achieved. Placing not immediately before the infinitive produces the meaning for the purpose of not performing an action. If not instead precedes in order, it negates the purpose itself, which accounts for the difference between in order not to do and not in order to do."
+  },
+  "synonyms": [
+    {
+      "word": "not to",
+      "note": {
+        "ja": "主節と同じ行為者が何かを避ける目的を、短く自然に表す。",
+        "en": "A short and natural way to express that the main-clause subject intends to avoid an action."
+      }
+    },
+    {
+      "word": "so as not to",
+      "note": {
+        "ja": "in order not to とほぼ同義の、やや形式的・書き言葉的な表現。",
+        "en": "A somewhat formal and literary negative purpose expression nearly equivalent to in order not to."
+      }
+    },
+    {
+      "word": "so that ... not",
+      "note": {
+        "ja": "主語と動詞を持つ完全な節で、望ましくない結果を防ぐ目的を表す。",
+        "en": "A complete clause expressing the purpose of preventing an unwanted action or result."
+      }
+    },
+    {
+      "word": "to avoid",
+      "note": {
+        "ja": "危険・混乱・費用などを避けるという目的を直接的に示す。",
+        "en": "Directly states the purpose of avoiding danger, confusion, expense, or another unwanted consequence."
+      }
+    },
+    {
+      "word": "to prevent",
+      "note": {
+        "ja": "特定の出来事・行為・状態が発生することを阻止する目的を示す。",
+        "en": "States the purpose of stopping a particular event, action, or condition from occurring."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "um nicht ... zu",
+    "it": "per non / al fine di non",
+    "fr": "pour ne pas / afin de ne pas",
+    "es": "para no / a fin de no"
+  },
+  "collocations": {
+    "ja": [
+      "in order not to forget — 忘れないために",
+      "in order not to be late — 遅れないために",
+      "in order not to wake someone — 人を起こさないために",
+      "in order not to cause confusion — 混乱を生じさせないために",
+      "in order not to make a mistake — 間違いを犯さないために",
+      "in order not to attract attention — 注目を集めないために",
+      "in order not to disclose information — 情報を開示しないために",
+      "in order not to exceed the budget — 予算を超過しないために",
+      "in order not to miss the deadline — 期限を逃さないために",
+      "in order not to infringe a right — 権利を侵害しないために",
+      "in order for the system not to fail — システムが故障しないように",
+      "in order for customers not to be misled — 顧客が誤認しないように"
+    ],
+    "en": [
+      "in order not to forget",
+      "in order not to be late",
+      "in order not to wake someone",
+      "in order not to cause confusion",
+      "in order not to make a mistake",
+      "in order not to attract attention",
+      "in order not to disclose information",
+      "in order not to exceed the budget",
+      "in order not to miss the deadline",
+      "in order not to infringe a right",
+      "in order for the system not to fail",
+      "in order for customers not to be misled"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I wrote down the appointment in order not to forget it. — 約束を忘れないように、私はそれを書き留めた。",
+      "She closed the door quietly in order not to wake the baby. — 赤ちゃんを起こさないように、彼女は静かに扉を閉めた。",
+      "We left extra time in order not to be late for the meeting. — 会議に遅れないように、私たちは余分な時間を確保した。",
+      "The company revised the advertisement in order for consumers not to be misled. — 消費者が誤認しないように、会社は広告を修正した。",
+      "The engineers changed the design in order not to infringe the competitor’s patent. — 技術者たちは競合他社の特許権を侵害しないように、設計を変更した。"
+    ],
+    "en": [
+      "I wrote down the appointment in order not to forget it.",
+      "She closed the door quietly in order not to wake the baby.",
+      "We left extra time in order not to be late for the meeting.",
+      "The company revised the advertisement in order for consumers not to be misled.",
+      "The engineers changed the design in order not to infringe the competitor’s patent."
+    ]
+  }
+},
+{
   "id": "get-bent-out-of-shape",
   "sid": "2026-01528",
   "word": "get bent out of shape",
