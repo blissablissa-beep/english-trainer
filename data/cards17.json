@@ -9049,6 +9049,402 @@
   }
 },
 {
+  "id": "fee",
+  "sid": "2026-01560",
+  "word": "fee",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "money",
+    "payment",
+    "service",
+    "professional services",
+    "admission",
+    "education",
+    "banking",
+    "business",
+    "law",
+    "legal",
+    "patent",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "fees",
+    "forms": {
+      "singular": "fee",
+      "plural": "fees",
+      "possessive_singular": "fee’s",
+      "possessive_plural": "fees’",
+      "adjective": "fee-based",
+      "related_expression": "free of charge"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a fee for + service / activity",
+      "a fee of + amount",
+      "charge someone a fee",
+      "charge a fee for + noun / gerund",
+      "pay a fee to + person / organization",
+      "pay / collect / waive / refund a fee",
+      "be subject to a fee",
+      "be included in the fee",
+      "for an additional fee",
+      "a fixed / annual / monthly fee"
+    ],
+    "usage": {
+      "article": "As a singular countable noun, fee normally requires an article or determiner: a fee or the fee.",
+      "preposition_for": "For identifies the service, activity, or privilege for which payment is required: a fee for filing the application.",
+      "preposition_of": "Of introduces the amount: a fee of fifty dollars.",
+      "recipient": "To can identify the person or institution receiving payment: pay a fee to the agency.",
+      "professional_services": "Fee is particularly common for payments to lawyers, doctors, consultants, accountants, and other professionals.",
+      "institutional_payments": "It is also used for admission, membership, registration, applications, banking, and administrative services.",
+      "plural": "Fees often refers collectively to several charges or to the total remuneration for professional services."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/fiː/",
+      "uk": "/fiː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "専門家の助言・業務・役務に対して支払う報酬",
+      "施設・催事・サービスを利用するための料金",
+      "申請・登録・出願・更新などの行政上の手数料",
+      "学校・講座・試験などに対して支払う費用",
+      "銀行・プラットフォームなどが取引・管理について徴収する手数料",
+      "会員資格・所属を維持するために定期的に支払う会費"
+    ],
+    "en": [
+      "money paid for professional advice, work, or services",
+      "a charge for entering a facility, attending an event, or using a service",
+      "an administrative charge for an application, registration, filing, or renewal",
+      "money paid for education, a course, or an examination",
+      "a charge imposed by a bank or platform for a transaction or account service",
+      "a regular payment required to maintain membership in an organization"
+    ]
+  },
+  "nuance": {
+    "ja": "fee は、特定のサービス・専門業務・資格・手続の対価として支払う金額を表す。lawyer’s fees や consultation fee では専門家への報酬、application fee や filing fee では行政・事務手続の料金となる。charge は請求される金額全般を表すより広い語で、商品の追加料金やサービス料金にも使える。fare は交通機関の運賃、tuition は主に教育そのものへの授業料、commission は取引額などに応じて支払われる報酬、royalty は知的財産などの利用に応じた対価を表す。fee は通常可算名詞なので、一件なら a fee、複数・総額なら fees とする。",
+    "en": "A fee is an amount paid in return for a particular service, professional task, privilege, or procedure. Lawyer’s fees and a consultation fee concern professional remuneration, while an application fee or filing fee concerns an administrative process. Charge is a broader word for an amount demanded for goods or services. Fare is the price of transportation, tuition is payment principally for instruction, commission is remuneration often calculated by reference to a transaction, and royalty is payment for authorized use of intellectual property or another protected asset. Fee is normally countable, so one payment is a fee and several payments or aggregated professional remuneration may be fees."
+  },
+  "minimal": {
+    "ja": [
+      "fee：専門サービス・入場・登録・申請などに対して支払う料金・手数料。",
+      "charge：商品・サービス・追加作業などについて請求される金額を広く表す。",
+      "fare：電車・バス・タクシー・飛行機などの交通機関の運賃。",
+      "tuition：学校・大学・講座などで教育を受けるための授業料。",
+      "commission：販売・仲介・取引などの成果や金額に応じて支払われる手数料。",
+      "royalty：特許・商標・著作物などの利用許諾に対して支払われる使用料。",
+      "cost：商品・活動・事業などに必要となる費用・原価を広く表す。",
+      "expense：特定の目的のため実際に支出した金銭、または会計上の費用。"
+    ],
+    "en": [
+      "a fee is money paid for a professional service, admission, registration, application, or similar benefit.",
+      "a charge is a broad term for an amount demanded for goods, services, or additional work.",
+      "a fare is the price paid for travel by train, bus, taxi, aircraft, or another form of transport.",
+      "tuition is money paid for instruction at a school, university, or course.",
+      "a commission is remuneration often calculated according to the value or result of a sale or transaction.",
+      "a royalty is payment for authorized use of a patent, trademark, copyrighted work, or another protected asset.",
+      "cost broadly means the amount required for a product, activity, or business operation.",
+      "an expense is money actually spent for a purpose or an amount recognized as a cost in accounting."
+    ]
+  },
+  "etymology": {
+    "ja": "fee は中英語 fee に由来し、古フランス語 fief「封土」と古英語 feoh「家畜、財産、金銭」の影響を受けている。古代ゲルマン社会では家畜が富や交換価値の重要な基準だったため、「家畜」から「財産・金銭」へ意味が広がった。中世には封建的な土地・権利や、役務に対する報酬を表し、そこから現代の専門サービス・手続・利用などに対して支払う料金という意味が発達した。ドイツ語 Vieh「家畜」とも語源的に関係する。",
+    "en": "Fee comes from Middle English fee and reflects the influence of Old French fief, a feudal estate, and Old English feoh, meaning cattle, property, or money. In early Germanic society, livestock was an important measure of wealth and exchange value, allowing the sense cattle to expand into property and money. In medieval usage, the word referred to feudal land or rights and to remuneration for services. From these meanings developed the modern sense of money paid for professional work, a procedure, admission, or use of a service. It is historically related to German Vieh, cattle."
+  },
+  "synonyms": [
+    {
+      "word": "charge",
+      "note": {
+        "ja": "商品・サービス・追加作業などについて顧客に請求される金額を広く表す。",
+        "en": "A broad term for an amount demanded from a customer for goods, services, or additional work."
+      }
+    },
+    {
+      "word": "payment",
+      "note": {
+        "ja": "商品・役務・債務などについて金銭を支払うこと、または支払われる金額。",
+        "en": "The act of paying money or an amount paid for goods, services, or an obligation."
+      }
+    },
+    {
+      "word": "remuneration",
+      "note": {
+        "ja": "労働・専門業務・役務の対価として与えられる報酬を表す形式的な語。",
+        "en": "A formal term for money or benefits provided in return for work or professional services."
+      }
+    },
+    {
+      "word": "tariff",
+      "note": {
+        "ja": "サービス料金表、または輸入品などに課される関税・関税率。",
+        "en": "A schedule of service charges or a duty or rate imposed on imported goods."
+      }
+    },
+    {
+      "word": "dues",
+      "note": {
+        "ja": "団体・労働組合・クラブなどの会員が定期的に支払う会費。",
+        "en": "Regular payments required from members of an organization, union, or club."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Gebühr / Honorar",
+    "it": "tariffa / compenso / tassa",
+    "fr": "frais / honoraires / droit",
+    "es": "tarifa / honorarios / tasa"
+  },
+  "collocations": {
+    "ja": [
+      "charge a fee — 料金・手数料を請求する",
+      "pay a fee — 料金・手数料を支払う",
+      "collect a fee — 料金を徴収する",
+      "waive a fee — 料金を免除する",
+      "refund a fee — 料金を払い戻す",
+      "a consultation fee — 相談料",
+      "a legal fee — 弁護士費用、法的サービス料",
+      "an admission fee — 入場料",
+      "an application fee — 申請料",
+      "a filing fee — 出願・提出手数料",
+      "a membership fee — 会費",
+      "for an additional fee — 追加料金で"
+    ],
+    "en": [
+      "charge a fee",
+      "pay a fee",
+      "collect a fee",
+      "waive a fee",
+      "refund a fee",
+      "a consultation fee",
+      "a legal fee",
+      "an admission fee",
+      "an application fee",
+      "a filing fee",
+      "a membership fee",
+      "for an additional fee"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The museum charges an admission fee of ten dollars. — その博物館は10ドルの入場料を徴収する。",
+      "The bank refunded the transaction fee after confirming the error. — 銀行は誤りを確認した後、取引手数料を払い戻した。",
+      "Membership fees must be paid at the beginning of each year. — 会費は毎年初めに支払わなければならない。",
+      "The consultant agreed to complete the additional work for a fixed fee. — コンサルタントは定額料金で追加作業を完了することに同意した。",
+      "The applicant must pay the prescribed filing fee when submitting the patent application. — 出願人は特許出願を提出する際、所定の出願手数料を支払わなければならない。"
+    ],
+    "en": [
+      "The museum charges an admission fee of ten dollars.",
+      "The bank refunded the transaction fee after confirming the error.",
+      "Membership fees must be paid at the beginning of each year.",
+      "The consultant agreed to complete the additional work for a fixed fee.",
+      "The applicant must pay the prescribed filing fee when submitting the patent application."
+    ]
+  }
+},
+{
+  "id": "free-of-charge",
+  "sid": "2026-01561",
+  "word": "free of charge",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "phrase",
+    "adjective phrase",
+    "adverbial phrase",
+    "payment",
+    "price",
+    "service",
+    "offer",
+    "customer service",
+    "business",
+    "formal",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective phrase / adverbial phrase",
+    "forms": {
+      "base": "free of charge",
+      "informal_equivalent": "for free",
+      "formal_equivalent": "at no charge",
+      "attributive_equivalent": "free / complimentary",
+      "hyphenated_modifier": "free-of-charge, uncommon"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "be free of charge",
+      "provide / offer something free of charge",
+      "receive something free of charge",
+      "use something free of charge",
+      "allow someone to do something free of charge",
+      "available free of charge",
+      "delivered / repaired free of charge",
+      "free of charge for + person / group",
+      "free of charge until + time",
+      "completely / entirely free of charge"
+    ],
+    "usage": {
+      "position": "Free of charge commonly follows a verb or noun phrase: The service is free of charge or We provide it free of charge.",
+      "meaning": "The phrase means that no monetary fee is charged for the specified item or service.",
+      "limits": "It does not necessarily mean that there are no conditions, obligations, advertising, data collection, or indirect costs.",
+      "for_free": "For free is more conversational; free of charge and at no charge are often preferred in business or formal communication.",
+      "complimentary": "Complimentary commonly describes goods or services provided without payment, especially by a business as a courtesy.",
+      "attributive_use": "Before a noun, simply use free in most cases: a free consultation. The form a free-of-charge consultation is possible but awkward.",
+      "free_from": "Free of charge concerns price and should be distinguished from free from defects or free of restrictions."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌfriː əv ˈtʃɑːrdʒ/",
+      "uk": "/ˌfriː əv ˈtʃɑːdʒ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "料金・手数料を請求されずに",
+      "無料で利用・取得・参加できる",
+      "購入代金に追加料金を加えずに",
+      "企業・機関などの負担で無償提供される",
+      "修理・交換・配送などが利用者の費用負担なしに行われる",
+      "特定の期間・条件・対象者に限って無料で"
+    ],
+    "en": [
+      "without a fee or monetary charge being imposed",
+      "available for use, receipt, or participation without payment",
+      "provided without an additional charge beyond the purchase price",
+      "supplied at the expense of a company, institution, or other provider",
+      "for a repair, replacement, or delivery, performed without cost to the customer",
+      "available without payment only for a specified period, group, or set of conditions"
+    ]
+  },
+  "nuance": {
+    "ja": "free of charge は、商品・サービス・手続などについて金銭的な料金が発生しないことを明確に表す。for free より中立的かつやや形式的で、契約、案内、顧客対応、広告などにも使いやすい。ただし、無料であることは無条件であることを必ずしも意味しない。登録、購入、個人情報の提供、利用期間、対象者などの条件が付く場合がある。complimentary は、ホテルの飲料など企業が厚意・サービスとして提供するものに使われやすい。gratis も無料を意味するが、英語ではやや目立つ表現で、free of charge ほど一般的ではない。",
+    "en": "Free of charge clearly states that no monetary fee is imposed for a product, service, or procedure. It is more neutral and somewhat more formal than for free, making it suitable for contracts, notices, customer communication, and advertising. However, absence of a monetary charge does not necessarily mean absence of conditions. Registration, purchase, provision of personal information, eligibility requirements, or a limited period may still apply. Complimentary is especially common for something a business provides as a courtesy, such as a hotel drink or additional service. Gratis also means without payment but is more marked and less generally used than free of charge."
+  },
+  "minimal": {
+    "ja": [
+      "free of charge：料金・手数料を請求されず、無料で。",
+      "for free：無料で。free of chargeより口語的。",
+      "at no charge：料金を請求せずに。事務的・ビジネス的な表現。",
+      "complimentary：企業などが厚意・サービスとして無料提供する。",
+      "gratis：無料で。やや形式的または広告的に響く場合がある。",
+      "fee-free：通常なら発生する手数料が免除されている。",
+      "included：費用が基本料金・購入代金などに含まれている。",
+      "free from：物・状態に欠陥・制限・危険などがない。料金とは限らない。"
+    ],
+    "en": [
+      "free of charge means provided without requiring payment of a fee.",
+      "for free is a more conversational way of saying without payment.",
+      "at no charge is an administrative or businesslike expression meaning without a fee.",
+      "complimentary describes something provided by a business or host as a courtesy without payment.",
+      "gratis means without payment and may sound somewhat formal or promotional.",
+      "fee-free means exempt from a fee that might otherwise be charged.",
+      "included means that the cost forms part of a basic price or another payment.",
+      "free from means lacking a defect, restriction, danger, or other unwanted thing and does not necessarily concern price."
+    ]
+  },
+  "etymology": {
+    "ja": "free は古英語 frēo「自由な、束縛されていない」に由来する。charge は古フランス語 charge を経て、ラテン語 carricare「荷を積む」にさかのぼり、負担・責任・請求額という意味を発達させた。free of は「～を免れている、～がない」を表すため、free of charge は文字どおり「金銭的負担・請求がない」という意味になる。ここから、商品やサービスが無料で提供されることを示す定型表現として定着した。",
+    "en": "Free comes from Old English frēo, meaning free or not in bondage. Charge came through French and ultimately relates to Latin carricare, to load, developing the senses burden, responsibility, and amount demanded as payment. Free of means not subject to or lacking something, so free of charge literally describes being free from a financial burden or demand for payment. It became established as a standard expression for goods and services provided without a fee."
+  },
+  "synonyms": [
+    {
+      "word": "for free",
+      "note": {
+        "ja": "料金を支払わずに何かを得る・利用することを表す一般的で口語的な表現。",
+        "en": "A common conversational expression for receiving or using something without payment."
+      }
+    },
+    {
+      "word": "at no charge",
+      "note": {
+        "ja": "料金を請求しないことを明示する、事務・商業上よく使われる表現。",
+        "en": "An administrative or commercial expression explicitly stating that no fee will be imposed."
+      }
+    },
+    {
+      "word": "complimentary",
+      "note": {
+        "ja": "企業・施設・主催者などが顧客や招待客へ厚意として無料提供する。",
+        "en": "Provided without payment by a business, venue, or host as a courtesy to a customer or guest."
+      }
+    },
+    {
+      "word": "gratis",
+      "note": {
+        "ja": "対価を求めず無料で提供されることを表す、やや目立つ形式的な語。",
+        "en": "A somewhat marked or formal word meaning supplied without payment."
+      }
+    },
+    {
+      "word": "without cost",
+      "note": {
+        "ja": "利用者・受領者に金銭的負担を生じさせずに提供されることを直接表す。",
+        "en": "A direct expression for something provided without imposing a financial burden on the recipient."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "kostenlos / gebührenfrei",
+    "it": "gratuitamente / senza costi",
+    "fr": "gratuitement / sans frais",
+    "es": "gratis / sin cargo"
+  },
+  "collocations": {
+    "ja": [
+      "be free of charge — 無料である",
+      "provide something free of charge — 何かを無料で提供する",
+      "offer something free of charge — 何かを無料で提供する",
+      "receive something free of charge — 何かを無料で受け取る",
+      "use the service free of charge — サービスを無料で利用する",
+      "available free of charge — 無料で利用・入手できる",
+      "delivered free of charge — 無料で配送される",
+      "repaired free of charge — 無料で修理される",
+      "replaced free of charge — 無料で交換される",
+      "free of charge for children — 子供は無料で",
+      "free of charge for one month — 1か月間無料で",
+      "completely free of charge — 完全に無料で"
+    ],
+    "en": [
+      "be free of charge",
+      "provide something free of charge",
+      "offer something free of charge",
+      "receive something free of charge",
+      "use the service free of charge",
+      "available free of charge",
+      "delivered free of charge",
+      "repaired free of charge",
+      "replaced free of charge",
+      "free of charge for children",
+      "free of charge for one month",
+      "completely free of charge"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Children under six may enter the museum free of charge. — 6歳未満の子供はその博物館へ無料で入場できる。",
+      "The hotel provides breakfast free of charge. — そのホテルは朝食を無料で提供している。",
+      "The defective product was replaced free of charge. — その欠陥商品は無料で交換された。",
+      "Customers can use the basic version free of charge, but advanced features require a subscription. — 顧客は基本版を無料で利用できるが、高度な機能には定期契約が必要である。",
+      "Copies of certain published patent documents can be viewed online free of charge. — 公開された一定の特許文献は、オンラインで無料で閲覧できる。"
+    ],
+    "en": [
+      "Children under six may enter the museum free of charge.",
+      "The hotel provides breakfast free of charge.",
+      "The defective product was replaced free of charge.",
+      "Customers can use the basic version free of charge, but advanced features require a subscription.",
+      "Copies of certain published patent documents can be viewed online free of charge."
+    ]
+  }
+},
+{
   "id": "wrap-up",
   "sid": "2026-01562",
   "word": "wrap up",
@@ -9245,6 +9641,204 @@
       "The conference wrapped up on Friday afternoon.",
       "She wrapped the gift up in bright blue paper.",
       "The parties hope to wrap up the licensing negotiations before the patent is granted."
+    ]
+  }
+},
+{
+  "id": "wind-up",
+  "sid": "2026-01563",
+  "word": "wind up",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "completion",
+    "result",
+    "ending",
+    "mechanism",
+    "business",
+    "company",
+    "liquidation",
+    "annoyance",
+    "informal",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "wind up",
+      "third_person": "winds up",
+      "past": "wound up",
+      "past_participle": "wound up",
+      "gerund": "winding up",
+      "noun": "wind-up",
+      "adjective": "wind-up"
+    },
+    "transitivity": "transitive or intransitive depending on sense",
+    "patterns": [
+      "wind up + noun",
+      "wind + noun + up",
+      "wind up doing",
+      "wind up as + noun",
+      "wind up with + noun",
+      "wind up in / at / on + place",
+      "wind up by + gerund",
+      "wind up a meeting / discussion",
+      "wind up a company / business",
+      "wind someone up"
+    ],
+    "usage": {
+      "result": "Wind up doing or wind up in a particular situation means eventually reaching an often unexpected result.",
+      "completion": "Wind up a meeting, speech, or activity means bring it to an end, although wrap up is often more natural in everyday American English.",
+      "business": "Wind up a company means formally bring its operations to an end, settle its affairs, and deal with its remaining assets and liabilities.",
+      "mechanism": "Wind up a mechanical device means turn a key or handle to tighten its internal spring.",
+      "annoyance": "In informal British English, wind someone up can mean deliberately annoy or tease the person.",
+      "separability": "The completion, mechanism, and annoyance senses are separable: wind the meeting up, wind the clock up, and wind him up.",
+      "pronunciation": "In this expression, wind is pronounced /waɪnd/, rhyming with find; its past tense and past participle are wound /waʊnd/."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌwaɪnd ˈʌp/",
+      "uk": "/ˌwaɪnd ˈʌp/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "最終的に、しばしば予想外の状態・場所・行動に至る",
+      "会議・演説・活動などを終わらせる、締めくくる",
+      "会社・事業の活動を終了し、資産や債務を整理する",
+      "時計・玩具などのぜんまいを巻く",
+      "糸・ケーブルなどを巻き取る",
+      "主にイギリス英語で、人をからかったり、わざと苛立たせたりする"
+    ],
+    "en": [
+      "to eventually reach a particular, often unexpected, situation, place, or course of action",
+      "to bring a meeting, speech, activity, or other proceeding to an end",
+      "to close a company or business and settle its remaining financial and legal affairs",
+      "to tighten the spring of a clock, toy, or other mechanism by turning a key or handle",
+      "to coil or gather thread, cable, or similar material by winding it",
+      "chiefly in British English, to tease or deliberately annoy someone"
+    ]
+  },
+  "nuance": {
+    "ja": "wind up は複数の意味を持つ句動詞だが、特に重要なのは「結局～になる」という結果の用法である。wind up doing は、当初の意図とは異なる行動を結局することになった、という含みを持つことが多い。wind up a meeting は会議を終了することを表すが、日常的には wrap up a meeting の方が柔らかく自然な場合がある。会社について wind up a company と言えば、単に営業を停止するだけでなく、資産の換価、債務の支払い、残余財産の処理などを含む正式な終了手続きを指し得る。イギリス英語の wind someone up は「人をからかう・苛立たせる」という口語表現であり、機械のぜんまいを巻く意味とは文脈で区別される。",
+    "en": "Wind up has several senses, but one of the most important is eventually reach a result. Wind up doing often suggests that the final action or situation was not originally intended or expected. Wind up a meeting means bring it to an end, although wrap up a meeting may sound more conversational and less formal. In relation to a company, wind up can refer to a formal process involving the collection or realization of assets, payment of liabilities, and distribution of any remaining property. In informal British English, wind someone up means tease or deliberately irritate the person. Context distinguishes this use from winding up a clock or other mechanism."
+  },
+  "minimal": {
+    "ja": [
+      "wind up：最終的にある状態に至る、活動を終える、会社を清算する、またはぜんまいを巻く。",
+      "end up：予想外であることの多い最終的な状態・場所・行動に至る。",
+      "wrap up：仕事・会議・議論などを手短にまとめて終える。",
+      "conclude：議論・会議・契約などを正式に終える、または結論を導く。",
+      "close down：店舗・会社・施設などの営業や活動を停止する。",
+      "liquidate：会社の資産を換価して債務を処理する、または在庫を売却する。",
+      "coil：ロープ・ケーブルなどを輪状に巻く。",
+      "tease：冗談やからかいによって人を困らせたり、反応を引き出したりする。"
+    ],
+    "en": [
+      "wind up means eventually reaching a result, ending an activity, closing a company, or tightening a spring mechanism.",
+      "end up means eventually reaching a final state, place, or action, often unexpectedly.",
+      "wrap up means completing a task, meeting, or discussion, often with a brief summary.",
+      "conclude means formally ending a discussion, meeting, or agreement, or arriving at a judgment.",
+      "close down means stopping the operation of a shop, company, or facility.",
+      "liquidate means converting a company’s assets into money to settle liabilities or selling off inventory.",
+      "coil means arranging a rope, cable, or similar object in a series of circular loops.",
+      "tease means provoking or amusing someone through playful or sometimes irritating remarks."
+    ]
+  },
+  "etymology": {
+    "ja": "wind は古英語 windan「曲がる、ねじる、巻く」に由来する。この動詞は、空気の流れを表す名詞 wind /wɪnd/ とは現代英語で綴りが同じだが、wind up では /waɪnd/ と発音する。物を巻いて一つにまとめる動作から、「作業をまとめて終える」という意味が生まれ、さらに「一連の出来事の終点に至る」という結果の意味へ発達した。会社を wind up する用法も、事業の未処理事項を整理して最終的に終了させるという発想に基づく。過去形 wound は、古くからの母音変化を保持している。",
+    "en": "The verb wind comes from Old English windan, meaning to turn, twist, or coil. Although it is spelled like the noun wind referring to moving air, it is pronounced /waɪnd/ in wind up. The physical idea of winding material into a completed coil developed into the sense of bringing an activity to its conclusion and then into the sense of eventually reaching a particular outcome. The business use similarly presents the closing of a company as the orderly completion of its outstanding affairs. The irregular past form wound preserves an old vowel change."
+  },
+  "synonyms": [
+    {
+      "word": "end up",
+      "note": {
+        "ja": "一連の出来事の結果として、最終的に特定の状態・場所・行動に至る。",
+        "en": "To reach a particular state, place, or action as the final result of a series of events."
+      }
+    },
+    {
+      "word": "wrap up",
+      "note": {
+        "ja": "仕事・会議・議論などをまとめて終了することを表す、一般的な句動詞。",
+        "en": "A common phrasal verb meaning to complete and bring a task, meeting, or discussion to an end."
+      }
+    },
+    {
+      "word": "conclude",
+      "note": {
+        "ja": "会議・演説・交渉などを正式に終わらせる。",
+        "en": "To bring a meeting, speech, negotiation, or other proceeding to a formal end."
+      }
+    },
+    {
+      "word": "liquidate",
+      "note": {
+        "ja": "会社の資産を換価し、債務を処理して事業を終了させる。",
+        "en": "To realize a company’s assets and settle its liabilities as part of closing the business."
+      }
+    },
+    {
+      "word": "tease",
+      "note": {
+        "ja": "冗談や挑発的な言葉によって人をからかう。",
+        "en": "To make fun of or provoke someone through playful or irritating remarks."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "schließlich enden / abschließen / aufziehen / abwickeln",
+    "it": "finire per / concludere / caricare / liquidare",
+    "fr": "finir par / conclure / remonter / liquider",
+    "es": "acabar por / concluir / dar cuerda / liquidar"
+  },
+  "collocations": {
+    "ja": [
+      "wind up doing something — 結局何かをすることになる",
+      "wind up in trouble — 結局トラブルに陥る",
+      "wind up in court — 最終的に裁判になる",
+      "wind up with nothing — 結局何も得られない",
+      "wind up as the owner — 最終的に所有者になる",
+      "wind up a meeting — 会議を終了する",
+      "wind up the discussion — 議論を締めくくる",
+      "wind up a company — 会社を清算・解散する",
+      "wind up the business — 事業を整理して終了する",
+      "wind up a clock — 時計のぜんまいを巻く",
+      "wind up the cable — ケーブルを巻き取る",
+      "wind someone up — 人をからかう、わざと苛立たせる"
+    ],
+    "en": [
+      "wind up doing something",
+      "wind up in trouble",
+      "wind up in court",
+      "wind up with nothing",
+      "wind up as the owner",
+      "wind up a meeting",
+      "wind up the discussion",
+      "wind up a company",
+      "wind up the business",
+      "wind up a clock",
+      "wind up the cable",
+      "wind someone up"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We took the wrong train and wound up on the other side of the city. — 私たちは列車を乗り間違え、結局、市の反対側に着いてしまった。",
+      "If we do not reach an agreement, we may wind up going to court. — 合意に達しなければ、最終的に裁判で争うことになるかもしれない。",
+      "The chairperson wound up the meeting with a brief summary of the decisions. — 議長は決定事項を簡潔にまとめて会議を締めくくった。",
+      "Could you wind up the old clock before you go to bed? — 寝る前に、その古い時計のぜんまいを巻いてくれますか。",
+      "The court ordered the company to be wound up after it became unable to pay its debts. — 裁判所は、その会社が債務を支払えなくなった後、会社の清算を命じた。"
+    ],
+    "en": [
+      "We took the wrong train and wound up on the other side of the city.",
+      "If we do not reach an agreement, we may wind up going to court.",
+      "The chairperson wound up the meeting with a brief summary of the decisions.",
+      "Could you wind up the old clock before you go to bed?",
+      "The court ordered the company to be wound up after it became unable to pay its debts."
     ]
   }
 }
