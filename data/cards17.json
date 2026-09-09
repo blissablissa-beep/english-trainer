@@ -10447,407 +10447,390 @@
   }
 },
 {
-  "id": "privilege",
+  "id": "in-the-loop",
   "sid": "2026-01555",
-  "word": "privilege",
-  "level": "C1",
+  "word": "in the loop",
+  "level": "B2",
   "freq": "often",
   "tags": [
-    "noun",
-    "verb",
-    "advantage",
-    "right",
-    "honor",
-    "status",
-    "confidentiality",
-    "evidence",
-    "law",
-    "legal",
-    "attorney-client",
+    "idiom",
+    "information",
+    "communication",
+    "involvement",
+    "awareness",
+    "participation",
+    "workplace",
     "business",
-    "formal",
+    "project management",
+    "informal",
+    "daily conversation",
     "general"
   ],
   "grammar": {
-    "pos": "noun / verb",
-    "countability": "countable for a particular right, advantage, or honor; uncountable for privileged status or the legal doctrine in some contexts",
-    "plural": "privileges",
+    "pos": "idiomatic adjective phrase",
     "forms": {
-      "noun_singular": "privilege",
-      "noun_plural": "privileges",
-      "verb_base": "privilege",
-      "third_person": "privileges",
-      "past": "privileged",
-      "past_participle": "privileged",
-      "gerund": "privileging",
-      "adjective": "privileged",
-      "related_phrase": "attorney-client privilege"
+      "base": "in the loop",
+      "opposite": "out of the loop",
+      "related_verb_phrase": "keep someone in the loop",
+      "comparative": "not normally used",
+      "superlative": "not normally used"
     },
-    "transitivity": "transitive as a verb",
+    "transitivity": "not applicable",
     "patterns": [
-      "have / enjoy the privilege of + gerund",
-      "it is a privilege to do",
-      "the privilege of + noun / gerund",
-      "grant / confer / withdraw a privilege",
-      "exercise / claim / waive privilege",
-      "be protected by privilege",
-      "be subject to privilege",
-      "attorney-client / legal professional privilege",
-      "privilege A over B",
-      "a privileged communication / document"
+      "be in the loop",
+      "stay in the loop",
+      "remain in the loop",
+      "keep someone in the loop",
+      "bring someone into the loop",
+      "get someone into the loop",
+      "make sure someone is in the loop",
+      "keep someone in the loop about + noun",
+      "keep someone in the loop on + noun",
+      "keep someone in the loop as + clause"
     ],
     "usage": {
-      "advantage": "A privilege may be a special advantage, immunity, or opportunity available only to a particular person or group.",
-      "honor": "It is a privilege to do commonly expresses gratitude and honor rather than social inequality.",
-      "legal": "A legal privilege may permit a person to resist disclosure of qualifying communications or information.",
-      "confidentiality": "Confidentiality and privilege overlap but are not identical; confidential material is not automatically legally privileged.",
-      "waiver": "Disclosure to outsiders may waive some forms of privilege, but the applicable rules and exceptions depend on the jurisdiction.",
-      "verb": "As a verb, privilege means giving special importance, protection, or advantage to one person, interest, or interpretation over another.",
-      "spelling": "Privilege is spelled with -lege, not priviledge; privileged has no d before the final -ged."
+      "state": "Be in the loop means having access to relevant information and being included in communication or decision-making.",
+      "causative": "Keep someone in the loop means continue giving that person relevant information as a situation develops.",
+      "entry": "Bring or get someone into the loop means begin including the person in communications or discussions.",
+      "prepositions": "About and on can introduce the subject: keep me in the loop about the negotiations or keep me in the loop on the project.",
+      "opposite": "Out of the loop means uninformed, excluded, or no longer involved in a process.",
+      "register": "The expression is informal but widely accepted in ordinary professional and workplace communication.",
+      "article": "The expression normally uses the definite article the: in the loop, not in a loop, when referring to access to information."
     }
   },
   "pronunciation": {
     "ipa": {
-      "us": "/ˈprɪvəlɪdʒ/",
-      "uk": "/ˈprɪvəlɪdʒ/"
+      "us": "/ˌɪn ðə ˈluːp/",
+      "uk": "/ˌɪn ðə ˈluːp/"
     }
   },
   "meaning": {
     "ja": [
-      "特定の人・集団だけに認められる特別な権利・免除",
-      "社会的地位・富・所属などから得られる有利な立場・恩恵",
-      "特別な機会を与えられたことへの名誉・光栄",
-      "一定の通信・情報について開示や証言を拒むことを認める法律上の特権",
-      "議会・職務・専門家関係などに付随する法的保護",
-      "動詞として、ある人・利益・解釈を他より優先または優遇する"
+      "重要な情報を継続的に知らされている",
+      "関係者間の連絡・情報共有に含まれている",
+      "計画・案件・意思決定の進展を把握している",
+      "組織内の議論や意思決定に関与している",
+      "事情を知らされず取り残された状態ではない"
     ],
     "en": [
-      "a special right or immunity granted to a particular person or group",
-      "an advantage arising from social position, wealth, membership, or other status",
-      "a special opportunity regarded as an honor",
-      "a legal protection permitting the holder to resist disclosure of qualifying communications or information",
-      "legal protection attached to a legislative role, official function, or professional relationship",
-      "as a verb, to give one person, interest, or interpretation priority or advantage over another"
+      "regularly receiving important or relevant information",
+      "included in communication and information sharing among the people concerned",
+      "aware of developments in a plan, matter, or decision-making process",
+      "involved in organizational discussions or decisions",
+      "not excluded or left unaware of what is happening"
     ]
   },
   "nuance": {
-    "ja": "privilege は、一般語では、すべての人に当然認められるものではない特別な権利・利益・機会を表す。It was a privilege to meet her. では社会的不平等を批判する意味はなく、「お会いできて光栄だった」という肯定的な表現になる。一方、法律上の privilege は、一定の通信・情報・証言などを証拠開示や強制的な開示から保護する法的根拠を指す。単に文書へ privileged and confidential と記載しても、法的要件を満たさなければ特権が当然に成立するわけではない。また、confidentiality は情報を秘密に保つ義務・状態を広く表すのに対し、privilege は法的手続で開示を拒める保護を意味する。動詞の privilege A over B は、AをBより優先するという、しばしば批判的な表現である。",
-    "en": "In general use, a privilege is a special right, benefit, or opportunity not automatically available to everyone. It was a privilege to meet her is a positive expression of honor and does not criticize social inequality. In law, privilege refers to a legal basis for protecting qualifying communications, information, or testimony against compelled disclosure. Merely labeling a document privileged and confidential does not necessarily create privilege if the legal requirements are not satisfied. Confidentiality broadly concerns an obligation or condition of keeping information secret, whereas privilege concerns a legal right to resist disclosure in proceedings. As a verb, privilege A over B means giving A priority or advantage and is often used critically."
+    "ja": "in the loop は、単に一度情報を聞いたという意味ではなく、案件や状況の進展について継続的に情報を受け取り、関係者間の情報共有の輪に入っていることを表す。Keep me in the loop. は、職場で「今後の進展も知らせてください」と頼む自然な表現である。必ずしも最終的な決定権を持つことまでは意味せず、情報を共有されているだけの場合もある。bring someone into the loop は、それまで関与していなかった人を新たに連絡・協議へ加えることを表す。反対表現の out of the loop は、情報を知らされていない、または意思決定から外されている状態を意味し、文脈によっては疎外感や不満を伴う。",
+    "en": "In the loop does not merely mean having heard one item of information. It suggests continuing access to relevant developments and inclusion in the communication network surrounding a matter. Keep me in the loop is a natural workplace request meaning continue to update me as the situation develops. Being in the loop does not necessarily give a person authority to make the final decision; the person may simply be kept informed. Bring someone into the loop means adding a previously uninvolved person to the relevant communications or discussions. Its opposite, out of the loop, describes being uninformed or excluded and may imply frustration or isolation."
   },
   "minimal": {
     "ja": [
-      "privilege：特別な権利・恩恵・名誉、または一定の情報の開示を拒める法的保護。",
-      "right：法律・道徳・契約などによって一般的または個別に認められる権利。",
-      "advantage：成功・利益・便宜を得やすくする有利な条件。",
-      "benefit：人に利益・助け・改善をもたらすもの。",
-      "immunity：責任・訴追・義務などを免れる法的保護。",
-      "confidentiality：情報を秘密に保ち、許可なく開示しない義務または状態。",
-      "attorney-client privilege：法的助言を目的とする一定の弁護士・依頼者間通信を保護する特権。",
-      "entitlement：法律・契約・制度などに基づいて給付・権利を受ける資格。"
+      "in the loop：関係する情報を継続的に知らされ、連絡・協議に含まれている。",
+      "keep someone in the loop：状況が進展する間、必要な情報を人に継続して伝える。",
+      "bring someone into the loop：新たに人を情報共有・協議へ参加させる。",
+      "out of the loop：必要な情報を知らされていない、または関与から外れている。",
+      "keep someone informed：必要な情報を人へ継続的に伝える、より中立的な表現。",
+      "keep someone posted：新しい進展があれば人に知らせ続ける、くだけた表現。",
+      "up to date：最新の情報を把握している。",
+      "in the know：他の人が知らない内部情報・事情を知っている。"
     ],
     "en": [
-      "privilege is a special right, benefit, honor, or legal protection against disclosure.",
-      "a right is an entitlement recognized generally or individually by law, morality, or agreement.",
-      "an advantage is a favorable condition that makes success, benefit, or convenience more likely.",
-      "a benefit is something that provides help, improvement, or value.",
-      "immunity is legal protection from liability, prosecution, obligation, or another legal consequence.",
-      "confidentiality is the duty or condition of keeping information secret from unauthorized disclosure.",
-      "attorney-client privilege protects certain communications made for the purpose of obtaining or providing legal advice.",
-      "an entitlement is a recognized qualification to receive a right, payment, or benefit under a law, agreement, or system."
+      "in the loop means receiving relevant information and being included in communications or discussions.",
+      "keep someone in the loop means continuing to give the person relevant information as matters develop.",
+      "bring someone into the loop means beginning to include the person in information sharing or discussions.",
+      "out of the loop means uninformed about or excluded from a relevant process.",
+      "keep someone informed is a more neutral expression for continuing to provide necessary information.",
+      "keep someone posted informally means giving someone updates whenever new developments occur.",
+      "up to date means possessing the latest available information.",
+      "in the know means having access to inside information or facts not generally known."
     ]
   },
   "etymology": {
-    "ja": "privilege はラテン語 privilegium に由来し、古フランス語を経て英語に入った。privilegium は privus「個々の、私的な」と lex の語幹 leg-「法律」を組み合わせた語で、もともとは特定の個人に関する特別法を意味した。そこから、一般の人には認められない特別な法的権利・免除を表すようになり、さらに社会的・個人的な恩恵や名誉ある機会へ意味が広がった。綴りの末尾は -lege であり、誤って priviledge としない。",
-    "en": "Privilege comes through French from Latin privilegium, formed from privus, individual or private, and the stem leg- of lex, law. It originally referred to a law applying particularly to an individual. The word consequently developed the meaning of a special legal right or immunity not available to people generally and later broadened to include social advantages, personal benefits, and honored opportunities. The correct ending is -lege, so priviledge is a misspelling."
+    "ja": "loop はもともと、ひも・針金などで作られた「輪」を意味する。そこから、信号や情報が一連の経路を通って循環する閉回路も loop と呼ばれるようになった。in the loop は、この情報や連絡が循環する輪の内側にいるという比喩から、「必要な情報を知らされている」「関係者として連絡網に含まれている」という意味を持つようになった。反対の out of the loop は、その情報循環の外側に置かれている状態を表す。",
+    "en": "Loop originally referred to a circular or curved shape formed by cord, wire, or similar material. The word was later applied to a closed circuit or process through which signals or information circulate. In the loop developed from the metaphor of being inside this circle of communication and therefore receiving relevant information. The contrasting expression out of the loop presents an uninformed or excluded person as standing outside the path through which information travels."
   },
   "synonyms": [
     {
-      "word": "right",
+      "word": "informed",
       "note": {
-        "ja": "法律・契約・道徳などにより、人が行使・享受できるものとして認められた権利。",
-        "en": "An entitlement recognized by law, contract, or morality as something a person may exercise or enjoy."
+        "ja": "ある事柄について必要な事実・情報を与えられている。",
+        "en": "Having been provided with the relevant facts or information about a matter."
       }
     },
     {
-      "word": "advantage",
+      "word": "up to date",
       "note": {
-        "ja": "競争・生活・判断などにおいて、他より有利な結果を得やすくする条件。",
-        "en": "A condition that makes a favorable outcome easier to obtain in competition, life, or decision-making."
+        "ja": "ある事柄について最新の情報を把握している。",
+        "en": "Possessing the latest information about a subject or situation."
       }
     },
     {
-      "word": "immunity",
+      "word": "in the know",
       "note": {
-        "ja": "訴追・責任・義務・法的手続などから人を保護する免除。",
-        "en": "An exemption protecting a person from prosecution, liability, obligation, or legal process."
+        "ja": "一般には知られていない内部事情や重要情報を知っている。",
+        "en": "Having access to important or inside information that is not generally known."
       }
     },
     {
-      "word": "prerogative",
+      "word": "involved",
       "note": {
-        "ja": "特定の地位・職務・権限に伴い、その人が独自に行使できる特別な権利。",
-        "en": "A special right or power exercisable by a person because of a particular office, status, or authority."
+        "ja": "活動・議論・計画などに参加し、何らかの役割を果たしている。",
+        "en": "Participating in an activity, discussion, or plan and having some role in it."
       }
     },
     {
-      "word": "entitlement",
+      "word": "included",
       "note": {
-        "ja": "法律・規則・契約などにより、給付・権利・利益を受けることのできる資格。",
-        "en": "A recognized qualification to receive a benefit or exercise a right under a law, rule, or agreement."
+        "ja": "連絡・協議・意思決定などの対象から除外されず、その中に加えられている。",
+        "en": "Made part of a communication, discussion, or decision-making process rather than excluded."
       }
     }
   ],
   "equivalents": {
-    "de": "Privileg / Vorrecht / Aussageverweigerungsrecht",
-    "it": "privilegio / prerogativa",
-    "fr": "privilège / droit spécial",
-    "es": "privilegio / prerrogativa"
+    "de": "auf dem Laufenden sein / einbezogen sein",
+    "it": "essere al corrente / essere coinvolto",
+    "fr": "être au courant / être dans la boucle",
+    "es": "estar al tanto / estar incluido en el circuito de información"
   },
   "collocations": {
     "ja": [
-      "have a privilege — 特権を持つ",
-      "enjoy a privilege — 特権・恩恵を享受する",
-      "grant a privilege — 特権を与える",
-      "withdraw a privilege — 特権を取り消す",
-      "exercise a privilege — 特権を行使する",
-      "claim privilege — 法的特権を主張する",
-      "waive privilege — 特権を放棄する",
-      "attorney-client privilege — 弁護士・依頼者間秘匿特権",
-      "legal professional privilege — 法律専門職との通信に関する秘匿特権",
-      "a privileged communication — 法的特権により保護される通信",
-      "a privilege log — 秘匿特権文書一覧表",
-      "the privilege of working with someone — 人と働ける光栄"
+      "be in the loop — 情報共有の輪に入っている",
+      "stay in the loop — 継続して情報を把握する",
+      "remain in the loop — 引き続き情報共有に含まれている",
+      "keep me in the loop — 今後の進展も私に知らせておく",
+      "keep everyone in the loop — 全員に必要な情報を共有しておく",
+      "keep the client in the loop — 顧客へ継続的に状況を知らせる",
+      "bring someone into the loop — 人を新たに情報共有へ加える",
+      "get the legal team into the loop — 法務チームを連絡・協議に加える",
+      "make sure everyone is in the loop — 全員が情報を共有していることを確認する",
+      "in the loop about the negotiations — 交渉について情報を知らされている",
+      "in the loop on the project — プロジェクトの進展を把握している",
+      "feel out of the loop — 情報から取り残されていると感じる"
     ],
     "en": [
-      "have a privilege",
-      "enjoy a privilege",
-      "grant a privilege",
-      "withdraw a privilege",
-      "exercise a privilege",
-      "claim privilege",
-      "waive privilege",
-      "attorney-client privilege",
-      "legal professional privilege",
-      "a privileged communication",
-      "a privilege log",
-      "the privilege of working with someone"
+      "be in the loop",
+      "stay in the loop",
+      "remain in the loop",
+      "keep me in the loop",
+      "keep everyone in the loop",
+      "keep the client in the loop",
+      "bring someone into the loop",
+      "get the legal team into the loop",
+      "make sure everyone is in the loop",
+      "in the loop about the negotiations",
+      "in the loop on the project",
+      "feel out of the loop"
     ]
   },
   "example": {
     "ja": [
-      "Access to the private garden is a privilege reserved for residents. — 私有庭園の利用は居住者だけに認められた特典である。",
-      "It was a privilege to work with such an experienced team. — そのような経験豊富なチームと働けたことは光栄だった。",
-      "The policy was criticized for privileging large companies over small businesses. — その政策は、中小企業より大企業を優遇していると批判された。",
-      "The court examined whether the company had waived privilege by disclosing the communication to a third party. — 裁判所は、会社がその通信を第三者へ開示したことで特権を放棄したかを検討した。",
-      "Communications concerning patent strategy may be privileged only if the requirements of the applicable law are satisfied. — 特許戦略に関する通信が秘匿特権で保護されるためには、適用法上の要件を満たす必要がある。"
+      "Please keep me in the loop as the negotiations progress. — 交渉が進む間、今後の展開を私にも知らせてください。",
+      "I was not invited to the meeting, but the manager kept me in the loop. — 私は会議には招かれなかったが、部長が必要な情報を引き続き知らせてくれた。",
+      "We should bring the finance department into the loop before approving the expenditure. — その支出を承認する前に、財務部門も協議に加えるべきだ。",
+      "She felt out of the loop because nobody had told her that the schedule had changed. — 日程が変更されたことを誰も知らせてくれなかったため、彼女は情報から取り残されたと感じた。",
+      "Keep the patent attorney in the loop so that any amendment can be reviewed before it is filed. — 補正書を提出前に確認できるよう、弁理士にも継続して情報を共有してください。"
     ],
     "en": [
-      "Access to the private garden is a privilege reserved for residents.",
-      "It was a privilege to work with such an experienced team.",
-      "The policy was criticized for privileging large companies over small businesses.",
-      "The court examined whether the company had waived privilege by disclosing the communication to a third party.",
-      "Communications concerning patent strategy may be privileged only if the requirements of the applicable law are satisfied."
+      "Please keep me in the loop as the negotiations progress.",
+      "I was not invited to the meeting, but the manager kept me in the loop.",
+      "We should bring the finance department into the loop before approving the expenditure.",
+      "She felt out of the loop because nobody had told her that the schedule had changed.",
+      "Keep the patent attorney in the loop so that any amendment can be reviewed before it is filed."
     ]
   }
 },
 {
-  "id": "prosecution",
+  "id": "out-of-the-loop",
   "sid": "2026-01556",
-  "word": "prosecution",
-  "level": "C1",
+  "word": "out of the loop",
+  "level": "B2",
   "freq": "often",
   "tags": [
-    "noun",
-    "criminal law",
-    "legal proceedings",
-    "prosecutor",
-    "court",
-    "government",
-    "patent",
-    "trademark",
-    "intellectual property",
-    "application",
-    "examination",
-    "law",
-    "legal",
-    "formal"
+    "idiom",
+    "information",
+    "communication",
+    "exclusion",
+    "unawareness",
+    "workplace",
+    "business",
+    "project management",
+    "decision-making",
+    "informal",
+    "daily conversation",
+    "general"
   ],
   "grammar": {
-    "pos": "noun",
-    "countability": "countable for a particular criminal case; uncountable for the activity, process, or prosecuting side",
-    "plural": "prosecutions",
+    "pos": "idiomatic adjective phrase",
     "forms": {
-      "singular": "prosecution",
-      "plural": "prosecutions",
-      "verb": "prosecute",
-      "person_noun": "prosecutor",
-      "adjective": "prosecutorial",
-      "related_phrase": "patent prosecution"
+      "base": "out of the loop",
+      "opposite": "in the loop",
+      "related_verb_phrase": "leave someone out of the loop",
+      "comparative": "not normally used",
+      "superlative": "not normally used"
     },
     "transitivity": "not applicable",
     "patterns": [
-      "the prosecution of + person / offense / application",
-      "a prosecution for + offense",
-      "bring / initiate / commence a prosecution",
-      "face / avoid prosecution",
-      "be liable / subject to prosecution",
-      "the prosecution alleges / argues that + clause",
-      "the prosecution and the defense",
-      "patent / trademark prosecution",
-      "during prosecution of + application",
-      "the prosecution history of + patent / application"
+      "be out of the loop",
+      "feel out of the loop",
+      "remain out of the loop",
+      "seem out of the loop",
+      "leave someone out of the loop",
+      "keep someone out of the loop",
+      "be completely out of the loop",
+      "be out of the loop on + noun",
+      "be out of the loop regarding + noun",
+      "be out of the loop because + clause"
     ],
     "usage": {
-      "criminal_process": "In criminal law, prosecution means formally pursuing a criminal case against an accused person.",
-      "prosecuting_side": "The prosecution can collectively mean the government lawyers presenting the criminal case against the defendant.",
-      "preposition_for": "For identifies the alleged offense: a prosecution for fraud.",
-      "preposition_of": "Of may identify the accused person, offense, or matter being pursued: the prosecution of the defendant.",
-      "patent": "Patent prosecution means handling a patent application before a patent office, including filing, examination, amendment, argument, and related procedures.",
-      "litigation_contrast": "Patent prosecution concerns obtaining a patent and is distinct from patent litigation or enforcement against an alleged infringer.",
-      "spelling": "Prosecution must not be confused with persecution, which means persistent cruel or unfair treatment."
+      "state": "Be out of the loop means not receiving relevant information or not being included in a discussion or decision-making process.",
+      "feeling": "Feel out of the loop emphasizes the person’s subjective sense of being uninformed, excluded, or disconnected.",
+      "causative": "Leave or keep someone out of the loop means fail or deliberately refuse to include that person in relevant communications.",
+      "prepositions": "On, about, and regarding may introduce the subject: out of the loop on the project or out of the loop regarding the negotiations.",
+      "opposite": "In the loop means informed about and included in the relevant process.",
+      "register": "The expression is informal but common and acceptable in ordinary workplace and business communication.",
+      "article": "The idiom normally uses the definite article the: out of the loop, not out of a loop."
     }
   },
   "pronunciation": {
     "ipa": {
-      "us": "/ˌprɑːsɪˈkjuːʃən/",
-      "uk": "/ˌprɒsɪˈkjuːʃən/"
+      "us": "/ˌaʊt əv ðə ˈluːp/",
+      "uk": "/ˌaʊt əv ðə ˈluːp/"
     }
   },
   "meaning": {
     "ja": [
-      "犯罪の疑いがある人物を裁判所で正式に訴追すること",
-      "刑事事件において被告人の有罪を主張・立証しようとする検察側",
-      "特定の犯罪について行われる刑事手続・公訴",
-      "計画・作業などを最後まで遂行することを表す古風または形式的用法",
-      "特許出願を特許庁へ提出し、審査に対応して権利化を進める手続",
-      "商標出願について審査・拒絶理由・補正などに対応する権利化手続"
+      "重要な情報を知らされていない",
+      "関係者間の連絡・情報共有から外されている",
+      "計画・案件・交渉などの最新状況を把握していない",
+      "議論や意思決定の過程に参加していない",
+      "組織や集団の内部事情から取り残されている"
     ],
     "en": [
-      "the formal pursuit of criminal proceedings against a person accused of an offense",
-      "the government lawyers and authorities presenting the criminal case against a defendant",
-      "a criminal proceeding brought in respect of a particular offense",
-      "in older or formal use, the carrying out of a plan or activity until completion",
-      "the process of filing and handling a patent application before a patent office",
-      "the process of obtaining registration of a trademark through examination and related procedures"
+      "not receiving important or relevant information",
+      "excluded from communication and information sharing among the people concerned",
+      "unaware of recent developments in a plan, matter, or negotiation",
+      "not participating in a discussion or decision-making process",
+      "disconnected from the internal affairs of an organization or group"
     ]
   },
   "nuance": {
-    "ja": "prosecution は文脈によって大きく意味が異なる。criminal prosecution では、国家が犯罪の嫌疑について被告人を正式に訴追することを表す。また、the prosecution は法廷で被告人の有罪を主張する「検察側」を集合的に指す。これに対し patent prosecution は刑事訴追ではなく、特許出願の作成・提出、拒絶理由への応答、補正、審判などを通じて権利化を進める実務をいう。trademark prosecution も同様に商標登録を得るための手続である。特許侵害者を相手に訴訟を提起することは通常 patent litigation または patent enforcement であり、patent prosecution とは区別する。prosecution と persecution は綴りが似ているが、後者は人種・宗教・信条などを理由とする「迫害」を意味する。",
-    "en": "Prosecution has substantially different meanings depending on context. Criminal prosecution is the formal pursuit by the state of charges against a person accused of an offense. The prosecution can also collectively mean the lawyers presenting the case against the defendant. Patent prosecution, by contrast, has nothing to do with criminal charges. It means professional work directed toward obtaining a patent, including preparing and filing an application, responding to office actions, amending claims, and pursuing appeals or related procedures. Trademark prosecution similarly concerns obtaining trademark registration. Proceedings against an alleged patent infringer are normally described as patent litigation or patent enforcement, not patent prosecution. Prosecution should also be distinguished from persecution, meaning persistent cruel or discriminatory treatment."
+    "ja": "out of the loop は、必要な情報が自分に届いておらず、状況や意思決定を十分に把握できていないことを表す。単に知識がないというより、本来なら情報共有に含まれていてもよい人が連絡の輪から外れている、という含みを持つことが多い。I’ve been out of the loop. は、休暇・異動・欠席などによって最近の事情を知らないと説明する穏当な表現である。一方、They kept me out of the loop. は、他者が意図的に情報を与えなかったという非難を含み得る。反対表現の in the loop は、継続的に情報を知らされ、関係者として連絡や協議に含まれている状態を表す。",
+    "en": "Out of the loop describes lacking access to relevant information and therefore being unable to follow a situation or decision-making process. It often implies more than simply lacking knowledge: the person might reasonably have expected to be included but was outside the relevant communication network. I’ve been out of the loop can neutrally explain that an absence, vacation, or change of role has left the speaker unaware of recent developments. By contrast, They kept me out of the loop may accuse others of deliberately withholding information. Its opposite, in the loop, describes continuing access to information and inclusion in the relevant communications or discussions."
   },
   "minimal": {
     "ja": [
-      "prosecution：犯罪の正式な訴追、検察側、または特許・商標出願の権利化手続。",
-      "prosecutor：国家を代表して刑事事件の訴追を担当する法律家・公務員。",
-      "litigation：裁判所で当事者が請求・抗弁を争う訴訟手続。",
-      "enforcement：法律・義務・判決・知的財産権などを実際に執行・行使すること。",
-      "patent prosecution：特許出願を提出し、審査へ対応して特許取得を目指す手続。",
-      "prosecution history：出願手続中の提出書類・審査経過・当事者の主張などの記録。",
-      "persecution：人種・宗教・政治的信条などを理由とする継続的な迫害。",
-      "defense：訴追・請求・非難に対して被告人・被告側が行う防御。"
+      "out of the loop：関係する情報を知らされず、連絡・協議から外れている。",
+      "in the loop：必要な情報を継続的に知らされ、関係者間の連絡に含まれている。",
+      "leave someone out of the loop：人に必要な情報を伝えず、情報共有から外す。",
+      "keep someone out of the loop：人を意図的または継続的に情報共有へ参加させない。",
+      "uninformed：必要な情報や知識を与えられていない。",
+      "unaware：ある事実・状況が存在することを知らない。",
+      "out of touch：最近の事情や考え方を把握していない、または人との連絡が途絶えている。",
+      "in the dark：重要な事実を意図的に知らされず、事情が分からない。"
     ],
     "en": [
-      "prosecution means formal criminal proceedings, the prosecuting side, or the process of obtaining patent or trademark rights.",
-      "a prosecutor is a lawyer or official who conducts criminal proceedings on behalf of the state.",
-      "litigation is the process in which parties contest claims and defenses before a court.",
-      "enforcement is the practical application of a law, obligation, judgment, or intellectual property right.",
-      "patent prosecution is the process of filing and handling an application in an effort to obtain a patent.",
-      "prosecution history is the record of submissions, examination events, and arguments made while an application was pending.",
-      "persecution is persistent cruel or discriminatory treatment based on religion, ethnicity, political belief, or another characteristic.",
-      "the defense is the party or case opposing a prosecution, claim, or accusation."
+      "out of the loop means uninformed about or excluded from relevant communications and discussions.",
+      "in the loop means receiving relevant information and being included in communications or discussions.",
+      "leave someone out of the loop means failing to provide that person with necessary information.",
+      "keep someone out of the loop means deliberately or continually excluding that person from information sharing.",
+      "uninformed means not having been given the information or knowledge needed.",
+      "unaware means not knowing that a particular fact or situation exists.",
+      "out of touch means unfamiliar with recent developments or no longer communicating with someone.",
+      "in the dark means being denied or lacking important information about a situation."
     ]
   },
   "etymology": {
-    "ja": "prosecution はラテン語 prosecutio「追跡、遂行」に由来し、その基礎となる prosequi は pro-「前へ」と sequi「ついて行く」から成る。もともとは、ある対象を追い続けることや、計画を最後まで遂行することを表した。そこから、犯罪の嫌疑を法的手続によって追及する「訴追」という意味が発達した。特許・商標分野の prosecution も、出願を提出してから登録・特許査定などの結果に至るまで手続を継続して進めるという、同じ「遂行」の意味に基づく。",
-    "en": "Prosecution comes from Latin prosecutio, a pursuit or continuation, based on prosequi, formed from pro-, forward, and sequi, to follow. It originally described following something through or carrying an activity to completion. This developed into the legal meaning of pursuing an accusation through criminal proceedings. Its use in patent and trademark prosecution rests on the same sense of carrying a matter forward through procedural stages from filing toward grant or registration."
+    "ja": "loop は、ひも・針金などで作られる「輪」を意味し、そこから信号・情報・指示などが循環する閉じた経路も表すようになった。out of the loop は、その情報循環の輪の外側にいるという比喩に基づき、「必要な情報が届かない」「関係者の連絡や意思決定から外れている」という意味を持つ。in the loop と対をなし、現代では職場・組織・プロジェクトにおける情報共有について広く使われている。",
+    "en": "Loop originally referred to a circular shape made with cord, wire, or similar material and later came to describe a closed path through which signals, instructions, or information circulate. Out of the loop is based on the metaphor of standing outside that path and therefore not receiving the information that travels through it. It forms a direct contrast with in the loop and is now widely used for communication and information sharing within workplaces, organizations, and projects."
   },
   "synonyms": [
     {
-      "word": "criminal proceedings",
+      "word": "uninformed",
       "note": {
-        "ja": "犯罪の嫌疑について、国家が被告人に対して進める正式な裁判手続。",
-        "en": "Formal court proceedings pursued by the state against a person accused of a criminal offense."
+        "ja": "ある問題について必要な情報を持っていないことを表す中立的な語。",
+        "en": "A neutral word meaning not possessing the information needed about a matter."
       }
     },
     {
-      "word": "legal action",
+      "word": "unaware",
       "note": {
-        "ja": "権利・責任・違反などについて裁判所その他の法的手続を開始・遂行すること。",
-        "en": "The initiation or pursuit of proceedings concerning a right, liability, or violation."
+        "ja": "特定の事実・出来事・状況が存在することを知らない。",
+        "en": "Not knowing that a particular fact, event, or situation exists."
       }
     },
     {
-      "word": "litigation",
+      "word": "in the dark",
       "note": {
-        "ja": "民事・刑事などの争いを裁判所で争い、判断を求める手続。",
-        "en": "The process of contesting a civil or criminal matter before a court and seeking a judgment."
+        "ja": "重要な情報を与えられず、事情が分からない状態を表す慣用表現。",
+        "en": "An idiom describing someone who has not been given important information about a situation."
       }
     },
     {
-      "word": "application proceedings",
+      "word": "excluded",
       "note": {
-        "ja": "特許・商標などの出願から審査・処分に至る一連の行政手続。",
-        "en": "Administrative procedures extending from the filing of an application through examination and disposition."
+        "ja": "集団・活動・協議などへの参加を認められず、外されている。",
+        "en": "Prevented or omitted from participating in a group, activity, or discussion."
       }
     },
     {
-      "word": "pursuit",
+      "word": "out of touch",
       "note": {
-        "ja": "目標・請求・活動などを継続して追い求め、遂行すること。",
-        "en": "The continuing effort to follow, obtain, or carry forward a goal, claim, or activity."
+        "ja": "最近の状況・考え方を理解していない、または人との連絡を失っている。",
+        "en": "Unfamiliar with recent developments or no longer maintaining communication with someone."
       }
     }
   ],
   "equivalents": {
-    "de": "Strafverfolgung / Anklage / Patenterteilungsverfahren",
-    "it": "azione penale / accusa / procedura di brevettazione",
-    "fr": "poursuites / ministère public / procédure de délivrance",
-    "es": "procesamiento / acusación / tramitación de patente"
+    "de": "nicht auf dem Laufenden sein / nicht einbezogen sein",
+    "it": "non essere al corrente / essere escluso",
+    "fr": "ne pas être au courant / être hors de la boucle",
+    "es": "no estar al tanto / estar excluido del circuito de información"
   },
   "collocations": {
     "ja": [
-      "criminal prosecution — 刑事訴追",
-      "federal prosecution — 連邦法に基づく訴追",
-      "a prosecution for fraud — 詐欺罪による訴追",
-      "bring a prosecution — 公訴を提起する",
-      "face prosecution — 訴追を受ける可能性に直面する",
-      "avoid prosecution — 訴追を免れる",
-      "be subject to prosecution — 訴追の対象となる",
-      "the prosecution and the defense — 検察側と弁護側",
-      "the prosecution’s evidence — 検察側の証拠",
-      "patent prosecution — 特許出願の権利化手続",
-      "trademark prosecution — 商標出願の権利化手続",
-      "prosecution history — 出願経過、包袋記録"
+      "be out of the loop — 情報共有から外れている",
+      "feel out of the loop — 情報から取り残されていると感じる",
+      "remain out of the loop — 引き続き事情を知らされていない",
+      "seem out of the loop — 最近の事情を知らないように見える",
+      "be completely out of the loop — 全く情報を知らされていない",
+      "leave someone out of the loop — 人を情報共有から外す",
+      "keep someone out of the loop — 人に意図的に情報を与えない",
+      "be out of the loop on the project — プロジェクトの状況を知らされていない",
+      "be out of the loop about the changes — 変更について知らされていない",
+      "be out of the loop regarding the negotiations — 交渉について情報を得ていない",
+      "get left out of the loop — 情報共有から取り残される",
+      "no longer be out of the loop — もはや情報から取り残されていない"
     ],
     "en": [
-      "criminal prosecution",
-      "federal prosecution",
-      "a prosecution for fraud",
-      "bring a prosecution",
-      "face prosecution",
-      "avoid prosecution",
-      "be subject to prosecution",
-      "the prosecution and the defense",
-      "the prosecution’s evidence",
-      "patent prosecution",
-      "trademark prosecution",
-      "prosecution history"
+      "be out of the loop",
+      "feel out of the loop",
+      "remain out of the loop",
+      "seem out of the loop",
+      "be completely out of the loop",
+      "leave someone out of the loop",
+      "keep someone out of the loop",
+      "be out of the loop on the project",
+      "be out of the loop about the changes",
+      "be out of the loop regarding the negotiations",
+      "get left out of the loop",
+      "no longer be out of the loop"
     ]
   },
   "example": {
     "ja": [
-      "The authorities decided not to bring a prosecution because the evidence was insufficient. — 当局は証拠が不十分だったため、公訴を提起しないことにした。",
-      "The prosecution argued that the defendant had deliberately altered the records. — 検察側は、被告人が故意に記録を改ざんしたと主張した。",
-      "Anyone who knowingly submits a false document may face prosecution. — 虚偽の文書を故意に提出した者は、訴追を受ける可能性がある。",
-      "The company hired outside counsel to handle the prosecution of its international trademark applications. — 会社は国際商標出願の権利化手続を担当させるため、外部弁護士を起用した。",
-      "Statements made during patent prosecution may affect the later interpretation or enforcement of the granted claims. — 特許出願の権利化手続中に行われた陳述は、登録後の請求項の解釈または権利行使に影響する可能性がある。"
+      "I was on vacation last week, so I’m still a little out of the loop. — 先週は休暇を取っていたので、まだ最近の事情をあまり把握していません。",
+      "She felt out of the loop when she learned about the decision from another department. — 彼女は別の部署からその決定を聞き、情報共有から外されていたと感じた。",
+      "Please do not leave the finance team out of the loop during the negotiations. — 交渉中は、財務チームを情報共有から外さないでください。",
+      "The manager apologized for keeping us out of the loop about the organizational changes. — 部長は組織変更について私たちに知らせていなかったことを謝罪した。",
+      "The patent attorney was left out of the loop and did not learn of the product modification until after the application had been filed. — 弁理士は情報共有から外されており、出願後まで製品の変更について知らなかった。"
     ],
     "en": [
-      "The authorities decided not to bring a prosecution because the evidence was insufficient.",
-      "The prosecution argued that the defendant had deliberately altered the records.",
-      "Anyone who knowingly submits a false document may face prosecution.",
-      "The company hired outside counsel to handle the prosecution of its international trademark applications.",
-      "Statements made during patent prosecution may affect the later interpretation or enforcement of the granted claims."
+      "I was on vacation last week, so I’m still a little out of the loop.",
+      "She felt out of the loop when she learned about the decision from another department.",
+      "Please do not leave the finance team out of the loop during the negotiations.",
+      "The manager apologized for keeping us out of the loop about the organizational changes.",
+      "The patent attorney was left out of the loop and did not learn of the product modification until after the application had been filed."
     ]
   }
 },
