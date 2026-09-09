@@ -2220,6 +2220,413 @@
   }
 },
 {
+  "id": "violate",
+  "sid": "2026-01522",
+  "word": "violate",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "law",
+    "rule",
+    "rights",
+    "privacy",
+    "agreement",
+    "misconduct",
+    "ethics",
+    "boundary",
+    "desecration",
+    "legal",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "violate",
+      "third_person": "violates",
+      "past": "violated",
+      "past_participle": "violated",
+      "gerund": "violating",
+      "activity_noun": "violation",
+      "agent_noun": "violator",
+      "adjective": "violative, chiefly legal and formal"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "violate + law / rule / regulation",
+      "violate + right / freedom",
+      "violate someone’s privacy",
+      "violate an agreement / order",
+      "violate a principle / standard",
+      "violate the terms of + agreement",
+      "be found to violate + law",
+      "be accused of violating + rule",
+      "knowingly / repeatedly violate",
+      "feel violated"
+    ],
+    "usage": {
+      "broad_scope": "Violate broadly means acting contrary to a law, rule, right, agreement, principle, or protected boundary.",
+      "direct_object": "Violate is transitive and normally takes the violated law, rule, right, or boundary directly as its object.",
+      "law": "Whether conduct violates a legal rule depends on the wording, jurisdiction, facts, and applicable exceptions.",
+      "rights": "Rights, privacy, freedom, dignity, and personal boundaries commonly occur as objects.",
+      "agreement": "Violate an agreement is possible, although breach an agreement is often more idiomatic in legal and contractual writing.",
+      "intellectual_property": "For patents, trademarks, and copyrights, infringe is normally more precise than violate.",
+      "person_warning": "Directly saying violate a person can imply a grave bodily or sexual assault and should not be used as a casual synonym for annoy or disrespect.",
+      "feel_violated": "Feel violated means feeling that one’s privacy, dignity, body, or personal boundaries have been seriously invaded.",
+      "desecration": "Violate can formally mean damaging the sanctity of a grave, sacred place, or protected institution.",
+      "pronunciation": "The second syllable is unstressed, and the final element is pronounced /leɪt/."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈvaɪəleɪt/",
+      "uk": "/ˈvaɪəleɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "法律・規則・規制・命令などに違反する",
+      "人の権利・自由・尊厳などを侵害する",
+      "人のプライバシー・身体・私的領域へ不当に立ち入る",
+      "契約・合意・条件などに反する行為をする",
+      "倫理原則・基準・社会的境界などを破る",
+      "神聖な場所・墓・保護されるべきものを汚す",
+      "受動形で、尊厳や個人的境界を深く侵害されたと感じる"
+    ],
+    "en": [
+      "to act contrary to a law, rule, regulation, or order",
+      "to interfere seriously with another person’s rights, freedom, or dignity",
+      "to intrude improperly upon someone’s privacy, body, or personal sphere",
+      "to act contrary to an agreement, condition, or undertaking",
+      "to break an ethical principle, standard, or social boundary",
+      "to desecrate a sacred place, grave, or something entitled to protection",
+      "in the passive, to feel that one’s dignity, privacy, or personal boundaries have been seriously invaded"
+    ]
+  },
+  "nuance": {
+    "ja": "violate は、法律・規則・権利・原則・境界など、尊重されるべき制限に反する行為を広く表す。violate the law、violate a rule、violate someone’s privacy のように、対象を前置詞なしで直接目的語に取る。breach は契約・義務・信頼・秘密保持などの拘束を破ることに重点があり、infringe は特許権・商標権・著作権などの保護された権利へ立ち入ることに重点がある。したがって violate a patent より infringe a patent、violate a contract より breach a contract の方が通常は専門的に自然である。ただし、広い説明では violate contractual terms や violate intellectual property rights も使える。feel violated は、単に不快に感じるのではなく、尊厳・身体・プライバシーなどへ深刻に立ち入られた感覚を示す。violate someone と人を直接目的語にすると重大な身体的・性的侵害を連想させ得るため、軽い場面では避けるべきである。",
+    "en": "Violate is a broad verb for acting contrary to a law, rule, right, principle, or boundary that ought to be respected. It takes a direct object without a preposition, as in violate the law, violate a rule, and violate someone’s privacy. Breach emphasizes breaking a contract, duty, confidence, or binding obligation, while infringe emphasizes intrusion upon the protected scope of a patent, trademark, copyright, or other right. In specialist usage, infringe a patent is therefore normally more natural than violate a patent, and breach a contract is usually more precise than violate a contract. Broader expressions such as violate contractual terms and violate intellectual property rights are nevertheless possible. Feel violated denotes a serious sense that one’s dignity, body, privacy, or personal boundaries have been invaded. Using a person directly as the object can suggest grave bodily or sexual abuse and should not be used casually."
+  },
+  "minimal": {
+    "ja": [
+      "violate：法律・規則・権利・原則・境界などに反する。",
+      "breach：契約・義務・信頼・秘密保持関係などを破る。",
+      "infringe：知的財産権など、法的に保護された権利を侵害する。",
+      "contravene：法律・規則・命令などに反することを表す形式的な語。",
+      "disobey：命令・規則・権威ある人の指示に従わない。",
+      "transgress：道徳的・社会的・宗教的な境界や規範を越える。",
+      "desecrate：神聖な場所・物を汚し、その神聖さを傷つける。",
+      "encroach on：他人の権利・土地・時間などへ徐々に不当に入り込む。"
+    ],
+    "en": [
+      "violate means acting contrary to a law, rule, right, principle, or protected boundary.",
+      "breach means breaking a contract, duty, confidence, or obligation of secrecy.",
+      "infringe means interfering with a legally protected right, especially intellectual property.",
+      "contravene is a formal verb meaning to act contrary to a law, regulation, or order.",
+      "disobey means refusing or failing to follow an instruction, rule, or person in authority.",
+      "transgress means crossing a moral, social, or religious boundary or standard.",
+      "desecrate means damaging or treating a sacred place or object without proper respect.",
+      "encroach on means gradually and improperly intruding upon another person’s rights, land, or time."
+    ]
+  },
+  "etymology": {
+    "ja": "violate はラテン語 violare「乱暴に扱う、傷つける、汚す、侵害する」に由来し、ラテン語 violatus、フランス語を経て英語へ入った。初期には人・神聖な場所・墓・約束などを傷つけたり、その尊厳や神聖さを損なったりすることを表した。そこから、法律・規則・権利・義務などによって設けられた境界を破るという一般的な意味へ広がった。名詞 violation、形容詞 violent、名詞 violence も歴史的に関連する語族に属する。",
+    "en": "Violate derives from Latin violare, meaning to treat violently, injure, dishonor, desecrate, or infringe, and entered English through Latin and French forms. In early use, it could describe injury to a person or damage to the dignity or sanctity of a sacred place, grave, promise, or protected object. Its meaning broadened to crossing boundaries established by law, rules, rights, duties, and ethical principles. Violation, violent, and violence belong to the same historical word family."
+  },
+  "synonyms": [
+    {
+      "word": "contravene",
+      "note": {
+        "ja": "法律・規則・命令・正式な条件に反する行為をするという形式的な語。",
+        "en": "A formal verb meaning to act contrary to a law, regulation, order, or official condition."
+      }
+    },
+    {
+      "word": "breach",
+      "note": {
+        "ja": "契約・義務・信頼関係・秘密保持義務など、守るべき拘束を破る。",
+        "en": "To break a contract, duty, confidence, or another binding obligation."
+      }
+    },
+    {
+      "word": "infringe",
+      "note": {
+        "ja": "他人の権利、特に特許権・商標権・著作権などを侵害する。",
+        "en": "To interfere with another person’s rights, especially patent, trademark, or copyright rights."
+      }
+    },
+    {
+      "word": "transgress",
+      "note": {
+        "ja": "道徳・宗教・社会上の規範または許容される境界を越える。",
+        "en": "To cross a moral, religious, or social rule or an accepted boundary of conduct."
+      }
+    },
+    {
+      "word": "disobey",
+      "note": {
+        "ja": "命令・規則・法律、または権威を持つ人の指示に従わない。",
+        "en": "To refuse or fail to follow an order, rule, law, or instruction from someone in authority."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "verletzen / gegen etwas verstoßen",
+    "it": "violare",
+    "fr": "violer / enfreindre",
+    "es": "violar / vulnerar / infringir"
+  },
+  "collocations": {
+    "ja": [
+      "violate the law — 法律に違反する",
+      "violate a rule — 規則に違反する",
+      "violate safety regulations — 安全規則に違反する",
+      "violate a court order — 裁判所命令に違反する",
+      "violate someone’s rights — 人の権利を侵害する",
+      "violate someone’s privacy — 人のプライバシーを侵害する",
+      "violate an agreement — 合意に違反する",
+      "violate the terms of a contract — 契約条件に違反する",
+      "violate ethical standards — 倫理基準に反する",
+      "repeatedly violate regulations — 規則に繰り返し違反する",
+      "be found to violate the constitution — 憲法に違反すると判断される",
+      "feel deeply violated — 尊厳・個人的領域を深く侵害されたと感じる"
+    ],
+    "en": [
+      "violate the law",
+      "violate a rule",
+      "violate safety regulations",
+      "violate a court order",
+      "violate someone’s rights",
+      "violate someone’s privacy",
+      "violate an agreement",
+      "violate the terms of a contract",
+      "violate ethical standards",
+      "repeatedly violate regulations",
+      "be found to violate the constitution",
+      "feel deeply violated"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The factory was fined for violating environmental regulations. — その工場は、環境規則に違反したとして罰金を科された。",
+      "Publishing her address without permission would violate her privacy. — 彼女の住所を許可なく公表すれば、彼女のプライバシーを侵害することになる。",
+      "Employees must not violate the company’s code of conduct. — 従業員は会社の行動規範に違反してはならない。",
+      "The court held that the restriction violated freedom of expression. — 裁判所は、その制限が表現の自由を侵害すると判断した。",
+      "The unauthorized sale infringed the patent and also violated the territorial restrictions in the licence agreement. — その無断販売は特許権を侵害するとともに、ライセンス契約に定められた地域制限にも違反した。"
+    ],
+    "en": [
+      "The factory was fined for violating environmental regulations.",
+      "Publishing her address without permission would violate her privacy.",
+      "Employees must not violate the company’s code of conduct.",
+      "The court held that the restriction violated freedom of expression.",
+      "The unauthorized sale infringed the patent and also violated the territorial restrictions in the licence agreement."
+    ]
+  }
+},
+{
+  "id": "stand-in-the-breach",
+  "sid": "2026-01523",
+  "word": "stand in the breach",
+  "level": "C1",
+  "freq": "rare",
+  "tags": [
+    "idiom",
+    "verb phrase",
+    "protection",
+    "defense",
+    "danger",
+    "responsibility",
+    "courage",
+    "intercession",
+    "religion",
+    "biblical",
+    "literary",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic verb phrase",
+    "forms": {
+      "base": "stand in the breach",
+      "third_person": "stands in the breach",
+      "past": "stood in the breach",
+      "past_participle": "stood in the breach",
+      "gerund": "standing in the breach",
+      "related_expression": "stand in the gap",
+      "common_modern_expression": "step into the breach"
+    },
+    "transitivity": "intransitive; optionally followed by for, on behalf of, between, or against",
+    "patterns": [
+      "stand in the breach",
+      "stand in the breach for + person / group",
+      "stand in the breach on behalf of + person / cause",
+      "stand in the breach between A and B",
+      "stand in the breach against + threat",
+      "be willing / prepared to stand in the breach",
+      "someone who stands in the breach",
+      "continue / refuse to stand in the breach",
+      "step into the breach",
+      "stand in the gap for + person"
+    ],
+    "usage": {
+      "core_meaning": "To stand in the breach is to place oneself in a dangerous or difficult position in order to protect others or defend a cause.",
+      "physical_image": "The phrase evokes a defender standing in an opening made in a wall and preventing an enemy from passing through.",
+      "religious_use": "In biblical and religious contexts, it may describe interceding before God on behalf of a people or community.",
+      "secular_use": "In secular literary use, it can describe accepting danger, pressure, criticism, or responsibility to protect others.",
+      "for_pattern": "For or on behalf of introduces the person, community, or cause being protected.",
+      "between_pattern": "Between can identify the threatening force and the person or interest being defended.",
+      "rarity": "The expression is rare and elevated in contemporary everyday English.",
+      "step_difference": "Step into the breach more commonly means taking over an urgent role after another person has failed, withdrawn, or become unavailable.",
+      "gap_difference": "Stand in the gap is a more common related expression, particularly in religious and advocacy contexts.",
+      "literal_use": "In historical or military writing, the phrase can literally describe defending a gap in a fortification."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌstænd ɪn ðə ˈbriːtʃ/",
+      "uk": "/ˌstænd ɪn ðə ˈbriːtʃ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "危険や困難の前面に立って他者を守る",
+      "攻撃・批判・災害などを自ら受け止め、防御の役割を果たす",
+      "他の人が果たさない重要な責任を引き受ける",
+      "危機にある共同体・制度・信念を守るため行動する",
+      "宗教的文脈で、人々のため神の前に立って執り成す",
+      "文字どおりには、防壁に開いた突破口へ立って敵を食い止める"
+    ],
+    "en": [
+      "to place oneself at the point of danger or difficulty in order to protect others",
+      "to absorb an attack, criticism, or crisis and serve as a defender",
+      "to accept an important responsibility that others have failed to perform",
+      "to act in defense of a threatened community, institution, or principle",
+      "in religious contexts, to intercede before God on behalf of other people",
+      "literally, to defend an opening made in a wall or fortification"
+    ]
+  },
+  "nuance": {
+    "ja": "stand in the breach は、単に欠員を補うだけでなく、危険・攻撃・責任が集中する場所へ自ら立ち、他者や大切なものを守るという英雄的・献身的な響きを持つ。breach はもともと城壁や防壁に開けられた突破口であり、そこへ立つ者は敵の侵入を直接食い止めることになる。宗教的文脈では、共同体を滅びや裁きから守るために、神と人々の間に立って執り成すという意味になる。現代の世俗的な文章では、弱い立場の人を擁護する、危機の責任を引き受ける、批判を一身に受けるといった行動に比喩的に使える。ただし、日常会話ではかなり荘重・文学的である。step into the breach は、急な欠員や失敗を受けて代役を務める意味が中心で、必ずしも自己犠牲的な防御を意味しない。",
+    "en": "Stand in the breach has a heroic or self-sacrificing tone. It means more than merely filling a vacancy: the person deliberately occupies the point at which danger, attack, or responsibility is concentrated in order to protect others or preserve something valuable. A breach was originally an opening made in a defensive wall, and a person standing there would directly prevent the enemy from entering. In religious contexts, the phrase can describe interceding between God and a community in an effort to protect the people from judgment or destruction. In secular literary use, it may describe defending vulnerable people, assuming responsibility during a crisis, or absorbing criticism directed at others. The expression sounds elevated in ordinary conversation. Step into the breach more commonly means replacing someone or urgently taking over a neglected role and does not necessarily suggest self-sacrificial defense."
+  },
+  "minimal": {
+    "ja": [
+      "stand in the breach：危険の前面に立ち、他者や大切なものを守る。文学的・宗教的。",
+      "step into the breach：欠員・失敗・危機に際し、必要な役割を代わって引き受ける。",
+      "stand in the gap：不足を補い、または他者を守るため間に立つ。",
+      "come to someone’s defense：批判・攻撃を受けている人を擁護する。",
+      "shield someone：危険・批判・不快な経験などから人を守る。",
+      "intercede for someone：人のため権力者または神に取り成す。",
+      "bear the brunt：攻撃・批判・悪影響の最も厳しい部分を受ける。",
+      "hold the line：圧力や攻撃に屈せず、立場・防衛線を維持する。"
+    ],
+    "en": [
+      "stand in the breach means facing danger to protect others and is literary or religious.",
+      "step into the breach means urgently taking over a role after another person’s absence or failure.",
+      "stand in the gap means filling a need or placing oneself between danger and another person.",
+      "come to someone’s defense means supporting a person who is being criticized or attacked.",
+      "shield someone means protecting a person from danger, criticism, or an unpleasant experience.",
+      "intercede for someone means appealing to an authority or to God on another person’s behalf.",
+      "bear the brunt means suffering the most severe part of an attack, criticism, or harmful effect.",
+      "hold the line means maintaining a position or defense despite pressure or attack."
+    ]
+  },
+  "etymology": {
+    "ja": "この表現の物理的なイメージは、攻撃によって城壁・防壁に開いた breach「突破口」へ守備者が立ち、敵の侵入を阻止することに由来する。聖書の『詩篇』や『エゼキエル書』には、破れ口に立って共同体を守り、滅びを防ぐ人物を求める表現があり、宗教的用法では執り成し・献身・道徳的責任を象徴するようになった。そこから世俗的にも、危機の最前線に立って人や制度を守るという比喩に発展した。現代でより一般的な step into the breach は同じ防壁の比喩を用いるが、主として必要な役割や欠員を引き受けることを意味する。",
+    "en": "The physical image comes from a defender standing in a breach, an opening made in a wall or fortification by an attacking force, and preventing the enemy from entering. Biblical passages in Psalms and Ezekiel describe a person standing in such a breach to protect a community and avert destruction. In religious usage, the image consequently came to symbolize intercession, sacrifice, and moral responsibility. It was later extended to secular situations in which someone faces a crisis directly in order to protect people, institutions, or principles. The more common modern expression step into the breach uses the same defensive image but primarily describes taking over a necessary role or filling an urgent vacancy."
+  },
+  "synonyms": [
+    {
+      "word": "stand in the gap",
+      "note": {
+        "ja": "他者を守る、または必要な働きを補うため、危険・不足のある場所に立つ。",
+        "en": "To occupy a position of danger or need in order to protect others or provide what is missing."
+      }
+    },
+    {
+      "word": "come to someone’s defense",
+      "note": {
+        "ja": "批判・非難・攻撃を受けている人を支持し、擁護する。",
+        "en": "To support and defend a person who is being criticized, accused, or attacked."
+      }
+    },
+    {
+      "word": "intercede",
+      "note": {
+        "ja": "人を助けるため、その人に代わって権力者または神へ嘆願する。",
+        "en": "To appeal to an authority or to God on behalf of another person in order to help them."
+      }
+    },
+    {
+      "word": "bear the brunt",
+      "note": {
+        "ja": "攻撃・批判・損害・悪影響のうち最も厳しい部分を引き受ける。",
+        "en": "To receive or suffer the most severe part of an attack, criticism, damage, or harmful effect."
+      }
+    },
+    {
+      "word": "hold the line",
+      "note": {
+        "ja": "攻撃・反対・圧力に直面しても、防衛線・方針・基準を維持する。",
+        "en": "To maintain a defensive position, policy, or standard despite attack, opposition, or pressure."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "in die Bresche springen / sich schützend vor jemanden stellen",
+    "it": "stare sulla breccia / ergersi in difesa di qualcuno",
+    "fr": "se tenir sur la brèche / s’interposer pour défendre quelqu’un",
+    "es": "estar en la brecha / interponerse para defender a alguien"
+  },
+  "collocations": {
+    "ja": [
+      "stand in the breach — 危機の前面に立つ",
+      "stand in the breach for someone — 人を守るため危険の前面に立つ",
+      "stand in the breach on behalf of the community — 共同体を守るため破れ口に立つ",
+      "stand in the breach against injustice — 不正に立ち向かって防壁となる",
+      "stand in the breach between danger and the vulnerable — 危険と弱者との間に立つ",
+      "be willing to stand in the breach — 危険な責任を引き受ける覚悟がある",
+      "be prepared to stand in the breach — 危機の前面に立つ準備がある",
+      "someone who stands in the breach — 他者を守って危機に立ち向かう人",
+      "courageously stand in the breach — 勇敢に危機の前面へ立つ",
+      "refuse to stand in the breach — 守るべき場面で責任を引き受けない",
+      "step into the breach — 急な欠員・必要な役割を引き受ける",
+      "stand in the gap for others — 他者を守り、必要を補うため間に立つ"
+    ],
+    "en": [
+      "stand in the breach",
+      "stand in the breach for someone",
+      "stand in the breach on behalf of the community",
+      "stand in the breach against injustice",
+      "stand in the breach between danger and the vulnerable",
+      "be willing to stand in the breach",
+      "be prepared to stand in the breach",
+      "someone who stands in the breach",
+      "courageously stand in the breach",
+      "refuse to stand in the breach",
+      "step into the breach",
+      "stand in the gap for others"
+    ]
+  },
+  "example": {
+    "ja": [
+      "When the village was threatened, a small group of volunteers stood in the breach. — 村が脅威にさらされたとき、少数の志願者が危険の前面に立った。",
+      "She stood in the breach for employees who were afraid to challenge the unfair policy. — 彼女は不当な方針へ異議を唱えることを恐れていた従業員たちを守るため、前面に立った。",
+      "A responsible leader must sometimes stand in the breach and absorb criticism directed at the team. — 責任ある指導者は、ときに危機の前面へ立ち、チームに向けられた批判を引き受けなければならない。",
+      "In the sermon, Moses was presented as a figure who stood in the breach for his people. — その説教では、モーセは民のために破れ口へ立った人物として描かれた。",
+      "The attorney stood in the breach for the client by defending its patent rights against a far larger competitor. — その弁理士は、はるかに大きな競合企業を相手に顧客の特許権を守り、危機の前面に立った。"
+    ],
+    "en": [
+      "When the village was threatened, a small group of volunteers stood in the breach.",
+      "She stood in the breach for employees who were afraid to challenge the unfair policy.",
+      "A responsible leader must sometimes stand in the breach and absorb criticism directed at the team.",
+      "In the sermon, Moses was presented as a figure who stood in the breach for his people.",
+      "The attorney stood in the breach for the client by defending its patent rights against a far larger competitor."
+    ]
+  }
+},
+{
   "id": "step-into-the-breach",
   "sid": "2026-01524",
   "word": "step into the breach",
