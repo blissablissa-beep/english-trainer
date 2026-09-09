@@ -9049,6 +9049,2401 @@
   }
 },
 {
+  "id": "compensation",
+  "sid": "2026-01536",
+  "word": "compensation",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "payment",
+    "damages",
+    "loss",
+    "injury",
+    "employment",
+    "salary",
+    "benefits",
+    "insurance",
+    "law",
+    "legal",
+    "patent",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "normally uncountable; countable when referring to particular compensating acts or technical adjustments",
+    "plural": "compensations, uncommon outside specialized contexts",
+    "forms": {
+      "base": "compensation",
+      "verb": "compensate",
+      "adjective": "compensatory",
+      "person_noun": "compensator, specialized",
+      "related_phrase": "compensation package"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "compensation for + loss / injury / damage",
+      "compensation for + gerund",
+      "compensation to + person",
+      "compensation from + person / organization",
+      "receive / claim / seek compensation",
+      "pay / award / provide compensation",
+      "be entitled to compensation",
+      "in compensation for + noun",
+      "a compensation package",
+      "fair / adequate / financial compensation"
+    ],
+    "usage": {
+      "uncountable": "Compensation is normally uncountable: seek compensation, not seek a compensation.",
+      "individual_payment": "A particular amount may be described as compensation, a compensation payment, or an award of compensation.",
+      "preposition": "For identifies the loss, injury, work, or inconvenience being compensated: compensation for lost income.",
+      "recipient": "To identifies the recipient and from may identify the payer: compensation to residents from the company.",
+      "employment": "In employment contexts, compensation may include salary, bonuses, benefits, stock options, and other remuneration.",
+      "legal_scope": "The availability and calculation of legal compensation depend on the jurisdiction, cause of action, contract, and applicable statute.",
+      "damages": "Compensation is the broader ordinary concept; damages is a specifically legal term for monetary relief awarded or claimed for a civil wrong or breach.",
+      "workers_compensation": "Workers’ compensation is the established expression for statutory benefits relating to work-connected injury or illness."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌkɑːmpənˈseɪʃən/",
+      "uk": "/ˌkɒmpenˈseɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "損失・損害・負傷・不利益などを埋め合わせるための補償",
+      "被害を受けた人に支払われる補償金・賠償金",
+      "労働・役務の対価として支払われる給与・賞与・福利厚生などの報酬",
+      "不便・犠牲・不足などを相殺する利益や埋め合わせ",
+      "法律上の権利侵害・収用・契約違反などに対して与えられる金銭的救済",
+      "ある作用・変化の影響を打ち消す調整・補正"
+    ],
+    "en": [
+      "something provided to make up for loss, damage, injury, or disadvantage",
+      "money paid to a person who has suffered harm or loss",
+      "salary, bonuses, benefits, and other remuneration provided in return for work",
+      "a benefit or advantage that offsets an inconvenience, sacrifice, or deficiency",
+      "monetary relief provided for infringement of a right, acquisition of property, or breach of an obligation",
+      "an adjustment that counteracts the effect of a force, condition, or change"
+    ]
+  },
+  "nuance": {
+    "ja": "compensation の中心は、損失・労働・不利益などに対して釣り合うものを与え、均衡を回復することである。事故の被害者が受け取る compensation は「補償金・賠償金」、従業員の compensation は給与・賞与・福利厚生などを含む「報酬」となる。法律用語の damages は、民事上の違法行為や契約違反について請求・認定される金銭賠償を特に指すのに対し、compensation は法律上の賠償に限らず、任意の支払、制度上の給付、労働の対価なども含み得る。reimbursement は実際に支出した費用の払い戻し、restitution は取得した利益・財産の返還や原状回復に重点がある。具体的な法的請求では、compensation、damages、restitution などを安易に置き換えるべきではない。",
+    "en": "The central idea of compensation is restoring balance by providing something corresponding to work, loss, harm, or disadvantage. Compensation received by an accident victim may be payment for injury or loss, whereas employee compensation includes remuneration such as salary, bonuses, and benefits. Damages is a more specifically legal term for monetary relief claimed or awarded for a civil wrong or breach of contract. Compensation is broader and may include voluntary payments, statutory benefits, consideration for work, and nonmonetary benefits. Reimbursement repays expenses actually incurred, while restitution emphasizes returning property or benefits or restoring the previous position. In a particular legal claim, compensation, damages, and restitution should not be treated as automatically interchangeable."
+  },
+  "minimal": {
+    "ja": [
+      "compensation：労働への報酬、または損失・被害・不利益を埋め合わせるもの。",
+      "damages：不法行為・契約違反などについて請求・認定される金銭賠償。",
+      "remuneration：労働・役務の対価として与えられる報酬を表す形式的な語。",
+      "reimbursement：本人が実際に支出した費用の払い戻し。",
+      "restitution：不当に得た財産・利益の返還、または原状回復。",
+      "indemnity：特定の損失・責任を補填する契約上または法律上の補償。",
+      "redress：不正・権利侵害を是正するための救済・補償。",
+      "benefits：給与に加えて雇用主が提供する保険・休暇・年金などの給付。"
+    ],
+    "en": [
+      "compensation is remuneration for work or something provided to offset loss, harm, or disadvantage.",
+      "damages is monetary relief claimed or awarded for a civil wrong or breach of contract.",
+      "remuneration is a formal term for payment or benefits provided in return for work or services.",
+      "reimbursement is repayment of expenses that a person has actually incurred.",
+      "restitution involves returning improperly obtained property or benefits or restoring a previous position.",
+      "indemnity is contractual or legal protection or payment against a specified loss or liability.",
+      "redress is relief or correction provided in response to a wrong or violation of rights.",
+      "benefits are insurance, leave, pensions, and other employment advantages provided in addition to salary."
+    ]
+  },
+  "etymology": {
+    "ja": "compensation はラテン語 compensatio に由来し、その基礎となる compensare は「互いに釣り合わせる、埋め合わせる」を意味した。これは com-「共に、相互に」と pensare「重さを量る、評価する」から成り、pensare は pendere「重さがある、量る」に関係する。天秤の両側を釣り合わせるという発想から、損失と利益、労働と報酬、不利益と救済を均衡させるという意味が発達した。",
+    "en": "Compensation comes from Latin compensatio, based on compensare, meaning to balance one thing against another or make up for something. Compensare combines com-, together or mutually, with pensare, to weigh or evaluate, which is related to pendere, to weigh. The image of balancing the two sides of a scale developed into the idea of balancing loss against payment, work against remuneration, or disadvantage against relief."
+  },
+  "synonyms": [
+    {
+      "word": "remuneration",
+      "note": {
+        "ja": "労働・役務・職務の対価として支払われる金銭や給付を表す形式的な語。",
+        "en": "A formal term for money or benefits provided in return for work, duties, or services."
+      }
+    },
+    {
+      "word": "damages",
+      "note": {
+        "ja": "不法行為・契約違反などによる損害について裁判上請求・認定される金銭。",
+        "en": "Money claimed or awarded through legal proceedings for loss caused by a wrong or breach."
+      }
+    },
+    {
+      "word": "reimbursement",
+      "note": {
+        "ja": "交通費・医療費・業務経費など、実際に支出した金額の払い戻し。",
+        "en": "Repayment of money actually spent on travel, medical treatment, business expenses, or another purpose."
+      }
+    },
+    {
+      "word": "indemnity",
+      "note": {
+        "ja": "契約・保険・法律などに基づき、一定の損失や責任から保護し、補填すること。",
+        "en": "Contractual, insurance-based, or legal protection or payment against a specified loss or liability."
+      }
+    },
+    {
+      "word": "redress",
+      "note": {
+        "ja": "不正・苦情・権利侵害などを是正するために与えられる救済。",
+        "en": "Relief or correction provided to remedy a wrong, grievance, or violation of rights."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Entschädigung / Vergütung / Ausgleich",
+    "it": "compensazione / risarcimento / retribuzione",
+    "fr": "indemnisation / compensation / rémunération",
+    "es": "compensación / indemnización / remuneración"
+  },
+  "collocations": {
+    "ja": [
+      "financial compensation — 金銭的補償",
+      "fair compensation — 公正な補償・報酬",
+      "adequate compensation — 十分な補償",
+      "compensation for damages — 損害に対する補償",
+      "compensation for loss of income — 逸失収入に対する補償",
+      "claim compensation — 補償を請求する",
+      "seek compensation — 補償を求める",
+      "receive compensation — 補償・報酬を受け取る",
+      "pay compensation — 補償金を支払う",
+      "award compensation — 補償金の支払いを認める",
+      "a compensation package — 給与・賞与・福利厚生を含む報酬体系",
+      "workers’ compensation — 労働者災害補償"
+    ],
+    "en": [
+      "financial compensation",
+      "fair compensation",
+      "adequate compensation",
+      "compensation for damages",
+      "compensation for loss of income",
+      "claim compensation",
+      "seek compensation",
+      "receive compensation",
+      "pay compensation",
+      "award compensation",
+      "a compensation package",
+      "workers’ compensation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The passengers received compensation for the lengthy delay. — 乗客は長時間の遅延に対する補償を受けた。",
+      "She is seeking compensation for the income she lost after the accident. — 彼女は事故後に失った収入について補償を求めている。",
+      "The company offers a competitive compensation package that includes bonuses and health insurance. — その会社は賞与と健康保険を含む競争力のある報酬体系を提供している。",
+      "No amount of financial compensation could fully make up for the damage to the historic building. — どれほど金銭的に補償しても、歴史的建造物への損害を完全に埋め合わせることはできなかった。",
+      "The patent owner sought an injunction and monetary compensation for the unauthorized use of the invention. — 特許権者は、発明の無断使用について差止命令と金銭的補償を求めた。"
+    ],
+    "en": [
+      "The passengers received compensation for the lengthy delay.",
+      "She is seeking compensation for the income she lost after the accident.",
+      "The company offers a competitive compensation package that includes bonuses and health insurance.",
+      "No amount of financial compensation could fully make up for the damage to the historic building.",
+      "The patent owner sought an injunction and monetary compensation for the unauthorized use of the invention."
+    ]
+  }
+},
+{
+  "id": "play-it-safe",
+  "sid": "2026-01537",
+  "word": "play it safe",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "idiom",
+    "verb phrase",
+    "safety",
+    "caution",
+    "risk",
+    "decision",
+    "strategy",
+    "advice",
+    "business",
+    "daily conversation",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic verb phrase",
+    "forms": {
+      "base": "play it safe",
+      "third_person": "plays it safe",
+      "past": "played it safe",
+      "past_participle": "played it safe",
+      "gerund": "playing it safe",
+      "imperative": "play it safe",
+      "comparative_expression": "play it safer"
+    },
+    "transitivity": "used as a fixed expression; it is a fixed pronoun and does not normally refer to a specific previously mentioned object",
+    "patterns": [
+      "play it safe",
+      "decide / choose to play it safe",
+      "want to play it safe",
+      "if you want to play it safe",
+      "play it safe by + gerund",
+      "play it safe and + verb",
+      "play it safe with + noun",
+      "play it safe when + clause",
+      "just to play it safe",
+      "better to play it safe"
+    ],
+    "usage": {
+      "fixed_it": "The pronoun it is normally fixed and is not replaced by another noun or pronoun: play it safe, not play the plan safe.",
+      "method": "By plus a gerund explains the cautious measure taken: play it safe by keeping a copy.",
+      "area": "With can identify the area in which caution is exercised: play it safe with your savings.",
+      "advice": "The imperative Play it safe is common advice meaning that the listener should choose the less risky option.",
+      "evaluation": "The phrase may express sensible caution or criticize an unwillingness to take worthwhile risks.",
+      "register": "It is natural in everyday and business conversation but may be replaced by take a cautious approach in formal writing.",
+      "not_play_safe": "Play safe is also used, especially in British English, but play it safe is more widely established as the complete idiom."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌpleɪ ɪt ˈseɪf/",
+      "uk": "/ˌpleɪ ɪt ˈseɪf/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "危険や失敗を避けるため、安全な方法を選ぶ",
+      "不確実な状況で慎重に行動する",
+      "念のため追加の予防措置を取る",
+      "より大きな利益よりも確実性を優先する",
+      "冒険的・斬新な選択を避けて無難な方を選ぶ",
+      "規則違反や法的問題を避けるため保守的に判断する"
+    ],
+    "en": [
+      "to choose a safe course in order to avoid danger or failure",
+      "to act cautiously in an uncertain situation",
+      "to take an additional precaution in case it is needed",
+      "to prefer certainty over the possibility of a greater benefit",
+      "to select a conventional option instead of an adventurous or innovative one",
+      "to make a conservative decision in order to avoid regulatory or legal problems"
+    ]
+  },
+  "nuance": {
+    "ja": "play it safe は、危険・損失・失敗の可能性を小さくする選択を表す。Just to play it safe の形では、「必要ないかもしれないが、念のため」という軽い予防措置を示すことが多い。一方、創造性や積極性が求められる場面で He always plays it safe. と言えば、「いつも無難な選択しかしない」という批判にもなり得る。safe を safely に変えて play it safely とは通常いわない。これは play が一般的な動作を表し、safe が選択した戦略・状態を補語として説明する固定表現だからである。法律・特許実務などの正式な文章では、take a cautious approach、adopt the less risky interpretation などの方が具体的である。",
+    "en": "Play it safe describes choosing a course that reduces the possibility of danger, loss, or failure. Just to play it safe often introduces a precaution that may not prove necessary but is considered worthwhile. The expression can be approving when caution is sensible, but He always plays it safe may criticize a person for avoiding creativity, ambition, or worthwhile risk. Safe is not normally replaced with safely in this idiom because it describes the cautious condition or strategy adopted rather than the manner of playing. In formal legal or professional writing, take a cautious approach or adopt the less risky interpretation may communicate the intended action more precisely."
+  },
+  "minimal": {
+    "ja": [
+      "play it safe：危険・失敗を避けるため、慎重で無難な選択をする。",
+      "be on the safe side：必要以上かもしれなくても、念のため慎重に行動する。",
+      "take precautions：予想される危険を防ぐため、あらかじめ対策を講じる。",
+      "err on the side of caution：迷ったときに、より慎重な方の判断を選ぶ。",
+      "take no chances：失敗や危険の可能性を残さないよう徹底して慎重に行動する。",
+      "hedge one’s bets：結果が不確かなため、複数の可能性に備えて危険を分散する。",
+      "take a risk：損失・失敗の可能性を承知で行動する。",
+      "throw caution to the wind：危険を顧みず、大胆または無謀に行動する。"
+    ],
+    "en": [
+      "play it safe means choosing a cautious and conventional course to avoid danger or failure.",
+      "be on the safe side means taking extra care even when the precaution may not be necessary.",
+      "take precautions means acting in advance to prevent an anticipated danger or problem.",
+      "err on the side of caution means choosing the more cautious option when uncertain.",
+      "take no chances means acting very carefully so that little or no risk remains.",
+      "hedge one’s bets means reducing risk by preparing for several possible outcomes.",
+      "take a risk means acting despite the possibility of loss, danger, or failure.",
+      "throw caution to the wind means acting boldly or recklessly without considering the risks."
+    ]
+  },
+  "etymology": {
+    "ja": "play it safe は、競技や賭け事で危険な戦術を避け、確実性の高い方法で play「プレーする」ことから生まれた表現と考えられる。play には競技だけでなく、状況に応じて戦略的に行動するという意味があり、play your cards right や play for time にも同じ発想が見られる。ここでの it は特定の物を指すのではなく、状況全体を漠然と受ける形式的な要素として定着している。競技上の安全策から、日常生活・仕事・金銭などで危険を避ける一般的な比喩表現へ広がった。",
+    "en": "Play it safe developed from the idea of avoiding a dangerous strategy in a game or contest and choosing a method more likely to produce a secure result. Play can describe not only participation in a game but also strategic conduct in a situation, as in play your cards right and play for time. The pronoun it does not ordinarily identify a particular object but functions as a fixed element loosely referring to the situation as a whole. The sporting or strategic image broadened into a general expression for avoiding risk in daily life, work, finance, and decision-making."
+  },
+  "synonyms": [
+    {
+      "word": "be on the safe side",
+      "note": {
+        "ja": "問題が起こる可能性が低くても、念のため追加の注意を払う。",
+        "en": "To take additional care even when the chance of a problem may be small."
+      }
+    },
+    {
+      "word": "err on the side of caution",
+      "note": {
+        "ja": "判断に迷うとき、危険の少ない慎重な選択肢を採用する。",
+        "en": "To choose the more cautious alternative when the correct decision is uncertain."
+      }
+    },
+    {
+      "word": "take precautions",
+      "note": {
+        "ja": "危険・損害・失敗を防ぐため、事前に具体的な措置を講じる。",
+        "en": "To take specific action in advance to prevent danger, loss, or failure."
+      }
+    },
+    {
+      "word": "take no chances",
+      "note": {
+        "ja": "望ましくない結果が生じないよう、危険を徹底的に避ける。",
+        "en": "To avoid risk thoroughly in order to prevent an undesirable outcome."
+      }
+    },
+    {
+      "word": "take a cautious approach",
+      "note": {
+        "ja": "慎重な方針を採用することを表す、形式的・中立的な表現。",
+        "en": "A formal and neutral expression for adopting a careful method or policy."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "auf Nummer sicher gehen",
+    "it": "andare sul sicuro",
+    "fr": "jouer la prudence / assurer ses arrières",
+    "es": "ir sobre seguro / actuar con cautela"
+  },
+  "collocations": {
+    "ja": [
+      "decide to play it safe — 安全策を取ることに決める",
+      "choose to play it safe — 無難な方法を選ぶ",
+      "want to play it safe — 大事を取りたいと思う",
+      "just to play it safe — 念のため",
+      "better to play it safe — 安全策を取る方がよい",
+      "play it safe by checking twice — 二度確認して安全を期す",
+      "play it safe and leave early — 大事を取って早めに出発する",
+      "play it safe with money — お金について慎重に行動する",
+      "play it safe with investments — 投資で安全策を取る",
+      "play it safe at work — 仕事で無難な方針を取る",
+      "always play it safe — いつも危険を避ける",
+      "refuse to play it safe — 無難な選択を拒む"
+    ],
+    "en": [
+      "decide to play it safe",
+      "choose to play it safe",
+      "want to play it safe",
+      "just to play it safe",
+      "better to play it safe",
+      "play it safe by checking twice",
+      "play it safe and leave early",
+      "play it safe with money",
+      "play it safe with investments",
+      "play it safe at work",
+      "always play it safe",
+      "refuse to play it safe"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The weather forecast is uncertain, so let’s play it safe and take an umbrella. — 天気予報がはっきりしないので、念のため傘を持っていこう。",
+      "I played it safe by keeping copies of all the important documents. — 私は大事を取って、重要な書類をすべて複製して保管した。",
+      "She usually plays it safe with her savings and avoids speculative investments. — 彼女は通常、貯蓄について安全策を取り、投機的な投資を避けている。",
+      "The director criticized the campaign for playing it too safe and failing to attract attention. — 取締役は、そのキャンペーンが無難に走りすぎて注目を集められなかったと批判した。",
+      "To play it safe, the applicant filed the amendment before the statutory deadline rather than relying on a possible extension. — 安全を期して、出願人は延長の可能性に頼らず、法定期限前に補正書を提出した。"
+    ],
+    "en": [
+      "The weather forecast is uncertain, so let’s play it safe and take an umbrella.",
+      "I played it safe by keeping copies of all the important documents.",
+      "She usually plays it safe with her savings and avoids speculative investments.",
+      "The director criticized the campaign for playing it too safe and failing to attract attention.",
+      "To play it safe, the applicant filed the amendment before the statutory deadline rather than relying on a possible extension."
+    ]
+  }
+},
+{
+  "id": "on-someones-radar",
+  "sid": "2026-01538",
+  "word": "on someone’s radar",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "idiom",
+    "prepositional phrase",
+    "awareness",
+    "attention",
+    "notice",
+    "monitoring",
+    "recognition",
+    "planning",
+    "business",
+    "technology",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic prepositional phrase",
+    "forms": {
+      "first_person": "on my radar",
+      "second_person": "on your radar",
+      "third_person": "on his / her / their radar",
+      "plural_first_person": "on our radar",
+      "negative": "not on someone’s radar",
+      "related_expression": "under the radar"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "be on someone’s radar",
+      "put something on someone’s radar",
+      "come onto someone’s radar",
+      "appear on someone’s radar",
+      "remain on someone’s radar",
+      "keep something on one’s radar",
+      "not be on someone’s radar",
+      "barely be on someone’s radar",
+      "be high on someone’s radar",
+      "bring something onto someone’s radar"
+    ],
+    "usage": {
+      "possessive": "The possessive changes with the person whose awareness is meant: on my radar, on your radar, or on the company’s radar.",
+      "article": "Use on my radar, not on the my radar.",
+      "awareness": "The phrase can mean simply being known or noticed, without implying that immediate action will be taken.",
+      "attention": "In some contexts, it suggests active interest, concern, surveillance, or consideration.",
+      "movement": "Come onto someone’s radar emphasizes first becoming noticeable or relevant.",
+      "causative": "Put something on someone’s radar means making the person aware of it.",
+      "contrast": "Under the radar means without attracting notice and is not the opposite in every context of on someone’s radar.",
+      "register": "Common in conversation, journalism, and business; be aware of or be under consideration may be preferable in very formal writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɑːn ˌsʌmwʌnz ˈreɪdɑːr/",
+      "uk": "/ˌɒn ˌsʌmwʌnz ˈreɪdɑː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人がその存在を認識している",
+      "人の注意・関心の対象になっている",
+      "将来の選択肢または検討事項に入っている",
+      "組織・当局などから監視・注目されている",
+      "重要な問題または潜在的な危険として意識されている",
+      "人物・製品・動向などが新たに知られるようになる"
+    ],
+    "en": [
+      "known or noticed by a particular person",
+      "receiving someone’s attention or interest",
+      "included among possible future choices or matters for consideration",
+      "being monitored or watched by an organization or authority",
+      "recognized as an important issue or potential risk",
+      "for a person, product, or trend, becoming newly known or noticeable"
+    ]
+  },
+  "nuance": {
+    "ja": "on someone’s radar は、レーダー画面に物体が映るイメージから、ある物事が人の認識・関心・監視の範囲に入っていることを表す。It’s on my radar. は「その存在は認識している」「検討事項には入っている」という意味であり、必ずしも優先的に対応している、詳しく知っている、採用を決定したということではない。come onto my radar は、それまで知らなかった人物・商品・問題などに初めて気づいたことを強調する。put something on someone’s radar は、情報を知らせて相手の注意を向けることを表す。警察・規制当局などを主語にすると、単なる認知よりも「監視対象になっている」という含みが強くなる。",
+    "en": "On someone’s radar draws on the image of an object appearing on a radar screen and means that something falls within a person’s awareness, interest, consideration, or monitoring. It’s on my radar may mean only that the speaker knows about it or intends to consider it; it does not necessarily mean that the matter is a priority, that the speaker knows it thoroughly, or that any decision has been made. Come onto my radar emphasizes the moment at which a previously unknown person, product, or issue becomes noticeable. Put something on someone’s radar means drawing the person’s attention to it. When the relevant observer is the police or a regulatory authority, the phrase can suggest active scrutiny rather than mere awareness."
+  },
+  "minimal": {
+    "ja": [
+      "on someone’s radar：人の認識・関心・検討・監視の範囲に入っている。",
+      "on my radar：私が存在を認識している、または検討事項に入れている。",
+      "come onto someone’s radar：それまで意識されていなかったものが注目され始める。",
+      "put something on someone’s radar：情報を知らせ、その存在に注意を向けさせる。",
+      "be aware of：ある事実・状況・存在を知っている。",
+      "keep an eye on：変化や問題がないか継続的に注意して見る。",
+      "under consideration：判断・採用などの候補として正式に検討されている。",
+      "under the radar：目立たず、注意・監視を受けないままで。"
+    ],
+    "en": [
+      "on someone’s radar means within a person’s awareness, interest, consideration, or monitoring.",
+      "on my radar means known to me or included among matters I may consider.",
+      "come onto someone’s radar means becoming noticeable to that person for the first time.",
+      "put something on someone’s radar means drawing the person’s attention to its existence.",
+      "be aware of means knowing that a fact, situation, or thing exists.",
+      "keep an eye on means watching something continuously for changes or possible problems.",
+      "under consideration means being formally examined as a possible choice or decision.",
+      "under the radar means without attracting much attention or scrutiny."
+    ]
+  },
+  "etymology": {
+    "ja": "radar は radio detection and ranging を基に1940年代に作られた頭字語で、電波を利用して物体の位置・距離などを検出する装置を指す。レーダー画面に現れた物体は認識・追跡の対象となることから、on the radar や on someone’s radar が「認識されている、注目されている」という比喩的意味を持つようになった。反対方向のイメージを持つ under the radar は、探知を避けるように目立たず行動することを表す。",
+    "en": "Radar was coined in the 1940s from radio detection and ranging and denotes a system using radio waves to detect an object’s position and distance. Because an object appearing on a radar display becomes visible and capable of being tracked, on the radar and on someone’s radar developed the figurative meanings known, noticed, or receiving attention. The related expression under the radar uses the opposite image of avoiding detection and therefore means acting without attracting notice."
+  },
+  "synonyms": [
+    {
+      "word": "be aware of",
+      "note": {
+        "ja": "ある事実・問題・人物などが存在することを認識している。",
+        "en": "To know that a particular fact, problem, person, or thing exists."
+      }
+    },
+    {
+      "word": "be under consideration",
+      "note": {
+        "ja": "選択・採用・決定の候補として、現在検討されている。",
+        "en": "To be currently examined as a possible choice, selection, or decision."
+      }
+    },
+    {
+      "word": "attract attention",
+      "note": {
+        "ja": "人・物・出来事などが周囲の注意や関心を引く。",
+        "en": "For a person, thing, or event, to cause others to notice or take an interest in it."
+      }
+    },
+    {
+      "word": "keep an eye on",
+      "note": {
+        "ja": "変化・進展・危険などを把握するため、継続的に注意して見る。",
+        "en": "To monitor something over time for developments, changes, or possible risks."
+      }
+    },
+    {
+      "word": "take note of",
+      "note": {
+        "ja": "後で考慮・対応できるよう、情報や事実に意識的に注意を払う。",
+        "en": "To pay conscious attention to information or a fact so that it can be considered later."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "auf jemandes Radar sein / jemandem bekannt sein",
+    "it": "essere nel radar di qualcuno / essere all’attenzione di qualcuno",
+    "fr": "être sur le radar de quelqu’un / être dans le collimateur de quelqu’un",
+    "es": "estar en el radar de alguien"
+  },
+  "collocations": {
+    "ja": [
+      "be on my radar — 私が認識・検討している",
+      "not be on my radar — 私の意識・検討対象に入っていない",
+      "come onto my radar — 私の注意を引くようになる",
+      "put something on my radar — 何かの存在を私に知らせる",
+      "remain on my radar — 引き続き私の関心・監視対象にある",
+      "keep something on my radar — 何かを継続して意識しておく",
+      "barely be on my radar — ほとんど意識に入っていない",
+      "be high on my radar — 私が強く意識・重視している",
+      "appear on the company’s radar — 会社から注目されるようになる",
+      "be on the authorities’ radar — 当局の監視・注目対象になっている",
+      "put a problem on management’s radar — 問題を経営陣に認識させる",
+      "come onto investors’ radar — 投資家から注目され始める"
+    ],
+    "en": [
+      "be on my radar",
+      "not be on my radar",
+      "come onto my radar",
+      "put something on my radar",
+      "remain on my radar",
+      "keep something on my radar",
+      "barely be on my radar",
+      "be high on my radar",
+      "appear on the company’s radar",
+      "be on the authorities’ radar",
+      "put a problem on management’s radar",
+      "come onto investors’ radar"
+    ]
+  },
+  "example": {
+    "ja": [
+      "That restaurant is already on my radar, but I haven’t visited it yet. — そのレストランはすでに気になっていますが、まだ行ったことはありません。",
+      "This problem wasn’t on our radar until several customers complained. — 数人の顧客から苦情が寄せられるまで、この問題は私たちの認識に入っていなかった。",
+      "Thanks for putting the conference on my radar. — その会議について知らせてくれてありがとうございます。",
+      "The small company came onto investors’ radar after announcing its new technology. — その小企業は、新技術を発表した後、投資家から注目され始めた。",
+      "The competitor’s application appeared on our radar during the trademark watch review. — その競合他社の出願は、商標監視の確認中に私たちの注意対象に入った。"
+    ],
+    "en": [
+      "That restaurant is already on my radar, but I haven’t visited it yet.",
+      "This problem wasn’t on our radar until several customers complained.",
+      "Thanks for putting the conference on my radar.",
+      "The small company came onto investors’ radar after announcing its new technology.",
+      "The competitor’s application appeared on our radar during the trademark watch review."
+    ]
+  }
+},
+{
+  "id": "low-hanging-fruit",
+  "sid": "2026-01539",
+  "word": "low-hanging fruit",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "idiom",
+    "noun phrase",
+    "easy task",
+    "opportunity",
+    "priority",
+    "strategy",
+    "efficiency",
+    "problem solving",
+    "business",
+    "technology",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic noun phrase",
+    "countability": "normally uncountable or collective",
+    "plural": "low-hanging fruit; low-hanging fruits is possible but less idiomatic",
+    "forms": {
+      "base": "low-hanging fruit",
+      "definite": "the low-hanging fruit",
+      "modified": "the lowest-hanging fruit",
+      "hyphenation": "low-hanging fruit",
+      "related_expression": "pick the low-hanging fruit"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "be low-hanging fruit",
+      "the low-hanging fruit",
+      "identify low-hanging fruit",
+      "target / pursue low-hanging fruit",
+      "pick / harvest the low-hanging fruit",
+      "focus on low-hanging fruit",
+      "start with the low-hanging fruit",
+      "go after the low-hanging fruit",
+      "the lowest-hanging fruit",
+      "once the low-hanging fruit is gone"
+    ],
+    "usage": {
+      "number": "Fruit is normally treated as an uncountable or collective noun in this idiom, so low-hanging fruit is generally preferred to low-hanging fruits.",
+      "article": "Use the low-hanging fruit when referring to the readily available opportunities in a particular situation.",
+      "hyphenation": "Low-hanging is hyphenated because the two words jointly modify fruit.",
+      "scope": "The phrase can refer to easy tasks, obvious improvements, accessible customers, vulnerable targets, or readily obtainable evidence.",
+      "evaluation": "It may recommend an efficient starting point or criticize a strategy that avoids difficult but important work.",
+      "people": "Calling people low-hanging fruit can sound dehumanizing, especially when describing victims, customers, or enforcement targets.",
+      "register": "Common in business and technology discussions but potentially clichéd; easy wins or readily achievable improvements may be clearer in formal writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌloʊ hæŋɪŋ ˈfruːt/",
+      "uk": "/ˌləʊ hæŋɪŋ ˈfruːt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "少ない労力で簡単に達成できる仕事・目標",
+      "すぐに利用でき、利益を得やすい機会",
+      "容易に実施できる改善策",
+      "最初に処理しやすい明白な問題",
+      "簡単に獲得できる顧客・市場・証拠など",
+      "攻撃・批判・摘発などの容易な標的"
+    ],
+    "en": [
+      "a task or objective that can be accomplished with relatively little effort",
+      "a readily available opportunity from which a benefit can easily be obtained",
+      "an improvement that can be implemented quickly and easily",
+      "an obvious problem that is comparatively easy to address first",
+      "customers, markets, evidence, or resources that can be obtained without much difficulty",
+      "an easy target for attack, criticism, or enforcement"
+    ]
+  },
+  "nuance": {
+    "ja": "low-hanging fruit は、木の低い位置にある果実が容易に摘めるというイメージから、最小限の労力・費用・危険で得られる成果を表す。肯定的には、限られた時間や資源の中で、まず実現しやすい改善から着手する効率的な戦略を示す。一方、The team only went after low-hanging fruit. と言えば、難しいが重要な課題を避け、簡単な仕事だけを選んだという批判になる。quick win と近いが、low-hanging fruit は成果そのものだけでなく、容易に利用できる機会や対象も指す。また、犯罪被害者や弱い立場の人をこの語で表すと、人を攻略対象のように扱う冷淡な響きになり得る。",
+    "en": "Low-hanging fruit uses the image of fruit growing low enough to be picked easily and refers to results obtainable with limited effort, cost, or risk. Positively, it describes an efficient strategy of beginning with improvements that can be achieved using available resources. Negatively, The team only went after low-hanging fruit suggests that it avoided difficult but important work and selected only easy tasks. The phrase overlaps with quick win, but low-hanging fruit can identify not only a result but also an opportunity, customer, market, source of evidence, or target that is easy to reach. Applied to victims or vulnerable people, it can sound cold or dehumanizing."
+  },
+  "minimal": {
+    "ja": [
+      "low-hanging fruit：少ない労力で利用・達成できる機会、課題、対象。",
+      "quick win：短期間かつ比較的容易に得られる明確な成果。",
+      "easy target：攻撃・批判・詐欺などの対象にしやすい人・物。",
+      "easy pickings：ほとんど苦労せず獲得・利用できる物や機会。口語的。",
+      "obvious choice：選択肢の中で明らかに合理的・自然に見えるもの。",
+      "first step：より長い過程を始めるために最初に行う措置。",
+      "easy fix：簡単かつ迅速に実施できる問題の修正。",
+      "priority：他の事項より先に注意・資源を向けるべき重要事項。"
+    ],
+    "en": [
+      "low-hanging fruit is an opportunity, task, or target accessible with relatively little effort.",
+      "a quick win is a clear positive result achievable comparatively easily and within a short time.",
+      "an easy target is a person or thing particularly vulnerable to attack, criticism, or deception.",
+      "easy pickings informally refers to things or opportunities obtainable with almost no difficulty.",
+      "an obvious choice is an option that appears clearly reasonable or natural among the alternatives.",
+      "a first step is the initial action in a longer process.",
+      "an easy fix is a correction that can be made quickly and without much difficulty.",
+      "a priority is an important matter that should receive attention or resources before others."
+    ]
+  },
+  "etymology": {
+    "ja": "low-hanging fruit は、果樹の低い枝に実った果実なら、はしごに上ったり高い枝へ手を伸ばしたりせず容易に収穫できるという農作業上の比喩に基づく。そこから、最初に手に入れやすい利益・機会・成果を表すようになった。pick the low-hanging fruit や harvest the low-hanging fruit では、比喩の元になった「果実を摘む」という動作が明示されている。現在では特にビジネス、政策、技術開発、問題解決の文脈で広く使われるが、頻用されるため決まり文句に聞こえることもある。",
+    "en": "Low-hanging fruit is based on the practical image of fruit growing on the lower branches of a tree, where it can be collected without climbing a ladder or reaching into the higher branches. It consequently became a metaphor for benefits, opportunities, and results that are easiest to obtain first. Expressions such as pick the low-hanging fruit and harvest the low-hanging fruit preserve the literal action underlying the metaphor. It is now especially common in business, policy, technology, and problem-solving contexts, although frequent use can make it sound clichéd."
+  },
+  "synonyms": [
+    {
+      "word": "quick win",
+      "note": {
+        "ja": "短期間に比較的少ない労力で実現でき、目に見える効果をもたらす成果。",
+        "en": "A visible positive result that can be achieved in a short time with comparatively little effort."
+      }
+    },
+    {
+      "word": "easy pickings",
+      "note": {
+        "ja": "ほとんど努力せず容易に獲得・利用できる物・利益・対象を表す口語表現。",
+        "en": "An informal expression for things, benefits, or targets obtainable with very little effort."
+      }
+    },
+    {
+      "word": "easy target",
+      "note": {
+        "ja": "攻撃・批判・摘発・欺罔などの対象にすることが容易な人・物。",
+        "en": "A person or thing that can readily be attacked, criticized, prosecuted, or deceived."
+      }
+    },
+    {
+      "word": "easy fix",
+      "note": {
+        "ja": "問題を解消するため、迅速かつ容易に実施できる修正・解決策。",
+        "en": "A correction or solution that can be implemented quickly and without much difficulty."
+      }
+    },
+    {
+      "word": "readily achievable goal",
+      "note": {
+        "ja": "利用可能な時間・資源・能力で無理なく達成できる目標を表す中立的な表現。",
+        "en": "A neutral expression for an objective achievable without difficulty using available time and resources."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "leicht erreichbares Ziel / niedrig hängende Früchte",
+    "it": "obiettivo facile / frutto a portata di mano",
+    "fr": "objectif facile à atteindre / fruit à portée de main",
+    "es": "objetivo fácil / fruta al alcance de la mano"
+  },
+  "collocations": {
+    "ja": [
+      "identify low-hanging fruit — 容易に成果を得られる対象を特定する",
+      "target low-hanging fruit — 容易な対象に狙いを定める",
+      "pursue low-hanging fruit — 達成しやすい機会を追求する",
+      "pick the low-hanging fruit — 簡単に得られる成果を先に取る",
+      "harvest the low-hanging fruit — 容易に得られる利益を回収する",
+      "focus on low-hanging fruit — 容易な課題・機会に集中する",
+      "start with the low-hanging fruit — 取り組みやすい課題から始める",
+      "go after the low-hanging fruit — 容易な標的・成果を狙う",
+      "the lowest-hanging fruit — 最も容易に得られる成果",
+      "obvious low-hanging fruit — 誰の目にも明らかな容易な改善対象",
+      "eliminate the low-hanging fruit — 容易に解決できる問題を取り除く",
+      "once the low-hanging fruit is gone — 容易な機会を使い尽くした後で"
+    ],
+    "en": [
+      "identify low-hanging fruit",
+      "target low-hanging fruit",
+      "pursue low-hanging fruit",
+      "pick the low-hanging fruit",
+      "harvest the low-hanging fruit",
+      "focus on low-hanging fruit",
+      "start with the low-hanging fruit",
+      "go after the low-hanging fruit",
+      "the lowest-hanging fruit",
+      "obvious low-hanging fruit",
+      "eliminate the low-hanging fruit",
+      "once the low-hanging fruit is gone"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Let’s start with the low-hanging fruit before tackling the more complicated problems. — もっと複雑な問題に取り組む前に、まず簡単に解決できる課題から始めよう。",
+      "Reducing unnecessary printing is low-hanging fruit for cutting office costs. — 不要な印刷を減らすことは、事務所の経費削減において手軽に実現できる改善策である。",
+      "The campaign initially focused on low-hanging fruit in markets where the brand was already well known. — そのキャンペーンは当初、ブランドがすでによく知られている市場という、成果を得やすい対象に集中した。",
+      "Management was criticized for picking the low-hanging fruit while ignoring deeper structural problems. — 経営陣は、根深い構造的問題を無視して簡単な課題だけを処理したと批判された。",
+      "Correcting obvious clerical errors may be low-hanging fruit, but assessing inventive step requires a substantive analysis of the prior art. — 明白な事務的誤りの訂正は容易な課題かもしれないが、進歩性の判断には先行技術の実質的な分析が必要である。"
+    ],
+    "en": [
+      "Let’s start with the low-hanging fruit before tackling the more complicated problems.",
+      "Reducing unnecessary printing is low-hanging fruit for cutting office costs.",
+      "The campaign initially focused on low-hanging fruit in markets where the brand was already well known.",
+      "Management was criticized for picking the low-hanging fruit while ignoring deeper structural problems.",
+      "Correcting obvious clerical errors may be low-hanging fruit, but assessing inventive step requires a substantive analysis of the prior art."
+    ]
+  }
+},
+{
+  "id": "easy-pickings",
+  "sid": "2026-01540",
+  "word": "easy pickings",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "idiom",
+    "plural noun",
+    "easy target",
+    "opportunity",
+    "profit",
+    "exploitation",
+    "crime",
+    "competition",
+    "business",
+    "informal",
+    "disapproving",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic plural noun phrase",
+    "countability": "plural in form; used collectively",
+    "plural": "easy pickings",
+    "forms": {
+      "base": "easy pickings",
+      "singular": "not normally used",
+      "definite": "the easy pickings",
+      "related_verb": "pick",
+      "related_expression": "be easy pickings for + person / group"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "be easy pickings",
+      "be easy pickings for + person / group",
+      "look like easy pickings",
+      "regard someone as easy pickings",
+      "make someone easy pickings",
+      "leave someone as easy pickings",
+      "go after easy pickings",
+      "search / look for easy pickings",
+      "the easy pickings are gone",
+      "no longer be easy pickings"
+    ],
+    "usage": {
+      "fixed_plural": "Pickings is fixed in the plural in this idiom; easy picking is not the standard equivalent.",
+      "agreement": "When easy pickings is the grammatical subject, plural agreement is usual: The easy pickings are gone.",
+      "predicate": "The phrase often follows be or look: The inexperienced customers were easy pickings.",
+      "preposition": "For identifies the person or group able to exploit the opportunity: easy pickings for scammers.",
+      "people": "When applied to people, the phrase presents them as vulnerable targets and can sound harsh or dehumanizing.",
+      "opportunity": "It can also refer to money, goods, customers, evidence, or opportunities obtainable with little effort.",
+      "register": "It is informal and often disapproving; readily obtainable opportunities or vulnerable targets is more suitable in formal writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌiːzi ˈpɪkɪŋz/",
+      "uk": "/ˌiːzi ˈpɪkɪŋz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ほとんど苦労せず容易に手に入れられる利益・金品",
+      "競争相手などが簡単に獲得できる機会・顧客・市場",
+      "犯罪者・詐欺師などにとって狙いやすい人・物",
+      "簡単に攻撃・打倒・批判できる相手",
+      "容易に発見・収集・利用できる情報や証拠",
+      "すでに条件が整っており、すぐ成果につながる対象"
+    ],
+    "en": [
+      "money, goods, or benefits obtainable with almost no difficulty",
+      "opportunities, customers, or markets that a competitor can easily capture",
+      "people or property that criminals or fraudsters can easily target",
+      "an opponent who can easily be attacked, defeated, or criticized",
+      "information or evidence that can readily be discovered, collected, or used",
+      "something already accessible and likely to produce an immediate result"
+    ]
+  },
+  "nuance": {
+    "ja": "easy pickings は、簡単に拾い集められる物や戦利品というイメージから、「ほとんど抵抗や努力なしに獲得できる対象」を表す。人について使うと、詐欺師・犯罪者・強い競争相手などから容易に利用・攻撃される弱い標的という意味になり、かなり否定的である。物・利益・市場について使う場合も、機会を利用する側の視点が前面に出る。low-hanging fruit は効率的に着手できる課題や改善策を比較的中立的に表せるが、easy pickings は「楽に奪える獲物・利益」という含みを帯びやすい。また、pickings are slim は「得られる利益・選択肢が乏しい」という別の関連表現である。",
+    "en": "Easy pickings evokes things or spoils that can be gathered with little effort and refers to a target obtainable with minimal resistance or difficulty. Applied to people, it often means vulnerable victims who can readily be exploited or attacked by scammers, criminals, or stronger competitors, making the expression distinctly negative. Applied to goods, profits, or markets, it still foregrounds the perspective of the person seeking to take advantage of an opportunity. Low-hanging fruit can neutrally describe efficient improvements or manageable tasks, whereas easy pickings more readily suggests prey, exploitation, or effortless gain. The related expression pickings are slim separately means that few worthwhile opportunities or choices are available."
+  },
+  "minimal": {
+    "ja": [
+      "easy pickings：ほとんど抵抗や努力なしに獲得・利用できる利益、物、標的。",
+      "low-hanging fruit：少ない労力で達成・利用できる課題や機会。",
+      "easy target：攻撃・批判・詐欺などの対象にしやすい人・物。",
+      "soft target：防御が弱く、攻撃や犯罪の標的にしやすい人・施設。",
+      "sitting duck：危険にさらされているのに、防御や逃走が困難な人・物。",
+      "prey：他の動物に捕食される獲物、または悪人に利用される被害者。",
+      "quick win：短期間かつ少ない労力で得られる明確な成果。",
+      "pickings are slim：得られる利益・仕事・選択肢などがほとんどない。"
+    ],
+    "en": [
+      "easy pickings are profits, things, or targets obtainable with almost no effort or resistance.",
+      "low-hanging fruit is a task or opportunity that can be addressed or used with relatively little effort.",
+      "an easy target is a person or thing particularly vulnerable to attack, criticism, or fraud.",
+      "a soft target is a poorly protected person or place particularly vulnerable to attack or crime.",
+      "a sitting duck is someone or something exposed to danger and unable to defend itself or escape.",
+      "prey is an animal hunted for food or a person exploited by someone predatory.",
+      "a quick win is a clear positive result achievable quickly and with comparatively little effort.",
+      "pickings are slim means that few worthwhile profits, jobs, opportunities, or choices are available."
+    ]
+  },
+  "etymology": {
+    "ja": "pickings は動詞 pick「摘む、選び取る、拾う」から生じた複数名詞で、拾い集めた物、得られる利益、戦利品などを表す。easy pickings は、地面や手の届く場所にある物を苦労せず拾い集めるイメージから、「簡単に獲得できる利益・獲物」という意味になった。pick 自体は中英語期から使われ、先のとがった道具で突く、少量ずつ取り出す、選び取るなどの意味を発達させた。この表現では、価値あるものを選んで自分のものにするという意味が基礎になっている。",
+    "en": "Pickings is a plural noun derived from pick and can refer to things gathered, obtainable profits, or spoils. Easy pickings developed from the image of collecting accessible objects without difficulty and consequently came to mean profits, goods, or prey that can readily be taken. Pick has been used since Middle English and developed senses including piercing with a pointed tool, removing something in small portions, and selecting or gathering particular items. The idiom is based principally on the sense of selecting and taking valuable things for oneself."
+  },
+  "synonyms": [
+    {
+      "word": "easy target",
+      "note": {
+        "ja": "攻撃・批判・犯罪・詐欺などの対象にすることが容易な人・物。",
+        "en": "A person or thing particularly easy to attack, criticize, defraud, or otherwise exploit."
+      }
+    },
+    {
+      "word": "soft target",
+      "note": {
+        "ja": "警備・防御・抵抗力が弱く、攻撃者が容易に狙える人・施設。",
+        "en": "A person or place with weak protection or defenses and therefore vulnerable to attack."
+      }
+    },
+    {
+      "word": "sitting duck",
+      "note": {
+        "ja": "危険にさらされながら、逃げたり身を守ったりすることが難しい人・物。",
+        "en": "A person or thing exposed to danger with little ability to escape or defend itself."
+      }
+    },
+    {
+      "word": "low-hanging fruit",
+      "note": {
+        "ja": "少ない労力・費用・危険で利用または達成できる機会・課題。",
+        "en": "An opportunity or task that can be used or accomplished with little effort, cost, or risk."
+      }
+    },
+    {
+      "word": "easy prey",
+      "note": {
+        "ja": "捕食者・犯罪者・悪質業者などに簡単に利用される弱い相手。",
+        "en": "A vulnerable person or creature that a predator, criminal, or exploiter can readily take advantage of."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "leichte Beute / leichtes Spiel",
+    "it": "facile preda / un gioco da ragazzi",
+    "fr": "une proie facile / du gâteau",
+    "es": "presa fácil / blanco fácil"
+  },
+  "collocations": {
+    "ja": [
+      "be easy pickings — 容易な獲物・利益である",
+      "be easy pickings for scammers — 詐欺師の格好の餌食になる",
+      "be easy pickings for thieves — 泥棒に簡単に狙われる",
+      "look like easy pickings — 容易な標的に見える",
+      "regard someone as easy pickings — 人を簡単に利用できる相手とみなす",
+      "make someone easy pickings — 人を無防備で狙いやすい状態にする",
+      "leave something as easy pickings — 物を簡単に奪われる状態に放置する",
+      "go after easy pickings — 容易な獲物・利益を狙う",
+      "look for easy pickings — 楽に得られる利益を探す",
+      "the easy pickings are gone — 簡単に得られる利益はもう残っていない",
+      "no longer be easy pickings — もはや簡単な標的ではない",
+      "treat customers as easy pickings — 顧客を簡単に搾取できる相手として扱う"
+    ],
+    "en": [
+      "be easy pickings",
+      "be easy pickings for scammers",
+      "be easy pickings for thieves",
+      "look like easy pickings",
+      "regard someone as easy pickings",
+      "make someone easy pickings",
+      "leave something as easy pickings",
+      "go after easy pickings",
+      "look for easy pickings",
+      "the easy pickings are gone",
+      "no longer be easy pickings",
+      "treat customers as easy pickings"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The unlocked bicycles were easy pickings for thieves. — 鍵の掛かっていない自転車は、泥棒にとって格好の獲物だった。",
+      "People who reuse simple passwords can become easy pickings for online criminals. — 単純なパスワードを使い回す人は、オンライン犯罪者の容易な標的になり得る。",
+      "The company entered the market expecting easy pickings but encountered strong local competition. — その会社は簡単に利益を得られると期待して市場へ参入したが、地元企業との激しい競争に直面した。",
+      "Once the easy pickings were gone, the team had to address the more complicated cases. — 容易に処理できる案件がなくなると、チームはより複雑な案件に取り組まなければならなかった。",
+      "A trademark owner should not pursue only easy pickings while ignoring large-scale infringements that require a coordinated enforcement strategy. — 商標権者は、組織的な権利行使戦略を必要とする大規模侵害を放置して、容易な案件だけを追及すべきではない。"
+    ],
+    "en": [
+      "The unlocked bicycles were easy pickings for thieves.",
+      "People who reuse simple passwords can become easy pickings for online criminals.",
+      "The company entered the market expecting easy pickings but encountered strong local competition.",
+      "Once the easy pickings were gone, the team had to address the more complicated cases.",
+      "A trademark owner should not pursue only easy pickings while ignoring large-scale infringements that require a coordinated enforcement strategy."
+    ]
+  }
+},
+{
+  "id": "move-the-needle",
+  "sid": "2026-01541",
+  "word": "move the needle",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "idiom",
+    "verb phrase",
+    "change",
+    "impact",
+    "progress",
+    "performance",
+    "measurement",
+    "strategy",
+    "management",
+    "marketing",
+    "business",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "idiomatic verb phrase",
+    "forms": {
+      "base": "move the needle",
+      "third_person": "moves the needle",
+      "past": "moved the needle",
+      "past_participle": "moved the needle",
+      "gerund": "moving the needle",
+      "negative": "not move the needle",
+      "question": "Will it move the needle?"
+    },
+    "transitivity": "transitive in its literal structure; normally used as a fixed idiomatic phrase",
+    "patterns": [
+      "move the needle",
+      "really / actually move the needle",
+      "significantly move the needle",
+      "do little to move the needle",
+      "fail to move the needle",
+      "help move the needle",
+      "move the needle on + issue / metric",
+      "move the needle toward + goal",
+      "move the needle in the right direction",
+      "something that moves the needle"
+    ],
+    "usage": {
+      "fixed_article": "The definite article is normally fixed: move the needle, not move a needle.",
+      "meaningful_change": "The phrase generally implies a noticeable or measurable change rather than a merely symbolic action.",
+      "preposition_on": "On identifies the issue, performance measure, or problem affected: move the needle on productivity.",
+      "direction": "Toward or in a particular direction identifies the desired movement: move the needle toward profitability.",
+      "negative": "It is especially common in negative statements questioning whether an action has meaningful impact.",
+      "measurement": "The expression does not require a literal numerical metric, although it is particularly natural when results can be measured.",
+      "register": "Common in business, marketing, and policy discussions but potentially clichéd; produce a measurable improvement is clearer in formal writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌmuːv ðə ˈniːdəl/",
+      "uk": "/ˌmuːv ðə ˈniːdəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "目に見える、または測定可能な変化を生じさせる",
+      "業績・指標・状況を有意に改善する",
+      "目標達成に向けて実質的な進展をもたらす",
+      "人々の意見・行動・支持率などに影響を与える",
+      "単なる活動にとどまらず、重要な成果につなげる",
+      "悪い方向を含め、指標や状況を明確に変動させる"
+    ],
+    "en": [
+      "to produce a noticeable or measurable change",
+      "to improve performance, a metric, or a situation significantly",
+      "to create substantive progress toward a goal",
+      "to influence people’s opinions, behavior, or level of support",
+      "to produce an important result rather than merely perform an activity",
+      "to cause a clear change in a metric or situation, including potentially in an undesirable direction"
+    ]
+  },
+  "nuance": {
+    "ja": "move the needle は、計器の針が動いて数値の変化を示すイメージから、施策・投資・発言などが無視できない実質的効果を生むことを表す。単に何かを実行したことではなく、売上、認知度、生産性、支持率などの結果が目に見えて変わったかに焦点がある。This won’t move the needle. は「多少の効果はあっても、全体を変えるほどではない」という意味になりやすい。通常は改善を期待する文脈で使われるが、move the needle in the wrong direction のように悪化にも使える。業務上は便利な表現だが頻用される決まり文句でもあるため、正式な報告書では increase sales materially や produce a measurable improvement のように、変化する指標と程度を明示する方が正確である。",
+    "en": "Move the needle draws on the image of an instrument needle shifting to indicate a change in measurement. It therefore describes a policy, investment, statement, or action producing an effect substantial enough to notice or measure. The focus is not merely on performing an activity but on changing an outcome such as sales, awareness, productivity, or public support. This won’t move the needle usually suggests that an action may have some effect but not enough to alter the overall result meaningfully. Although commonly associated with improvement, the phrase can also describe deterioration, as in move the needle in the wrong direction. Because it is a frequent business expression, formal reports may be more precise if they identify the metric and degree of change directly."
+  },
+  "minimal": {
+    "ja": [
+      "move the needle：指標・業績・状況に目立つほど実質的な変化を生じさせる。",
+      "make a difference：結果・状況・人に重要な影響を与える。",
+      "have an impact：人・物・状況に効果や影響を及ぼす。",
+      "make progress：目標・完成・改善に向かって前進する。",
+      "gain traction：案・製品・運動などが支持・勢い・実効性を得始める。",
+      "turn things around：悪い状況・業績を改善方向へ大きく転換する。",
+      "be a game changer：状況・競争のあり方を根本的に変える要因となる。",
+      "produce measurable results：数値などで確認できる成果を生み出す。"
+    ],
+    "en": [
+      "move the needle means producing a noticeable or measurable change in performance or a situation.",
+      "make a difference means having an important effect on a result, situation, or person.",
+      "have an impact means producing an effect or influence on someone or something.",
+      "make progress means moving toward a goal, completion, or improvement.",
+      "gain traction means beginning to obtain support, momentum, acceptance, or practical effectiveness.",
+      "turn things around means changing a poor situation or performance substantially for the better.",
+      "be a game changer means fundamentally altering a situation or the nature of competition.",
+      "produce measurable results means creating outcomes that can be demonstrated through figures or other evidence."
+    ]
+  },
+  "etymology": {
+    "ja": "move the needle は、速度計・圧力計・音量計などの計器で、測定値が変化すると針が動くことに基づく比喩である。入力が小さすぎれば針は目に見えるほど動かないため、針を動かすことが「測定できるほど大きな変化を起こす」という意味になった。レコードプレーヤーの針との関連を挙げる説明もあるが、現代の用法は一般に計器・測定装置の針を想起させる。現在では特に経 Leah? 営、マーケティング、政策評価など、成果を指標で測る分野で用いられる。",
+    "en": "Move the needle is based on the needle of a measuring instrument, such as a speedometer, pressure gauge, or level meter, shifting when the measured value changes. If an input is too small, the needle does not move visibly, so moving it became a metaphor for causing a change large enough to be measured or noticed. Some explanations also associate the expression with a record-player needle, but present usage generally evokes the indicator of a gauge or measuring device. It is now especially common in management, marketing, and policy evaluation, where performance is tracked through metrics."
+  },
+  "synonyms": [
+    {
+      "word": "make a difference",
+      "note": {
+        "ja": "行動・人物・要因などが結果や状況に重要な影響を与える。",
+        "en": "For an action, person, or factor, to have an important effect on an outcome or situation."
+      }
+    },
+    {
+      "word": "have an impact",
+      "note": {
+        "ja": "人・判断・業績・状況などに明確な効果や影響を及ぼす。",
+        "en": "To produce a clear effect or influence on a person, decision, performance, or situation."
+      }
+    },
+    {
+      "word": "make headway",
+      "note": {
+        "ja": "困難がある中でも、解決・完成・目標に向かって着実に前進する。",
+        "en": "To make steady progress toward a solution, completion, or goal despite difficulty."
+      }
+    },
+    {
+      "word": "gain traction",
+      "note": {
+        "ja": "考え・製品・運動などが徐々に支持・勢い・実用性を得る。",
+        "en": "For an idea, product, or movement, to begin gaining support, momentum, or practical effectiveness."
+      }
+    },
+    {
+      "word": "produce measurable results",
+      "note": {
+        "ja": "数値・データ・その他の証拠で確認できる具体的な成果を生む。",
+        "en": "To create concrete outcomes demonstrable through figures, data, or other evidence."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "spürbar etwas verändern / eine messbare Wirkung erzielen",
+    "it": "fare una differenza concreta / produrre un cambiamento misurabile",
+    "fr": "faire bouger les lignes / produire un effet mesurable",
+    "es": "marcar una diferencia / producir un cambio apreciable"
+  },
+  "collocations": {
+    "ja": [
+      "really move the needle — 本当に大きな変化をもたらす",
+      "actually move the needle — 実際に成果を変化させる",
+      "significantly move the needle — 指標を大幅に動かす",
+      "barely move the needle — ほとんど変化を生じさせない",
+      "fail to move the needle — 意味のある成果を出せない",
+      "help move the needle — 状況の実質的変化に寄与する",
+      "move the needle on sales — 売上を目に見えて変化させる",
+      "move the needle on productivity — 生産性を実質的に改善する",
+      "move the needle on public opinion — 世論を明確に動かす",
+      "move the needle toward profitability — 黒字化に向けて前進させる",
+      "move the needle in the right direction — 指標を望ましい方向へ動かす",
+      "move the needle in the wrong direction — 指標を悪い方向へ動かす"
+    ],
+    "en": [
+      "really move the needle",
+      "actually move the needle",
+      "significantly move the needle",
+      "barely move the needle",
+      "fail to move the needle",
+      "help move the needle",
+      "move the needle on sales",
+      "move the needle on productivity",
+      "move the needle on public opinion",
+      "move the needle toward profitability",
+      "move the needle in the right direction",
+      "move the needle in the wrong direction"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The small discount did little to move the needle on sales. — そのわずかな値引きでは、売上をほとんど動かせなかった。",
+      "We need an initiative that will actually move the needle on productivity. — 生産性を実際に大きく改善する施策が必要だ。",
+      "The campaign attracted attention but failed to move the needle in the opinion polls. — その運動は注目を集めたものの、世論調査の数値を動かすことはできなかった。",
+      "Automating repetitive tasks could move the needle toward profitability. — 反復作業を自動化すれば、黒字化に向けて実質的に前進できる可能性がある。",
+      "The additional experimental data moved the needle by materially strengthening the applicant’s argument for inventive step. — 追加の実験データは、進歩性に関する出願人の主張を実質的に補強し、審査の行方を動かした。"
+    ],
+    "en": [
+      "The small discount did little to move the needle on sales.",
+      "We need an initiative that will actually move the needle on productivity.",
+      "The campaign attracted attention but failed to move the needle in the opinion polls.",
+      "Automating repetitive tasks could move the needle toward profitability.",
+      "The additional experimental data moved the needle by materially strengthening the applicant’s argument for inventive step."
+    ]
+  }
+},
+{
+  "id": "be-aware-of",
+  "sid": "2026-01542",
+  "word": "be aware of",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "adjective phrase",
+    "awareness",
+    "knowledge",
+    "attention",
+    "recognition",
+    "perception",
+    "warning",
+    "risk",
+    "business",
+    "legal",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective phrase",
+    "forms": {
+      "base": "be aware of",
+      "present": "am / is / are aware of",
+      "past": "was / were aware of",
+      "perfect": "have / has been aware of",
+      "gerund": "being aware of",
+      "adjective": "aware",
+      "noun": "awareness",
+      "negative": "be unaware of"
+    },
+    "transitivity": "not applicable; aware is an adjective followed by of plus a noun, pronoun, or gerund",
+    "patterns": [
+      "be aware of + noun",
+      "be aware of + pronoun",
+      "be aware of + gerund",
+      "be aware that + clause",
+      "become aware of + noun",
+      "make someone aware of + noun",
+      "remain aware of + noun",
+      "be fully / well aware of",
+      "be keenly / acutely aware of",
+      "as far as someone is aware"
+    ],
+    "usage": {
+      "preposition": "Use aware of before a noun, pronoun, or gerund: aware of the risk and aware of being watched.",
+      "clause": "Before a complete clause, omit of and use aware that: I am aware that the deadline has passed.",
+      "linking_verb": "Aware is normally used after be, become, seem, remain, or another linking verb rather than directly before a noun.",
+      "attributive_use": "An aware person is possible in limited contexts, but an aware customer or an aware problem is usually unnatural; use an informed customer or a known problem where appropriate.",
+      "degree": "Common modifiers include fully, well, keenly, painfully, and acutely.",
+      "knowledge": "Being aware of something may mean merely knowing that it exists and does not necessarily imply detailed understanding.",
+      "warning": "Be aware of can introduce a warning, but beware of is stronger and specifically advises caution against danger."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/bi əˈwer əv/",
+      "uk": "/bi əˈweər əv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "事実・問題・状況などが存在することを知っている",
+      "危険・可能性・影響などを認識している",
+      "周囲の人・物・変化などに気づいている",
+      "自分の感情・行動・責任などを自覚している",
+      "規則・条件・期限などについて承知している",
+      "知覚を通じて何かの存在を感じ取っている"
+    ],
+    "en": [
+      "to know that a fact, problem, or situation exists",
+      "to recognize a risk, possibility, or consequence",
+      "to notice people, objects, or changes in one’s surroundings",
+      "to recognize one’s own feelings, conduct, or responsibilities",
+      "to know about a rule, condition, or deadline",
+      "to perceive the presence of something through the senses"
+    ]
+  },
+  "nuance": {
+    "ja": "be aware of は、何かの存在・事実・重要性が意識に入っていることを表す。know よりも、問題・危険・周囲の状況へ注意を向けているという含みを持ちやすい。ただし I’m aware of the problem. は「その問題があることは知っている」というだけで、原因や解決策まで詳しく理解しているとは限らない。of の後には名詞・代名詞・動名詞を置き、完全な節なら be aware that ... とする。make someone aware of ... は「人に認識させる・知らせる」、become aware of ... は「気づくようになる」を表す。命令形 Be aware of ... は注意を促すが、Beware of ... ほど強い危険警告ではない。",
+    "en": "Be aware of means that the existence, truth, or importance of something has entered a person’s consciousness. Compared with know, it more readily suggests attention to a problem, risk, or surrounding condition. However, I’m aware of the problem may mean only that the speaker knows it exists and does not establish detailed understanding of its cause or solution. Of is followed by a noun, pronoun, or gerund, while a complete clause normally follows aware that. Make someone aware of means bringing something to that person’s attention, and become aware of describes beginning to notice or recognize it. The imperative Be aware of offers caution, but it is generally less forceful than Beware of."
+  },
+  "minimal": {
+    "ja": [
+      "be aware of：事実・問題・危険などの存在を知り、認識している。",
+      "know：事実・情報を知っていることを最も広く表す。",
+      "be conscious of：事実・感情・周囲の状況などを意識している。",
+      "be mindful of：影響・必要性・相手の事情などを忘れず配慮する。",
+      "notice：見聞きした変化・物・出来事に気づく。",
+      "realize：それまで十分理解していなかった事実をはっきり認識する。",
+      "be familiar with：対象について経験または知識があり、よく知っている。",
+      "beware of：危険な人・物・状況を警戒するよう強く注意する。"
+    ],
+    "en": [
+      "be aware of means knowing or recognizing that a fact, problem, or risk exists.",
+      "know is the broadest verb for possessing information or knowledge about something.",
+      "be conscious of means actively noticing a fact, feeling, or surrounding condition.",
+      "be mindful of means remembering and giving proper consideration to an effect, need, or circumstance.",
+      "notice means becoming aware of something through observation or attention.",
+      "realize means clearly understanding a fact that was not previously fully recognized.",
+      "be familiar with means having enough experience or knowledge to know something well.",
+      "beware of strongly warns someone to remain cautious about a dangerous person, thing, or situation."
+    ]
+  },
+  "etymology": {
+    "ja": "aware は古英語 gewær「用心している、気づいている」に由来し、警戒・注意を表す wary と同族である。語頭の要素が次第に弱まり、現代英語の aware という形になった。もともとは危険に備えて注意している状態を強く表したが、後に意味が広がり、事実・状況・感覚などを単に認識していることにも使われるようになった。名詞 awareness は aware に状態を表す接尾辞 -ness を加えた語である。",
+    "en": "Aware developed from Old English gewær, meaning cautious, watchful, or conscious, and is related to wary. The initial element weakened over time, producing the modern form aware. The word originally emphasized being watchful against possible danger, but its meaning broadened to include recognizing or perceiving facts, situations, feelings, and surrounding conditions. The noun awareness was formed from aware with the suffix -ness, which denotes a state or quality."
+  },
+  "synonyms": [
+    {
+      "word": "be conscious of",
+      "note": {
+        "ja": "事実・感覚・感情・周囲の状況などが自分の意識にある。",
+        "en": "To have a fact, sensation, feeling, or surrounding condition actively present in one’s mind."
+      }
+    },
+    {
+      "word": "know about",
+      "note": {
+        "ja": "出来事・人物・問題などに関する情報を持っている。",
+        "en": "To possess information concerning an event, person, problem, or subject."
+      }
+    },
+    {
+      "word": "be mindful of",
+      "note": {
+        "ja": "影響・危険・他人の事情などを忘れず、判断や行動で配慮する。",
+        "en": "To remember and take proper account of an effect, risk, or another person’s circumstances."
+      }
+    },
+    {
+      "word": "recognize",
+      "note": {
+        "ja": "事実・問題・重要性などを認め、明確に理解する。",
+        "en": "To acknowledge and clearly understand a fact, problem, significance, or quality."
+      }
+    },
+    {
+      "word": "be informed of",
+      "note": {
+        "ja": "通知・説明などを受け、特定の事実について正式に知らされている。",
+        "en": "To have been formally told or notified about a particular fact or development."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "sich einer Sache bewusst sein / von etwas wissen",
+    "it": "essere consapevole di",
+    "fr": "être conscient de / avoir connaissance de",
+    "es": "ser consciente de / tener conocimiento de"
+  },
+  "collocations": {
+    "ja": [
+      "be aware of the problem — 問題を認識している",
+      "be aware of the risk — 危険を認識している",
+      "be aware of the consequences — 結果を承知している",
+      "be aware of the difference — 違いを認識している",
+      "be aware of one’s surroundings — 周囲の状況に注意を払っている",
+      "be aware of being watched — 見られていることに気づいている",
+      "be fully aware of — ～を十分承知している",
+      "be well aware of — ～をよく承知している",
+      "be keenly aware of — ～を強く意識している",
+      "be painfully aware of — ～を痛切に認識している",
+      "become aware of — ～に気づくようになる",
+      "make someone aware of — 人に～を知らせ、認識させる"
+    ],
+    "en": [
+      "be aware of the problem",
+      "be aware of the risk",
+      "be aware of the consequences",
+      "be aware of the difference",
+      "be aware of one’s surroundings",
+      "be aware of being watched",
+      "be fully aware of",
+      "be well aware of",
+      "be keenly aware of",
+      "be painfully aware of",
+      "become aware of",
+      "make someone aware of"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Are you aware of the changes to the train schedule? — 列車の時刻表が変更されたことをご存じですか。",
+      "Drivers should always be aware of cyclists around them. — 運転者は常に周囲の自転車に注意を払うべきだ。",
+      "I was aware of the problem, but I did not realize how serious it was. — 私はその問題の存在は知っていたが、それほど深刻だとは認識していなかった。",
+      "Please be aware that additional charges may apply. — 追加料金が発生する場合があることにご留意ください。",
+      "The applicant must be aware of the risk that a public disclosure made before filing could affect patentability. — 出願人は、出願前の公表が特許性に影響を及ぼし得る危険を認識しておかなければならない。"
+    ],
+    "en": [
+      "Are you aware of the changes to the train schedule?",
+      "Drivers should always be aware of cyclists around them.",
+      "I was aware of the problem, but I did not realize how serious it was.",
+      "Please be aware that additional charges may apply.",
+      "The applicant must be aware of the risk that a public disclosure made before filing could affect patentability."
+    ]
+  }
+},
+{
+  "id": "figure-out",
+  "sid": "2026-01543",
+  "word": "figure out",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "understanding",
+    "solution",
+    "reasoning",
+    "calculation",
+    "discovery",
+    "problem solving",
+    "people",
+    "business",
+    "daily conversation",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "separable phrasal verb",
+    "forms": {
+      "base": "figure out",
+      "third_person": "figures out",
+      "past": "figured out",
+      "past_participle": "figured out",
+      "gerund": "figuring out",
+      "negative": "not figure out"
+    },
+    "transitivity": "transitive; also followed by wh-clauses and how / what / why plus an infinitive or clause",
+    "patterns": [
+      "figure out + noun",
+      "figure + noun + out",
+      "figure it / them out",
+      "figure out what / why / how + clause",
+      "figure out how to do",
+      "figure out where / when to do",
+      "figure out that + clause",
+      "try to figure out",
+      "cannot / could not figure out",
+      "have something all figured out"
+    ],
+    "usage": {
+      "separability": "With a noun object, both figure out the problem and figure the problem out are possible.",
+      "pronoun_position": "A pronoun object must normally appear between the verb and particle: figure it out, not figure out it.",
+      "wh_clause": "Figure out is commonly followed by what, why, how, where, or whether: figure out why it failed.",
+      "person": "Figure someone out means understanding the person’s character, motives, or behavior.",
+      "calculation": "It can describe obtaining an answer by reasoning or calculation, especially in informal English.",
+      "know_vs_process": "Know describes possessing knowledge, whereas figure out emphasizes the process of reaching understanding.",
+      "register": "Very common in conversation; determine, ascertain, calculate, or resolve may be more precise in formal writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌfɪɡjər ˈaʊt/",
+      "uk": "/ˌfɪɡər ˈaʊt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "考えたり調べたりして、問題の答えを見つける",
+      "物事の仕組み・意味・原因を理解する",
+      "困難な状況の解決方法を見つける",
+      "計算や推論によって数値・結果を求める",
+      "人の性格・動機・行動の理由を見抜く",
+      "何を・いつ・どのように行うべきか決める"
+    ],
+    "en": [
+      "to find the answer to a problem by thinking or investigating",
+      "to understand the meaning, mechanism, or cause of something",
+      "to discover a way of resolving a difficult situation",
+      "to obtain a number or result through calculation or reasoning",
+      "to understand a person’s character, motives, or behavior",
+      "to decide what, when, or how something should be done"
+    ]
+  },
+  "nuance": {
+    "ja": "figure out は、最初から知っているのではなく、思考・観察・試行錯誤・調査などを通じて理解や答えに到達する過程を強調する。I know how it works. は仕組みをすでに知っている状態を表すが、I figured out how it works. は考えたり試したりして仕組みを解明したことを表す。問題を目的語にすれば「解決する」、意味や原因なら「理解する・突き止める」、数値なら「算出する」と訳せる。figure someone out は、人の不可解な性格・意図・行動を理解するという意味である。句動詞なので、代名詞は必ず中間に置き、figure it out とする。",
+    "en": "Figure out emphasizes the process of reaching an answer or understanding through thought, observation, investigation, or trial and error rather than already possessing the knowledge. I know how it works describes an existing state of knowledge, whereas I figured out how it works indicates that the speaker discovered the mechanism. With a problem as its object, the phrase may mean solve; with a meaning or cause, understand or determine; and with a numerical question, calculate. Figure someone out means understanding a person whose motives, character, or conduct were previously puzzling. Because the phrasal verb is separable, a pronoun object must appear in the middle, as in figure it out."
+  },
+  "minimal": {
+    "ja": [
+      "figure out：考察・調査・試行錯誤によって答え・意味・方法を見つける。",
+      "understand：意味・仕組み・理由などを理解している状態を広く表す。",
+      "solve：問題・謎・方程式などの解答や解決策を見つける。",
+      "work out：考えて解決する、計算する、または物事がうまく展開する。",
+      "find out：調査・質問・経験などによって事実や情報を知る。",
+      "determine：調査・分析によって事実・数値・方針などを確定する。",
+      "calculate：数値を数学的に計算する。",
+      "make sense of：理解しにくい情報・状況の意味や筋道を理解する。"
+    ],
+    "en": [
+      "figure out means reaching an answer, understanding, or method through thought or investigation.",
+      "understand broadly describes possessing comprehension of a meaning, mechanism, or reason.",
+      "solve means finding the answer or remedy to a problem, mystery, or equation.",
+      "work out means solving or calculating something, or developing successfully.",
+      "find out means learning a fact or piece of information through inquiry, research, or experience.",
+      "determine means establishing a fact, amount, or course of action through analysis or investigation.",
+      "calculate means finding a numerical result by using mathematics.",
+      "make sense of means understanding the meaning or logic of confusing information or circumstances."
+    ]
+  },
+  "etymology": {
+    "ja": "figure はラテン語 figura「形、姿」に由来し、古フランス語を経て英語に入った。英語では「形」から「図形」「数字」「計算する」「考える」へと意味が広がった。out は、内側に隠れていた答え・意味・仕組みを外へ取り出し、明らかにするという完了的な働きを持つ。こうして figure out は、数値を計算して答えを出すことから、問題・人物・状況などを考えて理解する一般的な句動詞へ発達した。",
+    "en": "Figure ultimately comes from Latin figura, meaning shape or form, and entered English through French. In English, its senses expanded from form and diagram to number, calculation, and thought. The particle out contributes the idea of bringing a hidden answer, meaning, or mechanism into the open and reaching completion. Figure out consequently developed from calculating or deriving an answer into a general phrasal verb for understanding problems, people, and situations through thought."
+  },
+  "synonyms": [
+    {
+      "word": "work out",
+      "note": {
+        "ja": "考察や計算によって、問題の答え・解決策・数値などを導き出す。",
+        "en": "To derive an answer, solution, or numerical result through thought or calculation."
+      }
+    },
+    {
+      "word": "solve",
+      "note": {
+        "ja": "問題・謎・方程式などについて、正しい答えや有効な解決策を見つける。",
+        "en": "To find the correct answer or an effective remedy for a problem, mystery, or equation."
+      }
+    },
+    {
+      "word": "find out",
+      "note": {
+        "ja": "調査・質問・観察などによって、それまで知らなかった事実を知る。",
+        "en": "To discover a previously unknown fact through inquiry, research, or observation."
+      }
+    },
+    {
+      "word": "determine",
+      "note": {
+        "ja": "証拠・分析・計算などに基づいて、事実・原因・数値を明らかにする。",
+        "en": "To establish a fact, cause, or amount through evidence, analysis, or calculation."
+      }
+    },
+    {
+      "word": "make sense of",
+      "note": {
+        "ja": "複雑・不可解な情報や状況を整理し、その意味や筋道を理解する。",
+        "en": "To organize and understand the meaning or logic of complicated or puzzling information."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "herausfinden / begreifen / ausrechnen",
+    "it": "capire / trovare una soluzione / calcolare",
+    "fr": "comprendre / trouver / résoudre",
+    "es": "averiguar / entender / resolver"
+  },
+  "collocations": {
+    "ja": [
+      "figure out the problem — 問題を理解・解決する",
+      "figure out the answer — 答えを見つける",
+      "figure out the cause — 原因を突き止める",
+      "figure out a solution — 解決策を考え出す",
+      "figure out what happened — 何が起きたのか解明する",
+      "figure out why it failed — なぜ失敗したのか突き止める",
+      "figure out how it works — 仕組みを理解する",
+      "figure out how to proceed — どのように進めるか考える",
+      "figure someone out — 人の性格・意図を見抜く",
+      "try to figure it out — それを理解・解決しようとする",
+      "cannot figure it out — どうしても理解・解決できない",
+      "have everything figured out — すべてについて答え・計画を得ている"
+    ],
+    "en": [
+      "figure out the problem",
+      "figure out the answer",
+      "figure out the cause",
+      "figure out a solution",
+      "figure out what happened",
+      "figure out why it failed",
+      "figure out how it works",
+      "figure out how to proceed",
+      "figure someone out",
+      "try to figure it out",
+      "cannot figure it out",
+      "have everything figured out"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I can’t figure out how to turn off this alarm. — この警報をどうやって止めるのか分からない。",
+      "We eventually figured out what was causing the strange noise. — 私たちは最終的に、その奇妙な音の原因を突き止めた。",
+      "She quickly figured him out and stopped believing his excuses. — 彼女はすぐに彼の本性を見抜き、言い訳を信じなくなった。",
+      "The finance team is trying to figure out how much the project will cost. — 財務チームは、そのプロジェクトにいくらかかるか算出しようとしている。",
+      "The court had to figure out whether the disputed feature was covered by the ordinary meaning of the claim language. — 裁判所は、争われている特徴が請求項の文言の通常の意味に含まれるかどうかを判断しなければならなかった。"
+    ],
+    "en": [
+      "I can’t figure out how to turn off this alarm.",
+      "We eventually figured out what was causing the strange noise.",
+      "She quickly figured him out and stopped believing his excuses.",
+      "The finance team is trying to figure out how much the project will cost.",
+      "The court had to figure out whether the disputed feature was covered by the ordinary meaning of the claim language."
+    ]
+  }
+},
+{
+  "id": "work-out",
+  "sid": "2026-01544",
+  "word": "work out",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "phrasal verb",
+    "exercise",
+    "solution",
+    "calculation",
+    "planning",
+    "understanding",
+    "result",
+    "relationship",
+    "business",
+    "daily conversation",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "phrasal verb",
+    "forms": {
+      "base": "work out",
+      "third_person": "works out",
+      "past": "worked out",
+      "past_participle": "worked out",
+      "gerund": "working out",
+      "noun": "workout",
+      "adjective": "worked-out"
+    },
+    "transitivity": "transitive and separable when meaning solve, calculate, or plan; intransitive when meaning exercise, develop, result, or prove successful",
+    "patterns": [
+      "work out",
+      "work out + noun",
+      "work + noun + out",
+      "work it / them out",
+      "work out what / why / how + clause",
+      "work out how to do",
+      "work out at + amount",
+      "work out to be + amount / description",
+      "work out well / badly",
+      "work things out with + person"
+    ],
+    "usage": {
+      "separability": "With a noun object, both work out the answer and work the answer out are possible.",
+      "pronoun_position": "A pronoun object must appear between the verb and particle: work it out, not work out it.",
+      "exercise": "When it means exercise, work out is intransitive: I work out three times a week.",
+      "noun_spelling": "The verb is written as two words, work out, while the exercise noun is one word, workout: I had a good workout.",
+      "result": "Intransitive work out can mean developing or ending in a particular way: Everything worked out well.",
+      "calculation": "Work out at or work out to can introduce a calculated amount or result.",
+      "relationship": "Work things out can mean resolving a disagreement or relationship problem through discussion.",
+      "register": "Common in conversation; calculate, determine, devise, resolve, or exercise may be more precise in formal writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌwɜːrk ˈaʊt/",
+      "uk": "/ˌwɜːk ˈaʊt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "運動・筋力トレーニングなどをする",
+      "問題・謎・困難の答えや解決策を見つける",
+      "計算して数値・費用・量などを求める",
+      "計画・方法・合意などを考案し、詳細を決める",
+      "物事が特定の結果に至る、またはうまくいく",
+      "計算の結果、一定の金額・割合・数量になる",
+      "話合いによって対立・人間関係上の問題を解決する"
+    ],
+    "en": [
+      "to exercise, especially as part of a regular fitness routine",
+      "to find the answer or solution to a problem, mystery, or difficulty",
+      "to calculate a number, cost, quantity, or other result",
+      "to devise a plan, method, or agreement and settle its details",
+      "to develop or end in a particular way, especially successfully",
+      "to amount to a particular sum, rate, or quantity after calculation",
+      "to resolve a disagreement or relationship problem through discussion"
+    ]
+  },
+  "nuance": {
+    "ja": "work out は、努力や検討を重ねた結果として答え・計画・結果が形になるという感覚を持つ多義的な句動詞である。figure out と同様に「考えて理解する・解決する」と言えるが、work out は計算、具体的な解決策、計画の詳細を組み立てることに使われやすい。自動詞の Everything worked out. は「最終的に万事うまくいった」を意味する。work out at $50 は計算上50ドルになること、work out to be cheaper は結果的により安いと分かることを表す。また、運動する意味では目的語を取らず、名詞は一語の workout となる。work things out with someone は、話合いによって対立や関係を修復することを表す。",
+    "en": "Work out is a highly flexible phrasal verb united by the idea that effort, calculation, or development produces a result. Like figure out, it can mean reaching understanding or a solution, but work out is especially natural for calculations, practical solutions, and the detailed construction of plans. The intransitive Everything worked out means that matters ultimately developed successfully. Work out at $50 introduces a calculated amount, while work out to be cheaper reports a result revealed by calculation or experience. In the exercise sense, the verb is normally intransitive, and the corresponding noun is the single word workout. Work things out with someone means resolving conflict or repairing a relationship through discussion."
+  },
+  "minimal": {
+    "ja": [
+      "work out：運動する、計算・解決する、計画を練る、または最終的にうまくいく。",
+      "figure out：思考・調査・試行錯誤によって意味・原因・答えを理解する。",
+      "solve：問題・謎・方程式などの正しい答えや解決策を見つける。",
+      "calculate：数学的操作によって数値・費用・量などを求める。",
+      "exercise：健康・体力のために身体を動かすことを広く表す。",
+      "devise：計画・方法・仕組みなどを注意深く考案する。",
+      "sort out：混乱・問題・対立などを整理して解決する。",
+      "turn out：後になって特定の事実・結果であると判明する。"
+    ],
+    "en": [
+      "work out means exercising, calculating or solving something, developing a plan, or ending successfully.",
+      "figure out means reaching an understanding or answer through thought, investigation, or trial and error.",
+      "solve means finding the correct answer or remedy to a problem, mystery, or equation.",
+      "calculate means finding a numerical amount, cost, or quantity through mathematics.",
+      "exercise broadly means engaging in physical activity for health or fitness.",
+      "devise means carefully inventing or developing a plan, method, or system.",
+      "sort out means organizing and resolving confusion, a problem, or a disagreement.",
+      "turn out means eventually being discovered to have a particular nature or result."
+    ]
+  },
+  "etymology": {
+    "ja": "work は古英語 weorc「仕事、行為、努力」と wyrcan「働く、作る」に由来する。out は句動詞において、過程を最後まで進め、答え・結果・完成物を外へ出すという完了的な意味を加える。work out は当初、何かを努力して作り上げる、計算や問題を最後まで処理するという意味で用いられ、そこから「解決する」「計画を練る」「結果としてうまくいく」などへ広がった。身体を十分に動かすという発想から、「運動する」という意味も発達した。",
+    "en": "Work comes from Old English weorc, meaning labor, action, or effort, and the related verb wyrcan, to work or make. In phrasal verbs, out often adds the idea of carrying a process through until an answer, result, or completed product emerges. Work out was used for producing something through effort and carrying a calculation or problem to completion, from which the senses solve, devise, and develop successfully arose. The sense exercise developed from the idea of putting the body through sustained physical work."
+  },
+  "synonyms": [
+    {
+      "word": "figure out",
+      "note": {
+        "ja": "考えたり調べたりして、意味・原因・答え・方法を理解する。",
+        "en": "To understand a meaning, cause, answer, or method through thought or investigation."
+      }
+    },
+    {
+      "word": "solve",
+      "note": {
+        "ja": "問題・謎・方程式などについて、有効な解決策や正しい答えを得る。",
+        "en": "To obtain an effective solution or correct answer to a problem, mystery, or equation."
+      }
+    },
+    {
+      "word": "calculate",
+      "note": {
+        "ja": "数学的方法によって金額・数量・割合などを算出する。",
+        "en": "To determine an amount, quantity, or rate by mathematical methods."
+      }
+    },
+    {
+      "word": "devise",
+      "note": {
+        "ja": "特定の目的を達成するため、計画・方法・装置などを考案する。",
+        "en": "To invent or develop a plan, method, or device for a particular purpose."
+      }
+    },
+    {
+      "word": "resolve",
+      "note": {
+        "ja": "問題・紛争・意見の相違などに解決や決着をもたらす。",
+        "en": "To bring a problem, dispute, or disagreement to a solution or conclusion."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "trainieren / ausrechnen / lösen / klappen",
+    "it": "allenarsi / calcolare / risolvere / andare a buon fine",
+    "fr": "s’entraîner / calculer / résoudre / s’arranger",
+    "es": "hacer ejercicio / calcular / resolver / salir bien"
+  },
+  "collocations": {
+    "ja": [
+      "work out regularly — 定期的に運動する",
+      "work out at the gym — ジムで運動する",
+      "work out the answer — 答えを考え出す",
+      "work out the cost — 費用を計算する",
+      "work out a solution — 解決策を考案する",
+      "work out the details — 詳細を詰める",
+      "work out a plan — 計画を練る",
+      "work out what happened — 何が起きたのか解明する",
+      "work out at fifty dollars — 計算すると50ドルになる",
+      "work out to be cheaper — 結果的により安くなる",
+      "work out well in the end — 最終的にうまくいく",
+      "work things out with someone — 人と話し合って問題を解決する"
+    ],
+    "en": [
+      "work out regularly",
+      "work out at the gym",
+      "work out the answer",
+      "work out the cost",
+      "work out a solution",
+      "work out the details",
+      "work out a plan",
+      "work out what happened",
+      "work out at fifty dollars",
+      "work out to be cheaper",
+      "work out well in the end",
+      "work things out with someone"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I work out at the gym three times a week. — 私は週に3回ジムで運動している。",
+      "Can you work out how much each person needs to pay? — 一人当たりいくら支払う必要があるか計算できますか。",
+      "We still need to work out the details of the schedule. — 私たちはまだ日程の詳細を詰める必要がある。",
+      "The negotiations were difficult, but everything worked out in the end. — 交渉は難航したが、最終的にはすべてうまくいった。",
+      "The parties worked out a licensing arrangement rather than continuing the patent infringement proceedings. — 当事者は特許侵害訴訟を続ける代わりに、ライセンス契約の枠組みをまとめた。"
+    ],
+    "en": [
+      "I work out at the gym three times a week.",
+      "Can you work out how much each person needs to pay?",
+      "We still need to work out the details of the schedule.",
+      "The negotiations were difficult, but everything worked out in the end.",
+      "The parties worked out a licensing arrangement rather than continuing the patent infringement proceedings."
+    ]
+  }
+},
+{
+  "id": "solve",
+  "sid": "2026-01545",
+  "word": "solve",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "problem",
+    "solution",
+    "answer",
+    "mystery",
+    "mathematics",
+    "crime",
+    "reasoning",
+    "technology",
+    "business",
+    "patent",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "solve",
+      "third_person": "solves",
+      "past": "solved",
+      "past_participle": "solved",
+      "gerund": "solving",
+      "noun": "solution",
+      "person_noun": "solver",
+      "adjective": "solvable",
+      "negative_adjective": "unsolvable / insoluble"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "solve + problem / puzzle / mystery",
+      "solve + equation",
+      "solve + crime / case",
+      "solve a problem by + gerund",
+      "solve a problem with + noun",
+      "solve a problem for + person",
+      "try / attempt to solve",
+      "help someone solve + noun",
+      "be easy / difficult / impossible to solve",
+      "be solved by / through + noun"
+    ],
+    "usage": {
+      "direct_object": "Solve normally takes the problem itself as its direct object: solve the problem, not solve about the problem.",
+      "person": "Do not normally use a person as the object when meaning help them with a difficulty; say solve the problem for someone.",
+      "answer": "Solve emphasizes finding the correct answer, explanation, or effective remedy.",
+      "crime": "Solve a crime or case means identifying what happened and normally who was responsible.",
+      "mathematics": "In mathematics, solve an equation means finding the value or values that make it true.",
+      "problem_solving": "The activity is problem-solving, with a hyphen when used attributively: problem-solving skills.",
+      "resolve": "Solve is especially natural for problems with identifiable answers; resolve is often preferred for disputes, conflicts, and uncertainties."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/sɑːlv/",
+      "uk": "/sɒlv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "問題に対する有効な解決策を見つける",
+      "質問・パズル・謎などの正しい答えを見つける",
+      "方程式・数学問題を計算して解く",
+      "犯罪・事件の真相や犯人を明らかにする",
+      "技術的課題を克服する方法を考案する",
+      "困難の原因を取り除き、正常な状態にする"
+    ],
+    "en": [
+      "to find an effective solution to a problem",
+      "to discover the correct answer to a question, puzzle, or mystery",
+      "to find the answer to an equation or mathematical problem",
+      "to discover the truth about a crime or case and normally identify the person responsible",
+      "to devise a method of overcoming a technical difficulty",
+      "to remove the cause of a difficulty and restore a satisfactory condition"
+    ]
+  },
+  "nuance": {
+    "ja": "solve は、答え・説明・解決策を見つけることで問題を解決することを表す。数学問題、パズル、謎、犯罪、技術的課題など、解決したかどうかを比較的明確に判断できる対象に特に適している。resolve は、紛争・対立・懸念・不確実性などを解消して決着させる場合に使われやすい。work out や figure out は、答えに到達する思考・計算・試行錯誤の過程をより口語的に表す。address a problem は問題に取り組むだけで、必ずしも解決したことを意味しない。したがって、対策を講じただけの段階で solve を用いると、成果を過大に表現する可能性がある。",
+    "en": "Solve means bringing a problem to an answer or remedy by discovering a correct explanation, calculation, or effective course of action. It is especially natural for mathematics, puzzles, mysteries, crimes, and technical problems whose successful resolution can be assessed comparatively clearly. Resolve is often preferred for ending disputes, conflicts, concerns, or uncertainties. Work out and figure out more conversationally emphasize the process of reaching an answer through thought, calculation, or trial and error. Address a problem means taking action concerning it and does not establish that the problem has actually been solved. Using solve when measures have merely begun may therefore overstate the result."
+  },
+  "minimal": {
+    "ja": [
+      "solve：問題・謎・方程式などについて、正しい答えや有効な解決策を見つける。",
+      "resolve：紛争・対立・懸念・不確実性などを解消し、決着させる。",
+      "work out：考察・計算・話合いによって答え・計画・解決策を導き出す。",
+      "figure out：考えたり調べたりして意味・原因・方法を理解する。",
+      "address：問題を認識して対応する。解決の完了までは意味しない。",
+      "fix：故障・欠陥・不具合を直して正常にする。口語的。",
+      "settle：争い・請求・未決事項などについて合意または最終決定を得る。",
+      "answer：質問に返答する、または問題に対する答えを示す。"
+    ],
+    "en": [
+      "solve means finding the correct answer or an effective remedy for a problem, mystery, or equation.",
+      "resolve means bringing a dispute, conflict, concern, or uncertainty to an end.",
+      "work out means deriving an answer, plan, or solution through thought, calculation, or discussion.",
+      "figure out means understanding a meaning, cause, or method through thought or investigation.",
+      "address means recognizing and taking action concerning a problem without necessarily solving it.",
+      "fix informally means repairing a fault, defect, or malfunction and restoring normal operation.",
+      "settle means reaching an agreement or final decision concerning a dispute, claim, or unresolved matter.",
+      "answer means responding to a question or providing the solution to a particular problem."
+    ]
+  },
+  "etymology": {
+    "ja": "solve はラテン語 solvere「解く、ほどく、解放する、支払う」に由来し、古フランス語を経て英語に入った。solvere は se-「離れて」と luere「緩める、解放する」に関係するとされる。結び目をほどくという物理的な発想から、難しい問題の複雑な要素を解きほぐして答えを得るという比喩的意味が発達した。同じラテン語に由来する語には solution、resolve、dissolve、solvent などがあり、いずれも何かを解く、分離する、または処理するという概念を持つ。",
+    "en": "Solve comes through French from Latin solvere, meaning to loosen, untie, release, or pay. Solvere is traditionally analyzed as containing an element meaning apart and another associated with loosening or releasing. The physical image of untying a knot developed into the figurative idea of disentangling the elements of a difficult question until an answer is found. Related words derived from the same Latin source include solution, resolve, dissolve, and solvent, all of which retain some idea of loosening, separating, or disposing of something."
+  },
+  "synonyms": [
+    {
+      "word": "resolve",
+      "note": {
+        "ja": "問題を解決するほか、紛争・対立・疑問などを終結させることに特に適している。",
+        "en": "To solve a problem or, especially, bring a dispute, conflict, or uncertainty to an end."
+      }
+    },
+    {
+      "word": "work out",
+      "note": {
+        "ja": "考察・計算・試行錯誤によって、問題の答えや実用的な解決策を導き出す。",
+        "en": "To derive an answer or practical solution through thought, calculation, or trial and error."
+      }
+    },
+    {
+      "word": "figure out",
+      "note": {
+        "ja": "分かりにくい物事について考え、意味・原因・方法を理解する。",
+        "en": "To think about something difficult until its meaning, cause, or method becomes clear."
+      }
+    },
+    {
+      "word": "fix",
+      "note": {
+        "ja": "機械・システム・状況などの具体的な不具合を直すことを表す口語的な語。",
+        "en": "An informal verb for correcting a specific fault in a machine, system, or situation."
+      }
+    },
+    {
+      "word": "settle",
+      "note": {
+        "ja": "紛争・請求・意見の相違などを、合意または決定によって終わらせる。",
+        "en": "To conclude a dispute, claim, or disagreement through agreement or a final decision."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "lösen",
+    "it": "risolvere",
+    "fr": "résoudre",
+    "es": "resolver"
+  },
+  "collocations": {
+    "ja": [
+      "solve a problem — 問題を解決する",
+      "solve a puzzle — パズルを解く",
+      "solve a mystery — 謎を解明する",
+      "solve an equation — 方程式を解く",
+      "solve a crime — 犯罪事件を解決する",
+      "solve a murder — 殺人事件を解決する",
+      "solve a technical problem — 技術的問題を解決する",
+      "solve the problem completely — 問題を完全に解決する",
+      "try to solve — 解決しようとする",
+      "help solve the problem — 問題の解決に寄与する",
+      "be difficult to solve — 解決が難しい",
+      "problem-solving skills — 問題解決能力"
+    ],
+    "en": [
+      "solve a problem",
+      "solve a puzzle",
+      "solve a mystery",
+      "solve an equation",
+      "solve a crime",
+      "solve a murder",
+      "solve a technical problem",
+      "solve the problem completely",
+      "try to solve",
+      "help solve the problem",
+      "be difficult to solve",
+      "problem-solving skills"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We need to solve this problem before it affects our customers. — 顧客に影響が及ぶ前に、この問題を解決する必要がある。",
+      "She solved the puzzle in less than five minutes. — 彼女は5分もかからずにそのパズルを解いた。",
+      "The police used the new evidence to solve the case. — 警察は新しい証拠を使って事件を解決した。",
+      "Installing more software will not solve the underlying management problem. — ソフトウェアをさらに導入しても、根本的な経営上の問題は解決しない。",
+      "The specification explains how the claimed arrangement solves the technical problem identified in the prior art. — 明細書は、請求された構成が先行技術において特定された技術的課題をどのように解決するかを説明している。"
+    ],
+    "en": [
+      "We need to solve this problem before it affects our customers.",
+      "She solved the puzzle in less than five minutes.",
+      "The police used the new evidence to solve the case.",
+      "Installing more software will not solve the underlying management problem.",
+      "The specification explains how the claimed arrangement solves the technical problem identified in the prior art."
+    ]
+  }
+},
+{
+  "id": "resolve",
+  "sid": "2026-01546",
+  "word": "resolve",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "noun",
+    "solution",
+    "dispute",
+    "conflict",
+    "decision",
+    "determination",
+    "analysis",
+    "law",
+    "legal",
+    "business",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "countability": "normally uncountable as a noun",
+    "plural": "not normally used as a noun",
+    "forms": {
+      "verb_base": "resolve",
+      "third_person": "resolves",
+      "past": "resolved",
+      "past_participle": "resolved",
+      "gerund": "resolving",
+      "noun": "resolve",
+      "related_noun": "resolution",
+      "adjective": "resolved / resolute",
+      "adverb": "resolutely"
+    },
+    "transitivity": "transitive when meaning solve or settle; intransitive in resolve to do and resolve into",
+    "patterns": [
+      "resolve + problem / issue / dispute",
+      "resolve a conflict between + parties",
+      "resolve something through + negotiation / mediation",
+      "resolve something in favor of / against + person",
+      "resolve that + clause",
+      "resolve to do",
+      "be resolved to do",
+      "resolve into + components",
+      "show / strengthen one’s resolve",
+      "with firm / renewed resolve"
+    ],
+    "usage": {
+      "problem": "Resolve commonly takes a problem, issue, dispute, conflict, ambiguity, or uncertainty as its object.",
+      "decision": "Resolve to do means make a firm decision to act and is more formal than decide to do.",
+      "that_clause": "Resolve that can introduce a formal decision adopted by a board, legislature, or other body.",
+      "legal": "Resolve a dispute means bring it to a conclusion through agreement, adjudication, or another procedure.",
+      "direction": "In favor of or against may identify the person benefiting from the decision: The issue was resolved in favor of the applicant.",
+      "transformation": "Resolve into means separate or become distinguishable as components, elements, or parts.",
+      "noun": "As a noun, resolve means firm determination and is normally uncountable: She showed great resolve.",
+      "solve": "Solve is especially natural for questions with identifiable answers; resolve more readily applies to disputes, uncertainty, and continuing difficulties."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈzɑːlv/",
+      "uk": "/rɪˈzɒlv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "問題・困難・不具合を解決する",
+      "紛争・対立・意見の相違を終結させる",
+      "疑問・曖昧さ・不確実性を解消する",
+      "特定の行動を取ることを固く決意する",
+      "組織が決議によって正式な意思決定を行う",
+      "物・画像・状況などを構成要素へ分解または識別する",
+      "名詞として、困難に屈しない固い決意"
+    ],
+    "en": [
+      "to find a satisfactory solution to a problem, difficulty, or malfunction",
+      "to bring a dispute, conflict, or disagreement to an end",
+      "to remove doubt, ambiguity, or uncertainty",
+      "to make a firm decision to take a particular action",
+      "for an organization, to adopt a formal decision through a resolution",
+      "to separate or distinguish something into its components or elements",
+      "as a noun, firm determination not to give up in the face of difficulty"
+    ]
+  },
+  "nuance": {
+    "ja": "resolve は、未解決の問題・紛争・疑問などに決着をつけ、安定した状態へ導くことを表す。solve と重なるが、solve は数学問題・謎・技術的問題など、答えや解法を発見することに焦点を置きやすい。resolve は、交渉による紛争の終結、曖昧さの解消、苦情への対応など、対立や不確実な状態を終わらせる場合に特に自然である。resolve to do は「必ず～すると決意する」という形式的で強い表現で、単なる予定ではない。名詞の resolve は determination に近く、困難があっても方針を貫く精神的な強さを表す。なお、address an issue は問題に取り組むだけだが、resolve an issue は原則として解決・決着までを示す。",
+    "en": "Resolve describes bringing an unsettled problem, dispute, or uncertainty to a conclusion and restoring a more stable condition. It overlaps with solve, but solve more readily focuses on discovering an answer or method for a mathematical question, mystery, or technical problem. Resolve is especially natural for ending disputes through negotiation, removing ambiguity, or dealing conclusively with complaints and continuing difficulties. Resolve to do is a formal and emphatic expression of determination rather than a mere plan. As a noun, resolve resembles determination and describes the mental strength to maintain a course despite difficulty. Addressing an issue means taking action concerning it, whereas resolving it normally implies reaching a solution or conclusion."
+  },
+  "minimal": {
+    "ja": [
+      "resolve：問題・紛争・曖昧さなどを解消して決着させる、または固く決意する。",
+      "solve：問題・謎・方程式などについて正しい答えや解決策を見つける。",
+      "settle：紛争・請求・未決事項を合意または決定によって終結させる。",
+      "address：問題を認識して対応するが、解決の完了までは意味しない。",
+      "fix：具体的な故障・欠陥・不具合を修理・修正する。比較的口語的。",
+      "decide：複数の選択肢を検討し、一つの判断・方針を選ぶ。",
+      "determine：事実を確定する、または強い意思をもって決定する。",
+      "resolve：名詞では、困難に屈せず行動を続ける固い決意。"
+    ],
+    "en": [
+      "resolve means bringing a problem, dispute, or ambiguity to an end, or firmly deciding to act.",
+      "solve means finding the correct answer or an effective remedy for a problem, mystery, or equation.",
+      "settle means concluding a dispute, claim, or pending matter through agreement or decision.",
+      "address means recognizing and taking action concerning a problem without necessarily solving it.",
+      "fix informally means repairing or correcting a specific fault, defect, or malfunction.",
+      "decide means considering alternatives and selecting a judgment or course of action.",
+      "determine means establishing a fact or reaching a decision with firm intention.",
+      "resolve as a noun means firm determination to continue acting despite difficulty."
+    ]
+  },
+  "etymology": {
+    "ja": "resolve はラテン語 resolvere「解く、ほどく、分解する」に由来し、古フランス語を経て英語に入った。resolvere は re-「再び、元へ、離して」と solvere「解く、解放する」から成る。複雑に絡み合ったものをほどいて構成要素へ分けるという意味から、問題・疑問・対立を解きほぐして決着させる意味が発達した。また、迷いを解消して意思を固めることから「決意する」、その決意そのものから名詞の resolve「固い決意」という意味が生じた。",
+    "en": "Resolve comes through French from Latin resolvere, meaning to loosen, untie, or break into components. Resolvere was formed from re-, back, again, or apart, and solvere, to loosen or release. The physical idea of disentangling something complicated developed into resolving a problem, doubt, or conflict by separating and settling its elements. Removing uncertainty and fixing one’s intention produced the verbal meaning make a firm decision and the noun resolve, meaning firm determination."
+  },
+  "synonyms": [
+    {
+      "word": "solve",
+      "note": {
+        "ja": "問題・謎・方程式などについて、答えまたは有効な解決策を発見する。",
+        "en": "To discover the answer or an effective solution to a problem, mystery, or equation."
+      }
+    },
+    {
+      "word": "settle",
+      "note": {
+        "ja": "争い・請求・意見の相違などを、合意または正式な決定によって終わらせる。",
+        "en": "To conclude a dispute, claim, or disagreement through agreement or a formal decision."
+      }
+    },
+    {
+      "word": "determine",
+      "note": {
+        "ja": "調査によって事実を明らかにする、または確固とした意思で方針を決める。",
+        "en": "To establish a fact through inquiry or decide on a course with firm intention."
+      }
+    },
+    {
+      "word": "clarify",
+      "note": {
+        "ja": "曖昧・不明確な説明、状況、意味などを理解しやすくする。",
+        "en": "To make an unclear explanation, situation, or meaning easier to understand."
+      }
+    },
+    {
+      "word": "determination",
+      "note": {
+        "ja": "名詞の resolve に近く、困難があっても目標を達成しようとする強い意志。",
+        "en": "Close to the noun resolve, meaning a strong intention to achieve a goal despite difficulty."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "lösen / beilegen / beschließen / Entschlossenheit",
+    "it": "risolvere / decidere fermamente / determinazione",
+    "fr": "résoudre / décider fermement / détermination",
+    "es": "resolver / decidir firmemente / determinación"
+  },
+  "collocations": {
+    "ja": [
+      "resolve a problem — 問題を解決する",
+      "resolve an issue — 問題・論点を解決する",
+      "resolve a dispute — 紛争を解決する",
+      "resolve a conflict — 対立を解消する",
+      "resolve a complaint — 苦情を処理・解決する",
+      "resolve an ambiguity — 曖昧さを解消する",
+      "resolve the uncertainty — 不確実性を解消する",
+      "resolve something through negotiation — 交渉によって何かを解決する",
+      "resolve the issue in someone’s favor — 論点を人に有利に判断する",
+      "resolve to do something — 何かをすると固く決意する",
+      "show great resolve — 強い決意を示す",
+      "with renewed resolve — 決意を新たにして"
+    ],
+    "en": [
+      "resolve a problem",
+      "resolve an issue",
+      "resolve a dispute",
+      "resolve a conflict",
+      "resolve a complaint",
+      "resolve an ambiguity",
+      "resolve the uncertainty",
+      "resolve something through negotiation",
+      "resolve the issue in someone’s favor",
+      "resolve to do something",
+      "show great resolve",
+      "with renewed resolve"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The technician resolved the problem by restarting the server. — 技術者はサーバーを再起動して問題を解決した。",
+      "The two neighbors resolved their dispute through mediation. — その二人の隣人は調停によって紛争を解決した。",
+      "Further investigation may be necessary to resolve the uncertainty. — その不確実性を解消するには、さらなる調査が必要かもしれない。",
+      "She resolved to improve her English before the next conference. — 彼女は次の会議までに英語力を向上させることを固く決意した。",
+      "The court resolved the claim-construction issue in favor of the patent owner but found no infringement. — 裁判所はクレーム解釈上の争点について特許権者に有利な判断をしたが、侵害は認めなかった。"
+    ],
+    "en": [
+      "The technician resolved the problem by restarting the server.",
+      "The two neighbors resolved their dispute through mediation.",
+      "Further investigation may be necessary to resolve the uncertainty.",
+      "She resolved to improve her English before the next conference.",
+      "The court resolved the claim-construction issue in favor of the patent owner but found no infringement."
+    ]
+  }
+},
+{
+  "id": "clarify",
+  "sid": "2026-01547",
+  "word": "clarify",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "clarity",
+    "explanation",
+    "communication",
+    "ambiguity",
+    "information",
+    "question",
+    "business",
+    "law",
+    "legal",
+    "patent",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "clarify",
+      "third_person": "clarifies",
+      "past": "clarified",
+      "past_participle": "clarified",
+      "gerund": "clarifying",
+      "noun": "clarification",
+      "adjective": "clarifying",
+      "related_adjective": "clear"
+    },
+    "transitivity": "transitive in its principal use; also used without an expressed object in expressions such as Let me clarify",
+    "patterns": [
+      "clarify + point / meaning / situation",
+      "clarify what / why / how + clause",
+      "clarify whether + clause",
+      "clarify that + clause",
+      "clarify the difference between A and B",
+      "clarify something for + person",
+      "ask someone to clarify + noun",
+      "seek to clarify + noun",
+      "help clarify + noun",
+      "Let me clarify"
+    ],
+    "usage": {
+      "object": "Clarify takes the unclear matter as its object: clarify the instructions, not clarify about the instructions.",
+      "clause": "It may be followed by a wh-clause or that-clause: clarify what happened or clarify that no decision has been made.",
+      "person": "A person is not normally the direct object when the intended meaning is make something clear to them; use clarify the matter for someone.",
+      "request": "Could you clarify? is a polite request for a clearer explanation, although identifying the unclear point is often more helpful.",
+      "explain": "Explain supplies an account of how or why something is true; clarify specifically removes ambiguity or confusion.",
+      "specify": "Specify means state exact details explicitly, whereas clarify may merely make the existing meaning easier to understand.",
+      "formal_context": "Common in professional, academic, technical, and legal writing as well as polite conversation."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈklerəfaɪ/",
+      "uk": "/ˈklærɪfaɪ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "曖昧な説明・発言・文言などを明確にする",
+      "誤解や混乱を取り除いて理解しやすくする",
+      "事実関係・立場・意図などをはっきり説明する",
+      "複数の物事の違い・関係を明らかにする",
+      "質問や追加情報によって不明点を解消する",
+      "液体から不純物を除き、透明または澄んだ状態にする"
+    ],
+    "en": [
+      "to make an ambiguous statement, explanation, or wording clear",
+      "to remove misunderstanding or confusion and make something easier to understand",
+      "to explain facts, a position, or an intention more clearly",
+      "to make the difference or relationship between things apparent",
+      "to eliminate uncertainty through questions or additional information",
+      "to remove impurities from a liquid and make it clear"
+    ]
+  },
+  "nuance": {
+    "ja": "clarify は、理解を妨げている曖昧さ・混乱・誤解を取り除くことに重点がある。explain は理由・仕組み・経緯を説明することを広く表すが、説明が長くても明確になるとは限らない。specify は数量・期限・対象などを具体的に明示することであり、clarify より詳細の特定を強く求める。Could you clarify what you mean? は相手の発言を否定せず、意味をより明確にしてほしいと丁寧に求める表現である。法律・特許文書では、clarify wording は本来の意味を明確にすることを示すが、文言を変更した結果、権利範囲や実質的内容まで変わる場合には、単なる clarification とはいえないことがある。",
+    "en": "Clarify focuses on removing ambiguity, confusion, or misunderstanding that prevents proper comprehension. Explain more broadly means giving an account of how, why, or in what circumstances something is true, but a lengthy explanation is not necessarily clear. Specify more strongly requires exact details such as an amount, deadline, or object. Could you clarify what you mean? politely requests greater precision without directly rejecting the other person’s statement. In legal and patent documents, clarifying wording suggests making the intended meaning clearer, but a change that alters legal scope or substantive content may amount to more than mere clarification."
+  },
+  "minimal": {
+    "ja": [
+      "clarify：曖昧さ・混乱・誤解を取り除き、意味や状況を明確にする。",
+      "explain：理由・仕組み・経緯などを情報を加えて説明する。",
+      "specify：数量・対象・期限などの詳細を具体的かつ明示的に述べる。",
+      "define：語・概念の意味や範囲を正確に定める。",
+      "elucidate：複雑・難解な事柄を詳しく説明して明らかにする。形式的。",
+      "elaborate：すでに述べた内容へ詳細や説明を付け加える。",
+      "confirm：情報・理解・予定などが正しいことを確かめる。",
+      "resolve：問題・疑問・不確実性を解消し、決着させる。"
+    ],
+    "en": [
+      "clarify means removing ambiguity, confusion, or misunderstanding to make a meaning or situation clear.",
+      "explain means providing information about the reason, mechanism, or circumstances of something.",
+      "specify means stating exact details such as an amount, object, or deadline explicitly.",
+      "define means stating the precise meaning or limits of a word or concept.",
+      "elucidate formally means explaining a complex or difficult subject so that it becomes clear.",
+      "elaborate means adding further details or explanation to something already stated.",
+      "confirm means establishing that information, an understanding, or an arrangement is correct.",
+      "resolve means removing a problem, doubt, or uncertainty and bringing it to a conclusion."
+    ]
+  },
+  "etymology": {
+    "ja": "clarify は中世ラテン語 clarificare「明るくする、明確にする」に由来し、clarus「明るい、明白な」と facere「作る」の要素から成る。clarus は clear、clarity、declare などにも関係する。光を当てて物を見えやすくするという物理的な発想から、意味・状況・考えを理解しやすくするという比喩的意味が発達した。また、不純物を除いて液体を澄ませるという物理的用法も現在まで残っている。",
+    "en": "Clarify comes from Medieval Latin clarificare, meaning to make bright or clear, formed from clarus, bright or plain, and an element related to facere, to make. Clarus is also connected with English words such as clear, clarity, and declare. The physical idea of bringing something into the light so that it can be seen developed into the figurative meaning making an idea, statement, or situation easier to understand. The physical sense of removing impurities to make a liquid clear also remains in use."
+  },
+  "synonyms": [
+    {
+      "word": "explain",
+      "note": {
+        "ja": "理由・仕組み・意味・経緯などを、情報を加えて理解できるようにする。",
+        "en": "To make a reason, mechanism, meaning, or sequence understandable by providing information."
+      }
+    },
+    {
+      "word": "elucidate",
+      "note": {
+        "ja": "複雑・専門的・難解な事柄を詳しく説明して明らかにする形式的な語。",
+        "en": "A formal verb meaning to explain a complex, technical, or difficult matter clearly."
+      }
+    },
+    {
+      "word": "specify",
+      "note": {
+        "ja": "対象・条件・数量・期限などを明示し、具体的に特定する。",
+        "en": "To identify an object, condition, amount, or deadline explicitly and precisely."
+      }
+    },
+    {
+      "word": "clear up",
+      "note": {
+        "ja": "誤解・混乱・疑問などを取り除く、clarify に近い口語的な句動詞。",
+        "en": "A conversational phrasal verb meaning to remove a misunderstanding, confusion, or uncertainty."
+      }
+    },
+    {
+      "word": "make clear",
+      "note": {
+        "ja": "事実・意図・要求などを相手が誤解しないよう明白に伝える。",
+        "en": "To communicate a fact, intention, or requirement plainly enough to prevent misunderstanding."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "klären / verdeutlichen",
+    "it": "chiarire",
+    "fr": "clarifier / préciser",
+    "es": "aclarar"
+  },
+  "collocations": {
+    "ja": [
+      "clarify a point — ある点を明確にする",
+      "clarify the meaning — 意味を明らかにする",
+      "clarify the situation — 状況を明らかにする",
+      "clarify one’s position — 自分の立場を明確にする",
+      "clarify one’s intentions — 自分の意図を明確にする",
+      "clarify the requirements — 要件を明確にする",
+      "clarify the difference — 違いを明確にする",
+      "clarify what happened — 何が起きたのか明らかにする",
+      "clarify whether something applies — 何かが適用されるか明確にする",
+      "ask someone to clarify — 人に明確な説明を求める",
+      "help clarify the issue — 論点の明確化に役立つ",
+      "seek clarification — 明確な説明を求める"
+    ],
+    "en": [
+      "clarify a point",
+      "clarify the meaning",
+      "clarify the situation",
+      "clarify one’s position",
+      "clarify one’s intentions",
+      "clarify the requirements",
+      "clarify the difference",
+      "clarify what happened",
+      "clarify whether something applies",
+      "ask someone to clarify",
+      "help clarify the issue",
+      "seek clarification"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Could you clarify what you mean by this sentence? — この文が何を意味するのか、もう少し明確に説明していただけますか。",
+      "The manager clarified that no final decision had been made. — 部長は、最終決定はまだ行われていないと明確に説明した。",
+      "This diagram helps clarify the relationship between the two systems. — この図は二つのシステムの関係を明らかにするのに役立つ。",
+      "We asked the client to clarify the technical requirements before development began. — 開発を始める前に、私たちは顧客へ技術的要件を明確にするよう求めた。",
+      "The applicant amended the description to clarify the meaning of the disputed term without changing the scope of the claims. — 出願人は、請求項の範囲を変更することなく、争点となった用語の意味を明確にするため明細書を補正した。"
+    ],
+    "en": [
+      "Could you clarify what you mean by this sentence?",
+      "The manager clarified that no final decision had been made.",
+      "This diagram helps clarify the relationship between the two systems.",
+      "We asked the client to clarify the technical requirements before development began.",
+      "The applicant amended the description to clarify the meaning of the disputed term without changing the scope of the claims."
+    ]
+  }
+},
+{
   "id": "sort-out",
   "sid": "2026-01548",
   "word": "sort out",
