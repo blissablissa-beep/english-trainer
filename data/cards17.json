@@ -4622,5 +4622,205 @@
       "A subsequent amendment must not introduce subject matter extending beyond the content of the application as originally filed."
     ]
   }
+},
+{
+  "id": "adr-alternative-dispute-resolution",
+  "sid": "2026-01534",
+  "word": "ADR (alternative dispute resolution)",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "initialism",
+    "law",
+    "legal",
+    "dispute",
+    "mediation",
+    "arbitration",
+    "negotiation",
+    "settlement",
+    "litigation",
+    "intellectual property",
+    "patent",
+    "trademark",
+    "business",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "noun phrase / initialism",
+    "countability": "normally uncountable as a general field or process; countable when referring to a particular ADR procedure or mechanism",
+    "plural": "ADR procedures / ADR mechanisms",
+    "forms": {
+      "initialism": "ADR",
+      "full_form": "alternative dispute resolution",
+      "variant": "appropriate dispute resolution",
+      "attributive": "ADR"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "use / pursue ADR",
+      "resort to ADR",
+      "refer a dispute to ADR",
+      "resolve a dispute through ADR",
+      "agree to use ADR",
+      "an ADR procedure / process",
+      "an ADR clause",
+      "an ADR provider",
+      "court-connected / court-annexed ADR",
+      "ADR for + type of dispute"
+    ],
+    "usage": {
+      "abbreviation": "ADR is pronounced as the individual letters A-D-R and normally appears in capital letters.",
+      "article": "As the general concept, ADR usually takes no article: The parties agreed to use ADR.",
+      "countable_use": "When identifying a particular method, use an ADR procedure, an ADR process, or an ADR mechanism.",
+      "scope": "ADR is an umbrella term whose precise scope varies, but it commonly includes mediation, arbitration, conciliation, negotiation, and neutral evaluation.",
+      "litigation": "Alternative traditionally means outside ordinary court adjudication, although courts may administer or require participation in court-connected ADR programs.",
+      "outcome": "ADR does not always produce a consensual settlement; arbitration may end in a binding decision imposed by the arbitrator.",
+      "drafting": "A contract should specify the selected procedure, administering institution, applicable rules, seat, language, and other necessary details rather than merely requiring ADR."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌeɪ diː ˈɑːr/; alternative dispute resolution /ɔːlˈtɜːrnətɪv dɪˈspjuːt ˌrezəˈluːʃən/",
+      "uk": "/ˌeɪ diː ˈɑː/; alternative dispute resolution /ɒlˈtɜːnətɪv dɪˈspjuːt ˌrezəˈluːʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "訴訟以外の方法で紛争の解決を図る手続の総称、裁判外紛争解決手続",
+      "中立的な第三者が当事者間の話合いと合意形成を支援する調停",
+      "当事者が選任した仲裁人に紛争の判断を委ねる仲裁",
+      "交渉・あっせん・調停・仲裁・専門家判断などを含む包括的概念",
+      "費用・時間・秘密保持・専門性などを考慮して選ばれる紛争処理方法",
+      "知的財産・技術・国際商取引などの専門的紛争に用いられる解決手段"
+    ],
+    "en": [
+      "a collective term for procedures intended to resolve disputes without ordinary court adjudication",
+      "mediation in which a neutral third party assists the parties in negotiating an agreed solution",
+      "arbitration in which the parties submit a dispute to one or more chosen arbitrators for a decision",
+      "an umbrella concept including negotiation, conciliation, mediation, arbitration, and expert determination",
+      "a method selected in view of factors such as cost, speed, confidentiality, and specialist expertise",
+      "a means of resolving specialized intellectual property, technology, and international commercial disputes"
+    ]
+  },
+  "nuance": {
+    "ja": "ADR は一つの特定手続ではなく、裁判による終局的判断とは異なる方法を広く含む総称である。代表例である mediation では、中立的な調停人が交渉を支援するが、原則として当事者へ解決案を強制しない。これに対して arbitration では、仲裁人が証拠と主張を検討し、通常は拘束力を持つ仲裁判断を下す。したがって、ADR は常に友好的な話合いや任意の和解だけを意味するわけではない。また、裁判所がADRへの参加を命じたり、裁判所付設の調停制度を運営したりすることもあるため、ADRと裁判制度が完全に切り離されているとも限らない。契約のADR条項では、単に disputes shall be resolved by ADR とするだけでは手続が不明確になり得るため、調停か仲裁か、機関、規則、仲裁地、言語などを具体的に定める必要がある。",
+    "en": "ADR is not one particular procedure but an umbrella term covering methods that differ from final adjudication through ordinary litigation. In mediation, a neutral mediator assists negotiation but generally does not impose a solution. In arbitration, by contrast, an arbitrator considers the parties’ evidence and arguments and ordinarily renders a binding award. ADR therefore does not invariably mean friendly negotiation or voluntary settlement. It may also operate in connection with the courts, as a court may direct parties to participate in ADR or administer a court-connected mediation program. In an ADR clause, merely stating that disputes shall be resolved by ADR may create uncertainty; the parties should identify the procedure, institution, rules, seat, language, and other essential arrangements."
+  },
+  "minimal": {
+    "ja": [
+      "ADR：通常の裁判によらず紛争解決を図る手続の総称。",
+      "mediation：中立的第三者が当事者の交渉と自主的合意を支援する調停。",
+      "arbitration：仲裁人が紛争を審理し、通常は拘束力のある判断を下す手続。",
+      "conciliation：第三者が和解を促し、場合によっては具体的な解決案も提示する手続。",
+      "negotiation：第三者の判断を求めず、当事者同士で合意を目指す話合い。",
+      "litigation：裁判所で法的請求を争い、裁判官などの判断を求める訴訟。",
+      "settlement：当事者の合意によって紛争または請求を終結させること。",
+      "expert determination：専門家に技術的・評価的な争点の判断を委ねる手続。"
+    ],
+    "en": [
+      "ADR is an umbrella term for procedures used to resolve disputes without ordinary court adjudication.",
+      "mediation involves a neutral third party helping the parties negotiate their own agreed solution.",
+      "arbitration involves an arbitrator hearing a dispute and ordinarily making a binding decision.",
+      "conciliation involves a third party promoting settlement and sometimes proposing specific solutions.",
+      "negotiation is direct discussion in which the parties seek agreement without a third-party decision.",
+      "litigation is the formal pursuit of legal claims and defenses before a court.",
+      "settlement is the conclusion of a dispute or claim through agreement between the parties.",
+      "expert determination submits a technical or valuation issue to a specialist for determination."
+    ]
+  },
+  "etymology": {
+    "ja": "ADR は alternative dispute resolution の各語の頭文字を取った略語である。alternative はラテン語 alter「もう一方」に由来し、既存の方法とは別の選択肢を表す。dispute はラテン語 disputare「論じる、検討する」にさかのぼり、resolution はラテン語 resolvere「解く、ほどく」に由来する。この表現は、裁判による紛争処理とは異なる選択肢をまとめて表す法律用語として20世紀後半に広く定着した。現在では alternative の代わりに appropriate dispute resolution と説明し、各紛争に最も適した方法を選ぶべきだという考え方を強調することもある。",
+    "en": "ADR is an initialism formed from alternative dispute resolution. Alternative ultimately relates to Latin alter, the other of two, and denotes another available choice. Dispute derives from Latin disputare, to discuss or examine, while resolution ultimately comes from Latin resolvere, to loosen or untie. The expression became widely established in the later twentieth century as a legal umbrella term for alternatives to courtroom adjudication. It is sometimes reinterpreted as appropriate dispute resolution to emphasize selecting the procedure best suited to the particular dispute."
+  },
+  "synonyms": [
+    {
+      "word": "out-of-court dispute resolution",
+      "note": {
+        "ja": "裁判所による本案判断を経ずに紛争を解決することを明示する説明的表現。",
+        "en": "A descriptive expression emphasizing resolution without a court deciding the merits."
+      }
+    },
+    {
+      "word": "mediation",
+      "note": {
+        "ja": "中立的第三者が当事者の話合いを促進し、自主的な合意成立を支援する。",
+        "en": "A procedure in which a neutral facilitates negotiation and assists the parties in reaching their own agreement."
+      }
+    },
+    {
+      "word": "arbitration",
+      "note": {
+        "ja": "当事者の合意に基づき、仲裁人が紛争について通常は拘束力のある判断を行う。",
+        "en": "A consensual adjudicative procedure in which an arbitrator ordinarily renders a binding decision."
+      }
+    },
+    {
+      "word": "conciliation",
+      "note": {
+        "ja": "中立的第三者が当事者の和解を支援し、解決案を積極的に提示することもある。",
+        "en": "A process in which a neutral promotes settlement and may take an active role in suggesting solutions."
+      }
+    },
+    {
+      "word": "dispute settlement",
+      "note": {
+        "ja": "交渉・合意・裁定などによって紛争を終結させることを広く表す。",
+        "en": "A broad term for bringing a dispute to an end through agreement, negotiation, or determination."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "alternative Streitbeilegung",
+    "it": "risoluzione alternativa delle controversie",
+    "fr": "règlement extrajudiciaire des différends / modes alternatifs de règlement des différends",
+    "es": "resolución alternativa de disputas / métodos alternativos de solución de controversias"
+  },
+  "collocations": {
+    "ja": [
+      "use ADR — ADRを利用する",
+      "resort to ADR — ADRを利用する",
+      "pursue ADR — ADRによる解決を試みる",
+      "refer a dispute to ADR — 紛争をADR手続に付託する",
+      "resolve a dispute through ADR — ADRによって紛争を解決する",
+      "an ADR procedure — ADR手続",
+      "an ADR mechanism — ADRの仕組み",
+      "an ADR clause — ADR条項",
+      "an ADR provider — ADR実施機関",
+      "court-connected ADR — 裁判所と連携したADR",
+      "mandatory ADR — 参加が義務付けられたADR",
+      "ADR for intellectual property disputes — 知的財産紛争のためのADR"
+    ],
+    "en": [
+      "use ADR",
+      "resort to ADR",
+      "pursue ADR",
+      "refer a dispute to ADR",
+      "resolve a dispute through ADR",
+      "an ADR procedure",
+      "an ADR mechanism",
+      "an ADR clause",
+      "an ADR provider",
+      "court-connected ADR",
+      "mandatory ADR",
+      "ADR for intellectual property disputes"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The parties agreed to attempt ADR before commencing litigation. — 当事者は、訴訟を提起する前にADRを試みることに合意した。",
+      "Mediation is a form of ADR in which the mediator helps the parties negotiate their own settlement. — 調停は、調停人が当事者による自主的な和解の交渉を支援するADRの一種である。",
+      "The contract contains an ADR clause requiring arbitration in Singapore. — その契約には、シンガポールでの仲裁を要求するADR条項が含まれている。",
+      "ADR may reduce costs and help the companies preserve their commercial relationship. — ADRは費用を削減し、両社の取引関係の維持に役立つ可能性がある。",
+      "The patent dispute was referred to WIPO mediation, but the parties retained the option of subsequent arbitration. — その特許紛争はWIPO調停に付託されたが、当事者は後に仲裁を利用する選択肢を保持した。"
+    ],
+    "en": [
+      "The parties agreed to attempt ADR before commencing litigation.",
+      "Mediation is a form of ADR in which the mediator helps the parties negotiate their own settlement.",
+      "The contract contains an ADR clause requiring arbitration in Singapore.",
+      "ADR may reduce costs and help the companies preserve their commercial relationship.",
+      "The patent dispute was referred to WIPO mediation, but the parties retained the option of subsequent arbitration."
+    ]
+  }
 }
 ]
