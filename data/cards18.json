@@ -11398,5 +11398,589 @@
       "The amendment introduced a clumsy limitation that made the patent claim narrower without clearly distinguishing the prior art."
     ]
   }
+},
+{
+  "id": "approximately",
+  "sid": "2026-01633",
+  "word": "approximately",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "adverb",
+    "approximation",
+    "quantity",
+    "number",
+    "measurement",
+    "time",
+    "distance",
+    "estimate",
+    "mathematics",
+    "science",
+    "technical",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adverb",
+    "forms": {
+      "base": "approximately",
+      "adjective": "approximate",
+      "verb": "approximate",
+      "noun": "approximation",
+      "abbreviation": "approx.",
+      "symbol": "≈"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "approximately + number",
+      "approximately + amount / percentage",
+      "approximately + measurement",
+      "approximately + time / date",
+      "approximately equal to + number",
+      "approximately the same as + noun",
+      "at approximately + time",
+      "for approximately + period",
+      "cover approximately + distance",
+      "approximately half / twice / three times"
+    ],
+    "usage": {
+      "position": "Approximately normally appears immediately before the number, quantity, measurement, or expression it modifies.",
+      "precision": "It indicates that the stated value is close to the actual value but is not exact.",
+      "direction": "Unlike nearly, approximately does not normally indicate whether the true value is above or below the stated figure.",
+      "register": "It is more formal and technical than about, around, or roughly.",
+      "abbreviation": "Approx. is used in notes, tables, labels, and informal technical material but may be avoided in continuous formal prose.",
+      "symbol": "The symbol ≈ means approximately equal to and is used chiefly in mathematical and scientific notation."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈprɑːksəmətli/",
+      "uk": "/əˈprɒksɪmətli/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "数値・数量などが正確ではないが、その値に近く",
+      "時刻・期間・距離などについて、およそ・約",
+      "測定値・計算結果などが一定の誤差を含みながら近似的に",
+      "二つの量・形・状態などが完全ではないものの、ほぼ等しく",
+      "入手可能な情報に基づく概算・推定として"
+    ],
+    "en": [
+      "for a number or quantity, close to but not exactly the stated value",
+      "for a time, duration, or distance, roughly or about",
+      "for a measurement or calculation, as an approximation allowing some error",
+      "for two quantities, forms, or conditions, nearly but not perfectly equally",
+      "as an estimate based on the information currently available"
+    ]
+  },
+  "nuance": {
+    "ja": "approximately は、数値が厳密ではないことを明示しつつ、合理的に近い値を示す。approximately 100 people なら、実際の人数が100人より少ない場合にも多い場合にも使える。これに対して nearly 100 people は通常「100人には届かないが、それに近い人数」を表す。roughly は概算の幅が比較的大きい印象を与えることがあり、about と around は日常会話でより自然である。契約・特許・技術仕様では approximately が許容範囲を自動的に確定するわけではないため、数値の境界が重要なら、公差・測定方法・具体的範囲を明記する必要がある。",
+    "en": "Approximately signals that a figure is not exact but is reasonably close to the stated value. Approximately 100 people can describe an actual number either below or above 100. By contrast, nearly 100 people normally means a number below but close to 100. Roughly may suggest a broader or less carefully calculated estimate, while about and around are more conversational. In contracts, patent claims, and technical specifications, approximately does not automatically establish a precise tolerance. When numerical boundaries matter, the permitted range, measurement method, or tolerance should be expressly defined."
+  },
+  "minimal": {
+    "ja": [
+      "approximately：正確ではないが合理的に近い値で、約・およそ。",
+      "about：数量・時刻などについて「約」を表す最も一般的な語。",
+      "around：about と同様に、数値・時刻などがおよそであることを表す口語的な語。",
+      "roughly：細かな正確さを求めない大まかな概算として。",
+      "nearly：一定の値には達していないが、非常に近く。",
+      "almost：状態・数量が完全な段階には達していないが、あとわずかで。",
+      "more or less：多少の差を許容して、おおむね・だいたい。",
+      "exactly：誤差や概算を含まず、正確に。"
+    ],
+    "en": [
+      "approximately means close to but not exactly a stated number, measurement, or value.",
+      "about is the most general word for indicating an inexact quantity or time.",
+      "around is a conversational alternative to about for an estimated number or time.",
+      "roughly presents a value as a broad estimate without fine precision.",
+      "nearly normally means below but very close to a particular number or state.",
+      "almost means close to but not fully reaching a particular state or quantity.",
+      "more or less means generally or approximately while allowing some variation.",
+      "exactly means with complete precision and without approximation or error."
+    ]
+  },
+  "etymology": {
+    "ja": "approximately は形容詞・動詞 approximate に副詞接尾辞 -ly を加えた語である。approximate はラテン語 approximare「近づける、近づく」に由来し、ad-「～へ」と proximus「最も近い」から構成される。proximus は near を意味する prope と関係する。したがって approximately の根本的な発想は、完全に一致するのではなく、ある値・状態へ近づいていることである。同じ語族には approximation「近似・概算」と proximity「近接」がある。",
+    "en": "Approximately is formed from approximate with the adverbial suffix -ly. Approximate derives from Latin approximare, meaning to bring near or come near, and combines ad-, meaning toward, with proximus, meaning nearest. Proximus is related to prope, meaning near. The underlying idea of approximately is therefore approaching a value or condition without coinciding with it exactly. Related words include approximation, meaning an estimated or near value, and proximity, meaning nearness."
+  },
+  "synonyms": [
+    {
+      "word": "about",
+      "note": {
+        "ja": "数値・時刻・距離などが正確ではなく、おおよその値であることを表す一般語。",
+        "en": "The general word for indicating that a number, time, or distance is not exact."
+      }
+    },
+    {
+      "word": "roughly",
+      "note": {
+        "ja": "細部の精度を重視しない、大まかな計算・推定であることを強調する。",
+        "en": "Emphasizes that a figure is a broad calculation or estimate without fine precision."
+      }
+    },
+    {
+      "word": "around",
+      "note": {
+        "ja": "数値・時刻などについて、about と同様に「およそ」を表す口語的な語。",
+        "en": "A conversational word meaning about when used with a number, quantity, or time."
+      }
+    },
+    {
+      "word": "more or less",
+      "note": {
+        "ja": "多少の違いや例外はあるものの、全体としておおむね当てはまる。",
+        "en": "Means generally or approximately, while allowing some difference or exceptions."
+      }
+    },
+    {
+      "word": "circa",
+      "note": {
+        "ja": "主として年代・日付の前で「およそ」を表す形式的な語で、c. と略される。",
+        "en": "A formal term used mainly before an approximate year or date and often abbreviated as c."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ungefähr / annähernd / circa",
+    "it": "circa / approssimativamente",
+    "fr": "environ / approximativement",
+    "es": "aproximadamente / alrededor de"
+  },
+  "collocations": {
+    "ja": [
+      "approximately 100 people — 約100人",
+      "approximately ten percent — 約10パーセント",
+      "approximately five kilometers — 約5キロメートル",
+      "at approximately noon — およそ正午に",
+      "for approximately two hours — 約2時間にわたって",
+      "approximately equal to — ～にほぼ等しい",
+      "approximately the same size — ほぼ同じ大きさ",
+      "approximately half the population — 人口のおよそ半分",
+      "approximately twice as large — およそ2倍の大きさ",
+      "weigh approximately one kilogram — 約1キログラムの重さがある",
+      "cost approximately $500 — 約500ドルかかる",
+      "approximately calculated — 近似的に計算された"
+    ],
+    "en": [
+      "approximately 100 people",
+      "approximately ten percent",
+      "approximately five kilometers",
+      "at approximately noon",
+      "for approximately two hours",
+      "approximately equal to",
+      "approximately the same size",
+      "approximately half the population",
+      "approximately twice as large",
+      "weigh approximately one kilogram",
+      "cost approximately $500",
+      "approximately calculated"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The journey takes approximately three hours by train. — その旅は列車で約3時間かかる。",
+      "Approximately fifty people attended the meeting. — 約50人がその会議に出席した。",
+      "The two containers are approximately the same size. — その二つの容器はほぼ同じ大きさである。",
+      "The repairs are expected to cost approximately ten thousand dollars. — 修理には約1万ドルかかると予想されている。",
+      "The specification states that the component should be positioned approximately five millimeters from the edge, but it does not define an express tolerance. — 明細書には、その部品を端から約5ミリメートルの位置に配置すべきだと記載されているが、明示的な公差は定義されていない。"
+    ],
+    "en": [
+      "The journey takes approximately three hours by train.",
+      "Approximately fifty people attended the meeting.",
+      "The two containers are approximately the same size.",
+      "The repairs are expected to cost approximately ten thousand dollars.",
+      "The specification states that the component should be positioned approximately five millimeters from the edge, but it does not define an express tolerance."
+    ]
+  }
+},
+{
+  "id": "ultimately",
+  "sid": "2026-01634",
+  "word": "ultimately",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "adverb",
+    "final result",
+    "conclusion",
+    "time",
+    "cause",
+    "responsibility",
+    "fundamental",
+    "decision",
+    "reasoning",
+    "business",
+    "legal",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adverb",
+    "forms": {
+      "base": "ultimately",
+      "adjective": "ultimate",
+      "noun": "ultimacy, rare",
+      "related_noun": "ultimate"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "ultimately + verb",
+      "be ultimately responsible for + noun",
+      "ultimately become + noun / adjective",
+      "ultimately lead to / result in + noun",
+      "ultimately decide / determine + noun",
+      "ultimately prove / turn out to be + noun / adjective",
+      "although ..., ultimately ...",
+      "but ultimately, + clause",
+      "ultimately, the question is whether + clause",
+      "depend ultimately on + noun"
+    ],
+    "usage": {
+      "outcome": "Ultimately can identify the final result reached after a process, series of events, or period of uncertainty.",
+      "fundamental": "It can also mean at the most basic or decisive level: The decision is ultimately yours.",
+      "position": "It can appear initially, medially, or before the principal verb, depending on emphasis.",
+      "not_sequence": "It does not normally mean last in a simple list of actions; finally or lastly may be more appropriate there.",
+      "responsibility": "Ultimately responsible emphasizes the person or institution bearing final or fundamental responsibility.",
+      "register": "The word is natural in conversation but especially common in analytical, professional, academic, and legal writing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈʌltəmətli/",
+      "uk": "/ˈʌltɪmətli/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "一連の出来事・検討・変化を経た最終的な結果として",
+      "長い時間や複数の試みの末に、結局は",
+      "多数の要因を突き詰めた最も根本的な水準では",
+      "最終的な決定権・責任・支配がある場所または人物において",
+      "表面的な事情ではなく、決定的な原因・目的に関して言えば"
+    ],
+    "en": [
+      "as the final result of a process, discussion, or series of events",
+      "eventually, after a long period or several attempts",
+      "at the most fundamental level after all relevant factors are considered",
+      "with reference to the person or institution holding final authority or responsibility",
+      "in relation to the decisive cause or purpose rather than superficial circumstances"
+    ]
+  },
+  "nuance": {
+    "ja": "ultimately は、時間的な最終結果と、論理的・根本的な帰着の双方を表す。The negotiations ultimately failed では、交渉の過程を経た末に失敗したという時間的結果である。The decision is ultimately yours では、最後に決めるという時間順序よりも、最終的な決定権があなたにあることを示す。eventually は時間の経過後に何かが起きることを強調し、finally は待機・困難・順序の末の最後を表しやすい。ultimately は複数の事情を考慮した上での最終的・決定的な帰結を示すため、分析・議論・法律文書で特に有用である。",
+    "en": "Ultimately expresses both a final result in time and a fundamental or logical conclusion. The negotiations ultimately failed describes the outcome reached after the negotiation process. The decision is ultimately yours concerns final authority rather than merely the chronological order of making the decision. Eventually emphasizes that something happens after the passage of time, while finally often emphasizes the end of a wait, difficulty, or sequence. Ultimately is particularly useful in analytical, argumentative, and legal contexts because it identifies the decisive conclusion remaining after multiple considerations have been taken into account."
+  },
+  "minimal": {
+    "ja": [
+      "ultimately：一連の過程の最終結果として、または突き詰めれば根本的に。",
+      "eventually：時間が経過した後、最終的にある出来事が起こって。",
+      "finally：待機・困難・順序などの末に、ついに・最後に。",
+      "in the end：さまざまな出来事・検討の後で、結局。",
+      "at last：長く待ったり努力したりした末に、ついに。感情を伴いやすい。",
+      "fundamentally：問題の最も基本的・本質的な水準で。",
+      "basically：細部を除き、基本的には。会話でもよく使う。",
+      "decisively：疑問・争いを終わらせるほど決定的な方法で。"
+    ],
+    "en": [
+      "ultimately means as the final outcome or, at the deepest level, when all considerations are reduced to what is decisive.",
+      "eventually means after a period of time, often without specifying exactly when.",
+      "finally emphasizes the end of a wait, difficulty, process, or sequence.",
+      "in the end means after all events, discussions, or considerations have occurred.",
+      "at last means after a long wait or effort and often conveys relief or another emotion.",
+      "fundamentally means at the most basic or essential level of a matter.",
+      "basically means in the most important respects while excluding unnecessary detail.",
+      "decisively means in a manner sufficient to settle a question, contest, or dispute."
+    ]
+  },
+  "etymology": {
+    "ja": "ultimately は形容詞 ultimate に副詞接尾辞 -ly を加えた語である。ultimate はラテン語 ultimus「最も遠い、最後の、最終の」に由来し、比較を表す語 ultra「～を越えて、さらに先に」と関係する。空間的に最も遠い地点という考えから、時間的な最後、過程の最終結果、さらに論理的に突き詰めた根本的な原因・原理という意味が発達した。ultimate は日常語で「最高の」という意味を持つこともあるが、ultimately は通常「最終的に」または「根本的には」を表す。",
+    "en": "Ultimately is formed from the adjective ultimate with the adverbial suffix -ly. Ultimate derives from Latin ultimus, meaning farthest, last, or final, and is related to ultra, meaning beyond. The spatial idea of the farthest point developed into the final point in time, the eventual outcome of a process, and the fundamental cause or principle reached when an analysis is carried to its limit. Although ultimate can informally mean the greatest or best, ultimately normally means in the final result or at the most fundamental level."
+  },
+  "synonyms": [
+    {
+      "word": "eventually",
+      "note": {
+        "ja": "すぐではないが、時間の経過や複数の出来事の後で最終的に起こる。",
+        "en": "Describes something occurring after time has passed or after several intervening events."
+      }
+    },
+    {
+      "word": "finally",
+      "note": {
+        "ja": "長い待機・努力・困難・一連の段階の終わりに、ついに起こる。",
+        "en": "Describes something occurring at the end of a long wait, effort, difficulty, or sequence."
+      }
+    },
+    {
+      "word": "in the end",
+      "note": {
+        "ja": "さまざまな出来事・議論・選択を経た結果として「結局」と述べる。",
+        "en": "Introduces the result remaining after various events, discussions, or choices."
+      }
+    },
+    {
+      "word": "fundamentally",
+      "note": {
+        "ja": "表面的な事情ではなく、問題の最も基本的・本質的な水準において。",
+        "en": "At the most basic or essential level of a matter rather than in its superficial details."
+      }
+    },
+    {
+      "word": "at bottom",
+      "note": {
+        "ja": "複雑な外見を取り除いて考えれば、根本的にはという形式的な表現。",
+        "en": "A formal expression meaning fundamentally, once the complexity or surface appearance is removed."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "letztlich / schließlich / im Grunde",
+    "it": "in definitiva / alla fine / fondamentalmente",
+    "fr": "en fin de compte / finalement / fondamentalement",
+    "es": "en última instancia / finalmente / en el fondo"
+  },
+  "collocations": {
+    "ja": [
+      "ultimately succeed — 最終的に成功する",
+      "ultimately fail — 最終的に失敗する",
+      "ultimately decide — 最終的に決定する",
+      "ultimately determine something — 最終的に何かを決定づける",
+      "ultimately lead to something — 最終的に何かにつながる",
+      "ultimately result in something — 最終的に何かという結果になる",
+      "ultimately prove to be correct — 最終的に正しいと判明する",
+      "be ultimately responsible — 最終的な責任を負う",
+      "ultimately depend on something — 最終的には何かに依存する",
+      "ultimately a matter of judgment — 突き詰めれば判断の問題",
+      "ultimately, the choice is yours — 最終的に選ぶのはあなたである",
+      "ultimately achieve one’s goal — 最終的に目標を達成する"
+    ],
+    "en": [
+      "ultimately succeed",
+      "ultimately fail",
+      "ultimately decide",
+      "ultimately determine something",
+      "ultimately lead to something",
+      "ultimately result in something",
+      "ultimately prove to be correct",
+      "be ultimately responsible",
+      "ultimately depend on something",
+      "ultimately a matter of judgment",
+      "ultimately, the choice is yours",
+      "ultimately achieve one’s goal"
+    ]
+  },
+  "example": {
+    "ja": [
+      "After considering several alternatives, we ultimately chose the least expensive option. — 複数の代替案を検討した後、私たちは最終的に最も費用の安い選択肢を選んだ。",
+      "The negotiations were difficult but ultimately successful. — 交渉は困難だったが、最終的には成功した。",
+      "The success of the project will ultimately depend on effective communication. — そのプロジェクトの成功は、最終的には効果的な意思疎通にかかっている。",
+      "Management can offer advice, but the decision is ultimately yours. — 経営陣は助言できるが、最終的な決定権はあなたにある。",
+      "Although the examiner initially objected to the claims, the patent was ultimately granted after several amendments. — 審査官は当初請求項に異議を示したが、複数回の補正を経て、最終的に特許が付与された。"
+    ],
+    "en": [
+      "After considering several alternatives, we ultimately chose the least expensive option.",
+      "The negotiations were difficult but ultimately successful.",
+      "The success of the project will ultimately depend on effective communication.",
+      "Management can offer advice, but the decision is ultimately yours.",
+      "Although the examiner initially objected to the claims, the patent was ultimately granted after several amendments."
+    ]
+  }
+},
+{
+  "id": "unpleasant",
+  "sid": "2026-01635",
+  "word": "unpleasant",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "discomfort",
+    "dislike",
+    "experience",
+    "sensation",
+    "behavior",
+    "personality",
+    "weather",
+    "emotion",
+    "conflict",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "unpleasant",
+      "comparative": "more unpleasant",
+      "superlative": "most unpleasant",
+      "noun": "unpleasantness",
+      "adverb": "unpleasantly",
+      "opposite": "pleasant"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an unpleasant + experience / situation",
+      "an unpleasant smell / taste / sensation",
+      "an unpleasant person",
+      "be / seem / become unpleasant",
+      "find something unpleasant",
+      "find it unpleasant to do",
+      "unpleasant for + person",
+      "unpleasant to + verb",
+      "unpleasant to deal with",
+      "the unpleasant fact / truth that + clause"
+    ],
+    "usage": {
+      "experience": "Unpleasant broadly describes something causing discomfort, dislike, distress, or dissatisfaction.",
+      "senses": "It commonly modifies smell, taste, sound, sensation, and other sensory experiences.",
+      "person": "Applied to a person, it normally criticizes that person as rude, hostile, or difficult rather than physically unattractive.",
+      "fact": "An unpleasant fact or truth is something unwelcome or distressing that nevertheless must be recognized.",
+      "comparison": "More unpleasant and most unpleasant are normally preferred to unpleasanter and unpleasantest.",
+      "register": "It is neutral in register and often serves as a restrained alternative to stronger words such as awful, horrible, or disgusting."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ʌnˈplezənt/",
+      "uk": "/ʌnˈplezənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "経験・状況などが不快感・苦痛・不満を生じさせる",
+      "匂い・味・音・感触などが感覚的に不快な",
+      "人の態度・性格が無礼・敵対的で、付き合いにくい",
+      "天候・環境などが過ごしにくく、快適でない",
+      "事実・知らせ・仕事などが受け入れ難く、好ましくない",
+      "会話・対立などが気まずく、精神的につらい"
+    ],
+    "en": [
+      "for an experience or situation, causing discomfort, distress, dislike, or dissatisfaction",
+      "for a smell, taste, sound, or sensation, offensive or disagreeable to the senses",
+      "for a person or manner, rude, hostile, or difficult to deal with",
+      "for weather or an environment, uncomfortable and undesirable",
+      "for a fact, piece of news, or task, unwelcome and difficult to accept",
+      "for a conversation or conflict, embarrassing, distressing, or emotionally difficult"
+    ]
+  },
+  "nuance": {
+    "ja": "unpleasant は、身体的・感覚的・感情的・社会的な不快さを幅広く表す。an unpleasant smell は嫌な臭い、an unpleasant conversation は気まずく苦痛な会話、an unpleasant person は無礼または意地が悪く接しにく:\/\/い人を指す。人について使っても、通常は外見が醜いという意味にはならない。not very pleasant より直接的に否定的だが、disgusting「吐き気を催すほど嫌な」、horrible「恐ろしいほどひどい」よりは抑制された表現として使える。業務上の説明では、露骨に強い非難を避けながら、状況が好ましくないことを明確に伝えられる。",
+    "en": "Unpleasant covers a wide range of physical, sensory, emotional, and social discomfort. An unpleasant smell is offensive to the senses, an unpleasant conversation is awkward or distressing, and an unpleasant person is rude, hostile, or difficult to deal with. Applied to a person, it does not normally mean physically unattractive. It is more directly negative than not very pleasant but often more restrained than disgusting, meaning offensively repulsive, or horrible, meaning extremely bad or distressing. In professional communication, it can clearly identify an undesirable situation without resorting to highly emotional language."
+  },
+  "minimal": {
+    "ja": [
+      "unpleasant：不快感・苦痛・嫌悪を生じさせる、好ましくない。",
+      "disagreeable：感覚・経験・人などが不快で、受け入れ難い。やや形式的。",
+      "uncomfortable：身体的または精神的に快適でなく、居心地が悪い。",
+      "nasty：非常に不快・意地悪・汚いなどを表す口語的で強い語。",
+      "offensive：感覚・道徳・礼儀などに反し、人を不快または立腹させる。",
+      "distressing：強い心配・悲しみ・苦痛を引き起こす。",
+      "awkward：社会的状況・会話などが気まずく、どう対応すべきか難しい。",
+      "pleasant：楽しく、心地よく、好ましい。unpleasant の反対語。"
+    ],
+    "en": [
+      "unpleasant means causing discomfort, distress, dislike, or dissatisfaction.",
+      "disagreeable is a somewhat formal word for a person, sensation, or experience that is difficult to like or accept.",
+      "uncomfortable means not physically or emotionally at ease.",
+      "nasty is a stronger informal word for something highly unpleasant, dirty, cruel, or offensive.",
+      "offensive describes something that insults, disgusts, or violates accepted standards of behavior.",
+      "distressing describes something causing serious worry, sadness, or emotional pain.",
+      "awkward describes a social situation or conversation that is embarrassing and difficult to handle.",
+      "pleasant means enjoyable, comfortable, or agreeable and is the opposite of unpleasant."
+    ]
+  },
+  "etymology": {
+    "ja": "unpleasant は否定を表す接頭辞 un- と pleasant から形成された。pleasant は古フランス語 plaisant「喜ばせる、心地よい」を経て、plaisir「喜ばせる」に関係する語から英語に入った。そのさらに古い起源はラテン語 placere「喜ばせる、気に入られる」である。したがって unpleasant は文字どおりには「喜びや心地よさを与えない」という意味であり、そこから感覚的な不快さ、人間関係上の不愉快さ、受け入れ難い事実などを広く表すようになった。",
+    "en": "Unpleasant is formed from the negative prefix un- and pleasant. Pleasant entered English through Old French plaisant, meaning pleasing or agreeable, from a verb related to plaisir, to please. Its deeper source is Latin placere, meaning to please or be agreeable. Unpleasant therefore literally means not giving pleasure or comfort. Its use expanded to cover offensive sensations, difficult social conduct, distressing experiences, and unwelcome facts."
+  },
+  "synonyms": [
+    {
+      "word": "disagreeable",
+      "note": {
+        "ja": "人・感覚・経験などが不快で、好意的に受け入れにくいことを表すやや形式的な語。",
+        "en": "A somewhat formal word for a person, sensation, or experience that is difficult to like or accept."
+      }
+    },
+    {
+      "word": "uncomfortable",
+      "note": {
+        "ja": "姿勢・温度・状況・話題などSTAによって、身体的または精神的に居心地が悪い。",
+        "en": "Describes physical or emotional unease caused by a position, temperature, situation, or subject."
+      }
+    },
+    {
+      "word": "nasty",
+      "note": {
+        "ja": "匂い・天候・怪我・人の態度などがひどく不快であることを表す強い口語語。",
+        "en": "A strong informal word for a smell, weather condition, injury, or attitude that is seriously unpleasant."
+      }
+    },
+    {
+      "word": "objectionable",
+      "note": {
+        "ja": "内容・行動・性質などに、反対・非難すべき理由がある。",
+        "en": "Describes content, conduct, or a quality that provides a reason for objection or criticism."
+      }
+    },
+    {
+      "word": "distasteful",
+      "note": {
+        "ja": "行為・話題・仕事などが趣味・道徳・感情に反し、嫌悪感を生じさせる。",
+        "en": "Describes conduct, a subject, or a task that conflicts with one’s taste, morals, or feelings."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "unangenehm / unsympathisch",
+    "it": "spiacevole / sgradevole",
+    "fr": "désagréable",
+    "es": "desagradable"
+  },
+  "collocations": {
+    "ja": [
+      "an unpleasant experience — 不快な経験",
+      "an unpleasant situation — 好ましくない状況",
+      "an unpleasant surprise — 嫌な驚き、予想外の悪い出来事",
+      "an unpleasant smell — 嫌な臭い",
+      "an unpleasant taste — 不快な味",
+      "an unpleasant sensation — 不快な感覚",
+      "an unpleasant person — 感じが悪く付き合いにくい人",
+      "an unpleasant conversation — 気まずく不快な会話",
+      "an unpleasant task — 気の進まない仕事",
+      "the unpleasant truth — 受け入れ難い真実",
+      "be unpleasant to deal with — 対応しづらく不愉快である",
+      "find something deeply unpleasant — 何かを非常に不快だと感じる"
+    ],
+    "en": [
+      "an unpleasant experience",
+      "an unpleasant situation",
+      "an unpleasant surprise",
+      "an unpleasant smell",
+      "an unpleasant taste",
+      "an unpleasant sensation",
+      "an unpleasant person",
+      "an unpleasant conversation",
+      "an unpleasant task",
+      "the unpleasant truth",
+      "be unpleasant to deal with",
+      "find something deeply unpleasant"
+    ]
+  },
+  "example": {
+    "ja": [
+      "There was an unpleasant smell coming from the refrigerator. — 冷蔵庫から嫌な臭いがしていた。",
+      "We had an unpleasant conversation about the unpaid bills. — 私たちは未払いの請求書について気まずい話し合いをした。",
+      "The medicine left an unpleasant taste in my mouth. — その薬は口の中に不快な味を残した。",
+      "It was an unpleasant experience, but I learned something valuable from it. — それは不快な経験だったが、私はそこから大切なことを学んだ。",
+      "Receiving a refusal can be unpleasant, but the applicant should carefully analyze the examiner’s reasoning before deciding whether to amend the patent claims. — 拒絶を受けるのは不快なこともあるが、出願人は特許請求項を補正するか決める前に、審査官の論理を慎重に分析すべきである。"
+    ],
+    "en": [
+      "There was an unpleasant smell coming from the refrigerator.",
+      "We had an unpleasant conversation about the unpaid bills.",
+      "The medicine left an unpleasant taste in my mouth.",
+      "It was an unpleasant experience, but I learned something valuable from it.",
+      "Receiving a refusal can be unpleasant, but the applicant should carefully analyze the examiner’s reasoning before deciding whether to amend the patent claims."
+    ]
+  }
 }
 ]
