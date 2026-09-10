@@ -10415,5 +10415,988 @@
       "A patent attorney must examine the wording of each claim carefully while keeping the client’s broader intellectual property strategy—the big picture—in mind."
     ]
   }
+},
+{
+  "id": "artifact",
+  "sid": "2026-01628",
+  "word": "artifact",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "human-made object",
+    "archaeology",
+    "history",
+    "culture",
+    "science",
+    "research",
+    "measurement",
+    "medical imaging",
+    "software",
+    "technology",
+    "intellectual property",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "artifacts",
+    "forms": {
+      "singular": "artifact",
+      "plural": "artifacts",
+      "British_variant": "artefact",
+      "British_plural": "artefacts",
+      "adjective": "artifactual / artefactual",
+      "related_adverb": "artifactually"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an ancient / cultural artifact",
+      "an artifact from + period / place",
+      "a collection of artifacts",
+      "discover / excavate an artifact",
+      "preserve / display an artifact",
+      "an artifact of + process / method",
+      "a measurement / imaging artifact",
+      "introduce / produce an artifact",
+      "a software / build artifact",
+      "remove / correct for artifacts"
+    ],
+    "usage": {
+      "spelling": "Artifact is the standard American spelling; artefact is common in British English, although artifact is also used.",
+      "archaeology": "In archaeology, an artifact is a movable object made, modified, or used by humans.",
+      "science": "In research, an artifact is an apparent result created by the experimental method, equipment, sampling, or data processing rather than by the phenomenon being studied.",
+      "medicine": "In medical imaging, an artifact is a misleading feature or distortion caused by movement, equipment, reconstruction, or another technical factor.",
+      "software": "In software development, an artifact is a file or package produced or used during development, building, testing, or deployment.",
+      "figurative": "Artifact of can describe something produced by a particular system, historical period, or method rather than an inherent feature of the subject."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɑːrtɪˌfækt/",
+      "uk": "/ˈɑːtɪfækt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人間によって作られ、加工され、または使用された物",
+      "考古学・歴史学上の遺物・人工物",
+      "特定の文化・時代・社会を示す物的資料",
+      "測定・実験・画像処理などによって人工的に生じた、本来存在しない結果・像",
+      "ソフトウェアの開発・ビルド・テストによって生成されるファイルや成果物",
+      "特定の制度・方法・歴史的事情によって生じた副産物"
+    ],
+    "en": [
+      "an object made, modified, or used by human beings",
+      "a human-made object studied in archaeology or history",
+      "a material object providing evidence of a particular culture, period, or society",
+      "an apparent result or feature artificially produced by measurement, experimentation, or image processing",
+      "a file or package generated during software development, building, testing, or deployment",
+      "a by-product produced by a particular system, method, or historical circumstance"
+    ]
+  },
+  "nuance": {
+    "ja": "artifact の意味は分野によって評価が大きく異なる。考古学では、人間の活動を示す土器・道具・硬貨などの価値ある資料を指し、否定的な意味はない。科学・医学では、観察対象そのものではなく、測定装置・標本作製・被験者の動き・データ処理などによって生じた見かけ上の特徴を指し、誤った結論を避けるため除外・補正すべきものとなる。ITでは、実行ファイル・ライブラリー・ログ・テスト結果など、工程によって生成された成果物を中立的に表す。したがって an artifact of the method は「その方法が作り出した人工的結果」であり、歴史的遺物を意味しない。",
+    "en": "The evaluation of artifact differs substantially by field. In archaeology, it is a valuable source of evidence about human activity, such as pottery, tools, or coins, and carries no negative implication. In science and medicine, it is an apparent feature produced by equipment, specimen preparation, participant movement, data processing, or another aspect of the method rather than by the subject itself. Such an artifact may need to be excluded or corrected to avoid a false conclusion. In computing, the word neutrally denotes an output such as an executable file, library, log, or test report. An artifact of the method therefore means an artificial result created by the method, not a historical object."
+  },
+  "minimal": {
+    "ja": [
+      "artifact：人が作った物、または測定・処理によって人工的に生じた結果。",
+      "relic：過去の時代・人物から残された物で、歴史的・宗教的価値を持つことがある。",
+      "antiquity：古代の物品、または古代という時代。通常、非常に古い物を指す。",
+      "specimen：研究・検査・展示のために採取・選択された標本。",
+      "fossil：過去の生物の遺骸・痕跡が地層などに保存されたもの。",
+      "anomaly：通常のパターン・予測・基準から外れた異常な結果。",
+      "error：測定値・計算・判断などに含まれる誤りや偏差。",
+      "software artifact：開発・ビルド・テストなどの工程で生成・使用されるファイルや成果物。"
+    ],
+    "en": [
+      "an artifact is a human-made object or an artificial result produced by a method of observation or processing.",
+      "a relic is an object surviving from the past and may possess historical or religious importance.",
+      "an antiquity is an object from ancient times, or the term may refer to the ancient period itself.",
+      "a specimen is an example selected or collected for examination, research, or display.",
+      "a fossil is the preserved remains or trace of an organism from an earlier geological period.",
+      "an anomaly is a result that differs from an expected pattern, prediction, or standard.",
+      "an error is an inaccuracy or deviation in measurement, calculation, or judgment.",
+      "a software artifact is a file or deliverable generated or used during development, building, or testing."
+    ]
+  },
+  "etymology": {
+    "ja": "artifact はラテン語 arte factum「技術によって作られたもの」に由来する。arte は ars「技術、技能」の奪格形、factum は facere「作る」の過去分詞に由来し、全体として「人の技によって作られた物」という意味を持った。ここから、自然物と対比される人工物、とくに考古学上の遺物を表す意味が定着した。さらに科学では、自然に存在する現象ではなく、観察・実験の手続きによって作られた結果を指すようになった。アメリカ英語では artifact、イギリス英語では artefact の綴りが伝統的に多い。",
+    "en": "Artifact derives from the Latin expression arte factum, meaning something made by skill. Arte is a form of ars, meaning art or skill, and factum derives from the past participle of facere, to make. The word consequently came to denote an object made by human workmanship rather than a naturally occurring object, especially in archaeology. Scientific usage extended the idea to a result created by the procedure of observation or experimentation rather than by the phenomenon under investigation. Artifact is standard in American English, while artefact has traditionally been common in British English."
+  },
+  "synonyms": [
+    {
+      "word": "relic",
+      "note": {
+        "ja": "過去の時代・文化・人物から残された物で、歴史的・宗教的な意義を持つことがある。",
+        "en": "An object surviving from a past period, culture, or person and sometimes possessing historical or religious significance."
+      }
+    },
+    {
+      "word": "antiquity",
+      "note": {
+        "ja": "古代に由来する物品を表し、artifact より年代の古さを強調する。",
+        "en": "An object originating in ancient times, emphasizing greater age than the general term artifact."
+      }
+    },
+    {
+      "word": "man-made object",
+      "note": {
+        "ja": "自然に形成された物ではなく、人間が作成・加工した物を直接的に表す。",
+        "en": "A direct expression for an object created or modified by humans rather than formed naturally."
+      }
+    },
+    {
+      "word": "distortion",
+      "note": {
+        "ja": "画像・音・信号・情報などが元の状態から不正確に変形したもの。",
+        "en": "An inaccurate alteration of an image, sound, signal, or item of information from its original form."
+      }
+    },
+    {
+      "word": "by-product",
+      "note": {
+        "ja": "主要な目的物を作る過程で、付随的・二次的に生じる物や結果。",
+        "en": "A secondary object or result produced incidentally during a process directed toward another principal output."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Artefakt / Fundstück",
+    "it": "artefatto / reperto",
+    "fr": "artefact / objet façonné",
+    "es": "artefacto / objeto arqueológico"
+  },
+  "collocations": {
+    "ja": [
+      "an ancient artifact — 古代の人工物・遺物",
+      "a cultural artifact — 文化的人工物",
+      "an archaeological artifact — 考古学的遺物",
+      "a historical artifact — 歴史的遺物",
+      "a collection of artifacts — 遺物のコレクション",
+      "discover an artifact — 遺物を発見する",
+      "preserve an artifact — 遺物を保存する",
+      "an artifact of the measurement process — 測定過程による人工的結果",
+      "an imaging artifact — 画像上のアーチファクト",
+      "remove visual artifacts — 画像上の人工的な乱れを除去する",
+      "a software artifact — ソフトウェア成果物",
+      "a build artifact — ビルドによって生成された成果物"
+    ],
+    "en": [
+      "an ancient artifact",
+      "a cultural artifact",
+      "an archaeological artifact",
+      "a historical artifact",
+      "a collection of artifacts",
+      "discover an artifact",
+      "preserve an artifact",
+      "an artifact of the measurement process",
+      "an imaging artifact",
+      "remove visual artifacts",
+      "a software artifact",
+      "a build artifact"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Archaeologists discovered several bronze artifacts near the ancient settlement. — 考古学者たちは古代集落の近くで、複数の青銅製遺物を発見した。",
+      "The museum preserves artifacts that illustrate the daily life of the region’s former inhabitants. — その博物館は、かつての地域住民の日常生活を示す遺物を保存している。",
+      "Researchers concluded that the unusual result was an artifact of the measurement process. — 研究者たちは、その異常な結果が測定過程によって人工的に生じたものだと結論づけた。",
+      "The deployment failed because the required build artifact was missing from the server. — 必要なビルド成果物がサーバーに存在しなかったため、デプロイに失敗した。",
+      "A prototype may constitute relevant evidence of the invention’s development, but whether it is prior art cannot be determined merely by calling it an artifact. — 試作品は発明の開発を示す関連証拠となり得るが、それを単に人工物と呼ぶだけでは、先行技術に該当するかどうかを判断できない。"
+    ],
+    "en": [
+      "Archaeologists discovered several bronze artifacts near the ancient settlement.",
+      "The museum preserves artifacts that illustrate the daily life of the region’s former inhabitants.",
+      "Researchers concluded that the unusual result was an artifact of the measurement process.",
+      "The deployment failed because the required build artifact was missing from the server.",
+      "A prototype may constitute relevant evidence of the invention’s development, but whether it is prior art cannot be determined merely by calling it an artifact."
+    ]
+  }
+},
+{
+  "id": "proponent",
+  "sid": "2026-01629",
+  "word": "proponent",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "support",
+    "advocacy",
+    "proposal",
+    "argument",
+    "theory",
+    "policy",
+    "debate",
+    "politics",
+    "business",
+    "legal",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "proponents",
+    "forms": {
+      "singular": "proponent",
+      "plural": "proponents",
+      "opposite": "opponent",
+      "related_verb": "propose",
+      "related_noun": "proposal"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a proponent of + noun",
+      "a proponent of + gerund",
+      "a leading / major / prominent proponent",
+      "a strong / enthusiastic proponent",
+      "an early / longtime proponent",
+      "proponents of the view that + clause",
+      "proponents argue / claim / maintain that + clause",
+      "according to proponents of + noun",
+      "proponents and opponents",
+      "become / remain a proponent of + noun"
+    ],
+    "usage": {
+      "preposition": "Proponent is normally followed by of: a proponent of reform, not a proponent for reform.",
+      "person": "The noun usually refers to a person, organization, or group actively supporting and promoting an idea, proposal, theory, or policy.",
+      "active_support": "It often implies public, reasoned, or sustained advocacy rather than private agreement alone.",
+      "clause": "Use proponents of the view that when introducing a proposition supported by a group.",
+      "opposite": "Opponent is the ordinary contrasting term for someone who opposes the proposal or position.",
+      "register": "Proponent is common in academic, political, legal, scientific, and public-policy discussion and is more formal than supporter."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prəˈpoʊnənt/",
+      "uk": "/prəˈpəʊnənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "提案・政策・制度などを支持し、その採用を主張する人",
+      "理論・思想・見解などを積極的に擁護する人物",
+      "新しい方法・改革・技術などの導入を推進する人",
+      "議論において特定の立場を提示し、その正当性を主張する側",
+      "法律・計画などの成立・承認を求める個人・組織"
+    ],
+    "en": [
+      "a person who supports a proposal, policy, or system and argues for its adoption",
+      "someone who actively defends a theory, idea, or point of view",
+      "a person promoting the introduction of a new method, reform, or technology",
+      "the party presenting and defending a particular position in a debate",
+      "an individual or organization seeking the enactment or approval of a law or plan"
+    ]
+  },
+  "nuance": {
+    "ja": "proponent は supporter より形式的で、単に賛成しているだけでなく、提案・理論・制度などを積極的に提示・擁護・推進する人を表すことが多い。a proponent of renewable energy なら、再生可能エネルギーに好意的なだけでなく、その利用拡大を公に主張する人物を連想させる。advocate と近いが、advocate は他人の権利・利益を代弁する意味にも広く使われる一方、proponent は特定の考え・計画・主張との結び付きが強い。提案を最初に考案した本人である必要はない。また、proponent という語自体は、支持される立場が正しいことを意味しない。",
+    "en": "Proponent is more formal than supporter and often describes someone who actively presents, defends, or promotes a proposal, theory, or system rather than merely agreeing with it privately. A proponent of renewable energy suggests a person who publicly argues for its wider use. It overlaps with advocate, but advocate is also commonly used for someone defending another person’s rights or interests, whereas proponent is particularly closely associated with an idea, plan, theory, or position. A proponent need not have originated the proposal. The word itself does not imply that the supported position is correct."
+  },
+  "minimal": {
+    "ja": [
+      "proponent：提案・理論・政策などを積極的に支持し、その採用を主張する人。",
+      "supporter：人・団体・考えなどを支持する人を表す最も一般的な語。",
+      "advocate：政策・権利・行動などを公に支持・擁護する人。",
+      "champion：人・運動・改革などを熱心かつ力強く推進する人。",
+      "backer：計画・事業・候補者などを資金・影響力によって支援する人。",
+      "exponent：理論・思想・芸術などを代表し、説明・実践する人物。",
+      "opponent：提案・人物・立場などに反対する人。",
+      "critic：考え・政策・作品などの欠点を分析し、批判する人。"
+    ],
+    "en": [
+      "a proponent actively supports and argues for a proposal, theory, policy, or position.",
+      "a supporter is the most general term for a person who approves of or assists a person, group, or idea.",
+      "an advocate publicly supports or defends a policy, right, action, or another person’s interests.",
+      "a champion vigorously promotes a person, movement, reform, or cause.",
+      "a backer supports a project, business, or candidate through money, influence, or practical assistance.",
+      "an exponent represents, explains, or practices a particular theory, philosophy, or artistic style.",
+      "an opponent is a person who opposes a proposal, position, or individual.",
+      "a critic analyzes and points out defects in an idea, policy, work, or performance."
+    ]
+  },
+  "etymology": {
+    "ja": "proponent はラテン語 proponens に由来し、これは proponere「前に置く、提示する、提案する」の現在分詞である。proponere は pro-「前に」と ponere「置く」から構成される。したがって proponent は本来、考え・命題・計画などを人々の前に提示する者を意味した。そこから、その提案を提出するだけでなく、その正当性を主張し、採用を推進する人物を表すようになった。propose「提案する」、proposal「提案」、proposition「命題・提案」も同じラテン語系統に属する。",
+    "en": "Proponent derives from Latin proponens, the present participle of proponere, meaning to put forward or propose. Proponere is formed from pro-, meaning forward, and ponere, meaning to place. A proponent was therefore originally a person who placed an idea, proposition, or plan before others. The meaning expanded from merely presenting the proposal to defending its merits and promoting its adoption. Propose, proposal, and proposition belong to the same Latin word family."
+  },
+  "synonyms": [
+    {
+      "word": "advocate",
+      "note": {
+        "ja": "特定の政策・権利・理念などを公に支持し、その実現を求める人。",
+        "en": "A person who publicly supports a policy, right, or cause and argues for its implementation."
+      }
+    },
+    {
+      "word": "supporter",
+      "note": {
+        "ja": "人・組織・計画・考えなどに賛成し、支援する人を広く表す。",
+        "en": "The broad term for someone who approves of or assists a person, organization, plan, or idea."
+      }
+    },
+    {
+      "word": "champion",
+      "note": {
+        "ja": "運動・改革・集団などを熱心かつ公然と擁護・推進する人物。",
+        "en": "A person who enthusiastically and publicly defends or promotes a movement, reform, or group."
+      }
+    },
+    {
+      "word": "exponent",
+      "note": {
+        "ja": "特定の理論・思想・方法・芸術様式などを代表し、説明・実践する人。",
+        "en": "A person who represents, explains, or practices a particular theory, philosophy, method, or artistic style."
+      }
+    },
+    {
+      "word": "backer",
+      "note": {
+        "ja": "資金・影響力・実務的支援によって計画・事業・候補者などを支える人。",
+        "en": "A person who supports a project, business, or candidate with money, influence, or practical assistance."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Befürworter / Verfechter",
+    "it": "sostenitore / fautore",
+    "fr": "partisan / promoteur / défenseur",
+    "es": "partidario / defensor / promotor"
+  },
+  "collocations": {
+    "ja": [
+      "a proponent of reform — 改革の支持者",
+      "a proponent of free trade — 自由貿易の提唱者",
+      "a proponent of renewable energy — 再生可能エネルギーの推進者",
+      "a leading proponent — 主要な提唱者",
+      "a prominent proponent — 著名な支持者・提唱者",
+      "a strong proponent — 強力な支持者",
+      "an enthusiastic proponent — 熱心な推進者",
+      "an early proponent — 初期からの提唱者",
+      "a longtime proponent — 長年の支持者",
+      "proponents of the theory — その理論の支持者",
+      "proponents argue that ... — 支持者たちは～と主張する",
+      "proponents and opponents — 賛成派と反対派"
+    ],
+    "en": [
+      "a proponent of reform",
+      "a proponent of free trade",
+      "a proponent of renewable energy",
+      "a leading proponent",
+      "a prominent proponent",
+      "a strong proponent",
+      "an enthusiastic proponent",
+      "an early proponent",
+      "a longtime proponent",
+      "proponents of the theory",
+      "proponents argue that ...",
+      "proponents and opponents"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She has long been a proponent of greater investment in public transportation. — 彼女は長年、公共交通機関への投資拡大を提唱してきた。",
+      "Proponents of the policy argue that it will reduce regional inequality. — その政策の支持者たちは、政策によって地域格差が縮小すると主張している。",
+      "He became a leading proponent of using technology in education. — 彼は教育における技術利用の主要な推進者となった。",
+      "Even its strongest proponents acknowledge that the proposal involves significant risks. — その提案の最も強力な支持者たちでさえ、重大なリスクを伴うことを認めている。",
+      "Proponents of utility model protection argue that it offers a faster and less expensive means of protecting incremental technical innovation. — 実用新案による保護の支持者は、それが段階的な技術革新を迅速かつ低費用で保護する手段になると主張している。"
+    ],
+    "en": [
+      "She has long been a proponent of greater investment in public transportation.",
+      "Proponents of the policy argue that it will reduce regional inequality.",
+      "He became a leading proponent of using technology in education.",
+      "Even its strongest proponents acknowledge that the proposal involves significant risks.",
+      "Proponents of utility model protection argue that it offers a faster and less expensive means of protecting incremental technical innovation."
+    ]
+  }
+},
+{
+  "id": "opponent",
+  "sid": "2026-01630",
+  "word": "opponent",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "opposition",
+    "competition",
+    "sports",
+    "debate",
+    "politics",
+    "election",
+    "policy",
+    "argument",
+    "legal",
+    "business",
+    "conflict",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "opponents",
+    "forms": {
+      "singular": "opponent",
+      "plural": "opponents",
+      "related_verb": "oppose",
+      "related_noun": "opposition",
+      "related_adjective": "opposing",
+      "opposite": "proponent"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an opponent of + noun / gerund",
+      "an opponent in + contest / election / debate",
+      "a political / electoral opponent",
+      "a strong / formidable opponent",
+      "a leading / vocal opponent",
+      "defeat / face an opponent",
+      "outperform / underestimate an opponent",
+      "opponents of the proposal",
+      "proponents and opponents",
+      "one’s main / principal opponent"
+    ],
+    "usage": {
+      "opposition": "An opponent of a policy or proposal is someone who actively disagrees with or resists it.",
+      "competition": "In sports, elections, games, and debates, an opponent is the person or team competing against another.",
+      "prepositions": "Use of for the object opposed and in for the contest: an opponent of the policy; her opponent in the election.",
+      "not_enemy": "An opponent competes with or opposes someone but is not necessarily an enemy or personally hostile.",
+      "legal_context": "In legal discussion, opponent can describe the other side informally, but opposing party, adverse party, respondent, or defendant may be more precise.",
+      "register": "The word is natural in everyday, political, sporting, academic, and professional communication."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈpoʊnənt/",
+      "uk": "/əˈpəʊnənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "試合・競技・ゲームなどで競い合う相手",
+      "選挙・討論・競争などで対立する候補者・人物",
+      "政策・提案・制度などに反対する人",
+      "議論において反対の立場を主張する人・集団",
+      "訴訟・交渉などで反対側に立つ当事者",
+      "活動・改革などの実施を阻止しようとする人物"
+    ],
+    "en": [
+      "a person or team competing against another in a sport, contest, or game",
+      "a candidate or person competing against another in an election, debate, or competition",
+      "someone who disagrees with and opposes a policy, proposal, or system",
+      "a person or group arguing for the contrary position in a discussion",
+      "a party taking the opposing side in litigation or negotiation",
+      "someone attempting to prevent the introduction of an activity or reform"
+    ]
+  },
+  "nuance": {
+    "ja": "opponent は、ある人と直接競争する相手と、特定の考え・政策に反対する人の両方を表す。スポーツでは defeat an opponent「対戦相手を破る」、政治では an opponent of the reform「改革への反対者」のように使う。enemy と異なり、個人的な憎悪や武力的な敵対を意味せず、試合後も相手を尊重できる。competitor は同じ市場・大会などで利益や順位を競うことに重点があり、必ずしも相手の意見に反対しているわけではない。proponent と対比する場合、opponent は特定の提案・立場の採用に反対する側を表す。",
+    "en": "Opponent can describe both a direct competitor and a person who opposes a particular idea or policy. In sport, one defeats or faces an opponent; in politics, an opponent of reform argues against the proposed change. Unlike enemy, opponent does not necessarily imply personal hatred, armed hostility, or a desire to cause harm. Competitor emphasizes pursuit of the same prize, market, or ranking and does not necessarily imply disagreement with another person’s position. When contrasted with proponent, opponent means the individual or side arguing against the adoption of a proposal or viewpoint."
+  },
+  "minimal": {
+    "ja": [
+      "opponent：競技・選挙などで争う相手、または提案・政策への反対者。",
+      "proponent：提案・理論・政策などを積極的に支持・推進する人。",
+      "competitor：同じ市場・賞・順位・目標などをめぐって競う人・企業。",
+      "rival：長期間にわたり同じ目標・地位を争う競争相手。",
+      "adversary：対立・訴訟・戦いなどで向かい合う敵対的な相手。やや形式的。",
+      "enemy：人・国家などに強い敵意を持ち、害を与えようとする敵。",
+      "critic：考え・政策・作品などの欠点を指摘し、否定的に評価する人。",
+      "opposing party：訴訟・交渉などで反対側に立つ当事者。"
+    ],
+    "en": [
+      "an opponent is a person or team one competes against or someone opposing a proposal or policy.",
+      "a proponent actively supports and promotes a proposal, theory, policy, or position.",
+      "a competitor pursues the same market, prize, ranking, or objective as another person or company.",
+      "a rival competes over time for the same objective, position, or status.",
+      "an adversary is a relatively formal term for a hostile opposing party in conflict, litigation, or struggle.",
+      "an enemy is a person or state regarded with hostility and potentially an intention to cause harm.",
+      "a critic identifies defects in and expresses a negative judgment about an idea, policy, or work.",
+      "an opposing party is the party taking the other side in litigation or negotiation."
+    ]
+  },
+  "etymology": {
+    "ja": "opponent はラテン語 opponens に由来し、これは opponere「～に対して置く、対抗させる」の現在分詞である。opponere は ob-「～に対して」と ponere「置く」から構成され、文字どおりには「向かい側に置く」という意味を持った。そこから、議論で反対の立場を取る人、さらに試合・選挙・競争などで向かい合う相手を表すようになった。oppose「反対する」、opposition「反対・野党・対抗」、opposing「反対側の」も同じ語族に属する。",
+    "en": "Opponent derives from Latin opponens, the present participle of opponere, meaning to place against or set in opposition. Opponere combines ob-, meaning against, with ponere, meaning to place. The original idea was therefore placing someone or something on the opposite side. The noun developed from a person taking the contrary side in an argument into a general term for someone faced in sport, elections, competition, or conflict. Oppose, opposition, and opposing belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "competitor",
+      "note": {
+        "ja": "市場・大会・試験などで、同じ利益・賞・順位を目指して競争する相手。",
+        "en": "A person or organization competing for the same market, prize, ranking, or advantage."
+      }
+    },
+    {
+      "word": "rival",
+      "note": {
+        "ja": "同じ地位・成功・優位性をめぐって継続的に争う競争相手。",
+        "en": "A person or organization engaged in continuing competition for the same position, success, or superiority."
+      }
+    },
+    {
+      "word": "adversary",
+      "note": {
+        "ja": "争い・訴訟・対立において反対側に立つ、やや形式的で敵対性の強い語。",
+        "en": "A relatively formal and more hostile term for the opposing side in conflict, litigation, or struggle."
+      }
+    },
+    {
+      "word": "detractor",
+      "note": {
+        "ja": "人・計画・作品などを否定的に評価し、その価値を低く述べる人。",
+        "en": "A person who criticizes and attempts to reduce the perceived value of someone, a plan, or a work."
+      }
+    },
+    {
+      "word": "objector",
+      "note": {
+        "ja": "計画・手続き・提案などに対して、正式または明示的に異議を述べる人。",
+        "en": "A person who formally or expressly raises an objection to a plan, procedure, or proposal."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Gegner / Kontrahent",
+    "it": "avversario / oppositore",
+    "fr": "adversaire / opposant",
+    "es": "oponente / adversario"
+  },
+  "collocations": {
+    "ja": [
+      "a political opponent — 政敵、政治上の対立候補",
+      "an electoral opponent — 選挙の対立候補",
+      "a formidable opponent — 手ごわい相手",
+      "a strong opponent — 強力な対戦相手、強硬な反対者",
+      "a leading opponent — 主要な反対者",
+      "a vocal opponent — 公然と強く反対する人",
+      "one’s main opponent — 最大の対戦・競争相手",
+      "face an opponent — 対戦相手と向き合う",
+      "defeat an opponent — 対戦相手を破る",
+      "underestimate an opponent — 相手を過小評価する",
+      "an opponent of the proposal — その提案への反対者",
+      "proponents and opponents — 賛成派と反対派"
+    ],
+    "en": [
+      "a political opponent",
+      "an electoral opponent",
+      "a formidable opponent",
+      "a strong opponent",
+      "a leading opponent",
+      "a vocal opponent",
+      "one’s main opponent",
+      "face an opponent",
+      "defeat an opponent",
+      "underestimate an opponent",
+      "an opponent of the proposal",
+      "proponents and opponents"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She defeated a much more experienced opponent in the final. — 彼女は決勝で、はるかに経験豊富な対戦相手を破った。",
+      "He treated his political opponents with respect despite their sharp disagreements. — 彼は激しい意見の相違にもかかわらず、政治上の対立者に敬意をもって接した。",
+      "Opponents of the development plan argue that it will damage the local environment. — その開発計画への反対者は、計画が地域環境を損なうと主張している。",
+      "Never underestimate an opponent merely because they appear inexperienced. — 経験が浅そうに見えるというだけで、相手を決して過小評価してはいけない。",
+      "The opponent in the patent dispute challenged both the validity of the patent and the allegation of infringement. — 特許紛争の相手方は、特許の有効性と侵害の主張の双方を争った。"
+    ],
+    "en": [
+      "She defeated a much more experienced opponent in the final.",
+      "He treated his political opponents with respect despite their sharp disagreements.",
+      "Opponents of the development plan argue that it will damage the local environment.",
+      "Never underestimate an opponent merely because they appear inexperienced.",
+      "The opponent in the patent dispute challenged both the validity of the patent and the allegation of infringement."
+    ]
+  }
+},
+{
+  "id": "compensate",
+  "sid": "2026-01631",
+  "word": "compensate",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "compensation",
+    "payment",
+    "loss",
+    "damage",
+    "employment",
+    "balance",
+    "offset",
+    "adaptation",
+    "business",
+    "legal",
+    "medical",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "compensate",
+      "third_person": "compensates",
+      "past": "compensated",
+      "past_participle": "compensated",
+      "gerund": "compensating",
+      "noun": "compensation",
+      "adjective": "compensatory"
+    },
+    "transitivity": "transitive or intransitive depending on construction",
+    "patterns": [
+      "compensate + person",
+      "compensate someone for + loss / damage",
+      "compensate someone for + gerund",
+      "compensate someone with + money / benefit",
+      "be compensated for + noun / gerund",
+      "compensate for + weakness / deficiency",
+      "more than compensate for + noun",
+      "fail to compensate for + noun",
+      "compensate by + gerund",
+      "compensate through + noun"
+    ],
+    "usage": {
+      "person_object": "When a person receives payment or another benefit, that person is the direct object: compensate the customer.",
+      "reason": "Use for to identify the loss, injury, inconvenience, or service for which compensation is provided.",
+      "offset": "Compensate for means counterbalancing a disadvantage, weakness, loss, or deficiency.",
+      "means": "With can introduce the payment or benefit provided: compensate employees with additional leave.",
+      "passive": "Be compensated for is common when focusing on the recipient: Customers were compensated for the delay.",
+      "legal_scope": "The availability and amount of legal compensation depend on the applicable law, contract, causation, and type of loss."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈkɑːmpənˌseɪt/",
+      "uk": "/ˈkɒmpenseɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "損失・損害・負担などについて、人に金銭その他の利益を与えて補償する",
+      "労働・役務・貢献などに対して報酬を支払う",
+      "欠点・不足・不利益などを別の利点によって埋め合わせる",
+      "失われた量・価値・効果と釣り合うよう調整する",
+      "身体・機械・制度などが機能の低下を別の働きによって補う"
+    ],
+    "en": [
+      "to provide a person with money or another benefit for loss, damage, or inconvenience",
+      "to pay or reward someone for work, services, or contribution",
+      "to counterbalance a weakness, deficiency, or disadvantage with another benefit",
+      "to make an adjustment corresponding to a lost amount, value, or effect",
+      "for a body, machine, or system, to offset reduced function through another process"
+    ]
+  },
+  "nuance": {
+    "ja": "compensate には、人に補償・報酬を与える意味と、不足・不利益を相殺する意味がある。The airline compensated the passengers for the delay では passengers が補償を受ける人、delay が補償の理由である。一方、The lower price compensates for the limited features では、低価格が機能の少なさを埋め合わせる。compensate は必ずしも損失を完全に消滅させることを意味せず、部分的に釣り合わせる場合にも使える。法律上の「補償」「損害賠償」は法域や請求原因により compensation、damages、restitution などの区別があるため、日本語から機械的に compensate と訳せるとは限らない。",
+    "en": "Compensate has two principal uses: providing compensation or remuneration to a person, and offsetting a deficiency or disadvantage. In The airline compensated the passengers for the delay, passengers identifies the recipients and delay identifies the reason. In The lower price compensates for the limited features, one advantage counterbalances a disadvantage. The verb does not necessarily mean eliminating the loss completely; partial counterbalancing may be sufficient. In law, concepts translated generally as compensation or damages differ by jurisdiction and cause of action, so compensate, pay damages, and provide restitution are not automatically interchangeable."
+  },
+  "minimal": {
+    "ja": [
+      "compensate：損失について人に補償する、または欠点・不足を埋め合わせる。",
+      "compensate for：不利益・不足・弱点などを相殺・補完する。",
+      "reimburse：人が実際に支払った費用を払い戻す。",
+      "indemnify：契約・法律に基づき、特定の損失・責任から人を補償・保護する。",
+      "pay damages：不法行為・契約違反などによる損害について賠償金を支払う。",
+      "remunerate：労働・役務について金銭的報酬を与える。形式的。",
+      "offset：一方の損失・費用・影響を、別の利益・量によって相殺する。",
+      "make up for：損失・失敗・不足を埋め合わせる日常的な表現。"
+    ],
+    "en": [
+      "compensate means providing payment for a loss or counterbalancing a weakness or deficiency.",
+      "compensate for means offsetting or making up for a disadvantage, shortage, or weakness.",
+      "reimburse means repaying money that a person has actually spent.",
+      "indemnify means compensating or protecting someone against specified loss or liability under law or contract.",
+      "pay damages means paying a monetary remedy for loss caused by a legal wrong such as infringement or breach.",
+      "remunerate formally means paying someone for work or services.",
+      "offset means balancing one loss, cost, or effect against another benefit or quantity.",
+      "make up for is an everyday expression for compensating for a loss, failure, or deficiency."
+    ]
+  },
+  "etymology": {
+    "ja": "compensate はラテン語 compensare「釣り合わせる、相殺する」に由来する。これは com-「ともに、相互に」と pensare「重さを量る、評価する」から構成され、pensare は pendere「つるす、量る」と関係する。原義は、天秤の一方に生じた不足を他方の重さで釣り合わせることであった。そこから、不利益を別の利益で埋め合わせる意味と、損失・労働などに対応する金銭を与える意味が発達した。compensation、compensatory、recompense なども、価値を量り釣り合わせるという発想を共有する。",
+    "en": "Compensate derives from Latin compensare, meaning to balance or counterbalance. It combines com-, meaning together or mutually, with pensare, meaning to weigh or evaluate, which is related to pendere, to hang or weigh. The original image was balancing a deficiency on one side of a scale with weight on the other. From this developed both the sense of counterbalancing a disadvantage with another benefit and the sense of providing payment corresponding to a loss or service. Compensation, compensatory, and recompense share the underlying idea of weighing and restoring balance."
+  },
+  "synonyms": [
+    {
+      "word": "reimburse",
+      "note": {
+        "ja": "交通費・購入費・医療費など、人が実際に支出した金額を払い戻す。",
+        "en": "To repay an amount that someone actually spent on travel, purchases, medical care, or another expense."
+      }
+    },
+    {
+      "word": "indemnify",
+      "note": {
+        "ja": "契約・法律上の仕組みにより、人を特定の損失・責任から補償または保護する。",
+        "en": "To compensate or protect a person against specified loss or liability through a legal or contractual arrangement."
+      }
+    },
+    {
+      "word": "remunerate",
+      "note": {
+        "ja": "仕事・役務・専門的貢献に対して人へ報酬を支払う形式的な語。",
+        "en": "A formal verb meaning to pay someone for work, services, or professional contribution."
+      }
+    },
+    {
+      "word": "offset",
+      "note": {
+        "ja": "費用・損失・排出量などを、反対方向の利益・削減・数量によって相殺する。",
+        "en": "To counterbalance a cost, loss, emission, or other effect with an opposing benefit, reduction, or quantity."
+      }
+    },
+    {
+      "word": "make up for",
+      "note": {
+        "ja": "不足・失敗・遅延などによる不利益を、別の行動や利点によって埋め合わせる。",
+        "en": "To counterbalance a shortage, failure, delay, or disadvantage through another action or benefit."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "entschädigen / ausgleichen",
+    "it": "compensare / risarcire",
+    "fr": "compenser / indemniser",
+    "es": "compensar / indemnizar"
+  },
+  "collocations": {
+    "ja": [
+      "compensate someone for a loss — 損失について人を補償する",
+      "compensate someone for damage — 損害について人を補償する",
+      "compensate customers for a delay — 遅延について顧客を補償する",
+      "compensate employees fairly — 従業員へ公正に報酬を与える",
+      "be fully compensated — 全額・十分に補償される",
+      "be adequately compensated — 適切に補償される",
+      "compensate for a weakness — 弱点を補う",
+      "compensate for a lack of experience — 経験不足を補う",
+      "compensate for lost income — 失われた所得を補填する",
+      "more than compensate for something — 何かを補って余りある",
+      "compensate by working longer hours — 長時間働くことで埋め合わせる",
+      "a mechanism designed to compensate for errors — 誤差を補正するための機構"
+    ],
+    "en": [
+      "compensate someone for a loss",
+      "compensate someone for damage",
+      "compensate customers for a delay",
+      "compensate employees fairly",
+      "be fully compensated",
+      "be adequately compensated",
+      "compensate for a weakness",
+      "compensate for a lack of experience",
+      "compensate for lost income",
+      "more than compensate for something",
+      "compensate by working longer hours",
+      "a mechanism designed to compensate for errors"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The airline compensated the passengers for the lengthy delay. — 航空会社は長時間の遅延について乗客を補償した。",
+      "Employees should be fairly compensated for working additional hours. — 従業員は追加の時間働いたことについて、公正に報酬を受けるべきだ。",
+      "The excellent location more than compensates for the apartment’s small size. — 素晴らしい立地は、そのアパートの狭さを補って余りある。",
+      "The system automatically adjusts the signal to compensate for changes in temperature. — そのシステムは温度変化を補正するため、自動的に信号を調整する。",
+      "A patent owner may seek monetary relief to compensate for loss caused by infringement, although the available remedy depends on the applicable law. — 特許権者は侵害によって生じた損失を補償するため金銭的救済を求め得るが、利用可能な救済は適用法によって異なる。"
+    ],
+    "en": [
+      "The airline compensated the passengers for the lengthy delay.",
+      "Employees should be fairly compensated for working additional hours.",
+      "The excellent location more than compensates for the apartment’s small size.",
+      "The system automatically adjusts the signal to compensate for changes in temperature.",
+      "A patent owner may seek monetary relief to compensate for loss caused by infringement, although the available remedy depends on the applicable law."
+    ]
+  }
+},
+{
+  "id": "clumsy",
+  "sid": "2026-01632",
+  "word": "clumsy",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "awkwardness",
+    "movement",
+    "coordination",
+    "accident",
+    "design",
+    "language",
+    "communication",
+    "social behavior",
+    "criticism",
+    "daily conversation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "clumsy",
+      "comparative": "clumsier",
+      "superlative": "clumsiest",
+      "noun": "clumsiness",
+      "adverb": "clumsily"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a clumsy person",
+      "be clumsy with + object",
+      "be clumsy at + activity",
+      "a clumsy movement / gesture",
+      "a clumsy attempt to do",
+      "a clumsy piece of equipment",
+      "a clumsy design / interface",
+      "a clumsy sentence / expression",
+      "a clumsy way of + gerund",
+      "socially / physically clumsy"
+    ],
+    "usage": {
+      "physical": "For a person, clumsy commonly means moving without sufficient coordination and frequently dropping, hitting, or damaging things.",
+      "object": "For an object or design, it means awkward, inconvenient, heavy, or difficult to use.",
+      "method": "For an attempt or solution, it means poorly executed, inefficient, or lacking refinement.",
+      "communication": "For words or social behavior, it means tactless, insensitive, or awkwardly expressed.",
+      "prepositions": "Clumsy with commonly introduces an object; clumsy at introduces an activity or skill.",
+      "comparison": "The final y changes to i before -er and -est: clumsier and clumsiest."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈklʌmzi/",
+      "uk": "/ˈklʌmzi/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "身体の動きがぎこちなく、物を落としたりぶつけたりしやすい",
+      "手先の扱いが不器用で、細かな作業が不得意な",
+      "道具・装置・設計などが扱いにくく、洗練されていない",
+      "方法・試み・文章などが不自然で、うまく構成されていない",
+      "発言・対応などが不器用で、相手への配慮や機転を欠く"
+    ],
+    "en": [
+      "moving awkwardly and tending to drop, strike, or damage things",
+      "lacking skill or coordination in handling objects or performing delicate tasks",
+      "for a tool, device, or design, awkward, inconvenient, or lacking refinement",
+      "for a method, attempt, or sentence, poorly constructed or inelegantly executed",
+      "for speech or behavior, awkward, tactless, or insufficiently sensitive"
+    ]
+  },
+  "nuance": {
+    "ja": "clumsy は、身体的な不器用さから、設計・文章・人間関係上の不手際まで広く使われる。He’s clumsy は、よく物を落としたり家具にぶつかったりする人物を示しやすい。a clumsy device は、機能しないとは限らないが、大きすぎる、重い、操作しにくいなど、使い勝手が悪いことを表す。a clumsy apology は、謝罪する意思はあっても表現が不自然または配慮不足であることを示す。awkward と重なるが、clumsy は技能・設計・実行の不十分さを強く示し、awkward は気まずい社会状況や不便な姿勢・配置にもさらに広く使える。人に直接 clumsy と言うと批判的に響く。",
+    "en": "Clumsy applies broadly from physical lack of coordination to defects in design, language, and social conduct. He’s clumsy commonly describes someone who drops objects or bumps into furniture. A clumsy device may function but remain excessively large, heavy, inconvenient, or difficult to operate. A clumsy apology may be sincere in intention but awkwardly expressed or insufficiently considerate. Clumsy overlaps with awkward, but clumsy more strongly suggests inadequate skill, design, or execution, whereas awkward extends more readily to embarrassing social situations and inconvenient positions or arrangements. Directly calling a person clumsy can sound critical."
+  },
+  "minimal": {
+    "ja": [
+      "clumsy：動作・扱い・表現・設計などが不器用で、ぎこちない。",
+      "awkward：動作・状況・表現などが不自然、不便、または気まずい。",
+      "uncoordinated：身体各部の動きがうまく連携していない。",
+      "inept：技能・判断が著しく不足し、仕事や対応が不適切な。",
+      "bungling：不注意・無能さによって繰り返し失敗する。",
+      "cumbersome：物・制度・手続きなどが大きい、複雑、または扱いにくい。",
+      "tactless：相手の感情・状況への配慮を欠く発言・行動をする。",
+      "graceful：動き・形・表現などが滑らかで、優雅な。"
+    ],
+    "en": [
+      "clumsy describes movement, handling, expression, or design that is awkward and lacking skill.",
+      "awkward describes movement, situations, or expressions that are uncomfortable, inconvenient, or socially embarrassing.",
+      "uncoordinated means lacking effective cooperation among the movements of different parts of the body.",
+      "inept suggests a serious lack of skill or judgment resulting in ineffective conduct.",
+      "bungling describes repeated mistakes caused by incompetence or carelessness.",
+      "cumbersome describes an object, system, or procedure that is large, complicated, or difficult to handle.",
+      "tactless describes speech or behavior lacking sensitivity to another person’s feelings or circumstances.",
+      "graceful describes movement, form, or expression that is smooth, controlled, and elegant."
+    ]
+  },
+  "etymology": {
+    "ja": "clumsy は、現在では廃れた英語の動詞 clumse「しびれさせる、しびれる」に由来するとされる。この語はおそらくスカンディナヴィア系で、スウェーデン語方言の klumsig「しびれた、不器用な」などと関係する。もとは寒さなどで身体がしびれ、思うように動けない状態を表し、そこから動作がぎこちない、不器用であるという意味が発達した。さらに、手で扱いにくい物、洗練されていない方法、不自然な文章、配慮を欠く対応などにも比喩的に使われるようになった。",
+    "en": "Clumsy is generally derived from the obsolete English verb clumse, meaning to make or become numb. The word was probably of Scandinavian origin and is associated with forms such as dialectal Swedish klumsig, meaning numb or clumsy. It originally suggested moving as though one’s body were numb from cold and therefore difficult to control. From physical awkwardness, the adjective expanded to objects difficult to handle, poorly refined methods, inelegant language, and socially insensitive behavior."
+  },
+  "synonyms": [
+    {
+      "word": "awkward",
+      "note": {
+        "ja": "動作・姿勢・道具・会話・社会的状況などが不自然または気まずい。",
+        "en": "Describes movement, posture, tools, conversation, or social situations that are uncomfortable or unnatural."
+      }
+    },
+    {
+      "word": "uncoordinated",
+      "note": {
+        "ja": "身体の各部分を滑らかに連動させることが難しい。",
+        "en": "Describes difficulty making different parts of the body move together smoothly."
+      }
+    },
+    {
+      "word": "inept",
+      "note": {
+        "ja": "技能・判断力が不十分で、仕事・対応などを効果的に行えない。",
+        "en": "Suggests insufficient skill or judgment resulting in ineffective work or conduct."
+      }
+    },
+    {
+      "word": "cumbersome",
+      "note": {
+        "ja": "装置・制度・文章などが大きい、重い、複雑などの理由で扱いにくい。",
+        "en": "Describes equipment, systems, or language that is difficult to use because of size, weight, or complexity."
+      }
+    },
+    {
+      "word": "tactless",
+      "note": {
+        "ja": "発言・行動が相手の気持ちに配慮せず、傷つけたり不快にさせたりする。",
+        "en": "Describes speech or behavior that fails to consider another person’s feelings and may cause offense."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ungeschickt / unbeholfen / schwerfällig",
+    "it": "goffo / maldestro",
+    "fr": "maladroit / gauche",
+    "es": "torpe / desmañado"
+  },
+  "collocations": {
+    "ja": [
+      "a clumsy person — 不器用な人",
+      "a clumsy movement — ぎこちない動き",
+      "a clumsy gesture — 不器用な身ぶり",
+      "a clumsy attempt — 不手際な試み",
+      "a clumsy apology — 不器用で配慮不足な謝罪",
+      "a clumsy sentence — ぎこちない文章",
+      "a clumsy expression — 不自然な表現",
+      "a clumsy design — 扱いにくく洗練されていない設計",
+      "a clumsy interface — 使いにくいインターフェース",
+      "be clumsy with one’s hands — 手先が不器用である",
+      "be clumsy at dancing — ダンスがぎこちない",
+      "clumsily worded — 不器用な言葉で表現された"
+    ],
+    "en": [
+      "a clumsy person",
+      "a clumsy movement",
+      "a clumsy gesture",
+      "a clumsy attempt",
+      "a clumsy apology",
+      "a clumsy sentence",
+      "a clumsy expression",
+      "a clumsy design",
+      "a clumsy interface",
+      "be clumsy with one’s hands",
+      "be clumsy at dancing",
+      "clumsily worded"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I’m so clumsy that I dropped two cups this morning. — 私はとても不器用で、今朝はカップを二つ落としてしまった。",
+      "His clumsy movements knocked several books off the shelf. — 彼のぎこちない動きで、棚から本が何冊も落ちた。",
+      "The device works, but its large handle makes it clumsy to use. — その装置は動作するが、大きな取っ手のせいで扱いにくい。",
+      "Her clumsy attempt to comfort him only made the situation more awkward. — 彼を慰めようとした彼女の不器用な試みは、かえって状況を気まずくした。",
+      "The amendment introduced a clumsy limitation that made the patent claim narrower without clearly distinguishing the prior art. — その補正では不自然な限定が導入され、先行技術との差異を明確にしないまま特許請求項が狭くなった。"
+    ],
+    "en": [
+      "I’m so clumsy that I dropped two cups this morning.",
+      "His clumsy movements knocked several books off the shelf.",
+      "The device works, but its large handle makes it clumsy to use.",
+      "Her clumsy attempt to comfort him only made the situation more awkward.",
+      "The amendment introduced a clumsy limitation that made the patent claim narrower without clearly distinguishing the prior art."
+    ]
+  }
 }
 ]
