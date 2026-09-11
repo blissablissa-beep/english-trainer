@@ -2175,5 +2175,596 @@
       "The experimental results may support the application, but additional testing could be required to validate the claimed technical effect."
     ]
   }
+},
+{
+  "id": "confirm",
+  "sid": "2026-01652",
+  "word": "confirm",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "confirmation",
+    "certainty",
+    "evidence",
+    "reservation",
+    "appointment",
+    "agreement",
+    "decision",
+    "belief",
+    "legal",
+    "business",
+    "daily conversation"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "confirm",
+      "third_person": "confirms",
+      "past": "confirmed",
+      "past_participle": "confirmed",
+      "gerund": "confirming",
+      "noun": "confirmation",
+      "adjective": "confirmed",
+      "agent_noun": "confirmer, uncommon"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "confirm + information / details",
+      "confirm a booking / reservation / appointment",
+      "confirm that + clause",
+      "confirm whether / if + clause",
+      "confirm something with + person",
+      "confirm something in writing",
+      "confirm someone’s suspicion / belief",
+      "be confirmed by + evidence",
+      "be confirmed as + position / identity",
+      "be confirmed to be + noun / adjective"
+    ],
+    "usage": {
+      "fact": "Confirm means establishing that information, a belief, or a suspected fact is correct or definite.",
+      "arrangement": "It commonly means making a booking, appointment, order, or arrangement definite and final.",
+      "that_clause": "A that-clause states the fact being confirmed: The company confirmed that the report was genuine.",
+      "whether_clause": "Use whether or if when the result is not yet known: Please confirm whether you can attend.",
+      "person": "Confirm something with someone means obtaining that person’s agreement or checking the information directly with them.",
+      "formal_action": "In formal or institutional contexts, confirm can mean officially approving, ratifying, or maintaining a decision, appointment, or judgment."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/kənˈfɜːrm/",
+      "uk": "/kənˈfɜːm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "情報・報告・疑いなどが正しいことを確認・確定する",
+      "予約・注文・予定・出席などを正式に確定する",
+      "証拠・出来事などが信念・疑い・予測を裏付ける",
+      "決定・合意・任命などを正式に承認する",
+      "人が特定の地位・役職・身元にあることを公式に認定する",
+      "書面・連絡などによって理解・合意内容を明確にする"
+    ],
+    "en": [
+      "to establish that information, a report, or a suspected fact is correct",
+      "to make a booking, order, appointment, attendance, or other arrangement definite",
+      "for evidence or an event, to support a belief, suspicion, or prediction",
+      "to formally approve a decision, agreement, or appointment",
+      "to officially recognize a person as holding a particular identity, status, or position",
+      "to make an understanding or agreement clear through written or spoken communication"
+    ]
+  },
+  "nuance": {
+    "ja": "confirm は、不確実だった事実・理解・予定を確かなものとして確定することを表す。Please confirm your attendance. は、出席するかどうかを最終的に知らせるよう求める表現である。verify と重なるが、verify は証拠・記録・試験などを使って正しさを調査する過程に重点を置き、confirm は調査・連絡の結果として疑いを取り除き、事実や予定を確定することに重点を置く。validate は、方法・データ・システムなどが基準を満たし、目的に適していることを確認する。confirm someone’s suspicions は「人が疑っていたことが事実だと裏付ける」という意味であり、confirm with someone は「本人に直接確認する」を表す。",
+    "en": "Confirm means making a previously uncertain fact, understanding, or arrangement definite. Please confirm your attendance asks the recipient to give a final answer about whether they will attend. Confirm overlaps with verify, but verify emphasizes the process of checking evidence, records, or test results, while confirm emphasizes removing doubt and establishing the final fact or arrangement. Validate establishes that a method, dataset, or system satisfies relevant criteria and is fit for its purpose. Confirm someone’s suspicions means providing evidence that what the person suspected is true, while confirm with someone means checking information or an arrangement directly with that person."
+  },
+  "minimal": {
+    "ja": [
+      "confirm：不確実だった事実・理解・予約・予定などを確定する。",
+      "verify：証拠・記録・試験によって、情報・身元・結果の正しさを確かめる。",
+      "validate：対象が基準を満たし、特定の目的に対して有効・妥当だと確認する。",
+      "check：誤りや問題がないかを調べる最も一般的な語。",
+      "corroborate：別の証拠・証言によって、主張や供述を補強する。",
+      "substantiate：十分な証拠を提示して、主張を実質的に裏付ける。",
+      "approve：提案・計画・申請などを権限に基づいて正式に認める。",
+      "acknowledge：事実・受領・存在などを認め、または確認したことを伝える。"
+    ],
+    "en": [
+      "confirm means making a previously uncertain fact, understanding, reservation, or arrangement definite.",
+      "verify means checking evidence, records, or tests to establish that information, identity, or a result is correct.",
+      "validate means establishing that something satisfies relevant criteria and is effective or fit for its purpose.",
+      "check is the most general verb for examining something for errors or problems.",
+      "corroborate means supporting a statement or account with separate evidence or testimony.",
+      "substantiate means providing sufficient evidence to give material support to a claim.",
+      "approve means formally accepting a proposal, plan, or application through appropriate authority.",
+      "acknowledge means recognizing a fact, receipt, or existence or indicating that it has been noticed."
+    ]
+  },
+  "etymology": {
+    "ja": "confirm は古フランス語 confirmer を経て、ラテン語 confirmare「強固にする、確立する」に由来する。これは con-「共に、完全に」と firmus「堅固な、安定した」から成る。もともとは物事を強固にすることを表し、そこから決定・信念・合意などを確かなものにする、事実であると確定するという意味が発達した。firm、firmly、affirm、confirmation なども、ラテン語 firmus に関係する。",
+    "en": "Confirm came through Old French confirmer from Latin confirmare, meaning to strengthen or establish firmly. Confirmare was formed from con-, together or thoroughly, and firmus, firm or stable. The original idea was making something stronger or more secure. This developed into making a decision, belief, agreement, or fact definite and certain. Firm, firmly, affirm, and confirmation are historically related to Latin firmus."
+  },
+  "synonyms": [
+    {
+      "word": "verify",
+      "note": {
+        "ja": "証拠・記録・試験・照合によって、情報や結果が正しいかを調べる。",
+        "en": "To investigate through evidence, records, testing, or comparison whether information or a result is correct."
+      }
+    },
+    {
+      "word": "validate",
+      "note": {
+        "ja": "方法・データ・システムなどが所定の基準を満たし、目的に適していると確認する。",
+        "en": "To establish that a method, dataset, or system satisfies specified criteria and is fit for its purpose."
+      }
+    },
+    {
+      "word": "corroborate",
+      "note": {
+        "ja": "独立した証拠や証言を加えて、主張・説明・供述の信頼性を高める。",
+        "en": "To strengthen a claim, explanation, or account by adding independent evidence or testimony."
+      }
+    },
+    {
+      "word": "affirm",
+      "note": {
+        "ja": "事実・信念・立場などを明確かつ断定的に表明し、正式に維持する。",
+        "en": "To state a fact, belief, or position positively or to formally uphold an earlier decision."
+      }
+    },
+    {
+      "word": "approve",
+      "note": {
+        "ja": "権限を持つ者が計画・申請・決定などを正式に認める。",
+        "en": "To formally accept a plan, application, or decision through a person or body having authority."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "bestätigen / bekräftigen / festlegen",
+    "it": "confermare / comprovare / ratificare",
+    "fr": "confirmer / attester / entériner",
+    "es": "confirmar / comprobar / ratificar"
+  },
+  "collocations": {
+    "ja": [
+      "confirm the information — 情報を確認する",
+      "confirm the details — 詳細を確認する",
+      "confirm a reservation — 予約を確定・再確認する",
+      "confirm an appointment — 面会・診察などの予約を確認する",
+      "confirm an order — 注文を確定する",
+      "confirm attendance — 出席を確定する",
+      "confirm receipt — 受領を確認する",
+      "confirm someone’s identity — 人の身元を確認する",
+      "confirm someone’s suspicions — 人の疑いが正しいと裏付ける",
+      "confirm something in writing — 何かを書面で確認する",
+      "independently confirm — 独立した立場から確認する",
+      "be confirmed by the evidence — 証拠によって確認・裏付けられる"
+    ],
+    "en": [
+      "confirm the information",
+      "confirm the details",
+      "confirm a reservation",
+      "confirm an appointment",
+      "confirm an order",
+      "confirm attendance",
+      "confirm receipt",
+      "confirm someone’s identity",
+      "confirm someone’s suspicions",
+      "confirm something in writing",
+      "independently confirm",
+      "be confirmed by the evidence"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Please confirm your attendance by Friday. — 金曜日までに出席するかどうかをご連絡ください。",
+      "I called the hotel to confirm our reservation. — 私は予約を確認するためにホテルへ電話した。",
+      "The examination confirmed that the document was genuine. — 調査により、その文書が真正であることが確認された。",
+      "The new evidence confirmed her suspicion that the figures had been altered. — 新しい証拠により、数値が改変されていたという彼女の疑いが裏付けられた。",
+      "The court confirmed that the patent remained enforceable, although the scope of protection still depended on the proper interpretation of the claims. — 裁判所はその特許が引き続き権利行使可能であると確認したが、保護範囲はなお請求項の適切な解釈に左右された。"
+    ],
+    "en": [
+      "Please confirm your attendance by Friday.",
+      "I called the hotel to confirm our reservation.",
+      "The examination confirmed that the document was genuine.",
+      "The new evidence confirmed her suspicion that the figures had been altered.",
+      "The court confirmed that the patent remained enforceable, although the scope of protection still depended on the proper interpretation of the claims."
+    ]
+  }
+},
+{
+  "id": "affirm",
+  "sid": "2026-01653",
+  "word": "affirm",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "assertion",
+    "confirmation",
+    "belief",
+    "support",
+    "testimony",
+    "judgment",
+    "appeal",
+    "legal",
+    "court",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "affirm",
+      "third_person": "affirms",
+      "past": "affirmed",
+      "past_participle": "affirmed",
+      "gerund": "affirming",
+      "noun": "affirmation",
+      "adjective": "affirmative",
+      "adverb": "affirmatively"
+    },
+    "transitivity": "transitive or intransitive",
+    "patterns": [
+      "affirm + belief / principle / commitment",
+      "affirm that + clause",
+      "affirm one’s support for + noun",
+      "affirm one’s right to + noun / verb",
+      "affirm the truth / accuracy of + noun",
+      "affirm a judgment / decision / order",
+      "affirm something on appeal",
+      "affirm under oath",
+      "solemnly affirm",
+      "affirm and uphold + noun"
+    ],
+    "usage": {
+      "statement": "Affirm means stating positively and firmly that something is true or that one supports a belief, principle, or commitment.",
+      "support": "It often expresses continued support for a value, right, identity, or relationship.",
+      "court": "In appellate procedure, affirm means leaving the decision of a lower court or tribunal in effect rather than reversing it.",
+      "testimony": "A witness may affirm that evidence will be truthful instead of swearing a religious oath, subject to the applicable procedural rules.",
+      "confirm_contrast": "Confirm commonly establishes that a fact or arrangement is correct or definite; affirm emphasizes a positive declaration, endorsement, or formal maintenance of a decision.",
+      "register": "Affirm is more formal than say or agree and is common in legal, political, institutional, and philosophical language."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈfɜːrm/",
+      "uk": "/əˈfɜːm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "事実・信念・立場などが真実または正しいと明確に断言する",
+      "原則・価値・権利・決意などを改めて支持・確認する",
+      "人の価値・感情・アイデンティティーなどを肯定する",
+      "証人として、真実を述べることを厳粛に確約する",
+      "上級審が下級審・行政機関などの判断を維持する"
+    ],
+    "en": [
+      "to state positively and firmly that a fact, belief, or position is true or correct",
+      "to declare continued support for a principle, value, right, or commitment",
+      "to recognize and positively support a person’s worth, feelings, or identity",
+      "to make a solemn promise as a witness that one will tell the truth",
+      "for an appellate court, to leave the decision of a lower court or administrative body in effect"
+    ]
+  },
+  "nuance": {
+    "ja": "affirm は、事実・信念・原則・決意などを、疑いや反対に対して明確かつ積極的に表明する語である。confirm が調査や連絡によって不確実な事実・予約・予定を確定するのに対し、affirm は話者自身の立場を断言したり、既存の価値・権利・判断を支持したりすることに重点を置く。裁判上、上級審が判断を affirm するとは、その判断を破棄せず維持することである。証言の場面では affirm は、宗教的な宣誓をせずに真実を述べると厳粛に約束することを表す。日常会話で単に「はい」と答える場合には通常 say yes や agree を使い、affirm はやや形式的に響く。",
+    "en": "Affirm expresses a clear and positive declaration of a fact, belief, principle, or commitment, often in response to doubt or opposition. Confirm establishes that uncertain information, a reservation, or an arrangement is correct or definite, whereas affirm emphasizes declaring one’s position or supporting an existing value, right, or decision. In appellate procedure, when a higher court affirms a decision, it leaves that decision in effect rather than reversing it. In testimony, affirm can mean solemnly promising to tell the truth without taking a religious oath. In ordinary conversation, say yes or agree is usually more natural for simple agreement because affirm sounds relatively formal."
+  },
+  "minimal": {
+    "ja": [
+      "affirm：事実・信念・原則を明確に断言・支持し、または上級審が原判断を維持する。",
+      "confirm：不確実だった事実・理解・予約・予定などを確認して確定する。",
+      "assert：反対や疑いがあっても、自分の主張を強く言明する。",
+      "declare：立場・事実・決定などを公的または明示的に表明する。",
+      "maintain：批判・反論があっても、ある主張が正しいと言い続ける。",
+      "uphold：判断・法律・原則などを正当なものとして支持・維持する。",
+      "endorse：人物・意見・製品などへの公的な支持・承認を示す。",
+      "validate：対象が基準を満たし、有効・妥当であると確認する。"
+    ],
+    "en": [
+      "affirm means positively declaring or supporting a fact, belief, or principle, or leaving a lower decision in effect on appeal.",
+      "confirm means checking and making a previously uncertain fact, understanding, reservation, or arrangement definite.",
+      "assert means stating a claim forcefully despite possible doubt or opposition.",
+      "declare means announcing a fact, position, or decision explicitly or officially.",
+      "maintain means continuing to claim that something is true despite criticism or disagreement.",
+      "uphold means supporting and maintaining a decision, law, or principle as valid or proper.",
+      "endorse means publicly expressing support or approval for a person, opinion, or product.",
+      "validate means establishing that something meets relevant criteria and is valid or fit for its purpose."
+    ]
+  },
+  "etymology": {
+    "ja": "affirm は古フランス語 afermer を経て、ラテン語 affirmare「強固にする、確言する」に由来する。affirmare は ad-「～へ」と firmus「堅固な、安定した」から成り、ad- は後続する f の影響で af- となった。原義は、あるものを堅固にする、確かなものとして述べることである。そこから、信念・事実を断言する意味や、裁判所が先の判断を維持する意味が発達した。firm、confirm、affirmation、affirmative も同じラテン語 firmus に関係する。",
+    "en": "Affirm came through Old French afermer from Latin affirmare, meaning to strengthen or assert. Affirmare was formed from ad-, toward, and firmus, firm or stable; the final consonant of ad- was assimilated to the following f, producing af-. The original idea was making something firm or stating it as certain. This developed into declaring a belief or fact positively and, in legal use, leaving an earlier decision in force. Firm, confirm, affirmation, and affirmative are also historically related to Latin firmus."
+  },
+  "synonyms": [
+    {
+      "word": "assert",
+      "note": {
+        "ja": "疑いや反対が存在する状況でも、事実・権利・意見などを強く主張する。",
+        "en": "To state a fact, right, or opinion forcefully, particularly when doubt or opposition exists."
+      }
+    },
+    {
+      "word": "declare",
+      "note": {
+        "ja": "事実・意思・方針・状態などを明確または公的に表明する。",
+        "en": "To state a fact, intention, policy, or condition explicitly or publicly."
+      }
+    },
+    {
+      "word": "confirm",
+      "note": {
+        "ja": "事実・理解・予定などが正しいことを確認し、確定する。",
+        "en": "To establish that a fact, understanding, or arrangement is correct and definite."
+      }
+    },
+    {
+      "word": "uphold",
+      "note": {
+        "ja": "法律・原則・判断などを正当・有効なものとして支持し、維持する。",
+        "en": "To support and maintain a law, principle, or decision as valid or proper."
+      }
+    },
+    {
+      "word": "endorse",
+      "note": {
+        "ja": "人物・提案・意見などに対する支持・承認を公に示す。",
+        "en": "To express public or formal approval of a person, proposal, or opinion."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "bekräftigen / bestätigen / aufrechterhalten",
+    "it": "affermare / confermare / convalidare",
+    "fr": "affirmer / confirmer / maintenir",
+    "es": "afirmar / confirmar / ratificar"
+  },
+  "collocations": {
+    "ja": [
+      "affirm a belief — 信念を明確に表明する",
+      "affirm a principle — 原則を改めて確認する",
+      "affirm one’s commitment — 決意・責任を再確認する",
+      "affirm one’s support — 支持を明確に表明する",
+      "affirm one’s right — 自らの権利を主張する",
+      "affirm the truth of a statement — 発言が真実であると断言する",
+      "solemnly affirm — 厳粛に確約する",
+      "affirm under oath — 宣誓の下で断言する",
+      "affirm a judgment — 判決を維持する",
+      "affirm the lower court’s decision — 下級審の判断を維持する",
+      "affirm on appeal — 上訴審で原判断を維持する",
+      "unanimously affirm — 全員一致で原判断を維持する"
+    ],
+    "en": [
+      "affirm a belief",
+      "affirm a principle",
+      "affirm one’s commitment",
+      "affirm one’s support",
+      "affirm one’s right",
+      "affirm the truth of a statement",
+      "solemnly affirm",
+      "affirm under oath",
+      "affirm a judgment",
+      "affirm the lower court’s decision",
+      "affirm on appeal",
+      "unanimously affirm"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She affirmed her commitment to completing the project. — 彼女はプロジェクトを完遂する決意を改めて表明した。",
+      "The witness solemnly affirmed that the evidence she would give was true. — 証人は、自分が述べる証言が真実であることを厳粛に確約した。",
+      "The organization issued a statement affirming its support for equal treatment. — その団体は、平等な取扱いへの支持を明確にする声明を発表した。",
+      "The appellate court affirmed the judgment of the lower court. — 上級審は下級審の判決を維持した。",
+      "The reviewing body affirmed the rejection of the patent application after concluding that the claimed invention lacked an inventive step. — 審査を行った機関は、請求された発明に進歩性がないと判断し、特許出願の拒絶を維持した。"
+    ],
+    "en": [
+      "She affirmed her commitment to completing the project.",
+      "The witness solemnly affirmed that the evidence she would give was true.",
+      "The organization issued a statement affirming its support for equal treatment.",
+      "The appellate court affirmed the judgment of the lower court.",
+      "The reviewing body affirmed the rejection of the patent application after concluding that the claimed invention lacked an inventive step."
+    ]
+  }
+},
+{
+  "id": "affirmative",
+  "sid": "2026-01654",
+  "word": "affirmative",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "noun",
+    "agreement",
+    "positive response",
+    "assertion",
+    "action",
+    "consent",
+    "policy",
+    "defense",
+    "legal",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / noun",
+    "countability": "normally used as an adjective; as a noun, chiefly in the fixed expression the affirmative",
+    "forms": {
+      "adjective": "affirmative",
+      "noun": "the affirmative",
+      "adverb": "affirmatively",
+      "verb": "affirm",
+      "related_noun": "affirmation",
+      "opposite": "negative"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an affirmative + answer / response",
+      "answer in the affirmative",
+      "reply / respond affirmatively",
+      "take affirmative action",
+      "an affirmative duty / obligation",
+      "affirmative consent",
+      "affirmative evidence",
+      "an affirmative statement",
+      "raise / plead an affirmative defense",
+      "the affirmative side / case"
+    ],
+    "usage": {
+      "positive_answer": "Affirmative describes an answer or response that means yes or expresses agreement.",
+      "active_action": "It can mean involving positive or deliberate action rather than mere absence, silence, or passivity.",
+      "noun": "The affirmative means the positive answer or the side supporting a proposition: She answered in the affirmative.",
+      "communication": "Affirmative is used as a concise equivalent of yes in formal, military, aviation, and radio communication.",
+      "policy": "Affirmative action is a policy-related expression whose precise meaning and legal treatment vary by jurisdiction and context.",
+      "legal_use": "Affirmative defense, affirmative duty, and affirmative consent are specialized expressions whose requirements depend on the applicable law."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈfɜːrmətɪv/",
+      "uk": "/əˈfɜːmətɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "質問・提案などに対して肯定・同意を示す",
+      "ある事実・立場・原則を明確に断言する",
+      "消極的な不作為ではなく、積極的な行動を伴う",
+      "義務・証拠・同意などが明示的・積極的に存在する",
+      "名詞として、肯定的な回答または賛成側",
+      "法律上、一定の事実を積極的に主張して責任を回避する抗弁に関する"
+    ],
+    "en": [
+      "expressing agreement or a positive answer to a question or proposal",
+      "positively asserting a fact, position, or principle",
+      "involving deliberate or positive action rather than silence, omission, or passivity",
+      "explicitly establishing a duty, fact, item of evidence, or consent",
+      "as a noun, a positive answer or the side supporting a proposition",
+      "in law, relating to a defense that relies on additional facts asserted to avoid liability"
+    ]
+  },
+  "nuance": {
+    "ja": "affirmative の基本的な意味は「肯定する、積極的に表明する」である。an affirmative answer は明確な「はい」という回答であり、answer in the affirmative はその形式的な言い換えである。一方、affirmative action、affirmative duty、affirmative consent では、単に否定しないことや沈黙することでは足りず、具体的な行為・明示的な意思表示が必要であることを強調する。positive と重なるが、positive は好ましい・楽観的・数値が正であるなど非常に広い意味を持つのに対し、affirmative は特に同意・断言・積極的行為に焦点を置く。法律用語 affirmative defense は法域によって仕組みが異なるため、日本語の「積極的抗弁」と常に完全に一致するとは限らない。",
+    "en": "The basic meaning of affirmative is expressing agreement or making a positive assertion. An affirmative answer is a clear yes, and answer in the affirmative is its formal equivalent. In affirmative action, affirmative duty, and affirmative consent, the word emphasizes that silence, failure to object, or mere passivity is insufficient and that some positive act or explicit indication is involved. It overlaps with positive, but positive has much broader senses, including favorable, optimistic, and greater than zero, whereas affirmative particularly concerns agreement, assertion, and deliberate action. Affirmative defense is a jurisdiction-sensitive legal term and should not automatically be treated as identical to any single category in another legal system."
+  },
+  "minimal": {
+    "ja": [
+      "affirmative：肯定・同意を示す、または消極的でなく積極的な行為を伴う。",
+      "positive：肯定的・好ましい・楽観的・正の数であるなど、より広い意味を持つ。",
+      "confirmatory：既存の事実・疑い・結果を確認または裏付ける。",
+      "assertive：自分の意見・権利・要求を明確かつ自信を持って表す。",
+      "explicit：意味・意思・条件などが明白に言葉で示されている。",
+      "active：受動的・消極的ではなく、実際に行動または作用している。",
+      "negative：否定・拒否・欠如・反対を示す。",
+      "affirming：人・価値・信念などを肯定し、支持や励ましを与える。"
+    ],
+    "en": [
+      "affirmative expresses agreement or involves positive action rather than silence or passivity.",
+      "positive has broader meanings including favorable, optimistic, approving, and greater than zero.",
+      "confirmatory describes something that confirms or supports an existing fact, suspicion, or result.",
+      "assertive describes clear and confident expression of one’s opinions, rights, or demands.",
+      "explicit means clearly expressed in words without being left to implication.",
+      "active describes something involving actual action or operation rather than passivity.",
+      "negative expresses denial, refusal, absence, or opposition.",
+      "affirming describes conduct that recognizes and supports a person, value, or belief."
+    ]
+  },
+  "etymology": {
+    "ja": "affirmative はラテン語 affirmativus「断言する、肯定する」に由来し、古フランス語を経て英語に入った。その基礎となる affirmare は ad-「～へ」と firmus「堅固な、確かな」から成り、ad- が後続する f に同化して af- となった。もともとは、ある事柄を確かなものとして強く述べることを意味した。そこから「肯定を表す」、さらに「消極的でなく積極的な行為を伴う」という意味が発達した。affirm、affirmation、confirm、firm も同じ語族に属する。",
+    "en": "Affirmative comes through French from Latin affirmativus, meaning asserting or affirming. Its underlying verb affirmare was formed from ad-, toward, and firmus, firm or certain; ad- was assimilated to the following f and became af-. The original idea was stating something firmly as true. From this developed the senses expressing a positive answer and involving deliberate action rather than passivity. Affirm, affirmation, confirm, and firm belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "positive",
+      "note": {
+        "ja": "肯定的な回答・結果を表せるが、好ましい・楽観的など、affirmative より意味が広い。",
+        "en": "Can describe an approving answer or result but has much broader senses than affirmative, including favorable and optimistic."
+      }
+    },
+    {
+      "word": "confirmatory",
+      "note": {
+        "ja": "事実・証言・結果などを確認し、既存の認識を裏付ける性質を表す。",
+        "en": "Describes evidence, testimony, or a result that confirms and supports an existing understanding."
+      }
+    },
+    {
+      "word": "assertive",
+      "note": {
+        "ja": "自分の意見・立場・権利を遠慮しすぎず、明確かつ自信を持って表す。",
+        "en": "Describes clear and confident expression of one’s opinion, position, or rights."
+      }
+    },
+    {
+      "word": "explicit",
+      "note": {
+        "ja": "推測に委ねず、意思・条件・意味などを明白に示している。",
+        "en": "Describes an intention, condition, or meaning stated clearly rather than left to inference."
+      }
+    },
+    {
+      "word": "active",
+      "note": {
+        "ja": "消極的・受動的ではなく、具体的な行動や働きかけを伴う。",
+        "en": "Describes something involving concrete action or operation rather than passivity."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "bejahend / positiv / ausdrücklich",
+    "it": "affermativo / positivo / esplicito",
+    "fr": "affirmatif / positif / explicite",
+    "es": "afirmativo / positivo / expreso"
+  },
+  "collocations": {
+    "ja": [
+      "an affirmative answer — 肯定的な回答",
+      "an affirmative response — 肯定的な応答",
+      "answer in the affirmative — 肯定する、はいと答える",
+      "respond affirmatively — 肯定的に答える",
+      "an affirmative statement — 断定的・肯定的な発言",
+      "affirmative action — 積極的差別是正措置",
+      "take affirmative action — 積極的な措置を取る",
+      "an affirmative duty — 積極的な作為義務",
+      "an affirmative obligation — 積極的な義務",
+      "affirmative consent — 明示的・積極的な同意",
+      "affirmative evidence — 積極的に事実を示す証拠",
+      "an affirmative defense — 抗弁事実を積極的に主張する抗弁"
+    ],
+    "en": [
+      "an affirmative answer",
+      "an affirmative response",
+      "answer in the affirmative",
+      "respond affirmatively",
+      "an affirmative statement",
+      "affirmative action",
+      "take affirmative action",
+      "an affirmative duty",
+      "an affirmative obligation",
+      "affirmative consent",
+      "affirmative evidence",
+      "an affirmative defense"
+    ]
+  },
+  "example": {
+    "ja": [
+      "When asked whether she accepted the proposal, she answered in the affirmative. — その提案を受け入れるか尋ねられると、彼女は肯定した。",
+      "The company must take affirmative action to correct the security problem. — 会社は、そのセキュリティー上の問題を是正するために積極的な措置を取らなければならない。",
+      "Silence should not automatically be treated as affirmative consent. — 沈黙を自動的に積極的な同意として扱うべきではない。",
+      "The defendant raised an affirmative defense based on the claimant’s earlier consent. — 被告は、原告が以前に同意していたことに基づく抗弁を主張した。",
+      "The patent owner bears an affirmative obligation to disclose particular information only when such a duty is imposed by the applicable law or procedure. — 特許権者が特定の情報を積極的に開示する義務を負うのは、そのような義務が適用法または手続によって課されている場合に限られる。"
+    ],
+    "en": [
+      "When asked whether she accepted the proposal, she answered in the affirmative.",
+      "The company must take affirmative action to correct the security problem.",
+      "Silence should not automatically be treated as affirmative consent.",
+      "The defendant raised an affirmative defense based on the claimant’s earlier consent.",
+      "The patent owner bears an affirmative obligation to disclose particular information only when such a duty is imposed by the applicable law or procedure."
+    ]
+  }
 }
 ]
