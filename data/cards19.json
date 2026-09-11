@@ -1,1 +1,2179 @@
-[]
+[
+{
+  "id": "designate",
+  "sid": "2026-01641",
+  "word": "designate",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "designation",
+    "appointment",
+    "selection",
+    "classification",
+    "identification",
+    "name",
+    "symbol",
+    "authority",
+    "business",
+    "legal",
+    "technical",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "designate",
+      "third_person": "designates",
+      "past": "designated",
+      "past_participle": "designated",
+      "gerund": "designating",
+      "noun": "designation",
+      "related_noun": "designee",
+      "adjective": "designated",
+      "postpositive_adjective": "designate"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "designate A as B",
+      "designate A to be B",
+      "designate someone to do something",
+      "designate something for + purpose / use",
+      "designate something by / with + symbol",
+      "designate a place / area / route",
+      "be designated as + noun / adjective",
+      "be designated for + purpose",
+      "a designated person / area / authority",
+      "president / director designate"
+    ],
+    "usage": {
+      "as_pattern": "Designate A as B means formally assigning A a status, function, name, or classification.",
+      "person_action": "Designate someone to do something means formally selecting or authorizing that person to perform the action.",
+      "purpose": "Designate something for a purpose means officially reserving or assigning it to that use.",
+      "identification": "The verb can mean identifying an element by a name, letter, number, mark, or symbol.",
+      "passive": "The passive and past-participial adjective are especially common: a designated area; the officer designated by the authority.",
+      "pronunciation": "The verb ends in /eɪt/. The rarer postpositive adjective in president-designate ends in /ət/ or /ɪt/."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "verb /ˈdezɪɡˌneɪt/; postpositive adjective /ˈdezɪɡnət/",
+      "uk": "verb /ˈdezɪɡneɪt/; postpositive adjective /ˈdezɪɡnət/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人を役職・任務などに正式に任命・指名する",
+      "場所・物・期間などを特定の目的のため正式に指定する",
+      "人・物を特定の名称・地位・分類で呼ぶ、位置づける",
+      "文字・数字・記号などによって対象を示す",
+      "規則・契約・法令などによって権限者・対象・区域を定める",
+      "designate の後置形容詞用法で、役職への就任が予定されていることを表す"
+    ],
+    "en": [
+      "to formally appoint or select a person for a position or duty",
+      "to officially assign a place, object, or period to a particular purpose",
+      "to give a person or thing a particular name, status, or classification",
+      "to identify an element by means of a letter, number, mark, or symbol",
+      "to specify an authority, subject, or area through a rule, contract, or statute",
+      "as a postpositive adjective, appointed to a position but not yet formally serving in it"
+    ]
+  },
+  "nuance": {
+    "ja": "designate は、単に選ぶ choose よりも、権限を持つ人・組織が特定の役割・地位・用途を正式に与えることを強調する。The company designated her as project leader なら、会社が正式に彼女をリーダーに指名したという意味になる。designate an area for storage は、その区域を保管専用として割り当てることを表す。また、技術文書では The component designated by reference numeral 10 のように、符号によって部品を特定する意味でも使われる。designate は指定を行うことを意味するが、その指定が常に法的権限を付与するとは限らず、具体的な効果は規則・契約・法令によって決まる。",
+    "en": "Designate emphasizes a formal assignment of role, status, purpose, or identity by a person or organization possessing relevant authority. The company designated her as project leader means that the company officially selected her for that role, rather than merely preferring her informally. To designate an area for storage means officially allocating it to that use. In technical writing, the verb can identify a component by a reference sign, as in the component designated by reference numeral 10. The act of designation does not invariably confer legal authority by itself; its precise effect depends on the applicable rule, contract, or statute."
+  },
+  "minimal": {
+    "ja": [
+      "designate：人・物・場所を役職・名称・用途などに正式に指定する。",
+      "appoint：人を役職・公職などに正式に任命する。",
+      "nominate：役職・選挙・賞などの候補者として人を指名する。",
+      "assign：人に仕事を与える、または物・資源を特定の用途へ割り当てる。",
+      "name：人を役職者として選ぶ、または物に名称を付ける。",
+      "specify：要件・対象・数値などを明確かつ具体的に定める。",
+      "identify：人・物が何であるかを認識し、特定する。",
+      "label：名称・記号・分類を示すラベルを付ける。"
+    ],
+    "en": [
+      "designate means formally assigning a person, thing, or place a role, name, classification, or purpose.",
+      "appoint means formally selecting someone for an office or position.",
+      "nominate means proposing or selecting someone as a candidate for an office, election, or award.",
+      "assign means giving someone a task or allocating an object or resource to a particular use.",
+      "name means selecting a person for a position or giving something a particular title.",
+      "specify means defining a requirement, subject, or quantity clearly and precisely.",
+      "identify means recognizing and establishing who or what a person or thing is.",
+      "label means attaching or assigning a name, symbol, or category to something."
+    ]
+  },
+  "etymology": {
+    "ja": "designate はラテン語 designare「印を付ける、示す、指名する」に由来し、de- と signare「印を付ける」から構成される。signare は signum「印、記号」に由来する。もともとは対象に印を付けてほかの物から区別し、特定することを表した。そこから、名称・記号によって物を示すこと、人を役職へ指名すること、場所・物を特定の用途に割り当てることへ意味が広がった。designation「指定・名称」と designee「指定・指名された人」も同じ語族に属する。",
+    "en": "Designate derives from Latin designare, meaning to mark out, indicate, or appoint. It is formed from de- and signare, meaning to mark, which derives from signum, meaning sign or mark. The original idea was distinguishing and identifying an object by placing a mark upon it. The meaning expanded to indicating something by a name or symbol, appointing a person to an office, and allocating a place or object to a particular use. Designation and designee belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "appoint",
+      "note": {
+        "ja": "権限を持つ者が、人を役職・公職・委員などに正式に就ける。",
+        "en": "To formally place a person in an office, public position, or committee role through proper authority."
+      }
+    },
+    {
+      "word": "nominate",
+      "note": {
+        "ja": "人を役職・選挙・賞などの候補者として正式に提案・指名する。",
+        "en": "To formally propose or select a person as a candidate for an office, election, or award."
+      }
+    },
+    {
+      "word": "assign",
+      "note": {
+        "ja": "人に任務・責任を与える、または場所・物を特定の用途に割り当てる。",
+        "en": "To give a person a task or responsibility or allocate a place or object to a particular use."
+      }
+    },
+    {
+      "word": "specify",
+      "note": {
+        "ja": "対象・条件・方法などを曖昧さがないよう明確に定める。",
+        "en": "To state or define a subject, condition, or method clearly and without ambiguity."
+      }
+    },
+    {
+      "word": "denote",
+      "note": {
+        "ja": "語・記号・表示などが、特定の意味・対象を直接示す。",
+        "en": "For a word, symbol, or sign, to directly indicate a particular meaning or referent."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "bestimmen / bezeichnen / ernennen",
+    "it": "designare / nominare / indicare",
+    "fr": "désigner / nommer",
+    "es": "designar / nombrar / señalar"
+  },
+  "collocations": {
+    "ja": [
+      "designate someone as manager — 人を管理職に指名する",
+      "designate someone to lead the team — 人をチームの指揮者に指定する",
+      "designate an official representative — 正式な代表者を指名する",
+      "designate an area for storage — 区域を保管用に指定する",
+      "designate a building as a historic site — 建物を史跡に指定する",
+      "designate a date for the meeting — 会議の日付を指定する",
+      "designate something by a letter — 何かを文字で示す",
+      "be designated as confidential — 機密として指定される",
+      "a designated smoking area — 指定喫煙区域",
+      "a designated authority — 指定された権限機関",
+      "a designated representative — 指定代理人・代表者",
+      "the component designated by numeral 10 — 符号10で示された部品"
+    ],
+    "en": [
+      "designate someone as manager",
+      "designate someone to lead the team",
+      "designate an official representative",
+      "designate an area for storage",
+      "designate a building as a historic site",
+      "designate a date for the meeting",
+      "designate something by a letter",
+      "be designated as confidential",
+      "a designated smoking area",
+      "a designated authority",
+      "a designated representative",
+      "the component designated by numeral 10"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company designated her as the new project manager. — 会社は彼女を新しいプロジェクト管理者に指名した。",
+      "This section of the building has been designated as a quiet area. — 建物のこの区画は静かに過ごす区域として指定されている。",
+      "Each participant was designated by a number rather than by name. — 各参加者は氏名ではなく番号によって示された。",
+      "The director designated two employees to conduct the internal investigation. — 取締役は、社内調査を実施する者として従業員二名を指名した。",
+      "In the patent drawings, the housing is designated by reference numeral 10 and the removable cover by reference numeral 20. — 特許図面では、ハウジングは参照符号10、取り外し可能なカバーは参照符号20で示されている。"
+    ],
+    "en": [
+      "The company designated her as the new project manager.",
+      "This section of the building has been designated as a quiet area.",
+      "Each participant was designated by a number rather than by name.",
+      "The director designated two employees to conduct the internal investigation.",
+      "In the patent drawings, the housing is designated by reference numeral 10 and the removable cover by reference numeral 20."
+    ]
+  }
+},
+{
+  "id": "substantially",
+  "sid": "2026-01642",
+  "word": "substantially",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "adverb",
+    "degree",
+    "extent",
+    "increase",
+    "decrease",
+    "similarity",
+    "essentially",
+    "approximately",
+    "business",
+    "finance",
+    "legal",
+    "patent",
+    "formal"
+  ],
+  "grammar": {
+    "pos": "adverb",
+    "forms": {
+      "base": "substantially",
+      "adjective": "substantial",
+      "noun": "substance",
+      "related_adjective": "substantive",
+      "related_adverb": "substantively"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "substantially + verb",
+      "substantially increase / decrease",
+      "substantially improve / reduce",
+      "be substantially different from + noun",
+      "be substantially similar to + noun",
+      "remain substantially unchanged",
+      "be substantially complete",
+      "substantially all / the same",
+      "substantially as described",
+      "substantially consist of + noun"
+    ],
+    "usage": {
+      "large_degree": "With verbs of change, substantially means considerably or by a large amount.",
+      "essentially": "With words such as similar, complete, unchanged, or the same, it means essentially or in all important respects.",
+      "not_exact": "In the sense of essentially, it allows minor differences or exceptions but does not define their exact extent by itself.",
+      "position": "It normally appears immediately before the verb, adjective, quantifier, or phrase it modifies.",
+      "word_family": "Substantially must be distinguished from substantively, which means in relation to the essential content or merits of a matter.",
+      "legal_context": "In legal and patent drafting, its scope depends on context and may require support from definitions, examples, tolerances, or the understanding of the relevant skilled reader."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/səbˈstænʃəli/",
+      "uk": "/səbˈstænʃəli/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "数量・程度・価値などが大幅に、相当に",
+      "変化・改善・減少などが重要といえる程度に",
+      "細かな差異や例外を除けば、実質的に",
+      "完全ではないものの、重要な点ではほぼ",
+      "全体または大部分について、おおむね",
+      "法律・技術上、厳密な一致を必要とせず本質的に同じ態様で"
+    ],
+    "en": [
+      "by a large or considerable amount in quantity, degree, or value",
+      "to an extent sufficient to make a change, improvement, or reduction important",
+      "essentially, despite minor differences or exceptions",
+      "almost completely or in all important respects",
+      "with respect to all or a large majority of something",
+      "in legal or technical usage, in essentially the same manner without requiring exact identity"
+    ]
+  },
+  "nuance": {
+    "ja": "substantially は文脈によって「程度が大きい」と「本質的にはほぼ同じ」の二方向に働く。Costs increased substantially では「費用が大幅に増加した」、The design remained substantially unchanged では「細部を除き設計は実質的に変わらなかった」という意味になる。approximately が主として数値の近似を表すのに対し、substantially は重要な特徴・効果・全体的状態に着目することが多い。特許請求項の substantially parallel や substantially free of のような表現は厳密な平行や完全な不存在を要求しない可能性があるが、どの程度の差を許容するかは文脈によって異なる。なお、substantively は「内容・実体面で」という別の副詞である。",
+    "en": "Substantially works in two related directions depending on context: considerable degree and essential equivalence. Costs increased substantially means that the increase was large, while The design remained substantially unchanged means that it stayed the same in all important respects despite minor differences. Approximately primarily expresses numerical closeness, whereas substantially often concerns essential features, effects, or overall condition. In patent claims, expressions such as substantially parallel or substantially free of may permit some departure from exact parallelism or total absence, but the permissible degree depends on context. Substantively is a separate adverb meaning with respect to the actual content or merits of a matter."
+  },
+  "minimal": {
+    "ja": [
+      "substantially：大幅に、または細部を除けば実質的に・ほぼ。",
+      "considerably：数量・程度が明らかに大きく、相当に。",
+      "significantly：統計的または実質的に重要といえる程度に。",
+      "essentially：細部を除いて、本質・中心的性質において。",
+      "largely：全体の大部分について、主として。",
+      "approximately：数値・数量が正確ではないが、その値に近く。",
+      "materially：結果・判断・法的関係に重要な影響を与える程度に。",
+      "substantively：形式・手続きではなく、内容・本案に関して。"
+    ],
+    "en": [
+      "substantially means by a considerable amount or essentially despite minor differences.",
+      "considerably means by a clearly large degree, quantity, or amount.",
+      "significantly means to an extent that is statistically or practically important.",
+      "essentially means in fundamental nature or principal respects despite details.",
+      "largely means mainly or with respect to the greater part.",
+      "approximately means close to but not exactly a stated numerical value.",
+      "materially means to an extent important enough to affect a result, decision, or legal relationship.",
+      "substantively means with respect to actual content or merits rather than form or procedure."
+    ]
+  },
+  "etymology": {
+    "ja": "substantially は substantial に副詞接尾辞 -ly を加えた語である。substantial はラテン語 substantia「実体、本質、存在するもの」に由来し、substantia は substare「下に立つ、基礎となる」と関係する。そこから「実体・本質に関わる」という意味が生じ、さらに実体として十分な大きさ・重要性を持つことを表すようになった。この二つの流れが substantially の「本質的には」と「相当に・大幅に」という現代の二義につながっている。",
+    "en": "Substantially is formed from substantial with the adverbial suffix -ly. Substantial derives from Latin substantia, meaning substance, essential nature, or that which exists, and is related to substare, meaning to stand under or provide a foundation. From this developed the meaning concerning the essential substance of something, followed by the idea of possessing considerable size, importance, or reality. These developments produced the two principal modern senses of substantially: essentially in important respects and considerably in degree."
+  },
+  "synonyms": [
+    {
+      "word": "considerably",
+      "note": {
+        "ja": "数量・程度・差などが小さくなく、明らかに大きいことを表す。",
+        "en": "Indicates that a quantity, degree, or difference is clearly large rather than minor."
+      }
+    },
+    {
+      "word": "significantly",
+      "note": {
+        "ja": "変化・差・効果などが無視できず、統計的または実際的に重要である。",
+        "en": "Indicates that a change, difference, or effect is too important to disregard statistically or practically."
+      }
+    },
+    {
+      "word": "essentially",
+      "note": {
+        "ja": "小さな相違を除き、最も重要な性質・内容において同じである。",
+        "en": "Means in the most important nature or content despite minor differences."
+      }
+    },
+    {
+      "word": "largely",
+      "note": {
+        "ja": "完全ではないが、全体の大部分について当てはまる。",
+        "en": "Means for the greater part, although not necessarily completely."
+      }
+    },
+    {
+      "word": "materially",
+      "note": {
+        "ja": "結果・権利・判断などを変えるほど、実質的に重要な程度で。",
+        "en": "Means to a degree important enough to alter a result, right, obligation, or judgment."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "wesentlich / erheblich / im Wesentlichen",
+    "it": "sostanzialmente / considerevolmente",
+    "fr": "substantiellement / considérablement / pour l’essentiel",
+    "es": "sustancialmente / considerablemente / en esencia"
+  },
+  "collocations": {
+    "ja": [
+      "increase substantially — 大幅に増加する",
+      "decrease substantially — 大幅に減少する",
+      "substantially improve performance — 性能を大幅に改善する",
+      "substantially reduce costs — 費用を大幅に削減する",
+      "be substantially different — 実質的に異なる",
+      "be substantially similar — 実質的に類似する",
+      "remain substantially unchanged — 実質的に変わらない",
+      "be substantially complete — ほぼ完成している",
+      "substantially all of something — 何かのほぼ全部",
+      "substantially the same — 実質的に同一の",
+      "substantially parallel — ほぼ平行な",
+      "substantially free of impurities — 不純物を実質的に含まない"
+    ],
+    "en": [
+      "increase substantially",
+      "decrease substantially",
+      "substantially improve performance",
+      "substantially reduce costs",
+      "be substantially different",
+      "be substantially similar",
+      "remain substantially unchanged",
+      "be substantially complete",
+      "substantially all of something",
+      "substantially the same",
+      "substantially parallel",
+      "substantially free of impurities"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company substantially increased its investment in renewable energy. — その会社は再生可能エネルギーへの投資を大幅に増やした。",
+      "The new insulation material substantially reduces heat loss. — その新しい断熱材は熱損失を大幅に減少させる。",
+      "The two proposals are substantially the same despite minor differences in wording. — 文言にわずかな違いはあるものの、二つの提案は実質的に同じである。",
+      "The project is substantially complete, although some final testing remains. — 最終試験が一部残っているものの、プロジェクトはほぼ完成している。",
+      "Whether the accused component is substantially parallel to the claimed surface may depend on how the skilled person understands that term in light of the specification. — 被疑部品が請求された面に対してほぼ平行であるかは、当業者が明細書に照らしてその用語をどのように理解するかによって決まり得る。"
+    ],
+    "en": [
+      "The company substantially increased its investment in renewable energy.",
+      "The new insulation material substantially reduces heat loss.",
+      "The two proposals are substantially the same despite minor differences in wording.",
+      "The project is substantially complete, although some final testing remains.",
+      "Whether the accused component is substantially parallel to the claimed surface may depend on how the skilled person understands that term in light of the specification."
+    ]
+  }
+},
+{
+  "id": "substantial",
+  "sid": "2026-01643",
+  "word": "substantial",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "quantity",
+    "degree",
+    "importance",
+    "value",
+    "evidence",
+    "similarity",
+    "business",
+    "finance",
+    "legal",
+    "patent",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "substantial",
+      "comparative": "more substantial",
+      "superlative": "most substantial",
+      "adverb": "substantially",
+      "noun": "substance",
+      "related_adjective": "substantive",
+      "related_adverb": "substantively"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a substantial + amount / number / increase",
+      "a substantial difference / improvement",
+      "substantial evidence / support",
+      "a substantial contribution",
+      "a substantial part / portion of + noun",
+      "be substantial",
+      "be more substantial than + noun",
+      "substantial in size / value / effect",
+      "a substantial meal",
+      "substantial compliance / similarity"
+    ],
+    "usage": {
+      "quantity": "Substantial commonly means large in amount, degree, value, or importance.",
+      "reality": "It can also mean real, meaningful, or supported by sufficient substance rather than merely apparent or trivial.",
+      "physical": "For a building, object, or meal, it can mean solid, sizeable, or sufficient.",
+      "comparison": "More substantial and most substantial are normally preferred to substantialer and substantialest.",
+      "word_family": "Substantial must be distinguished from substantive, which concerns the actual content or merits of a matter.",
+      "legal_context": "Legal expressions containing substantial may have specialized tests whose precise meanings depend on the relevant jurisdiction and field."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/səbˈstænʃəl/",
+      "uk": "/səbˈstænʃəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "数量・金額・程度などがかなり大きい",
+      "影響・重要性・価値などが無視できない",
+      "証拠・根拠・支援などが十分で実質的な",
+      "物・建物などが頑丈で、しっかりした",
+      "食事が量・栄養ともに十分で食べ応えのある",
+      "法律上、些細・形式的ではなく重要な実質を持つ"
+    ],
+    "en": [
+      "large or considerable in amount, value, or degree",
+      "important or significant enough not to be disregarded",
+      "for evidence, support, or grounds, real and sufficient in substance",
+      "for an object or building, solid, strong, or sizeable",
+      "for a meal, sufficiently large and nourishing",
+      "in legal usage, material or meaningful rather than minor or merely formal"
+    ]
+  },
+  "nuance": {
+    "ja": "substantial は必ずしも「巨大な」を意味せず、その文脈で無視できないほど十分な量・重要性・実体があることを表す。a substantial increase は小さな変動ではない大幅な増加、substantial evidence は単なる憶測ではない相応の証拠、a substantial meal は軽食ではなく食べ応えのある食事を意味する。significant と近いが、significant は重要性や統計的有意性に焦点を置き、substantial は量・程度・実体の大きさを感じさせやすい。substantive は「手続き・形式ではなく内容・本案に関する」という意味なので、substantial と置き換えられない。",
+    "en": "Substantial does not necessarily mean enormous. It indicates an amount, degree, importance, or degree of reality sufficient to matter in the relevant context. A substantial increase is more than a minor fluctuation, substantial evidence is more than unsupported speculation, and a substantial meal is filling rather than light. Significant overlaps with substantial, but significant more readily emphasizes importance or statistical significance, whereas substantial often suggests considerable size, degree, or substance. Substantive means relating to actual content or merits rather than procedure or form and is not interchangeable with substantial."
+  },
+  "minimal": {
+    "ja": [
+      "substantial：量・程度・重要性・実体がかなり大きく、無視できない。",
+      "considerable：量・程度が明らかに大きく、相当な。",
+      "significant：結果・判断上重要な、または統計的に有意な。",
+      "sizable：数量・規模・金額などがかなり大きい。",
+      "material：判断・結果・権利義務に重要な影響を持つ。",
+      "solid：物が頑丈な、または議論・成果などが確かな。",
+      "substantive：形式・手続きではなく、内容・本案に関する。",
+      "insubstantial：量・強度・根拠・重要性などが不十分な。"
+    ],
+    "en": [
+      "substantial means considerable in amount, degree, importance, or real substance.",
+      "considerable means clearly large in amount, extent, or degree.",
+      "significant means important to a result or judgment, or statistically meaningful.",
+      "sizable describes a quantity, scale, or amount that is fairly large.",
+      "material means important enough to affect a decision, result, right, or obligation.",
+      "solid describes a strongly built object or, figuratively, reliable evidence or achievement.",
+      "substantive means relating to actual content or merits rather than form or procedure.",
+      "insubstantial means lacking sufficient size, strength, evidence, or importance."
+    ]
+  },
+  "etymology": {
+    "ja": "substantial はラテン語 substantialis「実体に属する」に由来し、その基礎に substantia「実体、本質」がある。substantia は substare「下に立つ、基礎となる」と関係する。当初は外見・偶有的性質ではなく、物の基礎となる実体・本質に関わることを表した。そこから「実体のある、現実の」、さらに「量・価値・重要性が十分に大きい」という意味が発達した。substance、substantially、substantive も同じ語族だが、現代の用法はそれぞれ異なる。",
+    "en": "Substantial derives from Latin substantialis, meaning relating to substance, based on substantia, meaning substance or essential nature. Substantia is related to substare, meaning to stand under or provide a foundation. The adjective originally concerned the underlying reality or essence of something rather than its outward or accidental qualities. From this developed the senses real or solid and then considerable in amount, value, or importance. Substance, substantially, and substantive belong to the same family, although their present-day uses differ."
+  },
+  "synonyms": [
+    {
+      "word": "considerable",
+      "note": {
+        "ja": "数量・距離・時間・努力などが小さくなく、注目に値するほど大きい。",
+        "en": "Describes a quantity, distance, period, or effort large enough to deserve attention."
+      }
+    },
+    {
+      "word": "significant",
+      "note": {
+        "ja": "変化・差・事実などが結果や判断に重要な意味を持つ。",
+        "en": "Describes a change, difference, or fact important to a result or judgment."
+      }
+    },
+    {
+      "word": "sizable",
+      "note": {
+        "ja": "金額・数量・集団・物体などがかなりの大きさである。",
+        "en": "Describes an amount, quantity, group, or object that is fairly large."
+      }
+    },
+    {
+      "word": "material",
+      "note": {
+        "ja": "結果・意思決定・法的関係へ実質的な影響を与えるほど重要な。",
+        "en": "Important enough to have a real effect on an outcome, decision, or legal relationship."
+      }
+    },
+    {
+      "word": "solid",
+      "note": {
+        "ja": "建物・物などが頑丈な、または証拠・成果・評判などが確かな。",
+        "en": "Describes a strongly built object or reliable evidence, achievement, or reputation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "erheblich / beträchtlich / substanziell",
+    "it": "sostanziale / considerevole",
+    "fr": "substantiel / considérable",
+    "es": "sustancial / considerable"
+  },
+  "collocations": {
+    "ja": [
+      "a substantial amount — かなりの量・金額",
+      "a substantial number of people — かなりの人数",
+      "a substantial increase — 大幅な増加",
+      "a substantial decrease — 大幅な減少",
+      "a substantial difference — 実質的な大きな相違",
+      "a substantial improvement — 大幅な改善",
+      "a substantial contribution — 多大な貢献",
+      "substantial evidence — 相当な・実質的な証拠",
+      "substantial support — 強力・十分な支持",
+      "a substantial part of something — 何かの相当部分",
+      "a substantial meal — 食べ応えのある食事",
+      "substantial similarity — 実質的類似性"
+    ],
+    "en": [
+      "a substantial amount",
+      "a substantial number of people",
+      "a substantial increase",
+      "a substantial decrease",
+      "a substantial difference",
+      "a substantial improvement",
+      "a substantial contribution",
+      "substantial evidence",
+      "substantial support",
+      "a substantial part of something",
+      "a substantial meal",
+      "substantial similarity"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company made a substantial investment in new equipment. — その会社は新しい設備に多額の投資を行った。",
+      "There has been a substantial increase in housing costs. — 住宅費が大幅に増加している。",
+      "The two reports reached substantially different conclusions despite relying on the same data. — 二つの報告書は同じデータに依拠したにもかかわらず、実質的に大きく異なる結論に達した。",
+      "We ate a substantial breakfast before beginning the long journey. — 私たちは長い旅を始める前に、食べ応えのある朝食を取った。",
+      "Whether the amendment introduces a substantial change to the scope of the patent claims must be assessed under the applicable legal standard. — その補正が特許請求項の範囲に実質的な変更をもたらすかは、適用される法的基準に従って評価しなければならない。"
+    ],
+    "en": [
+      "The company made a substantial investment in new equipment.",
+      "There has been a substantial increase in housing costs.",
+      "The two reports reached substantially different conclusions despite relying on the same data.",
+      "We ate a substantial breakfast before beginning the long journey.",
+      "Whether the amendment introduces a substantial change to the scope of the patent claims must be assessed under the applicable legal standard."
+    ]
+  }
+},
+{
+  "id": "substance",
+  "sid": "2026-01644",
+  "word": "substance",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "material",
+    "matter",
+    "content",
+    "essence",
+    "importance",
+    "evidence",
+    "law",
+    "patent",
+    "science",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable when referring to a particular material or chemical; usually uncountable when referring to content, essence, importance, or reality",
+    "plural": "substances",
+    "forms": {
+      "singular": "substance",
+      "plural": "substances",
+      "adjective": "substantial",
+      "adverb": "substantially",
+      "verb": "substantiate",
+      "related_noun": "substantiation"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a chemical / toxic / controlled substance",
+      "a substance found in + noun",
+      "the substance of + argument / agreement",
+      "in substance",
+      "be lacking in substance",
+      "have little / no substance",
+      "give substance to + claim / suspicion",
+      "the substance of what someone said",
+      "substance over form",
+      "be similar in substance to + noun"
+    ],
+    "usage": {
+      "material": "As a countable noun, substance means a particular kind of solid, liquid, or gas: a toxic substance.",
+      "content": "As an uncountable noun, it refers to the important content of a statement, document, proposal, or discussion.",
+      "essence": "It can mean the essential nature or underlying reality of something rather than its outward appearance.",
+      "importance": "A person, idea, or argument of substance has genuine importance, value, or intellectual weight.",
+      "in_substance": "In substance means with respect to the essential content, even if the wording or form differs.",
+      "legal_use": "In legal and commercial contexts, substance may be contrasted with form, but the precise effect of that distinction depends on the relevant law and circumstances."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsʌbstəns/",
+      "uk": "/ˈsʌbstəns/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特定の性質を持つ物質・材料",
+      "薬物・化学物質など、識別可能な種類の物質",
+      "発言・議論・契約・文書などの重要な内容・趣旨",
+      "外見や形式ではなく、物事の本質・実体",
+      "主張・考え・人物などが持つ重要性・価値・中身",
+      "主張・疑いなどを裏付ける現実的な根拠"
+    ],
+    "en": [
+      "a particular kind of physical matter or material",
+      "an identifiable material such as a drug or chemical",
+      "the important content or main meaning of a statement, argument, agreement, or document",
+      "the essential nature or reality of something rather than its outward form",
+      "genuine importance, value, or intellectual weight",
+      "a factual or practical basis that supports a claim or suspicion"
+    ]
+  },
+  "nuance": {
+    "ja": "substance は、物理的な「物質」と抽象的な「中身・本質」の両方を表す。a harmful substance では特定の有害物質を指すため可算名詞だが、The argument lacks substance. では「その議論には実質的な内容や根拠がない」という不可算的な用法になる。the substance of the agreement は、契約書の個々の表現ではなく、合意された主要な内容を指す。in substance は「細部や表現は異なっても、実質的には」という意味である。法律上の substance over form は、名称や外形だけでなく、取引・行為の実質を見るという考え方を表すが、その適用方法は法域や制度によって異なる。",
+    "en": "Substance can refer both to physical matter and to abstract content or essence. It is countable in a harmful substance because a particular material is identified, but generally uncountable in The argument lacks substance, where it means meaningful content or evidential weight. The substance of an agreement is its principal content rather than its exact wording. In substance means essentially or with regard to the important content despite differences in detail or expression. In legal language, substance over form expresses attention to the actual nature of a transaction or act rather than merely its label or outward structure, although its application varies by jurisdiction and legal context."
+  },
+  "minimal": {
+    "ja": [
+      "substance：物理的な物質、または発言・文書・制度などの重要な内容・本質。",
+      "matter：空間を占める物質一般、または検討・処理の対象となる事柄。",
+      "material：物を作るために用いる原料・素材、または関連性のある資料・情報。",
+      "content：文章・発言・媒体などに含まれる情報・題材。",
+      "essence：ある物をその物たらしめる、最も基本的で不可欠な性質。",
+      "meaning：語・発言・行為などが伝える意味・意図。",
+      "basis：主張・判断・制度などを支える根拠・基礎。",
+      "form：物事の外形・形式・構造であり、substance と対比されることがある。"
+    ],
+    "en": [
+      "substance means physical matter or the important content, essence, or weight of something.",
+      "matter means physical material generally or a subject requiring consideration or action.",
+      "material means a substance used to make something or information relevant to a particular purpose.",
+      "content is the information or subject matter contained in a text, statement, or medium.",
+      "essence is the most basic and indispensable quality that makes something what it is.",
+      "meaning is the idea or intention communicated by a word, statement, or action.",
+      "basis is the foundation or supporting reason for a claim, judgment, or system.",
+      "form is the outward shape, format, or structure of something and may be contrasted with substance."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 substantia「実体・本質・存在するもの」に由来し、古フランス語を経て英語に入った。substantia は sub-「下に」と stare「立つ」に関係し、文字どおりには物事の下に立ってそれを支えるもの、すなわち「基礎・実体」という発想を持つ。そこから、物理的に存在する「物質」、外見の背後にある「本質」、発言や文書を支える「実質的な内容」という意味が発達した。substantial、substantiate、circumstance なども、ラテン語 stare「立つ」にさかのぼる語を含む。",
+    "en": "Substance comes through French from Latin substantia, meaning being, essence, or that which exists. Substantia is related to sub-, under, and stare, to stand, conveying the idea of something that stands beneath and supports what is apparent. From this developed the senses physical matter, the essential reality behind outward appearance, and the meaningful content supporting a statement or document. Substantial and substantiate belong to the same word family, while circumstance also ultimately contains an element derived from Latin stare."
+  },
+  "synonyms": [
+    {
+      "word": "matter",
+      "note": {
+        "ja": "物理的な物質一般を表すほか、問題・案件・考慮すべき事柄も意味する。",
+        "en": "Refers broadly to physical material and also to a subject, issue, or affair requiring consideration."
+      }
+    },
+    {
+      "word": "material",
+      "note": {
+        "ja": "製造に使う原料・素材、または特定の目的に関係する資料・情報を表す。",
+        "en": "Refers to a physical substance used in making something or to information relevant to a purpose."
+      }
+    },
+    {
+      "word": "content",
+      "note": {
+        "ja": "文章・発言・提案・媒体などの中に含まれる情報や題材に重点を置く。",
+        "en": "Emphasizes the information or subject matter contained in a statement, proposal, text, or medium."
+      }
+    },
+    {
+      "word": "essence",
+      "note": {
+        "ja": "物事の外面的特徴を除いた、中心的・不可欠な性質を表す。",
+        "en": "Means the central and indispensable nature of something apart from its incidental features."
+      }
+    },
+    {
+      "word": "core",
+      "note": {
+        "ja": "問題・考え・制度などの最も重要な中心部分を表す。",
+        "en": "Refers to the central and most important part of an issue, idea, or system."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Substanz / Stoff / Inhalt / Wesen",
+    "it": "sostanza / materia / contenuto / essenza",
+    "fr": "substance / matière / contenu / essence",
+    "es": "sustancia / materia / contenido / esencia"
+  },
+  "collocations": {
+    "ja": [
+      "a chemical substance — 化学物質",
+      "a harmful substance — 有害物質",
+      "a toxic substance — 有毒物質",
+      "a controlled substance — 規制薬物・規制物質",
+      "a naturally occurring substance — 天然に存在する物質",
+      "the substance of the argument — 議論の実質的な内容",
+      "the substance of the agreement — 合意の主要な内容",
+      "lack substance — 中身・根拠を欠く",
+      "an argument of substance — 実質的な価値のある議論",
+      "give substance to a claim — 主張に実質的な根拠を与える",
+      "in substance — 実質的には、要するに",
+      "substance over form — 形式より実質を重視する考え方"
+    ],
+    "en": [
+      "a chemical substance",
+      "a harmful substance",
+      "a toxic substance",
+      "a controlled substance",
+      "a naturally occurring substance",
+      "the substance of the argument",
+      "the substance of the agreement",
+      "lack substance",
+      "an argument of substance",
+      "give substance to a claim",
+      "in substance",
+      "substance over form"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The laboratory identified an unknown substance in the water sample. — 研究所は、その水の試料から未知の物質を特定した。",
+      "His proposal sounded impressive, but it lacked substance. — 彼の提案は立派に聞こえたが、実質的な中身がなかった。",
+      "The summary accurately reflects the substance of our discussion. — その要約は、私たちの議論の主要な内容を正確に反映している。",
+      "The two versions differ in wording but are substantially the same in substance. — 二つの版は表現が異なるものの、内容の実質はほぼ同じである。",
+      "In assessing the amendment, the patent examiner considered whether it altered the substance of the claimed invention. — 補正を評価する際、特許審査官は、それが請求された発明の実質を変更するかどうかを検討した。"
+    ],
+    "en": [
+      "The laboratory identified an unknown substance in the water sample.",
+      "His proposal sounded impressive, but it lacked substance.",
+      "The summary accurately reflects the substance of our discussion.",
+      "The two versions differ in wording but are substantially the same in substance.",
+      "In assessing the amendment, the patent examiner considered whether it altered the substance of the claimed invention."
+    ]
+  }
+},
+{
+  "id": "wrongful",
+  "sid": "2026-01645",
+  "word": "wrongful",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "wrongdoing",
+    "unlawful conduct",
+    "injustice",
+    "liability",
+    "dismissal",
+    "death",
+    "accusation",
+    "legal",
+    "employment",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "wrongful",
+      "comparative": "more wrongful, uncommon",
+      "superlative": "most wrongful, uncommon",
+      "noun": "wrongfulness",
+      "adverb": "wrongfully",
+      "related_noun": "wrongdoing",
+      "opposite": "rightful"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a wrongful + act / omission",
+      "wrongful conduct",
+      "wrongful dismissal / termination",
+      "wrongful death",
+      "wrongful conviction",
+      "wrongful imprisonment / detention",
+      "wrongful accusation",
+      "wrongful interference with + noun",
+      "be wrongfully accused / dismissed / detained",
+      "bring a claim for wrongful + noun"
+    ],
+    "usage": {
+      "core": "Wrongful describes an act, decision, or situation that unjustly violates a person’s rights or is contrary to law or accepted standards of conduct.",
+      "legal_register": "It is especially common in legal and formal expressions such as wrongful dismissal, wrongful death, and wrongful conviction.",
+      "wrong_contrast": "Wrong is the general word for something incorrect, mistaken, immoral, or unsuitable; wrongful more specifically characterizes conduct or treatment as unjustified or legally improper.",
+      "person": "Wrongful does not normally describe a person directly; use dishonest, unjust, or guilty depending on the intended meaning.",
+      "adverb": "Wrongfully commonly modifies a passive participle: wrongfully accused, wrongfully convicted, or wrongfully dismissed.",
+      "jurisdiction": "Expressions containing wrongful may have specialized definitions that vary according to the jurisdiction and area of law."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈrɔːŋfəl/",
+      "uk": "/ˈrɒŋfəl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "法律または他人の権利に反する、不法な",
+      "正当な理由や権限がなく、不当に行われた",
+      "道徳的・社会的に正しくない、不正な",
+      "人に損害・不利益・不公正な扱いをもたらす",
+      "法的責任や救済請求の根拠となり得る不当な"
+    ],
+    "en": [
+      "contrary to law or another person’s legal rights",
+      "done without proper justification, authority, or entitlement",
+      "morally or socially improper and unjust",
+      "causing harm, disadvantage, or unfair treatment to another person",
+      "capable, depending on the applicable law, of giving rise to liability or a claim for relief"
+    ]
+  },
+  "nuance": {
+    "ja": "wrongful は、単に事実認識や答えが「間違っている」ことではなく、行為・決定・拘束などが法的または道徳的に正当でないことを表す。a wrong answer は「誤答」だが、a wrongful act は「他人の権利を侵害する不当な行為」である。unlawful や illegal と重なるものの、wrongful は、権利侵害、不当な損害、正当化の欠如に焦点を置きやすく、必ずしも刑事犯罪だけを指さない。wrongfully accused や wrongfully convicted では、当人に責任がないのに告発・有罪判決を受けたことを強調する。wrongful dismissal、wrongful death などは法域によって固有の要件を持つ法律用語なので、一般語としての意味だけから法的結論を導くべきではない。",
+    "en": "Wrongful does not merely mean factually incorrect. It characterizes an act, decision, restraint, or form of treatment as legally or morally unjustified. A wrong answer is an incorrect answer, whereas a wrongful act improperly interferes with another person’s rights or interests. Wrongful overlaps with unlawful and illegal, but it often emphasizes injury, interference with rights, or lack of justification and does not necessarily imply a criminal offense. Wrongfully accused and wrongfully convicted emphasize that the affected person was subjected to proceedings or punishment without being properly responsible. Terms such as wrongful dismissal and wrongful death may have specific legal requirements in different jurisdictions, so their legal effect cannot be determined from the ordinary meaning alone."
+  },
+  "minimal": {
+    "ja": [
+      "wrongful：権利侵害や不当な損害を伴う、法的・道徳的に正当でない。",
+      "wrong：事実・判断・行為などが間違っている、正しくないという最も一般的な語。",
+      "unlawful：法律によって許されていない、または法律に反している。",
+      "illegal：法律で明確に禁止されている。日常語でも広く用いられる。",
+      "unjust：公平・正義に反し、人を不当に扱っている。",
+      "improper：規則・手続・社会的基準に照らして適切でない。",
+      "tortious：不法行為法上の責任を生じさせる性質を持つ、専門的な法律語。",
+      "mistaken：誤った理解・判断・認識に基づくが、必ずしも不法または不正ではない。"
+    ],
+    "en": [
+      "wrongful describes conduct or treatment that is legally or morally unjustified and may interfere with another person’s rights.",
+      "wrong is the broadest word for something factually, morally, or practically incorrect.",
+      "unlawful means not permitted by law or contrary to a legal rule.",
+      "illegal means expressly prohibited by law and is common in both formal and everyday language.",
+      "unjust describes conduct or treatment that is contrary to fairness or justice.",
+      "improper means unsuitable or contrary to an applicable rule, procedure, or accepted standard.",
+      "tortious is a technical legal term for conduct having the character of a civil wrong under tort law.",
+      "mistaken describes an understanding, belief, or decision based on error without necessarily implying illegality or injustice."
+    ]
+  },
+  "etymology": {
+    "ja": "wrongful は wrong に、性質や傾向を表す接尾辞 -ful が付いて成立した。wrong は古英語期以後に古ノルド語 rangr「曲がった、不正な」の影響を受けて英語に定着した語とされる。「曲がっている」という空間的な発想から、正しい道筋・規則・正義から外れているという意味が発達した。wrongful は中英語以来、単なる誤りよりも、不正・権利侵害・正当性の欠如を伴う行為を形容する語として用いられている。",
+    "en": "Wrongful was formed from wrong and the suffix -ful, which indicates possession of a quality or tendency. Wrong is historically associated with Old Norse rangr, meaning crooked or unjust. The spatial idea of being bent or out of alignment developed into the abstract senses contrary to truth, rules, or justice. Since Middle English, wrongful has particularly characterized conduct involving injustice, interference with rights, or absence of lawful justification rather than a merely factual mistake."
+  },
+  "synonyms": [
+    {
+      "word": "unlawful",
+      "note": {
+        "ja": "法律上許されていない行為・状態を表し、刑事犯罪に限定されない。",
+        "en": "Describes conduct or a condition not authorized by law and is not limited to criminal offenses."
+      }
+    },
+    {
+      "word": "illegal",
+      "note": {
+        "ja": "法律によって禁止され、法的規則に違反していることを直接的に表す。",
+        "en": "Directly indicates that something is prohibited by law or violates a legal rule."
+      }
+    },
+    {
+      "word": "unjust",
+      "note": {
+        "ja": "公平・正義に反する扱い・判断・制度であることに重点を置く。",
+        "en": "Emphasizes that treatment, a decision, or a system is contrary to fairness or justice."
+      }
+    },
+    {
+      "word": "improper",
+      "note": {
+        "ja": "法律・規則・職業倫理・社会的基準などに照らして適切でないことを表す。",
+        "en": "Means unsuitable or inconsistent with a law, rule, professional duty, or accepted standard."
+      }
+    },
+    {
+      "word": "illegitimate",
+      "note": {
+        "ja": "正当な権限・根拠・目的を欠き、正当とは認められないことを表す。",
+        "en": "Describes something lacking proper authority, justification, basis, or legitimate purpose."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "unrechtmäßig / widerrechtlich / ungerechtfertigt",
+    "it": "illecito / ingiusto / illegittimo",
+    "fr": "illicite / injustifié / abusif",
+    "es": "ilícito / injusto / indebido"
+  },
+  "collocations": {
+    "ja": [
+      "a wrongful act — 不法・不当な行為",
+      "wrongful conduct — 不当な行為",
+      "wrongful dismissal — 不当解雇、契約違反となる解雇",
+      "wrongful termination — 不法・不当な雇用終了",
+      "wrongful death — 不法行為などによって生じた死亡",
+      "wrongful conviction — 誤った有罪判決",
+      "wrongful imprisonment — 不当な拘禁",
+      "wrongful detention — 不当な身柄拘束",
+      "wrongful accusation — 不当な告発・非難",
+      "wrongful interference — 不当な干渉・妨害",
+      "wrongful use of property — 財産の不当な使用",
+      "be wrongfully accused — 不当に告発される"
+    ],
+    "en": [
+      "a wrongful act",
+      "wrongful conduct",
+      "wrongful dismissal",
+      "wrongful termination",
+      "wrongful death",
+      "wrongful conviction",
+      "wrongful imprisonment",
+      "wrongful detention",
+      "wrongful accusation",
+      "wrongful interference",
+      "wrongful use of property",
+      "be wrongfully accused"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The investigation found that he had been wrongfully accused of theft. — 調査の結果、彼は窃盗の疑いを不当にかけられていたことが判明した。",
+      "She brought a claim alleging wrongful dismissal by her former employer. — 彼女は、以前の雇用主による不当解雇を主張して請求を申し立てた。",
+      "The court awarded compensation for his wrongful detention. — 裁判所は、彼が不当に拘束されたことに対する賠償を認めた。",
+      "The company denied that it had engaged in any wrongful conduct. — その会社は、いかなる不当行為にも関与していないと否定した。",
+      "A wrongful allegation of patent infringement can cause serious commercial harm, although the available remedies depend on the applicable law and facts. — 特許権侵害についての不当な主張は重大な商業的損害を引き起こし得るが、利用可能な救済は適用法と具体的事実によって異なる。"
+    ],
+    "en": [
+      "The investigation found that he had been wrongfully accused of theft.",
+      "She brought a claim alleging wrongful dismissal by her former employer.",
+      "The court awarded compensation for his wrongful detention.",
+      "The company denied that it had engaged in any wrongful conduct.",
+      "A wrongful allegation of patent infringement can cause serious commercial harm, although the available remedies depend on the applicable law and facts."
+    ]
+  }
+},
+{
+  "id": "wrong",
+  "sid": "2026-01646",
+  "word": "wrong",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "adverb",
+    "noun",
+    "verb",
+    "error",
+    "incorrectness",
+    "morality",
+    "injustice",
+    "judgment",
+    "conversation",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / adverb / noun / verb",
+    "countability": "countable or uncountable as a noun depending on meaning",
+    "plural": "wrongs",
+    "forms": {
+      "adjective": "wrong",
+      "comparative": "more wrong",
+      "superlative": "most wrong",
+      "adverb": "wrong / wrongly",
+      "noun_singular": "wrong",
+      "noun_plural": "wrongs",
+      "verb_base": "wrong",
+      "third_person": "wrongs",
+      "past": "wronged",
+      "past_participle": "wronged",
+      "gerund": "wronging",
+      "related_adjective": "wrongful"
+    },
+    "transitivity": "transitive as a verb",
+    "patterns": [
+      "be wrong",
+      "be wrong about + noun",
+      "be wrong to do",
+      "there is something wrong with + noun",
+      "get something wrong",
+      "go wrong",
+      "the wrong + noun",
+      "do someone wrong",
+      "be in the wrong",
+      "wrong someone"
+    ],
+    "usage": {
+      "adjective": "As an adjective, wrong means incorrect, unsuitable, morally unacceptable, or not functioning properly.",
+      "adverb": "As an informal adverb, wrong commonly follows verbs such as go, spell, calculate, and remember: Something went wrong.",
+      "wrongly": "Wrongly is preferred when describing an incorrect belief, interpretation, accusation, or official action: He was wrongly accused.",
+      "noun": "As a noun, wrong means an immoral or unjust act, or the condition of being mistaken or at fault.",
+      "verb": "As a formal or literary transitive verb, wrong means treating someone unfairly or causing an unjust injury.",
+      "comparison": "More wrong and most wrong are possible when degrees are relevant; wronger and wrongest are generally avoided."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɔːŋ/",
+      "uk": "/rɒŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "答え・情報・判断などが正しくない、間違った",
+      "目的・人・場所・時機などが適切でない",
+      "道徳・規則・正義に反する、悪い",
+      "機械・身体・状況などに問題や異常がある",
+      "名詞として、不正・悪事・権利侵害",
+      "動詞として、人を不当に扱い、害する"
+    ],
+    "en": [
+      "not correct or accurate",
+      "not suitable for the intended purpose, person, place, or occasion",
+      "morally unacceptable or contrary to justice or a rule",
+      "not functioning normally or affected by a problem",
+      "as a noun, an immoral act, injustice, or violation of another person’s rights",
+      "as a verb, to treat someone unjustly or cause that person an unfair injury"
+    ]
+  },
+  "nuance": {
+    "ja": "wrong は「正しい基準から外れている」ことを広く表す基礎語である。a wrong answer は事実上の誤り、the wrong train は目的に合わない選択、It is wrong to lie. は道徳的な非難を表す。There is something wrong with the machine. では、原因を特定せず「どこかに問題がある」と述べる。副詞の wrong は get it wrong、go wrong、spell a word wrong などの日常的な表現で自然である。一方、wrongly accused や wrongly interpreted のように、判断・認識・公的措置が誤っていたことを述べる場合は wrongly が一般的である。wrongful は wrong より形式的・法律的で、権利侵害や正当性の欠如を強く示す。",
+    "en": "Wrong is a basic and highly flexible word indicating departure from what is correct, suitable, moral, or normal. A wrong answer is factually incorrect, while the wrong train is unsuitable for the intended destination. It is wrong to lie makes a moral judgment. There is something wrong with the machine indicates an unspecified problem or malfunction. The flat adverb wrong is natural in everyday combinations such as get it wrong, go wrong, and spell a word wrong. Wrongly is generally preferred when describing an erroneous belief, interpretation, accusation, or official action. Wrongful is more formal and legalistic and more strongly suggests unjustified interference with rights."
+  },
+  "minimal": {
+    "ja": [
+      "wrong：事実・選択・行為・状態などが正しくないことを広く表す。",
+      "incorrect：事実・計算・回答などが客観的に正しくない。wrong より中立的・形式的。",
+      "mistaken：人の考え・判断・認識が誤っている。",
+      "false：情報・主張が真実でない、または物が本物でない。",
+      "inappropriate：状況・目的・社会的基準に適していない。",
+      "immoral：受け入れられた道徳的原則に反している。",
+      "wrongful：権利侵害や不当な損害を伴い、法的・道徳的に正当でない。",
+      "faulty：機械・製品・推論などに欠陥や誤りがある。"
+    ],
+    "en": [
+      "wrong broadly describes a fact, choice, action, or condition that is not correct, suitable, moral, or normal.",
+      "incorrect objectively describes an answer, calculation, or statement as not correct and is more neutral or formal.",
+      "mistaken describes a person, belief, judgment, or understanding based on an error.",
+      "false describes information or a claim that is untrue, or an object that is not genuine.",
+      "inappropriate means unsuitable for a particular situation, purpose, or social standard.",
+      "immoral means contrary to accepted principles of morality.",
+      "wrongful describes legally or morally unjustified conduct that may interfere with another person’s rights.",
+      "faulty describes a machine, product, or line of reasoning containing a defect or error."
+    ]
+  },
+  "etymology": {
+    "ja": "wrong は中英語 wrong に由来し、古ノルド語 rangr「曲がった、ねじれた、不正な」と関係する。もとは物理的に「曲がっている、正しい方向から外れている」という発想を持ち、そこから事実・判断・行為が正しい基準から外れているという意味へ広がった。形容詞から副詞・名詞としても使われるようになり、さらに「人に不当な扱いをする」という動詞用法が生まれた。wrongful、wrongly、wrongdoing も同じ語族に属する。",
+    "en": "Wrong comes from Middle English wrong and is related to Old Norse rangr, meaning crooked, twisted, or unjust. Its early sense involved physical deviation from a straight or proper direction. This developed metaphorically into departure from correctness, suitability, morality, or justice. The adjective came to function as an adverb and noun, and the transitive verb developed the meaning of treating a person unjustly. Wrongful, wrongly, and wrongdoing belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "incorrect",
+      "note": {
+        "ja": "答え・情報・計算などが客観的な事実や規則に一致していないことを表す。",
+        "en": "Describes an answer, statement, or calculation that does not agree with fact or an applicable rule."
+      }
+    },
+    {
+      "word": "mistaken",
+      "note": {
+        "ja": "人の信念・理解・判断が誤りに基づいていることを表す。",
+        "en": "Describes a person, belief, understanding, or judgment that is based on an error."
+      }
+    },
+    {
+      "word": "false",
+      "note": {
+        "ja": "発言・情報・印象などが真実と一致しないことを表す。",
+        "en": "Describes a statement, item of information, or impression that does not correspond to the truth."
+      }
+    },
+    {
+      "word": "improper",
+      "note": {
+        "ja": "行為・手続・態度などが規則や社会的基準に照らして適切でないことを表す。",
+        "en": "Describes conduct, a procedure, or behavior that is inconsistent with a rule or accepted standard."
+      }
+    },
+    {
+      "word": "unjust",
+      "note": {
+        "ja": "判断・制度・扱いなどが公平や正義に反していることを表す。",
+        "en": "Describes a decision, system, or form of treatment that is contrary to fairness or justice."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "falsch / unrecht / irrtümlich",
+    "it": "sbagliato / errato / ingiusto",
+    "fr": "faux / erroné / injuste",
+    "es": "equivocado / incorrecto / injusto"
+  },
+  "collocations": {
+    "ja": [
+      "a wrong answer — 間違った答え",
+      "the wrong person — 人違いの相手、不適切な人物",
+      "the wrong way — 間違った方法・方向",
+      "be completely wrong — 完全に間違っている",
+      "be wrong about something — 何かについて間違っている",
+      "get something wrong — 何かを間違える",
+      "go wrong — うまくいかなくなる、故障する",
+      "something is wrong — 何かがおかしい",
+      "do the wrong thing — 間違ったことをする",
+      "do someone wrong — 人を不当に扱う",
+      "be in the wrong — 間違った側にいる、非がある",
+      "right a wrong — 不正を正す"
+    ],
+    "en": [
+      "a wrong answer",
+      "the wrong person",
+      "the wrong way",
+      "be completely wrong",
+      "be wrong about something",
+      "get something wrong",
+      "go wrong",
+      "something is wrong",
+      "do the wrong thing",
+      "do someone wrong",
+      "be in the wrong",
+      "right a wrong"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I’m afraid you have the wrong address. — 残念ながら、住所を間違えています。",
+      "Something went wrong with the payment system. — 決済システムに何らかの問題が発生した。",
+      "I may be wrong, but I think we have met before. — 私の勘違いかもしれませんが、以前お会いしたことがあると思います。",
+      "She admitted that it was wrong to conceal the information from her colleagues. — 彼女は、その情報を同僚に隠したことはよくなかったと認めた。",
+      "The court concluded that the earlier interpretation of the patent claim was wrong, but that conclusion did not by itself establish wrongful conduct by the patent owner. — 裁判所は、先の特許請求項の解釈が誤っていたと判断したが、その判断だけで特許権者による不当行為が成立するわけではなかった。"
+    ],
+    "en": [
+      "I’m afraid you have the wrong address.",
+      "Something went wrong with the payment system.",
+      "I may be wrong, but I think we have met before.",
+      "She admitted that it was wrong to conceal the information from her colleagues.",
+      "The court concluded that the earlier interpretation of the patent claim was wrong, but that conclusion did not by itself establish wrongful conduct by the patent owner."
+    ]
+  }
+},
+{
+  "id": "wrongly",
+  "sid": "2026-01647",
+  "word": "wrongly",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "adverb",
+    "error",
+    "incorrectness",
+    "misunderstanding",
+    "judgment",
+    "accusation",
+    "classification",
+    "interpretation",
+    "legal",
+    "formal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adverb",
+    "forms": {
+      "base": "wrongly",
+      "adjective": "wrong",
+      "alternative_adverb": "wrong",
+      "related_adjective": "wrongful",
+      "related_adverb": "wrongfully",
+      "noun": "wrong",
+      "verb": "wrong"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "wrongly assume / believe that + clause",
+      "wrongly conclude that + clause",
+      "wrongly identify + person / thing",
+      "wrongly interpret + statement / rule",
+      "wrongly classify + noun as + noun",
+      "wrongly accuse someone of + noun / gerund",
+      "be wrongly accused / convicted / dismissed",
+      "be wrongly described as + noun / adjective",
+      "rightly or wrongly",
+      "if I remember rightly / wrongly"
+    ],
+    "usage": {
+      "core": "Wrongly means in a way that is based on an error, produces an incorrect result, or unjustly affects someone.",
+      "belief": "It commonly modifies verbs of thought and judgment such as assume, believe, conclude, and interpret.",
+      "passive": "It frequently appears before passive participles: wrongly accused, wrongly classified, or wrongly convicted.",
+      "wrong_contrast": "The flat adverb wrong is especially natural in informal combinations such as get it wrong, go wrong, and spell something wrong.",
+      "wrongfully_contrast": "Wrongfully more strongly emphasizes injustice, illegality, or violation of rights, whereas wrongly may refer to an innocent factual or procedural mistake.",
+      "position": "Wrongly normally appears immediately before the verb or participle whose accuracy or justice is being evaluated."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈrɔːŋli/",
+      "uk": "/ˈrɒŋli/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "事実・理解・計算などを誤って、間違って",
+      "人・物・原因などを取り違えて",
+      "発言・規則・行動などを誤って解釈して",
+      "分類・判断・結論などを不正確に",
+      "人を不当に告発・処罰・非難する形で",
+      "結果として正しくない方法または方向で"
+    ],
+    "en": [
+      "in a factually or intellectually incorrect manner",
+      "by incorrectly identifying a person, object, or cause",
+      "through an erroneous interpretation of a statement, rule, or action",
+      "inaccurately when making a classification, judgment, or conclusion",
+      "in a manner that unjustly subjects someone to accusation, punishment, or criticism",
+      "in a way that produces an incorrect result or direction"
+    ]
+  },
+  "nuance": {
+    "ja": "wrongly は、認識・判断・解釈・分類・処理などが誤っていることを明示する副詞である。I wrongly assumed that ... は「誤った前提に基づいて、そう思い込んだ」という意味になる。口語では I guessed wrong や You spelled it wrong のように副詞の wrong もよく使われるが、wrongly は特に assume、interpret、classify、accuse などと結び付き、やや形式的で分析的な響きを持つ。wrongly accused は、告発が事実に反していることを表す一方、wrongfully accused は不当性や権利侵害をより強く示す。ただし実際には両者が重なる場合も多い。rightly or wrongly は「正しいかどうかは別として」「是非はともかく」という定型表現である。",
+    "en": "Wrongly explicitly marks a perception, judgment, interpretation, classification, or procedure as erroneous. I wrongly assumed that ... indicates that the speaker formed a belief from an incorrect assumption. The flat adverb wrong is common in conversational expressions such as I guessed wrong and You spelled it wrong, whereas wrongly sounds somewhat more formal and analytical and readily modifies verbs such as assume, interpret, classify, and accuse. Wrongly accused indicates that the accusation was factually mistaken, while wrongfully accused more strongly emphasizes injustice or infringement of rights, although the two expressions often overlap. Rightly or wrongly means regardless of whether a belief, decision, or action is actually justified."
+  },
+  "minimal": {
+    "ja": [
+      "wrongly：誤った認識・判断・解釈・手続に基づいて。",
+      "wrong：口語で、行為や結果が間違った方法・方向になったことを表す副詞。",
+      "incorrectly：客観的な事実・規則・手順に一致しない方法で。",
+      "mistakenly：誤解・思い違い・取り違えによって。",
+      "falsely：真実ではない形で、または根拠なく人を告発して。",
+      "inaccurately：細部・数値・描写などが正確でない形で。",
+      "improperly：規則・手続・社会的基準に照らして不適切に。",
+      "wrongfully：正当な理由や権限がなく、不法・不当に。"
+    ],
+    "en": [
+      "wrongly means on the basis of an erroneous understanding, judgment, interpretation, or procedure.",
+      "wrong is a conversational adverb describing an action or result as proceeding in an incorrect way or direction.",
+      "incorrectly means in a way that does not agree with an objective fact, rule, or procedure.",
+      "mistakenly means because of a misunderstanding, false belief, or confusion of one thing with another.",
+      "falsely means contrary to the truth or, with accusation, without a truthful basis.",
+      "inaccurately means without precision or with errors in details, figures, or description.",
+      "improperly means in a way that is unsuitable or contrary to an applicable rule, procedure, or social standard.",
+      "wrongfully means unjustly or unlawfully and without proper justification or authority."
+    ]
+  },
+  "etymology": {
+    "ja": "wrongly は形容詞・副詞の wrong に、副詞を作る接尾辞 -ly が付いて成立した。wrong は中英語 wrong を経て、古ノルド語 rangr「曲がった、ねじれた、不正な」と関係する。「正しい方向から外れている」という物理的な発想から、「事実・判断・行為が正しくない」という抽象的な意味が発達した。wrongly は、そのような誤りが認識・判断・行為の方法に存在することを示す。",
+    "en": "Wrongly was formed by adding the adverbial suffix -ly to wrong. Wrong comes through Middle English and is related to Old Norse rangr, meaning crooked, twisted, or unjust. The physical idea of deviation from a straight or proper direction developed into the abstract meaning of departure from fact, sound judgment, or proper conduct. Wrongly accordingly indicates that such an error exists in the manner in which something is believed, judged, described, or done."
+  },
+  "synonyms": [
+    {
+      "word": "incorrectly",
+      "note": {
+        "ja": "事実・答え・規則・手続などに客観的に一致していないことを表す中立的な語。",
+        "en": "A neutral term indicating that something does not conform to an objective fact, answer, rule, or procedure."
+      }
+    },
+    {
+      "word": "mistakenly",
+      "note": {
+        "ja": "誤解・記憶違い・人違いなどの認識上の誤りを原因とする。",
+        "en": "Indicates that an action or belief results from a misunderstanding, faulty memory, or mistaken identity."
+      }
+    },
+    {
+      "word": "inaccurately",
+      "note": {
+        "ja": "数値・説明・測定・引用などが十分に正確でないことを表す。",
+        "en": "Describes figures, descriptions, measurements, or quotations that lack sufficient accuracy."
+      }
+    },
+    {
+      "word": "falsely",
+      "note": {
+        "ja": "内容が真実でないことを表し、falsely accused では事実に反して告発されたことを示す。",
+        "en": "Indicates that something is untrue; falsely accused means accused on a basis contrary to fact."
+      }
+    },
+    {
+      "word": "wrongfully",
+      "note": {
+        "ja": "行為が単なる誤りではなく、不当・不法で権利侵害を伴うことを強く示す。",
+        "en": "More strongly suggests that conduct is unjustified or unlawful and interferes with another person’s rights."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "fälschlicherweise / irrtümlich / zu Unrecht",
+    "it": "erroneamente / per errore / ingiustamente",
+    "fr": "à tort / erronément / injustement",
+    "es": "erróneamente / equivocadamente / injustamente"
+  },
+  "collocations": {
+    "ja": [
+      "wrongly assume — 誤って思い込む",
+      "wrongly believe — 誤って信じる",
+      "wrongly conclude — 誤った結論を出す",
+      "wrongly interpret — 誤って解釈する",
+      "wrongly identify — 誤って特定する",
+      "wrongly classify — 誤って分類する",
+      "wrongly describe — 誤って説明・表現する",
+      "wrongly accuse — 誤って告発する",
+      "wrongly convicted — 誤って有罪判決を受けた",
+      "wrongly dismissed — 誤って退けられた、誤って解雇された",
+      "rightly or wrongly — 正しいかどうかは別として",
+      "be wrongly regarded as — 誤って～と見なされる"
+    ],
+    "en": [
+      "wrongly assume",
+      "wrongly believe",
+      "wrongly conclude",
+      "wrongly interpret",
+      "wrongly identify",
+      "wrongly classify",
+      "wrongly describe",
+      "wrongly accuse",
+      "wrongly convicted",
+      "wrongly dismissed",
+      "rightly or wrongly",
+      "be wrongly regarded as"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I wrongly assumed that the meeting had been canceled. — 私は会議が中止されたものと誤って思い込んでいた。",
+      "The package was wrongly delivered to a neighboring office. — その小包は誤って隣の事務所に配達された。",
+      "She was wrongly identified as the person in the photograph. — 彼女は写真に写っている人物だと誤って特定された。",
+      "Rightly or wrongly, many customers believed that the new policy was unfair. — 正しいかどうかは別として、多くの顧客は新しい方針が不公平だと考えた。",
+      "The applicant argued that the examiner had wrongly interpreted the technical term and had therefore classified the prior-art document incorrectly. — 出願人は、審査官がその技術用語を誤って解釈し、その結果、先行技術文献を不正確に分類したと主張した。"
+    ],
+    "en": [
+      "I wrongly assumed that the meeting had been canceled.",
+      "The package was wrongly delivered to a neighboring office.",
+      "She was wrongly identified as the person in the photograph.",
+      "Rightly or wrongly, many customers believed that the new policy was unfair.",
+      "The applicant argued that the examiner had wrongly interpreted the technical term and had therefore classified the prior-art document incorrectly."
+    ]
+  }
+},
+{
+  "id": "incorrect",
+  "sid": "2026-01648",
+  "word": "incorrect",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "error",
+    "accuracy",
+    "information",
+    "answer",
+    "calculation",
+    "grammar",
+    "procedure",
+    "judgment",
+    "formal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "incorrect",
+      "comparative": "more incorrect",
+      "superlative": "most incorrect",
+      "adverb": "incorrectly",
+      "noun": "incorrectness",
+      "opposite": "correct"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an incorrect + answer / statement",
+      "be incorrect",
+      "be factually incorrect",
+      "be grammatically incorrect",
+      "be incorrect about + noun",
+      "it is incorrect to say that + clause",
+      "prove / turn out to be incorrect",
+      "consider something incorrect",
+      "enter incorrect information",
+      "based on an incorrect assumption"
+    ],
+    "usage": {
+      "core": "Incorrect means not agreeing with facts, rules, calculations, or an accepted standard of accuracy.",
+      "neutrality": "It usually identifies an objective error without making a moral judgment about the person responsible.",
+      "wrong_contrast": "Wrong is broader and can describe factual errors, unsuitable choices, immoral conduct, and abnormal conditions; incorrect mainly concerns accuracy or conformity with a rule.",
+      "person": "A person may be incorrect about something, but an incorrect person is normally unnatural when the intended meaning is that the person has made a mistake.",
+      "formal_register": "Incorrect is common in formal explanations, assessment results, error messages, and professional correspondence.",
+      "political_expression": "Politically incorrect describes language or conduct regarded as insensitive or offensive to particular social groups and is a distinct fixed expression."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɪnkəˈrekt/",
+      "uk": "/ˌɪnkəˈrekt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "答え・情報・主張などが事実と一致せず、正しくない",
+      "計算・測定・記録などに誤りがある",
+      "文法・綴り・用法などが規則に合っていない",
+      "方法・手続・分類などが定められた基準に従っていない",
+      "考え・仮定・理解などが誤った認識に基づいている"
+    ],
+    "en": [
+      "not agreeing with the facts or the correct answer",
+      "containing an error in a calculation, measurement, or record",
+      "not conforming to a rule of grammar, spelling, or usage",
+      "not following the applicable standard for a method, procedure, or classification",
+      "based on a mistaken belief, assumption, or understanding"
+    ]
+  },
+  "nuance": {
+    "ja": "incorrect は、事実・答え・数値・文法・手続などを客観的な基準と照合して「正しくない」と評価する、比較的中立的な語である。wrong と広く重なるが、wrong は the wrong person、morally wrong、something is wrong with the machine のように、選択の不適切さ、道徳的な悪、異常状態まで表せる。これに対して incorrect は主に正確性や規則への適合性に焦点を置く。Your answer is incorrect. は答えについて述べる表現であり、相手の人格を非難するものではない。人について He is incorrect. と言うことは可能だが、通常は He is incorrect about the date. や He is mistaken. のように、何について誤っているかを示す方が自然である。",
+    "en": "Incorrect is a relatively neutral word used to compare a fact, answer, figure, grammatical form, or procedure with an objective standard and find that it does not conform. It overlaps widely with wrong, but wrong can also describe an unsuitable choice, immoral conduct, or an abnormal condition, as in the wrong person, morally wrong, and something is wrong with the machine. Incorrect focuses primarily on accuracy or conformity with a rule. Your answer is incorrect evaluates the answer rather than the person’s character. Although He is incorrect is possible, He is incorrect about the date or He is mistaken is usually more natural because it identifies the particular error."
+  },
+  "minimal": {
+    "ja": [
+      "incorrect：事実・答え・規則・計算などの客観的基準に照らして正しくない。",
+      "wrong：事実上の誤りから不適切な選択・道徳的な悪まで広く表す。",
+      "mistaken：人の信念・理解・判断が思い違いに基づいている。",
+      "inaccurate：情報・数値・描写などが十分に正確でない。",
+      "false：発言・情報などが真実ではない。",
+      "erroneous：誤りを含む、または誤った推論から生じた。形式的な語。",
+      "invalid：論理・規則・法律・システム上の要件を満たさず、有効でない。",
+      "improper：方法・行為・手続などが適切な基準や規則に合っていない。"
+    ],
+    "en": [
+      "incorrect means not conforming to an objective standard of fact, accuracy, calculation, or rule.",
+      "wrong broadly covers factual error, unsuitable choice, moral fault, and abnormal conditions.",
+      "mistaken describes a person, belief, understanding, or judgment based on a misunderstanding.",
+      "inaccurate describes information, figures, or descriptions that are not sufficiently precise or exact.",
+      "false describes a statement or item of information that is not true.",
+      "erroneous is a formal word for something containing an error or resulting from faulty reasoning.",
+      "invalid describes something that fails to satisfy a logical, procedural, legal, or technical requirement.",
+      "improper describes a method, act, or procedure that does not conform to an appropriate rule or standard."
+    ]
+  },
+  "etymology": {
+    "ja": "incorrect は否定を表す接頭辞 in- と correct から成る。correct はラテン語 corrigere「まっすぐにする、直す」の過去分詞 correctus に由来する。corrigere は com-「一緒に、完全に」と regere「導く、まっすぐにする」から構成される。したがって correct の根底には「曲がったものを正しい方向へ直す」という発想があり、incorrect はその正しい状態に達していないことを表す。correct、correction、rectify、regulate などは、方向付けや統制に関係するラテン語の語根と歴史的なつながりを持つ。",
+    "en": "Incorrect consists of the negative prefix in- and correct. Correct derives from Latin correctus, the past participle of corrigere, meaning to set straight or amend. Corrigere was formed from com-, together or thoroughly, and regere, to guide, rule, or make straight. The underlying idea of correct is therefore bringing something into a straight or proper condition, while incorrect describes failure to conform to that condition. Correct, correction, rectify, and regulate are historically connected through Latin roots associated with directing or making straight."
+  },
+  "synonyms": [
+    {
+      "word": "wrong",
+      "note": {
+        "ja": "incorrect より意味が広く、事実上の誤り、不適切な選択、道徳的な悪などを表せる。",
+        "en": "Broader than incorrect and capable of describing factual error, unsuitable choices, and moral fault."
+      }
+    },
+    {
+      "word": "inaccurate",
+      "note": {
+        "ja": "記述・測定・数値などが完全には正確でなく、細部に誤差があることを示す。",
+        "en": "Indicates that a description, measurement, or figure lacks precision or contains errors in detail."
+      }
+    },
+    {
+      "word": "mistaken",
+      "note": {
+        "ja": "人の考え・記憶・判断が誤解や思い違いに基づいていることを表す。",
+        "en": "Describes a person, memory, belief, or judgment based on a misunderstanding or false impression."
+      }
+    },
+    {
+      "word": "erroneous",
+      "note": {
+        "ja": "誤った情報・推論・仮定などを表す、incorrect より形式的な語。",
+        "en": "A more formal term for information, reasoning, or an assumption that contains or results from an error."
+      }
+    },
+    {
+      "word": "false",
+      "note": {
+        "ja": "主張・情報・印象などが客観的な真実と一致していないことを表す。",
+        "en": "Describes a claim, item of information, or impression that does not correspond to objective truth."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "falsch / unrichtig / fehlerhaft",
+    "it": "sbagliato / scorretto / inesatto",
+    "fr": "incorrect / erroné / inexact",
+    "es": "incorrecto / erróneo / inexacto"
+  },
+  "collocations": {
+    "ja": [
+      "an incorrect answer — 間違った答え",
+      "incorrect information — 誤った情報",
+      "an incorrect statement — 不正確な記述・発言",
+      "an incorrect calculation — 誤った計算",
+      "an incorrect assumption — 誤った仮定",
+      "an incorrect interpretation — 誤った解釈",
+      "an incorrect classification — 誤った分類",
+      "an incorrect password — 間違ったパスワード",
+      "factually incorrect — 事実として正しくない",
+      "grammatically incorrect — 文法的に正しくない",
+      "technically incorrect — 厳密には正しくない",
+      "prove to be incorrect — 誤りであることが判明する"
+    ],
+    "en": [
+      "an incorrect answer",
+      "incorrect information",
+      "an incorrect statement",
+      "an incorrect calculation",
+      "an incorrect assumption",
+      "an incorrect interpretation",
+      "an incorrect classification",
+      "an incorrect password",
+      "factually incorrect",
+      "grammatically incorrect",
+      "technically incorrect",
+      "prove to be incorrect"
+    ]
+  },
+  "example": {
+    "ja": [
+      "One of the answers in the textbook is incorrect. — その教科書に掲載された答えの一つは間違っている。",
+      "Please contact us if your personal information is incorrect. — 個人情報が正しくない場合は、当社までご連絡ください。",
+      "The calculation proved to be incorrect because one expense had been omitted. — 一つの経費が計上されていなかったため、その計算は誤りであることが判明した。",
+      "It would be incorrect to assume that silence always indicates agreement. — 沈黙が常に同意を示すと考えるのは誤りだろう。",
+      "The applicant argued that the rejection was based on an incorrect interpretation of the claim and an inaccurate reading of the prior art. — 出願人は、その拒絶が請求項の誤った解釈と先行技術の不正確な読解に基づいていると主張した。"
+    ],
+    "en": [
+      "One of the answers in the textbook is incorrect.",
+      "Please contact us if your personal information is incorrect.",
+      "The calculation proved to be incorrect because one expense had been omitted.",
+      "It would be incorrect to assume that silence always indicates agreement.",
+      "The applicant argued that the rejection was based on an incorrect interpretation of the claim and an inaccurate reading of the prior art."
+    ]
+  }
+},
+{
+  "id": "false",
+  "sid": "2026-01649",
+  "word": "false",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "untruth",
+    "inaccuracy",
+    "deception",
+    "appearance",
+    "identity",
+    "alarm",
+    "accusation",
+    "statement",
+    "legal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "false",
+      "comparative": "more false, uncommon",
+      "superlative": "most false, uncommon",
+      "adverb": "falsely",
+      "noun": "falseness",
+      "related_verb": "falsify",
+      "related_noun": "falsehood / falsity / falsification"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a false + statement / claim",
+      "be false",
+      "prove / turn out to be false",
+      "know something to be false",
+      "give a false impression",
+      "make a false accusation",
+      "under a false name",
+      "a false sense of + security / confidence",
+      "true or false",
+      "falsely accuse / claim / represent"
+    ],
+    "usage": {
+      "untrue": "False commonly describes a statement, belief, or piece of information that does not correspond to reality.",
+      "deceptive_appearance": "It can describe something designed or presented to appear genuine or real: a false identity or false documents.",
+      "intent": "False describes the content or appearance as untrue; by itself, it does not always establish that the speaker knew it was false or intended to deceive.",
+      "artificial": "Before nouns referring to body parts or physical features, false can mean artificial or imitation: false teeth or false eyelashes.",
+      "alarm": "A false alarm is a warning triggered when the anticipated danger is not actually present.",
+      "comparison": "False is not normally graded, but more false or most false may occur when comparing degrees of falsity or deceptiveness."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/fɔːls/",
+      "uk": "/fɔːls/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "発言・情報・信念などが事実ではない、虚偽の",
+      "本物・真正なものに見せかけた、偽の",
+      "身元・名称・印象などが実態と一致しない",
+      "警報・予測・疑いなどが結果的に誤りである",
+      "義歯・まつげなどが人工的に作られた",
+      "態度・感情・友好などが誠実でなく、見せかけの"
+    ],
+    "en": [
+      "not true or not corresponding to the facts",
+      "made or presented to appear genuine or authentic",
+      "not corresponding to a person’s or thing’s actual identity or nature",
+      "for an alarm, prediction, or suspicion, not confirmed by the actual situation",
+      "artificially made to replace or imitate a natural body part or feature",
+      "insincere or merely pretended when describing an attitude, emotion, or friendship"
+    ]
+  },
+  "nuance": {
+    "ja": "false の中心は、発言・表示・外観と現実が一致していないことである。a false statement は事実に反する発言だが、それだけでは発言者が虚偽だと知っていたことまでは必ずしも意味しない。意図的な嘘を明確に表すには a deliberate lie、knowingly false、intentionally misleading などを用いる。incorrect は答え・計算・文法などの客観的な誤りを中立的に指しやすいのに対し、false は真実との不一致や、偽の印象・身元・証拠を強調する。fake は日常的で、本物でない物や演技された感情を広く表す。counterfeit は、真正品と誤認させる目的で作られた通貨・商品・文書などを特に指す。",
+    "en": "The central idea of false is a lack of correspondence between a statement, representation, appearance, and reality. A false statement is contrary to fact, but the expression alone does not necessarily establish that the speaker knew it was false. A deliberate lie, knowingly false, or intentionally misleading more clearly expresses deceptive intent. Incorrect neutrally identifies an error in an answer, calculation, or grammatical form, whereas false more strongly contrasts a representation with the truth or actual identity. Fake is an everyday term broadly used for objects, appearances, and emotions that are not genuine. Counterfeit particularly describes currency, goods, or documents made to be mistaken for authentic ones."
+  },
+  "minimal": {
+    "ja": [
+      "false：真実・実際の身元・真正な外観などと一致しない。",
+      "incorrect：答え・情報・計算・文法などが客観的基準に照らして正しくない。",
+      "wrong：事実上の誤り、不適切な選択、道徳的な悪などを広く表す。",
+      "untrue：発言・情報・物語などが真実ではないことを直接的に表す。",
+      "fake：本物ではない物・感情・外観を表す一般的で口語的な語。",
+      "counterfeit：真正品として通用させるために作られた偽造の。",
+      "forged：署名・文書・紙幣・美術品などが不正に作成・変更された。",
+      "misleading：完全な虚偽とは限らないが、人に誤った印象を与える。"
+    ],
+    "en": [
+      "false describes something that does not correspond to truth, actual identity, or genuine appearance.",
+      "incorrect describes an answer, statement, calculation, or grammatical form that fails an objective standard.",
+      "wrong broadly covers factual error, unsuitable choice, moral fault, and abnormal conditions.",
+      "untrue directly states that a statement, report, or story is not true.",
+      "fake is a general and conversational word for an object, emotion, or appearance that is not genuine.",
+      "counterfeit describes something made to be passed off as an authentic product, currency, or document.",
+      "forged describes a signature, document, banknote, or artwork that has been fraudulently made or altered.",
+      "misleading describes something that creates a mistaken impression without necessarily being wholly false."
+    ]
+  },
+  "etymology": {
+    "ja": "false は古フランス語 fals または faus を経て、ラテン語 falsus「欺かれた、誤った、偽の」に由来する。falsus は fallere「欺く、失敗させる」の過去分詞である。したがって、この語には古くから、単なる誤りだけでなく、外観や表示によって人を欺くという意味も含まれていた。同じ語族には falsehood、falsity、falsify、fallacy などがあり、いずれも真実からの逸脱や誤認に関係する。",
+    "en": "False came through Old French fals or faus from Latin falsus, meaning deceived, mistaken, or false. Falsus was the past participle of fallere, to deceive or cause to fail. The word therefore historically covered not only factual error but also deceptive appearance or representation. Falsehood, falsity, falsify, and fallacy belong to the same word family and are all associated with departure from truth or the production of mistaken belief."
+  },
+  "synonyms": [
+    {
+      "word": "untrue",
+      "note": {
+        "ja": "発言・情報・説明などが真実ではないことを比較的直接的かつ中立的に表す。",
+        "en": "Directly and relatively neutrally describes a statement, report, or explanation as not true."
+      }
+    },
+    {
+      "word": "fake",
+      "note": {
+        "ja": "物・身元・感情・外観などが本物ではないことを表す一般的な口語語。",
+        "en": "A common informal word describing an object, identity, emotion, or appearance as not genuine."
+      }
+    },
+    {
+      "word": "counterfeit",
+      "note": {
+        "ja": "真正品・通貨・文書などと誤認させる目的で作られた偽造物を表す。",
+        "en": "Describes goods, currency, or documents made to be mistaken for authentic items."
+      }
+    },
+    {
+      "word": "spurious",
+      "note": {
+        "ja": "真正・正当ではないのに、一見もっともらしく見えるものを表す形式的な語。",
+        "en": "A formal word for something that appears plausible or genuine but lacks authenticity or validity."
+      }
+    },
+    {
+      "word": "misleading",
+      "note": {
+        "ja": "情報の省略・曖昧な表現・不適切な文脈などにより、誤った印象を与える。",
+        "en": "Describes information that creates a mistaken impression through omission, ambiguity, or inappropriate context."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "falsch / unwahr / unecht",
+    "it": "falso / non vero / contraffatto",
+    "fr": "faux / mensonger / artificiel",
+    "es": "falso / incierto / artificial"
+  },
+  "collocations": {
+    "ja": [
+      "a false statement — 虚偽の発言・記載",
+      "a false claim — 事実に反する主張",
+      "false information — 虚偽情報",
+      "a false accusation — 事実無根の告発",
+      "a false impression — 誤った印象",
+      "a false identity — 偽の身元",
+      "a false name — 偽名",
+      "a false alarm — 誤報、空騒ぎ",
+      "false evidence — 虚偽の証拠",
+      "a false sense of security — 根拠のない安心感",
+      "false teeth — 義歯",
+      "prove to be false — 虚偽・誤りであることが判明する"
+    ],
+    "en": [
+      "a false statement",
+      "a false claim",
+      "false information",
+      "a false accusation",
+      "a false impression",
+      "a false identity",
+      "a false name",
+      "a false alarm",
+      "false evidence",
+      "a false sense of security",
+      "false teeth",
+      "prove to be false"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The rumor turned out to be completely false. — そのうわさは完全な虚偽であることが判明した。",
+      "Someone created an account under a false name. — 何者かが偽名でアカウントを作成した。",
+      "The smoke triggered a false alarm in the building. — その煙によって、建物内で誤警報が作動した。",
+      "The advertisement gave customers the false impression that the service was free. — その広告はサービスが無料であるという誤った印象を顧客に与えた。",
+      "A false statement concerning the ownership or validity of a patent may have legal consequences, but the applicable requirements depend on the jurisdiction, the context, and the speaker’s state of mind. — 特許の帰属または有効性に関する虚偽の陳述は法的な結果を生じさせる可能性があるが、適用される要件は法域・文脈・発言者の認識状態によって異なる。"
+    ],
+    "en": [
+      "The rumor turned out to be completely false.",
+      "Someone created an account under a false name.",
+      "The smoke triggered a false alarm in the building.",
+      "The advertisement gave customers the false impression that the service was free.",
+      "A false statement concerning the ownership or validity of a patent may have legal consequences, but the applicable requirements depend on the jurisdiction, the context, and the speaker’s state of mind."
+    ]
+  }
+},
+{
+  "id": "verify",
+  "sid": "2026-01650",
+  "word": "verify",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "confirmation",
+    "evidence",
+    "accuracy",
+    "identity",
+    "information",
+    "testing",
+    "authentication",
+    "legal",
+    "patent",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "verify",
+      "third_person": "verifies",
+      "past": "verified",
+      "past_participle": "verified",
+      "gerund": "verifying",
+      "noun": "verification",
+      "agent_noun": "verifier",
+      "adjective": "verifiable",
+      "negative_adjective": "unverifiable"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "verify + information / identity / result",
+      "verify that + clause",
+      "verify whether / if + clause",
+      "verify the accuracy of + noun",
+      "verify the authenticity of + noun",
+      "verify something against + record / database",
+      "verify something by + gerund",
+      "be independently verified",
+      "be unable to verify + claim",
+      "take steps to verify + noun"
+    ],
+    "usage": {
+      "core": "Verify means checking evidence, records, observations, or tests to establish that something is true, accurate, authentic, or correct.",
+      "that_clause": "A that-clause states the proposition being checked: Please verify that the figures are correct.",
+      "whether_clause": "Use whether or if when the outcome of the check is not yet known: We need to verify whether the payment was received.",
+      "person": "When the object is a person, verify normally concerns the person’s identity, qualifications, authority, or account rather than the person as a whole.",
+      "evidence": "Verify usually implies an active checking process and is stronger than simply believing or accepting a statement.",
+      "formal_register": "It is common in technical, scientific, legal, administrative, financial, and security contexts."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈverəfaɪ/",
+      "uk": "/ˈverɪfaɪ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "情報・主張・説明などが真実であるかを証拠によって確かめる",
+      "数値・記録・結果などが正確であることを確認する",
+      "人物の身元・資格・権限などを確認する",
+      "文書・署名・製品などが真正であるかを調べる",
+      "試験・観察・再計算などによって結果の正しさを検証する",
+      "必要な条件・手続が満たされていることを確認する"
+    ],
+    "en": [
+      "to establish through evidence whether information, a claim, or an explanation is true",
+      "to check that figures, records, or results are accurate",
+      "to confirm a person’s identity, qualifications, or authority",
+      "to examine whether a document, signature, or product is authentic",
+      "to test the correctness of a result through observation, experimentation, or recalculation",
+      "to check that a required condition or procedure has been satisfied"
+    ]
+  },
+  "nuance": {
+    "ja": "verify は、証拠・記録・試験・照合などを用いて、情報や主張の真実性・正確性を確かめることを表す。単に「そうだと思う」のではなく、確認作業を行う点が重要である。confirm と重なるが、confirm は既に予想・理解されている事実を最終的に確定する場合にも広く使われ、予約の確認にも用いられる。validate は、方法・データ・システムなどが所定の基準を満たし、有効または信頼できることを確かめる。authenticate は、文書・作品・利用者などが真正であることや、主張された出所・身元に由来することを確認する。verify は確認後に必ず正しいと判明することを意味しないため、We tried to verify the claim, but could not. と言える。",
+    "en": "Verify means using evidence, records, testing, or comparison to determine the truth, accuracy, or authenticity of something. The important element is an active checking process rather than mere belief or acceptance. Confirm overlaps with verify but is also broadly used to make an expected fact, arrangement, or reservation definite. Validate commonly means establishing that a method, dataset, system, or process satisfies relevant standards and is fit or reliable for its purpose. Authenticate focuses on establishing that an object, document, work, or user has the identity or origin claimed for it. Verify does not guarantee a successful outcome, so it is natural to say, We tried to verify the claim, but could not."
+  },
+  "minimal": {
+    "ja": [
+      "verify：証拠・記録・試験などを用いて、情報・結果・身元の正しさを確かめる。",
+      "confirm：予想・理解・予定されていた事実を確定し、疑いを取り除く。",
+      "check：誤りや問題がないかを調べる最も一般的な語。",
+      "validate：方法・データ・システムなどが基準を満たし、有効であると確認する。",
+      "authenticate：文書・作品・製品・利用者などの真正性や身元を確認する。",
+      "substantiate：主張を証拠によって裏付ける。",
+      "corroborate：別の証拠・証言によって主張や供述を補強する。",
+      "certify：権限を持つ者が、一定の事実・基準適合性を正式に証明する。"
+    ],
+    "en": [
+      "verify means checking evidence, records, or test results to establish the truth or accuracy of something.",
+      "confirm means making an expected fact, understanding, or arrangement definite and removing doubt.",
+      "check is the most general verb for examining something for errors, problems, or accuracy.",
+      "validate means establishing that a method, dataset, or system meets relevant standards and is fit for its purpose.",
+      "authenticate means establishing the claimed identity, origin, or genuineness of a document, object, product, or user.",
+      "substantiate means supporting a claim with sufficient evidence.",
+      "corroborate means strengthening a claim or account with separate evidence or testimony.",
+      "certify means formally attesting to a fact or conformity with a standard through an authorized person or body."
+    ]
+  },
+  "etymology": {
+    "ja": "verify は古フランス語 verifier を経て、ラテン語 verificare「真実であると示す」に由来する。これは verus「真実の」と facere「作る、行う」から構成され、文字どおりには「真実なものとする、真実であることを示す」という意味を持つ。英語では、主張・情報・計算などを証拠や調査によって真実または正確であると確かめる意味へ発達した。veracity「真実性」、veritable「真正の」、very も、歴史的にはラテン語 verus に関係する。",
+    "en": "Verify came through Old French verifier from Latin verificare, meaning to show to be true. Verificare was formed from verus, true, and facere, to make or do, and therefore literally conveyed the idea of making true or demonstrating truth. In English, the verb developed the sense of establishing the truth or accuracy of a statement, calculation, identity, or result through evidence or examination. Veracity, veritable, and historically very are also related to Latin verus."
+  },
+  "synonyms": [
+    {
+      "word": "confirm",
+      "note": {
+        "ja": "事実・理解・予定などが正しいことを確定し、疑いを取り除く。",
+        "en": "To establish that a fact, understanding, or arrangement is definite and remove remaining doubt."
+      }
+    },
+    {
+      "word": "check",
+      "note": {
+        "ja": "情報・物・手続などに誤りや問題がないかを調べる一般的な語。",
+        "en": "A general verb for examining information, an object, or a procedure for errors or problems."
+      }
+    },
+    {
+      "word": "validate",
+      "note": {
+        "ja": "データ・方法・システムなどが要求される基準を満たし、信頼できることを確かめる。",
+        "en": "To establish that data, a method, or a system satisfies the required criteria and is reliable for its purpose."
+      }
+    },
+    {
+      "word": "authenticate",
+      "note": {
+        "ja": "物・文書・利用者などの出所・身元・真正性を確認する。",
+        "en": "To establish the origin, identity, or genuineness of an object, document, or user."
+      }
+    },
+    {
+      "word": "substantiate",
+      "note": {
+        "ja": "証拠・資料・事実を提示して、主張に実質的な裏付けを与える。",
+        "en": "To provide evidence, records, or facts that give substantial support to a claim."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "überprüfen / verifizieren / bestätigen",
+    "it": "verificare / accertare / confermare",
+    "fr": "vérifier / contrôler / confirmer",
+    "es": "verificar / comprobar / confirmar"
+  },
+  "collocations": {
+    "ja": [
+      "verify the information — 情報を確認する",
+      "verify a claim — 主張の真偽を確かめる",
+      "verify someone’s identity — 人の身元を確認する",
+      "verify the accuracy of the data — データの正確性を確認する",
+      "verify the authenticity of a document — 文書の真正性を確認する",
+      "verify a signature — 署名を確認する",
+      "verify the results — 結果を検証する",
+      "verify the calculation — 計算を検算する",
+      "independently verify — 独立した立場から検証する",
+      "be difficult to verify — 検証することが難しい",
+      "be unable to verify — 確認できない",
+      "verify something against official records — 公式記録と照合して確認する"
+    ],
+    "en": [
+      "verify the information",
+      "verify a claim",
+      "verify someone’s identity",
+      "verify the accuracy of the data",
+      "verify the authenticity of a document",
+      "verify a signature",
+      "verify the results",
+      "verify the calculation",
+      "independently verify",
+      "be difficult to verify",
+      "be unable to verify",
+      "verify something against official records"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Please verify that your name and address are correct. — 氏名と住所が正しいことを確認してください。",
+      "The bank asked me to verify my identity before completing the transaction. — 銀行は取引を完了する前に、私に本人確認を求めました。",
+      "We were unable to verify the information from an independent source. — 私たちは、その情報を独立した情報源によって確認することができなかった。",
+      "The engineer repeated the test to verify the accuracy of the results. — 技術者は結果の正確性を検証するため、試験を繰り返した。",
+      "Before alleging infringement, the patent owner should verify the relevant facts and carefully compare the accused product with the asserted claims. — 権利侵害を主張する前に、特許権者は関係する事実を確認し、対象製品と主張する特許請求項とを慎重に比較すべきである。"
+    ],
+    "en": [
+      "Please verify that your name and address are correct.",
+      "The bank asked me to verify my identity before completing the transaction.",
+      "We were unable to verify the information from an independent source.",
+      "The engineer repeated the test to verify the accuracy of the results.",
+      "Before alleging infringement, the patent owner should verify the relevant facts and carefully compare the accused product with the asserted claims."
+    ]
+  }
+},
+{
+  "id": "validate",
+  "sid": "2026-01651",
+  "word": "validate",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "validity",
+    "testing",
+    "data",
+    "method",
+    "software",
+    "approval",
+    "emotion",
+    "ticket",
+    "legal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "validate",
+      "third_person": "validates",
+      "past": "validated",
+      "past_participle": "validated",
+      "gerund": "validating",
+      "noun": "validation",
+      "adjective": "valid",
+      "opposite_verb": "invalidate",
+      "opposite_adjective": "invalid"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "validate + data / method / model",
+      "validate a ticket / permit",
+      "validate a claim / conclusion",
+      "validate someone’s feelings / concerns",
+      "validate something against + criteria / records",
+      "validate something by + gerund",
+      "be validated through / by + testing",
+      "be independently validated",
+      "validate whether + clause",
+      "use something to validate + noun"
+    ],
+    "usage": {
+      "method": "For a method, model, or process, validate means establishing that it is reliable and suitable for its intended purpose.",
+      "data": "For data or user input, it means checking that the information satisfies specified rules or requirements.",
+      "ticket": "To validate a ticket means officially activating it or marking it as accepted for use.",
+      "claim": "For a claim or conclusion, validate means providing support that establishes its soundness or legitimacy.",
+      "emotion": "To validate someone’s feelings means recognizing them as understandable or worthy of acknowledgment, not necessarily agreeing with every belief or action.",
+      "legal_use": "In legal contexts, validate may mean making or recognizing something as legally effective, but its precise effect depends on the applicable law."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈvælədeɪt/",
+      "uk": "/ˈvælɪdeɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "方法・モデル・手続などが目的に適合し、信頼できることを確認する",
+      "データ・入力内容などが所定の規則や要件を満たすかを検査する",
+      "主張・結論・理論などの妥当性を証拠によって裏付ける",
+      "切符・駐車券・許可証などを正式に有効化する",
+      "行為・文書・決定などを有効なものとして承認する",
+      "人の感情・経験・懸念を理解可能で正当なものとして受け止める"
+    ],
+    "en": [
+      "to establish that a method, model, or process is reliable and fit for its intended purpose",
+      "to check that data or input satisfies specified rules and requirements",
+      "to support the soundness of a claim, conclusion, or theory with evidence",
+      "to officially activate a ticket, parking voucher, permit, or similar item",
+      "to approve or recognize an act, document, or decision as effective",
+      "to acknowledge another person’s feelings, experiences, or concerns as understandable and worthy of recognition"
+    ]
+  },
+  "nuance": {
+    "ja": "validate の中心は、対象が一定の基準を満たし、特定の目的に対して有効・妥当・使用可能であると確認することである。verify と密接に関係するが、verify は情報・計算・結果が事実や仕様と一致するかを確認することに重点があり、validate は方法・製品・システムなどが意図された用途に適しているかを評価することに重点を置きやすい。ソフトウェアでは validate input は、入力値が要求された形式・範囲・規則を満たすかを検査することをいう。心理的な文脈では validate someone’s feelings は、相手の感情を否定せず理解可能なものとして認めることであり、その人の判断や行動に全面的に同意することではない。",
+    "en": "The central idea of validate is establishing that something satisfies relevant criteria and is valid, sound, or fit for a particular purpose. It is closely related to verify, but verify more readily focuses on whether information, calculations, or results correspond to facts or specifications, while validate often assesses whether a method, product, or system works adequately for its intended use. In software, validate input means checking whether entered data satisfies required formats, ranges, and rules. In an interpersonal context, validating someone’s feelings means acknowledging them as understandable rather than dismissing them; it does not require agreement with all of that person’s conclusions or behavior."
+  },
+  "minimal": {
+    "ja": [
+      "validate：基準や目的に照らして、方法・データ・判断などが有効・妥当だと確認する。",
+      "verify：証拠・記録・試験によって、情報・身元・結果が正しいことを確かめる。",
+      "confirm：既に予想・理解されている事実や予定を最終的に確定する。",
+      "check：誤り・問題・要件違反がないかを調べる最も一般的な語。",
+      "authenticate：文書・製品・利用者などの真正性・出所・身元を確認する。",
+      "approve：提案・計画・行為などを権限に基づいて正式に認める。",
+      "substantiate：証拠を提示して、主張に実質的な裏付けを与える。",
+      "certify：資格ある者・機関が、事実や基準適合性を正式に証明する。"
+    ],
+    "en": [
+      "validate means establishing that a method, dataset, decision, or other item is valid and fit according to relevant criteria.",
+      "verify means checking evidence, records, or tests to establish that information, identity, or a result is correct.",
+      "confirm means making an expected fact, understanding, or arrangement definite.",
+      "check is the most general verb for examining something for errors, problems, or failure to meet requirements.",
+      "authenticate means establishing the claimed identity, source, or genuineness of a document, product, or user.",
+      "approve means formally accepting a proposal, plan, or action through appropriate authority.",
+      "substantiate means providing evidence that gives material support to a claim.",
+      "certify means formally attesting to a fact or conformity with a standard through a qualified person or body."
+    ]
+  },
+  "etymology": {
+    "ja": "validate は形容詞 valid に動詞を作る接尾辞 -ate が付いて成立した。valid はラテン語 validus「強い、効力のある」に由来し、その基礎にある valere は「強い、健康である、価値・効力を持つ」を意味した。したがって validate の原義は、対象に効力を与えること、またはその効力を認めることである。そこから、文書を法的に有効にする、切符を使用可能にする、方法やデータの妥当性を確認するという意味が発達した。valid、validity、value、valiant なども同じラテン語系統に属する。",
+    "en": "Validate was formed from the adjective valid with the verb-forming suffix -ate. Valid derives from Latin validus, meaning strong or effective, whose base valere meant to be strong, be well, or possess value or force. The original idea of validate was therefore giving something force or recognizing its effectiveness. From this developed the senses making a document legally effective, activating a ticket, and establishing the fitness of a method or dataset. Valid, validity, value, and valiant belong to the same Latin word family."
+  },
+  "synonyms": [
+    {
+      "word": "verify",
+      "note": {
+        "ja": "証拠・記録・照合・試験によって、情報・結果などが正しいかを確かめる。",
+        "en": "To determine through evidence, records, comparison, or testing whether information or a result is correct."
+      }
+    },
+    {
+      "word": "confirm",
+      "note": {
+        "ja": "予想・理解・予約・予定などが正しいことを確定し、残る疑いを取り除く。",
+        "en": "To establish that an expectation, understanding, reservation, or arrangement is definite and correct."
+      }
+    },
+    {
+      "word": "authenticate",
+      "note": {
+        "ja": "文書・作品・製品・利用者などが主張された出所・身元を持つことを確認する。",
+        "en": "To establish that a document, work, product, or user has the identity or origin claimed for it."
+      }
+    },
+    {
+      "word": "substantiate",
+      "note": {
+        "ja": "証拠・資料・事実によって主張や説明を十分に裏付ける。",
+        "en": "To provide evidence, records, or facts that adequately support a claim or explanation."
+      }
+    },
+    {
+      "word": "approve",
+      "note": {
+        "ja": "提案・計画・申請などを、権限を持つ者が正式に受け入れる。",
+        "en": "To formally accept a proposal, plan, or application through a person or body with authority."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "validieren / bestätigen / für gültig erklären",
+    "it": "convalidare / validare / confermare",
+    "fr": "valider / homologuer / confirmer",
+    "es": "validar / convalidar / confirmar"
+  },
+  "collocations": {
+    "ja": [
+      "validate a method — 方法の妥当性を確認する",
+      "validate a model — モデルの有効性を検証する",
+      "validate the data — データの妥当性を確認する",
+      "validate user input — ユーザー入力を検証する",
+      "validate the results — 結果の妥当性を確認する",
+      "validate a claim — 主張の妥当性を裏付ける",
+      "validate a hypothesis — 仮説の妥当性を検証する",
+      "validate a ticket — 切符を有効化する",
+      "validate a parking voucher — 駐車券を有効化する",
+      "validate someone’s feelings — 人の感情を理解できるものとして受け止める",
+      "be independently validated — 独立した立場から妥当性を確認される",
+      "validate something against established criteria — 確立された基準に照らして妥当性を確認する"
+    ],
+    "en": [
+      "validate a method",
+      "validate a model",
+      "validate the data",
+      "validate user input",
+      "validate the results",
+      "validate a claim",
+      "validate a hypothesis",
+      "validate a ticket",
+      "validate a parking voucher",
+      "validate someone’s feelings",
+      "be independently validated",
+      "validate something against established criteria"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The researchers conducted further experiments to validate the new method. — 研究者たちは新しい方法の妥当性を確認するため、追加の実験を行った。",
+      "The system validates each email address before creating an account. — そのシステムは、アカウントを作成する前に各メールアドレスが要件を満たしているかを検査する。",
+      "You must validate your ticket before boarding the train. — 電車に乗る前に切符を有効化しなければなりません。",
+      "Acknowledging her disappointment helped validate her feelings without suggesting that every conclusion she had reached was correct. — 彼女の失望を認めることは、その結論のすべてが正しいと示すことなく、彼女の感情を理解できるものとして受け止める助けになった。",
+      "The experimental results may support the application, but additional testing could be required to validate the claimed technical effect. — その実験結果は出願を裏付け得るが、主張された技術的効果の妥当性を確認するには追加試験が必要となる可能性がある。"
+    ],
+    "en": [
+      "The researchers conducted further experiments to validate the new method.",
+      "The system validates each email address before creating an account.",
+      "You must validate your ticket before boarding the train.",
+      "Acknowledging her disappointment helped validate her feelings without suggesting that every conclusion she had reached was correct.",
+      "The experimental results may support the application, but additional testing could be required to validate the claimed technical effect."
+    ]
+  }
+}
+]
