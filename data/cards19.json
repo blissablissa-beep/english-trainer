@@ -7706,5 +7706,413 @@
       "The second opposition proceeding felt like déjà vu because the parties raised almost exactly the same trademark arguments."
     ]
   }
+},
+{
+  "id": "acknowledge",
+  "sid": "2026-01680",
+  "word": "acknowledge",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "recognition",
+    "admission",
+    "responsibility",
+    "receipt",
+    "appreciation",
+    "credit",
+    "greeting",
+    "communication",
+    "business",
+    "legal",
+    "academic",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "acknowledge",
+      "third_person": "acknowledges",
+      "past": "acknowledged",
+      "past_participle": "acknowledged",
+      "gerund": "acknowledging",
+      "noun_us": "acknowledgment",
+      "noun_variant": "acknowledgement",
+      "adjective": "acknowledged"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "acknowledge + noun",
+      "acknowledge that + clause",
+      "acknowledge + gerund",
+      "acknowledge something as + noun / adjective",
+      "acknowledge receipt of + noun",
+      "acknowledge responsibility for + noun",
+      "acknowledge someone’s contribution",
+      "acknowledge a source",
+      "acknowledge someone with + gesture",
+      "be widely acknowledged as + noun",
+      "be acknowledged to be + adjective / noun",
+      "refuse / fail to acknowledge + noun"
+    ],
+    "usage": {
+      "object": "Acknowledge normally takes a direct object: acknowledge the problem, not acknowledge to the problem.",
+      "clause": "A that-clause can state the fact being accepted: She acknowledged that the estimate was wrong.",
+      "gerund": "For an action, use a gerund rather than a to-infinitive: acknowledge making a mistake, not acknowledge to make a mistake.",
+      "receipt": "Acknowledge receipt of is a formal expression meaning to confirm that something has been received.",
+      "recognition": "Acknowledge can mean publicly recognizing a person’s work, contribution, status, or rights.",
+      "social_response": "Acknowledging someone may simply mean showing that one has noticed them, for example with a nod or smile.",
+      "agreement": "Acknowledging a statement or concern does not necessarily mean agreeing with, approving, or accepting all of it.",
+      "spelling": "Both acknowledgment and acknowledgement are standard noun spellings; acknowledgment is especially common in American English."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əkˈnɑːlɪdʒ/",
+      "uk": "/əkˈnɒlɪdʒ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "事実・問題・状況などの存在または真実性を認める",
+      "自分の誤り・責任・敗北などを認める",
+      "手紙・メール・書類・支払いなどを受領したと確認する",
+      "人の功績・貢献・地位・権利などを正式に認める",
+      "会釈・微笑み・返事などによって、相手に気づいていることを示す",
+      "引用・謝辞などで、情報源や協力者を明示して評価する"
+    ],
+    "en": [
+      "to accept or admit the truth or existence of a fact, problem, or situation",
+      "to accept that one has made a mistake or bears responsibility for something",
+      "to confirm that a letter, email, document, payment, or other item has been received",
+      "to formally recognize a person’s achievement, contribution, status, or rights",
+      "to show through a nod, smile, greeting, or response that one has noticed someone",
+      "to identify and give appropriate credit to a source or contributor"
+    ]
+  },
+  "nuance": {
+    "ja": "acknowledge の中心は、それまで明示していなかった事実・存在・立場などを、無視せず認識していると示すことである。admit と重なるが、acknowledge は必ずしも不本意な自白を意味せず、より中立的・形式的に事実を認める場合にも使える。相手の懸念を acknowledge することは、その懸念の存在や重要性を受け止めることであり、相手の主張すべてに同意することではない。acknowledge an email は通常、メールを受け取ったと知らせることで、内容への詳細な回答までは意味しない。また、人を acknowledge する場合は、称賛だけでなく、目を合わせる、会釈する、挨拶を返すなど、相手の存在を認識したと示す行為も含む。",
+    "en": "The central idea of acknowledge is openly indicating that one recognizes a fact, existence, position, communication, or person rather than ignoring or denying it. It overlaps with admit, but acknowledge does not necessarily suggest a reluctant confession and can neutrally or formally recognize a fact. Acknowledging someone’s concern means recognizing its existence or importance, not necessarily agreeing with every part of the person’s claim. Acknowledging an email normally confirms receipt and does not promise a substantive answer. When the object is a person, the verb may describe praise, but it can also refer simply to noticing the person through eye contact, a nod, or a greeting."
+  },
+  "minimal": {
+    "ja": [
+      "acknowledge：事実・責任・受領・功績・人の存在などを、明示的に認める。",
+      "admit：事実や誤りを、しばしば不本意ながら認める。",
+      "recognize：人・物を識別する、または地位・価値・正当性を認める。",
+      "confirm：情報が正しいことや、物を受領したことを確認する。",
+      "concede：議論や抵抗の後で、相手の主張や自分の敗北を認める。",
+      "confess：隠していた過失・犯罪・感情などを打ち明ける。",
+      "appreciate：人の価値・努力・親切を理解し、感謝する。",
+      "credit：成果・着想・情報などを特定の人物・情報源によるものとして示す。"
+    ],
+    "en": [
+      "acknowledge means explicitly recognizing a fact, responsibility, receipt, contribution, or person’s presence.",
+      "admit means accepting a fact or mistake, often reluctantly.",
+      "recognize means identifying someone or something or accepting its status, value, or legitimacy.",
+      "confirm means establishing that information is correct or stating that something has been received.",
+      "concede means admitting a point or defeat after argument or resistance.",
+      "confess means revealing previously concealed wrongdoing, fault, or feelings.",
+      "appreciate means understanding and valuing someone’s effort, kindness, or importance.",
+      "credit means identifying a person or source as responsible for an achievement, idea, or information."
+    ]
+  },
+  "etymology": {
+    "ja": "acknowledge は、「認識する、認める」という意味を持った中英語の aknowen や aknowlechen などの形に由来する。これらは know と関係し、その語形は後に knowledge の影響を受けて現在の acknowledge に近づいた。したがって、現代の綴りだけを見て単純に a と knowledge を組み合わせた語と考えるのは正確ではない。意味は「知っていると認める」から、事実・責任・受領・功績などを明示的に認めるという現在の用法へ広がった。",
+    "en": "Acknowledge developed from Middle English forms such as aknowen and aknowlechen, meaning to recognize or admit. These forms were related to know, and their spelling was later influenced by knowledge. It is therefore misleading to analyze the modern word simply as a plus knowledge. From the idea of admitting that one knows or recognizes something, the verb developed its present senses involving facts, responsibility, receipt, achievement, and social recognition."
+  },
+  "synonyms": [
+    {
+      "word": "admit",
+      "note": {
+        "ja": "否定していた事実、自分の誤り、責任などを認める。acknowledge より不本意さを含むことがある。",
+        "en": "To accept a previously denied fact, mistake, or responsibility, sometimes with a stronger suggestion of reluctance."
+      }
+    },
+    {
+      "word": "recognize",
+      "note": {
+        "ja": "人・物を識別するほか、功績・地位・権利・重要性などを認める。",
+        "en": "To identify someone or something or accept an achievement, status, right, or importance."
+      }
+    },
+    {
+      "word": "confirm",
+      "note": {
+        "ja": "情報・予定・受領などが正しい、または完了していると明確にする。",
+        "en": "To establish or state that information, an arrangement, or receipt is correct or complete."
+      }
+    },
+    {
+      "word": "concede",
+      "note": {
+        "ja": "議論で相手の指摘が正しいことや、自分の敗北・不利な事実を認める。",
+        "en": "To admit that an opposing point is correct or accept defeat or an unfavorable fact."
+      }
+    },
+    {
+      "word": "credit",
+      "note": {
+        "ja": "特定の人物・組織・情報源が成果や情報に寄与したことを明示する。",
+        "en": "To identify a person, organization, or source as having contributed to an achievement or information."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "anerkennen / einräumen / den Erhalt bestätigen",
+    "it": "riconoscere / ammettere / confermare la ricezione",
+    "fr": "reconnaître / admettre / accuser réception",
+    "es": "reconocer / admitir / confirmar la recepción"
+  },
+  "collocations": {
+    "ja": [
+      "acknowledge a fact — 事実を認める",
+      "acknowledge the truth — 真実を認める",
+      "acknowledge a mistake — 誤りを認める",
+      "acknowledge responsibility — 責任を認める",
+      "acknowledge receipt of a letter — 手紙の受領を確認する",
+      "acknowledge an email — メールを受け取ったと知らせる",
+      "acknowledge someone’s contribution — 人の貢献を認める",
+      "acknowledge a source — 情報源を明記する",
+      "acknowledge the existence of a problem — 問題の存在を認める",
+      "be widely acknowledged as an expert — 専門家として広く認められている",
+      "acknowledge someone with a nod — 会釈して相手に応じる",
+      "refuse to acknowledge a claim — 主張を認めることを拒む"
+    ],
+    "en": [
+      "acknowledge a fact",
+      "acknowledge the truth",
+      "acknowledge a mistake",
+      "acknowledge responsibility",
+      "acknowledge receipt of a letter",
+      "acknowledge an email",
+      "acknowledge someone’s contribution",
+      "acknowledge a source",
+      "acknowledge the existence of a problem",
+      "be widely acknowledged as an expert",
+      "acknowledge someone with a nod",
+      "refuse to acknowledge a claim"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She acknowledged that the original estimate had been inaccurate. — 彼女は、当初の見積りが不正確だったことを認めた。",
+      "The manager acknowledged responsibility for the delay. — 管理者は、その遅延について責任を認めた。",
+      "Please acknowledge receipt of the attached documents. — 添付書類を受領したことをご確認ください。",
+      "The author acknowledged the research team’s contribution in the preface. — 著者は序文で研究チームの貢献に謝意を示した。",
+      "He acknowledged me with a brief nod before returning to the conversation. — 彼は短く会釈して私に応じると、会話に戻った。",
+      "The applicant acknowledged the existence of the prior patent but denied that it disclosed the claimed invention. — 出願人は先行特許の存在を認めたが、その特許が請求対象の発明を開示していることは否定した。"
+    ],
+    "en": [
+      "She acknowledged that the original estimate had been inaccurate.",
+      "The manager acknowledged responsibility for the delay.",
+      "Please acknowledge receipt of the attached documents.",
+      "The author acknowledged the research team’s contribution in the preface.",
+      "He acknowledged me with a brief nod before returning to the conversation.",
+      "The applicant acknowledged the existence of the prior patent but denied that it disclosed the claimed invention."
+    ]
+  }
+},
+{
+  "id": "suffocating",
+  "sid": "2026-01681",
+  "word": "suffocating",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "present participle",
+    "breathing",
+    "air",
+    "heat",
+    "oppression",
+    "restriction",
+    "emotion",
+    "danger",
+    "medical",
+    "figurative",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / present participle",
+    "forms": {
+      "base_verb": "suffocate",
+      "third_person": "suffocates",
+      "past": "suffocated",
+      "past_participle": "suffocated",
+      "gerund": "suffocating",
+      "adjective": "suffocating",
+      "noun": "suffocation",
+      "adverb": "suffocatingly"
+    },
+    "transitivity": "transitive or intransitive as a form of suffocate",
+    "patterns": [
+      "be suffocating",
+      "feel suffocating",
+      "a suffocating + atmosphere / room / heat",
+      "suffocating smoke / fumes",
+      "a suffocating sense of + noun",
+      "a suffocating relationship / environment",
+      "find something suffocating",
+      "suffocate someone with + noun",
+      "be suffocated by + smoke / fumes",
+      "be suffocating from + smoke / lack of air",
+      "feel as though one is suffocating",
+      "prevent someone from suffocating"
+    ],
+    "usage": {
+      "adjective": "As an adjective, suffocating describes something that makes breathing difficult or creates an oppressive physical or emotional sensation.",
+      "participle": "As the present participle of suffocate, it describes the ongoing act or experience of being unable to breathe.",
+      "literal_use": "Literal uses commonly concern smoke, fumes, blocked airways, confined spaces, or a lack of oxygen.",
+      "heat": "Suffocating heat describes oppressive heat combined with still, humid, or poorly ventilated air.",
+      "figurative_use": "Figuratively, it describes excessive control, pressure, attention, or emotion that leaves a person feeling deprived of freedom.",
+      "spelling": "The standard spelling is suffocating, not suffrocting; the verb is suffocate.",
+      "medical_context": "Difficulty breathing can indicate a medical emergency; suffocating is descriptive vocabulary rather than a precise medical diagnosis."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsʌfəˌkeɪtɪŋ/",
+      "uk": "/ˈsʌfəkeɪtɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "空気・酸素が足りず、息ができなくなっている",
+      "煙・有毒ガス・圧迫などによって呼吸を困難にさせる",
+      "室内や空気がひどく蒸し暑く、息苦しい",
+      "環境・規則・人間関係などが自由を奪うほど抑圧的な",
+      "不安・悲しみ・緊張などの感情が息苦しく感じられるほど強い",
+      "動詞 suffocate の現在分詞として、人を窒息させている、または窒息しかけている"
+    ],
+    "en": [
+      "being unable to breathe because of insufficient air or oxygen",
+      "causing serious difficulty in breathing through smoke, fumes, pressure, or another obstruction",
+      "for a room or weather, oppressively hot, humid, still, or poorly ventilated",
+      "for an environment, rule, or relationship, excessively restrictive or controlling",
+      "for an emotion, so intense or overwhelming that it creates a sense of breathlessness",
+      "as the present participle of suffocate, causing someone to be deprived of air or undergoing that experience"
+    ]
+  },
+  "nuance": {
+    "ja": "suffocating は、文字どおりには空気や酸素が不足して「窒息しそうな」状態を表す強い語である。煙や有毒ガスのほか、換気の悪い部屋や蒸し暑い天候にも使われる。比喩的には、過度な規則、監視、愛情、期待などによって、心理的な自由や逃げ場が失われている感覚を表す。stifling も「息苦しい、抑圧的な」という意味を持つが、suffocating の方が呼吸を奪われるような切迫感を強く感じさせることがある。人間関係を suffocating と表現すると、単に親密なのではなく、相手の干渉や依存が耐え難いほど強いという否定的評価になる。",
+    "en": "Suffocating is a strong word that literally describes being deprived of air or exposed to something that makes breathing extremely difficult. It can also describe oppressive heat or a room with inadequate ventilation. Figuratively, it conveys the loss of psychological freedom caused by excessive rules, supervision, affection, expectations, or emotional pressure. Stifling has similar physical and figurative uses, but suffocating can suggest a more urgent sensation of having one’s breath or freedom taken away. Describing a relationship as suffocating is strongly negative and implies intolerable control, interference, or dependence rather than ordinary closeness."
+  },
+  "minimal": {
+    "ja": [
+      "suffocating：呼吸を困難にさせる、または自由を奪うほど息苦しく抑圧的な。",
+      "suffocated：窒息した、または心理的に強く抑圧された状態の。",
+      "stifling：空気・暑さ・規制などが耐え難いほど息苦しい。",
+      "choking：煙・物体・強い感情などで喉や呼吸が塞がっている。",
+      "breathless：運動・興奮・病気などにより息を切らしている。",
+      "oppressive：権力・暑さ・雰囲気などが重苦しく、耐え難い。",
+      "claustrophobic：狭い場所に閉じ込められたような圧迫感を与える。",
+      "smothering：空気や自由を覆い塞ぐような、過度に保護的・干渉的な。"
+    ],
+    "en": [
+      "suffocating means causing difficulty in breathing or creating an intolerably oppressive loss of freedom.",
+      "suffocated describes someone or something already deprived of air or made to feel severely restricted.",
+      "stifling describes air, heat, or restrictions that feel unbearably oppressive.",
+      "choking describes an obstructed throat or breathing difficulty caused by smoke, an object, or strong emotion.",
+      "breathless means breathing with difficulty or rapidity because of exertion, excitement, or illness.",
+      "oppressive describes power, heat, or an atmosphere that feels harsh, burdensome, and difficult to endure.",
+      "claustrophobic describes the anxiety or pressure associated with confined or seemingly restrictive surroundings.",
+      "smothering describes something that covers, restricts, protects, or interferes to an excessive degree."
+    ]
+  },
+  "etymology": {
+    "ja": "suffocating は動詞 suffocate の現在分詞・形容詞形である。suffocate はラテン語 suffocare「窒息させる、喉を締める」に由来し、sub-「下から、下に」と faux の語幹 fauc-「喉、口峡」に関係する要素から成る。文字どおりの「喉を塞いで呼吸を奪う」という意味から、英語では煙・空気不足などによる窒息を表すようになり、さらに感情・規則・人間関係などが人の自由を奪うという比喩的意味へ広がった。",
+    "en": "Suffocating is the present participle and adjective formed from suffocate. Suffocate comes from Latin suffocare, meaning to choke or deprive of breath, and is associated with sub-, under or from below, and the stem fauc-, referring to the throat or jaws. From the literal idea of obstructing the throat and preventing breathing, the word developed uses involving smoke and insufficient air and later acquired the figurative sense of depriving someone of emotional or personal freedom."
+  },
+  "synonyms": [
+    {
+      "word": "stifling",
+      "note": {
+        "ja": "空気・暑さ・雰囲気・規則などが息苦しく、活動や自由を妨げる。",
+        "en": "Describes air, heat, an atmosphere, or restrictions that inhibit breathing, activity, or freedom."
+      }
+    },
+    {
+      "word": "choking",
+      "note": {
+        "ja": "喉が物・煙などで塞がること、または強い感情で声や呼吸が詰まることに重点がある。",
+        "en": "Emphasizes obstruction of the throat by an object or smoke or the constriction caused by strong emotion."
+      }
+    },
+    {
+      "word": "oppressive",
+      "note": {
+        "ja": "支配・環境・暑さ・雰囲気などが重苦しく、耐え難い負担を与える。",
+        "en": "Describes authority, conditions, heat, or an atmosphere that imposes a heavy and intolerable burden."
+      }
+    },
+    {
+      "word": "smothering",
+      "note": {
+        "ja": "覆い塞いで呼吸を妨げる、または過度な愛情・干渉によって自由を奪う。",
+        "en": "Means covering something so that it cannot breathe or restricting someone through excessive affection or interference."
+      }
+    },
+    {
+      "word": "claustrophobic",
+      "note": {
+        "ja": "狭い空間、閉鎖的な環境、逃げ場のない状況による圧迫感を表す。",
+        "en": "Describes the pressure or anxiety produced by a confined space, closed environment, or inescapable situation."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "erstickend / beklemmend",
+    "it": "soffocante",
+    "fr": "suffocant / étouffant",
+    "es": "sofocante / asfixiante"
+  },
+  "collocations": {
+    "ja": [
+      "suffocating smoke — 息を詰まらせる煙",
+      "suffocating fumes — 窒息性の有毒ガス・蒸気",
+      "suffocating heat — 息苦しいほどの暑さ",
+      "a suffocating room — 息苦しい部屋",
+      "a suffocating atmosphere — 息苦しい雰囲気",
+      "a suffocating sense of fear — 息が詰まるような恐怖感",
+      "suffocating anxiety — 息苦しいほどの不安",
+      "a suffocating relationship — 束縛が強く息苦しい関係",
+      "suffocating social pressure — 息苦しい社会的圧力",
+      "find the rules suffocating — 規則を息苦しいと感じる",
+      "feel as though one is suffocating — 窒息しそうに感じる",
+      "prevent someone from suffocating — 人が窒息するのを防ぐ"
+    ],
+    "en": [
+      "suffocating smoke",
+      "suffocating fumes",
+      "suffocating heat",
+      "a suffocating room",
+      "a suffocating atmosphere",
+      "a suffocating sense of fear",
+      "suffocating anxiety",
+      "a suffocating relationship",
+      "suffocating social pressure",
+      "find the rules suffocating",
+      "feel as though one is suffocating",
+      "prevent someone from suffocating"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He woke up feeling as though he was suffocating. — 彼は窒息しそうな感覚で目を覚ました。",
+      "Suffocating smoke filled the corridor within minutes. — 数分のうちに、息を詰まらせる煙が廊下を満たした。",
+      "The room became suffocating when the air-conditioning stopped working. — 空調が止まると、その部屋は蒸し暑く息苦しくなった。",
+      "She found the constant supervision at work suffocating. — 彼女は職場での絶え間ない監視を息苦しく感じた。",
+      "A suffocating sense of anxiety prevented him from speaking. — 息が詰まるような不安のため、彼は話すことができなかった。",
+      "The firefighters rescued a resident who was suffocating from the smoke. — 消防士たちは、煙で窒息しかけていた住民を救助した。"
+    ],
+    "en": [
+      "He woke up feeling as though he was suffocating.",
+      "Suffocating smoke filled the corridor within minutes.",
+      "The room became suffocating when the air-conditioning stopped working.",
+      "She found the constant supervision at work suffocating.",
+      "A suffocating sense of anxiety prevented him from speaking.",
+      "The firefighters rescued a resident who was suffocating from the smoke."
+    ]
+  }
 }
 ]
