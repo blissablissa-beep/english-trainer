@@ -6914,5 +6914,797 @@
       "The elaborate procedure gave the decision a patina of legitimacy, but it did not remedy the underlying legal defect."
     ]
   }
+},
+{
+  "id": "respect",
+  "sid": "2026-01676",
+  "word": "respect",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "admiration",
+    "esteem",
+    "politeness",
+    "consideration",
+    "rights",
+    "rules",
+    "aspect",
+    "formal expression",
+    "business",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "usually uncountable for admiration or considerate treatment; countable for an aspect or particular regard",
+    "plural": "respects",
+    "forms": {
+      "noun_singular": "respect",
+      "noun_plural": "respects",
+      "verb_base": "respect",
+      "third_person": "respects",
+      "past": "respected",
+      "past_participle": "respected",
+      "gerund": "respecting",
+      "adjective": "respectful",
+      "adverb": "respectfully",
+      "related_adjective": "respected"
+    },
+    "transitivity": "transitive as a verb",
+    "patterns": [
+      "have respect for + person / thing",
+      "show respect for + person / thing",
+      "treat someone with respect",
+      "earn / gain / command respect",
+      "respect + person / opinion / decision",
+      "respect someone’s rights / wishes / privacy",
+      "respect a rule / law / boundary",
+      "in this / that respect",
+      "in many / all respects",
+      "with respect to / in respect of + noun"
+    ],
+    "usage": {
+      "admiration_noun": "Respect meaning admiration or esteem is normally uncountable: I have great respect for her.",
+      "treatment_noun": "With respect describes polite and considerate treatment: Treat everyone with respect.",
+      "aspect_noun": "A respect can mean a particular point or aspect: The two cases differ in one important respect.",
+      "plural_respects": "Respects can mean courteous greetings or attention, especially in pay one’s respects.",
+      "admire_verb": "To respect a person means regarding that person highly because of their character, ability, or achievements.",
+      "rights_verb": "To respect rights, wishes, privacy, or rules means recognizing their importance and not violating them.",
+      "preposition": "For normally follows the noun in the admiration sense: respect for someone, not respect to someone.",
+      "formal_linker": "With respect to and in respect of mean concerning or regarding and are common in formal writing.",
+      "due_respect": "With all due respect introduces disagreement politely, but it can sound critical or confrontational.",
+      "no_preposition_verb": "The verb takes a direct object: respect someone, not respect to someone."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈspekt/",
+      "uk": "/rɪˈspekt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人の人格・能力・業績などに対して抱く敬意・尊敬",
+      "相手を大切に扱い、その権利・感情・立場に配慮すること",
+      "特定の事柄を検討する際の点・側面・観点",
+      "人の人格・能力・判断などを高く評価し、尊敬する",
+      "権利・希望・プライバシー・境界などを認め、侵害しない",
+      "法律・規則・合意・決定などを守り、それに反する行動をしない"
+    ],
+    "en": [
+      "admiration or high regard for someone’s character, ability, or achievements",
+      "considerate treatment that recognizes another person’s rights, feelings, or position",
+      "a particular point, aspect, or way in which something is considered",
+      "to regard a person highly because of their character, ability, or judgment",
+      "to recognize and avoid violating another person’s rights, wishes, privacy, or boundaries",
+      "to observe and avoid acting contrary to a law, rule, agreement, or decision"
+    ]
+  },
+  "nuance": {
+    "ja": "respect は、感情として人を高く評価する「尊敬」と、相手の権利・意思・境界を侵害しないという行動上の「尊重」の両方を表す。I respect her expertise は専門能力を高く評価することを意味し、I respect her decision は、その判断に同意するとは限らないが、判断する権利を認めて受け入れることを意味し得る。したがって、respect は必ずしも好意・愛情・同意を伴わない。名詞の respect が「点・側面」を表す場合は可算名詞となり、in this respect や in several respects のように使う。with respect to は regarding に近い形式的な接続表現である。",
+    "en": "Respect covers both an attitude of admiration and conduct that recognizes another person’s rights, wishes, or boundaries. I respect her expertise expresses a favorable judgment of her ability. I respect her decision may mean that the speaker accepts her right to decide even without agreeing with the decision. Respect therefore does not necessarily imply affection, approval, or agreement. When respect means a point or aspect, it is countable and appears in expressions such as in this respect and in several respects. With respect to is a formal linking expression meaning regarding or concerning."
+  },
+  "minimal": {
+    "ja": [
+      "respect：人・権利・意思などを敬い、価値や重要性を認めて適切に扱う。",
+      "admiration：人の能力・性質・業績などを優れていると感じる称賛・感嘆。",
+      "esteem：人の人格・価値を高く評価する、比較的形式的な敬意。",
+      "regard：人・物に対して抱く評価・配慮。respect より広く中立的に使える。",
+      "deference：相手の地位・権威・判断を尊重して、自分が控えめに譲る態度。",
+      "courtesy：社会的な礼儀や、他人への丁重で思いやりのある行動。",
+      "honor：人・価値・約束などを深く敬い、それにふさわしく行動する。",
+      "obey：命令・規則・権威に従うことで、敬意や自発的な承認を必ずしも含まない。"
+    ],
+    "en": [
+      "respect means recognizing the value, rights, wishes, or importance of a person or thing and treating them accordingly.",
+      "admiration is a feeling of approval or wonder toward someone’s qualities, abilities, or achievements.",
+      "esteem is relatively formal high regard for a person’s character or worth.",
+      "regard is a broad term for an attitude, evaluation, or consideration directed toward someone or something.",
+      "deference is respectful submission or restraint toward another person’s authority, status, or judgment.",
+      "courtesy is polite and considerate conduct toward other people.",
+      "honor means deeply respecting a person, value, or commitment and acting in a way worthy of it.",
+      "obey means following an order, rule, or authority without necessarily implying admiration or voluntary respect."
+    ]
+  },
+  "etymology": {
+    "ja": "respect はラテン語 respectus「振り返ること、顧慮、考慮」に由来し、動詞 respicere「振り返って見る、注意を向ける」と関係する。respicere は re-「後ろへ、再び」と specere「見る」から成る。人や事柄へ注意を向けて顧みるという発想から、「考慮する」「大切に扱う」、さらに「敬意を抱く」という意味が発達した。「点・側面」という意味も、ある特定の観点から物事を見るという同じ発想につながっている。",
+    "en": "Respect comes from Latin respectus, meaning a looking back, consideration, or regard, and is related to the verb respicere, meaning to look back at or pay attention to. Respicere was formed from re-, meaning back or again, and specere, meaning to look. The idea of directing attention toward a person or matter developed into the senses of considering, treating with regard, and admiring. The meaning point or aspect similarly reflects a particular way of looking at a subject."
+  },
+  "synonyms": [
+    {
+      "word": "esteem",
+      "note": {
+        "ja": "人の人格・能力・価値を高く評価する、比較的形式的で強い敬意。",
+        "en": "Relatively formal and strong regard based on a high evaluation of someone’s character, ability, or worth."
+      }
+    },
+    {
+      "word": "admiration",
+      "note": {
+        "ja": "人の能力・行為・性質などを優れていると感じる、好意的な称賛。",
+        "en": "A favorable feeling of approval or wonder toward someone’s abilities, conduct, or qualities."
+      }
+    },
+    {
+      "word": "regard",
+      "note": {
+        "ja": "人・物について抱く評価・敬意・配慮を広く表す、やや形式的な語。",
+        "en": "A broad and somewhat formal term for consideration, evaluation, or respectful attention."
+      }
+    },
+    {
+      "word": "deference",
+      "note": {
+        "ja": "相手の地位・経験・権威を認め、自分の判断や行動を控えめにする態度。",
+        "en": "An attitude of yielding or restraint in recognition of another person’s status, experience, or authority."
+      }
+    },
+    {
+      "word": "consideration",
+      "note": {
+        "ja": "他人の感情・必要・事情を考え、それに配慮すること。",
+        "en": "Careful thought about another person’s feelings, needs, or circumstances."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Respekt / Achtung / Hinsicht / respektieren",
+    "it": "rispetto / riguardo / rispettare",
+    "fr": "respect / égard / respecter",
+    "es": "respeto / consideración / respetar"
+  },
+  "collocations": {
+    "ja": [
+      "have great respect for someone — 人に深い敬意を抱く",
+      "show respect for someone — 人に敬意を示す",
+      "treat someone with respect — 人を敬意をもって扱う",
+      "earn someone’s respect — 人からの敬意を得る",
+      "gain the respect of others — 他人から尊敬を得る",
+      "command respect — 自然と敬意を集める",
+      "mutual respect — 相互の尊重",
+      "respect someone’s wishes — 人の希望を尊重する",
+      "respect someone’s privacy — 人のプライバシーを尊重する",
+      "respect the law — 法律を守る",
+      "in this respect — この点において",
+      "with respect to the proposal — その提案に関して"
+    ],
+    "en": [
+      "have great respect for someone",
+      "show respect for someone",
+      "treat someone with respect",
+      "earn someone’s respect",
+      "gain the respect of others",
+      "command respect",
+      "mutual respect",
+      "respect someone’s wishes",
+      "respect someone’s privacy",
+      "respect the law",
+      "in this respect",
+      "with respect to the proposal"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I have great respect for her ability to remain calm under pressure. — 私は、重圧の中でも冷静さを保つ彼女の能力を深く尊敬しています。",
+      "Employees must treat their colleagues with dignity and respect. — 従業員は同僚を尊厳と敬意をもって扱わなければなりません。",
+      "I disagree with his decision, but I respect his right to make it. — 私は彼の判断には反対ですが、彼に決定する権利があることは尊重します。",
+      "The two products are similar in appearance but differ in several important respects. — その二つの商品は外観が似ていますが、いくつかの重要な点で異なります。",
+      "With respect to the cited prior art, the applicant argued that it did not disclose the essential technical feature of the claim. — 引用された先行技術に関して、出願人は、それが請求項の本質的な技術的特徴を開示していないと主張しました。"
+    ],
+    "en": [
+      "I have great respect for her ability to remain calm under pressure.",
+      "Employees must treat their colleagues with dignity and respect.",
+      "I disagree with his decision, but I respect his right to make it.",
+      "The two products are similar in appearance but differ in several important respects.",
+      "With respect to the cited prior art, the applicant argued that it did not disclose the essential technical feature of the claim."
+    ]
+  }
+},
+{
+  "id": "with-respect-to",
+  "sid": "2026-01677",
+  "word": "with respect to",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "prepositional phrase",
+    "linking expression",
+    "topic",
+    "reference",
+    "relation",
+    "business",
+    "legal",
+    "technical",
+    "mathematics",
+    "formal",
+    "writing",
+    "general"
+  ],
+  "grammar": {
+    "pos": "complex preposition / prepositional phrase",
+    "forms": {
+      "standard": "with respect to",
+      "british_variant": "in respect of",
+      "close_variant": "with regard to",
+      "incorrect_plural": "with respects to",
+      "abbreviation": "WRT, informal technical shorthand"
+    },
+    "transitivity": "followed by a noun, pronoun, gerund, or noun clause",
+    "patterns": [
+      "with respect to + noun",
+      "with respect to + pronoun",
+      "with respect to + gerund",
+      "with respect to whether + clause",
+      "with respect to the question of + noun / gerund",
+      "with respect to your request",
+      "with respect to each other",
+      "with respect to a particular variable",
+      "differentiate with respect to + variable",
+      "rights / obligations with respect to + noun"
+    ],
+    "usage": {
+      "topic": "The phrase introduces the subject to which a statement relates and commonly means regarding or concerning.",
+      "formality": "It is more formal and often heavier than about, so about may be preferable in ordinary conversation.",
+      "legal_use": "In legal and business writing, it identifies the transaction, right, person, loss, or issue to which a provision applies.",
+      "technical_use": "In mathematics, with respect to identifies the variable involved in differentiation, integration, or measurement.",
+      "relational_use": "It can identify a frame of reference or relationship: the position of one object with respect to another.",
+      "number": "Respect remains singular in this expression: with respect to, not with respects to.",
+      "not_due_respect": "It must be distinguished from with all due respect, which politely introduces disagreement.",
+      "not_aspect": "It must also be distinguished from in this respect, meaning in this particular aspect.",
+      "punctuation": "When used as an introductory phrase, it is commonly followed by a comma: With respect to your request, we require more information."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/wɪð rɪˈspekt tuː/; also /wɪθ rɪˈspekt tuː/",
+      "uk": "/wɪð rɪˈspekt tuː/; also /wɪθ rɪˈspekt tuː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ある話題・問題・要求などに関して",
+      "特定の事項を対象・基準として",
+      "人・物・状況との関係において",
+      "法律上、特定の権利・義務・取引・損害などについて",
+      "数学・科学で、特定の変数・基準に関して"
+    ],
+    "en": [
+      "concerning or regarding a particular topic, question, or request",
+      "in reference to a specified matter or basis",
+      "in relation to a particular person, object, or situation",
+      "in legal use, concerning a specified right, obligation, transaction, or loss",
+      "in mathematics or science, in relation to a particular variable or reference point"
+    ]
+  },
+  "nuance": {
+    "ja": "with respect to は、発言・規則・分析がどの対象に関係するかを明示する形式的な表現である。日常会話では about の方が簡潔で自然な場合が多いが、法律文書・契約書・論文・ビジネス文書では対象範囲を明確にするため頻繁に用いられる。The parties’ obligations with respect to confidential information なら「秘密情報に関する当事者の義務」を意味する。数学の differentiate with respect to x は「xについて微分する」であり、敬意とは無関係である。なお、with all due respect は反対意見を丁寧に導入する別の定型表現である。",
+    "en": "With respect to formally identifies the topic, object, or frame of reference to which a statement, rule, or analysis applies. About is often shorter and more natural in everyday conversation, but with respect to is common in legal documents, contracts, academic writing, and business correspondence because it can mark scope precisely. The parties’ obligations with respect to confidential information means the obligations relating to that information. In differentiate with respect to x, the phrase identifies the mathematical variable and has no connection with admiration or politeness. With all due respect is a separate formula used to introduce disagreement politely."
+  },
+  "minimal": {
+    "ja": [
+      "with respect to：特定の話題・事項・基準に関して。比較的形式的。",
+      "about：～について。日常会話で最も一般的で簡潔。",
+      "regarding：～に関して。書面・ビジネスで自然な形式的表現。",
+      "concerning：～に関して。形式的で、ときに懸念を含む文脈でも使われる。",
+      "with regard to：～に関して。with respect to とほぼ同じ形式的表現。",
+      "in respect of：～に関して。特にイギリスの法律・行政文書で使われる。",
+      "in relation to：～との関係で、～に関連して。関係性を強調する。",
+      "in this respect：この点・側面において。話題を導入する with respect to とは異なる。"
+    ],
+    "en": [
+      "with respect to means concerning a particular topic, matter, relationship, or reference point and is relatively formal.",
+      "about is the most general and concise expression for identifying a topic in everyday English.",
+      "regarding is a formal topic marker natural in written and business communication.",
+      "concerning formally means about and also occurs in contexts involving a concern or issue.",
+      "with regard to is a formal expression nearly equivalent to with respect to.",
+      "in respect of is used especially in British legal and administrative writing to mean concerning.",
+      "in relation to emphasizes the connection or relationship between matters.",
+      "in this respect means in this particular aspect and does not introduce a topic in the same way."
+    ]
+  },
+  "etymology": {
+    "ja": "respect はラテン語 respectus「振り返ること、顧慮、関係」に由来し、respicere「振り返って見る、注意を向ける」と関係する。ある対象へ視線・注意を向けるという発想から、respect は「考慮・関連・観点」という意味を持つようになった。with respect to は、このうち「関連・参照」の意味に基づき、特定の対象へ話題や判断を向ける表現として成立した。したがって、この表現の respect は通常「尊敬」を意味しない。",
+    "en": "Respect derives from Latin respectus, meaning a looking back, consideration, or relation, and is connected with respicere, meaning to look back at or direct attention toward something. From the idea of directing one’s attention to an object, respect developed senses involving consideration, reference, and relation. With respect to is based on these relational senses and directs a statement or judgment toward a specified subject. Respect in this expression does not ordinarily mean admiration."
+  },
+  "synonyms": [
+    {
+      "word": "regarding",
+      "note": {
+        "ja": "特定の話題に関してという意味で、簡潔かつ書面・ビジネスで自然な表現。",
+        "en": "A concise and natural formal expression meaning concerning a particular topic."
+      }
+    },
+    {
+      "word": "concerning",
+      "note": {
+        "ja": "ある事項について・関してという意味の形式的な前置詞。",
+        "en": "A formal preposition meaning about or relating to a particular matter."
+      }
+    },
+    {
+      "word": "with regard to",
+      "note": {
+        "ja": "with respect to とほぼ同義で、書面や形式的な発言で用いられる。",
+        "en": "A close formal equivalent used in writing and careful speech."
+      }
+    },
+    {
+      "word": "in relation to",
+      "note": {
+        "ja": "ある物事との関連・比較・位置関係を強調する表現。",
+        "en": "An expression emphasizing a connection, comparison, or positional relationship."
+      }
+    },
+    {
+      "word": "as regards",
+      "note": {
+        "ja": "特定の話題へ注意を移して「～について言えば」と示す形式的な表現。",
+        "en": "A formal expression that shifts attention to a particular topic or matter."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "in Bezug auf / hinsichtlich / bezüglich",
+    "it": "per quanto riguarda / riguardo a / rispetto a",
+    "fr": "en ce qui concerne / à l’égard de / par rapport à",
+    "es": "con respecto a / en cuanto a / respecto de"
+  },
+  "collocations": {
+    "ja": [
+      "with respect to your request — ご要望に関して",
+      "with respect to the proposal — その提案に関して",
+      "with respect to this issue — この問題について",
+      "with respect to the applicable law — 適用法に関して",
+      "with respect to each party — 各当事者に関して",
+      "with respect to confidential information — 秘密情報に関して",
+      "rights with respect to the property — その財産に関する権利",
+      "obligations with respect to payment — 支払いに関する義務",
+      "different with respect to cost — 費用の点で異なる",
+      "position with respect to the origin — 原点に対する位置",
+      "differentiate with respect to x — xについて微分する",
+      "liability with respect to infringement — 侵害に関する責任"
+    ],
+    "en": [
+      "with respect to your request",
+      "with respect to the proposal",
+      "with respect to this issue",
+      "with respect to the applicable law",
+      "with respect to each party",
+      "with respect to confidential information",
+      "rights with respect to the property",
+      "obligations with respect to payment",
+      "different with respect to cost",
+      "position with respect to the origin",
+      "differentiate with respect to x",
+      "liability with respect to infringement"
+    ]
+  },
+  "example": {
+    "ja": [
+      "With respect to your request, we need a few additional details. — ご要望に関して、いくつか追加の詳細が必要です。",
+      "The two plans are similar with respect to cost but differ considerably in scope. — その二つの計画は費用の点では似ていますが、範囲が大きく異なります。",
+      "Employees have specific obligations with respect to confidential information. — 従業員には秘密情報に関して特定の義務があります。",
+      "The velocity of the vehicle was measured with respect to the ground. — その車両の速度は地面を基準として測定されました。",
+      "With respect to the alleged trademark infringement, the defendant denied that the signs were confusingly similar. — 主張された商標権侵害に関して、被告は両標章が混同を生じるほど類似していることを否定しました。"
+    ],
+    "en": [
+      "With respect to your request, we need a few additional details.",
+      "The two plans are similar with respect to cost but differ considerably in scope.",
+      "Employees have specific obligations with respect to confidential information.",
+      "The velocity of the vehicle was measured with respect to the ground.",
+      "With respect to the alleged trademark infringement, the defendant denied that the signs were confusingly similar."
+    ]
+  }
+},
+{
+  "id": "with-regard-to",
+  "sid": "2026-01678",
+  "word": "with regard to",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "prepositional phrase",
+    "linking expression",
+    "topic",
+    "reference",
+    "correspondence",
+    "business",
+    "legal",
+    "formal",
+    "writing",
+    "email",
+    "general"
+  ],
+  "grammar": {
+    "pos": "complex preposition / prepositional phrase",
+    "forms": {
+      "standard": "with regard to",
+      "alternative": "in regard to",
+      "close_equivalent": "with respect to",
+      "related_expression": "as regards",
+      "nonstandard_or_disputed": "with regards to"
+    },
+    "transitivity": "followed by a noun, pronoun, gerund, or noun clause",
+    "patterns": [
+      "with regard to + noun",
+      "with regard to + pronoun",
+      "with regard to + gerund",
+      "with regard to whether + clause",
+      "with regard to the question of + noun / gerund",
+      "with regard to your request",
+      "with regard to the proposed changes",
+      "with regard to each party",
+      "have concerns with regard to + noun",
+      "rights / obligations with regard to + noun"
+    ],
+    "usage": {
+      "topic": "The phrase introduces the subject to which a statement relates and means regarding or concerning.",
+      "formality": "It is relatively formal and is especially common in correspondence, business writing, and legal discussion.",
+      "number": "The standard form uses singular regard: with regard to.",
+      "regards_warning": "With regards to is widely encountered but is often criticized as a blend of with regard to and as regards; with regard to is safer in edited writing.",
+      "alternative": "In regard to is also used, particularly in American English.",
+      "as_regards": "As regards is a separate expression in which regards ends in -s: As regards the schedule, no decision has been made.",
+      "comparison": "With respect to is nearly synonymous and is generally preferred in mathematical expressions such as differentiate with respect to x.",
+      "punctuation": "When placed at the beginning of a sentence, the phrase is commonly followed by a comma."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/wɪð rɪˈɡɑːrd tuː/; also /wɪθ rɪˈɡɑːrd tuː/",
+      "uk": "/wɪð rɪˈɡɑːd tuː/; also /wɪθ rɪˈɡɑːd tuː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特定の話題・問題・要求などに関して",
+      "ある人物・物事について言えば",
+      "書面で、これから扱う対象を明示して",
+      "法律上の権利・義務・手続などとの関係で",
+      "特定の事項を考慮・参照の対象として"
+    ],
+    "en": [
+      "concerning or regarding a particular topic, problem, or request",
+      "when speaking about a particular person or matter",
+      "in writing, to identify the subject that is about to be addressed",
+      "in relation to a particular legal right, obligation, or procedure",
+      "taking a specified matter as the object of consideration or reference"
+    ]
+  },
+  "nuance": {
+    "ja": "with regard to は、話題を明確に限定して「～に関して」と述べる形式的な接続表現である。意味上は regarding、concerning、with respect to とほぼ同じであり、特にビジネスメールや法律文書で使われる。日常会話では about の方が簡潔で自然なことが多い。with respect to と置き換えられる場合が大半だが、数学の differentiate with respect to x のような固定的な技術表現では with regard to に置き換えない。なお、手紙の結びの regards は複数形だが、with regard to の regard は単数である。",
+    "en": "With regard to is a formal linking expression that limits a statement to a specified topic. It is nearly equivalent to regarding, concerning, and with respect to and is especially common in business correspondence and legal writing. About is usually shorter and more natural in everyday conversation. Although with regard to and with respect to are interchangeable in many contexts, fixed technical expressions such as differentiate with respect to x do not normally use with regard to. The plural regards used in letter closings should not be confused with the singular regard in this phrase."
+  },
+  "minimal": {
+    "ja": [
+      "with regard to：特定の話題・事項に関して。書面でよく使う形式的表現。",
+      "with respect to：～に関して。法律・技術・数学でも広く使われる。",
+      "regarding：～に関して。簡潔で、ビジネス文書にも自然。",
+      "concerning：～に関して。形式的な話題提示に使われる。",
+      "about：～について。日常会話で最も一般的で簡潔。",
+      "in relation to：～との関連で。二つの事項の関係を強調しやすい。",
+      "as regards：～について言えば。動詞由来の regards に -s が必要。",
+      "in this regard：この点において。この話題に関して、という意味にもなる。"
+    ],
+    "en": [
+      "with regard to is a formal expression meaning concerning a specified topic or matter.",
+      "with respect to also means concerning and is widely used in legal, technical, and mathematical contexts.",
+      "regarding is a concise topic marker natural in business writing.",
+      "concerning is a formal preposition used to introduce the subject of a statement.",
+      "about is the most general and concise topic marker in everyday English.",
+      "in relation to emphasizes a connection or relationship between matters.",
+      "as regards means concerning and requires the final -s in regards.",
+      "in this regard means in this respect or in relation to the matter just mentioned."
+    ]
+  },
+  "etymology": {
+    "ja": "regard は古フランス語 regarder「見る、注意を向ける、考慮する」に由来する。この語は re-「後ろへ、再び、強意」と、ゲルマン語系の garder「見張る、守る」に関係する要素から成る。人や物へ注意を向けるという意味から、regard は「考慮・関心・関連」を表すようになった。with regard to は、特定の対象へ注意を向けるという発想に基づき、「～に関して」という話題提示の表現になった。",
+    "en": "Regard entered English through Old French regarder, meaning to look at, pay attention to, or consider. The French verb combines re- with an element related to garder, meaning to watch or guard. From the idea of directing attention toward a person or thing, regard developed the senses consideration, concern, and reference. With regard to consequently came to introduce the particular matter toward which attention is being directed."
+  },
+  "synonyms": [
+    {
+      "word": "regarding",
+      "note": {
+        "ja": "特定の話題について述べることを示す、簡潔で形式的な前置詞。",
+        "en": "A concise formal preposition identifying the topic being discussed."
+      }
+    },
+    {
+      "word": "with respect to",
+      "note": {
+        "ja": "with regard to とほぼ同義で、法律・学術・技術分野でも頻繁に用いられる。",
+        "en": "A close equivalent frequently used in legal, academic, and technical contexts."
+      }
+    },
+    {
+      "word": "concerning",
+      "note": {
+        "ja": "ある事項に関係して、またはその事項についてという意味の形式的な前置詞。",
+        "en": "A formal preposition meaning relating to or about a particular matter."
+      }
+    },
+    {
+      "word": "in relation to",
+      "note": {
+        "ja": "ある事項とのつながり・比較・関係性においてという意味を強調する。",
+        "en": "An expression emphasizing a connection, comparison, or relationship with a matter."
+      }
+    },
+    {
+      "word": "as regards",
+      "note": {
+        "ja": "新しい話題を導入して「～について言えば」と述べる形式的な表現。",
+        "en": "A formal expression introducing a topic with the meaning as concerns."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "in Bezug auf / hinsichtlich / bezüglich",
+    "it": "per quanto riguarda / riguardo a",
+    "fr": "en ce qui concerne / quant à",
+    "es": "con respecto a / en cuanto a"
+  },
+  "collocations": {
+    "ja": [
+      "with regard to your request — ご要望に関して",
+      "with regard to your inquiry — お問い合わせに関して",
+      "with regard to the proposal — その提案に関して",
+      "with regard to the schedule — 日程に関して",
+      "with regard to this matter — この件について",
+      "with regard to the proposed amendment — 提案された修正に関して",
+      "with regard to future cooperation — 今後の協力に関して",
+      "with regard to applicable law — 適用法に関して",
+      "concerns with regard to safety — 安全性に関する懸念",
+      "obligations with regard to payment — 支払いに関する義務",
+      "rights with regard to personal data — 個人データに関する権利",
+      "no change with regard to procedure — 手続に関する変更なし"
+    ],
+    "en": [
+      "with regard to your request",
+      "with regard to your inquiry",
+      "with regard to the proposal",
+      "with regard to the schedule",
+      "with regard to this matter",
+      "with regard to the proposed amendment",
+      "with regard to future cooperation",
+      "with regard to applicable law",
+      "concerns with regard to safety",
+      "obligations with regard to payment",
+      "rights with regard to personal data",
+      "no change with regard to procedure"
+    ]
+  },
+  "example": {
+    "ja": [
+      "With regard to your request, we will send the documents by Friday. — ご要望に関して、金曜日までに書類をお送りします。",
+      "She raised several concerns with regard to the safety of the product. — 彼女はその製品の安全性に関して、いくつかの懸念を提起しました。",
+      "No final decision has been made with regard to the proposed merger. — 提案されている合併について、最終決定はまだ下されていません。",
+      "The agreement sets out each party’s obligations with regard to confidential information. — その契約は、秘密情報に関する各当事者の義務を定めています。",
+      "With regard to the trademark application, the examiner requested clarification of the designated goods and services. — その商標出願に関して、審査官は指定商品・役務を明確にするよう求めました。"
+    ],
+    "en": [
+      "With regard to your request, we will send the documents by Friday.",
+      "She raised several concerns with regard to the safety of the product.",
+      "No final decision has been made with regard to the proposed merger.",
+      "The agreement sets out each party’s obligations with regard to confidential information.",
+      "With regard to the trademark application, the examiner requested clarification of the designated goods and services."
+    ]
+  }
+},
+{
+  "id": "deja-vu",
+  "sid": "2026-01679",
+  "word": "déjà vu",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "French expression",
+    "memory",
+    "psychology",
+    "perception",
+    "familiarity",
+    "repetition",
+    "experience",
+    "conversation",
+    "formal",
+    "informal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / fixed expression",
+    "countability": "normally uncountable; occasionally countable in informal or specialized use",
+    "plural": "déjà vus, rare",
+    "forms": {
+      "standard": "déjà vu",
+      "unaccented": "deja vu",
+      "plural": "déjà vus",
+      "source_phrase": "French déjà vu, literally already seen"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "experience déjà vu",
+      "have déjà vu",
+      "feel a sense of déjà vu",
+      "a feeling of déjà vu",
+      "a strong sensation of déjà vu",
+      "give someone déjà vu",
+      "an eerie sense of déjà vu",
+      "a strange case of déjà vu",
+      "déjà vu all over again",
+      "political / economic déjà vu"
+    ],
+    "usage": {
+      "article": "Déjà vu is normally used without an article: I experienced déjà vu. A sense or feeling of déjà vu is also common.",
+      "countability": "A déjà vu is sometimes heard informally, but an experience or a feeling of déjà vu is more standard.",
+      "accents": "The French accent marks are traditionally retained, although the unaccented spelling deja vu is common when accents are inconvenient.",
+      "psychological_use": "In its strict psychological sense, it is a false or unexplained feeling that a present situation has been experienced before.",
+      "figurative_use": "It can more broadly describe circumstances that genuinely resemble or repeat earlier events.",
+      "not_memory": "Déjà vu is a feeling of familiarity and does not necessarily represent an accurate recovered memory.",
+      "register": "It is natural in both everyday conversation and formal discussion, including psychology, politics, economics, and cultural commentary."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌdeɪʒɑː ˈvuː/",
+      "uk": "/ˌdeɪʒɑː ˈvuː/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "初めて経験する状況なのに、以前にも経験したと感じる既視感",
+      "見知らぬ場所・会話・出来事が、不思議なほど既知のものに感じられる現象",
+      "過去の出来事とよく似た状況が繰り返されているという感覚",
+      "政治・経済・仕事などで、以前と同じ展開が再現されること",
+      "既知感はあるが、その出所となる具体的な記憶を特定できない状態"
+    ],
+    "en": [
+      "the feeling that a present situation has been experienced before even though it appears to be new",
+      "a phenomenon in which an unfamiliar place, conversation, or event feels strangely familiar",
+      "a sense that circumstances closely resembling an earlier event are recurring",
+      "a repetition of a familiar pattern in politics, economics, work, or another field",
+      "a feeling of familiarity whose specific source in memory cannot be identified"
+    ]
+  },
+  "nuance": {
+    "ja": "厳密な意味での déjà vu は、現在の状況を実際には以前経験していないはずなのに、経験済みだと感じる主観的な既知感を指す。具体的な過去の出来事を正しく思い出すこととは異なる。日常語では意味が広がり、以前とよく似た会議・失敗・政治状況などが本当に繰り返された場合にも使われる。I’m getting déjà vu は「この場面、前にもあったような気がする」という自然な表現である。通常は一時的であり、déjà vu を経験したというだけで記憶障害を意味するわけではない。",
+    "en": "In its strict sense, déjà vu is a subjective feeling that a present situation has already been experienced even when it should be new. It differs from accurately recalling a specific earlier event. In everyday use, the expression is broader and may describe a meeting, mistake, political development, or other situation that genuinely repeats an earlier pattern. I’m getting déjà vu naturally means that the present scene feels as though it has happened before. An occasional experience of déjà vu does not by itself imply a memory disorder."
+  },
+  "minimal": {
+    "ja": [
+      "déjà vu：初めての状況を以前にも経験したと感じる既視感。または同じ展開が繰り返される感覚。",
+      "familiarity：人・物・状況を知っている、または見慣れているという一般的な感覚。",
+      "recollection：過去の出来事・情報を意識的に思い出すこと。",
+      "flashback：過去の出来事、特に強烈な体験を突然追体験すること。",
+      "repetition：同じ行為・出来事・形式が再び起こること。",
+      "reminiscence：過去の経験を懐かしく思い出すこと、またはその思い出。",
+      "jamais vu：よく知っている物事が突然見知らぬものに感じられる現象。",
+      "premonition：将来起こる出来事を事前に感じ取ったと思う予感。"
+    ],
+    "en": [
+      "déjà vu is a feeling that a new situation has been experienced before or that an earlier pattern is repeating.",
+      "familiarity is the general quality or feeling of knowing or recognizing someone or something.",
+      "recollection is the conscious retrieval of a particular past event or piece of information.",
+      "a flashback is a sudden and vivid reexperiencing of an earlier event, often a distressing one.",
+      "repetition is the actual recurrence of the same action, event, or form.",
+      "reminiscence is the act of remembering and often fondly discussing past experiences.",
+      "jamais vu is the experience of something familiar suddenly seeming strange or unknown.",
+      "a premonition is a feeling that a particular event will occur in the future."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語 déjà vu をそのまま借用した表現で、déjà は「すでに」、vu は動詞 voir「見る」の過去分詞で「見られた」を意味する。したがって、文字どおりには「すでに見たもの」である。フランスの心理研究者エミール・ブワラックが19世紀後半にこの表現を心理現象の名称として用い、その後、英語を含む多数の言語へ広まった。現在の英語では、厳密な心理現象だけでなく、過去と同じ状況が繰り返されることの比喩としても一般的に使われる。",
+    "en": "Déjà vu was borrowed directly from French. Déjà means already, while vu is the past participle of voir, to see, so the expression literally means already seen. The French psychical researcher Émile Boirac used the term for the psychological phenomenon in the late nineteenth century, after which it spread into English and many other languages. English now uses it both for the specific sensation of false familiarity and figuratively for the repetition of an earlier situation or pattern."
+  },
+  "synonyms": [
+    {
+      "word": "sense of familiarity",
+      "note": {
+        "ja": "人・場所・状況などを以前から知っているように感じることを表す、中立的で説明的な表現。",
+        "en": "A neutral descriptive expression for feeling that a person, place, or situation is already known."
+      }
+    },
+    {
+      "word": "false familiarity",
+      "note": {
+        "ja": "実際の明確な記憶がないのに、対象を知っていると感じること。",
+        "en": "A feeling of recognizing something despite the absence of a clear corresponding memory."
+      }
+    },
+    {
+      "word": "recurrence",
+      "note": {
+        "ja": "出来事・問題・症状などが実際に再び起こること。",
+        "en": "The actual return or repetition of an event, problem, or condition."
+      }
+    },
+    {
+      "word": "repetition",
+      "note": {
+        "ja": "同じ出来事・行為・展開などが再び生じることを広く表す。",
+        "en": "The broad recurrence of the same event, action, wording, or pattern."
+      }
+    },
+    {
+      "word": "echo of the past",
+      "note": {
+        "ja": "現在の状況に過去の出来事の影響・類似性が感じられることを表す比喩。",
+        "en": "A figurative expression for a present situation that resembles or retains the influence of an earlier event."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Déjà-vu / Déjà-vu-Erlebnis",
+    "it": "déjà-vu / sensazione di aver già vissuto qualcosa",
+    "fr": "déjà-vu / impression de déjà-vu",
+    "es": "déjà vu / sensación de haber vivido algo antes"
+  },
+  "collocations": {
+    "ja": [
+      "experience déjà vu — 既視感を経験する",
+      "have déjà vu — 既視感を覚える",
+      "get déjà vu — 既視感を覚える",
+      "a feeling of déjà vu — 既視感",
+      "a sense of déjà vu — 以前にもあったという感覚",
+      "a strong sensation of déjà vu — 強烈な既視感",
+      "an eerie sense of déjà vu — 不気味な既視感",
+      "a strange case of déjà vu — 奇妙な既視感の経験",
+      "give someone déjà vu — 人に既視感を抱かせる",
+      "political déjà vu — 政治上の同じ展開の繰り返し",
+      "economic déjà vu — 過去と同じような経済状況",
+      "déjà vu all over again — またもや同じことの繰り返し"
+    ],
+    "en": [
+      "experience déjà vu",
+      "have déjà vu",
+      "get déjà vu",
+      "a feeling of déjà vu",
+      "a sense of déjà vu",
+      "a strong sensation of déjà vu",
+      "an eerie sense of déjà vu",
+      "a strange case of déjà vu",
+      "give someone déjà vu",
+      "political déjà vu",
+      "economic déjà vu",
+      "déjà vu all over again"
+    ]
+  },
+  "example": {
+    "ja": [
+      "As I entered the room, I had a strange feeling of déjà vu. — その部屋に入ったとき、奇妙な既視感を覚えました。",
+      "Although I had never visited the town before, every street gave me déjà vu. — その町を訪れたことは一度もなかったのに、どの通りにも既視感がありました。",
+      "Listening to the same argument again gave everyone a sense of déjà vu. — 同じ議論を再び聞いて、全員がまたかという感覚を抱きました。",
+      "The renewed financial crisis produced an unsettling feeling of economic déjà vu. — 再び起きた金融危機は、過去の再現のような不安な感覚をもたらしました。",
+      "The second opposition proceeding felt like déjà vu because the parties raised almost exactly the same trademark arguments. — 二度目の異議申立手続では、当事者がほぼ同じ商標上の主張を行ったため、以前の繰り返しのように感じられました。"
+    ],
+    "en": [
+      "As I entered the room, I had a strange feeling of déjà vu.",
+      "Although I had never visited the town before, every street gave me déjà vu.",
+      "Listening to the same argument again gave everyone a sense of déjà vu.",
+      "The renewed financial crisis produced an unsettling feeling of economic déjà vu.",
+      "The second opposition proceeding felt like déjà vu because the parties raised almost exactly the same trademark arguments."
+    ]
+  }
 }
 ]
