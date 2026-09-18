@@ -8114,5 +8114,619 @@
       "The firefighters rescued a resident who was suffocating from the smoke."
     ]
   }
+},
+{
+  "id": "accounting",
+  "sid": "2026-01682",
+  "word": "accounting",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "gerund",
+    "finance",
+    "bookkeeping",
+    "financial statements",
+    "business",
+    "management",
+    "audit",
+    "tax",
+    "explanation",
+    "calculation",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / gerund",
+    "countability": "normally uncountable",
+    "plural": "not normally used",
+    "forms": {
+      "base": "accounting",
+      "verb": "account",
+      "third_person": "accounts",
+      "past": "accounted",
+      "past_participle": "accounted",
+      "gerund": "accounting",
+      "person_noun": "accountant",
+      "related_noun": "account",
+      "related_adjective": "accounting"
+    },
+    "transitivity": "not applicable as a noun; intransitive in the phrasal verb account for",
+    "patterns": [
+      "accounting for + noun",
+      "financial / management / tax accounting",
+      "an accounting system",
+      "an accounting method",
+      "an accounting standard",
+      "an accounting firm",
+      "an accounting department",
+      "study / practice accounting",
+      "work in accounting",
+      "be responsible for accounting",
+      "provide an accounting of + noun",
+      "demand a full accounting of + noun"
+    ],
+    "usage": {
+      "uncountable": "Accounting is normally uncountable when it means the activity, profession, or academic subject: She works in accounting.",
+      "attributive": "It frequently modifies another noun in compounds such as accounting system, accounting firm, and accounting standard.",
+      "profession": "Accounting is broader than bookkeeping and includes classification, analysis, interpretation, and reporting as well as recording transactions.",
+      "accounting_of": "An accounting of something means a detailed explanation, calculation, or report concerning it and ordinarily requires an article.",
+      "account_for": "In accounting for, accounting is the gerund of the phrasal verb account for and may mean explaining something or constituting a particular amount.",
+      "person": "An accountant is a person who prepares, examines, or advises on financial records; accounting does not refer to the person.",
+      "spelling": "Accounting has two consecutive c letters because the suffix -ing is added to account: account + ing."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈkaʊntɪŋ/",
+      "uk": "/əˈkaʊntɪŋ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "企業・組織の取引を記録・分類・集計し、財務情報を作成する会計",
+      "財務状況や経営成績を分析・報告する専門業務または学問分野",
+      "会計処理に用いられる制度・原則・方法",
+      "資金・財産・行為などについての詳細な計算・報告",
+      "出来事・結果などについての詳しい説明",
+      "account for の動名詞として、原因を説明すること、または全体の一部を占めること"
+    ],
+    "en": [
+      "the recording, classification, and summarization of an organization’s financial transactions",
+      "the profession or academic field concerned with analyzing and reporting financial information",
+      "a system, principle, or method used in preparing financial records and statements",
+      "a detailed calculation or report concerning money, property, conduct, or other matters",
+      "a detailed explanation of an event, result, or course of action",
+      "as the gerund of account for, the act of explaining something or constituting a particular proportion"
+    ]
+  },
+  "nuance": {
+    "ja": "accounting は、単に入出金を記録するだけでなく、取引の分類、決算書の作成、業績の分析、税務、監査対応などを含む広い概念である。bookkeeping は主として日々の取引を正確に記録する実務を指し、通常は accounting の一部と位置付けられる。financial accounting は株主・債権者など外部の利用者に向けた財務報告、management accounting は経営者による内部の意思決定を支援する情報の作成に重点を置く。an accounting of の形では、会計に限らず、資金の使途や出来事についての詳細な報告・説明を意味する。また、accounting for は account for の動名詞形であり、「説明すること」または「一定の割合を占めること」を表す。",
+    "en": "Accounting is broader than merely recording money received and spent. It can include classifying transactions, preparing financial statements, analyzing performance, dealing with taxation, and supporting audits. Bookkeeping primarily concerns the accurate recording of daily transactions and is ordinarily treated as one part of accounting. Financial accounting focuses on reports for external users such as shareholders and creditors, whereas management accounting produces information for internal decision-making. In the expression an accounting of, the word can mean a detailed report or explanation rather than financial accounting. Accounting for is also the gerund form of account for and can describe explaining a result or constituting a proportion of a total."
+  },
+  "minimal": {
+    "ja": [
+      "accounting：取引を記録・分類・分析し、財務情報を作成・報告する会計活動。",
+      "bookkeeping：日々の取引・入出金を帳簿へ正確に記録する実務。",
+      "accountancy：会計士の職業または会計という専門分野。特にイギリス英語で一般的。",
+      "finance：資金の調達・運用・投資・管理に関する、会計より広い分野。",
+      "auditing：財務記録や統制が正確・適切であるかを独立した立場から検証すること。",
+      "account：個別の取引記録、口座、計算書、または出来事についての説明。",
+      "accountant：会計記録の作成・検査・助言などを行う専門家。",
+      "account for：出来事の理由を説明する、または全体の一定割合を占める。"
+    ],
+    "en": [
+      "accounting is the process of recording, classifying, analyzing, and reporting financial information.",
+      "bookkeeping is the practical activity of accurately recording daily transactions and payments.",
+      "accountancy is the profession or specialized field of accounting and is especially common in British English.",
+      "finance is the broader field concerned with obtaining, investing, managing, and using money.",
+      "auditing is the independent examination of financial records and controls for accuracy and compliance.",
+      "an account may be a financial record, an arrangement with an institution, a statement, or a description of events.",
+      "an accountant is a professional who prepares, examines, or advises on financial records.",
+      "account for means explaining a fact or result or constituting a particular part of a total."
+    ]
+  },
+  "etymology": {
+    "ja": "accounting は動詞 account に -ing を付けた語である。account は古フランス語 aconter「数える、計算する、説明する」を経て英語に入り、その基礎にはラテン語 computare「計算する」がある。computare は com-「共に、完全に」と putare「計算する、評価する」から成る。金銭を数えて記録する意味と、出来事を順序立てて説明する意味がともに発達したため、現代の accounting にも「会計」と「詳細な報告・説明」という関連した用法が残っている。",
+    "en": "Accounting is formed from the verb account and the suffix -ing. Account entered English through Old French aconter, meaning to count, calculate, or relate, and is ultimately connected with Latin computare, to calculate. Computare was formed from com-, together or thoroughly, and putare, to calculate or assess. The ideas of calculating and recording money and of giving an ordered explanation developed alongside each other, which accounts for the modern uses of accounting in both finance and detailed reporting."
+  },
+  "synonyms": [
+    {
+      "word": "bookkeeping",
+      "note": {
+        "ja": "日々の金銭取引を帳簿へ記録する作業であり、accounting より範囲が狭い。",
+        "en": "The recording of daily financial transactions, generally narrower in scope than accounting."
+      }
+    },
+    {
+      "word": "accountancy",
+      "note": {
+        "ja": "会計という専門分野・職業を表し、特にイギリス英語でよく使われる。",
+        "en": "The professional field or practice of accounting, especially common in British English."
+      }
+    },
+    {
+      "word": "financial reporting",
+      "note": {
+        "ja": "財務諸表などを通じて、組織の財務情報を外部・内部の利用者へ報告すること。",
+        "en": "The communication of an organization’s financial information through statements and related reports."
+      }
+    },
+    {
+      "word": "calculation",
+      "note": {
+        "ja": "数値を用いて金額・割合・結果などを算出すること。",
+        "en": "The process of using numerical information to determine an amount, proportion, or result."
+      }
+    },
+    {
+      "word": "report",
+      "note": {
+        "ja": "金銭・活動・出来事などについて整理された情報を伝える文書または説明。",
+        "en": "An organized written or spoken presentation of information about finances, conduct, or events."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Rechnungswesen / Buchhaltung / Rechenschaft",
+    "it": "contabilità / rendiconto",
+    "fr": "comptabilité / compte rendu",
+    "es": "contabilidad / rendición de cuentas"
+  },
+  "collocations": {
+    "ja": [
+      "financial accounting — 財務会計",
+      "management accounting — 管理会計",
+      "tax accounting — 税務会計",
+      "cost accounting — 原価計算",
+      "forensic accounting — 法廷会計・不正調査会計",
+      "an accounting system — 会計システム",
+      "an accounting method — 会計処理方法",
+      "accounting standards — 会計基準",
+      "an accounting firm — 会計事務所",
+      "an accounting department — 経理部門",
+      "work in accounting — 会計・経理の仕事に就く",
+      "provide a full accounting of the funds — 資金について完全な収支報告を行う"
+    ],
+    "en": [
+      "financial accounting",
+      "management accounting",
+      "tax accounting",
+      "cost accounting",
+      "forensic accounting",
+      "an accounting system",
+      "an accounting method",
+      "accounting standards",
+      "an accounting firm",
+      "an accounting department",
+      "work in accounting",
+      "provide a full accounting of the funds"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company introduced a new accounting system to record its international transactions. — その会社は国際取引を記録するため、新しい会計システムを導入した。",
+      "She studied accounting before joining an auditing firm. — 彼女は監査法人へ入る前に会計学を学んだ。",
+      "The change in accounting methods significantly affected the reported profit. — 会計処理方法の変更は、報告された利益に大きな影響を与えた。",
+      "The directors were required to provide a full accounting of how the funds had been used. — 取締役らは、資金がどのように使用されたかについて完全な収支報告を求められた。",
+      "The report offers a detailed accounting of the events leading to the dispute. — その報告書は、紛争に至った出来事について詳細な説明を示している。",
+      "Licensing revenue increased, accounting for nearly one-third of the company’s total income. — ライセンス収入が増加し、会社の総収入の約3分の1を占めた。"
+    ],
+    "en": [
+      "The company introduced a new accounting system to record its international transactions.",
+      "She studied accounting before joining an auditing firm.",
+      "The change in accounting methods significantly affected the reported profit.",
+      "The directors were required to provide a full accounting of how the funds had been used.",
+      "The report offers a detailed accounting of the events leading to the dispute.",
+      "Licensing revenue increased, accounting for nearly one-third of the company’s total income."
+    ]
+  }
+},
+{
+  "id": "accountant",
+  "sid": "2026-01683",
+  "word": "accountant",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "person",
+    "profession",
+    "accounting",
+    "finance",
+    "bookkeeping",
+    "tax",
+    "audit",
+    "financial statements",
+    "business",
+    "forensic accounting",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "accountants",
+    "forms": {
+      "singular": "accountant",
+      "plural": "accountants",
+      "field": "accounting / accountancy",
+      "related_noun": "account",
+      "related_verb": "account",
+      "related_adjective": "accounting"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an accountant",
+      "a qualified / certified accountant",
+      "a public / private accountant",
+      "a tax / management / forensic accountant",
+      "work as an accountant",
+      "train / qualify as an accountant",
+      "consult / hire an accountant",
+      "ask an accountant for advice",
+      "an accountant at / for + organization",
+      "the company’s accountant",
+      "a firm of accountants",
+      "accountant’s fees"
+    ],
+    "usage": {
+      "article": "As a singular countable noun, accountant normally requires an article or another determiner: an accountant or our accountant.",
+      "article_pronunciation": "Use an before accountant because the word begins with a vowel sound.",
+      "scope": "An accountant prepares, examines, analyzes, or advises on financial records and may specialize in taxation, auditing, management, or investigations.",
+      "bookkeeper": "An accountant normally performs a broader analytical or professional role than a bookkeeper, although their duties may overlap.",
+      "qualifications": "Professional titles, qualifications, licensing requirements, and permitted activities vary by jurisdiction.",
+      "possessive": "The singular possessive is accountant’s, while the plural possessive is accountants’.",
+      "spelling": "The correct spelling is accountant, with two consecutive c letters: account + ant."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈkaʊntənt/",
+      "uk": "/əˈkaʊntənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "企業・組織・個人の会計記録を作成・管理する会計担当者",
+      "財務諸表を作成・分析し、財務状況について助言する会計専門家",
+      "税額の計算、税務申告、税務上の助言を行う税務会計の専門家",
+      "一定の資格を持ち、会計・監査などの専門業務を行う会計士",
+      "不正・横領・損害額などを財務記録から調査する専門家"
+    ],
+    "en": [
+      "a person who prepares or maintains the financial records of a business, organization, or individual",
+      "a financial professional who prepares and analyzes statements and advises on financial matters",
+      "a specialist who calculates tax, prepares tax returns, or provides tax advice",
+      "a professionally qualified person authorized to perform particular accounting or auditing services",
+      "a specialist who investigates fraud, embezzlement, damages, or disputes through financial records"
+    ]
+  },
+  "nuance": {
+    "ja": "accountant は単なる「計算をする人」ではなく、取引の分類、財務諸表の作成・分析、税務、監査、内部統制などを扱う会計専門職または会計担当者を指す。bookkeeper は主として日々の取引を帳簿へ記録する人であり、accountant はその記録を基に分析・報告・助言まで行うことが多い。ただし、小規模な組織では両者の業務が重なることもある。日本語では文脈に応じて「会計士」「経理担当者」「税理士」などと訳されるが、英語の accountant が常に日本の公認会計士または税理士の資格を意味するわけではない。資格の名称と業務範囲は法域によって異なるため、正確な資格を示す場合は certified public accountant、chartered accountant、tax accountant などの名称を確認する必要がある。",
+    "en": "An accountant is not merely someone who performs calculations. The term describes a professional or employee who deals with such matters as classifying transactions, preparing and analyzing financial statements, taxation, auditing, or internal controls. A bookkeeper primarily records daily transactions, whereas an accountant more often uses those records for analysis, reporting, and advice, although the roles can overlap in smaller organizations. Accountant is a general occupational term and does not by itself guarantee a particular professional license. Titles such as certified public accountant, chartered accountant, and tax accountant have meanings and requirements that vary among jurisdictions."
+  },
+  "minimal": {
+    "ja": [
+      "accountant：会計記録の作成・分析、税務、監査、財務上の助言などを行う専門家・担当者。",
+      "bookkeeper：日々の取引・入出金を帳簿へ記録する人。",
+      "auditor：財務諸表・会計記録・内部統制などを検査する監査人。",
+      "CPA：所定の試験・要件を満たした米国などの公認会計士。",
+      "chartered accountant：英国その他の国で専門団体の資格を得た勅許会計士。",
+      "tax accountant：税額計算・申告・税務助言を専門とする会計担当者。",
+      "accounting clerk：定型的な会計記録・請求・支払処理などを担当する事務職員。",
+      "financial adviser：投資・資産形成・保険などについて助言する専門家で、accountant とは役割が異なる。"
+    ],
+    "en": [
+      "an accountant prepares, analyzes, or advises on financial records, taxation, auditing, or related matters.",
+      "a bookkeeper records daily transactions, payments, and receipts.",
+      "an auditor examines financial statements, accounting records, and internal controls.",
+      "a CPA is a certified public accountant who has satisfied specified professional requirements in a relevant jurisdiction.",
+      "a chartered accountant is a professional accountant qualified through a chartered accountancy body.",
+      "a tax accountant specializes in tax calculations, returns, compliance, and advice.",
+      "an accounting clerk performs routine work involving records, invoices, payments, or other accounting documents.",
+      "a financial adviser primarily advises on investments, financial planning, or insurance and has a different role from an accountant."
+    ]
+  },
+  "etymology": {
+    "ja": "accountant は account に、人や行為者を表す語尾 -ant が付いて成立した。account は古フランス語 aconter「数える、計算する、説明する」を経て英語に入り、最終的にはラテン語 computare「計算する」に関係する。accountant はもともと勘定を計算・記録する人を表し、商業活動と会計制度の発達に伴って、財務記録の作成・検査・分析を担う専門職を指すようになった。古い英語では accomptant のような綴りも見られたが、現在の標準綴りは accountant である。",
+    "en": "Accountant was formed from account with the agent-forming ending -ant. Account entered English through Old French aconter, meaning to count, calculate, or explain, and is ultimately connected with Latin computare, to calculate. Accountant originally denoted a person who calculated or maintained accounts. As commerce and formal accounting systems developed, it came to designate a professional responsible for preparing, examining, analyzing, or advising on financial records. Historical spellings included forms such as accomptant, but accountant is now standard."
+  },
+  "synonyms": [
+    {
+      "word": "bookkeeper",
+      "note": {
+        "ja": "主として日々の取引を記録する人で、通常は accountant より業務範囲が限定される。",
+        "en": "A person primarily responsible for recording daily transactions, normally with a narrower role than an accountant."
+      }
+    },
+    {
+      "word": "auditor",
+      "note": {
+        "ja": "財務情報や業務手続が正確で基準に適合しているかを検査する人。",
+        "en": "A person who examines financial information and procedures for accuracy and compliance."
+      }
+    },
+    {
+      "word": "CPA",
+      "note": {
+        "ja": "米国などで所定の資格要件を満たした certified public accountant の略称。",
+        "en": "An abbreviation for certified public accountant, a regulated professional title in relevant jurisdictions."
+      }
+    },
+    {
+      "word": "financial controller",
+      "note": {
+        "ja": "企業内で会計処理・財務報告・内部統制を統括する管理職。",
+        "en": "A senior employee who oversees an organization’s accounting, financial reporting, and internal controls."
+      }
+    },
+    {
+      "word": "accounting professional",
+      "note": {
+        "ja": "資格の種類を限定せず、会計分野で専門的業務を行う人を表す一般的な表現。",
+        "en": "A general expression for a person performing specialized work in accounting without specifying a qualification."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Buchhalter / Buchhalterin / Rechnungsprüfer",
+    "it": "contabile / commercialista",
+    "fr": "comptable / expert-comptable",
+    "es": "contable / contador"
+  },
+  "collocations": {
+    "ja": [
+      "a qualified accountant — 有資格の会計士",
+      "a certified accountant — 認定資格を持つ会計士",
+      "a public accountant — 公共向けに会計サービスを提供する会計士",
+      "a management accountant — 管理会計担当者",
+      "a tax accountant — 税務会計の専門家",
+      "a forensic accountant — 法廷会計・不正調査の専門家",
+      "the company’s accountant — 会社の会計担当者",
+      "work as an accountant — 会計士・会計担当者として働く",
+      "qualify as an accountant — 会計士資格を取得する",
+      "hire an accountant — 会計士を雇う",
+      "consult an accountant — 会計士に相談する",
+      "a firm of accountants — 会計士事務所"
+    ],
+    "en": [
+      "a qualified accountant",
+      "a certified accountant",
+      "a public accountant",
+      "a management accountant",
+      "a tax accountant",
+      "a forensic accountant",
+      "the company’s accountant",
+      "work as an accountant",
+      "qualify as an accountant",
+      "hire an accountant",
+      "consult an accountant",
+      "a firm of accountants"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The company hired an accountant to prepare its annual financial statements. — その会社は年次財務諸表を作成するため、会計士を雇った。",
+      "Our accountant advised us to keep detailed records of every business expense. — 当社の会計担当者は、すべての事業経費について詳細な記録を残すよう助言した。",
+      "You should consult a tax accountant before completing the transaction. — その取引を完了する前に、税務会計の専門家へ相談した方がよい。",
+      "She qualified as an accountant after completing the required training and examinations. — 彼女は必要な研修と試験を終え、会計士資格を取得した。",
+      "A forensic accountant traced the missing funds through a series of related companies. — 法廷会計の専門家は、複数の関連会社を通じて消えた資金を追跡した。",
+      "The accountant calculated the royalty payable under the trademark license agreement. — 会計士は、商標ライセンス契約に基づいて支払うべきロイヤルティーを算定した。"
+    ],
+    "en": [
+      "The company hired an accountant to prepare its annual financial statements.",
+      "Our accountant advised us to keep detailed records of every business expense.",
+      "You should consult a tax accountant before completing the transaction.",
+      "She qualified as an accountant after completing the required training and examinations.",
+      "A forensic accountant traced the missing funds through a series of related companies.",
+      "The accountant calculated the royalty payable under the trademark license agreement."
+    ]
+  }
+},
+{
+  "id": "substantive",
+  "sid": "2026-01684",
+  "word": "substantive",
+  "level": "C1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "substance",
+    "importance",
+    "content",
+    "law",
+    "procedure",
+    "patent",
+    "trademark",
+    "examination",
+    "negotiation",
+    "grammar",
+    "formal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / noun",
+    "countability": "countable as a noun, chiefly in grammar",
+    "plural": "substantives",
+    "forms": {
+      "adjective": "substantive",
+      "comparative": "more substantive",
+      "superlative": "most substantive",
+      "noun": "substance",
+      "adverb": "substantively",
+      "related_adjective": "substantial"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a substantive + issue / question / objection",
+      "substantive law / rights",
+      "substantive examination",
+      "a substantive amendment / change",
+      "a substantive discussion / response",
+      "substantive evidence",
+      "substantive progress",
+      "substantive in nature",
+      "be substantively different from + noun",
+      "deal with something substantively",
+      "on substantive grounds",
+      "procedural rather than substantive"
+    ],
+    "usage": {
+      "core_meaning": "Substantive describes something concerned with real content, essential matters, or actual rights rather than form, appearance, or procedure.",
+      "importance": "It can describe a contribution, discussion, response, or change that has meaningful content and practical significance.",
+      "law": "Substantive law defines rights, duties, liabilities, and offenses, whereas procedural law governs how those rules are administered or enforced.",
+      "intellectual_property": "In patent and trademark practice, substantive examination considers whether an application satisfies legal requirements for protection rather than merely formal filing requirements.",
+      "comparison": "Substantive and substantial overlap in some contexts, but substantive emphasizes meaningful content, while substantial commonly emphasizes size, amount, extent, or importance.",
+      "grammar_noun": "As a technical noun in grammar, substantive traditionally means a noun or a word functioning as a noun.",
+      "pronunciation": "The final syllable is pronounced /tɪv/; the word does not end with the sound of five."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsʌbstəntɪv/",
+      "uk": "/ˈsʌbstəntɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "形式・外見・手続ではなく、問題の本質や実質的内容に関する",
+      "内容が充実しており、重要性・意味・実効性を持つ",
+      "法律上の権利・義務・責任そのものを定める実体的な",
+      "特許・商標などの保護要件を実質的に判断する",
+      "変更・相違などが単なる表現上のものではなく、内容や効果に影響する",
+      "文法上、名詞または名詞として機能する語を表す"
+    ],
+    "en": [
+      "concerned with the essential content or reality of a matter rather than its form or procedure",
+      "having meaningful, important, or practically useful content",
+      "in law, defining actual rights, duties, liabilities, or offenses",
+      "in intellectual property, involving examination of the legal requirements for obtaining protection",
+      "for a change or difference, affecting content, meaning, rights, or practical effect rather than wording alone",
+      "in grammar, relating to a noun or a word functioning as a noun"
+    ]
+  },
+  "nuance": {
+    "ja": "substantive の中心は、「形式ではなく中身に関わる」という対比にある。a substantive discussion は、単に長い会話ではなく、重要な論点について中身のある議論が行われたことを示す。法律では substantive law「実体法」と procedural law「手続法」が対を成し、前者は権利・義務・犯罪・責任の内容を定め、後者はそれらを裁判や行政手続で実現する方法を定める。知的財産実務における substantive examination は、書類形式の確認だけでなく、新規性・進歩性・識別力などの保護要件を審査することをいう。substantial と混同されやすいが、substantial は主として量・程度・重要性が大きいこと、substantive は内容が実質的であることに重点を置く。",
+    "en": "The central contrast expressed by substantive is between content and form. A substantive discussion is not merely a long discussion; it addresses important issues in a meaningful way. In law, substantive law is contrasted with procedural law: the former defines rights, duties, offenses, and liabilities, while the latter governs the mechanisms used to enforce or adjudicate them. In intellectual property practice, substantive examination goes beyond checking formal documents and considers requirements such as novelty, inventive step, or distinctiveness. Substantive is often confused with substantial. Substantial primarily emphasizes considerable size, amount, degree, or importance, whereas substantive emphasizes meaningful content or an effect on the essence of a matter."
+  },
+  "minimal": {
+    "ja": [
+      "substantive：形式・手続ではなく、本質的内容・権利・重要論点に関する。",
+      "substantial：量・規模・程度・重要性がかなり大きい。",
+      "procedural：手続・方法・進行上の規則に関する。",
+      "formal：所定の形式・外形・公式性に関する。",
+      "material：判断・結果・権利に影響するほど重要な。",
+      "essential：その物事の成立・機能に欠かせない、本質的な。",
+      "meaningful：明確な意味・価値・効果を持つ。",
+      "significant：無視できないほど重要・顕著である。"
+    ],
+    "en": [
+      "substantive concerns essential content, actual rights, or important issues rather than form or procedure.",
+      "substantial means considerable in amount, size, degree, or importance.",
+      "procedural concerns the rules, methods, or steps by which a matter is handled.",
+      "formal concerns prescribed form, outward structure, or official requirements.",
+      "material describes something important enough to affect a decision, result, or legal right.",
+      "essential describes something fundamentally necessary to the nature or operation of a thing.",
+      "meaningful describes something having genuine meaning, value, or practical effect.",
+      "significant describes something sufficiently important or noticeable to deserve attention."
+    ]
+  },
+  "etymology": {
+    "ja": "substantive は、後期ラテン語 substantivus「実体を持つ、本質に関する」に由来し、ラテン語 substantia「実体、本質、内容」と同じ語族に属する。substantia は sub-「下に」と stare「立つ」に由来し、文字どおりには物事を下から支えるもの、すなわちその基礎・実体を表した。そこから substantive は、外形・形式ではなく、物事を成り立たせる実質的内容に関するという意味を持つようになった。文法では、独立した実体を表す名詞または名詞相当語を指す用法も発達した。",
+    "en": "Substantive comes from Late Latin substantivus, meaning having substance or relating to essential nature, and belongs to the same word family as Latin substantia, substance or essence. Substantia is connected with sub-, under, and stare, to stand, conveying the idea of something underlying and supporting a thing. Substantive consequently came to describe matters involving actual content or essential reality rather than outward form. In grammar, it also developed a technical use for a noun or an expression functioning as a noun."
+  },
+  "synonyms": [
+    {
+      "word": "essential",
+      "note": {
+        "ja": "物事の本質を構成し、欠くことのできない性質・要素を表す。",
+        "en": "Describes a quality or element that forms part of the fundamental nature of something and cannot be omitted."
+      }
+    },
+    {
+      "word": "meaningful",
+      "note": {
+        "ja": "単なる形式ではなく、実際の意味・価値・効果を持つ。",
+        "en": "Describes something having genuine meaning, value, or effect rather than being merely formal."
+      }
+    },
+    {
+      "word": "material",
+      "note": {
+        "ja": "特に法律・契約で、判断・権利・結果に影響するほど重要な。",
+        "en": "Especially in law and contracts, sufficiently important to affect a decision, right, or outcome."
+      }
+    },
+    {
+      "word": "significant",
+      "note": {
+        "ja": "重要性・影響・規模などが無視できない。",
+        "en": "Important or influential enough that it cannot reasonably be disregarded."
+      }
+    },
+    {
+      "word": "fundamental",
+      "note": {
+        "ja": "制度・議論・物事の基礎を成し、その性質を左右する。",
+        "en": "Forming the foundation of a system, argument, or matter and determining its basic character."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "inhaltlich / materiell / substanziell",
+    "it": "sostanziale / sostantivo",
+    "fr": "substantiel / matériel",
+    "es": "sustantivo / sustancial / material"
+  },
+  "collocations": {
+    "ja": [
+      "a substantive issue — 実質的な問題",
+      "a substantive question — 本質的な問題・質問",
+      "a substantive objection — 実体的な異議・拒絶理由",
+      "substantive law — 実体法",
+      "substantive rights — 実体的権利",
+      "substantive examination — 実体審査",
+      "a substantive amendment — 実質的な補正・変更",
+      "a substantive difference — 実質的な相違",
+      "a substantive discussion — 中身のある議論",
+      "a substantive response — 実質的内容を伴う回答",
+      "substantive progress — 実質的な進展",
+      "on substantive grounds — 実体的な理由に基づいて"
+    ],
+    "en": [
+      "a substantive issue",
+      "a substantive question",
+      "a substantive objection",
+      "substantive law",
+      "substantive rights",
+      "substantive examination",
+      "a substantive amendment",
+      "a substantive difference",
+      "a substantive discussion",
+      "a substantive response",
+      "substantive progress",
+      "on substantive grounds"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The parties finally began substantive negotiations on the terms of the agreement. — 当事者らは、ようやく契約条件について実質的な交渉を開始した。",
+      "Her report was concise but contained several substantive recommendations. — 彼女の報告書は簡潔だったが、内容のある提言がいくつも含まれていた。",
+      "Substantive law determines the parties’ rights, while procedural law governs how those rights are enforced. — 実体法は当事者の権利を定め、手続法はその権利をどのように実現するかを規律する。",
+      "The patent application will undergo substantive examination after the request has been filed. — その特許出願は、審査請求後に実体審査を受ける。",
+      "The proposed amendment is substantive because it changes the scope of the claim. — 提案された補正は請求項の範囲を変更するため、実質的な補正である。",
+      "In traditional grammar, a substantive is a noun or another expression used as a noun. — 伝統文法において substantive は、名詞または名詞として用いられる別の表現を指す。"
+    ],
+    "en": [
+      "The parties finally began substantive negotiations on the terms of the agreement.",
+      "Her report was concise but contained several substantive recommendations.",
+      "Substantive law determines the parties’ rights, while procedural law governs how those rights are enforced.",
+      "The patent application will undergo substantive examination after the request has been filed.",
+      "The proposed amendment is substantive because it changes the scope of the claim.",
+      "In traditional grammar, a substantive is a noun or another expression used as a noun."
+    ]
+  }
 }
 ]
