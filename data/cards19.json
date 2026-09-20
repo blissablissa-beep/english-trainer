@@ -8728,5 +8728,194 @@
       "In traditional grammar, a substantive is a noun or another expression used as a noun."
     ]
   }
+},
+{
+  "id": "reductio-ad-absurdum",
+  "sid": "2026-01685",
+  "word": "reductio ad absurdum",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "noun",
+    "Latin expression",
+    "logic",
+    "argument",
+    "proof",
+    "contradiction",
+    "mathematics",
+    "philosophy",
+    "debate",
+    "legal reasoning",
+    "formal",
+    "academic"
+  ],
+  "grammar": {
+    "pos": "noun phrase",
+    "countability": "usually uncountable for the method; countable for an individual argument",
+    "plural": "reductio ad absurdums, rare",
+    "forms": {
+      "base": "reductio ad absurdum",
+      "short_form": "reductio",
+      "rare_plural": "reductio ad absurdums",
+      "english_equivalent": "reduction to absurdity"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "use reductio ad absurdum",
+      "a reductio ad absurdum",
+      "a reductio ad absurdum argument",
+      "a proof by reductio ad absurdum",
+      "argue by reductio ad absurdum",
+      "prove something by reductio ad absurdum",
+      "offer a reductio ad absurdum of + argument",
+      "present a reductio ad absurdum",
+      "the reductio ad absurdum of + position",
+      "carry an argument to its logical conclusion"
+    ],
+    "usage": {
+      "method": "As a method name, reductio ad absurdum is usually uncountable: use reductio ad absurdum.",
+      "individual_argument": "A reductio ad absurdum can refer to one particular argument using the method.",
+      "abbreviation": "In academic discussion, reductio can be used alone after the full term or the method is understood.",
+      "formal_logic": "In a proof, one assumes a proposition or its negation and derives a contradiction to reject that assumption.",
+      "broader_argument": "Outside formal proof, the phrase can describe showing that a position leads to an unacceptable or absurd consequence.",
+      "fair_representation": "The consequence must follow from the position actually under discussion; exaggerating or changing that position is not a sound reductio.",
+      "register": "The Latin phrase is formal. Proof by contradiction or showing that the argument leads to an absurd result is clearer for many audiences."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈdʌktioʊ æd əbˈsɝːdəm/",
+      "uk": "/rɪˈdʌktiəʊ æd əbˈsɜːdəm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "ある仮定から矛盾を導き、その仮定を退ける背理法",
+      "証明したい命題の否定を仮定し、矛盾を導いて元の命題を証明する方法",
+      "相手の主張を論理的に推し進め、受け入れ難い帰結を示して批判する論法",
+      "そのような方法を用いた個別の論証"
+    ],
+    "en": [
+      "a method of rejecting an assumption by deriving a contradiction from it",
+      "a method of proving a proposition by assuming its negation and deriving a contradiction",
+      "a way of challenging a position by showing that its implications lead to an unacceptable consequence",
+      "an individual argument employing such a method"
+    ]
+  },
+  "nuance": {
+    "ja": "reductio ad absurdum はラテン語で「不合理への還元」を意味する。数学や形式論理では、仮定から矛盾が導かれることを示す厳密な証明方法として使う。一般の議論では、ある立場を一貫して適用した場合に生じる、受け入れ難い結果を指摘することもある。この場合の「不合理」は必ずしも形式的な矛盾を意味しない。重要なのは、相手が実際に主張した内容から帰結を導くことである。相手の主張を極端な別の主張にすり替えて攻撃するなら、背理法ではなく straw man「藁人形論法」に近くなる。",
+    "en": "Reductio ad absurdum literally means reduction to absurdity. In mathematics and formal logic, it is a rigorous method involving a contradiction derived from an assumption. In broader argument, it may expose an unacceptable consequence of applying a position consistently; the consequence need not be a formal contradiction. The reasoning depends on accurately representing the original position and showing that the alleged consequence follows from it. Replacing that position with an exaggerated version would instead resemble a straw man argument."
+  },
+  "minimal": {
+    "ja": [
+      "reductio ad absurdum：仮定や主張を推し進め、矛盾または受け入れ難い帰結を示す論法。",
+      "proof by contradiction：命題の否定などを仮定し、矛盾を導いて証明する方法。",
+      "indirect proof：結論を直接示さず、別の仮定や経路を用いる証明。背理法を含み得る。",
+      "counterexample：一般的な主張が成り立たないことを示す具体的な反例。",
+      "contradiction：二つの命題が同時には真になれない関係、またはその状態。",
+      "logical consequence：前提が真なら論理的に導かれる帰結。",
+      "straw man：相手の主張を歪めた弱い形に置き換えて攻撃する誤った論法。",
+      "slippery slope：ある行為が一連の望ましくない結果につながると主張する論法。つながりの根拠が必要。"
+    ],
+    "en": [
+      "reductio ad absurdum rejects an assumption or position by deriving a contradiction or unacceptable consequence from it.",
+      "proof by contradiction establishes a proposition by deriving a contradiction from an opposing assumption.",
+      "an indirect proof reaches a conclusion through an alternative route rather than proving it directly.",
+      "a counterexample is a specific case showing that a general claim is false.",
+      "a contradiction occurs when claims cannot both be true in the same respect.",
+      "a logical consequence is a conclusion that follows from given premises.",
+      "a straw man misrepresents an opponent’s position and attacks the altered version.",
+      "a slippery slope argues that one step will lead to further undesirable outcomes; those connections need support."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 reductio ad absurdum をそのまま英語に取り入れた表現である。reductio は「戻すこと、導くこと」、ad は「〜へ」、absurdum は「不合理なもの」を意味し、全体で「不合理な結論へ導くこと」を表す。議論の対象となる仮定をたどり、矛盾や受け入れ難い結論に至ることを示す論法の名称となった。",
+    "en": "The expression was borrowed from Latin. Reductio refers to a leading or bringing back, ad means to or toward, and absurdum means an absurdity. Together, the phrase describes leading an assumption or position to an absurd result in order to challenge it."
+  },
+  "synonyms": [
+    {
+      "word": "proof by contradiction",
+      "note": {
+        "ja": "特に数学・形式論理で、反対の仮定から矛盾を導く証明方法。",
+        "en": "The usual mathematical term for proving a claim by deriving a contradiction from an opposing assumption."
+      }
+    },
+    {
+      "word": "reduction to absurdity",
+      "note": {
+        "ja": "reductio ad absurdum を英語に訳した表現。",
+        "en": "An English rendering of reductio ad absurdum."
+      }
+    },
+    {
+      "word": "indirect proof",
+      "note": {
+        "ja": "結論を直接証明せず、別の仮定から論証する方法を広く指す。",
+        "en": "A broader term for establishing a conclusion by a route other than a direct proof."
+      }
+    },
+    {
+      "word": "reductio",
+      "note": {
+        "ja": "reductio ad absurdum の省略形。論理学・哲学の議論で使われる。",
+        "en": "A shortened form commonly used when discussing this kind of argument."
+      }
+    },
+    {
+      "word": "argument by contradiction",
+      "note": {
+        "ja": "仮定から矛盾が生じることを示して結論を導く論証。",
+        "en": "An argument that reaches its conclusion by showing that an assumption produces a contradiction."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Widerspruchsbeweis / reductio ad absurdum",
+    "it": "dimostrazione per assurdo / reductio ad absurdum",
+    "fr": "raisonnement par l’absurde / réduction à l’absurde",
+    "es": "reducción al absurdo / demostración por contradicción"
+  },
+  "collocations": {
+    "ja": [
+      "use reductio ad absurdum — 背理法を用いる",
+      "argue by reductio ad absurdum — 帰謬法によって論じる",
+      "prove a claim by reductio ad absurdum — 背理法で命題を証明する",
+      "a proof by reductio ad absurdum — 背理法による証明",
+      "a reductio ad absurdum argument — 帰謬法を用いた論証",
+      "offer a reductio ad absurdum — 帰謬法による反論を提示する",
+      "a reductio ad absurdum of the proposal — 提案の帰結を突き詰めた反論",
+      "derive a contradiction — 矛盾を導く",
+      "assume the opposite — 反対の命題を仮定する",
+      "follow the argument to its logical conclusion — 議論を論理的帰結までたどる"
+    ],
+    "en": [
+      "use reductio ad absurdum",
+      "argue by reductio ad absurdum",
+      "prove a claim by reductio ad absurdum",
+      "a proof by reductio ad absurdum",
+      "a reductio ad absurdum argument",
+      "offer a reductio ad absurdum",
+      "a reductio ad absurdum of the proposal",
+      "derive a contradiction",
+      "assume the opposite",
+      "follow the argument to its logical conclusion"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The mathematician used reductio ad absurdum to prove that no smallest positive rational number exists. — その数学者は背理法を用いて、最小の正の有理数は存在しないと証明した。",
+      "Assume there is a smallest positive rational number; half of it would be smaller, which gives a reductio ad absurdum. — 最小の正の有理数があると仮定すると、その半分はさらに小さいため、背理法による反論が成立する。",
+      "Her reductio ad absurdum showed that the proposed rule would also prohibit conduct everyone regarded as harmless. — 彼女は帰謬法によって、その規則案が誰もが無害と考える行為まで禁止してしまうと示した。",
+      "The attorney used a reductio ad absurdum to question the opposing party’s interpretation of the claim. — 弁理士は帰謬法を用いて、相手方による請求項の解釈に疑問を呈した。",
+      "A reductio ad absurdum must follow from the actual argument; inventing a more extreme position is a straw man. — 帰謬法の結論は実際の主張から導かれなければならず、より極端な立場を作り出すのは藁人形論法である。"
+    ],
+    "en": [
+      "The mathematician used reductio ad absurdum to prove that no smallest positive rational number exists.",
+      "Assume there is a smallest positive rational number; half of it would be smaller, which gives a reductio ad absurdum.",
+      "Her reductio ad absurdum showed that the proposed rule would also prohibit conduct everyone regarded as harmless.",
+      "The attorney used a reductio ad absurdum to question the opposing party’s interpretation of the claim.",
+      "A reductio ad absurdum must follow from the actual argument; inventing a more extreme position is a straw man."
+    ]
+  }
 }
 ]
