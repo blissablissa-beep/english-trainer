@@ -15421,14 +15421,18 @@
     "verb",
     "relaxation",
     "stress",
+    "after work",
     "leisure",
+    "drink",
     "movement",
     "untangling",
     "reversal",
     "finance",
     "transaction",
     "contract",
+    "legal",
     "business",
+    "daily conversation",
     "general"
   ],
   "grammar": {
@@ -15441,27 +15445,32 @@
       "gerund": "unwinding",
       "adjective": "unwound"
     },
-    "transitivity": "transitive or intransitive depending on sense",
+    "transitivity": "intransitive in the sense 'relax'; transitive or intransitive in the physical sense; transitive when reversing a transaction or financial position",
     "patterns": [
       "unwind",
       "unwind after + noun",
+      "unwind after a long day",
       "unwind by + gerund",
       "unwind with + noun",
+      "unwind with a drink",
+      "unwind over + food / drink",
       "unwind from + stress / pressure",
       "help someone unwind",
-      "unwind a rope / cable / bandage",
-      "unwind from + object",
-      "unwind a transaction / position",
+      "unwind + rope / cable / thread / bandage",
+      "unwind something from + object",
+      "unwind a transaction / position / arrangement",
       "be difficult to unwind"
     ],
     "usage": {
-      "relaxation": "As an intransitive verb, unwind commonly means relax after a period of work, stress, or tension.",
-      "method": "By plus a gerund or with plus a noun can identify the means of relaxation: unwind by reading or unwind with a book.",
-      "physical": "As a transitive or intransitive verb, it can mean undoing something that has been wound around an object or formed into a coil.",
-      "finance": "In finance, unwind a position means reduce, reverse, or close an investment or trading position.",
-      "transaction": "Unwind a transaction or arrangement means reverse it or dismantle the legal and commercial relationships it created.",
+      "relaxation": "As an intransitive verb, unwind commonly means relaxing and releasing tension after work or another stressful activity.",
+      "method": "By plus a gerund or with plus a noun identifies the means of relaxation: unwind by reading or unwind with a drink.",
+      "alcohol": "Unwind with a drink means relax while having a drink. Unwind itself does not mean drink and does not necessarily involve alcohol.",
+      "physical": "As a transitive or intransitive verb, it can mean undoing something wound into a coil or around another object.",
+      "finance": "Unwind a position means reducing, reversing, or closing an investment or trading position.",
+      "transaction": "Unwind a transaction or arrangement means reversing or dismantling the legal and commercial relationships it created.",
+      "contract": "Unwind a contract may occur informally, but rescind, terminate, or cancel a contract is often more precise, depending on the intended legal effect.",
       "irregularity": "The past tense and past participle are unwound, not unwinded.",
-      "pronunciation": "Wind in unwind is pronounced /waɪnd/, and the past form unwound is pronounced /ˌʌnˈwaʊnd/."
+      "pronunciation": "Wind in unwind is pronounced /waɪnd/. The past form unwound is pronounced /ˌʌnˈwaʊnd/."
     }
   },
   "pronunciation": {
@@ -15489,34 +15498,34 @@
     ]
   },
   "nuance": {
-    "ja": "日常会話の unwind は、忙しい仕事や緊張の後で、読書・音楽・入浴などを通じて徐々にくつろぐことを表す。relax とほぼ同義だが、unwind には、張り詰めた状態が糸のように少しずつほどけていくイメージがある。物理的には、巻かれたロープ・糸・包帯などを逆方向に動かしてほどくことを意味する。金融では unwind a position が投資ポジションを縮小または決済することを表し、法律・商取引では unwind a transaction が、すでに実行された取引の効果を取り消し、可能な限り当事者を元の状態へ戻すことを意味し得る。後者の具体的な法的効果は、契約・救済手段・法域によって異なる。",
-    "en": "In everyday use, unwind means gradually relaxing after a demanding or stressful period, often by reading, listening to music, bathing, or engaging in another undemanding activity. It overlaps with relax, but unwind evokes tension slowly loosening like a coil. Physically, it means reversing the winding of rope, thread, a bandage, or similar material. In finance, unwind a position means reducing, reversing, or closing it. In legal and commercial contexts, unwind a transaction can mean reversing its effects and attempting to restore the parties to their earlier positions. The precise legal consequences depend on the contract, available remedy, and applicable jurisdiction."
+    "ja": "日常会話の unwind は、忙しい仕事や緊張の後で、張り詰めた状態から徐々に力が抜けてくつろぐことを表す。relax とほぼ同義だが、unwind には、巻かれて張った糸が少しずつほどけるようなイメージがある。映画で仕事帰りに酒を飲む場面なら unwind with a drink や have a drink to unwind が自然であり、「一杯飲んで気を休める」という意味になる。ただし、飲酒は unwind の語義そのものではなく、読書・散歩・音楽・入浴などでも unwind できる。物理的にはロープ・糸・包帯などを逆方向へほどくことを意味する。金融では unwind a position が投資ポジションを縮小・反転・決済することを表し、法律・商取引では unwind a transaction が、その取引によって生じた関係や効果を解消し、可能な限り当事者を元の状態へ戻すことを意味し得る。具体的な法的効果は、契約、救済手段、事実関係および法域によって異なる。",
+    "en": "In everyday use, unwind means gradually relaxing after a demanding or stressful period. It overlaps with relax but evokes the image of tension loosening like a wound thread. In a film scene involving a drink after work, unwind with a drink or have a drink to unwind naturally means relaxing over a drink. Alcohol is not part of the verb’s meaning; a person can also unwind by reading, walking, listening to music, or taking a bath. Physically, the verb means reversing the winding of rope, thread, a bandage, or similar material. In finance, unwind a position means reducing, reversing, or closing it. In legal and commercial contexts, unwind a transaction can mean reversing the relationships or effects it created and attempting to restore the parties to their earlier positions. The precise legal consequences depend on the contract, facts, available remedy, and applicable jurisdiction."
   },
   "minimal": {
     "ja": [
-      "unwind：緊張を徐々に解いてくつろぐ、巻かれた物をほどく、または取引を解消する。",
+      "unwind：緊張を徐々に解いてくつろぐ、巻かれた物をほどく、または取引・持ち高を解消する。",
       "relax：心身の緊張を解き、くつろいだ状態になる最も一般的な語。",
+      "wind down：活動の勢いを徐々に落として休む。また、事業などを段階的に終了する。",
       "take it easy：無理をせず休む、落ち着く、または物事をほどほどにする。",
       "decompress：強い仕事・心理的圧力の後で緊張を解く。",
-      "rest：活動を止め、体力・気力を回復させる。",
       "untangle：絡まった糸・問題・関係などを解きほぐす。",
-      "unravel：編み物・糸などをほどく、または複雑な問題を解明する。",
+      "unravel：編まれた物をほどく、または複雑な出来事・問題を解明する。",
       "reverse：決定・手続・取引などを反対方向へ戻し、その効果を取り消す。"
     ],
     "en": [
       "unwind means gradually relaxing, undoing something wound, or reversing a transaction or position.",
       "relax is the general verb for releasing physical or mental tension.",
+      "wind down means gradually reducing activity before rest or gradually closing an operation.",
       "take it easy means resting, remaining calm, or avoiding excessive effort.",
       "decompress means releasing tension after an intense period of work or psychological pressure.",
-      "rest means stopping activity in order to recover physical or mental energy.",
       "untangle means separating intertwined material or resolving a complicated problem or relationship.",
-      "unravel means undoing knitted or wound material or discovering the explanation for a complex matter.",
+      "unravel means undoing knitted material or discovering the explanation for a complex matter.",
       "reverse means changing a decision, process, or transaction in the opposite direction and canceling its effects."
     ]
   },
   "etymology": {
     "ja": "unwind は、反対の動作・状態への変化を表す接頭辞 un- と、古英語 windan「曲がる、ねじる、巻く」に由来する wind から成る。文字どおりには、巻かれた物に wind と反対の動作を加えて「ほどく」ことを意味する。そこから、糸やばねの張力が解けるように心身の緊張をほぐすという比喩的意味が生じた。さらに、複雑に組み立てられた投資ポジション・取引・契約関係を逆方向にたどって解消するという金融・商業上の用法へ広がった。",
-    "en": "Unwind combines the reversing prefix un- with wind, from Old English windan, meaning to turn, twist, or coil. Its literal meaning is therefore to perform the opposite of winding and release something from a coiled or wrapped state. This physical image produced the figurative sense of releasing mental or bodily tension. The same idea was later extended to finance and commerce, where a position, transaction, or arrangement can be dismantled by reversing the steps or relationships through which it was created."
+    "en": "Unwind combines the reversing prefix un- with wind, from Old English windan, meaning to turn, twist, or coil. Its literal meaning is to perform the opposite of winding and release something from a coiled or wrapped state. This physical image produced the figurative sense of releasing mental or bodily tension. The same idea was extended to finance and commerce, where a position, transaction, or arrangement can be dismantled by reversing the steps or relationships through which it was created."
   },
   "synonyms": [
     {
@@ -15527,10 +15536,17 @@
       }
     },
     {
+      "word": "wind down",
+      "note": {
+        "ja": "活動を徐々に減らし、休息または終了へ向かうことを強調する。",
+        "en": "To gradually reduce activity and move toward rest or closure."
+      }
+    },
+    {
       "word": "decompress",
       "note": {
-        "ja": "強い緊張・仕事・心理的圧力の後で、時間をかけて気持ちを落ち着かせる。",
-        "en": "To gradually release tension after an intense period of work, stress, or psychological pressure."
+        "ja": "強い緊張・仕事・心理的圧力の後で気持ちを落ち着かせる。",
+        "en": "To release tension after an intense period of work, stress, or psychological pressure."
       }
     },
     {
@@ -15538,13 +15554,6 @@
       "note": {
         "ja": "絡まった糸・ロープ、または複雑な問題・関係を解きほぐす。",
         "en": "To separate tangled material or resolve a complicated problem or relationship."
-      }
-    },
-    {
-      "word": "unravel",
-      "note": {
-        "ja": "編まれた物をほどく、または複雑な出来事・問題を解明する。",
-        "en": "To undo knitted or intertwined material or discover the explanation for a complicated matter."
       }
     },
     {
@@ -15564,50 +15573,52 @@
   "collocations": {
     "ja": [
       "unwind after work — 仕事の後でくつろぐ",
+      "unwind after a long day — 長い一日の後に気を休める",
       "unwind at the end of the day — 一日の終わりに緊張をほぐす",
-      "unwind for a while — しばらくくつろぐ",
+      "unwind with a drink — 一杯飲んでくつろぐ",
+      "unwind over a glass of wine — ワインを飲みながらくつろぐ",
       "unwind by reading — 読書をしてくつろぐ",
-      "unwind with a book — 本を読みながらくつろぐ",
-      "help someone unwind — 人がくつろぐのを助ける",
+      "help someone unwind — 人の緊張をほぐす",
       "unwind a rope — ロープをほどく",
       "unwind a cable — 巻かれたケーブルを伸ばす",
       "unwind a bandage — 包帯をほどく",
-      "unwind a financial position — 金融ポジションを縮小・決済する",
-      "unwind a transaction — 取引を取り消し、または解消する",
-      "difficult to unwind — 元に戻したり解消したりするのが難しい"
+      "unwind a financial position — 金融ポジションを縮小・反転・決済する",
+      "unwind a transaction — 取引の関係・効果を解消する"
     ],
     "en": [
       "unwind after work",
+      "unwind after a long day",
       "unwind at the end of the day",
-      "unwind for a while",
+      "unwind with a drink",
+      "unwind over a glass of wine",
       "unwind by reading",
-      "unwind with a book",
       "help someone unwind",
       "unwind a rope",
       "unwind a cable",
       "unwind a bandage",
       "unwind a financial position",
-      "unwind a transaction",
-      "difficult to unwind"
+      "unwind a transaction"
     ]
   },
   "example": {
     "ja": [
-      "I usually listen to music to unwind after work. — 私は普段、仕事の後に音楽を聴いてくつろぎます。",
+      "After work, he stopped at a bar to unwind with a drink. — 仕事帰りに、彼は一杯飲んで気を休めるためバーに寄った。",
       "A warm bath helped her unwind after the long journey. — 温かい風呂のおかげで、彼女は長旅の後に緊張をほぐすことができた。",
       "He carefully unwound the rope from the post. — 彼は柱に巻かれていたロープを慎重にほどいた。",
+      "The fishing line began to unwind as the fish pulled away. — 魚が泳ぎ去ろうとすると、釣り糸がほどけ始めた。",
       "The fund began to unwind its position after the market declined. — そのファンドは市場の下落後、保有ポジションの縮小・決済を始めた。",
-      "The parties sought to unwind the licensing transaction after discovering that a key patent had already expired. — 重要な特許がすでに満了していたことが判明したため、当事者らはライセンス取引の解消を求めた。"
+      "The parties sought to unwind the licensing transaction after discovering that a key patent had already expired. — 重要な特許がすでに満了していたことが判明したため、当事者らはライセンス取引の関係と効果を解消しようとした。"
     ],
     "en": [
-      "I usually listen to music to unwind after work.",
+      "After work, he stopped at a bar to unwind with a drink.",
       "A warm bath helped her unwind after the long journey.",
       "He carefully unwound the rope from the post.",
+      "The fishing line began to unwind as the fish pulled away.",
       "The fund began to unwind its position after the market declined.",
       "The parties sought to unwind the licensing transaction after discovering that a key patent had already expired."
     ]
   }
-},
+}, 
 {
   "id": "willow",
   "sid": "2026-01569",
