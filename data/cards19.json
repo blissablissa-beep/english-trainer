@@ -9723,5 +9723,227 @@
       "Patents may create barriers to market entry, but they also disclose technical information to the public."
     ]
   }
-}
+},
+{
+  "id": "measure",
+  "sid": "2026-01690",
+  "word": "measure",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "measurement",
+    "quantity",
+    "degree",
+    "standard",
+    "action",
+    "policy",
+    "legislation",
+    "evaluation",
+    "music",
+    "business",
+    "legal",
+    "technology",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable in most noun senses; uncountable in some fixed expressions",
+    "plural": "measures",
+    "forms": {
+      "noun_singular": "measure",
+      "noun_plural": "measures",
+      "verb_base": "measure",
+      "third_person": "measures",
+      "past": "measured",
+      "past_participle": "measured",
+      "gerund": "measuring",
+      "noun_activity": "measurement",
+      "adjective": "measurable",
+      "opposite_adjective": "immeasurable"
+    },
+    "transitivity": "transitive or intransitive depending on sense",
+    "patterns": [
+      "measure + length / width / temperature",
+      "measure something in + unit",
+      "measure something against + standard",
+      "measure how + adjective / adverb",
+      "measure the effect / impact of + noun",
+      "measure + number / distance",
+      "measure something for + purpose",
+      "a measure of + noun",
+      "a measure of how + clause",
+      "take / adopt / introduce measures",
+      "a preventive / temporary / emergency measure",
+      "beyond measure",
+      "in equal measure"
+    ],
+    "usage": {
+      "verb_transitive": "As a transitive verb, measure means determining the size, amount, degree, or effect of something.",
+      "verb_intransitive": "As an intransitive verb, it states a dimension: The room measures five meters across.",
+      "unit": "Use in for the unit of measurement: Temperature is measured in degrees Celsius.",
+      "standard": "Measure something against a standard means evaluate it by comparison with that standard.",
+      "action_noun": "A measure can be an action taken to achieve a purpose, especially in formal, governmental, or business contexts.",
+      "plural_action": "In the action sense, the plural is especially common: take measures to prevent fraud.",
+      "degree_noun": "A measure of something can mean an amount, indication, or means of assessing it.",
+      "legislation": "In political contexts, a measure can mean a proposed or enacted law, particularly in American English.",
+      "music": "In music, a measure is a group of beats between two bar lines; British English commonly uses bar.",
+      "distinction": "Measurement usually names the process or resulting figure, while measure has broader senses including action, standard, and degree."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈmeʒər/",
+      "uk": "/ˈmeʒə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "物の長さ・幅・重量・温度などを測定する",
+      "効果・能力・重要性・程度などを評価する",
+      "物が特定の寸法・大きさを有する",
+      "量・程度・範囲、またはそれを示す指標",
+      "目的達成や問題解決のために取られる措置・対策",
+      "判断・比較・評価に用いる尺度・基準",
+      "特にアメリカ英語で、立法機関に提出された法案または法律上の措置",
+      "音楽で、二本の小節線に囲まれた一小節"
+    ],
+    "en": [
+      "to determine the length, width, weight, temperature, or other physical quantity of something",
+      "to assess the effect, ability, importance, or degree of something",
+      "to have a particular stated dimension or size",
+      "an amount, degree, extent, or indication of something",
+      "an action taken to achieve a purpose or deal with a problem",
+      "a standard or basis used for judgment, comparison, or evaluation",
+      "especially in American English, a legislative proposal or legal enactment",
+      "in music, a group of beats contained between two bar lines"
+    ]
+  },
+  "nuance": {
+    "ja": "measure は多義語だが、中心には「一定の基準に照らして量・程度を確かめる」という発想がある。動詞では、物理的な寸法を測るだけでなく、成果・リスク・影響など抽象的なものを評価する場合にも使う。名詞の a measure of success は「成功の程度」または「成功を判断する尺度」を意味し得る。take measures の measures は、問題に対処するための具体的な措置であり、単なる測定ではない。法律・政策の文脈では legislative measure や emergency measure のように、法案・政策・規制措置を指す。measure は行為・尺度・程度を幅広く表し、measurement は測定という過程または測定値をより具体的に表す。",
+    "en": "Measure has many senses, but they share the idea of determining or controlling something by reference to a standard. As a verb, it applies both to physical dimensions and to abstract matters such as effectiveness, risk, or impact. A measure of success may describe either the degree of success or a standard used to judge it. In take measures, measures means deliberate actions taken to address a problem rather than acts of measurement. In legal and policy contexts, the word can refer to a bill, regulation, or governmental action. Measurement more specifically denotes the measuring process or the resulting figure, whereas measure also covers standards, degrees, and practical actions."
+  },
+  "minimal": {
+    "ja": [
+      "measure：量・寸法・程度を測る。または尺度、程度、措置を表す。",
+      "measurement：測定という行為、測定方法、または得られた測定値。",
+      "calculate：既知の数値を使って計算し、結果を求める。",
+      "assess：情報に基づいて価値・状態・危険性などを判断する。",
+      "evaluate：一定の基準に照らし、品質・価値・成果を詳しく評価する。",
+      "metric：成果・進捗などを数量的に評価するための指標。",
+      "action：目的のために実際に行う行為・対応。",
+      "precaution：危険・失敗・損害を防ぐため事前に取る予防措置。"
+    ],
+    "en": [
+      "measure means determining a quantity or degree or can refer to a standard, amount, or action.",
+      "measurement is the process, method, or result of determining a physical quantity.",
+      "calculate means using known numerical information to obtain a result.",
+      "assess means judging value, condition, seriousness, or risk on the basis of available information.",
+      "evaluate means examining quality, value, or performance by reference to criteria.",
+      "a metric is a quantitative indicator used to evaluate performance or progress.",
+      "an action is something actually done in pursuit of a purpose.",
+      "a precaution is an advance measure taken to prevent danger, failure, or loss."
+    ]
+  },
+  "etymology": {
+    "ja": "measure は古フランス語 mesure を経て、ラテン語 mensura「測定、寸法、量」に由来する。mensura は metiri「測る」と関係する。物の大きさを測るという意味から、測定された量、判断の基準、物事の程度を表すようになった。さらに、状況を一定の範囲に収めるために取る行動という発想から、「措置・対策」という意味も発達した。",
+    "en": "Measure came through Old French mesure from Latin mensura, meaning a measuring, dimension, or quantity. Mensura is related to metiri, to measure. From determining the physical size of something, the word developed senses involving the resulting amount, a standard of judgment, and the degree of a quality. The idea of controlling a situation within appropriate limits also produced the sense of an action or policy adopted for a particular purpose."
+  },
+  "synonyms": [
+    {
+      "word": "assess",
+      "note": {
+        "ja": "得られた情報を基に、価値・状態・危険性・重要性などを判断する。",
+        "en": "To judge value, condition, seriousness, importance, or risk using available information."
+      }
+    },
+    {
+      "word": "evaluate",
+      "note": {
+        "ja": "一定の基準に基づいて、品質・価値・効果などを詳しく判断する。",
+        "en": "To examine and judge quality, value, or effectiveness according to stated or implied criteria."
+      }
+    },
+    {
+      "word": "gauge",
+      "note": {
+        "ja": "寸法・量を測る、または反応・状況・程度を概略的に判断する。",
+        "en": "To measure a physical quantity or estimate a reaction, situation, or degree."
+      }
+    },
+    {
+      "word": "metric",
+      "note": {
+        "ja": "業績・進捗・品質などを数量的に評価するための指標。",
+        "en": "A quantitative indicator used to assess performance, progress, or quality."
+      }
+    },
+    {
+      "word": "step",
+      "note": {
+        "ja": "目的達成や問題解決のために取られる個別の行動・措置。",
+        "en": "An individual action taken to achieve a purpose or deal with a problem."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "messen / Maß / Maßnahme",
+    "it": "misurare / misura / provvedimento",
+    "fr": "mesurer / mesure",
+    "es": "medir / medida"
+  },
+  "collocations": {
+    "ja": [
+      "measure the distance — 距離を測る",
+      "measure the temperature — 温度を測定する",
+      "measure performance — 業績を測定・評価する",
+      "measure the impact — 影響を測定する",
+      "measure something against a standard — 何かを基準に照らして評価する",
+      "an accurate measure — 正確な尺度・測定",
+      "a measure of success — 成功の程度・判断尺度",
+      "take appropriate measures — 適切な措置を取る",
+      "introduce preventive measures — 予防措置を導入する",
+      "an emergency measure — 緊急措置",
+      "a temporary measure — 暫定措置",
+      "a legislative measure — 立法措置・法案"
+    ],
+    "en": [
+      "measure the distance",
+      "measure the temperature",
+      "measure performance",
+      "measure the impact",
+      "measure something against a standard",
+      "an accurate measure",
+      "a measure of success",
+      "take appropriate measures",
+      "introduce preventive measures",
+      "an emergency measure",
+      "a temporary measure",
+      "a legislative measure"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The engineer measured the width of the component with a digital instrument. — 技術者はデジタル計器で部品の幅を測定した。",
+      "It is difficult to measure the long-term impact of the new policy. — 新しい政策の長期的な影響を評価することは難しい。",
+      "The room measures approximately six meters by four meters. — その部屋はおよそ縦6メートル、横4メートルある。",
+      "Customer retention is one useful measure of business performance. — 顧客維持率は、事業実績を示す有用な指標の一つである。",
+      "The company introduced additional security measures to protect confidential information. — その会社は機密情報を保護するため、追加の安全対策を導入した。",
+      "The court measured the defendant’s conduct against the applicable standard of care. — 裁判所は、適用される注意義務の基準に照らして被告の行為を評価した。",
+      "The legislature approved a measure intended to strengthen the protection of trade secrets. — 立法機関は、営業秘密の保護を強化するための法案を承認した。",
+      "The melody changes rhythm in the final measure. — その旋律は最後の小節でリズムが変わる。"
+    ],
+    "en": [
+      "The engineer measured the width of the component with a digital instrument.",
+      "It is difficult to measure the long-term impact of the new policy.",
+      "The room measures approximately six meters by four meters.",
+      "Customer retention is one useful measure of business performance.",
+      "The company introduced additional security measures to protect confidential information.",
+      "The court measured the defendant’s conduct against the applicable standard of care.",
+      "The legislature approved a measure intended to strengthen the protection of trade secrets.",
+      "The melody changes rhythm in the final measure."
+    ]
+  }
+}  
 ]
