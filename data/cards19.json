@@ -10341,5 +10341,210 @@
       "An invention may be commercially valuable even if the related expenditure is not recognized as an asset in the financial statements."
     ]
   }
+},
+{
+  "id": "transfer",
+  "sid": "2026-01693",
+  "word": "transfer",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "noun",
+    "movement",
+    "transport",
+    "banking",
+    "data",
+    "employment",
+    "ownership",
+    "intellectual property",
+    "legal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb / noun",
+    "countability": "countable as a noun",
+    "plural": "transfers",
+    "forms": {
+      "verb_base": "transfer",
+      "third_person": "transfers",
+      "past": "transferred",
+      "past_participle": "transferred",
+      "gerund": "transferring",
+      "noun_singular": "transfer",
+      "noun_plural": "transfers",
+      "person_noun": "transferee",
+      "related_noun": "transferability"
+    },
+    "transitivity": "transitive or intransitive, depending on sense",
+    "patterns": [
+      "transfer + something + to + person / place / account",
+      "transfer + something + from A to B",
+      "transfer money to an account",
+      "transfer data from one device to another",
+      "transfer ownership of + asset",
+      "transfer a patent / trademark",
+      "transfer to + department / school",
+      "transfer from A to B",
+      "transfer at + station",
+      "a transfer of + money / ownership / rights",
+      "make a bank transfer"
+    ],
+    "usage": {
+      "verb_object": "To name what moves, use transfer something to someone or somewhere: transfer the files to a new computer.",
+      "intransitive": "For a change of workplace, school, or vehicle, transfer can be used without a direct object: She transferred to another department.",
+      "spelling": "The final r is doubled in transferred and transferring.",
+      "pronunciation": "The verb commonly has stress on the second syllable; the noun commonly has stress on the first.",
+      "legal": "In legal contexts, specify exactly which right is transferred and distinguish a transfer of ownership from a license to use the right."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": {
+        "verb": "/trænsˈfɝː/",
+        "noun": "/ˈtrænsfɝː/"
+      },
+      "uk": {
+        "verb": "/trænsˈfɜː/",
+        "noun": "/ˈtrænsfɜː/"
+      }
+    }
+  },
+  "meaning": {
+    "ja": [
+      "物・金銭・データなどを別の場所・人・口座へ移す",
+      "人を別の部署・学校・勤務地へ異動させる、または自分が移る",
+      "電車・バスなどを乗り換える",
+      "財産・権利の所有や帰属を他者へ移転する",
+      "名詞として、移動・異動・乗り換え・振込・権利移転"
+    ],
+    "en": [
+      "to move something such as an object, money, or data to another place, person, or account",
+      "to move someone to another department, school, or workplace, or to make such a move oneself",
+      "to change from one train, bus, or other service to another",
+      "to convey ownership of property or a right to another person or entity",
+      "as a noun, an act of moving, changing positions or vehicles, sending money, or conveying a right"
+    ]
+  },
+  "nuance": {
+    "ja": "transfer は、ある場所・人・組織・口座などから別のところへ移すことを広く表す。transfer money は送金・振込、transfer data はデータ移行、transfer to another department は部署異動、transfer at the next station は乗り換えである。知的財産の文脈では transfer a patent や transfer ownership of a trademark といえば権利の帰属を移すことを指す。一方、license は通常、所有権を移さずに使用・実施を許諾する。正式な権利移転を記述する場合は、何の権利を誰から誰へ移すのかを明示する必要がある。動詞と名詞では強勢の位置が異なることが多い。",
+    "en": "Transfer broadly describes moving something from one person, place, organization, account, or situation to another. It applies to money, data, employees, students, and passengers changing services. In intellectual property, transferring a patent or ownership of a trademark concerns a change in who holds the right. A license, by contrast, generally grants permission to use a right without conveying ownership. When describing a legal transfer, identify the right, its current holder, and its recipient. The verb commonly stresses the second syllable, while the noun commonly stresses the first."
+  },
+  "minimal": {
+    "ja": [
+      "transfer：物・金銭・人・データ・権利などを別のところへ移すこと。",
+      "move：場所や位置を変えることを広く表す一般語。",
+      "send：物・情報・金銭などを相手へ送ること。",
+      "relocate：人・事業所などを新しい場所へ移すこと。",
+      "transmit：信号・情報・病気などを伝達すること。",
+      "assign：権利を譲渡すること、または人に任務を割り当てること。",
+      "license：権利の所有を移さず、その使用などを許諾すること。",
+      "transaction：取引や決済など、当事者間で行われる一連の行為。"
+    ],
+    "en": [
+      "transfer means moving a thing, person, amount of money, data, or right to another place or holder.",
+      "move is the general verb for changing position or location.",
+      "send means causing something to go to a recipient or destination.",
+      "relocate means moving a person or business to a new location.",
+      "transmit means passing on a signal, information, or disease.",
+      "assign can mean transferring a right or allocating a task to someone.",
+      "license means granting permission to use a right without transferring ownership of it.",
+      "a transaction is an exchange or other set of dealings between parties."
+    ]
+  },
+  "etymology": {
+    "ja": "transfer はラテン語 transferre「向こうへ運ぶ」に由来し、trans-「越えて、向こうへ」と ferre「運ぶ」が結び付いた語である。物を一方から他方へ運ぶという基本的な発想から、人の異動、金銭・データの移動、さらに権利の移転へ意味が広がった。名詞 transfer も同じ語源を持つ。",
+    "en": "Transfer comes from Latin transferre, meaning to carry across or bring over. It combines trans-, across or beyond, with ferre, to carry. The physical idea of carrying something from one place to another expanded to cover the movement of people, money, and information, as well as the conveyance of ownership or other rights."
+  },
+  "synonyms": [
+    {
+      "word": "move",
+      "note": {
+        "ja": "位置・場所の変化を表す一般語で、権利移転などの専門的意味は文脈による。",
+        "en": "The broadest everyday verb for a change of position or location."
+      }
+    },
+    {
+      "word": "relocate",
+      "note": {
+        "ja": "人や事業所の所在地を別の場所へ移すことに重点がある。",
+        "en": "Emphasizes moving a person or business to a different location."
+      }
+    },
+    {
+      "word": "remit",
+      "note": {
+        "ja": "特に支払いのため、金銭を送ることを表す形式的な語。",
+        "en": "A formal verb for sending money, especially as payment."
+      }
+    },
+    {
+      "word": "assign",
+      "note": {
+        "ja": "法律上の権利譲渡を表すことがあるが、任務の割当てなどの意味も持つ。",
+        "en": "Can describe conveying a legal right, but also means allocating a task."
+      }
+    },
+    {
+      "word": "convey",
+      "note": {
+        "ja": "形式的な文脈では財産・権利を移転することを表す。",
+        "en": "In formal contexts, can mean transferring property or a legal interest."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "übertragen / versetzen / umsteigen / Übertragung",
+    "it": "trasferire / trasferirsi / cambiare mezzo / trasferimento",
+    "fr": "transférer / muter / changer de correspondance / transfert",
+    "es": "transferir / trasladar / hacer transbordo / transferencia"
+  },
+  "collocations": {
+    "ja": [
+      "transfer money — 送金する",
+      "make a bank transfer — 銀行振込を行う",
+      "transfer funds to an account — 口座へ資金を移す",
+      "transfer data — データを移行する",
+      "transfer files to a new computer — ファイルを新しいパソコンへ移す",
+      "transfer an employee — 従業員を異動させる",
+      "transfer to another department — 別の部署へ異動する",
+      "transfer at the next station — 次の駅で乗り換える",
+      "transfer ownership — 所有権を移転する",
+      "transfer a patent — 特許権を譲渡する",
+      "a transfer of rights — 権利の移転",
+      "a transfer agreement — 譲渡契約"
+    ],
+    "en": [
+      "transfer money",
+      "make a bank transfer",
+      "transfer funds to an account",
+      "transfer data",
+      "transfer files to a new computer",
+      "transfer an employee",
+      "transfer to another department",
+      "transfer at the next station",
+      "transfer ownership",
+      "transfer a patent",
+      "a transfer of rights",
+      "a transfer agreement"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Please transfer the payment to the account shown on the invoice. — 請求書に記載された口座へ代金を振り込んでください。",
+      "I transferred the photos from my old phone to my new one. — 古い携帯電話から新しい携帯電話へ写真を移しました。",
+      "She transferred to the firm's Hamburg office last year. — 彼女は昨年、その事務所のハンブルク拠点へ異動しました。",
+      "You need to transfer at the next station to reach the airport. — 空港へ行くには次の駅で乗り換える必要があります。",
+      "The agreement transfers ownership of the patent to the buyer; it does not merely grant a license. — この契約は特許権の帰属を買主へ移転するものであり、単にライセンスを許諾するものではありません。"
+    ],
+    "en": [
+      "Please transfer the payment to the account shown on the invoice.",
+      "I transferred the photos from my old phone to my new one.",
+      "She transferred to the firm's Hamburg office last year.",
+      "You need to transfer at the next station to reach the airport.",
+      "The agreement transfers ownership of the patent to the buyer; it does not merely grant a license."
+    ]
+  }
 }
 ]
