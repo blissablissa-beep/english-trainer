@@ -10548,6 +10548,395 @@
   }
 },
 {
+  "id": "reflect",
+  "sid": "2026-01694",
+  "word": "reflect",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "reflection",
+    "light",
+    "image",
+    "representation",
+    "thought",
+    "consideration",
+    "evaluation",
+    "business",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "reflect",
+      "third_person": "reflects",
+      "past": "reflected",
+      "past_participle": "reflected",
+      "gerund": "reflecting",
+      "noun": "reflection",
+      "adjective": "reflective"
+    },
+    "transitivity": "transitive for reflecting light or representing something; intransitive for thinking carefully",
+    "patterns": [
+      "reflect + light / heat / sound",
+      "reflect + image",
+      "be reflected in + surface",
+      "reflect + change / opinion / reality",
+      "be reflected in + data / price / decision",
+      "reflect on + experience / decision",
+      "reflect upon + experience / decision",
+      "reflect that + clause",
+      "reflect well / badly on + person / organization",
+      "take time to reflect",
+      "accurately reflect + situation"
+    ],
+    "usage": {
+      "physical": "Reflect is transitive when a surface sends light, heat, or sound back: The mirror reflects light.",
+      "representation": "Reflect something means show, express, or correspond to it: The figures reflect recent changes.",
+      "thought": "For careful thought about a topic, use reflect on or reflect upon: reflect on the results.",
+      "reflect_that": "Reflect that plus a clause can mean consider or observe a fact, but this construction is more literary or formal.",
+      "reputation": "Reflect well or badly on someone describes how an action affects others' opinion of that person."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈflekt/",
+      "uk": "/rɪˈflekt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "光・熱・音などを反射する",
+      "鏡・水面などが姿や映像を映し出す",
+      "特徴・意見・変化・現実などを示す、反映する",
+      "経験・結果・問題などについてよく考える、振り返る",
+      "行為などが人・組織の評判に影響する"
+    ],
+    "en": [
+      "to send back light, heat, sound, or another form of energy",
+      "to show an image on a mirror, water, or another surface",
+      "to show, express, or correspond to a quality, opinion, change, or reality",
+      "to think carefully about an experience, result, or question",
+      "for an action or situation, to affect how a person or organization is regarded"
+    ]
+  },
+  "nuance": {
+    "ja": "reflect は、何かを『受けて返す』というイメージで複数の意味がつながる。鏡は光を反射して人の姿を映し、統計や価格は社会・市場の状況を反映する。ただし、reflect は必ずしも対象を完全かつ正確に示すことを保証しないため、accurately reflect「正確に反映する」のようにもいう。reflect on は、経験や判断を立ち止まって考える表現で、単に思い出すだけではなく、そこから意味や教訓を考える含みがある。reflect badly on someone は、その人の評判を損なうことを意味する。法務・実務文書では、ある記載が何を反映しているのか、単に記録しているのかを文脈で明確にするとよい。",
+    "en": "The senses of reflect are linked by the idea of receiving and giving something back. A mirror reflects light and shows an image; figures or prices may reflect conditions in society or a market. Reflect does not itself guarantee a complete or accurate representation, so accurately reflect is a useful qualification. Reflect on means pausing to consider an experience or decision and often suggests looking for its meaning or lessons, rather than simply recalling it. Reflect badly on someone means that something harms that person's reputation. In professional writing, make clear what a document or figure reflects and whether it is intended to show the whole situation."
+  },
+  "minimal": {
+    "ja": [
+      "reflect：光などを反射する、状況などを反映する、または経験などを熟考する。",
+      "mirror：何かの特徴や状態をよく映し出す。名詞では鏡。",
+      "represent：何かを表す、描写する、または人・団体を代表する。",
+      "indicate：兆候・数値などによって何かを示す。",
+      "show：見せる、または事実・状態を示す最も一般的な語。",
+      "consider：問題・選択肢などを考慮する。",
+      "ponder：時間をかけて深く考える。",
+      "review：過去の出来事・資料・判断などを改めて検討する。"
+    ],
+    "en": [
+      "reflect means sending back light, showing a condition or quality, or thinking carefully about something.",
+      "mirror means closely showing another thing's features or state; as a noun, it means a reflective surface.",
+      "represent means standing for, depicting, or acting on behalf of someone or something.",
+      "indicate means pointing to or providing evidence of something.",
+      "show is the general verb for making something visible or apparent.",
+      "consider means thinking about a question, possibility, or choice.",
+      "ponder means thinking deeply about something, often for some time.",
+      "review means examining information, events, or decisions again."
+    ]
+  },
+  "etymology": {
+    "ja": "reflect はラテン語 reflectere「後ろへ曲げる、折り返す」に由来し、re-「後ろへ、再び」と flectere「曲げる」から成る。光などが折り返される物理的な意味から、鏡に像が映ること、状況が別のものに表れることを表すようになった。考えを過去の経験や問題へ『向け直す』という発想から、熟考・内省の意味も発達した。名詞 reflection も同じ語族に属する。",
+    "en": "Reflect comes from Latin reflectere, meaning to bend back or turn back, formed from re-, back, and flectere, to bend. The physical idea of something being turned back underlies the reflection of light and images. The word also came to describe qualities or circumstances appearing in something else, and thought turning back to consider an experience or question. Reflection belongs to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "mirror",
+      "note": {
+        "ja": "ある状態・特徴を鏡のようによく映し出すことを表す。",
+        "en": "To show another situation or quality closely, as if in a mirror."
+      }
+    },
+    {
+      "word": "represent",
+      "note": {
+        "ja": "状況・意見などを表現する、または人・団体を代表する。",
+        "en": "To express or stand for a situation or opinion, or to act for someone."
+      }
+    },
+    {
+      "word": "indicate",
+      "note": {
+        "ja": "数値・証拠・兆候などによって、何かの存在や状態を示す。",
+        "en": "To point to a condition or fact through a figure, sign, or piece of evidence."
+      }
+    },
+    {
+      "word": "ponder",
+      "note": {
+        "ja": "問い・判断などについて、時間をかけて深く考える。",
+        "en": "To think deeply and often at length about a question or decision."
+      }
+    },
+    {
+      "word": "contemplate",
+      "note": {
+        "ja": "物事をじっくり考える、または将来の行動を検討する。",
+        "en": "To consider something carefully or think about a possible future action."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "reflektieren / widerspiegeln / nachdenken",
+    "it": "riflettere / rispecchiare",
+    "fr": "réfléchir / refléter",
+    "es": "reflejar / reflexionar"
+  },
+  "collocations": {
+    "ja": [
+      "reflect light — 光を反射する",
+      "reflect heat — 熱を反射する",
+      "be reflected in a mirror — 鏡に映る",
+      "reflect reality — 現実を反映する",
+      "reflect public opinion — 世論を反映する",
+      "reflect a change — 変化を反映する",
+      "accurately reflect the situation — 状況を正確に反映する",
+      "be reflected in the price — 価格に反映される",
+      "reflect on past mistakes — 過去の失敗を振り返る",
+      "reflect on the results — 結果について熟考する",
+      "take time to reflect — 時間を取って考える",
+      "reflect badly on the company — 会社の評判を損なう"
+    ],
+    "en": [
+      "reflect light",
+      "reflect heat",
+      "be reflected in a mirror",
+      "reflect reality",
+      "reflect public opinion",
+      "reflect a change",
+      "accurately reflect the situation",
+      "be reflected in the price",
+      "reflect on past mistakes",
+      "reflect on the results",
+      "take time to reflect",
+      "reflect badly on the company"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The white roof reflects sunlight and helps keep the building cool. — 白い屋根は日光を反射し、建物を涼しく保つのに役立つ。",
+      "The mountains were reflected in the still lake. — 山々が静かな湖面に映っていた。",
+      "The revised price reflects the increase in production costs. — 改定後の価格には生産費の上昇が反映されている。",
+      "After the meeting, she took a moment to reflect on what she could have explained more clearly. — 会議の後、彼女は何をもっと明確に説明できたか、少し時間を取って振り返った。",
+      "The amended specification should accurately reflect the agreed technical changes. — 補正後の明細書には、合意された技術上の変更を正確に反映させるべきだ。"
+    ],
+    "en": [
+      "The white roof reflects sunlight and helps keep the building cool.",
+      "The mountains were reflected in the still lake.",
+      "The revised price reflects the increase in production costs.",
+      "After the meeting, she took a moment to reflect on what she could have explained more clearly.",
+      "The amended specification should accurately reflect the agreed technical changes."
+    ]
+  }
+},
+{
+  "id": "serious",
+  "sid": "2026-01695",
+  "word": "serious",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "severity",
+    "importance",
+    "risk",
+    "health",
+    "crime",
+    "attitude",
+    "determination",
+    "sincerity",
+    "business",
+    "legal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "serious",
+      "comparative": "more serious",
+      "superlative": "most serious",
+      "adverb": "seriously",
+      "noun": "seriousness",
+      "opposite": "not serious"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a serious + problem / injury / crime",
+      "be serious",
+      "be serious about + noun / gerund",
+      "take + something + seriously",
+      "a serious attempt to do",
+      "a serious risk of + noun / gerund",
+      "serious consequences for + person / thing",
+      "a serious discussion about + noun",
+      "Are you serious?",
+      "I'm serious.",
+      "Nothing serious."
+    ],
+    "usage": {
+      "severity": "Serious describes a problem, illness, injury, or offense with important or potentially harmful consequences.",
+      "attitude": "A serious person or approach is thoughtful and earnest rather than playful or casual.",
+      "commitment": "Be serious about something means consider it important and be committed to it.",
+      "not_joking": "I'm serious means that the speaker is not joking or exaggerating.",
+      "comparison": "More serious and most serious are standard; seriouser and seriousest are not.",
+      "adverb": "Use seriously to modify a verb or adjective: take it seriously; seriously injured."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsɪriəs/",
+      "uk": "/ˈsɪəriəs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "問題・病気・けが・犯罪などが重大な、深刻な",
+      "重大な結果を招くおそれがある",
+      "態度・議論などが真剣な、ふざけていない",
+      "目標や活動に本気で取り組んでいる",
+      "発言や申し出などが冗談ではなく、本気の"
+    ],
+    "en": [
+      "important, severe, or harmful, especially of a problem, illness, injury, or crime",
+      "likely to have significant consequences",
+      "thoughtful and earnest rather than playful or casual",
+      "strongly committed to a goal or activity",
+      "genuine rather than intended as a joke"
+    ]
+  },
+  "nuance": {
+    "ja": "serious は、事柄の『重大さ』と人の『真剣さ』の両方を表す。a serious injury は重傷、a serious mistake は重大な誤りである。一方、be serious about learning English は英語学習に本気で取り組んでいることを示す。Are you serious? は文脈によって『本気ですか』『冗談でしょう』という驚きや確認を表す。serious は必ずしも表情が暗いことを意味しない。また、法律・契約に関わる文脈で serious breach と言っても、それだけで特定の法的要件を満たすと決まるわけではない。違反の内容と適用される規則を別途確認する必要がある。",
+    "en": "Serious can describe both the gravity of a situation and the earnestness of a person. A serious injury is severe, while someone serious about learning English is committed to that goal. Are you serious? may ask whether a statement is genuine or express surprise. Calling someone serious does not necessarily mean that they are unhappy or unable to enjoy humor. In legal contexts, describing a breach as serious communicates its importance but does not, by itself, establish that a particular legal test has been met."
+  },
+  "minimal": {
+    "ja": [
+      "serious：事態が重大・深刻な、または人が真剣・本気の。",
+      "severe：程度が非常に強い、または被害・症状が重い。",
+      "grave：結果が重大で、強い懸念を要する。形式的な語。",
+      "significant：無視できないほど重要な、相当な。",
+      "earnest：態度や努力が誠実で真剣な。",
+      "sincere：感情・発言・意図に偽りがない。",
+      "committed：目標・仕事・関係などに強く献身している。",
+      "critical：極めて重要な、または危機的な。"
+    ],
+    "en": [
+      "serious means important or severe, or earnest and not joking.",
+      "severe emphasizes great intensity or the extent of harm.",
+      "grave formally describes a situation that causes strong concern because of its possible consequences.",
+      "significant means important or large enough to deserve attention.",
+      "earnest describes a sincere and serious manner or effort.",
+      "sincere describes feelings, statements, or intentions that are genuinely held.",
+      "committed describes strong dedication to a goal, task, or relationship.",
+      "critical means extremely important or, in some contexts, dangerously serious."
+    ]
+  },
+  "etymology": {
+    "ja": "serious はラテン語 serius「重大な、真剣な」に由来し、フランス語を経て英語に入った。ラテン語より古い起源は確実には分かっていない。英語でも、遊びや冗談ではなく真剣に扱うべきことを表す意味と、結果が重大であることを表す意味の両方で用いられるようになった。副詞 seriously、名詞 seriousness も同じ語族である。",
+    "en": "Serious comes from Latin serius, meaning earnest or grave, through French. Its deeper origin is uncertain. In English, it developed uses describing both an earnest attitude and a matter whose consequences deserve careful attention. Seriously and seriousness belong to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "severe",
+      "note": {
+        "ja": "病気・けが・損害などの程度が非常に強いことに重点がある。",
+        "en": "Emphasizes the intensity of an illness, injury, damage, or other condition."
+      }
+    },
+    {
+      "word": "grave",
+      "note": {
+        "ja": "結果が重大で、深い懸念を抱かせることを表す形式的な語。",
+        "en": "A formal word for a situation with deeply concerning potential consequences."
+      }
+    },
+    {
+      "word": "earnest",
+      "note": {
+        "ja": "態度・発言・努力が誠実で真剣であることを表す。",
+        "en": "Describes a sincere and serious attitude, statement, or effort."
+      }
+    },
+    {
+      "word": "significant",
+      "note": {
+        "ja": "重要性や影響が無視できないほど大きいことを表す。",
+        "en": "Describes something important or substantial enough to matter."
+      }
+    },
+    {
+      "word": "genuine",
+      "note": {
+        "ja": "申し出・関心・感情などが見せかけではなく本物であることを表す。",
+        "en": "Indicates that an offer, interest, or feeling is real rather than pretended."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "ernst / schwerwiegend",
+    "it": "serio / grave",
+    "fr": "sérieux / grave",
+    "es": "serio / grave"
+  },
+  "collocations": {
+    "ja": [
+      "a serious problem — 深刻な問題",
+      "a serious mistake — 重大な誤り",
+      "a serious injury — 重傷",
+      "a serious illness — 重い病気",
+      "a serious crime — 重大な犯罪",
+      "a serious risk — 重大なリスク",
+      "serious consequences — 深刻な結果",
+      "a serious discussion — 真剣な話し合い",
+      "a serious attempt — 本気の試み",
+      "be serious about learning — 学習に本気で取り組んでいる",
+      "take the matter seriously — その件を真剣に受け止める",
+      "Are you serious? — 本気ですか"
+    ],
+    "en": [
+      "a serious problem",
+      "a serious mistake",
+      "a serious injury",
+      "a serious illness",
+      "a serious crime",
+      "a serious risk",
+      "serious consequences",
+      "a serious discussion",
+      "a serious attempt",
+      "be serious about learning",
+      "take the matter seriously",
+      "Are you serious?"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The accident caused a serious injury, but she is recovering. — その事故で彼女は重傷を負ったが、回復に向かっている。",
+      "We need to have a serious discussion about the project deadline. — プロジェクトの期限について真剣に話し合う必要がある。",
+      "He's serious about improving his English before the conference. — 彼は会議までに英語力を伸ばすことに本気で取り組んでいる。",
+      "Are you serious about moving to Hamburg, or was that a joke? — ハンブルクへ移るというのは本気ですか、それとも冗談でしたか。",
+      "The omission could have serious consequences for the patent application, so we should check the filing documents carefully. — その記載漏れは特許出願に重大な影響を及ぼすおそれがあるため、出願書類を慎重に確認すべきだ。"
+    ],
+    "en": [
+      "The accident caused a serious injury, but she is recovering.",
+      "We need to have a serious discussion about the project deadline.",
+      "He's serious about improving his English before the conference.",
+      "Are you serious about moving to Hamburg, or was that a joke?",
+      "The omission could have serious consequences for the patent application, so we should check the filing documents carefully."
+    ]
+  }
+},
+{
   "id": "pity",
   "sid": "2026-01696",
   "word": "pity",
@@ -10745,6 +11134,400 @@
       "I don't want your pity; I want a fair opportunity.",
       "It's a pity that you cannot join us for dinner.",
       "It would be a pity to abandon a promising patent application merely because of a correctable formal defect."
+    ]
+  }
+},
+{
+  "id": "resilient",
+  "sid": "2026-01697",
+  "word": "resilient",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "recovery",
+    "adaptability",
+    "strength",
+    "psychology",
+    "materials",
+    "systems",
+    "business",
+    "economy",
+    "environment",
+    "technology",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "resilient",
+      "comparative": "more resilient",
+      "superlative": "most resilient",
+      "noun": "resilience",
+      "adverb": "resiliently, uncommon"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a resilient + person / community / economy",
+      "be resilient",
+      "be resilient to + shock / change / damage",
+      "be resilient in the face of + difficulty",
+      "become more resilient",
+      "remain resilient despite + difficulty",
+      "build a resilient system",
+      "make something more resilient",
+      "economically / emotionally resilient",
+      "highly resilient"
+    ],
+    "usage": {
+      "people": "A resilient person recovers or adapts well after difficulty, stress, or disappointment.",
+      "systems": "A resilient system continues functioning or recovers quickly after disruption or failure.",
+      "materials": "A resilient material returns toward its original shape after being bent, compressed, or stretched.",
+      "prepositions": "Use resilient to for resistance to a particular threat and resilient in the face of for effective recovery during difficulty.",
+      "comparison": "More resilient and most resilient are standard.",
+      "distinction": "Resilient does not mean invulnerable; something resilient may suffer harm but can withstand, adapt to, or recover from it."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈzɪliənt/",
+      "uk": "/rɪˈzɪliənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "困難・失敗・ストレスを経験しても立ち直る力のある",
+      "変化した状況に柔軟に適応できる",
+      "組織・経済・システムなどが障害を受けても機能を維持・回復できる",
+      "材料が圧力・変形を受けた後に元の形へ戻りやすい",
+      "生態系・地域社会などが災害や環境変化から回復できる"
+    ],
+    "en": [
+      "able to recover well after difficulty, failure, or stress",
+      "able to adapt effectively to changed circumstances",
+      "for an organization, economy, or system, able to continue functioning or recover after disruption",
+      "for a material, able to return toward its original shape after pressure or deformation",
+      "for an ecosystem or community, able to recover from disaster or environmental change"
+    ]
+  },
+  "nuance": {
+    "ja": "resilient は、単に strong「強い」というだけでなく、衝撃・困難・変化を受けた後も適応し、機能や安定を取り戻せることを表す。人については、苦痛を感じないことではなく、苦境を経験しても徐々に立ち直れることを意味する。システムについては、障害を完全に防ぐことよりも、障害が起きても重要な機能を維持し、速やかに復旧できる性質に重点がある。材料については、曲げたり圧縮したりした後に元の形へ戻る弾力性を表す。したがって、resilient は invulnerable「傷つかない、無敵の」とは異なる。",
+    "en": "Resilient means more than simply strong. It emphasizes the capacity to absorb difficulty, adapt, and regain function or stability. A resilient person is not someone who feels no pain, but someone who can gradually recover from adversity. For systems, resilience concerns maintaining essential functions and restoring normal operation after disruption rather than preventing every failure. For materials, the word describes the ability to return toward an original shape after bending or compression. Resilient therefore does not mean invulnerable."
+  },
+  "minimal": {
+    "ja": [
+      "resilient：困難・衝撃・変化を受けても適応し、立ち直ることができる。",
+      "strong：力・能力・影響力などが強いことを表す一般語。",
+      "tough：困難・痛み・酷使に耐えられる頑丈さを強調する。",
+      "durable：長期間の使用や摩耗に耐えられる。",
+      "flexible：状況に応じて考え方・方法・形を変えられる。",
+      "adaptable：新しい状況や要求に合わせて適応できる。",
+      "robust：多少の障害・変動があっても安定して機能する。",
+      "invulnerable：傷つけたり損なったりできない。resilient より絶対的な表現。"
+    ],
+    "en": [
+      "resilient means able to adapt to difficulty and recover after damage, stress, or disruption.",
+      "strong is the general word for possessing considerable power, ability, or influence.",
+      "tough emphasizes the ability to endure hardship, pain, or rough treatment.",
+      "durable means able to withstand wear and remain usable for a long time.",
+      "flexible means able to change in form, method, or attitude according to circumstances.",
+      "adaptable means capable of adjusting to new conditions or requirements.",
+      "robust means remaining stable and effective despite some disturbance or variation.",
+      "invulnerable means incapable of being harmed and is more absolute than resilient."
+    ]
+  },
+  "etymology": {
+    "ja": "resilient はラテン語 resilire「跳ね返る、後ろへ跳ぶ」に由来する。これは re-「後ろへ、再び」と salire「跳ぶ」から成る。英語では当初、物が跳ね返ることや元の形に戻ることを表し、そこから人が困難から立ち直ること、さらに組織・経済・生態系・情報システムなどが障害後に機能を回復することへ意味が広がった。名詞 resilience も同じ語源を持つ。",
+    "en": "Resilient ultimately comes from Latin resilire, meaning to spring back or leap backward. It combines re-, back or again, with salire, to jump. The English word was associated with rebounding and returning toward an original form. Its meaning later expanded to people recovering from adversity and to organizations, economies, ecosystems, and technical systems restoring function after disruption. Resilience belongs to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "tough",
+      "note": {
+        "ja": "困難・圧力・痛みに耐える能力を強調し、resilient ほど回復過程には焦点を置かない。",
+        "en": "Emphasizes enduring pressure, hardship, or pain rather than the process of recovery."
+      }
+    },
+    {
+      "word": "adaptable",
+      "note": {
+        "ja": "新しい環境・条件・要求に合わせて変化できることを強調する。",
+        "en": "Emphasizes the ability to adjust to new environments, conditions, or demands."
+      }
+    },
+    {
+      "word": "robust",
+      "note": {
+        "ja": "障害・誤差・変動があっても安定して機能することを表す。",
+        "en": "Describes something that continues functioning reliably despite disturbance, error, or variation."
+      }
+    },
+    {
+      "word": "durable",
+      "note": {
+        "ja": "物が摩耗・損傷に耐え、長期間使用できることに重点がある。",
+        "en": "Focuses on resisting wear or damage and remaining usable over time."
+      }
+    },
+    {
+      "word": "flexible",
+      "note": {
+        "ja": "必要に応じて方法・考え方・形状などを変えられることを表す。",
+        "en": "Describes the ability to change a method, attitude, or physical form as needed."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "widerstandsfähig / resilient / belastbar",
+    "it": "resiliente / resistente",
+    "fr": "résilient / capable de rebondir",
+    "es": "resiliente / resistente"
+  },
+  "collocations": {
+    "ja": [
+      "a resilient person — 立ち直る力のある人",
+      "a resilient child — 困難から立ち直れる子ども",
+      "a resilient community — 災害などから回復できる地域社会",
+      "a resilient economy — 回復力のある経済",
+      "a resilient business — 変化や危機に強い事業",
+      "a resilient supply chain — 障害に強いサプライチェーン",
+      "a resilient system — 障害から回復できるシステム",
+      "resilient infrastructure — 災害・障害に強いインフラ",
+      "resilient to change — 変化への回復力・適応力がある",
+      "resilient in the face of adversity — 逆境に直面しても立ち直る力がある",
+      "remain resilient — 回復力を保つ",
+      "build resilience — 回復力を養う"
+    ],
+    "en": [
+      "a resilient person",
+      "a resilient child",
+      "a resilient community",
+      "a resilient economy",
+      "a resilient business",
+      "a resilient supply chain",
+      "a resilient system",
+      "resilient infrastructure",
+      "resilient to change",
+      "resilient in the face of adversity",
+      "remain resilient",
+      "build resilience"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Children can be remarkably resilient after a major change in their lives. — 子どもは生活上の大きな変化を経験しても、驚くほどの回復力を示すことがある。",
+      "The local community remained resilient despite the damage caused by the storm. — 地元の地域社会は、嵐による被害にもかかわらず力強く立ち直った。",
+      "The company is building a more resilient supply chain by using several suppliers. — その会社は複数の供給業者を利用し、より障害に強いサプライチェーンを構築している。",
+      "This material is light, flexible, and resilient enough to return to its original shape. — この材料は軽く柔軟で、元の形へ戻れるほどの弾力性を備えている。",
+      "A resilient patent portfolio should not depend entirely on a single broad claim that may later be invalidated. — 回復力のある特許ポートフォリオは、後に無効となる可能性のある一つの広い請求項だけに全面的に依存すべきではない。"
+    ],
+    "en": [
+      "Children can be remarkably resilient after a major change in their lives.",
+      "The local community remained resilient despite the damage caused by the storm.",
+      "The company is building a more resilient supply chain by using several suppliers.",
+      "This material is light, flexible, and resilient enough to return to its original shape.",
+      "A resilient patent portfolio should not depend entirely on a single broad claim that may later be invalidated."
+    ]
+  }
+},
+{
+  "id": "adept",
+  "sid": "2026-01698",
+  "word": "adept",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "noun",
+    "skill",
+    "ability",
+    "expertise",
+    "proficiency",
+    "competence",
+    "adaptability",
+    "professional",
+    "business",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / noun",
+    "countability": "countable as a noun",
+    "plural": "adepts",
+    "forms": {
+      "adjective": "adept",
+      "comparative": "more adept",
+      "superlative": "most adept",
+      "noun_singular": "adept",
+      "noun_plural": "adepts",
+      "adverb": "adeptly",
+      "related_noun": "adeptness"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "be adept at + noun",
+      "be adept at + gerund",
+      "become adept at + gerund",
+      "be particularly / highly adept at + gerund",
+      "be adept in + field / discipline",
+      "an adept at + activity",
+      "an adept in + field",
+      "politically / technically adept",
+      "adept handling of + noun",
+      "adeptly manage / handle + noun"
+    ],
+    "usage": {
+      "at": "Use adept at before a skill, activity, or gerund: adept at negotiation; adept at solving problems.",
+      "in": "Adept in commonly introduces a broad field or discipline: adept in patent law.",
+      "noun": "As a noun, an adept means a highly skilled person, but expert or specialist is more common in contemporary professional English.",
+      "comparison": "More adept and most adept are standard.",
+      "pronunciation": "The adjective normally has stress on the second syllable. The noun may have stress on the first syllable, especially in careful British usage.",
+      "spelling": "Do not confuse adept with adapt, meaning adjust, or adopt, meaning take up or accept."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": {
+        "adjective": "/əˈdept/",
+        "noun": "/ˈædept/; also /əˈdept/"
+      },
+      "uk": {
+        "adjective": "/əˈdept/",
+        "noun": "/ˈædept/"
+      }
+    }
+  },
+  "meaning": {
+    "ja": [
+      "特定の技能・活動を非常に上手に行える、熟練した",
+      "状況を巧みに処理・管理できる",
+      "新しい技術や方法を素早く身につけ、使いこなせる",
+      "名詞として、特定分野の達人・熟練者"
+    ],
+    "en": [
+      "highly skilled at a particular activity or ability",
+      "able to handle or manage a situation skillfully",
+      "quick and effective at learning and using a technique or method",
+      "as a noun, a person who is highly skilled in a particular field or activity"
+    ]
+  },
+  "nuance": {
+    "ja": "adept は、単に能力があるというだけでなく、経験・知識・器用さによって何かを巧みに行えることを表す。be adept at negotiating のように、具体的な技能や行為には at を用いるのが最も一般的である。adept in patent law のように、広い専門分野を示す場合は in も使える。skillful よりやや形式的で、人の実践的な手腕を肯定的に評価する語である。ただし、adept at avoiding responsibility のように、好ましくない行動を巧みに行う場合にも使える。名詞の an adept は「達人」を意味するが、現代の職業的文脈では an expert や a specialist の方が一般的である。",
+    "en": "Adept describes more than basic competence. It suggests that experience, knowledge, or dexterity enables someone to perform an activity with considerable skill. At is the usual preposition before a specific ability or action, as in adept at negotiating. In can introduce a broader discipline, as in adept in patent law. The word is somewhat more formal than skillful and commonly gives a favorable assessment of practical ability. It can, however, describe skill in an undesirable activity, such as being adept at avoiding responsibility. The noun an adept means a highly skilled person, although expert or specialist is more common in modern professional contexts."
+  },
+  "minimal": {
+    "ja": [
+      "adept：特定の技能・行為を非常に巧みに行える、熟練した。",
+      "skilled：訓練・経験によって高い技能を身につけた。",
+      "skillful：行為や作業を巧みに行う能力を示す。",
+      "proficient：学習・訓練によって一定以上の技能を習得している。",
+      "expert：非常に高度な知識・技能を持つ人、またはそのような。",
+      "competent：必要な水準の知識・技能を備え、適切に遂行できる。",
+      "dexterous：特に手先、または複雑な状況の処理が器用な。",
+      "adapt：新しい状況・用途に合うよう自分や物を変える。adept とは別語。"
+    ],
+    "en": [
+      "adept means highly skilled at performing a particular activity.",
+      "skilled means possessing considerable ability acquired through training or experience.",
+      "skillful emphasizes the ability displayed in performing a task.",
+      "proficient means having reached a good standard through study or practice.",
+      "an expert is a person with exceptionally extensive knowledge or skill in a field.",
+      "competent means possessing enough knowledge or ability to perform something properly.",
+      "dexterous describes skillful use of the hands or skillful handling of a complex situation.",
+      "adapt means changing oneself or something to suit new circumstances and is distinct from adept."
+    ]
+  },
+  "etymology": {
+    "ja": "adept はラテン語 adipisci「到達する、獲得する」の過去分詞 adeptus「到達した、獲得した」に由来する。もともとは錬金術や秘教的な知識の奥義に到達した人物を指し、そのような人物が an adept と呼ばれた。そこから、特定の技能・分野を完全に身につけた「達人」、さらに形容詞として「熟練した、巧みな」という一般的な意味へ広がった。",
+    "en": "Adept comes from Latin adeptus, the past participle of adipisci, meaning to attain or acquire. It was originally used of a person believed to have attained the secrets of alchemy or esoteric knowledge. From this arose the noun an adept, a person who had mastered a field, and later the general adjectival meaning highly skilled or proficient."
+  },
+  "synonyms": [
+    {
+      "word": "skilled",
+      "note": {
+        "ja": "訓練・経験を通じて習得した高い技能を持つことを表す一般的な語。",
+        "en": "A general word for possessing considerable ability acquired through training or experience."
+      }
+    },
+    {
+      "word": "proficient",
+      "note": {
+        "ja": "言語・技術・専門分野などで十分に高い能力水準へ達していることを表す。",
+        "en": "Describes reaching a good level of ability in a language, technique, or professional field."
+      }
+    },
+    {
+      "word": "skillful",
+      "note": {
+        "ja": "作業・行為・問題処理などを巧みに遂行する能力に重点を置く。",
+        "en": "Emphasizes the ability shown in performing a task or handling a problem."
+      }
+    },
+    {
+      "word": "expert",
+      "note": {
+        "ja": "特定分野について非常に高度な知識・技能を持つことを表す。",
+        "en": "Describes exceptionally advanced knowledge or skill in a particular field."
+      }
+    },
+    {
+      "word": "dexterous",
+      "note": {
+        "ja": "手先の器用さ、または複雑・微妙な状況を巧みに扱う能力を表す。",
+        "en": "Describes manual skill or the ability to handle a complicated or delicate situation cleverly."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "geschickt / versiert / ein Fachmann",
+    "it": "abile / esperto / competente",
+    "fr": "habile / compétent / expert",
+    "es": "hábil / diestro / experto"
+  },
+  "collocations": {
+    "ja": [
+      "adept at negotiation — 交渉に熟達した",
+      "adept at solving problems — 問題解決に長けた",
+      "adept at handling difficult clients — 難しい顧客への対応が巧みな",
+      "adept at using technology — 技術を使いこなすのが上手な",
+      "adept at reading social cues — 社会的な合図を読み取るのが巧みな",
+      "adept in patent law — 特許法に精通した",
+      "politically adept — 政治的な立ち回りが巧みな",
+      "technically adept — 技術的に熟達した",
+      "a highly adept negotiator — 非常に熟練した交渉者",
+      "become adept at writing — 文章を書くことに熟達する",
+      "adept handling of the situation — 状況の巧みな処理",
+      "adeptly manage a dispute — 紛争を巧みに処理する"
+    ],
+    "en": [
+      "adept at negotiation",
+      "adept at solving problems",
+      "adept at handling difficult clients",
+      "adept at using technology",
+      "adept at reading social cues",
+      "adept in patent law",
+      "politically adept",
+      "technically adept",
+      "a highly adept negotiator",
+      "become adept at writing",
+      "adept handling of the situation",
+      "adeptly manage a dispute"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She is adept at explaining complex ideas in plain language. — 彼女は複雑な考えを平易な言葉で説明することに長けている。",
+      "The manager was adept at resolving disagreements before they became serious. — その管理職は、意見の相違が深刻になる前に解決することが巧みだった。",
+      "He quickly became adept at using the new design software. — 彼はすぐに新しい設計ソフトウェアを使いこなせるようになった。",
+      "Some advertisers are adept at making ordinary products appear indispensable. — 広告業者の中には、ありふれた製品を不可欠なものに見せることに長けた者もいる。",
+      "An experienced patent attorney must be adept at distinguishing a broad inventive concept from the specific embodiments disclosed in the specification. — 経験豊富な弁理士は、広い発明概念と明細書に開示された具体的な実施形態とを巧みに区別できなければならない。"
+    ],
+    "en": [
+      "She is adept at explaining complex ideas in plain language.",
+      "The manager was adept at resolving disagreements before they became serious.",
+      "He quickly became adept at using the new design software.",
+      "Some advertisers are adept at making ordinary products appear indispensable.",
+      "An experienced patent attorney must be adept at distinguishing a broad inventive concept from the specific embodiments disclosed in the specification."
     ]
   }
 }
