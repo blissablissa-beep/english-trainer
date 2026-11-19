@@ -7412,4 +7412,143 @@
     ]
   }
 }
+,
+{
+  "id": "fluctuate",
+  "sid": "2026-01744",
+  "word": "fluctuate",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "variation",
+    "prices",
+    "measurements",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "intransitive",
+    "forms": {
+      "base": "fluctuate",
+      "third_person": "fluctuates",
+      "past": "fluctuated",
+      "past_participle": "fluctuated",
+      "gerund": "fluctuating",
+      "noun": "fluctuation"
+    },
+    "patterns": [
+      "fluctuate between A and B",
+      "fluctuate around a baseline",
+      "fluctuate with demand",
+      "fluctuate from day to day",
+      "fluctuate within a range",
+      "fluctuate sharply / slightly"
+    ],
+    "usage": {
+      "subject": "The changing quantity is the subject. Say prices fluctuate, not the company fluctuates its prices. Use adjust for deliberate changes.",
+      "prepositions": "Between gives a range, around gives a reference level, and with names a factor whose changes are associated with the variation."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈflʌktʃueɪt/",
+      "uk": "/ˈflʌktʃueɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "価格・気温・数値などが上下する、変動する",
+      "需要・関心・気分などの程度が強まったり弱まったりする"
+    ],
+    "en": [
+      "to rise and fall in value, level, or amount",
+      "to become stronger or weaker at different times, as with demand, interest, or mood"
+    ]
+  },
+  "nuance": {
+    "ja": "単に「変わる」のではなく、上がったり下がったりする動きに着目する。周期的である必要も、大幅である必要もない。Prices fluctuated but ended the year higher. のように、途中の上下動と全体の上昇傾向は両立する。申請料が国ごとに違うという比較だけなら、fluctuate より vary が自然。",
+    "en": "Fluctuate emphasizes ups and downs rather than mere difference or a single change. They do not have to be large or regular, and a series can fluctuate while trending upward overall. For a static comparison across countries, vary is usually more natural."
+  },
+  "minimal": {
+    "ja": [
+      "vary： 条件や対象による違いも表せる。時間的な上下動は不要。",
+      "oscillate： 両方向の往復。物理では周期的な振動を指すことが多い。",
+      "rise / fall： 上昇・下落のいずれか一方向を示す。",
+      "be volatile： 大きな、または予測しにくい変動が起きやすい性質を指す。",
+      "waver： 決意・支持・声などが揺らぐ。"
+    ],
+    "en": [
+      "vary: Can describe differences across groups or conditions without any movement over time.",
+      "oscillate: Highlights back-and-forth movement, often periodic in physics.",
+      "rise / fall: Indicates movement in one direction.",
+      "be volatile: Describes a tendency to change sharply or unpredictably.",
+      "waver: Often used for unsteady resolve, support, or voice."
+    ]
+  },
+  "synonyms": [
+    {
+      "word": "vary",
+      "note": {
+        "ja": "条件や対象による違いも表せる。時間的な上下動は不要。",
+        "en": "Can describe differences across groups or conditions without any movement over time."
+      }
+    },
+    {
+      "word": "oscillate",
+      "note": {
+        "ja": "両方向の往復。物理では周期的な振動を指すことが多い。",
+        "en": "Highlights back-and-forth movement, often periodic in physics."
+      }
+    }
+  ],
+  "etymology": {
+    "ja": "ラテン語 fluctuare「波立つ、揺れ動く」に由来し、fluctus「波」と同系。数値が波のように上下するイメージ。",
+    "en": "From Latin fluctuare, to move like waves, related to fluctus, a wave."
+  },
+  "equivalents": {
+    "de": "schwanken",
+    "it": "fluttuare / oscillare",
+    "fr": "fluctuer / osciller",
+    "es": "fluctuar / oscilar"
+  },
+  "collocations": {
+    "ja": [
+      "prices fluctuate — 価格が上下する",
+      "demand fluctuates seasonally — 需要が季節によって変動する",
+      "fluctuate sharply — 激しく変動する",
+      "fluctuate slightly — わずかに上下する",
+      "fluctuate between two limits — 二つの限界値の間で変動する",
+      "fluctuate around the average — 平均値の前後で変動する",
+      "fluctuate with demand — 需要に伴って変動する",
+      "fluctuate from day to day — 日ごとに変動する"
+    ],
+    "en": [
+      "prices fluctuate",
+      "demand fluctuates seasonally",
+      "fluctuate sharply",
+      "fluctuate slightly",
+      "fluctuate between two limits",
+      "fluctuate around the average",
+      "fluctuate with demand",
+      "fluctuate from day to day"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The temperature fluctuated between 18 and 22 degrees overnight. — 夜間の気温は18度から22度の間で変動した。",
+      "The readings fluctuated around zero even when the sensor was idle. — センサーが待機中でも、測定値はゼロ付近で上下した。",
+      "Room rates fluctuate with demand. — 宿泊料金は需要に応じて変動する。",
+      "Prices fluctuated throughout the year but ended higher than they started. — 価格は年間を通して上下したが、年末には年初より高くなった。",
+      "Her energy levels fluctuated from day to day. — 彼女の活力には日によって波があった。"
+    ],
+    "en": [
+      "The temperature fluctuated between 18 and 22 degrees overnight.",
+      "The readings fluctuated around zero even when the sensor was idle.",
+      "Room rates fluctuate with demand.",
+      "Prices fluctuated throughout the year but ended higher than they started.",
+      "Her energy levels fluctuated from day to day."
+    ]
+  }
+}
 ]
