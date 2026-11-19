@@ -7985,4 +7985,142 @@
     ]
   }
 }
+,
+{
+  "id": "outcome",
+  "sid": "2026-01748",
+  "word": "outcome",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "results",
+    "evaluation",
+    "business",
+    "education",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable",
+    "plural": "outcomes",
+    "forms": {
+      "singular": "outcome",
+      "plural": "outcomes"
+    },
+    "patterns": [
+      "the outcome of + noun",
+      "a likely / possible outcome",
+      "lead to a better outcome",
+      "influence the outcome",
+      "regardless of the outcome",
+      "measure outcomes"
+    ],
+    "usage": {
+      "countability": "Use an outcome for one possible result, the outcome for an identified result, and outcomes for multiple results or measured effects.",
+      "possibility": "Outcome is not limited to events that are over; possible and expected outcomes are common.",
+      "education": "A learning outcome often states what learners should be able to do by the end of a course."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈaʊtkʌm/",
+      "uk": "/ˈaʊtkʌm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "交渉・試合・手続などがどうなったかという結果、結末",
+      "施策・教育などによって生じる、または期待される成果・変化"
+    ],
+    "en": [
+      "the result or eventual state of an event, decision, or process",
+      "an actual or intended effect, especially one used to evaluate a program or course"
+    ]
+  },
+  "nuance": {
+    "ja": "outcome は、ある経過の末に『結局どうなったか』に焦点を当てる。必ずしも成功や望ましい成果ではない。事業評価では、研修の実施回数が output（直接生み出したもの）、受講者が新しい技能を仕事で使えるようになることが outcome（その結果生じた変化）に当たる。一般的な文脈では result と重なるが、計算で求めた数値なら通常は result が自然。",
+    "en": "Outcome focuses on how something turns out and is neutral about whether that result is desirable. In program evaluation, sessions delivered are an output, while participants’ ability to apply a new skill is an outcome. In everyday use it overlaps with result, but result is the usual word for the answer to a calculation."
+  },
+  "minimal": {
+    "ja": [
+      "result： 結果の一般語。計算結果・検査結果にも自然。",
+      "output： 工程やシステムが生み出したもの。outcome はその先に何が変わったかを指せる。",
+      "consequence： ある行為から生じる影響・帰結。因果関係に焦点を当てる。",
+      "verdict： 陪審などの評決。outcome は和解や取下げを含む、事件の結末全般に使える。",
+      "impact： 効果の大きさ・広がりに焦点を当てる。評価の文脈では長期的な影響を指すこともある。"
+    ],
+    "en": [
+      "result: A broad term, natural for the answer to a calculation or the findings of a test.",
+      "output: What a process produces; outcome can refer to what changes as a result.",
+      "consequence: Emphasizes what follows from an action or event as its effect.",
+      "verdict: A formal finding, whereas outcome can describe how the entire case ends.",
+      "impact: Focuses on the extent or reach of an effect and may refer to longer-term change in evaluation contexts."
+    ]
+  },
+  "synonyms": [
+    {
+      "word": "result",
+      "note": {
+        "ja": "結果の一般語。計算結果・検査結果にも自然。",
+        "en": "A broad term, natural for the answer to a calculation or the findings of a test."
+      }
+    },
+    {
+      "word": "consequence",
+      "note": {
+        "ja": "ある行為から生じる影響・帰結。因果関係に焦点を当てる。",
+        "en": "Emphasizes what follows from an action or event as its effect."
+      }
+    }
+  ],
+  "etymology": {
+    "ja": "out と come から成り、物事がどのように『出てくる・帰結する』かを指す。",
+    "en": "Formed from out and come, with the idea of what comes out of a process."
+  },
+  "equivalents": {
+    "de": "Ergebnis / Ausgang / Wirkung",
+    "it": "esito / risultato",
+    "fr": "résultat / issue / effet",
+    "es": "resultado / desenlace / efecto"
+  },
+  "collocations": {
+    "ja": [
+      "a favorable outcome — 好ましい結果",
+      "an unexpected outcome — 予想外の結果",
+      "the likely outcome — 予想される結末",
+      "the outcome of the negotiations — 交渉の結果",
+      "influence the outcome — 結果を左右する",
+      "regardless of the outcome — 結果にかかわらず",
+      "measure outcomes — 成果・変化を測定する",
+      "learning outcomes — 学習成果、到達目標"
+    ],
+    "en": [
+      "a favorable outcome",
+      "an unexpected outcome",
+      "the likely outcome",
+      "the outcome of the negotiations",
+      "influence the outcome",
+      "regardless of the outcome",
+      "measure outcomes",
+      "learning outcomes"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We should prepare for several possible outcomes. — いくつかの結果を想定して備えておくべきだ。",
+      "The additional prior-art reference could affect the outcome of the opposition. — 追加の先行技術文献は、異議申立ての結果を左右し得る。",
+      "Regardless of the outcome, we’ll explain how we reached our decision. — どのような結論になっても、判断に至った経緯を説明します。",
+      "The team counted the workshops it delivered but did not measure outcomes such as changes in participants’ skills. — チームは実施した研修の回数を数えたが、参加者の技能の変化といった成果は測定しなかった。",
+      "One learning outcome is that students can explain their reasoning in plain English. — 学習到達目標の一つは、学生が自分の考え方を平易な英語で説明できるようになることだ。"
+    ],
+    "en": [
+      "We should prepare for several possible outcomes.",
+      "The additional prior-art reference could affect the outcome of the opposition.",
+      "Regardless of the outcome, we’ll explain how we reached our decision.",
+      "The team counted the workshops it delivered but did not measure outcomes such as changes in participants’ skills.",
+      "One learning outcome is that students can explain their reasoning in plain English."
+    ]
+  }
+}
 ]
