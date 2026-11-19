@@ -7290,4 +7290,126 @@
     ]
   }
 }
+,
+{
+  "id": "erga-omnes",
+  "sid": "2026-01743",
+  "word": "erga omnes",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "legal",
+    "Latin",
+    "international law",
+    "scope of effect"
+  ],
+  "grammar": {
+    "pos": "adverbial / adjectival phrase",
+    "forms": {
+      "base": "erga omnes",
+      "related": "erga omnes partes",
+      "contrast": "inter partes"
+    },
+    "patterns": [
+      "have effect erga omnes",
+      "be enforceable erga omnes",
+      "obligations erga omnes",
+      "erga omnes effect"
+    ],
+    "usage": {
+      "position": "Often follows a verb or noun, as in operates erga omnes or obligations erga omnes. It can also precede a noun, as in erga omnes effect.",
+      "scope": "The phrase identifies toward whom a right, effect, or obligation extends. It does not itself tell you who can bring a claim in a particular court."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈɛrɡə ˈɑːmneɪs/ (one rendering)",
+      "uk": "/ˈɜːɡə ˈɒmneɪz/ (one rendering)"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "すべての者に対して、当事者に限らず（法的効力・対抗力など）",
+      "国際法で、国際社会全体に対して負う（義務について）"
+    ],
+    "en": [
+      "toward all, rather than only between the parties, especially of legal effect",
+      "owed to the international community as a whole, of certain obligations in international law"
+    ]
+  },
+  "nuance": {
+    "ja": "判断の効力を述べるときは、当事者間に限られる inter partes と対照的。国際法の obligations erga omnes では、誰に対して義務を負うかが焦点で、裁判所の管轄が自動的に認められるという意味ではない。erga omnes partes は、特定の条約の締約国全体を対象とする場合に使われる。jus cogens は逸脱が許されない規範としての地位を表し、義務を負う相手の範囲を示す erga omnes とは着眼点が異なる。",
+    "en": "When describing legal effect, erga omnes contrasts with inter partes. In public international law, obligations erga omnes are owed to the international community as a whole; the label does not itself establish a court’s jurisdiction. Erga omnes partes refers instead to the parties to a particular treaty as a group. Jus cogens concerns a norm’s peremptory status, not the group to which an obligation is owed."
+  },
+  "minimal": {
+    "ja": [
+      "inter partes：当事者間でのみ（効力について）。",
+      "erga omnes partes：特定の条約の締約国全体に対して。",
+      "jus cogens：逸脱が許されない国際法の強行規範。"
+    ],
+    "en": [
+      "inter partes: effective between the parties rather than toward all.",
+      "erga omnes partes: toward all parties to a particular treaty.",
+      "jus cogens: a peremptory norm from which no derogation is permitted."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 erga「～に対して」と omnes「すべての者」（omnis の複数対格）から成る。英語での発音には揺れがある。",
+    "en": "Latin erga, toward, governs omnes, the accusative plural of omnis, all. Pronunciation varies among English speakers."
+  },
+  "synonyms": [
+    {
+      "word": "with effect against all",
+      "note": {
+        "ja": "法的効力についての平易な言い換え。",
+        "en": "A plain-language paraphrase when describing legal effect."
+      }
+    },
+    {
+      "word": "owed to the international community as a whole",
+      "note": {
+        "ja": "国際法上の義務についての説明的な言い換え。",
+        "en": "An explanatory paraphrase in the context of international obligations."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gegenüber jedermann / gegenüber der Staatengemeinschaft als Ganzes",
+    "it": "nei confronti di tutti / verso la comunità internazionale nel suo insieme",
+    "fr": "à l’égard de tous / envers la communauté internationale dans son ensemble",
+    "es": "frente a todos / respecto de la comunidad internacional en su conjunto"
+  },
+  "collocations": {
+    "ja": [
+      "erga omnes effect — 対世的効力",
+      "have effect erga omnes — 対世的な効力を有する",
+      "be enforceable erga omnes — すべての者に対して権利を主張できる",
+      "obligations erga omnes — 国際社会全体に対する義務",
+      "a breach of an obligation erga omnes — 国際社会全体に対する義務の違反",
+      "obligations erga omnes partes — 条約の全締約国に対する義務"
+    ],
+    "en": [
+      "erga omnes effect",
+      "have effect erga omnes",
+      "be enforceable erga omnes",
+      "obligations erga omnes",
+      "a breach of an obligation erga omnes",
+      "obligations erga omnes partes"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The parties disagreed on whether the decision had effect erga omnes or only inter partes. — その判断が対世的効力を持つのか、当事者間でのみ効力を持つのかについて、当事者の見解は分かれた。",
+      "The article distinguishes obligations owed to a particular state from obligations erga omnes. — その論文は、特定の国家に対して負う義務と、国際社会全体に対して負う義務を区別している。",
+      "Describing the obligation as erga omnes does not by itself establish the court’s jurisdiction. — その義務を国際社会全体に対する義務と位置づけるだけでは、裁判所の管轄は確立しない。",
+      "The editor replaced erga omnes with ‘against all’ in the plain-language summary. — 編集者は平易な要約で、erga omnes を「すべての者に対して」と書き換えた。"
+    ],
+    "en": [
+      "The parties disagreed on whether the decision had effect erga omnes or only inter partes.",
+      "The article distinguishes obligations owed to a particular state from obligations erga omnes.",
+      "Describing the obligation as erga omnes does not by itself establish the court’s jurisdiction.",
+      "The editor replaced erga omnes with ‘against all’ in the plain-language summary."
+    ]
+  }
+}
 ]
