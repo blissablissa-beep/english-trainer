@@ -8401,4 +8401,143 @@
     ]
   }
 }
+,
+{
+  "id": "upbraid",
+  "sid": "2026-01751",
+  "word": "upbraid",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "verb",
+    "criticism",
+    "blame",
+    "formal",
+    "literary"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "transitivity": "transitive",
+    "forms": {
+      "base": "upbraid",
+      "third_person": "upbraids",
+      "past": "upbraided",
+      "past_participle": "upbraided",
+      "gerund": "upbraiding"
+    },
+    "patterns": [
+      "upbraid someone",
+      "upbraid someone for + noun / gerund",
+      "be upbraided for + noun / gerund"
+    ],
+    "usage": {
+      "object": "The direct object is normally the person being criticized; for introduces the reason.",
+      "register": "Formal or literary; in everyday conversation, scold or tell someone off is often more natural."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ʌpˈbreɪd/",
+      "uk": "/ʌpˈbreɪd/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人の言動を厳しくとがめる、叱責する"
+    ],
+    "en": [
+      "to criticize someone sharply for something they have said or done"
+    ]
+  },
+  "nuance": {
+    "ja": "upbraid は、人の落ち度を取り上げて厳しく責める、やや硬い語。職場で使っても、reprimand のような正式な処分や懲戒を必ずしも意味しない。怒鳴ることより、相手のしたことをとがめる言葉に焦点がある。",
+    "en": "Upbraid is a formal word for taking someone to task over a perceived fault. It can sound angry, but does not require shouting or imply an official reprimand."
+  },
+  "minimal": {
+    "ja": [
+      "scold： 日常的な「叱る」。親が子を叱る場面などに自然。",
+      "reprimand： 職場などでの公式な叱責を指しやすい。",
+      "reproach： 落胆や非難を示す。怒った口調とは限らない。",
+      "rebuke： 不適切な言動をきっぱり非難する。",
+      "berate： 激しい言葉でまくし立てるように叱る。"
+    ],
+    "en": [
+      "scold: The everyday word for telling someone off, as a parent might scold a child.",
+      "reprimand: Often denotes formal or official disapproval, especially at work.",
+      "reproach: Expresses blame or disappointment and can be quiet rather than angry.",
+      "rebuke: Expresses sharp disapproval of improper behavior.",
+      "berate: Often suggests a sustained or especially harsh verbal attack."
+    ]
+  },
+  "synonyms": [
+    {
+      "word": "scold",
+      "note": {
+        "ja": "日常的な「叱る」。親が子を叱る場面などに自然。",
+        "en": "The everyday word for telling someone off, as a parent might scold a child."
+      }
+    },
+    {
+      "word": "reprimand",
+      "note": {
+        "ja": "職場などでの公式な叱責を指しやすい。",
+        "en": "Often denotes formal or official disapproval, especially at work."
+      }
+    },
+    {
+      "word": "reproach",
+      "note": {
+        "ja": "落胆や非難を示す。怒った口調とは限らない。",
+        "en": "Expresses blame or disappointment and can be quiet rather than angry."
+      }
+    },
+    {
+      "word": "rebuke",
+      "note": {
+        "ja": "不適切な言動をきっぱり非難する。",
+        "en": "Expresses sharp disapproval of improper behavior."
+      }
+    }
+  ],
+  "etymology": {
+    "ja": "古英語後期の upbrēdan にさかのぼる。もとは『非難の根拠として何かを持ち出す』という意味。現代の braid「編む」からそのまま意味を組み立てることはできない。",
+    "en": "From late Old English upbrēdan, which referred to bringing something forward as grounds for blame. The modern sense is not predictable from braid meaning to plait."
+  },
+  "equivalents": {
+    "de": "jemanden zurechtweisen / jemandem Vorwürfe machen",
+    "it": "rimproverare qualcuno",
+    "fr": "réprimander quelqu’un / faire des reproches à quelqu’un",
+    "es": "reprender a alguien / recriminar a alguien"
+  },
+  "collocations": {
+    "ja": [
+      "upbraid someone for their conduct — 人の振る舞いを厳しくとがめる",
+      "upbraid someone for being late — 遅刻したことを厳しく叱る",
+      "upbraid someone for breaking a promise — 約束を破ったことを責める",
+      "upbraid someone in public — 公の場で人を叱責する",
+      "be upbraided for neglecting one’s duties — 職務を怠ったことで叱責される"
+    ],
+    "en": [
+      "upbraid someone for their conduct",
+      "upbraid someone for being late",
+      "upbraid someone for breaking a promise",
+      "upbraid someone in public",
+      "be upbraided for neglecting one’s duties"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She upbraided him for breaking his promise. — 彼女は、約束を破ったことを厳しくとがめた。",
+      "The chair upbraided the committee members for ignoring repeated warnings. — 議長は、度重なる警告を無視したとして委員たちを厳しく非難した。",
+      "He was upbraided in front of his colleagues for disclosing the figures before the announcement. — 彼は発表前に数値を明かしたことで、同僚たちの前で叱責された。",
+      "Rather than upbraid her for the mistake, I asked what had gone wrong. — 彼女のミスを責める代わりに、何がうまくいかなかったのかを尋ねた。"
+    ],
+    "en": [
+      "She upbraided him for breaking his promise.",
+      "The chair upbraided the committee members for ignoring repeated warnings.",
+      "He was upbraided in front of his colleagues for disclosing the figures before the announcement.",
+      "Rather than upbraid her for the mistake, I asked what had gone wrong."
+    ]
+  }
+}
 ]
