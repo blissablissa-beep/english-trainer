@@ -6732,4 +6732,288 @@
     ]
   }
 }
+,
+{
+  "id": "unattached",
+  "sid": "2026-01739",
+  "word": "unattached",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "connection",
+    "affiliation",
+    "relationships",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "unattached",
+      "opposite": "attached",
+      "related_verb": "attach"
+    },
+    "patterns": [
+      "remain unattached",
+      "unattached to + noun",
+      "leave + object + unattached",
+      "compete unattached"
+    ],
+    "usage": {
+      "position": "Used both before a noun and after a linking verb.",
+      "note": "To introduces the object or organization; for relationship status, unattached generally stands alone."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌʌnəˈtætʃt/",
+      "uk": "/ˌʌnəˈtætʃt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "どこにも接続・固定されていない",
+      "組織・チームなどに所属していない",
+      "特定の交際相手がいない"
+    ],
+    "en": [
+      "not fastened or connected to anything",
+      "not affiliated with a group or team",
+      "not in a romantic relationship"
+    ]
+  },
+  "nuance": {
+    "ja": "leave one end unattached は『片端を留めずにおく』。以前はつながっていたとは限らない。人については文脈で意味が変わる。大会名簿の unattached は『所属クラブなし』だが、恋愛の話なら『今は交際相手がいない』。未婚でも交際中なら、後者の意味では通常 unattached と言わない。",
+    "en": "An unattached cable need never have been connected in the first place. For a person, the relevant connection depends on the setting: a runner can be unattached in a race and still have a partner at home."
+  },
+  "minimal": {
+    "ja": [
+      "detached： 取り外された、または離れている。感情に流されない、の意味もある。",
+      "unaffiliated： 組織などへの所属がない。交際関係には通常使わない。",
+      "single： 独身を指す場合と、恋人がいないことを指す場合がある。",
+      "loose： しっかり固定されていない。完全に外れている必要はない。"
+    ],
+    "en": [
+      "detached: Can mean removed, separate, or emotionally uninvolved.",
+      "unaffiliated: Specifically describes a lack of organizational affiliation.",
+      "single: May describe marital status or the absence of a romantic partner.",
+      "loose: Something loose may still be attached."
+    ]
+  },
+  "etymology": {
+    "ja": "否定の接頭辞 un- と attached（attach の過去分詞）から成り、『取り付けられた状態にない』ことを表す。",
+    "en": "Formed from negative un- and attached, the past participle of attach."
+  },
+  "synonyms": [
+    {
+      "word": "detached",
+      "note": {
+        "ja": "取り外された、または離れている。感情に流されない、の意味もある。",
+        "en": "Can mean removed, separate, or emotionally uninvolved."
+      }
+    },
+    {
+      "word": "unaffiliated",
+      "note": {
+        "ja": "組織などへの所属がない。交際関係には通常使わない。",
+        "en": "Specifically describes a lack of organizational affiliation."
+      }
+    },
+    {
+      "word": "single",
+      "note": {
+        "ja": "独身を指す場合と、恋人がいないことを指す場合がある。",
+        "en": "May describe marital status or the absence of a romantic partner."
+      }
+    },
+    {
+      "word": "loose",
+      "note": {
+        "ja": "しっかり固定されていない。完全に外れている必要はない。",
+        "en": "Something loose may still be attached."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "unbefestigt / vereinslos / ohne Partner",
+    "it": "non fissato / senza affiliazione / single",
+    "fr": "non fixé / sans affiliation / célibataire",
+    "es": "sin fijar / sin afiliación / sin pareja"
+  },
+  "collocations": {
+    "en": [
+      "an unattached cable",
+      "remain unattached to the frame",
+      "leave one end unattached",
+      "an unattached runner",
+      "compete unattached",
+      "currently unattached"
+    ],
+    "ja": [
+      "an unattached cable — 未接続のケーブル",
+      "remain unattached to the frame — 枠に固定されないままである",
+      "leave one end unattached — 片端を留めずにおく",
+      "an unattached runner — クラブに所属しないランナー",
+      "compete unattached — 無所属で出場する",
+      "currently unattached — 現在は交際相手がいない"
+    ]
+  },
+  "example": {
+    "en": [
+      "Leave one end of the strap unattached for now.",
+      "The sensor sits inside the housing but remains unattached to its walls.",
+      "She competed unattached while looking for a new club.",
+      "Both were unattached when they first met."
+    ],
+    "ja": [
+      "Leave one end of the strap unattached for now. — 今はストラップの片端を留めずにおいてください。",
+      "The sensor sits inside the housing but remains unattached to its walls. — センサーは筐体の中にあるが、その内壁には固定されていない。",
+      "She competed unattached while looking for a new club. — 彼女は新しいクラブを探す間、無所属で大会に出た。",
+      "Both were unattached when they first met. — 二人が初めて会ったとき、どちらにも交際相手はいなかった。"
+    ]
+  }
+},
+{
+  "id": "solemn",
+  "sid": "2026-01740",
+  "word": "solemn",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "ceremony",
+    "commitment",
+    "expression",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "solemn",
+      "comparative": "more solemn",
+      "superlative": "most solemn",
+      "adverb": "solemnly",
+      "noun": "solemnity"
+    },
+    "patterns": [
+      "look / sound / become solemn",
+      "a solemn + promise / oath / occasion",
+      "in a solemn + voice / tone"
+    ],
+    "usage": {
+      "position": "Used both before a noun and after a linking verb.",
+      "note": "Use solemnly to modify a verb: solemnly swear."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈsɑːləm/",
+      "uk": "/ˈsɒləm/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "表情や口調が真剣で重々しい",
+      "式典や場の雰囲気が厳かである",
+      "誓い・約束が厳粛である"
+    ],
+    "en": [
+      "serious and not lighthearted in expression or manner",
+      "marked by dignity and gravity, especially on a ceremonial occasion",
+      "made with a deep sense of commitment, as of a promise or oath"
+    ]
+  },
+  "nuance": {
+    "ja": "solemn は単なる『悲しい』ではない。結婚式で誓いを交わす瞬間は、喜ばしい場面でも solemn になり得る。a solemn promise は『暗い顔でした約束』ではなく、その約束を重く受け止めているという意味。serious problem は重大な問題だが、それだけで solemn problem とは普通言わない。",
+    "en": "Solemn describes the weight people give a moment, not simply how severe a problem is. A ceremony may be joyful overall yet solemn during the vows. Applied to a promise, the word stresses the seriousness of the undertaking."
+  },
+  "minimal": {
+    "ja": [
+      "serious： 冗談でない、重大であるなど、広い意味の『真剣な』。",
+      "somber： 暗く沈んだ雰囲気を強調する。",
+      "grave： 態度なら重々しい。事態なら深刻さを表す。",
+      "formal： 所定の形式に従う。厳粛な雰囲気とは限らない。"
+    ],
+    "en": [
+      "serious: Broader: can describe a sincere intention or a severe problem.",
+      "somber: Emphasizes gloom rather than dignity.",
+      "grave: Describes a weighty manner or a situation with serious consequences.",
+      "formal: Concerns form or convention, not necessarily gravity."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語を経て、定例の祭礼などに関わるラテン語 sollemnis にさかのぼる。現代の solemn では末尾の n は発音しないが、solemnity では発音する。",
+    "en": "From Latin sollemnis, associated with customary observances, through French. The final n is silent in solemn but audible in solemnity."
+  },
+  "synonyms": [
+    {
+      "word": "serious",
+      "note": {
+        "ja": "冗談でない、重大であるなど、広い意味の『真剣な』。",
+        "en": "Broader: can describe a sincere intention or a severe problem."
+      }
+    },
+    {
+      "word": "somber",
+      "note": {
+        "ja": "暗く沈んだ雰囲気を強調する。",
+        "en": "Emphasizes gloom rather than dignity."
+      }
+    },
+    {
+      "word": "grave",
+      "note": {
+        "ja": "態度なら重々しい。事態なら深刻さを表す。",
+        "en": "Describes a weighty manner or a situation with serious consequences."
+      }
+    },
+    {
+      "word": "formal",
+      "note": {
+        "ja": "所定の形式に従う。厳粛な雰囲気とは限らない。",
+        "en": "Concerns form or convention, not necessarily gravity."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "feierlich / ernst / würdevoll",
+    "it": "solenne / serio",
+    "fr": "solennel / grave",
+    "es": "solemne / serio"
+  },
+  "collocations": {
+    "en": [
+      "a solemn expression",
+      "in a solemn voice",
+      "a solemn occasion",
+      "a solemn silence",
+      "make a solemn promise",
+      "take a solemn oath",
+      "on a solemn note"
+    ],
+    "ja": [
+      "a solemn expression — 真剣な面持ち",
+      "in a solemn voice — 重々しい声で",
+      "a solemn occasion — 厳かな場",
+      "a solemn silence — 厳粛な沈黙",
+      "make a solemn promise — 固く約束する",
+      "take a solemn oath — 厳粛に誓う",
+      "on a solemn note — 厳かな調子で"
+    ]
+  },
+  "example": {
+    "en": [
+      "His usually cheerful face grew solemn.",
+      "A solemn silence fell as the names were read aloud.",
+      "The couple exchanged solemn vows, then broke into smiles.",
+      "I made her a solemn promise that I would return the letters unopened."
+    ],
+    "ja": [
+      "His usually cheerful face grew solemn. — いつもは明るい彼の表情が真剣になった。",
+      "A solemn silence fell as the names were read aloud. — 名前が読み上げられると、会場は厳かな静けさに包まれた。",
+      "The couple exchanged solemn vows, then broke into smiles. — 二人は厳かに誓いを交わし、それから笑顔になった。",
+      "I made her a solemn promise that I would return the letters unopened. — 手紙は開封せずに返すと、私は彼女に固く約束した。"
+    ]
+  }
+}
 ]
