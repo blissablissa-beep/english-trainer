@@ -4,7 +4,7 @@
 // Constants
 // ==================================================
 
-const CARDS_VERSION = "2026-09-01-1";
+const CARDS_VERSION = "2026-11-19-1";
 
 const STORAGE = {
   language: "et_language",
@@ -146,7 +146,8 @@ const CARD_FILES = [
   "./data/cards16.json",
   "./data/cards17.json",
   "./data/cards18.json",
-  "./data/cards19.json"
+  "./data/cards19.json",
+  "./data/cards20.json"
 ];
 
 const WORDS_PAGE_SIZE = 120;
@@ -459,27 +460,7 @@ async function loadCards() {
   let loadingFile = "未特定";
 
   try {
-    const files = [
-      "./cards.json",
-      "./cards2.json",
-      "./cards3.json",
-      "./cards4.json",
-      "./cards5.json",
-      "./cards6.json",
-      "./cards7.json",
-      "./cards8.json",
-      "./cards9.json",
-      "./cards10.json",
-      "./cards11.json",
-      "./data/cards12.json",
-      "./data/cards13.json",
-      "./data/cards14.json",
-      "./data/cards15.json",
-      "./data/cards16.json",
-      "./data/cards17.json",
-      "./data/cards18.json",
-      "./data/cards19.json"
-    ];
+    const files = CARD_FILES;
 
     const allCards = [];
 
