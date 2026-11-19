@@ -4426,4 +4426,698 @@
     ]
   }
 }
+,
+{
+  "id": "reduction",
+  "sid": "2026-01724",
+  "word": "reduction",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "decrease",
+    "quantity",
+    "cost",
+    "price",
+    "transformation",
+    "cooking",
+    "mathematics",
+    "chemistry",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable or uncountable depending on sense",
+    "plural": "reductions",
+    "forms": {
+      "singular": "reduction",
+      "plural": "reductions",
+      "verb": "reduce",
+      "related_adjectives": "reduced / reducible"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "a reduction in + quantity / price / risk",
+      "a reduction of + amount",
+      "a reduction from + initial value + to + final value",
+      "a reduction to + final amount",
+      "a reduction on + price / item",
+      "a reduction of something to something",
+      "achieve / make / announce a reduction",
+      "cost / emissions reduction",
+      "a reduction in force",
+      "a reduction sauce"
+    ],
+    "usage": {
+      "countability": "A reduction identifies an instance or amount of decrease; reduction without an article can describe the process generally.",
+      "in_of": "In commonly names what decreases; of commonly specifies the size of the decrease: a reduction in costs of 10 percent.",
+      "by_to": "A reduction by 20 percent removes one fifth; a reduction to 20 percent leaves one fifth of the original amount.",
+      "price": "A reduction can be a decrease in the price charged.",
+      "cooking": "A reduction is a liquid concentrated by simmering, or the process used to produce it.",
+      "chemistry": "Chemical reduction involves a gain of electrons or a decrease in oxidation state.",
+      "simplification": "Reduction of something to something can mean simplification, sometimes criticized as excessive.",
+      "mathematics": "In mathematics, reduction can involve simplifying an expression or transforming a problem into another form."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/rɪˈdʌkʃən/",
+      "uk": "/rɪˈdʌkʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "数量・程度・規模などの減少、削減",
+      "減少した量・幅",
+      "価格の引下げ、値引き",
+      "より単純な形や状態への変換",
+      "液体を煮詰めること、煮詰めたソース",
+      "数学での簡約・変換、化学での還元"
+    ],
+    "en": [
+      "a decrease in amount, degree, or size, or the process of making it smaller",
+      "the amount by which something decreases",
+      "a lowering of a price or charge",
+      "the transformation of something into a simpler form or state",
+      "the concentration of a liquid by simmering, or the resulting liquid",
+      "simplification or transformation in mathematics, or reduction in chemistry"
+    ]
+  },
+  "nuance": {
+    "ja": "reduction は reduce に対応する名詞で、減らす過程とその結果の両方を表す。a reduction in costs は費用そのものの減少、a reduction of 10 percent は減少幅を示す。cut より中立的・形式的で、値引きにも環境対策にも使える。reduction of a complex issue to a slogan は、複雑な問題を標語へ還元して重要な要素を落とすという批判になり得る。料理・数学・化学では、単に数量が減ることとは異なる専門的な意味がある。",
+    "en": "Reduction names both the process of reducing and its result. A reduction in costs identifies what decreases; a reduction of 10 percent gives the size of the decrease. It is more neutral and formal than cut and applies to discounts as well as environmental measures. Reduction of a complex issue to a slogan may criticize the loss of important complexity. In cooking, mathematics, and chemistry, the word has specific meanings that are not simply decreases in quantity."
+  },
+  "minimal": {
+    "ja": [
+      "reduction：量・程度などを減らすこと、または減少した幅。",
+      "decrease：数値・程度の減少を広く表す。",
+      "cut：予算・人員などの削減を直接的に表す。",
+      "discount：通常価格からの値引き。",
+      "decline：水準・数量・質などの低下。",
+      "deduction：全体から差し引くこと、または演繹。",
+      "simplification：複雑さを減らし、単純にすること。",
+      "reductionism：複雑な現象をより単純な要素だけで説明する考え方。"
+    ],
+    "en": [
+      "reduction is the process or amount of making something smaller.",
+      "decrease broadly means a fall in amount or degree.",
+      "cut directly describes a reduction in a budget or workforce.",
+      "discount is a deduction from a normal price.",
+      "decline is a fall in level, quantity, or quality.",
+      "deduction is subtraction from a total or reasoning from premises.",
+      "simplification is the removal of complexity.",
+      "reductionism explains complex phenomena in terms of simpler components."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 reductio「連れ戻すこと」に由来し、reducere「連れ戻す、戻す」から作られた。reducere は re-「戻って」と ducere「導く」から成る。特定の状態へ戻す・変えるという意味から、量の削減や単純な形への変換を表すようになった。reduce と同じ語族である。",
+    "en": "Reduction derives from Latin reductio, a bringing back, from reducere, to lead or bring back. Reducere combines re-, back, with ducere, to lead. Bringing something to a particular condition developed into decreasing its amount or transforming it into a simpler form. Reduce belongs to the same family."
+  },
+  "synonyms": [
+    {
+      "word": "decrease",
+      "note": {
+        "ja": "数量・程度の減少という意味で近い。",
+        "en": "Close in the sense of a fall in amount or degree."
+      }
+    },
+    {
+      "word": "cut",
+      "note": {
+        "ja": "計画的な削減を表し、より直接的。",
+        "en": "A more direct term, often for a deliberate decrease."
+      }
+    },
+    {
+      "word": "discount",
+      "note": {
+        "ja": "価格の値引きという意味で対応する。",
+        "en": "Corresponds to a reduction in price."
+      }
+    },
+    {
+      "word": "simplification",
+      "note": {
+        "ja": "より単純な形にする意味で近い。",
+        "en": "Overlaps with transformation into a simpler form."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Verringerung / Reduzierung / Preisnachlass / Reduktion",
+    "it": "riduzione / ribasso",
+    "fr": "réduction / diminution",
+    "es": "reducción / rebaja"
+  },
+  "collocations": {
+    "ja": [
+      "a reduction in costs — 費用の削減",
+      "a significant reduction — 大幅な減少",
+      "a reduction of 20 percent — 20パーセントの削減",
+      "a price reduction — 値下げ",
+      "emissions reduction — 排出量削減",
+      "risk reduction — リスク低減",
+      "a reduction in force — 人員削減",
+      "a reduction sauce — 煮詰めたソース",
+      "reduction to its simplest form — 最も単純な形への簡約",
+      "chemical reduction — 化学的還元"
+    ],
+    "en": [
+      "a reduction in costs",
+      "a significant reduction",
+      "a reduction of 20 percent",
+      "a price reduction",
+      "emissions reduction",
+      "risk reduction",
+      "a reduction in force",
+      "a reduction sauce",
+      "reduction to its simplest form",
+      "chemical reduction"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The new process achieved a reduction in energy use of 15 percent. — 新しい工程によって、エネルギー使用量が15パーセント削減された。",
+      "The shop offered a reduction on display models. — その店は展示品を値引きして販売した。",
+      "The fish was served with a lemon reduction. — 魚にはレモンを煮詰めたソースが添えられていた。",
+      "Her account resists the reduction of a complex dispute to a simple rivalry. — 彼女の説明は、複雑な紛争を単なる対抗関係へと単純化することを避けている。",
+      "The patent attorney proposed a reduction in the number of claims to simplify the discussion. — 弁理士は、議論を簡潔にするため請求項数の削減を提案した。"
+    ],
+    "en": [
+      "The new process achieved a reduction in energy use of 15 percent.",
+      "The shop offered a reduction on display models.",
+      "The fish was served with a lemon reduction.",
+      "Her account resists the reduction of a complex dispute to a simple rivalry.",
+      "The patent attorney proposed a reduction in the number of claims to simplify the discussion."
+    ]
+  }
+},
+{
+  "id": "obsession",
+  "sid": "2026-01725",
+  "word": "obsession",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "preoccupation",
+    "fixation",
+    "thought",
+    "interest",
+    "emotion",
+    "behavior",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable or uncountable",
+    "plural": "obsessions",
+    "forms": {
+      "singular": "obsession",
+      "plural": "obsessions",
+      "verb": "obsess",
+      "related_adjective": "obsessive"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "an obsession with + noun / gerund",
+      "have / develop an obsession with something",
+      "become an obsession",
+      "a personal / lifelong obsession",
+      "border on obsession",
+      "to the point of obsession",
+      "someone’s latest obsession",
+      "an object of obsession"
+    ],
+    "usage": {
+      "countability": "A particular fixation is countable; obsession can also name the general state or intensity of preoccupation.",
+      "preposition": "With is the standard preposition for the object of a fixation.",
+      "everyday": "In conversation, obsession can exaggerate an enthusiastic interest without implying illness.",
+      "evaluation": "It often suggests an interest that occupies too much attention or is difficult to set aside.",
+      "clinical": "In clinical contexts, the word can have a more specific meaning involving intrusive, unwanted thoughts, images, or urges; everyday usage is broader and is not a diagnosis.",
+      "distinction": "An obsession is not necessarily accompanied by an outward repetitive action."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əbˈseʃən/",
+      "uk": "/əbˈseʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "頭から離れない考え・関心、執着",
+      "一つの対象に過度に心を奪われた状態",
+      "口語的に、夢中になっている物・事",
+      "臨床的文脈で、侵入的で望まない強迫的な思考など"
+    ],
+    "en": [
+      "a persistent preoccupation or fixation",
+      "the state of being excessively absorbed in a particular subject",
+      "informally, something one is extremely enthusiastic about",
+      "in clinical contexts, an intrusive and unwanted thought, image, or urge"
+    ]
+  },
+  "nuance": {
+    "ja": "obsession は、関心が繰り返し意識を占め、ほかのことへ注意を向けにくいという含みを持つ。passion が肯定的な情熱を表しやすいのに対し、obsession は過剰さや制御しにくさを示しやすい。ただし、My latest obsession is this game. のような日常語では「最近すっかりはまっている」という軽い誇張にもなる。こうした口語的表現を、そのまま精神疾患の意味に解釈してはいけない。",
+    "en": "Obsession suggests that an interest repeatedly occupies the mind and is difficult to put aside. Compared with passion, it more readily implies excess or limited control. In casual speech, however, My latest obsession is this game may simply exaggerate enthusiasm. Such everyday usage should not automatically be interpreted as a statement about a mental disorder."
+  },
+  "minimal": {
+    "ja": [
+      "obsession：頭を占め続ける執着・強い関心。",
+      "passion：強い情熱・愛好。通常はより肯定的。",
+      "preoccupation：注意を占める心配事・関心事。",
+      "fixation：特定の対象から離れにくい固着・執着。",
+      "enthusiasm：熱意・積極的な関心。",
+      "compulsion：行動せずにはいられない衝動・強制。",
+      "addiction：依存。obsession と常に同義ではない。",
+      "fascination：強く引き付けられる興味・魅惑。"
+    ],
+    "en": [
+      "obsession is a persistent fixation or absorbing preoccupation.",
+      "passion is strong enthusiasm or love, often viewed positively.",
+      "preoccupation is something that occupies attention.",
+      "fixation emphasizes an attachment that is difficult to move beyond.",
+      "enthusiasm is eager interest.",
+      "compulsion is an urge or pressure to act.",
+      "addiction means dependence and is not interchangeable with obsession.",
+      "fascination is intensely attracted interest."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 obsessio「包囲」にさかのぼり、obsidere「前に座る、包囲する」と関係する。ob-「〜に向かって」と sedere「座る」から成る。心がある考えに包囲されるというイメージから、頭を占領する執着を表すようになった。",
+    "en": "Obsession ultimately derives from Latin obsessio, siege, related to obsidere, to sit before or besiege. This combines ob-, toward or against, with sedere, to sit. The image of a mind being besieged underlies the sense of a persistent, dominating preoccupation."
+  },
+  "synonyms": [
+    {
+      "word": "fixation",
+      "note": {
+        "ja": "対象から離れにくい執着を強調する。",
+        "en": "Emphasizes a persistent attachment to a particular object or idea."
+      }
+    },
+    {
+      "word": "preoccupation",
+      "note": {
+        "ja": "注意を強く占める関心・心配。",
+        "en": "A concern or interest that occupies substantial attention."
+      }
+    },
+    {
+      "word": "passion",
+      "note": {
+        "ja": "強い愛好という口語的意味で近いが、より肯定的。",
+        "en": "Overlaps with enthusiastic everyday uses but is generally more positive."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Besessenheit / Fixierung / Zwangsgedanke",
+    "it": "ossessione / fissazione",
+    "fr": "obsession / idée fixe",
+    "es": "obsesión / fijación"
+  },
+  "collocations": {
+    "ja": [
+      "an obsession with perfection — 完璧さへの執着",
+      "an obsession with detail — 細部への執着",
+      "develop an obsession — 執着するようになる",
+      "become an obsession — 頭から離れないものになる",
+      "a lifelong obsession — 生涯にわたる強い関心",
+      "someone’s latest obsession — 人が最近夢中になっているもの",
+      "border on obsession — 執着に近い",
+      "to the point of obsession — 執着と言えるほどに"
+    ],
+    "en": [
+      "an obsession with perfection",
+      "an obsession with detail",
+      "develop an obsession",
+      "become an obsession",
+      "a lifelong obsession",
+      "someone’s latest obsession",
+      "border on obsession",
+      "to the point of obsession"
+    ]
+  },
+  "example": {
+    "ja": [
+      "His obsession with minor details delayed the whole project. — 細部への彼の執着が、計画全体を遅らせた。",
+      "Vintage watches have become her latest obsession. — ヴィンテージ時計が、彼女の最近の夢中の対象になっている。",
+      "What began as a hobby gradually became an obsession. — 趣味として始まったものが、次第に執着へと変わった。",
+      "The team’s obsession with being first distracted it from product quality. — 一番乗りへのチームの執着が、製品の品質から注意をそらした。",
+      "The novel explores the boundary between devotion and obsession. — その小説は、献身と執着の境界を探っている。"
+    ],
+    "en": [
+      "His obsession with minor details delayed the whole project.",
+      "Vintage watches have become her latest obsession.",
+      "What began as a hobby gradually became an obsession.",
+      "The team’s obsession with being first distracted it from product quality.",
+      "The novel explores the boundary between devotion and obsession."
+    ]
+  }
+},
+{
+  "id": "obsess",
+  "sid": "2026-01726",
+  "word": "obsess",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "preoccupation",
+    "fixation",
+    "thought",
+    "worry",
+    "interest",
+    "emotion",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "obsess",
+      "third_person": "obsesses",
+      "past": "obsessed",
+      "past_participle": "obsessed",
+      "gerund": "obsessing",
+      "noun": "obsession",
+      "related_adjective": "obsessive"
+    },
+    "transitivity": "transitive or intransitive",
+    "patterns": [
+      "something obsesses someone",
+      "be obsessed with + noun / gerund",
+      "be obsessed by + thought / fear",
+      "obsess over + noun / gerund",
+      "obsess about + noun / gerund",
+      "stop obsessing over something",
+      "spend hours obsessing over something",
+      "become obsessed with something"
+    ],
+    "usage": {
+      "transitive": "In the transitive construction, the thought or subject occupies someone’s mind: The question obsessed him.",
+      "passive": "Be obsessed with is particularly common and means being unable to stop thinking about something or being intensely interested in it.",
+      "intransitive": "Obsess over or about means thinking or worrying about something excessively.",
+      "object": "Do not use I obsess the problem to mean I think excessively about the problem; use I obsess over the problem.",
+      "tone": "Obsessed is often used as conversational exaggeration for strong enthusiasm.",
+      "distinction": "Obsessive characterizes a pattern or quality; obsessed describes someone absorbed in a particular object.",
+      "clinical": "Everyday use of the verb does not establish a clinical diagnosis."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əbˈses/",
+      "uk": "/əbˈses/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "考え・不安などが人の頭から離れず、心を占める",
+      "obsess over / about の形で、過度に考え続ける、気に病む",
+      "be obsessed with の形で、〜に取りつかれている、夢中になっている"
+    ],
+    "en": [
+      "for a thought or concern to occupy someone’s mind persistently",
+      "with over or about, to think or worry excessively about something",
+      "in be obsessed with, to be persistently preoccupied with or intensely enthusiastic about something"
+    ]
+  },
+  "nuance": {
+    "ja": "obsess は主語の選び方が重要である。The idea obsessed him. では考えが彼の心を占め、He obsessed over the idea. では彼がその考えを延々と考える。日常的には He was obsessed with the idea. が使いやすい。worry が不安を中心とするのに対し、obsess は成功・外見・趣味など、魅力的な対象への過剰な集中にも使える。I’m obsessed with this song. はしばしば「この曲にはまっている」という軽い誇張である。",
+    "en": "The subject matters: The idea obsessed him makes the idea the source of preoccupation, while He obsessed over the idea describes his persistent thinking. He was obsessed with the idea is a particularly accessible everyday construction. Unlike worry, obsess can concern an attractive subject such as success, appearance, or a hobby. I’m obsessed with this song often simply exaggerates enthusiasm."
+  },
+  "minimal": {
+    "ja": [
+      "obsess：頭を占め続ける、または過度に考え続ける。",
+      "worry about：不安に思う、心配する。",
+      "dwell on：同じ出来事・考えを長く考え続ける。",
+      "brood over：不満や悲しみを抱えて考え込む。",
+      "fixate on：特定の対象に注意が固着する。",
+      "ruminate on：繰り返し深く考える。",
+      "be absorbed in：何かに没頭している。",
+      "admire：人・物を高く評価し、感心する。執着とは限らない。"
+    ],
+    "en": [
+      "obsess means persistently occupying the mind or thinking excessively.",
+      "worry about emphasizes anxiety.",
+      "dwell on means continuing to think about something.",
+      "brood over suggests gloomy or resentful thought.",
+      "fixate on emphasizes narrowly persistent attention.",
+      "ruminate on means thinking repeatedly and deeply.",
+      "be absorbed in means being deeply engaged in an activity.",
+      "admire means regarding something with approval, not necessarily fixation."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 obsidere「包囲する」の過去分詞 obsessus に関係する。ob-「〜に向かって」と sedere「座る」から成り、敵の前に陣取って包囲するという発想を持つ。そこから、考えや感情が心に居座るという比喩が発達した。obsession と同じ語族である。",
+    "en": "Obsess is related to Latin obsessus, the past participle of obsidere, to besiege. Obsidere combines ob-, toward or against, with sedere, to sit. The image of laying siege developed into a thought or feeling persistently occupying the mind. Obsession belongs to the same family."
+  },
+  "synonyms": [
+    {
+      "word": "preoccupy",
+      "note": {
+        "ja": "注意・思考を占めるという他動詞の意味で近い。",
+        "en": "Overlaps with the transitive sense of occupying someone’s attention."
+      }
+    },
+    {
+      "word": "fixate on",
+      "note": {
+        "ja": "対象に注意が固着することを表す。",
+        "en": "Describes persistently focusing on a particular object."
+      }
+    },
+    {
+      "word": "dwell on",
+      "note": {
+        "ja": "同じことを長く考え続ける。",
+        "en": "To continue thinking about something at length."
+      }
+    },
+    {
+      "word": "brood over",
+      "note": {
+        "ja": "暗い気持ちで考え続ける。",
+        "en": "To think persistently in a gloomy or resentful way."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "jemanden nicht loslassen / von etwas besessen sein / sich auf etwas fixieren",
+    "it": "ossessionare / essere ossessionato da / fissarsi su",
+    "fr": "obséder / être obsédé par / faire une fixation sur",
+    "es": "obsesionar / obsesionarse con"
+  },
+  "collocations": {
+    "ja": [
+      "obsess over details — 細部を気にしすぎる",
+      "obsess about the future — 将来を過度に気に病む",
+      "be obsessed with success — 成功に取りつかれている",
+      "be obsessed with appearance — 外見に執着している",
+      "be obsessed with a song — 曲にすっかりはまっている",
+      "be obsessed by a fear — 恐怖が頭から離れない",
+      "stop obsessing over mistakes — 間違いを気にし続けるのをやめる",
+      "become obsessed with an idea — ある考えに取りつかれる"
+    ],
+    "en": [
+      "obsess over details",
+      "obsess about the future",
+      "be obsessed with success",
+      "be obsessed with appearance",
+      "be obsessed with a song",
+      "be obsessed by a fear",
+      "stop obsessing over mistakes",
+      "become obsessed with an idea"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Try not to obsess over one awkward conversation. — 一度の気まずい会話を気にし続けないようにしてください。",
+      "She became obsessed with finding the missing manuscript. — 彼女は行方不明の原稿を見つけることに取りつかれた。",
+      "The question of who had betrayed him obsessed him for years. — 誰が自分を裏切ったのかという疑問が、何年も彼の頭から離れなかった。",
+      "I’m obsessed with the soundtrack from that film. — あの映画のサウンドトラックにすっかりはまっています。",
+      "The inventor obsessed over minor design details while the main technical problem remained unresolved. — 主要な技術的問題が未解決のまま、発明者は細かな設計上の点にこだわり続けた。"
+    ],
+    "en": [
+      "Try not to obsess over one awkward conversation.",
+      "She became obsessed with finding the missing manuscript.",
+      "The question of who had betrayed him obsessed him for years.",
+      "I’m obsessed with the soundtrack from that film.",
+      "The inventor obsessed over minor design details while the main technical problem remained unresolved."
+    ]
+  }
+},
+{
+  "id": "admire",
+  "sid": "2026-01727",
+  "word": "admire",
+  "level": "B1",
+  "freq": "often",
+  "tags": [
+    "verb",
+    "respect",
+    "approval",
+    "appreciation",
+    "beauty",
+    "achievement",
+    "character",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "admire",
+      "third_person": "admires",
+      "past": "admired",
+      "past_participle": "admired",
+      "gerund": "admiring",
+      "noun": "admiration",
+      "person_noun": "admirer",
+      "adjective": "admirable"
+    },
+    "transitivity": "transitive",
+    "patterns": [
+      "admire + person / thing",
+      "admire someone for + noun / gerund",
+      "admire someone’s courage / skill",
+      "admire the view / scenery",
+      "admire how + clause",
+      "have to admire + noun / clause",
+      "be widely / greatly admired",
+      "be admired for + quality"
+    ],
+    "usage": {
+      "person": "Admire someone means regarding that person with respect and approval.",
+      "quality": "For introduces the quality or action that earns admiration.",
+      "beauty": "Admire can also mean looking at something with pleasure because of its beauty or quality.",
+      "object": "Use a direct object: admire her, not admire to her.",
+      "emotion": "Admiration does not necessarily imply romantic attraction or a desire to imitate.",
+      "adjectives": "Admirable means deserving admiration; admiring means expressing or feeling it.",
+      "progressive": "The progressive is natural when describing looking appreciatively: We were admiring the view."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ədˈmaɪr/",
+      "uk": "/ədˈmaɪə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "人の性質・能力・行為を高く評価し、尊敬する",
+      "物の美しさ・質・巧みさに感心する",
+      "景色・作品などを、感嘆しながら眺める"
+    ],
+    "en": [
+      "to regard someone with respect and approval for their qualities or actions",
+      "to appreciate the beauty, quality, or skill of something",
+      "to look at something with pleasure and appreciation"
+    ]
+  },
+  "nuance": {
+    "ja": "admire は、対象に良い性質や価値を認めて感心することを表す。尊敬する人物にも、美しい景色や巧妙な設計にも使える。respect は権利・立場を尊重する場合にも使うが、admire はより積極的な称賛・感嘆を伴う。envy は相手の持つものを自分も欲しいという気持ちであり、admire と同じではない。I admire your confidence. は率直な称賛にもなるが、文脈や口調によっては自信過剰への皮肉にもなる。",
+    "en": "Admire expresses positive appreciation of a quality, achievement, or appearance. Its object may be a respected person, beautiful scenery, or an ingenious design. Respect can concern acknowledging rights or status without enthusiasm, whereas admire more actively conveys approval or wonder. Envy involves wanting an advantage someone else has and is not equivalent. I admire your confidence may be sincere praise or, with suitable context and tone, an ironic comment on overconfidence."
+  },
+  "minimal": {
+    "ja": [
+      "admire：優れた点や美しさを認め、尊敬・感嘆する。",
+      "respect：人の価値・地位・権利などを尊重する。",
+      "appreciate：価値・良さ・貢献を理解し、評価する。",
+      "praise：称賛を言葉で表す。",
+      "look up to：人を尊敬し、手本と考える。",
+      "adore：深く愛する、非常に好きである。",
+      "envy：相手の持つ利点をうらやむ。",
+      "marvel at：驚きや感嘆をもって見る。"
+    ],
+    "en": [
+      "admire means appreciating excellence or beauty with respect or pleasure.",
+      "respect means acknowledging worth, status, or rights.",
+      "appreciate means recognizing value or contribution.",
+      "praise means expressing approval in words.",
+      "look up to means respecting someone as an example.",
+      "adore means loving or liking very deeply.",
+      "envy means wanting an advantage possessed by another.",
+      "marvel at means reacting with wonder or astonishment."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 admirari「驚く、感嘆する」に由来し、ad-「〜に」と mirari「驚く」から成る。mirari は mirus「驚くべき」に関係する。英語では驚きの意味から、優れた性質や美しさを好意的に評価する意味が中心となった。admiration、admirable、miracle も関連する語族に属する。",
+    "en": "Admire derives from Latin admirari, to wonder at, formed from ad-, at or toward, and mirari, to wonder. Mirari is related to mirus, wonderful. In English, the sense of wonder developed toward favorable appreciation of excellence and beauty. Related words include admiration, admirable, and miracle."
+  },
+  "synonyms": [
+    {
+      "word": "respect",
+      "note": {
+        "ja": "人の人格・能力などを高く評価する。権利の尊重にも使う。",
+        "en": "To value someone’s character or ability; it also applies to acknowledging rights."
+      }
+    },
+    {
+      "word": "appreciate",
+      "note": {
+        "ja": "良さ・価値を理解することを強調する。",
+        "en": "Emphasizes recognizing quality or value."
+      }
+    },
+    {
+      "word": "look up to",
+      "note": {
+        "ja": "尊敬する人物を手本として見る口語表現。",
+        "en": "An everyday expression for respecting someone as a model."
+      }
+    },
+    {
+      "word": "marvel at",
+      "note": {
+        "ja": "驚きや感嘆の強さを強調する。",
+        "en": "Emphasizes wonder and astonishment."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "bewundern",
+    "it": "ammirare",
+    "fr": "admirer",
+    "es": "admirar"
+  },
+  "collocations": {
+    "ja": [
+      "admire someone’s courage — 人の勇気に感心する",
+      "admire someone for their honesty — 誠実さゆえに人を尊敬する",
+      "admire the view — 景色に見とれる",
+      "admire a painting — 絵を感嘆しながら眺める",
+      "admire the craftsmanship — 職人技に感心する",
+      "greatly admire someone — 人を大いに尊敬する",
+      "be widely admired — 広く称賛されている",
+      "an admiring glance — 感嘆のこもった視線"
+    ],
+    "en": [
+      "admire someone’s courage",
+      "admire someone for their honesty",
+      "admire the view",
+      "admire a painting",
+      "admire the craftsmanship",
+      "greatly admire someone",
+      "be widely admired",
+      "an admiring glance"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I admire her for admitting that she was wrong. — 自分が間違っていたと認めた彼女に敬意を抱きます。",
+      "We stopped on the bridge to admire the view. — 私たちは景色を眺めるために橋の上で立ち止まった。",
+      "He admired the craftsmanship of the old mechanical watch. — 彼は古い機械式時計の職人技に感心した。",
+      "You can admire someone’s talent without agreeing with their opinions. — 意見には同意しなくても、その人の才能を高く評価することはできます。",
+      "The engineer admired the simplicity of the patented mechanism. — 技術者は、その特許機構の簡潔さに感心した。"
+    ],
+    "en": [
+      "I admire her for admitting that she was wrong.",
+      "We stopped on the bridge to admire the view.",
+      "He admired the craftsmanship of the old mechanical watch.",
+      "You can admire someone’s talent without agreeing with their opinions.",
+      "The engineer admired the simplicity of the patented mechanism."
+    ]
+  }
+}
 ]
