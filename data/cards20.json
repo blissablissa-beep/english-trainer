@@ -6341,4 +6341,395 @@
     ]
   }
 }
+,
+{
+  "id": "presumably",
+  "sid": "2026-01736",
+  "word": "presumably",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "adverb",
+    "inference",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adverb",
+    "forms": {
+      "base": "presumably",
+      "verb": "presume",
+      "adjective": "presumable"
+    },
+    "patterns": [
+      "presumably because",
+      "presumably to avoid delays",
+      "will presumably be ready",
+      "is presumably aware of",
+      "presumably not"
+    ],
+    "usage": {
+      "placement": "Often at the beginning of a clause, before a main verb, or after the first auxiliary."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/prɪˈzuːməbli/",
+      "uk": "/prɪˈzjuːməbli/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "事情から考えると、おそらく",
+      "～と考えてよさそうだ"
+    ],
+    "en": [
+      "probably, judging from the circumstances",
+      "used when treating an assumption as reasonable but unconfirmed"
+    ]
+  },
+  "nuance": {
+    "ja": "probably が主に可能性の高さを示すのに対し、presumably は『事情からそう考えるのが自然だ』という話し手の判断を添える。Presumably you have a copy? は単なる質問より、相手が持っているという期待が伝わりやすい。",
+    "en": "The speaker treats an inference as reasonable without claiming to have checked it. In a question, the word can invite confirmation of an assumption."
+  },
+  "minimal": {
+    "ja": [
+      "probably： 可能性の高さが中心。",
+      "apparently： 見聞きした情報や外見からそうらしい。",
+      "possibly： あり得ると言うだけで、有力とは限らない。"
+    ],
+    "en": [
+      "probably: Expresses likelihood.",
+      "apparently: Often points to appearances or reports.",
+      "possibly: Leaves the possibility open without endorsing it as likely."
+    ]
+  },
+  "etymology": {
+    "ja": "presumable に副詞語尾 -ly が付いた形。",
+    "en": "Formed from presumable with the adverbial suffix -ly."
+  },
+  "synonyms": [
+    {
+      "word": "probably",
+      "note": {
+        "ja": "可能性の高さが中心。",
+        "en": "Expresses likelihood."
+      }
+    },
+    {
+      "word": "apparently",
+      "note": {
+        "ja": "見聞きした情報や外見からそうらしい。",
+        "en": "Often points to appearances or reports."
+      }
+    },
+    {
+      "word": "possibly",
+      "note": {
+        "ja": "あり得ると言うだけで、有力とは限らない。",
+        "en": "Leaves the possibility open without endorsing it as likely."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "vermutlich",
+    "it": "presumibilmente",
+    "fr": "vraisemblablement",
+    "es": "presumiblemente"
+  },
+  "collocations": {
+    "en": [
+      "presumably because",
+      "presumably to avoid delays",
+      "will presumably be ready",
+      "is presumably aware of",
+      "presumably not"
+    ],
+    "ja": [
+      "presumably because — おそらく～だから",
+      "presumably to avoid delays — おそらく遅れを避けるために",
+      "will presumably be ready — おそらく準備が整うだろう",
+      "is presumably aware of — おそらく知っている",
+      "presumably not — おそらく違う"
+    ]
+  },
+  "example": {
+    "en": [
+      "The lights are off, so presumably everyone has left.",
+      "The date was changed, presumably to avoid a clash.",
+      "Presumably you still have the original?",
+      "Will they reopen today? Presumably not."
+    ],
+    "ja": [
+      "The lights are off, so presumably everyone has left. — 明かりが消えているから、みんな帰ったのだろう。",
+      "The date was changed, presumably to avoid a clash. — 日程は変更された。おそらく予定の重複を避けるためだ。",
+      "Presumably you still have the original? — 原本はまだお持ちですよね。",
+      "Will they reopen today? Presumably not. — 今日営業を再開するかな。たぶんしないだろう。"
+    ]
+  }
+},
+{
+  "id": "varnish",
+  "sid": "2026-01737",
+  "word": "varnish",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "verb",
+    "surface treatment",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "forms": {
+      "base": "varnish",
+      "third_person": "varnishes",
+      "past": "varnished",
+      "gerund": "varnishing"
+    },
+    "countability": "usually uncountable for the material; countable for a type",
+    "transitivity": "transitive",
+    "patterns": [
+      "a coat of varnish",
+      "clear varnish",
+      "apply varnish to wood",
+      "varnish the floor",
+      "nail varnish",
+      "a thin varnish of politeness"
+    ],
+    "usage": {
+      "placement": "Use varnish as a verb directly before the surface treated."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈvɑːrnɪʃ/",
+      "uk": "/ˈvɑːnɪʃ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "表面を保護するワニス、その塗膜",
+      "ワニスを塗る",
+      "比喩的に、表面を取り繕う、うわべの体裁"
+    ],
+    "en": [
+      "a protective finish or its coating",
+      "to apply that finish",
+      "figuratively, a superficially attractive appearance or the act of giving something one"
+    ]
+  },
+  "nuance": {
+    "ja": "wood stain は主に木の色を変え、varnish は表面に保護膜を作る。光沢仕上げに限らず matte varnish もある。a thin varnish of civility は『礼儀正しさがうわべだけ』という批判。",
+    "en": "Varnish names both the coating material and the finish it leaves. A figurative varnish can conceal an attitude without changing it."
+  },
+  "minimal": {
+    "ja": [
+      "finish： 仕上げ材や仕上がりを広く指す。",
+      "paint： 一般に色を付け、下地を覆う。",
+      "veneer： 薄い化粧板。比喩では表面的な装い。"
+    ],
+    "en": [
+      "finish: A broader term for a surface treatment or its result.",
+      "paint: Typically adds color and hides the underlying surface.",
+      "veneer: A thin facing or a superficial appearance."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語の vernis などを経たフランス語由来の語。",
+    "en": "The English word goes back through Middle English to French vernis."
+  },
+  "synonyms": [
+    {
+      "word": "finish",
+      "note": {
+        "ja": "仕上げ材や仕上がりを広く指す。",
+        "en": "A broader term for a surface treatment or its result."
+      }
+    },
+    {
+      "word": "paint",
+      "note": {
+        "ja": "一般に色を付け、下地を覆う。",
+        "en": "Typically adds color and hides the underlying surface."
+      }
+    },
+    {
+      "word": "veneer",
+      "note": {
+        "ja": "薄い化粧板。比喩では表面的な装い。",
+        "en": "A thin facing or a superficial appearance."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Lack / lackieren",
+    "it": "vernice / verniciare",
+    "fr": "vernis / vernir",
+    "es": "barniz / barnizar"
+  },
+  "collocations": {
+    "en": [
+      "a coat of varnish",
+      "clear varnish",
+      "apply varnish to wood",
+      "varnish the floor",
+      "nail varnish",
+      "a thin varnish of politeness"
+    ],
+    "ja": [
+      "a coat of varnish — ワニスのひと塗り",
+      "clear varnish — 透明ワニス",
+      "apply varnish to wood — 木にワニスを塗る",
+      "varnish the floor — 床にワニスを塗る",
+      "nail varnish — マニキュア液（主に英国）",
+      "a thin varnish of politeness — うわべだけの丁寧さ"
+    ]
+  },
+  "example": {
+    "en": [
+      "The varnish on the handrail had worn away.",
+      "We varnished the tabletop but left the legs bare.",
+      "She chose a matte varnish to avoid a glossy finish.",
+      "Under the varnish of politeness, the two rivals deeply distrusted each other."
+    ],
+    "ja": [
+      "The varnish on the handrail had worn away. — 手すりのワニスはすり減っていた。",
+      "We varnished the tabletop but left the legs bare. — 天板にはワニスを塗ったが、脚は無塗装のままにした。",
+      "She chose a matte varnish to avoid a glossy finish. — つやが出ないように、彼女はつや消しワニスを選んだ。",
+      "Under the varnish of politeness, the two rivals deeply distrusted each other. — うわべは礼儀正しくても、そのライバル同士は互いに強い不信感を抱いていた。"
+    ]
+  }
+},
+{
+  "id": "deluge",
+  "sid": "2026-01738",
+  "word": "deluge",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "verb",
+    "flood",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "forms": {
+      "base": "deluge",
+      "plural": "deluges",
+      "past": "deluged",
+      "gerund": "deluging"
+    },
+    "countability": "countable",
+    "transitivity": "transitive",
+    "patterns": [
+      "a sudden deluge",
+      "a deluge of complaints",
+      "after the deluge",
+      "be deluged with offers",
+      "deluge someone with questions"
+    ],
+    "usage": {
+      "placement": "Use a deluge of things but deluge someone with things."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈdeljuːdʒ/",
+      "uk": "/ˈdeljuːdʒ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "大洪水・豪雨",
+      "一度に押し寄せる大量のもの",
+      "水浸しにする、大量に送りつける"
+    ],
+    "en": [
+      "a flood or torrential rain",
+      "an overwhelming influx",
+      "to flood or overwhelm"
+    ]
+  },
+  "nuance": {
+    "ja": "a deluge of emails は単にメールが多いのではなく、処理が追いつかない勢いで届くイメージ。名詞は a deluge of requests、動詞の受け身は be deluged with requests と前置詞が替わる。",
+    "en": "The metaphor preserves the force of a flood: things arrive faster than the recipient can comfortably handle them. Even welcome offers of help can form a deluge."
+  },
+  "minimal": {
+    "ja": [
+      "downpour： 短時間に激しく降る雨。",
+      "flood： 洪水の一般語。比喩にも使う。",
+      "influx： 人や物の流入。圧倒されるとは限らない。"
+    ],
+    "en": [
+      "downpour: Specifically heavy rain.",
+      "flood: The ordinary word for overflowing water, also used figuratively.",
+      "influx: An arrival in quantity, not necessarily overwhelming."
+    ]
+  },
+  "etymology": {
+    "ja": "フランス語を経てラテン語 diluvium「洪水」に由来する。",
+    "en": "From French, ultimately from Latin diluvium, meaning a flood."
+  },
+  "synonyms": [
+    {
+      "word": "downpour",
+      "note": {
+        "ja": "短時間に激しく降る雨。",
+        "en": "Specifically heavy rain."
+      }
+    },
+    {
+      "word": "flood",
+      "note": {
+        "ja": "洪水の一般語。比喩にも使う。",
+        "en": "The ordinary word for overflowing water, also used figuratively."
+      }
+    },
+    {
+      "word": "influx",
+      "note": {
+        "ja": "人や物の流入。圧倒されるとは限らない。",
+        "en": "An arrival in quantity, not necessarily overwhelming."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Sintflut / überschwemmen",
+    "it": "diluvio / sommergere",
+    "fr": "déluge / inonder",
+    "es": "diluvio / inundar"
+  },
+  "collocations": {
+    "en": [
+      "a sudden deluge",
+      "a deluge of complaints",
+      "after the deluge",
+      "be deluged with offers",
+      "deluge someone with questions"
+    ],
+    "ja": [
+      "a sudden deluge — 突然の豪雨",
+      "a deluge of complaints — 殺到する苦情",
+      "after the deluge — 豪雨・洪水の後で",
+      "be deluged with offers — 申し出が殺到する",
+      "deluge someone with questions — 人に次々と質問を浴びせる"
+    ]
+  },
+  "example": {
+    "en": [
+      "We sheltered in a doorway until the deluge passed.",
+      "Heavy rains deluged the low-lying fields.",
+      "The announcement triggered a deluge of calls.",
+      "We were deluged with offers of help after the move."
+    ],
+    "ja": [
+      "We sheltered in a doorway until the deluge passed. — 豪雨がやむまで戸口で雨宿りした。",
+      "Heavy rains deluged the low-lying fields. — 大雨で低地の畑が水浸しになった。",
+      "The announcement triggered a deluge of calls. — その発表を受けて電話が殺到した。",
+      "We were deluged with offers of help after the move. — 引っ越した後、手伝おうという申し出が私たちのもとに殺到した。"
+    ]
+  }
+}
 ]
