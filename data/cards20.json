@@ -8123,4 +8123,148 @@
     ]
   }
 }
+,
+{
+  "id": "contrast",
+  "sid": "2026-01749",
+  "word": "contrast",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "comparison",
+    "writing",
+    "visual perception",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable or uncountable, depending on sense",
+    "transitivity": "intransitive or transitive",
+    "forms": {
+      "base": "contrast",
+      "plural": "contrasts",
+      "third_person": "contrasts",
+      "past": "contrasted",
+      "past_participle": "contrasted",
+      "gerund": "contrasting"
+    },
+    "patterns": [
+      "a contrast between A and B",
+      "in contrast to / with + noun",
+      "by contrast, + clause",
+      "A contrasts with B",
+      "contrast A with B",
+      "contrast A and B"
+    ],
+    "usage": {
+      "stress": "The noun normally has first-syllable stress; the verb commonly has second-syllable stress.",
+      "verb": "A contrasts with B means they differ noticeably. Contrast A with B means actively compare them to highlight differences.",
+      "countability": "A sharp contrast names a specific difference; adjust the contrast uses the noun for a visual property."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "noun /ˈkɑːntræst/; verb /kənˈtræst/",
+      "uk": "noun /ˈkɒntrɑːst/; verb /kənˈtrɑːst/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "対照、並べると際立つ違い",
+      "画像などの明暗差、コントラスト",
+      "対照をなす、はっきり異なる",
+      "対比する、並べて違いを示す"
+    ],
+    "en": [
+      "a noticeable difference brought out by placing things side by side",
+      "the degree of difference between light and dark areas of an image",
+      "to differ noticeably from something else",
+      "to compare things in order to bring out their differences"
+    ]
+  },
+  "nuance": {
+    "ja": "contrast は違いそのものだけでなく、二つを並べることで差が際立つ点に着目する。compare は共通点にも使える。The results contrast with earlier findings. では結果どうしが対照的だが、The report contrasts the results with earlier findings. では報告書が両者を対比している。by contrast は先の内容を否定せず別の事例を対置する。",
+    "en": "Contrast highlights a difference made noticeable by juxtaposition. Compare can also draw attention to similarities. In A contrasts with B, A and B differ; in the report contrasts A with B, the report actively presents their differences. By contrast introduces a contrasting case without denying the earlier statement."
+  },
+  "minimal": {
+    "ja": [
+      "compare： 共通点も相違点も含めて比較する。",
+      "distinction： 概念や分類を区別するための線引き。",
+      "opposition： 対立や反対を表す。contrast には対立関係は不要。",
+      "on the contrary： 直前の主張を否定・訂正する。「一方で」なら by contrast。"
+    ],
+    "en": [
+      "compare: Examines similarities, differences, or both.",
+      "distinction: A difference or a conceptual separation between categories.",
+      "opposition: Implies opposition or conflict, which contrast does not require.",
+      "on the contrary: Rebuts a preceding claim; by contrast presents a different case."
+    ]
+  },
+  "synonyms": [
+    {
+      "word": "juxtapose",
+      "note": {
+        "ja": "並べて示す。相違点が目的とは限らない。",
+        "en": "Places things side by side without necessarily focusing on differences."
+      }
+    },
+    {
+      "word": "differ markedly",
+      "note": {
+        "ja": "自動詞用法の平易な言い換え。",
+        "en": "A useful paraphrase of the intransitive sense."
+      }
+    }
+  ],
+  "etymology": {
+    "ja": "フランス語 contraste、イタリア語 contrastare にさかのぼり、contra「対して」と stare「立つ」に由来する。",
+    "en": "Via French and Italian forms related to Italian contrastare, literally to stand against, from Latin contra and stare."
+  },
+  "equivalents": {
+    "de": "Kontrast / Gegensatz / gegenüberstellen",
+    "it": "contrasto / mettere a confronto",
+    "fr": "contraste / opposer / contraster avec",
+    "es": "contraste / contrastar"
+  },
+  "collocations": {
+    "ja": [
+      "a sharp contrast — 鮮明な対照",
+      "the contrast between A and B — AとBの対照",
+      "stand in stark contrast to — ～とは著しい対照をなす",
+      "by contrast — 対照的に、一方で",
+      "in contrast to — ～とは対照的に",
+      "contrast A with B — AとBを対比する",
+      "high-contrast text — コントラストの高い文字",
+      "adjust the contrast — コントラストを調整する"
+    ],
+    "en": [
+      "a sharp contrast",
+      "the contrast between A and B",
+      "stand in stark contrast to",
+      "by contrast",
+      "in contrast to",
+      "contrast A with B",
+      "high-contrast text",
+      "adjust the contrast"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The report contrasts the claimed design with the earlier drawings. — その報告書は、請求対象の意匠と先行図面とを対比している。",
+      "The quiet courtyard contrasts sharply with the busy street outside. — 静かな中庭は、外のにぎやかな通りと鮮やかな対照をなしている。",
+      "The first draft is highly technical. The summary, by contrast, is written for a general audience. — 初稿は非常に専門的だ。一方、要約は一般の読者向けに書かれている。",
+      "The contrast between the two approaches is clearest in the final example. — 二つのアプローチの違いは、最後の例で最もはっきりする。",
+      "Increase the contrast so the labels are easier to read. — ラベルが読みやすくなるよう、コントラストを上げてください。"
+    ],
+    "en": [
+      "The report contrasts the claimed design with the earlier drawings.",
+      "The quiet courtyard contrasts sharply with the busy street outside.",
+      "The first draft is highly technical. The summary, by contrast, is written for a general audience.",
+      "The contrast between the two approaches is clearest in the final example.",
+      "Increase the contrast so the labels are easier to read."
+    ]
+  }
+}
 ]
