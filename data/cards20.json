@@ -5649,4 +5649,388 @@
     ]
   }
 }
+,
+{
+  "id": "scant",
+  "sid": "2026-01731",
+  "word": "scant",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "determiner",
+    "verb",
+    "insufficiency",
+    "small amount",
+    "shortage",
+    "approximation",
+    "evidence",
+    "attention",
+    "formal",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective / determiner; also a rare verb",
+    "forms": {
+      "adjective": "scant",
+      "comparative": "scanter / more scant",
+      "superlative": "scantest / most scant",
+      "verb_base": "scant",
+      "third_person": "scants",
+      "past": "scanted",
+      "past_participle": "scanted",
+      "gerund": "scanting",
+      "related_adjective": "scanty",
+      "related_adverb": "scantily"
+    },
+    "transitivity": "not applicable as an adjective; transitive as a rare verb",
+    "patterns": [
+      "scant + evidence / information / attention",
+      "scant resources / supplies",
+      "scant regard for + noun",
+      "pay scant attention to + noun",
+      "receive scant consideration",
+      "a scant + number / period / amount",
+      "a scant five minutes",
+      "be scant on + detail",
+      "scant someone / something of + noun",
+      "scant the details"
+    ],
+    "usage": {
+      "insufficient": "Before a noun, scant means barely sufficient or smaller in amount than is needed or expected.",
+      "before_number": "Before a number or unit, a scant means slightly less than that amount: a scant ten minutes.",
+      "uncountable": "It commonly modifies uncountable nouns such as evidence, information, attention, and regard.",
+      "countable_plural": "It can modify plural count nouns such as resources, supplies, and opportunities.",
+      "verb": "As a verb, scant is rare and formal, meaning to provide too little of something or to treat something inadequately.",
+      "comparison": "Scant emphasizes insufficiency; scanty often additionally suggests thin, sparse, or meager distribution.",
+      "pronunciation": "Scant rhymes with ant in most American pronunciation; many British speakers use the broad-vowel pronunciation shown here."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/skænt/",
+      "uk": "/skænt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "量・程度が必要または期待される水準にほとんど達しない、乏しい",
+      "情報・証拠・注意などが不十分な",
+      "数値・時間の直前で、その数量よりわずかに少ない",
+      "動詞として、必要な物を十分に与えない、物事を不十分に扱う"
+    ],
+    "en": [
+      "barely sufficient or smaller in amount than is needed or expected",
+      "insufficient in information, evidence, attention, or another abstract quantity",
+      "before a number or period, slightly less than the stated amount",
+      "as a rare verb, to provide too little of something or treat a subject inadequately"
+    ]
+  },
+  "nuance": {
+    "ja": "scant は単に少ないだけでなく、必要量・期待量に届かないという評価を含む。scant evidence は証拠が少量存在するものの、結論を十分に支えられないことを示しやすい。a scant ten minutes は「10分足らず」であり、a good ten minutes「たっぷり10分」と対照的である。scant regard for safety は安全をほとんど顧みないことを表す。形容詞・限定詞としての用法が中心で、動詞用法は現代ではかなり形式的・稀である。",
+    "en": "Scant means not merely small but insufficient relative to a need or expectation. Scant evidence suggests that some evidence exists, yet probably not enough to support a confident conclusion. A scant ten minutes means slightly less than ten minutes and contrasts with a good ten minutes, which suggests at least that long. Scant regard for safety means that safety receives almost no proper consideration. The adjective or determiner use is central; the verb is now uncommon and formal."
+  },
+  "minimal": {
+    "ja": [
+      "scant：必要・期待される量にほとんど届かない、乏しい。",
+      "scanty：量が乏しく、まばら・貧弱に見える。",
+      "scarce：需要に対して供給が少なく、入手しにくい。",
+      "meager：量・質ともに期待外れなほど乏しい。",
+      "sparse：広い範囲にまばらに分布している。",
+      "insufficient：特定の目的・必要性を満たすのに足りない。",
+      "limited：量・範囲・利用可能性に制限がある。",
+      "a scant ten minutes：10分よりわずかに短い、10分足らず。"
+    ],
+    "en": [
+      "scant means barely sufficient in relation to what is needed or expected.",
+      "scanty suggests an inadequate amount that may also appear thin or meager.",
+      "scarce means in short supply and difficult to obtain relative to demand.",
+      "meager suggests a disappointingly small amount or poor quality.",
+      "sparse describes items distributed thinly over an area or range.",
+      "insufficient directly means inadequate for a particular requirement or purpose.",
+      "limited means restricted in amount, range, or availability.",
+      "a scant ten minutes means slightly less than ten minutes."
+    ]
+  },
+  "etymology": {
+    "ja": "中英語 scant にさかのぼり、古ノルド語 skammt「短く、わずかに」および skammr「短い」と関係する。時間・長さが短いという発想から、量が少ない、必要量に足りないという意味へ広がった。scanty も同じ語族に属する。",
+    "en": "Scant entered Middle English from or under the influence of Old Norse skammt, shortly or in a small measure, related to skammr, short. The notion of short extent or duration broadened into the modern idea of an amount falling short of what is needed. Scanty belongs to the same word family."
+  },
+  "synonyms": [
+    {
+      "word": "meager",
+      "note": {
+        "ja": "期待に比べ、量または質が情けないほど乏しい。",
+        "en": "Disappointingly small in amount or poor in quality."
+      }
+    },
+    {
+      "word": "insufficient",
+      "note": {
+        "ja": "必要な目的を達成するのに十分でない。",
+        "en": "Not enough to satisfy a requirement or achieve a purpose."
+      }
+    },
+    {
+      "word": "sparse",
+      "note": {
+        "ja": "要素がまばらで、互いの間隔が広い。",
+        "en": "Thinly distributed, with considerable space between individual elements."
+      }
+    },
+    {
+      "word": "scarce",
+      "note": {
+        "ja": "需要に対して不足し、見つけたり入手したりしにくい。",
+        "en": "In short supply and difficult to find or obtain."
+      }
+    },
+    {
+      "word": "limited",
+      "note": {
+        "ja": "利用できる量・範囲が制限されている。",
+        "en": "Restricted in available quantity, extent, or range."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "knapp / spärlich / unzureichend",
+    "it": "scarso / esiguo",
+    "fr": "maigre / insuffisant",
+    "es": "escaso / exiguo"
+  },
+  "collocations": {
+    "ja": [
+      "scant evidence — 乏しい証拠",
+      "scant information — 不十分な情報",
+      "scant attention — わずかな注意",
+      "scant regard for safety — 安全をほとんど顧みないこと",
+      "scant resources — 乏しい資源",
+      "scant supplies — 不足した物資",
+      "scant support — わずかな支持",
+      "scant consideration — 不十分な考慮",
+      "scant opportunity — ほとんどない機会",
+      "a scant majority — かろうじての過半数",
+      "a scant ten minutes — 10分足らず",
+      "be scant on detail — 詳細に乏しい"
+    ],
+    "en": [
+      "scant evidence",
+      "scant information",
+      "scant attention",
+      "scant regard for safety",
+      "scant resources",
+      "scant supplies",
+      "scant support",
+      "scant consideration",
+      "scant opportunity",
+      "a scant majority",
+      "a scant ten minutes",
+      "be scant on detail"
+    ]
+  },
+  "example": {
+    "ja": [
+      "There is scant evidence to support that conclusion. — その結論を裏付ける証拠はほとんどない。",
+      "The report pays scant attention to the environmental consequences. — その報告書は環境への影響をほとんど考慮していない。",
+      "They completed the repairs with scant resources. — 彼らは乏しい資源で修理を完了した。",
+      "A scant five minutes remained before the deadline. — 締切まで5分足らずしか残っていなかった。",
+      "The application gives scant detail about how the claimed mechanism operates. — その出願書類には、請求された機構がどのように作動するかについて十分な詳細が記載されていない。"
+    ],
+    "en": [
+      "There is scant evidence to support that conclusion.",
+      "The report pays scant attention to the environmental consequences.",
+      "They completed the repairs with scant resources.",
+      "A scant five minutes remained before the deadline.",
+      "The application gives scant detail about how the claimed mechanism operates."
+    ]
+  }
+},
+{
+  "id": "thrump",
+  "sid": "2026-01732",
+  "word": "thrump",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "noun",
+    "sound",
+    "vibration",
+    "pounding",
+    "rumbling",
+    "onomatopoeia",
+    "machinery",
+    "artillery",
+    "helicopter",
+    "literary",
+    "rare",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun; sometimes used as a sound-symbolic word",
+    "countability": "countable, though often used in the singular or repeated imitatively",
+    "plural": "thrumps",
+    "forms": {
+      "singular": "thrump",
+      "plural": "thrumps",
+      "repeated_form": "thrump, thrump, thrump"
+    },
+    "transitivity": "not applicable in the modern sound noun sense",
+    "patterns": [
+      "a thrump",
+      "the thrump of + noun",
+      "a steady / rhythmic thrump",
+      "a distant thrump",
+      "hear / feel a thrump",
+      "thrump, thrump, thrump",
+      "the thrump of helicopter blades",
+      "the thrump of artillery"
+    ],
+    "usage": {
+      "core": "Thrump denotes a dull, heavy, often repetitive pounding sound or the vibration associated with it.",
+      "sound_symbolism": "The word is imitative and is often repeated to reproduce a rhythm in narrative writing.",
+      "register": "It is very rare and chiefly literary or descriptive; thump, rumble, throb, or pounding is normally clearer in everyday English.",
+      "distinction": "Thump can name either a heavy blow or its sound, whereas thrump primarily evokes a continuing or repeated low pounding sound.",
+      "dialect": "Historical Scottish and northern dialect sources also record thrump as a verb meaning press, push, or squeeze; that obsolete dialectal use is distinct from the modern sound noun presented here."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/θrʌmp/",
+      "uk": "/θrʌmp/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "重く鈍い、しばしば反復するドンドン・ドスンドスンという音",
+      "機械・車輪・回転翼・砲撃などから生じる低い振動音",
+      "物語文で反復的な衝撃音を模倣する擬音的表現"
+    ],
+    "en": [
+      "a dull, heavy, often repetitive pounding sound",
+      "a low pulsing vibration produced by machinery, wheels, rotor blades, artillery, or similar sources",
+      "an imitative expression used in narrative to reproduce a repeated impact or pulsation"
+    ]
+  },
+  "nuance": {
+    "ja": "thrump は非常に稀な擬音的名詞で、単発の衝撃よりも、低く重い音や振動が一定のリズムで繰り返される印象を与える。ヘリコプターの回転翼、列車の車輪、遠方の砲撃などを描写する文学的な文脈に向く。一般会話では thump、rumble、throb、pounding の方が自然で理解されやすい。thrump, thrump, thrump のように反復すれば、音そのものを文章上で再現できる。",
+    "en": "Thrump is a very rare, imitative noun suggesting a low, heavy sound or vibration repeated in a steady rhythm rather than a single isolated impact. It can describe helicopter rotors, train wheels, distant artillery, or similar pulsing noise in literary prose. In ordinary communication, thump, rumble, throb, or pounding will usually be more natural and immediately understood. Repetition—thrump, thrump, thrump—allows the written word to imitate the rhythm itself."
+  },
+  "minimal": {
+    "ja": [
+      "thrump：低く重い反復的なドンドン音・振動を表す非常に稀な語。",
+      "thump：重い物が当たるドスンという一撃またはその音。",
+      "rumble：低く連続して響くゴロゴロ・轟音。",
+      "throb：鼓動のように規則的に繰り返す音・感覚。",
+      "pound：強く繰り返し打つ、または激しく鳴り続ける。",
+      "boom：深く大きく響くドーンという音。",
+      "drone：機械などが発する低く単調な持続音。",
+      "clatter：硬い物同士が連続してぶつかる騒々しい音。"
+    ],
+    "en": [
+      "thrump is a very rare word for a low, heavy, repetitive pounding sound or vibration.",
+      "thump is a heavy blow or the dull sound produced by one.",
+      "rumble is a low, continuous, resonant noise.",
+      "throb is a regular pulsating sound or sensation like a heartbeat.",
+      "pound means striking heavily and repeatedly or making such a sound.",
+      "boom is a deep, loud, resonant sound.",
+      "drone is a low, monotonous, continuing sound, especially from machinery.",
+      "clatter is a loud series of sharp sounds made by hard objects striking one another."
+    ]
+  },
+  "etymology": {
+    "ja": "音を模倣して作られた擬音語で、重い反復音を表す語として19世紀後半に記録されている。thump や thrum など、英語の重い衝撃音・持続音を表す語と音形が似ているが、通常の接辞から規則的に作られた語ではない。なお、スコットランド方言には「押す・押し合う」を意味する別の古い thrump も記録されている。",
+    "en": "Thrump is an imitative formation recorded in the later nineteenth century for a heavy, repetitive sound. Its form resembles other English sound-symbolic words such as thump and thrum, but it was not regularly formed from an ordinary affix. Historical Scots also records a separate dialectal thrump meaning to press, push, or jostle."
+  },
+  "synonyms": [
+    {
+      "word": "thump",
+      "note": {
+        "ja": "重い一撃、またはそれによる鈍い音を表す一般的な語。",
+        "en": "The ordinary word for a heavy blow or its dull sound."
+      }
+    },
+    {
+      "word": "rumble",
+      "note": {
+        "ja": "低く連続し、遠くまで響く音。",
+        "en": "A low, continuous, resonant sound."
+      }
+    },
+    {
+      "word": "throb",
+      "note": {
+        "ja": "鼓動のように一定間隔で繰り返す音・振動。",
+        "en": "A regularly repeated pulsation, sound, or vibration."
+      }
+    },
+    {
+      "word": "pounding",
+      "note": {
+        "ja": "強く重い音が繰り返されること。",
+        "en": "A repeated series of forceful, heavy sounds."
+      }
+    },
+    {
+      "word": "boom",
+      "note": {
+        "ja": "深く大きく響く、爆発的な音。",
+        "en": "A deep, loud, resonant or explosive sound."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "dumpfes Pochen / Dröhnen",
+    "it": "tonfo ripetuto / rombo ritmico",
+    "fr": "grondement / battement sourd",
+    "es": "retumbo / golpeteo sordo"
+  },
+  "collocations": {
+    "ja": [
+      "a steady thrump — 規則的に続くドンドン音",
+      "a rhythmic thrump — リズミカルな重い音",
+      "a distant thrump — 遠くから響く鈍い音",
+      "a deep thrump — 低く深いドスンという音",
+      "the thrump of helicopter blades — ヘリコプターの回転翼が立てる反復音",
+      "the thrump of artillery — 砲撃の重い反響音",
+      "the thrump of machinery — 機械の低い反復振動音",
+      "the thrump of wheels — 車輪のドンドンという音",
+      "hear a thrump — 重い反復音を聞く",
+      "feel the thrump — ドンドンという振動を感じる",
+      "fade to a distant thrump — 遠い鈍い反復音へと弱まる",
+      "thrump, thrump, thrump — ドン、ドン、ドン"
+    ],
+    "en": [
+      "a steady thrump",
+      "a rhythmic thrump",
+      "a distant thrump",
+      "a deep thrump",
+      "the thrump of helicopter blades",
+      "the thrump of artillery",
+      "the thrump of machinery",
+      "the thrump of wheels",
+      "hear a thrump",
+      "feel the thrump",
+      "fade to a distant thrump",
+      "thrump, thrump, thrump"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We heard the steady thrump of helicopter blades above the valley. — 谷の上空から、ヘリコプターの回転翼が立てる規則的な重い音が聞こえた。",
+      "The distant thrump of artillery continued through the night. — 遠方の砲撃による鈍い反響音が夜通し続いた。",
+      "I could feel the thrump of the machinery through the floor. — 床を通して機械の反復振動を感じることができた。",
+      "Thrump, thrump, thrump—the wheels struck each joint in the old track. — ドン、ドン、ドン――車輪は古い線路の継ぎ目を一つずつ踏んでいった。",
+      "Because thrump is rare, a technical report would normally describe the sound as a low-frequency repetitive vibration. — thrump は稀な語なので、技術報告書では通常、その音を低周波の反復振動と記述するだろう。"
+    ],
+    "en": [
+      "We heard the steady thrump of helicopter blades above the valley.",
+      "The distant thrump of artillery continued through the night.",
+      "I could feel the thrump of the machinery through the floor.",
+      "Thrump, thrump, thrump—the wheels struck each joint in the old track.",
+      "Because thrump is rare, a technical report would normally describe the sound as a low-frequency repetitive vibration."
+    ]
+  }
+}
 ]
