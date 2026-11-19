@@ -5120,4 +5120,526 @@
     ]
   }
 }
+,
+{
+  "id": "tamper",
+  "sid": "2026-01728",
+  "word": "tamper",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "interference",
+    "alteration",
+    "dishonesty",
+    "security",
+    "evidence",
+    "equipment",
+    "business",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "tamper",
+      "third_person": "tampers",
+      "past": "tampered",
+      "past_participle": "tampered",
+      "gerund": "tampering"
+    },
+    "transitivity": "intransitive; normally followed by with",
+    "patterns": [
+      "tamper with + equipment / settings",
+      "tamper with + evidence / records",
+      "tamper with + food / packaging",
+      "tamper with + brakes / a lock",
+      "suspect someone of tampering with something",
+      "show signs of tampering",
+      "be tampered with",
+      "tamper-resistant / tamper-evident packaging"
+    ],
+    "usage": {
+      "preposition": "Use tamper with something, not normally tamper something.",
+      "core": "Tamper means interfering with or altering something without authorization, improperly, or in a potentially harmful way.",
+      "intent": "It may imply deliberate dishonesty or sabotage, but it can also criticize unauthorized or careless meddling without proving malicious intent.",
+      "evidence": "Tampering with evidence can include altering, concealing, removing, or otherwise interfering with it.",
+      "passive": "The preposition remains in the passive: The lock had been tampered with.",
+      "security": "Tamper-resistant means designed to resist interference; tamper-evident means designed to reveal that interference has occurred.",
+      "noun": "Tampering is commonly used as an uncountable activity noun."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈtæmpər/",
+      "uk": "/ˈtæmpə/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "機器・設定などに無断で手を加える、いじる",
+      "証拠・記録などを不正に改変・操作する",
+      "食品・製品などに有害な手を加える",
+      "正常な状態や働きを損なうように干渉する"
+    ],
+    "en": [
+      "to interfere with or alter something without authorization or proper care",
+      "to dishonestly manipulate records, evidence, or other material",
+      "to interfere with a product or food in a potentially harmful way",
+      "to meddle with something so as to compromise its condition or operation"
+    ]
+  },
+  "nuance": {
+    "ja": "tamper は中立的な「調整する」ではなく、権限なく、あるいは不適切に手を加えるという否定的評価を伴う。tamper with a meter は計器の不正操作、tamper with evidence は証拠への不正な介入を表す。ただし Don’t tamper with the settings. は、悪意を疑うというより「勝手に設定をいじらないで」という警告にもなる。tamper-resistant は改変への抵抗性、tamper-evident は開封・改変の痕跡が分かることを表し、同じではない。",
+    "en": "Tamper is not a neutral synonym for adjust: it presents the interference as unauthorized, improper, or potentially harmful. Tampering with a meter suggests manipulation, and tampering with evidence suggests improper interference. However, Don’t tamper with the settings may simply warn against unauthorized meddling rather than allege malicious intent. Tamper-resistant concerns resistance to interference; tamper-evident concerns making interference detectable."
+  },
+  "minimal": {
+    "ja": [
+      "tamper with：無断・不正・不適切に手を加える。",
+      "alter：変更する。正当か不正かは示さない。",
+      "adjust：目的に合わせて調整する。",
+      "tinker with：細かな試行錯誤をしながらいじる。必ずしも否定的ではない。",
+      "meddle with：余計な、または望まれない干渉をする。",
+      "manipulate：操作する。不正の意味にも中立的な意味にもなる。",
+      "falsify：記録・情報などを偽造・改ざんする。",
+      "sabotage：損害を与える目的で妨害・破壊する。"
+    ],
+    "en": [
+      "tamper with means interfering improperly or without authorization.",
+      "alter means change without inherently implying wrongdoing.",
+      "adjust means change something to suit a purpose.",
+      "tinker with suggests small experimental changes and need not be negative.",
+      "meddle with means interfere unnecessarily or unwelcome.",
+      "manipulate can describe neutral operation or dishonest control.",
+      "falsify means make records or information false.",
+      "sabotage means deliberately damage or disrupt something."
+    ]
+  },
+  "etymology": {
+    "ja": "tamper は、歴史的に temper「調整する、加減する」の異形と考えられている。調整や手直しという発想から、不適切にいじる、干渉するという意味が発達した。現代では with を伴う tamper with が基本的な構文となっている。",
+    "en": "Tamper is generally traced to a historical variant of temper in the sense of adjusting or modifying. From this developed the negative sense of meddling or interfering improperly. In modern usage, tamper with is the characteristic construction."
+  },
+  "synonyms": [
+    {
+      "word": "meddle with",
+      "note": {
+        "ja": "余計な干渉という否定的評価を強調する。",
+        "en": "Emphasizes unwelcome or unnecessary interference."
+      }
+    },
+    {
+      "word": "interfere with",
+      "note": {
+        "ja": "正常な状態・進行を妨げることを広く表す。",
+        "en": "Broadly describes disrupting normal operation or progress."
+      }
+    },
+    {
+      "word": "falsify",
+      "note": {
+        "ja": "特に記録・情報を虚偽のものにする。",
+        "en": "Specifically means making records or information false."
+      }
+    },
+    {
+      "word": "tinker with",
+      "note": {
+        "ja": "細かくいじるが、不正や悪意は必須ではない。",
+        "en": "Describes small experimental changes without necessarily implying wrongdoing."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "an etwas herummanipulieren / unbefugt verändern",
+    "it": "manomettere / alterare indebitamente",
+    "fr": "trafiquer / altérer sans autorisation",
+    "es": "manipular indebidamente / alterar sin autorización"
+  },
+  "collocations": {
+    "ja": [
+      "tamper with evidence — 証拠に不正に手を加える",
+      "tamper with records — 記録を不正に操作する",
+      "tamper with a meter — 計器を不正に操作する",
+      "tamper with the brakes — ブレーキに細工する",
+      "tamper with the settings — 設定を勝手にいじる",
+      "tamper with food — 食品に有害な手を加える",
+      "signs of tampering — 不正な操作・開封の痕跡",
+      "tamper-resistant packaging — 不正開封に強い包装",
+      "tamper-evident seal — 開封の痕跡が分かる封印",
+      "be tampered with — 不正に手を加えられる"
+    ],
+    "en": [
+      "tamper with evidence",
+      "tamper with records",
+      "tamper with a meter",
+      "tamper with the brakes",
+      "tamper with the settings",
+      "tamper with food",
+      "signs of tampering",
+      "tamper-resistant packaging",
+      "tamper-evident seal",
+      "be tampered with"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Please do not tamper with the factory settings. — 工場出荷時の設定を勝手に変更しないでください。",
+      "The mechanic suspected that someone had tampered with the brakes. — 整備士は、誰かがブレーキに細工したのではないかと疑った。",
+      "The seal showed no signs of tampering. — 封印には、不正な開封の痕跡がなかった。",
+      "Investigators examined whether the electronic records had been tampered with. — 調査担当者は、電子記録に不正な操作が加えられていたかを調べた。",
+      "The prototype uses a tamper-evident cover to reveal unauthorized access to its internal components. — その試作品は、内部部品への無断アクセスが分かるよう、開封痕跡の残るカバーを使用している。"
+    ],
+    "en": [
+      "Please do not tamper with the factory settings.",
+      "The mechanic suspected that someone had tampered with the brakes.",
+      "The seal showed no signs of tampering.",
+      "Investigators examined whether the electronic records had been tampered with.",
+      "The prototype uses a tamper-evident cover to reveal unauthorized access to its internal components."
+    ]
+  }
+},
+{
+  "id": "adamant",
+  "sid": "2026-01729",
+  "word": "adamant",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "determination",
+    "firmness",
+    "refusal",
+    "conviction",
+    "negotiation",
+    "attitude",
+    "formal",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "adamant",
+      "comparative": "more adamant",
+      "superlative": "most adamant",
+      "adverb": "adamantly"
+    },
+    "transitivity": "not applicable",
+    "patterns": [
+      "be / remain adamant",
+      "be adamant that + clause",
+      "be adamant about + noun / gerund",
+      "be adamant in + refusal / opposition",
+      "be adamant on + point / issue",
+      "absolutely adamant",
+      "adamantly refuse / deny / oppose"
+    ],
+    "usage": {
+      "core": "Adamant describes a person or position that firmly resists persuasion or change.",
+      "that_clause": "Adamant that commonly reports a firmly maintained belief or intention: She was adamant that she had paid.",
+      "about": "About can introduce a demand, decision, or subject on which someone will not yield.",
+      "position": "It is especially common after linking verbs, although attributive use is possible.",
+      "evaluation": "It can suggest admirable resolve or unreasonable inflexibility, depending on context.",
+      "certainty": "It reports firmness of conviction, not independent proof that a claim is correct.",
+      "historical_noun": "An older literary noun adamant refers to a legendary or exceptionally hard substance; the modern adjective is the focus of this card."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈædəmənt/",
+      "uk": "/ˈædəmənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "説得されても考えや態度を変えない、断固とした",
+      "要求・拒否・信念などについて譲らない",
+      "強く言い張る、頑としている"
+    ],
+    "en": [
+      "firmly refusing to change an opinion, decision, or position",
+      "unyielding in a demand, refusal, or belief",
+      "insistent and resistant to persuasion"
+    ]
+  },
+  "nuance": {
+    "ja": "adamant は、単なる自信ではなく「説得や圧力があっても譲らない」という態度を表す。She was adamant that she had paid. は彼女が支払い済みだと強く言い張ったことであり、実際に支払ったと証明する表現ではない。determined が目標へ向かう意志を強調するのに対し、adamant は特定の立場を変えないことに焦点がある。原則を守る毅然さにも、頑固で融通が利かない態度にも使える。",
+    "en": "Adamant emphasizes resistance to persuasion or pressure rather than simple confidence. She was adamant that she had paid reports a firm assertion, not proof of payment. Determined highlights commitment to achieving a goal, whereas adamant focuses on refusing to change a particular position. It can praise principled firmness or criticize stubborn inflexibility."
+  },
+  "minimal": {
+    "ja": [
+      "adamant：説得されても特定の立場を譲らない。",
+      "firm：判断・態度がしっかりしている。",
+      "determined：目標を達成しようと強く決意している。",
+      "resolute：困難があっても決意が揺らがない。",
+      "insistent：繰り返し強く要求・主張する。",
+      "unyielding：圧力に屈しない、柔軟に変わらない。",
+      "stubborn：頑固で、自分の考えを変えたがらない。",
+      "intransigent：妥協を拒む。形式的で批判的になりやすい。"
+    ],
+    "en": [
+      "adamant means refusing to change a specific position despite persuasion.",
+      "firm means steady and definite in judgment or attitude.",
+      "determined means strongly committed to achieving a goal.",
+      "resolute means unwavering in purpose despite difficulty.",
+      "insistent means persistently demanding or asserting something.",
+      "unyielding means not giving way under pressure.",
+      "stubborn means unwilling to change one’s mind.",
+      "intransigent formally describes refusal to compromise."
+    ]
+  },
+  "etymology": {
+    "ja": "ギリシア語 adamas「征服されないもの、非常に硬い物質」にさかのぼる。a-「〜でない」と daman「征服する、従わせる」に関係し、ラテン語・フランス語を経て英語に入った。硬く屈しない物質の名から、説得によって変わらない態度を表す形容詞へ発達した。diamond も究極的には同じ語源に由来する。",
+    "en": "Adamant ultimately comes from Greek adamas, unconquerable or an exceptionally hard substance, related to a-, not, and daman, to conquer or subdue. It reached English through Latin and French. The name of an unyielding material developed figuratively into the adjective for a position that persuasion cannot change. Diamond ultimately shares this origin."
+  },
+  "synonyms": [
+    {
+      "word": "unyielding",
+      "note": {
+        "ja": "圧力に屈しないことを強調する。",
+        "en": "Emphasizes not giving way under pressure."
+      }
+    },
+    {
+      "word": "resolute",
+      "note": {
+        "ja": "揺るがない決意を表す。",
+        "en": "Describes unwavering determination."
+      }
+    },
+    {
+      "word": "insistent",
+      "note": {
+        "ja": "強く主張・要求し続ける。",
+        "en": "Describes persistent assertion or demands."
+      }
+    },
+    {
+      "word": "intransigent",
+      "note": {
+        "ja": "妥協を拒む態度を形式的に表す。",
+        "en": "Formally describes an unwillingness to compromise."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "unbeirrbar / unnachgiebig / fest entschlossen",
+    "it": "irremovibile / inflessibile",
+    "fr": "catégorique / inflexible / inébranlable",
+    "es": "inflexible / firme / tajante"
+  },
+  "collocations": {
+    "ja": [
+      "remain adamant — 断固として譲らない",
+      "be adamant that something is true — 何かが真実だと強く言い張る",
+      "be adamant about a decision — 決定を変えるつもりがない",
+      "be adamant in one’s refusal — 断固として拒否する",
+      "absolutely adamant — まったく譲る気がない",
+      "adamantly deny an allegation — 疑惑・主張を断固として否定する",
+      "adamantly refuse — 断固として拒む",
+      "adamantly oppose a proposal — 提案に断固反対する"
+    ],
+    "en": [
+      "remain adamant",
+      "be adamant that something is true",
+      "be adamant about a decision",
+      "be adamant in one’s refusal",
+      "absolutely adamant",
+      "adamantly deny an allegation",
+      "adamantly refuse",
+      "adamantly oppose a proposal"
+    ]
+  },
+  "example": {
+    "ja": [
+      "She was adamant that she had already sent the documents. — 彼女は、書類はすでに送ったと強く言い張った。",
+      "Despite repeated requests, he remained adamant in his refusal. — 繰り返し頼まれても、彼は断固として拒否し続けた。",
+      "The manager was adamant about keeping the original deadline. — 管理職は、当初の期限を守るという方針を譲らなかった。",
+      "They were adamant that no personal data should be shared without permission. — 彼らは、許可なく個人データを共有してはならないという立場を貫いた。",
+      "The inventor was adamant that the alternative design would not work, but agreed to review the test results. — 発明者は代替設計では動かないと強く主張したが、試験結果を検討することには同意した。"
+    ],
+    "en": [
+      "She was adamant that she had already sent the documents.",
+      "Despite repeated requests, he remained adamant in his refusal.",
+      "The manager was adamant about keeping the original deadline.",
+      "They were adamant that no personal data should be shared without permission.",
+      "The inventor was adamant that the alternative design would not work, but agreed to review the test results."
+    ]
+  }
+},
+{
+  "id": "clench",
+  "sid": "2026-01730",
+  "word": "clench",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "verb",
+    "body",
+    "hands",
+    "teeth",
+    "muscles",
+    "tension",
+    "anger",
+    "fear",
+    "grip",
+    "general"
+  ],
+  "grammar": {
+    "pos": "verb",
+    "forms": {
+      "base": "clench",
+      "third_person": "clenches",
+      "past": "clenched",
+      "past_participle": "clenched",
+      "gerund": "clenching",
+      "opposite": "unclench"
+    },
+    "transitivity": "transitive or intransitive",
+    "patterns": [
+      "clench one’s fist / fists",
+      "clench one’s teeth / jaw",
+      "clench one’s hands into fists",
+      "clench something in one’s fist",
+      "clench something between one’s teeth",
+      "one’s fists / jaw clench",
+      "a clenched fist / jaw",
+      "through clenched teeth"
+    ],
+    "usage": {
+      "body": "Clench commonly means closing or tightening a hand, jaw, or muscles firmly.",
+      "object": "It can also mean gripping an object tightly in a fist or between the teeth.",
+      "intransitive": "A body part can be the subject: His fists clenched.",
+      "emotion": "Clenching often accompanies anger, fear, pain, effort, or determination, but the verb does not by itself identify the cause.",
+      "teeth": "Clenching the teeth means pressing them tightly together; grinding them involves movement against one another.",
+      "distinction": "Clench is not clinch: clinch commonly means securing a victory or agreement, settling an argument, or holding an opponent closely in combat sports."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/klentʃ/",
+      "uk": "/klentʃ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "拳を固く握る、手が固く握られる",
+      "歯・顎を強くかみ締める、顎がこわばる",
+      "筋肉などを強く締める",
+      "物を拳や歯でしっかり握る・くわえる"
+    ],
+    "en": [
+      "to close a hand tightly into a fist, or for a hand to close in this way",
+      "to press the teeth together or tighten the jaw",
+      "to contract muscles tightly",
+      "to grip an object firmly in a fist or between the teeth"
+    ]
+  },
+  "nuance": {
+    "ja": "clench は、開いているものを固く閉じたり、筋肉に強い緊張をかけたりする動作を表す。clench one’s fists は怒りや決意、clench one’s teeth は痛みへの耐忍や緊張を示しやすいが、意味自体に特定の感情が組み込まれているわけではない。grip が物をつかむこと一般を表すのに対し、clench は締める強さや身体のこわばりに焦点を置く。through clenched teeth は歯をかみ締めたまま話すことで、抑えた怒りなどを感じさせる。clinch a deal「取引をまとめる」とは綴りも意味も異なる。",
+    "en": "Clench emphasizes tight closure or muscular tension. Clenched fists often suggest anger or determination, and clenched teeth may suggest enduring pain or stress, but no particular emotion is built into the verb. Grip broadly concerns holding something, whereas clench highlights tightness and bodily tension. Speaking through clenched teeth often conveys restrained anger. It should not be confused with clinch in clinch a deal, meaning successfully conclude an agreement."
+  },
+  "minimal": {
+    "ja": [
+      "clench：拳・歯・筋肉などを固く締める。",
+      "grip：物をしっかりつかむ。",
+      "clasp：手などでつかむ、または両手を組む。",
+      "clutch：不安・必死さなどを伴って強くつかむ。",
+      "tighten：緩みをなくし、きつくする。",
+      "grind one’s teeth：歯をこすり合わせる、歯ぎしりする。",
+      "unclench：固く握った手や顎などの力を抜く。",
+      "clinch：勝利・取引などを確実にする。clench とは別語。"
+    ],
+    "en": [
+      "clench means closing or contracting fists, teeth, or muscles tightly.",
+      "grip means holding something firmly.",
+      "clasp means holding something or joining the hands together.",
+      "clutch suggests a tight grasp, often with anxiety or urgency.",
+      "tighten means making something less loose.",
+      "grind one’s teeth means rubbing the teeth against one another.",
+      "unclench means releasing a tightly closed fist or tense jaw.",
+      "clinch means securing a victory or agreement and is distinct from clench."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 clencan「しっかり固定する」に由来する。物を固く留めるという発想から、手を固く握る、歯や顎を締めるという現代の意味が発達した。clinch は歴史的には clench の異形に関係するが、現代では「取引をまとめる」「勝利を確実にする」など別の用法を持つ。",
+    "en": "Clench derives from Old English clencan, to fasten firmly. The idea of firm fastening developed into tightly closing the hand and pressing the teeth or jaw together. Clinch is historically related as a variant, but modern usage distinguishes such senses as clinching an agreement or securing a victory."
+  },
+  "synonyms": [
+    {
+      "word": "grip",
+      "note": {
+        "ja": "物をしっかり保持する意味で近い。",
+        "en": "Overlaps with holding an object firmly."
+      }
+    },
+    {
+      "word": "tighten",
+      "note": {
+        "ja": "筋肉などの緊張を強めることを広く表す。",
+        "en": "Broadly describes increasing tension, including in muscles."
+      }
+    },
+    {
+      "word": "clasp",
+      "note": {
+        "ja": "手で握る、両手を組む。力の強さは必須ではない。",
+        "en": "To hold with the hands or join them together, without necessarily extreme tension."
+      }
+    },
+    {
+      "word": "clutch",
+      "note": {
+        "ja": "不安・必死さを伴ってつかむことを強調する。",
+        "en": "Emphasizes a tight grasp, often through anxiety or urgency."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "die Faust ballen / die Zähne zusammenbeißen / fest umklammern",
+    "it": "stringere i pugni / serrare i denti",
+    "fr": "serrer les poings / serrer les dents",
+    "es": "cerrar los puños / apretar los dientes"
+  },
+  "collocations": {
+    "ja": [
+      "clench one’s fists — 拳を固く握る",
+      "clench one’s teeth — 歯をかみ締める",
+      "clench one’s jaw — 顎に力を入れる",
+      "clench one’s hands into fists — 両手を握り拳にする",
+      "clench a key in one’s fist — 拳の中で鍵を固く握る",
+      "a tightly clenched fist — 固く握り締めた拳",
+      "through clenched teeth — 歯をかみ締めながら",
+      "clench one’s fists in anger — 怒りで拳を握り締める",
+      "one’s jaw clenches — 顎がこわばる",
+      "unclench one’s fists — 拳の力を抜く"
+    ],
+    "en": [
+      "clench one’s fists",
+      "clench one’s teeth",
+      "clench one’s jaw",
+      "clench one’s hands into fists",
+      "clench a key in one’s fist",
+      "a tightly clenched fist",
+      "through clenched teeth",
+      "clench one’s fists in anger",
+      "one’s jaw clenches",
+      "unclench one’s fists"
+    ]
+  },
+  "example": {
+    "ja": [
+      "He clenched his fists but said nothing. — 彼は拳を握り締めたが、何も言わなかった。",
+      "She clenched her teeth as she lifted the heavy box. — 彼女は重い箱を持ち上げながら歯を食いしばった。",
+      "His jaw clenched when he heard the accusation. — 非難を聞くと、彼の顎がこわばった。",
+      "The child clenched the coin in her fist. — 子供は拳の中で硬貨を固く握っていた。",
+      "“That is not what we agreed,” he said through clenched teeth. — 「それは合意した内容と違う」と、彼は歯をかみ締めながら言った。"
+    ],
+    "en": [
+      "He clenched his fists but said nothing.",
+      "She clenched her teeth as she lifted the heavy box.",
+      "His jaw clenched when he heard the accusation.",
+      "The child clenched the coin in her fist.",
+      "“That is not what we agreed,” he said through clenched teeth."
+    ]
+  }
+}
 ]
