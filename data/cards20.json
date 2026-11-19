@@ -7016,4 +7016,153 @@
     ]
   }
 }
+,
+{
+  "id": "statutory",
+  "sid": "2026-01741",
+  "word": "statutory",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "legislation",
+    "rights",
+    "obligations",
+    "authority",
+    "legal",
+    "business"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "statutory",
+      "noun": "statute",
+      "adverb": "statutorily"
+    },
+    "patterns": [
+      "a statutory right to + verb",
+      "a statutory duty to + verb",
+      "a statutory limit on + noun",
+      "under a statutory scheme",
+      "exercise statutory powers",
+      "be subject to a statutory requirement"
+    ],
+    "usage": {
+      "position": "Usually comes before a noun, but can follow be when the source is being contrasted: The duty is statutory, not contractual.",
+      "degree": "Normally not graded: a duty either has the relevant statutory basis or it does not.",
+      "translation": "Translate according to the noun: a statutory right is a right granted by law, not a duty to exercise it."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈstætʃətɔːri/",
+      "uk": "/ˈstætʃʊtəri/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "制定法に定められた、法定の",
+      "制定法に基づいて付与・設置された",
+      "制定法に関する"
+    ],
+    "en": [
+      "prescribed or specified by statute",
+      "conferred, authorized, or established under a statute",
+      "relating to statutes"
+    ]
+  },
+  "nuance": {
+    "ja": "statutory が答えるのは「何を根拠としているか」。a statutory duty は法律が課す義務だが、a statutory power は法律が与える権限で、行使が義務だという意味ではない。また、a legal agreement は適法な合意を指し得るが、それだけで合意の内容が法定されているわけではない。",
+    "en": "Statutory points to the source of a rule, right, power, or institution. It does not by itself mean compulsory: a statute may grant an option as well as impose a duty. Nor is it interchangeable with legal in the sense of lawful."
+  },
+  "minimal": {
+    "ja": [
+      "legal： 法律に関する、または適法な。根拠が制定法とは限らない。",
+      "regulatory： 規制や監督に関する。制定法上の制度が規制を目的とすることもある。",
+      "contractual： 当事者の合意に由来する。",
+      "mandatory： 従う義務がある。義務の根拠が制定法かどうかは問わない。",
+      "statute： 立法機関が制定した法律を指す名詞。",
+      "statutory： 制定法が定め、認め、または授権している。"
+    ],
+    "en": [
+      "legal: Broadly concerns law or lawfulness, without specifying the source.",
+      "regulatory: Describes regulation or oversight; a statutory scheme can also be regulatory.",
+      "contractual: Identifies an agreement as the source of a right or duty.",
+      "mandatory: Describes what must be done, not where the obligation comes from.",
+      "statute: The noun for an enacted law.",
+      "statutory: Identifies a basis in enacted law."
+    ]
+  },
+  "etymology": {
+    "ja": "statute「制定法」に形容詞を作る -ory が付いた語。statute はラテン語 statuere「定める」にさかのぼる。",
+    "en": "Formed from statute and the adjectival suffix -ory. Statute ultimately goes back to Latin statuere, to establish or decree."
+  },
+  "synonyms": [
+    {
+      "word": "prescribed by law",
+      "note": {
+        "ja": "期限・手続などが法定されていることを説明する言い換え。",
+        "en": "A useful paraphrase for a legally specified deadline or procedure."
+      }
+    },
+    {
+      "word": "granted by statute",
+      "note": {
+        "ja": "権利や権限について、その根拠を明示する。",
+        "en": "Identifies the source of a right or power."
+      }
+    },
+    {
+      "word": "legislative",
+      "note": {
+        "ja": "立法活動・立法機関にも使うので、常に置き換えられるわけではない。",
+        "en": "Can also describe the lawmaking process or body, rather than what an enacted law provides."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gesetzlich / gesetzlich vorgeschrieben",
+    "it": "previsto dalla legge / di legge",
+    "fr": "prévu par la loi / d’origine législative",
+    "es": "establecido por ley / de origen legal"
+  },
+  "collocations": {
+    "ja": [
+      "a statutory duty — 法定の義務",
+      "a statutory right — 法律で認められた権利",
+      "a statutory deadline — 法定期限",
+      "statutory authority — 制定法に基づく権限",
+      "a statutory body — 法律に基づいて設置された機関",
+      "a statutory minimum — 法律が定める最低限度",
+      "statutory interpretation — 制定法の解釈",
+      "on a statutory basis — 制定法を根拠として"
+    ],
+    "en": [
+      "a statutory duty",
+      "a statutory right",
+      "a statutory deadline",
+      "statutory authority",
+      "a statutory body",
+      "a statutory minimum",
+      "statutory interpretation",
+      "on a statutory basis"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Is this a statutory deadline or an internal target date? — これは法定期限ですか、それとも社内の目標日ですか。",
+      "The committee asked whether it had statutory authority to publish the report. — 委員会は、報告書を公表する法令上の権限があるかを確認した。",
+      "The proposed amendment would give residents a statutory right to appeal. — 改正案が成立すれば、住民には不服を申し立てる権利が法律で認められることになる。",
+      "Their duty to send monthly updates was contractual, not statutory. — 毎月の進捗報告を送る義務は、法律ではなく契約に基づくものだった。",
+      "The dispute turns on the meaning of a single word in the statutory text. — その争いの焦点は、条文中のたった一語をどう解釈するかにある。"
+    ],
+    "en": [
+      "Is this a statutory deadline or an internal target date?",
+      "The committee asked whether it had statutory authority to publish the report.",
+      "The proposed amendment would give residents a statutory right to appeal.",
+      "Their duty to send monthly updates was contractual, not statutory.",
+      "The dispute turns on the meaning of a single word in the statutory text."
+    ]
+  }
+}
 ]
