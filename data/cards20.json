@@ -7165,4 +7165,129 @@
     ]
   }
 }
+,
+{
+  "id": "inter-partes",
+  "sid": "2026-01742",
+  "word": "inter partes",
+  "level": "C2",
+  "freq": "rare",
+  "tags": [
+    "legal",
+    "patent",
+    "procedure",
+    "Latin",
+    "adjective",
+    "adverb"
+  ],
+  "grammar": {
+    "pos": "adjectival / adverbial phrase",
+    "forms": {
+      "base": "inter partes",
+      "contrast": "ex parte"
+    },
+    "patterns": [
+      "inter partes + proceedings / hearing / review",
+      "bind the parties inter partes",
+      "have effect inter partes",
+      "operate inter partes"
+    ],
+    "usage": {
+      "placement": "Before a noun, inter partes describes the procedure; after a verb or noun phrase, it can delimit the scope of an effect.",
+      "fixed_phrase": "Two words, not normally hyphenated. Preserve the spelling in inter partes review (IPR)."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌɪntər ˈpɑːrtiːz/",
+      "uk": "/ˌɪntə ˈpɑːtiːz/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "当事者間で、当事者間に限って",
+      "対立する当事者が関与し、意見を述べる機会がある手続の"
+    ],
+    "en": [
+      "between the parties, as opposed to having effect against everyone",
+      "of proceedings in which opposing parties have an opportunity to be heard"
+    ]
+  },
+  "nuance": {
+    "ja": "inter partes proceedings では、誰が手続に関与できるかが焦点で、ex parte と対比される。一方、has effect inter partes では、法的効果が誰に及ぶかが焦点で、erga omnes が対照になる。手続が inter partes だからといって、判断の効果も当事者間に限られるとは言えない。米国特許実務の inter partes review（IPR）は特定の手続の名称。",
+    "en": "In inter partes proceedings, the phrase concerns participation and contrasts with ex parte. In has effect inter partes, it concerns whom a decision or instrument affects and contrasts with erga omnes. The procedural label alone does not determine the scope of the result. Inter partes review (IPR) is the name of a specific U.S. patent proceeding."
+  },
+  "minimal": {
+    "ja": [
+      "ex parte： 一方当事者のみが関与する手続との対比。",
+      "erga omnes： 効果の及ぶ範囲について「すべての者に対して」。",
+      "adversarial： 対立する側が主張を出し合う仕組みに着目する。",
+      "between the parties： 平易な言い換え。手続の固有名称は通常そのまま用いる。"
+    ],
+    "en": [
+      "ex parte: Contrasts with a proceeding involving only one side.",
+      "erga omnes: Contrasts in scope of effect: toward all, not merely between the parties.",
+      "adversarial: Emphasizes the contest between opposing sides rather than the scope of legal effect.",
+      "between the parties: A plain-English paraphrase, not a replacement for an official procedure name."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語 inter「～の間に」と partes（pars「部分、側、当事者」の複数対格）から成る。",
+    "en": "Latin inter, between, takes the accusative partes, the plural of pars, meaning a part or side."
+  },
+  "synonyms": [
+    {
+      "word": "adversarial",
+      "note": {
+        "ja": "対立する側が主張を出し合う仕組みに着目する。",
+        "en": "Emphasizes the contest between opposing sides rather than the scope of legal effect."
+      }
+    },
+    {
+      "word": "between the parties",
+      "note": {
+        "ja": "平易な言い換え。手続の固有名称は通常そのまま用いる。",
+        "en": "A plain-English paraphrase, not a replacement for an official procedure name."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "zwischen den Parteien / unter Beteiligung beider Seiten",
+    "it": "tra le parti / in contraddittorio",
+    "fr": "entre les parties / contradictoire",
+    "es": "entre las partes / con participación de las partes"
+  },
+  "collocations": {
+    "ja": [
+      "inter partes proceedings — 当事者双方が関与する手続",
+      "an inter partes hearing — 当事者双方に意見を述べる機会がある審理",
+      "inter partes review (IPR) — 米国特許の当事者系レビュー",
+      "have effect inter partes — 当事者間で効力を有する",
+      "operate only inter partes — 当事者間でのみ効力を持つ",
+      "an inter partes dispute — 当事者間の争い"
+    ],
+    "en": [
+      "inter partes proceedings",
+      "an inter partes hearing",
+      "inter partes review (IPR)",
+      "have effect inter partes",
+      "operate only inter partes",
+      "an inter partes dispute"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The tribunal scheduled an inter partes hearing so that both sides could be heard. — 審判機関は双方から意見を聴くため、双方が関与する審理の期日を指定した。",
+      "The settlement was intended to operate only inter partes. — その和解は当事者間でのみ効力を持つことが意図されていた。",
+      "The petitioner filed a petition for inter partes review of three patent claims. — 申立人は、特許請求項3項について当事者系レビューを申し立てた。",
+      "The fact that the proceedings were inter partes does not answer whether the decision has effect against third parties. — 双方が関与する手続だったという事実だけでは、判断の効力が第三者に及ぶかどうかは分からない。"
+    ],
+    "en": [
+      "The tribunal scheduled an inter partes hearing so that both sides could be heard.",
+      "The settlement was intended to operate only inter partes.",
+      "The petitioner filed a petition for inter partes review of three patent claims.",
+      "The fact that the proceedings were inter partes does not answer whether the decision has effect against third parties."
+    ]
+  }
+}
 ]
