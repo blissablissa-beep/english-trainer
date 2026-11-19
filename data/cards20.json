@@ -7826,4 +7826,163 @@
     ]
   }
 }
+,
+{
+  "id": "deposit",
+  "sid": "2026-01747",
+  "word": "deposit",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "verb",
+    "banking",
+    "payments",
+    "rent",
+    "geology",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable as a noun in the principal senses",
+    "plural": "deposits",
+    "transitivity": "usually transitive as a verb",
+    "forms": {
+      "base": "deposit",
+      "plural": "deposits",
+      "third_person": "deposits",
+      "past": "deposited",
+      "past_participle": "deposited",
+      "gerund": "depositing"
+    },
+    "patterns": [
+      "deposit money into an account",
+      "deposit a check (US) / cheque (UK)",
+      "pay a deposit on something",
+      "leave a deposit",
+      "put down a deposit",
+      "deposit something in / at a place",
+      "be deposited on a surface"
+    ],
+    "usage": {
+      "payment": "A booking deposit may be applied toward the bill. A security deposit is held as security. The word alone does not establish whether a payment is refundable.",
+      "location": "Use into or in for an account, but on for material settling on a surface."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈpɑːzɪt/",
+      "uk": "/dɪˈpɒzɪt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "預金、入金額",
+      "予約や購入を確保するための前金・内金",
+      "賃貸などの保証金、容器などの預り金",
+      "堆積物、付着物、鉱床",
+      "入金する、預ける、所定の場所に置く",
+      "物質を堆積・付着させる"
+    ],
+    "en": [
+      "money placed in a bank account",
+      "an advance payment to secure a booking or purchase",
+      "money held as security, for example on a rental or returnable item",
+      "a layer or accumulation of material, or a natural concentration of minerals",
+      "to put money into an account or leave something in a specified place",
+      "to lay down or leave material on a surface or in a place"
+    ]
+  },
+  "nuance": {
+    "ja": "支払いの deposit は一律に『手付金』と訳さない。ホテルの booking deposit は予約のための前金、賃貸の security deposit は担保として預ける保証金。返金されるか、残代金に充当されるかは deposit という単語だけでは分からない。物質については、水や気体が運んだ物質が残るイメージで、鍋の水あかも鉱床も deposit と呼べる。",
+    "en": "For payments, distinguish a booking deposit from a security deposit. Whether the money is refundable or credited toward the balance depends on the arrangement. Outside finance, a deposit is material left in a place, from mineral buildup in a kettle to an ore deposit."
+  },
+  "minimal": {
+    "ja": [
+      "down payment： 購入代金の一部を先に払う頭金。返却を前提とする保証金には使わない。",
+      "advance payment： 支払期日や提供時期に先立つ支払い全般。",
+      "withdrawal： 口座からの引き出し。銀行での deposit の反対。",
+      "sediment： 液体などから沈んだ物質。deposit は沈降以外で生じる付着物や鉱床も含む。"
+    ],
+    "en": [
+      "down payment: An initial part of the purchase price, not a refundable security deposit.",
+      "advance payment: Any payment made in advance, not necessarily to secure a booking.",
+      "withdrawal: Money taken out of an account; the opposite of a bank deposit.",
+      "sediment: Material that settles out; deposit also covers other accumulations and mineral deposits."
+    ]
+  },
+  "synonyms": [
+    {
+      "word": "down payment",
+      "note": {
+        "ja": "購入代金の一部を先に払う頭金。返却を前提とする保証金には使わない。",
+        "en": "An initial part of the purchase price, not a refundable security deposit."
+      }
+    },
+    {
+      "word": "put into an account",
+      "note": {
+        "ja": "入金するという動詞用法の言い換え。",
+        "en": "A plain paraphrase of the banking verb."
+      }
+    },
+    {
+      "word": "accumulation",
+      "note": {
+        "ja": "付着物・堆積物を広く指す。",
+        "en": "A general term for a buildup of material."
+      }
+    }
+  ],
+  "etymology": {
+    "ja": "ラテン語 deponere「置く、下ろす、預ける」の過去分詞 depositus にさかのぼる。",
+    "en": "Ultimately from Latin depositus, the past participle of deponere, to put down or set aside."
+  },
+  "equivalents": {
+    "de": "Einzahlung / Anzahlung / Kaution / Ablagerung / Lagerstätte",
+    "it": "versamento / anticipo / deposito cauzionale / deposito / giacimento",
+    "fr": "versement / acompte / dépôt de garantie / dépôt / gisement",
+    "es": "depósito bancario / anticipo / depósito de garantía / depósito / yacimiento"
+  },
+  "collocations": {
+    "ja": [
+      "make a deposit — 入金する",
+      "deposit cash into an account — 口座に現金を入金する",
+      "pay a deposit on a booking — 予約の前金を払う",
+      "a refundable deposit — 返金可能な預り金",
+      "a security deposit — 保証金",
+      "a bottle deposit — 容器返却時に戻る預り金",
+      "a mineral deposit — 鉱床、文脈によっては鉱物の堆積物",
+      "deposit a thin film on a substrate — 基板上に薄膜を形成する"
+    ],
+    "en": [
+      "make a deposit",
+      "deposit cash into an account",
+      "pay a deposit on a booking",
+      "a refundable deposit",
+      "a security deposit",
+      "a bottle deposit",
+      "a mineral deposit",
+      "deposit a thin film on a substrate"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I deposited the check into my savings account. — 小切手を普通預金口座に入金した。",
+      "We paid a deposit to secure the booking and will pay the balance on arrival. — 予約を確保するために前金を払い、残金は到着時に支払う。",
+      "Is the security deposit refundable? — 保証金は返金されますか。",
+      "Hard water left a white deposit inside the kettle. — 硬水によって、やかんの内側に白い水あかが残った。",
+      "A thin layer of metal was deposited on the substrate. — 基板上に金属の薄膜が形成された。",
+      "Please deposit your keys in the box by the door. — 鍵はドアのそばの箱に入れてください。"
+    ],
+    "en": [
+      "I deposited the check into my savings account.",
+      "We paid a deposit to secure the booking and will pay the balance on arrival.",
+      "Is the security deposit refundable?",
+      "Hard water left a white deposit inside the kettle.",
+      "A thin layer of metal was deposited on the substrate.",
+      "Please deposit your keys in the box by the door."
+    ]
+  }
+}
 ]
