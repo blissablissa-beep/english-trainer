@@ -1,4 +1,595 @@
 [
+  {
+    "id": "vital",
+    "sid": "2026-01701",
+    "word": "vital",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "importance",
+      "necessity",
+      "life",
+      "health",
+      "energy",
+      "success",
+      "business",
+      "general"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "vital",
+        "comparative": "more vital",
+        "superlative": "most vital",
+        "adverb": "vitally",
+        "related_noun": "vitality"
+      },
+      "transitivity": "not applicable",
+      "patterns": [
+        "be vital to + noun",
+        "be vital for + noun / gerund",
+        "it is vital to do",
+        "it is vital that + subject + base verb",
+        "it is vital that + subject + should + base verb",
+        "a vital role / contribution",
+        "vital information / evidence",
+        "vital organs / signs",
+        "of vital importance",
+        "absolutely vital"
+      ],
+      "usage": {
+        "importance": "Vital commonly means necessary for success, survival, or effective functioning.",
+        "to_for": "Both vital to and vital for occur. Vital to commonly identifies something whose success or functioning depends on the subject.",
+        "that_clause": "After it is vital that, a mandative base verb is common: It is vital that she attend. Should attend is also possible, especially in British English.",
+        "life": "In expressions such as vital organs and vital signs, vital relates to life or essential bodily functions.",
+        "energy": "Vital can describe someone or something full of energy, especially in literary or evaluative writing.",
+        "comparison": "More vital is possible when comparing relative importance, although the essential sense often favors modifiers such as absolutely.",
+        "vitality": "Vitality means energy or the capacity to live and develop; it is not the usual noun for the importance sense of vital."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈvaɪtəl/",
+        "uk": "/ˈvaɪtəl/"
+      }
+    },
+    "meaning": {
+      "ja": [
+        "成功・存続・機能のために不可欠な",
+        "極めて重要な、決定的に大切な",
+        "生命・生命維持に関係する",
+        "人・活動などが活力に満ちた"
+      ],
+      "en": [
+        "necessary for success, survival, or effective functioning",
+        "extremely important or consequential",
+        "relating to life or essential bodily functions",
+        "full of energy or vitality"
+      ]
+    },
+    "nuance": {
+      "ja": "vital は important より強く、欠けると成功・存続・正常な機能が危うくなるという意味を持ちやすい。Water is vital for life. では文字どおり不可欠だが、a vital meeting のように実際には絶対条件でなくても、重要性を強調して使われることがある。crucial は結果を左右する決定的な局面、essential は必要不可欠という性質に焦点を置くのに対し、vital は生命や活動を支えるような重要性を感じさせる。vitality は主に活力を意味するため、「この問題の重要性」は通常 the importance of this issue とする。",
+      "en": "Vital is stronger than important and often suggests that success, survival, or proper functioning would be threatened without something. The necessity may be literal, as with water and life, or emphatic, as in a vital meeting. Crucial often highlights a decisive influence on an outcome, while essential directly emphasizes necessity. Vital readily evokes the importance of something that sustains life or activity. Vitality mainly means energy or capacity for life, not importance."
+    },
+    "minimal": {
+      "ja": [
+        "vital：成功・存続・生命維持に不可欠な、極めて重要な。",
+        "important：価値・影響・優先度が高い。",
+        "essential：ある目的や状態に必要不可欠な。",
+        "crucial：結果を左右するほど決定的に重要な。",
+        "critical：極めて重要な、または状況が危機的な。",
+        "indispensable：代わりがなく、なくてはならない。",
+        "necessary：目的・条件を満たすために必要な。",
+        "lively：人・場所・活動などが元気で活発な。"
+      ],
+      "en": [
+        "vital means essential to success, survival, or life, or extremely important.",
+        "important means having substantial value, influence, or priority.",
+        "essential means necessary for a particular purpose or condition.",
+        "crucial means decisively important to an outcome.",
+        "critical can mean extremely important or dangerously unstable.",
+        "indispensable means impossible to do without.",
+        "necessary means required to achieve a purpose or meet a condition.",
+        "lively describes energetic people, places, or activities."
+      ]
+    },
+    "etymology": {
+      "ja": "ラテン語 vitalis「生命に関する」に由来し、その基礎は vita「生命」である。英語にはフランス語を経て入った。生命に関係するという意味から、生命を維持するために必要なもの、さらに事業・計画・活動の成功に不可欠なものを表すようになった。vitality も同じ語族に属する。",
+      "en": "Vital came through French from Latin vitalis, relating to life, based on vita, life. From the literal connection with life developed the sense necessary to sustain life and then the broader meaning essential to a project, organization, or activity. Vitality belongs to the same word family."
+    },
+    "synonyms": [
+      {
+        "word": "essential",
+        "note": {
+          "ja": "目的の達成や正常な機能に不可欠な。",
+          "en": "Necessary for achieving a purpose or functioning properly."
+        }
+      },
+      {
+        "word": "crucial",
+        "note": {
+          "ja": "成否・結果を左右する決定的な重要性を強調する。",
+          "en": "Emphasizes decisive importance to success or an outcome."
+        }
+      },
+      {
+        "word": "indispensable",
+        "note": {
+          "ja": "欠くことができず、代替しにくい。",
+          "en": "Impossible to do without and often difficult to replace."
+        }
+      },
+      {
+        "word": "critical",
+        "note": {
+          "ja": "特定の段階や結果にとって極めて重要な。",
+          "en": "Extremely important at a particular stage or for a particular outcome."
+        }
+      },
+      {
+        "word": "energetic",
+        "note": {
+          "ja": "活力に満ちたという語義で近い。",
+          "en": "Close to vital when describing someone full of energy."
+        }
+      }
+    ],
+    "equivalents": {
+      "de": "lebenswichtig / entscheidend / unerlässlich / vital",
+      "it": "vitale / essenziale / fondamentale",
+      "fr": "vital / essentiel / indispensable",
+      "es": "vital / esencial / imprescindible"
+    },
+    "collocations": {
+      "ja": [
+        "a vital role — 極めて重要な役割",
+        "a vital contribution — 重要な貢献",
+        "vital information — 不可欠な情報",
+        "vital evidence — 極めて重要な証拠",
+        "a vital resource — 不可欠な資源",
+        "a vital component — 不可欠な構成要素",
+        "vital organs — 生命維持に不可欠な臓器",
+        "vital signs — 生命徴候",
+        "be vital to success — 成功に不可欠である",
+        "of vital importance — 極めて重要な",
+        "absolutely vital — 絶対に欠かせない",
+        "vitally important — 極めて重要な"
+      ],
+      "en": [
+        "a vital role",
+        "a vital contribution",
+        "vital information",
+        "vital evidence",
+        "a vital resource",
+        "a vital component",
+        "vital organs",
+        "vital signs",
+        "be vital to success",
+        "of vital importance",
+        "absolutely vital",
+        "vitally important"
+      ]
+    },
+    "example": {
+      "ja": [
+        "Clean water is vital for human life. — 清潔な水は人間の生命に不可欠です。",
+        "Clear communication is vital to the success of the project. — 明確な意思疎通は、その計画の成功に不可欠です。",
+        "It is vital that everyone understand the revised procedure. — 全員が改訂された手続を理解することが極めて重要です。",
+        "The nurse checked the patient’s vital signs. — 看護師は患者の生命徴候を確認した。",
+        "The inventor’s laboratory notes provided vital information about how the device had been developed. — 発明者の実験ノートは、その装置の開発経緯について極めて重要な情報を提供した。"
+      ],
+      "en": [
+        "Clean water is vital for human life.",
+        "Clear communication is vital to the success of the project.",
+        "It is vital that everyone understand the revised procedure.",
+        "The nurse checked the patient’s vital signs.",
+        "The inventor’s laboratory notes provided vital information about how the device had been developed."
+      ]
+    }
+  },
+  {
+    "id": "deal",
+    "sid": "2026-01702",
+    "word": "deal",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "verb",
+      "agreement",
+      "transaction",
+      "bargain",
+      "quantity",
+      "treatment",
+      "cards",
+      "trade",
+      "business",
+      "general"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "countable for an agreement, bargain, or instance of treatment; fixed quantity expressions also occur",
+      "plural": "deals",
+      "forms": {
+        "noun_singular": "deal",
+        "noun_plural": "deals",
+        "verb_base": "deal",
+        "third_person": "deals",
+        "past": "dealt",
+        "past_participle": "dealt",
+        "gerund": "dealing",
+        "person_noun": "dealer"
+      },
+      "transitivity": "transitive or intransitive depending on sense",
+      "patterns": [
+        "make / strike / negotiate a deal",
+        "close / finalize a deal",
+        "a deal with + person / organization",
+        "a deal to do",
+        "a good / bad deal",
+        "a fair / raw deal",
+        "a great / good deal of + uncountable noun",
+        "deal someone + cards",
+        "deal cards to + person",
+        "deal in + goods",
+        "deal someone / something a blow",
+        "It’s a deal."
+      ],
+      "usage": {
+        "agreement": "A deal is an agreement or commercial arrangement, often reached through negotiation.",
+        "bargain": "A good deal can mean an advantageous purchase or arrangement.",
+        "treatment": "A fair deal or a raw deal concerns how someone is treated.",
+        "quantity": "A great deal of takes an uncountable noun: a great deal of time. Use many or a large number of with plural countable nouns.",
+        "cards": "Deal means distributing playing cards: deal each player five cards.",
+        "trade": "Deal in means trade in particular goods or commodities.",
+        "irregularity": "The past tense and past participle are dealt, pronounced /delt/.",
+        "separate_card": "Deal with is covered separately because its senses include handling, discussing, interacting with, and taking action against."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/diːl/",
+        "uk": "/diːl/"
+      }
+    },
+    "meaning": {
+      "ja": [
+        "交渉などによって成立する合意・取引",
+        "価格や条件から見た買い物・取引の有利さ",
+        "人に与えられる待遇・扱い",
+        "a great deal などの形で、多量・大きな程度",
+        "トランプなどの札を配る",
+        "deal in の形で、商品などを商う",
+        "打撃・損害などを与える"
+      ],
+      "en": [
+        "an agreement or transaction, often reached through negotiation",
+        "a purchase or arrangement considered in terms of its value or conditions",
+        "the treatment someone receives",
+        "in expressions such as a great deal, a large amount or degree",
+        "to distribute playing cards",
+        "in deal in, to trade in particular goods",
+        "to deliver a blow or cause damage"
+      ]
+    },
+    "nuance": {
+      "ja": "名詞の deal は、当事者間で条件を調整して成立する取引・合意を表し、必ずしも正式な契約書の存在を意味しない。agreement より商業的・交渉的な響きがあり、contract ほど法的形式を前面に出さない。a good deal は有利な取引、a raw deal は不当な待遇を意味する。a great deal of time の deal は数量表現の一部で、取引の意味ではない。動詞では札を配ることが基本的な用法で、deal in antiques のように商品の取扱いにも使う。deal with は多義性が高いため、別カードで学ぶと整理しやすい。",
+      "en": "As a noun, deal often suggests an arrangement reached by negotiating terms and does not necessarily imply a formal written contract. It sounds more commercial or negotiation-oriented than agreement and less explicitly legal than contract. A good deal is advantageous, whereas a raw deal concerns unfair treatment. In a great deal of time, deal forms part of a quantity expression rather than referring to a transaction. The verb commonly means distributing cards, and deal in identifies goods that someone trades. Deal with has a broad enough range of meanings to merit separate treatment."
+    },
+    "minimal": {
+      "ja": [
+      "deal：交渉による取引・合意、待遇。または札を配る、商品を商う。",
+      "agreement：当事者間の合意。商取引に限らない。",
+      "contract：権利・義務を定める契約。",
+      "transaction：売買・支払いなどの個別の取引行為。",
+      "bargain：割安な買い物、または交渉による取り決め。",
+      "offer：受け入れるかどうかを相手に委ねる提案・申出。",
+      "distribute：物を複数の人・場所へ配る。",
+      "deal with：問題に対処する、主題を扱う、人と関わる。"
+      ],
+      "en": [
+        "deal can mean a negotiated arrangement, treatment, or the acts of distributing cards and trading.",
+        "agreement is a shared understanding and need not concern commerce.",
+        "contract is an agreement establishing rights and obligations.",
+        "transaction is an individual act of business, such as a sale or payment.",
+        "bargain is an advantageous purchase or a negotiated arrangement.",
+        "offer is a proposal presented for another person’s acceptance.",
+        "distribute means giving things out among people or places.",
+        "deal with means handling a problem, discussing a subject, or interacting with someone."
+      ]
+    },
+    "etymology": {
+      "ja": "deal は古英語の名詞 dæl「部分、分け前」と動詞 dælan「分ける、分配する」にさかのぼる。ドイツ語 Teil「部分」、teilen「分ける」と同族である。「分け与える」という意味は札を配る用法に残り、人とのやり取り・商取引に関する意味も発達した。a great deal のような数量表現にも、部分・量という古い意味が反映されている。",
+      "en": "Deal goes back to Old English dæl, a part or share, and dælan, to divide or distribute. It is related to German Teil, part, and teilen, to divide. The distributive meaning survives in dealing cards, while senses involving interaction and commerce developed alongside it. Quantity expressions such as a great deal also reflect the older idea of a portion or amount."
+    },
+    "synonyms": [
+      {
+        "word": "agreement",
+        "note": {
+          "ja": "合意を表す広い語で、商業性や交渉を必ずしも強調しない。",
+          "en": "A broad term for an arrangement that does not necessarily emphasize commerce or negotiation."
+        }
+      },
+      {
+        "word": "transaction",
+        "note": {
+          "ja": "売買・支払いなど、実行される取引行為に重点を置く。",
+          "en": "Emphasizes an act of business such as a sale or payment."
+        }
+      },
+      {
+        "word": "bargain",
+        "note": {
+          "ja": "割安な買い物、または交渉で成立した取り決め。",
+          "en": "An advantageous purchase or an arrangement reached through negotiation."
+        }
+      },
+      {
+        "word": "distribute",
+        "note": {
+          "ja": "札を配る意味で近いが、配布全般に使える。",
+          "en": "Overlaps with dealing cards but applies more broadly to giving things out."
+        }
+      },
+      {
+        "word": "trade",
+        "note": {
+          "ja": "商品などを売買する意味で deal in に近い。",
+          "en": "Corresponds to the commercial meaning expressed by deal in."
+        }
+      }
+    ],
+    "equivalents": {
+      "de": "Geschäft / Vereinbarung / verteilen / handeln",
+      "it": "accordo / affare / distribuire / commerciare",
+      "fr": "accord / affaire / distribuer / faire commerce",
+      "es": "acuerdo / trato / repartir / comerciar"
+    },
+    "collocations": {
+      "ja": [
+        "make a deal — 取引・合意をする",
+        "strike a deal — 交渉をまとめる",
+        "close a deal — 取引を成立させる",
+        "negotiate a deal — 取引条件を交渉する",
+        "a licensing deal — ライセンス契約・取引",
+        "a good deal — 有利な取引、お買い得",
+        "a fair deal — 公正な待遇・取引",
+        "a raw deal — 不当な待遇",
+        "a great deal of time — 多くの時間",
+        "deal the cards — 札を配る",
+        "deal in antiques — 骨董品を商う",
+        "deal a severe blow to something — 何かに深刻な打撃を与える"
+      ],
+      "en": [
+        "make a deal",
+        "strike a deal",
+        "close a deal",
+        "negotiate a deal",
+        "a licensing deal",
+        "a good deal",
+        "a fair deal",
+        "a raw deal",
+        "a great deal of time",
+        "deal the cards",
+        "deal in antiques",
+        "deal a severe blow to something"
+      ]
+    },
+    "example": {
+      "ja": [
+        "After weeks of negotiation, the companies finally struck a deal. — 数週間の交渉を経て、両社はついに合意に達した。",
+        "At that price, the laptop is a very good deal. — その価格なら、そのノートパソコンはとてもお買い得です。",
+        "She felt that temporary employees were getting a raw deal. — 彼女は、有期雇用の従業員が不当に扱われていると感じていた。",
+        "He dealt five cards to each player. — 彼は各プレイヤーに5枚ずつ札を配った。",
+        "The shop deals in antique clocks and watches. — その店はアンティークの置時計や腕時計を扱っている。",
+        "The companies announced a licensing deal covering several battery-related patents. — 両社は、複数の電池関連特許を対象とするライセンス取引を発表した。"
+      ],
+      "en": [
+        "After weeks of negotiation, the companies finally struck a deal.",
+        "At that price, the laptop is a very good deal.",
+        "She felt that temporary employees were getting a raw deal.",
+        "He dealt five cards to each player.",
+        "The shop deals in antique clocks and watches.",
+        "The companies announced a licensing deal covering several battery-related patents."
+      ]
+    }
+  },
+  {
+    "id": "deal-with",
+    "sid": "2026-01703",
+    "word": "deal with",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "phrasal verb",
+      "problems",
+      "handling",
+      "responsibility",
+      "communication",
+      "subject matter",
+      "interaction",
+      "emotions",
+      "business",
+      "general"
+    ],
+    "grammar": {
+      "pos": "prepositional verb",
+      "forms": {
+        "base": "deal with",
+        "third_person": "deals with",
+        "past": "dealt with",
+        "past_participle": "dealt with",
+        "gerund": "dealing with"
+      },
+      "transitivity": "takes a prepositional object",
+      "separability": "inseparable",
+      "patterns": [
+        "deal with + problem / complaint / request",
+        "deal with + person / organization",
+        "deal with + subject / issue",
+        "deal with + stress / grief / change",
+        "deal with something effectively",
+        "have to deal with + noun",
+        "be difficult to deal with",
+        "leave someone to deal with + noun",
+        "be dealt with",
+        "Deal with it."
+      ],
+      "usage": {
+        "handling": "Deal with commonly means taking action in response to a problem, request, or responsibility.",
+        "subject": "A book, report, or discussion deals with a topic when it examines or discusses that topic.",
+        "interaction": "With a person or organization, it can mean interacting, communicating, or doing business with them.",
+        "coping": "With stress, grief, or change, it can mean managing or learning to live with a difficult experience.",
+        "punitive": "In some contexts, dealing with someone means taking disciplinary or hostile action against them.",
+        "object_position": "The object follows with: deal with it, not deal it with.",
+        "passive": "The passive is common: Your complaint will be dealt with.",
+        "grammar_label": "Often grouped with phrasal verbs in learner materials, but structurally it is a prepositional verb.",
+        "tone": "Deal with it can sound blunt or dismissive when telling someone to accept an unpleasant reality."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈdiːl wɪð/",
+        "uk": "/ˈdiːl wɪð/"
+      }
+    },
+    "meaning": {
+      "ja": [
+        "問題・依頼・苦情などに対処する、処理する",
+        "人・組織とやり取りする、取引する",
+        "文章・議論などが主題を扱う",
+        "ストレス・悲しみ・変化などに対応し、折り合いをつける",
+        "人に必要な処置・処分を行う"
+      ],
+      "en": [
+        "to take action in response to a problem, request, or complaint",
+        "to interact, communicate, or do business with a person or organization",
+        "to discuss or examine a subject",
+        "to manage or come to terms with stress, grief, change, or another difficult experience",
+        "to take action against someone, sometimes as discipline or punishment"
+      ]
+    },
+    "nuance": {
+      "ja": "deal with は、問題・人・主題などを広く「扱う」表現で、目的語によって意味が変わる。deal with a complaint は苦情に対応することで、必ず解決に成功したことまでは意味しない。deal with a supplier は仕入先との取引・連絡、a report dealing with safety は安全を扱う報告書である。cope with は困難に何とか耐えて対応する側面を強調するが、deal with は事務的で中立的な処理にも使える。I’ll deal with him. は文脈次第で通常の応対にも、叱責・処分や脅しにも聞こえる。",
+      "en": "Deal with broadly means handling something, with the precise interpretation determined by its object. Dealing with a complaint means responding to it, not necessarily resolving it successfully. Dealing with a supplier concerns interaction or business, while a report dealing with safety discusses that subject. Cope with emphasizes managing a difficulty, whereas deal with also covers routine, emotionally neutral tasks. I’ll deal with him may promise ordinary assistance or imply discipline or a threat, depending on context."
+    },
+    "minimal": {
+      "ja": [
+        "deal with：問題・人・主題などを扱い、必要な対応をする。",
+        "handle：仕事・問題・人などを扱う。前置詞なしで目的語を取る。",
+        "cope with：困難・負担を何とか乗り切る。",
+        "address：問題・懸念に注意を向け、対応を試みる。解決済みとは限らない。",
+        "resolve：問題・争いなどを解決する。",
+        "manage：状況・業務・感情などを管理し、対応する。",
+        "discuss：主題について話し合う、論じる。",
+        "dispose of：不要な物を処分する、または案件を処理する。"
+      ],
+      "en": [
+        "deal with means handling a problem, person, or subject through appropriate attention or action.",
+        "handle takes a direct object and concerns managing tasks, problems, or people.",
+        "cope with emphasizes managing to endure or respond to difficulty.",
+        "address means directing attention or action toward an issue without necessarily solving it.",
+        "resolve means bringing a problem or dispute to a solution.",
+        "manage means controlling or handling a situation, activity, or emotion.",
+        "discuss means talking or writing about a subject.",
+        "dispose of means getting rid of something or formally settling a matter."
+      ]
+    },
+    "etymology": {
+      "ja": "deal は古英語 dælan「分ける、分配する」に由来する。そこから人とのやり取り・交渉・扱いに関する意味が発達し、相手や対象を導く with と結び付いて deal with が成立した。現代では、相手と取引することから問題を処理すること、文章で主題を扱うことまで、広い用法を持つ。",
+      "en": "Deal derives from Old English dælan, to divide or distribute. It developed meanings involving interaction, negotiation, and treatment. Combined with with, which introduces the other party or object of attention, deal with acquired its broad modern range: doing business with someone, handling a problem, and discussing a subject."
+    },
+    "synonyms": [
+      {
+        "word": "handle",
+        "note": {
+          "ja": "問題・依頼・状況などを扱う意味で非常に近い。",
+          "en": "A close equivalent when managing a problem, request, or situation."
+        }
+      },
+      {
+        "word": "address",
+        "note": {
+          "ja": "問題・懸念に対応するため注意や行動を向ける。",
+          "en": "To direct attention or action toward a problem or concern."
+        }
+      },
+      {
+        "word": "cope with",
+        "note": {
+          "ja": "ストレス・悲しみ・困難などへの対応を強調する。",
+          "en": "Emphasizes managing stress, grief, or another difficulty."
+        }
+      },
+      {
+        "word": "discuss",
+        "note": {
+          "ja": "文章・会話が主題を扱う意味で対応する。",
+          "en": "Corresponds to the sense of examining a subject in speech or writing."
+        }
+      },
+      {
+        "word": "do business with",
+        "note": {
+          "ja": "人・会社との商取引という意味を明確にする。",
+          "en": "Explicitly identifies commercial interaction with a person or company."
+        }
+      }
+    ],
+    "equivalents": {
+      "de": "sich mit etwas befassen / mit etwas umgehen / behandeln",
+      "it": "occuparsi di / affrontare / trattare",
+      "fr": "s’occuper de / faire face à / traiter de",
+      "es": "ocuparse de / afrontar / tratar de"
+    },
+    "collocations": {
+      "ja": [
+        "deal with a problem — 問題に対処する",
+        "deal with a complaint — 苦情に対応する",
+        "deal with a request — 依頼を処理する",
+        "deal with an emergency — 緊急事態に対処する",
+        "deal with customers — 顧客に応対する",
+        "deal with suppliers — 仕入先とやり取りする",
+        "deal with difficult people — 扱いにくい人に対応する",
+        "deal with stress — ストレスに対処する",
+        "deal with grief — 悲しみと向き合う",
+        "deal with a subject — 主題を扱う",
+        "deal with something effectively — 何かに効果的に対処する",
+        "be difficult to deal with — 対応・取扱いが難しい"
+      ],
+      "en": [
+        "deal with a problem",
+        "deal with a complaint",
+        "deal with a request",
+        "deal with an emergency",
+        "deal with customers",
+        "deal with suppliers",
+        "deal with difficult people",
+        "deal with stress",
+        "deal with grief",
+        "deal with a subject",
+        "deal with something effectively",
+        "be difficult to deal with"
+      ]
+    },
+    "example": {
+      "ja": [
+        "I’ll deal with the complaint this afternoon. — その苦情には今日の午後に対応します。",
+        "She deals with overseas suppliers every day. — 彼女は毎日、海外の仕入先とやり取りしている。",
+        "The final chapter deals with the environmental impact of the project. — 最終章は、その計画の環境への影響を扱っている。",
+        "He is still learning how to deal with the loss of his closest friend. — 彼は今も、最も親しかった友人を失ったこととどう向き合うかを模索している。",
+        "The patent attorney dealt with the client’s questions before turning to the proposed amendments. — 弁理士は、補正案の検討に移る前に依頼人の質問に対応した。"
+      ],
+      "en": [
+        "I’ll deal with the complaint this afternoon.",
+        "She deals with overseas suppliers every day.",
+        "The final chapter deals with the environmental impact of the project.",
+        "He is still learning how to deal with the loss of his closest friend.",
+        "The patent attorney dealt with the client’s questions before turning to the proposed amendments."
+      ]
+    }
+},  
 {
   "id": "cautious",
   "sid": "2026-01704",
