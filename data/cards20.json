@@ -7676,4 +7676,154 @@
     ]
   }
 }
+,
+{
+  "id": "distinction",
+  "sid": "2026-01746",
+  "word": "distinction",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "noun",
+    "comparison",
+    "classification",
+    "achievement",
+    "education",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable for a particular difference, honor, or grade; uncountable for excellence or eminence",
+    "plural": "distinctions",
+    "forms": {
+      "singular": "distinction",
+      "plural": "distinctions",
+      "verb": "distinguish",
+      "adjective": "distinct"
+    },
+    "patterns": [
+      "draw / make a distinction between A and B",
+      "make no distinction between A and B",
+      "with distinction",
+      "pass with distinction",
+      "earn a distinction",
+      "have the distinction of being / doing",
+      "a person of distinction"
+    ],
+    "usage": {
+      "comparison": "Use between for the two categories being distinguished.",
+      "achievement": "Use with distinction without an article for an excellent performance or result. A distinction can name a particular grade or honor.",
+      "irony": "Have the distinction of can be ironic when followed by an unenviable record."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/dɪˈstɪŋkʃən/",
+      "uk": "/dɪˈstɪŋkʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "違い、区別、分類上の線引き",
+      "卓越、名声、優れた働きぶり",
+      "栄誉、特筆すべき実績・立場",
+      "試験などの優秀評価、優等"
+    ],
+    "en": [
+      "a difference between things, or a separation made between categories",
+      "excellence or eminence",
+      "an honor or noteworthy achievement or status",
+      "an award or grade recognizing excellent performance"
+    ]
+  },
+  "nuance": {
+    "ja": "draw a distinction は違いがあると述べるだけでなく、議論や分類のために二つを区別すること。with distinction は『見事に・優秀な成績で』で、試験の評価名にもなる。have the distinction of は特筆すべきことを紹介する型で、残念な記録を後に続ければ皮肉にもなる。",
+    "en": "Draw a distinction often means actively separating two categories for a purpose. With distinction refers to excellent performance, and a distinction can be a named grade. Have the distinction of highlights what sets someone or something apart and can be ironic."
+  },
+  "minimal": {
+    "ja": [
+      "difference： 違いそのもの。分類のために線を引くという含みは不要。",
+      "discrimination： 違いを見分ける力の意味もあるが、不当な差別を指すことが多い。",
+      "honor： 栄誉一般。成績区分としての distinction と常に同じではない。",
+      "distinctiveness： 他と識別できる性質。商標文脈の「識別力」には通常こちら。"
+    ],
+    "en": [
+      "difference: A difference can exist whether or not anyone draws a distinction.",
+      "discrimination: Can mean discernment, but often denotes unfair differential treatment.",
+      "honor: A broad term for recognition; not necessarily a particular grade.",
+      "distinctiveness: The quality of being distinguishable; in trademark contexts, the usual term for the relevant identifying quality."
+    ]
+  },
+  "synonyms": [
+    {
+      "word": "difference",
+      "note": {
+        "ja": "違いそのもの。分類のために線を引くという含みは不要。",
+        "en": "A difference can exist whether or not anyone draws a distinction."
+      }
+    },
+    {
+      "word": "honor",
+      "note": {
+        "ja": "栄誉一般。成績区分としての distinction と常に同じではない。",
+        "en": "A broad term for recognition; not necessarily a particular grade."
+      }
+    },
+    {
+      "word": "excellence",
+      "note": {
+        "ja": "with distinction の優秀さに近い。",
+        "en": "Close to the excellence sense in with distinction."
+      }
+    }
+  ],
+  "etymology": {
+    "ja": "ラテン語 distinctio に由来し、distinguere「区別する」と同系。",
+    "en": "From Latin distinctio, related to distinguere, meaning to distinguish."
+  },
+  "equivalents": {
+    "de": "Unterscheidung / Unterschied / Auszeichnung",
+    "it": "distinzione / differenza / con lode",
+    "fr": "distinction / différence / avec mention",
+    "es": "distinción / diferencia / con honores"
+  },
+  "collocations": {
+    "ja": [
+      "draw a distinction — 区別する",
+      "make a clear distinction — 明確に区別する",
+      "a fine distinction — 微妙な違い",
+      "blur the distinction — 区別を曖昧にする",
+      "without distinction — 区別なく",
+      "serve with distinction — 立派に職務を果たす",
+      "pass with distinction — 優秀な成績で合格する",
+      "have the distinction of being the first — 最初であるという栄誉を持つ"
+    ],
+    "en": [
+      "draw a distinction",
+      "make a clear distinction",
+      "a fine distinction",
+      "blur the distinction",
+      "without distinction",
+      "serve with distinction",
+      "pass with distinction",
+      "have the distinction of being the first"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The report draws a distinction between ownership of the patent and permission to use the invention. — その報告書は、特許権の保有と発明を実施する許可を区別している。",
+      "In practice, the distinction between the two categories is not always clear. — 実際には、その二つの区分の境界は必ずしも明確ではない。",
+      "She passed the final examination with distinction. — 彼女は最終試験に優秀な成績で合格した。",
+      "He served the organization with distinction for twenty years. — 彼は20年間、その組織で立派に職務を果たした。",
+      "Our team had the dubious distinction of being the only one to miss the deadline. — 私たちのチームは、唯一締切を守れなかったという不名誉な記録を残した。"
+    ],
+    "en": [
+      "The report draws a distinction between ownership of the patent and permission to use the invention.",
+      "In practice, the distinction between the two categories is not always clear.",
+      "She passed the final examination with distinction.",
+      "He served the organization with distinction for twenty years.",
+      "Our team had the dubious distinction of being the only one to miss the deadline."
+    ]
+  }
+}
 ]
