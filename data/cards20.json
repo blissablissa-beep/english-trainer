@@ -4277,7 +4277,8 @@
       "state": "Reduce to can describe bringing something to a poorer, simpler, or more basic state.",
       "cooking": "A liquid reduces when simmering makes it lose water and become more concentrated; a cook can also reduce it.",
       "chemistry": "In chemistry, reduction involves a gain of electrons or a decrease in oxidation state.",
-      "noun": "The ordinary corresponding noun is reduction, not reduce."
+      "noun": "The ordinary corresponding noun is reduction, not reduce.",
+      "reduced_to": "In be reduced to + noun or gerund, to is a preposition rather than an infinitive marker: be reduced to begging or be reduced to doing something, not be reduced to do something."
     }
   },
   "pronunciation": {
@@ -4293,7 +4294,8 @@
       "人・物を、より悪い状態や単純な状態にする",
       "液体を煮詰める、液体が煮詰まる",
       "分数を約分する",
-      "化学で、物質を還元する"
+      "化学で、物質を還元する",
+      "追い詰められて、不本意ながら何かをするしかない状態になる"
     ],
     "en": [
       "to make an amount, number, size, or degree smaller",
@@ -4301,12 +4303,13 @@
       "to bring someone or something into a worse or simpler state",
       "to concentrate a liquid by simmering, or to become concentrated in this way",
       "to express a fraction in simpler terms",
-      "in chemistry, to cause a substance to gain electrons or decrease its oxidation state"
+      "in chemistry, to cause a substance to gain electrons or decrease its oxidation state",
+      "to be left with no acceptable alternative and therefore have to do something undesirable"
     ]
   },
   "nuance": {
-    "ja": "reduce は、対象を現在より小さく・少なく・低くするという中立的な動詞で、減らすことが良いか悪いかは目的語と文脈による。reduce costs は通常望ましいが、reduce quality は好ましくない。by は減少幅、to は減少後の到達値を示すため、特に数値表現で区別が重要である。be reduced to begging は、ほかに手段がなく物乞いをする状態にまで追い込まれることを表す。reduce an argument to a slogan は議論を標語へ単純化することで、重要な複雑さを失うという批判にもなる。料理・数学・化学では、それぞれ特定の技術的意味を持つ。",
-    "en": "Reduce is neutral about whether making something smaller is desirable: reducing costs is usually welcome, while reducing quality is not. By identifies the amount removed and to identifies the resulting level, an important distinction in numerical statements. Be reduced to begging describes being forced into an undesirable situation with few alternatives. Reducing an argument to a slogan can criticize oversimplification. In cooking, mathematics, and chemistry, the verb has more specific technical meanings."
+    "ja": "reduce は、対象を現在より小さく・少なく・低くするという中立的な動詞で、減らすことが良いか悪いかは目的語と文脈による。reduce costs は通常望ましいが、reduce quality は好ましくない。by は減少幅、to は減少後の到達値を示すため、特に数値表現で区別が重要である。be reduced to + 名詞・動名詞は、選択肢・資源・立場などを失い、不本意な状態や行為にまで追い込まれることを表す。ここでの to は前置詞なので、be reduced to begging や be reduced to doing something とし、be reduced to do something とはしない。reduce an argument to a slogan は議論を標語へ単純化することで、重要な複雑さを失うという批判にもなる。料理・数学・化学では、それぞれ特定の技術的意味を持つ。",
+    "en": "Reduce is neutral about whether making something smaller is desirable: reducing costs is usually welcome, while reducing quality is not. By identifies the amount removed and to identifies the resulting level, an important distinction in numerical statements. Be reduced to + noun or gerund describes being forced into an undesirable state or course of action because few alternatives remain. Here, to is a preposition, so a gerund follows it: be reduced to begging or be reduced to doing something, not be reduced to do something. Reducing an argument to a slogan can criticize oversimplification. In cooking, mathematics, and chemistry, the verb has more specific technical meanings."
   },
   "minimal": {
     "ja": [
@@ -4390,7 +4393,8 @@
       "be reduced to rubble — がれきと化す",
       "reduce a sauce — ソースを煮詰める",
       "reduce a fraction — 分数を約分する",
-      "reduce a metal oxide — 金属酸化物を還元する"
+      "reduce a metal oxide — 金属酸化物を還元する",
+      "be reduced to doing something — 追い詰められて、不本意ながら何かをする羽目になる"
     ],
     "en": [
       "reduce costs",
@@ -4404,7 +4408,8 @@
       "be reduced to rubble",
       "reduce a sauce",
       "reduce a fraction",
-      "reduce a metal oxide"
+      "reduce a metal oxide",
+      "be reduced to doing something"
     ]
   },
   "example": {
@@ -4414,7 +4419,8 @@
       "Her unexpected kindness reduced him to tears. — 彼女の思いがけない親切に、彼は涙を流した。",
       "Let the sauce reduce over a gentle heat. — 弱火でソースを煮詰めてください。",
       "The fraction six eighths can be reduced to three quarters. — 8分の6は4分の3に約分できる。",
-      "The revised wording reduced ambiguity without changing the intended technical meaning. — 修正された文言は、意図された技術的意味を変えることなく曖昧さを減らした。"
+      "The revised wording reduced ambiguity without changing the intended technical meaning. — 修正された文言は、意図された技術的意味を変えることなく曖昧さを減らした。",
+      "After losing access to the original records, the investigators were reduced to reconstructing the transaction from emails. — 原資料を利用できなくなったため、調査担当者は電子メールから取引を再構成するしかなくなった。"
     ],
     "en": [
       "The new process reduced energy consumption by 20 percent.",
@@ -4422,7 +4428,8 @@
       "Her unexpected kindness reduced him to tears.",
       "Let the sauce reduce over a gentle heat.",
       "The fraction six eighths can be reduced to three quarters.",
-      "The revised wording reduced ambiguity without changing the intended technical meaning."
+      "The revised wording reduced ambiguity without changing the intended technical meaning.",
+      "After losing access to the original records, the investigators were reduced to reconstructing the transaction from emails."
     ]
   }
 }
