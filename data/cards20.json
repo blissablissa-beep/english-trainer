@@ -6033,4 +6033,312 @@
     ]
   }
 }
+,
+{
+  "id": "thump",
+  "sid": "2026-01733",
+  "word": "thump",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "verb",
+    "sound",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun / verb",
+    "countability": "countable as a noun",
+    "forms": {
+      "plural": "thumps",
+      "past": "thumped",
+      "gerund": "thumping"
+    },
+    "patterns": [
+      "a dull thump",
+      "land with a thump",
+      "thump the table",
+      "my heart was thumping"
+    ],
+    "usage": {
+      "usage": "A thump can be a single impact. With the heart as subject, the verb describes the force of the beat rather than just its speed."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/θʌmp/",
+      "uk": "/θʌmp/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "重い物が当たるドスンという音・一撃",
+      "強くたたく",
+      "心臓がドキドキする"
+    ],
+    "en": [
+      "a heavy blow or its dull sound",
+      "to strike heavily or beat strongly"
+    ]
+  },
+  "nuance": {
+    "ja": "thump は音だけでなく、その音を生む一撃にも使う。thrump と違い、反復は必要ない。心臓を主語にすると、緊張や興奮で鼓動を強く感じる場面を描ける。",
+    "en": "A thump can be a single impact. With the heart as subject, the verb describes the force of the beat rather than just its speed."
+  },
+  "minimal": {
+    "ja": [
+      "bang： 鋭く大きな音。thump はもっと鈍い。"
+    ],
+    "en": [
+      "bang: A bang is typically sharper and louder."
+    ]
+  },
+  "etymology": {
+    "ja": "音をまねた語と考えられる。",
+    "en": "Probably imitative of the sound of an impact."
+  },
+  "synonyms": [
+    {
+      "word": "bang",
+      "note": {
+        "ja": "鋭く大きな音。thump はもっと鈍い。",
+        "en": "A bang is typically sharper and louder."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "dumpfer Schlag / pochen",
+    "it": "sordo tonfo / battere",
+    "fr": "coup sourd / cogner",
+    "es": "golpe sordo / golpear"
+  },
+  "collocations": {
+    "ja": [
+      "a dull thump — 鈍い衝撃音",
+      "land with a thump — ドスンと落ちる",
+      "thump the table — テーブルを強くたたく",
+      "my heart was thumping — 心臓が激しく打っていた"
+    ],
+    "en": [
+      "a dull thump",
+      "land with a thump",
+      "thump the table",
+      "my heart was thumping"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The parcel landed on the mat with a thump. — 小包がドスンと音を立ててマットに落ちた。",
+      "She thumped the door with her fist. — 彼女は拳でドアを強くたたいた。",
+      "My heart was thumping as I opened the envelope. — 封筒を開けるとき、心臓がドキドキしていた。"
+    ],
+    "en": [
+      "The parcel landed on the mat with a thump.",
+      "She thumped the door with her fist.",
+      "My heart was thumping as I opened the envelope."
+    ]
+  }
+},
+{
+  "id": "furnace",
+  "sid": "2026-01734",
+  "word": "furnace",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "heating",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable as a noun",
+    "forms": {
+      "plural": "furnaces"
+    },
+    "patterns": [
+      "a blast furnace",
+      "a gas furnace",
+      "replace the furnace filter",
+      "like a furnace"
+    ],
+    "usage": {
+      "usage": "In a factory the emphasis is on process heat; in a North American home the furnace is often the unit that heats air for distribution through ducts."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈfɝːnɪs/",
+      "uk": "/ˈfɜːnɪs/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "金属などを高温で処理する炉",
+      "特に北米で、建物に暖気を供給する暖房装置"
+    ],
+    "en": [
+      "an industrial chamber for intense heating",
+      "especially in North America, a heating unit for a building"
+    ]
+  },
+  "nuance": {
+    "ja": "製鉄所の炉だけでなく、米国の住宅で the furnace kicked on と言えば暖房が作動したこと。暖炉のように火を眺める場所ではない。",
+    "en": "In a factory the emphasis is on process heat; in a North American home the furnace is often the unit that heats air for distribution through ducts."
+  },
+  "minimal": {
+    "ja": [
+      "kiln： 陶器・れんがなどを焼く窯。"
+    ],
+    "en": [
+      "kiln: A kiln is used for processes such as firing pottery."
+    ]
+  },
+  "etymology": {
+    "ja": "古フランス語を経て、炉を意味するラテン語 fornax にさかのぼる。",
+    "en": "Through French, from Latin fornax, a furnace or oven."
+  },
+  "synonyms": [
+    {
+      "word": "kiln",
+      "note": {
+        "ja": "陶器・れんがなどを焼く窯。",
+        "en": "A kiln is used for processes such as firing pottery."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Ofen / Warmluftheizung",
+    "it": "forno industriale / generatore d’aria calda",
+    "fr": "four industriel / générateur d’air chaud",
+    "es": "horno industrial / calefactor de aire"
+  },
+  "collocations": {
+    "ja": [
+      "a blast furnace — 高炉",
+      "a gas furnace — ガス炉・ガス暖房機",
+      "replace the furnace filter — 暖房機のフィルターを交換する",
+      "like a furnace — 炉のように暑い"
+    ],
+    "en": [
+      "a blast furnace",
+      "a gas furnace",
+      "replace the furnace filter",
+      "like a furnace"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The metal was heated in an electric furnace. — 金属を電気炉で加熱した。",
+      "The furnace kicked on just before dawn. — 夜明け直前に暖房が作動した。",
+      "By noon the attic felt like a furnace. — 正午には屋根裏は炉のような暑さだった。"
+    ],
+    "en": [
+      "The metal was heated in an electric furnace.",
+      "The furnace kicked on just before dawn.",
+      "By noon the attic felt like a furnace."
+    ]
+  }
+},
+{
+  "id": "hearth",
+  "sid": "2026-01735",
+  "word": "hearth",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "home",
+    "general"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "countable as a noun",
+    "forms": {
+      "plural": "hearths"
+    },
+    "patterns": [
+      "a stone hearth",
+      "by the hearth",
+      "on the hearth",
+      "hearth and home"
+    ],
+    "usage": {
+      "usage": "A stone hearth can extend into the room. In hearth and home, the place where people once gathered around the fire stands for domestic life."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/hɑːrθ/",
+      "uk": "/hɑːθ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "暖炉の火をたく炉床、またはその手前の床",
+      "比喩的に家庭・団らん"
+    ],
+    "en": [
+      "the floor of a fireplace or the area immediately in front of it",
+      "figuratively, home and family life"
+    ]
+  },
+  "nuance": {
+    "ja": "fireplace が暖炉全体なのに対し、hearth は薪を置く床や、その手前の石敷きに焦点を当てる。hearth and home では、設備よりも帰る家の温かさを表す。",
+    "en": "A stone hearth can extend into the room. In hearth and home, the place where people once gathered around the fire stands for domestic life."
+  },
+  "minimal": {
+    "ja": [
+      "fireplace： 炉床を含む暖炉全体。"
+    ],
+    "en": [
+      "fireplace: The entire structure, not just its floor."
+    ]
+  },
+  "etymology": {
+    "ja": "古英語 heorð「炉床」に由来し、ドイツ語 Herd と同系。",
+    "en": "From Old English heorð, related to German Herd."
+  },
+  "synonyms": [
+    {
+      "word": "fireplace",
+      "note": {
+        "ja": "炉床を含む暖炉全体。",
+        "en": "The entire structure, not just its floor."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Herdstelle / Kaminboden",
+    "it": "focolare",
+    "fr": "âtre / foyer",
+    "es": "hogar / fogón"
+  },
+  "collocations": {
+    "ja": [
+      "a stone hearth — 石造りの炉床",
+      "by the hearth — 暖炉のそばで",
+      "on the hearth — 炉床に",
+      "hearth and home — わが家と家庭生活"
+    ],
+    "en": [
+      "a stone hearth",
+      "by the hearth",
+      "on the hearth",
+      "hearth and home"
+    ]
+  },
+  "example": {
+    "ja": [
+      "A single log was burning on the hearth. — 炉床で薪が一本燃えていた。",
+      "The cat slept on the warm stone hearth. — 猫は暖炉の前の温かな石の上で眠った。",
+      "After months abroad, she longed for hearth and home. — 何か月も外国で過ごし、彼女はわが家のぬくもりを恋しく思った。"
+    ],
+    "en": [
+      "A single log was burning on the hearth.",
+      "The cat slept on the warm stone hearth.",
+      "After months abroad, she longed for hearth and home."
+    ]
+  }
+}
 ]
