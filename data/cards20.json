@@ -7551,4 +7551,129 @@
     ]
   }
 }
+,
+{
+  "id": "out-of-obligation",
+  "sid": "2026-01745",
+  "word": "out of obligation",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "prepositional phrase",
+    "fixed expression",
+    "motivation",
+    "duty",
+    "social obligation",
+    "general"
+  ],
+  "grammar": {
+    "pos": "prepositional phrase",
+    "forms": {
+      "base": "out of obligation",
+      "variant": "out of a sense of obligation"
+    },
+    "patterns": [
+      "do something out of obligation",
+      "only / purely / partly out of obligation",
+      "out of obligation rather than + noun",
+      "not out of obligation but out of + noun"
+    ],
+    "usage": {
+      "function": "Usually modifies an action and gives the reason for it. Obligation normally takes no article in this expression.",
+      "contrast": "Out of obligation explains why someone acts; be under an obligation to act states that a duty exists."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌaʊt əv ˌɑːbləˈɡeɪʃən/",
+      "uk": "/ˌaʊt əv ˌɒblɪˈɡeɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "義理で、付き合いで",
+      "義務感から、やるべきだと思って"
+    ],
+    "en": [
+      "because one feels socially expected to do something",
+      "from a feeling that one ought to do something"
+    ]
+  },
+  "nuance": {
+    "ja": "行為の動機を表し、義務が実際にあるかどうかまでは示さない。単独でも「進んでやったわけではない」と含みを持つことがあるが、不満や嫌悪を必ず表すわけではない。only out of obligation なら「義理だけで」と動機を限定し、out of a sense of obligation なら本人が感じる義務に焦点が当たる。",
+    "en": "This phrase describes a motive, not proof that a duty actually exists. It often suggests that the action was not freely desired, but need not imply resentment. Only out of obligation excludes other motives; out of a sense of obligation makes the subjective feeling explicit."
+  },
+  "minimal": {
+    "ja": [
+      "out of obligation：義理・義務感で行うという動機。",
+      "under an obligation to do：～する義務を負っているという状態。",
+      "out of courtesy：相手への礼儀・配慮から。",
+      "reluctantly：気が進まない様子を示すが、理由は示さない。"
+    ],
+    "en": [
+      "out of obligation: duty is the motive for acting.",
+      "under an obligation to do: a duty to act exists.",
+      "out of courtesy: politeness or consideration is the motive.",
+      "reluctantly: unwillingly, without specifying why."
+    ]
+  },
+  "etymology": {
+    "ja": "理由・動機を示す out of と、義務を表す obligation の組み合わせ。out of curiosity（好奇心から）と同じ構造。",
+    "en": "The motivational use of out of combines with obligation, as in the parallel construction out of curiosity."
+  },
+  "synonyms": [
+    {
+      "word": "out of a sense of duty",
+      "note": {
+        "ja": "自分の務めを果たそうという意識から。",
+        "en": "Highlights a personal sense of duty."
+      }
+    },
+    {
+      "word": "because one feels obliged",
+      "note": {
+        "ja": "やらなければならないと感じて、という平易な言い換え。",
+        "en": "A plain paraphrase that makes the perceived pressure explicit."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "aus Pflichtgefühl / aus Verpflichtung",
+    "it": "per dovere / per senso del dovere",
+    "fr": "par obligation / par devoir",
+    "es": "por obligación / por sentido del deber"
+  },
+  "collocations": {
+    "ja": [
+      "go out of obligation — 義理で行く",
+      "attend out of obligation — 義理で出席する",
+      "help out of obligation — 義務感から手を貸す",
+      "only out of obligation — 義理だけで",
+      "partly out of obligation — 一部は義務感から",
+      "out of obligation rather than genuine interest — 純粋な関心というより義理から"
+    ],
+    "en": [
+      "go out of obligation",
+      "attend out of obligation",
+      "help out of obligation",
+      "only out of obligation",
+      "partly out of obligation",
+      "out of obligation rather than genuine interest"
+    ]
+  },
+  "example": {
+    "ja": [
+      "I went out of obligation, not because I wanted to. — 行きたかったわけではなく、義理で行った。",
+      "Please don’t feel you have to come out of obligation. — 義理で来なければ、なんて思わなくていいですよ。",
+      "She kept visiting her former teacher, partly out of obligation and partly because she enjoyed their conversations. — 彼女が恩師を訪ね続けたのは、義理もあったが、話をするのが楽しかったからでもある。",
+      "He took on the task out of a sense of obligation to his team. — チームに対して責任を感じ、彼はその仕事を引き受けた。"
+    ],
+    "en": [
+      "I went out of obligation, not because I wanted to.",
+      "Please don’t feel you have to come out of obligation.",
+      "She kept visiting her former teacher, partly out of obligation and partly because she enjoyed their conversations.",
+      "He took on the task out of a sense of obligation to his team."
+    ]
+  }
+}
 ]
