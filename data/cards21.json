@@ -2703,5 +2703,118 @@
         "Looking at how people use the app offline might be a fruitful line of inquiry. — 利用者がオフラインでアプリをどう使うかを調べると、有益な発見があるかもしれない。"
       ]
     }
+  },
+  {
+    "id": "ex-officio",
+    "sid": "2026-01784",
+    "word": "ex officio",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "legal-latin",
+      "law",
+      "governance",
+      "formal"
+    ],
+    "grammar": {
+      "pos": "adjective / adverb",
+      "patterns": [
+        "an ex officio member of + body",
+        "serve ex officio on + committee",
+        "act / examine / raise an issue ex officio",
+        "ex officio examination"
+      ],
+      "usage": {
+        "membership": "An ex officio member sits on the body by virtue of holding another position. Check the governing rules for voting rights.",
+        "procedure": "In legal and administrative writing, an authority acting ex officio takes up a matter on its own official initiative.",
+        "spelling": "Usually written as two words. The hyphenated form ex-officio is also encountered."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌeks əˈfɪʃ.i.oʊ/",
+        "uk": "/ˌeks əˈfɪʃ.i.əʊ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "by virtue of holding a particular office or position",
+        "on an authority’s own official initiative"
+      ],
+      "ja": [
+        "役職に伴って、その職にあることにより",
+        "（裁判所・行政機関などが）職権で"
+      ]
+    },
+    "nuance": {
+      "ja": "an ex officio member は、別の役職に就いていることによって委員となる人。たとえば規約上、会計責任者がその職にある間、財務委員会の委員を兼ねる場合。議決権の有無は規約などによる。the Office raised the issue ex officio なら、当局が当事者の申立てを待たず、職権でその論点を取り上げたという意味になる。",
+      "en": "An ex officio member sits on a body because they hold another office, for example when the treasurer has a seat on the finance committee under the bylaws. Voting rights depend on the governing rules. When an office raises an issue ex officio, it takes up the issue on its own official initiative."
+    },
+    "minimal": {
+      "en": [
+        "by virtue of one’s office: A plain-language equivalent for the membership sense. It identifies the office as the basis for the role.",
+        "on its own motion / sua sponte: Close equivalents for a court taking up an issue of its own initiative. Ex officio also describes committee membership tied to an office.",
+        "in an official capacity: Means acting as a representative or officeholder. Ex officio can specify that the office confers another role or that an authority initiated the action."
+      ],
+      "ja": [
+        "by virtue of one’s office：役職に伴ってという意味の平易な言い換え。その役職にあることが委員資格などの根拠だと示す。",
+        "on its own motion / sua sponte：裁判所が自ら論点を取り上げるときの「職権で」に近い。ex officio は役職に伴う委員資格にも使う。",
+        "in an official capacity：「公的な立場で」。ex officio は、役職に伴って別の職務を担うことや、機関が自ら職権で手続を進めることを具体的に表せる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "by virtue of office",
+        "note": {
+          "ja": "役職に伴って。委員資格などについて。",
+          "en": "For a role attached to an office."
+        }
+      },
+      {
+        "word": "on its own initiative",
+        "note": {
+          "ja": "職権で、自らの判断で。機関が論点を取り上げる場合など。",
+          "en": "For an authority initiating action itself."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "ラテン語 ex「〜から」と officium「職務、役職」の奪格 officiō から成り、字義は「職務・役職に基づいて」。",
+      "en": "From Latin ex (from, by virtue of) and officiō, the ablative of officium (duty or office)."
+    },
+    "equivalents": {
+      "de": "kraft Amtes / von Amts wegen",
+      "it": "di diritto (in ragione della carica) / d’ufficio",
+      "fr": "membre de droit (membership) / d’office",
+      "es": "por razón del cargo / de oficio"
+    },
+    "collocations": {
+      "en": [
+        "an ex officio member",
+        "serve ex officio on a committee",
+        "raise an objection ex officio",
+        "ex officio examination"
+      ],
+      "ja": [
+        "an ex officio member — 役職に伴って委員となる人",
+        "serve ex officio on a committee — 役職に伴って委員会の委員を務める",
+        "raise an objection ex officio — 職権で拒絶理由などを提起する",
+        "ex officio examination — 職権審査"
+      ]
+    },
+    "example": {
+      "en": [
+        "Under the bylaws, the treasurer is an ex officio member of the finance committee.",
+        "She serves ex officio on the advisory panel while she is director of the institute.",
+        "The Office raised an objection on absolute grounds ex officio during examination.",
+        "The court considered the issue ex officio even though neither party had raised it."
+      ],
+      "ja": [
+        "Under the bylaws, the treasurer is an ex officio member of the finance committee. — 規約上、会計責任者はその役職に伴い、財務委員会の委員となる。",
+        "She serves ex officio on the advisory panel while she is director of the institute. — 彼女は研究所長の在任中、その役職に伴い諮問委員会の委員も務める。",
+        "The Office raised an objection on absolute grounds ex officio during examination. — 庁は審査中、職権で絶対的拒絶理由を指摘した。",
+        "The court considered the issue ex officio even though neither party had raised it. — 当事者のどちらもその論点を提起していなかったが、裁判所は職権で検討した。"
+      ]
+    }
   }
 ]
