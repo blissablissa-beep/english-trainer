@@ -1073,5 +1073,125 @@
         "He steadfastly refused to blame his colleagues for the mistake. — 彼はそのミスを同僚のせいにすることをかたくなに拒んだ。"
       ]
     }
+  },
+  {
+    "id": "resolute",
+    "sid": "2026-01770",
+    "word": "resolute",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "determination",
+      "resolve",
+      "decision"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "resolute",
+        "comparative": "more resolute",
+        "superlative": "most resolute",
+        "adverb": "resolutely"
+      },
+      "patterns": [
+        "remain resolute",
+        "be resolute in one’s refusal to do something",
+        "a resolute + noun"
+      ],
+      "usage": {
+        "register": "Somewhat formal. Use it of a person, a stance, or a response that shows firm determination."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈrez.ə.luːt/",
+        "uk": "/ˈrez.ə.luːt/"
+      }
+    },
+    "meaning": {
+      "ja": [
+        "意志が固い、断固とした",
+        "決意の固さを示す、毅然とした"
+      ],
+      "en": [
+        "firmly determined to act or to hold a position",
+        "showing firm determination"
+      ]
+    },
+    "nuance": {
+      "ja": "やると決めたことを実行する、あるいは受け入れないと決めたことを断る意志の固さを表す。a resolute response は、難しい局面で方針をはっきり示す毅然とした対応。a resolute expression なら、決意が表情に表れている。",
+      "en": "Resolute highlights firmness of purpose, whether someone is set on taking action or on refusing a demand. A resolute response shows determination in a difficult situation, and a resolute expression makes that determination visible."
+    },
+    "minimal": {
+      "ja": [
+        "steadfast：困難や反対が続いても支持や信念を貫くことに焦点がある。resolute は決断や拒否を示すその場面にもよく使う。",
+        "determined：目標を達成する意欲を幅広く表す。resolute はやや改まった語で、態度や対応に表れる意志の固さにもよく使う。",
+        "decisive：決断が早い、あるいは結果を決定づけるという意味。a resolute response は対応に表れる強い意志を指す。",
+        "adamant：要求や意見を絶対に変えないという強い主張。resolute は行動に移す決意にも使える。"
+      ],
+      "en": [
+        "steadfast: Emphasizes continuing to support or believe in something under pressure. Resolute also fits a particular moment of decision or refusal.",
+        "determined: Broadly describes a strong desire to achieve something. Resolute is somewhat more formal and often describes the firmness visible in a stance or response.",
+        "decisive: Suggests acting without delay or determining an outcome. Resolute highlights determination.",
+        "adamant: Emphasizes insistence or refusal to change one’s mind. Resolute also fits a determination to take action."
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "determined",
+        "note": {
+          "ja": "強い意志を持った。",
+          "en": "Set on doing or achieving something."
+        }
+      },
+      {
+        "word": "firm",
+        "note": {
+          "ja": "態度や立場が固い。",
+          "en": "Clear and steady in one’s position."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "ラテン語 resolvere に由来し、resolve「決意する」と同系。名詞 resolve は「決意」を表し、show great resolve は「強い決意を示す」。",
+      "en": "Ultimately from Latin resolvere and related to resolve. The noun resolve means firm determination."
+    },
+    "equivalents": {
+      "de": "entschlossen / entschieden",
+      "it": "risoluto / determinato",
+      "fr": "résolu / déterminé",
+      "es": "resuelto / decidido"
+    },
+    "collocations": {
+      "en": [
+        "a resolute response",
+        "a resolute refusal",
+        "a resolute expression",
+        "remain resolute in the face of opposition",
+        "resolutely oppose the proposal"
+      ],
+      "ja": [
+        "a resolute response — 毅然とした対応",
+        "a resolute refusal — 断固とした拒否",
+        "a resolute expression — 決意のこもった表情",
+        "remain resolute in the face of opposition — 反対に直面しても決意を曲げない",
+        "resolutely oppose the proposal — その提案に断固反対する"
+      ]
+    },
+    "example": {
+      "en": [
+        "The client was resolute in its refusal to sign the agreement without a clear definition of the licensed territory.",
+        "When the first two venues fell through, she remained resolute and kept looking for a place to hold the event.",
+        "His voice was quiet, but his expression was resolute.",
+        "The board responded to the criticism with a resolute commitment to publishing the full findings."
+      ],
+      "ja": [
+        "The client was resolute in its refusal to sign the agreement without a clear definition of the licensed territory. — 依頼人は、ライセンスの対象地域が明確に定義されない限り、契約書に署名しないという立場を貫いた。",
+        "When the first two venues fell through, she remained resolute and kept looking for a place to hold the event. — 最初の二つの会場が使えなくなっても、彼女は諦めず、イベントを開ける場所を探し続けた。",
+        "His voice was quiet, but his expression was resolute. — 声は静かだったが、表情には固い決意が表れていた。",
+        "The board responded to the criticism with a resolute commitment to publishing the full findings. — 批判を受け、理事会は調査結果の全容を公表するという固い決意を示した。"
+      ]
+    }
   }
 ]
