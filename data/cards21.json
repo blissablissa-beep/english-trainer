@@ -3317,5 +3317,136 @@
         "The company retained local counsel to advise on the trademark dispute. — 会社はその商標紛争について助言を受けるため、現地の弁護士に依頼した。"
       ]
     }
+  },
+  {
+    "id": "fret",
+    "sid": "2026-01789",
+    "word": "fret",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "noun",
+      "emotion",
+      "music"
+    ],
+    "grammar": {
+      "pos": "verb / noun",
+      "countability": "countable in the musical sense",
+      "forms": {
+        "base": "fret",
+        "thirdPerson": "frets",
+        "past": "fretted",
+        "pastParticiple": "fretted",
+        "presentParticiple": "fretting",
+        "plural": "frets"
+      },
+      "patterns": [
+        "fret about / over + noun",
+        "fret about whether + clause",
+        "Don’t fret",
+        "at the fifth fret",
+        "fret a note"
+      ],
+      "usage": {
+        "worry": "Usually intransitive in the sense of worrying. Use fret about or fret over to introduce the concern.",
+        "spelling": "Double the final t in fretted and fretting.",
+        "music": "At the fifth fret refers to a position on the fingerboard. Fret a note means to use a finger to press a string at a fret."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/fret/",
+        "uk": "/fret/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to worry or become anxious, often by dwelling on something",
+        "one of the raised strips across the fingerboard of a guitar or similar instrument",
+        "to press a string at a fret to sound a note"
+      ],
+      "ja": [
+        "（動詞）くよくよ心配する、気をもむ",
+        "（名詞）ギターなどの指板上にあるフレット",
+        "（動詞・音楽）弦をフレットの位置で押さえる"
+      ]
+    },
+    "nuance": {
+      "ja": "worry より、気になることを何度も考えて落ち着かない様子が出やすい。Don't fret. は「そう心配しないで」と相手をなだめる言い方。心配の対象は小さなことにも、結果が気になる大事なことにもなる。楽器の用法では、at the fifth fret のように弦を押さえる位置を番号で示せる。",
+      "en": "Fret often makes worry sound persistent or restless, as if the person keeps returning to the same concern. Don’t fret is a way to reassure someone. The concern can be minor or serious. On a guitar, at the fifth fret identifies a position for fingering a note."
+    },
+    "minimal": {
+      "en": [
+        "worry: A broad, everyday verb for feeling concerned. Fret often suggests dwelling on the concern.",
+        "agonize over: Suggests intense distress or difficulty making a decision. Fret can describe a milder, nagging worry.",
+        "fuss over: Often involves visible fussing or giving a person or detail excessive attention. Fret foregrounds the feeling of worry.",
+        "fingerboard: The surface on which the strings are pressed. A fret is one of the raised strips across it."
+      ],
+      "ja": [
+        "worry：心配することを幅広く表す日常語。fret は同じことが何度も気になる様子が出やすい。",
+        "agonize over：深く悩む、決断できず苦しむ。fret は、気になり続ける軽めの心配にも使える。",
+        "fuss over：人の世話や細部にかまいすぎたり、あれこれ気を配ったりする。fret は心配する気持ちに焦点がある。",
+        "fingerboard：弦を押さえる指板全体。fret はその上を横切る突起の一本。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "worry",
+        "note": {
+          "ja": "心配する、不安に思う。",
+          "en": "Feel concerned or anxious."
+        }
+      },
+      {
+        "word": "be anxious",
+        "note": {
+          "ja": "気がかりで不安に思う。",
+          "en": "Feel uneasy about what might happen."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "「心配する」の動詞は古英語 fretan「食い尽くす」に由来し、ドイツ語 fressen「（動物が）食べる」と同系。古くは感情が心をむしばむように人を悩ませる用法があった。楽器の名詞 fret の語源は不明。",
+      "en": "The verb meaning ‘worry’ comes from Old English fretan, ‘to devour,’ and is related to German fressen, ‘to eat’ of animals. Earlier figurative uses described feelings consuming or troubling someone. The origin of the musical noun is uncertain."
+    },
+    "equivalents": {
+      "de": "sich Sorgen machen / sich grämen / Bund (Musik)",
+      "it": "preoccuparsi / crucciarsi / tasto (chitarra)",
+      "fr": "s’inquiéter / se tracasser / frette (guitare)",
+      "es": "preocuparse / inquietarse / traste (guitarra)"
+    },
+    "collocations": {
+      "en": [
+        "fret about the result",
+        "fret over every little detail",
+        "Don’t fret",
+        "at the fifth fret",
+        "fret a note"
+      ],
+      "ja": [
+        "fret about the result — 結果を気にしてくよくよする",
+        "fret over every little detail — 細かいこと一つひとつに気をもむ",
+        "Don’t fret — そう心配しないで",
+        "at the fifth fret — 第5フレットの位置で",
+        "fret a note — 弦を押さえて音程を決める"
+      ]
+    },
+    "example": {
+      "en": [
+        "I spent the whole weekend fretting about whether I’d said the wrong thing.",
+        "Don’t fret about the typo. I’ll fix it before we send the draft.",
+        "She fretted over every detail of the presentation, even after the slides were finished.",
+        "Put your index finger just behind the fifth fret.",
+        "Try fretting the note with your middle finger instead."
+      ],
+      "ja": [
+        "I spent the whole weekend fretting about whether I’d said the wrong thing. — 余計なことを言ってしまったかもしれないと、週末の間ずっと気にしていた。",
+        "Don’t fret about the typo. I’ll fix it before we send the draft. — その誤字は心配しないで。草案を送る前に直しておくよ。",
+        "She fretted over every detail of the presentation, even after the slides were finished. — スライドが完成してからも、彼女は発表の細かいところまであれこれ気をもんでいた。",
+        "Put your index finger just behind the fifth fret. — 人差し指を第5フレットのすぐ手前に置いて。",
+        "Try fretting the note with your middle finger instead. — 今度は中指で弦を押さえて、その音を出してみて。"
+      ]
+    }
   }
 ]
