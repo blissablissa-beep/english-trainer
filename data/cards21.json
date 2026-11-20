@@ -610,5 +610,126 @@
         "My brother trained as a plumber and now runs his own business. — 兄は配管工の訓練を受け、今は独立して仕事をしている。"
       ]
     }
+  },
+  {
+    "id": "astute",
+    "sid": "2026-01766",
+    "word": "astute",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "judgment",
+      "observation",
+      "business"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "astute",
+        "comparative": "more astute",
+        "superlative": "most astute",
+        "adverb": "astutely",
+        "noun": "astuteness"
+      },
+      "patterns": [
+        "an astute + noun",
+        "be astute enough to do something",
+        "politically / commercially astute"
+      ],
+      "usage": {
+        "focus": "Use it of people who assess situations well or of observations and actions that show good judgment."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/əˈstuːt/",
+        "uk": "/əˈstjuːt/"
+      }
+    },
+    "meaning": {
+      "ja": [
+        "洞察力のある、物事の要点を見抜くのがうまい",
+        "判断の鋭い、状況を読んだうえでの賢明な"
+      ],
+      "en": [
+        "quick to grasp what matters in a situation and able to judge it well",
+        "showing keen insight or sound practical judgment"
+      ]
+    },
+    "nuance": {
+      "ja": "人や状況をよく読み、見落とされがちな重要点に気づく鋭さをほめる語。an astute observation は「核心を突いた指摘」。an astute move は、たとえば相手が合意しやすい時期を見計らって提案するなど、状況を読んだ巧みな一手を指す。",
+      "en": "Astute is usually approving. An astute observation spots something important that others overlooked. An astute move shows practical judgment, such as choosing the moment when the other side is most likely to agree."
+    },
+    "minimal": {
+      "ja": [
+        "shrewd：取引や交渉で損得を見極める実利的な判断力に焦点が当たりやすい。an astute observation は、利害の絡まない場面でも使える。",
+        "perceptive：他人の気持ちや文章の含意など、微妙なことに気づく力を表す。astute はその洞察を踏まえた判断や行動にもよく使う。",
+        "savvy：特定の分野の事情に通じ、実際にうまく立ち回れることを表す、比較的くだけた語。tech-savvy は「テクノロジーに詳しい」。",
+        "clever：機転や工夫を広くほめる。an astute decision では、何が重要かを見極めた判断に焦点がある。"
+      ],
+      "en": [
+        "shrewd: Often emphasizes practical advantage, especially in bargaining or business.",
+        "perceptive: Emphasizes noticing subtle details, feelings, or meanings. Astute also readily describes a decision or move.",
+        "savvy: Relatively informal and often domain-specific, as in tech-savvy.",
+        "clever: Broadly praises intelligence or ingenuity. Astute highlights accurate assessment and judgment."
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "shrewd",
+        "note": {
+          "ja": "実利を見極める判断力のある。",
+          "en": "Good at judging situations for practical advantage."
+        }
+      },
+      {
+        "word": "perceptive",
+        "note": {
+          "ja": "微妙な点によく気づく。",
+          "en": "Quick to notice and understand subtle things."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "ラテン語 astūtus「抜け目のない、巧みな」に由来し、astūs「策略、巧みさ」と関係する。",
+      "en": "From Latin astūtus, meaning crafty or clever, from astus, meaning craft or cunning."
+    },
+    "equivalents": {
+      "de": "scharfsinnig / gewieft",
+      "it": "acuto / astuto",
+      "fr": "perspicace / avisé",
+      "es": "perspicaz / astuto"
+    },
+    "collocations": {
+      "en": [
+        "an astute observation",
+        "an astute assessment",
+        "an astute move",
+        "an astute negotiator",
+        "a politically astute decision"
+      ],
+      "ja": [
+        "an astute observation — 核心を突いた指摘",
+        "an astute assessment — 鋭い分析・評価",
+        "an astute move — 状況を読んだ巧みな一手",
+        "an astute negotiator — 状況判断に優れた交渉役",
+        "a politically astute decision — 政治的な力関係を読んだ判断"
+      ]
+    },
+    "example": {
+      "en": [
+        "She made an astute observation about why customers were abandoning the form halfway through.",
+        "It was an astute move to wait until the other side had made its priorities clear.",
+        "An astute reader will notice that the report gives percentages without saying how many people were surveyed.",
+        "Her most astute question was whether the amendment would narrow the scope of the claim more than necessary."
+      ],
+      "ja": [
+        "She made an astute observation about why customers were abandoning the form halfway through. — 顧客がなぜ入力フォームの途中で離脱するのかについて、彼女は核心を突く指摘をした。",
+        "It was an astute move to wait until the other side had made its priorities clear. — 相手方が何を優先するかを明らかにするまで待ったのは、巧みな一手だった。",
+        "An astute reader will notice that the report gives percentages without saying how many people were surveyed. — 鋭い読者なら、その報告書が割合を示す一方で、調査対象者の人数を明らかにしていないことに気づくだろう。",
+        "Her most astute question was whether the amendment would narrow the scope of the claim more than necessary. — 彼女の最も鋭い質問は、その補正で請求項の範囲が必要以上に狭くならないか、というものだった。"
+      ]
+    }
   }
 ]
