@@ -2368,5 +2368,227 @@
         "He’s thrifty when he shops for himself, but he’s never stingy when it’s his turn to buy lunch. — 彼は自分の買い物では節約上手だが、昼食をおごる番になると出し惜しみはしない。"
       ]
     }
+  },
+  {
+    "id": "pressing",
+    "sid": "2026-01781",
+    "word": "pressing",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "priority",
+      "time",
+      "business"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "pressing",
+        "comparative": "more pressing",
+        "superlative": "most pressing"
+      },
+      "patterns": [
+        "a pressing + noun",
+        "a pressing need for + noun",
+        "a pressing need to + verb",
+        "the most pressing of + plural noun"
+      ],
+      "usage": {
+        "focus": "Typically describes needs, problems, questions, and other matters that demand attention. In She is pressing the button, pressing is a form of the verb press."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈpres.ɪŋ/",
+        "uk": "/ˈpres.ɪŋ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "requiring attention or action soon because it is difficult to put off"
+      ],
+      "ja": [
+        "差し迫った、後回しにできない"
+      ]
+    },
+    "nuance": {
+      "ja": "問題や必要性が切実で、ほかの案件より先に取り組むべきだという響きが出やすい。a pressing need for affordable housing は、手頃な住宅を早く確保する必要が切実だということ。慢性的な問題でも、先送りが難しければ pressing と言える。",
+      "en": "Pressing often highlights the pressure a problem or need puts on people to address it soon. A long-standing shortage can be pressing if it can no longer reasonably be put off. The most pressing issue naturally ranks it against other concerns."
+    },
+    "minimal": {
+      "en": [
+        "urgent: Often emphasizes how soon someone must act. A request for an immediate reply is an urgent request. Both pressing and urgent fit need or issue.",
+        "important: Concerns significance. A long-term goal can be important even when it requires no immediate attention.",
+        "imminent: Describes something about to happen. An imminent deadline is close, while a pressing issue demands attention."
+      ],
+      "ja": [
+        "urgent：いつまでに対応が必要か、特に「すぐに」という点が前面に出やすい。即答が必要なら an urgent request。need や issue には両方使える。",
+        "important：重要性を表す。すぐに手を付ける必要がない長期目標でも important と言える。",
+        "imminent：何かが間もなく起きることを表す。an imminent deadline は期限が目前で、a pressing issue は対応が必要な問題。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "urgent",
+        "note": {
+          "ja": "早急な対応が必要な。",
+          "en": "Requiring prompt attention or action."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "動詞 press「押す、圧力をかける」の -ing 形から。形容詞では、問題や必要性に対応を迫られる感覚につながる。",
+      "en": "From the -ing form of press. The adjective evokes a need or difficulty that puts pressure on someone to act."
+    },
+    "equivalents": {
+      "de": "dringend / dringlich",
+      "it": "pressante / impellente",
+      "fr": "pressant / impérieux",
+      "es": "acuciante / apremiante"
+    },
+    "collocations": {
+      "en": [
+        "a pressing need for housing",
+        "a pressing concern",
+        "a pressing issue",
+        "the most pressing question"
+      ],
+      "ja": [
+        "a pressing need for housing — 住宅を確保する切実な必要性",
+        "a pressing concern — 放っておけない懸念",
+        "a pressing issue — 優先して対処すべき問題",
+        "the most pressing question — 最優先で答えを出すべき問い"
+      ]
+    },
+    "example": {
+      "en": [
+        "The city faces a pressing need for more affordable housing.",
+        "We can discuss the layout later. The most pressing issue is whether we have enough time to test the app.",
+        "The most pressing question is what evidence we can gather before the filing deadline.",
+        "Funding was a concern, but finding a new venue was more pressing."
+      ],
+      "ja": [
+        "The city faces a pressing need for more affordable housing. — 市は、手頃な価格の住宅を増やすという差し迫った課題に直面している。",
+        "We can discuss the layout later. The most pressing issue is whether we have enough time to test the app. — レイアウトはあとで話せます。今いちばん優先すべきなのは、アプリをテストする時間が足りるかどうかです。",
+        "The most pressing question is what evidence we can gather before the filing deadline. — 今いちばん早く答えを出すべきなのは、提出期限までにどんな証拠を集められるかです。",
+        "Funding was a concern, but finding a new venue was more pressing. — 資金も気がかりだったが、新しい会場を見つけることのほうが差し迫っていた。"
+      ]
+    }
+  },
+  {
+    "id": "urgent",
+    "sid": "2026-01782",
+    "word": "urgent",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "priority",
+      "time",
+      "business"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "urgent",
+        "comparative": "more urgent",
+        "superlative": "most urgent",
+        "adverb": "urgently",
+        "noun": "urgency"
+      },
+      "patterns": [
+        "an urgent + noun",
+        "be in urgent need of + noun",
+        "It is urgent that + clause",
+        "urgently need + noun / to + verb"
+      ],
+      "usage": {
+        "register": "Common in everyday and formal English. Use urgently to modify an action, as in urgently need help."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈɝː.dʒənt/",
+        "uk": "/ˈɜː.dʒənt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "requiring immediate or prompt attention, action, or a response",
+        "expressing a strong need for someone to act quickly"
+      ],
+      "ja": [
+        "緊急の、急を要する、早急な対応が必要な",
+        "（要請や訴えが）切迫した、急を訴える"
+      ]
+    },
+    "nuance": {
+      "ja": "対応を急ぐ必要があることを端的に伝える語。an urgent email は通常、内容や求められる対応に時間の余裕がないメール。It's urgent. とだけ言って「急ぎです」と伝えることもできる。急ぐ理由や具体的な期限は文脈で決まる。",
+      "en": "Urgent directly signals that time matters. An urgent email calls for prompt attention because of its contents or the action it requests. It’s urgent is a natural way to say that something needs dealing with quickly."
+    },
+    "minimal": {
+      "en": [
+        "pressing: Often foregrounds a problem or need that cannot be put off. Both fit issue, but urgent easily labels a message, request, or task in need of a quick response.",
+        "important: Describes significance. Something can be urgent because a deadline is close even if it is relatively minor.",
+        "time-sensitive: Highlights that timing or a deadline affects the value or outcome, as with a limited-time offer.",
+        "emergency: Usually a noun for a serious situation requiring immediate action, or a noun modifier as in emergency meeting. An urgent request can also be routine work with a short deadline."
+      ],
+      "ja": [
+        "pressing：先送りできない問題や必要性に焦点が当たりやすい。issue は両方に合う。返信や対応を急ぐメール・依頼・作業には urgent が使いやすい。",
+        "important：重要なこと。比較的小さな作業でも、締切が迫っていれば urgent になり得る。",
+        "time-sensitive：時期や期限を逃すと価値や結果に影響することを表す。期間限定の提案などにも使える。",
+        "emergency：直ちに対応が必要な重大な事態を表す名詞。emergency meeting のようにも使う。urgent request は、期限の短い日常業務の依頼でも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "pressing",
+        "note": {
+          "ja": "先送りできず、対応を迫られる。",
+          "en": "Demanding attention soon, especially of a problem or need."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "ラテン語 urgēre「押す、せき立てる」に由来する。urge「強く促す」と同系。",
+      "en": "Ultimately from Latin urgēre, meaning to press or drive. Related to urge."
+    },
+    "equivalents": {
+      "de": "dringend / eilig",
+      "it": "urgente",
+      "fr": "urgent",
+      "es": "urgente"
+    },
+    "collocations": {
+      "en": [
+        "an urgent request",
+        "an urgent matter",
+        "require urgent attention",
+        "take urgent action",
+        "be in urgent need of help"
+      ],
+      "ja": [
+        "an urgent request — 急ぎの依頼",
+        "an urgent matter — 急ぎの用件",
+        "require urgent attention — 早急な対応を要する",
+        "take urgent action — 直ちに対策を取る",
+        "be in urgent need of help — 早急に助けを必要とする"
+      ]
+    },
+    "example": {
+      "en": [
+        "I’m sorry to interrupt, but it’s urgent.",
+        "We received an urgent request to confirm the filing instructions by noon.",
+        "The roof is leaking and needs urgent repairs.",
+        "The correction is minor, but it’s urgent because the document goes out in ten minutes."
+      ],
+      "ja": [
+        "I’m sorry to interrupt, but it’s urgent. — お話し中すみません。急ぎの用件です。",
+        "We received an urgent request to confirm the filing instructions by noon. — 正午までに出願の指示を確認してほしいという急ぎの依頼が来た。",
+        "The roof is leaking and needs urgent repairs. — 屋根から雨漏りしていて、早急に修理する必要がある。",
+        "The correction is minor, but it’s urgent because the document goes out in ten minutes. — 修正自体は小さいですが、10分後に書類を送るので急ぎです。"
+      ]
+    }
   }
 ]
