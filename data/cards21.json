@@ -4016,5 +4016,113 @@
         "The criticism was relentless, and some of the remarks about her appearance were downright cruel. — 批判が絶えず続き、彼女の外見をあげつらう発言には、あまりにひどいものもあった。"
       ]
     }
+  },
+  {
+    "id": "stolid",
+    "sid": "2026-01795",
+    "word": "stolid",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "adjective",
+      "emotion",
+      "personality",
+      "literary"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "stolid",
+        "comparative": "more stolid",
+        "superlative": "most stolid",
+        "adverb": "stolidly",
+        "noun": "stolidity"
+      },
+      "patterns": [
+        "a stolid + noun",
+        "remain stolid",
+        "sit / stare stolidly"
+      ],
+      "usage": {
+        "register": "Somewhat literary. Often describes a person’s habitual manner, facial expression, or lack of visible reaction."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈstɑː.lɪd/",
+        "uk": "/ˈstɒl.ɪd/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "showing little emotion or excitement, often with an impression of dullness or unresponsiveness"
+      ],
+      "ja": [
+        "感情をほとんど表に出さない、反応の乏しい、無表情な"
+      ]
+    },
+    "nuance": {
+      "ja": "驚いたり喜んだりする場面でも顔つきや態度がほとんど変わらず、周囲からは鈍い、取りつく島がないと見えることがある。a stolid expression は、話しかけても表情がほとんど動かない様子。文脈によっては、どっしりして動じないという描写にもなる。",
+      "en": "Stolid describes a person or manner that shows little outward reaction. It can make someone seem dull or hard to engage, although in some contexts it suggests a solid, unflappable presence."
+    },
+    "minimal": {
+      "en": [
+        "stoic: Often suggests enduring pain or hardship without complaint. Stolid describes little outward reaction and can suggest dullness.",
+        "impassive: Describes a face or manner that reveals no emotion, often in a particular moment. Stolid can also characterize someone’s usual manner.",
+        "phlegmatic: Describes a temperament that is calm and slow to become excited or upset. Stolid can convey an impression of dullness as well."
+      ],
+      "ja": [
+        "stoic：苦痛や逆境を顔に出さず、黙って耐える姿勢を表しやすい。stolid は外から見える反応の乏しさや鈍さを描く。",
+        "impassive：その場の表情や態度に感情が出ないこと。stolid は普段から反応が乏しい人柄にも使える。",
+        "phlegmatic：興奮したり動揺したりしにくい落ち着いた気質。stolid は反応が鈍い印象も帯びる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "impassive",
+        "note": {
+          "ja": "表情や態度に感情が出ない。",
+          "en": "Showing no outward emotion."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "ラテン語 stolidus「鈍い、愚かな」にさかのぼる。英語への入り方には、フランス語 stolide を経た説と、stolidity「鈍さ、無感動」から作られたとする説がある。",
+      "en": "Ultimately from Latin stolidus, ‘dull’ or ‘foolish.’ English may have borrowed it from French stolide or formed it from stolidity."
+    },
+    "equivalents": {
+      "de": "teilnahmslos / unbewegt",
+      "it": "impassibile / apatico",
+      "fr": "impassible / placide",
+      "es": "impasible / imperturbable"
+    },
+    "collocations": {
+      "en": [
+        "a stolid expression",
+        "a stolid manner",
+        "remain stolid",
+        "sit stolidly"
+      ],
+      "ja": [
+        "a stolid expression — ほとんど感情の出ない表情",
+        "a stolid manner — 反応の乏しい態度",
+        "remain stolid — 表情をほとんど変えない",
+        "sit stolidly — 感情を表に出さず座っている"
+      ]
+    },
+    "example": {
+      "en": [
+        "Everyone else laughed, but he sat there stolidly, his expression unchanged.",
+        "The guard listened with a stolid expression and then asked to see our passes.",
+        "Her usually stolid uncle broke into a grin when he saw the puppy.",
+        "The narrator’s stolid manner makes even the wildest events sound ordinary."
+      ],
+      "ja": [
+        "Everyone else laughed, but he sat there stolidly, his expression unchanged. — ほかのみんなは笑ったが、彼は表情を変えずに座っていた。",
+        "The guard listened with a stolid expression and then asked to see our passes. — 警備員はほとんど表情を変えずに話を聞き、それから通行証を見せるよう求めた。",
+        "Her usually stolid uncle broke into a grin when he saw the puppy. — 普段は感情をあまり顔に出さない叔父が、子犬を見るとにっこり笑った。",
+        "The narrator’s stolid manner makes even the wildest events sound ordinary. — 語り手の反応があまりに淡々としていて、とんでもない出来事までありふれた話に聞こえる。"
+      ]
+    }
   }
 ]
