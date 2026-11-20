@@ -3560,5 +3560,113 @@
         "She added a little honky-tonk piano to the last verse. — 彼女は最後の節に、酒場風のピアノを少し加えた。"
       ]
     }
+  },
+  {
+    "id": "sleigh",
+    "sid": "2026-01791",
+    "word": "sleigh",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "winter",
+      "transport",
+      "christmas"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "singular": "sleigh",
+        "plural": "sleighs"
+      },
+      "patterns": [
+        "a horse-drawn sleigh",
+        "ride in a sleigh",
+        "go for a sleigh ride"
+      ],
+      "usage": {
+        "pronunciation": "Rhymes with day and is pronounced exactly like slay. The gh is silent."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/sleɪ/",
+        "uk": "/sleɪ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a vehicle on runners for travelling over snow or ice, usually pulled by animals, especially horses"
+      ],
+      "ja": [
+        "（馬などが引く）雪上・氷上用のそり"
+      ]
+    },
+    "nuance": {
+      "ja": "馬に引かれて雪の上を進む、人が乗れるそりを思い浮かべやすい語。Santa’s sleigh はトナカイが引くサンタのそり。子どもが雪の斜面を滑る小さなそりは、米語では sled、英語では sledge が一般的。",
+      "en": "A sleigh often brings to mind a horse-drawn vehicle carrying passengers over snow. Santa’s sleigh is the familiar reindeer-drawn example. For a child’s small downhill sled, American English typically uses sled and British English usually uses sledge."
+    },
+    "minimal": {
+      "en": [
+        "sled: A broad American English term for a vehicle that slides on snow or ice, including a child’s sled and a dog sled.",
+        "sledge: The usual British English equivalent of sled, used for recreation or for transporting people or loads.",
+        "toboggan: Typically a long, flat sled with an upturned front and no separate runners.",
+        "slay: Pronounced the same, /sleɪ/. This verb means to kill or, in slang, to do exceptionally well."
+      ],
+      "ja": [
+        "sled：米語で雪上・氷上のそりを広く指す。子どものそりや犬ぞりにも使う。",
+        "sledge：米語の sled にあたる一般的なイギリス英語。遊び用にも、人や荷物を運ぶそりにも使う。",
+        "toboggan：先端が反り返った細長いそり。通常、底に独立した滑走用の桟がない。",
+        "slay：発音は同じ /sleɪ/。動詞で「討つ」、俗語では「見事にやってのける」。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "horse-drawn sled",
+        "note": {
+          "ja": "米語で馬が引くそりを説明する言い方。",
+          "en": "A descriptive American English phrase for the horse-drawn type."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "オランダ語 slee「そり」（slede の短縮形）から北米英語に入った。英語の sled やドイツ語 Schlitten「そり」と同系。",
+      "en": "Borrowed into North American English from Dutch slee, a shortened form of slede. It is related to English sled and German Schlitten."
+    },
+    "equivalents": {
+      "de": "Schlitten / Pferdeschlitten",
+      "it": "slitta",
+      "fr": "traîneau",
+      "es": "trineo"
+    },
+    "collocations": {
+      "en": [
+        "a horse-drawn sleigh",
+        "a sleigh ride",
+        "sleigh bells",
+        "Santa’s sleigh"
+      ],
+      "ja": [
+        "a horse-drawn sleigh — 馬が引くそり",
+        "a sleigh ride — そりに乗って出かけること",
+        "sleigh bells — そりを引く馬などにつけた鈴",
+        "Santa’s sleigh — サンタのそり"
+      ]
+    },
+    "example": {
+      "en": [
+        "We went for a sleigh ride through the woods after the first snowfall.",
+        "A horse-drawn sleigh carried us from the village to the lodge.",
+        "We heard the sleigh bells long before we saw the horses.",
+        "The children left a carrot outside for the reindeer that pull Santa’s sleigh."
+      ],
+      "ja": [
+        "We went for a sleigh ride through the woods after the first snowfall. — 初雪のあと、そりに乗って森の中を巡った。",
+        "A horse-drawn sleigh carried us from the village to the lodge. — 馬が引くそりに乗って、村から山荘まで行った。",
+        "We heard the sleigh bells long before we saw the horses. — 馬の姿が見えるずっと前から、そりの鈴の音が聞こえていた。",
+        "The children left a carrot outside for the reindeer that pull Santa’s sleigh. — 子どもたちはサンタのそりを引くトナカイのために、外にニンジンを一本置いておいた。"
+      ]
+    }
   }
 ]
