@@ -378,5 +378,128 @@
         "On a less charitable reading, the company’s apology was an attempt to avoid taking responsibility. — もっと厳しく見れば、会社の謝罪は責任逃れのためだった。"
       ]
     }
+  },
+  {
+    "id": "plumbing",
+    "sid": "2026-01764",
+    "word": "plumbing",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "home",
+      "construction",
+      "technology"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable",
+      "patterns": [
+        "the plumbing in a building",
+        "do the plumbing",
+        "have the plumbing replaced",
+        "the plumbing behind a system"
+      ],
+      "usage": {
+        "countability": "Use the plumbing or some plumbing work. For a single component, say a pipe, a fitting, or a fixture.",
+        "figurative": "The plumbing behind something is the mostly unseen infrastructure that lets it work."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈplʌm.ɪŋ/",
+        "uk": "/ˈplʌm.ɪŋ/"
+      }
+    },
+    "meaning": {
+      "ja": [
+        "給排水の配管設備、建物の水回りの設備",
+        "配管工事、給排水設備の設置・修理",
+        "（比喩）システムを裏で動かす基盤や仕組み"
+      ],
+      "en": [
+        "the pipes and fittings that supply water and carry waste water away",
+        "the work of installing, maintaining, or repairing those systems",
+        "the underlying infrastructure that keeps a system running, often out of sight"
+      ]
+    },
+    "nuance": {
+      "ja": "the plumbing は、給水管や排水管などをまとめて指す。The plumbing is old. なら設備の話で、She does her own plumbing. なら工事や修理の話。ITでは、画面からは見えないデータの受け渡しや各サービスの接続を plumbing と呼ぶことがある。",
+      "en": "The plumbing refers to a system of pipes and fittings as a whole. In do your own plumbing, the same noun refers to the work. In software, the metaphor often points to the connections and data flows that make user-facing features possible."
+    },
+    "minimal": {
+      "ja": [
+        "pipe：一本ずつ数えられる「管」。plumbing は配管設備全体や工事を表す。",
+        "pipework：据え付けられた管のまとまりに焦点があり、工業設備にも使う。",
+        "drainage：排水や排水設備。plumbing は給水側も含む。",
+        "plumber：配管の設置や修理をする人。call a plumber は「配管業者を呼ぶ」。"
+      ],
+      "en": [
+        "pipe: A single tube that carries liquid or gas. Plumbing treats a building’s water supply and waste pipes as a system.",
+        "pipework: The installed pipes themselves, including in industrial settings.",
+        "drainage: The removal of water or the system that carries it away. Plumbing includes water supply as well.",
+        "plumber: A person who installs or repairs plumbing."
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "plumbing system",
+        "note": {
+          "ja": "設備としての意味を明示する。",
+          "en": "Makes it explicit that you mean the installed system."
+        }
+      },
+      {
+        "word": "plumbing work",
+        "note": {
+          "ja": "設置や修理などの作業を明示する。",
+          "en": "Refers specifically to installation, maintenance, or repair."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "動詞 plumb に -ing がついた形。plumb はラテン語 plumbum「鉛」にさかのぼり、かつて配管に鉛が使われていたことと関係する。plumbing と plumber の b は発音しない。",
+      "en": "From the verb plumb plus -ing. Plumb ultimately comes from Latin plumbum, meaning lead, a metal historically used for pipes. The b is silent in plumbing and plumber."
+    },
+    "equivalents": {
+      "de": "Sanitärinstallation / Sanitärarbeiten",
+      "it": "impianto idraulico / lavori di idraulica",
+      "fr": "plomberie / travaux de plomberie",
+      "es": "fontanería / plomería (Am. Lat.)"
+    },
+    "collocations": {
+      "en": [
+        "indoor plumbing",
+        "a plumbing leak",
+        "a plumbing problem",
+        "replace the plumbing",
+        "do the plumbing",
+        "the plumbing behind the payment system"
+      ],
+      "ja": [
+        "indoor plumbing — 屋内の給排水設備",
+        "a plumbing leak — 配管からの水漏れ",
+        "a plumbing problem — 水回りのトラブル",
+        "replace the plumbing — 配管設備を取り替える",
+        "do the plumbing — 配管工事をする",
+        "the plumbing behind the payment system — 決済システムを裏で支える仕組み"
+      ]
+    },
+    "example": {
+      "en": [
+        "The house is in good shape, but the plumbing needs replacing.",
+        "We installed the cabinets ourselves and hired someone to do the plumbing.",
+        "There’s a plumbing leak under the kitchen sink.",
+        "The cabin had electricity but no indoor plumbing.",
+        "The app looks the same, but we rebuilt the plumbing that keeps your devices in sync."
+      ],
+      "ja": [
+        "The house is in good shape, but the plumbing needs replacing. — 家は状態がいいが、配管は取り替える必要がある。",
+        "We installed the cabinets ourselves and hired someone to do the plumbing. — 戸棚は自分たちで取り付け、配管工事は業者に頼んだ。",
+        "There’s a plumbing leak under the kitchen sink. — 台所の流しの下で配管から水が漏れている。",
+        "The cabin had electricity but no indoor plumbing. — その山小屋には電気は通っていたが、屋内の給排水設備はなかった。",
+        "The app looks the same, but we rebuilt the plumbing that keeps your devices in sync. — アプリの見た目は同じですが、端末間の同期を支える内部の仕組みを作り直しました。"
+      ]
+    }
   }
 ]
