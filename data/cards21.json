@@ -250,5 +250,133 @@
         "The characters are quirky, and the hand-drawn clouds give the film a whimsical touch. — 登場人物は一風変わっていて、手描きの雲が映画にちょっとした遊び心を添えている。"
       ]
     }
+  },
+  {
+    "id": "charitable",
+    "sid": "2026-01763",
+    "word": "charitable",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "charity",
+      "judgment",
+      "general"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "charitable",
+        "comparative": "more charitable",
+        "superlative": "most charitable",
+        "adverb": "charitably"
+      },
+      "patterns": [
+        "a charitable + noun",
+        "for charitable purposes",
+        "take a charitable view of something",
+        "be charitable toward(s) someone"
+      ],
+      "usage": {
+        "purpose": "With donation, organization, or purpose, it describes a connection with charity.",
+        "judgment": "With view, interpretation, or reading, it suggests giving someone the benefit of the doubt."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈtʃer.ə.t̬ə.bəl/",
+        "uk": "/ˈtʃær.ɪ.tə.bəl/"
+      }
+    },
+    "meaning": {
+      "ja": [
+        "慈善の、慈善活動を行う・支える",
+        "慈善に熱心な、人助けに寛大な",
+        "人の言動を好意的に受け止める、寛容な"
+      ],
+      "en": [
+        "relating to or supporting charity",
+        "generous in helping people in need",
+        "inclined to judge someone or their actions kindly"
+      ]
+    },
+    "nuance": {
+      "ja": "a charitable donation では寄付の目的を、a charitable interpretation では解釈する人の姿勢を表す。後者では、言い方がきつく聞こえたときに「急いでいて説明が足りなかったのだろう」と相手に有利な事情も考える。a less charitable reading なら「もっと厳しく見れば」という含みになる。",
+      "en": "A charitable donation supports a charitable cause. A charitable interpretation gives someone the benefit of the doubt, for example by taking a blunt remark as a sign that the speaker was in a hurry. A less charitable reading suggests a more critical explanation is possible."
+    },
+    "minimal": {
+      "ja": [
+        "generous：金銭や時間を惜しまず与える態度などに広く使う。a generous donation は寄付額の大きさ、a charitable donation は寄付の目的に焦点がある。",
+        "philanthropic：社会のための寄付や事業について使う、やや改まった語。philanthropic funding は研究・教育への資金提供にもよく合う。",
+        "lenient：処分や基準の適用が厳しくない。a lenient sentence は軽い刑で、a charitable reading は好意的な解釈。",
+        "forgiving：過ちを許す、大目に見る。charitable は、過ちがあったかも分からない段階で善意に解釈する場合にも使える。"
+      ],
+      "en": [
+        "generous: A generous donation is large or liberal. A charitable donation is directed to a charitable cause.",
+        "philanthropic: A somewhat formal word for giving or organized efforts for public benefit, including support for research and education.",
+        "lenient: Describes mild enforcement or punishment. A charitable reading concerns how someone understands another person’s words or actions.",
+        "forgiving: Suggests pardoning or overlooking a fault. A charitable reading can give someone the benefit of the doubt before a fault is established."
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "benevolent",
+        "note": {
+          "ja": "人のためを思う、善意のある。",
+          "en": "Kindly disposed or motivated by goodwill."
+        }
+      },
+      {
+        "word": "generous",
+        "note": {
+          "ja": "与え方や人への評価が寛大な。",
+          "en": "Liberal in giving or in assessing others."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "charity「慈善、慈愛」と同系。古フランス語 charitable を経て、ラテン語 cāritās「愛情、慈愛」にさかのぼる。",
+      "en": "From Old French charitable, related to charity, ultimately from Latin cāritās, meaning affection or love."
+    },
+    "equivalents": {
+      "de": "gemeinnützig / wohltätig / wohlwollend",
+      "it": "benefico / caritatevole / benevolo",
+      "fr": "caritatif / charitable / bienveillant",
+      "es": "benéfico / caritativo / benévolo"
+    },
+    "collocations": {
+      "en": [
+        "a charitable organization",
+        "a charitable donation",
+        "for charitable purposes",
+        "a charitable cause",
+        "a charitable interpretation",
+        "take a charitable view of someone’s actions"
+      ],
+      "ja": [
+        "a charitable organization — 慈善団体",
+        "a charitable donation — 慈善目的の寄付",
+        "for charitable purposes — 慈善目的で",
+        "a charitable cause — 支援の対象となる慈善活動",
+        "a charitable interpretation — 好意的な解釈",
+        "take a charitable view of someone’s actions — 人の行動を寛容に見る"
+      ]
+    },
+    "example": {
+      "en": [
+        "She made a charitable donation in her father’s memory.",
+        "The hall is available free of charge for charitable events.",
+        "A charitable interpretation is that he was trying to keep the meeting on schedule.",
+        "I’m trying to be charitable about her reply. She may not have seen the earlier emails.",
+        "On a less charitable reading, the company’s apology was an attempt to avoid taking responsibility."
+      ],
+      "ja": [
+        "She made a charitable donation in her father’s memory. — 彼女は父をしのんで慈善団体に寄付した。",
+        "The hall is available free of charge for charitable events. — そのホールは慈善イベントに無料で利用できる。",
+        "A charitable interpretation is that he was trying to keep the meeting on schedule. — 好意的に解釈すれば、彼は会議を予定どおり進めようとしていたのだろう。",
+        "I’m trying to be charitable about her reply. She may not have seen the earlier emails. — 彼女の返信は好意的に受け止めようと思う。それまでのメールを読んでいなかったのかもしれない。",
+        "On a less charitable reading, the company’s apology was an attempt to avoid taking responsibility. — もっと厳しく見れば、会社の謝罪は責任逃れのためだった。"
+      ]
+    }
   }
 ]
