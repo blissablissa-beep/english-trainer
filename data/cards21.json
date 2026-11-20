@@ -4234,5 +4234,124 @@
         "The play is a deliberate travesty of a solemn medieval legend, recast as a quarrel over a missing goat. — その戯曲は、荘重な中世の伝説を、いなくなったヤギをめぐる口論にわざと仕立て直した戯作だ。"
       ]
     }
+  },
+  {
+    "id": "shun",
+    "sid": "2026-01797",
+    "word": "shun",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "avoidance",
+      "social",
+      "general"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "forms": {
+        "base": "shun",
+        "thirdPerson": "shuns",
+        "past": "shunned",
+        "pastParticiple": "shunned",
+        "presentParticiple": "shunning"
+      },
+      "patterns": [
+        "shun + person or thing",
+        "be shunned by + group"
+      ],
+      "usage": {
+        "spelling": "Double the final n in shunned and shunning.",
+        "object": "Common objects include publicity, the spotlight, and the names of people or groups."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ʃʌn/",
+        "uk": "/ʃʌn/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to deliberately keep away from a person, place, or activity",
+        "to refuse to associate with or acknowledge someone"
+      ],
+      "ja": [
+        "（人・場所・活動などを）意識して避ける、遠ざける",
+        "（人との）付き合いを避ける、仲間外れにする"
+      ]
+    },
+    "nuance": {
+      "ja": "単に接触を避けるだけでなく、関わりを持たないよう意識して距離を置く響きがある。shun publicity は、注目されることを好まず取材などを避けること。be shunned by former friends なら、かつての友人たちから付き合いを避けられるという、拒絶の含みが出る。人以外を目的語に取ると、自分の方針や好みで避けることも表せる。",
+      "en": "Shun presents avoidance as a deliberate choice to keep one’s distance. A writer who shuns publicity may turn down interviews and public appearances. Someone shunned by former friends experiences social rejection. With things or activities, the verb can also express a personal preference or policy."
+    },
+    "minimal": {
+      "en": [
+        "avoid: The general verb for keeping away from something or preventing an outcome. Avoid a delay is routine, while shun publicity suggests a deliberate stance toward public attention.",
+        "eschew: A formal verb often used of consciously avoiding a practice, style, or habit, as in eschew jargon.",
+        "ostracize: Focuses on exclusion from a group or community. Shun also fits an individual avoiding publicity or social events.",
+        "steer clear of: A conversational expression for staying away from someone or something, often as a precaution."
+      ],
+      "ja": [
+        "avoid：何かに近づかない、望ましくない結果を防ぐなどに広く使う。avoid a delay は「遅れを防ぐ」。shun publicity には、世間の注目から意識的に距離を置く姿勢が出る。",
+        "eschew：専門用語や特定の習慣などを意識して避ける、改まった語。eschew jargon は「専門用語を使わないようにする」。",
+        "ostracize：集団や共同体から締め出すことに焦点がある。shun は個人が人前に出ることや社交行事を避ける場合にも使う。",
+        "steer clear of：用心して人や物に近づかない、という会話表現。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "avoid",
+        "note": {
+          "ja": "避ける、近づかない。",
+          "en": "Stay away from someone or something."
+        }
+      },
+      {
+        "word": "ostracize",
+        "note": {
+          "ja": "人を集団から排除する用法で近い。",
+          "en": "Close in the sense of socially excluding someone."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "古英語 scunian「避ける、嫌う」に由来する。それ以前の語源は不明とされる。",
+      "en": "From Old English scunian, meaning to avoid or abhor. Its earlier origin is uncertain."
+    },
+    "equivalents": {
+      "de": "meiden / aus dem Weg gehen",
+      "it": "evitare / rifuggire da",
+      "fr": "éviter / fuir",
+      "es": "evitar / rehuir"
+    },
+    "collocations": {
+      "en": [
+        "shun publicity",
+        "shun the spotlight",
+        "shun social gatherings",
+        "be shunned by former friends"
+      ],
+      "ja": [
+        "shun publicity — 世間の注目を避ける",
+        "shun the spotlight — 表舞台に出ることを避ける",
+        "shun social gatherings — 社交の集まりを避ける",
+        "be shunned by former friends — かつての友人たちから避けられる"
+      ]
+    },
+    "example": {
+      "en": [
+        "The novelist shuns publicity and rarely gives interviews.",
+        "She shuns large industry receptions but enjoys meeting colleagues in small groups.",
+        "He found himself shunned by former friends after he spoke out against the club’s leadership.",
+        "The fund has long shunned companies that rely on a single customer."
+      ],
+      "ja": [
+        "The novelist shuns publicity and rarely gives interviews. — その小説家は世間の注目を避け、めったに取材を受けない。",
+        "She shuns large industry receptions but enjoys meeting colleagues in small groups. — 彼女は業界の大きなレセプションには足を運ばないが、少人数で同業者と会うのは好きだ。",
+        "He found himself shunned by former friends after he spoke out against the club’s leadership. — クラブの運営陣を公然と批判したあと、彼はかつての友人たちから付き合いを避けられるようになった。",
+        "The fund has long shunned companies that rely on a single customer. — そのファンドは以前から、一社の顧客に依存する企業への投資を避けてきた。"
+      ]
+    }
   }
 ]
