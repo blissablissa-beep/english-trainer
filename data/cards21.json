@@ -1638,5 +1638,150 @@
         "In some languages, an evidential marker indicates whether the speaker saw the event or heard about it from someone else. — 言語によっては、話し手がその出来事を直接見たのか、人から聞いたのかを標識で示す。"
       ]
     }
+  },
+  {
+    "id": "clear",
+    "sid": "2026-01775",
+    "word": "clear",
+    "level": "A2",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "verb",
+      "adverb",
+      "general",
+      "communication"
+    ],
+    "grammar": {
+      "pos": "adjective / verb / adverb",
+      "forms": {
+        "base": "clear",
+        "comparative": "clearer",
+        "superlative": "clearest",
+        "thirdPerson": "clears",
+        "past": "cleared",
+        "pastParticiple": "cleared",
+        "presentParticiple": "clearing"
+      },
+      "patterns": [
+        "It is clear that + clause",
+        "make it clear to someone that + clause",
+        "be clear about + noun",
+        "be clear of + noun",
+        "clear A from B / clear B of A",
+        "clear someone to do something"
+      ],
+      "usage": {
+        "dummyIt": "Say make it clear that ... when the following clause specifies the point being made.",
+        "intransitive": "The fog cleared means it dispersed. The payment cleared means it was processed successfully.",
+        "adverb": "Clear also appears as an adverb in expressions such as stand clear and steer clear of."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/klɪr/",
+        "uk": "/klɪə/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "easy to understand, perceive, or establish",
+        "transparent, cloudless, or free of obstructions",
+        "to remove what is in the way, or to become free of it",
+        "to approve or authorize, pass a check or barrier, or be processed successfully",
+        "away from an object or danger"
+      ],
+      "ja": [
+        "（形容詞）分かりやすい、はっきりした、明らかな",
+        "（形容詞）透明な、晴れた、障害物のない",
+        "（動詞）片づける、取り除く、霧などが晴れる",
+        "（動詞）許可する、審査や障害物を通過する、決済が完了する",
+        "（副詞）離れて、接触しない位置に"
+      ]
+    },
+    "nuance": {
+      "ja": "clear は、説明・音・視界などを妨げるものがなく、すんなり分かる、聞こえる、見えるという場面で広く使える。a clear explanation は分かりやすい説明、It is clear from the records that … は記録から見て明らかなこと。動詞では clear the table「食卓の上を片づける」のように、何かを取り除いて場所を空ける。手続については clear customs「通関する」、clear a payment「支払いを決済処理する」のように使う。",
+      "en": "Clear is a broad everyday adjective. A clear explanation is easy to follow, a clear voice is easy to hear, and a clear road has nothing blocking it. As a verb, clear often involves removing an obstacle or getting past a barrier or check, as in clear the table or clear customs."
+    },
+    "minimal": {
+      "en": [
+        "evident: Often describes a fact or feeling that can be recognized from signs. Clear also describes the wording of instructions or an unobstructed view.",
+        "obvious: Often suggests that something should be easy for anyone to see. Is that clear? asks whether something has been understood.",
+        "clean: Focuses on the absence of dirt or contamination. Clear water looks transparent, and clean water is free of dirt or contaminants.",
+        "clarify: Means to make something easier to understand. Make it clear can also mean stating a position explicitly."
+      ],
+      "ja": [
+        "evident：兆候から事実や感情が見て取れることを表す。clear は指示の分かりやすさや視界の良さにも使う。",
+        "obvious：誰でもすぐ分かるはずだという響きが出やすい。Is that clear? は説明や指示が伝わったかを確認する。",
+        "clean：汚れや不純物がないことに焦点がある。clear water は見た目が澄んだ水、clean water は汚染や汚れのない水。",
+        "clarify：不明点を説明して明確にする。make it clear には、立場や意思をはっきり伝える用法もある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "understandable",
+        "note": {
+          "ja": "理解しやすい、理解できる。",
+          "en": "Easy or possible to understand."
+        }
+      },
+      {
+        "word": "unobstructed",
+        "note": {
+          "ja": "遮るものがない。",
+          "en": "Free of physical obstacles."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "古フランス語 clair を経て、ラテン語 clārus「明るい、明瞭な」にさかのぼる。clarity「明瞭さ」、clarify「明確にする」と同系。",
+      "en": "From Old French clair, ultimately from Latin clārus, meaning bright or distinct. Related to clarity and clarify."
+    },
+    "equivalents": {
+      "de": "klar / deutlich / räumen / freigeben",
+      "it": "chiaro / limpido / sgomberare / autorizzare",
+      "fr": "clair / limpide / dégager / autoriser",
+      "es": "claro / despejado / despejar / autorizar"
+    },
+    "collocations": {
+      "en": [
+        "clear instructions",
+        "a clear view",
+        "make it clear that",
+        "clear the table",
+        "clear customs",
+        "clear your throat",
+        "stand clear of the doors"
+      ],
+      "ja": [
+        "clear instructions — 分かりやすい指示",
+        "a clear view — 遮るもののない眺め",
+        "make it clear that — 〜だとはっきり伝える",
+        "clear the table — 食卓を片づける",
+        "clear customs — 通関する",
+        "clear your throat — 咳払いをする",
+        "stand clear of the doors — ドアから離れて立つ"
+      ]
+    },
+    "example": {
+      "en": [
+        "The instructions are clear, but the diagram is hard to read.",
+        "The examiner made it clear that the amendment had to be filed separately.",
+        "The fog cleared just before we reached the coast.",
+        "Could you clear the table while I make coffee?",
+        "The package cleared customs this morning.",
+        "The payment hasn’t cleared yet.",
+        "Please stand clear of the doors."
+      ],
+      "ja": [
+        "The instructions are clear, but the diagram is hard to read. — 手順は分かりやすいけれど、図は読み取りにくい。",
+        "The examiner made it clear that the amendment had to be filed separately. — 審査官は、その補正を別途提出する必要があるとはっきり伝えた。",
+        "The fog cleared just before we reached the coast. — 海岸に着く少し前に霧が晴れた。",
+        "Could you clear the table while I make coffee? — コーヒーを入れている間に、食卓を片づけてくれる？",
+        "The package cleared customs this morning. — 荷物は今朝、通関を済ませた。",
+        "The payment hasn’t cleared yet. — 支払いの決済処理はまだ完了していない。",
+        "Please stand clear of the doors. — ドアから離れてお立ちください。"
+      ]
+    }
   }
 ]
