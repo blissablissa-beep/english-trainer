@@ -2590,5 +2590,118 @@
         "The correction is minor, but it’s urgent because the document goes out in ten minutes. — 修正自体は小さいですが、10分後に書類を送るので急ぎです。"
       ]
     }
+  },
+  {
+    "id": "fruitful",
+    "sid": "2026-01783",
+    "word": "fruitful",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "results",
+      "collaboration",
+      "research"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "fruitful",
+        "comparative": "more fruitful",
+        "superlative": "most fruitful",
+        "adverb": "fruitfully"
+      },
+      "patterns": [
+        "a fruitful + noun",
+        "prove fruitful",
+        "a fruitful avenue for + noun"
+      ],
+      "usage": {
+        "collocation": "Often describes a discussion, collaboration, search, or line of inquiry that yields useful results."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈfruːt.fəl/",
+        "uk": "/ˈfruːt.fəl/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "producing useful results, ideas, or opportunities",
+        "producing fruit or yielding abundantly, especially in literary or older usage"
+      ],
+      "ja": [
+        "実りのある、有益な成果をもたらす",
+        "（植物・土地などが）よく実る、豊かな収穫をもたらす"
+      ]
+    },
+    "nuance": {
+      "ja": "話し合いや調査などから、次の行動に役立つ情報や発想が得られることを表す。a fruitful discussion は、有力な選択肢が見つかったり、対立点が整理されたりした議論にも使える。a fruitful line of inquiry なら、掘り下げると成果が期待できる調査の方向性。",
+      "en": "Fruitful emphasizes what an activity yields: a useful idea, a promising lead, or a better understanding of the issues. A discussion can be fruitful if it clarifies where people disagree. A line of inquiry can look fruitful before the research is finished."
+    },
+    "minimal": {
+      "en": [
+        "productive: Overlaps with fruitful in productive discussion. Productive also describes how much someone gets done, as in a productive morning.",
+        "successful: Often suggests a goal was achieved. A fruitful discussion may yield useful ideas even if no agreement is reached.",
+        "worthwhile: Concerns whether something is worth the time or effort. Fruitful focuses on the results it yields or is likely to yield.",
+        "fruitless: Producing no useful result, as in a fruitless search."
+      ],
+      "ja": [
+        "productive：productive discussion は fruitful discussion と意味が重なる。a productive morning は、午前中に仕事がよくはかどったことも表せる。",
+        "successful：目標を達成したことを表す場合が多い。合意に至らなくても、有用な案が出た議論なら fruitful と言える。",
+        "worthwhile：かける時間や労力に見合うかに焦点がある。fruitful は、その活動から得られる成果や見込みに焦点がある。",
+        "fruitless：有益な成果がない。a fruitless search は「何も得られなかった探索」。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "productive",
+        "note": {
+          "ja": "有益な結果を生む。会議や議論について意味が近い。",
+          "en": "Producing useful results, especially of a meeting or discussion."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "fruit「果実、成果」に -ful がついた形。bear fruit「実を結ぶ、成果が出る」にも同じ比喩が見られる。",
+      "en": "From fruit and -ful. The expression bear fruit uses the same image of effort yielding results."
+    },
+    "equivalents": {
+      "de": "fruchtbar / ergiebig",
+      "it": "proficuo / fruttuoso",
+      "fr": "fructueux / fécond",
+      "es": "fructífero / provechoso"
+    },
+    "collocations": {
+      "en": [
+        "a fruitful discussion",
+        "a fruitful collaboration",
+        "a fruitful line of inquiry",
+        "a fruitful exchange of ideas",
+        "prove fruitful"
+      ],
+      "ja": [
+        "a fruitful discussion — 実りある議論",
+        "a fruitful collaboration — 成果を生む協力関係",
+        "a fruitful line of inquiry — 掘り下げると成果が見込める調査の方向性",
+        "a fruitful exchange of ideas — 実りある意見交換",
+        "prove fruitful — 結果として成果をもたらす"
+      ]
+    },
+    "example": {
+      "en": [
+        "We didn’t reach an agreement, but it was a fruitful discussion. We now know which points need more work.",
+        "Searching archived product catalogs proved fruitful: we found a dated image of the earlier design.",
+        "The pilot project led to a fruitful collaboration between the two teams.",
+        "Looking at how people use the app offline might be a fruitful line of inquiry."
+      ],
+      "ja": [
+        "We didn’t reach an agreement, but it was a fruitful discussion. We now know which points need more work. — 合意には至りませんでしたが、実りある議論でした。どの点をさらに詰める必要があるかが分かりました。",
+        "Searching archived product catalogs proved fruitful: we found a dated image of the earlier design. — 過去の製品カタログを調べたかいがあった。先行するデザインの日付入り画像が見つかった。",
+        "The pilot project led to a fruitful collaboration between the two teams. — 試験的なプロジェクトをきっかけに、両チームの協力が実を結んだ。",
+        "Looking at how people use the app offline might be a fruitful line of inquiry. — 利用者がオフラインでアプリをどう使うかを調べると、有益な発見があるかもしれない。"
+      ]
+    }
   }
 ]
