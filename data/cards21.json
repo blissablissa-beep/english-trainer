@@ -4716,5 +4716,123 @@
         "I expected the guide to be dry, but parts of it were downright funny. — 堅苦しいガイドだと思っていたが、実に笑える箇所もあった。"
       ]
     }
+  },
+  {
+    "id": "implacable",
+    "sid": "2026-01801",
+    "word": "implacable",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "adjective",
+      "opposition",
+      "emotion",
+      "formal"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "implacable",
+        "comparative": "more implacable",
+        "superlative": "most implacable",
+        "adverb": "implacably",
+        "noun": "implacability"
+      },
+      "patterns": [
+        "an implacable opponent of + noun",
+        "implacable opposition to + noun",
+        "remain implacably opposed to + noun"
+      ],
+      "usage": {
+        "spelling": "The standard spelling is implacable.",
+        "register": "Formal. Often used of opponents, hostility, or opposition that cannot be softened by persuasion or concessions."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪmˈplæk.ə.bəl/",
+        "uk": "/ɪmˈplæk.ə.bəl/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "impossible to appease or persuade to soften a hostile or opposed attitude",
+        "unyielding in opposition or determination"
+      ],
+      "ja": [
+        "（敵意・反対などが）和らげようのない、何をしても態度を軟化させない",
+        "（反対・決意などが）断固として揺るがない"
+      ]
+    },
+    "nuance": {
+      "ja": "説得や譲歩を重ねても、反対や敵意が和らぐ見込みがないという強い表現。an implacable opponent of the merger なら、条件を変えても合併への反対を崩さない相手。人に加えて implacable hostility のように態度そのものも形容できる。",
+      "en": "Implacable suggests that persuasion, apologies, or concessions will do little to soften someone’s stance. An implacable opponent of a merger is likely to oppose it even if its terms change. The adjective can also describe the attitude itself, as in implacable hostility."
+    },
+    "minimal": {
+      "en": [
+        "relentless: Highlights pressure or effort that continues without easing. Relentless criticism keeps coming. Implacable opposition is hard to soften or overcome.",
+        "ruthless: Highlights willingness to act without mercy or concern for others. Implacable focuses on a stance or feeling that cannot be softened.",
+        "adamant: Common for insisting on a particular decision or claim. Implacable is more formal and often suggests a deeply entrenched attitude."
+      ],
+      "ja": [
+        "relentless：圧力や努力が勢いを保って続くこと。relentless criticism は絶え間ない批判、implacable opposition は説得しても和らがない反対。",
+        "ruthless：他人への同情や手加減を示さないこと。implacable は、相手が働きかけても態度や感情が和らがないことに焦点がある。",
+        "adamant：特定の決定や主張を譲らないときによく使う。implacable はより改まった語で、反対や敵意が根深い響きが出やすい。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "unappeasable",
+        "note": {
+          "ja": "なだめようのない。怒りや敵意について近い。",
+          "en": "Impossible to appease, especially of anger or hostility."
+        }
+      },
+      {
+        "word": "unyielding",
+        "note": {
+          "ja": "圧力を受けても譲らない。",
+          "en": "Refusing to yield under pressure."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "古フランス語 implacable を経て、ラテン語 implacābilis「なだめようのない」にさかのぼる。否定の im- と placābilis「なだめることができる」から成り、英語の placate「なだめる」と同系。",
+      "en": "From Old French implacable, ultimately from Latin implacābilis, formed from the negative prefix im- and placābilis, ‘able to be appeased.’ Compare placate, ‘to soothe or appease.’"
+    },
+    "equivalents": {
+      "de": "unversöhnlich / unerbittlich",
+      "it": "implacabile / inconciliabile",
+      "fr": "implacable / irréconciliable",
+      "es": "implacable / irreconciliable"
+    },
+    "collocations": {
+      "en": [
+        "an implacable opponent",
+        "implacable opposition",
+        "implacable hostility",
+        "remain implacably opposed to the proposal"
+      ],
+      "ja": [
+        "an implacable opponent — 断固として反対を崩さない相手",
+        "implacable opposition — 容易には和らがない強硬な反対",
+        "implacable hostility — 和らげようのない敵意",
+        "remain implacably opposed to the proposal — 提案に断固として反対し続ける"
+      ]
+    },
+    "example": {
+      "en": [
+        "Even after the board revised the terms, she remained an implacable opponent of the merger.",
+        "The plan met with implacable opposition from residents who had already rejected two compromises.",
+        "His apology did little to soften her implacable hostility toward him.",
+        "The editor was relentless in asking for revisions, while the author remained implacably opposed to changing the ending."
+      ],
+      "ja": [
+        "Even after the board revised the terms, she remained an implacable opponent of the merger. — 取締役会が条件を見直したあとも、彼女は合併への反対を崩さなかった。",
+        "The plan met with implacable opposition from residents who had already rejected two compromises. — その計画は、すでに二つの妥協案を退けていた住民の強硬な反対に遭った。",
+        "His apology did little to soften her implacable hostility toward him. — 彼が謝っても、彼女の彼に対する強い敵意はほとんど和らがなかった。",
+        "The editor was relentless in asking for revisions, while the author remained implacably opposed to changing the ending. — 編集者は粘り強く修正を求め続け、著者は結末の変更に断固として反対し続けた。"
+      ]
+    }
   }
 ]
