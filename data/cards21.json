@@ -1193,5 +1193,248 @@
         "The board responded to the criticism with a resolute commitment to publishing the full findings. — 批判を受け、理事会は調査結果の全容を公表するという固い決意を示した。"
       ]
     }
+  },
+  {
+    "id": "evident",
+    "sid": "2026-01771",
+    "word": "evident",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "observation",
+      "reasoning"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "evident",
+        "comparative": "more evident",
+        "superlative": "most evident"
+      },
+      "patterns": [
+        "It is evident that + clause",
+        "be evident from + source",
+        "be evident in + place or feature",
+        "be evident to + person",
+        "become evident"
+      ],
+      "usage": {
+        "complements": "From introduces the basis for the inference, in identifies where a sign appears, and to introduces the observer."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈev.ə.dənt/",
+        "uk": "/ˈev.ɪ.dənt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "clear to see or easy to recognize from what can be observed",
+        "clear from the available facts or signs"
+      ],
+      "ja": [
+        "見て取れる、ありありと表れている",
+        "事実や兆候から明らかな"
+      ]
+    },
+    "nuance": {
+      "ja": "表情・結果・記録などから、ある事実や状態がはっきり分かることを表す。Her relief was evident in her voice. なら、声に安堵が表れていたということ。It is evident from the figures that ... のように、何からそう分かるのかを示せる。日常会話では clear がより広く使われる。",
+      "en": "Evident describes something that can be clearly recognized from what is seen, heard, or known. Her relief was evident in her voice points to an observable sign. It is evident from the figures that ... explicitly names the basis for a conclusion."
+    },
+    "minimal": {
+      "en": [
+        "clear: A broad word for something easily understood, seen, or established. A clear explanation is easy to follow.",
+        "obvious: Often suggests something should be easy for anyone to see. Saying Obviously, ... can sound dismissive.",
+        "apparent: Can mean clearly noticeable or merely seeming, as in an apparent contradiction.",
+        "evidence: A noun for facts or material that support a conclusion. Evident is an adjective describing how clear something is."
+      ],
+      "ja": [
+        "clear：分かりやすさから確かさまで幅広く使う。a clear explanation は分かりやすい説明。",
+        "obvious：誰でもすぐ気づくはずという響きが出やすい。Obviously, ... は言い方によっては相手を軽く扱う印象になる。",
+        "apparent：「明らかな」と「一見そう見える」の両方がある。an apparent contradiction は「一見矛盾している点」にもなる。",
+        "evidence：結論を支える証拠や根拠を指す名詞。evident は、ある事実や状態が明らかだと述べる形容詞。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "clear",
+        "note": {
+          "ja": "はっきり分かる。会話でも幅広く使う。",
+          "en": "Easy to see or understand."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "ラテン語 ēvidēns「明白な」に由来し、vidēre「見る」と関係する。evidence と同系。",
+      "en": "From Latin ēvidēns, meaning clear or manifest, related to vidēre, to see. Evidence belongs to the same word family."
+    },
+    "equivalents": {
+      "de": "ersichtlich / offenkundig",
+      "it": "evidente / palese",
+      "fr": "évident / manifeste",
+      "es": "evidente / manifiesto"
+    },
+    "collocations": {
+      "en": [
+        "become evident",
+        "be immediately evident",
+        "be evident from the records",
+        "be evident in her voice"
+      ],
+      "ja": [
+        "become evident — 明らかになる",
+        "be immediately evident — すぐに見て取れる",
+        "be evident from the records — 記録から明らかである",
+        "be evident in her voice — 彼女の声に表れている"
+      ]
+    },
+    "example": {
+      "en": [
+        "Her relief was evident in her voice.",
+        "It became evident that the deadline would have to be extended.",
+        "It is evident from the figures that the decline began before the price increase.",
+        "The difference is evident to anyone who has used both versions."
+      ],
+      "ja": [
+        "Her relief was evident in her voice. — 彼女がほっとしたことは、その声からも分かった。",
+        "It became evident that the deadline would have to be extended. — 期限を延長する必要があることが明らかになった。",
+        "It is evident from the figures that the decline began before the price increase. — 数字を見ると、値上げ前から減少が始まっていたことが分かる。",
+        "The difference is evident to anyone who has used both versions. — 両方のバージョンを使ったことがある人なら、違いはすぐに分かる。"
+      ]
+    }
+  },
+  {
+    "id": "evidence",
+    "sid": "2026-01772",
+    "word": "evidence",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "verb",
+      "reasoning",
+      "research",
+      "law"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "uncountable as a noun in standard general and legal English",
+      "forms": {
+        "base": "evidence",
+        "thirdPerson": "evidences",
+        "past": "evidenced",
+        "pastParticiple": "evidenced",
+        "presentParticiple": "evidencing"
+      },
+      "patterns": [
+        "evidence of + noun",
+        "evidence for / against + hypothesis",
+        "evidence that + clause",
+        "a piece of evidence",
+        "as evidenced by + noun"
+      ],
+      "usage": {
+        "countability": "Use some evidence, two pieces of evidence, and The evidence is ... .",
+        "verb": "The formal verb means to show or provide evidence of something. The passive phrase as evidenced by introduces supporting facts."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈev.ə.dəns/",
+        "uk": "/ˈev.ɪ.dəns/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "facts, observations, or material that help establish whether something is true",
+        "information presented in a legal proceeding, including testimony, documents, or objects",
+        "to show or provide evidence of something"
+      ],
+      "ja": [
+        "（名詞）証拠、根拠、裏づけとなる資料や事実",
+        "（名詞・法律）証拠、証言など審理に提出される資料",
+        "（動詞・改まった用法）～を示す、～を裏づける"
+      ]
+    },
+    "nuance": {
+      "ja": "結論を支える材料を指し、それだけで結論が確定するかは文脈による。evidence of wear なら摩耗の痕跡、evidence for a theory なら理論を支持するデータなど。証拠を個別に数えるときは two pieces of evidence といい、複数でも The evidence is ... と単数扱いにする。",
+      "en": "Evidence is what supports a conclusion. It can be weak, strong, or conclusive. Evidence of wear means signs that something has worn down, while evidence for a theory means findings that support it. To count individual items, use pieces of evidence."
+    },
+    "minimal": {
+      "en": [
+        "proof: Often suggests enough support to establish a claim. Evidence can be preliminary or inconclusive.",
+        "clue: A hint that helps someone work out what happened. Evidence can include direct observations and material submitted in court.",
+        "testimony: A witness’s account in a legal proceeding. It is one kind of evidence.",
+        "evident: Describes a fact or condition that is clear to see or infer. Evidence is the material that can make it clear."
+      ],
+      "ja": [
+        "proof：主張を確立できるだけの裏づけを指すことが多い。evidence には暫定的なものや決め手に欠けるものも含まれる。",
+        "clue：何が起きたかを推理する手がかり。evidence には直接観察した事実や法廷に提出する資料も含まれる。",
+        "testimony：法的手続での証人の証言。evidence の一種。",
+        "evident：事実や状態がはっきり分かるという形容詞。evidence はそれを裏づける材料。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "supporting material",
+        "note": {
+          "ja": "主張を裏づける資料。",
+          "en": "Material that supports a claim or conclusion."
+        }
+      },
+      {
+        "word": "indication",
+        "note": {
+          "ja": "ある状態を示唆する兆候。",
+          "en": "A sign pointing to a possible conclusion."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "ラテン語 ēvidentia「明白さ」にさかのぼり、evident と同系。現代英語では、あることを明らかにする証拠や根拠を指す。",
+      "en": "Ultimately from Latin ēvidentia, meaning clarity or obviousness, and related to evident."
+    },
+    "equivalents": {
+      "de": "Beleg / Anhaltspunkt / Beweismittel",
+      "it": "prova / riscontro / elemento di prova",
+      "fr": "élément de preuve / indice / données probantes",
+      "es": "prueba / indicio / evidencia"
+    },
+    "collocations": {
+      "en": [
+        "a piece of evidence",
+        "gather evidence",
+        "present evidence",
+        "give evidence",
+        "compelling evidence",
+        "as evidenced by"
+      ],
+      "ja": [
+        "a piece of evidence — 証拠一点",
+        "gather evidence — 証拠を集める",
+        "present evidence — 証拠を提示する",
+        "give evidence — 証言する（主に英）",
+        "compelling evidence — 説得力のある証拠",
+        "as evidenced by — ～が示すように"
+      ]
+    },
+    "example": {
+      "en": [
+        "There is some evidence that the update reduced loading times, but the sample was small.",
+        "The inspection found no evidence of a leak.",
+        "We found two pieces of evidence that the product was publicly available before the filing date.",
+        "The witness gave evidence by video link.",
+        "Demand is recovering, as evidenced by the rise in new orders."
+      ],
+      "ja": [
+        "There is some evidence that the update reduced loading times, but the sample was small. — 更新で読み込み時間が短縮されたことを示すデータはあるが、サンプル数は少なかった。",
+        "The inspection found no evidence of a leak. — 点検では水漏れの痕跡は見つからなかった。",
+        "We found two pieces of evidence that the product was publicly available before the filing date. — その製品が出願日前に公に入手できたことを示す証拠が二点見つかった。",
+        "The witness gave evidence by video link. — 証人はビデオ回線を通じて証言した。",
+        "Demand is recovering, as evidenced by the rise in new orders. — 新規受注の増加が示すように、需要は回復しつつある。"
+      ]
+    }
   }
 ]
