@@ -2142,5 +2142,231 @@
         "The shop is frugal with packaging and reuses boxes whenever possible. — その店は包装材を節約し、できる限り箱を再利用している。"
       ]
     }
+  },
+  {
+    "id": "thrifty",
+    "sid": "2026-01779",
+    "word": "thrifty",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "money",
+      "lifestyle",
+      "resources"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "thrifty",
+        "comparative": "thriftier",
+        "superlative": "thriftiest",
+        "adverb": "thriftily",
+        "noun": "thrift"
+      },
+      "patterns": [
+        "a thrifty + noun",
+        "be thrifty with money",
+        "a thrifty way to do something"
+      ],
+      "usage": {
+        "tone": "Usually approving. It can describe someone who uses money or supplies wisely or a way of doing something at little expense."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈθrɪf.ti/",
+        "uk": "/ˈθrɪf.ti/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "careful and resourceful in spending money or using what is available",
+        "saving money through careful choices"
+      ],
+      "ja": [
+        "倹約上手な、手持ちのお金や物を上手に使う",
+        "（方法などが）工夫して費用を抑える"
+      ]
+    },
+    "nuance": {
+      "ja": "買い物や暮らしで、限られたお金や物をうまく使うことをほめる語。たとえば、使える部品だけを替えて掃除機を長持ちさせるのは thrifty な工夫。単に安いものを選ぶほか、長持ちするものを選んで長期的に出費を抑えることも含む。",
+      "en": "Thrifty usually praises the way someone makes money or supplies go further. Replacing a broken part instead of buying a new vacuum cleaner can be a thrifty choice. Buying a durable item can also be thrifty if it saves money over time."
+    },
+    "minimal": {
+      "en": [
+        "frugal: Often highlights keeping spending or consumption modest. Thrifty often highlights the choices and skills that make savings possible.",
+        "stingy: Criticizes a reluctance to give, spend, or share when it would be reasonable to do so.",
+        "economical: Often describes a product or method that uses little money, fuel, or material, as in an economical car."
+      ],
+      "ja": [
+        "frugal：出費や消費を控えめにすることに焦点がある。thrifty は節約につながる工夫や手腕を評価する響きが出やすい。",
+        "stingy：払ったり分け与えたりするのが妥当な場面での出し惜しみを批判する。",
+        "economical：製品や方法の費用や資源効率を表しやすい。an economical car は維持費や燃料代が抑えられる車。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "frugal",
+        "note": {
+          "ja": "無駄を避けて、出費や消費を抑える。",
+          "en": "Careful to avoid unnecessary spending or waste."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "名詞 thrift「倹約」に形容詞を作る -y が付いた形。",
+      "en": "Formed from thrift and the adjective suffix -y."
+    },
+    "equivalents": {
+      "de": "sparsam / wirtschaftlich",
+      "it": "parsimonioso / oculato nelle spese",
+      "fr": "économe",
+      "es": "ahorrador / económico"
+    },
+    "collocations": {
+      "en": [
+        "a thrifty shopper",
+        "a thrifty household",
+        "a thrifty way to furnish a room",
+        "be thrifty with money"
+      ],
+      "ja": [
+        "a thrifty shopper — 買い物で節約するのが上手な人",
+        "a thrifty household — やりくり上手な家庭",
+        "a thrifty way to furnish a room — 費用を抑えて部屋に家具をそろえる方法",
+        "be thrifty with money — お金を無駄なく使う"
+      ]
+    },
+    "example": {
+      "en": [
+        "My grandmother was thrifty. She always found a way to turn leftovers into another meal.",
+        "Buying second-hand furniture is a thrifty way to furnish a first apartment.",
+        "She’s thrifty with her own money and always pays her share when we eat out.",
+        "Replacing the battery turned out to be the thriftiest option."
+      ],
+      "ja": [
+        "My grandmother was thrifty. She always found a way to turn leftovers into another meal. — 祖母はやりくり上手で、残り物を工夫して次の食事に生かしていた。",
+        "Buying second-hand furniture is a thrifty way to furnish a first apartment. — 中古家具を買うのは、初めてのアパートに費用を抑えて家具をそろえる方法だ。",
+        "She’s thrifty with her own money and always pays her share when we eat out. — 彼女は自分のお金を上手にやりくりしていて、外食するときはいつも自分の分をきちんと払う。",
+        "Replacing the battery turned out to be the thriftiest option. — 結局、電池を交換するのがいちばん安上がりだった。"
+      ]
+    }
+  },
+  {
+    "id": "stingy",
+    "sid": "2026-01780",
+    "word": "stingy",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "money",
+      "sharing",
+      "criticism"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "stingy",
+        "comparative": "stingier",
+        "superlative": "stingiest",
+        "noun": "stinginess"
+      },
+      "patterns": [
+        "be stingy with + noun",
+        "be too stingy to do something",
+        "a stingy + noun"
+      ],
+      "usage": {
+        "tone": "Disapproving and common in everyday English. It can describe someone reluctant to give or the inadequate amount they provide."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈstɪn.dʒi/",
+        "uk": "/ˈstɪn.dʒi/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "unwilling to spend, give, or share as much as would be reasonable",
+        "too small in amount, especially when more is expected"
+      ],
+      "ja": [
+        "けちな、出し惜しみする",
+        "（量などが）少なすぎる、出し惜しみしたような"
+      ]
+    },
+    "nuance": {
+      "ja": "話し手が「もう少し出してもいいはずだ」と感じている語。お金のほか、食べ物や褒め言葉にも使える。a stingy portion は期待より少なすぎる一人前、stingy with praise は人をめったに褒めないこと。sting の発音と違い、stingy の g は /dʒ/。",
+      "en": "Stingy expresses the speaker’s judgment that someone should spend, give, or share more. The word applies to money, food, or even praise. A stingy portion is disappointingly small. The g is pronounced /dʒ/."
+    },
+    "minimal": {
+      "en": [
+        "thrifty: Praises the ability to make money or supplies go further. Stingy criticizes someone for giving too little.",
+        "frugal: Suggests keeping spending or consumption modest, as in a frugal lifestyle. Stingy adds a negative judgment about someone’s willingness to give or spend.",
+        "cheap: A cheap meal is inexpensive. Calling a person cheap, especially in informal American English, can mean stingy.",
+        "skimpy: Emphasizes that an amount or covering is insufficient. It often fits portions, details, or clothing."
+      ],
+      "ja": [
+        "thrifty：お金や物を工夫して長持ちさせることを評価する。stingy は、出すべきところで十分に出さないという批判。",
+        "frugal：出費や消費を控えめにすること。stingy は、人に与えたりお金を出したりすることを惜しむ態度を批判する。",
+        "cheap：a cheap meal は値段の安い食事。特に米語のくだけた会話で人を cheap と呼ぶと「けち」の意味にもなる。",
+        "skimpy：量や覆う面積が足りないことを強調する。食事の量、説明の詳しさ、衣服などに使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "tightfisted",
+        "note": {
+          "ja": "お金を手放したがらない、けちな。",
+          "en": "Unwilling to part with money."
+        }
+      },
+      {
+        "word": "skimpy",
+        "note": {
+          "ja": "量が少なすぎる。食事の分量などに使う。",
+          "en": "Insufficiently large, especially of a portion or supply."
+        }
+      }
+    ],
+    "equivalents": {
+      "de": "geizig / knauserig / mickrig",
+      "it": "tirchio / avaro / scarso",
+      "fr": "radin (familier) / avare / chiche",
+      "es": "tacaño / roñoso / escaso"
+    },
+    "collocations": {
+      "en": [
+        "be stingy with money",
+        "be stingy with praise",
+        "a stingy portion",
+        "a stingy tip",
+        "be too stingy to pay one’s share"
+      ],
+      "ja": [
+        "be stingy with money — お金を出し惜しみする",
+        "be stingy with praise — 人をめったに褒めない",
+        "a stingy portion — 少なすぎる一人前",
+        "a stingy tip — 少なすぎるチップ",
+        "be too stingy to pay one’s share — けちで自分の分すら払いたがらない"
+      ]
+    },
+    "example": {
+      "en": [
+        "Don’t be stingy with the cheese. There’s plenty left.",
+        "For that price, I thought the portion was rather stingy.",
+        "My old manager was stingy with praise, so a compliment from her meant a lot.",
+        "He’s thrifty when he shops for himself, but he’s never stingy when it’s his turn to buy lunch."
+      ],
+      "ja": [
+        "Don’t be stingy with the cheese. There’s plenty left. — チーズは惜しまず使って。まだたっぷりあるから。",
+        "For that price, I thought the portion was rather stingy. — あの値段にしては量が少なすぎると思った。",
+        "My old manager was stingy with praise, so a compliment from her meant a lot. — 前の上司はめったに人を褒めなかったから、褒められると本当にうれしかった。",
+        "He’s thrifty when he shops for himself, but he’s never stingy when it’s his turn to buy lunch. — 彼は自分の買い物では節約上手だが、昼食をおごる番になると出し惜しみはしない。"
+      ]
+    }
   }
 ]
