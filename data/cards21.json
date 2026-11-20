@@ -3894,5 +3894,127 @@
         "The negotiator was relentless in following up, sending a reminder every week until she got an answer. — 交渉担当者は根気強く確認を続け、返事が来るまで毎週リマインダーを送った。"
       ]
     }
+  },
+  {
+    "id": "cruel",
+    "sid": "2026-01794",
+    "word": "cruel",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "behavior",
+      "emotion",
+      "criticism"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "cruel",
+        "comparative": "crueler / crueller",
+        "superlative": "cruelest / cruellest",
+        "adverb": "cruelly",
+        "noun": "cruelty"
+      },
+      "patterns": [
+        "be cruel to + person or animal",
+        "It was cruel of someone to do something",
+        "a cruel + noun"
+      ],
+      "usage": {
+        "spelling": "Crueler and cruelest are usual in US English. Crueller and cruellest are common in UK English.",
+        "target": "Use cruel to someone for the target of mistreatment and cruel of someone to judge what they did."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈkruː.əl/",
+        "uk": "/ˈkruː.əl/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "deliberately causing pain or distress, or showing disregard for the suffering one causes",
+        "causing great pain or disappointment, especially in a way that seems unfair"
+      ],
+      "ja": [
+        "（人・扱い・行為などが）残酷な、むごい、ひどく人を傷つける",
+        "（出来事・運命などが）非情な、むごい"
+      ]
+    },
+    "nuance": {
+      "ja": "cruel は、人や動物が受ける苦痛に焦点がある。a cruel joke は、笑いのために人の弱みを突くなど、相手を傷つける冗談。a cruel twist of fate は、ようやく手に入れた機会が偶然の出来事で失われるような、むごい運命の巡り合わせを指す。",
+      "en": "Cruel draws attention to physical pain or emotional distress. A cruel joke can humiliate someone by targeting a vulnerability. A cruel twist of fate can describe a chance event that takes away a long-awaited opportunity."
+    },
+    "minimal": {
+      "en": [
+        "ruthless: Emphasizes acting without mercy or hesitation, often in pursuit of an objective. Cruel foregrounds the suffering caused.",
+        "relentless: Emphasizes pressure, intensity, or effort that does not ease. Relentless criticism keeps coming. Cruel criticism is hurtful.",
+        "harsh: Describes severity or roughness. A harsh reply may be overly blunt. A cruel reply can strike at a painful vulnerability.",
+        "mean: Common in conversation for unkind behavior. Cruel usually conveys a stronger judgment about the pain caused."
+      ],
+      "ja": [
+        "ruthless：目的のために容赦しないやり方に焦点がある。cruel は、その行為で相手が受ける苦痛に焦点がある。",
+        "relentless：圧力や勢いが衰えず続く。relentless criticism は絶え間ない批判、cruel criticism は人を深く傷つける批判。",
+        "harsh：厳しさやきつさを表す。a harsh reply はきつい返答、a cruel reply は弱みを突くなど相手を傷つける返答。",
+        "mean：意地悪な、という日常語。cruel は相手を傷つけたことへの強い非難を込めやすい。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "heartless",
+        "note": {
+          "ja": "人の苦しみに思いやりを示さない、冷淡な。",
+          "en": "Showing no sympathy for someone who is suffering."
+        }
+      },
+      {
+        "word": "inhumane",
+        "note": {
+          "ja": "人や動物に対する扱いが非人道的な。",
+          "en": "Causing suffering through treatment that fails to show basic compassion."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "古フランス語 cruel を経て、ラテン語 crūdēlis「残酷な、むごい」にさかのぼる。英語の名詞 cruelty は「残酷さ、残酷な行為」。",
+      "en": "From Old French cruel, ultimately from Latin crūdēlis, meaning cruel or harsh. The related English noun is cruelty."
+    },
+    "equivalents": {
+      "de": "grausam / gemein / unbarmherzig",
+      "it": "crudele / spietato",
+      "fr": "cruel / impitoyable",
+      "es": "cruel / despiadado"
+    },
+    "collocations": {
+      "en": [
+        "a cruel remark",
+        "a cruel joke",
+        "be cruel to animals",
+        "cruel treatment",
+        "a cruel twist of fate"
+      ],
+      "ja": [
+        "a cruel remark — 人を傷つけるひと言",
+        "a cruel joke — 残酷な冗談",
+        "be cruel to animals — 動物をむごく扱う",
+        "cruel treatment — 残酷な扱い",
+        "a cruel twist of fate — むごい運命の巡り合わせ"
+      ]
+    },
+    "example": {
+      "en": [
+        "It was cruel of him to read her private message aloud just to make everyone laugh.",
+        "The character is polite to strangers but cruel to people who depend on him.",
+        "In a cruel twist of fate, the one person who could confirm her story had left the country the day before.",
+        "The criticism was relentless, and some of the remarks about her appearance were downright cruel."
+      ],
+      "ja": [
+        "It was cruel of him to read her private message aloud just to make everyone laugh. — みんなを笑わせるために彼女の私的なメッセージを読み上げるなんて、彼はひどいことをした。",
+        "The character is polite to strangers but cruel to people who depend on him. — その登場人物は見知らぬ人には礼儀正しいが、自分を頼りにしている人には冷酷だ。",
+        "In a cruel twist of fate, the one person who could confirm her story had left the country the day before. — 運命はむごいもので、彼女の話を裏づけられる唯一の人物は前日に国外へ出ていた。",
+        "The criticism was relentless, and some of the remarks about her appearance were downright cruel. — 批判が絶えず続き、彼女の外見をあげつらう発言には、あまりにひどいものもあった。"
+      ]
+    }
   }
 ]
