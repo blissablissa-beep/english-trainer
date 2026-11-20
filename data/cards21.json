@@ -1783,5 +1783,131 @@
         "Please stand clear of the doors. — ドアから離れてお立ちください。"
       ]
     }
+  },
+  {
+    "id": "transcribe",
+    "sid": "2026-01776",
+    "word": "transcribe",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "audio",
+      "writing",
+      "linguistics",
+      "music"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "forms": {
+        "base": "transcribe",
+        "thirdPerson": "transcribes",
+        "past": "transcribed",
+        "pastParticiple": "transcribed",
+        "presentParticiple": "transcribing",
+        "noun": "transcription"
+      },
+      "patterns": [
+        "transcribe an interview / a recording",
+        "transcribe speech verbatim",
+        "transcribe a word in IPA",
+        "transcribe a piece for another instrument"
+      ],
+      "usage": {
+        "object": "The object is often the source material. Use in to name the notation and for to name the instrument in a musical arrangement.",
+        "result": "A transcript is a written record of speech. Transcription can refer to the process or to a written or notated result."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/trænˈskraɪb/",
+        "uk": "/trænˈskraɪb/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to put spoken or recorded words into writing",
+        "to copy written material into another form or represent speech in phonetic notation",
+        "to write performed music in notation or adapt a piece for another instrument or ensemble"
+      ],
+      "ja": [
+        "（発言・録音を）文字に起こす、書き起こす",
+        "（手書き原稿などを）転記する、（発音を）発音記号で表す",
+        "（演奏を）採譜する、（曲を別の楽器・編成向けに）編曲する"
+      ]
+    },
+    "nuance": {
+      "ja": "会議やインタビューでは、発言を後で読める形にすることをいう。逐語的に起こすか、言いよどみなどを整えるかは作業方針による。verbatim を添えると「一語一句そのまま」が明確になる。発音の表記や採譜でも、聞こえたものを記号で書き表すという点が共通する。",
+      "en": "In meetings and interviews, transcribe means putting speech into a written record. A transcript may be edited for readability, while transcribe verbatim specifically calls for a word-for-word record. Phonetic and musical transcription likewise represent sounds in a written notation."
+    },
+    "minimal": {
+      "en": [
+        "write down: Broad everyday wording for putting something on paper, including a single number or a brief note. Transcribe suggests producing a written record from a source.",
+        "take minutes: Record a meeting’s decisions, key points, and action items. Transcribing a meeting produces a written record of what people said.",
+        "translate: Render content in another language. Transcribing a Spanish interview normally produces Spanish text.",
+        "transliterate: Convert writing from one script to another, as when rendering Cyrillic in Latin letters. Phonetic transcription represents pronunciation."
+      ],
+      "ja": [
+        "write down：番号や短いメモなどを含め、何かを書き留めるときの幅広い日常表現。transcribe は元の発言や資料から記録を作る場面に合う。",
+        "take minutes：決定事項や要点、担当者の作業などを議事録にまとめる。transcribe a meeting は会議での発言を書き起こす。",
+        "translate：別の言語に訳す。スペイン語のインタビューを transcribe すれば、通常はスペイン語のテキストになる。",
+        "transliterate：キリル文字をラテン文字に置き換えるなど、文字体系を変えて表記する。音声の transcription は発音を記号で表す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "write out",
+        "note": {
+          "ja": "内容を省略せず書き出す場合に使える日常的な言い方。",
+          "en": "Everyday phrasing for putting something into writing in full."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "ラテン語 trānscrībere「書き写す」に由来する。trans-「越えて、移して」と scrībere「書く」から成る。",
+      "en": "From Latin trānscrībere, meaning to copy in writing, from trans- (across) and scrībere (to write)."
+    },
+    "equivalents": {
+      "de": "transkribieren / abschreiben / für ein Instrument bearbeiten",
+      "it": "trascrivere",
+      "fr": "transcrire",
+      "es": "transcribir"
+    },
+    "collocations": {
+      "en": [
+        "transcribe a recording",
+        "transcribe an interview verbatim",
+        "transcribe a handwritten letter",
+        "transcribe a word in IPA",
+        "transcribe a solo by ear",
+        "transcribe a piece for guitar"
+      ],
+      "ja": [
+        "transcribe a recording — 録音を書き起こす",
+        "transcribe an interview verbatim — インタビューを逐語的に書き起こす",
+        "transcribe a handwritten letter — 手書きの手紙を転記する",
+        "transcribe a word in IPA — 単語の発音を国際音声記号で表す",
+        "transcribe a solo by ear — ソロ演奏を耳で聴いて採譜する",
+        "transcribe a piece for guitar — 曲をギター用に編曲する"
+      ]
+    },
+    "example": {
+      "en": [
+        "Could you transcribe the recording and mark any passages you can’t make out?",
+        "We transcribed the interview in Spanish before translating it into Japanese.",
+        "The archivist transcribed the handwritten notes for the online edition.",
+        "Try transcribing the word in IPA before checking the dictionary.",
+        "She transcribed the saxophone solo by ear, listening to the same four bars until she had every note.",
+        "The pianist transcribed the orchestral piece for solo piano."
+      ],
+      "ja": [
+        "Could you transcribe the recording and mark any passages you can’t make out? — 録音を書き起こして、聞き取れない箇所には印を付けてもらえますか。",
+        "We transcribed the interview in Spanish before translating it into Japanese. — インタビューをまずスペイン語で書き起こしてから、日本語に訳した。",
+        "The archivist transcribed the handwritten notes for the online edition. — 資料保存の担当者は、オンライン版のために手書きのメモを転記した。",
+        "Try transcribing the word in IPA before checking the dictionary. — 辞書で確認する前に、その単語の発音を国際音声記号で書いてみよう。",
+        "She transcribed the saxophone solo by ear, listening to the same four bars until she had every note. — 彼女はサックスのソロを耳で聴いて採譜し、一音残らず書き取れるまで同じ4小節を繰り返し聴いた。",
+        "The pianist transcribed the orchestral piece for solo piano. — ピアニストはその管弦楽曲をピアノ独奏用に編曲した。"
+      ]
+    }
   }
 ]
