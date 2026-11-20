@@ -501,5 +501,114 @@
         "The app looks the same, but we rebuilt the plumbing that keeps your devices in sync. — アプリの見た目は同じですが、端末間の同期を支える内部の仕組みを作り直しました。"
       ]
     }
+  },
+  {
+    "id": "plumber",
+    "sid": "2026-01765",
+    "word": "plumber",
+    "level": "B1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "home",
+      "occupation",
+      "construction"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "singular": "plumber",
+        "plural": "plumbers"
+      },
+      "patterns": [
+        "call a plumber",
+        "get a plumber to do something",
+        "work as a plumber"
+      ],
+      "usage": {
+        "article": "Use a plumber when introducing one, and the plumber when referring to the one already arranged or mentioned."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈplʌm.ɚ/",
+        "uk": "/ˈplʌm.ə/"
+      }
+    },
+    "meaning": {
+      "ja": [
+        "配管工、給排水設備を取り付けたり修理したりする人",
+        "（依頼先として）水道業者、水回りの修理業者"
+      ],
+      "en": [
+        "a tradesperson who installs or repairs water and drainage pipes and fixtures in buildings"
+      ]
+    },
+    "nuance": {
+      "ja": "蛇口の水漏れ、排水口の詰まり、トイレの不具合などで呼ぶ職人。We need a plumber. は「水道業者を呼ばないと」が自然。人を表す plumber は数えられ、設備や工事を表す plumbing は不可算。どちらも b は発音しない。",
+      "en": "A plumber is the tradesperson you call for problems such as a leaking tap, a blocked drain, or a toilet that will not flush. Plumber is countable, while plumbing refers to the installed system or the work. The b is silent in both words."
+    },
+    "minimal": {
+      "ja": [
+        "plumbing：配管設備や配管工事。do the plumbing は「配管工事をする」。",
+        "electrician：配線などを扱う電気工事士。水漏れなら plumber、漏電なら electrician が一般的。",
+        "handyman：家のちょっとした修理を幅広く請け負う人。plumber は給排水設備を専門とする。"
+      ],
+      "en": [
+        "plumbing: The pipes and fixtures as a system, or the work of installing and repairing them.",
+        "electrician: A tradesperson who works with electrical wiring and equipment.",
+        "handyman: Someone who does a variety of small household repairs. A plumber specializes in plumbing."
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "plumbing contractor",
+        "note": {
+          "ja": "配管工事の請負業者。会社を指すこともある。",
+          "en": "A person or business contracted to carry out plumbing work."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "古フランス語の鉛を扱う職人を指す語に由来し、ラテン語 plumbum「鉛」にさかのぼる。かつて配管に鉛が使われていたことと関係する。",
+      "en": "Ultimately from Latin plumbum, meaning lead. The name reflects the historical use of lead in plumbing."
+    },
+    "equivalents": {
+      "de": "Installateur / Installateurin (Sanitär)",
+      "it": "idraulico / idraulica",
+      "fr": "plombier / plombière",
+      "es": "fontanero / fontanera (España), plomero / plomera (en gran parte de América Latina)"
+    },
+    "collocations": {
+      "en": [
+        "call a plumber",
+        "hire a plumber",
+        "an emergency plumber",
+        "work as a plumber",
+        "get a plumber to look at the leak"
+      ],
+      "ja": [
+        "call a plumber — 水道業者を呼ぶ",
+        "hire a plumber — 配管工に依頼する",
+        "an emergency plumber — 緊急対応の水道業者",
+        "work as a plumber — 配管工として働く",
+        "get a plumber to look at the leak — 水漏れを水道業者に見てもらう"
+      ]
+    },
+    "example": {
+      "en": [
+        "The toilet won’t flush. Should we call a plumber?",
+        "A plumber came this morning to fix the leak under the sink.",
+        "We hired a plumber to replace the old plumbing before we moved in.",
+        "My brother trained as a plumber and now runs his own business."
+      ],
+      "ja": [
+        "The toilet won’t flush. Should we call a plumber? — トイレの水が流れない。水道業者を呼ぼうか？",
+        "A plumber came this morning to fix the leak under the sink. — 今朝、流しの下の水漏れを直しに水道業者が来た。",
+        "We hired a plumber to replace the old plumbing before we moved in. — 入居前に古い配管を取り替えてもらうため、配管工に依頼した。",
+        "My brother trained as a plumber and now runs his own business. — 兄は配管工の訓練を受け、今は独立して仕事をしている。"
+      ]
+    }
   }
 ]
