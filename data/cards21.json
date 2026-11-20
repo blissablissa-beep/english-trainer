@@ -4834,5 +4834,123 @@
         "The editor was relentless in asking for revisions, while the author remained implacably opposed to changing the ending. — 編集者は粘り強く修正を求め続け、著者は結末の変更に断固として反対し続けた。"
       ]
     }
+  },
+  {
+    "id": "placate",
+    "sid": "2026-01802",
+    "word": "placate",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "emotion",
+      "conflict",
+      "negotiation"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "forms": {
+        "base": "placate",
+        "thirdPerson": "placates",
+        "past": "placated",
+        "pastParticiple": "placated",
+        "presentParticiple": "placating",
+        "noun": "placation"
+      },
+      "patterns": [
+        "placate someone",
+        "placate someone with + noun",
+        "try to placate someone by + -ing"
+      ],
+      "usage": {
+        "object": "The object is typically an angry or dissatisfied person or group. With or by can introduce what is offered or done to calm them."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈpleɪ.keɪt/",
+        "uk": "/pləˈkeɪt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to make someone less angry or dissatisfied, especially by saying or doing something to address their reaction"
+      ],
+      "ja": [
+        "（怒っている人・不満を持つ人を）なだめる、怒りや不満を和らげる"
+      ]
+    },
+    "nuance": {
+      "ja": "すでに怒っている、反発している、あるいは不満を抱いている相手に、説明・謝罪・譲歩などで働きかける場面に合う。try to placate residents なら、住民の反発を抑えようとすること。何が不満の原因かを解決できたかは文脈次第で、表面的な対応だと批判する文脈にも使われる。",
+      "en": "Placate often refers to addressing someone who is already angry or dissatisfied, for example with an explanation, apology, or concession. It can describe a genuine effort to calm tensions or an attempt to quiet objections without addressing their cause."
+    },
+    "minimal": {
+      "en": [
+        "calm down: Broadly describes reducing agitation or excitement. Placate typically involves responding to anger, dissatisfaction, or opposition.",
+        "appease: Often suggests pacifying someone by meeting demands or making concessions. It can imply excessive accommodation, especially in politics.",
+        "mollify: A close, somewhat formal synonym that can suggest softening someone’s anger or hurt feelings.",
+        "implacable: Describes a person or hostile attitude that efforts to placate cannot soften."
+      ],
+      "ja": [
+        "calm down：興奮や動揺を広く鎮める。placate は怒りや不満、反発のある相手に働きかける場面で使いやすい。",
+        "appease：要求を受け入れたり譲歩したりして相手をなだめる響きが出やすく、政治では譲りすぎという批判を帯びることがある。",
+        "mollify：怒りや傷ついた気持ちを和らげる、やや改まった類義語。",
+        "implacable：なだめようとしても態度や敵意が和らがない。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "mollify",
+        "note": {
+          "ja": "人の怒りや不満を和らげる。",
+          "en": "Soften someone’s anger or resentment."
+        }
+      },
+      {
+        "word": "appease",
+        "note": {
+          "ja": "要求に応じるなどして相手をなだめる。",
+          "en": "Pacify someone, often by making concessions."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "ラテン語 placāre「なだめる、鎮める」にさかのぼる。英語では placation から作られたとする説と、ラテン語の過去分詞 placātus に由来するとする説がある。前のカード implacable と同系。",
+      "en": "Ultimately from Latin placāre, ‘to soothe or appease.’ English may have formed the verb from placation or taken it from Latin placātus, the past participle. Implacable belongs to the same word family."
+    },
+    "equivalents": {
+      "de": "beschwichtigen / besänftigen",
+      "it": "placare / calmare",
+      "fr": "apaiser / calmer",
+      "es": "aplacar / apaciguar"
+    },
+    "collocations": {
+      "en": [
+        "placate an angry customer",
+        "placate critics",
+        "try to placate residents",
+        "placate someone with an apology"
+      ],
+      "ja": [
+        "placate an angry customer — 怒っている客をなだめる",
+        "placate critics — 批判している人たちの反発を和らげる",
+        "try to placate residents — 住民の反発を抑えようとする",
+        "placate someone with an apology — 謝罪して相手をなだめる"
+      ]
+    },
+    "example": {
+      "en": [
+        "The manager tried to placate the angry customer by offering a refund.",
+        "The developer offered to shorten construction hours in an attempt to placate nearby residents.",
+        "The apology placated some critics, but others still wanted a full explanation.",
+        "The board hoped a few concessions would placate her, but she remained implacably opposed to the merger."
+      ],
+      "ja": [
+        "The manager tried to placate the angry customer by offering a refund. — 店長は返金を申し出て、怒っている客をなだめようとした。",
+        "The developer offered to shorten construction hours in an attempt to placate nearby residents. — 開発業者は近隣住民の反発を和らげようと、工事の作業時間を短縮すると申し出た。",
+        "The apology placated some critics, but others still wanted a full explanation. — 謝罪で一部の批判は和らいだが、依然として詳しい説明を求める人もいた。",
+        "The board hoped a few concessions would placate her, but she remained implacably opposed to the merger. — 取締役会は多少譲歩すれば彼女の反発が和らぐと期待したが、彼女は合併への反対を崩さなかった。"
+      ]
+    }
   }
 ]
