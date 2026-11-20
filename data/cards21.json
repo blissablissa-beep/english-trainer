@@ -2816,5 +2816,241 @@
         "The court considered the issue ex officio even though neither party had raised it. — 当事者のどちらもその論点を提起していなかったが、裁判所は職権で検討した。"
       ]
     }
+  },
+  {
+    "id": "honk",
+    "sid": "2026-01785",
+    "word": "honk",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "noun",
+      "driving",
+      "sound",
+      "animals"
+    ],
+    "grammar": {
+      "pos": "verb / noun",
+      "countability": "countable as a noun",
+      "forms": {
+        "base": "honk",
+        "thirdPerson": "honks",
+        "past": "honked",
+        "pastParticiple": "honked",
+        "presentParticiple": "honking",
+        "plural": "honks"
+      },
+      "patterns": [
+        "honk the horn",
+        "honk at + person or vehicle",
+        "give a short honk"
+      ],
+      "usage": {
+        "object": "Use honk the horn with a direct object, or honk at someone to identify whom the sound is directed at."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/hɑːŋk/",
+        "uk": "/hɒŋk/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to sound a vehicle’s horn, or for the horn to make a sound",
+        "to make a loud nasal call, like a goose",
+        "a blast of a horn or a goose-like call"
+      ],
+      "ja": [
+        "（動詞）クラクションを鳴らす、クラクションが鳴る",
+        "（動詞）ガチョウなどがガーガー鳴く",
+        "（名詞）クラクションの音、ガチョウのような鳴き声"
+      ]
+    },
+    "nuance": {
+      "ja": "honk at someone は、その人に向けてクラクションを鳴らすこと。警告、いら立ち、注意を引く合図など、鳴らした理由は文脈で分かる。名詞では a quick honk のように、ひと鳴りを数えられる。",
+      "en": "Honk at someone directs the horn sound at that person. It can be a warning, an impatient reaction, or a way of getting someone’s attention. A quick honk refers to one brief blast."
+    },
+    "minimal": {
+      "en": [
+        "beep: Suggests a short sound and also describes electronic devices. Honk readily evokes a vehicle horn or a goose.",
+        "sound the horn: A more formal or neutral way to describe using a vehicle’s horn.",
+        "hook: A different word with /ʊ/ and final /k/. Honk ends in /ŋk/."
+      ],
+      "ja": [
+        "beep：短い音を連想させ、電子機器のピッという音にも使う。honk は車のクラクションやガチョウの声を連想させる。",
+        "sound the horn：車の警音器を鳴らすことを、より改まった調子で表せる。",
+        "hook：「鉤、引っ掛ける」。母音は /ʊ/ で、語末は /k/。honk の語末には /ŋ/ が入る。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "sound the horn",
+        "note": {
+          "en": "A neutral equivalent in driving contexts.",
+          "ja": "自動車についての「クラクションを鳴らす」。"
+        }
+      }
+    ],
+    "equivalents": {
+      "de": "hupen / schnattern (Gänse)",
+      "it": "suonare il clacson / starnazzare (oche)",
+      "fr": "klaxonner / cacarder (oies)",
+      "es": "tocar la bocina / graznar (gansos)"
+    },
+    "collocations": {
+      "en": [
+        "honk the horn",
+        "honk at another driver",
+        "a quick honk",
+        "geese honking overhead"
+      ],
+      "ja": [
+        "honk the horn — クラクションを鳴らす",
+        "honk at another driver — 別の車の運転手に向けてクラクションを鳴らす",
+        "a quick honk — 短いクラクション音",
+        "geese honking overhead — 頭上でガーガー鳴くガチョウの群れ"
+      ]
+    },
+    "example": {
+      "en": [
+        "The driver behind me honked when the light turned green.",
+        "Someone honked at me as I was backing out of the driveway.",
+        "I heard two short honks outside and knew my ride had arrived.",
+        "A flock of geese flew overhead, honking loudly."
+      ],
+      "ja": [
+        "The driver behind me honked when the light turned green. — 信号が青に変わると、後ろの車の運転手がクラクションを鳴らした。",
+        "Someone honked at me as I was backing out of the driveway. — 車をバックさせて自宅の車道から出ようとしたら、誰かが私に向けてクラクションを鳴らした。",
+        "I heard two short honks outside and knew my ride had arrived. — 外でクラクションが短く2回鳴り、迎えが来たと分かった。",
+        "A flock of geese flew overhead, honking loudly. — ガチョウの群れが大きな声で鳴きながら頭上を飛んでいった。"
+      ]
+    }
+  },
+  {
+    "id": "hook",
+    "sid": "2026-01786",
+    "word": "hook",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "verb",
+      "general",
+      "storytelling",
+      "music",
+      "idiom"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "countable as a noun",
+      "forms": {
+        "base": "hook",
+        "plural": "hooks",
+        "thirdPerson": "hooks",
+        "past": "hooked",
+        "pastParticiple": "hooked",
+        "presentParticiple": "hooking"
+      },
+      "patterns": [
+        "a hook for + noun",
+        "hook A onto B",
+        "hook the reader with + noun",
+        "get hooked on + noun"
+      ],
+      "usage": {
+        "interest": "The active verb highlights capturing someone’s interest. Be hooked on describes continuing fascination or, in some contexts, dependence."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/hʊk/",
+        "uk": "/hʊk/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a curved piece used to hang, hold, or catch something",
+        "a feature that grabs attention or sticks in the mind",
+        "to attach, hold, or catch something with a hook or a similar motion",
+        "to capture someone’s interest and make them want more"
+      ],
+      "ja": [
+        "（名詞）鉤、フック、釣り針",
+        "（名詞）人を引きつける仕掛け、曲の印象に残る部分",
+        "（動詞）引っ掛ける、釣り針に掛ける",
+        "（動詞）人を引きつける、夢中にさせる"
+      ]
+    },
+    "nuance": {
+      "ja": "物理的な鉤が相手をつかむところから、人の注意をつかむ比喩にも使う。小説の hook は先を読みたくなる仕掛け。曲の hook は耳に残る旋律やリズムなどで、サビの一部の場合もある。I was hooked after the first episode. は「第1話で夢中になった」。",
+      "en": "A physical hook catches or holds something. In storytelling, a hook gives the audience a reason to keep reading or watching. In music, it is a memorable bit of melody, rhythm, or lyrics. I was hooked after the first episode means I wanted to keep watching."
+    },
+    "minimal": {
+      "en": [
+        "hang: Describes suspending something. Hook specifies catching or securing it in place, as in hook the strap onto the frame.",
+        "catch: Broadly means to capture or intercept. Hook a fish specifically describes getting it on the hook.",
+        "chorus: A recurring section of a song. A hook is a memorable feature that can appear inside or outside the chorus.",
+        "off the hook: In the idiom let someone off the hook, it means releasing someone from trouble, blame, or an obligation."
+      ],
+      "ja": [
+        "hang：物をつるす。hook は hook the strap onto the frame のように、何かに引っ掛けて留める動作を表せる。",
+        "catch：捕まえること全般。hook a fish は魚が釣り針に掛かるところに焦点がある。",
+        "chorus：曲で繰り返される部分、サビ。hook は耳に残る要素で、サビ以外に出ることもある。",
+        "off the hook：let someone off the hook で、人を責任や面倒な義務から解放する、大目に見る。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "catch someone’s attention",
+        "note": {
+          "en": "Close to the figurative verb. Hook often also suggests making someone want to keep going.",
+          "ja": "人の注意を引く。hook はその先も読みたい・見たいと思わせることを含みやすい。"
+        }
+      }
+    ],
+    "equivalents": {
+      "de": "Haken / einhaken / fesseln",
+      "it": "gancio / amo / agganciare / catturare l’attenzione",
+      "fr": "crochet / hameçon / accrocher",
+      "es": "gancho / anzuelo / enganchar"
+    },
+    "collocations": {
+      "en": [
+        "a coat hook",
+        "a fishing hook",
+        "hook the strap onto the frame",
+        "a catchy hook",
+        "hook the reader",
+        "get hooked on a series"
+      ],
+      "ja": [
+        "a coat hook — コート掛け",
+        "a fishing hook — 釣り針",
+        "hook the strap onto the frame — ストラップを枠に引っ掛ける",
+        "a catchy hook — 耳に残るフレーズ",
+        "hook the reader — 読者を引き込む",
+        "get hooked on a series — シリーズ物に夢中になる"
+      ]
+    },
+    "example": {
+      "en": [
+        "There’s a hook by the door for your coat.",
+        "Hook the strap onto the frame before you lift the bag.",
+        "I hooked a fish, but it got away before I could reel it in.",
+        "The opening scene hooked me before I even knew the characters’ names.",
+        "The song’s hook is that little guitar riff you hear right at the start.",
+        "I got hooked on the series after watching just one episode."
+      ],
+      "ja": [
+        "There’s a hook by the door for your coat. — ドアのそばにコートを掛けるフックがあります。",
+        "Hook the strap onto the frame before you lift the bag. — バッグを持ち上げる前に、ストラップを枠に引っ掛けてください。",
+        "I hooked a fish, but it got away before I could reel it in. — 魚が針に掛かったが、糸を巻き取って引き寄せる前に逃げられた。",
+        "The opening scene hooked me before I even knew the characters’ names. — 登場人物の名前すら分からないうちに、冒頭の場面で引き込まれた。",
+        "The song’s hook is that little guitar riff you hear right at the start. — その曲で耳に残るのは、冒頭ですぐに聞こえる短いギターのリフだ。",
+        "I got hooked on the series after watching just one episode. — たった1話見ただけで、そのシリーズにはまった。"
+      ]
+    }
   }
 ]
