@@ -3668,5 +3668,119 @@
         "The children left a carrot outside for the reindeer that pull Santa’s sleigh. — 子どもたちはサンタのそりを引くトナカイのために、外にニンジンを一本置いておいた。"
       ]
     }
+  },
+  {
+    "id": "ruthless",
+    "sid": "2026-01792",
+    "word": "ruthless",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "behavior",
+      "business",
+      "criticism"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "ruthless",
+        "comparative": "more ruthless",
+        "superlative": "most ruthless",
+        "adverb": "ruthlessly",
+        "noun": "ruthlessness"
+      },
+      "patterns": [
+        "a ruthless + noun",
+        "be ruthless in doing something",
+        "be ruthless about + noun or -ing form"
+      ],
+      "usage": {
+        "tone": "Usually disapproving when people are harmed. It can sound approving or humorous when it describes strict editing or prioritization."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈruːθ.ləs/",
+        "uk": "/ˈruːθ.ləs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "willing to achieve a goal without showing pity or concern for those affected",
+        "very strict about removing what is unnecessary or pursuing a priority"
+      ],
+      "ja": [
+        "（人・やり方が）冷酷な、容赦のない",
+        "（選別・編集などが）徹底した、妥協のない"
+      ]
+    },
+    "nuance": {
+      "ja": "目的のために、人への同情や手加減を示さないことに焦点がある。a ruthless negotiator は、相手が困る条件でも譲歩を求めるような、容赦のない交渉相手。文章の編集で be ruthless about cutting repetition と言うときは、重複を思い切って削るという意味で、人への冷酷さは含まない。",
+      "en": "Ruthless often suggests pursuing an objective with little concern for the people affected. A ruthless negotiator is willing to push hard even when the terms put the other side in a difficult position. In editing, being ruthless about cutting repetition simply means being willing to remove whatever does not earn its place."
+    },
+    "minimal": {
+      "en": [
+        "cruel: Focuses on causing pain or suffering, sometimes deliberately for its own sake. Ruthless often highlights a goal pursued without mercy.",
+        "relentless: Emphasizes continuing without letting up. Relentless rain can last for days, and a relentless effort can serve a good cause.",
+        "merciless: Emphasizes giving no mercy or relief. A merciless review can be scathing, while ruthless editing often involves deliberate cuts.",
+        "shrewd: Praises sharp practical judgment. A negotiator can be shrewd in judging a deal and ruthless in pressing for concessions."
+      ],
+      "ja": [
+        "cruel：苦痛を与える残酷さに焦点がある。ruthless は目的のために手加減しないことに焦点が当たりやすい。",
+        "relentless：勢いを緩めず続くこと。relentless rain は降りやまない雨で、努力についても使える。",
+        "merciless：情けをかけず手加減しないことを強調する。a merciless review は容赦のない酷評、ruthless editing は思い切って削る編集。",
+        "shrewd：損得を見極める鋭さ。取引を見極める点で shrewd、譲歩を迫る点で ruthless な交渉役もいる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "merciless",
+        "note": {
+          "ja": "情け容赦のない。",
+          "en": "Showing no mercy."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "古い名詞 ruth「哀れみ、同情」に -less「〜がない」が付いた形。ruth は「悔やむ」を意味する rue と同系で、現在は単独では古風な語。",
+      "en": "Formed from ruth, an old noun for pity or compassion, and -less. Ruth is related to the verb rue, ‘to regret.’"
+    },
+    "equivalents": {
+      "de": "rücksichtslos / erbarmungslos",
+      "it": "spietato / senza scrupoli",
+      "fr": "impitoyable / sans scrupules",
+      "es": "implacable / despiadado"
+    },
+    "collocations": {
+      "en": [
+        "a ruthless competitor",
+        "ruthless tactics",
+        "ruthless efficiency",
+        "be ruthless about cutting repetition",
+        "ruthlessly pursue a goal"
+      ],
+      "ja": [
+        "a ruthless competitor — 容赦のない競争相手",
+        "ruthless tactics — 手加減のないやり方",
+        "ruthless efficiency — 無駄を徹底して排した効率のよさ",
+        "be ruthless about cutting repetition — 重複を思い切って削る",
+        "ruthlessly pursue a goal — 手加減せずに目標を追う"
+      ]
+    },
+    "example": {
+      "en": [
+        "She had a reputation as a ruthless negotiator who was willing to walk away even after months of talks.",
+        "The company was ruthless in cutting costs, laying off staff who had worked there for decades.",
+        "Be ruthless about cutting repetition. The opening paragraph already makes that point.",
+        "We had to be ruthless about priorities and postpone every feature we could launch later."
+      ],
+      "ja": [
+        "She had a reputation as a ruthless negotiator who was willing to walk away even after months of talks. — 何カ月も協議を重ねたあとでも交渉を打ち切ることをためらわない、容赦のない交渉役だと評判だった。",
+        "The company was ruthless in cutting costs, laying off staff who had worked there for decades. — 会社は容赦なくコストを削り、何十年も勤めていた従業員まで解雇した。",
+        "Be ruthless about cutting repetition. The opening paragraph already makes that point. — 重複は思い切って削ろう。その点は冒頭の段落でもう述べている。",
+        "We had to be ruthless about priorities and postpone every feature we could launch later. — 優先順位を厳しく見極め、あとで公開できる機能はすべて先送りする必要があった。"
+      ]
+    }
   }
 ]
