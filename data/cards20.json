@@ -9092,4 +9092,245 @@
     ]
   }
 }
+,
+{
+  "id": "legislative",
+  "sid": "2026-01756",
+  "word": "legislative",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "law",
+    "lawmaking",
+    "government"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "legislative",
+      "verb": "legislate",
+      "nouns": "legislation / legislature / legislator"
+    },
+    "patterns": [
+      "legislative + power / process / body",
+      "take legislative action",
+      "require legislative approval"
+    ],
+    "usage": {
+      "position": "Usually before a noun; legislative is not normally graded.",
+      "contrast": "Legislative concerns the making of laws; statutory points to a basis in enacted law."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˈledʒɪsleɪtɪv/",
+      "uk": "/ˈledʒɪslətɪv/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "立法の、法律を制定することに関する",
+      "立法権を持つ、立法を担う"
+    ],
+    "en": [
+      "relating to the process of making laws",
+      "having or exercising the power to make laws"
+    ]
+  },
+  "nuance": {
+    "ja": "legislative approval は議会など立法機関による承認を指す。statutory approval なら、承認の仕組みが制定法に基づく点に着目し、承認する主体が立法機関とは限らない。legislative intent は立法者の意図、legislative history は法案が成立するまでの経緯やその資料を指す。",
+    "en": "Legislative describes lawmaking, the institutions responsible for it, or matters connected with it. Statutory instead identifies an enacted law as the source of a rule or power. Legislative history concerns how a law came to be enacted and can also refer to the records of that process."
+  },
+  "minimal": {
+    "ja": [
+      "statutory：制定法に基づく。",
+      "regulatory：規制や監督に関する。",
+      "parliamentary：議会に関する。立法以外の議会活動にも使う。",
+      "legislature：立法機関を指す名詞。"
+    ],
+    "en": [
+      "statutory: Based on enacted law.",
+      "regulatory: Relating to regulation or oversight.",
+      "parliamentary: Relating to parliament, including activities other than lawmaking.",
+      "legislature: The noun for a lawmaking body."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語の lex（属格 legis）「法」と、法を提案することを表す latio に連なる語族。",
+    "en": "Part of the word family ultimately related to Latin lex (genitive legis), law, and latio, bringing forward or proposing."
+  },
+  "synonyms": [
+    {
+      "word": "lawmaking",
+      "note": {
+        "ja": "lawmaking body のように立法を担う組織を説明できる。",
+        "en": "A plain alternative in phrases such as lawmaking body."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "gesetzgeberisch / legislativ",
+    "it": "legislativo",
+    "fr": "législatif",
+    "es": "legislativo"
+  },
+  "collocations": {
+    "ja": [
+      "the legislative branch — 立法府",
+      "legislative powers — 立法権限",
+      "the legislative process — 立法過程",
+      "legislative intent — 立法者の意図",
+      "legislative history — 立法経緯・立法過程の資料",
+      "legislative reform — 立法上の改革",
+      "a legislative proposal — 立法提案"
+    ],
+    "en": [
+      "the legislative branch",
+      "legislative powers",
+      "the legislative process",
+      "legislative intent",
+      "legislative history",
+      "legislative reform",
+      "a legislative proposal"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The proposal is still at an early stage of the legislative process. — その提案はまだ立法過程の初期段階にあります。",
+      "The report distinguishes legislative powers from the authority to implement the law. — その報告書は、立法権限と法律を執行する権限を区別している。",
+      "We reviewed the legislative history to understand why the wording was changed. — 文言が変更された理由を理解するため、立法経緯を調べました。",
+      "The committee recommended legislative action rather than a change in internal policy. — 委員会は内部方針の変更ではなく、立法による対応を勧告した。"
+    ],
+    "en": [
+      "The proposal is still at an early stage of the legislative process.",
+      "The report distinguishes legislative powers from the authority to implement the law.",
+      "We reviewed the legislative history to understand why the wording was changed.",
+      "The committee recommended legislative action rather than a change in internal policy."
+    ]
+  }
+},
+{
+  "id": "legislation",
+  "sid": "2026-01757",
+  "word": "legislation",
+  "level": "C1",
+  "freq": "sometimes",
+  "tags": [
+    "noun",
+    "law",
+    "lawmaking",
+    "government"
+  ],
+  "grammar": {
+    "pos": "noun",
+    "countability": "uncountable in ordinary usage",
+    "forms": {
+      "base": "legislation",
+      "unit": "a piece of legislation",
+      "verb": "legislate",
+      "adjective": "legislative"
+    },
+    "patterns": [
+      "introduce / pass / enact + legislation",
+      "legislation on + topic",
+      "legislation to + verb",
+      "under existing legislation",
+      "a piece of legislation"
+    ],
+    "usage": {
+      "countability": "Use new legislation, a piece of legislation, or two laws, not a legislation or two legislations in ordinary usage.",
+      "process": "Legislation can denote lawmaking itself, though the legislative process is often clearer if the process is the focus."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌledʒɪˈsleɪʃən/",
+      "uk": "/ˌledʒɪˈsleɪʃən/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "制定された法律・法令の総称。文脈によって審議中の法案も指す",
+      "立法、法律を制定する行為"
+    ],
+    "en": [
+      "laws collectively, or proposed legal measures when the context indicates they are not yet enacted",
+      "the activity of making laws"
+    ]
+  },
+  "nuance": {
+    "ja": "legislation は通常不可算。個別の法律を数えるなら a law、a statute、a piece of legislation。法案が未成立であることを明確にするには a bill や proposed legislation が便利。law は判例法や法体系まで含み得る、より広い語。",
+    "en": "Legislation is normally a mass noun. Use a law, a statute, or a piece of legislation for one measure. If its status matters, a bill or proposed legislation makes clear that it has not yet been enacted. Law is broader and can also cover case law or an entire legal system."
+  },
+  "minimal": {
+    "ja": [
+      "law：法律・法体系の一般語。可算・不可算の両方で使う。",
+      "statute：個別の制定法。可算名詞。",
+      "bill：議会などで審議される法案。",
+      "regulation：個々の規則や規制。legislation と同義とは限らない。"
+    ],
+    "en": [
+      "law: A broader term for a rule or a system of law.",
+      "statute: A countable term for an enacted law.",
+      "bill: A proposed law presented for consideration.",
+      "regulation: A rule or regulatory measure; not interchangeable with legislation."
+    ]
+  },
+  "etymology": {
+    "ja": "ラテン語の lex（属格 legis）「法」と、法を提案することを表す latio に連なる語族。",
+    "en": "Part of the word family ultimately related to Latin lex (genitive legis), law, and latio, bringing forward or proposing."
+  },
+  "synonyms": [
+    {
+      "word": "enacted laws",
+      "note": {
+        "ja": "成立済みの法律を指す場合の明確な言い換え。",
+        "en": "A clear paraphrase when the measures have already been enacted."
+      }
+    }
+  ],
+  "equivalents": {
+    "de": "Gesetzgebung / Gesetze",
+    "it": "legislazione / normativa",
+    "fr": "législation",
+    "es": "legislación"
+  },
+  "collocations": {
+    "ja": [
+      "introduce legislation — 法案を提出する",
+      "pass legislation — 法案を可決する",
+      "enact legislation — 法律を制定する",
+      "proposed legislation — 提案段階の法案",
+      "existing legislation — 現行法令",
+      "patent legislation — 特許に関する法令",
+      "a piece of legislation — 一つの法律・立法措置"
+    ],
+    "en": [
+      "introduce legislation",
+      "pass legislation",
+      "enact legislation",
+      "proposed legislation",
+      "existing legislation",
+      "patent legislation",
+      "a piece of legislation"
+    ]
+  },
+  "example": {
+    "ja": [
+      "The government introduced legislation to simplify the registration process. — 政府は登録手続を簡素化する法案を提出した。",
+      "The proposed legislation has not yet been passed. — その法案はまだ可決されていない。",
+      "We compared the patent legislation of the two countries. — 私たちは両国の特許法制を比較した。",
+      "This report examines the role of legislation in protecting consumers. — この報告書は、消費者保護において立法が果たす役割を検討している。",
+      "The new legislation is difficult to summarize in a single sentence. — その新しい法令の内容は、一文では要約しにくい。"
+    ],
+    "en": [
+      "The government introduced legislation to simplify the registration process.",
+      "The proposed legislation has not yet been passed.",
+      "We compared the patent legislation of the two countries.",
+      "This report examines the role of legislation in protecting consumers.",
+      "The new legislation is difficult to summarize in a single sentence."
+    ]
+  }
+}
 ]
