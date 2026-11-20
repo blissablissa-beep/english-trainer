@@ -4,7 +4,7 @@
 // Constants
 // ==================================================
 
-const CARDS_VERSION = "2026-11-19-1";
+const CARDS_VERSION = "2026-11-20-1";
 
 const STORAGE = {
   language: "et_language",
@@ -147,7 +147,8 @@ const CARD_FILES = [
   "./data/cards17.json",
   "./data/cards18.json",
   "./data/cards19.json",
-  "./data/cards20.json"
+  "./data/cards20.json",
+  "./data/cards21.json"
 ];
 
 const WORDS_PAGE_SIZE = 120;
