@@ -1909,5 +1909,117 @@
         "The pianist transcribed the orchestral piece for solo piano. — ピアニストはその管弦楽曲をピアノ独奏用に編曲した。"
       ]
     }
+  },
+  {
+    "id": "beforehand",
+    "sid": "2026-01777",
+    "word": "beforehand",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "adverb",
+      "time",
+      "preparation",
+      "general"
+    ],
+    "grammar": {
+      "pos": "adverb",
+      "patterns": [
+        "do something beforehand",
+        "tell / let someone know beforehand",
+        "well beforehand",
+        "a few days beforehand"
+      ],
+      "usage": {
+        "reference": "Beforehand is an adverb. The event it refers to is usually already clear. To name the event directly, use before the meeting or before it starts.",
+        "position": "Often comes after the verb and its object, as in check the address beforehand."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/bɪˈfɔːr.hænd/",
+        "uk": "/bɪˈfɔː.hænd/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "at an earlier time than a particular event or action"
+      ],
+      "ja": [
+        "前もって、あらかじめ、事前に"
+      ]
+    },
+    "nuance": {
+      "ja": "そのあとに起きることが文脈で分かっているときに使う。たとえば会議の話をしていて I'll read the draft beforehand. と言えば「会議の前に草案を読んでおく」。準備や連絡によく使うが、意図的な準備がなくても、何がその前に起きたかを述べられる。well beforehand なら「かなり前に」。",
+      "en": "Beforehand looks back from a particular event understood in context. If you are talking about a meeting, I'll read the draft beforehand means you will read it before the meeting. Preparation is common in such contexts, but the word can also describe what simply happened earlier."
+    },
+    "minimal": {
+      "en": [
+        "in advance: Often interchangeable. Book in advance is especially natural in booking instructions. You can specify a reference point with in advance of the event.",
+        "before: Can introduce the event directly, as in before lunch or before we leave. Beforehand refers back to an event already understood.",
+        "in time: Means early enough for a purpose. In We arrived in time to hear the opening remarks, the focus is on catching the remarks.",
+        "ahead of time: Often means in advance or earlier than scheduled. We finished ahead of time can mean that we finished earlier than planned."
+      ],
+      "ja": [
+        "in advance：多くの文脈で置き換えられる。予約の案内なら book in advance が定番。in advance of the event のように基準となる予定を明示できる。",
+        "before：before lunch や before we leave のように、何より前なのかを直接続けられる。beforehand はその出来事が文脈から分かるときに使う。",
+        "in time：「〜に間に合って」。We arrived in time to hear the opening remarks. は冒頭の挨拶を聞くのに間に合ったことを表す。",
+        "ahead of time：「前もって」のほか「予定より早く」も表す。We finished ahead of time. は予定より早く終えたという意味にもなる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "in advance",
+        "note": {
+          "ja": "前もって。予約や事前通知でよく使う。",
+          "en": "Before an event, especially in arrangements or advance notice."
+        }
+      },
+      {
+        "word": "ahead of time",
+        "note": {
+          "ja": "前もって、または予定より早く。",
+          "en": "In advance or earlier than scheduled."
+        }
+      }
+    ],
+    "equivalents": {
+      "de": "vorher / im Voraus",
+      "it": "prima / in anticipo",
+      "fr": "au préalable / à l’avance",
+      "es": "de antemano / con antelación"
+    },
+    "collocations": {
+      "en": [
+        "check beforehand",
+        "let me know beforehand",
+        "prepare everything beforehand",
+        "well beforehand",
+        "a day or two beforehand"
+      ],
+      "ja": [
+        "check beforehand — 事前に確認する",
+        "let me know beforehand — 前もって知らせて",
+        "prepare everything beforehand — すべて前もって準備する",
+        "well beforehand — かなり前に",
+        "a day or two beforehand — その1〜2日前に"
+      ]
+    },
+    "example": {
+      "en": [
+        "We’re meeting the client on Friday. Could you read the draft beforehand?",
+        "If you’re bringing a guest, please let me know beforehand.",
+        "I was nervous beforehand, but once I started speaking, I relaxed.",
+        "I sent them the questions a day or two beforehand so they’d have time to think.",
+        "We got there in time for the talk, but we hadn’t checked beforehand whether there would be seats."
+      ],
+      "ja": [
+        "We’re meeting the client on Friday. Could you read the draft beforehand? — 金曜に依頼人と打ち合わせがあります。それまでに草案を読んでおいてもらえますか。",
+        "If you’re bringing a guest, please let me know beforehand. — 同伴者がいる場合は、前もって知らせてください。",
+        "I was nervous beforehand, but once I started speaking, I relaxed. — 話し始める前は緊張していたけれど、話し始めると落ち着いた。",
+        "I sent them the questions a day or two beforehand so they’d have time to think. — 考える時間が取れるよう、質問はその1〜2日前に送っておいた。",
+        "We got there in time for the talk, but we hadn’t checked beforehand whether there would be seats. — 講演には間に合ったが、席があるかどうかは事前に確認していなかった。"
+      ]
+    }
   }
 ]
