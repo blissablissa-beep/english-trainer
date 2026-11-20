@@ -9515,4 +9515,147 @@
     ]
   }
 }
+,
+{
+  "id": "abundant",
+  "sid": "2026-01759",
+  "word": "abundant",
+  "level": "B2",
+  "freq": "sometimes",
+  "tags": [
+    "adjective",
+    "quantity",
+    "availability",
+    "resources",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "abundant",
+      "comparative": "more abundant",
+      "superlative": "most abundant",
+      "noun": "abundance",
+      "adverb": "abundantly"
+    },
+    "patterns": [
+      "abundant + uncountable noun / plural noun",
+      "be abundant in + place / setting",
+      "an abundant supply of + noun",
+      "an abundance of + noun"
+    ],
+    "usage": {
+      "subject": "Say Fish are abundant in the lake. To make the lake the subject, The lake is rich in fish or The lake has abundant fish is clearer.",
+      "noun": "Abundance is the noun: an abundance of evidence. Abundant is the adjective: abundant evidence.",
+      "adverb": "Abundantly clear is a common intensifying phrase meaning unmistakably clear."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/əˈbʌndənt/",
+      "uk": "/əˈbʌndənt/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "量・数が多い、豊富な",
+      "いたるところにある、ふんだんに手に入る"
+    ],
+    "en": [
+      "present in large quantities or numbers",
+      "available or found in large quantities"
+    ]
+  },
+  "nuance": {
+    "ja": "abundant は『たくさんある』ことに、ample は『ある目的に十分足りる』ことに焦点を置く。abundant evidence は証拠の量が多いという表現で、証拠が決定的だとまでは言わない。植物や動物について the most abundant species といえば、通常は最も個体数が多い種を指す。",
+    "en": "Abundant emphasizes quantity or availability, while ample evaluates sufficiency for a purpose. Abundant evidence need not be conclusive. The most abundant species is generally the one found in the greatest numbers, not necessarily the one found in the most places."
+  },
+  "minimal": {
+    "ja": [
+      "plentiful：量が多い・手に入りやすい。abundant と近く、日常的な供給の話にもなじむ。",
+      "ample：目的に対して十分以上ある。ample time なら必要な時間は十分にある。",
+      "copious：涙・メモなど、出たり作られたりする量の多さを強調する。",
+      "rich in：成分・資源などを豊富に含む。",
+      "scarce：乏しい、手に入りにくい。"
+    ],
+    "en": [
+      "plentiful: Close in meaning, often emphasizing ready availability.",
+      "ample: More than enough for a particular purpose, as in ample time.",
+      "copious: Emphasizes large amounts produced, as in copious notes or tears.",
+      "rich in: Emphasizes what something contains in quantity.",
+      "scarce: The opposite when discussing supply or availability."
+    ]
+  },
+  "synonyms": [
+    {
+      "word": "plentiful",
+      "note": {
+        "ja": "量が多い・手に入りやすい。abundant と近く、日常的な供給の話にもなじむ。",
+        "en": "Close in meaning, often emphasizing ready availability."
+      }
+    },
+    {
+      "word": "ample",
+      "note": {
+        "ja": "目的に対して十分以上ある。ample time なら必要な時間は十分にある。",
+        "en": "More than enough for a particular purpose, as in ample time."
+      }
+    },
+    {
+      "word": "copious",
+      "note": {
+        "ja": "涙・メモなど、出たり作られたりする量の多さを強調する。",
+        "en": "Emphasizes large amounts produced, as in copious notes or tears."
+      }
+    }
+  ],
+  "etymology": {
+    "ja": "ラテン語 abundare「溢れる」にさかのぼる。波を表す unda とつながりがあり、元のイメージは水が溢れること。",
+    "en": "Ultimately from Latin abundare, to overflow, related to unda, a wave."
+  },
+  "equivalents": {
+    "de": "reichlich / in großer Menge vorhanden",
+    "it": "abbondante / copioso",
+    "fr": "abondant / en grande quantité",
+    "es": "abundante / copioso"
+  },
+  "collocations": {
+    "ja": [
+      "abundant natural resources — 豊富な天然資源",
+      "abundant rainfall — 豊富な降雨",
+      "abundant sunlight — たっぷりの日光",
+      "abundant evidence — 豊富な証拠",
+      "an abundant supply of fresh water — 豊富な淡水供給",
+      "be abundant in coastal waters — 沿岸水域に多く生息する",
+      "the most abundant species — 最も個体数の多い種",
+      "make it abundantly clear — その点を極めて明確に示す"
+    ],
+    "en": [
+      "abundant natural resources",
+      "abundant rainfall",
+      "abundant sunlight",
+      "abundant evidence",
+      "an abundant supply of fresh water",
+      "be abundant in coastal waters",
+      "the most abundant species",
+      "make it abundantly clear"
+    ]
+  },
+  "example": {
+    "ja": [
+      "Wildflowers are abundant here in early summer. — 初夏には、この辺りに野の花がたくさん咲く。",
+      "The region has abundant sunlight but limited water supplies. — この地域は日光に恵まれているが、水の供給は限られている。",
+      "The team found abundant evidence of earlier use, but the exact date remained uncertain. — チームはそれ以前に使われていたことを示す証拠を数多く見つけたが、正確な日付は依然として不明だった。",
+      "This was the most abundant species in the survey. — 調査では、この種の個体数が最も多かった。",
+      "There’s ample time to revise the draft, even though examples are not abundant. — 用例は多くありませんが、草案を修正する時間は十分にあります。"
+    ],
+    "en": [
+      "Wildflowers are abundant here in early summer.",
+      "The region has abundant sunlight but limited water supplies.",
+      "The team found abundant evidence of earlier use, but the exact date remained uncertain.",
+      "This was the most abundant species in the survey.",
+      "There’s ample time to revise the draft, even though examples are not abundant."
+    ]
+  }
+}
 ]
