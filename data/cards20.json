@@ -9658,4 +9658,135 @@
     ]
   }
 }
+,
+{
+  "id": "worthwhile",
+  "sid": "2026-01760",
+  "word": "worthwhile",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "adjective",
+    "value",
+    "effort",
+    "decision",
+    "general"
+  ],
+  "grammar": {
+    "pos": "adjective",
+    "forms": {
+      "base": "worthwhile",
+      "comparative": "more worthwhile",
+      "superlative": "most worthwhile"
+    },
+    "patterns": [
+      "a worthwhile + noun",
+      "find something worthwhile",
+      "make something worthwhile",
+      "It is worthwhile to do something",
+      "It is worthwhile doing something"
+    ],
+    "usage": {
+      "spelling": "The standard spelling is worthwhile, with a w in while.",
+      "complements": "It is worthwhile to check and It is worthwhile checking are both possible. With worth alone, say It is worth checking, not It is worth to check.",
+      "position": "Use a worthwhile task before a noun, or say The task was worthwhile."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ˌwɝːθˈwaɪl/",
+      "uk": "/ˌwɜːθˈwaɪl/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "時間・労力・費用をかけるだけの価値がある",
+      "有意義な、やる意味のある"
+    ],
+    "en": [
+      "worth the time, effort, or money involved",
+      "useful or meaningful enough to justify doing"
+    ]
+  },
+  "nuance": {
+    "ja": "worthwhile は、得られるものが時間・手間・費用に見合うかを判断する語。a worthwhile project は、利益が出なくても社会的な意義があれば使える。楽しい作業である必要もなく、面倒でも有益なら worthwhile と言える。",
+    "en": "Worthwhile weighs a benefit against the time, effort, or cost involved. The benefit can be practical, personal, or social rather than financial. An unpleasant task can still be worthwhile."
+  },
+  "minimal": {
+    "ja": [
+      "worth doing：worth の直後に動名詞。worth to do とはしない。",
+      "worth it：費用や手間に見合ったと会話で言うときに便利。",
+      "worth one’s while：その人にとって時間や手間をかけるだけの価値がある。",
+      "valuable：価値・有用性があること。費用や手間との釣り合いは必ずしも含まない。",
+      "rewarding：やってみて充実感が得られる。worthwhile は実用上の利益だけでも使える。"
+    ],
+    "en": [
+      "worth doing: Worth directly takes an -ing form, not a to-infinitive.",
+      "worth it: A conversational way to say something justified the cost or effort.",
+      "worth one’s while: Emphasizes that the benefit justifies a particular person’s time or effort.",
+      "valuable: Describes value or usefulness without necessarily weighing it against effort.",
+      "rewarding: Emphasizes satisfaction; worthwhile can describe a purely practical benefit."
+    ]
+  },
+  "synonyms": [
+    {
+      "word": "worth the effort",
+      "note": {
+        "ja": "かけた労力に見合う。",
+        "en": "Makes the comparison with effort explicit."
+      }
+    },
+    {
+      "word": "rewarding",
+      "note": {
+        "ja": "やってみて充実感が得られる。worthwhile は実用上の利益だけでも使える。",
+        "en": "Emphasizes satisfaction; worthwhile can describe a purely practical benefit."
+      }
+    }
+  ],
+  "etymology": {
+    "ja": "worth「価値がある」と while「時間」から成る。worth one’s while にも、時間をかける価値があるという考え方が表れている。",
+    "en": "Formed from worth and while in the sense of time. Compare worth one’s while."
+  },
+  "equivalents": {
+    "de": "lohnend / sinnvoll",
+    "it": "che vale la pena / utile",
+    "fr": "qui en vaut la peine / utile",
+    "es": "que merece la pena / que vale la pena"
+  },
+  "collocations": {
+    "en": [
+      "a worthwhile investment",
+      "a worthwhile project",
+      "a worthwhile exercise",
+      "a worthwhile cause",
+      "make the trip worthwhile",
+      "find the experience worthwhile"
+    ],
+    "ja": [
+      "a worthwhile investment — 費用や時間をかける価値のある投資",
+      "a worthwhile project — 有意義な企画",
+      "a worthwhile exercise — やる価値のある作業・練習",
+      "a worthwhile cause — 支援する価値のある活動",
+      "make the trip worthwhile — 行くだけの価値があるものにする",
+      "find the experience worthwhile — その経験を有意義だと感じる"
+    ]
+  },
+  "example": {
+    "en": [
+      "It may be worthwhile to search for earlier publications before revising the claims.",
+      "It’s worthwhile checking the figures one more time.",
+      "The course was demanding, but I found it worthwhile.",
+      "Even a short visit would make the trip worthwhile.",
+      "It’s a worthwhile project even if it never turns a profit."
+    ],
+    "ja": [
+      "It may be worthwhile to search for earlier publications before revising the claims. — 請求項を補正する前に、先行文献を探してみる価値はありそうです。",
+      "It’s worthwhile checking the figures one more time. — 数値をもう一度確認する価値はあります。",
+      "The course was demanding, but I found it worthwhile. — 大変な講座だったが、受けてよかったと思う。",
+      "Even a short visit would make the trip worthwhile. — 短時間立ち寄るだけでも、出かける価値はあるだろう。",
+      "It’s a worthwhile project even if it never turns a profit. — たとえ利益が出なくても、取り組む価値のある企画です。"
+    ]
+  }
+}
 ]
