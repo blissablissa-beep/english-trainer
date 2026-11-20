@@ -4124,5 +4124,115 @@
         "The narrator’s stolid manner makes even the wildest events sound ordinary. — 語り手の反応があまりに淡々としていて、とんでもない出来事までありふれた話に聞こえる。"
       ]
     }
+  },
+  {
+    "id": "travesty",
+    "sid": "2026-01796",
+    "word": "travesty",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "noun",
+      "criticism",
+      "law",
+      "literature"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "singular": "travesty",
+        "plural": "travesties"
+      },
+      "patterns": [
+        "a travesty of + noun",
+        "call / describe something a travesty",
+        "It was a travesty."
+      ],
+      "usage": {
+        "tone": "A strong expression of criticism or outrage. Use a travesty of justice or a travesty of the original to identify what was distorted."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈtræv.ə.sti/",
+        "uk": "/ˈtræv.ə.sti/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a grossly distorted or inadequate version of what something should be",
+        "a burlesque or grotesquely exaggerated imitation, especially in literature"
+      ],
+      "ja": [
+        "本来の姿をひどくゆがめたもの、名ばかりのひどい代物",
+        "（文学など）原作を滑稽に仕立て直した作品、戯作"
+      ]
+    },
+    "nuance": {
+      "ja": "公正さや原作への忠実さなど、当然期待されるものがひどく損なわれたと非難する語。a travesty of justice は、不公正な審理や判断を「正義を踏みにじるもの」と強く非難する表現。a travesty of the original は、原作の持ち味を大きく損ねた翻案にも使える。",
+      "en": "Travesty condemns something for badly distorting or falling short of a standard it claims to represent. A travesty of justice can be a gravely unfair process or outcome. A travesty of the original can be an adaptation that badly distorts the source."
+    },
+    "minimal": {
+      "en": [
+        "tragedy: Emphasizes suffering or terrible loss. Travesty emphasizes distortion or a serious failure to live up to a standard.",
+        "parody: An imitation often intended to amuse or satirize. Travesty can express outrage about an actual process or outcome.",
+        "sham: Emphasizes a false appearance of genuineness, as in a sham consultation. Travesty emphasizes how badly the process departs from the ideal.",
+        "miscarriage of justice: A more specific expression for a serious failure of justice, often a wrongful conviction. Travesty of justice is strongly evaluative."
+      ],
+      "ja": [
+        "tragedy：大きな苦しみや喪失を伴う「悲劇」。travesty は、本来の姿や基準がひどく損なわれたことに焦点がある。",
+        "parody：笑いや風刺を狙った模倣。travesty は、実際の手続や結果に対する強い非難にも使える。",
+        "sham：a sham consultation のように、実質を伴わず形だけであることを強調する。travesty は、建前と実態のひどい隔たりに焦点がある。",
+        "miscarriage of justice：冤罪など、司法が公正な結果を出せなかった重大な事態を指す。travesty of justice は強い非難を込めた表現。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "mockery",
+        "note": {
+          "ja": "a mockery of justice なら、公正さを台無しにするような手続や結果。",
+          "en": "A mockery of justice likewise condemns a process or outcome that undermines justice."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "フランス語 travesti「変装した」を経て、イタリア語 travestire「変装させる、衣装を替える」にさかのぼる。英語では当初、まじめな作品を滑稽に仕立て直したものを指した。",
+      "en": "From French travesti, ‘disguised,’ ultimately from Italian travestire, ‘to disguise.’ An early English sense was a comic recasting of a serious literary work."
+    },
+    "equivalents": {
+      "de": "Farce / Verzerrung",
+      "it": "farsa / grottesca deformazione",
+      "fr": "simulacre / dénaturation",
+      "es": "farsa / caricatura"
+    },
+    "collocations": {
+      "en": [
+        "a travesty of justice",
+        "a travesty of the original",
+        "an absolute travesty",
+        "condemn the outcome as a travesty"
+      ],
+      "ja": [
+        "a travesty of justice — 正義を踏みにじるような不公正",
+        "a travesty of the original — 原作をひどくゆがめたもの",
+        "an absolute travesty — まったくひどい代物",
+        "condemn the outcome as a travesty — 結果をひどいものだと強く非難する"
+      ]
+    },
+    "example": {
+      "en": [
+        "The defense called the proceedings a travesty of justice after its witnesses were barred from testifying.",
+        "The critic called the adaptation a travesty of the original novel because it turned its quiet ending into a drawn-out spectacle.",
+        "The vote was a travesty. Half the members never even received a ballot.",
+        "The play is a deliberate travesty of a solemn medieval legend, recast as a quarrel over a missing goat."
+      ],
+      "ja": [
+        "The defense called the proceedings a travesty of justice after its witnesses were barred from testifying. — 証人の証言が認められなかったことを受け、弁護側はこの審理を正義を踏みにじるものだと非難した。",
+        "The critic called the adaptation a travesty of the original novel because it turned its quiet ending into a drawn-out spectacle. — 静かな結末を延々と続く見せ場に変えてしまったため、批評家はその翻案を原作をひどくゆがめたものと評した。",
+        "The vote was a travesty. Half the members never even received a ballot. — あの投票はひどいものだった。構成員の半数には投票用紙すら届いていなかった。",
+        "The play is a deliberate travesty of a solemn medieval legend, recast as a quarrel over a missing goat. — その戯曲は、荘重な中世の伝説を、いなくなったヤギをめぐる口論にわざと仕立て直した戯作だ。"
+      ]
+    }
   }
 ]
