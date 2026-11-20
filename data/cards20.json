@@ -8955,4 +8955,141 @@
     ]
   }
 }
+,
+{
+  "id": "in-particular",
+  "sid": "2026-01755",
+  "word": "in particular",
+  "level": "B2",
+  "freq": "often",
+  "tags": [
+    "prepositional phrase",
+    "emphasis",
+    "focus",
+    "writing",
+    "general"
+  ],
+  "grammar": {
+    "pos": "prepositional phrase used adverbially",
+    "forms": {
+      "base": "in particular",
+      "related_adverb": "particularly"
+    },
+    "patterns": [
+      "noun phrase + in particular",
+      "In particular, + clause",
+      "anything / anyone / anywhere in particular?",
+      "nothing / no one / nowhere in particular",
+      "A in general and B in particular"
+    ],
+    "usage": {
+      "placement": "Put it after the item singled out (the drawings in particular), or introduce a sentence with In particular, to narrow an earlier point.",
+      "question": "Anything in particular? asks whether the person has anything specific in mind.",
+      "adjective": "Use particularly useful or especially useful, not in particular useful, to modify the adjective directly."
+    }
+  },
+  "pronunciation": {
+    "ipa": {
+      "us": "/ɪn pərˈtɪkjələr/",
+      "uk": "/ɪn pəˈtɪkjələ/"
+    }
+  },
+  "meaning": {
+    "ja": [
+      "とりわけ、特に（複数の対象や論点から一つを取り上げる）",
+      "何か具体的に、これといって（疑問・否定表現で）"
+    ],
+    "en": [
+      "especially one person, thing, or point among others",
+      "specific or singled out, in questions and negative expressions"
+    ]
+  },
+  "nuance": {
+    "ja": "the drawings in particular は、資料全体の中から図面に焦点を絞る。文頭の In particular, は、直前に述べた広い話題から具体的な論点に移るときに便利。specifically は「正確には何か」を明示する力が強い。一方、Nothing in particular. は「何もない」と断言するのではなく、「これといって特にない」という控えめな返事。",
+    "en": "The drawings in particular singles out the drawings without ruling out the other documents. Sentence-initial In particular, narrows the focus of a preceding point. Specifically more often pinpoints exactly what is meant. Nothing in particular means nothing specific or noteworthy, not necessarily nothing at all."
+  },
+  "minimal": {
+    "ja": [
+      "especially：特定の対象を際立たせるほか、especially useful のように形容詞の程度を強める。",
+      "particularly：意味は近いが、particularly useful のように形容詞の前にも置ける。",
+      "specifically：何を指すかを明確化・限定するときに向く。",
+      "notably：特筆に値する例を挙げる、やや書き言葉寄りの表現。"
+    ],
+    "en": [
+      "especially: Singles something out and can directly intensify an adjective, as in especially useful.",
+      "particularly: Close in meaning but can go immediately before an adjective.",
+      "specifically: Used to specify or clarify exactly what is meant.",
+      "notably: Highlights a noteworthy example, often in writing."
+    ]
+  },
+  "synonyms": [
+    {
+      "word": "especially",
+      "note": {
+        "ja": "特定の対象を際立たせるほか、especially useful のように形容詞の程度を強める。",
+        "en": "Singles something out and can directly intensify an adjective, as in especially useful."
+      }
+    },
+    {
+      "word": "particularly",
+      "note": {
+        "ja": "意味は近いが、particularly useful のように形容詞の前にも置ける。",
+        "en": "Close in meaning but can go immediately before an adjective."
+      }
+    },
+    {
+      "word": "specifically",
+      "note": {
+        "ja": "何を指すかを明確化・限定するときに向く。",
+        "en": "Used to specify or clarify exactly what is meant."
+      }
+    }
+  ],
+  "etymology": {
+    "ja": "in と particular（個別の、特定の）から成る。in general が全体を指すのに対し、in particular は個別の対象に焦点を当てる。",
+    "en": "A fixed combination of in and particular, meaning individual or specific. It contrasts naturally with in general."
+  },
+  "equivalents": {
+    "de": "insbesondere / im Besonderen / nichts Bestimmtes (nothing in particular)",
+    "it": "in particolare / niente di particolare",
+    "fr": "en particulier / rien de particulier",
+    "es": "en particular / nada en particular"
+  },
+  "collocations": {
+    "ja": [
+      "one point in particular — とりわけ一つの論点",
+      "this example in particular — とりわけこの例",
+      "anyone in particular — 誰か特定の人",
+      "anything in particular — 何か具体的なもの",
+      "nothing in particular — これといって特にない",
+      "nowhere in particular — 特に決まった場所はない",
+      "in general and in particular — 一般に、そしてとりわけ"
+    ],
+    "en": [
+      "one point in particular",
+      "this example in particular",
+      "anyone in particular",
+      "anything in particular",
+      "nothing in particular",
+      "nowhere in particular",
+      "in general and in particular"
+    ]
+  },
+  "example": {
+    "ja": [
+      "We reviewed all the drawings, but Figure 3 in particular needs clarification. — 図面はすべて確認しましたが、とりわけ図3は説明を明確にする必要があります。",
+      "Several terms are ambiguous. In particular, the draft does not define what counts as a separate component. — 曖昧な用語がいくつかあります。特に、何を独立した部品とみなすかが草案では定義されていません。",
+      "Was there anything in particular you wanted to discuss? — 何か具体的に話しておきたいことはありましたか。",
+      "What are you looking for? — Nothing in particular. I’m just browsing. — 何かお探しですか。——いえ、特には。ちょっと見ているだけです。",
+      "I enjoy Italian food in general and Sicilian food in particular. — イタリア料理全般が好きですが、とりわけシチリア料理が好きです。"
+    ],
+    "en": [
+      "We reviewed all the drawings, but Figure 3 in particular needs clarification.",
+      "Several terms are ambiguous. In particular, the draft does not define what counts as a separate component.",
+      "Was there anything in particular you wanted to discuss?",
+      "What are you looking for? — Nothing in particular. I’m just browsing.",
+      "I enjoy Italian food in general and Sicilian food in particular."
+    ]
+  }
+}
 ]
