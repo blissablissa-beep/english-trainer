@@ -952,5 +952,126 @@
         "His review is especially perceptive about the way the film uses silence. — 彼の批評は、とりわけ映画の沈黙の使い方についての読みが鋭い。"
       ]
     }
+  },
+  {
+    "id": "steadfast",
+    "sid": "2026-01769",
+    "word": "steadfast",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "commitment",
+      "loyalty",
+      "resolve"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "steadfast",
+        "comparative": "more steadfast",
+        "superlative": "most steadfast",
+        "adverb": "steadfastly",
+        "noun": "steadfastness"
+      },
+      "patterns": [
+        "remain steadfast",
+        "be steadfast in one’s commitment to something",
+        "steadfast support for something"
+      ],
+      "usage": {
+        "register": "Often approving and somewhat formal. Common with support, loyalty, commitment, resolve, and refusal."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈsted.fæst/",
+        "uk": "/ˈsted.fɑːst/"
+      }
+    },
+    "meaning": {
+      "ja": [
+        "（信念・決意・立場が）揺るがない、断固とした",
+        "（支持・忠誠などが）変わらない、一貫した"
+      ],
+      "en": [
+        "firm and unwavering in belief, purpose, or resolve",
+        "constant in loyalty or support, especially under pressure"
+      ]
+    },
+    "nuance": {
+      "ja": "反対や困難があっても、信念や人への支持を変えずに貫くことを表す。steadfast support は、一度だけ熱心に応援することより、苦しい時期にも支え続けることに重心がある。steadfast refusal のように、拒否の姿勢を崩さないことにも使える。",
+      "en": "Steadfast emphasizes holding to a belief, commitment, or allegiance over time, especially when circumstances make it difficult. Steadfast support endures through setbacks. A steadfast refusal likewise describes a position someone consistently maintains."
+    },
+    "minimal": {
+      "ja": [
+        "resolute：何かをやる、または拒むときの強い決意に焦点がある。steadfast はその姿勢を保ち続ける点を強調する。",
+        "unwavering：迷いや揺らぎがないことを直接表す。unwavering support は steadfast support と意味が近い。",
+        "loyal：誰に、あるいは何に忠実かに焦点がある。steadfast は決意や立場にも使え、steadfast loyalty とも言える。",
+        "stubborn：変える理由があっても譲らない頑固さを表し、批判的なことが多い。steadfast は一貫性を評価する響きが出やすい。"
+      ],
+      "en": [
+        "resolute: Highlights firm determination to act or refuse. Steadfast emphasizes maintaining that position over time.",
+        "unwavering: Directly emphasizes the absence of doubt or fluctuation. Unwavering support is close to steadfast support.",
+        "loyal: Focuses on allegiance to someone or something. Steadfast also describes resolve or a position, and can reinforce loyalty in steadfast loyalty.",
+        "stubborn: Often criticizes someone for refusing to give way. Steadfast often expresses approval of consistency under pressure."
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "unwavering",
+        "note": {
+          "ja": "途中で揺らぐことがない。",
+          "en": "Remaining firm without wavering."
+        }
+      },
+      {
+        "word": "resolute",
+        "note": {
+          "ja": "決意の固い。",
+          "en": "Firmly determined to act or hold a position."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "古英語 stedefæst に由来する。stede は「場所」、fæst は「しっかり固定された」の意。ここでの fast は hold fast「しっかりつかむ、堅持する」の fast と同じ系統。",
+      "en": "From Old English stedefæst, formed from stede (place) and fæst (firmly fixed). Compare fast in hold fast."
+    },
+    "equivalents": {
+      "de": "standhaft / unbeirrbar / unerschütterlich",
+      "it": "saldo / fermo / incrollabile",
+      "fr": "inébranlable / indéfectible",
+      "es": "firme / inquebrantable"
+    },
+    "collocations": {
+      "en": [
+        "steadfast support",
+        "steadfast loyalty",
+        "steadfast resolve",
+        "remain steadfast in one’s commitment",
+        "steadfastly refuse to give in"
+      ],
+      "ja": [
+        "steadfast support — 変わらぬ支持",
+        "steadfast loyalty — 揺るぎない忠誠",
+        "steadfast resolve — 揺るぎない決意",
+        "remain steadfast in one’s commitment — 決意や約束を貫く",
+        "steadfastly refuse to give in — 屈することを断固として拒む"
+      ]
+    },
+    "example": {
+      "en": [
+        "She remained steadfast in her support for the team even after a string of defeats.",
+        "Despite pressure to settle, the client remained steadfast in its refusal to accept those terms.",
+        "The committee’s commitment to keeping the library open remained steadfast, even as costs rose.",
+        "He steadfastly refused to blame his colleagues for the mistake."
+      ],
+      "ja": [
+        "She remained steadfast in her support for the team even after a string of defeats. — 負けが続いたあとも、彼女は変わらずチームを応援し続けた。",
+        "Despite pressure to settle, the client remained steadfast in its refusal to accept those terms. — 和解を迫られても、依頼人はその条件を受け入れないという立場を貫いた。",
+        "The committee’s commitment to keeping the library open remained steadfast, even as costs rose. — 費用が上がるなかでも、図書館を存続させるという委員会の決意は揺るがなかった。",
+        "He steadfastly refused to blame his colleagues for the mistake. — 彼はそのミスを同僚のせいにすることをかたくなに拒んだ。"
+      ]
+    }
   }
 ]
