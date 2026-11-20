@@ -4353,5 +4353,134 @@
         "The fund has long shunned companies that rely on a single customer. — そのファンドは以前から、一社の顧客に依存する企業への投資を避けてきた。"
       ]
     }
+  },
+  {
+    "id": "commend",
+    "sid": "2026-01798",
+    "word": "commend",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "praise",
+      "recommendation",
+      "formal"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "forms": {
+        "base": "commend",
+        "thirdPerson": "commends",
+        "past": "commended",
+        "pastParticiple": "commended",
+        "presentParticiple": "commending",
+        "noun": "commendation"
+      },
+      "patterns": [
+        "commend someone for + noun or -ing",
+        "commend someone on + noun",
+        "commend something to someone",
+        "commend someone to someone’s care",
+        "have much to commend it"
+      ],
+      "usage": {
+        "praise": "For introduces a reason for praise. On can introduce an achievement or quality being praised.",
+        "recommendation": "Commend something to someone is a formal recommendation. Something that has much to commend it has many merits."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/kəˈmend/",
+        "uk": "/kəˈmend/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to praise someone or something, often formally or publicly",
+        "to recommend something as worthy of attention or consideration",
+        "to entrust someone or something to another’s care, especially in formal or religious language"
+      ],
+      "ja": [
+        "（人・行為などを）称賛する、評価する",
+        "（案・資料などを）勧める、検討に付す",
+        "（人などを人の世話や神の御手に）委ねる"
+      ]
+    },
+    "nuance": {
+      "ja": "commend someone for ... は、行動や功績を評価して称賛する。委員会の報告や公式な謝辞などに合う。commend a proposal to the board は、理事会に提案を勧めたり、検討を促したりする改まった言い方。The proposal has much to commend it. なら「その提案には評価できる点が多い」。人を人の世話に委ねる用法は、古風・儀礼的な文脈で見られる。",
+      "en": "Commend someone for something expresses approval of an action or achievement, often in a formal statement. To commend a proposal to a board is to recommend it for consideration. A proposal that has much to commend it has several merits. The sense of entrusting someone to another’s care is chiefly formal or ceremonial."
+    },
+    "minimal": {
+      "en": [
+        "praise: The broad verb for expressing approval. Commend often sounds more formal or official.",
+        "recommend: The usual everyday choice for suggesting a book, service, or course of action. Commend something to someone is more formal.",
+        "congratulate: Expresses pleasure at someone’s success or good fortune. Commend can praise someone’s response to a setback.",
+        "command: Pronounced with a different stressed vowel and commonly means to order. Commend has the vowel /e/ and commonly means to praise."
+      ],
+      "ja": [
+        "praise：褒めることを幅広く表す。commend は公式に功績を認めるような、改まった響きが出やすい。",
+        "recommend：本やサービス、行動などを勧める一般的な語。commend something to someone はより改まった言い方。",
+        "congratulate：成功や幸運を祝う。commend は、失敗にどう対応したかを評価する場合にも使える。",
+        "command：強勢のある母音が異なり、主に「命じる」。commend は /e/ で、主な意味は「称賛する」。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "praise",
+        "note": {
+          "ja": "称賛する、褒める。",
+          "en": "Express approval of someone or something."
+        }
+      },
+      {
+        "word": "recommend",
+        "note": {
+          "ja": "検討する価値があるとして勧める。",
+          "en": "Put forward as worthy of consideration."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "ラテン語 commendāre「委ねる、推薦する」にさかのぼる。「相手に託す」ことと、「相手の注意や好意に値するものとして勧める」ことが、この語の用法につながる。recommend と同系。",
+      "en": "Ultimately from Latin commendāre, meaning to entrust or recommend. The English senses of entrusting and recommending reflect those older uses. Compare recommend."
+    },
+    "equivalents": {
+      "de": "loben / empfehlen / anvertrauen",
+      "it": "elogiare / raccomandare / affidare",
+      "fr": "saluer / recommander / confier",
+      "es": "elogiar / recomendar / encomendar"
+    },
+    "collocations": {
+      "en": [
+        "commend someone for their honesty",
+        "be highly commended",
+        "commend a report to readers",
+        "have much to commend it",
+        "commend someone to God’s care"
+      ],
+      "ja": [
+        "commend someone for their honesty — 人の誠実さを称賛する",
+        "be highly commended — 高く評価される",
+        "commend a report to readers — 報告書を読者に勧める",
+        "have much to commend it — 評価できる点が多い",
+        "commend someone to God’s care — 人を神の御手に委ねる"
+      ]
+    },
+    "example": {
+      "en": [
+        "The committee commended the team for making the data available to the public.",
+        "I commend you for acknowledging the error so promptly.",
+        "I commend this report to anyone who wants to understand how the proposal would work in practice.",
+        "The proposal has much to commend it, especially its clear division of responsibilities.",
+        "At the end of the service, the minister commended the deceased to God’s care."
+      ],
+      "ja": [
+        "The committee commended the team for making the data available to the public. — 委員会は、データを一般公開したことについてチームを称賛した。",
+        "I commend you for acknowledging the error so promptly. — 誤りをすぐに認めたことは、評価に値します。",
+        "I commend this report to anyone who wants to understand how the proposal would work in practice. — 提案が実際にどう機能するか知りたい方には、この報告書をお勧めします。",
+        "The proposal has much to commend it, especially its clear division of responsibilities. — その提案には評価できる点が多い。とくに、責任分担が明確だ。",
+        "At the end of the service, the minister commended the deceased to God’s care. — 式の終わりに、牧師は故人を神の御手に委ねた。"
+      ]
+    }
   }
 ]
