@@ -4482,5 +4482,124 @@
         "At the end of the service, the minister commended the deceased to God’s care. — 式の終わりに、牧師は故人を神の御手に委ねた。"
       ]
     }
+  },
+  {
+    "id": "commendable",
+    "sid": "2026-01799",
+    "word": "commendable",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "praise",
+      "evaluation",
+      "formal"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "commendable",
+        "comparative": "more commendable",
+        "superlative": "most commendable",
+        "adverb": "commendably"
+      },
+      "patterns": [
+        "a commendable + noun",
+        "It is commendable that + clause",
+        "It was commendable of someone to do something",
+        "commendable for + noun or -ing form"
+      ],
+      "usage": {
+        "register": "Often used in considered or formal praise. It commonly describes an effort, decision, quality, or action."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/kəˈmen.də.bəl/",
+        "uk": "/kəˈmen.də.bəl/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "deserving praise or approval, especially for the effort, care, or judgment shown"
+      ],
+      "ja": [
+        "称賛に値する、評価すべき、立派な"
+      ]
+    },
+    "nuance": {
+      "ja": "行動や姿勢のどこが評価に値するかを示す、やや改まったほめ言葉。a commendable effort は、たとえば企画が目標を達成しなかったとしても、粘り強く取り組んだ努力を評価する言い方。commendable transparency なら、経緯や問題点を率直に明らかにした姿勢への評価。",
+      "en": "Commendable often expresses measured approval of a specific action or quality. A commendable effort can fall short of its goal and still deserve praise. Commendable transparency praises the way someone openly explains what happened or what went wrong."
+    },
+    "minimal": {
+      "en": [
+        "commend: The verb describes the act of praising. The panel commended her honesty and Her honesty was commendable express closely related judgments.",
+        "admirable: Also means deserving praise and often conveys personal admiration, as in admirable courage.",
+        "impressive: Highlights the strong impression that an achievement, ability, or scale makes. Commendable highlights the merit of the effort or conduct.",
+        "recommendable: Means worthy of being recommended to others. Commendable means worthy of praise."
+      ],
+      "ja": [
+        "commend：称賛するという行為を表す動詞。The panel commended her honesty. と Her honesty was commendable. は、どちらも彼女の誠実さを評価している。",
+        "admirable：同じく「称賛に値する」。admirable courage のように、感心や敬意が感じられやすい。",
+        "impressive：成果、能力、規模などが強い印象を与えること。commendable は努力や行動が評価に値することに焦点がある。",
+        "recommendable：人に勧める価値がある。commendable は「称賛に値する」。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "praiseworthy",
+        "note": {
+          "ja": "称賛するだけの価値がある。",
+          "en": "Deserving praise."
+        }
+      },
+      {
+        "word": "laudable",
+        "note": {
+          "ja": "目的や努力などが称賛に値する、改まった表現。",
+          "en": "A formal near-synonym, often applied to aims or efforts."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "commend「称賛する、勧める」と形容詞を作る -able が対応する。ラテン語 commendāre「委ねる、推薦する」と同系で、現代英語では「称賛できるだけの価値がある」と覚えられる。",
+      "en": "Related to commend, ultimately from Latin commendāre, ‘to entrust or recommend.’ In modern English the ending -able makes the sense transparent: worthy of being commended."
+    },
+    "equivalents": {
+      "de": "lobenswert / anerkennenswert",
+      "it": "lodevole / encomiabile",
+      "fr": "louable / digne d’éloges",
+      "es": "loable / encomiable"
+    },
+    "collocations": {
+      "en": [
+        "a commendable effort",
+        "commendable restraint",
+        "a commendable initiative",
+        "commendable transparency",
+        "commendably candid"
+      ],
+      "ja": [
+        "a commendable effort — 称賛に値する努力",
+        "commendable restraint — 評価すべき自制",
+        "a commendable initiative — 評価に値する取り組み",
+        "commendable transparency — 評価すべき透明性",
+        "commendably candid — 率直で評価できる"
+      ]
+    },
+    "example": {
+      "en": [
+        "The pilot fell short of its target, but the team made a commendable effort to involve the people who would actually use the service.",
+        "It was commendable of her to flag the error before anyone else noticed it.",
+        "The report is commendably candid about the gaps in the evidence.",
+        "The examiner showed commendable restraint in limiting the objection to the claims affected by the amendment."
+      ],
+      "ja": [
+        "The pilot fell short of its target, but the team made a commendable effort to involve the people who would actually use the service. — 試験導入は目標に届かなかったが、実際にサービスを使う人たちに参加してもらおうとしたチームの努力は評価に値する。",
+        "It was commendable of her to flag the error before anyone else noticed it. — 誰かが気づく前に、彼女が自分から誤りを指摘したのは立派だった。",
+        "The report is commendably candid about the gaps in the evidence. — その報告書は、証拠が足りない点を率直に認めており、その姿勢は評価できる。",
+        "The examiner showed commendable restraint in limiting the objection to the claims affected by the amendment. — 審査官が異議の対象を補正の影響を受けた請求項に限ったのは、節度ある対応として評価できる。"
+      ]
+    }
   }
 ]
