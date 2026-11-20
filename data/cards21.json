@@ -1436,5 +1436,207 @@
         "Demand is recovering, as evidenced by the rise in new orders. — 新規受注の増加が示すように、需要は回復しつつある。"
       ]
     }
+  },
+  {
+    "id": "evidentiary",
+    "sid": "2026-01773",
+    "word": "evidentiary",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "adjective",
+      "law",
+      "evidence",
+      "formal"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "patterns": [
+        "an evidentiary + noun",
+        "evidentiary value of + noun"
+      ],
+      "usage": {
+        "register": "Formal, especially common in U.S. legal writing. Typically used before a noun."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌev.ɪˈden.ʃi.er.i/",
+        "uk": "/ˌev.ɪˈden.ʃər.i/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "relating to evidence, its handling, or its use in establishing a fact",
+        "providing support for a claim or finding"
+      ],
+      "ja": [
+        "証拠に関する、立証上の",
+        "証拠となる、裏づけとなる"
+      ]
+    },
+    "nuance": {
+      "ja": "米国の法律文書で特によく見かける。an evidentiary hearing は、証言や資料などの証拠を取り調べる審理。evidentiary support では、主張や認定を支える証拠を指し、法律以外の文脈にも使える。",
+      "en": "Especially familiar in U.S. legal writing. An evidentiary hearing involves hearing or examining evidence. Evidentiary support refers to evidence backing a claim or finding and can also be used outside law."
+    },
+    "minimal": {
+      "en": [
+        "evidential: Overlaps in phrases like evidential value. Evidentiary hearing is a conventional U.S. legal phrase.",
+        "procedural: Relates to how proceedings are conducted in general. Evidentiary narrows the focus to evidence.",
+        "probative: Emphasizes how strongly material tends to establish a fact, as in probative value."
+      ],
+      "ja": [
+        "evidential：evidential value のように重なる用法がある。evidentiary hearing は米国の法律英語で定着した表現。",
+        "procedural：手続の進め方全般に関する。evidentiary は証拠に関わる部分に焦点がある。",
+        "probative：資料がある事実の立証にどれだけ役立つかに焦点がある。probative value は「証明力」。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "evidence-related",
+        "note": {
+          "ja": "証拠との関係を平易に表す。",
+          "en": "A plain-language equivalent in many contexts."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "evidence「証拠」と同系。evidentiary は証拠に関わる手続や性質を表す形容詞。",
+      "en": "An adjective in the evidence word family."
+    },
+    "equivalents": {
+      "de": "beweisrechtlich / beweisbezogen",
+      "it": "probatorio",
+      "fr": "relatif à la preuve / probatoire",
+      "es": "probatorio / relativo a la prueba"
+    },
+    "collocations": {
+      "en": [
+        "an evidentiary hearing",
+        "an evidentiary ruling",
+        "an evidentiary objection",
+        "evidentiary support"
+      ],
+      "ja": [
+        "an evidentiary hearing — 証拠を取り調べる審理",
+        "an evidentiary ruling — 証拠に関する裁判所の判断",
+        "an evidentiary objection — 証拠に関する異議",
+        "evidentiary support — 証拠による裏づけ"
+      ]
+    },
+    "example": {
+      "en": [
+        "The judge scheduled an evidentiary hearing to hear testimony about how the records were obtained.",
+        "The court’s evidentiary ruling addressed whether the emails could be admitted at trial.",
+        "The report offered little evidentiary support for its estimate of future demand."
+      ],
+      "ja": [
+        "The judge scheduled an evidentiary hearing to hear testimony about how the records were obtained. — 裁判官は、記録がどのように入手されたかについて証言を聴くため、証拠を取り調べる審理の期日を指定した。",
+        "The court’s evidentiary ruling addressed whether the emails could be admitted at trial. — 裁判所は、メールを公判で証拠として採用できるかについて判断を示した。",
+        "The report offered little evidentiary support for its estimate of future demand. — その報告書には、将来の需要予測を裏づける資料がほとんどなかった。"
+      ]
+    }
+  },
+  {
+    "id": "evidential",
+    "sid": "2026-01774",
+    "word": "evidential",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "adjective",
+      "evidence",
+      "reasoning",
+      "law",
+      "linguistics"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "patterns": [
+        "evidential + noun",
+        "the evidential value of + noun",
+        "evidential support for + noun"
+      ],
+      "usage": {
+        "register": "Formal or technical. Often used before nouns such as value, basis, support, and weight."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌev.ɪˈden.ʃəl/",
+        "uk": "/ˌev.ɪˈden.ʃəl/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "relating to evidence or serving as evidence",
+        "in linguistics, indicating how the speaker obtained the information"
+      ],
+      "ja": [
+        "証拠に関する、根拠となる",
+        "（言語学）情報源を示す、証拠性に関する"
+      ]
+    },
+    "nuance": {
+      "ja": "evidential value は、資料がある事実を裏づけるうえでどれだけ役立つかを表し、研究にも法律にも使える。言語学の evidential marker は、話し手が直接見たのか、伝聞や推論によるのかなど、情報の入手経路を示す形式。",
+      "en": "Evidential value concerns how useful something is as evidence, in research as well as law. In linguistics an evidential marker indicates the source of information, such as direct observation, hearsay, or inference."
+    },
+    "minimal": {
+      "en": [
+        "evidentiary: Both fit value or support. Evidentiary is especially familiar in U.S. legal procedure, as in evidentiary hearing.",
+        "evident: Describes what is clear. Evidential describes what serves as, or relates to, the evidence.",
+        "empirical: Based on observation or experiment. Evidential can also describe a document or testimony used as evidence."
+      ],
+      "ja": [
+        "evidentiary：value や support には両方使える。米国の法律手続では evidentiary hearing などの定着した表現がある。",
+        "evident：事実が「明らかな」。evidential は資料が根拠として果たす役割などを表す。",
+        "empirical：観察や実験に基づく。evidential は、証拠となる文書や証言についても使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "evidentiary",
+        "note": {
+          "ja": "「証拠に関する、証拠となる」の意味で重なる。",
+          "en": "Overlaps in the sense of relating to or providing evidence."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "evidence「証拠」と同系。言語学の evidentiality は「証拠性」という。",
+      "en": "An adjective in the evidence word family. The linguistic term evidentiality refers to the marking of information source."
+    },
+    "equivalents": {
+      "de": "beweisbezogen / evidenziell (Linguistik)",
+      "it": "probatorio / evidenziale (linguistica)",
+      "fr": "probatoire / évidentiel (linguistique)",
+      "es": "probatorio / evidencial (lingüística)"
+    },
+    "collocations": {
+      "en": [
+        "evidential value",
+        "an evidential basis for a claim",
+        "evidential weight",
+        "an evidential marker"
+      ],
+      "ja": [
+        "evidential value — 証拠としての価値",
+        "an evidential basis for a claim — 主張の根拠となる証拠",
+        "evidential weight — 証拠としての重み",
+        "an evidential marker — 情報源を示す標識（言語学）"
+      ]
+    },
+    "example": {
+      "en": [
+        "The screenshot shows the product name, but its evidential value is limited because it has no date.",
+        "The review found no solid evidential basis for the proposed cutoff.",
+        "In some languages, an evidential marker indicates whether the speaker saw the event or heard about it from someone else."
+      ],
+      "ja": [
+        "The screenshot shows the product name, but its evidential value is limited because it has no date. — スクリーンショットには製品名が写っているが、日付がないため証拠としての価値は限られる。",
+        "The review found no solid evidential basis for the proposed cutoff. — レビューでは、提案された基準値を裏づける確かな証拠は見つからなかった。",
+        "In some languages, an evidential marker indicates whether the speaker saw the event or heard about it from someone else. — 言語によっては、話し手がその出来事を直接見たのか、人から聞いたのかを標識で示す。"
+      ]
+    }
   }
 ]
