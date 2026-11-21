@@ -7361,5 +7361,118 @@
         "We found that bug by eating our own dog food, not by running a scripted test. — その不具合は、手順書どおりのテストではなく、自社製品を普段の業務で使う中で見つけた。"
       ]
     }
+  },
+  {
+    "id": "boil-the-ocean",
+    "sid": "2026-01823",
+    "word": "boil the ocean",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "idiom",
+      "verb phrase",
+      "business",
+      "project scope"
+    ],
+    "grammar": {
+      "pos": "idiomatic verb phrase",
+      "forms": {
+        "base": "boil the ocean",
+        "past": "boiled the ocean",
+        "presentParticiple": "boiling the ocean"
+      },
+      "patterns": [
+        "try to boil the ocean",
+        "let’s not boil the ocean",
+        "avoid boiling the ocean",
+        "boil the ocean by + -ing"
+      ],
+      "usage": {
+        "warning": "The phrase often appears in a warning or suggestion to narrow the scope: Let’s not boil the ocean.",
+        "article": "Use the definite article in boil the ocean."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/bɔɪl ði ˈoʊ.ʃən/",
+        "uk": "/bɔɪl ði ˈəʊ.ʃən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(informal business jargon) to take on a task with such a broad scope that it becomes impractical or impossible",
+        "to put far more effort into a problem than its purpose warrants"
+      ],
+      "ja": [
+        "（ビジネスの口語）手を広げすぎて、現実的にやり切れないことまでしようとする",
+        "目的に見合わないほど大がかりなことをしようとする"
+      ]
+    },
+    "nuance": {
+      "ja": "会議やプロジェクトで、調査や作業の範囲が目的や期限に対して広すぎるときに使う。Let’s not boil the ocean. は「最初から全部やろうとせず、必要なところに絞ろう」という提案。ひとつの小さな疑問に答えるのに、膨大な作業をしようとする場合にも当てはまる。",
+      "en": "Common in project discussions when the proposed scope is too broad for the goal, resources, or time available. Let’s not boil the ocean often introduces a narrower first step. It can also criticize a great deal of work aimed at answering a relatively small question."
+    },
+    "minimal": {
+      "en": [
+        "bite off more than you can chew: Take on more than you can handle. Boil the ocean often criticizes the scope of a particular task or approach.",
+        "overcomplicate: Make something more complicated than necessary. Boil the ocean emphasizes the scale or effort involved.",
+        "reinvent the wheel: Waste effort recreating something that already exists. Boil the ocean concerns excessive scope, whether or not a solution already exists."
+      ],
+      "ja": [
+        "bite off more than you can chew：自分の手に余る仕事を引き受ける。boil the ocean は個々の作業や方法の範囲が広すぎると指摘するときに使いやすい。",
+        "overcomplicate：必要以上に複雑にする。boil the ocean は作業範囲や労力の大きさに焦点がある。",
+        "reinvent the wheel：すでにあるものを一から作って労力を無駄にする。boil the ocean は既存の解決策の有無にかかわらず、手を広げすぎることを指す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "try to do too much at once",
+        "note": {
+          "ja": "一度にあまりに多くのことをしようとする。",
+          "en": "A plain way to describe an overly broad approach."
+        }
+      },
+      {
+        "word": "overreach",
+        "note": {
+          "ja": "自分の能力や使える資源の範囲を超えて手を広げる。",
+          "en": "To attempt more than your ability or resources allow."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "直訳は「海を沸騰させる」。海全体を沸かすという途方もない作業を、手に負えないほど大がかりな取り組みにたとえた表現。誰が最初に使ったかははっきりしていない。",
+      "en": "Literally, to bring the ocean to a boil. The image of an impossibly large undertaking became a metaphor for excessive scope or effort. The original coiner is uncertain."
+    },
+    "equivalents": {
+      "de": "sich zu viel auf einmal vornehmen",
+      "it": "voler fare troppo tutto in una volta",
+      "fr": "vouloir en faire trop d’un coup",
+      "es": "querer abarcar demasiado de una vez"
+    },
+    "collocations": {
+      "en": [
+        "let’s not boil the ocean",
+        "try to boil the ocean",
+        "avoid boiling the ocean"
+      ],
+      "ja": [
+        "let’s not boil the ocean — 最初から全部やろうとせず、範囲を絞ろう",
+        "try to boil the ocean — 手に負えないほど手を広げようとする",
+        "avoid boiling the ocean — 必要以上に範囲を広げるのを避ける"
+      ]
+    },
+    "example": {
+      "en": [
+        "Let’s not boil the ocean. For the pilot, we only need to fix the sign-up flow.",
+        "We’re trying to boil the ocean by reviewing ten years of requests just to find out why last month’s response times went up.",
+        "The team avoided boiling the ocean by testing the new process with one client before rolling it out to everyone."
+      ],
+      "ja": [
+        "Let’s not boil the ocean. For the pilot, we only need to fix the sign-up flow. — 最初から全部やろうとするのはやめよう。試験運用に向けては、登録の流れを直すだけでいい。",
+        "We’re trying to boil the ocean by reviewing ten years of requests just to find out why last month’s response times went up. — 先月の対応時間が延びた理由を調べるだけなのに、10年分の依頼を見直すのは手を広げすぎだ。",
+        "The team avoided boiling the ocean by testing the new process with one client before rolling it out to everyone. — チームは新しい手順を全顧客に展開する前に、まず顧客1社で試して、作業が大がかりになりすぎるのを避けた。"
+      ]
+    }
   }
 ]
