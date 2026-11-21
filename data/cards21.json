@@ -7814,5 +7814,111 @@
         "The team made one final Hail Mary attempt to save the deal before the deadline. — チームは期限までに取引を成立させようと、一か八かの最後の手を打った。"
       ]
     }
+  },
+  {
+    "id": "herding-cats",
+    "sid": "2026-01827",
+    "word": "herding cats",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "idiom",
+      "informal",
+      "coordination",
+      "teams"
+    ],
+    "grammar": {
+      "pos": "idiom / gerund phrase",
+      "forms": {
+        "base": "herd cats",
+        "common": "like herding cats",
+        "past": "herded cats",
+        "presentParticiple": "herding cats"
+      },
+      "patterns": [
+        "it’s like herding cats",
+        "trying to + verb + is like herding cats",
+        "feel like herding cats"
+      ],
+      "usage": {
+        "comparison": "The common form is a comparison: Organizing the trip was like herding cats. In informal conversation, I spent the afternoon herding cats can also refer to coordinating people or tasks.",
+        "number": "Cats is normally plural and has no article in the idiom."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈhɝː.dɪŋ kæts/",
+        "uk": "/ˈhɜː.dɪŋ kæts/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(informal, usually in like herding cats) exceptionally difficult to coordinate because the people involved have different plans or act independently",
+        "(more broadly) trying to bring many hard-to-control elements together"
+      ],
+      "ja": [
+        "（口語、通常 like herding cats の形で）各人が思い思いに動くため、足並みをそろえるのがひどく難しいこと",
+        "（広く）ばらばらに動くものを一つにまとめようとすること"
+      ]
+    },
+    "nuance": {
+      "ja": "まとめ役が苦労している様子を、猫を一つの群れにしようとする姿に重ねた冗談めいた表現。参加者がわざと非協力的でなくても、予定や優先事項がばらばらなら使える。会議の日程調整や、複数のチームが同じ方針で動けるようにする場面によく合う。",
+      "en": "The idiom makes light of the organizer’s frustration. It fits situations where people have different schedules or priorities, even if they are all willing to help. It can describe arranging a meeting or getting several teams to work toward the same goal."
+    },
+    "minimal": {
+      "en": [
+        "juggle competing priorities: Balance several demands on your own time or resources. Herding cats highlights the difficulty of getting people or moving parts to act together.",
+        "get everyone on the same page: Bring people to a common understanding. Herding cats describes how hard the coordination can be.",
+        "an uphill battle: Any task that meets persistent difficulty or resistance. Herding cats points more specifically to the challenge of coordination."
+      ],
+      "ja": [
+        "juggle competing priorities：優先事項が競合するなかで、自分の時間や資源をやりくりする。herding cats は人や作業の足並みをそろえる難しさを表す。",
+        "get everyone on the same page：全員の認識をそろえる。herding cats は、そこに至るまでの調整の大変さを表す。",
+        "an uphill battle：困難や抵抗が続く取り組み全般。herding cats は、ばらばらに動く人や物事をまとめる難しさに焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "be hard to coordinate",
+        "note": {
+          "ja": "調整が難しいことを直接表す。",
+          "en": "A neutral way to describe a coordination problem."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "herd はここでは「動物を群れにまとめて移動させる」。羊の群れを誘導するように、思い思いに動く猫を一方向へまとめようとする難しさを、人や物事の調整にたとえた表現。初出ははっきりしていない。",
+      "en": "Herd here means to gather and move animals as a group. The idiom imagines trying to guide independently moving cats as one might guide sheep. Its first use is uncertain."
+    },
+    "equivalents": {
+      "de": "schwer unter einen Hut zu bringen sein",
+      "it": "essere difficilissimo da coordinare",
+      "fr": "être très difficile à coordonner",
+      "es": "ser muy difícil de coordinar"
+    },
+    "collocations": {
+      "en": [
+        "it’s like herding cats",
+        "feel like herding cats",
+        "trying to get everyone together is like herding cats"
+      ],
+      "ja": [
+        "it’s like herding cats — みんなをまとめるのは至難の業だ",
+        "feel like herding cats — ばらばらの人たちをまとめるようで大変だ",
+        "trying to get everyone together is like herding cats — 全員に集まってもらうのは至難の業だ"
+      ]
+    },
+    "example": {
+      "en": [
+        "Trying to find a meeting time that works for six people in three time zones is like herding cats.",
+        "Everyone wants to help, but getting the volunteers to show up at the same time is like herding cats.",
+        "Getting all four teams to use the same file naming convention felt like herding cats."
+      ],
+      "ja": [
+        "Trying to find a meeting time that works for six people in three time zones is like herding cats. — 三つのタイムゾーンにいる6人全員が出られる会議の時間を探すのは、至難の業だ。",
+        "Everyone wants to help, but getting the volunteers to show up at the same time is like herding cats. — みんな手伝う気はあるけれど、ボランティアに同じ時間に集まってもらうのは本当に大変だ。",
+        "Getting all four teams to use the same file naming convention felt like herding cats. — 4チームすべてにファイル名の付け方をそろえてもらうのは、みんなが好き勝手に動くので一苦労だった。"
+      ]
+    }
   }
 ]
