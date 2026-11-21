@@ -2241,5 +2241,112 @@
         "She keeps a few chickens, but the farm next door raises several kinds of poultry. — 彼女はニワトリを数羽飼っているが、隣の農場では数種類の家禽を飼育している。"
       ]
     }
+  },
+  {
+    "id": "erudite",
+    "sid": "2026-01865",
+    "word": "erudite",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "adjective",
+      "formal",
+      "knowledge"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "erudite",
+        "noun": "erudition",
+        "adverb": "eruditely"
+      },
+      "patterns": [
+        "an erudite + person / work",
+        "be erudite",
+        "an erudite account of + topic"
+      ],
+      "usage": {
+        "register": "A formal adjective used for people and for works or remarks that display deep learning."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈer.jə.daɪt/",
+        "uk": "/ˈer.ʊ.daɪt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "having or showing extensive knowledge acquired through study or reading"
+      ],
+      "ja": [
+        "博識な、学識の深い。文章や講演については、深い学識がうかがえる"
+      ]
+    },
+    "nuance": {
+      "en": "Erudite typically expresses admiration for knowledge gained through study. It works for a person as well as for a work that draws on deep learning. Whether that learning makes the work difficult depends on the context: erudite yet accessible is a natural combination.",
+      "ja": "読書や研究で身につけた深い学識を評価する、やや硬い語。人だけでなく、豊かな知識に裏づけられた本や講演にも使える。学識の深さと読みやすさは両立するので、erudite yet accessible（学識豊かでありながら分かりやすい）とも言える。"
+    },
+    "minimal": {
+      "en": [
+        "learned: A close synonym for deep learning. The adjective is pronounced /ˈlɜː.nɪd/ in British English.",
+        "knowledgeable: A broader term for knowing a lot about a subject, including through practical experience.",
+        "scholarly: Often describes work that uses academic methods or conventions. Erudite emphasizes the depth or breadth of learning on display.",
+        "pedantic: Critical of excessive attention to small details or rules. Erudite is usually approving."
+      ],
+      "ja": [
+        "learned：深い学識を表す近い類義語。形容詞では二音節で発音する。",
+        "knowledgeable：ある分野に詳しいことを表す広い語。実務経験で身につけた知識にもよく使う。",
+        "scholarly：学術的な方法や形式を備えた文章・研究にも使う。erudite はそこに表れた学識の深さや幅広さを強調する。",
+        "pedantic：細かな規則や知識にこだわりすぎることを批判する語。erudite は通常、学識を評価する語。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "learned",
+        "note": {
+          "en": "Especially close when describing a person of deep learning.",
+          "ja": "学識の深い人を形容する場合に特に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin eruditus, the past participle of erudire ‘to educate’. The verb combines ex- ‘out’ with rudis ‘rough, untrained’, the source of English rude.",
+      "ja": "ラテン語 erudire（教育する）の過去分詞 eruditus に由来する。erudire は ex-（外へ）と rudis（粗野な、未熟な）からなり、rudis は rude の語源でもある。"
+    },
+    "equivalents": {
+      "de": "gelehrt / belesen",
+      "it": "erudito / dotto",
+      "fr": "érudit / savant",
+      "es": "erudito / docto"
+    },
+    "collocations": {
+      "en": [
+        "an erudite scholar",
+        "an erudite essay",
+        "an erudite account of the period",
+        "an erudite discussion",
+        "erudite yet accessible"
+      ],
+      "ja": [
+        "an erudite scholar — 博識な学者",
+        "an erudite essay — 学識の深さがうかがえる論考",
+        "an erudite account of the period — その時代についての学識豊かな解説",
+        "an erudite discussion — 深い学識に裏づけられた議論",
+        "erudite yet accessible — 学識豊かでありながら分かりやすい"
+      ]
+    },
+    "example": {
+      "en": [
+        "Her book on medieval trade is erudite yet accessible, even to readers who know little about the period.",
+        "He was an erudite historian who could move easily from medieval maps to early travel diaries.",
+        "The reviewer praised the essay for its erudite discussion of the novel’s historical context."
+      ],
+      "ja": [
+        "Her book on medieval trade is erudite yet accessible, even to readers who know little about the period. — 彼女の中世の交易に関する本は、深い学識に裏づけられていながら、その時代に詳しくない読者にも分かりやすい。",
+        "He was an erudite historian who could move easily from medieval maps to early travel diaries. — 彼は博識な歴史家で、中世の地図から初期の旅行日記まで、どの話題にも通じていた。",
+        "The reviewer praised the essay for its erudite discussion of the novel’s historical context. — 書評家は、その論考が小説の歴史的背景を深い学識に基づいて論じている点を評価した。"
+      ]
+    }
   }
 ]
