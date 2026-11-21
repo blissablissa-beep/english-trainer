@@ -6652,5 +6652,126 @@
         "We can’t undo what happened, but we can apologize and try to wipe the slate clean. — 起きたことは取り消せないけれど、謝って、わだかまりを解くことはできる。"
       ]
     }
+  },
+  {
+    "id": "steal-someones-thunder",
+    "sid": "2026-01817",
+    "word": "steal someone's thunder",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "idiom",
+      "verb phrase",
+      "attention",
+      "recognition",
+      "announcements"
+    ],
+    "grammar": {
+      "pos": "idiomatic verb phrase",
+      "forms": {
+        "base": "steal someone’s thunder",
+        "thirdPerson": "steals someone’s thunder",
+        "past": "stole someone’s thunder",
+        "pastParticiple": "stolen someone’s thunder",
+        "presentParticiple": "stealing someone’s thunder"
+      },
+      "patterns": [
+        "steal + possessive + thunder",
+        "steal someone’s thunder by + -ing",
+        "I don’t want to steal your thunder"
+      ],
+      "usage": {
+        "possessive": "Use a possessive such as my, her, our, or the team’s. Thunder stays singular in the idiom.",
+        "intent": "The attention can shift deliberately or by accident. An event can also be the subject."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/stiːl ˈsʌm.wʌnz ˈθʌn.dɚ/",
+        "uk": "/stiːl ˈsʌm.wʌnz ˈθʌn.də/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to take attention or credit away from someone who was about to receive it",
+        "to lessen the impact of someone’s announcement or idea by revealing it first or presenting it as your own"
+      ],
+      "ja": [
+        "人の見せ場を奪う、人に向くはずだった注目や称賛をさらう",
+        "人の発表を先取りしたり、アイデアを自分のものとして披露したりして、その人の見せ場を奪う"
+      ]
+    },
+    "nuance": {
+      "ja": "誰かが注目されるはずだった場面で、別の人や出来事に注目が移ることを表す。先に知らせを発表する場合にも、別のニュースが偶然重なって話題をさらう場合にも使える。I don’t want to steal your thunder. は、相手に自分の口から発表してもらいたいときの気遣いとして使える。",
+      "en": "The idiom suggests that someone loses a moment of attention or recognition they were about to have. It may involve a deliberate effort to get in first or a coincidental event that draws attention away. I don’t want to steal your thunder can be a tactful way to leave someone else’s news for them to share."
+    },
+    "minimal": {
+      "en": [
+        "steal the show: Attract the most attention or praise at an event. Steal someone’s thunder identifies the person whose moment is diminished.",
+        "steal the spotlight: Draw attention to yourself or away from someone else. Steal someone’s thunder often involves a specific announcement or achievement losing its impact.",
+        "upstage someone: Overshadow someone in a performance or social situation. Steal someone’s thunder often suggests getting in before a planned reveal.",
+        "take credit for someone’s work: Claim recognition for work another person did. Steal someone’s thunder also covers situations where nobody claims authorship, such as announcing someone’s news before they can."
+      ],
+      "ja": [
+        "steal the show：その場でいちばん注目や称賛を集める。steal someone’s thunder は誰の見せ場が奪われたかを示す。",
+        "steal the spotlight：自分に注目を集めたり、注目を他の人からそらしたりする。steal someone’s thunder は特定の発表や成果のインパクトが薄れる場面によく合う。",
+        "upstage someone：舞台や人前で相手をかすませる。steal someone’s thunder は、予定されていた発表の先を越す場合にもよく使う。",
+        "take credit for someone’s work：他人の仕事を自分の手柄にする。steal someone’s thunder は、本人に先んじてニュースを明かす場合にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "upstage someone",
+        "note": {
+          "ja": "人より目立ってその人をかすませる。",
+          "en": "To draw attention away from someone by overshadowing them."
+        }
+      },
+      {
+        "word": "preempt someone’s announcement",
+        "note": {
+          "ja": "本人より先に発表する、発表を先取りする。",
+          "en": "To get ahead of an announcement someone was planning to make."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "18世紀初頭の英国の劇作家ジョン・デニスにまつわる逸話に由来するとされる。自作の劇のために雷鳴の効果音を工夫したところ、打ち切り後に同じ劇場の別の演目でその効果音が使われ、雷鳴を取られたと抗議したという。",
+      "en": "Traditionally traced to a story about the English playwright John Dennis in the early eighteenth century. After his play closed, he reportedly heard a thunder effect he had devised for it in another production and protested that his thunder had been taken."
+    },
+    "equivalents": {
+      "de": "jemandem die Schau stehlen / jemandem mit einer Ankündigung zuvorkommen",
+      "it": "rubare la scena a qualcuno / anticipare l’annuncio di qualcuno",
+      "fr": "voler la vedette à quelqu’un / devancer son annonce",
+      "es": "robarle el protagonismo a alguien / adelantarse a su anuncio"
+    },
+    "collocations": {
+      "en": [
+        "steal my thunder",
+        "accidentally steal someone’s thunder",
+        "steal someone’s thunder by announcing the news first",
+        "I don’t want to steal your thunder."
+      ],
+      "ja": [
+        "steal my thunder — 私の見せ場を奪う",
+        "accidentally steal someone’s thunder — うっかり人の見せ場を奪う",
+        "steal someone’s thunder by announcing the news first — 先に知らせを発表して本人の見せ場を奪う",
+        "I don’t want to steal your thunder. — あなたが発表する機会を奪いたくない。"
+      ]
+    },
+    "example": {
+      "en": [
+        "I don’t want to steal your thunder. Why don’t you tell everyone the good news?",
+        "I was about to tell our parents I’d got the job, but my brother stole my thunder by blurting it out first.",
+        "The unexpected election announcement stole the charity’s thunder on the day it launched its campaign.",
+        "My colleague stole my thunder by presenting my idea just before I was due to speak."
+      ],
+      "ja": [
+        "I don’t want to steal your thunder. Why don’t you tell everyone the good news? — せっかくだから、みんなにはあなたの口からそのうれしい知らせを伝えたら？",
+        "I was about to tell our parents I’d got the job, but my brother stole my thunder by blurting it out first. — 採用が決まったことを両親に伝えようとしたら、兄が先に口を滑らせてしまい、私の出番がなくなった。",
+        "The unexpected election announcement stole the charity’s thunder on the day it launched its campaign. — 慈善団体がキャンペーンを始めたその日、予想外の選挙の発表に話題をさらわれた。",
+        "My colleague stole my thunder by presenting my idea just before I was due to speak. — 私が話す直前に同僚が私のアイデアを発表して、見せ場を横取りした。"
+      ]
+    }
   }
 ]
