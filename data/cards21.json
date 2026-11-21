@@ -9656,5 +9656,120 @@
         "Let’s revisit the proposal once things quiet down after the launch. — 公開後の忙しさがひと段落したら、その提案を改めて検討しよう。"
       ]
     }
+  },
+  {
+    "id": "indisposed",
+    "sid": "2026-01843",
+    "word": "indisposed",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "adjective",
+      "formal",
+      "health",
+      "availability",
+      "euphemism"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "patterns": [
+        "be / feel indisposed",
+        "be indisposed this morning",
+        "be temporarily indisposed",
+        "be indisposed to + verb (rare, formal)"
+      ],
+      "usage": {
+        "position": "Usually used after a linking verb such as be or feel, as in She’s feeling indisposed.",
+        "rare": "In the rarer construction indisposed to do something, it means disinclined or unwilling. Without the to-infinitive, the usual reading is unwell or temporarily unavailable."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌɪn.dɪˈspoʊzd/",
+        "uk": "/ˌɪn.dɪˈspəʊzd/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(formal) feeling unwell, usually temporarily",
+        "(formal, euphemistic) temporarily unable to see someone, speak, or attend, with the reason left unstated",
+        "(rare, formal, indisposed to do something) disinclined or unwilling to do it"
+      ],
+      "ja": [
+        "（改まった表現）体調がすぐれない、具合が悪い",
+        "（改まった婉曲表現）理由を明かさずに、いまは面会・応対・出席ができない",
+        "（まれ・改まった表現、indisposed to do）〜する気がない、気が進まない"
+      ]
+    },
+    "nuance": {
+      "ja": "電話や受付で She’s indisposed at the moment. と言うと、「ただいま応対できません」と事情をぼかせる。体調不良をほのめかすことがあるが、具体的な理由は聞き手には分からない。自分の体調については I’m feeling a little indisposed. のように使え、改まった響きがある。",
+      "en": "She’s indisposed at the moment is a tactful way to say someone cannot come to the phone or see a visitor. It may hint at illness while leaving the reason private. I’m feeling a little indisposed is a formal way to describe feeling unwell."
+    },
+    "minimal": {
+      "en": [
+        "under the weather: An informal way to say you feel slightly unwell. Indisposed is more formal and can also politely signal unavailability.",
+        "unavailable: Directly states that someone cannot be reached or attend. Indisposed sounds more discreet and may suggest illness.",
+        "disinclined to do something: A more familiar formal expression for being reluctant. This overlaps with the rare indisposed to construction."
+      ],
+      "ja": [
+        "under the weather：少し体調が悪いことを伝えるくだけた表現。indisposed は改まった語で、応対できないことを婉曲に伝える用法もある。",
+        "unavailable：連絡がつかない、出席できないと直接伝える。indisposed は事情をぼかして伝え、体調不良をほのめかす場合もある。",
+        "disinclined to do something：〜する気が進まない。まれな indisposed to の用法に近く、この意味ではより一般的な言い方。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "unwell",
+        "note": {
+          "ja": "体調がすぐれないことを直接述べる。",
+          "en": "A direct description of feeling ill."
+        }
+      },
+      {
+        "word": "unable to attend",
+        "note": {
+          "ja": "出席できないことを示す。理由を述べずに使える。",
+          "en": "States that someone cannot attend while leaving the reason open."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "中英語では「準備ができていない」「整っていない」の意味で使われた。否定の in- と disposed からできたか、後期ラテン語 indispositus「整っていない」に由来するとされる。「体調がすぐれない」という現代に通じる用法は16世紀末に見られる。",
+      "en": "Early English senses included being unprepared or out of order. The word may have been formed from negative in- and disposed or borrowed from Late Latin indispositus, meaning out of order. The sense of feeling unwell is attested by the late sixteenth century."
+    },
+    "equivalents": {
+      "de": "unpässlich / momentan nicht zu sprechen",
+      "it": "indisposto / al momento non disponibile",
+      "fr": "indisposé / momentanément indisponible",
+      "es": "indispuesto / no disponible en este momento"
+    },
+    "collocations": {
+      "en": [
+        "feel a little indisposed",
+        "be indisposed at the moment",
+        "be indisposed and unable to attend",
+        "be indisposed to compromise"
+      ],
+      "ja": [
+        "feel a little indisposed — 少し体調がすぐれない",
+        "be indisposed at the moment — ただいま応対できない",
+        "be indisposed and unable to attend — 体調がすぐれず出席できない",
+        "be indisposed to compromise — 妥協する気がない（まれ）"
+      ]
+    },
+    "example": {
+      "en": [
+        "I’m feeling a little indisposed this morning, so I’ll join the meeting from home.",
+        "Ms Patel is indisposed at the moment. May I take a message?",
+        "The pianist was indisposed, so a colleague performed in her place.",
+        "The board seemed indisposed to reconsider its decision."
+      ],
+      "ja": [
+        "I’m feeling a little indisposed this morning, so I’ll join the meeting from home. — 今朝は少し体調がすぐれないので、自宅から会議に参加します。",
+        "Ms Patel is indisposed at the moment. May I take a message? — パテルはただいま電話に出られません。ご伝言を承りましょうか。",
+        "The pianist was indisposed, so a colleague performed in her place. — ピアニストは体調がすぐれず、代わりに同僚が演奏した。",
+        "The board seemed indisposed to reconsider its decision. — 取締役会には決定を見直す気がないように見えた。（まれな用法）"
+      ]
+    }
   }
 ]
