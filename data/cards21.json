@@ -5206,5 +5206,144 @@
         "Don’t spend all your energy trying to fix everything at once. — 一度に全部解決しようとして、エネルギーを使い果たさないで。"
       ]
     }
+  },
+  {
+    "id": "question",
+    "sid": "2026-01805",
+    "word": "question",
+    "level": "A2",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "verb",
+      "communication",
+      "discussion"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "countable in the senses of a question or an issue",
+      "forms": {
+        "base": "question",
+        "plural": "questions",
+        "thirdPerson": "questions",
+        "past": "questioned",
+        "pastParticiple": "questioned",
+        "presentParticiple": "questioning"
+      },
+      "patterns": [
+        "ask someone a question about something",
+        "answer a question",
+        "the question of whether + clause",
+        "question someone about something",
+        "question a claim / decision",
+        "question whether + clause"
+      ],
+      "usage": {
+        "noun": "Say ask a question for the everyday act of asking. In the question of whether to appeal, question means an issue to be decided.",
+        "verb": "Question someone means to ask them questions, often formally or persistently. Question something, or question whether something is true, means to express doubt or examine it critically."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈkwes.tʃən/",
+        "uk": "/ˈkwes.tʃən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(noun) something you ask in order to get information or an answer",
+        "(noun) an issue or point to be discussed or decided",
+        "(verb) to ask someone questions, often in an official or serious setting",
+        "(verb) to doubt or examine the truth, value, or soundness of something"
+      ],
+      "ja": [
+        "（名詞）質問、問い、設問",
+        "（名詞）論点、検討すべき問題",
+        "（動詞）人に質問する、事情を聴く、問いただす",
+        "（動詞）真偽・妥当性などを疑問視する、吟味する"
+      ]
+    },
+    "nuance": {
+      "ja": "ask a question は日常の「質問する」。question a witness では人を目的語に取り、証人に事情を聴いたり尋問したりする。question an assumption では前提の妥当性を吟味する。名詞の the question of whether to appeal は「不服申立てをするかどうかという論点」を表す。out of the question は選択肢としてあり得ないという強い表現。",
+      "en": "Ask a question is the everyday expression for requesting an answer. With a person as its object, question often suggests formal or sustained questioning, as in question a witness. With a claim or assumption as its object, it expresses scrutiny or doubt. The question of whether to appeal names an issue to be decided. Out of the question rules an option out."
+    },
+    "minimal": {
+      "en": [
+        "ask: A broad verb used for requests and ordinary questions. I asked her where she was going. I questioned her about where she was going sounds more probing.",
+        "issue: A topic, difficulty, or concern to address. Question can frame it as a specific point to resolve: The issue is funding. The question is how to raise the money.",
+        "doubt: Expresses uncertainty or disbelief. Question can suggest actively examining the basis for a claim: Several reviewers questioned the study’s assumptions.",
+        "interrogate: A stronger verb for intensive, often official questioning. Question has a wider range and can also take a claim or decision as its object."
+      ],
+      "ja": [
+        "ask：日常的に尋ねたり頼んだりするときに広く使う。I asked her where she was going は単に行き先を尋ねたことを表し、I questioned her about where she was going は詳しく問いただした響きがある。",
+        "issue：対処や議論が必要な問題・話題。The issue is funding. は資金が課題だと示し、The question is how to raise the money. はどう調達するかという具体的な問いを立てる。",
+        "doubt：真偽などを疑う気持ちを表す。question は、主張や前提の根拠を積極的に吟味する意味でも使える。",
+        "interrogate：集中的に問いただす、尋問する。question はより広く、主張や判断を目的語に取って「疑問視する」とも言える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "inquiry",
+        "note": {
+          "ja": "問い合わせ、調査。情報を求める行為や調査全体を指すこともある。",
+          "en": "A request for information or a broader investigation."
+        }
+      },
+      {
+        "word": "challenge",
+        "note": {
+          "ja": "主張や判断などの正しさに異議を唱える。",
+          "en": "To openly dispute a claim, judgment, or assumption."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "中英語 questioun は、アングロ・フランス語 questiun や古フランス語 question を経由し、ラテン語 quaestiō「探求、調査、尋問」にさかのぼる。語根の quaerere は「探す、尋ねる」を意味する。",
+      "en": "Middle English questioun came through Anglo-French and Old French forms and goes back to Latin quaestiō, meaning inquiry or investigation, from quaerere, meaning to seek or ask."
+    },
+    "equivalents": {
+      "de": "Frage / befragen / infrage stellen",
+      "it": "domanda / interrogare / mettere in dubbio",
+      "fr": "question / interroger / remettre en question",
+      "es": "pregunta / interrogar / poner en duda"
+    },
+    "collocations": {
+      "en": [
+        "ask a follow-up question",
+        "raise a question",
+        "an open question",
+        "the question of whether to proceed",
+        "question a witness",
+        "question an assumption",
+        "call something into question",
+        "out of the question"
+      ],
+      "ja": [
+        "ask a follow-up question — 追加で質問する",
+        "raise a question — 疑問や論点を提起する",
+        "an open question — 結論の出ていない問題",
+        "the question of whether to proceed — 先に進むかどうかという論点",
+        "question a witness — 証人に質問する、証人を尋問する",
+        "question an assumption — 前提を疑って検討する",
+        "call something into question — 〜に疑いを投げかける",
+        "out of the question — 到底あり得ない"
+      ]
+    },
+    "example": {
+      "en": [
+        "Can I ask you a quick question about the schedule?",
+        "The question is whether we have enough time to revise the draft.",
+        "The police questioned two witnesses about what they had seen.",
+        "Several reviewers questioned whether the evidence supported the conclusion.",
+        "Without the client’s approval, filing today is out of the question."
+      ],
+      "ja": [
+        "Can I ask you a quick question about the schedule? — 日程について一つだけ聞いてもいいですか。",
+        "The question is whether we have enough time to revise the draft. — 問題は、草稿を修正する時間が十分にあるかどうかだ。",
+        "The police questioned two witnesses about what they had seen. — 警察は目撃者2人に、何を見たかを聞いた。",
+        "Several reviewers questioned whether the evidence supported the conclusion. — 査読者のうち数人は、その証拠で結論を裏づけられるのか疑問を呈した。",
+        "Without the client’s approval, filing today is out of the question. — 依頼人の承認がなければ、今日出願することは到底できない。"
+      ]
+    }
   }
 ]
