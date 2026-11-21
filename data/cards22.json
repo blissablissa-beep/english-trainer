@@ -246,5 +246,130 @@
         "A shorter review period comes with the risk of missing small errors in the draft. — 確認期間を短くすると、草稿の細かなミスを見落とすおそれがある。"
       ]
     }
+  },
+  {
+    "id": "ordinary",
+    "sid": "2026-01848",
+    "word": "ordinary",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "everyday",
+      "evaluation"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "ordinary",
+        "adverb": "ordinarily",
+        "antonym": "extraordinary"
+      },
+      "patterns": [
+        "an ordinary + singular noun",
+        "perfectly / quite ordinary",
+        "no ordinary + noun",
+        "nothing out of the ordinary",
+        "in the ordinary course of + noun"
+      ],
+      "usage": {
+        "article": "Ordinary starts with a vowel sound, so use an before a singular countable noun: an ordinary day.",
+        "idioms": "No ordinary X emphasizes that X is exceptional. Out of the ordinary means unusual. In the ordinary course of business means as part of regular business operations."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈɔːr.dən.er.i/",
+        "uk": "/ˈɔː.dən.ər.i/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "usual or familiar in character, without any special or unusual features",
+        "having no special status or distinction, especially of people or members of a group"
+      ],
+      "ja": [
+        "ごく普通の、ありふれた、特に変わったところのない",
+        "（人や集団について）特別な地位や名声を持たない、一般の"
+      ]
+    },
+    "nuance": {
+      "en": "Ordinary is often neutral, as in an ordinary working day or ordinary people. With things such as a film, a meal, or a performance, it can sound mildly dismissive: nothing stood out. No ordinary performance reverses that implication and suggests something exceptional.",
+      "ja": "an ordinary working day は「ごく普通の仕事の日」、ordinary people は「一般の人々」で、どちらも中立的に使える。映画や料理について It was pretty ordinary. と言うと、「これといって印象に残らなかった」と控えめに評価を下げる響きが出る。no ordinary performance なら「並の公演ではない」と特別さを強調する。"
+    },
+    "minimal": {
+      "en": [
+        "normal: Fits an expected standard, range, or state, as in a normal test result. Ordinary often emphasizes a lack of special features.",
+        "usual: Happens regularly for a particular person or situation, as in my usual seat. An ordinary seat describes an unremarkable seat.",
+        "common: Widespread or frequent, as in a common mistake. Ordinary describes something’s character as familiar or unremarkable.",
+        "average: Can refer to a calculated mean or a middle level of quality. Ordinary often means simply unremarkable."
+      ],
+      "ja": [
+        "normal：予想される状態や範囲に収まる。a normal test result は「正常な検査結果」。ordinary は特別さがないことに焦点がある。",
+        "usual：人や状況ごとの「いつもの」。my usual seat は「いつもの席」、an ordinary seat は「ごく普通の席」。",
+        "common：「よく見られる・頻繁に起こる」。a common mistake は「よくあるミス」。ordinary は目立つ特徴のない普通さを表す。",
+        "average：計算上の平均や、中くらいの水準。ordinary は特に目立つものがないという意味でも使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "unremarkable",
+        "note": {
+          "en": "Having nothing that attracts notice.",
+          "ja": "特に目立つところがない。"
+        }
+      },
+      {
+        "word": "everyday",
+        "note": {
+          "en": "Typical of daily life or used regularly.",
+          "ja": "日常の、普段使いの。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Middle English ordinarie came through Old French and also draws directly on Latin ordinarius, meaning regular or customary, from ordo, ‘order’ or ‘arrangement.’ The idea of following the usual order developed into the sense of being unexceptional.",
+      "ja": "中英語 ordinarie は古フランス語を経由し、ラテン語 ordinarius「定まった順序に従う、通例の」にさかのぼる。語根は ordo「順序、配列」。通常の順序や慣行に沿うという意味から、特別なところがないという意味にも広がった。"
+    },
+    "equivalents": {
+      "de": "gewöhnlich / ganz normal",
+      "it": "comune / ordinario",
+      "fr": "ordinaire / banal",
+      "es": "corriente / común"
+    },
+    "collocations": {
+      "en": [
+        "an ordinary day",
+        "ordinary people",
+        "ordinary circumstances",
+        "nothing out of the ordinary",
+        "no ordinary task",
+        "in the ordinary course of business"
+      ],
+      "ja": [
+        "an ordinary day — ごく普通の一日",
+        "ordinary people — 一般の人々",
+        "ordinary circumstances — 通常の状況",
+        "nothing out of the ordinary — 特に変わったことはない",
+        "no ordinary task — 並の仕事ではない",
+        "in the ordinary course of business — 通常の業務の過程で"
+      ]
+    },
+    "example": {
+      "en": [
+        "It started out as an ordinary Monday, until the power went out across the neighborhood.",
+        "The guide explains how changes to the rules affect ordinary people.",
+        "I checked the latest figures and found nothing out of the ordinary.",
+        "It looked like an ordinary notebook, but it contained all of her original sketches.",
+        "We receive dozens of requests like this in the ordinary course of business."
+      ],
+      "ja": [
+        "It started out as an ordinary Monday, until the power went out across the neighborhood. — ごく普通の月曜日の始まりだったが、近所一帯で停電が起きた。",
+        "The guide explains how changes to the rules affect ordinary people. — そのガイドは、規則の変更が一般の人々にどう影響するかを説明している。",
+        "I checked the latest figures and found nothing out of the ordinary. — 最新の数字を確認したが、特に変わった点はなかった。",
+        "It looked like an ordinary notebook, but it contained all of her original sketches. — ごく普通のノートに見えたが、彼女のスケッチの原画がすべて収められていた。",
+        "We receive dozens of requests like this in the ordinary course of business. — 通常の業務の中で、このような依頼を何十件も受けます。"
+      ]
+    }
   }
 ]
