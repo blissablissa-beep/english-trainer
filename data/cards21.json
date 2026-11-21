@@ -8855,5 +8855,111 @@
         "Leftover pizza is better cold, and I’ll die on this hill. — 残ったピザは冷たいままのほうがおいしい。この点だけは絶対に譲らない。"
       ]
     }
+  },
+  {
+    "id": "peel-the-onion",
+    "sid": "2026-01836",
+    "word": "peel the onion",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "idiom",
+      "verb phrase",
+      "investigation",
+      "analysis"
+    ],
+    "grammar": {
+      "pos": "idiomatic verb phrase",
+      "forms": {
+        "base": "peel the onion",
+        "past": "peeled the onion",
+        "pastParticiple": "peeled the onion",
+        "presentParticiple": "peeling the onion",
+        "variant": "peel back the layers of the onion"
+      },
+      "patterns": [
+        "start peeling the onion",
+        "keep peeling the onion",
+        "peel back another layer",
+        "peel back the layers of the onion"
+      ],
+      "usage": {
+        "article": "Use the in the usual short form, peel the onion. In the longer form, peel back takes the layers as its object.",
+        "context": "The short phrase can also be a literal cooking instruction. The subject matter makes the figurative reading clear."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/piːl ði ˈʌn.jən/",
+        "uk": "/piːl ði ˈʌn.jən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(figurative) to look into a matter in stages, uncovering details, causes, or assumptions that were hidden at first"
+      ],
+      "ja": [
+        "（比喩）問題や事柄を一段ずつ掘り下げ、最初は見えなかった事情・原因・前提を明らかにする"
+      ]
+    },
+    "nuance": {
+      "ja": "表面に見えている事実を手がかりに、調べるたびに新しい事情が見つかる、という段階的な進み方を表す。不具合の原因調査にも、聞き取りで人の動機を探る場面にも使える。いちばん奥の原因にたどり着いたかどうかは、文脈で決まる。",
+      "en": "The image emphasizes repeated discoveries: each answer reveals another layer to examine. It works for troubleshooting and for exploring people’s motives or assumptions. Whether the inquiry reaches a single root cause depends on the context."
+    },
+    "minimal": {
+      "en": [
+        "dig deeper: Look beyond the first explanation. Peel the onion evokes several stages of discovery.",
+        "drill down into something: Examine finer details, especially in data or a report. Peel the onion often suggests uncovering things that were initially hidden.",
+        "get to the bottom of something: Find out what really happened or what caused a problem. Peel the onion foregrounds the process of uncovering it."
+      ],
+      "ja": [
+        "dig deeper：表面的な説明からさらに掘り下げる。peel the onion は何段階かに分けて事情が見えてくる感じがある。",
+        "drill down into something：データや報告書などをより細かく見る。peel the onion は、最初は見えていなかった事情を順に明らかにする場面に合う。",
+        "get to the bottom of something：真相や原因を突き止める。peel the onion はそこに向かう過程に焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "look beneath the surface",
+        "note": {
+          "ja": "表面に見えることの背後を探る。",
+          "en": "Look beyond what is immediately apparent."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "タマネギの外側から一枚ずつむく動作を、問題の奥にある事情を段階的に明らかにする作業にたとえている。",
+      "en": "The metaphor comes from peeling an onion layer by layer. Each newly exposed layer represents something that was hidden at the previous stage of an inquiry."
+    },
+    "equivalents": {
+      "de": "einer Sache Schicht für Schicht auf den Grund gehen",
+      "it": "indagare strato dopo strato",
+      "fr": "examiner la question couche par couche",
+      "es": "investigar el asunto capa por capa"
+    },
+    "collocations": {
+      "en": [
+        "start peeling the onion",
+        "keep peeling the onion",
+        "peel back another layer"
+      ],
+      "ja": [
+        "start peeling the onion — 問題を段階的に掘り下げ始める",
+        "keep peeling the onion — さらに奥の事情を調べ続ける",
+        "peel back another layer — もう一段掘り下げる"
+      ]
+    },
+    "example": {
+      "en": [
+        "Once we started peeling the onion, we found that the late invoices came from two separate problems.",
+        "The interviews helped us peel back the layers of the onion. What looked like a pricing issue turned out to be about trust.",
+        "Let’s keep peeling the onion. We know where the error showed up, but we still don’t know why it happened."
+      ],
+      "ja": [
+        "Once we started peeling the onion, we found that the late invoices came from two separate problems. — 一つずつ掘り下げてみると、請求書の発行が遅れる原因は二つあり、それぞれ別の問題だと分かった。",
+        "The interviews helped us peel back the layers of the onion. What looked like a pricing issue turned out to be about trust. — 聞き取りを通じて、事情が少しずつ見えてきた。価格の問題に見えたが、実際は信頼の問題だった。",
+        "Let’s keep peeling the onion. We know where the error showed up, but we still don’t know why it happened. — もう少し掘り下げよう。エラーがどこで出たかは分かったが、なぜ起きたかはまだ分からない。"
+      ]
+    }
   }
 ]
