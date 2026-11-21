@@ -2020,5 +2020,116 @@
         "We sledded down the hill until it got dark. — 私たちは暗くなるまで、そりで何度も坂を滑り降りた。"
       ]
     }
+  },
+  {
+    "id": "livestock",
+    "sid": "2026-01863",
+    "word": "livestock",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "farming",
+      "animals"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "collective noun with no regular countable singular or plural",
+      "patterns": [
+        "raise / keep livestock",
+        "a head of livestock",
+        "fifty head of livestock",
+        "a livestock farm"
+      ],
+      "usage": {
+        "counting": "Use an animal or a head of livestock for one animal. Use fifty head of livestock to count fifty animals collectively.",
+        "agreement": "Plural agreement is common when referring to the animals as individuals: The livestock are out in the fields."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈlaɪv.stɑːk/",
+        "uk": "/ˈlaɪv.stɒk/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "animals kept for farming, such as cattle, sheep, goats, and pigs"
+      ],
+      "ja": [
+        "家畜。牛・羊・ヤギ・豚など、農業や畜産のために飼われる動物の総称"
+      ]
+    },
+    "nuance": {
+      "en": "Livestock groups animals by their role in farming. It can cover several species on one farm or all the farm animals in a region. In broad use it can include poultry, while some agricultural classifications list livestock and poultry separately.",
+      "ja": "農場で飼育される動物をひとまとめにする語。農場にいる複数の種類の家畜にも、地域全体の家畜にも使える。広い意味では家禽も含むが、農業統計などの分類では livestock と poultry を別に扱うこともある。"
+    },
+    "minimal": {
+      "en": [
+        "cattle: Cows, bulls, and other bovines raised on farms. Livestock is broader and includes animals such as sheep and pigs.",
+        "poultry: Domesticated birds such as chickens, ducks, and turkeys kept for their meat or eggs.",
+        "farm animals: An everyday phrase for animals kept on a farm. Livestock is common in discussions of farming, trade, and animal health."
+      ],
+      "ja": [
+        "cattle：農場で飼われる牛の総称。livestock は羊や豚も含む、より広い語。",
+        "poultry：肉や卵を得るために飼うニワトリ、アヒル、七面鳥などの家禽。",
+        "farm animals：農場で飼われる動物を指す日常的な表現。livestock は畜産、取引、家畜の衛生管理などの話題でよく使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "farm animals",
+        "note": {
+          "en": "An everyday near-equivalent.",
+          "ja": "日常語での近い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "A compound of live /laɪv/ ‘alive’ and stock in its sense of animals kept on a farm.",
+      "ja": "live /laɪv/（生きている）と、農場で飼育される動物を意味する stock の複合語。"
+    },
+    "equivalents": {
+      "de": "das Vieh / die Nutztiere",
+      "it": "il bestiame",
+      "fr": "le bétail",
+      "es": "el ganado"
+    },
+    "collocations": {
+      "en": [
+        "raise livestock",
+        "graze livestock",
+        "feed the livestock",
+        "livestock farming",
+        "livestock feed",
+        "a livestock market",
+        "livestock losses",
+        "fifty head of livestock"
+      ],
+      "ja": [
+        "raise livestock — 家畜を飼育する",
+        "graze livestock — 家畜を放牧する",
+        "feed the livestock — 家畜に餌をやる",
+        "livestock farming — 畜産",
+        "livestock feed — 家畜用飼料",
+        "a livestock market — 家畜市場",
+        "livestock losses — 家畜の損失",
+        "fifty head of livestock — 家畜50頭"
+      ]
+    },
+    "example": {
+      "en": [
+        "They grow vegetables and raise livestock on the same farm.",
+        "The farmer moved the livestock into the barn before the storm hit.",
+        "The drought drove up the cost of livestock feed.",
+        "The farm keeps about fifty head of livestock, mostly sheep and goats."
+      ],
+      "ja": [
+        "They grow vegetables and raise livestock on the same farm. — 彼らは同じ農場で野菜を育て、家畜も飼育している。",
+        "The farmer moved the livestock into the barn before the storm hit. — 農家の人は嵐が来る前に家畜を畜舎に移した。",
+        "The drought drove up the cost of livestock feed. — 干ばつで家畜用飼料の価格が上がった。",
+        "The farm keeps about fifty head of livestock, mostly sheep and goats. — その農場では家畜を約50頭飼っており、その大半は羊とヤギだ。"
+      ]
+    }
   }
 ]
