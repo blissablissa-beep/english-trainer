@@ -1297,5 +1297,143 @@
         "The pawnbroker offered to lend me $100 against the camera. — 質屋は、そのカメラを担保に100ドル貸せると言った。"
       ]
     }
+  },
+  {
+    "id": "excess",
+    "sid": "2026-01857",
+    "word": "excess",
+    "level": "C1",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "adjective",
+      "quantity",
+      "business",
+      "insurance"
+    ],
+    "grammar": {
+      "pos": "noun / adjective",
+      "countability": "uncountable or singular for an amount; plural excesses for extreme acts or behavior; countable in UK insurance",
+      "forms": {
+        "base": "excess",
+        "plural": "excesses",
+        "relatedAdjective": "excessive",
+        "relatedVerb": "exceed"
+      },
+      "patterns": [
+        "an excess of + noun",
+        "in excess of + amount",
+        "verb + to excess",
+        "excess + noun",
+        "the excesses of + group / period",
+        "pay an excess"
+      ],
+      "usage": {
+        "adjective": "Use excess before a noun: excess baggage, excess capacity. Use excessive when you mean that something goes beyond a reasonable limit: The fees are excessive.",
+        "pronunciation": "The noun can have first- or second-syllable stress in both UK and US English. The adjective has first-syllable stress."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪkˈses/, /ˈek.ses/",
+        "uk": "/ɪkˈses/, /ˈek.ses/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(noun) an amount above what is needed, expected, or permitted",
+        "(adjective) above what is needed or allowed",
+        "(plural noun) acts or behavior that go far beyond what is acceptable",
+        "(UK insurance, noun) the part of a claim that the policyholder has to pay"
+      ],
+      "ja": [
+        "過剰、余り、超過分",
+        "余分な、規定量を超えた（名詞の前に置く）",
+        "行き過ぎた行為、度を越した振る舞い",
+        "（英・保険）免責金額、保険金請求時の契約者の自己負担額"
+      ]
+    },
+    "nuance": {
+      "en": "Excess can point to a surplus or to an amount beyond a set limit. In excess of means more than and is formal. It often appears in reports, contracts, and financial figures and can be neutral. To excess means to an unreasonable degree and typically conveys criticism.",
+      "ja": "excess は必要量を超えた余りや、定められた上限を超えた分を指す。in excess of は「〜を超える」というやや硬い表現で、報告書や契約書などで中立的に数値を示せる。to excess は「度を越して」を意味し、行為への批判を含みやすい。"
+    },
+    "minimal": {
+      "en": [
+        "excess vs. excessive: Excess capacity is spare capacity beyond current needs. Excessive fees are judged unreasonably high.",
+        "excess vs. surplus: Surplus often refers to what is available beyond demand, or a positive balance. Excess can also suggest too much or a limit being exceeded.",
+        "in excess of vs. at least: In excess of 100 excludes 100. At least 100 includes it.",
+        "excess vs. deductible: The usual US insurance term for a policyholder’s share in this sense is deductible."
+      ],
+      "ja": [
+        "excess / excessive：excess capacity は現時点の必要量を上回る余剰能力。excessive fees は高すぎると評価される料金。",
+        "excess / surplus：surplus は需要を超えて残るものや収支の黒字によく使う。excess は過剰や上限超過も表せる。",
+        "in excess of / at least：in excess of 100 は「100を超える」。at least 100 は「100以上」で、100を含む。",
+        "excess / deductible：保険の「免責金額」は、イギリス英語では excess、アメリカ英語では通常 deductible。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "surplus",
+        "note": {
+          "en": "An amount left over beyond what is needed.",
+          "ja": "必要量を上回る余剰分。"
+        }
+      },
+      {
+        "word": "more than",
+        "note": {
+          "en": "The everyday equivalent of in excess of before a number.",
+          "ja": "数値の前に置く in excess of の日常的な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin excessus, from excedere ‘to go beyond’. Excess and exceed share the image of going beyond a limit.",
+      "ja": "ラテン語 excessus に由来し、そのもとに excedere（越えていく）がある。exceed と同じ語源で、限度を越えるという意味につながる。"
+    },
+    "equivalents": {
+      "de": "der Überschuss / das Übermaß / die Selbstbeteiligung (Versicherung)",
+      "it": "eccesso / eccedenza / franchigia (assicurazione)",
+      "fr": "excès / excédent / franchise (assurance)",
+      "es": "exceso / excedente / franquicia (seguros)"
+    },
+    "collocations": {
+      "en": [
+        "an excess of caution",
+        "costs in excess of the estimate",
+        "drink to excess",
+        "excess baggage",
+        "excess capacity",
+        "trim away excess dough",
+        "the excesses of the regime",
+        "a voluntary excess"
+      ],
+      "ja": [
+        "an excess of caution — 慎重すぎること",
+        "costs in excess of the estimate — 見積額を超える費用",
+        "drink to excess — 度を越して飲酒する",
+        "excess baggage — 規定量を超えた手荷物",
+        "excess capacity — 余剰能力",
+        "trim away excess dough — 余分な生地を切り落とす",
+        "the excesses of the regime — 政権の行き過ぎた行為",
+        "a voluntary excess — （英・保険）契約者が任意に設定する免責額"
+      ]
+    },
+    "example": {
+      "en": [
+        "The repairs are expected to cost in excess of £10,000.",
+        "After washing the spinach, shake off any excess water.",
+        "An excess of stock forced the retailer to cut prices.",
+        "He enjoyed a drink but rarely drank to excess.",
+        "My car insurance policy has a £250 excess."
+      ],
+      "ja": [
+        "The repairs are expected to cost in excess of £10,000. — 修理費は1万ポンドを超える見込みだ。",
+        "After washing the spinach, shake off any excess water. — ほうれん草を洗ったら、振って余分な水気を切ってください。",
+        "An excess of stock forced the retailer to cut prices. — 在庫が余り、小売業者は値下げを余儀なくされた。",
+        "He enjoyed a drink but rarely drank to excess. — 彼は酒が好きだったが、飲みすぎることはめったになかった。",
+        "My car insurance policy has a £250 excess. — 私の自動車保険には250ポンドの免責金額が設定されている。"
+      ]
+    }
   }
 ]
