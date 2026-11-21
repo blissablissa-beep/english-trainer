@@ -7590,5 +7590,110 @@
         "I kept kicking the can down the road by paying for small repairs, until the washing machine finally stopped working. — 細かい修理にお金をかけて買い替えを先送りにしていたら、とうとう洗濯機が動かなくなった。"
       ]
     }
+  },
+  {
+    "id": "sacred-cow",
+    "sid": "2026-01825",
+    "word": "sacred cow",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "idiom",
+      "noun phrase",
+      "criticism",
+      "institutions",
+      "beliefs"
+    ],
+    "grammar": {
+      "pos": "idiomatic noun phrase",
+      "countability": "countable",
+      "forms": {
+        "base": "a sacred cow",
+        "plural": "sacred cows"
+      },
+      "patterns": [
+        "treat something as a sacred cow",
+        "become a sacred cow",
+        "question / challenge a sacred cow",
+        "no sacred cows"
+      ],
+      "usage": {
+        "register": "The figurative sense is usually critical or ironic and occurs in conversations, business discussions, and commentary.",
+        "plural": "No sacred cows suggests that any policy, practice, or assumption can be reconsidered."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌseɪ.krɪd ˈkaʊ/",
+        "uk": "/ˌseɪ.krɪd ˈkaʊ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(figurative, usually disapproving) an idea, practice, institution, or person treated as beyond criticism or challenge"
+      ],
+      "ja": [
+        "（比喩・ふつう批判的）批判や見直しが許されないもの、疑問を差し挟めないとされる考え方・慣行・制度・人物"
+      ]
+    },
+    "nuance": {
+      "ja": "長く続く制度や慣行を「なぜ変えられないのか」と問いかけるときに使う。a sacred cow と呼ぶと、その扱いが過剰だという話し手の評価がにじむ。There are no sacred cows. は、どんな制度や前提も議論の対象にできるという宣言。",
+      "en": "Calling a rule, tradition, or institution a sacred cow usually questions why it gets special protection from scrutiny. There are no sacred cows means that everything can be examined or reconsidered."
+    },
+    "minimal": {
+      "en": [
+        "a taboo: A subject people avoid discussing or a practice they consider forbidden. A sacred cow can be discussed openly while criticism or change is resisted.",
+        "a pet project: A project someone is personally attached to. It becomes a sacred cow if others feel they cannot question it.",
+        "an article of faith: A belief held with firm conviction. Sacred cow highlights the reluctance to challenge it."
+      ],
+      "ja": [
+        "a taboo：話題にすることや行為そのものがタブーとされること。sacred cow は公に語られていても、批判や変更が避けられるものを指す。",
+        "a pet project：誰かが特別に力を入れているお気に入りの事業。周囲が異を唱えられなくなれば sacred cow とも言える。",
+        "an article of faith：固く信じられている信条。sacred cow は、それに異を唱えにくい点に焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "something treated as untouchable",
+        "note": {
+          "ja": "手をつけてはいけないものとして扱う、という直接的な言い換え。",
+          "en": "A plain way to describe something protected from challenge or change."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "ヒンドゥー教の伝統で牛が大切にされ、神聖なものとして尊ばれることにちなむ英語の比喩。転じて、批判や見直しの対象から外されるものを指すようになった。",
+      "en": "The English idiom alludes to the reverence shown to cows in Hindu traditions. Figuratively, it refers to something treated as exempt from criticism or change."
+    },
+    "equivalents": {
+      "de": "eine heilige Kuh",
+      "it": "una vacca sacra / un tabù intoccabile",
+      "fr": "une vache sacrée",
+      "es": "una vaca sagrada"
+    },
+    "collocations": {
+      "en": [
+        "treat a policy as a sacred cow",
+        "challenge a sacred cow",
+        "there are no sacred cows"
+      ],
+      "ja": [
+        "treat a policy as a sacred cow — ある方針を見直しの対象外として扱う",
+        "challenge a sacred cow — 批判がタブーとされるものに異を唱える",
+        "there are no sacred cows — 見直しの対象外はない"
+      ]
+    },
+    "example": {
+      "en": [
+        "The annual conference had become a sacred cow. No one dared ask whether it was still worth the cost.",
+        "There are no sacred cows in this review. Even the approval process we’ve used for twenty years is up for discussion.",
+        "The new editor challenged one of the paper’s sacred cows by asking why it still devoted two pages to stock prices."
+      ],
+      "ja": [
+        "The annual conference had become a sacred cow. No one dared ask whether it was still worth the cost. — 年次大会は聖域になっていた。今も費用に見合う価値があるのか、誰も聞こうとしなかった。",
+        "There are no sacred cows in this review. Even the approval process we’ve used for twenty years is up for discussion. — 今回の見直しに聖域はありません。20年間使ってきた承認手続きも議論の対象です。",
+        "The new editor challenged one of the paper’s sacred cows by asking why it still devoted two pages to stock prices. — 新しい編集長は、なぜ今も株価に2ページを割くのかと問い、その新聞でタブー視されていた慣行の見直しを求めた。"
+      ]
+    }
   }
 ]
