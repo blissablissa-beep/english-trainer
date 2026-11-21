@@ -5075,5 +5075,136 @@
         "Our actual spending came in under budget, even after we added the delivery fees. — 配送料を加えても、実際の支出は予算内に収まった。"
       ]
     }
+  },
+  {
+    "id": "spend",
+    "sid": "2026-01804",
+    "word": "spend",
+    "level": "A2",
+    "freq": "often",
+    "tags": [
+      "verb",
+      "money",
+      "time"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "forms": {
+        "base": "spend",
+        "past": "spent",
+        "pastParticiple": "spent",
+        "presentParticiple": "spending",
+        "thirdPersonSingular": "spends"
+      },
+      "patterns": [
+        "spend + money + on + noun",
+        "spend + time + doing something",
+        "spend + time + on + noun",
+        "spend + time + with + person",
+        "spend + time + in / at + place"
+      ],
+      "usage": {
+        "money": "Use on for what you buy or fund: We spent $40 on groceries.",
+        "time": "Use the -ing form for an activity: I spent two hours reading. Use on for a task or project: I spent two hours on the report."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/spend/",
+        "uk": "/spend/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to use money to buy or pay for something",
+        "to pass time in a place, with someone, or doing something",
+        "to use energy or effort on something"
+      ],
+      "ja": [
+        "（お金を）使う、支出する",
+        "（ある場所や人と、あることをして時間を）過ごす、（時間を）費やす",
+        "（エネルギーや労力を）使う、費やす"
+      ]
+    },
+    "nuance": {
+      "ja": "spend はお金や時間を使う人・組織を主語にする。spend $40 on groceries では on で使い道を示し、spend two hours reading では -ing 形でその間の行動を示す。spend the weekend with friends のように、単に誰とどう過ごしたかも表せる。",
+      "en": "The subject is the person or organization using the money or time. Use on to name what the money goes toward and an -ing form to describe what someone does during a period of time. Spend can simply describe how time passes, as in spend the weekend with friends."
+    },
+    "minimal": {
+      "en": [
+        "pay: Focuses on making a payment. I paid the plumber $80 names the recipient. I spent $80 on repairs describes where the money went.",
+        "cost: The thing or service is the subject. The repair cost me $80 corresponds to I spent $80 on the repair.",
+        "take: It took me two hours to write the report describes how long the task took. I spent two hours writing the report describes how I used the time.",
+        "spending: As a noun, it usually refers to money used. We spend less on takeout describes what we do. Our spending on takeout fell describes the change in our outgoings."
+      ],
+      "ja": [
+        "pay：支払いの行為に焦点がある。I paid the plumber $80 は支払先を、I spent $80 on repairs は80ドルの使い道を示す。",
+        "cost：品物やサービスが主語になる。The repair cost me $80 は、使った側を主語にした I spent $80 on the repair に対応する。",
+        "take：It took me two hours to write the report は報告書を書くのにかかった時間を、I spent two hours writing the report はその2時間を何に使ったかを述べる。",
+        "spending：名詞では主に金銭の「支出」。We spend less on takeout は自分たちの行動を、Our spending on takeout fell は支出額の変化を表す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "use",
+        "note": {
+          "ja": "お金・時間・労力などを使う。use は道具を使うときにも使える。",
+          "en": "A broader verb for using resources, tools, or materials."
+        }
+      },
+      {
+        "word": "devote",
+        "note": {
+          "ja": "目的に時間や労力を割く。devote time to doing something の形を取る。",
+          "en": "To give time or effort to a purpose, as in devote time to doing something."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "中英語 spenden にさかのぼる。古英語には forspendan があり、その -spendan は中世ラテン語 spendere に由来するとされる。spendere はラテン語 expendere「支払う、費やす」または dispendere「分配する、支払う」の短縮形と考えられている。",
+      "en": "From Middle English spenden, with an earlier form in Old English forspendan. The verb is traced to Medieval Latin spendere, likely shortened from Latin expendere or possibly dispendere."
+    },
+    "equivalents": {
+      "de": "Geld ausgeben / Zeit verbringen",
+      "it": "spendere (denaro) / trascorrere (tempo)",
+      "fr": "dépenser (de l’argent) / passer (du temps)",
+      "es": "gastar (dinero) / pasar (tiempo)"
+    },
+    "collocations": {
+      "en": [
+        "spend money on groceries",
+        "spend more than you earn",
+        "spend time with family",
+        "spend the afternoon reading",
+        "spend the night at a hotel",
+        "spend time on a project"
+      ],
+      "ja": [
+        "spend money on groceries — 食料品にお金を使う",
+        "spend more than you earn — 収入以上にお金を使う",
+        "spend time with family — 家族と過ごす",
+        "spend the afternoon reading — 午後を読書して過ごす",
+        "spend the night at a hotel — ホテルに一泊する",
+        "spend time on a project — プロジェクトに時間をかける"
+      ]
+    },
+    "example": {
+      "en": [
+        "I spent $40 on groceries and another $15 on lunch.",
+        "How much do you spend on subscriptions each month?",
+        "We spent the afternoon looking through old photos.",
+        "She spent a week in Hamburg and a weekend with friends in Lüneburg.",
+        "I spent two hours on the draft, but the final review took only ten minutes.",
+        "Don’t spend all your energy trying to fix everything at once."
+      ],
+      "ja": [
+        "I spent $40 on groceries and another $15 on lunch. — 食料品に40ドル、昼食にさらに15ドル使った。",
+        "How much do you spend on subscriptions each month? — 毎月、サブスクにいくら使っていますか。",
+        "We spent the afternoon looking through old photos. — 私たちは午後、昔の写真を見返して過ごした。",
+        "She spent a week in Hamburg and a weekend with friends in Lüneburg. — 彼女はハンブルクで1週間を過ごし、週末はリューネブルクで友人たちと過ごした。",
+        "I spent two hours on the draft, but the final review took only ten minutes. — 草稿に2時間を費やしたが、最終確認は10分しかかからなかった。",
+        "Don’t spend all your energy trying to fix everything at once. — 一度に全部解決しようとして、エネルギーを使い果たさないで。"
+      ]
+    }
   }
 ]
