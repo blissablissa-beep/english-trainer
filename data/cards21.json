@@ -5345,5 +5345,130 @@
         "Without the client’s approval, filing today is out of the question. — 依頼人の承認がなければ、今日出願することは到底できない。"
       ]
     }
+  },
+  {
+    "id": "plebeian",
+    "sid": "2026-01806",
+    "word": "plebeian",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "noun",
+      "adjective",
+      "history",
+      "social class"
+    ],
+    "grammar": {
+      "pos": "noun / adjective",
+      "countability": "countable as a noun",
+      "forms": {
+        "base": "plebeian",
+        "plural": "plebeians"
+      },
+      "patterns": [
+        "a Roman plebeian",
+        "plebeians and patricians",
+        "plebeian + noun",
+        "dismiss something as plebeian"
+      ],
+      "usage": {
+        "history": "A plebeian is a member of the Roman plebs. The adjective in plebeian rights or plebeian families is a historical description.",
+        "modern": "In modern figurative use the adjective is formal and usually disparaging. It can be ironic or self-mocking when someone applies it to their own tastes."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/pləˈbiː.ən/",
+        "uk": "/pləˈbiː.ən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(noun, historical) a member of the plebs, the common people of ancient Rome",
+        "(adjective, historical) relating to the Roman plebs",
+        "(adjective, formal and often disparaging) associated with ordinary people or regarded as lacking refinement",
+        "(noun, formal and often disparaging) a commoner or someone regarded as low in social rank"
+      ],
+      "ja": [
+        "（名詞・歴史）古代ローマの平民、プレブスの一員",
+        "（形容詞・歴史）古代ローマの平民の、プレブスに関する",
+        "（形容詞・改まった語、しばしば侮蔑的）庶民の、庶民的な、洗練を欠くとみなされた",
+        "（名詞・改まった語、しばしば侮蔑的）庶民、身分が低いとみなされた人"
+      ]
+    },
+    "nuance": {
+      "ja": "古代ローマ史では patrician（貴族・パトリキ）と対をなす身分上の呼称。plebeian には裕福な人もいた。現代の plebeian tastes は、好みを「庶民的で洗練されていない」と見下す響きが出やすい。自分の好みについて使えば、気取った価値観をからかう冗談にもなる。",
+      "en": "In Roman history, plebeian identifies a social order alongside its counterpart patrician, and a plebeian could be wealthy. In modern use, describing tastes as plebeian often sounds snobbish. Using it of your own preferences can playfully mock the idea that they need to be refined."
+    },
+    "minimal": {
+      "en": [
+        "patrician: The historical counterpart in ancient Rome. In modern descriptions it can suggest an aristocratic background or manner.",
+        "commoner: A broader term for someone outside a noble or privileged rank, especially in a society with formal social ranks.",
+        "lowbrow: Informal, often used about entertainment or taste regarded as intellectually unsophisticated. Plebeian adds a social-class undertone.",
+        "pleb: A colloquial shortening used as an insult or a joke. Plebeian is the formal word and the usual term in Roman history."
+      ],
+      "ja": [
+        "patrician：古代ローマで plebeian と対をなす貴族。現代では貴族的な出自や物腰を表すこともある。",
+        "commoner：貴族などの特権的な身分に属さない人を広く表す。身分制度のある社会について使いやすい。",
+        "lowbrow：知的な洗練に欠けるとされる娯楽や趣味を指すくだけた語。plebeian には社会階層を意識した響きがある。",
+        "pleb：くだけた短縮形。悪口や冗談に使う。古代ローマ史の説明では通常 plebeian を使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "commoner",
+        "note": {
+          "ja": "名詞。身分制度の文脈で「平民、庶民」。",
+          "en": "A person outside the nobility or another privileged rank."
+        }
+      },
+      {
+        "word": "unrefined",
+        "note": {
+          "ja": "形容詞。趣味や振る舞いが洗練されていないと評価するとき。",
+          "en": "Describes tastes or manners regarded as lacking polish."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "ラテン語 plēbēius「平民に属する」に由来し、そのもとに plēbs（属格 plēbis）「民衆、平民」がある。plebiscite「国民投票・住民投票」も同じ語根を持つ。",
+      "en": "From Latin plēbēius, meaning ‘of the common people,’ from plēbs (genitive plēbis), ‘the common people.’ Plebiscite contains the same Latin root."
+    },
+    "equivalents": {
+      "de": "Plebejer / plebejisch",
+      "it": "plebeo / plebea",
+      "fr": "plébéien / plébéienne",
+      "es": "plebeyo / plebeya"
+    },
+    "collocations": {
+      "en": [
+        "Roman plebeians",
+        "plebeian rights",
+        "plebeian origins",
+        "plebeian tastes",
+        "dismiss something as plebeian"
+      ],
+      "ja": [
+        "Roman plebeians — 古代ローマの平民",
+        "plebeian rights — 平民の権利",
+        "plebeian origins — 庶民の出自",
+        "plebeian tastes — 庶民的だと見下される趣味・好み",
+        "dismiss something as plebeian — 庶民的で洗練されていないと片づける"
+      ]
+    },
+    "example": {
+      "en": [
+        "The lecture traced how plebeians gained access to public office in the Roman Republic.",
+        "Some plebeian families in Rome were wealthy and politically influential.",
+        "The critic dismissed the street festival as plebeian, a judgment that said more about him than about the festival.",
+        "Call my tastes plebeian if you like. I’d still rather have fries than caviar."
+      ],
+      "ja": [
+        "The lecture traced how plebeians gained access to public office in the Roman Republic. — その講義では、共和政ローマで平民がどのように公職に就けるようになったかをたどった。",
+        "Some plebeian families in Rome were wealthy and politically influential. — ローマには、裕福で政治的な影響力を持つ平民の家系もあった。",
+        "The critic dismissed the street festival as plebeian, a judgment that said more about him than about the festival. — その批評家は街の祭りを庶民的で品がないと片づけたが、それは祭りよりも彼自身の価値観をよく表していた。",
+        "Call my tastes plebeian if you like. I’d still rather have fries than caviar. — 私の好みを庶民的だと言いたければどうぞ。それでもキャビアよりフライドポテトがいい。"
+      ]
+    }
   }
 ]
