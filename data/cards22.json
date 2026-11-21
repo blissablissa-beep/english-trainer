@@ -371,5 +371,117 @@
         "We receive dozens of requests like this in the ordinary course of business. — 通常の業務の中で、このような依頼を何十件も受けます。"
       ]
     }
+  },
+  {
+    "id": "unordinary",
+    "sid": "2026-01849",
+    "word": "unordinary",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "adjective",
+      "rare",
+      "evaluation"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "unordinary",
+        "antonym": "ordinary"
+      },
+      "patterns": [
+        "an unordinary + noun",
+        "something unordinary",
+        "ordinary … unordinary"
+      ],
+      "usage": {
+        "register": "Uncommon in current English. It still occurs in modern writing, sometimes as a deliberate contrast with ordinary. Unusual is the usual choice for everyday descriptions.",
+        "article": "Use an before a singular countable noun: an unordinary day."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ʌnˈɔr.dənˌɛr.i/",
+        "uk": "/ʌnˈɔː.dən.ər.i/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(uncommon) unlike what is usual or typical",
+        "(uncommon) distinctive or original enough to stand out"
+      ],
+      "ja": [
+        "（まれ）普通と違う、いつもと異なる、珍しい",
+        "（まれ）ありふれていない、独自性がある、ひと味違う"
+      ]
+    },
+    "nuance": {
+      "en": "In contemporary writing, unordinary can call attention to a contrast with ordinary, especially when both words appear close together. It can describe something merely atypical or something distinctive in an appealing way. The word alone does not suggest that the thing is exceptionally good.",
+      "ja": "現代でも使われるが、頻度は低い。ordinary と並べて「いつもどおり」と「いつもとは違う」を際立たせるような文章で使える。単に珍しいという意味にも、独自性を評価する意味にもなり、どちらかは文脈で決まる。"
+    },
+    "minimal": {
+      "en": [
+        "unusual: The everyday choice when something departs from what is expected or typical.",
+        "out of the ordinary: A familiar phrase for something noticeably different from everyday experience. It is natural after something or nothing.",
+        "extraordinary: Often stronger, suggesting something remarkably unusual, impressive, or exceptional.",
+        "uncommon: Focuses on how rarely something occurs. Unordinary can also suggest that something has a distinctive character."
+      ],
+      "ja": [
+        "unusual：普通と違うことを表す日常的な言い方。",
+        "out of the ordinary：日常の範囲から外れた、変わった。something や nothing と組み合わせやすい。",
+        "extraordinary：並外れた、驚くほど珍しい、すばらしい。程度の強さを表しやすい。",
+        "uncommon：あまり見られない、頻度が低い。unordinary は個性や独自性を指す場合にも使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "unusual",
+        "note": {
+          "en": "The everyday equivalent for a departure from what is typical.",
+          "ja": "「普通と違う」を表す一般的な語。"
+        }
+      },
+      {
+        "word": "distinctive",
+        "note": {
+          "en": "A good fit when the point is that something has its own recognizable character.",
+          "ja": "独自性や、そのものと分かる特徴があることを強調する。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from the negative prefix un- and ordinary. The two parts are still transparent, which makes the word useful for a deliberate contrast with ordinary.",
+      "ja": "否定の接頭辞 un- と ordinary「普通の」を組み合わせた語。語の作りが分かりやすく、ordinary と並べると対比が際立つ。"
+    },
+    "equivalents": {
+      "de": "ungewöhnlich / untypisch",
+      "it": "insolito / fuori dal comune",
+      "fr": "inhabituel / qui sort de l’ordinaire",
+      "es": "inusual / fuera de lo común"
+    },
+    "collocations": {
+      "en": [
+        "an unordinary day",
+        "an unordinary experience",
+        "something unordinary"
+      ],
+      "ja": [
+        "an unordinary day — いつもとは違う一日",
+        "an unordinary experience — ひと味違う体験",
+        "something unordinary — 何かありふれていないもの"
+      ]
+    },
+    "example": {
+      "en": [
+        "For most of us it was an ordinary Tuesday. For the staff at the little museum, it was a decidedly unordinary day.",
+        "She wanted to make something unordinary from the same clay everyone else was using.",
+        "The essays find something unordinary in ordinary routines, from making tea to waiting for a bus."
+      ],
+      "ja": [
+        "For most of us it was an ordinary Tuesday. For the staff at the little museum, it was a decidedly unordinary day. — 私たちの多くにはいつもどおりの火曜日だった。だが、小さな博物館の職員たちにとっては、明らかにいつもとは違う一日だった。",
+        "She wanted to make something unordinary from the same clay everyone else was using. — 彼女はみんなと同じ粘土を使って、ひと味違うものを作りたかった。",
+        "The essays find something unordinary in ordinary routines, from making tea to waiting for a bus. — そのエッセイ集は、お茶をいれたりバスを待ったりといった日常の習慣の中に、ありふれていない何かを見つけ出している。"
+      ]
+    }
   }
 ]
