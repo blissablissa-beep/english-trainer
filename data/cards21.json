@@ -8162,5 +8162,122 @@
         "Use a star-shaped cookie cutter to cut out the dough. — 星形の抜き型でクッキー生地を抜いてください。"
       ]
     }
+  },
+  {
+    "id": "back-burner",
+    "sid": "2026-01830",
+    "word": "back burner",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "idiom",
+      "priorities",
+      "planning",
+      "cooking"
+    ],
+    "grammar": {
+      "pos": "noun / idiom",
+      "countability": "countable in the literal sense",
+      "forms": {
+        "base": "back burner",
+        "idiom": "on the back burner",
+        "plural": "back burners"
+      },
+      "patterns": [
+        "put something on the back burner",
+        "be / stay on the back burner",
+        "keep something on the back burner",
+        "take something off the back burner"
+      ],
+      "usage": {
+        "priority": "Put describes the decision to lower the priority. Be or stay describes the state of being a low priority.",
+        "article": "The usual idiom is on the back burner. In literal use, a back burner means any one of the rear burners."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈbæk ˌbɝː.nɚ/",
+        "uk": "/ˈbæk ˌbɜː.nə/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(literal) a burner at the back of a stove or hob",
+        "(on the back burner) given low priority while more pressing matters are dealt with"
+      ],
+      "ja": [
+        "（文字どおり）コンロの奥側のバーナー、奥の火口",
+        "（on the back burner の形で）優先度を下げて後回しにしている、当面は保留になっている"
+      ]
+    },
+    "nuance": {
+      "ja": "今すぐ手をかける必要のない案件を、より急ぐ仕事が落ち着くまで脇に置くときに使う。再開の具体的な日程は決まっていなくてもよく、低い優先度のまま少しずつ進める場合にも使える。put は後回しにする判断、be や stay は後回しになっている状態を表す。",
+      "en": "The idiom describes something receiving less attention while other things take priority. It may still be progressing slowly, and there need not be a firm date for giving it more attention. Put marks the change in priority, while be or stay describes the resulting state."
+    },
+    "minimal": {
+      "en": [
+        "put on hold: Pause work or action for the time being. On the back burner emphasizes low priority and allows for some work to continue.",
+        "shelve: Set a plan aside, sometimes indefinitely. Put on the back burner often leaves a clearer possibility of coming back to it.",
+        "kick the can down the road: Delay dealing with a problem, often with a suggestion of avoidance. Put on the back burner can describe routine prioritization."
+      ],
+      "ja": [
+        "put on hold：作業や対応をいったん止める。on the back burner は優先度の低さに重点があり、細々と進めている場合にも使える。",
+        "shelve：計画を棚上げする。無期限になることもある。put on the back burner は後で再び取り組む余地を残す響きが出やすい。",
+        "kick the can down the road：問題への対処を先送りする。避けているという批判がにじみやすい。put on the back burner は日常的な優先順位づけにも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "deprioritize",
+        "note": {
+          "ja": "優先度を下げる、という業務上の直接的な表現。",
+          "en": "A direct workplace term for lowering something’s priority."
+        }
+      },
+      {
+        "word": "set aside for now",
+        "note": {
+          "ja": "当面は脇に置いておく。",
+          "en": "To leave something for later."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "手をかける必要が少ない鍋をコンロの奥に置き、手前で別の料理に取りかかることに由来する。そこから、当面は後回しにできる仕事や案件を表すようになった。",
+      "en": "The image comes from putting a pot that needs less attention on a rear burner while tending another dish at the front. It came to represent work or issues that can wait while more urgent matters are addressed."
+    },
+    "equivalents": {
+      "de": "etwas erst einmal zurückstellen",
+      "it": "mettere qualcosa in secondo piano",
+      "fr": "mettre quelque chose en veilleuse",
+      "es": "dejar algo en segundo plano"
+    },
+    "collocations": {
+      "en": [
+        "put a project on the back burner",
+        "stay on the back burner for now",
+        "take an idea off the back burner"
+      ],
+      "ja": [
+        "put a project on the back burner — プロジェクトを後回しにする",
+        "stay on the back burner for now — 当面は優先度が低いままでいる",
+        "take an idea off the back burner — 後回しにしていた案に改めて取りかかる"
+      ]
+    },
+    "example": {
+      "en": [
+        "We put the website redesign on the back burner so we could fix the checkout bugs first.",
+        "The idea has been on the back burner since spring, but we’re ready to revisit it now.",
+        "She kept her novel on the back burner while she finished her degree, working on it for an hour or two on Sundays.",
+        "Leave the stock simmering on a back burner while you chop the vegetables."
+      ],
+      "ja": [
+        "We put the website redesign on the back burner so we could fix the checkout bugs first. — 決済の不具合を先に直すため、サイトのデザイン刷新は後回しにした。",
+        "The idea has been on the back burner since spring, but we’re ready to revisit it now. — その案は春から後回しになっていたが、今なら改めて検討できる。",
+        "She kept her novel on the back burner while she finished her degree, working on it for an hour or two on Sundays. — 彼女は学位を取るまでは小説の執筆を後回しにし、日曜日に1、2時間ずつ書き進めた。",
+        "Leave the stock simmering on a back burner while you chop the vegetables. — 野菜を切る間、だしは奥のコンロで弱火にかけておいて。"
+      ]
+    }
   }
 ]
