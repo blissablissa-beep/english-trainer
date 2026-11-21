@@ -6063,5 +6063,127 @@
         "I usually read my emails over my morning cup of joe. — いつもは朝のコーヒーを飲みながらメールを読む。"
       ]
     }
+  },
+  {
+    "id": "curveball",
+    "sid": "2026-01812",
+    "word": "curveball",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "idiom",
+      "baseball",
+      "surprise",
+      "informal"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "base": "curveball",
+        "plural": "curveballs",
+        "variant": "curve ball",
+        "short": "curve"
+      },
+      "patterns": [
+        "throw / hit a curveball",
+        "throw someone a curveball",
+        "get thrown a curveball",
+        "deal with a curveball"
+      ],
+      "usage": {
+        "spelling": "Curveball is the main dictionary spelling. Curve ball and, especially in American English, curve are also used.",
+        "figurative": "In throw someone a curveball, the subject can be a person or an event. The phrase often suggests that the surprise forces someone to adjust."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈkɝːv.bɑːl/",
+        "uk": "/ˈkɜːv.bɔːl/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(baseball) a pitch that curves on its way to the batter",
+        "(figurative, informal) an unexpected question, event, or change that is difficult to deal with"
+      ],
+      "ja": [
+        "（野球）カーブ、打者に向かう途中で軌道が曲がる球",
+        "（比喩・口語）不意を突く質問、対応を迫られる予想外の出来事や変更"
+      ]
+    },
+    "nuance": {
+      "ja": "比喩では、予想外のことに出くわして、とっさに考え直したり予定を変えたりする感じがある。The interviewer threw me a curveball. なら「面接官に予想外の質問をされた」。The power outage threw us a curveball. のように、停電など人の意図と無関係の出来事も主語にできる。",
+      "en": "A figurative curveball catches someone off guard and often makes them think on their feet or change plans. An interviewer can throw you a curveball with an unusual question, and a power outage can throw you one without anyone intending to surprise you."
+    },
+    "minimal": {
+      "en": [
+        "surprise: The broad term for something unexpected, welcome or unwelcome. A curveball often calls for a response or adjustment.",
+        "setback: A difficulty that delays or reverses progress. A curveball emphasizes being caught off guard and can sometimes be handled on the spot.",
+        "trick question: A question designed to mislead or expose a mistake. A curveball question can simply be outside what you prepared for.",
+        "breaking ball: In baseball, a broader category that includes the curveball and other pitches such as the slider."
+      ],
+      "ja": [
+        "surprise：うれしいことも困ることも含めた「驚き、予想外のこと」。curveball には、そこから対応を迫られる感じがある。",
+        "setback：進捗を遅らせたり後退させたりする障害。curveball は不意を突かれる点に重点があり、その場で対応できることもある。",
+        "trick question：相手を引っかける意図のある質問。curveball は、単に準備していなかった質問にも使える。",
+        "breaking ball：野球ではカーブやスライダーなどを含む、より広い球種の呼び方。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "curve",
+        "note": {
+          "ja": "野球と比喩の両方で使える短い形。throw someone a curve とも言う。",
+          "en": "A shorter form used both in baseball and in throw someone a curve."
+        }
+      },
+      {
+        "word": "unexpected complication",
+        "note": {
+          "ja": "状況への対応を難しくする予想外の問題。",
+          "en": "An unforeseen problem that makes a situation harder to handle."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "curve「曲がる、曲線」と ball「球」を組み合わせた野球用語。打者が予想した軌道から外れる球のイメージから、人の不意を突く質問や出来事にも使われるようになった。",
+      "en": "From curve and ball, originally a baseball term. The pitch can catch a batter expecting a different trajectory off guard. That image gave rise to the figurative sense of a surprise that is hard to handle."
+    },
+    "equivalents": {
+      "de": "Curveball (Baseball) / unerwartete Herausforderung",
+      "it": "palla curva / imprevisto",
+      "fr": "balle courbe / imprévu",
+      "es": "lanzamiento en curva / contratiempo inesperado"
+    },
+    "collocations": {
+      "en": [
+        "throw a curveball",
+        "hit a curveball",
+        "throw someone a curveball",
+        "deal with a last-minute curveball"
+      ],
+      "ja": [
+        "throw a curveball — カーブを投げる、予想外のことを持ち出す",
+        "hit a curveball — カーブを打つ",
+        "throw someone a curveball — 人の不意を突いて対応を迫る",
+        "deal with a last-minute curveball — 土壇場の予想外の事態に対処する"
+      ]
+    },
+    "example": {
+      "en": [
+        "The pitcher struck him out with a curveball that dropped just below the strike zone.",
+        "The interviewer threw me a curveball by asking what I would change about my current job.",
+        "The train cancellation threw us a curveball, but we managed to catch the last bus.",
+        "We had the draft ready to file when the client threw us a curveball and asked us to add another claim."
+      ],
+      "ja": [
+        "The pitcher struck him out with a curveball that dropped just below the strike zone. — 投手はストライクゾーンのすぐ下に落ちるカーブで、打者を三振に取った。",
+        "The interviewer threw me a curveball by asking what I would change about my current job. — 面接官に、今の仕事で何を変えたいかと聞かれ、不意を突かれた。",
+        "The train cancellation threw us a curveball, but we managed to catch the last bus. — 列車の運休で予定が狂ったが、なんとか最終バスに間に合った。",
+        "We had the draft ready to file when the client threw us a curveball and asked us to add another claim. — 出願できるところまで草稿を仕上げていたが、依頼人から請求項をもう一つ加えてほしいと言われ、急きょ対応することになった。"
+      ]
+    }
   }
 ]
