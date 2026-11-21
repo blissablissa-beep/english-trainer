@@ -116,5 +116,135 @@
         "The hallway had a narrow bench with two drawers beneath. — 廊下には細長いベンチがあり、その下に引き出しが二つ付いていた。"
       ]
     }
+  },
+  {
+    "id": "come-with",
+    "sid": "2026-01847",
+    "word": "come with",
+    "level": "A2",
+    "freq": "often",
+    "tags": [
+      "verb phrase",
+      "accompaniment",
+      "shopping",
+      "features",
+      "consequences"
+    ],
+    "grammar": {
+      "pos": "verb + preposition",
+      "forms": {
+        "base": "come with",
+        "thirdPerson": "comes with",
+        "past": "came with",
+        "pastParticiple": "come with",
+        "presentParticiple": "coming with"
+      },
+      "patterns": [
+        "come with + person",
+        "come with + included item or service",
+        "come with + cost / risk / responsibility",
+        "Does this come with + noun?"
+      ],
+      "usage": {
+        "complement": "In these uses, with is followed by a noun or an object pronoun such as me, us, or them: Come with me.",
+        "inclusion": "The main item is the subject: The camera comes with a charger. You can also make the accessory the subject by saying The charger comes with the camera."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/kʌm wɪð/",
+        "uk": "/kʌm wɪð/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to accompany someone to a place or event",
+        "to be supplied or included with something, or to have something as part of a package",
+        "to have a benefit, risk, obligation, or other consequence associated with it"
+      ],
+      "ja": [
+        "人と一緒に来る、ついて行く",
+        "（商品・サービスなどに）付属する、セットに含まれる",
+        "（役割・選択などに）利点・リスク・責任などが伴う"
+      ]
+    },
+    "nuance": {
+      "ja": "Come with me. は、話し手と一緒に移動するよう誘う言い方で、日本語では「ついてきて」「一緒に行こう」とも訳せる。商品やプランを主語にすると、何が付いてくるかを表す。Does it come with breakfast? は、料金やプランに朝食が含まれるかを尋ねる言い方。抽象的な主語では、何かを選んだり引き受けたりすると付いてくるものを表し、責任や費用にも、利点や自由にも使える。",
+      "en": "Come with me invites the listener to join the speaker. With a product or plan as the subject, come with says what is provided as part of it. With a role or decision as the subject, it introduces associated consequences, which may be favorable or unfavorable."
+    },
+    "minimal": {
+      "en": [
+        "go with someone: Also means accompany someone. The choice between come and go depends on the speaker’s or listener’s viewpoint.",
+        "include: Directly states what forms part of a package or price. Come with often makes an accompanying item or feature the focus.",
+        "come along with someone: Often used for joining someone on an outing. Come with also works for items or risks associated with something.",
+        "entail: A more formal verb that presents a consequence or requirement as following from an action. Come with is conversational and also works for benefits."
+      ],
+      "ja": [
+        "go with someone：人と一緒に行く。come と go は、誰の視点から移動を捉えるかで選ぶ。",
+        "include：料金やセットに何が含まれるかを直接述べる。come with は一緒に付いてくる品物や機能に焦点が当たりやすい。",
+        "come along with someone：人と連れ立って行く。come with は付属品や、何かに伴うリスクについても使える。",
+        "entail：ある行為に結果や条件が伴うことを示す改まった動詞。come with は日常的で、特典や利点にも自然に使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "accompany",
+        "note": {
+          "en": "A more formal option for going with someone.",
+          "ja": "人に同行するという、より改まった言い方。"
+        }
+      },
+      {
+        "word": "be included",
+        "note": {
+          "en": "A direct way to say something is supplied as part of a package.",
+          "ja": "セットや料金に含まれることを直接表す。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The phrase combines come, a verb of movement, with with, which expresses accompaniment. The same construction extends from someone coming with a companion to an item or consequence being present with something else.",
+      "ja": "移動を表す come と、同伴を表す with の組み合わせ。人が連れ立って来るという発想が、品物が一緒に提供されたり、ある選択に結果が伴ったりする用法にも広がっている。"
+    },
+    "equivalents": {
+      "de": "mitkommen / mitgeliefert werden / mit etwas einhergehen",
+      "it": "venire con qualcuno / essere incluso / comportare",
+      "fr": "venir avec quelqu’un / être fourni avec / s’accompagner de",
+      "es": "venir con alguien / venir incluido / conllevar"
+    },
+    "collocations": {
+      "en": [
+        "come with me",
+        "come with a charger",
+        "come with a two-year warranty",
+        "come with breakfast",
+        "come with added responsibilities",
+        "come with a trade-off"
+      ],
+      "ja": [
+        "come with me — 私についてくる、一緒に行く",
+        "come with a charger — 充電器が付属する",
+        "come with a two-year warranty — 2年間の保証が付く",
+        "come with breakfast — 朝食が付く",
+        "come with added responsibilities — 新たな責任が伴う",
+        "come with a trade-off — 何かを得る代わりに別のものを犠牲にする必要がある"
+      ]
+    },
+    "example": {
+      "en": [
+        "I’m heading to the station. Do you want to come with me?",
+        "Does this room come with breakfast, or do we have to pay extra?",
+        "The monitor comes with a stand, but you’ll need to buy the cable separately.",
+        "The new role comes with more freedom and more responsibility.",
+        "A shorter review period comes with the risk of missing small errors in the draft."
+      ],
+      "ja": [
+        "I’m heading to the station. Do you want to come with me? — 駅に向かうんだけど、一緒に行く？",
+        "Does this room come with breakfast, or do we have to pay extra? — この部屋には朝食が付いていますか。それとも追加料金がかかりますか。",
+        "The monitor comes with a stand, but you’ll need to buy the cable separately. — モニターにはスタンドが付いていますが、ケーブルは別に購入する必要があります。",
+        "The new role comes with more freedom and more responsibility. — 新しい役割では自由が増えるぶん、責任も増える。",
+        "A shorter review period comes with the risk of missing small errors in the draft. — 確認期間を短くすると、草稿の細かなミスを見落とすおそれがある。"
+      ]
+    }
   }
 ]
