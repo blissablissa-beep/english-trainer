@@ -1435,5 +1435,126 @@
         "My car insurance policy has a £250 excess. — 私の自動車保険には250ポンドの免責金額が設定されている。"
       ]
     }
+  },
+  {
+    "id": "excessive",
+    "sid": "2026-01858",
+    "word": "excessive",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "quantity",
+      "evaluation",
+      "legal"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "excessive",
+        "comparative": "more excessive",
+        "superlative": "most excessive",
+        "adverb": "excessively",
+        "relatedNoun": "excess",
+        "relatedVerb": "exceed"
+      },
+      "patterns": [
+        "excessive + noun",
+        "be / seem excessive",
+        "consider / deem + noun + excessive",
+        "excessive for + situation"
+      ],
+      "usage": {
+        "position": "Use excessive before a noun (excessive fees) or after a linking verb (the fees seem excessive).",
+        "adverb": "Use excessively to modify an adjective or adverb: excessively broad, excessively slowly."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ekˈses.ɪv/",
+        "uk": "/ekˈses.ɪv/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "greater in amount, degree, or intensity than is reasonable, necessary, or appropriate"
+      ],
+      "ja": [
+        "過度の、度を越した、必要以上の、過大な"
+      ]
+    },
+    "nuance": {
+      "en": "Excessive judges something against a standard, such as what is needed in the circumstances or what most people would consider reasonable. It often conveys criticism. In technical descriptions, the standard may be a practical tolerance, as in excessive vibration. In legal or policy writing, excessive can also express a judgment about proportionality, as in excessive force.",
+      "ja": "その場で必要とされる程度や、妥当とされる水準を超えているという判断を含み、批判的な響きを伴うことが多い。excessive vibration（過大な振動）のような技術文では、許容できる範囲を超えることも指す。法律・政策文書での excessive force（過剰な実力行使）のように、状況に照らした相当性が問題になることもある。"
+    },
+    "minimal": {
+      "en": [
+        "excess: Excess baggage is baggage above the allowance. Excessive baggage suggests the speaker thinks there is an unreasonable amount.",
+        "too much / too many: Everyday ways to make the same judgment. Excessive is more formal and works with both count and noncount nouns.",
+        "extreme: Describes a very high degree. Excessive adds that the degree goes beyond what is acceptable or necessary.",
+        "exorbitant: Stronger and especially common for prices, fees, or rates."
+      ],
+      "ja": [
+        "excess：excess baggage は規定の許容量を超えた手荷物。excessive baggage は手荷物の量が常識的な範囲を超えているという評価を含む。",
+        "too much / too many：日常会話でよく使う表現。excessive はやや硬く、可算・不可算のどちらの名詞にも使える。",
+        "extreme：程度が極めて高いことを表す。excessive は許容範囲や必要な程度を超えていることまで表す。",
+        "exorbitant：より強い表現で、特に値段・料金・料率の法外な高さに使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "undue",
+        "note": {
+          "en": "Common in formal phrases such as undue delay or undue pressure.",
+          "ja": "undue delay（不当な遅延）、undue pressure（不当な圧力）などの硬い表現によく使う。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Part of the same word family as excess and exceed, which ultimately goes back to Latin excedere ‘to go beyond’.",
+      "ja": "excess や exceed と同系で、さかのぼるとラテン語の excedere（越えていく）に行き着く。"
+    },
+    "equivalents": {
+      "de": "übermäßig / übertrieben",
+      "it": "eccessivo / esagerato",
+      "fr": "excessif / démesuré",
+      "es": "excesivo / desmedido"
+    },
+    "collocations": {
+      "en": [
+        "excessive fees",
+        "excessive force",
+        "excessive noise",
+        "excessive speed",
+        "excessive heat",
+        "excessive use of antibiotics",
+        "be deemed excessive",
+        "an excessive amount of paperwork"
+      ],
+      "ja": [
+        "excessive fees — 過大な料金",
+        "excessive force — 過剰な実力行使",
+        "excessive noise — 過度な騒音",
+        "excessive speed — 速すぎる速度",
+        "excessive heat — 過度の熱、高すぎる温度",
+        "excessive use of antibiotics — 抗生物質の過剰使用",
+        "be deemed excessive — 過大だと判断される",
+        "an excessive amount of paperwork — 必要以上に多い書類仕事"
+      ]
+    },
+    "example": {
+      "en": [
+        "The cancellation fee seems excessive for a booking made only an hour ago.",
+        "The complaint alleges that the officers used excessive force during the arrest.",
+        "The washing machine vibrates excessively during the spin cycle.",
+        "The reviewer found the reporting requirements excessive for such a small project."
+      ],
+      "ja": [
+        "The cancellation fee seems excessive for a booking made only an hour ago. — 予約してまだ1時間しか経っていないことを考えると、キャンセル料は高すぎるように思う。",
+        "The complaint alleges that the officers used excessive force during the arrest. — 申立てでは、警察官が逮捕の際に過剰な実力行使をしたと主張している。",
+        "The washing machine vibrates excessively during the spin cycle. — その洗濯機は脱水中にひどく振動する。",
+        "The reviewer found the reporting requirements excessive for such a small project. — 審査担当者は、これほど小規模な事業に課される報告義務としては過重だと判断した。"
+      ]
+    }
   }
 ]
