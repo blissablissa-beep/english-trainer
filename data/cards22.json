@@ -1556,5 +1556,117 @@
         "The reviewer found the reporting requirements excessive for such a small project. — 審査担当者は、これほど小規模な事業に課される報告義務としては過重だと判断した。"
       ]
     }
+  },
+  {
+    "id": "costly",
+    "sid": "2026-01859",
+    "word": "costly",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "money",
+      "business",
+      "consequences"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "costly",
+        "comparative": "costlier / more costly",
+        "superlative": "costliest / most costly"
+      },
+      "patterns": [
+        "a costly mistake",
+        "prove costly for + person / group",
+        "be costly to + verb"
+      ],
+      "usage": {
+        "adjective": "Despite the -ly ending, costly is an adjective. In The delay proved costly, costly describes the delay after the linking verb proved."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈkɑːst.li/",
+        "uk": "/ˈkɒst.li/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "requiring a large amount of money",
+        "causing a significant loss or setback"
+      ],
+      "ja": [
+        "費用がかかる、高くつく",
+        "大きな損失や痛手を招く、代償の大きい"
+      ]
+    },
+    "nuance": {
+      "en": "Costly draws attention to the burden or consequences of something. A costly repair takes a lot of money. A costly mistake can cost money, time, an opportunity, or a lead in a game.",
+      "ja": "費用や損失の大きさに焦点がある。a costly repair は修理費がかさむことを表す。a costly mistake の代償には、金銭のほか、時間や機会、試合でのリードなども含まれる。"
+    },
+    "minimal": {
+      "en": [
+        "expensive: An expensive watch has a high price. A costly mistake has serious consequences, which may include lost time or a missed opportunity.",
+        "excessive: Excessive fees are higher than is reasonable. Costly repairs take a lot of money, even if the price is fair.",
+        "damaging: A damaging decision causes harm. A costly decision highlights the loss incurred."
+      ],
+      "ja": [
+        "expensive：an expensive watch は値段の高い時計。a costly mistake は代償の大きいミスで、時間や機会を失う場合にも使える。",
+        "excessive：excessive fees は妥当な水準を超えた料金。costly repairs は修理費の負担が大きいことを表し、金額自体は妥当な場合にも使える。",
+        "damaging：悪影響に焦点がある。costly は被った損失や払った代償を強調する。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "expensive",
+        "note": {
+          "en": "A close equivalent when the cost is monetary.",
+          "ja": "金銭的な費用について使う場合の類義語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from the noun cost and the adjective-forming suffix -ly.",
+      "ja": "名詞 cost（費用、代償）に、形容詞を作る接尾辞 -ly が付いた語。"
+    },
+    "equivalents": {
+      "de": "kostspielig / etwas, das teuer zu stehen kommt",
+      "it": "costoso / che si paga caro",
+      "fr": "coûteux / qui coûte cher",
+      "es": "costoso / que sale caro"
+    },
+    "collocations": {
+      "en": [
+        "a costly mistake",
+        "a costly delay",
+        "costly repairs",
+        "a costly legal dispute",
+        "prove costly",
+        "costly to maintain"
+      ],
+      "ja": [
+        "a costly mistake — 代償の大きいミス",
+        "a costly delay — 大きな損失を招く遅れ",
+        "costly repairs — 費用のかかる修理",
+        "a costly legal dispute — 費用のかさむ法的紛争",
+        "prove costly — 結果的に高くつく、痛手となる",
+        "costly to maintain — 維持費がかかる"
+      ]
+    },
+    "example": {
+      "en": [
+        "Older lifts can be costly to maintain, especially when replacement parts are hard to find.",
+        "A lapse in concentration proved costly for the team, which conceded a goal in the final minute.",
+        "Both sides agreed to settle to avoid a lengthy and costly legal dispute.",
+        "Skipping the backup turned out to be a costly mistake: we lost a week’s worth of work."
+      ],
+      "ja": [
+        "Older lifts can be costly to maintain, especially when replacement parts are hard to find. — 古いエレベーターは、特に交換部品が手に入りにくい場合、維持費がかさむことがある。",
+        "A lapse in concentration proved costly for the team, which conceded a goal in the final minute. — 集中が一瞬途切れたことがチームには痛手となり、試合終了間際に失点した。",
+        "Both sides agreed to settle to avoid a lengthy and costly legal dispute. — 両当事者は、長引いて費用もかさむ法的紛争を避けるため、和解に合意した。",
+        "Skipping the backup turned out to be a costly mistake: we lost a week’s worth of work. — バックアップを取らなかったのは高くついた。1週間分の作業が失われた。"
+      ]
+    }
   }
 ]
