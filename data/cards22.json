@@ -1,1 +1,120 @@
-[]
+[
+  {
+    "id": "beneath",
+    "sid": "2026-01846",
+    "word": "beneath",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "preposition",
+      "adverb",
+      "position",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "preposition / adverb",
+      "patterns": [
+        "beneath + noun / pronoun",
+        "just / directly beneath + noun",
+        "beneath the surface",
+        "be beneath someone / someone’s dignity",
+        "with + noun phrase + beneath"
+      ],
+      "usage": {
+        "preposition": "Beneath normally takes a complement in expressions such as beneath the floor or beneath her.",
+        "adverb": "In the more literary adverb use, the reference point is understood: a bench with drawers beneath.",
+        "register": "For literal position, beneath often sounds more formal or literary than under. For numerical thresholds, use under or below, as in below zero."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/bɪˈniːθ/",
+        "uk": "/bɪˈniːθ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(preposition) at a lower level than something, often directly under it or covered by it",
+        "(preposition, figurative) hidden behind an outward appearance",
+        "(preposition, figurative) below the level, status, or standards considered appropriate for someone",
+        "(adverb) below or underneath, with the reference point understood"
+      ],
+      "ja": [
+        "（前置詞）〜の下に、〜の真下に、〜に覆われたところに",
+        "（前置詞・比喩）表面に見えるものの裏に",
+        "（前置詞・比喩）〜の水準に満たない、〜の立場や品位にふさわしくない",
+        "（副詞）下に、その下に"
+      ]
+    },
+    "nuance": {
+      "ja": "位置を表す beneath は描写的で、beneath the surface のように表面に隠れたものを描くときにも合う。I thought the work was beneath me. なら、仕事を自分の地位や能力に見合わないと見下している響きが出やすい。That remark was beneath you. なら、相手ならもっと品位ある振る舞いができたはずだという非難や失望を表す。",
+      "en": "Beneath lends itself to descriptive writing, especially for things hidden by a surface or an outward appearance. I thought the work was beneath me can sound self-important. That remark was beneath you expresses disappointment that someone acted below the standard you expect of them."
+    },
+    "minimal": {
+      "en": [
+        "under: The everyday choice for physical position. It also appears in expressions such as under pressure and under 18.",
+        "below: Common for a lower position or a point on a scale, as in below zero or below average. Beneath often evokes a layer or surface above.",
+        "underneath: Often emphasizes direct position or concealment. Beneath also has the established sense of being below someone’s dignity or standards."
+      ],
+      "ja": [
+        "under：位置を表す日常的な語。under pressure（プレッシャーを受けて）や under 18（18歳未満）にも使う。",
+        "below：位置や数値・基準が低いことに使いやすい。below zero は「零度未満」。beneath には上に覆うものや表面があるイメージが出やすい。",
+        "underneath：真下にあることや覆われていることを強調しやすい。beneath には、地位や品位にふさわしくないという用法もある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "underneath",
+        "note": {
+          "ja": "物理的に下にある、下に隠れている。",
+          "en": "Physically under or hidden by something."
+        }
+      },
+      {
+        "word": "unworthy of",
+        "note": {
+          "ja": "人の品位や水準にふさわしくない。",
+          "en": "Below the standard someone is expected to meet."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "中英語 binethe を経て、古英語 beneoðan「下に、より低いところに」にさかのぼる。be- と neoðan「下に」からなり、underneath にも同じ neoðan が含まれる。地位や程度の低さを表す比喩も古英語に見られる。",
+      "en": "Through Middle English binethe, from Old English beneoðan, formed with be- and neoðan ‘below.’ The latter element also occurs in the ancestor of underneath. Figurative use for lower rank or degree already existed in Old English."
+    },
+    "equivalents": {
+      "de": "unter / unterhalb / unter jemandes Würde",
+      "it": "sotto / al di sotto di / indegno di qualcuno",
+      "fr": "sous / en dessous de / indigne de quelqu’un",
+      "es": "debajo de / por debajo de / indigno de alguien"
+    },
+    "collocations": {
+      "en": [
+        "just beneath the surface",
+        "beneath our feet",
+        "beneath a calm exterior",
+        "beneath someone’s dignity"
+      ],
+      "ja": [
+        "just beneath the surface — 表面のすぐ下に",
+        "beneath our feet — 私たちの足元に",
+        "beneath a calm exterior — 落ち着いた外見の裏に",
+        "beneath someone’s dignity — 人の品位にふさわしくない"
+      ]
+    },
+    "example": {
+      "en": [
+        "The old tiles were still there, just beneath the wooden floor.",
+        "Beneath her calm exterior, she was worried about how the client would react.",
+        "You can disagree with her, but making fun of her accent was beneath you.",
+        "The hallway had a narrow bench with two drawers beneath."
+      ],
+      "ja": [
+        "The old tiles were still there, just beneath the wooden floor. — 木の床のすぐ下に、古いタイルがまだ残っていた。",
+        "Beneath her calm exterior, she was worried about how the client would react. — 表向きは落ち着いていたが、内心では依頼人がどう反応するか心配していた。",
+        "You can disagree with her, but making fun of her accent was beneath you. — 彼女に反対するのはいいけれど、アクセントをからかうなんて君らしくないよ。",
+        "The hallway had a narrow bench with two drawers beneath. — 廊下には細長いベンチがあり、その下に引き出しが二つ付いていた。"
+      ]
+    }
+  }
+]
