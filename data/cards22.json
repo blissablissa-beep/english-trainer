@@ -483,5 +483,129 @@
         "The essays find something unordinary in ordinary routines, from making tea to waiting for a bus. — そのエッセイ集は、お茶をいれたりバスを待ったりといった日常の習慣の中に、ありふれていない何かを見つけ出している。"
       ]
     }
+  },
+  {
+    "id": "extraordinary",
+    "sid": "2026-01850",
+    "word": "extraordinary",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "evaluation",
+      "business",
+      "meetings"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "extraordinary",
+        "adverb": "extraordinarily",
+        "antonym": "ordinary"
+      },
+      "patterns": [
+        "an extraordinary + singular noun",
+        "be extraordinary",
+        "truly / quite extraordinary",
+        "in extraordinary circumstances",
+        "call an extraordinary meeting"
+      ],
+      "usage": {
+        "strength": "Extraordinary can describe something strikingly good or simply very unusual. The noun and context determine the evaluation.",
+        "meetings": "An extraordinary meeting is specially convened outside the regular schedule. The expression does not by itself say how urgent the meeting is."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪkˈstrɔːr.dən.er.i/",
+        "uk": "/ɪkˈstrɔː.dɪn.ər.i/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "very unusual, unexpected, or striking",
+        "exceptionally impressive or outstanding",
+        "(typically before a noun, especially in formal contexts) outside a regular schedule or procedure"
+      ],
+      "ja": [
+        "極めて異例の、驚くほど珍しい、常識では考えにくい",
+        "並外れた、目を見張るほどすばらしい",
+        "（主に名詞の前・改まった文脈）定例や通常の枠外の、臨時の、特別の"
+      ]
+    },
+    "nuance": {
+      "en": "An extraordinary achievement usually expresses admiration. An extraordinary coincidence expresses surprise, and extraordinary damage stresses severity. In institutional language an extraordinary meeting is a meeting outside the regular schedule.",
+      "ja": "an extraordinary achievement なら功績への称賛、an extraordinary coincidence なら偶然への驚き、extraordinary damage なら被害の大きさが伝わる。会議については、extraordinary meeting で定例とは別に開く「臨時会議」を指す。"
+    },
+    "minimal": {
+      "en": [
+        "ordinary: Regular or unremarkable. Extraordinary marks something well outside the ordinary range or schedule.",
+        "unusual: Different from what is normal or expected. Extraordinary typically signals stronger surprise or a greater departure.",
+        "unordinary: An uncommon word for something atypical or distinctive, sometimes used in deliberate contrast with ordinary. Extraordinary is the more established choice for something strikingly exceptional.",
+        "exceptional: Often emphasizes outstanding quality, although it can also mean outside the norm. Extraordinary readily expresses surprise at an event or coincidence."
+      ],
+      "ja": [
+        "ordinary：ごく普通の、通常の。extraordinary は通常の範囲や定例の枠から大きく外れることを示す。",
+        "unusual：普通と違う、珍しい。extraordinary は驚きや異例さをより強く伝えることが多い。",
+        "unordinary：普通と違う、ひと味違う。ordinary と対比させる文章などに見られるまれな語。並外れたことを表す定着した語は extraordinary。",
+        "exceptional：飛び抜けた質を示すことが多く、例外的という意味もある。extraordinary は出来事や偶然への驚きも表しやすい。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "remarkable",
+        "note": {
+          "en": "Striking enough to attract attention or admiration.",
+          "ja": "注目や称賛に値する、目を見張る。"
+        }
+      },
+      {
+        "word": "outstanding",
+        "note": {
+          "en": "Close in the sense of exceptional quality or achievement.",
+          "ja": "質や成果をほめるときの「傑出した」。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin extraordinarius, from extra ordinem, meaning ‘outside the usual order.’ Extra means ‘outside’ and ordinem is a form of ordo, ‘order’ or ‘rank,’ the same root behind ordinary.",
+      "ja": "ラテン語 extraordinarius に由来し、extra ordinem「通常の秩序の外に」にさかのぼる。extra は「外に」、ordinem は ordo「順序・階級」の語形で、ordinary と同じ語根を持つ。"
+    },
+    "equivalents": {
+      "de": "außergewöhnlich / außerordentlich",
+      "it": "straordinario",
+      "fr": "extraordinaire",
+      "es": "extraordinario"
+    },
+    "collocations": {
+      "en": [
+        "an extraordinary achievement",
+        "an extraordinary coincidence",
+        "extraordinary courage",
+        "extraordinary circumstances",
+        "an extraordinary general meeting (EGM)"
+      ],
+      "ja": [
+        "an extraordinary achievement — 並外れた功績",
+        "an extraordinary coincidence — 驚くほどの偶然",
+        "extraordinary courage — 並外れた勇気",
+        "extraordinary circumstances — 異例の事情",
+        "an extraordinary general meeting (EGM) — 臨時総会（会社では臨時株主総会）"
+      ]
+    },
+    "example": {
+      "en": [
+        "She showed extraordinary patience as she walked me through the entire process.",
+        "It was an extraordinary coincidence that we booked seats next to each other on the same flight.",
+        "The storm caused extraordinary damage along the coast.",
+        "The association called an extraordinary general meeting to vote on the proposed merger."
+      ],
+      "ja": [
+        "She showed extraordinary patience as she walked me through the entire process. — 彼女は驚くほど辛抱強く、手続きの一つひとつを私に説明してくれた。",
+        "It was an extraordinary coincidence that we booked seats next to each other on the same flight. — 偶然同じ便を予約し、しかも席が隣同士だったなんて驚きだ。",
+        "The storm caused extraordinary damage along the coast. — 嵐は沿岸一帯に甚大な被害をもたらした。",
+        "The association called an extraordinary general meeting to vote on the proposed merger. — 協会は合併案の採決を行うために臨時総会を開くことにした。"
+      ]
+    }
   }
 ]
