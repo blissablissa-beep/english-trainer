@@ -8961,5 +8961,116 @@
         "Let’s keep peeling the onion. We know where the error showed up, but we still don’t know why it happened. — もう少し掘り下げよう。エラーがどこで出たかは分かったが、なぜ起きたかはまだ分からない。"
       ]
     }
+  },
+  {
+    "id": "drink-from-a-fire-hose",
+    "sid": "2026-01837",
+    "word": "drink from a fire hose",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "idiom",
+      "verb phrase",
+      "informal",
+      "information",
+      "workload"
+    ],
+    "grammar": {
+      "pos": "idiomatic verb phrase",
+      "forms": {
+        "base": "drink from a fire hose",
+        "past": "drank from a fire hose",
+        "pastParticiple": "drunk from a fire hose",
+        "presentParticiple": "drinking from a fire hose",
+        "variant": "drink from a firehose"
+      },
+      "patterns": [
+        "feel like drinking from a fire hose",
+        "it’s like drinking from a fire hose",
+        "be drinking from a fire hose"
+      ],
+      "usage": {
+        "comparison": "The expression is often framed as a comparison with like. It also works as a verb phrase on its own.",
+        "spelling": "Both fire hose and firehose occur. The idiom can use a or the."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/drɪŋk frəm ə ˈfaɪɚ ˌhoʊz/",
+        "uk": "/drɪŋk frəm ə ˈfaɪə ˌhəʊz/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(informal) to try to absorb more information or handle more work than you can comfortably process, especially when it arrives very quickly"
+      ],
+      "ja": [
+        "（口語）短時間に大量の情報や仕事が押し寄せ、理解や処理が追いつかない状態で何とか対応しようとする"
+      ]
+    },
+    "nuance": {
+      "ja": "新しい職場で次々に説明を受けたり、問い合わせが一気に届いたりして、処理する量や速さに圧倒されるときに使う。受け取る側の体験に焦点があり、新しいことを学ぶのが面白くても、情報が多すぎて消化しきれないなら使える。",
+      "en": "The idiom focuses on the experience of trying to keep up with a fast, heavy flow of information or demands. It can describe an exciting but overwhelming stretch of learning as well as a stressful workload."
+    },
+    "minimal": {
+      "en": [
+        "information overload: Names the state of having too much information to process. Drinking from a fire hose vividly describes trying to take it in as it comes.",
+        "a steep learning curve: A demanding period of learning. The fire hose image highlights the rate and volume of input.",
+        "be thrown in at the deep end: Be put in a difficult situation with little preparation. The fire hose idiom highlights what is coming at you."
+      ],
+      "ja": [
+        "information overload：情報過多という状態。drink from a fire hose は、押し寄せる情報をその場で何とか受け止めようとする様子を描く。",
+        "a steep learning curve：習得に苦労する状況。drink from a fire hose は、入ってくる情報の量と速さを強調する。",
+        "be thrown in at the deep end：準備がほとんどないまま難しい状況に放り込まれる。drink from a fire hose は、そこで何がどれだけ押し寄せるかに焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "be inundated with information",
+        "note": {
+          "ja": "大量の情報が押し寄せることを直接表す。",
+          "en": "To receive an overwhelming amount of information."
+        }
+      },
+      {
+        "word": "struggle to take it all in",
+        "note": {
+          "ja": "すべてを理解しようとして苦労する。",
+          "en": "To have difficulty absorbing everything at once."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "消防用ホース（fire hose）から勢いよく出る水を飲もうとしても、流れが速すぎて受け止めきれない、という比喩。押し寄せる水が、処理しきれない情報や仕事に当たる。",
+      "en": "The metaphor imagines trying to drink from the powerful stream of a firefighting hose. The volume and speed of the water stand for information or demands arriving faster than you can handle them."
+    },
+    "equivalents": {
+      "de": "von einer Informationsflut überwältigt werden",
+      "it": "essere sommersi da una valanga di informazioni",
+      "fr": "être submergé par un flot d’informations",
+      "es": "verse desbordado por una avalancha de información"
+    },
+    "collocations": {
+      "en": [
+        "feel like drinking from a fire hose",
+        "like drinking from a fire hose on your first day"
+      ],
+      "ja": [
+        "feel like drinking from a fire hose — 情報や仕事が押し寄せて処理が追いつかないように感じる",
+        "like drinking from a fire hose on your first day — 初日から大量の情報に圧倒されるような状態"
+      ]
+    },
+    "example": {
+      "en": [
+        "My first week at the new firm felt like drinking from a fire hose. I was learning three systems and meeting new clients every day.",
+        "Once the announcement went out, we were drinking from a fire hose. Requests were coming in faster than we could answer them.",
+        "The workshop was fascinating, but trying to absorb a month’s worth of material in one afternoon was like drinking from a fire hose."
+      ],
+      "ja": [
+        "My first week at the new firm felt like drinking from a fire hose. I was learning three systems and meeting new clients every day. — 新しい事務所での最初の1週間は、情報が押し寄せて頭が追いつかなかった。三つのシステムを覚えながら、毎日初対面の依頼人に会っていた。",
+        "Once the announcement went out, we were drinking from a fire hose. Requests were coming in faster than we could answer them. — 発表を出した途端、依頼が殺到した。対応するそばから次々に届いて、まるで追いつかなかった。",
+        "The workshop was fascinating, but trying to absorb a month’s worth of material in one afternoon was like drinking from a fire hose. — 研修は面白かったが、ひと月分の内容を午後だけで吸収しようとしても、頭が追いつかなかった。"
+      ]
+    }
   }
 ]
