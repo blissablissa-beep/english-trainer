@@ -4952,5 +4952,128 @@
         "The board hoped a few concessions would placate her, but she remained implacably opposed to the merger. — 取締役会は多少譲歩すれば彼女の反発が和らぐと期待したが、彼女は合併への反対を崩さなかった。"
       ]
     }
+  },
+  {
+    "id": "spending",
+    "sid": "2026-01803",
+    "word": "spending",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "money",
+      "economics",
+      "budget"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable",
+      "patterns": [
+        "spending on + noun",
+        "cut / increase spending",
+        "an increase in spending",
+        "spending fell by + amount"
+      ],
+      "usage": {
+        "agreement": "Use singular agreement: Consumer spending has risen. For individual items, use expenses, purchases, or payments, depending on the context.",
+        "verbForm": "In We’re spending more on food, spending is the -ing form of spend. In Our spending on food has risen, spending is a noun."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈspen.dɪŋ/",
+        "uk": "/ˈspen.dɪŋ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the act or pattern of using money to buy goods or services or pay for activities",
+        "the amount of money spent by a person, group, or government"
+      ],
+      "ja": [
+        "お金を使うこと、出費、支出",
+        "（家計・企業・政府などの）支出額、消費額"
+      ]
+    },
+    "nuance": {
+      "ja": "一定の期間や分野で、誰が何にどれだけお金を使うかを述べるときに便利。spending on eating out は外食への出費、consumer spending は消費者支出。cut spending は実際の支出を減らすことを表す。家計などで個々の費用を挙げるなら travel expenses のように expenses がよく合う。",
+      "en": "Spending often describes the total, pattern, or trend of money spent by a person or group. Spending on eating out singles out one category, while consumer spending describes what consumers spend collectively. Expenses often names particular costs, as in travel expenses."
+    },
+    "minimal": {
+      "en": [
+        "expenditure: Overlaps with spending and sounds more formal, especially in accounts and reports. Capital expenditure is an established accounting term.",
+        "expenses: Costs incurred for particular needs or activities. Travel expenses can include individual fares and hotel charges.",
+        "budget: A plan or amount set aside in advance. Spending is the money actually used, or the act of using it.",
+        "cost: What a product or activity costs. Spending focuses on what a person or organization pays out."
+      ],
+      "ja": [
+        "expenditure：spending と意味が重なり、会計や報告書ではより改まった表現。capital expenditure は「資本的支出」という定着した会計用語。",
+        "expenses：特定の活動や用事のためにかかる費用。travel expenses には交通費や宿泊費など個々の費用が含まれる。",
+        "budget：事前に立てる資金計画や使える金額。spending は実際にお金を使うことや使った金額を指す。",
+        "cost：品物や活動にいくらかかるか。spending は人や組織がいくら使うかに焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "expenditure",
+        "note": {
+          "ja": "支出。公的・会計的な文脈でよく使う。",
+          "en": "Money spent, especially in formal or financial contexts."
+        }
+      },
+      {
+        "word": "outlay",
+        "note": {
+          "ja": "特定の目的に投じる金額。",
+          "en": "An amount spent for a particular purpose."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "動詞 spend「お金・時間などを使う」に -ing が付いた形。名詞として単独で使う spending は、ふつう金銭の支出を表す。spending time with family の spending は動詞 spend の -ing 形。",
+      "en": "Formed from spend and -ing. The standalone noun usually refers to money. In spending time with family, spending is the -ing form of the verb spend."
+    },
+    "equivalents": {
+      "de": "Ausgaben / Konsumausgaben",
+      "it": "spesa / spese",
+      "fr": "dépenses",
+      "es": "gasto / gastos"
+    },
+    "collocations": {
+      "en": [
+        "consumer spending",
+        "household spending",
+        "government spending",
+        "discretionary spending",
+        "cut back on spending",
+        "track your spending",
+        "a spending cap"
+      ],
+      "ja": [
+        "consumer spending — 消費者支出、個人消費",
+        "household spending — 家計支出",
+        "government spending — 政府支出",
+        "discretionary spending — 裁量で決められる支出（家計なら必需品以外への支出など）",
+        "cut back on spending — 出費を抑える",
+        "track your spending — 自分の出費を記録・把握する",
+        "a spending cap — 支出の上限"
+      ]
+    },
+    "example": {
+      "en": [
+        "I started tracking my spending and found that I was paying for three subscriptions I barely used.",
+        "We’re cutting back on spending on takeout so we can save for a trip.",
+        "Consumer spending rose in June, led by higher spending on travel and dining out.",
+        "The proposal would increase government spending on public transit.",
+        "Our actual spending came in under budget, even after we added the delivery fees."
+      ],
+      "ja": [
+        "I started tracking my spending and found that I was paying for three subscriptions I barely used. — 出費を記録し始めたら、ほとんど使っていないサブスクを三つも契約していることに気づいた。",
+        "We’re cutting back on spending on takeout so we can save for a trip. — 旅行資金を貯めるため、テイクアウトへの出費を抑えている。",
+        "Consumer spending rose in June, led by higher spending on travel and dining out. — 6月は旅行や外食への支出増が牽引し、個人消費が伸びた。",
+        "The proposal would increase government spending on public transit. — この提案が実施されれば、公共交通への政府支出が増えることになる。",
+        "Our actual spending came in under budget, even after we added the delivery fees. — 配送料を加えても、実際の支出は予算内に収まった。"
+      ]
+    }
   }
 ]
