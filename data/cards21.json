@@ -9536,5 +9536,125 @@
         "A big-shot producer showed up at the screening and stayed to talk to the students. — 大物プロデューサーが上映会に顔を出し、その後も残って学生たちと話をした。"
       ]
     }
+  },
+  {
+    "id": "quiet-down",
+    "sid": "2026-01842",
+    "word": "quiet down",
+    "level": "B1",
+    "freq": "sometimes",
+    "tags": [
+      "phrasal verb",
+      "American English",
+      "noise",
+      "calm"
+    ],
+    "grammar": {
+      "pos": "phrasal verb",
+      "transitivity": "intransitive or transitive; separable in transitive use",
+      "forms": {
+        "base": "quiet down",
+        "thirdPerson": "quiets down",
+        "past": "quieted down",
+        "pastParticiple": "quieted down",
+        "presentParticiple": "quieting down",
+        "ukVariant": "quieten down"
+      },
+      "patterns": [
+        "someone / something quiets down",
+        "quiet someone / something down",
+        "quiet down + noun phrase",
+        "quiet them down",
+        "could you quiet down a little?"
+      ],
+      "usage": {
+        "objects": "With a pronoun, put it between quiet and down: quiet them down. A noun phrase can go in either position: quiet the crowd down or quiet down the crowd.",
+        "regional": "Quiet down is mainly American. Quieten down is usual in British English and has the past form quietened down."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌkwaɪ.ət ˈdaʊn/",
+        "uk": "/ˌkwaɪ.ət ˈdaʊn/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to become less noisy or less active, or to make someone or something less noisy or less active",
+        "(of a situation or disturbance) to become calmer or less intense"
+      ],
+      "ja": [
+        "静かになる、騒がしさが収まる。人や騒ぎを静める",
+        "（事態や騒動などが）落ち着く、勢いが収まる"
+      ]
+    },
+    "nuance": {
+      "ja": "話し声や騒音が小さくなったり、騒がしい場が落ち着いたりする変化を表す。完全に無音になる必要はない。Quiet down! はやや強い指示に聞こえ、Could you quiet down a little? なら声量を控えてほしいと穏やかに頼める。When things quiet down のように、忙しさや騒動が収まるときにも使える。",
+      "en": "The phrase describes a reduction in noise or activity. Quiet down! can sound like a firm instruction, while Could you quiet down a little? is a softer request. When things quiet down can refer to a period becoming less hectic."
+    },
+    "minimal": {
+      "en": [
+        "be quiet: Describes a quiet state or asks someone to stop making noise. Quiet down emphasizes becoming quieter.",
+        "calm down: Emphasizes a decrease in anger, anxiety, or excitement. Quiet down often focuses on noise or outward activity.",
+        "settle down: Can mean becoming calmer or getting ready to focus. It can also refer to establishing a settled way of life."
+      ],
+      "ja": [
+        "be quiet：静かな状態や「静かにして」という指示。quiet down は騒がしい状態から静かになる変化を表す。",
+        "calm down：怒りや不安、興奮が収まることに重点がある。quiet down は音や周囲の動きが収まる場面によく合う。",
+        "settle down：落ち着く、集中できる状態になる。生活が安定するという意味でも使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "become quieter",
+        "note": {
+          "ja": "音や声が小さくなることを直接表す。",
+          "en": "A plain description of a drop in noise."
+        }
+      },
+      {
+        "word": "hush",
+        "note": {
+          "ja": "静かにさせる、静かになる。発話や音を抑える場面に合う。",
+          "en": "To become quiet or make someone stop making noise."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "動詞 quiet「静かにする、静かになる」と副詞 down からなる。音量や活動の度合いが下がることを down で表している。",
+      "en": "The phrase combines the verb quiet with the particle down, which suggests a decrease in noise or activity."
+    },
+    "equivalents": {
+      "de": "leiser werden / jemanden zur Ruhe bringen",
+      "it": "fare meno rumore / far quietare qualcuno",
+      "fr": "se calmer / faire taire quelqu’un",
+      "es": "hacer menos ruido / calmar a alguien"
+    },
+    "collocations": {
+      "en": [
+        "wait for the room to quiet down",
+        "quiet the kids down",
+        "once things quiet down"
+      ],
+      "ja": [
+        "wait for the room to quiet down — 部屋が静かになるのを待つ",
+        "quiet the kids down — 子どもたちを静かにさせる",
+        "once things quiet down — ひと段落したら"
+      ]
+    },
+    "example": {
+      "en": [
+        "The room quieted down as soon as the speaker walked in.",
+        "Could you quiet down a little? I’m on a call with a client.",
+        "The teacher clapped twice to quiet the class down.",
+        "Let’s revisit the proposal once things quiet down after the launch."
+      ],
+      "ja": [
+        "The room quieted down as soon as the speaker walked in. — 講演者が入ってくると、部屋はすぐに静かになった。",
+        "Could you quiet down a little? I’m on a call with a client. — 少し静かにしてもらえる？　依頼人と通話中なんだ。",
+        "The teacher clapped twice to quiet the class down. — 先生はクラスを静かにさせるために、手を二回たたいた。",
+        "Let’s revisit the proposal once things quiet down after the launch. — 公開後の忙しさがひと段落したら、その提案を改めて検討しよう。"
+      ]
+    }
   }
 ]
