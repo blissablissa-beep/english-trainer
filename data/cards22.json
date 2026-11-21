@@ -1903,5 +1903,122 @@
         "They converted an old stone barn into a home. — 彼らは古い石造りの納屋を住宅に改装した。"
       ]
     }
+  },
+  {
+    "id": "sled",
+    "sid": "2026-01862",
+    "word": "sled",
+    "level": "B1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "verb",
+      "winter",
+      "transport"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "countable as a noun",
+      "forms": {
+        "plural": "sleds",
+        "past": "sledded",
+        "pastParticiple": "sledded",
+        "presentParticiple": "sledding"
+      },
+      "patterns": [
+        "ride a sled",
+        "pull a sled",
+        "travel by dog sled",
+        "go sledding",
+        "sled down a hill"
+      ],
+      "usage": {
+        "verb": "As a verb, sled is usually intransitive when it means to ride a sled. Double the d in sledded and sledding.",
+        "regional": "Sled and go sledding are especially common in North American English. British English commonly uses sledge and go sledging."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/sled/",
+        "uk": "/sled/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(noun) a vehicle that slides over snow or ice, used for recreation or to carry people or loads",
+        "(verb, especially North American) to ride on a sled, often for fun"
+      ],
+      "ja": [
+        "そり。雪や氷の上で遊んだり、人や荷物を運んだりする道具・乗り物",
+        "（主に北米）そりに乗る、そりで滑る"
+      ]
+    },
+    "nuance": {
+      "en": "A sled may be a lightweight toy for sliding downhill or a vehicle pulled by dogs to carry people and supplies. Sleds often have runners, although some modern play sleds slide on a smooth plastic base.",
+      "ja": "坂を滑り降りて遊ぶ軽いそりにも、人や物資を運ぶ犬ぞりにも使える。底に滑走用の細長い部材が付いたものが多いが、遊び用にはプラスチックの底面全体で滑るタイプもある。"
+    },
+    "minimal": {
+      "en": [
+        "sledge: The usual British equivalent of sled, for both recreation and transport.",
+        "sleigh: Often a larger passenger sled pulled by horses or, in stories, reindeer.",
+        "toboggan: Traditionally a long, flat sled with no runners and an upturned front."
+      ],
+      "ja": [
+        "sledge：遊び用や運搬用のそりを指す、イギリス英語で一般的な呼び方。",
+        "sleigh：馬などが引く比較的大きな人乗りのそりによく使う。サンタのそりも sleigh。",
+        "toboggan：伝統的には、先端が反り上がった細長い板状のそり。底に滑走用の細長い部材がない。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "sledge",
+        "note": {
+          "en": "The common British English equivalent.",
+          "ja": "イギリス英語で一般的な相当語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Dutch slede ‘sledge’.",
+      "ja": "オランダ語の slede（そり）に由来する。"
+    },
+    "equivalents": {
+      "de": "der Schlitten / Schlitten fahren",
+      "it": "la slitta / andare in slitta",
+      "fr": "la luge / le traîneau / faire de la luge",
+      "es": "el trineo / deslizarse en trineo"
+    },
+    "collocations": {
+      "en": [
+        "a plastic sled",
+        "a dog sled",
+        "pull a sled",
+        "load supplies onto a sled",
+        "go sledding",
+        "sled down a hill"
+      ],
+      "ja": [
+        "a plastic sled — プラスチック製のそり",
+        "a dog sled — 犬ぞり",
+        "pull a sled — そりを引く",
+        "load supplies onto a sled — そりに物資を積む",
+        "go sledding — そり遊びをする",
+        "sled down a hill — そりで坂を滑り降りる"
+      ]
+    },
+    "example": {
+      "en": [
+        "After the first snowfall, the kids took their sleds to the park.",
+        "We went sledding on the hill behind the school.",
+        "The team carried supplies across the frozen lake by dog sled.",
+        "We sledded down the hill until it got dark."
+      ],
+      "ja": [
+        "After the first snowfall, the kids took their sleds to the park. — 初雪のあと、子どもたちはそりを持って公園へ行った。",
+        "We went sledding on the hill behind the school. — 私たちは学校の裏の坂でそり遊びをした。",
+        "The team carried supplies across the frozen lake by dog sled. — 一行は犬ぞりで凍った湖を渡り、物資を運んだ。",
+        "We sledded down the hill until it got dark. — 私たちは暗くなるまで、そりで何度も坂を滑り降りた。"
+      ]
+    }
   }
 ]
