@@ -1194,5 +1194,108 @@
         "Our sales outreach focuses on companies that have already shown an interest in the service. — 営業では、そのサービスにすでに関心を示した企業を中心に連絡を取っている。"
       ]
     }
+  },
+  {
+    "id": "pawnbroker",
+    "sid": "2026-01856",
+    "word": "pawnbroker",
+    "level": "C1",
+    "freq": "rare",
+    "tags": [
+      "noun",
+      "finance",
+      "occupation"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "singular": "pawnbroker",
+        "plural": "pawnbrokers"
+      },
+      "patterns": [
+        "borrow money from a pawnbroker",
+        "pawn something at a pawnshop",
+        "take something to a pawnbroker"
+      ],
+      "usage": {
+        "place": "At the pawnbroker’s means at the pawnbroker’s shop."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈpɑːnˌbroʊ.kɚ/",
+        "uk": "/ˈpɔːnˌbrəʊ.kə(r)/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a person or business that lends money against personal property left as security"
+      ],
+      "ja": [
+        "質屋、質屋業者。品物を質に取って金を貸す人や業者"
+      ]
+    },
+    "nuance": {
+      "en": "The item stays with the pawnbroker as security for the loan. The borrower can get it back by repaying the loan and any agreed charges. If the borrower fails to repay on time, the pawnbroker may sell the item.",
+      "ja": "預けた品は借入金の担保になる。借入金と取り決められた利息や手数料などを支払えば、品物を取り戻せる。期限までに返済しない場合、質屋は品物を売却できることがある。"
+    },
+    "minimal": {
+      "en": [
+        "pawnshop: The shop where a pawnbroker does business.",
+        "secondhand dealer: A dealer who buys and sells used goods. A pawnbroker makes loans against valuables.",
+        "pawn (verb): To leave an item as security for a loan."
+      ],
+      "ja": [
+        "pawnshop：質屋の店舗。pawnbroker はそこで融資を行う人や業者。",
+        "secondhand dealer：中古品を買い取って売る業者。pawnbroker は品物を担保に金を貸す。",
+        "pawn（動詞）：品物を質に入れる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "pawn lender",
+        "note": {
+          "en": "A term for a lender that offers pawn loans.",
+          "ja": "質物を担保とする融資を行う業者。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "A compound of pawn, meaning an item pledged as security, and broker. Pawn here is the word used in to pawn a watch.",
+      "ja": "担保として預ける品を表す pawn と、取引を扱う人を表す broker の複合語。ここでの pawn は pawn a watch（時計を質に入れる）の pawn と同じ語。"
+    },
+    "equivalents": {
+      "de": "der Pfandleiher / die Pfandleiherin",
+      "it": "prestatore / prestatrice su pegno",
+      "fr": "prêteur / prêteuse sur gages",
+      "es": "prestamista prendario / prendaria"
+    },
+    "collocations": {
+      "en": [
+        "a local pawnbroker",
+        "borrow money from a pawnbroker",
+        "take a watch to a pawnbroker",
+        "get a ring back from the pawnbroker"
+      ],
+      "ja": [
+        "a local pawnbroker — 地元の質屋",
+        "borrow money from a pawnbroker — 質屋からお金を借りる",
+        "take a watch to a pawnbroker — 時計を質屋に持ち込む",
+        "get a ring back from the pawnbroker — 質屋から指輪を取り戻す"
+      ]
+    },
+    "example": {
+      "en": [
+        "He took his watch to a pawnbroker to borrow enough money to cover the repair bill.",
+        "She paid off the loan and got her ring back from the pawnbroker.",
+        "The pawnbroker offered to lend me $100 against the camera."
+      ],
+      "ja": [
+        "He took his watch to a pawnbroker to borrow enough money to cover the repair bill. — 修理代をまかなうお金を借りるため、彼は腕時計を質屋に持ち込んだ。",
+        "She paid off the loan and got her ring back from the pawnbroker. — 彼女は借入金を完済し、質屋から指輪を取り戻した。",
+        "The pawnbroker offered to lend me $100 against the camera. — 質屋は、そのカメラを担保に100ドル貸せると言った。"
+      ]
+    }
   }
 ]
