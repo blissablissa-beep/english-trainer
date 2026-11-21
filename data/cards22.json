@@ -836,5 +836,127 @@
         "The documentary was unsettling at times, but I found it fascinating. — そのドキュメンタリーには時折ぞっとするところもあったが、私はとても興味を引かれた。"
       ]
     }
+  },
+  {
+    "id": "profound",
+    "sid": "2026-01853",
+    "word": "profound",
+    "level": "C2",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "understanding",
+      "impact",
+      "emotion"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "profound",
+        "comparative": "more profound",
+        "superlative": "most profound",
+        "adverb": "profoundly"
+      },
+      "patterns": [
+        "a profound insight into + noun",
+        "have a profound effect / impact on + noun",
+        "a profound sense of + noun",
+        "bring about profound changes",
+        "be profoundly affected by + noun"
+      ],
+      "usage": {
+        "collocations": "Use into with insight and on with effect or impact. Profound is mainly figurative in everyday modern English."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/prəˈfaʊnd/",
+        "uk": "/prəˈfaʊnd/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "showing deep understanding or thought",
+        "having a very strong or far-reaching effect, or involving fundamental change",
+        "felt or experienced very intensely"
+      ],
+      "ja": [
+        "深い理解や思考を示す、洞察の深い",
+        "非常に大きな影響を及ぼす、根本に及ぶ",
+        "（感情などが）非常に強い、深く感じられる"
+      ]
+    },
+    "nuance": {
+      "en": "A profound insight reaches beyond surface observations. A profound impact can change how people live or think. With emotions, profound conveys depth or intensity, as in profound grief or a profound sense of relief. It is often more formal than deep.",
+      "ja": "a profound insight は表面的な観察を超えた「深い洞察」。a profound impact は人の暮らしや考え方にまで及ぶような「大きな影響」。profound grief や a profound sense of relief は感情の深さや強さを表す。deep より改まった響きが出やすい。"
+    },
+    "minimal": {
+      "en": [
+        "deep: A broad word for physical or figurative depth. It works naturally in a deep lake as well as deep sadness.",
+        "significant: Important or noticeable enough to matter. A profound impact suggests a particularly strong or far-reaching influence.",
+        "insightful: Shows perceptive understanding. Profound often suggests greater depth or implications and also describes strong feelings or effects."
+      ],
+      "ja": [
+        "deep：物理的な深さにも比喩にも使える。a deep lake（深い湖）や deep sadness（深い悲しみ）など。",
+        "significant：無視できないほど重要な、顕著な。a profound impact は、影響の強さや及ぶ範囲をより強く示す。",
+        "insightful：物事の本質をよく見抜いている。profound は理解の深さを強く示すほか、感情や影響にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "deep",
+        "note": {
+          "en": "A close equivalent for feelings or understanding.",
+          "ja": "感情や理解についての「深い」。"
+        }
+      },
+      {
+        "word": "far-reaching",
+        "note": {
+          "en": "Emphasizes effects that extend widely.",
+          "ja": "影響が広い範囲に及ぶ。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French profont or profund and Latin profundus, ‘deep,’ formed from pro ‘forth’ and fundus ‘bottom.’ Both literal depth and figurative depth were already expressed in Latin.",
+      "ja": "古フランス語 profont / profund とラテン語 profundus「深い」にさかのぼる。ラテン語では pro「前へ」と fundus「底」から成り、物理的な深さと比喩的な深さの両方に使われた。"
+    },
+    "equivalents": {
+      "de": "tiefgreifend / tiefgründig / tief empfunden",
+      "it": "profondo / di vasta portata",
+      "fr": "profond / de grande portée",
+      "es": "profundo / de gran alcance"
+    },
+    "collocations": {
+      "en": [
+        "a profound insight into something",
+        "have a profound impact on something",
+        "profound changes",
+        "a profound sense of relief",
+        "be profoundly affected by something"
+      ],
+      "ja": [
+        "a profound insight into something — ある物事についての深い洞察",
+        "have a profound impact on something — 何かに大きな影響を与える",
+        "profound changes — 根本に及ぶ変化",
+        "a profound sense of relief — 心の底からの安堵",
+        "be profoundly affected by something — 何かに深く影響を受ける"
+      ]
+    },
+    "example": {
+      "en": [
+        "Her research offers a profound insight into why people resist changes that would make their work easier.",
+        "The shift to remote work had a profound impact on how new colleagues got to know one another.",
+        "I felt a profound sense of relief when the missing notebook turned up.",
+        "The invention brought about profound changes in how people shared information."
+      ],
+      "ja": [
+        "Her research offers a profound insight into why people resist changes that would make their work easier. — 彼女の研究は、仕事が楽になるはずの変化になぜ人が抵抗するのかについて、深い洞察を与えてくれる。",
+        "The shift to remote work had a profound impact on how new colleagues got to know one another. — 在宅勤務への移行は、新しい同僚同士がどうやって親しくなるかに大きな影響を与えた。",
+        "I felt a profound sense of relief when the missing notebook turned up. — なくしたノートが見つかったとき、心の底からほっとした。",
+        "The invention brought about profound changes in how people shared information. — その発明は、人々が情報を共有する方法を根本から変えた。"
+      ]
+    }
   }
 ]
