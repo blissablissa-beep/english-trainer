@@ -2131,5 +2131,115 @@
         "The farm keeps about fifty head of livestock, mostly sheep and goats. — その農場では家畜を約50頭飼っており、その大半は羊とヤギだ。"
       ]
     }
+  },
+  {
+    "id": "poultry",
+    "sid": "2026-01864",
+    "word": "poultry",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "farming",
+      "animals",
+      "food"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "collective for live birds; uncountable for meat",
+      "patterns": [
+        "raise / keep poultry",
+        "a poultry farm",
+        "a piece of poultry",
+        "raw poultry"
+      ],
+      "usage": {
+        "counting": "To count individual birds, use three chickens or three birds, or name the species.",
+        "agreement": "Plural agreement is possible with live birds (The poultry are kept indoors). Use singular agreement for meat (The poultry is fresh)."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈpoʊl.tri/",
+        "uk": "/ˈpəʊl.tri/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "domesticated birds kept for their meat or eggs, such as chickens, ducks, or turkeys",
+        "the meat of these birds, considered as a type of food"
+      ],
+      "ja": [
+        "家禽（かきん）。肉や卵を得るために飼うニワトリ、アヒル、七面鳥などの総称",
+        "家禽の肉。鶏肉、鴨肉、七面鳥の肉などをまとめた食品の区分"
+      ]
+    },
+    "nuance": {
+      "en": "In farming, poultry refers to the birds themselves. In a recipe or on a food label, it usually refers to their meat. A shop sign reading ‘Meat & Poultry’ uses meat in a narrower sense for that grouping.",
+      "ja": "畜産では鳥そのものを指し、レシピや食品表示ではたいていその肉を指す。売り場表示で Meat & Poultry と並んでいれば、その区分では meat が家禽の肉を除く狭い意味で使われている。"
+    },
+    "minimal": {
+      "en": [
+        "livestock: The broader category of farm animals. Some farming classifications list livestock and poultry separately.",
+        "chicken: One kind of poultry, or its meat. Poultry also covers birds such as ducks and turkeys.",
+        "fowl: A word for birds such as chickens and ducks that also occurs in names for wild birds, as in wildfowl."
+      ],
+      "ja": [
+        "livestock：家畜の総称。農業の分類によっては livestock と poultry を別の区分にする。",
+        "chicken：ニワトリ、または鶏肉。poultry にはアヒルや七面鳥なども含まれる。",
+        "fowl：ニワトリやアヒルなどを指す語で、wildfowl のように野生の鳥を指す語にも現れる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "domesticated farm birds",
+        "note": {
+          "en": "A plain description of the live-bird sense.",
+          "ja": "生きた家禽を指す場合の説明的な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French pouletrie, a word related to poulet ‘young chicken’. English pullet, meaning a young hen, belongs to the same word family.",
+      "ja": "古フランス語 pouletrie に由来し、若いニワトリを意味する poulet と関係がある。若い雌鶏を指す英語 pullet も同系。"
+    },
+    "equivalents": {
+      "de": "das Geflügel",
+      "it": "il pollame",
+      "fr": "la volaille",
+      "es": "las aves de corral / la carne de ave"
+    },
+    "collocations": {
+      "en": [
+        "raise poultry",
+        "keep poultry for eggs",
+        "a poultry farm",
+        "poultry feed",
+        "the poultry industry",
+        "raw poultry",
+        "the poultry section"
+      ],
+      "ja": [
+        "raise poultry — 家禽を飼育する",
+        "keep poultry for eggs — 卵を得るために家禽を飼う",
+        "a poultry farm — 家禽を飼育する農場",
+        "poultry feed — 家禽用飼料",
+        "the poultry industry — 家禽産業",
+        "raw poultry — 生の家禽肉",
+        "the poultry section — 鶏肉などを扱う売り場"
+      ]
+    },
+    "example": {
+      "en": [
+        "The farm raises poultry for both meat and eggs.",
+        "The store sells beef and pork at one counter and poultry at another.",
+        "She keeps a few chickens, but the farm next door raises several kinds of poultry."
+      ],
+      "ja": [
+        "The farm raises poultry for both meat and eggs. — その農場では肉と卵の両方を得るために家禽を飼育している。",
+        "The store sells beef and pork at one counter and poultry at another. — その店では一方の売り場で牛肉と豚肉を、別の売り場で鶏肉などの家禽肉を売っている。",
+        "She keeps a few chickens, but the farm next door raises several kinds of poultry. — 彼女はニワトリを数羽飼っているが、隣の農場では数種類の家禽を飼育している。"
+      ]
+    }
   }
 ]
