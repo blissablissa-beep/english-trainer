@@ -7242,5 +7242,124 @@
         "Giving the policy a friendlier name amounts to putting lipstick on a pig if the rules people object to stay in place. — 反発を招いたルールを残すなら、方針の名前を親しみやすくしても、うわべを取り繕うだけだ。"
       ]
     }
+  },
+  {
+    "id": "eat-your-own-dog-food",
+    "sid": "2026-01822",
+    "word": "eat your own dog food",
+    "level": "C2",
+    "freq": "sometimes",
+    "tags": [
+      "idiom",
+      "verb phrase",
+      "informal",
+      "technology",
+      "product development"
+    ],
+    "grammar": {
+      "pos": "idiomatic verb phrase",
+      "forms": {
+        "base": "eat your own dog food",
+        "past": "ate your own dog food",
+        "pastParticiple": "eaten your own dog food",
+        "presentParticiple": "eating your own dog food",
+        "variant": "eat your own dogfood",
+        "related": "dogfooding"
+      },
+      "patterns": [
+        "eat our own dog food",
+        "start eating your own dog food",
+        "dogfood a new feature",
+        "an internal dogfooding program"
+      ],
+      "usage": {
+        "possessive": "Match the possessive to the subject: We eat our own dog food. The company eats its own dog food.",
+        "spelling": "Dog food is normally two words in the idiom, though dogfood also occurs in tech writing. The related term dogfooding is one word."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/iːt jɚ oʊn ˈdɑːɡ fuːd/",
+        "uk": "/iːt jə əʊn ˈdɒɡ fuːd/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(informal, especially in tech) to use the products or services you make or sell in your own work, often to spot problems users might encounter"
+      ],
+      "ja": [
+        "（口語・特にIT業界）自社が作ったり販売したりする製品・サービスを自分たちの業務でも使う。利用者が遭遇する問題を見つける目的で行うことも多い。"
+      ]
+    },
+    "nuance": {
+      "ja": "開発チームが、自社アプリを普段の作業に組み込んで使うような場面に合う。公開前に不具合を見つけるためにも、公開後に使い勝手を確かめるためにも使える。「顧客に使ってもらうものなら、まず自分たちも使おう」という含みがある。dogfooding はこの取り組み自体を指す。",
+      "en": "The phrase is common in tech when a team uses its own product for real work. This can reveal friction before launch or guide improvements after release. It also carries the idea that a company should be willing to use what it asks customers to use. Dogfooding names the practice."
+    },
+    "minimal": {
+      "en": [
+        "internal testing: Any testing done inside an organization, including scripted tests. Dogfooding often puts the product into regular workflows.",
+        "beta testing: Testing a prerelease version with selected users, who may be external. Dogfooding uses the organization’s own people or operations and can continue after launch.",
+        "practice what you preach: Live by the advice or principles you promote. Eat your own dog food is more specific to using what you make or sell."
+      ],
+      "ja": [
+        "internal testing：社内テスト全般。手順書どおりのテストも含む。dogfooding は製品を普段の業務に組み込んで使うことが多い。",
+        "beta testing：公開前の版を選ばれた利用者に試してもらうこと。社外ユーザーも参加できる。dogfooding の主体は自社側で、公開後も続けられる。",
+        "practice what you preach：人に勧めることを自分でも実践する。eat your own dog food は、自社の製品やサービスを使う場面に特化した言い方。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "use your own product internally",
+        "note": {
+          "ja": "自社製品を社内で使う、という中立的な言い方。",
+          "en": "A neutral way to describe using your own product inside the organization."
+        }
+      },
+      {
+        "word": "dogfooding",
+        "note": {
+          "ja": "自社製品を自分たちで使う取り組みを指すIT業界の用語。",
+          "en": "The tech term for the practice itself."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "「自分たちのドッグフードを食べる」という比喩で、人に売るものを自分たちでも使うという発想を表す。IT業界で広まった経緯として、1988年にマイクロソフト社内で自社製品の利用を促すメールにこの表現が使われた逸話がよく紹介される。表現そのものの起源には諸説ある。",
+      "en": "The image is of actually consuming the dog food you sell. An often-cited account traces its spread in tech to a 1988 Microsoft email encouraging internal use of a company product. The ultimate origin of the expression is uncertain."
+    },
+    "equivalents": {
+      "de": "die eigenen Produkte im Arbeitsalltag nutzen",
+      "it": "usare in prima persona i propri prodotti",
+      "fr": "utiliser ses propres produits en interne",
+      "es": "usar internamente sus propios productos"
+    },
+    "collocations": {
+      "en": [
+        "eat our own dog food",
+        "start eating your own dog food",
+        "dogfood a new feature",
+        "an internal dogfooding program"
+      ],
+      "ja": [
+        "eat our own dog food — 自社製品を自分たちでも使う",
+        "start eating your own dog food — 自分たちで自社製品を使い始める",
+        "dogfood a new feature — 新機能を自分たちの業務で使ってみる",
+        "an internal dogfooding program — 自社製品を社内で使う取り組み"
+      ]
+    },
+    "example": {
+      "en": [
+        "We eat our own dog food by tracking all our support requests in the same app we sell to customers.",
+        "Once we started eating our own dog food, we noticed how many clicks it took to send an invoice.",
+        "The team dogfooded the new search feature for two weeks before rolling it out to customers.",
+        "We found that bug by eating our own dog food, not by running a scripted test."
+      ],
+      "ja": [
+        "We eat our own dog food by tracking all our support requests in the same app we sell to customers. — 顧客に販売しているのと同じアプリで、自社への問い合わせもすべて管理している。",
+        "Once we started eating our own dog food, we noticed how many clicks it took to send an invoice. — 自社製品を自分たちでも使い始めて、請求書を送るのに何度もクリックが必要だと気づいた。",
+        "The team dogfooded the new search feature for two weeks before rolling it out to customers. — チームは新しい検索機能を2週間、自分たちの業務で使ってから顧客に提供した。",
+        "We found that bug by eating our own dog food, not by running a scripted test. — その不具合は、手順書どおりのテストではなく、自社製品を普段の業務で使う中で見つけた。"
+      ]
+    }
   }
 ]
