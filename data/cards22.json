@@ -1796,5 +1796,112 @@
         "The launch was a massive success despite the delays. — 遅れはあったものの、発売は大成功だった。"
       ]
     }
+  },
+  {
+    "id": "barn",
+    "sid": "2026-01861",
+    "word": "barn",
+    "level": "B1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "farming",
+      "buildings"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "singular": "barn",
+        "plural": "barns"
+      },
+      "patterns": [
+        "in the barn",
+        "store hay in a barn",
+        "convert a barn into + noun"
+      ],
+      "usage": {
+        "compounds": "A hay barn is used to store hay. A dairy barn houses dairy cattle or is used in dairy operations."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/bɑːrn/",
+        "uk": "/bɑːn/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a farm building, usually fairly large, used to store hay, crops, or equipment or to house animals"
+      ],
+      "ja": [
+        "農場の納屋、畜舎。干し草・作物・農機具などを保管したり、家畜を入れたりする建物"
+      ]
+    },
+    "nuance": {
+      "en": "Barn describes a type of farm building with several possible uses. The best translation depends on what is inside: a hay barn is a storage building, while a barn full of cows is a livestock building. In barn conversion, the term can refer to either the work or the resulting home, depending on context.",
+      "ja": "barn は用途が一つに限られない農場の建物。干し草を保管していれば「納屋」、牛を入れていれば「牛舎」など、中で何をするかに応じて訳し分ける。barn conversion は文脈により、納屋を住宅に改装することや、改装した住宅そのものを指す。"
+    },
+    "minimal": {
+      "en": [
+        "shed: A general word for a simple outbuilding, often smaller and used to store tools or garden equipment. A barn typically belongs to a farm.",
+        "stable: A building or room where horses are kept. A barn may contain stalls for horses and also have space for hay and equipment.",
+        "silo: A structure or container designed for bulk storage, for example of grain or silage."
+      ],
+      "ja": [
+        "shed：庭の物置などにも使う広い語で、比較的小さな簡易建物を指すことが多い。barn は典型的には農場の建物。",
+        "stable：馬を入れる厩舎。barn には馬房のほか、干し草や機材を置く場所がある場合もある。",
+        "silo：穀物やサイレージなどを大量に貯蔵するための設備。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "farm outbuilding",
+        "note": {
+          "en": "A broader term that also includes farm sheds and other separate buildings.",
+          "ja": "農場にある別棟の総称。納屋のほか、物置なども含む。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old English bereærn, literally a building for barley, from bere ‘barley’ and ærn ‘house, building’.",
+      "ja": "古英語 bereærn に由来する。bere（大麦）と ærn（建物）からなり、もとは大麦を保管する建物を指した。"
+    },
+    "equivalents": {
+      "de": "die Scheune / der Stall",
+      "it": "il fienile / la stalla",
+      "fr": "la grange / l’étable",
+      "es": "el granero / el establo"
+    },
+    "collocations": {
+      "en": [
+        "a hay barn",
+        "a dairy barn",
+        "barn doors",
+        "store hay in the barn",
+        "convert a barn into a home",
+        "a barn conversion"
+      ],
+      "ja": [
+        "a hay barn — 干し草を保管する納屋",
+        "a dairy barn — 乳牛舎",
+        "barn doors — 納屋の扉",
+        "store hay in the barn — 干し草を納屋に保管する",
+        "convert a barn into a home — 納屋を住宅に改装する",
+        "a barn conversion — 納屋の住宅への改装、納屋を改装した住宅"
+      ]
+    },
+    "example": {
+      "en": [
+        "We stacked the hay in the barn before the rain came.",
+        "The farmer brought the cows into the barn for the night.",
+        "They converted an old stone barn into a home."
+      ],
+      "ja": [
+        "We stacked the hay in the barn before the rain came. — 雨が降り出す前に、干し草を納屋に積んだ。",
+        "The farmer brought the cows into the barn for the night. — 農家の人は、夜の間は牛を牛舎に入れておいた。",
+        "They converted an old stone barn into a home. — 彼らは古い石造りの納屋を住宅に改装した。"
+      ]
+    }
   }
 ]
