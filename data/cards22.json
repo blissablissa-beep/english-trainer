@@ -1668,5 +1668,133 @@
         "Skipping the backup turned out to be a costly mistake: we lost a week’s worth of work. — バックアップを取らなかったのは高くついた。1週間分の作業が失われた。"
       ]
     }
+  },
+  {
+    "id": "massive",
+    "sid": "2026-01860",
+    "word": "massive",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "size",
+      "scale",
+      "emphasis"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "massive",
+        "adverb": "massively",
+        "relatedNoun": "mass"
+      },
+      "patterns": [
+        "massive + noun",
+        "a massive increase in + noun",
+        "a massive amount of + uncountable noun",
+        "a massive number of + plural noun",
+        "on a massive scale"
+      ],
+      "usage": {
+        "position": "Use massive before a noun (a massive door) or after a linking verb (the impact was massive).",
+        "agreement": "Say a massive amount of data or a massive number of files."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈmæs.ɪv/",
+        "uk": "/ˈmæs.ɪv/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "extremely large in physical size, often with an impression of weight or solidity",
+        "very large in amount, extent, or degree"
+      ],
+      "ja": [
+        "巨大な、どっしりした",
+        "莫大な、大規模な、非常に大きな"
+      ]
+    },
+    "nuance": {
+      "en": "With a physical object, massive can emphasize bulk or solidity, as in a massive stone pillar. With an event or result, it emphasizes scale: a massive success, massive losses, or a massive increase. It works with both favorable and unfavorable outcomes.",
+      "ja": "物については、a massive stone pillar（巨大な石柱）のように、かさやどっしりした印象を強調できる。出来事や結果については、a massive success（大成功）、massive losses（莫大な損失）、a massive increase（大幅な増加）のように、規模の大きさを強調する。好ましい結果にも好ましくない結果にも使える。"
+    },
+    "minimal": {
+      "en": [
+        "huge: Often interchangeable with massive for size or scale. Massive can add an impression of bulk with solid objects.",
+        "substantial: Often means sizeable or significant in reports and business writing. Massive makes a stronger claim about scale.",
+        "excessive: Excessive spending implies spending beyond a reasonable level. Massive spending emphasizes how much was spent.",
+        "costly: A massive project is large in scope. A costly project takes a lot of money or carries a substantial cost."
+      ],
+      "ja": [
+        "huge：大きさや規模を表す場合は、多くの文脈で massive と置き換えられる。massive は固い物について、どっしりした印象も出せる。",
+        "substantial：報告書やビジネス文書で「相当な、かなりの」を表す。massive は規模の大きさをより強く打ち出す。",
+        "excessive：excessive spending は妥当な水準を超えた支出。massive spending は支出額の大きさを強調する。",
+        "costly：a massive project は規模の大きな事業。a costly project は費用や負担の大きい事業。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "enormous",
+        "note": {
+          "en": "A close equivalent for exceptional size or amount.",
+          "ja": "並外れた大きさや量を表す類義語。"
+        }
+      },
+      {
+        "word": "huge",
+        "note": {
+          "en": "A common equivalent for both physical size and abstract scale.",
+          "ja": "物の大きさにも抽象的な規模にもよく使う類義語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Historically related to mass through French massif, which carried senses of solidity and bulk.",
+      "ja": "フランス語 massif を経た語で、mass（かたまり）と同系。中身の詰まった固さや、かさの大きさを表す意味があった。"
+    },
+    "equivalents": {
+      "de": "massiv / riesig / enorm",
+      "it": "massiccio / enorme / ingente",
+      "fr": "massif / énorme / considérable",
+      "es": "macizo / enorme / masivo"
+    },
+    "collocations": {
+      "en": [
+        "a massive stone pillar",
+        "a massive increase in demand",
+        "a massive amount of data",
+        "a massive success",
+        "a massive undertaking",
+        "a massive backlog",
+        "massive losses",
+        "on a massive scale"
+      ],
+      "ja": [
+        "a massive stone pillar — 巨大な石柱",
+        "a massive increase in demand — 需要の大幅な増加",
+        "a massive amount of data — 膨大な量のデータ",
+        "a massive success — 大成功",
+        "a massive undertaking — 大がかりな事業",
+        "a massive backlog — 膨大な未処理案件",
+        "massive losses — 莫大な損失",
+        "on a massive scale — 大規模に"
+      ]
+    },
+    "example": {
+      "en": [
+        "Two massive stone pillars frame the entrance.",
+        "The campaign led to a massive increase in demand, and the first batch sold out in a day.",
+        "Digitizing the archive turned out to be a massive undertaking.",
+        "The launch was a massive success despite the delays."
+      ],
+      "ja": [
+        "Two massive stone pillars frame the entrance. — 入口の両側に巨大な石柱が立っている。",
+        "The campaign led to a massive increase in demand, and the first batch sold out in a day. — キャンペーンで需要が大幅に伸び、初回分は1日で売り切れた。",
+        "Digitizing the archive turned out to be a massive undertaking. — 資料のデジタル化は、やってみると大がかりな作業だった。",
+        "The launch was a massive success despite the delays. — 遅れはあったものの、発売は大成功だった。"
+      ]
+    }
   }
 ]
