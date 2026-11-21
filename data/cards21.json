@@ -8510,5 +8510,118 @@
         "They talked about helping small shops, but attracting big advertisers was the name of the game. — 小さな店を支援すると言っていたが、結局のところ狙いは大口の広告主を呼び込むことだった。"
       ]
     }
+  },
+  {
+    "id": "park-that",
+    "sid": "2026-01833",
+    "word": "park that",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "verb phrase",
+      "business",
+      "meetings",
+      "informal",
+      "priorities"
+    ],
+    "grammar": {
+      "pos": "transitive verb phrase",
+      "forms": {
+        "base": "park that",
+        "past": "parked that",
+        "presentParticiple": "parking that",
+        "common": "Let’s park that for now."
+      },
+      "patterns": [
+        "let’s park that for now",
+        "can we park that until + time / clause?",
+        "park the question and come back to it",
+        "park this issue for later"
+      ],
+      "usage": {
+        "object": "That refers to the topic just raised. It can be replaced by this, it, or a noun phrase such as the budget question.",
+        "meeting": "For now makes the pause explicit. Adding when you will come back to it can signal that the point is worth discussing."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/pɑːrk ðæt/",
+        "uk": "/pɑːk ðæt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(informal, especially in meetings) to set a topic, question, or issue aside and leave it for later discussion or action"
+      ],
+      "ja": [
+        "（口語、特に会議で）今出た話題や質問をいったん保留にする、ひとまず脇に置いて後で扱う"
+      ]
+    },
+    "nuance": {
+      "ja": "今の議題からそれたときや、判断に必要な情報がそろっていないときに使う。話を打ち切るだけにも聞こえるので、Good point. や come back to it after lunch のように、相手の指摘を受け止めたり、再開の目安を添えたりすると意図が伝わりやすい。",
+      "en": "A meeting facilitator might use it to pause a side discussion or wait for missing information. It can sound abrupt on its own. Acknowledging the point or saying when you’ll return to it makes the intent clearer."
+    },
+    "minimal": {
+      "en": [
+        "put something on the back burner: Lower its priority, often for longer. Park that can mean pausing a topic for just a few minutes.",
+        "put something on hold: Suspend work or a decision. Park that is particularly natural when you want to move on from a topic in a live discussion.",
+        "kick the can down the road: Delay dealing with a problem, often with an implication of avoidance. Park that can be a routine way to keep a meeting on track."
+      ],
+      "ja": [
+        "put something on the back burner：優先度を下げて後回しにする。park that は数分だけ話題を保留するときにも使える。",
+        "put something on hold：作業や決定を一時停止する。park that は会議の途中で話題を切り替える際に使いやすい。",
+        "kick the can down the road：問題への対処を先送りする。問題から逃げている響きが出やすい。park that は会議を予定どおり進めるための通常の進行にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "set that aside for now",
+        "note": {
+          "ja": "ひとまずその件を脇に置く。",
+          "en": "A direct alternative for pausing discussion of the point."
+        }
+      },
+      {
+        "word": "come back to that later",
+        "note": {
+          "ja": "その件は後で改めて取り上げる。再開することに焦点がある。",
+          "en": "Focuses on returning to the point at a later time."
+        }
+      }
+    ],
+    "etymology": {
+      "ja": "park の「車を止めて置いておく」という意味を、話題や案件に広げた比喩。今すぐ扱わない議題を書き留めるリストを、会議の進行用語で parking lot と呼ぶこともある。",
+      "en": "The figurative use of park extends the idea of leaving a vehicle in a place for later use to setting aside a topic. In meeting facilitation, a parking lot can be a list of topics to revisit."
+    },
+    "equivalents": {
+      "de": "Das stellen wir erst einmal zurück.",
+      "it": "Mettiamolo da parte per ora.",
+      "fr": "Mettons ça de côté pour l’instant.",
+      "es": "Dejemos eso para más adelante."
+    },
+    "collocations": {
+      "en": [
+        "let’s park that for now",
+        "park the question until we have the figures",
+        "park this issue and come back to it"
+      ],
+      "ja": [
+        "let’s park that for now — その件はいったん保留にしましょう",
+        "park the question until we have the figures — 数字がそろうまでその質問は保留にする",
+        "park this issue and come back to it — この件をいったん置いておき、後で改めて取り上げる"
+      ]
+    },
+    "example": {
+      "en": [
+        "That’s a good question. Let’s park that for now and come back to it after lunch.",
+        "Can we park the pricing discussion until we have the revised cost estimates?",
+        "We parked the question of who would maintain the system and moved on to the launch date."
+      ],
+      "ja": [
+        "That’s a good question. Let’s park that for now and come back to it after lunch. — いい質問ですね。その件はいったん置いて、昼食の後に改めて取り上げましょう。",
+        "Can we park the pricing discussion until we have the revised cost estimates? — 修正後の費用見積もりが出るまで、価格の話はいったん保留にできますか。",
+        "We parked the question of who would maintain the system and moved on to the launch date. — 誰がシステムを保守するかはいったん保留にして、公開日の話に移った。"
+      ]
+    }
   }
 ]
