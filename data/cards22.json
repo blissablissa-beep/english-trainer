@@ -3117,5 +3117,111 @@
         "He got one promotion and now thinks he’s a big cheese. — 一度昇進しただけで、すっかり大物気取りだ。"
       ]
     }
+  },
+  {
+    "id": "bigwig",
+    "sid": "2026-01873",
+    "word": "bigwig",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "informal",
+      "status"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "singular": "bigwig",
+        "plural": "bigwigs"
+      },
+      "patterns": [
+        "a bigwig at + organization",
+        "a bigwig in + field / organization",
+        "a corporate / political bigwig"
+      ],
+      "usage": {
+        "spelling": "Usually written as one word: bigwig.",
+        "register": "Informal. In a formal report or email, the person’s title or senior official is usually more suitable."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈbɪɡ.wɪɡ/",
+        "uk": "/ˈbɪɡ.wɪɡ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "an important or powerful person, often one who holds a senior position in an organization"
+      ],
+      "ja": [
+        "（くだけて）お偉いさん、大物、有力者。組織の幹部や地位の高い人など"
+      ]
+    },
+    "nuance": {
+      "en": "Bigwig often identifies someone by their rank or clout, as in party bigwigs or local bigwigs. It can be lightly teasing or suggest distance from the people in charge. The word itself can also be used with simple good humor.",
+      "ja": "party bigwigs（党の幹部連中）や local bigwigs（地元のお偉いさん）のように、地位や影響力で人をひとまとめに呼ぶことがある。権力を持つ人との距離感や軽い皮肉がにじむこともあれば、単に冗談めかして使うこともある。"
+    },
+    "minimal": {
+      "en": [
+        "big cheese: A close, often playful synonym. Bigwig is especially natural when identifying people by their place in a hierarchy, as in party bigwigs.",
+        "big shot: Can refer to influence, success, or someone acting self-important. Bigwig often points to rank or institutional influence.",
+        "senior official: A neutral description of a high-ranking officeholder. Bigwig is informal and can also cover an influential person with no official title."
+      ],
+      "ja": [
+        "big cheese：冗談めいた近い類義表現。bigwig は party bigwigs のように、組織内での地位に着目するときにも使いやすい。",
+        "big shot：影響力や成功による大物にも、大物気取りの人にも使える。bigwig は地位や組織内での影響力に着目することが多い。",
+        "senior official：高位の役職者を中立的に表す。bigwig はくだけた語で、正式な役職のない有力者にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "big cheese",
+        "note": {
+          "en": "A similarly informal term for an influential person.",
+          "ja": "有力者を指す、同じくくだけた表現。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From big and wig. It alludes to the large, imposing wigs once worn by men of high rank or authority.",
+      "ja": "big（大きな）と wig（かつら）の複合語。かつて高い地位や権限を持つ男性が着用した、大きく立派なかつらにちなむ。"
+    },
+    "equivalents": {
+      "de": "ein hohes Tier",
+      "it": "un pezzo grosso",
+      "fr": "un gros bonnet",
+      "es": "un pez gordo"
+    },
+    "collocations": {
+      "en": [
+        "company bigwigs",
+        "party bigwigs",
+        "local bigwigs",
+        "a bigwig from headquarters",
+        "a bigwig in the industry"
+      ],
+      "ja": [
+        "company bigwigs — 会社のお偉いさんたち",
+        "party bigwigs — 政党の幹部たち",
+        "local bigwigs — 地元の有力者たち",
+        "a bigwig from headquarters — 本社のお偉いさん",
+        "a bigwig in the industry — 業界の大物"
+      ]
+    },
+    "example": {
+      "en": [
+        "A few bigwigs from headquarters are coming to see how the new office is doing.",
+        "The opening drew local bigwigs as well as artists from across the city.",
+        "The party bigwigs backed the proposal, but younger members were less enthusiastic."
+      ],
+      "ja": [
+        "A few bigwigs from headquarters are coming to see how the new office is doing. — 本社のお偉いさんが何人か、新しいオフィスの様子を見に来る。",
+        "The opening drew local bigwigs as well as artists from across the city. — オープニングには、市内各地から集まったアーティストに加え、地元の有力者たちも顔をそろえた。",
+        "The party bigwigs backed the proposal, but younger members were less enthusiastic. — 党幹部はその提案を支持したが、若手党員の反応はそれほど熱心ではなかった。"
+      ]
+    }
   }
 ]
