@@ -4183,5 +4183,114 @@
         "Once the client agreed to the price, we figured the deal was in the bag. The signature came the following week. — 依頼主が金額に同意した時点で、契約はもう決まりだと思った。署名があったのは翌週だった。"
       ]
     }
+  },
+  {
+    "id": "in-the-black",
+    "sid": "2026-01883",
+    "word": "in the black",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "idiom",
+      "finance",
+      "accounting",
+      "business"
+    ],
+    "grammar": {
+      "pos": "idiom",
+      "forms": {
+        "base": "in the black",
+        "opposite": "in the red"
+      },
+      "patterns": [
+        "be / stay in the black",
+        "end the quarter in the black",
+        "move into the black",
+        "be back in the black"
+      ],
+      "usage": {
+        "state": "Use in for a state and into for a transition: stay in the black; move into the black.",
+        "subject": "The subject can be a company, a bank account, or a share or market index. Its meaning depends on the subject."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪn ðə blæk/",
+        "uk": "/ɪn ðə blæk/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(of a business or organization) making or having made a profit for the relevant period",
+        "(of a bank account) having a positive balance",
+        "(of shares or a market index) trading above a reference level such as the previous close"
+      ],
+      "ja": [
+        "（企業・組織が）黒字である、対象期間に利益を出している",
+        "（銀行口座の）残高がプラスである",
+        "（株価・株価指数が）前日終値などの基準値を上回っている"
+      ]
+    },
+    "nuance": {
+      "en": "For a business, the phrase describes profitability, often for a stated period. For an account, it describes the balance. In a market report, it usually describes a gain in price or index value. Back in the black implies a return to positive territory.",
+      "ja": "企業については、一定期間の損益が黒字であることを表す。口座については残高、相場記事では株価や株価指数の上昇を指すことが多い。back in the black は、赤字やマイナスの状態を経て再びプラスに戻ったことを表す。"
+    },
+    "minimal": {
+      "en": [
+        "in the red: The opposite. A business is making a loss, or an account is overdrawn.",
+        "break even: Income and costs are equal. In the black suggests a positive result.",
+        "profitable: A neutral adjective for a business or activity that makes a profit. In the black can also describe a bank balance or stock-market performance."
+      ],
+      "ja": [
+        "in the red：対義表現。企業なら赤字、口座なら残高がマイナス。",
+        "break even：収入と費用が同じで収支がトントンになる。in the black は収支がプラスであることを表す。",
+        "profitable：企業や事業が利益を上げていることを中立的に表す形容詞。in the black は口座残高や株式市場の値動きにも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "show a profit",
+        "note": {
+          "en": "A near-equivalent when reporting a business’s results.",
+          "ja": "企業の損益を報告するときの近い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The expression alludes to bookkeeping conventions that used black ink for positive figures and red ink to flag negative figures or losses.",
+      "ja": "帳簿でプラスの数字を黒インクで記し、マイナスの数字や損失を赤インクで目立たせた慣行にちなむ。"
+    },
+    "equivalents": {
+      "de": "schwarze Zahlen schreiben / im Plus sein",
+      "it": "essere in attivo / essere in positivo",
+      "fr": "être bénéficiaire / être dans le vert",
+      "es": "estar en números negros / estar en positivo"
+    },
+    "collocations": {
+      "en": [
+        "finish the year in the black",
+        "be back in the black",
+        "keep the account in the black",
+        "move back into the black"
+      ],
+      "ja": [
+        "finish the year in the black — 黒字で年度を終える",
+        "be back in the black — 黒字に戻る、再びプラスになる",
+        "keep the account in the black — 口座残高をプラスに保つ",
+        "move back into the black — 再びプラス圏に浮上する"
+      ]
+    },
+    "example": {
+      "en": [
+        "After two years of losses, the company is finally back in the black.",
+        "I transferred some money to keep the joint account in the black.",
+        "The main index was down most of the day but moved back into the black just before the close."
+      ],
+      "ja": [
+        "After two years of losses, the company is finally back in the black. — 2年間の赤字を経て、その会社はようやく黒字に戻った。",
+        "I transferred some money to keep the joint account in the black. — 共同口座の残高がマイナスにならないよう、お金をいくらか移した。",
+        "The main index was down most of the day but moved back into the black just before the close. — 主要株価指数はその日の大半で前日終値を下回っていたが、取引終了間際にプラス圏に戻った。"
+      ]
+    }
   }
 ]
