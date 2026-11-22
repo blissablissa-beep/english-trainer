@@ -3329,5 +3329,106 @@
         "When the engine failed, the fishing boat was dead in the water. — エンジンが故障し、漁船は水上で自力で動けなくなった。"
       ]
     }
+  },
+  {
+    "id": "dog-eat-dog",
+    "sid": "2026-01875",
+    "word": "dog eat dog",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "idiom",
+      "adjective",
+      "competition"
+    ],
+    "grammar": {
+      "pos": "idiom / adjective",
+      "forms": {
+        "standalone": "dog eat dog",
+        "beforeNoun": "dog-eat-dog"
+      },
+      "patterns": [
+        "It’s dog eat dog out there.",
+        "a dog-eat-dog + noun"
+      ],
+      "usage": {
+        "hyphenation": "Use hyphens in the compound adjective before a noun: a dog-eat-dog world. The standalone expression in It’s dog eat dog out there can be written without hyphens."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌdɑːɡ.iːtˈdɑːɡ/",
+        "uk": "/ˌdɒɡ.iːtˈdɒɡ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "describing a situation where competition is so ruthless that people put their own success first, even if they harm others"
+      ],
+      "ja": [
+        "弱肉強食の、勝つために他人を蹴落とすこともいとわないほど競争が熾烈な"
+      ]
+    },
+    "nuance": {
+      "en": "Dog eat dog describes the culture of a market, workplace, or other competitive setting. It suggests that people look after their own interests even at others’ expense. The phrase can sound critical or resigned, especially in It’s dog eat dog out there.",
+      "ja": "市場や職場などで、自分の利益を優先し、他人を犠牲にしてでも勝ち残ろうとする風潮を表す。It’s dog eat dog out there のように使うと、そうした現実への批判や諦めがにじむこともある。"
+    },
+    "minimal": {
+      "en": [
+        "cutthroat: A close synonym, common with competition, pricing, and markets. Dog-eat-dog often characterizes the whole environment.",
+        "fiercely competitive: Emphasizes how intense the competition is. Dog-eat-dog suggests that competitors may advance at others’ expense.",
+        "every man for himself: Describes people looking after themselves in a difficult situation. Dog eat dog adds the idea of ruthless competition."
+      ],
+      "ja": [
+        "cutthroat：近い類義語で、競争、価格設定、市場などに使う。dog-eat-dog は環境全体を「弱肉強食だ」と評することが多い。",
+        "fiercely competitive：競争の激しさを強調する。dog-eat-dog には、人を蹴落としてでも勝ち残ろうとする含みがある。",
+        "every man for himself：困難な状況で各自が自分のことを優先する。dog eat dog には、容赦のない競争という意味合いが加わる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "cutthroat",
+        "note": {
+          "en": "A close equivalent for competition in which people will go to great lengths to win.",
+          "ja": "勝つために手段を選ばないような競争を表す近い類義語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The expression pictures dogs turning on and eating one another, an image of rivals willing to harm their own kind to get ahead.",
+      "ja": "犬同士が互いに食い合うイメージを、仲間や競争相手を傷つけてでも抜きん出ようとする状況に重ねた表現。"
+    },
+    "equivalents": {
+      "de": "ein Haifischbecken / ein gnadenloser Konkurrenzkampf",
+      "it": "una giungla / una concorrenza spietata",
+      "fr": "un monde de requins / une concurrence impitoyable",
+      "es": "una jungla / una competencia despiadada"
+    },
+    "collocations": {
+      "en": [
+        "a dog-eat-dog world",
+        "a dog-eat-dog industry",
+        "a dog-eat-dog environment",
+        "It’s dog eat dog out there."
+      ],
+      "ja": [
+        "a dog-eat-dog world — 弱肉強食の世界",
+        "a dog-eat-dog industry — 競争が容赦なく激しい業界",
+        "a dog-eat-dog environment — 他人を蹴落とすほど競争の激しい環境",
+        "It’s dog eat dog out there. — 世の中は弱肉強食だ。"
+      ]
+    },
+    "example": {
+      "en": [
+        "It’s dog eat dog in this industry. Some firms will poach a rival’s entire sales team to get ahead.",
+        "The new bonus system created a dog-eat-dog environment where colleagues stopped sharing leads.",
+        "People warned me that publishing was a dog-eat-dog world, but the editors I met were generous with their advice."
+      ],
+      "ja": [
+        "It’s dog eat dog in this industry. Some firms will poach a rival’s entire sales team to get ahead. — この業界は弱肉強食だ。抜きん出るために、競合の営業チームを丸ごと引き抜く会社もある。",
+        "The new bonus system created a dog-eat-dog environment where colleagues stopped sharing leads. — 新しいボーナス制度で職場の競争が過熱し、同僚同士が見込み客の情報を共有しなくなった。",
+        "People warned me that publishing was a dog-eat-dog world, but the editors I met were generous with their advice. — 出版界は弱肉強食だと聞かされていたが、私が出会った編集者たちは惜しみなく助言をくれた。"
+      ]
+    }
   }
 ]
