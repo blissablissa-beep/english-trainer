@@ -2348,5 +2348,127 @@
         "The reviewer praised the essay for its erudite discussion of the novel’s historical context. — 書評家は、その論考が小説の歴史的背景を深い学識に基づいて論じている点を評価した。"
       ]
     }
+  },
+  {
+    "id": "hypothesis",
+    "sid": "2026-01866",
+    "word": "hypothesis",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "research",
+      "reasoning",
+      "statistics"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "singular": "hypothesis",
+        "plural": "hypotheses",
+        "relatedAdjective": "hypothetical",
+        "relatedVerb": "hypothesize / hypothesise"
+      },
+      "patterns": [
+        "a hypothesis about + topic",
+        "the hypothesis that + clause",
+        "formulate / test a hypothesis",
+        "evidence for / against a hypothesis"
+      ],
+      "usage": {
+        "plural": "In hypotheses, the last syllable is /siːz/. In hypothesis, it is /sɪs/.",
+        "thatClause": "A that-clause states the content of the hypothesis: the hypothesis that the delay reduced sales."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/haɪˈpɑː.θə.sɪs/",
+        "uk": "/haɪˈpɒθ.ə.sɪs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a provisional explanation or claim that can be investigated or tested against evidence",
+        "a supposition adopted as a starting point for reasoning"
+      ],
+      "ja": [
+        "仮説。観察やデータなどに照らして検証できる暫定的な説明や主張",
+        "推論の出発点として置く仮定"
+      ]
+    },
+    "nuance": {
+      "en": "In research, a hypothesis often explains an observation or proposes a relationship that evidence can support or count against. A working hypothesis is the provisional explanation that guides an investigation. In statistics, a null hypothesis is a formal claim assessed by a statistical test. Data may support a hypothesis without settling the question conclusively.",
+      "ja": "研究では、観察された現象の説明や、証拠に照らして評価できる関係性の主張を指すことが多い。working hypothesis（作業仮説）は、調査の手がかりとする暫定的な説明。統計では、null hypothesis（帰無仮説）は検定で評価する形式的な主張を指す。データが仮説を支持しても、それだけで結論が確定するとは限らない。"
+    },
+    "minimal": {
+      "en": [
+        "theory: In science, a theory is typically a broad explanatory framework supported by evidence. A hypothesis is often a more specific claim to investigate. In everyday English, theory can also mean a tentative explanation.",
+        "assumption: A premise taken as given for the reasoning at hand. A hypothesis is often itself the claim being examined.",
+        "prediction: An expected result. A hypothesis can give rise to a prediction about what should happen under particular conditions.",
+        "guess: A broader, more conversational word for a tentative judgment, which may be based on very little information."
+      ],
+      "ja": [
+        "theory：科学では、証拠に裏づけられた広い説明の枠組みを指すことが多い。hypothesis は調べるべき個別の仮説を指すことが多い。日常語の theory には「こうではないかという考え」の意味もある。",
+        "assumption：その推論の出発点として所与とする前提。hypothesis はしばしば、その主張自体が検討対象になる。",
+        "prediction：予想される結果。仮説をもとに、一定の条件で何が起こるかを予測できる。",
+        "guess：少ない情報でも下せる暫定的な判断を表す、より広く口語的な語。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "tentative explanation",
+        "note": {
+          "en": "A plain-language equivalent when the hypothesis is intended to explain an observation.",
+          "ja": "観察された現象の説明を試みる仮説の、平易な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Ultimately from Greek hypothesis, from hypo- ‘under’ and thesis ‘a placing’. The original image is of something laid down as a basis for reasoning.",
+      "ja": "ギリシャ語 hypothesis にさかのぼる。hypo-（下に）と thesis（置くこと）からなり、推論の土台となるものを置くという発想につながる。"
+    },
+    "equivalents": {
+      "de": "die Hypothese / die Annahme",
+      "it": "l’ipotesi",
+      "fr": "l’hypothèse",
+      "es": "la hipótesis"
+    },
+    "collocations": {
+      "en": [
+        "formulate a hypothesis",
+        "test a hypothesis",
+        "support a hypothesis",
+        "a working hypothesis",
+        "a plausible hypothesis",
+        "competing hypotheses",
+        "the null hypothesis",
+        "reject the null hypothesis"
+      ],
+      "ja": [
+        "formulate a hypothesis — 仮説を立てる",
+        "test a hypothesis — 仮説を検証する",
+        "support a hypothesis — 仮説を支持する",
+        "a working hypothesis — 作業仮説",
+        "a plausible hypothesis — もっともらしい仮説",
+        "competing hypotheses — 競合する複数の仮説",
+        "the null hypothesis — 帰無仮説",
+        "reject the null hypothesis — 帰無仮説を棄却する"
+      ]
+    },
+    "example": {
+      "en": [
+        "The team tested the hypothesis that clearer instructions would reduce the number of errors.",
+        "Our working hypothesis is that customers are abandoning the form because it asks for too much information.",
+        "Both hypotheses fit the initial observations, but they make different predictions.",
+        "The study did not find enough evidence to reject the null hypothesis."
+      ],
+      "ja": [
+        "The team tested the hypothesis that clearer instructions would reduce the number of errors. — チームは、手順の説明を明確にすればミスが減るという仮説を検証した。",
+        "Our working hypothesis is that customers are abandoning the form because it asks for too much information. — 現時点では、入力項目が多すぎるために利用者がフォームの記入を途中でやめていると仮定している。",
+        "Both hypotheses fit the initial observations, but they make different predictions. — どちらの仮説も最初の観察結果と整合するが、そこから導かれる予測は異なる。",
+        "The study did not find enough evidence to reject the null hypothesis. — その研究では、帰無仮説を棄却するのに十分な証拠は得られなかった。"
+      ]
+    }
   }
 ]
