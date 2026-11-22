@@ -4833,5 +4833,112 @@
         "One of the hens laid an egg in the corner of the barn. — 雌鶏の一羽が納屋の隅で卵を産んだ。"
       ]
     }
+  },
+  {
+    "id": "letter-perfect",
+    "sid": "2026-01889",
+    "word": "letter-perfect",
+    "level": "C1",
+    "freq": "rare",
+    "tags": [
+      "adjective",
+      "american-english",
+      "accuracy",
+      "performance"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "letter-perfect"
+      },
+      "patterns": [
+        "a letter-perfect + noun",
+        "be letter-perfect",
+        "be letter-perfect in + role"
+      ],
+      "usage": {
+        "spelling": "The headword is usually hyphenated, including after be: Her delivery was letter-perfect.",
+        "regional": "Word-perfect is a common British equivalent, especially for knowing or delivering lines exactly."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈlet̬.ɚ ˈpɝː.fɪkt/",
+        "uk": "/ˈlet.ə ˈpɜː.fɪkt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "knowing or reproducing the exact wording of something, such as lines, a quotation, or a script",
+        "exact or flawless in every detail"
+      ],
+      "ja": [
+        "台詞や引用などを一字一句正確に覚えている、または再現している",
+        "細部まで正確な、申し分のない"
+      ]
+    },
+    "nuance": {
+      "en": "The adjective often praises exactness: a letter-perfect transcription preserves every word, and a letter-perfect delivery can mean that the speaker got all the words right. In broader uses, such as a letter-perfect routine, the praise is for precise execution rather than exact wording.",
+      "ja": "正確さを評価する形容詞。a letter-perfect transcription は一字一句正確な書き起こしを指し、a letter-perfect delivery は台詞や原稿を間違えずに言えたことを表せる。a letter-perfect routine のような広い用法では、演技の細部まで正確だったことをたたえる。"
+    },
+    "minimal": {
+      "en": [
+        "word-perfect: A close equivalent, especially in British English, for knowing or saying every word correctly.",
+        "verbatim: Describes a reproduction of the exact words and can be an adjective or an adverb. Letter-perfect is an adjective that can also praise someone’s command of the lines or the execution of a routine.",
+        "flawless: Praises the absence of faults in many contexts. Letter-perfect often draws attention to exactness in wording or execution."
+      ],
+      "ja": [
+        "word-perfect：特にイギリス英語で、すべての語を正確に覚えている、または言えることを表す近い語。",
+        "verbatim：語句をそのまま再現することを表し、形容詞にも副詞にもなる。letter-perfect は形容詞で、台詞の覚え方や演技の正確さを評価するのにも使える。",
+        "flawless：幅広い文脈で欠点のないことをたたえる。letter-perfect は文言や動作の正確さに焦点が当たりやすい。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "word-perfect",
+        "note": {
+          "en": "A near-equivalent for exactly memorized or delivered words.",
+          "ja": "文言を正確に覚えたり、言ったりする意味での近い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "A compound of letter and perfect. The image is of something correct down to every letter.",
+      "ja": "letter（文字）と perfect（完全な）の複合語。文字一つひとつに至るまで正確だというイメージ。"
+    },
+    "equivalents": {
+      "de": "wortgetreu / bis ins Detail fehlerfrei",
+      "it": "parola per parola / impeccabile in ogni dettaglio",
+      "fr": "mot pour mot / irréprochable jusque dans les détails",
+      "es": "palabra por palabra / impecable hasta el último detalle"
+    },
+    "collocations": {
+      "en": [
+        "a letter-perfect transcription",
+        "a letter-perfect quotation",
+        "a letter-perfect delivery",
+        "be letter-perfect in the role",
+        "a letter-perfect routine"
+      ],
+      "ja": [
+        "a letter-perfect transcription — 一字一句正確な書き起こし",
+        "a letter-perfect quotation — 一字一句正確な引用",
+        "a letter-perfect delivery — 一言も間違えない台詞回し",
+        "be letter-perfect in the role — 役の台詞を完璧に覚えている",
+        "a letter-perfect routine — 細部まで申し分のない演技"
+      ]
+    },
+    "example": {
+      "en": [
+        "By the final rehearsal, the understudy was already letter-perfect in the role.",
+        "The quotation in the brief was letter-perfect, right down to the original spelling.",
+        "The pair delivered a letter-perfect routine and took first place."
+      ],
+      "ja": [
+        "By the final rehearsal, the understudy was already letter-perfect in the role. — 最終リハーサルの時点で、代役の俳優はすでにその役の台詞を一字一句覚えていた。",
+        "The quotation in the brief was letter-perfect, right down to the original spelling. — 準備書面の引用は、原文の綴りに至るまで一字一句正確だった。",
+        "The pair delivered a letter-perfect routine and took first place. — そのペアは細部まで申し分のない演技を披露し、優勝した。"
+      ]
+    }
   }
 ]
