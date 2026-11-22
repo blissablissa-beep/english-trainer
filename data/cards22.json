@@ -3963,5 +3963,123 @@
         "That last glass of wine made me a bit woozy. — 最後の一杯のワインで、少しふらついた。"
       ]
     }
+  },
+  {
+    "id": "beckon",
+    "sid": "2026-01881",
+    "word": "beckon",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "gestures",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "intransitive / transitive",
+      "forms": {
+        "base": "beckon",
+        "thirdPerson": "beckons",
+        "past": "beckoned",
+        "pastParticiple": "beckoned",
+        "presentParticiple": "beckoning"
+      },
+      "patterns": [
+        "beckon to someone",
+        "beckon someone over / closer / inside",
+        "beckon someone to follow",
+        "something beckons"
+      ],
+      "usage": {
+        "gesture": "In beckon to someone, to introduces the person receiving the signal. In beckon someone over, that person is the direct object and over gives the direction.",
+        "figurative": "A place, opportunity, or future event can be the subject: The mountains beckon. A place in the final beckons."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈbek.ən/",
+        "uk": "/ˈbek.ən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to make a movement with your hand or head to signal that someone should come closer, follow, or move in a particular direction",
+        "to seem inviting or attractive, as if calling someone toward it",
+        "to seem likely to happen or become available soon"
+      ],
+      "ja": [
+        "手招きする、手や頭の動きで来るように合図する",
+        "（場所・機会などが）人を引きつける、誘う",
+        "（出来事・達成などが）間近に迫る、実現が見えてくる"
+      ]
+    },
+    "nuance": {
+      "en": "The literal sense is about communicating an invitation or instruction with a gesture. The figurative sense makes an inviting place or opportunity sound as if it were calling to you. In sports writing, a place in the final beckons suggests that reaching the final is now a realistic prospect.",
+      "ja": "文字どおりには、身振りで「こっちへ」「ついて来て」と伝えること。比喩では、魅力的な場所や機会がまるで自分を呼んでいるかのように表す。スポーツ記事で a place in the final beckons とあれば、決勝進出が現実味を帯びてきたという意味。"
+    },
+    "minimal": {
+      "en": [
+        "wave: Describes moving your hand in greeting, farewell, or to attract attention. Beckon specifies the message that someone should come or follow.",
+        "signal: A broad term covering many kinds of signs and instructions. Beckon usually refers to a gesture directing a person to come closer or follow.",
+        "attract: A neutral verb for drawing people, attention, or interest. Figurative beckon evokes an invitation or something waiting to be explored."
+      ],
+      "ja": [
+        "wave：挨拶や別れ、注意を引くために手を振る。beckon は「来て」「ついて来て」という合図を表す。",
+        "signal：さまざまな合図や指示を表す広い語。beckon は人に近づくよう、あるいはついて来るよう身振りで伝える場合によく使う。",
+        "attract：人や注意、関心を引くという中立的な語。比喩の beckon は、魅力的な場所や機会が向こうから誘っているような響きがある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "motion to someone to come over",
+        "note": {
+          "en": "A close equivalent for the literal gesture.",
+          "ja": "人にこちらへ来るよう身振りで合図する場合の言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old English gebecnian, ‘to signal by a nod or gesture’. It is historically related to beacon through an older sense of ‘sign’ or ‘signal’.",
+      "ja": "古英語 gebecnian（うなずきや身振りで合図する）に由来する。「しるし・合図」という古い意味を通じて beacon と同系。"
+    },
+    "equivalents": {
+      "de": "jemandem winken / jemanden heranwinken / locken",
+      "it": "fare cenno a qualcuno di avvicinarsi / attirare",
+      "fr": "faire signe à quelqu’un de s’approcher / attirer",
+      "es": "hacerle señas a alguien para que se acerque / atraer"
+    },
+    "collocations": {
+      "en": [
+        "beckon someone over",
+        "beckon someone closer",
+        "beckon someone inside",
+        "beckon to someone to follow",
+        "the mountains beckon",
+        "a place in the final beckons"
+      ],
+      "ja": [
+        "beckon someone over — 人を手招きして呼ぶ",
+        "beckon someone closer — 人にもっと近づくよう合図する",
+        "beckon someone inside — 人に中へ入るよう手招きする",
+        "beckon to someone to follow — ついて来るよう人に合図する",
+        "the mountains beckon — 山が誘っている、山へ行きたくなる",
+        "a place in the final beckons — 決勝進出が見えてくる"
+      ]
+    },
+    "example": {
+      "en": [
+        "The waiter caught my eye and beckoned me over to an empty table.",
+        "She beckoned to me to follow her through a side door.",
+        "We had planned to stay in town, but the mountain trails beckoned.",
+        "With a two-goal lead and ten minutes left, a place in the final beckons."
+      ],
+      "ja": [
+        "The waiter caught my eye and beckoned me over to an empty table. — 店員は私と目が合うと、空いているテーブルへ来るよう手招きした。",
+        "She beckoned to me to follow her through a side door. — 彼女は脇のドアを通ってついて来るよう、私に合図した。",
+        "We had planned to stay in town, but the mountain trails beckoned. — 町で過ごすつもりだったが、山の遊歩道に心を引かれた。",
+        "With a two-goal lead and ten minutes left, a place in the final beckons. — 残り10分で2点をリードし、決勝進出が見えてきた。"
+      ]
+    }
   }
 ]
