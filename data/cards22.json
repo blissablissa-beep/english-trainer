@@ -3855,5 +3855,113 @@
         "The venue is out in the boondocks. How are people without cars supposed to get there? — 会場はずいぶん辺ぴなところにある。車のない人はどうやって行けばいいんだろう？"
       ]
     }
+  },
+  {
+    "id": "woozy",
+    "sid": "2026-01880",
+    "word": "woozy",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "informal",
+      "physical-sensations"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "woozy",
+        "comparative": "woozier",
+        "superlative": "wooziest",
+        "noun": "wooziness"
+      },
+      "patterns": [
+        "feel / be woozy",
+        "make someone woozy",
+        "still woozy from + cause",
+        "woozy after + noun / -ing"
+      ],
+      "usage": {
+        "register": "An informal word for how someone feels.",
+        "position": "Common after feel or be, and after the object of make: The ride made me woozy."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈwuː.zi/",
+        "uk": "/ˈwuː.zi/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "feeling unsteady, weak, or mentally foggy, sometimes with more than one of these sensations at once"
+      ],
+      "ja": [
+        "ふらつく、頭がぼんやりする、力が入らず足元がおぼつかない"
+      ]
+    },
+    "nuance": {
+      "en": "Woozy is a conversational description of feeling physically or mentally off. It can suggest a mix of unsteadiness and fuzzy thinking, as after a long ride or when you are still feeling the effects of an anesthetic. The exact sensation depends on the context.",
+      "ja": "体や頭がすっきりしないときのくだけた表現。長時間乗り物に揺られたあとや、麻酔の影響が残っているときなど、ふらつきと頭のぼんやり感が重なった状態を表せる。どの感覚が強いかは文脈による。"
+    },
+    "minimal": {
+      "en": [
+        "dizzy: Often focuses on spinning or difficulty keeping your balance. Woozy can also suggest a foggy head or weakness.",
+        "light-headed: Often suggests that you might faint, as when you stand up too quickly. Woozy covers a broader mix of sensations.",
+        "groggy: Often refers to reduced alertness after waking up or after sedation. Woozy may put more weight on unsteadiness or dizziness.",
+        "nauseous: Means feeling as if you might vomit. Someone can feel both nauseous and woozy."
+      ],
+      "ja": [
+        "dizzy：目が回る感じや、バランスが取りにくい感覚に焦点が当たりやすい。woozy では、頭のぼんやり感や力が入らない感じも表せる。",
+        "light-headed：急に立ち上がったときなど、気が遠くなりそうな感覚を指すことが多い。woozy はふらつきやぼんやり感なども幅広く表せる。",
+        "groggy：寝起きや鎮静のあとなどで、頭がまだはっきり働かないときによく使う。woozy では足元のふらつきやめまいが前面に出ることもある。",
+        "nauseous：吐き気がする。吐き気とふらつきが重なるなら、nauseous and woozy と両方を言える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "dizzy",
+        "note": {
+          "en": "A close equivalent when unsteadiness is the main sensation.",
+          "ja": "ふらつきが主な感覚である場合の近い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Recorded in colloquial American English in the late 19th century. Its origin is uncertain. Links to oozy and boozy have been proposed.",
+      "ja": "19世紀末のアメリカ英語の口語に記録がある。語源は不明で、oozy や boozy との関連が提案されている。"
+    },
+    "equivalents": {
+      "de": "benommen / etwas schwindelig",
+      "it": "intontito / con la testa che gira",
+      "fr": "vaseux / étourdi",
+      "es": "mareado / aturdido"
+    },
+    "collocations": {
+      "en": [
+        "feel a little woozy",
+        "still woozy from the anesthetic",
+        "make someone woozy",
+        "wake up feeling woozy"
+      ],
+      "ja": [
+        "feel a little woozy — ちょっとふらつく、少し頭がぼんやりする",
+        "still woozy from the anesthetic — 麻酔の影響でまだぼんやりしている",
+        "make someone woozy — 人をふらつかせる、頭をぼんやりさせる",
+        "wake up feeling woozy — 目が覚めたときに頭がぼんやりしている"
+      ]
+    },
+    "example": {
+      "en": [
+        "I felt a little woozy when I got off the ferry, so I sat down on a bench.",
+        "I was still woozy from the anesthetic and had to ask her to repeat the question.",
+        "That last glass of wine made me a bit woozy."
+      ],
+      "ja": [
+        "I felt a little woozy when I got off the ferry, so I sat down on a bench. — フェリーを降りたときに少しふらついたので、ベンチに座った。",
+        "I was still woozy from the anesthetic and had to ask her to repeat the question. — 麻酔の影響でまだ頭がぼんやりしていて、もう一度質問してもらった。",
+        "That last glass of wine made me a bit woozy. — 最後の一杯のワインで、少しふらついた。"
+      ]
+    }
   }
 ]
