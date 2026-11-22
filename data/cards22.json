@@ -3223,5 +3223,111 @@
         "The party bigwigs backed the proposal, but younger members were less enthusiastic. — 党幹部はその提案を支持したが、若手党員の反応はそれほど熱心ではなかった。"
       ]
     }
+  },
+  {
+    "id": "dead-in-the-water",
+    "sid": "2026-01874",
+    "word": "dead in the water",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "idiom",
+      "business",
+      "failure",
+      "nautical"
+    ],
+    "grammar": {
+      "pos": "idiom",
+      "forms": {
+        "base": "dead in the water"
+      },
+      "patterns": [
+        "be dead in the water",
+        "look / seem dead in the water",
+        "leave + object + dead in the water",
+        "be dead in the water without + noun"
+      ],
+      "usage": {
+        "position": "Usually follows be, seem, or look, or describes the object after leave.",
+        "conditional": "Without X, the project is dead in the water means that the project cannot go ahead unless X is available."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ded ɪn ðə ˈwɑː.t̬ɚ/",
+        "uk": "/ded ɪn ðə ˈwɔː.tə/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(idiom) unable to make further progress and effectively doomed to fail under the circumstances",
+        "(literal, of a vessel) stopped in the water and unable to move under its own power"
+      ],
+      "ja": [
+        "（計画などが）行き詰まって、先に進む見込みがない、事実上頓挫している",
+        "（船が）水上で停止し、自力で動けない"
+      ]
+    },
+    "nuance": {
+      "en": "This is a strong assessment of a plan’s chances. A proposal can be dead in the water before it formally ends if it has lost the support or resources it needs. With without or unless, the expression describes what will happen if the missing condition is not met.",
+      "ja": "計画の見通しについての強い評価を表す。必要な支持や資金を失えば、正式な打ち切り前でも使える。without や unless を添えると、必要な条件がそろわなければ先に進めない、という意味になる。"
+    },
+    "minimal": {
+      "en": [
+        "stalled: Progress has stopped and may resume. Dead in the water presents the outlook as much worse.",
+        "on hold: Paused, often deliberately, until something changes. Dead in the water suggests that the plan is effectively finished under the current conditions.",
+        "dead on arrival: Used when something has no realistic chance from the moment it is introduced. Dead in the water can also describe a plan that lost momentum or support later."
+      ],
+      "ja": [
+        "stalled：進行が止まっているが、再開する余地がある。dead in the water は、今の状況では先に進む見込みがないという強い評価。",
+        "on hold：状況が変わるまで、しばしば意図的に保留している。dead in the water は、今の条件では計画が事実上頓挫しているという含み。",
+        "dead on arrival：提案や企画が出された時点ですでに見込みがない。dead in the water は、途中で勢いや支持を失った計画にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "have no realistic chance of going ahead",
+        "note": {
+          "en": "A plain-language equivalent for a blocked plan.",
+          "ja": "計画が先に進む見込みがないことを表す平易な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The figurative sense draws on the nautical image of a vessel that has stopped in the water and cannot propel itself.",
+      "ja": "水上で停止し、自力で進めなくなった船のイメージを、先に進めない計画などに重ねた表現。"
+    },
+    "equivalents": {
+      "de": "praktisch gescheitert sein / keine Aussicht mehr auf Erfolg haben",
+      "it": "essere ormai senza prospettive / essere praticamente naufragato",
+      "fr": "être au point mort, sans perspective de reprise / être voué à l’échec",
+      "es": "estar prácticamente condenado al fracaso / no tener perspectivas de salir adelante"
+    },
+    "collocations": {
+      "en": [
+        "the proposal is dead in the water",
+        "leave the project dead in the water",
+        "dead in the water without funding",
+        "the boat lay dead in the water"
+      ],
+      "ja": [
+        "the proposal is dead in the water — 提案は事実上頓挫している",
+        "leave the project dead in the water — 計画を先に進められなくする",
+        "dead in the water without funding — 資金がなければ先に進めない",
+        "the boat lay dead in the water — 船は水上で止まって自力で動けなかった"
+      ]
+    },
+    "example": {
+      "en": [
+        "Without the board’s approval, the expansion plan is dead in the water.",
+        "The withdrawal of our main sponsor left the proposal dead in the water.",
+        "When the engine failed, the fishing boat was dead in the water."
+      ],
+      "ja": [
+        "Without the board’s approval, the expansion plan is dead in the water. — 取締役会の承認がなければ、拡張計画は先に進めない。",
+        "The withdrawal of our main sponsor left the proposal dead in the water. — 主力スポンサーが撤退したことで、その提案は事実上頓挫した。",
+        "When the engine failed, the fishing boat was dead in the water. — エンジンが故障し、漁船は水上で自力で動けなくなった。"
+      ]
+    }
   }
 ]
