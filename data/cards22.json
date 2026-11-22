@@ -2470,5 +2470,127 @@
         "The study did not find enough evidence to reject the null hypothesis. — その研究では、帰無仮説を棄却するのに十分な証拠は得られなかった。"
       ]
     }
+  },
+  {
+    "id": "theory",
+    "sid": "2026-01867",
+    "word": "theory",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "research",
+      "reasoning",
+      "idiom"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable for an individual explanation or framework; uncountable for principles as a body of knowledge",
+      "forms": {
+        "singular": "theory",
+        "plural": "theories",
+        "adjective": "theoretical",
+        "adverb": "theoretically"
+      },
+      "patterns": [
+        "a theory about + topic",
+        "the theory that + clause",
+        "the theory of + noun",
+        "in theory"
+      ],
+      "usage": {
+        "countability": "Use a theory for one explanation (a theory about the delay) and theory without an article for a body of principles (music theory).",
+        "idiom": "In theory means according to the principles or assumptions involved. It often contrasts with in practice."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈθɪr.i/",
+        "uk": "/ˈθɪə.ri/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "an organized explanation of how or why something happens",
+        "the principles underlying a subject or activity",
+        "an idea about what happened or why, especially in everyday speech"
+      ],
+      "ja": [
+        "理論。現象の仕組みや理由を体系的に説明するもの",
+        "ある分野や活動の基礎となる理論・原理",
+        "（日常語）何が起きたか、なぜそうなったかについての見立て、推測"
+      ]
+    },
+    "nuance": {
+      "en": "In science, a theory such as plate tectonics organizes evidence and explains a range of observations. In ordinary conversation, I have a theory can introduce an explanation that the speaker has yet to check. In theory, the plan should work signals that the plan looks workable under the stated or assumed conditions, with room for practical complications.",
+      "ja": "科学での theory は、プレートテクトニクスのように、証拠をまとめてさまざまな観察結果を説明する枠組みを指す。日常会話の I have a theory は、まだ確かめていない自分なりの説明を切り出す言い方。In theory, the plan should work は、想定どおりの条件ならうまくいくはずだが、実際には問題が生じる余地もある、という含みを持ちうる。"
+    },
+    "minimal": {
+      "en": [
+        "hypothesis: Often a specific, testable claim. A scientific theory typically explains a wider range of observations. In everyday conversation, theory can also refer to a tentative explanation.",
+        "model: A representation of a system or process, often simplified. A theory may use several models to explain a phenomenon.",
+        "hunch: An intuitive feeling that something is true. A theory offers an account of what happened or why."
+      ],
+      "ja": [
+        "hypothesis：多くは検証可能な個別の仮説。科学での theory は、より広い範囲の観察結果を説明する枠組みを指すことが多い。日常語の theory には暫定的な見立ての意味もある。",
+        "model：仕組みや過程を表す表現や枠組みで、しばしば単純化されている。一つの theory が現象を説明するために複数の model を用いることがある。",
+        "hunch：何かが事実だろうという直感。theory は何が起きたか、なぜそうなったかについての説明を示す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "explanation",
+        "note": {
+          "en": "A broader word for an account of how or why something happened.",
+          "ja": "何がどう、なぜ起きたかについての説明を広く指す語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Through Late Latin theoria, from Greek theōria ‘viewing, contemplation’. The Greek word could refer to looking at something as well as thinking it over.",
+      "ja": "後期ラテン語 theoria を経て、ギリシャ語 theōria（見ること、観想）にさかのぼる。ギリシャ語では物事を眺めることにも、よく考えることにも使われた。"
+    },
+    "equivalents": {
+      "de": "die Theorie / die Vermutung",
+      "it": "la teoria / l’ipotesi",
+      "fr": "la théorie / l’hypothèse",
+      "es": "la teoría / la hipótesis"
+    },
+    "collocations": {
+      "en": [
+        "a scientific theory",
+        "the theory of evolution",
+        "music theory",
+        "develop a theory",
+        "a theory about the cause",
+        "have a theory that …",
+        "in theory",
+        "in theory and in practice"
+      ],
+      "ja": [
+        "a scientific theory — 科学理論",
+        "the theory of evolution — 進化論",
+        "music theory — 音楽理論",
+        "develop a theory — 理論を組み立てる",
+        "a theory about the cause — 原因についての説",
+        "have a theory that … — …ではないかと考えている",
+        "in theory — 理屈の上では",
+        "in theory and in practice — 理論上も実際にも"
+      ]
+    },
+    "example": {
+      "en": [
+        "The theory of plate tectonics helps explain why earthquakes cluster along certain boundaries.",
+        "I have a theory about why nobody uses that entrance. The sign makes it look like it’s for staff only.",
+        "In theory, the transfer should take ten minutes. In practice, the buses rarely run on time.",
+        "She studied music theory to understand how the chords fit together."
+      ],
+      "ja": [
+        "The theory of plate tectonics helps explain why earthquakes cluster along certain boundaries. — プレートテクトニクス理論は、なぜ地震が特定の境界付近に集中するのかを説明するのに役立つ。",
+        "I have a theory about why nobody uses that entrance. The sign makes it look like it’s for staff only. — なぜ誰もあの入口を使わないのか、私なりの考えがある。あの表示だと、職員専用に見えるんだ。",
+        "In theory, the transfer should take ten minutes. In practice, the buses rarely run on time. — 理屈の上では、乗り継ぎに10分かかるはずだ。実際には、バスが時刻どおりに来ることはめったにない。",
+        "She studied music theory to understand how the chords fit together. — 彼女は、和音がどう組み合わさるのかを理解するために音楽理論を学んだ。"
+      ]
+    }
   }
 ]
