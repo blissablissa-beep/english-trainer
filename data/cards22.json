@@ -4292,5 +4292,119 @@
         "The main index was down most of the day but moved back into the black just before the close. — 主要株価指数はその日の大半で前日終値を下回っていたが、取引終了間際にプラス圏に戻った。"
       ]
     }
+  },
+  {
+    "id": "in-the-red",
+    "sid": "2026-01884",
+    "word": "in the red",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "idiom",
+      "finance",
+      "accounting",
+      "business"
+    ],
+    "grammar": {
+      "pos": "idiom",
+      "forms": {
+        "base": "in the red",
+        "transition": "into the red",
+        "opposite": "in the black"
+      },
+      "patterns": [
+        "be / stay in the red",
+        "end the quarter in the red",
+        "fall / slip into the red",
+        "be $500 in the red",
+        "be in the red by $500",
+        "get out of the red"
+      ],
+      "usage": {
+        "state": "Use in for a state (be in the red) and into for a transition (slip into the red).",
+        "amount": "The size of the loss or negative balance can come before in (We’re $500 in the red) or after by (We’re in the red by $500)."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪn ðə red/",
+        "uk": "/ɪn ðə red/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(of a business or organization) making or having made a loss for the relevant period",
+        "(of a bank account) having a negative balance",
+        "(of shares or a market index) trading below a reference level such as the previous close"
+      ],
+      "ja": [
+        "（企業・組織が）赤字である、対象期間に損失を出している",
+        "（銀行口座の）残高がマイナスである",
+        "（株価・株価指数が）前日終値などの基準値を下回り、マイナス圏にある"
+      ]
+    },
+    "nuance": {
+      "en": "The subject tells you which figure is negative: a company’s profit or loss for a period, a bank account’s balance, or the change in a market price. A company can be in the red this quarter and still have money in its bank account.",
+      "ja": "何がマイナスなのかは主語で分かる。企業なら一定期間の損益、銀行口座なら残高、相場記事なら基準値からの値動き。企業が今四半期に赤字でも、銀行口座に資金が残っていることはある。"
+    },
+    "minimal": {
+      "en": [
+        "in the black: The opposite, describing a profit, a positive balance, or a market gain.",
+        "in debt: Owing money. A business can have debt and still be in the black if it is making a profit.",
+        "overdrawn: Specifically describes a bank account with a negative balance, or someone who has overdrawn their account. In the red also applies to business results and markets."
+      ],
+      "ja": [
+        "in the black：対義表現。黒字、プラスの口座残高、相場の上昇を表す。",
+        "in debt：借金や債務がある状態。借入金があっても、利益を出していれば企業の損益は黒字になりうる。",
+        "overdrawn：口座残高がマイナスであることや、残高を超えて引き出した人の状態を指す。in the red は企業の損益や相場にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "make a loss",
+        "note": {
+          "en": "A plain equivalent for a business’s results over a period.",
+          "ja": "一定期間の企業の損益についての平易な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The expression refers to the bookkeeping practice of writing losses or negative figures in red ink.",
+      "ja": "帳簿で損失やマイナスの数字を赤インクで記した慣行にちなむ。"
+    },
+    "equivalents": {
+      "de": "rote Zahlen schreiben / im Minus sein",
+      "it": "essere in rosso",
+      "fr": "être dans le rouge / être déficitaire",
+      "es": "estar en números rojos / estar en negativo"
+    },
+    "collocations": {
+      "en": [
+        "finish the year in the red",
+        "slip into the red",
+        "be £50 in the red",
+        "be deep in the red",
+        "get out of the red"
+      ],
+      "ja": [
+        "finish the year in the red — 赤字で年度を終える",
+        "slip into the red — 赤字に転じる、マイナス圏に転じる",
+        "be £50 in the red — 残高が50ポンドのマイナスである",
+        "be deep in the red — 大幅な赤字である",
+        "get out of the red — 赤字やマイナス残高を解消する"
+      ]
+    },
+    "example": {
+      "en": [
+        "The company ended the quarter in the red after shipping costs doubled.",
+        "By the time the rent payment went through, my account was £50 in the red.",
+        "The main index slipped into the red shortly before the close."
+      ],
+      "ja": [
+        "The company ended the quarter in the red after shipping costs doubled. — 輸送費が倍増し、その会社は四半期を赤字で終えた。",
+        "By the time the rent payment went through, my account was £50 in the red. — 家賃が引き落とされた時点で、口座残高は50ポンドのマイナスになっていた。",
+        "The main index slipped into the red shortly before the close. — 主要株価指数は取引終了の少し前にマイナス圏に転じた。"
+      ]
+    }
   }
 ]
