@@ -9081,5 +9081,124 @@
         "The exhibition shows how a bustle gave nineteenth-century skirts their distinctive shape. — その展示では、バッスルが19世紀のスカートに独特の形を与えた仕組みを紹介している。"
       ]
     }
+  },
+  {
+    "id": "snicker",
+    "sid": "2026-01924",
+    "word": "snicker",
+    "level": "C2",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "noun",
+      "american-english",
+      "laughter"
+    ],
+    "grammar": {
+      "pos": "verb / noun",
+      "transitivity": "intransitive (usual use)",
+      "countability": "countable",
+      "forms": {
+        "base": "snicker",
+        "thirdPerson": "snickers",
+        "past": "snickered",
+        "pastParticiple": "snickered",
+        "ing": "snickering",
+        "plural": "snickers"
+      },
+      "patterns": [
+        "snicker at + person / thing",
+        "snicker about + topic",
+        "snicker to oneself",
+        "let out / suppress a snicker"
+      ],
+      "usage": {
+        "prepositions": "At points to the target or cause of the laugh. About introduces the topic that people are laughing about.",
+        "region": "Snicker is chiefly North American. Snigger is the usual British equivalent."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈsnɪk.ɚ/",
+        "uk": "/ˈsnɪk.ə(r)/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to laugh quietly or in a partly suppressed way, often with a hint of mockery or at something rude",
+        "a short, quiet laugh of this kind"
+      ],
+      "ja": [
+        "笑いを抑えながら小さく笑う、くすくす笑う。人をからかうような響きを伴うことが多い",
+        "こらえきれずに漏れた小さな笑い、くすくす笑い"
+      ]
+    },
+    "nuance": {
+      "en": "Snicker draws attention to a laugh that is kept quiet, sometimes because it would be rude or awkward to laugh openly. When someone snickers at a person or a mistake, the laugh can feel mocking. People can also snicker at a rude joke or share a quiet laugh over a private joke.",
+      "ja": "声を立てて笑うと失礼だったり気まずかったりする場面で、抑えた笑いが漏れる様子を描く。人やその失敗を見て snicker at と言うと、からかいや嘲りがにじみやすい。きわどい冗談や内輪の冗談に、こっそり笑う場合にも使える。"
+    },
+    "minimal": {
+      "en": [
+        "snigger. The usual British equivalent of snicker.",
+        "giggle. Often suggests light, repeated laughter from amusement, embarrassment, or nerves. Snicker more often suggests a suppressed or mocking laugh.",
+        "chuckle. A quiet laugh that often conveys warm or private amusement. Snicker can carry a sharper edge.",
+        "sneer. Shows contempt through a look, expression, or remark. Snicker describes an audible laugh."
+      ],
+      "ja": [
+        "snigger はイギリス英語で一般的な同義語。",
+        "giggle は面白さや照れ、緊張から出る軽いくすくす笑い。snicker には、笑いを隠す感じやからかう響きが出やすい。",
+        "chuckle は、楽しさをかみしめるような小さな笑いにも使う。snicker は相手をからかう響きを帯びやすい。",
+        "sneer は表情や言葉で軽蔑を示すこと。snicker は実際に漏れる笑い声を描く。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "snigger",
+        "note": {
+          "en": "The usual British counterpart in both verb and noun uses.",
+          "ja": "動詞と名詞の両方で使える、主にイギリス英語の対応語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The verb is recorded from the late seventeenth century and may imitate the sound of a suppressed laugh. The noun developed from the verb.",
+      "ja": "動詞は17世紀末から記録され、こらえた笑い声をまねた語の可能性がある。名詞は動詞から生まれた。"
+    },
+    "equivalents": {
+      "de": "kichern / feixen",
+      "it": "ridacchiare",
+      "fr": "ricaner",
+      "es": "reírse por lo bajo / soltar una risita burlona"
+    },
+    "collocations": {
+      "en": [
+        "snicker at someone's mistake",
+        "snicker to oneself",
+        "snicker under one's breath",
+        "hear someone snicker",
+        "let out a snicker",
+        "suppress a snicker"
+      ],
+      "ja": [
+        "snicker at someone's mistake — 人の失敗を見てくすくす笑う",
+        "snicker to oneself — ひとりでこっそりくすくす笑う",
+        "snicker under one's breath — 声を抑えてくすくす笑う",
+        "hear someone snicker — 誰かがくすくす笑うのが聞こえる",
+        "let out a snicker — くすっと笑いを漏らす",
+        "suppress a snicker — くすくす笑いをこらえる"
+      ]
+    },
+    "example": {
+      "en": [
+        "A few people snickered when I called the director by the wrong name.",
+        "The two of them were snickering over a joke the rest of us didn't get.",
+        "I heard a snicker from the back row as the spelling mistake appeared on the screen."
+      ],
+      "ja": [
+        "A few people snickered when I called the director by the wrong name. — 私が部長の名前を言い間違えると、何人かがくすくす笑った。",
+        "The two of them were snickering over a joke the rest of us didn't get. — 二人は、ほかの私たちには分からない冗談でくすくす笑っていた。",
+        "I heard a snicker from the back row as the spelling mistake appeared on the screen. — 画面にスペルミスが映ったとき、後ろの列からくすっと笑う声が聞こえた。"
+      ]
+    }
   }
 ]
