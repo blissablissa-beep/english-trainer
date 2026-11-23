@@ -5053,5 +5053,122 @@
         "She delved into her bag for a pen. — 彼女はかばんに手を入れてペンを探した。"
       ]
     }
+  },
+  {
+    "id": "adequate",
+    "sid": "2026-01891",
+    "word": "adequate",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "evaluation",
+      "quantity",
+      "business"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "adequate",
+        "adverb": "adequately",
+        "noun": "adequacy",
+        "opposite": "inadequate"
+      },
+      "patterns": [
+        "adequate + noun",
+        "be adequate for + purpose / need",
+        "be adequate to + verb",
+        "barely / more than adequate"
+      ],
+      "usage": {
+        "position": "Adequate can precede a noun (adequate funding) or follow a linking verb (The funding is adequate).",
+        "complement": "Use for with a need or purpose and to with a verb: adequate for our needs; adequate to cover the costs."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈæd.ə.kwət/",
+        "uk": "/ˈæd.ə.kwət/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "enough in amount or quality for a particular need or purpose",
+        "acceptable when judged against a standard, often with little enthusiasm"
+      ],
+      "ja": [
+        "（目的・必要性に照らして）十分な、必要量や必要な水準を満たす",
+        "（評価として）合格点の、まずまずの、及第点の"
+      ]
+    },
+    "nuance": {
+      "en": "Adequate measures something against what the situation requires. In adequate evidence or adequate time, it can be a neutral statement of sufficiency. On its own as a verdict, The service was adequate can sound like faint praise. Barely adequate places something right at the threshold, while more than adequate indicates room to spare.",
+      "ja": "その状況で必要とされる量や水準を満たすことを表す。adequate evidence（十分な証拠）や adequate time（十分な時間）では、充足の有無を中立的に述べられる。The service was adequate. と評価だけを述べると「サービスはまあ及第点だった」と控えめに響くことがある。barely adequate は「かろうじて足りる」、more than adequate は「余裕で足りる」。"
+    },
+    "minimal": {
+      "en": [
+        "enough: The everyday equivalent. Say adequate time or enough time, but warm enough when enough modifies an adjective.",
+        "sufficient: Often used in formal or technical writing when a specified amount or condition is enough. Adequate can also give an overall quality rating.",
+        "acceptable: Emphasizes whether something can be accepted or approved. Adequate emphasizes whether it meets the need or serves the purpose."
+      ],
+      "ja": [
+        "enough：日常的な言い換え。adequate time と enough time はどちらも「十分な時間」。enough が形容詞を修飾するときは warm enough のように後ろに置く。",
+        "sufficient：一定の量や条件を満たすことを述べる硬めの表現。adequate は出来栄え全体を「及第点」と評価する場合にも使う。",
+        "acceptable：受け入れたり承認したりできるかに焦点がある。adequate は必要を満たし、目的に足りるかに焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "sufficient",
+        "note": {
+          "en": "A close equivalent when referring to having enough for a stated purpose.",
+          "ja": "明示された目的に足りるという意味での近い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin adaequatus, the past participle of adaequare ‘to make equal to’. It shares the Latin root aequus with equal. The underlying idea is being equal to what is required.",
+      "ja": "ラテン語 adaequare（同じ水準にする）の過去分詞 adaequatus に由来する。equal と同じくラテン語 aequus（等しい）を語根に持ち、必要とされる水準に達しているという発想につながる。"
+    },
+    "equivalents": {
+      "de": "ausreichend / den Anforderungen angemessen",
+      "it": "adeguato / sufficiente",
+      "fr": "suffisant / adapté",
+      "es": "adecuado / suficiente"
+    },
+    "collocations": {
+      "en": [
+        "adequate time to prepare",
+        "adequate evidence",
+        "adequate funding",
+        "adequate for everyday use",
+        "adequate to cover the costs",
+        "barely adequate",
+        "more than adequate"
+      ],
+      "ja": [
+        "adequate time to prepare — 準備に十分な時間",
+        "adequate evidence — 十分な証拠",
+        "adequate funding — 十分な資金",
+        "adequate for everyday use — 日常使いには十分な",
+        "adequate to cover the costs — 費用を賄うのに十分な",
+        "barely adequate — かろうじて必要な水準に達する",
+        "more than adequate — 必要を十分に上回る"
+      ]
+    },
+    "example": {
+      "en": [
+        "The budget is adequate for routine maintenance, but it won’t cover a major repair.",
+        "The hotel breakfast was adequate. There was toast and coffee, and little else.",
+        "We had adequate time to review the draft before the meeting.",
+        "The deposit should be adequate to cover the cost of replacing the lock."
+      ],
+      "ja": [
+        "The budget is adequate for routine maintenance, but it won’t cover a major repair. — 予算は日常のメンテナンスには十分だが、大がかりな修理までは賄えない。",
+        "The hotel breakfast was adequate. There was toast and coffee, and little else. — ホテルの朝食はまあ及第点だった。トーストとコーヒーがあり、ほかにはたいしてなかった。",
+        "We had adequate time to review the draft before the meeting. — 会議の前に草案を確認する時間は十分にあった。",
+        "The deposit should be adequate to cover the cost of replacing the lock. — 預り金で鍵の交換費用は賄えるはずだ。"
+      ]
+    }
   }
 ]
