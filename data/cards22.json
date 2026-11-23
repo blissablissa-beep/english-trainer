@@ -7835,5 +7835,134 @@
         "The crew surveyed the site to establish the exact property boundaries. — 測量チームは敷地を測量し、正確な境界を確かめた。"
       ]
     }
+  },
+  {
+    "id": "extrapolate",
+    "sid": "2026-01914",
+    "word": "extrapolate",
+    "level": "C2",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "formal",
+      "data",
+      "reasoning"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive / intransitive",
+      "forms": {
+        "base": "extrapolate",
+        "thirdPerson": "extrapolates",
+        "past": "extrapolated",
+        "pastParticiple": "extrapolated",
+        "ing": "extrapolating",
+        "relatedNoun": "extrapolation"
+      },
+      "patterns": [
+        "extrapolate from + data / observations",
+        "extrapolate + a value + from + known data",
+        "extrapolate + findings + to + a new population / setting",
+        "extrapolate + a trend + beyond + the observed range"
+      ],
+      "usage": {
+        "prepositions": "From identifies the evidence or starting point. To identifies the new population, setting, or point to which the estimate or conclusion is extended.",
+        "passive": "In research writing, findings or results can be extrapolated to another population, or cannot be extrapolated to it."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪkˈstræpəleɪt/",
+        "uk": "/ɪkˈstræpəleɪt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to estimate a value outside the range of observed data by extending a pattern or model",
+        "to extend an inference from one set of observations to a wider or different set of circumstances"
+      ],
+      "ja": [
+        "既知のデータから得た傾向やモデルを延長し、観測範囲の外にある値を推定する、外挿する",
+        "ある範囲の観察や情報をもとに、より広い範囲や別の状況にも当てはまると推論する"
+      ]
+    },
+    "nuance": {
+      "en": "Extrapolate implies that a relationship observed in one range or setting is assumed to hold outside it. That can mean projecting a trend into the future or applying results from a small group to a larger population. The verb often appears in cautions because the pattern may change or the new group may differ.",
+      "ja": "観測した範囲や条件で成り立った関係を、その外側でも使えると仮定して推定する語。過去の傾向を将来へ延ばすほか、小規模な調査結果を別の集団やより大きな集団に当てはめる場合にも使う。範囲が変われば傾向や条件も変わりうるため、論文などでは外挿の限界を述べるときにもよく現れる。"
+    },
+    "minimal": {
+      "en": [
+        "interpolate: estimate a value inside the range of known data. With observations at 10 and 20, estimating the value at 15 is interpolation and estimating it at 25 is extrapolation.",
+        "infer: draw a conclusion from evidence. Extrapolate specifically involves carrying a pattern or finding beyond the data or setting in which it was observed.",
+        "project: estimate a future outcome. A projection may use extrapolation or incorporate other assumptions, such as a planned change in policy.",
+        "generalize: draw or apply a broader conclusion. Extrapolate highlights how findings from one range or setting are extended to another."
+      ],
+      "ja": [
+        "interpolate：観測範囲内の値を推定する、内挿（補間）する。10と20で観測しているとき、15での値の推定は内挿、25での値の推定は外挿。",
+        "infer：証拠から結論を導く。extrapolate は、観測された傾向や知見を別の条件や観測範囲の外まで延ばすことに焦点がある。",
+        "project：将来の値や状況を見積もる。外挿を使うことも、予定されている政策変更など別の前提を取り入れることもある。",
+        "generalize：個別の事例などから一般化する。extrapolate は、元のデータや条件からどこまで知見を広げられるかに焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "project",
+        "note": {
+          "en": "Close when extending a trend to estimate future values.",
+          "ja": "傾向を延ばして将来の値を見積もる場合に近い。"
+        }
+      },
+      {
+        "word": "generalize",
+        "note": {
+          "en": "Close when applying findings to a broader group.",
+          "ja": "結果をより広い集団に当てはめる用法で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Coined in the nineteenth century from extra- ‘outside’ and the ending of interpolate.",
+      "ja": "19世紀に、extra-（外側）と interpolate（内挿する）の後半を組み合わせて作られた。"
+    },
+    "equivalents": {
+      "de": "extrapolieren / auf eine andere Gruppe übertragen",
+      "it": "estrapolare / estendere i risultati a un altro gruppo",
+      "fr": "extrapoler / étendre les résultats à un autre groupe",
+      "es": "extrapolar / extender los resultados a otro grupo"
+    },
+    "collocations": {
+      "en": [
+        "extrapolate from past trends",
+        "extrapolate from a small sample",
+        "extrapolate to a wider population",
+        "extrapolate the findings to other settings",
+        "extrapolate beyond the observed range",
+        "extrapolate a trend into the future",
+        "be cautious about extrapolating"
+      ],
+      "ja": [
+        "extrapolate from past trends — 過去の傾向から推定する",
+        "extrapolate from a small sample — 少数の標本から外挿する",
+        "extrapolate to a wider population — より広い集団に当てはめる",
+        "extrapolate the findings to other settings — 知見を別の状況に当てはめる",
+        "extrapolate beyond the observed range — 観測範囲を越えて外挿する",
+        "extrapolate a trend into the future — 傾向を将来に延長して推定する",
+        "be cautious about extrapolating — 外挿に慎重になる"
+      ]
+    },
+    "example": {
+      "en": [
+        "We extrapolated from the past six months of sales to estimate demand next year.",
+        "The model fits the measured values well, but it becomes unreliable when we extrapolate beyond the observed range.",
+        "The survey covered only one city, so we should be cautious about extrapolating the findings to the whole country.",
+        "It's tempting to extrapolate from one bad experience and assume every provider will be the same."
+      ],
+      "ja": [
+        "We extrapolated from the past six months of sales to estimate demand next year. — 過去6か月の売上傾向をもとに、来年の需要を推定した。",
+        "The model fits the measured values well, but it becomes unreliable when we extrapolate beyond the observed range. — このモデルは測定値によく合うが、観測範囲の外に外挿すると信頼性が落ちる。",
+        "The survey covered only one city, so we should be cautious about extrapolating the findings to the whole country. — 調査対象は一都市だけだったので、結果を全国に当てはめるには慎重になるべきだ。",
+        "It's tempting to extrapolate from one bad experience and assume every provider will be the same. — 一度嫌な思いをすると、ほかの業者もみな同じだと思い込みがちだ。"
+      ]
+    }
   }
 ]
