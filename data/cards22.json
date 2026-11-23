@@ -8827,5 +8827,121 @@
         "I was surprised by how sanguine she sounded about the possibility of another delay. — また延期になる可能性について、彼女があまりにも楽観的に話すので驚いた。"
       ]
     }
+  },
+  {
+    "id": "crustacean",
+    "sid": "2026-01922",
+    "word": "crustacean",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "adjective",
+      "animals",
+      "zoology",
+      "seafood"
+    ],
+    "grammar": {
+      "pos": "noun / adjective",
+      "countability": "countable",
+      "forms": {
+        "base": "crustacean",
+        "plural": "crustaceans",
+        "groupName": "Crustacea"
+      },
+      "patterns": [
+        "a / an + adjective + crustacean",
+        "a species of crustacean",
+        "crustaceans such as + examples",
+        "crustacean + larvae / species"
+      ],
+      "usage": {
+        "counting": "Use a crustacean for one animal and crustaceans for more than one or for the group in general.",
+        "adjective": "The same form can modify a noun, as in crustacean larvae. Crustacea is the scientific group name."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/krʌsˈteɪ.ʃən/",
+        "uk": "/krʌsˈteɪ.ʃən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "an arthropod belonging to the group Crustacea, which includes crabs, shrimp, lobsters, barnacles, and woodlice",
+        "relating to crustaceans (adjective)"
+      ],
+      "ja": [
+        "甲殻類の動物。カニ、エビ、ロブスター、フジツボ、ワラジムシなどを含む",
+        "甲殻類の（形容詞）"
+      ]
+    },
+    "nuance": {
+      "en": "Crustacean names a zoological group. Many crustaceans live in water, and woodlice are familiar land-dwelling examples. In cooking, the term often brings shrimp, crab, and lobster to mind. Shellfish is a broader food term that also covers mollusks such as oysters and mussels.",
+      "ja": "crustacean は生物の分類を表す語。水中にすむものが多いが、ワラジムシの仲間のように陸上で暮らすものもいる。料理ではエビ・カニ・ロブスターなどを指すことが多い。食材の総称 shellfish には、カキやムール貝などの軟体動物も含まれる。"
+    },
+    "minimal": {
+      "en": [
+        "shellfish. A broad term in cooking that includes edible crustaceans and mollusks, such as mussels and oysters.",
+        "mollusk (UK mollusc). A member of the group that includes clams, snails, and octopuses. Crabs and shrimp belong to the crustaceans.",
+        "arthropod. A wider group that includes crustaceans as well as insects and spiders.",
+        "seafood. A broad food term that covers fish and shellfish. Crustacean refers to the animal group, including land-dwelling members."
+      ],
+      "ja": [
+        "shellfish は料理で使う広い呼び方で、食用の甲殻類と、ムール貝やカキなどの軟体動物を含む。",
+        "mollusk（英式綴り mollusc）は軟体動物。二枚貝・カタツムリ・タコなどが属し、カニ・エビは甲殻類に属する。",
+        "arthropod は節足動物。甲殻類のほか、昆虫やクモを含む上位の分類。",
+        "seafood は魚や貝類などの水産物を指す食材の総称。crustacean は陸生の仲間も含む生物の分類を指す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "shellfish",
+        "note": {
+          "en": "Overlaps in culinary contexts when referring to edible shrimp, crab, or lobster.",
+          "ja": "料理でエビ・カニ・ロブスターなどを指す場合に意味が重なる。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From the scientific group name Crustacea plus -an. Crustacea ultimately comes from Latin crusta, ‘a hard outer layer or shell’.",
+      "ja": "学名 Crustacea に接尾辞 -an が付いた語。Crustacea はラテン語 crusta（硬い外層、殻）にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "das Krebstier",
+      "it": "il crostaceo",
+      "fr": "le crustacé",
+      "es": "el crustáceo"
+    },
+    "collocations": {
+      "en": [
+        "a marine crustacean",
+        "a freshwater crustacean",
+        "a terrestrial crustacean",
+        "a small crustacean",
+        "a species of crustacean",
+        "crustacean larvae"
+      ],
+      "ja": [
+        "a marine crustacean — 海にすむ甲殻類",
+        "a freshwater crustacean — 淡水にすむ甲殻類",
+        "a terrestrial crustacean — 陸生の甲殻類",
+        "a small crustacean — 小型の甲殻類",
+        "a species of crustacean — 甲殻類の一種",
+        "crustacean larvae — 甲殻類の幼生"
+      ]
+    },
+    "example": {
+      "en": [
+        "Shrimp and crabs are crustaceans, while oysters are mollusks.",
+        "A woodlouse is a terrestrial crustacean you might find under a damp log.",
+        "The researchers found tiny crustacean larvae in the water samples."
+      ],
+      "ja": [
+        "Shrimp and crabs are crustaceans, while oysters are mollusks. — エビやカニは甲殻類で、カキは軟体動物だ。",
+        "A woodlouse is a terrestrial crustacean you might find under a damp log. — ワラジムシは陸生の甲殻類で、湿った丸太の下などで見つかる。",
+        "The researchers found tiny crustacean larvae in the water samples. — 研究者たちは採取した水の中に、ごく小さな甲殻類の幼生を見つけた。"
+      ]
+    }
   }
 ]
