@@ -4940,5 +4940,118 @@
         "The pair delivered a letter-perfect routine and took first place. — そのペアは細部まで申し分のない演技を披露し、優勝した。"
       ]
     }
+  },
+  {
+    "id": "delve-into",
+    "sid": "2026-01890",
+    "word": "delve into",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "research",
+      "discussion",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "verb + preposition",
+      "transitivity": "delve is intransitive",
+      "forms": {
+        "base": "delve",
+        "thirdPerson": "delves",
+        "past": "delved",
+        "pastParticiple": "delved",
+        "presentParticiple": "delving"
+      },
+      "patterns": [
+        "delve into + topic / source",
+        "delve deeper into + topic",
+        "delve deeper",
+        "delve into a bag for + object"
+      ],
+      "usage": {
+        "complement": "Use into to introduce what is examined: delve into the details. When the topic is already clear, delve deeper can stand on its own.",
+        "wordOrder": "Put the object after into, including when it is a pronoun: delve into it."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/delv ˈɪn.tuː/",
+        "uk": "/delv ˈɪn.tuː/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to examine a subject or source in detail, often to uncover information that is not immediately apparent",
+        "to reach inside something to look for an object"
+      ],
+      "ja": [
+        "（話題・資料などを）掘り下げる、詳しく調べる",
+        "（かばんやポケットなどに）手を入れて探る"
+      ]
+    },
+    "nuance": {
+      "en": "Delve into suggests going beneath an initial account or overview. It often introduces a closer look at causes, records, or a topic. You can delve into a subject to learn more about it or delve into the records to find a particular answer. With a pocket or bag, the action is physical.",
+      "ja": "最初の説明や概要から一歩踏み込むという含みがある。原因や記録、話題を詳しく取り上げるときによく使う。ある分野を深く知るために調べる場合にも、答えを探して記録を詳しく読む場合にも使える。ポケットやかばんが対象なら、手を入れて探るという意味になる。"
+    },
+    "minimal": {
+      "en": [
+        "look into: Often means to check or investigate a matter. Delve into suggests more sustained or detailed examination.",
+        "explore: Can mean considering a range of ideas or possibilities. Delve into draws attention to the depth of inquiry.",
+        "dig into: A close, more conversational equivalent when examining details. It can also mean to start eating enthusiastically."
+      ],
+      "ja": [
+        "look into：事情や問題を調べるという幅広い表現。delve into は、より深く踏み込んで調べる含みがある。",
+        "explore：幅広い考えや選択肢を検討する場合にも使う。delve into は調べ方の深さに焦点がある。",
+        "dig into：詳細を掘り下げる意味では近く、より会話的。勢いよく食べ始めるという意味でも使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "examine in detail",
+        "note": {
+          "en": "A neutral equivalent for the figurative use.",
+          "ja": "比喩の用法を中立的に言い換えた表現。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Delve goes back to Old English delfan, ‘to dig or excavate’. The figurative sense extends the image of digging beneath a surface to looking for information.",
+      "ja": "delve は古英語 delfan（掘る、掘り返す）にさかのぼる。表面の下を掘るイメージが、情報を探して物事を掘り下げる意味に広がった。"
+    },
+    "equivalents": {
+      "de": "sich in etwas vertiefen / etwas eingehend untersuchen",
+      "it": "approfondire un argomento / esaminare a fondo",
+      "fr": "approfondir un sujet / fouiller dans",
+      "es": "profundizar en algo / escarbar en algo"
+    },
+    "collocations": {
+      "en": [
+        "delve into the details",
+        "delve into the archives",
+        "delve into the reasons behind a decision",
+        "delve deeper into the issue",
+        "delve into a pocket for the keys"
+      ],
+      "ja": [
+        "delve into the details — 細部まで掘り下げる",
+        "delve into the archives — 資料館や文書記録の資料を詳しく調べる",
+        "delve into the reasons behind a decision — 決定の背景にある理由を掘り下げる",
+        "delve deeper into the issue — その問題をさらに掘り下げる",
+        "delve into a pocket for the keys — ポケットに手を入れて鍵を探す"
+      ]
+    },
+    "example": {
+      "en": [
+        "The report delves into why so many applicants abandon the form halfway through.",
+        "The sales figures tell us what happened. We’ll need to delve deeper to find out why.",
+        "She delved into her bag for a pen."
+      ],
+      "ja": [
+        "The report delves into why so many applicants abandon the form halfway through. — その報告書は、なぜ多くの申請者がフォームの記入を途中でやめるのかを掘り下げている。",
+        "The sales figures tell us what happened. We’ll need to delve deeper to find out why. — 売上の数字を見れば何が起きたかは分かる。なぜそうなったのかを知るには、さらに掘り下げる必要がある。",
+        "She delved into her bag for a pen. — 彼女はかばんに手を入れてペンを探した。"
+      ]
+    }
   }
 ]
