@@ -3836,7 +3836,11 @@
     "expression"
   ],
   "grammar": {
-    "pos": "adj"
+    "pos": "adj",
+    "forms": {
+      "adverb": "ruefully",
+      "relatedVerb": "rue"
+    }
   },
   "pronunciation": {
     "ipa": {
@@ -3857,8 +3861,8 @@
     ]
   },
   "nuance": {
-    "ja": "rueful は、深刻な悲嘆というよりも、自分の失敗・不運・判断ミスなどを振り返って『しまったな』『仕方ないな』という後悔や残念さをにじませる語。特に smile, grin, look, expression など表情を表す名詞と相性がよい。sad より限定的で、remorseful ほど強い罪悪感を伴わないことが多い。",
-    "en": "Rueful describes an expression or manner showing regret, disappointment, or sorrow, often with a touch of self-awareness or self-mocking humor. It is especially common with nouns such as smile, grin, look, and expression. It is more specific than sad and usually less morally intense than remorseful."
+    "ja": "rueful は、深刻な悲嘆というよりも、自分の失敗・不運・判断ミスなどを振り返って『しまったな』『仕方ないな』という後悔や残念さをにじませる語。特に smile, grin, look, expression など表情を表す名詞と相性がよい。sad より限定的で、remorseful ほど強い罪悪感を伴わないことが多い。 自分に落ち度がなくても、思いどおりにならなかった結果を「まあ、仕方ない」と苦笑で受け止める場面に使える。",
+    "en": "Rueful describes an expression or manner showing regret, disappointment, or sorrow, often with a touch of self-awareness or self-mocking humor. It is especially common with nouns such as smile, grin, look, and expression. It is more specific than sad and usually less morally intense than remorseful. A rueful smile can also acknowledge an unlucky outcome with wry amusement, even when the person did nothing wrong."
   },
   "minimal": {
     "ja": [
@@ -3927,7 +3931,8 @@
       "give a rueful smile — 苦笑する",
       "with a rueful smile — 苦笑しながら",
       "sound rueful — 後悔しているように聞こえる",
-      "rueful admission — 後悔をにじませた告白・認め"
+      "rueful admission — 後悔をにじませた告白・認め",
+      "laugh ruefully — 残念そうに苦笑する、自嘲気味に笑う"
     ],
     "en": [
       "a rueful smile",
@@ -3937,7 +3942,8 @@
       "give a rueful smile",
       "with a rueful smile",
       "sound rueful",
-      "rueful admission"
+      "rueful admission",
+      "laugh ruefully"
     ]
   },
   "example": {
@@ -3946,14 +3952,16 @@
       "She looked rueful when she realized what she had forgotten. — 自分が何を忘れていたかに気づくと、彼女はばつが悪そうな表情を浮かべた。",
       "With a rueful grin, he showed us the dent in his new car. — 彼は苦笑しながら、新車についたへこみを私たちに見せた。",
       "His tone was rueful rather than angry. — 彼の口調は怒っているというより、後悔をにじませたものだった。",
-      "She made a rueful admission that the plan had been overly ambitious. — 彼女は、その計画が野心的すぎたと残念そうに認めた。"
+      "She made a rueful admission that the plan had been overly ambitious. — 彼女は、その計画が野心的すぎたと残念そうに認めた。",
+      "When the rain began just as the picnic was getting under way, he gave a rueful smile and started packing up. — ピクニックが始まったばかりのところで雨が降り出し、彼は苦笑して片づけ始めた。"
     ],
     "en": [
       "He gave a rueful smile and admitted that he had made a mistake.",
       "She looked rueful when she realized what she had forgotten.",
       "With a rueful grin, he showed us the dent in his new car.",
       "His tone was rueful rather than angry.",
-      "She made a rueful admission that the plan had been overly ambitious."
+      "She made a rueful admission that the plan had been overly ambitious.",
+      "When the rain began just as the picnic was getting under way, he gave a rueful smile and started packing up."
     ]
   }
 },
