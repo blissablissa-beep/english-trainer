@@ -9446,5 +9446,117 @@
         "When the guard refused to let them in, they remonstrated briefly and then left. — 警備員が中に入れてくれなかったので、彼らは一言抗議してから立ち去った。"
       ]
     }
+  },
+  {
+    "id": "forelock",
+    "sid": "2026-01927",
+    "word": "forelock",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "noun",
+      "hair",
+      "horses",
+      "idiom"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "base": "forelock",
+        "plural": "forelocks"
+      },
+      "patterns": [
+        "a forelock of + adjective + hair",
+        "a horse's forelock",
+        "touch / tug (at) one's forelock",
+        "touch / tug one's forelock to + person"
+      ],
+      "usage": {
+        "wordChoice": "For a person, forelock refers to an identifiable lock at the front. For a haircut with hair hanging across the forehead, bangs (US) or fringe (UK) is the usual term.",
+        "idiom": "The idiom usually uses a possessive referring to the subject, as in She refused to tug her forelock."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈfɔːr.lɑːk/",
+        "uk": "/ˈfɔː.lɒk/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a lock of hair that grows at the front of the head and falls over the forehead",
+        "the part of a horse's mane that falls forward between the ears"
+      ],
+      "ja": [
+        "人の額に垂れるひと房の毛",
+        "馬のたてがみのうち、両耳の間から額に垂れる部分"
+      ]
+    },
+    "nuance": {
+      "en": "For people, forelock often singles out a visible lock, such as a curl falling over one eyebrow. For horses, it names a specific section of the mane. In chiefly British use, touch or tug one's forelock can criticize excessive deference to someone of higher status. The expression evokes a gesture of respect.",
+      "ja": "人については、片方の眉の上に垂れた巻き毛など、目に留まるひと房を指すことが多い。馬については、たてがみのうち額に垂れる部分の名称。主にイギリス英語の touch / tug one's forelock は、敬意を示すしぐさを連想させ、立場が上の人にへりくだりすぎることを批判的に表す。"
+    },
+    "minimal": {
+      "en": [
+        "bangs (US) / fringe (UK). These usually refer to the hair worn across the forehead as part of a haircut. Forelock singles out a lock and is also used for horses.",
+        "lock of hair. A strand or bunch of hair from any part of the head. Forelock specifies the position at the front.",
+        "mane. The long hair along a horse's neck. The forelock is the part that falls forward over the forehead."
+      ],
+      "ja": [
+        "bangs（米）/ fringe（英）は髪型としての前髪全体を指すのが普通。forelock は額に垂れるひと房に注目し、馬にも使う。",
+        "lock of hair は頭のどの部分の毛でも、ひと房を指せる。forelock は額に垂れるものを指す。",
+        "mane は馬のたてがみ。forelock は、そのうち両耳の間から額に垂れる部分。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "lock of hair",
+        "note": {
+          "en": "A broader term. A lock of hair over the forehead is a plain paraphrase of the human sense.",
+          "ja": "より広い表現。a lock of hair over the forehead で、人の額に垂れるひと房という意味を平易に表せる。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "A compound of fore- ‘at the front’ and lock ‘a strand or bunch of hair’.",
+      "ja": "fore-（前の）と lock（ひと房の毛）を組み合わせた語。"
+    },
+    "equivalents": {
+      "de": "die Stirnlocke / der Stirnschopf (Pferd)",
+      "it": "il ciuffo sulla fronte / il ciuffo del cavallo",
+      "fr": "la mèche sur le front / le toupet du cheval",
+      "es": "el mechón sobre la frente / el tupé del caballo"
+    },
+    "collocations": {
+      "en": [
+        "a curly forelock",
+        "a forelock falling over one eye",
+        "brush a forelock aside",
+        "brush a horse's forelock",
+        "tug at one's forelock",
+        "touch one's forelock to someone"
+      ],
+      "ja": [
+        "a curly forelock — 額に垂れるひと房の巻き毛",
+        "a forelock falling over one eye — 片目にかかるひと房の毛",
+        "brush a forelock aside — 額に垂れた毛を横によける",
+        "brush a horse's forelock — 馬の額の毛をブラシで整える",
+        "tug at one's forelock — 目上の人にへりくだる（主に英）",
+        "touch one's forelock to someone — 人に過剰な敬意を示す（主に英）"
+      ]
+    },
+    "example": {
+      "en": [
+        "He pushed his damp forelock away from his eyes and kept reading.",
+        "The pony's thick forelock nearly covered its eyes.",
+        "She said she wasn't going to tug her forelock just because he'd been made a director."
+      ],
+      "ja": [
+        "He pushed his damp forelock away from his eyes and kept reading. — 彼は目にかかった濡れた前髪を払い、読み続けた。",
+        "The pony's thick forelock nearly covered its eyes. — そのポニーは額の毛がふさふさで、目が隠れそうだった。",
+        "She said she wasn't going to tug her forelock just because he'd been made a director. — 彼が取締役に就いたからといって、へりくだるつもりはないと彼女は言った。"
+      ]
+    }
   }
 ]
