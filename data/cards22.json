@@ -7182,5 +7182,117 @@
         "After reading the report, she determined to find out what had happened. — 報告書を読んだ彼女は、何が起きたのかを突き止めようと決意した。"
       ]
     }
+  },
+  {
+    "id": "perspiration",
+    "sid": "2026-01909",
+    "word": "perspiration",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "formal",
+      "body",
+      "exercise"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable",
+      "forms": {
+        "base": "perspiration",
+        "relatedVerb": "perspire"
+      },
+      "patterns": [
+        "a bead / beads of perspiration",
+        "wipe perspiration from + body part",
+        "be damp with perspiration",
+        "reduce perspiration"
+      ],
+      "usage": {
+        "counting": "Use a bead or drop of perspiration to refer to a single drop.",
+        "verb": "Perspiration is the noun. The related verb is perspire: He began to perspire."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌpɝː.spəˈreɪ.ʃən/",
+        "uk": "/ˌpɜː.spəˈreɪ.ʃən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "sweat, the liquid that comes through the skin",
+        "the process of sweating"
+      ],
+      "ja": [
+        "汗、皮膚から出る汗",
+        "発汗、汗をかくこと"
+      ]
+    },
+    "nuance": {
+      "en": "Perspiration is more formal or discreet than sweat and also appears in descriptive writing. Beads of perspiration refers to the liquid, while reduce perspiration refers to sweating as a process. In the familiar pairing inspiration and perspiration, perspiration figuratively refers to sustained hard work.",
+      "ja": "sweat より改まった、または直接的な響きを抑えた語で、描写文にも出てくる。beads of perspiration は汗の粒、reduce perspiration は発汗を抑えること。inspiration and perspiration のように「ひらめき」と対にすると、汗をかくほどの地道な努力を比喩的に表せる。"
+    },
+    "minimal": {
+      "en": [
+        "sweat: The ordinary word in conversation and both a noun and a verb. Perspiration is a more formal noun for the liquid or the process.",
+        "sweating: The everyday noun form for the act or process. Perspiration can also name the moisture itself.",
+        "perspire: The related verb meaning to sweat. The noun has its main stress on /reɪ/ and the verb on /spaɪ/."
+      ],
+      "ja": [
+        "sweat：日常会話で一般的で、名詞にも動詞にもなる。perspiration は「汗」や「発汗」を表す改まった名詞。",
+        "sweating：「汗をかくこと」を表す日常的な言い方。perspiration は、出た汗そのものも指す。",
+        "perspire：「汗をかく」という関連動詞。名詞 perspiration は /reɪ/、動詞 perspire は /spaɪ/ に主強勢がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "sweat",
+        "note": {
+          "en": "The everyday equivalent when referring to the liquid.",
+          "ja": "汗そのものを指すときの日常的な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Ultimately from Latin perspirare, ‘to breathe through’, formed from per ‘through’ and spirare ‘to breathe’. In English, the word came to refer to the release of moisture through the skin.",
+      "ja": "ラテン語 perspirare（通して呼吸する）にさかのぼり、per（通して）と spirare（呼吸する）からなる。英語では皮膚を通して水分が出ることを指すようになった。"
+    },
+    "equivalents": {
+      "de": "der Schweiß / das Schwitzen",
+      "it": "il sudore / la sudorazione",
+      "fr": "la sueur / la transpiration",
+      "es": "el sudor / la transpiración"
+    },
+    "collocations": {
+      "en": [
+        "beads of perspiration",
+        "wipe perspiration from your forehead",
+        "damp with perspiration",
+        "reduce perspiration",
+        "inspiration and perspiration"
+      ],
+      "ja": [
+        "beads of perspiration — 汗の粒",
+        "wipe perspiration from your forehead — 額の汗をぬぐう",
+        "damp with perspiration — 汗で湿っている",
+        "reduce perspiration — 発汗を抑える",
+        "inspiration and perspiration — ひらめきと努力"
+      ]
+    },
+    "example": {
+      "en": [
+        "By the time we reached the top, the back of my shirt was damp with perspiration.",
+        "She wiped the perspiration from her forehead with the back of her hand.",
+        "The label says the product helps reduce perspiration.",
+        "Getting the first prototype to work took as much perspiration as inspiration."
+      ],
+      "ja": [
+        "By the time we reached the top, the back of my shirt was damp with perspiration. — 頂上に着くころには、シャツの背中が汗で湿っていた。",
+        "She wiped the perspiration from her forehead with the back of her hand. — 彼女は手の甲で額の汗をぬぐった。",
+        "The label says the product helps reduce perspiration. — ラベルには、発汗を抑えるのに役立つと書いてある。",
+        "Getting the first prototype to work took as much perspiration as inspiration. — 最初の試作品を動かすには、ひらめきと同じくらい地道な努力が必要だった。"
+      ]
+    }
   }
 ]
