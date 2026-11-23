@@ -5635,5 +5635,128 @@
         "The curtains have a loose weave that lets in soft light. — そのカーテンは織り目が粗く、柔らかな光を通す。"
       ]
     }
+  },
+  {
+    "id": "cramp",
+    "sid": "2026-01896",
+    "word": "cramp",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "verb",
+      "physical-sensations",
+      "idiom"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "countable or uncountable for muscle pain; usually plural for abdominal or period pain",
+      "forms": {
+        "base": "cramp",
+        "plural": "cramps",
+        "thirdPerson": "cramps",
+        "past": "cramped",
+        "pastParticiple": "cramped",
+        "presentParticiple": "cramping"
+      },
+      "patterns": [
+        "get a cramp in + body part",
+        "get cramp in + body part",
+        "have stomach / period cramps",
+        "a muscle cramps (up)",
+        "cramp someone’s style"
+      ],
+      "usage": {
+        "regional": "Get a cramp in my calf is common in American English. Get cramp in my calf is common in British English.",
+        "verb": "With a body part as subject, cramp or cramp up means to develop a cramp. In cramp someone’s style, cramp is transitive."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/kræmp/",
+        "uk": "/kræmp/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(noun) a sudden, painful tightening of a muscle",
+        "(noun, usually plural) gripping or spasmodic pain, especially in the abdomen",
+        "(verb) to tighten painfully or develop a cramp",
+        "(verb) to restrict someone’s freedom or ability to act as they wish"
+      ],
+      "ja": [
+        "筋肉が急につること、痛みを伴う筋肉のけいれん",
+        "（通常 cramps）お腹が締めつけられるような痛み。stomach cramps は腹部の痛み、period cramps は生理痛",
+        "（筋肉が）つる、痛みを伴ってけいれんする",
+        "（自由な行動や持ち味の発揮を）妨げる、制限する"
+      ]
+    },
+    "nuance": {
+      "en": "My calf cramped up describes a sudden physical sensation. A cramp in my calf describes the same experience as a noun. Cramp someone’s style is an informal way to say that another person, a rule, or a situation keeps someone from acting as freely as they normally would.",
+      "ja": "My calf cramped up は「ふくらはぎがつった」という動詞の表現。a cramp in my calf では同じ感覚を名詞で表す。cramp someone’s style は、人や規則、状況のせいで普段どおり自由に振る舞えないことを指すくだけた表現。"
+    },
+    "minimal": {
+      "en": [
+        "spasm: An involuntary muscle contraction that may be painless. A cramp typically emphasizes pain and tightening.",
+        "ache: Often a dull or lingering pain. A cramp tends to feel like a sudden tightening or gripping pain.",
+        "cramped: As an adjective, it often describes a space with too little room, as in a cramped seat. My leg cramped uses the past tense of the verb."
+      ],
+      "ja": [
+        "spasm：不随意の筋収縮を広く指し、痛みがない場合にも使う。cramp は痛みと締めつけに焦点がある。",
+        "ache：鈍く続く痛みを表すことが多い。cramp は急な筋肉のつりや締めつけるような痛みを表しやすい。",
+        "cramped：形容詞では a cramped seat（窮屈な座席）のように、空間が狭いことをよく表す。My leg cramped. では cramp の過去形で「脚がつった」。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "muscle cramp",
+        "note": {
+          "en": "An explicit term for the muscle sense.",
+          "ja": "筋肉がつる意味を明示する言い方。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The muscle-pain noun came through Old French crampe, from a Germanic word family associated with bending or crookedness.",
+      "ja": "筋肉の痛みを指す名詞は古フランス語 crampe に由来し、曲がることを表すゲルマン系の語群にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "der Krampf / sich verkrampfen / jemanden einschränken",
+      "it": "il crampo / avere un crampo / limitare",
+      "fr": "la crampe / se contracter douloureusement / gêner",
+      "es": "el calambre / acalambrarse / coartar"
+    },
+    "collocations": {
+      "en": [
+        "a calf cramp",
+        "get a cramp in your foot",
+        "stomach cramps",
+        "period cramps",
+        "my hand cramped up",
+        "cramp someone’s style"
+      ],
+      "ja": [
+        "a calf cramp — ふくらはぎのつり",
+        "get a cramp in your foot — 足がつる",
+        "stomach cramps — 締めつけるような腹痛",
+        "period cramps — 生理痛",
+        "my hand cramped up — 手がつった",
+        "cramp someone’s style — 人が自由に振る舞うのを妨げる"
+      ]
+    },
+    "example": {
+      "en": [
+        "I got a cramp in my calf halfway up the stairs.",
+        "My hand started to cramp up halfway through the exam.",
+        "She woke up with stomach cramps and went back to bed.",
+        "The band felt that the venue’s strict rules cramped their style."
+      ],
+      "ja": [
+        "I got a cramp in my calf halfway up the stairs. — 階段を上っている途中で、ふくらはぎがつった。",
+        "My hand started to cramp up halfway through the exam. — 試験の途中で手がつり始めた。",
+        "She woke up with stomach cramps and went back to bed. — 彼女はお腹が締めつけられるような痛みで目を覚まし、またベッドに戻った。",
+        "The band felt that the venue’s strict rules cramped their style. — バンドは、会場の厳しい規則のせいで自分たちらしさを出しづらいと感じた。"
+      ]
+    }
   }
 ]
