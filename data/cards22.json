@@ -6341,5 +6341,126 @@
         "‘How was the cake?’ ‘It was lush!’ — 「ケーキどうだった？」「すごくおいしかった！」"
       ]
     }
+  },
+  {
+    "id": "diaper",
+    "sid": "2026-01902",
+    "word": "diaper",
+    "level": "B1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "verb",
+      "childcare",
+      "american-english"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "countable as a noun",
+      "transitivity": "transitive as a verb",
+      "forms": {
+        "singular": "diaper",
+        "plural": "diapers",
+        "past": "diapered",
+        "pastParticiple": "diapered",
+        "presentParticiple": "diapering"
+      },
+      "patterns": [
+        "change a diaper",
+        "change the baby’s diaper",
+        "put a diaper on the baby",
+        "need a diaper change",
+        "diaper a baby"
+      ],
+      "usage": {
+        "regional": "Diaper is the usual American word. In British English, nappy (plural nappies) is the usual word for a baby’s diaper.",
+        "verb": "Diaper the baby means put a diaper on the baby. Change the baby’s diaper explicitly means replacing the diaper already being worn."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈdaɪ.pɚ/",
+        "uk": "/ˈdaɪ.pə(r)/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(noun, chiefly US) an absorbent garment worn by a baby or by someone who needs it to contain urine or stool",
+        "(verb, chiefly US) to put a diaper on someone, usually a baby"
+      ],
+      "ja": [
+        "（主に米）おむつ。赤ちゃん用のほか、大人用は adult diaper とも言う",
+        "（主に米）赤ちゃんなどにおむつを着ける"
+      ]
+    },
+    "nuance": {
+      "en": "Diaper covers both disposable and reusable cloth products. In everyday childcare, change a diaper means taking off the used one and putting on a clean one. Use put on a clean diaper when the focus is on putting it on.",
+      "ja": "紙などの使い捨ておむつにも、繰り返し使う布おむつにも使える。change a diaper は、使ったおむつを外して新しいものに替えること。新しいおむつを着ける動作に焦点を当てるなら put on a clean diaper と言える。"
+    },
+    "minimal": {
+      "en": [
+        "nappy: The usual British equivalent for babies. A nappy change is a diaper change in American English.",
+        "pull-ups: Pull-on training pants, often used during toilet training. Diaper is the broader word.",
+        "napkin: At a meal, a piece of cloth or paper used to wipe your mouth or hands."
+      ],
+      "ja": [
+        "nappy：英国で一般的な赤ちゃん用のおむつの呼び方。英国の a nappy change は米国の a diaper change に当たる。",
+        "pull-ups：トイレトレーニングなどで使う、下着のように履くトレーニングパンツ。diaper はおむつ全般を指す。",
+        "napkin：食事の際に口や手を拭く布や紙のナプキン。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "nappy",
+        "note": {
+          "en": "The usual British English equivalent for a baby’s diaper.",
+          "ja": "赤ちゃんのおむつを表す一般的な英国英語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French diapre or diaspre, a term for patterned fabric. In English the word came to name pieces of cloth made from that fabric, including cloth used as a baby’s diaper.",
+      "ja": "模様のある織物を指した古フランス語 diapre / diaspre に由来する。英語ではその生地を使った布製品を指すようになり、赤ちゃんのおむつに使う布にも意味が広がった。"
+    },
+    "equivalents": {
+      "de": "die Windel / jemandem eine Windel anziehen",
+      "it": "il pannolino / mettere il pannolino a qualcuno",
+      "fr": "la couche / mettre une couche à quelqu’un",
+      "es": "el pañal / ponerle un pañal a alguien"
+    },
+    "collocations": {
+      "en": [
+        "change a diaper",
+        "a dirty diaper",
+        "a wet diaper",
+        "a disposable diaper",
+        "a cloth diaper",
+        "a diaper bag",
+        "diaper rash",
+        "a diaper change"
+      ],
+      "ja": [
+        "change a diaper — おむつを替える",
+        "a dirty diaper — 汚れたおむつ",
+        "a wet diaper — おしっこでぬれたおむつ",
+        "a disposable diaper — 使い捨ておむつ",
+        "a cloth diaper — 布おむつ",
+        "a diaper bag — おむつなどの育児用品を入れるバッグ",
+        "diaper rash — おむつかぶれ",
+        "a diaper change — おむつ替え"
+      ]
+    },
+    "example": {
+      "en": [
+        "Can you change the baby’s diaper while I pack the bag?",
+        "I put two clean diapers and a pack of wipes in the diaper bag.",
+        "My turn to diaper the baby, right?"
+      ],
+      "ja": [
+        "Can you change the baby’s diaper while I pack the bag? — 私がバッグに荷物を詰めている間に、赤ちゃんのおむつを替えてくれる？",
+        "I put two clean diapers and a pack of wipes in the diaper bag. — おむつバッグに、新しいおむつを2枚とおしりふきを1パック入れた。",
+        "My turn to diaper the baby, right? — 赤ちゃんにおむつを着けるのは、私の番だよね？"
+      ]
+    }
   }
 ]
