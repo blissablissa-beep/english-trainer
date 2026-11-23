@@ -6926,5 +6926,133 @@
         "A passenger reported that someone had groped her on the train. — 乗客の一人が、電車内で同意なく体を触られたと届け出た。"
       ]
     }
+  },
+  {
+    "id": "determination",
+    "sid": "2026-01907",
+    "word": "determination",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "motivation",
+      "formal",
+      "legal",
+      "research"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable for resolve; countable for an individual official ruling; usually uncountable when naming a process",
+      "forms": {
+        "singular": "determination",
+        "plural": "determinations",
+        "relatedVerb": "determine",
+        "relatedAdjective": "determined"
+      },
+      "patterns": [
+        "determination to + verb",
+        "show determination",
+        "with determination",
+        "make / issue a determination on + issue",
+        "a determination that + clause",
+        "the determination of + cause / concentration"
+      ],
+      "usage": {
+        "resolve": "Use determination to do something or be determined to do something to express resolve.",
+        "official": "Use a determination for one official finding or decision. The determination of X can name the process of deciding or establishing X."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/dɪˌtɝː.mɪˈneɪ.ʃən/",
+        "uk": "/dɪˌtɜː.mɪˈneɪ.ʃən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the resolve to pursue a goal despite difficulty",
+        "an official decision or finding, or the process of making it",
+        "the process of finding out or establishing a fact, cause, or quantity"
+      ],
+      "ja": [
+        "強い決意、何としてもやり遂げようとする意志",
+        "（公的・正式な）決定、判断、認定。また、それを行うこと",
+        "事実・原因などの特定、数値などの測定・算定"
+      ]
+    },
+    "nuance": {
+      "en": "In determination to finish, the word suggests that the person is prepared to keep going when things get difficult. In a determination that the application was filed on time, it names an official finding. In the determination of moisture content, it names the process of establishing a value.",
+      "ja": "determination to finish には、困難があっても最後までやり遂げるという意志が表れる。a determination that the application was filed on time は、期限内に出願されたという正式な認定。the determination of moisture content は、水分含有量を測定することを指す。"
+    },
+    "minimal": {
+      "en": [
+        "resolve: A close synonym for firm intent. Determination often highlights the willingness to put in the effort needed to reach a goal.",
+        "perseverance: Focuses on actually continuing despite difficulties. Determination describes the resolve that can sustain that effort.",
+        "decision: A broad term for a choice or judgment. A determination often sounds formal and may establish a fact or status after review."
+      ],
+      "ja": [
+        "resolve：固い意志を表す近い語。determination は、目標に達するために必要な努力を続ける意志も強調しやすい。",
+        "perseverance：困難があっても実際に努力を続ける粘り強さに焦点がある。determination は、その努力を支える意志を指す。",
+        "decision：選択や判断を広く指す語。a determination は硬い響きがあり、検討の結果として事実や資格の有無を認定する場合にも使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "resolve",
+        "note": {
+          "en": "A close equivalent for the sense of firm intent.",
+          "ja": "固い決意を指す場合の近い語。"
+        }
+      },
+      {
+        "word": "official finding",
+        "note": {
+          "en": "A near-equivalent when an authority formally establishes a fact.",
+          "ja": "機関が事実を正式に認定する場合の近い表現。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From a Latin word for setting limits or bringing something to a conclusion, based on determinare, the source of determine.",
+      "ja": "範囲を定める、決着をつけるという意味のラテン語にさかのぼる。determine も同じ determinare に由来する。"
+    },
+    "equivalents": {
+      "de": "die Entschlossenheit / die Feststellung / die Bestimmung",
+      "it": "la determinazione / l’accertamento",
+      "fr": "la détermination / la décision / l’établissement d’un fait",
+      "es": "la determinación / la resolución / la constatación"
+    },
+    "collocations": {
+      "en": [
+        "show determination",
+        "a determination to succeed",
+        "with grim determination",
+        "make a determination on eligibility",
+        "issue a final determination",
+        "the determination of the cause",
+        "the determination of moisture content"
+      ],
+      "ja": [
+        "show determination — 強い意志を見せる",
+        "a determination to succeed — 必ず成功するという決意",
+        "with grim determination — 険しい表情で固い決意をもって",
+        "make a determination on eligibility — 資格の有無を正式に判断する",
+        "issue a final determination — 最終判断を出す",
+        "the determination of the cause — 原因の特定",
+        "the determination of moisture content — 水分含有量の測定"
+      ]
+    },
+    "example": {
+      "en": [
+        "Her determination to finish the book carried her through months of revisions.",
+        "The board made a determination that the application had been filed on time.",
+        "The determination of the cause required a closer examination of the damaged parts."
+      ],
+      "ja": [
+        "Her determination to finish the book carried her through months of revisions. — 本を完成させるという彼女の強い決意が、何か月にもわたる改稿を支えた。",
+        "The board made a determination that the application had been filed on time. — 審査機関は、その申請が期限内に提出されていたと認定した。",
+        "The determination of the cause required a closer examination of the damaged parts. — 原因を特定するには、損傷した部品をさらに詳しく調べる必要があった。"
+      ]
+    }
   }
 ]
