@@ -225,5 +225,130 @@
         "She's considerate toward new team members and gives them time to ask questions. — 彼女は新しいチームメンバーに気を配り、質問する時間を設けている。"
       ]
     }
+  },
+  {
+    "id": "surveillance",
+    "sid": "2026-01935",
+    "word": "surveillance",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "security",
+      "privacy",
+      "public-health"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable",
+      "forms": {
+        "base": "surveillance"
+      },
+      "patterns": [
+        "be under surveillance",
+        "keep / place + someone or something + under surveillance",
+        "conduct surveillance on + target",
+        "surveillance of + target",
+        "surveillance + camera / footage / system"
+      ],
+      "usage": {
+        "article": "In the usual sense use surveillance without an indefinite article, as in under surveillance. A surveillance operation is countable because operation is the head noun.",
+        "verb": "Say keep someone under surveillance or monitor someone. The noun itself does not function as a verb."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/sɚˈveɪ.ləns/",
+        "uk": "/səˈveɪ.ləns/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "close and often sustained observation of a person, place, or activity, especially for security or investigation",
+        "systematic tracking of health events or trends through ongoing data collection and analysis"
+      ],
+      "ja": [
+        "警備や捜査などのために、人・場所・活動を注意深く見張ること、監視",
+        "公衆衛生などで、データを継続的に集めて分析し、発生状況や動向を把握すること、サーベイランス"
+      ]
+    },
+    "nuance": {
+      "en": "In security contexts, surveillance evokes organized watching, often by police, security staff, or cameras. It can be overt or covert. In public health, the same word refers to tracking patterns across a population, such as changes in the number of reported cases.",
+      "ja": "警備・捜査の文脈では、警察や警備員、カメラなどによる組織的な見張りを連想させる。公然と行う場合にも、ひそかに行う場合にも使える。公衆衛生では集団全体が対象で、報告された症例数の推移などを継続的に把握することを指す。"
+    },
+    "minimal": {
+      "en": [
+        "monitoring. A broader term for checking a condition or process over time, such as temperature or system performance. Surveillance often suggests organized observation for security or early detection.",
+        "observation. A broad term for watching or studying. Surveillance usually implies a specific purpose and some continuity or organization.",
+        "spying. Suggests secretly gathering information. Surveillance can be publicly disclosed, and its purpose can be routine security."
+      ],
+      "ja": [
+        "monitoring は温度やシステムの稼働状況などを継続して確認することにも使える広い語。surveillance は警備や異変の早期把握を目的とする組織的な観察を連想させやすい。",
+        "observation は観察や観測全般を指す。surveillance は特定の目的を持ち、継続的または組織的に行うという含みが出やすい。",
+        "spying はひそかに情報を集めること。surveillance は実施を公表した日常的な警備にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "monitoring",
+        "note": {
+          "en": "A broader term for ongoing observation or checking.",
+          "ja": "継続的な観察や確認を表す、より広い語。"
+        }
+      },
+      {
+        "word": "close observation",
+        "note": {
+          "en": "A plain paraphrase in the sense of watching someone or something carefully.",
+          "ja": "人や物を注意深く観察する意味での平易な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Borrowed from French surveillance. Its elements are sur- ‘over’ and veiller ‘to keep watch’, from Latin vigilare.",
+      "ja": "フランス語 surveillance から借用された。sur-（上から）と veiller（見張る）からなり、veiller はラテン語 vigilare にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "die Überwachung",
+      "it": "la sorveglianza",
+      "fr": "la surveillance",
+      "es": "la vigilancia"
+    },
+    "collocations": {
+      "en": [
+        "be under surveillance",
+        "keep a building under surveillance",
+        "a surveillance camera",
+        "review surveillance footage",
+        "covert surveillance",
+        "mass surveillance",
+        "public health surveillance",
+        "disease surveillance"
+      ],
+      "ja": [
+        "be under surveillance — 監視されている",
+        "keep a building under surveillance — 建物を監視下に置き続ける",
+        "a surveillance camera — 監視カメラ",
+        "review surveillance footage — 監視カメラの映像を確認する",
+        "covert surveillance — 秘密裏の監視",
+        "mass surveillance — 大規模監視",
+        "public health surveillance — 公衆衛生サーベイランス",
+        "disease surveillance — 疾病の発生動向の継続的な把握"
+      ]
+    },
+    "example": {
+      "en": [
+        "Police kept the warehouse under surveillance for several days.",
+        "Staff reviewed the surveillance footage to see when the package had been delivered.",
+        "Public health surveillance helps officials spot unusual increases in reported cases.",
+        "The proposed expansion of video surveillance raised concerns about privacy."
+      ],
+      "ja": [
+        "Police kept the warehouse under surveillance for several days. — 警察はその倉庫を数日間監視した。",
+        "Staff reviewed the surveillance footage to see when the package had been delivered. — 職員は荷物がいつ届いたかを確認するため、監視カメラの映像を見返した。",
+        "Public health surveillance helps officials spot unusual increases in reported cases. — 公衆衛生サーベイランスは、報告症例数の異常な増加を担当者が把握するのに役立つ。",
+        "The proposed expansion of video surveillance raised concerns about privacy. — 監視カメラによる監視の拡大案は、プライバシーへの懸念を引き起こした。"
+      ]
+    }
   }
 ]
