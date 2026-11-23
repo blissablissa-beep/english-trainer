@@ -5283,5 +5283,114 @@
         "The article takes a nuanced view of remote work, acknowledging that its benefits vary by role. — その記事は、リモートワークの利点は職種によって異なることを認め、複数の側面を踏まえて論じている。"
       ]
     }
+  },
+  {
+    "id": "adequacy",
+    "sid": "2026-01893",
+    "word": "adequacy",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "formal",
+      "evaluation"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable",
+      "forms": {
+        "base": "adequacy",
+        "adjective": "adequate",
+        "adverb": "adequately",
+        "opposite": "inadequacy"
+      },
+      "patterns": [
+        "the adequacy of + noun",
+        "assess / question the adequacy of + noun",
+        "the adequacy of X for + purpose",
+        "capital adequacy"
+      ],
+      "usage": {
+        "nominalization": "The adequacy of the evidence means how well the evidence meets the relevant requirement. The corresponding question is Is the evidence adequate?",
+        "modifier": "In capital adequacy, capital identifies what needs to be adequate."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈæd.ə.kwə.si/",
+        "uk": "/ˈæd.ə.kwə.si/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the degree to which something is good enough or sufficient for a particular purpose or requirement"
+      ],
+      "ja": [
+        "充足性、十分さ。ある目的や要件に照らして必要な量や水準を満たす度合い"
+      ]
+    },
+    "nuance": {
+      "en": "Adequacy often names the question being assessed. A review of the adequacy of staffing examines whether there are enough people with the right skills for the work. The conclusion may be that staffing is adequate or inadequate. The noun is common in reports, reviews, and technical writing.",
+      "ja": "adequacy は、十分かどうかという評価の対象を示すことが多い。the adequacy of staffing を検証するなら、業務に必要な人数や技能が揃っているかを調べる。語自体は評価の結果を示さず、検証の結果は adequate（十分）にも inadequate（不十分）にもなりうる。報告書や技術文書でよく使う。"
+    },
+    "minimal": {
+      "en": [
+        "sufficiency: A near-synonym, often used when a specified quantity or evidentiary threshold is at issue. Adequacy can include how well the provision serves its purpose.",
+        "appropriateness: Focuses on whether something suits the situation. A method can be appropriate but the resources to carry it out may be inadequate.",
+        "effectiveness: Focuses on whether something produces the desired result. Adequacy asks whether what is provided is enough for the need."
+      ],
+      "ja": [
+        "sufficiency：一定の量や証拠の基準を満たすかを扱うときによく使う近い語。adequacy は、与えられたものが目的をどの程度果たせるかも含めて評価できる。",
+        "appropriateness：状況にふさわしいかどうか。方法自体がふさわしくても、それを実施する人員や予算が十分とは限らない。",
+        "effectiveness：狙った結果が得られるかという有効性。adequacy は、用意された手段や資源が必要を満たすかという十分さ。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "sufficiency",
+        "note": {
+          "en": "A close equivalent when the focus is on meeting a requirement.",
+          "ja": "要件を満たすかどうかに焦点を当てるときの近い語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from adequate with the noun-forming ending -acy. The underlying idea is of something being equal to what is required.",
+      "ja": "adequate の名詞形で、名詞を作る語尾 -acy を持つ。求められる水準に達しているという発想は adequate と共通。"
+    },
+    "equivalents": {
+      "de": "die Angemessenheit / die Frage, ob etwas ausreicht",
+      "it": "l’adeguatezza",
+      "fr": "le caractère suffisant / l’adéquation aux besoins",
+      "es": "la suficiencia / la adecuación a las necesidades"
+    },
+    "collocations": {
+      "en": [
+        "assess the adequacy of staffing",
+        "question the adequacy of the evidence",
+        "review the adequacy of current safeguards",
+        "the adequacy of funding for the project",
+        "capital adequacy"
+      ],
+      "ja": [
+        "assess the adequacy of staffing — 人員体制が十分かを評価する",
+        "question the adequacy of the evidence — 証拠が十分か疑問を呈する",
+        "review the adequacy of current safeguards — 現行の防止策が十分かを点検する",
+        "the adequacy of funding for the project — 事業に必要な資金が足りているかどうか",
+        "capital adequacy — （金融）自己資本の十分性"
+      ]
+    },
+    "example": {
+      "en": [
+        "The committee will assess the adequacy of staffing before extending opening hours.",
+        "The report questions the adequacy of the evidence used to justify the change.",
+        "We checked the adequacy of the budget for routine maintenance."
+      ],
+      "ja": [
+        "The committee will assess the adequacy of staffing before extending opening hours. — 委員会は、営業時間を延ばす前に人員体制が十分かどうかを評価する。",
+        "The report questions the adequacy of the evidence used to justify the change. — その報告書は、変更を正当化するために使われた証拠が十分かどうかに疑問を呈している。",
+        "We checked the adequacy of the budget for routine maintenance. — 日常の維持管理に予算が足りているか確認した。"
+      ]
+    }
   }
 ]
