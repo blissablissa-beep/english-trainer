@@ -6808,5 +6808,123 @@
         "We stood at the stern of the ferry and watched the harbor recede. — 私たちはフェリーの船尾に立ち、港が遠ざかっていくのを眺めた。"
       ]
     }
+  },
+  {
+    "id": "grope",
+    "sid": "2026-01906",
+    "word": "grope",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "searching",
+      "movement",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "usually intransitive in the searching sense and transitive in the sexual-touching sense",
+      "forms": {
+        "base": "grope",
+        "thirdPerson": "gropes",
+        "past": "groped",
+        "pastParticiple": "groped",
+        "presentParticiple": "groping"
+      },
+      "patterns": [
+        "grope for + object / words",
+        "grope around in + place",
+        "grope one’s way along / through + place",
+        "grope + person",
+        "be groped"
+      ],
+      "usage": {
+        "searching": "Use for to name the thing sought. In grope your way, your way is part of a pattern describing movement.",
+        "person": "With a person as its direct object, grope normally refers to sexual touching, typically without consent."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɡroʊp/",
+        "uk": "/ɡrəʊp/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to search by touch when you cannot see clearly, or move by feeling your way",
+        "to struggle to find words, an explanation, or a solution",
+        "to touch someone in a sexual way, typically without their consent"
+      ],
+      "ja": [
+        "手探りで探す、手探りで進む",
+        "（言葉・説明・解決策などを）探しあぐねる、手探りで探す",
+        "（通常、同意なく）人の体に性的な触れ方をする、体をまさぐる"
+      ]
+    },
+    "nuance": {
+      "en": "Grope for the switch suggests feeling around to locate it. Grope for the right words applies the same image to a hesitant mental search. With a person as the direct object, as in He groped her, the meaning changes to sexual touching.",
+      "ja": "grope for the switch は、手で周囲を探りながらスイッチを探すこと。grope for the right words は、これだという言葉がなかなか出てこない様子を、手探りになぞらえる。He groped her. のように人を直接目的語にすると、性的な接触を指す。"
+    },
+    "minimal": {
+      "en": [
+        "feel for: A close equivalent for trying to locate something by touch. Grope for can suggest more difficulty or uncertainty.",
+        "fumble for: Suggests awkwardness or clumsiness while searching. Grope for foregrounds feeling around or searching without a clear guide.",
+        "reach for: Describes extending your hand toward something. Grope for suggests that you still need to locate it by touch."
+      ],
+      "ja": [
+        "feel for：手で探って何かを見つけようとする近い表現。grope for は、探す難しさや手探りの心もとなさが出やすい。",
+        "fumble for：探すときの手つきのぎこちなさなどに焦点がある。grope for は、手で探ったり、手がかりが乏しい中で探したりすることを強調する。",
+        "reach for：何かに向けて手を伸ばす。grope for は、手を伸ばした先で手探りして位置を確かめるという含みがある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "feel around",
+        "note": {
+          "en": "A near-equivalent in the physical searching sense.",
+          "ja": "物を手探りで探す用法での近い表現。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old English grāpian, meaning to feel or touch. The idea of searching by touch also underlies the figurative use.",
+      "ja": "「触れて確かめる」を意味する古英語 grāpian に由来する。手探りで探すイメージは、比喩の用法にもつながっている。"
+    },
+    "equivalents": {
+      "de": "nach etwas tasten / nach Worten suchen / jemanden begrapschen",
+      "it": "cercare a tentoni / cercare le parole / palpeggiare qualcuno",
+      "fr": "chercher à tâtons / chercher ses mots / tripoter quelqu’un",
+      "es": "buscar a tientas / buscar las palabras / manosear a alguien"
+    },
+    "collocations": {
+      "en": [
+        "grope for the light switch",
+        "grope one’s way along the hall",
+        "grope for the right words",
+        "grope for an explanation",
+        "report being groped"
+      ],
+      "ja": [
+        "grope for the light switch — 手探りで照明のスイッチを探す",
+        "grope one’s way along the hall — 廊下を手探りで進む",
+        "grope for the right words — 適切な言葉を探しあぐねる",
+        "grope for an explanation — 理由が分からず、説明を手探りで探す",
+        "report being groped — 同意なく体を触られたと届け出る"
+      ]
+    },
+    "example": {
+      "en": [
+        "When the lights went out, I groped for my phone on the table.",
+        "We groped our way along the dark hallway.",
+        "She paused, groping for the right words to explain what had happened.",
+        "A passenger reported that someone had groped her on the train."
+      ],
+      "ja": [
+        "When the lights went out, I groped for my phone on the table. — 照明が消えたとき、テーブルの上のスマホを手探りで探した。",
+        "We groped our way along the dark hallway. — 私たちは暗い廊下を手探りで進んだ。",
+        "She paused, groping for the right words to explain what had happened. — 彼女は言葉を切り、何が起きたかを説明するのにふさわしい言葉を探した。",
+        "A passenger reported that someone had groped her on the train. — 乗客の一人が、電車内で同意なく体を触られたと届け出た。"
+      ]
+    }
   }
 ]
