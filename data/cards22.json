@@ -5170,5 +5170,118 @@
         "The deposit should be adequate to cover the cost of replacing the lock. — 預り金で鍵の交換費用は賄えるはずだ。"
       ]
     }
+  },
+  {
+    "id": "nuance",
+    "sid": "2026-01892",
+    "word": "nuance",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "language",
+      "interpretation",
+      "evaluation"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable for individual distinctions; also used without an article for subtlety in general",
+      "forms": {
+        "singular": "nuance",
+        "plural": "nuances",
+        "relatedAdjective": "nuanced"
+      },
+      "patterns": [
+        "a nuance of + meaning / tone",
+        "the nuances of + topic",
+        "the nuances in + text / performance",
+        "a nuanced view of + topic"
+      ],
+      "usage": {
+        "countability": "Use a nuance or nuances for identifiable shades or distinctions. Use nuance without an article when speaking of subtlety in general: The discussion lacked nuance.",
+        "relatedAdjective": "A nuanced account recognizes fine distinctions or several sides of an issue."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈnuː.ɑːns/",
+        "uk": "/ˈnjuː.ɒns/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a subtle difference or shade in meaning, tone, expression, or other qualities",
+        "subtlety or attention to fine distinctions, especially in an explanation or judgment"
+      ],
+      "ja": [
+        "意味・語調・表情などの微妙な違い、細かな含み",
+        "（説明や評価における）細かな違いへの配慮、ものの見方のきめ細かさ"
+      ]
+    },
+    "nuance": {
+      "en": "A nuance may be easy to miss yet matter to the interpretation. In wording, it can concern what a phrase suggests as well as what it explicitly says. In an argument, room for nuance means room to recognize qualifications or distinguish cases that a broad claim treats alike.",
+      "ja": "気づきにくくても、解釈を左右するような細かな違いを指す。言葉については、明示された意味の差にも、言外の含みにも使える。議論で room for nuance といえば、留保を認めたり、大まかな主張では同じに見える事例を区別したりする余地のこと。"
+    },
+    "minimal": {
+      "en": [
+        "difference: A broad word for anything that differs. Nuance points to a subtle difference that often requires close attention.",
+        "connotation: An association or feeling a word evokes. A nuance can be a difference in connotation, tone, or meaning.",
+        "subtlety: Can refer to a delicate detail or to the quality of being subtle. Nuance often brings out the idea of a shade or distinction."
+      ],
+      "ja": [
+        "difference：違い全般を指す広い語。nuance は注意深く見聞きして初めて分かるような細かな違いに焦点を当てる。",
+        "connotation：ある語が呼び起こす連想や感情。nuance は、そうした連想の差に加え、語調や意味の微妙な差も指せる。",
+        "subtlety：繊細な細部や、繊細さそのものを指せる。nuance は細かな違いや色合いに焦点が当たりやすい。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "shade of meaning",
+        "note": {
+          "en": "A close equivalent for an individual distinction in meaning.",
+          "ja": "意味の微妙な違いを指す場合の近い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Borrowed from French nuance, which could refer to a shade of color. The image of small gradations also applies to meaning, tone, and expression.",
+      "ja": "色の微妙な濃淡も指すフランス語 nuance から入った語。色のわずかな違いというイメージは、意味や語調、表情などにも当てはまる。"
+    },
+    "equivalents": {
+      "de": "die Nuance / die feine Abstufung",
+      "it": "la sfumatura",
+      "fr": "la nuance",
+      "es": "el matiz"
+    },
+    "collocations": {
+      "en": [
+        "a subtle nuance of meaning",
+        "capture the nuances of a phrase",
+        "miss an important nuance",
+        "lose some of the nuance in translation",
+        "leave room for nuance",
+        "a nuanced view"
+      ],
+      "ja": [
+        "a subtle nuance of meaning — 意味のごく微妙な違い",
+        "capture the nuances of a phrase — 表現の細かな含みを捉える",
+        "miss an important nuance — 重要なニュアンスを見落とす",
+        "lose some of the nuance in translation — 翻訳で細かな含みの一部が失われる",
+        "leave room for nuance — 細かな違いを考慮する余地を残す",
+        "a nuanced view — 細かな違いや複数の側面を踏まえた見方"
+      ]
+    },
+    "example": {
+      "en": [
+        "The translation is accurate, but it loses some of the nuance of the original.",
+        "There’s an important nuance here: the clause says the company may disclose the data, not that it must.",
+        "The article takes a nuanced view of remote work, acknowledging that its benefits vary by role."
+      ],
+      "ja": [
+        "The translation is accurate, but it loses some of the nuance of the original. — 翻訳は正確だが、原文の細かな含みの一部が失われている。",
+        "There’s an important nuance here: the clause says the company may disclose the data, not that it must. — ここには重要な文言の違いがある。その条項は、会社がデータを開示できると定めており、開示を義務づけてはいない。",
+        "The article takes a nuanced view of remote work, acknowledging that its benefits vary by role. — その記事は、リモートワークの利点は職種によって異なることを認め、複数の側面を踏まえて論じている。"
+      ]
+    }
   }
 ]
