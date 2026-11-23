@@ -5503,5 +5503,137 @@
         "The neighborhood is a rich tapestry of languages, food traditions, and family histories. — その街区には多様な言語や食文化、家族の来歴が折り重なり、豊かな街の個性を形づくっている。"
       ]
     }
+  },
+  {
+    "id": "weave",
+    "sid": "2026-01895",
+    "word": "weave",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "noun",
+      "textiles",
+      "movement",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "verb / noun",
+      "transitivity": "transitive or intransitive",
+      "countability": "countable for a particular weave or hair weave",
+      "forms": {
+        "base": "weave",
+        "thirdPerson": "weaves",
+        "past": "wove / weaved",
+        "pastParticiple": "woven / weaved",
+        "presentParticiple": "weaving"
+      },
+      "patterns": [
+        "weave A from B",
+        "weave A into B",
+        "weave A and B together",
+        "weave through + crowd / traffic",
+        "weave in and out of + noun"
+      ],
+      "usage": {
+        "inflection": "Use wove and woven for making fabric or combining elements. In the movement sense, weaved is common, and wove also occurs in the past tense.",
+        "passive": "Hand-woven means made by weaving by hand. Woven also comes before a noun, as in woven fabric."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/wiːv/",
+        "uk": "/wiːv/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(verb) to make cloth, a basket, or another object by interlacing threads or strips of material",
+        "(verb, figurative) to combine different elements into a whole or incorporate something into it",
+        "(verb) to move from side to side or follow a winding path around people or obstacles",
+        "(noun) the pattern or structure produced by interlacing threads",
+        "(noun, hair) added hair attached to someone’s natural hair, or the resulting hairstyle"
+      ],
+      "ja": [
+        "（布を）織る、（かごなどを）編む",
+        "（物語などに要素を）織り込む、複数の要素を織り合わせる",
+        "（人混みや車の間を）縫うように進む、左右に進路を変えながら進む",
+        "織り方、織り目、織りの構造",
+        "地毛に取り付ける付け毛、またはそれを使った髪型"
+      ]
+    },
+    "nuance": {
+      "en": "The textile sense concerns how strands cross and hold together. Figuratively, weaving memories into a novel suggests that the memories become part of the novel’s structure. In movement, weave through a crowd describes repeated changes of direction as gaps open and close.",
+      "ja": "織物では糸などを交差させて組み合わせる動きを表す。比喩の weave memories into a novel では、記憶が小説の一部として組み込まれる。移動を表す weave through a crowd では、人の間にできるすき間を通りながら、何度も進路を変える動きが浮かぶ。"
+    },
+    "minimal": {
+      "en": [
+        "knit: Usually forms fabric from interlocking loops. Weave makes fabric by crossing sets of threads.",
+        "braid: Interlaces a small number of strands into a length, as with hair or rope. Weave can make a wider surface or an object such as a basket.",
+        "incorporate: A neutral word for including something as part of a whole. Weave into suggests that the elements are interlaced or smoothly integrated.",
+        "zigzag: Highlights a path with alternating turns. Weave often highlights moving around obstacles or through gaps."
+      ],
+      "ja": [
+        "knit：通常は糸の輪を連ねて布を編む。weave は糸を交差させて布を織る。",
+        "braid：髪やロープなど、数本の束を交差させて細長く編む。weave は広い面を持つ布や、かごのような立体も作れる。",
+        "incorporate：全体の一部に取り入れるという中立的な語。weave into は、いくつかの要素が絡み合ったり、自然に溶け込んだりする響きがある。",
+        "zigzag：左右に交互に曲がる経路に焦点がある。weave は障害物をよけたり、すき間を通り抜けたりする動きを表しやすい。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "interlace",
+        "note": {
+          "en": "A close equivalent for crossing and joining strands.",
+          "ja": "糸や細い材料を交差させて組み合わせる意味での近い語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The textile verb goes back to Old English wefan and is related to German weben. The historical source of the movement sense is less certain and may be connected to the textile verb.",
+      "ja": "織る意味の動詞は古英語 wefan にさかのぼり、ドイツ語 weben と同系。移動を指す用法の成り立ちには不明な点があり、織る意味の動詞との関連も考えられている。"
+    },
+    "equivalents": {
+      "de": "weben / etwas in etwas einflechten / sich durch etwas schlängeln",
+      "it": "tessere / intrecciare / farsi strada a zigzag",
+      "fr": "tisser / entrelacer / se faufiler",
+      "es": "tejer / entrelazar / zigzaguear"
+    },
+    "collocations": {
+      "en": [
+        "weave cloth on a loom",
+        "weave a basket from willow branches",
+        "weave details into a story",
+        "weave several threads together",
+        "weave through the crowd",
+        "weave in and out of traffic",
+        "a loose weave",
+        "a hair weave"
+      ],
+      "ja": [
+        "weave cloth on a loom — 織機で布を織る",
+        "weave a basket from willow branches — ヤナギの枝でかごを編む",
+        "weave details into a story — 物語に細部を織り込む",
+        "weave several threads together — 複数の糸や筋を織り合わせる",
+        "weave through the crowd — 人混みを縫うように進む",
+        "weave in and out of traffic — 車の間を縫って進む",
+        "a loose weave — 目の粗い織り方",
+        "a hair weave — 地毛に取り付ける付け毛"
+      ]
+    },
+    "example": {
+      "en": [
+        "She wove a basket from thin willow branches.",
+        "The author weaves family letters and court records into a rich tapestry of local history.",
+        "We weaved through the crowd to reach the exit.",
+        "The curtains have a loose weave that lets in soft light."
+      ],
+      "ja": [
+        "She wove a basket from thin willow branches. — 彼女は細いヤナギの枝でかごを編んだ。",
+        "The author weaves family letters and court records into a rich tapestry of local history. — 著者は家族の手紙や裁判記録を織り合わせ、土地の歴史を奥行き豊かに描いている。",
+        "We weaved through the crowd to reach the exit. — 私たちは人混みを縫って出口にたどり着いた。",
+        "The curtains have a loose weave that lets in soft light. — そのカーテンは織り目が粗く、柔らかな光を通す。"
+      ]
+    }
   }
 ]
