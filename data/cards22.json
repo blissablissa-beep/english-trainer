@@ -9932,5 +9932,127 @@
         "The new bus service was a conspicuous success, carrying twice as many passengers as expected. — 新しいバス路線は、予想の2倍の利用者を運ぶ目覚ましい成功を収めた。"
       ]
     }
+  },
+  {
+    "id": "inconspicuous",
+    "sid": "2026-01931",
+    "word": "inconspicuous",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "attention",
+      "visibility"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "inconspicuous",
+        "comparative": "more inconspicuous",
+        "superlative": "most inconspicuous",
+        "adverb": "inconspicuously",
+        "antonym": "conspicuous"
+      },
+      "patterns": [
+        "an inconspicuous + spot / entrance / detail",
+        "look / remain inconspicuous",
+        "make oneself inconspicuous",
+        "as inconspicuous as possible"
+      ],
+      "usage": {
+        "stress": "The main stress remains on /spɪk/, as in conspicuous.",
+        "intent": "The adjective can describe something that naturally escapes notice or something deliberately kept from attracting attention."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌɪn.kənˈspɪk.ju.əs/",
+        "uk": "/ˌɪn.kənˈspɪk.ju.əs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "unlikely to attract attention or be noticed easily"
+      ],
+      "ja": [
+        "目立たない、人目を引かない、気づかれにくい"
+      ]
+    },
+    "nuance": {
+      "en": "Something inconspicuous may be in plain sight and still go unnoticed because it blends in, is small, or is in a spot people rarely look at. A person can deliberately try to look inconspicuous. A sign can be so inconspicuous that even people looking for it miss it.",
+      "ja": "見えるところにあっても、周りに溶け込んでいたり、小さかったり、視線が向きにくい場所にあったりして、気づかれにくい様子。人が意識して目立たないようにする場合にも使え、案内板なら探している人まで見落とすほど目立たない、という不便さも表せる。"
+    },
+    "minimal": {
+      "en": [
+        "unobtrusive. Often suggests that something draws little attention and does not intrude on the surroundings or activity. Inconspicuous emphasizes how easily it escapes notice.",
+        "subtle. Often describes a fine or understated detail, difference, or effect. Inconspicuous describes how little attention something attracts.",
+        "discreet. Often implies good judgment or care in avoiding attention, especially when privacy is involved. Something can be inconspicuous without anyone intending it.",
+        "invisible. Means that something cannot be seen. An inconspicuous object can be visible yet easily overlooked."
+      ],
+      "ja": [
+        "unobtrusive は、周囲になじみ、邪魔にならない控えめさも表せる。inconspicuous は気づかれにくさに重点がある。",
+        "subtle は、わずかな違いやさりげない効果などを表すことが多い。inconspicuous は、人の注意を引きにくい様子を表す。",
+        "discreet は、特にプライバシーに配慮して人目を避けるなど、意識的な慎重さを表しやすい。inconspicuous は自然に目立たないものにも使える。",
+        "invisible は見えないこと。inconspicuous なものは見えていても、見落とされやすい。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "unobtrusive",
+        "note": {
+          "en": "Close for a design, object, or person that blends into the surroundings.",
+          "ja": "周囲になじむデザイン・物・人を表す場合に近い。"
+        }
+      },
+      {
+        "word": "unnoticeable",
+        "note": {
+          "en": "A near equivalent that can suggest something is even harder to detect.",
+          "ja": "ほとんど気づけないという、より強い意味合いを持つこともある。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from the negative prefix in- and conspicuous, ‘easy to notice’.",
+      "ja": "否定の接頭辞 in- と conspicuous（目立つ）からなる。"
+    },
+    "equivalents": {
+      "de": "unauffällig",
+      "it": "poco appariscente / che non dà nell’occhio",
+      "fr": "discret / peu visible",
+      "es": "discreto / poco llamativo"
+    },
+    "collocations": {
+      "en": [
+        "an inconspicuous entrance",
+        "an inconspicuous corner",
+        "test on an inconspicuous spot",
+        "try to look inconspicuous",
+        "remain inconspicuous",
+        "make oneself as inconspicuous as possible",
+        "inconspicuous against the background"
+      ],
+      "ja": [
+        "an inconspicuous entrance — 目立たない入り口",
+        "an inconspicuous corner — 人目につきにくい一角",
+        "test on an inconspicuous spot — 目立たない箇所で試す",
+        "try to look inconspicuous — 目立たないようにする",
+        "remain inconspicuous — 目立たずにいる",
+        "make oneself as inconspicuous as possible — できるだけ人目につかないようにする",
+        "inconspicuous against the background — 背景に溶け込んで目立たない"
+      ]
+    },
+    "example": {
+      "en": [
+        "Test the cleaner on an inconspicuous area before using it on the whole surface.",
+        "The café has an inconspicuous entrance between two much larger shops.",
+        "I sat near the back and tried to look inconspicuous while everyone found their seats."
+      ],
+      "ja": [
+        "Test the cleaner on an inconspicuous area before using it on the whole surface. — 表面全体に使う前に、目立たない箇所で洗浄剤を試してください。",
+        "The café has an inconspicuous entrance between two much larger shops. — そのカフェの入り口は、ずっと大きな二軒の店に挟まれていて目立たない。",
+        "I sat near the back and tried to look inconspicuous while everyone found their seats. — みんなが席を探している間、私は後ろのほうに座って、目立たないようにしていた。"
+      ]
+    }
   }
 ]
