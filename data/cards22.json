@@ -7562,5 +7562,131 @@
         "Without a concrete agreement, critics dismissed the summit as mere pageantry. — 具体的な合意がなかったため、批判する人々はその首脳会談を形ばかりの演出だと切り捨てた。"
       ]
     }
+  },
+  {
+    "id": "bequeath",
+    "sid": "2026-01912",
+    "word": "bequeath",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "formal",
+      "inheritance",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "bequeath",
+        "thirdPerson": "bequeaths",
+        "past": "bequeathed",
+        "pastParticiple": "bequeathed",
+        "ing": "bequeathing",
+        "relatedNoun": "bequest"
+      },
+      "patterns": [
+        "bequeath + thing + to + recipient",
+        "bequeath + recipient + thing",
+        "be bequeathed to + recipient"
+      ],
+      "usage": {
+        "perspective": "The subject of bequeath leaves something. The subject of inherit receives it.",
+        "register": "In everyday conversation, leave someone something in your will is a natural equivalent."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/bɪˈkwiːð/",
+        "uk": "/bɪˈkwiːð/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to leave money, property, or possessions to a person or organization by will",
+        "to pass on ideas, traditions, achievements, or problems to those who come later"
+      ],
+      "ja": [
+        "遺言で財産・金銭・所有物などを人や団体に譲る、遺贈する",
+        "思想・伝統・功績・問題などを後世や後の世代に残す"
+      ]
+    },
+    "nuance": {
+      "en": "Bequeath is formal. Its literal sense focuses on the person who directs the transfer in a will. Its figurative sense presents something lasting as a legacy and can describe either an achievement or a burden left to others.",
+      "ja": "改まった語。文字どおりの用法では、遺言で財産の行き先を指定する側が主語になる。比喩では、後の人々に長く残るものを遺産として捉える。研究成果や文化的伝統のような贈り物にも、債務や未解決の問題のような負担にも使える。"
+    },
+    "minimal": {
+      "en": [
+        "leave: a broader, everyday verb. Leave someone something in your will expresses the same literal idea in plainer language.",
+        "inherit: describes receiving something. She bequeathed the letters to him; he inherited them.",
+        "pass on: an everyday expression for transmitting knowledge, customs, or belongings. Bequeath gives the transfer a stronger sense of legacy.",
+        "bequest: the related countable noun for a gift made by will, as in a generous bequest to the library."
+      ],
+      "ja": [
+        "leave：意味の広い日常語。leave someone something in your will なら、遺言で譲ることを平易に表せる。",
+        "inherit：受け取る側の動作。She bequeathed the letters to him. は「彼女が手紙を彼に遺贈した」、He inherited them. は「彼がその手紙を相続した」。",
+        "pass on：知識・習慣・持ち物などを次の人に渡す日常表現。bequeath には後に残る遺産という響きが強い。",
+        "bequest：遺言による贈与やその財産を指す関連名詞。a generous bequest to the library は「図書館への多額の遺贈」。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "leave",
+        "note": {
+          "en": "A plain equivalent in the context of a will.",
+          "ja": "遺言の文脈で使える平易な言い換え。"
+        }
+      },
+      {
+        "word": "hand down",
+        "note": {
+          "en": "Fits traditions and knowledge transmitted across generations.",
+          "ja": "伝統や知識を世代を越えて伝えるときに使える。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old English becweðan, which was already used for leaving something by will. Its root cweðan meant ‘to say’.",
+      "ja": "古英語 becweðan に由来し、当時すでに遺言で何かを残す意味があった。語根の cweðan は「言う」の意。"
+    },
+    "equivalents": {
+      "de": "vermachen / der Nachwelt hinterlassen",
+      "it": "lasciare in eredità / tramandare",
+      "fr": "léguer",
+      "es": "legar / dejar en herencia"
+    },
+    "collocations": {
+      "en": [
+        "bequeath an estate to someone",
+        "bequeath a collection to a museum",
+        "bequeath a sum of money to a charity",
+        "bequeath something in one's will",
+        "bequeath a legacy to future generations",
+        "bequeath a mountain of debt to one's successors"
+      ],
+      "ja": [
+        "bequeath an estate to someone — 財産を人に遺贈する",
+        "bequeath a collection to a museum — コレクションを博物館に遺贈する",
+        "bequeath a sum of money to a charity — 慈善団体に一定額の金銭を遺贈する",
+        "bequeath something in one's will — 遺言で何かを譲る",
+        "bequeath a legacy to future generations — 将来の世代に遺産を残す",
+        "bequeath a mountain of debt to one's successors — 後継者に多額の債務を残す"
+      ]
+    },
+    "example": {
+      "en": [
+        "She bequeathed her collection of maps to the city library.",
+        "He bequeathed each of his grandchildren a small sum of money.",
+        "The movement bequeathed a rich tradition of political satire to later generations.",
+        "The outgoing administration bequeathed a mountain of debt to its successors."
+      ],
+      "ja": [
+        "She bequeathed her collection of maps to the city library. — 彼女は地図のコレクションを市立図書館に遺贈した。",
+        "He bequeathed each of his grandchildren a small sum of money. — 彼は孫一人ひとりに少額の金銭を遺贈した。",
+        "The movement bequeathed a rich tradition of political satire to later generations. — その運動は、豊かな政治風刺の伝統を後世に残した。",
+        "The outgoing administration bequeathed a mountain of debt to its successors. — 退任する政権は、後継政権に多額の債務を残した。"
+      ]
+    }
   }
 ]
