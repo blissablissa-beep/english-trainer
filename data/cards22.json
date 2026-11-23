@@ -9324,5 +9324,127 @@
         "It took considerable political dexterity to bring both sides back to the negotiating table. — 双方を交渉の席に戻すには、かなりの政治的手腕が必要だった。"
       ]
     }
+  },
+  {
+    "id": "remonstrate",
+    "sid": "2026-01926",
+    "word": "remonstrate",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "verb",
+      "formal",
+      "disagreement"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "usually intransitive",
+      "forms": {
+        "base": "remonstrate",
+        "thirdPerson": "remonstrates",
+        "past": "remonstrated",
+        "pastParticiple": "remonstrated",
+        "ing": "remonstrating",
+        "relatedNoun": "remonstrance"
+      },
+      "patterns": [
+        "remonstrate with + person",
+        "remonstrate with + person + about / over + issue",
+        "remonstrate against + rule / decision",
+        "remonstrate (without a complement)"
+      ],
+      "usage": {
+        "prepositions": "With introduces the person addressed. About or over introduces the subject of the complaint. Against introduces the rule, decision, or action being opposed.",
+        "stress": "The UK pronunciation has primary stress on the first syllable. The US pronunciation given here has primary stress on the second."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/rɪˈmɑːn.streɪt/",
+        "uk": "/ˈrem.ən.streɪt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to express objection or dissatisfaction, especially by addressing someone about a decision or action",
+        "to speak to someone in protest about what they are doing"
+      ],
+      "ja": [
+        "決定や行為について抗議する、異議や不満を申し立てる",
+        "相手の行動について本人に異議を唱える、抗議する"
+      ]
+    },
+    "nuance": {
+      "en": "Remonstrate is formal and often appears in written accounts of someone voicing an objection directly. It can suggest an attempt to make the other person see what is wrong or reconsider. The objection can be calm or forceful. Remonstrate with the editor identifies whom you address, while remonstrate against the new rules identifies what you oppose.",
+      "ja": "改まった語で、誰かが直接異議を伝える場面を文章で描写するのによく合う。何が問題か分かってほしい、考え直してほしいという含みが出ることもある。抗議の口調は穏やかな場合も強い場合もある。with the editor は抗議を伝える相手、against the new rules は反対する対象を示す。"
+    },
+    "minimal": {
+      "en": [
+        "protest. A broad word for expressing opposition that also covers public demonstrations. Remonstrate often suggests addressing someone directly.",
+        "object. Often flags a specific objection, as in object to a proposal. Remonstrate often describes the exchange in which someone voices the objection.",
+        "complain. A common word for expressing dissatisfaction, including everyday annoyances. Remonstrate is more formal and often implies challenging someone's action or decision.",
+        "reprimand. Means formally rebuke someone, often from a position of authority. A person can remonstrate with a superior about a decision."
+      ],
+      "ja": [
+        "protest は反対を表明することを広く指し、デモなどの公の抗議活動にも使える。remonstrate は相手に直接異議を伝える場面になじむ。",
+        "object は object to a proposal のように、何かに異議があることを表す。remonstrate は異議を相手に伝えるやり取りを描写することが多い。",
+        "complain は日常の不満にも使える一般的な語。remonstrate はより改まった語で、相手の行為や判断に異議を唱える場面になじむ。",
+        "reprimand は、権限を持つ側が人を正式に叱責することが多い。remonstrate は部下が上司の決定に抗議する場面にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "protest",
+        "note": {
+          "en": "Close when it means expressing opposition in words.",
+          "ja": "言葉で反対を表明する用法で近い。"
+        }
+      },
+      {
+        "word": "object",
+        "note": {
+          "en": "Close when pointing out a specific disagreement or concern.",
+          "ja": "具体的な異議や懸念を示す場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Traced to Medieval Latin remonstrare, ‘to show clearly’, from re- used for emphasis and monstrare ‘to show’. Early English uses meant ‘make clear’.",
+      "ja": "中世ラテン語 remonstrare（はっきり示す）にさかのぼる。強意の re- と monstrare（示す）からなり、初期の英語では「明らかにする」を意味した。"
+    },
+    "equivalents": {
+      "de": "protestieren / Einwände erheben",
+      "it": "protestare / sollevare obiezioni",
+      "fr": "protester / faire des remontrances à quelqu’un",
+      "es": "protestar / presentar objeciones"
+    },
+    "collocations": {
+      "en": [
+        "remonstrate with an official",
+        "remonstrate with the manager about a charge",
+        "remonstrate over a decision",
+        "remonstrate against the new rules",
+        "remonstrate in vain"
+      ],
+      "ja": [
+        "remonstrate with an official — 担当者に抗議する",
+        "remonstrate with the manager about a charge — 請求について責任者に抗議する",
+        "remonstrate over a decision — 決定をめぐって抗議する",
+        "remonstrate against the new rules — 新しい規則に抗議する",
+        "remonstrate in vain — 抗議するが聞き入れられない"
+      ]
+    },
+    "example": {
+      "en": [
+        "Several residents remonstrated with the council chair about the lack of notice.",
+        "Staff remonstrated against the new rules, arguing that they would make shift changes harder.",
+        "When the guard refused to let them in, they remonstrated briefly and then left."
+      ],
+      "ja": [
+        "Several residents remonstrated with the council chair about the lack of notice. — 住民の何人かは、事前の周知がなかったことについて議長に抗議した。",
+        "Staff remonstrated against the new rules, arguing that they would make shift changes harder. — 職員は、交代勤務のシフトを変更しにくくなると主張し、新しい規則に抗議した。",
+        "When the guard refused to let them in, they remonstrated briefly and then left. — 警備員が中に入れてくれなかったので、彼らは一言抗議してから立ち去った。"
+      ]
+    }
   }
 ]
