@@ -5392,5 +5392,116 @@
         "We checked the adequacy of the budget for routine maintenance. — 日常の維持管理に予算が足りているか確認した。"
       ]
     }
+  },
+  {
+    "id": "tapestry",
+    "sid": "2026-01894",
+    "word": "tapestry",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "textiles",
+      "art",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable for a piece or figurative whole; uncountable for the craft",
+      "forms": {
+        "singular": "tapestry",
+        "plural": "tapestries"
+      },
+      "patterns": [
+        "hang a tapestry",
+        "a tapestry depicting + scene",
+        "a rich tapestry of + plural / uncountable noun"
+      ],
+      "usage": {
+        "countability": "A tapestry is an individual piece. Tapestry can refer to the craft without an article, as in a course in tapestry and embroidery.",
+        "figurative": "The of-phrase names the elements that make up the whole: a tapestry of dialects and traditions."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈtæp.ə.stri/",
+        "uk": "/ˈtæp.ɪ.stri/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a decorative textile with a woven picture or pattern, often displayed on a wall",
+        "the craft of making such textiles",
+        "(figurative) a rich or complex whole made up of many different elements"
+      ],
+      "ja": [
+        "絵や模様を織り出した装飾用の織物、タペストリー。壁に掛けて飾ることが多い",
+        "タペストリー織り、その技法",
+        "（比喩）多様な要素が絡み合ってできた、豊かで複雑な全体"
+      ]
+    },
+    "nuance": {
+      "en": "In a rich tapestry of voices, the voices are like threads that together make a larger pattern. The metaphor highlights how details or influences combine to give a place, story, or experience its character. It has a literary tone and can describe conflicting elements as well as harmonious ones.",
+      "ja": "a rich tapestry of voices では、さまざまな声が糸のように集まり、一つの模様を織りなすイメージ。個々の細部や影響が組み合わさり、土地や物語、経験に独特の色合いを与えることを表す。やや文学的な響きがあり、調和する要素にも、互いに相いれない要素にも使える。"
+    },
+    "minimal": {
+      "en": [
+        "wall hanging: A broad term for a decoration hung on a wall, including printed cloth or macramé. Tapestry typically suggests a textile with a worked design.",
+        "embroidery: A design stitched onto an existing fabric, or the craft of making it. In traditional woven tapestry, the design is created as the cloth is woven.",
+        "mosaic: Figuratively, a whole made of distinct pieces. Tapestry emphasizes how elements interweave, while mosaic evokes separate pieces placed side by side."
+      ],
+      "ja": [
+        "wall hanging：壁に掛ける装飾品の総称。プリント布やマクラメも含む。tapestry は典型的には模様を織り出した布を指す。",
+        "embroidery：すでにある布に糸で模様を縫い付ける刺繍や、その技法。伝統的な織りのタペストリーでは、布を織る過程で模様を作る。",
+        "mosaic：比喩では、異なる断片が集まってできた全体。tapestry は要素が織り合わさるイメージで、mosaic は別々の小片が並ぶイメージ。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "woven wall hanging",
+        "note": {
+          "en": "A close descriptive equivalent for a woven tapestry displayed on a wall.",
+          "ja": "壁に掛ける織りのタペストリーを表す説明的な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French tapisserie, ultimately from tapis ‘carpet’ or ‘heavy fabric’. The figurative sense draws on the image of many threads forming a single design.",
+      "ja": "古フランス語 tapisserie を経て、tapis（敷物、厚手の布）にさかのぼる。比喩では、多くの糸が一つの模様を形づくるイメージが生きている。"
+    },
+    "equivalents": {
+      "de": "der Wandteppich / ein Geflecht aus …",
+      "it": "l’arazzo / un intreccio di …",
+      "fr": "la tapisserie / un tissu de …",
+      "es": "el tapiz / un entramado de …"
+    },
+    "collocations": {
+      "en": [
+        "a medieval tapestry",
+        "hang a tapestry on the wall",
+        "a tapestry depicting a hunting scene",
+        "a rich tapestry of voices",
+        "a tapestry of memories"
+      ],
+      "ja": [
+        "a medieval tapestry — 中世のタペストリー",
+        "hang a tapestry on the wall — 壁にタペストリーを掛ける",
+        "a tapestry depicting a hunting scene — 狩りの場面を描いたタペストリー",
+        "a rich tapestry of voices — さまざまな声が織りなす豊かな世界",
+        "a tapestry of memories — さまざまな記憶が織りなすもの"
+      ]
+    },
+    "example": {
+      "en": [
+        "A faded tapestry depicting a hunting scene hung above the fireplace.",
+        "The novel weaves family letters, court records, and local legends into a rich tapestry.",
+        "The neighborhood is a rich tapestry of languages, food traditions, and family histories."
+      ],
+      "ja": [
+        "A faded tapestry depicting a hunting scene hung above the fireplace. — 暖炉の上には、狩りの場面を描いた色あせたタペストリーが掛かっていた。",
+        "The novel weaves family letters, court records, and local legends into a rich tapestry. — その小説は、家族の手紙、裁判記録、土地の言い伝えを織り合わせ、奥行きのある物語を作り上げている。",
+        "The neighborhood is a rich tapestry of languages, food traditions, and family histories. — その街区には多様な言語や食文化、家族の来歴が折り重なり、豊かな街の個性を形づくっている。"
+      ]
+    }
   }
 ]
