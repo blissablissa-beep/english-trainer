@@ -8568,5 +8568,142 @@
         "The city will resurface the road after the water pipes are replaced. — 市は水道管の交換後に道路を再舗装する。"
       ]
     }
+  },
+  {
+    "id": "detour",
+    "sid": "2026-01920",
+    "word": "detour",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "verb",
+      "travel",
+      "transport",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "countable",
+      "transitivity": "intransitive / transitive",
+      "forms": {
+        "base": "detour",
+        "plural": "detours",
+        "thirdPerson": "detours",
+        "past": "detoured",
+        "pastParticiple": "detoured",
+        "ing": "detouring"
+      },
+      "patterns": [
+        "take / make a detour around + obstacle",
+        "make a detour to + place / visit a place",
+        "detour via / through + place",
+        "detour + traffic + onto + road"
+      ],
+      "usage": {
+        "direction": "Around introduces the thing you avoid. Via or through introduces the route you use. To can introduce a place you visit or an infinitive giving your purpose.",
+        "region": "British road signs often use diversion for a route marked out because a road is closed. The verb detour is especially common in North American English."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈdiːtʊr/",
+        "uk": "/ˈdiːtʊə(r)/, /ˈdiːtɔː(r)/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a route away from the usual or direct way, taken to avoid an obstacle or to visit a place along the way",
+        "a temporary alternative route for traffic when a road is closed",
+        "a departure from the expected course of a discussion, project, or career",
+        "to take a detour or direct traffic along one"
+      ],
+      "ja": [
+        "障害物を避けたり、途中で別の場所に立ち寄ったりするための迂回・遠回り・寄り道",
+        "道路が閉鎖された際の臨時の迂回路",
+        "話や計画、経歴などが通常の流れから外れること、脱線・回り道",
+        "迂回する、寄り道する、車両などを迂回させる"
+      ]
+    },
+    "nuance": {
+      "en": "A detour implies a usual or more direct route that you leave for a reason. It may be imposed by a road closure or chosen because a place is worth visiting. A detour in a talk or career describes a departure from an expected path, which may turn out to be worthwhile.",
+      "ja": "本来の道筋から、何らかの理由でいったん外れることを表す。通行止めでやむを得ず迂回する場合にも、面白そうな場所に自分から寄り道する場合にも使う。話や経歴について比喩的に使う場合も、その回り道に価値があったという文脈で使える。"
+    },
+    "minimal": {
+      "en": [
+        "diversion: in British traffic notices, a signposted alternative for a closed road. Detour is the usual North American term in that context and can also be a voluntary side trip.",
+        "reroute: emphasizes changing the route, as when a navigation app reroutes a driver. Detour can name the alternative route or the trip along it.",
+        "go out of your way: travel farther or make a special effort. Detour describes the departure from the expected route.",
+        "digression: a departure from the subject in speech or writing. Detour can convey that idea figuratively and can also describe a change in plans or career."
+      ],
+      "ja": [
+        "diversion：イギリスの交通案内で、通行止めに伴い標識で案内される迂回路。北米ではこの意味で detour が一般的で、自分からする寄り道にも使える。",
+        "reroute：ナビが別の道を案内するように、経路を変更することが焦点。detour は迂回路や迂回そのものも表す。",
+        "go out of your way：遠回りしたり、わざわざ手間をかけたりすること。detour は予定していた道筋から外れることを表す。",
+        "digression：話や文章の本題からの脱線。detour も比喩的に同じ意味を表せて、計画や経歴の回り道にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "diversion",
+        "note": {
+          "en": "The usual British term for a temporary, signposted traffic route.",
+          "ja": "標識で指定された臨時の迂回路を指すイギリス英語。"
+        }
+      },
+      {
+        "word": "bypass",
+        "note": {
+          "en": "As a verb, overlaps when the aim is to go around an obstacle or congested area.",
+          "ja": "動詞として、障害物や混雑した地域を避けて回る場合に意味が重なる。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Borrowed from French détour, ‘change of direction’, related to détourner, ‘to turn away’.",
+      "ja": "「方向転換」を意味するフランス語 détour から借用された。détourner（向きをそらす）と関係がある。"
+    },
+    "equivalents": {
+      "de": "der Umweg / die Umleitung; einen Umweg machen",
+      "it": "la deviazione; fare una deviazione",
+      "fr": "le détour / la déviation; faire un détour",
+      "es": "el desvío; tomar un desvío"
+    },
+    "collocations": {
+      "en": [
+        "take a detour around roadworks",
+        "a five-mile detour",
+        "follow the detour signs",
+        "make a detour to visit a village",
+        "be worth a detour",
+        "detour through side streets",
+        "detour traffic onto a side road",
+        "a brief detour from the main topic"
+      ],
+      "ja": [
+        "take a detour around roadworks — 道路工事の区間を迂回する",
+        "a five-mile detour — 5マイルの遠回り",
+        "follow the detour signs — 迂回路の標識に従う",
+        "make a detour to visit a village — 村を訪ねるために寄り道する",
+        "be worth a detour — 寄り道する価値がある",
+        "detour through side streets — 裏道を通って迂回する",
+        "detour traffic onto a side road — 車を脇道へ迂回させる",
+        "a brief detour from the main topic — 本題から少し外れること"
+      ]
+    },
+    "example": {
+      "en": [
+        "The bridge was closed for repairs, so we had to take a detour through town.",
+        "On our way back, we made a detour to visit a bakery we'd heard about.",
+        "Police detoured traffic onto a side road after the crash.",
+        "After a brief detour into the history of the project, she returned to the question of cost."
+      ],
+      "ja": [
+        "The bridge was closed for repairs, so we had to take a detour through town. — 橋が補修工事で通れなかったので、町を通って迂回しなければならなかった。",
+        "On our way back, we made a detour to visit a bakery we'd heard about. — 帰り道に、評判を聞いていたパン屋に寄り道した。",
+        "Police detoured traffic onto a side road after the crash. — 事故のあと、警察は車を脇道へ迂回させた。",
+        "After a brief detour into the history of the project, she returned to the question of cost. — プロジェクトの経緯に少し話がそれたあと、彼女は費用の話に戻った。"
+      ]
+    }
   }
 ]
