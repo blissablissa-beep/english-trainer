@@ -7054,5 +7054,133 @@
         "The determination of the cause required a closer examination of the damaged parts. — 原因を特定するには、損傷した部品をさらに詳しく調べる必要があった。"
       ]
     }
+  },
+  {
+    "id": "determine",
+    "sid": "2026-01908",
+    "word": "determine",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "verb",
+      "decision-making",
+      "research",
+      "formal"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "usually transitive",
+      "forms": {
+        "base": "determine",
+        "thirdPerson": "determines",
+        "past": "determined",
+        "pastParticiple": "determined",
+        "presentParticiple": "determining",
+        "noun": "determination"
+      },
+      "patterns": [
+        "determine + cause / value / outcome",
+        "determine whether / what / how + clause",
+        "determine that + clause",
+        "be determined by + factor",
+        "determine to + verb (formal)",
+        "be determined to + verb"
+      ],
+      "usage": {
+        "complement": "Determine whether introduces a question to be settled. Determine that introduces a finding or a decision.",
+        "resolve": "Determine to do something means make a firm decision to do it and sounds formal. Be determined to do something describes having a firm resolve and is common in everyday English."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/dɪˈtɝː.mɪn/",
+        "uk": "/dɪˈtɜː.mɪn/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to find out or establish a fact, cause, or value through examination, calculation, or reasoning",
+        "to decide or fix something, such as a date, amount, or course of action",
+        "to control, shape, or decisively influence a result",
+        "(formal) to make a firm decision to do something"
+      ],
+      "ja": [
+        "（事実・原因を）突き止める、特定する。（数値を）測定する、算定する",
+        "（日程・金額・方針などを）決める、定める",
+        "（要因が結果を）決める、左右する",
+        "（硬い表現で）〜すると決意する"
+      ]
+    },
+    "nuance": {
+      "en": "Context tells you whether the subject establishes a fact, sets a condition, or shapes a result. Engineers determine the cause by examining evidence. A committee determines the schedule by making a decision. A budget determines how much work can go ahead because it limits the options. In I’m determined to finish, determined describes resolve. In The fee is determined by weight, determined is part of the passive.",
+      "ja": "主語と文脈によって、事実を突き止めるのか、条件を定めるのか、結果を左右するのかが分かる。技術者が原因を determine するなら証拠を調べて特定すること。委員会が日程を determine するなら日程を決めること。予算が作業範囲を determine するなら、選択肢を制約して範囲を決めること。I’m determined to finish. は決意を表し、The fee is determined by weight. は料金の決まり方を表す受動態。"
+    },
+    "minimal": {
+      "en": [
+        "find out: A broad everyday expression for learning something. Determine often suggests a more deliberate examination, measurement, or calculation.",
+        "decide: An everyday choice for reaching a decision. Determine can also describe a factor that shapes the outcome, as in Demand determines the price.",
+        "influence: Means to have an effect on something. Determine often presents the factor as decisive, though partly determined by allows for multiple factors."
+      ],
+      "ja": [
+        "find out：何かを知るという幅広い日常表現。determine は、調査・測定・計算などを通じて明らかにする響きが出やすい。",
+        "decide：判断や選択をするという日常的な語。determine は Demand determines the price. のように、結果を決める要因についても使える。",
+        "influence：何かに影響を与える。determine は決定的な影響を示すことが多いが、partly determined by なら複数の要因の一つとして述べられる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "establish",
+        "note": {
+          "en": "A close equivalent when evidence is used to settle a question of fact.",
+          "ja": "証拠をもとに事実を確定する場合の近い語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Ultimately from Latin determinare, ‘to set bounds to’, based on terminus ‘boundary or end’. Determination belongs to the same word family.",
+      "ja": "「境界を定める」を意味するラテン語 determinare にさかのぼる。そのもとに terminus（境界、終点）があり、determination も同系。"
+    },
+    "equivalents": {
+      "de": "ermitteln / festlegen / bestimmen / sich entschließen",
+      "it": "accertare / stabilire / determinare / decidersi a",
+      "fr": "établir / fixer / déterminer / se résoudre à",
+      "es": "averiguar / establecer / determinar / resolverse a"
+    },
+    "collocations": {
+      "en": [
+        "determine the cause",
+        "determine the exact value",
+        "determine whether an application was filed on time",
+        "determine the timetable",
+        "determine the outcome",
+        "be determined by weight",
+        "be determined to finish"
+      ],
+      "ja": [
+        "determine the cause — 原因を特定する",
+        "determine the exact value — 正確な値を求める",
+        "determine whether an application was filed on time — 申請が期限内に提出されたかを確認する",
+        "determine the timetable — 日程を決める",
+        "determine the outcome — 結果を左右する",
+        "be determined by weight — 重量によって決まる",
+        "be determined to finish — 必ずやり遂げる決意でいる"
+      ]
+    },
+    "example": {
+      "en": [
+        "The engineers are trying to determine what caused the leak.",
+        "The committee will determine the timetable at its next meeting.",
+        "The delivery fee is determined by the weight of the parcel.",
+        "The review panel determined that the application had been filed on time.",
+        "After reading the report, she determined to find out what had happened."
+      ],
+      "ja": [
+        "The engineers are trying to determine what caused the leak. — 技術者たちは、漏れの原因を突き止めようとしている。",
+        "The committee will determine the timetable at its next meeting. — 委員会は次回の会合で日程を決める。",
+        "The delivery fee is determined by the weight of the parcel. — 配送料は荷物の重さで決まる。",
+        "The review panel determined that the application had been filed on time. — 審査委員会は、その申請が期限内に提出されていたと認定した。",
+        "After reading the report, she determined to find out what had happened. — 報告書を読んだ彼女は、何が起きたのかを突き止めようと決意した。"
+      ]
+    }
   }
 ]
