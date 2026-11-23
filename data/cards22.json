@@ -5862,5 +5862,106 @@
         "The city put the thumbscrews on the contractor to finish the repairs before winter. — 市は請負業者に強い圧力をかけ、冬までに修理を終えるよう迫った。"
       ]
     }
+  },
+  {
+    "id": "let-alone",
+    "sid": "2026-01898",
+    "word": "let alone",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "idiom",
+      "conjunction",
+      "emphasis",
+      "negation"
+    ],
+    "grammar": {
+      "pos": "conjunction / fixed phrase",
+      "forms": {
+        "base": "let alone"
+      },
+      "patterns": [
+        "can’t + verb A, let alone + verb B",
+        "not even + noun A, let alone + noun B",
+        "barely / hardly + verb phrase, let alone + parallel phrase"
+      ],
+      "usage": {
+        "order": "In the usual negative pattern, put the easier, smaller, or more plausible item first. Follow it with the more demanding or less plausible item.",
+        "parallelism": "Match the grammatical role on both sides: can’t read it, let alone translate it; didn’t have time for lunch, let alone a break. A comma often marks the pause before let alone."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/let əˈloʊn/",
+        "uk": "/let əˈləʊn/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "used after a negative or limiting statement to introduce something even less possible, likely, or attainable"
+      ],
+      "ja": [
+        "〜さえ…ないのだから、まして〜はなおさら…ない。〜どころか…さえ難しい"
+      ]
+    },
+    "nuance": {
+      "en": "The force comes from the order of the two items. If the first, less demanding thing is already out of reach, the second is even further out of reach. The first part can contain an explicit negative such as can’t or a limiter such as barely.",
+      "ja": "先にハードルの低いことを述べ、それすら難しいなら、後に置いたことはなおさら難しいと伝える。前半には can’t のような明示的な否定のほか、barely（かろうじて）のように余裕がほとんどないことを示す語も使える。"
+    },
+    "minimal": {
+      "en": [
+        "much less: A close equivalent after a negative statement, often somewhat more formal.",
+        "not to mention: Adds a further point or item, including in positive statements. Let alone usually presents the second item as even further out of reach.",
+        "leave someone alone: Means to stop bothering someone or allow them to be by themselves."
+      ],
+      "ja": [
+        "much less：否定文の後で使う近い表現。let alone よりやや硬く響くことがある。",
+        "not to mention：追加の話題や項目を挙げる表現で、肯定文でも使える。let alone は通常、後の項目がなおさら難しいことを示す。",
+        "leave someone alone：人に構うのをやめる、一人にしておくという動詞句。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "much less",
+        "note": {
+          "en": "A close equivalent in the usual negative construction.",
+          "ja": "否定に続く基本の構文での近い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The phrase draws on the sense of leaving a matter aside. The second item can be left out of consideration because the first already makes the point.",
+      "ja": "取り上げずにおく、という let と alone の組み合わせ。先の項目だけで話が成り立つため、後の項目はなおさら考えるまでもない、という発想。"
+    },
+    "equivalents": {
+      "de": "geschweige denn",
+      "it": "figuriamoci / tanto meno",
+      "fr": "encore moins / à plus forte raison",
+      "es": "y mucho menos / y menos aún"
+    },
+    "collocations": {
+      "en": [
+        "can’t read it, let alone translate it",
+        "not enough for one person, let alone two",
+        "barely enough time to read it, let alone respond"
+      ],
+      "ja": [
+        "can’t read it, let alone translate it — 読むことさえできないのだから、まして翻訳はできない",
+        "not enough for one person, let alone two — 一人分にも足りないのに、まして二人分には足りない",
+        "barely enough time to read it, let alone respond — 読む時間さえぎりぎりで、返事をする時間などとてもない"
+      ]
+    },
+    "example": {
+      "en": [
+        "We can’t agree on a title, let alone finish the whole report by Friday.",
+        "The room barely fits a desk, let alone a dining table.",
+        "We didn’t have enough evidence to identify the source, let alone establish who was responsible."
+      ],
+      "ja": [
+        "We can’t agree on a title, let alone finish the whole report by Friday. — 題名すら決まらないのに、金曜までに報告書全体を仕上げるなんてとても無理だ。",
+        "The room barely fits a desk, let alone a dining table. — その部屋は机を置くだけでぎりぎりで、ダイニングテーブルなどとても置けない。",
+        "We didn’t have enough evidence to identify the source, let alone establish who was responsible. — 出所を特定するだけの証拠さえなく、まして誰に責任があるかを立証できる状況ではなかった。"
+      ]
+    }
   }
 ]
