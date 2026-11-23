@@ -6573,5 +6573,119 @@
         "Demand returned with a vengeance once the new train line opened. — 新しい鉄道路線が開通すると、需要は一気に盛り返した。"
       ]
     }
+  },
+  {
+    "id": "encroach",
+    "sid": "2026-01904",
+    "word": "encroach",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "boundaries",
+      "rights",
+      "environment"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "intransitive",
+      "forms": {
+        "base": "encroach",
+        "thirdPerson": "encroaches",
+        "past": "encroached",
+        "pastParticiple": "encroached",
+        "presentParticiple": "encroaching",
+        "noun": "encroachment"
+      },
+      "patterns": [
+        "encroach on / upon + land / rights / time",
+        "encroach onto + physical area",
+        "encroachment on + noun"
+      ],
+      "usage": {
+        "complement": "Use on or upon before the area or interest affected. Upon can sound more formal. Onto is also used for extension into a physical area."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪnˈkroʊtʃ/",
+        "uk": "/ɪnˈkrəʊtʃ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to extend into or gradually occupy land or space beyond an existing boundary",
+        "to take away part of someone’s time, freedom, or rights, often gradually or without justification"
+      ],
+      "ja": [
+        "（土地や空間に）入り込む、境界を越えてはみ出す、徐々に侵食する",
+        "（時間・自由・権利などを）侵食する、食い込む、侵害する"
+      ]
+    },
+    "nuance": {
+      "en": "Encroach pictures something crossing into space that already belongs to another person or serves another purpose. Gradual expansion is common, as when development spreads into wetlands. A fixed structure can also encroach on a neighboring plot simply by extending beyond the property line.",
+      "ja": "すでに誰かのものだったり別の用途があったりする領域に、境界を越えて入り込むイメージ。開発が湿地に広がる例のように、徐々に進むことが多い。一方、塀や建物が境界線を越えている場合にも、そのはみ出しを encroach で表せる。"
+    },
+    "minimal": {
+      "en": [
+        "trespass on: Typically refers to entering land without permission. Encroach on can refer to a structure that extends over a boundary or to gradual expansion.",
+        "infringe: Often describes a violation of a right, rule, or legal protection, as in infringe a trademark. Encroach on suggests that someone’s sphere of freedom or control is being narrowed.",
+        "eat into: Often describes using up time, money, or resources. Encroach on emphasizes crossing into time or space set aside for something else."
+      ],
+      "ja": [
+        "trespass on：他人の土地へ無断で立ち入ることを指すのが典型。encroach on は、構造物が境界を越えていたり、開発が徐々に広がったりする場合にも使える。",
+        "infringe：infringe a trademark（商標権を侵害する）のように、権利や法的保護への侵害を表すことが多い。encroach on は、自由や権限の及ぶ範囲が狭められるという含みを持つ。",
+        "eat into：時間やお金、資源を食いつぶすことを表す。encroach on は、別の用途に確保していた時間や空間に食い込むことを強調する。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "intrude on",
+        "note": {
+          "en": "A close equivalent when someone’s time, privacy, or space is affected.",
+          "ja": "人の時間・プライバシー・空間に入り込む場合の近い表現。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French encrochier, ‘to seize or catch with a hook’, based on croc ‘hook’. English later developed the sense of taking or intruding on what belongs to another.",
+      "ja": "古フランス語 encrochier（つかむ、鉤で引っかける）に由来し、croc は「鉤」を意味する。英語では、他人のものを奪う、領域に入り込むという意味に発展した。"
+    },
+    "equivalents": {
+      "de": "auf etwas übergreifen / in etwas eingreifen",
+      "it": "sconfinare in / invadere",
+      "fr": "empiéter sur",
+      "es": "invadir / inmiscuirse en"
+    },
+    "collocations": {
+      "en": [
+        "encroach on neighboring land",
+        "encroach on wildlife habitat",
+        "encroach on someone’s privacy",
+        "encroach on personal time",
+        "encroachment on civil liberties"
+      ],
+      "ja": [
+        "encroach on neighboring land — 隣接地にはみ出す",
+        "encroach on wildlife habitat — 野生生物の生息地に入り込む",
+        "encroach on someone’s privacy — 人のプライバシーを侵害する",
+        "encroach on personal time — 自分の時間に食い込む",
+        "encroachment on civil liberties — 市民的自由への侵食"
+      ]
+    },
+    "example": {
+      "en": [
+        "The survey showed that the fence encroached on the neighboring property.",
+        "Housing development is gradually encroaching on the wetlands.",
+        "Late meetings were starting to encroach on my evenings.",
+        "The committee warned that the proposal could encroach on employees’ privacy."
+      ],
+      "ja": [
+        "The survey showed that the fence encroached on the neighboring property. — 測量の結果、塀が隣の敷地にはみ出していることが分かった。",
+        "Housing development is gradually encroaching on the wetlands. — 住宅開発が徐々に湿地に広がり、その面積を狭めている。",
+        "Late meetings were starting to encroach on my evenings. — 遅い時間の会議が、夕方以降の自分の時間に食い込み始めていた。",
+        "The committee warned that the proposal could encroach on employees’ privacy. — 委員会は、その提案が従業員のプライバシーを侵害しかねないと指摘した。"
+      ]
+    }
   }
 ]
