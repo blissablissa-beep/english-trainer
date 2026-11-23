@@ -108,5 +108,122 @@
         "She took a course in topiary and learned to shape a boxwood shrub into a sphere. — 彼女はトピアリーの講座を受け、ツゲを球形に仕立てる方法を学んだ。"
       ]
     }
+  },
+  {
+    "id": "considerate",
+    "sid": "2026-01934",
+    "word": "considerate",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "behavior",
+      "manners"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "considerate",
+        "comparative": "more considerate",
+        "superlative": "most considerate",
+        "adverb": "considerately",
+        "antonym": "inconsiderate"
+      },
+      "patterns": [
+        "it is / was considerate of + person + to + verb",
+        "be considerate toward(s) + person / group",
+        "be considerate of + someone's needs / feelings",
+        "a considerate + neighbor / gesture"
+      ],
+      "usage": {
+        "of": "In It was considerate of Maya to call, of introduces the person who acted. In be considerate of other people's needs, of introduces what deserves consideration.",
+        "towards": "Use toward or towards to introduce the person or group receiving that consideration."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/kənˈsɪd.ɚ.ət/",
+        "uk": "/kənˈsɪd.ər.ət/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "showing care for other people's feelings, needs, or convenience",
+        "done with attention to how it will affect other people"
+      ],
+      "ja": [
+        "人の気持ちや必要、都合によく気を配る、思いやりのある",
+        "相手への影響を考えて行われた、配慮の行き届いた"
+      ]
+    },
+    "nuance": {
+      "en": "Considerate often describes small practical choices that make life easier or more comfortable for others, such as lowering your voice or giving advance notice. It can praise a single action or describe a person's usual behavior.",
+      "ja": "声を落とす、予定が変わったら早めに知らせるなど、他人が困らないようにする日常的な気遣いを表す。一度の行動をほめる場合にも、その人の普段の振る舞いを表す場合にも使える。"
+    },
+    "minimal": {
+      "en": [
+        "thoughtful. Often highlights a gesture that shows someone has thought about you. Considerate is especially apt when the gesture takes your needs or convenience into account.",
+        "kind. Broadly describes warmth or helpfulness. Considerate emphasizes awareness of how one's actions affect others.",
+        "polite. Typically concerns manners or courtesy. Considerate also covers practical choices, such as keeping noise down.",
+        "considerable. Means large or significant in amount or degree. Considerate describes regard for other people."
+      ],
+      "ja": [
+        "thoughtful は、相手のことを考えてした気の利いた行動をほめるときによく使う。considerate は特に相手の都合や必要に配慮することを表す。",
+        "kind は親切さや優しさを広く表す。considerate は、自分の言動が相手にどう影響するかへの気遣いに重点がある。",
+        "polite は礼儀正しさが中心。considerate は、物音を抑えるなど、相手に負担をかけない実際の行動にも使う。",
+        "considerable は、量や程度が「かなりの」という意味。considerate は人に対する配慮を表す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "thoughtful",
+        "note": {
+          "en": "Close when praising a gesture that shows care for others.",
+          "ja": "人への気遣いが表れた行動をほめる用法で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin consideratus, the past participle of considerare ‘to examine or consider’. An early English sense was ‘showing careful thought’.",
+      "ja": "ラテン語 considerare（検討する）の過去分詞 consideratus に由来する。初期の英語では「よく考えた」という意味で使われた。"
+    },
+    "equivalents": {
+      "de": "rücksichtsvoll",
+      "it": "premuroso / riguardoso",
+      "fr": "attentionné / prévenant",
+      "es": "considerado / atento"
+    },
+    "collocations": {
+      "en": [
+        "a considerate neighbor",
+        "a considerate gesture",
+        "be considerate toward your roommates",
+        "be considerate of other people's time",
+        "try to be more considerate",
+        "it was considerate of you to let me know"
+      ],
+      "ja": [
+        "a considerate neighbor — 周囲に気を配る近所の人",
+        "a considerate gesture — 気遣いのある行動",
+        "be considerate toward your roommates — ルームメイトに配慮する",
+        "be considerate of other people's time — 他の人の時間を大切にする",
+        "try to be more considerate — もう少し周りに気を配るようにする",
+        "it was considerate of you to let me know — 知らせてくれるなんて気が利いていた"
+      ]
+    },
+    "example": {
+      "en": [
+        "It was considerate of you to let me know before I left home.",
+        "Please be considerate of other passengers and keep your voice down.",
+        "Our upstairs neighbors are considerate about noise and always warn us before a party.",
+        "She's considerate toward new team members and gives them time to ask questions."
+      ],
+      "ja": [
+        "It was considerate of you to let me know before I left home. — 私が家を出る前に知らせてくれて助かったよ。",
+        "Please be considerate of other passengers and keep your voice down. — ほかの乗客に配慮して、声を落としてください。",
+        "Our upstairs neighbors are considerate about noise and always warn us before a party. — 上の階の住人は騒音に気を配っていて、パーティーを開く前にはいつも知らせてくれる。",
+        "She's considerate toward new team members and gives them time to ask questions. — 彼女は新しいチームメンバーに気を配り、質問する時間を設けている。"
+      ]
+    }
   }
 ]
