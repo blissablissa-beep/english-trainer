@@ -5963,5 +5963,130 @@
         "We didn’t have enough evidence to identify the source, let alone establish who was responsible. — 出所を特定するだけの証拠さえなく、まして誰に責任があるかを立証できる状況ではなかった。"
       ]
     }
+  },
+  {
+    "id": "bruise",
+    "sid": "2026-01899",
+    "word": "bruise",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "verb",
+      "injury",
+      "food",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "countable as a noun",
+      "transitivity": "transitive or intransitive",
+      "forms": {
+        "base": "bruise",
+        "plural": "bruises",
+        "thirdPerson": "bruises",
+        "past": "bruised",
+        "pastParticiple": "bruised",
+        "presentParticiple": "bruising"
+      },
+      "patterns": [
+        "a bruise on + body part",
+        "get / have a bruise",
+        "bruise your knee",
+        "bruise easily",
+        "bruise someone’s ego"
+      ],
+      "usage": {
+        "noun": "Use on to say where the mark is: a bruise on my shin.",
+        "verb": "I bruised my shin names the injured body part as the object. Peaches bruise easily uses bruise without an object."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/bruːz/",
+        "uk": "/bruːz/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(noun) a discolored mark on the skin after a blow or pressure",
+        "(verb) to cause or develop a bruise on the body",
+        "(noun or verb, of produce) a damaged spot caused by impact or pressure, or to develop or cause such damage",
+        "(verb, figurative) to hurt someone’s pride, ego, or confidence"
+      ],
+      "ja": [
+        "（打ったり圧迫されたりしてできる）あざ、青あざ",
+        "（体を打って）あざを作る、あざができる",
+        "（果物などの）打ち身、押し傷。打ったり押されたりして傷む、傷める",
+        "（自尊心や自信を）傷つける"
+      ]
+    },
+    "nuance": {
+      "en": "A bruise on the body is a mark that typically forms under intact skin. A bruise on fruit is often a soft or discolored spot caused by being dropped or squeezed. In a bruised ego, the damage is to someone’s self-esteem.",
+      "ja": "体の bruise は、通常、皮膚の表面が切れず、その下にできるあざを指す。果物では、落としたり押されたりして色が変わったり柔らかくなったりした部分を指す。a bruised ego では、自尊心が傷ついている。"
+    },
+    "minimal": {
+      "en": [
+        "cut: An injury where the skin is broken. A bruise is usually visible beneath intact skin.",
+        "contusion: A medical term for an injury caused by a blow without breaking the skin. Bruise is the everyday word.",
+        "dent: An indentation, often in a hard surface. A bruise on fruit is damage to the flesh and may appear as a dark or soft spot."
+      ],
+      "ja": [
+        "cut：皮膚が切れてできる傷。bruise は通常、表面が切れず、皮膚の下の変色が見える。",
+        "contusion：皮膚が破れない打撲傷を指す医学用語。bruise は日常語。",
+        "dent：硬い表面などにできたへこみ。果物の bruise は果肉の傷みで、色が濃くなったり柔らかくなったりする。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "contusion",
+        "note": {
+          "en": "A formal medical equivalent in the bodily injury sense.",
+          "ja": "体の打撲傷を指す硬い医学用語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The verb goes back to Old English brysan ‘to crush or injure’ and later merged with Anglo-French bruiser ‘to break or smash’.",
+      "ja": "古英語 brysan（押しつぶす、傷つける）にさかのぼり、のちにアングロフランス語 bruiser（壊す、打ち砕く）と合流した。"
+    },
+    "equivalents": {
+      "de": "der blaue Fleck / sich eine Prellung zuziehen / die Druckstelle (Obst)",
+      "it": "il livido / procurarsi un livido / l’ammaccatura (frutta)",
+      "fr": "un bleu / se faire un bleu / une meurtrissure (fruit)",
+      "es": "el moretón / el moratón / magullarse / la magulladura (fruta)"
+    },
+    "collocations": {
+      "en": [
+        "a bruise on your shin",
+        "bruise your knee",
+        "bruise easily",
+        "a bruised peach",
+        "a bruised ego",
+        "cuts and bruises"
+      ],
+      "ja": [
+        "a bruise on your shin — すねのあざ",
+        "bruise your knee — 膝を打ってあざを作る",
+        "bruise easily — あざができやすい、打ち身ができやすい",
+        "a bruised peach — 打ち身で傷んだ桃",
+        "a bruised ego — 傷ついた自尊心",
+        "cuts and bruises — 切り傷やあざ"
+      ]
+    },
+    "example": {
+      "en": [
+        "I bumped my shin on the coffee table and ended up with a nasty bruise.",
+        "I bruised my knee when I slipped on the stairs.",
+        "Ripe peaches bruise easily, so I put them on top of the other groceries.",
+        "The rejection bruised his ego, but he took the feedback seriously."
+      ],
+      "ja": [
+        "I bumped my shin on the coffee table and ended up with a nasty bruise. — ローテーブルにすねをぶつけて、ひどいあざができた。",
+        "I bruised my knee when I slipped on the stairs. — 階段で足を滑らせ、膝を打ってあざができた。",
+        "Ripe peaches bruise easily, so I put them on top of the other groceries. — 熟した桃は打ち身ができやすいので、ほかの買い物品の上に載せた。",
+        "The rejection bruised his ego, but he took the feedback seriously. — 断られて彼の自尊心は傷ついたが、指摘は真剣に受け止めた。"
+      ]
+    }
   }
 ]
