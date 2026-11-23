@@ -6088,5 +6088,135 @@
         "The rejection bruised his ego, but he took the feedback seriously. — 断られて彼の自尊心は傷ついたが、指摘は真剣に受け止めた。"
       ]
     }
+  },
+  {
+    "id": "faculty",
+    "sid": "2026-01900",
+    "word": "faculty",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "education",
+      "ability",
+      "american-english",
+      "british-english"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "collective when referring to teachers; countable for a university division or an ability",
+      "forms": {
+        "singular": "faculty",
+        "plural": "faculties"
+      },
+      "patterns": [
+        "the faculty / join the faculty",
+        "a faculty member",
+        "the Faculty of + discipline",
+        "a faculty for + noun / -ing",
+        "one’s mental faculties"
+      ],
+      "usage": {
+        "staff": "In US English, the faculty commonly refers to teachers as a group. A faculty member refers to one person.",
+        "division": "Capitalize Faculty when it is part of an official name, as in the Faculty of Law. Follow the institution’s own terminology.",
+        "ability": "The plural faculties often refers to powers of the mind or senses. Use a faculty for something for a particular aptitude."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈfæk.əl.t̬i/",
+        "uk": "/ˈfæk.əl.ti/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(mainly US) the teaching staff of a university, college, or school, considered as a group",
+        "(mainly UK) a major academic division within a university, often comprising several departments",
+        "a power of the mind or senses, especially in the plural",
+        "a natural aptitude for doing a particular thing"
+      ],
+      "ja": [
+        "（主に米）大学・学校の教員団、教員全体",
+        "（主に英）大学の学部。複数の学科などをまとめる組織を指すことが多い",
+        "（特に複数形で）知覚や思考などの能力、心身の諸機能",
+        "あることをする才能、能力"
+      ]
+    },
+    "nuance": {
+      "en": "University context and regional usage matter. In US English, She joined the faculty means she became one of the teaching staff. In many UK universities, the Faculty of Law names an academic division. In a faculty for explaining difficult ideas, the phrase refers to an aptitude. Mental faculties usually refers to capacities such as memory and reasoning.",
+      "ja": "大学の話では地域や文脈で意味が変わる。米国英語の She joined the faculty. は「教員に加わった」。英国の多くの大学では Faculty of Law は学部名。a faculty for explaining difficult ideas は難しい考えを説明する才能を指し、mental faculties は記憶や推論などの能力をまとめて指す。"
+    },
+    "minimal": {
+      "en": [
+        "staff: Can include teachers, administrators, and other employees. In US university usage, faculty commonly refers to academic teaching staff specifically.",
+        "department: Often a unit for one subject, such as the Department of History. A faculty in the organizational sense may contain several departments.",
+        "ability: A broad term for what someone can do. Faculty in this sense is more formal and often refers to a basic mental or sensory power or a particular aptitude."
+      ],
+      "ja": [
+        "staff：教員、事務職員などを広く含みうる。米国の大学で faculty といえば、一般に教員を指す。",
+        "department：Department of History のように、個別の分野を担当する学科などを指すことが多い。組織としての faculty は複数の department を含む場合がある。",
+        "ability：人にできることを広く指す。能力を表す faculty はやや硬く、思考や感覚の働き、特定の才能などを指すことが多い。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "teaching staff",
+        "note": {
+          "en": "A near-equivalent for the collective teaching sense.",
+          "ja": "教員全体を指す場合の近い言い換え。"
+        }
+      },
+      {
+        "word": "aptitude",
+        "note": {
+          "en": "A near-equivalent in the pattern a faculty for something.",
+          "ja": "a faculty for something の形で、あることをする才能を指す場合の近い語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Through French from Latin facultas ‘ability, capacity’. The ability sense preserves this older meaning.",
+      "ja": "フランス語を経て、ラテン語 facultas（能力、力量）にさかのぼる。「能力」という用法には古い意味が残っている。"
+    },
+    "equivalents": {
+      "de": "der Lehrkörper / die Fakultät / das Vermögen",
+      "it": "il corpo docente / la facoltà",
+      "fr": "le corps enseignant / la faculté",
+      "es": "el profesorado / la facultad"
+    },
+    "collocations": {
+      "en": [
+        "a faculty member",
+        "join the faculty",
+        "faculty and students",
+        "the Faculty of Law",
+        "the Faculty of Arts and Humanities",
+        "mental faculties",
+        "a faculty for putting people at ease"
+      ],
+      "ja": [
+        "a faculty member — 教員一人、教員の一員",
+        "join the faculty — 教員に加わる",
+        "faculty and students — 教員と学生",
+        "the Faculty of Law — 法学部",
+        "the Faculty of Arts and Humanities — 人文系の学部",
+        "mental faculties — 記憶や判断などの精神的能力",
+        "a faculty for putting people at ease — 人を安心させる才能"
+      ]
+    },
+    "example": {
+      "en": [
+        "She joined the faculty at a small college in Vermont.",
+        "The Faculty of Law is hosting a public lecture on trademark law.",
+        "He has a faculty for making complex ideas sound simple.",
+        "The course is designed to sharpen students’ critical faculties."
+      ],
+      "ja": [
+        "She joined the faculty at a small college in Vermont. — 彼女はバーモント州の小さな大学で教員になった。",
+        "The Faculty of Law is hosting a public lecture on trademark law. — 法学部は商標法をテーマに公開講演を開く。",
+        "He has a faculty for making complex ideas sound simple. — 彼には、複雑な考えを分かりやすく伝える才能がある。",
+        "The course is designed to sharpen students’ critical faculties. — この講座は、学生が物事を批判的に考え、判断する力を磨くことを目的としている。"
+      ]
+    }
   }
 ]
