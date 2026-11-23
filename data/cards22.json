@@ -6462,5 +6462,116 @@
         "My turn to diaper the baby, right? — 赤ちゃんにおむつを着けるのは、私の番だよね？"
       ]
     }
+  },
+  {
+    "id": "vengeance",
+    "sid": "2026-01903",
+    "word": "vengeance",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "literary",
+      "idiom",
+      "revenge"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable in the sense of revenge",
+      "forms": {
+        "base": "vengeance",
+        "adjective": "vengeful",
+        "relatedVerb": "avenge"
+      },
+      "patterns": [
+        "seek / swear vengeance",
+        "take vengeance on + person",
+        "vengeance for + wrong",
+        "come back / return with a vengeance"
+      ],
+      "usage": {
+        "article": "Seek vengeance takes no article. With a vengeance is a fixed expression that includes a.",
+        "prepositions": "On introduces the target of revenge. For introduces the wrong that prompted it."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈven.dʒəns/",
+        "uk": "/ˈven.dʒəns/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "punishment inflicted in return for a wrong, or a desire to inflict such punishment",
+        "(with a vengeance) with great force or intensity, sometimes even more strongly than before"
+      ],
+      "ja": [
+        "復讐、報復。また、復讐したいという気持ち",
+        "（with a vengeance）猛烈に、激しく。再発や再来の場合は、勢いを増して"
+      ]
+    },
+    "nuance": {
+      "en": "Vengeance can sound solemn or dramatic, especially in swear vengeance or a thirst for vengeance. With a vengeance is a common intensifier and can describe something with no human motive, such as cold weather returning after a warm spell.",
+      "ja": "vengeance は、swear vengeance（復讐を誓う）や a thirst for vengeance（復讐への強い欲求）のように、重々しく劇的に響くことがある。with a vengeance は勢いの強さを表し、暖かい日が続いたあとに寒さがぶり返すような、人の意図が関わらない場面にも使える。"
+    },
+    "minimal": {
+      "en": [
+        "revenge: The usual choice in everyday speech. Vengeance often sounds more solemn, literary, or dramatic.",
+        "retaliation: A response to a harmful action, often in political, business, or institutional contexts. Vengeance foregrounds the desire to punish a wrong.",
+        "avenge: A verb whose object is typically the person harmed or the wrong suffered: avenge a defeat. The target of vengeance is introduced by on: take vengeance on the enemy."
+      ],
+      "ja": [
+        "revenge：日常会話で一般的な「仕返し、復讐」。vengeance はより重々しく、文学的・劇的に響きやすい。",
+        "retaliation：有害な行為への対抗措置や報復。政治・ビジネスなどでも使う。vengeance は受けた害に対して相手を罰することに重点がある。",
+        "avenge：avenge a defeat（敗北の雪辱を果たす）のように、受けた被害や被害者を目的語に取る動詞。vengeance で報復の相手を示すなら take vengeance on the enemy のように on を使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "revenge",
+        "note": {
+          "en": "The closest everyday equivalent for the noun sense.",
+          "ja": "名詞の「復讐」に当たる日常的な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French vengeance, related to vengier ‘to avenge’, which goes back to Latin vindicare.",
+      "ja": "古フランス語 vengeance から。復讐することを表す古フランス語 vengier と関係があり、ラテン語 vindicare にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "die Rache / mit voller Wucht",
+      "it": "la vendetta / con violenza, con grande intensità",
+      "fr": "la vengeance / avec une grande intensité",
+      "es": "la venganza / con gran intensidad"
+    },
+    "collocations": {
+      "en": [
+        "seek vengeance",
+        "swear vengeance",
+        "take vengeance on someone",
+        "a thirst for vengeance",
+        "come back with a vengeance"
+      ],
+      "ja": [
+        "seek vengeance — 復讐を求める",
+        "swear vengeance — 復讐を誓う",
+        "take vengeance on someone — 人に報復する",
+        "a thirst for vengeance — 復讐への強い欲求",
+        "come back with a vengeance — 猛烈な勢いでぶり返す"
+      ]
+    },
+    "example": {
+      "en": [
+        "In the novel, the brothers seek vengeance for the betrayal that ruined their family.",
+        "After a week of mild weather, the cold came back with a vengeance.",
+        "Demand returned with a vengeance once the new train line opened."
+      ],
+      "ja": [
+        "In the novel, the brothers seek vengeance for the betrayal that ruined their family. — その小説で、兄弟は一家を破滅させた裏切りへの復讐を求める。",
+        "After a week of mild weather, the cold came back with a vengeance. — 穏やかな天気が1週間続いたあと、厳しい寒さがぶり返した。",
+        "Demand returned with a vengeance once the new train line opened. — 新しい鉄道路線が開通すると、需要は一気に盛り返した。"
+      ]
+    }
   }
 ]
