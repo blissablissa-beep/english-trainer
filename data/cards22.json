@@ -8087,5 +8087,116 @@
         "Religious bigotry can fuel discrimination in hiring and housing. — 宗教を理由とする不寛容は、採用や住宅の入居をめぐる差別を助長することがある。"
       ]
     }
+  },
+  {
+    "id": "bigot",
+    "sid": "2026-01916",
+    "word": "bigot",
+    "level": "C2",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "social-issues",
+      "prejudice",
+      "disapproving"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "base": "bigot",
+        "plural": "bigots",
+        "relatedNoun": "bigotry",
+        "relatedAdjective": "bigoted"
+      },
+      "patterns": [
+        "a + adjective + bigot",
+        "call someone a bigot",
+        "label someone a bigot"
+      ],
+      "usage": {
+        "wordFamily": "Use a bigot for a person, bigotry for the attitude or behavior, and bigoted to describe a person, remark, or attitude.",
+        "register": "Calling someone a bigot is a strong personal condemnation. A bigoted remark focuses the criticism on what was said."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈbɪɡət/",
+        "uk": "/ˈbɪɡət/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a person who stubbornly holds unreasonable prejudices or shows hostility toward people whose identity, religion, or views differ from their own"
+      ],
+      "ja": [
+        "人種・宗教・信条などが異なる人々に対して、頑なな偏見や不寛容を示す人"
+      ]
+    },
+    "nuance": {
+      "en": "Bigot strongly condemns a person for entrenched prejudice or intolerance. A modifier can specify the nature of that intolerance, as in a racist bigot. When discussing a specific comment, calling it bigoted focuses on the comment. Calling the speaker a bigot makes a broader judgment about the speaker.",
+      "ja": "人を bigot と呼ぶと、根深い偏見や不寛容を強く非難することになる。a racist bigot のように、形容詞で偏見の性質を示せる。特定の発言について a bigoted remark と言えば発言に焦点が当たり、話し手を a bigot と呼べば人物そのものへの評価になる。"
+    },
+    "minimal": {
+      "en": [
+        "bigotry: an uncountable noun for the attitude or behavior. Bigot is the countable noun for the person.",
+        "racist: specifies prejudice or hostility based on race. Bigot also covers intolerance based on religion, beliefs, or other differences.",
+        "fanatic: emphasizes extreme devotion to a cause or belief. Bigot emphasizes prejudice or intolerance toward others.",
+        "prejudiced: an adjective that describes unfair preconceptions. Calling someone a bigot typically conveys stronger condemnation."
+      ],
+      "ja": [
+        "bigotry：態度や言動を表す不可算名詞。bigot はその態度を示す人を指す可算名詞。",
+        "racist：人種に基づく偏見や敵意を持つ人。bigot は宗教や信条などの違いを理由に不寛容な人にも使える。",
+        "fanatic：主義や信念などへの極端な傾倒が焦点。bigot は他者に対する偏見や不寛容が焦点。",
+        "prejudiced：不公平な先入観を持つという形容詞。人を bigot と呼ぶと、通常はより強い非難になる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "racist",
+        "note": {
+          "en": "Overlaps when the intolerance is specifically about race.",
+          "ja": "人種に基づく不寛容を指す場合に意味が重なる。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Borrowed from French in the late sixteenth century. Early English uses were associated with religious hypocrisy or excessive piety. The earlier origin of the French word is uncertain.",
+      "ja": "16世紀後半にフランス語から借用された。英語での初期の用法は、信仰を装う偽善や過度な信心深さと関係していた。フランス語の語のさらに古い由来は不明。"
+    },
+    "equivalents": {
+      "de": "ein intoleranter Mensch / ein Mensch mit verbohrten Vorurteilen",
+      "it": "una persona intollerante",
+      "fr": "un sectaire / une sectaire",
+      "es": "una persona intolerante"
+    },
+    "collocations": {
+      "en": [
+        "a racist bigot",
+        "a religious bigot",
+        "an outspoken bigot",
+        "call someone a bigot",
+        "label someone a bigot"
+      ],
+      "ja": [
+        "a racist bigot — 人種的偏見に凝り固まった人",
+        "a religious bigot — 宗教を理由に他者を排斥する人",
+        "an outspoken bigot — 偏見を公然と口にする人",
+        "call someone a bigot — 人を偏見に凝り固まっていると非難する",
+        "label someone a bigot — 人に偏見の強い人物というレッテルを貼る"
+      ]
+    },
+    "example": {
+      "en": [
+        "She called him a bigot after he said people of other faiths could never be trusted.",
+        "The columnist called the remark bigoted without calling the speaker a bigot.",
+        "In the novel, the landlord is portrayed as a bigot who refuses to rent to people of other faiths."
+      ],
+      "ja": [
+        "She called him a bigot after he said people of other faiths could never be trusted. — 他の信仰を持つ人は決して信用できないと彼が言ったので、彼女は彼を偏見に凝り固まった人だと非難した。",
+        "The columnist called the remark bigoted without calling the speaker a bigot. — コラムニストは、その発言を偏見に満ちていると批判するにとどめた。",
+        "In the novel, the landlord is portrayed as a bigot who refuses to rent to people of other faiths. — 小説では、その家主は異なる信仰を持つ人には部屋を貸さない、偏見の強い人物として描かれている。"
+      ]
+    }
   }
 ]
