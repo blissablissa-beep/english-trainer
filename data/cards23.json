@@ -2269,5 +2269,142 @@
         "The delivery fee is relative to the size of the order. — 配送料は注文の規模に応じて変わる。"
       ]
     }
+  },
+  {
+    "id": "relation",
+    "sid": "2026-01951",
+    "word": "relation",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "connection",
+      "family",
+      "diplomacy",
+      "mathematics"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable / uncountable, depending on sense; plural for dealings between parties",
+      "forms": {
+        "base": "relation",
+        "plural": "relations",
+        "relatedVerb": "relate",
+        "relatedAdjective": "relational"
+      },
+      "patterns": [
+        "the relation between + A + and + B",
+        "bear + little / no relation to + something",
+        "relations with + country / group",
+        "a relation of + person",
+        "in relation to + noun"
+      ],
+      "usage": {
+        "number": "Use relation or relationship for a connection between things. Use relations with a plural verb when describing dealings between countries, groups, or people: Relations between the two countries have improved.",
+        "family": "A relation of mine means a member of my family. A relative of mine is another common way to say this."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/rɪˈleɪ.ʃən/",
+        "uk": "/rɪˈleɪ.ʃən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a connection, correspondence, or way in which two things are linked",
+        "in the plural, the way that people, groups, or countries deal with each other",
+        "a member of one's family, especially in British English",
+        "in mathematics, a specified association between elements, such as ‘less than’ between numbers"
+      ],
+      "ja": [
+        "物事のつながり、対応関係、関連",
+        "複数形で、人・集団・国家の間の関係や付き合い方",
+        "親族、親戚。特にイギリス英語でよく使う",
+        "数学の関係。例えば、数における「より小さい」という関係"
+      ]
+    },
+    "nuance": {
+      "en": "The relation between A and B often appears in analytical or technical descriptions. Relationship also works there and is the ordinary choice for a personal bond. Plural relations is common in diplomatic or workplace contexts, as in diplomatic relations and labor relations. Bear no relation to means that two things have no relevant connection or resemblance.",
+      "ja": "the relation between A and B は、二つの事柄のつながりを分析的に述べるときによく使う。relationship も同じ場面で使え、人同士の個人的な関係には relationship が一般的。複数形の relations は diplomatic relations（外交関係）や labor relations（労使関係）などに使う。bear no relation to は、関係がない、または似てもいないという意味。"
+    },
+    "minimal": {
+      "en": [
+        "relationship. Often interchangeable for a link between two things. It is also the usual word for a personal or romantic bond.",
+        "connection. An everyday word for a link. Relation is natural when describing how two factors correspond or are linked.",
+        "relative. The ordinary countable noun for a family member. Relation has the same family sense, as in a distant relation.",
+        "correlation. In statistics, describes a specific kind of association. Relation is a broader term and can describe a logical, functional, or other link."
+      ],
+      "ja": [
+        "relationship は二つの物事の関連について relation と入れ替えられることが多い。個人的な付き合いや恋愛関係を指すときにもよく使う。",
+        "connection はつながりを表す一般的な語。relation は、二つの要因がどう対応し、結びつくかを述べるのに向く。",
+        "relative は親族を指す一般的な可算名詞。relation にも同じ用法があり、a distant relation は「遠い親戚」。",
+        "correlation は統計で特定の種類の関連を表す。relation はより広く、論理的・関数的なつながりなども指す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "connection",
+        "note": {
+          "en": "Close when discussing a link between two things.",
+          "ja": "二つの事柄のつながりを指す場合に近い。"
+        }
+      },
+      {
+        "word": "relative",
+        "note": {
+          "en": "Equivalent in the family sense.",
+          "ja": "親族・親戚を指す用法で同義。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Anglo-French relacioun and Latin relatio, from relatus, a form of referre ‘to bring back or report’.",
+      "ja": "アングロフランス語 relacioun とラテン語 relatio に由来する。relatio は referre（持ち帰る、報告する）の形の一つである relatus にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "die Beziehung / der Zusammenhang / der oder die Verwandte",
+      "it": "la relazione / il rapporto / il parente",
+      "fr": "la relation / le rapport / un membre de la famille",
+      "es": "la relación / el vínculo / el pariente"
+    },
+    "collocations": {
+      "en": [
+        "the relation between two variables",
+        "bear little relation to reality",
+        "have no relation to the issue",
+        "diplomatic relations",
+        "maintain good relations with neighbors",
+        "a distant relation",
+        "a relation by marriage",
+        "in relation to the budget"
+      ],
+      "ja": [
+        "the relation between two variables — 二つの変数の関係",
+        "bear little relation to reality — 現実とほとんど関係がない",
+        "have no relation to the issue — その問題とは関係がない",
+        "diplomatic relations — 外交関係",
+        "maintain good relations with neighbors — 近隣と良好な関係を保つ",
+        "a distant relation — 遠い親戚",
+        "a relation by marriage — 婚姻による親族",
+        "in relation to the budget — 予算に関して、または予算と比べて"
+      ]
+    },
+    "example": {
+      "en": [
+        "The report examines the relation between housing costs and commuting distance.",
+        "The estimate bears little relation to what we actually spent.",
+        "Relations between the two countries improved after the talks.",
+        "I stayed with a distant relation when I first moved to London.",
+        "‘Less than’ is a relation between numbers."
+      ],
+      "ja": [
+        "The report examines the relation between housing costs and commuting distance. — その報告書は、住居費と通勤距離の関係を検討している。",
+        "The estimate bears little relation to what we actually spent. — その見積もりは、私たちが実際に使った金額とは大きくかけ離れている。",
+        "Relations between the two countries improved after the talks. — 協議のあと、両国の関係は改善した。",
+        "I stayed with a distant relation when I first moved to London. — ロンドンに引っ越したばかりの頃は、遠い親戚の家に泊めてもらった。",
+        "‘Less than’ is a relation between numbers. — 「より小さい」は数と数の間の関係だ。"
+      ]
+    }
   }
 ]
