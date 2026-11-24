@@ -1120,5 +1120,129 @@
         "With her latest novel, she's surpassed herself. — 最新作で、彼女はこれまでの自分を超えた。"
       ]
     }
+  },
+  {
+    "id": "experimentation",
+    "sid": "2026-01942",
+    "word": "experimentation",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "formal",
+      "research",
+      "creativity"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable",
+      "forms": {
+        "base": "experimentation",
+        "relatedNoun": "experiment",
+        "relatedVerb": "experiment"
+      },
+      "patterns": [
+        "experimentation with + idea / method / material",
+        "experimentation on + subject",
+        "further experimentation",
+        "through experimentation"
+      ],
+      "usage": {
+        "countability": "Use some experimentation or a period of experimentation for the activity. Use an experiment or several experiments for individual tests.",
+        "preposition": "With introduces the method or material being tried. On can introduce the subject being experimented on."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪkˌsper.ə.menˈteɪ.ʃən/",
+        "uk": "/ɪkˌsper.ɪ.menˈteɪ.ʃən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the process of carrying out experiments to test an idea or find out how something works",
+        "the practice of trying new approaches, techniques, or materials to see what results they produce"
+      ],
+      "ja": [
+        "仮説を検証したり仕組みを調べたりするために実験を行うこと、実験活動",
+        "新しい方法・技法・素材などを試して結果を見ること、実験的な試み、試行錯誤"
+      ]
+    },
+    "nuance": {
+      "en": "Experimentation puts the focus on an activity or process. In science, that can mean carrying out controlled tests. In art, cooking, or design, it can mean exploring possibilities. It need not involve a failed attempt or even a fixed goal.",
+      "ja": "実験や試みを行う活動・過程に焦点がある。科学では条件をそろえた検証、芸術や料理、デザインでは新しい可能性を探る試みを指せる。「試行錯誤」と訳せる場面もあるが、失敗を繰り返したり、最初から目標が決まっていたりするとは限らない。"
+    },
+    "minimal": {
+      "en": [
+        "experiment. A countable noun for a particular test or trial. Experimentation describes the activity that one or more such trials form part of.",
+        "trial and error. Emphasizes making successive attempts and learning from mistakes or failures. Experimentation can emphasize testing or open-ended exploration.",
+        "testing. Often focuses on checking how something performs or whether it meets a requirement. Experimentation can also involve discovering new approaches."
+      ],
+      "ja": [
+        "experiment は、個々の実験や試みを数えるときに使う。experimentation は、そうした試みを行う活動全体を指す。",
+        "trial and error は、何度か試し、うまくいかなかった点から学ぶ「試行錯誤」。experimentation は検証や、答えを決めずに可能性を探る活動にも使える。",
+        "testing は性能や要件への適合を確かめることに焦点が当たりやすい。experimentation には、新しい方法そのものを探る用法もある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "testing",
+        "note": {
+          "en": "Close when the focus is on checking a hypothesis or method.",
+          "ja": "仮説や方法を検証する用法で近い。"
+        }
+      },
+      {
+        "word": "exploration",
+        "note": {
+          "en": "Close when trying new techniques to discover what they can do.",
+          "ja": "新しい技法を試し、その可能性を探る場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From the verb experiment and the noun-forming suffix -ation.",
+      "ja": "動詞 experiment（実験する、試す）に、活動や過程を表す名詞を作る接尾辞 -ation が付いた語。"
+    },
+    "equivalents": {
+      "de": "das Experimentieren / das Ausprobieren",
+      "it": "la sperimentazione",
+      "fr": "l’expérimentation",
+      "es": "la experimentación"
+    },
+    "collocations": {
+      "en": [
+        "scientific experimentation",
+        "further experimentation",
+        "experimentation with new materials",
+        "musical experimentation",
+        "encourage experimentation",
+        "allow room for experimentation",
+        "learn through experimentation"
+      ],
+      "ja": [
+        "scientific experimentation — 科学的な実験活動",
+        "further experimentation — さらなる実験",
+        "experimentation with new materials — 新しい素材を使った試み",
+        "musical experimentation — 音楽での実験的な試み",
+        "encourage experimentation — 新しい試みを奨励する",
+        "allow room for experimentation — 自由に試す余地を設ける",
+        "learn through experimentation — 実際に試しながら学ぶ"
+      ]
+    },
+    "example": {
+      "en": [
+        "Further experimentation is needed to determine whether the effect is reproducible.",
+        "The studio encourages experimentation with different materials and textures.",
+        "After a little experimentation, I found a way to keep the pastry crisp.",
+        "The album grew out of years of experimentation with unusual instruments."
+      ],
+      "ja": [
+        "Further experimentation is needed to determine whether the effect is reproducible. — その効果が再現できるかどうかを確かめるには、さらなる実験が必要だ。",
+        "The studio encourages experimentation with different materials and textures. — その工房では、さまざまな素材や質感を試すことを奨励している。",
+        "After a little experimentation, I found a way to keep the pastry crisp. — いろいろ試してみて、パイ生地をサクサクに保つ方法が見つかった。",
+        "The album grew out of years of experimentation with unusual instruments. — そのアルバムは、珍しい楽器を使った長年の試みから生まれた。"
+      ]
+    }
   }
 ]
