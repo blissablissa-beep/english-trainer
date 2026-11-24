@@ -3120,5 +3120,129 @@
         "The museum display explains how layers of broken stone were compacted to make a macadam road. — 博物館の展示では、砕石の層を締め固めてマカダム舗装の道路を造る方法を紹介している。"
       ]
     }
+  },
+  {
+    "id": "obvious",
+    "sid": "2026-01958",
+    "word": "obvious",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "clarity",
+      "judgment"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "obvious",
+        "comparative": "more obvious",
+        "superlative": "most obvious",
+        "adverb": "obviously",
+        "relatedNoun": "obviousness"
+      },
+      "patterns": [
+        "it is obvious (to + person) that + clause",
+        "it is obvious why / how / which + clause",
+        "become / seem obvious",
+        "an obvious + choice / answer / mistake"
+      ],
+      "usage": {
+        "perspective": "Obvious to me names the person who finds it easy to see or understand. Not immediately obvious leaves room for the answer to become clear later.",
+        "tone": "Calling a point obvious may sound dismissive when someone else has struggled to understand it."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈɑːb.vi.əs/",
+        "uk": "/ˈɒb.vi.əs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "easy to notice or recognize",
+        "easy to understand, infer, or see as the natural choice"
+      ],
+      "ja": [
+        "見てすぐ気づく、目につきやすい",
+        "容易に分かる、明らかな、自ずとそうだと分かる"
+      ]
+    },
+    "nuance": {
+      "en": "Obvious suggests that little effort is needed to notice something or see why it is true. That judgment can depend on the observer. An obvious choice is a choice that readily suggests itself. Don't be so obvious can tell someone that their intentions are showing too clearly.",
+      "ja": "見たり考えたりしてすぐに分かる、という感覚を表す。何が明らかかは見る人によって違う場合がある。an obvious choice は、すぐに思い浮かぶ自然な選択肢。Don't be so obvious. は、意図があからさまに見えていると伝える言い方にもなる。"
+    },
+    "minimal": {
+      "en": [
+        "clear. Can describe a good explanation or something easy to understand. Obvious emphasizes how readily a fact or answer can be seen.",
+        "evident. Often suggests that signs or evidence make something clear and sounds somewhat more formal.",
+        "conspicuous. Emphasizes standing out and attracting attention. Obvious can describe a conclusion or explanation that is easy to grasp.",
+        "apparent. Can mean evident, but can also describe what seems to be true from appearances. Obvious normally expresses a firmer judgment."
+      ],
+      "ja": [
+        "clear は説明の分かりやすさや内容の明確さも表す。obvious は、事実や答えがすぐ分かることを強調する。",
+        "evident は手掛かりや証拠から明らかだという響きがあり、やや改まっている。",
+        "conspicuous は周囲から際立ち、人目を引くことが焦点。obvious はすぐ理解できる結論や説明にも使える。",
+        "apparent は明らかという意味のほか、見かけ上そうだという意味にもなる。obvious は通常、より確かな判断を伝える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "plain",
+        "note": {
+          "en": "Close when a fact or conclusion is easy to see.",
+          "ja": "事実や結論がすぐ分かる場合に近い。"
+        }
+      },
+      {
+        "word": "evident",
+        "note": {
+          "en": "Close when signs or evidence make the point clear.",
+          "ja": "手掛かりから明らかに分かる場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin obvius, ‘in the way’ or ‘readily encountered’, ultimately from ob ‘in front of’ and via ‘way’.",
+      "ja": "ラテン語 obvius（行く先にある、すぐ出会う）に由来する。ob（前に）と via（道）にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "offensichtlich / naheliegend",
+      "it": "ovvio / evidente",
+      "fr": "évident / manifeste",
+      "es": "obvio / evidente"
+    },
+    "collocations": {
+      "en": [
+        "an obvious choice",
+        "an obvious mistake",
+        "for obvious reasons",
+        "not immediately obvious",
+        "painfully obvious",
+        "obvious to anyone"
+      ],
+      "ja": [
+        "an obvious choice — 真っ先に思い浮かぶ選択肢",
+        "an obvious mistake — 見ればすぐ分かるミス",
+        "for obvious reasons — 理由は言うまでもなく",
+        "not immediately obvious — すぐには分からない",
+        "painfully obvious — 嫌になるほど明白な、あまりにも露骨な",
+        "obvious to anyone — 誰の目にも明らかな"
+      ]
+    },
+    "example": {
+      "en": [
+        "It wasn't immediately obvious why the two figures differed.",
+        "The station café was the obvious choice for a quick meeting.",
+        "It was obvious to me that she wanted to change the subject.",
+        "There was an obvious mistake in the date on the first page."
+      ],
+      "ja": [
+        "It wasn't immediately obvious why the two figures differed. — なぜ二つの数値が違うのか、すぐには分からなかった。",
+        "The station café was the obvious choice for a quick meeting. — 短い打ち合わせなら、駅のカフェが真っ先に思い浮かぶ場所だった。",
+        "It was obvious to me that she wanted to change the subject. — 彼女が話題を変えたがっているのは、私には明らかだった。",
+        "There was an obvious mistake in the date on the first page. — 最初のページの日付には、見ればすぐ分かる誤りがあった。"
+      ]
+    }
   }
 ]
