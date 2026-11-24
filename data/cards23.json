@@ -2776,5 +2776,115 @@
         "In case you missed yesterday's email, here's the updated schedule. — 昨日のメールを見逃しているかもしれないので、更新した予定を送ります。"
       ]
     }
+  },
+  {
+    "id": "extracurricular",
+    "sid": "2026-01955",
+    "word": "extracurricular",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "education",
+      "school"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "extracurricular",
+        "variant": "extra-curricular",
+        "informalNoun": "extracurriculars"
+      },
+      "patterns": [
+        "extracurricular + activities / clubs / programs",
+        "take part in extracurricular activities",
+        "list your extracurriculars (informal)"
+      ],
+      "usage": {
+        "position": "Usually used before a noun. In school and admissions contexts, extracurriculars is an informal plural noun meaning extracurricular activities.",
+        "spelling": "Extracurricular is commonly written as one word. Extra-curricular is also used."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌek.strə.kəˈrɪk.jə.lɚ/",
+        "uk": "/ˌek.strə.kəˈrɪk.jə.lə(r)/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "outside the regular course of study or curriculum at a school or college",
+        "outside someone's usual duties or relationship, sometimes unofficial or secret (often humorous)"
+      ],
+      "ja": [
+        "学校や大学の正規の教育課程に含まれない、課外の",
+        "通常の職務や関係の外で行われる、非公式の、内緒の（冗談めいた用法）"
+      ]
+    },
+    "nuance": {
+      "en": "Extracurricular activities can include clubs, sports, music, or volunteering. The main question is whether the activity is part of the regular curriculum. A school may organize it, and it need not take place after classes or off campus. In informal or humorous use outside school, the word may suggest an unofficial side activity or, in a relationship context, an affair.",
+      "ja": "extracurricular activities には部活動、スポーツ、音楽、ボランティアなどが含まれうる。着目するのは正規の教育課程に含まれるかどうか。学校主催、校内開催、昼休みの活動でも課外活動になりうる。学校以外では、非公式な活動を冗談めかして指すことがあり、恋愛の文脈では浮気をほのめかす場合もある。"
+    },
+    "minimal": {
+      "en": [
+        "after-school. Tells you when an activity takes place. An extracurricular club can also meet at lunchtime.",
+        "elective. A course chosen by the student that can still count toward graduation. An extracurricular activity is outside the regular curriculum.",
+        "co-curricular. Often describes activities outside regular classes that are designed to complement what students learn. Institutions vary in how they use the two terms."
+      ],
+      "ja": [
+        "after-school は活動が放課後に行われることを示す。extracurricular のクラブは昼休みに活動することもある。",
+        "elective は選択科目で、卒業に必要な単位に数えられることもある。extracurricular activity は正規の教育課程の外にある活動。",
+        "co-curricular は、正規の授業を補う目的で設ける活動を指すことが多い。extracurricular との区別は学校によって異なる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "outside the regular curriculum",
+        "note": {
+          "en": "A plain paraphrase in educational contexts.",
+          "ja": "教育の文脈での平易な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from extra- ‘outside’ and curricular ‘relating to a curriculum’.",
+      "ja": "extra-（外の）と curricular（教育課程に関する）からなる。"
+    },
+    "equivalents": {
+      "de": "außerunterrichtlich / außercurricular",
+      "it": "extracurricolare",
+      "fr": "extrascolaire / parascolaire",
+      "es": "extracurricular / extraescolar"
+    },
+    "collocations": {
+      "en": [
+        "extracurricular activities",
+        "extracurricular clubs",
+        "an extracurricular program",
+        "participate in extracurricular activities",
+        "list your extracurricular activities",
+        "balance schoolwork and extracurricular activities"
+      ],
+      "ja": [
+        "extracurricular activities — 課外活動",
+        "extracurricular clubs — 課外活動のクラブ",
+        "an extracurricular program — 課外プログラム",
+        "participate in extracurricular activities — 課外活動に参加する",
+        "list your extracurricular activities — 自分の課外活動を列挙する",
+        "balance schoolwork and extracurricular activities — 学業と課外活動を両立する"
+      ]
+    },
+    "example": {
+      "en": [
+        "The school offers extracurricular clubs in music, debate, and robotics.",
+        "The chess club meets at lunchtime, so students can take part in an extracurricular activity without staying after school.",
+        "The application asks which extracurricular activities you took part in and what your role was."
+      ],
+      "ja": [
+        "The school offers extracurricular clubs in music, debate, and robotics. — その学校には、音楽、ディベート、ロボット製作の課外クラブがある。",
+        "The chess club meets at lunchtime, so students can take part in an extracurricular activity without staying after school. — チェスクラブは昼休みに集まるので、生徒は放課後に残らず課外活動に参加できる。",
+        "The application asks which extracurricular activities you took part in and what your role was. — 出願書類では、どの課外活動に参加し、どんな役割を担ったかが問われる。"
+      ]
+    }
   }
 ]
