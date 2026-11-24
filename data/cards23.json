@@ -992,5 +992,133 @@
         "Her calm account understated the impact the closure had on local businesses. — 彼女の落ち着いた説明からは、閉鎖が地元企業に与えた影響の大きさが十分には伝わらなかった。"
       ]
     }
+  },
+  {
+    "id": "surpass",
+    "sid": "2026-01941",
+    "word": "surpass",
+    "level": "C2",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "formal",
+      "comparison",
+      "achievement"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "surpass",
+        "thirdPerson": "surpasses",
+        "past": "surpassed",
+        "pastParticiple": "surpassed",
+        "ing": "surpassing"
+      },
+      "patterns": [
+        "surpass + person / record / benchmark",
+        "surpass + someone or something + in + respect",
+        "surpass + a benchmark + by + amount",
+        "surpass oneself"
+      ],
+      "usage": {
+        "comparison": "In introduces the respect in which something is better. By introduces the margin.",
+        "reflexive": "Surpass yourself means to do even better than you have done before or better than your usual high standard."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/sɚˈpæs/",
+        "uk": "/səˈpɑːs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to be or do better than someone or something in quality, performance, or achievement",
+        "to go beyond a benchmark, previous level, or what people expected"
+      ],
+      "ja": [
+        "質・成績・成果などで人や物を上回る、しのぐ",
+        "基準・従来の水準・期待などを超える"
+      ]
+    },
+    "nuance": {
+      "en": "Surpass often highlights a result that has gone beyond an existing standard or achievement. It sounds somewhat formal and is natural with expectations, records, and comparisons between two things. For a required or permitted maximum, such as a speed limit, exceed is the usual choice.",
+      "ja": "すでにある基準や成果を上回った点を際立たせる、やや改まった語。期待や記録を超える場合や、二つのものの質を比べる場合に自然。制限速度のように定められた上限を超える場合は、通常 exceed を使う。"
+    },
+    "minimal": {
+      "en": [
+        "exceed. Common for numerical limits and thresholds; exceed expectations also overlaps with surpass expectations.",
+        "outperform. Emphasizes better performance than a competitor or benchmark. Surpass also fits broader judgments of quality or achievement.",
+        "outdo. Often suggests competition or doing better than one's own past efforts. Surpass has a more formal tone.",
+        "overtake. Often describes moving ahead of someone in a race, ranking, or time series. Surpass can express superiority in quality even without a change of position."
+      ],
+      "ja": [
+        "exceed は数値上の上限やしきい値を超えるときによく使う。exceed expectations は surpass expectations と意味が重なる。",
+        "outperform は競合や指標よりよい成績を出すことが焦点。surpass は、質や成果が上回るという幅広い評価にも使える。",
+        "outdo は競争相手や過去の自分よりうまくやるという響きがあり、surpass のほうが改まっている。",
+        "overtake は競走や順位の推移で「追い抜く」動きに焦点がある。surpass は、順位が入れ替わる場面以外でも、質が上回ることを表せる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "exceed",
+        "note": {
+          "en": "Close when going beyond expectations, a target, or a measurable level.",
+          "ja": "期待や目標、測定できる水準を上回る場合に近い。"
+        }
+      },
+      {
+        "word": "outperform",
+        "note": {
+          "en": "Close when the comparison is about measurable performance.",
+          "ja": "測定できる成績や性能を比べる場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Borrowed from French surpasser, from sur- ‘above’ and passer ‘to pass’.",
+      "ja": "フランス語 surpasser に由来する。sur-（上に）と passer（通り過ぎる）からなる。"
+    },
+    "equivalents": {
+      "de": "übertreffen / überbieten",
+      "it": "superare",
+      "fr": "surpasser / dépasser",
+      "es": "superar / sobrepasar"
+    },
+    "collocations": {
+      "en": [
+        "surpass all expectations",
+        "surpass the previous record",
+        "surpass a sales target",
+        "far surpass",
+        "surpass a rival in reliability",
+        "surpass the target by 10 percent",
+        "surpass oneself"
+      ],
+      "ja": [
+        "surpass all expectations — あらゆる期待を上回る",
+        "surpass the previous record — 従来の記録を上回る",
+        "surpass a sales target — 売上目標を上回る",
+        "far surpass — はるかにしのぐ",
+        "surpass a rival in reliability — 信頼性で競合を上回る",
+        "surpass the target by 10 percent — 目標を10％上回る",
+        "surpass oneself — 自分のこれまでの水準を上回る"
+      ]
+    },
+    "example": {
+      "en": [
+        "Demand for the first production run surpassed our expectations.",
+        "The new model surpasses its predecessor in battery life.",
+        "The team surpassed its fundraising target by 10 percent.",
+        "With her latest novel, she's surpassed herself."
+      ],
+      "ja": [
+        "Demand for the first production run surpassed our expectations. — 初回生産分への需要は、私たちの予想を上回った。",
+        "The new model surpasses its predecessor in battery life. — 新型モデルはバッテリーの持ちで旧型を上回る。",
+        "The team surpassed its fundraising target by 10 percent. — チームは資金調達の目標額を10％上回った。",
+        "With her latest novel, she's surpassed herself. — 最新作で、彼女はこれまでの自分を超えた。"
+      ]
+    }
   }
 ]
