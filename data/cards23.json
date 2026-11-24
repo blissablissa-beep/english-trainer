@@ -2143,5 +2143,131 @@
         "The diagram shows the position of the sensor in relation to the door frame. — 図は、ドア枠を基準にしたセンサーの位置を示している。"
       ]
     }
+  },
+  {
+    "id": "relative-to",
+    "sid": "2026-01950",
+    "word": "relative to",
+    "level": "C2",
+    "freq": "sometimes",
+    "tags": [
+      "preposition",
+      "comparison",
+      "position",
+      "measurement"
+    ],
+    "grammar": {
+      "pos": "complex preposition / prepositional phrase",
+      "forms": {
+        "base": "relative to"
+      },
+      "patterns": [
+        "relative to + noun / pronoun",
+        "high / low relative to + benchmark",
+        "measure + A + relative to + B",
+        "the position of + A + relative to + B",
+        "be relative to + factor"
+      ],
+      "usage": {
+        "reference": "The noun after to provides the reference point. In small relative to the original, the original is what the size is compared with.",
+        "dependence": "When used after be, the phrase can also mean that a value depends on another factor. The phrase alone does not imply a constant ratio."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈrel.ə.t̬ɪv tə/",
+        "uk": "/ˈrel.ə.tɪv tə/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "in comparison with, or measured or judged against, a reference point",
+        "with respect to a reference point for location or movement",
+        "depending on or varying with a factor, especially after be",
+        "concerning or in connection with a subject, in some formal contexts"
+      ],
+      "ja": [
+        "～と比べて、～を基準に評価・測定して",
+        "～を基準とした位置や動きについて、～に対して",
+        "～に応じて決まる・変わる。特に be relative to の形",
+        "～に関して、～に関連して（一部の改まった文脈）"
+      ]
+    },
+    "nuance": {
+      "en": "Relative to often tells you what a number, judgment, or position is measured against. A cost can be high relative to income, and a moving point can be described relative to a fixed edge. In a statement such as Fees are relative to project size, the phrase means that fees vary with size. It can also introduce a topic in formal writing.",
+      "ja": "数値・評価・位置を何に照らして見るかを示すときによく使う。費用を所得と比べたり、動く点の位置を固定された端から測ったりする場面になじむ。Fees are relative to project size. なら「料金は案件の規模に応じて変わる」。改まった文章で話題を示す用法もある。"
+    },
+    "minimal": {
+      "en": [
+        "in relation to. Also sets a reference point for comparison or position and commonly introduces a subject. Relative to is especially useful for compact statements of how something is measured or judged.",
+        "compared with. Directly signals a comparison. Relative to can also establish a spatial reference point or express dependence.",
+        "in proportion to. Often suggests that the quantities change in corresponding proportions. Relative to can simply express comparison or dependence.",
+        "with regard to. Introduces what a statement concerns. For a comparison or spatial reference, relative to is the natural choice."
+      ],
+      "ja": [
+        "in relation to は比較・位置の基準にも、話題を示す「～に関して」にも使う。relative to は、何を基準に測ったり評価したりするかを簡潔に示すのに向く。",
+        "compared with は比較していることを明示する。relative to は位置の基準や、ある値が別の要因に応じて変わることも示せる。",
+        "in proportion to は、量が対応する割合で変わるという含みが強い。relative to は比較や依存関係を示すだけの場合もある。",
+        "with regard to は発言や文章の話題を示す。比較や位置の基準を示す場合は relative to が自然。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "in relation to",
+        "note": {
+          "en": "Close when setting a reference point for a comparison or position.",
+          "ja": "比較や位置の基準を示す場合に近い。"
+        }
+      },
+      {
+        "word": "compared with",
+        "note": {
+          "en": "Close when the point is a direct comparison.",
+          "ja": "直接比較する用法で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Built from the adjective relative, which is related to the noun relation, and the preposition to.",
+      "ja": "名詞 relation（関係）と同じ語族の形容詞 relative に、前置詞 to が続く表現。"
+    },
+    "equivalents": {
+      "de": "im Verhältnis zu / relativ zu",
+      "it": "rispetto a / in relazione a",
+      "fr": "par rapport à / en fonction de",
+      "es": "con respecto a / en relación con"
+    },
+    "collocations": {
+      "en": [
+        "high relative to income",
+        "low relative to last year's figures",
+        "large relative to its weight",
+        "relative to the baseline",
+        "measure position relative to a fixed point",
+        "move relative to the frame"
+      ],
+      "ja": [
+        "high relative to income — 所得に比べて高い",
+        "low relative to last year's figures — 昨年の数値より低い",
+        "large relative to its weight — 重さのわりに大きい",
+        "relative to the baseline — 基準値に対して",
+        "measure position relative to a fixed point — 固定点を基準に位置を測る",
+        "move relative to the frame — 枠を基準に移動する"
+      ]
+    },
+    "example": {
+      "en": [
+        "Rent is high relative to local wages.",
+        "The new model is light relative to its size.",
+        "The drawing shows the position of each screw relative to the edge of the panel.",
+        "The delivery fee is relative to the size of the order."
+      ],
+      "ja": [
+        "Rent is high relative to local wages. — 家賃は地元の賃金水準に比べて高い。",
+        "The new model is light relative to its size. — 新型モデルは大きさのわりに軽い。",
+        "The drawing shows the position of each screw relative to the edge of the panel. — 図面はパネルの端を基準に、各ネジの位置を示している。",
+        "The delivery fee is relative to the size of the order. — 配送料は注文の規模に応じて変わる。"
+      ]
+    }
   }
 ]
