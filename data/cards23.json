@@ -1611,5 +1611,138 @@
         "Even if we know the sum exactly, that does not resolve the identifiability problem for the two parameters separately. — 和が正確に分かっても、二つのパラメータを個別に識別できるわけではない。"
       ]
     }
+  },
+  {
+    "id": "identification",
+    "sid": "2026-01946",
+    "word": "identification",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "identity",
+      "documentation",
+      "psychology"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "usually uncountable; countable for a specific finding, as in a positive identification",
+      "forms": {
+        "base": "identification",
+        "abbreviation": "ID",
+        "relatedVerb": "identify",
+        "relatedAdjective": "identifiable",
+        "relatedNoun": "identifiability"
+      },
+      "patterns": [
+        "identification of + person / species / cause",
+        "identify + someone or something + by + feature",
+        "show / carry + identification",
+        "a form of identification",
+        "identification with + person / group / character"
+      ],
+      "usage": {
+        "prepositions": "Of names what is identified. With names a person, group, or character whose feelings, experiences, or values someone relates to.",
+        "article": "For a document, use some identification, a form of identification, or an ID. Use a positive identification for a specific finding made with confidence."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/aɪˌden.t̬ə.fəˈkeɪ.ʃən/",
+        "uk": "/aɪˌden.tɪ.fɪˈkeɪ.ʃən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the process or result of determining who someone is or what something is",
+        "a document or other proof of a person's identity",
+        "a sense of connection with a person, character, or group, often through shared feelings, experiences, or values"
+      ],
+      "ja": [
+        "人や物が誰・何であるかを突き止めること、識別・特定・同定",
+        "本人であることを示す書類など、身分証明・身分証明書",
+        "人・登場人物・集団に自分を重ねること、同一視・感情移入・一体感"
+      ]
+    },
+    "nuance": {
+      "en": "Identification of a species means determining which species it is. Identification with a character means relating to the character or seeing part of yourself in them. At a counter or entrance, show identification usually means to present a document proving who you are.",
+      "ja": "identification of a species は種が何かを特定すること。identification with a character は登場人物に自分を重ねたり、感情移入したりすることを表す。窓口や入り口で show identification と言われたら、通常は身分証明書を提示すること。"
+    },
+    "minimal": {
+      "en": [
+        "identifiability. Whether the available information makes identification possible. Identification is the process or result of establishing who or what something is.",
+        "identity. Who a person is, or the characteristics that define a person or group. Identification can be the act of establishing that identity or the document used as proof.",
+        "recognition. Often means noticing that someone or something is familiar. Identification can involve establishing an exact name or category, even for something unfamiliar.",
+        "verification. Checks whether a claim, detail, or stated identity is correct. Identification focuses on establishing who or what the subject is."
+      ],
+      "ja": [
+        "identifiability は手元の情報から特定できるかという性質。identification は実際に誰・何であるかを特定することや、その結果を指す。",
+        "identity はその人が誰かということや、人・集団を特徴づけるもの。identification は本人であることを確かめる行為や、その証明書を指せる。",
+        "recognition は、見覚えがある人や物に気づく場合によく使う。identification は見慣れない対象でも、具体的な名前や分類を突き止めることを指せる。",
+        "verification は申告や情報が正しいかを確認すること。identification は対象が誰・何であるかを特定することが焦点。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "ID",
+        "note": {
+          "en": "Common in everyday speech for a document or card proving identity.",
+          "ja": "身分証明書を指す日常的な略語。"
+        }
+      },
+      {
+        "word": "recognition",
+        "note": {
+          "en": "Close in some contexts involving recognizing a person, object, or feature.",
+          "ja": "人や物、特徴を見分ける文脈で意味が重なる場合がある。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Belongs to the same word family as identify and identifiable and ends in the noun-forming suffix -ification.",
+      "ja": "identify（特定する）、identifiable（特定できる）と同じ語族。語尾の -ification は行為や過程などを表す名詞を作る。"
+    },
+    "equivalents": {
+      "de": "die Identifizierung / der Ausweis / die Identifikation mit",
+      "it": "l’identificazione / il documento d’identità / l’identificazione con",
+      "fr": "l’identification / la pièce d’identité / l’identification à",
+      "es": "la identificación / el documento de identidad / la identificación con"
+    },
+    "collocations": {
+      "en": [
+        "the identification of a species",
+        "early identification of a problem",
+        "make a positive identification",
+        "show identification",
+        "photo identification",
+        "a form of identification",
+        "an identification number",
+        "identification with a character"
+      ],
+      "ja": [
+        "the identification of a species — 種の同定",
+        "early identification of a problem — 問題の早期発見",
+        "make a positive identification — 対象を確実に特定する",
+        "show identification — 身分証明書を提示する",
+        "photo identification — 顔写真付きの身分証明書",
+        "a form of identification — 身分を証明できるもの",
+        "an identification number — 識別番号",
+        "identification with a character — 登場人物への感情移入"
+      ]
+    },
+    "example": {
+      "en": [
+        "The identification of the bird species was based on its distinctive call.",
+        "Please bring a form of photo identification when you collect your visitor badge.",
+        "The witness was unable to make a positive identification from the photographs.",
+        "Her identification with the main character grew as she read the novel."
+      ],
+      "ja": [
+        "The identification of the bird species was based on its distinctive call. — その鳥の種は、特徴的な鳴き声を手掛かりに同定された。",
+        "Please bring a form of photo identification when you collect your visitor badge. — 来訪者用の入館証を受け取る際は、顔写真付きの身分証明書をお持ちください。",
+        "The witness was unable to make a positive identification from the photographs. — 目撃者は写真から人物を確実には特定できなかった。",
+        "Her identification with the main character grew as she read the novel. — 小説を読み進めるにつれ、彼女は主人公にますます自分を重ねるようになった。"
+      ]
+    }
   }
 ]
