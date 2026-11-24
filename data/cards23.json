@@ -4748,5 +4748,126 @@
         "People with a predisposition to avoid conflict may agree in meetings and raise their concerns later. — 対立を避けがちな人は、会議では同意して、後から懸念を伝えることがある。"
       ]
     }
+  },
+  {
+    "id": "tendency",
+    "sid": "2026-01971",
+    "word": "tendency",
+    "level": "C1",
+    "freq": "common",
+    "tags": [
+      "noun",
+      "behavior",
+      "trends"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "base": "tendency",
+        "plural": "tendencies",
+        "relatedVerb": "tend"
+      },
+      "patterns": [
+        "have a tendency to + verb",
+        "a tendency toward(s) + noun",
+        "there is a tendency for + noun + to + verb",
+        "a growing tendency to + verb"
+      ],
+      "usage": {
+        "infinitive": "Use a verb after to in a tendency to exaggerate. Use a noun after toward or towards, as in a tendency toward caution.",
+        "subject": "Use for to introduce the subject of the action in there is a tendency for prices to rise. Prices tend to rise expresses the same idea more directly."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈten.dən.si/",
+        "uk": "/ˈten.dən.si/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a likelihood of behaving or reacting in a particular way, often based on what typically happens",
+        "a general pattern or direction in which something tends to happen or develop"
+      ],
+      "ja": [
+        "人や物が特定の行動・反応をしやすいこと、傾向、性向",
+        "物事がある方向に動きがちであること、全体的な傾向"
+      ]
+    },
+    "nuance": {
+      "en": "Tendency can describe a person's behavior, a material's properties, or a broader pattern. It often summarizes what happens repeatedly and leaves the cause open. A growing tendency suggests that the behavior or change is becoming more common.",
+      "ja": "人の行動、素材の性質、社会全体の動きまで幅広く使える。何度も見られるパターンを表すことが多く、原因は文脈に委ねられる。a growing tendency は、その行動や変化が以前よりよく見られることを表す。"
+    },
+    "minimal": {
+      "en": [
+        "predisposition. Emphasizes an underlying inclination or susceptibility already present. Tendency can simply describe a pattern you observe.",
+        "trend. Often describes a broader direction of change over time, especially in data or society. Tendency also fits what regularly happens under particular conditions, such as cloth shrinking in hot water.",
+        "habit. Describes a regular, learned or established behavior. A tendency can be a looser pattern, such as speaking quickly when nervous."
+      ],
+      "ja": [
+        "predisposition は、ある行動や発症につながりやすい性向・素因があらかじめあることに焦点を置く。tendency は、観察されたパターンを述べるだけでも使える。",
+        "trend は、データや社会で時間とともに進む大きな変化を表すことが多い。tendency は、高温で洗うと生地が縮みやすいといった、一定の条件下で繰り返し起きることにも使う。",
+        "habit は、身についた習慣や癖を指す。tendency は、緊張したときに早口になりやすいといった、特定の状況で現れやすい傾向にも使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "inclination",
+        "note": {
+          "en": "A close equivalent for a personal leaning or preference.",
+          "ja": "個人の性向や好みを述べるときの近い言い換え。"
+        }
+      },
+      {
+        "word": "trend",
+        "note": {
+          "en": "A close equivalent when describing a wider direction of change.",
+          "ja": "社会やデータの全体的な変化を述べるときの近い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Medieval Latin tendentia, related to Latin tendere ‘to stretch, direct, or aim’. The verb tend comes from the same source.",
+      "ja": "中世ラテン語 tendentia に由来し、ラテン語 tendere（伸ばす、向ける）と関係がある。動詞 tend も同じラテン語にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "die Neigung / die Tendenz",
+      "it": "la tendenza",
+      "fr": "la tendance",
+      "es": "la tendencia"
+    },
+    "collocations": {
+      "en": [
+        "have a tendency to exaggerate",
+        "show a tendency toward caution",
+        "a natural tendency to avoid conflict",
+        "a growing tendency to work remotely",
+        "a worrying tendency to overlook small errors",
+        "a tendency for prices to rise"
+      ],
+      "ja": [
+        "have a tendency to exaggerate — 大げさに言いがちである",
+        "show a tendency toward caution — 慎重になりがちな傾向を示す",
+        "a natural tendency to avoid conflict — 対立を避けがちな性向",
+        "a growing tendency to work remotely — リモートで働く人が増える傾向",
+        "a worrying tendency to overlook small errors — 小さなミスを見落としがちという、気がかりな傾向",
+        "a tendency for prices to rise — 価格が上がりやすい傾向"
+      ]
+    },
+    "example": {
+      "en": [
+        "I have a tendency to speak too quickly when I’m nervous.",
+        "This fabric has a tendency to shrink in hot water.",
+        "In this market, there is a tendency for prices to rise before the holidays.",
+        "There is a growing tendency among applicants to file their documents electronically."
+      ],
+      "ja": [
+        "I have a tendency to speak too quickly when I’m nervous. — 緊張すると、つい早口になってしまう。",
+        "This fabric has a tendency to shrink in hot water. — この生地は高温のお湯で洗うと縮みやすい。",
+        "In this market, there is a tendency for prices to rise before the holidays. — この市場では、休暇シーズンの前に価格が上がりやすい。",
+        "There is a growing tendency among applicants to file their documents electronically. — 出願人の間では、書類を電子的に提出する傾向が強まっている。"
+      ]
+    }
   }
 ]
