@@ -5512,5 +5512,127 @@
         "We idled away the afternoon in a café by the river. — 川沿いのカフェで、午後をのんびり過ごした。"
       ]
     }
+  },
+  {
+    "id": "idleness",
+    "sid": "2026-01977",
+    "word": "idleness",
+    "level": "C2",
+    "freq": "uncommon",
+    "tags": [
+      "noun",
+      "work",
+      "activity",
+      "behavior"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable",
+      "forms": {
+        "base": "idleness",
+        "relatedAdjective": "idle",
+        "relatedAdverb": "idly"
+      },
+      "patterns": [
+        "a period of idleness",
+        "after + duration + of idleness",
+        "forced / enforced idleness",
+        "out of sheer idleness"
+      ],
+      "usage": {
+        "countability": "Use a period of idleness to count a stretch of time.",
+        "tone": "Enforced idleness emphasizes that circumstances kept someone from working or being active. Out of sheer idleness usually criticizes a lack of effort."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈaɪ.dəl.nəs/",
+        "uk": "/ˈaɪ.dəl.nəs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the state of doing no work, being inactive, or being out of use",
+        "a lack of willingness to work or make an effort (disapproving)"
+      ],
+      "ja": [
+        "仕事や活動をしていない状態、無為、設備などが使われていない状態",
+        "怠惰、怠け（非難を込めた用法）"
+      ]
+    },
+    "nuance": {
+      "en": "Idleness can describe inactivity imposed by circumstances, such as a factory shutdown, or time spent doing very little by choice. It can also imply blame, especially when used to explain why someone failed to do something. The surrounding words help establish the tone.",
+      "ja": "工場の休止などで何もできない状態にも、自分から何もせずに過ごす時間にも使える。やるべきことをしなかった理由として使うと、「怠け」という非難がこもりやすい。日本語では、何が原因で活動していないかに応じて訳し分ける。"
+    },
+    "minimal": {
+      "en": [
+        "laziness. Criticizes an unwillingness to make an effort. Idleness can describe the state of being inactive regardless of the reason.",
+        "inactivity. A broadly neutral term for a lack of activity. Idleness can bring to mind people with nothing to do or equipment sitting unused.",
+        "leisure. Focuses on time available away from work or obligations, including time spent on active hobbies. Idleness focuses on doing little or nothing."
+      ],
+      "ja": [
+        "laziness は、努力をしたがらないことへの批判を含む。idleness は、事情があって活動できない状態にも使える。",
+        "inactivity は活動がないことを中立的に述べる語。idleness は、手持ち無沙汰な人や、使われずに置かれた設備を連想させることがある。",
+        "leisure は仕事や用事から離れた自由時間で、趣味に打ち込む時間も含む。idleness は、何もせずに過ごすことに焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "inactivity",
+        "note": {
+          "en": "A neutral equivalent for a period without activity or use.",
+          "ja": "活動や使用が途絶えた状態を中立的に表す言い換え。"
+        }
+      },
+      {
+        "word": "laziness",
+        "note": {
+          "en": "A close equivalent when the context criticizes a lack of effort.",
+          "ja": "努力不足を非難する文脈での近い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from the adjective idle and the noun-forming suffix -ness.",
+      "ja": "形容詞 idle に、状態や性質を表す名詞を作る接尾辞 -ness が付いた語。"
+    },
+    "equivalents": {
+      "de": "der Müßiggang / die Untätigkeit / die Faulheit",
+      "it": "l’inattività / l’ozio / la pigrizia",
+      "fr": "l’inactivité / l’oisiveté / la paresse",
+      "es": "la inactividad / la ociosidad / la pereza"
+    },
+    "collocations": {
+      "en": [
+        "a period of idleness",
+        "months of idleness",
+        "enforced idleness",
+        "out of sheer idleness",
+        "a little idleness",
+        "return to work after a period of idleness"
+      ],
+      "ja": [
+        "a period of idleness — 仕事や活動をしていない期間",
+        "months of idleness — 何か月もの休止",
+        "enforced idleness — 事情があって働いたり活動したりできない状態",
+        "out of sheer idleness — ただ怠けて",
+        "a little idleness — 少しのんびり何もせずに過ごすこと",
+        "return to work after a period of idleness — しばらく仕事を離れた後で復帰する"
+      ]
+    },
+    "example": {
+      "en": [
+        "After months of idleness, the old printing press was finally back in use.",
+        "The musicians grew restless during the weeks of enforced idleness after the tour was cancelled.",
+        "I put off replying to the email out of sheer idleness.",
+        "A little idleness on a Sunday afternoon can be surprisingly restorative."
+      ],
+      "ja": [
+        "After months of idleness, the old printing press was finally back in use. — 何か月も使われていなかった古い印刷機が、ようやくまた稼働した。",
+        "The musicians grew restless during the weeks of enforced idleness after the tour was cancelled. — ツアーが中止になり、何週間も活動できずにいるうちに、演奏家たちは落ち着かなくなった。",
+        "I put off replying to the email out of sheer idleness. — ただ面倒くさがって、メールの返信を先延ばしにした。",
+        "A little idleness on a Sunday afternoon can be surprisingly restorative. — 日曜の午後を少し何もせずに過ごすと、思いのほか疲れが取れることがある。"
+      ]
+    }
   }
 ]
