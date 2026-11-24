@@ -2406,5 +2406,139 @@
         "‘Less than’ is a relation between numbers. — 「より小さい」は数と数の間の関係だ。"
       ]
     }
+  },
+  {
+    "id": "relationship",
+    "sid": "2026-01952",
+    "word": "relationship",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "people",
+      "work",
+      "romance",
+      "connection"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable / uncountable, depending on use",
+      "forms": {
+        "base": "relationship",
+        "plural": "relationships",
+        "relatedNoun": "relation",
+        "relatedVerb": "relate"
+      },
+      "patterns": [
+        "have / build / maintain a relationship with + person / organization",
+        "the relationship between + A + and + B",
+        "be in a relationship (with + person)",
+        "end a relationship"
+      ],
+      "usage": {
+        "prepositions": "With introduces the other party in have a good relationship with someone. Between names both sides in the relationship between A and B.",
+        "article": "Use a relationship for one particular bond or connection. On its own, be in a relationship usually means to have a romantic partner."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/rɪˈleɪ.ʃən.ʃɪp/",
+        "uk": "/rɪˈleɪ.ʃən.ʃɪp/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the way two people, groups, or organizations interact or feel about each other",
+        "a romantic or intimate connection between people",
+        "a connection between two or more things, factors, or events",
+        "the family connection between people"
+      ],
+      "ja": [
+        "人・集団・組織の間の関係、付き合い方",
+        "恋愛関係、交際",
+        "物事・要因・出来事の間のつながり、関連",
+        "家族・親族としての続柄"
+      ]
+    },
+    "nuance": {
+      "en": "Relationship can describe ties between family members, colleagues, or organizations. Be in a relationship usually has a romantic meaning, while have a good relationship with someone leaves the type of connection to context. In analytical writing, a relationship between two factors can be an association whose cause is still unknown.",
+      "ja": "家族や同僚、組織の間の関係を広く表せる。be in a relationship だけで使うと、ふつう「交際相手がいる」という意味。have a good relationship with someone では、相手との関係の種類は文脈で決まる。分析の文脈では、二つの要因の間に関連があって、その原因がまだ分かっていない場合にも使える。"
+    },
+    "minimal": {
+      "en": [
+        "relation. Often overlaps with relationship when describing a connection between things. Relationship is the ordinary choice for an ongoing personal bond.",
+        "relations. Common for diplomatic or institutional dealings, as in diplomatic relations. A working relationship describes how particular parties work together.",
+        "connection. Broadly names any link. Relationship can describe the way the parties interact or how two variables change together.",
+        "correlation. In statistics, refers to a specific kind of association. Relationship covers a wider range of links, including causal or nonlinear ones."
+      ],
+      "ja": [
+        "relation は、物事の関連について relationship と意味が重なることが多い。継続する個人的な付き合いには relationship が一般的。",
+        "relations は、diplomatic relations のような外交・組織間の関係によく使う。a working relationship は特定の相手との仕事上の関係を指す。",
+        "connection はつながり全般を指す。relationship は、双方の関わり方や、二つの変数がどのように変化するかも表せる。",
+        "correlation は統計で特定の種類の関連を指す。relationship の範囲は広く、因果関係や非線形の関係にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "bond",
+        "note": {
+          "en": "Close for an emotional connection between people.",
+          "ja": "人同士の情緒的なつながりを指す場合に近い。"
+        }
+      },
+      {
+        "word": "connection",
+        "note": {
+          "en": "Close for a link between things or factors.",
+          "ja": "物事や要因の関連を指す場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from relation and -ship, a suffix used for a state, quality, or connection, as in friendship.",
+      "ja": "relation（関係）に、状態や関係を表す接尾辞 -ship が付いた語。friendship にも同じ接尾辞が使われている。"
+    },
+    "equivalents": {
+      "de": "die Beziehung / das Verhältnis / der Zusammenhang",
+      "it": "la relazione / il rapporto / il legame",
+      "fr": "la relation / le lien / le rapport",
+      "es": "la relación / el vínculo"
+    },
+    "collocations": {
+      "en": [
+        "a close relationship with a sibling",
+        "a good working relationship",
+        "build a relationship with a client",
+        "be in a long-term relationship",
+        "end a relationship",
+        "the relationship between price and demand",
+        "a causal relationship",
+        "a family relationship"
+      ],
+      "ja": [
+        "a close relationship with a sibling — きょうだいとの親密な関係",
+        "a good working relationship — 良好な仕事上の関係",
+        "build a relationship with a client — 依頼人との関係を築く",
+        "be in a long-term relationship — 長く交際している",
+        "end a relationship — 交際を終える",
+        "the relationship between price and demand — 価格と需要の関係",
+        "a causal relationship — 因果関係",
+        "a family relationship — 家族・親族としての関係"
+      ]
+    },
+    "example": {
+      "en": [
+        "We built a good working relationship with the local attorneys over the course of the project.",
+        "She's been in a relationship with Alex for three years.",
+        "The study found a relationship between commuting time and job satisfaction, but it didn’t establish that one caused the other.",
+        "The form asks you to state your relationship to the applicant."
+      ],
+      "ja": [
+        "We built a good working relationship with the local attorneys over the course of the project. — その案件を進めるなかで、現地代理人と良好な仕事上の関係を築いた。",
+        "She's been in a relationship with Alex for three years. — 彼女はアレックスと3年間交際している。",
+        "The study found a relationship between commuting time and job satisfaction, but it didn’t establish that one caused the other. — その研究では通勤時間と仕事の満足度に関連が見られたが、一方が他方の原因だと確認されたわけではなかった。",
+        "The form asks you to state your relationship to the applicant. — その書類には、申請者との続柄を記入する欄がある。"
+      ]
+    }
   }
 ]
