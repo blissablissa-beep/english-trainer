@@ -5000,5 +5000,128 @@
         "A nurse tended to his wound while we waited for the doctor. — 医師を待つ間、看護師が彼の傷を手当てした。"
       ]
     }
+  },
+  {
+    "id": "predispose",
+    "sid": "2026-01973",
+    "word": "predispose",
+    "level": "C2",
+    "freq": "uncommon",
+    "tags": [
+      "verb",
+      "formal",
+      "behavior",
+      "health"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "predispose",
+        "thirdPersonSingular": "predisposes",
+        "past": "predisposed",
+        "pastParticiple": "predisposed",
+        "presentParticiple": "predisposing",
+        "relatedNoun": "predisposition"
+      },
+      "patterns": [
+        "predispose + someone + to + noun / -ing",
+        "predispose + someone + to + base verb",
+        "be predisposed to + noun / -ing",
+        "be predisposed to + base verb"
+      ],
+      "usage": {
+        "subject": "In the active form, the subject names a factor, such as prior experience. The object names the person affected. In the passive form, the person becomes the subject.",
+        "complement": "To can be a preposition (predisposed to injury or to developing a condition) or an infinitive marker (predisposed to trust familiar sources)."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌpriː.dɪˈspoʊz/",
+        "uk": "/ˌpriː.dɪˈspəʊz/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to make someone more inclined to think, feel, or behave in a particular way",
+        "to make someone more susceptible to a disease, injury, or other condition"
+      ],
+      "ja": [
+        "人をある考え方・感じ方・行動に傾きやすくする",
+        "人を病気やけがなどにかかりやすくする、発症や負傷の可能性を高める"
+      ]
+    },
+    "nuance": {
+      "en": "A formal verb that highlights a factor already in place that makes an outcome more likely. A predisposition can come from prior experience, circumstances, or biological factors. Predisposed describes an inclination or susceptibility and leaves the outcome open.",
+      "ja": "ある行動や結果が起きやすくなる背景の要因に焦点を置く、改まった動詞。過去の経験、環境、生物学的要因などを主語にできる。be predisposed は性向や素因があることを述べ、実際にその結果が生じるかどうかは文脈に委ねる。"
+    },
+    "minimal": {
+      "en": [
+        "tend to. Describes what someone often does or what commonly happens. Predispose highlights a factor that makes the outcome more likely.",
+        "cause. Attributes an outcome to a factor. Predispose describes an increase in likelihood or susceptibility.",
+        "be prone to. Describes someone or something as liable to experience a problem. Predispose can name the factor responsible for that susceptibility."
+      ],
+      "ja": [
+        "tend to は、よく取る行動や起こりがちなことを述べる。predispose は、その行動や結果が起きやすくなる背景の要因に焦点を置く。",
+        "cause は、ある要因が結果を引き起こすことを表す。predispose は、その結果が生じやすくなることを表す。",
+        "be prone to は、問題が生じやすいことを述べる。predispose を能動態で使うと、何がその起こりやすさにつながるかを主語で示せる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "incline someone to",
+        "note": {
+          "en": "A close alternative for a factor that makes someone lean toward a view or action.",
+          "ja": "人をある見方や行動に傾かせる意味での近い言い換え。"
+        }
+      },
+      {
+        "word": "make someone more susceptible to",
+        "note": {
+          "en": "A plain-language alternative when referring to illness or injury.",
+          "ja": "病気やけがへのかかりやすさを表す場合の平易な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed with pre- ‘before’ and dispose ‘incline’. Its history may involve French prédisposer or a back-formation from predisposition.",
+      "ja": "pre-（前もって）と dispose（気持ちを傾ける）から成る。フランス語 prédisposer の影響や、名詞 predisposition から動詞が作られた可能性がある。"
+    },
+    "equivalents": {
+      "de": "zu etwas geneigt machen / für etwas anfälliger machen",
+      "it": "predisporre a",
+      "fr": "prédisposer à",
+      "es": "predisponer a"
+    },
+    "collocations": {
+      "en": [
+        "predispose someone to injury",
+        "predispose someone to trust familiar sources",
+        "be predisposed to infection",
+        "be genetically predisposed to a condition",
+        "be predisposed to developing a condition",
+        "a predisposing factor"
+      ],
+      "ja": [
+        "predispose someone to injury — 人がけがをしやすくなる要因となる",
+        "predispose someone to trust familiar sources — 人がなじみのある情報源を信頼しやすくなる要因となる",
+        "be predisposed to infection — 感染しやすい素因がある",
+        "be genetically predisposed to a condition — ある病気や症状が生じやすい遺伝的素因がある",
+        "be predisposed to developing a condition — ある病気や症状が生じやすい",
+        "a predisposing factor — 発症などを起こしやすくする要因"
+      ]
+    },
+    "example": {
+      "en": [
+        "Years of reviewing patent applications predisposed her to look for gaps in the evidence.",
+        "A previous ankle injury can predispose an athlete to further injury.",
+        "The researchers asked whether some participants were genetically predisposed to developing asthma."
+      ],
+      "ja": [
+        "Years of reviewing patent applications predisposed her to look for gaps in the evidence. — 長年にわたって特許出願を審査した経験から、彼女は証拠の穴を探す傾向が身についた。",
+        "A previous ankle injury can predispose an athlete to further injury. — 足首をけがしたことがあると、選手は再びけがをしやすくなることがある。",
+        "The researchers asked whether some participants were genetically predisposed to developing asthma. — 研究者らは、一部の参加者に喘息を発症しやすい遺伝的素因があったかどうかを調べた。"
+      ]
+    }
   }
 ]
