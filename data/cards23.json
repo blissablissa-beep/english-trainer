@@ -3365,5 +3365,153 @@
         "The room is obviously not big enough for thirty people. — その部屋は、どう見ても30人が入るには狭すぎる。"
       ]
     }
+  },
+  {
+    "id": "function",
+    "sid": "2026-01960",
+    "word": "function",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "verb",
+      "technology",
+      "mathematics",
+      "events"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "usually countable for a role, feature, event, or function in mathematics or code; also uncountable in expressions such as brain function",
+      "transitivity": "intransitive",
+      "forms": {
+        "base": "function",
+        "plural": "functions",
+        "thirdPerson": "functions",
+        "past": "functioned",
+        "pastParticiple": "functioned",
+        "ing": "functioning",
+        "relatedAdjective": "functional"
+      },
+      "patterns": [
+        "the function of + something + is to + verb",
+        "perform / serve a function",
+        "function properly / normally",
+        "function as + role",
+        "a function of + factor",
+        "call a function"
+      ],
+      "usage": {
+        "verb": "Function is intransitive. The device functions properly means it works as intended. The device functions as a timer describes the role it serves.",
+        "dependence": "A is a function of B means that A depends on B. In a graph, plot A as a function of B means use B as the input or independent variable."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈfʌŋk.ʃən/",
+        "uk": "/ˈfʌŋk.ʃən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the role or purpose of a person, thing, or system, or a task a device can perform",
+        "an organized social event or official occasion",
+        "a rule in mathematics assigning one output to each allowed input",
+        "a callable piece of code that performs a task and may return a value",
+        "to work or operate, or to serve in a particular role"
+      ],
+      "ja": [
+        "人・物・仕組みの役割や目的、機器が備える機能",
+        "社交行事、式典などの公式な催し",
+        "数学で、定義域の各入力に一つの出力を対応させる規則、関数",
+        "プログラミングで、呼び出して処理を実行し、場合によっては値を返すコードのまとまり、関数",
+        "機能する、作動する、～として役割を果たす"
+      ]
+    },
+    "nuance": {
+      "en": "Function can describe the job a part does, as in the function of a filter, or a particular operation a product offers, as in a search function. As a verb, function is slightly more formal than work. A social function often suggests an organized gathering, such as a reception. In ordinary writing, a function of can express dependence without specifying a formula.",
+      "ja": "the function of a filter はフィルターが果たす役割を指し、a search function は製品などに備わる検索機能を指す。動詞では work よりやや改まった響きがある。a social function はレセプションなど、企画された社交の催しを指すことが多い。一般の文章でも a function of は、数式を示さず「～によって決まる」と述べるのに使える。"
+    },
+    "minimal": {
+      "en": [
+        "role. Often used for a person's responsibilities or the part someone or something plays in a system. Function often emphasizes the task performed.",
+        "feature. A capability or characteristic of a product. A function is an operation it can perform; a feature can also be a design detail.",
+        "work. The everyday verb for operating or working as intended. Function often appears in technical or more formal descriptions.",
+        "event. A broad term for an occurrence or organized occasion. A function is typically a planned social or official gathering."
+      ],
+      "ja": [
+        "role は人の役割や、仕組みの中で何を担うかを表しやすい。function は具体的にどんな働きをするかに焦点を当てることが多い。",
+        "feature は製品の機能や特徴。function は実行できる処理を指し、feature は外観上の特徴などにも使える。",
+        "work は「作動する、うまく動く」の日常的な動詞。function は技術的な説明や改まった文脈によく出る。",
+        "event は出来事や催しを広く指す。function は通常、計画された社交行事や公式の催し。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "purpose",
+        "note": {
+          "en": "Close for the intended use or role of something.",
+          "ja": "物の用途や目的を指す場合に近い。"
+        }
+      },
+      {
+        "word": "operate",
+        "note": {
+          "en": "Close when a device or system works.",
+          "ja": "機器やシステムが作動する意味で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From French fonction and Latin functio ‘performance’, from fungi ‘to perform or discharge a duty’.",
+      "ja": "フランス語 fonction やラテン語 functio（遂行）に由来し、ラテン語 fungi（務めを果たす）にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "die Funktion / die Veranstaltung / funktionieren",
+      "it": "la funzione / il ricevimento / funzionare",
+      "fr": "la fonction / la réception / fonctionner",
+      "es": "la función / el acto / funcionar"
+    },
+    "collocations": {
+      "en": [
+        "the main function of a component",
+        "serve a useful function",
+        "a search function",
+        "function properly",
+        "function as a backup",
+        "attend a social function",
+        "a function of temperature",
+        "plot A as a function of B",
+        "call a function"
+      ],
+      "ja": [
+        "the main function of a component — 部品の主な役割",
+        "serve a useful function — 有用な役割を果たす",
+        "a search function — 検索機能",
+        "function properly — 正常に機能する",
+        "function as a backup — 予備として機能する",
+        "attend a social function — 社交行事に出席する",
+        "a function of temperature — 温度に応じて決まる量",
+        "plot A as a function of B — Bを横軸にAをグラフにする",
+        "call a function — 関数を呼び出す"
+      ]
+    },
+    "example": {
+      "en": [
+        "The main function of the valve is to control the flow of water.",
+        "The app functions normally even when the phone is offline.",
+        "The spare room functions as an office during the week.",
+        "We met several of the local attorneys at a function after the conference.",
+        "The graph shows battery life as a function of screen brightness.",
+        "This function takes a list of prices and returns the total."
+      ],
+      "ja": [
+        "The main function of the valve is to control the flow of water. — そのバルブの主な役割は、水の流れを調整することだ。",
+        "The app functions normally even when the phone is offline. — スマホがオフラインでも、そのアプリは正常に動く。",
+        "The spare room functions as an office during the week. — 空き部屋は平日は仕事部屋として使っている。",
+        "We met several of the local attorneys at a function after the conference. — 会議後の懇親会で、現地の弁護士数人と知り合った。",
+        "The graph shows battery life as a function of screen brightness. — グラフは、画面の明るさに応じてバッテリーの持ちがどう変わるかを示している。",
+        "This function takes a list of prices and returns the total. — この関数は価格のリストを受け取り、合計額を返す。"
+      ]
+    }
   }
 ]
