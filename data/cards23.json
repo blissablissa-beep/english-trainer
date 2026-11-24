@@ -3878,5 +3878,139 @@
         "Indulge me for a moment. What would happen if we tried it the other way around? — 少しだけ付き合ってください。逆のやり方を試したら、どうなるでしょうか。"
       ]
     }
+  },
+  {
+    "id": "succumb",
+    "sid": "2026-01964",
+    "word": "succumb",
+    "level": "C2",
+    "freq": "uncommon",
+    "tags": [
+      "verb",
+      "formal",
+      "pressure",
+      "health"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "intransitive",
+      "forms": {
+        "base": "succumb",
+        "thirdPersonSingular": "succumbs",
+        "past": "succumbed",
+        "pastParticiple": "succumbed",
+        "presentParticiple": "succumbing"
+      },
+      "patterns": [
+        "succumb to + temptation / pressure / fatigue",
+        "succumb to + an illness / one’s injuries",
+        "finally / eventually succumb",
+        "succumb to the temptation to + verb"
+      ],
+      "usage": {
+        "preposition": "Use to to introduce the force or cause. Succumb can also stand alone when the cause is clear from context."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/səˈkʌm/",
+        "uk": "/səˈkʌm/"
+      },
+      "note": {
+        "en": "The final b is silent.",
+        "ja": "語末の b は発音しない。"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to give way because a force, pressure, or temptation is too strong to resist",
+        "to die as a result of an illness or injury"
+      ],
+      "ja": [
+        "圧力・誘惑などに屈する、疲労などに負ける",
+        "病気やけがが原因で亡くなる"
+      ]
+    },
+    "nuance": {
+      "en": "A formal verb that presents the subject as being overcome. Succumb to temptation can sound playfully dramatic when the temptation is something as small as buying a pastry. With an illness or injury, succumb often appears in reports and implies that the person died.",
+      "ja": "何かに抗いきれず押し切られることを表す、やや改まった動詞。お菓子を買う程度の話で succumb to temptation を使うと、大げさな響きが冗談めくこともある。病気・けがが続くと、報道などで「それが原因で亡くなった」という意味になる。"
+    },
+    "minimal": {
+      "en": [
+        "give in to. An everyday expression for yielding to pressure or temptation. Succumb to sounds more formal and can suggest being overwhelmed.",
+        "indulge in. Focuses on allowing yourself a pleasure. Succumb to temptation focuses on the moment when resistance gives way.",
+        "die from. States the cause of death directly. Succumb to an illness or injury is more formal and can evoke a period of struggle."
+      ],
+      "ja": [
+        "give in to は、圧力や誘惑に屈するときの日常的な表現。succumb to はより改まっており、抗いきれなかった感じが出やすい。",
+        "indulge in は楽しみを自分に許すことに、succumb to temptation は我慢しきれず誘惑に負けることに焦点がある。",
+        "die from は死因を直接伝える。succumb to はより改まった言い方で、病気やけがとの闘いを連想させることがある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "give in to",
+        "note": {
+          "en": "Common in everyday talk about pressure or temptation.",
+          "ja": "圧力や誘惑に屈する場面で使う日常的な言い換え。"
+        }
+      },
+      {
+        "word": "yield to",
+        "note": {
+          "en": "A more formal alternative when someone gives way under pressure.",
+          "ja": "圧力に屈する場合の改まった言い換え。"
+        }
+      },
+      {
+        "word": "die from",
+        "note": {
+          "en": "A direct alternative in the sense of dying from an illness or injury.",
+          "ja": "病気やけがによる死を直接伝える言い方。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French succomber or Latin succumbere ‘to yield, lie under’, formed from sub- ‘under’ and a verb related to cubare ‘to lie down’.",
+      "ja": "古フランス語 succomber またはラテン語 succumbere（屈する、下に横たわる）に由来。sub-（下に）と、cubare（横たわる）に関連する動詞から成る。"
+    },
+    "equivalents": {
+      "de": "dem Druck nachgeben / einer Versuchung erliegen / seinen Verletzungen erliegen",
+      "it": "cedere alla pressione / soccombere alle ferite riportate",
+      "fr": "céder à la pression / succomber à ses blessures",
+      "es": "ceder a la presión / sucumbir a sus heridas"
+    },
+    "collocations": {
+      "en": [
+        "succumb to temptation",
+        "succumb to pressure",
+        "succumb to fatigue",
+        "succumb to panic",
+        "succumb to the temptation to buy something",
+        "succumb to an illness",
+        "succumb to one’s injuries"
+      ],
+      "ja": [
+        "succumb to temptation — 誘惑に負ける",
+        "succumb to pressure — 圧力に屈する",
+        "succumb to fatigue — 疲労に負ける",
+        "succumb to panic — パニックに陥る",
+        "succumb to the temptation to buy something — 何かを買いたいという誘惑に負ける",
+        "succumb to an illness — 病気で亡くなる",
+        "succumb to one’s injuries — 負傷がもとで亡くなる"
+      ]
+    },
+    "example": {
+      "en": [
+        "I finally succumbed to temptation and bought the vintage watch.",
+        "The committee refused to succumb to pressure to rush the vote.",
+        "Despite several emergency operations, he succumbed to his injuries two days later."
+      ],
+      "ja": [
+        "I finally succumbed to temptation and bought the vintage watch. — 結局、誘惑に負けてそのヴィンテージ腕時計を買った。",
+        "The committee refused to succumb to pressure to rush the vote. — 委員会は、採決を急ぐよう求める圧力に屈しなかった。",
+        "Despite several emergency operations, he succumbed to his injuries two days later. — 数回の緊急手術を受けたが、彼はそのけががもとで２日後に亡くなった。"
+      ]
+    }
   }
 ]
