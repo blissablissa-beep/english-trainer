@@ -5634,5 +5634,126 @@
         "A little idleness on a Sunday afternoon can be surprisingly restorative. — 日曜の午後を少し何もせずに過ごすと、思いのほか疲れが取れることがある。"
       ]
     }
+  },
+  {
+    "id": "astonishment",
+    "sid": "2026-01978",
+    "word": "astonishment",
+    "level": "C1",
+    "freq": "uncommon",
+    "tags": [
+      "noun",
+      "emotion",
+      "reaction"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable in the usual emotion sense",
+      "forms": {
+        "base": "astonishment",
+        "relatedVerb": "astonish",
+        "relatedAdjectives": [
+          "astonished",
+          "astonishing"
+        ]
+      },
+      "patterns": [
+        "to + possessive + (utter / great) + astonishment, + clause",
+        "stare / watch + in astonishment",
+        "express astonishment at + noun / -ing",
+        "a look / gasp of astonishment"
+      ],
+      "usage": {
+        "prepositions": "To my astonishment introduces the unexpected thing that happened. In astonishment describes how someone reacted. At introduces the source of the feeling, as in astonishment at the result."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/əˈstɑː.nɪʃ.mənt/",
+        "uk": "/əˈstɒ.nɪʃ.mənt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a feeling of very great surprise at something unexpected or hard to believe"
+      ],
+      "ja": [
+        "予想外のことに強く驚く気持ち、驚愕、びっくりすること"
+      ]
+    },
+    "nuance": {
+      "en": "Astonishment conveys stronger surprise than surprise alone and often works well in narrative. The reaction can be delighted, troubled, or simply incredulous. To my astonishment frames what follows as contrary to the speaker’s expectations.",
+      "ja": "普通の surprise より強い驚きを表し、出来事とその反応を描く文によく合う。うれしい驚き、困惑を伴う驚き、にわかには信じられない気持ちのいずれにも使える。To my astonishment, ～ と置くと、後に続く出来事が自分の予想を外れたことを示せる。"
+    },
+    "minimal": {
+      "en": [
+        "surprise. The general word for a reaction to the unexpected. It also refers to the unexpected event itself in a phrase such as a pleasant surprise.",
+        "amazement. A close equivalent, often with a sense of wonder. Astonishment often highlights how unexpected or hard to believe something is.",
+        "shock. Often suggests distress or a severe emotional jolt. Astonishment also fits happy or amusing surprises."
+      ],
+      "ja": [
+        "surprise は予想外のことへの反応を広く表す。a pleasant surprise のように、予想外の出来事そのものも指せる。astonishment は強い驚きという感情に焦点がある。",
+        "amazement は近い意味で、感嘆を伴うことも多い。astonishment は、出来事があまりに意外で信じがたいという面を強調しやすい。",
+        "shock は動揺や強い精神的衝撃を表すことが多い。astonishment は、うれしいことやおかしなことに強く驚いた場合にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "amazement",
+        "note": {
+          "en": "A close alternative for a feeling of very great surprise.",
+          "ja": "とても強く驚く気持ちを表す近い言い換え。"
+        }
+      },
+      {
+        "word": "great surprise",
+        "note": {
+          "en": "A straightforward alternative that keeps the intensity.",
+          "ja": "驚きの強さを保った平易な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from astonish and the suffix -ment. Astonish is historically related to Old French estoner ‘to stun or daze’.",
+      "ja": "astonish（びっくりさせる）に名詞を作る接尾辞 -ment が付いた形。astonish は古フランス語 estoner（ぼう然とさせる）にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "das Erstaunen",
+      "it": "lo stupore",
+      "fr": "l’étonnement",
+      "es": "el asombro"
+    },
+    "collocations": {
+      "en": [
+        "to my astonishment",
+        "to everyone’s utter astonishment",
+        "stare in astonishment",
+        "gasp in astonishment",
+        "express astonishment at the result",
+        "hide one’s astonishment",
+        "a look of astonishment"
+      ],
+      "ja": [
+        "to my astonishment — 驚いたことに",
+        "to everyone’s utter astonishment — 誰もが仰天したことに",
+        "stare in astonishment — びっくりして見つめる",
+        "gasp in astonishment — 驚いて息をのむ",
+        "express astonishment at the result — 結果に驚きを示す",
+        "hide one’s astonishment — 驚きを隠す",
+        "a look of astonishment — 驚いた表情"
+      ]
+    },
+    "example": {
+      "en": [
+        "To my astonishment, the watch was still ticking after decades in a drawer.",
+        "We watched in astonishment as the pianist started playing the piece again, this time with one hand.",
+        "She couldn't hide her astonishment at how quickly the negotiations had ended."
+      ],
+      "ja": [
+        "To my astonishment, the watch was still ticking after decades in a drawer. — 驚いたことに、その腕時計は何十年も引き出しに入っていたのに、まだ時を刻んでいた。",
+        "We watched in astonishment as the pianist started playing the piece again, this time with one hand. — ピアニストがその曲を今度は片手で弾き始めたので、私たちは驚いて見入った。",
+        "She couldn't hide her astonishment at how quickly the negotiations had ended. — 交渉があまりに早く終わったので、彼女は驚きを隠せなかった。"
+      ]
+    }
   }
 ]
