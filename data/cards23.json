@@ -1885,5 +1885,140 @@
         "I identified with the main character because I'd faced a similar choice myself. — 自分も似たような選択を迫られたことがあったので、主人公に感情移入した。"
       ]
     }
+  },
+  {
+    "id": "identity",
+    "sid": "2026-01948",
+    "word": "identity",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "identity",
+      "society",
+      "mathematics"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable / uncountable, depending on sense",
+      "forms": {
+        "base": "identity",
+        "plural": "identities",
+        "relatedVerb": "identify",
+        "relatedNoun": "identification",
+        "relatedAdjective": "identifiable"
+      },
+      "patterns": [
+        "the identity of + person / source",
+        "verify / reveal / conceal + someone's identity",
+        "a sense of identity",
+        "personal / cultural / national identity",
+        "an identity in + mathematics / algebra"
+      ],
+      "usage": {
+        "document": "Identity means who someone is. For a document proving it, use ID, identification, or an identity document.",
+        "number": "Use identities for distinct personas, different forms of group or personal identity, or more than one mathematical identity."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/aɪˈden.t̬ə.t̬i/",
+        "uk": "/aɪˈden.tə.ti/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "who a person is, especially as established by their name or other identifying information",
+        "a person's or group's sense of who they are, or the qualities that make a person, group, or organization distinctive",
+        "the state of being the same (formal or philosophical)",
+        "in mathematics, an equality that holds for all allowed values of its variables"
+      ],
+      "ja": [
+        "ある人が誰であるか、身元・素性",
+        "自分や集団が何者かという認識、または人・集団・組織を特徴づける性質、アイデンティティー",
+        "同じものであること、同一性（改まった用法・哲学）",
+        "数学で、変数に許されるすべての値について成り立つ等式、恒等式"
+      ]
+    },
+    "nuance": {
+      "en": "The identity of the caller asks who called. A sense of identity is how a person or group understands who they are. A brand's visual identity is the recognizable system of design choices, such as its colors and typography. In philosophy, identity can concern whether two references pick out one and the same thing.",
+      "ja": "the identity of the caller は電話の相手が誰かを指す。a sense of identity は、人や集団が自分たちをどう捉えるかを表す。ブランドの visual identity は、配色や書体など、そのブランドだと分かる視覚表現全体を指す。哲学では、二つの呼び方が同じ一つの対象を指しているか、という同一性の議論にも使う。"
+    },
+    "minimal": {
+      "en": [
+        "identification. The act of determining who or what something is, or a document used as proof. Identity is what is being established or proved.",
+        "identifiability. Whether someone or something can be identified from the available information. Identity concerns who or what they are.",
+        "personality. A person's characteristic traits and ways of behaving. Identity also includes how they define themselves and where they feel they belong.",
+        "similarity. The quality of being alike in certain respects. In the strict sense of sameness, identity means being one and the same."
+      ],
+      "ja": [
+        "identification は誰・何であるかを特定する行為や、身元を証明する書類。identity は、そこで特定・証明する身元や同一性を指す。",
+        "identifiability は、手元の情報から特定できるかどうか。identity は、対象が誰・何であるかに関わる。",
+        "personality は性格や振る舞いの傾向。identity は自分をどう位置づけ、どこに帰属すると感じるかも含む。",
+        "similarity は、ある点で似ていること。厳密な意味での identity は、同じ一つのものであること。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "sense of self",
+        "note": {
+          "en": "Close in the personal, psychological sense.",
+          "ja": "個人の自己認識を指す心理的な用法で近い。"
+        }
+      },
+      {
+        "word": "sameness",
+        "note": {
+          "en": "Close in the strict sense of being the same.",
+          "ja": "同一性という厳密な用法で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From French identité and Medieval Latin identitas ‘sameness’, ultimately from Latin idem ‘the same’.",
+      "ja": "フランス語 identité と中世ラテン語 identitas（同一性）に由来し、ラテン語 idem（同じもの）にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "die Identität / die Identitätsgleichung (Mathematik)",
+      "it": "l’identità",
+      "fr": "l’identité",
+      "es": "la identidad"
+    },
+    "collocations": {
+      "en": [
+        "verify someone's identity",
+        "reveal the identity of a source",
+        "a case of mistaken identity",
+        "identity theft",
+        "a sense of identity",
+        "cultural identity",
+        "a brand's visual identity",
+        "a mathematical identity"
+      ],
+      "ja": [
+        "verify someone's identity — 本人であることを確認する",
+        "reveal the identity of a source — 情報源が誰かを明かす",
+        "a case of mistaken identity — 人違いのケース",
+        "identity theft — 個人情報を使ったなりすまし",
+        "a sense of identity — 自分が何者かという感覚",
+        "cultural identity — 文化的アイデンティティー",
+        "a brand's visual identity — ブランドの視覚的なアイデンティティー",
+        "a mathematical identity — 数学の恒等式"
+      ]
+    },
+    "example": {
+      "en": [
+        "The journalist refused to reveal the identity of her source.",
+        "The festival is an important part of the town's cultural identity.",
+        "The company kept its familiar colors when it updated its visual identity.",
+        "The equation 2(x + 1) = 2x + 2 is an identity because it holds for every real number x."
+      ],
+      "ja": [
+        "The journalist refused to reveal the identity of her source. — その記者は、情報提供者が誰かを明かすことを拒んだ。",
+        "The festival is an important part of the town's cultural identity. — その祭りは、町の文化を特徴づける大切な要素だ。",
+        "The company kept its familiar colors when it updated its visual identity. — その会社は視覚的なブランド表現を刷新する際、なじみのある配色を残した。",
+        "The equation 2(x + 1) = 2x + 2 is an identity because it holds for every real number x. — 等式 2(x + 1) = 2x + 2 は、実数 x のどの値についても成り立つので恒等式だ。"
+      ]
+    }
   }
 ]
