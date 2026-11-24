@@ -6239,5 +6239,124 @@
         "The children waited with tremulous excitement for the curtain to rise. — 子どもたちは胸を高鳴らせ、今か今かと幕が上がるのを待った。"
       ]
     }
+  },
+  {
+    "id": "erroneous",
+    "sid": "2026-01983",
+    "word": "erroneous",
+    "level": "C2",
+    "freq": "uncommon",
+    "tags": [
+      "adjective",
+      "formal",
+      "accuracy",
+      "reasoning"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "erroneous",
+        "adverb": "erroneously",
+        "relatedNoun": "error",
+        "relatedVerb": "err"
+      },
+      "patterns": [
+        "an erroneous + assumption / conclusion / impression",
+        "be based on erroneous + information / data",
+        "be under the erroneous impression that + clause",
+        "erroneously conclude that + clause"
+      ],
+      "usage": {
+        "register": "A formal adjective often used in reports, reviews, and decisions to identify something as factually or logically incorrect."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪˈroʊ.ni.əs/",
+        "uk": "/ɪˈrəʊ.ni.əs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "incorrect or based on an error, as said of a belief, conclusion, calculation, or piece of information"
+      ],
+      "ja": [
+        "誤った、誤りを含む、誤った情報や前提に基づく"
+      ]
+    },
+    "nuance": {
+      "en": "Erroneous marks a statement, assumption, or result as wrong and is more formal than wrong or incorrect. It points to the error itself and leaves open how the error happened. It is often useful when correcting the substance of a report or argument without assigning blame.",
+      "ja": "判断・前提・結果などに誤りがあることを示す、wrong や incorrect より改まった語。誤りそのものに焦点があり、なぜ誤ったのかは文脈に委ねられる。報告書や議論の内容を、誰の責任かに踏み込まずに訂正する場面にも使える。"
+    },
+    "minimal": {
+      "en": [
+        "incorrect. The general word for something that is wrong, such as a password or answer. Erroneous is more formal and especially natural with assumptions and conclusions.",
+        "misleading. Focuses on the false impression something creates. Even accurate numbers can be presented in a misleading way. Erroneous describes something that contains or rests on an error.",
+        "unfounded. Focuses on a lack of evidence or justification. Erroneous conveys a judgment that the content is actually wrong."
+      ],
+      "ja": [
+        "incorrect はパスワードや解答などの誤りにも広く使える。erroneous はより改まった語で、前提や結論について使いやすい。",
+        "misleading は誤解を招くことに焦点がある。数字が正確でも、見せ方によって誤解を招くことがある。erroneous はその内容に誤りがあるか、誤りに基づいていることを表す。",
+        "unfounded は裏付けや根拠の不足を表す。erroneous は内容自体が誤っているという判断を示す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "incorrect",
+        "note": {
+          "en": "A neutral equivalent in most contexts.",
+          "ja": "多くの文脈で使える中立的な言い換え。"
+        }
+      },
+      {
+        "word": "mistaken",
+        "note": {
+          "en": "A close alternative for beliefs, impressions, and assumptions.",
+          "ja": "思い込みや認識、前提が誤っている場合の近い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin erroneus, related to errare ‘to stray, make a mistake’, with the English adjective ending -ous.",
+      "ja": "ラテン語 erroneus に由来し、errare（道を外れる、誤る）と関係がある。語末は形容詞の接尾辞 -ous。"
+    },
+    "equivalents": {
+      "de": "fehlerhaft / irrig",
+      "it": "erroneo",
+      "fr": "erroné",
+      "es": "erróneo"
+    },
+    "collocations": {
+      "en": [
+        "an erroneous assumption",
+        "an erroneous conclusion",
+        "an erroneous calculation",
+        "erroneous information",
+        "be under the erroneous impression that …",
+        "be based on erroneous data",
+        "erroneously conclude that …"
+      ],
+      "ja": [
+        "an erroneous assumption — 誤った前提",
+        "an erroneous conclusion — 誤った結論",
+        "an erroneous calculation — 誤った計算",
+        "erroneous information — 誤った情報",
+        "be under the erroneous impression that … — ～だと誤解している",
+        "be based on erroneous data — 誤ったデータに基づいている",
+        "erroneously conclude that … — ～だと誤って結論づける"
+      ]
+    },
+    "example": {
+      "en": [
+        "The report’s estimate was based on the erroneous assumption that demand would stay constant.",
+        "I was under the erroneous impression that the filing deadline was Friday.",
+        "The figures were accurate, but the way they were presented led readers to an erroneous conclusion."
+      ],
+      "ja": [
+        "The report’s estimate was based on the erroneous assumption that demand would stay constant. — 報告書の推計は、需要が一定のままだという誤った前提に基づいていた。",
+        "I was under the erroneous impression that the filing deadline was Friday. — 提出期限は金曜日だと誤解していた。",
+        "The figures were accurate, but the way they were presented led readers to an erroneous conclusion. — 数字は正確だったが、その示し方のせいで読者は誤った結論に至った。"
+      ]
+    }
   }
 ]
