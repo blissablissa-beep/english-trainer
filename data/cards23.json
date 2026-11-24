@@ -5374,5 +5374,143 @@
         "Her parents were ambitious for her, but she wanted to choose her own career. — 両親は彼女の成功を強く願っていたが、彼女は自分で進路を決めたかった。"
       ]
     }
+  },
+  {
+    "id": "idle",
+    "sid": "2026-01976",
+    "word": "idle",
+    "level": "C1",
+    "freq": "common",
+    "tags": [
+      "adjective",
+      "verb",
+      "work",
+      "machines"
+    ],
+    "grammar": {
+      "pos": "adjective / verb",
+      "transitivity": "intransitive for an engine; transitive when making something inactive",
+      "forms": {
+        "base": "idle",
+        "thirdPersonSingular": "idles",
+        "past": "idled",
+        "pastParticiple": "idled",
+        "presentParticiple": "idling",
+        "comparative": "idler",
+        "superlative": "idlest",
+        "adverb": "idly",
+        "noun": "idleness"
+      },
+      "patterns": [
+        "sit / stand / lie idle",
+        "remain idle",
+        "leave + something + idle / idling",
+        "idle + a plant / production line",
+        "idle away + time",
+        "an idle + threat / remark"
+      ],
+      "usage": {
+        "equipment": "An idle machine is currently unused or doing no work. An idling engine is still running at low speed.",
+        "away": "Use idle the afternoon away or idle away the afternoon. With a pronoun, use idle it away."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈaɪ.dəl/",
+        "uk": "/ˈaɪ.dəl/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "not working, in use, or engaged in activity (adjective)",
+        "not seriously meant, aimless, or lacking a factual basis, depending on the noun (adjective)",
+        "to run at low speed without driving a vehicle or doing useful work, of an engine (intransitive verb)",
+        "to make a facility or equipment inactive, or to pass time without much activity in idle away (transitive verb)"
+      ],
+      "ja": [
+        "稼働していない、使われていない、手が空いている（形容詞）",
+        "本気でない、これといった目的がない、根拠がない（形容詞）",
+        "エンジンがアイドリングする、空転する（自動詞）",
+        "設備を休止させる。また idle away で、時間を何となく過ごす（他動詞）"
+      ]
+    },
+    "nuance": {
+      "en": "Idle can describe a temporary state. Idle staff may simply have no work to do, though calling someone idle can also criticize them as lazy. Idle curiosity suggests curiosity with no practical purpose. An idle threat is one the speaker is unlikely to carry out, and idle speculation lacks a solid basis.",
+      "ja": "idle は一時的に仕事や用途がない状態にも使える。idle staff は仕事が回ってこず手が空いている人を指すこともあるが、人については「怠けている」という批判にもなる。idle curiosity は「ただの好奇心」、idle threat は「実行する気のない脅し」、idle speculation は「根拠の乏しい憶測」。"
+    },
+    "minimal": {
+      "en": [
+        "idle / lazy. Idle can describe a person's current inactivity. Lazy judges the person's willingness to make an effort.",
+        "idle / dormant. Idle often describes something temporarily unused, such as a spare machine. Dormant suggests inactivity over a period, with the possibility of activity later.",
+        "idle / idling. An idle production line is doing no production work. An idling engine is running at low speed without driving the vehicle."
+      ],
+      "ja": [
+        "idle は、そのとき何もしていない状態にも使える。lazy は努力する気がないという評価を含む。",
+        "idle は、予備の機械などが一時的に使われていない状態によく使う。dormant は、活動がしばらく休止していて、後に再開する可能性を連想させる。",
+        "an idle production line は稼働していない生産ライン。an idling engine は、車を走らせずに低い回転数で回っているエンジン。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "inactive",
+        "note": {
+          "en": "A close alternative for something temporarily doing no work.",
+          "ja": "一時的に活動・稼働していない場合の近い言い換え。"
+        }
+      },
+      {
+        "word": "empty",
+        "note": {
+          "en": "A close alternative in an empty threat or an empty promise.",
+          "ja": "an empty threat（実行する気のない脅し）や an empty promise（口先だけの約束）で使える。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old English īdel ‘empty, useless’, of West Germanic origin. German eitel is related.",
+      "ja": "西ゲルマン系の古英語 īdel（空の、役に立たない）に由来する。ドイツ語 eitel は同系語。"
+    },
+    "equivalents": {
+      "de": "unbeschäftigt / stillstehen / im Leerlauf laufen",
+      "it": "inattivo / girare al minimo",
+      "fr": "inactif / tourner au ralenti",
+      "es": "inactivo / funcionar al ralentí"
+    },
+    "collocations": {
+      "en": [
+        "sit idle",
+        "leave equipment idle",
+        "idle a production line",
+        "leave the engine idling",
+        "an idle threat",
+        "out of idle curiosity",
+        "idle speculation",
+        "idle away the afternoon"
+      ],
+      "ja": [
+        "sit idle — 使われずにある、何もせずにいる",
+        "leave equipment idle — 機器を使わないままにしておく",
+        "idle a production line — 生産ラインを休止させる",
+        "leave the engine idling — エンジンをアイドリングさせたままにする",
+        "an idle threat — 実行する気のない脅し",
+        "out of idle curiosity — ただの好奇心から",
+        "idle speculation — 根拠の乏しい憶測",
+        "idle away the afternoon — 午後をぶらぶらして過ごす"
+      ]
+    },
+    "example": {
+      "en": [
+        "The printing press sat idle for a week while we waited for a replacement part.",
+        "The driver left the engine idling while she waited outside the hotel.",
+        "I asked out of idle curiosity how much the old watch had cost.",
+        "We idled away the afternoon in a café by the river."
+      ],
+      "ja": [
+        "The printing press sat idle for a week while we waited for a replacement part. — 交換部品を待つ間、印刷機は1週間稼働しなかった。",
+        "The driver left the engine idling while she waited outside the hotel. — 運転手はホテルの外で待つ間、エンジンをアイドリングさせたままにしていた。",
+        "I asked out of idle curiosity how much the old watch had cost. — ほんの好奇心から、その古い腕時計はいくらだったのかと尋ねた。",
+        "We idled away the afternoon in a café by the river. — 川沿いのカフェで、午後をのんびり過ごした。"
+      ]
+    }
   }
 ]
