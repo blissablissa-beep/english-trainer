@@ -3244,5 +3244,126 @@
         "There was an obvious mistake in the date on the first page. — 最初のページの日付には、見ればすぐ分かる誤りがあった。"
       ]
     }
+  },
+  {
+    "id": "obviously",
+    "sid": "2026-01959",
+    "word": "obviously",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "adverb",
+      "conversation",
+      "certainty"
+    ],
+    "grammar": {
+      "pos": "adverb",
+      "forms": {
+        "base": "obviously",
+        "relatedAdjective": "obvious",
+        "relatedNoun": "obviousness"
+      },
+      "patterns": [
+        "Obviously, + clause",
+        "subject + be + obviously + adjective",
+        "subject + obviously + main verb",
+        "subject + auxiliary + obviously + verb",
+        "obviously not + adjective / verb phrase"
+      ],
+      "usage": {
+        "position": "At the start, Obviously, often frames the whole sentence. In the middle, it commonly follows be or an auxiliary and precedes an ordinary main verb.",
+        "tone": "A clipped Obviously! or Obviously not! can sound dismissive if the other person did not know the answer."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈɑːb.vi.əs.li/",
+        "uk": "/ˈɒb.vi.əs.li/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "in a way that makes a fact or situation easy to recognize or understand",
+        "used to present a point as already known, readily accepted, or apparent to the listener"
+      ],
+      "ja": [
+        "見てすぐ分かるほど明らかに、どう見ても",
+        "言うまでもなく、当然ながら。相手も知っている、または同意すると思われることを述べるときに使う"
+      ]
+    },
+    "nuance": {
+      "en": "In She was obviously upset, the speaker treats her feelings as easy to infer from what they saw or heard. At the start of a sentence, obviously can mark something the speaker treats as common ground. When that assumption is unwelcome, it can sound impatient or condescending. Tone and context matter.",
+      "ja": "She was obviously upset. では、見聞きした様子から彼女が動揺しているとすぐ分かった、という話し手の判断を示す。文頭では、話し手が相手も分かっていると考えることを前置きできる。相手にとって明らかでないことを当然のように言うと、いら立ちや上から目線に聞こえることがある。"
+    },
+    "minimal": {
+      "en": [
+        "obvious. An adjective, as in an obvious error or It is obvious that something went wrong. Obviously is the adverb.",
+        "clearly. Often overlaps with obviously in judgments. In speak clearly, it means in a way that is easy to hear or understand.",
+        "apparently. Can mark an inference from appearances or information someone has heard. Obviously usually conveys greater confidence that the point is clear.",
+        "of course. Often introduces an expected fact and can also gladly grant a request. Obviously stresses that something should be easy to see or infer."
+      ],
+      "ja": [
+        "obvious は形容詞で、an obvious error や It is obvious that ～ の形で使う。obviously は副詞。",
+        "clearly は判断を示すときに obviously と重なる。speak clearly では「聞き取りやすく、はっきり話す」という意味。",
+        "apparently は見た様子や伝聞をもとに「どうやら」と述べることがある。obviously は通常、その判断が明白だという強い確信を伝える。",
+        "of course は予想どおりのことを述べたり、頼みごとに快く応じたりできる。obviously は見れば分かる、考えればすぐ分かるという含みが強い。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "clearly",
+        "note": {
+          "en": "Close when a fact or conclusion is easy to see.",
+          "ja": "事実や結論が容易に分かると述べる場合に近い。"
+        }
+      },
+      {
+        "word": "evidently",
+        "note": {
+          "en": "Close when observable signs make a conclusion clear.",
+          "ja": "観察できる手掛かりから結論が明らかな場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from obvious and the adverb-forming suffix -ly.",
+      "ja": "形容詞 obvious（明らかな）に、副詞を作る接尾辞 -ly が付いた語。"
+    },
+    "equivalents": {
+      "de": "offensichtlich / natürlich",
+      "it": "ovviamente / evidentemente",
+      "fr": "de toute évidence / évidemment",
+      "es": "obviamente / evidentemente"
+    },
+    "collocations": {
+      "en": [
+        "obviously upset",
+        "obviously wrong",
+        "obviously important",
+        "obviously not ready",
+        "quite obviously"
+      ],
+      "ja": [
+        "obviously upset — 明らかに動揺している",
+        "obviously wrong — 明らかに間違っている",
+        "obviously important — 言うまでもなく重要な",
+        "obviously not ready — どう見ても準備ができていない",
+        "quite obviously — どう見ても明らかに"
+      ]
+    },
+    "example": {
+      "en": [
+        "She was obviously upset, so I gave her a moment before asking what had happened.",
+        "Obviously, we need the client's approval before we send the final draft.",
+        "The date on the cover is obviously wrong. The report includes figures from the following year.",
+        "The room is obviously not big enough for thirty people."
+      ],
+      "ja": [
+        "She was obviously upset, so I gave her a moment before asking what had happened. — 彼女は明らかに動揺していたので、少し間を置いてから何があったのか尋ねた。",
+        "Obviously, we need the client's approval before we send the final draft. — 当然ですが、最終案を送る前に依頼人の承認が必要です。",
+        "The date on the cover is obviously wrong. The report includes figures from the following year. — 表紙の日付は明らかに間違っている。その報告書には翌年の数値が載っている。",
+        "The room is obviously not big enough for thirty people. — その部屋は、どう見ても30人が入るには狭すぎる。"
+      ]
+    }
   }
 ]
