@@ -6126,5 +6126,118 @@
         "The court dismissed the claim as frivolous because it had no arguable legal basis. — 裁判所は、合理的に争いうる法的根拠がないとして、その請求を退けた。"
       ]
     }
+  },
+  {
+    "id": "tremulous",
+    "sid": "2026-01982",
+    "word": "tremulous",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "adjective",
+      "literary",
+      "emotion"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "tremulous",
+        "adverb": "tremulously"
+      },
+      "patterns": [
+        "a tremulous + voice / hand / smile",
+        "in a tremulous voice",
+        "with tremulous excitement"
+      ],
+      "usage": {
+        "register": "Chiefly literary or descriptive. The adjective can describe a slight shake or name the emotion associated with it."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈtrem.jə.ləs/",
+        "uk": "/ˈtrem.jə.ləs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "shaking slightly, especially from nervousness or strong emotion",
+        "accompanied by or producing a slight tremble, as in tremulous excitement"
+      ],
+      "ja": [
+        "小刻みに震える、緊張や強い感情でかすかに震える",
+        "身が震えるほどの、震えを伴う（興奮など）"
+      ]
+    },
+    "nuance": {
+      "en": "Tremulous is chiefly literary. It often lets the reader sense nervousness or excitement through a small physical detail, such as a quiver in the voice. The cause of the tremble depends on context.",
+      "ja": "主に文章で使う描写語。声のかすかな揺れなど、小さな身体の変化を通して、緊張や期待が伝わる。何が震えを引き起こしたかは文脈による。"
+    },
+    "minimal": {
+      "en": [
+        "shaky. An everyday word that can also describe unsteady objects or unreliable evidence. Tremulous often evokes a slight physical tremble.",
+        "trembling. A broad description of shaking, including from cold or exertion. Tremulous has a more literary tone and often suggests emotion.",
+        "timid. Describes a lack of confidence or boldness. Tremulous often describes a visible or audible sign of emotion."
+      ],
+      "ja": [
+        "shaky は日常的な語で、ぐらつく物や頼りない証拠にも使える。tremulous は小刻みな震えを連想させやすい。",
+        "trembling は寒さや運動などによる震えにも広く使える。tremulous はより文語的で、感情をにじませることが多い。",
+        "timid は自信がなくおずおずしている性格や態度を表す。tremulous は声や手などに現れる感情の兆しを描くことが多い。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "quavering",
+        "note": {
+          "en": "Especially natural for a voice that is unsteady or wavering.",
+          "ja": "震えて音が揺れる声を描くときに使える。"
+        }
+      },
+      {
+        "word": "trembling",
+        "note": {
+          "en": "A broadly applicable equivalent for slight shaking.",
+          "ja": "震えている様子を広く表せる言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin tremulus ‘trembling’, from tremere ‘to tremble’, with the adjective suffix -ous.",
+      "ja": "ラテン語 tremulus（震える）と形容詞の接尾辞 -ous から成る。tremulus は tremere（震える）に由来する。"
+    },
+    "equivalents": {
+      "de": "zitternd / bebend",
+      "it": "tremulo",
+      "fr": "tremblant / chevrotant",
+      "es": "trémulo"
+    },
+    "collocations": {
+      "en": [
+        "a tremulous voice",
+        "a tremulous hand",
+        "a tremulous smile",
+        "a tremulous whisper",
+        "with tremulous excitement"
+      ],
+      "ja": [
+        "a tremulous voice — かすかに震える声",
+        "a tremulous hand — 小刻みに震える手",
+        "a tremulous smile — 唇がかすかに震えるような微笑み",
+        "a tremulous whisper — 震えるささやき声",
+        "with tremulous excitement — 身が震えるほどの興奮を覚えて"
+      ]
+    },
+    "example": {
+      "en": [
+        "In a tremulous voice, she thanked everyone who had come to hear her play.",
+        "He unfolded the letter with tremulous hands, afraid of what it might say.",
+        "The children waited with tremulous excitement for the curtain to rise."
+      ],
+      "ja": [
+        "In a tremulous voice, she thanked everyone who had come to hear her play. — 彼女は震える声で、演奏を聴きに来てくれた人たちに礼を述べた。",
+        "He unfolded the letter with tremulous hands, afraid of what it might say. — 何が書いてあるか怖くて、彼は震える手で手紙を開いた。",
+        "The children waited with tremulous excitement for the curtain to rise. — 子どもたちは胸を高鳴らせ、今か今かと幕が上がるのを待った。"
+      ]
+    }
   }
 ]
