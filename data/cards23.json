@@ -2540,5 +2540,115 @@
         "The form asks you to state your relationship to the applicant. — その書類には、申請者との続柄を記入する欄がある。"
       ]
     }
+  },
+  {
+    "id": "case-by-case",
+    "sid": "2026-01953",
+    "word": "case-by-case",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "adverbial phrase",
+      "decision-making",
+      "business"
+    ],
+    "grammar": {
+      "pos": "adjective / adverbial phrase",
+      "forms": {
+        "base": "case-by-case",
+        "adverbial": "case by case"
+      },
+      "patterns": [
+        "a case-by-case + review / assessment / approach",
+        "on a case-by-case basis",
+        "decide / assess / handle + object + case by case"
+      ],
+      "usage": {
+        "hyphenation": "Hyphenate the adjective before a noun, as in a case-by-case review. The adverbial phrase can be written without hyphens, as in We assess requests case by case.",
+        "article": "The fixed expression includes a: on a case-by-case basis."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌkeɪs.baɪˈkeɪs/",
+        "uk": "/ˌkeɪs.baɪˈkeɪs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "decided or handled separately according to the circumstances of each case",
+        "individually, with the facts of each case taken into account (case by case)"
+      ],
+      "ja": [
+        "案件ごとの事情に応じて個別に判断・対応する、案件ごとの",
+        "一件ずつ、その事情を考慮して個別に（case by case）"
+      ]
+    },
+    "nuance": {
+      "en": "A case-by-case approach gives the decision maker room to take individual circumstances into account. A common set of criteria can still apply to every case. The expression is often used for exceptions, requests, and reviews.",
+      "ja": "一律に結論を出す場面より、個々の事情を見て判断するときに使う。全案件に共通の基準を使いながら、事実に照らして一件ずつ結論を出す場合にも自然。例外を認めるか、申請を承認するかといった場面によく合う。"
+    },
+    "minimal": {
+      "en": [
+        "individually. Means separately. Case by case emphasizes taking the circumstances of each case into account.",
+        "one by one. Focuses on sequence or handling items singly. Case by case puts the focus on how each decision is made.",
+        "at one's discretion. Says who has the authority to decide. On a case-by-case basis says how the decisions are made."
+      ],
+      "ja": [
+        "individually は個別に、別々にという意味。case by case は一件ごとの事情を考慮する点を強調する。",
+        "one by one は順番に一つずつ扱うことが焦点。case by case は案件ごとの判断のしかたに焦点がある。",
+        "at one's discretion は誰の裁量で決めるかを示す。on a case-by-case basis はどのように判断するかを示す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "individually",
+        "note": {
+          "en": "A broad equivalent for handling matters separately.",
+          "ja": "案件を別々に扱う場合の広い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Built from case ‘an individual instance’ in the repeated pattern X by X, as in day by day.",
+      "ja": "case（個々の案件）を day by day と同じ X by X の形で繰り返した表現。"
+    },
+    "equivalents": {
+      "de": "von Fall zu Fall / im Einzelfall",
+      "it": "caso per caso",
+      "fr": "au cas par cas",
+      "es": "caso por caso"
+    },
+    "collocations": {
+      "en": [
+        "on a case-by-case basis",
+        "a case-by-case assessment",
+        "a case-by-case approach",
+        "a case-by-case review",
+        "consider exceptions case by case",
+        "handle requests case by case"
+      ],
+      "ja": [
+        "on a case-by-case basis — 個々の事情に応じて",
+        "a case-by-case assessment — 案件ごとの評価",
+        "a case-by-case approach — 個別事情に応じた対応",
+        "a case-by-case review — 一件ごとの審査",
+        "consider exceptions case by case — 例外を認めるか一件ずつ検討する",
+        "handle requests case by case — 依頼を個別に処理する"
+      ]
+    },
+    "example": {
+      "en": [
+        "We consider requests for deadline extensions on a case-by-case basis.",
+        "The team applies the same criteria to every request but makes its decisions case by case.",
+        "A case-by-case review of the damaged items will determine which ones can be repaired."
+      ],
+      "ja": [
+        "We consider requests for deadline extensions on a case-by-case basis. — 期限延長の依頼は、個々の事情に応じて検討します。",
+        "The team applies the same criteria to every request but makes its decisions case by case. — チームはどの依頼にも同じ基準を適用するが、結論は一件ずつ事情を見て出す。",
+        "A case-by-case review of the damaged items will determine which ones can be repaired. — 破損した品物を一つずつ確認し、修理できるものを判断する。"
+      ]
+    }
   }
 ]
