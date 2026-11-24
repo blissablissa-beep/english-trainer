@@ -1498,5 +1498,118 @@
         "The election was followed by an orderly handover of power to the new government. — 選挙後、新政府への権限移譲は混乱なく行われた。"
       ]
     }
+  },
+  {
+    "id": "identifiability",
+    "sid": "2026-01945",
+    "word": "identifiability",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "noun",
+      "technical",
+      "statistics",
+      "privacy"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable",
+      "forms": {
+        "base": "identifiability",
+        "relatedAdjective": "identifiable",
+        "relatedVerb": "identify",
+        "antonym": "non-identifiability"
+      },
+      "patterns": [
+        "the identifiability of + person / parameter / model",
+        "assess / establish + identifiability",
+        "an identifiability problem",
+        "be identifiable from + information / observations"
+      ],
+      "usage": {
+        "counting": "Use identifiability for the property and an identifiability problem for one instance of difficulty. Identifiable is the adjective: the parameters are identifiable from the distribution of the observations."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/aɪˌden.t̬ə.faɪ.əˈbɪl.ə.t̬i/",
+        "uk": "/aɪˌden.tɪˌfaɪ.əˈbɪl.ə.ti/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the extent to which a person or thing can be identified from available information",
+        "in statistics, the property that a parameter or quantity is uniquely determined by the probability distribution of the observable data under the model"
+      ],
+      "ja": [
+        "手掛かりとなる情報から人や物を識別・特定できること、その程度",
+        "統計学で、モデルのもとで観測データの確率分布からパラメータや対象の量が一意に定まる性質。識別可能性、同定可能性"
+      ]
+    },
+    "nuance": {
+      "en": "In privacy discussions, identifiability is about whether available clues can reveal who a record concerns. In statistics, it asks whether the observable distribution fixes the parameter in principle. If a model depends on two parameters only through their sum, the two values cannot be identified separately from that distribution, even if the sum can be identified.",
+      "ja": "プライバシーの文脈では、利用できる手掛かりから記録が誰のものかを特定できるかが焦点。統計では、観測値の分布がパラメータを原理的に一意に決めるかが焦点。たとえば、分布が二つのパラメータの和だけで決まるモデルでは、和を識別できても、個々の値を分けて識別することはできない。"
+    },
+    "minimal": {
+      "en": [
+        "identification. The act or result of identifying someone or something. Identifiability is the property that makes identification possible.",
+        "estimability. Concerns whether a quantity can be estimated under a model and, in some contexts, under a specified statistical criterion. Identifiability specifically asks whether the observable distribution uniquely determines the quantity.",
+        "distinctiveness. The quality of standing out or being distinguishable, also used of trademarks. Identifiability focuses on whether available information lets you establish what or who something is."
+      ],
+      "ja": [
+        "identification は人や物を特定する行為やその結果。identifiability は特定できるという性質。",
+        "estimability は、モデルのもとで、場合によっては所定の統計的な基準を満たす形で推定できるかを表す。identifiability は、観測値の分布が対象の量を一意に決めるかに焦点がある。",
+        "distinctiveness は、際立っていることや他と区別できる性質を指し、商標の識別力にも使われる。identifiability は、手元の情報から対象が何か、あるいは誰かを特定できるかに焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "ability to identify",
+        "note": {
+          "en": "A plain paraphrase in general contexts.",
+          "ja": "一般的な文脈での平易な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from identifiable and the noun-forming suffix -ity, giving the ending -ability.",
+      "ja": "identifiable（識別・特定できる）に名詞を作る接尾辞 -ity が加わり、語尾が -ability になった形。"
+    },
+    "equivalents": {
+      "de": "die Identifizierbarkeit",
+      "it": "l’identificabilità",
+      "fr": "l’identifiabilité",
+      "es": "la identificabilidad"
+    },
+    "collocations": {
+      "en": [
+        "the identifiability of individuals",
+        "assess identifiability",
+        "parameter identifiability",
+        "establish identifiability",
+        "an identifiability problem",
+        "lack of identifiability"
+      ],
+      "ja": [
+        "the identifiability of individuals — 個人の特定可能性",
+        "assess identifiability — 識別可能性を評価する",
+        "parameter identifiability — パラメータの識別可能性",
+        "establish identifiability — 識別可能性を示す",
+        "an identifiability problem — 識別可能性に関わる問題",
+        "lack of identifiability — 一意に識別できないこと"
+      ]
+    },
+    "example": {
+      "en": [
+        "The study examined the identifiability of individuals from combinations of demographic details.",
+        "If two distinct parameter values produce the same distribution of observations, global identifiability fails.",
+        "Even if we know the sum exactly, that does not resolve the identifiability problem for the two parameters separately."
+      ],
+      "ja": [
+        "The study examined the identifiability of individuals from combinations of demographic details. — その研究は、人口統計上の属性を組み合わせることで個人を特定できるかを調べた。",
+        "If two distinct parameter values produce the same distribution of observations, global identifiability fails. — 異なる二つのパラメータ値から同じ観測値の分布が生じるなら、大域的な識別可能性は成り立たない。",
+        "Even if we know the sum exactly, that does not resolve the identifiability problem for the two parameters separately. — 和が正確に分かっても、二つのパラメータを個別に識別できるわけではない。"
+      ]
+    }
   }
 ]
