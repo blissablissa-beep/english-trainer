@@ -1244,5 +1244,132 @@
         "The album grew out of years of experimentation with unusual instruments. — そのアルバムは、珍しい楽器を使った長年の試みから生まれた。"
       ]
     }
+  },
+  {
+    "id": "outperform",
+    "sid": "2026-01943",
+    "word": "outperform",
+    "level": "C2",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "comparison",
+      "performance",
+      "business"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "outperform",
+        "thirdPerson": "outperforms",
+        "past": "outperformed",
+        "pastParticiple": "outperformed",
+        "ing": "outperforming",
+        "antonym": "underperform"
+      },
+      "patterns": [
+        "outperform + rival / previous model / benchmark",
+        "outperform + someone or something + on + metric / test",
+        "outperform + someone or something + in + area",
+        "outperform + benchmark + by + margin"
+      ],
+      "usage": {
+        "object": "The direct object is the person, thing, or benchmark you compare against. In outperform the previous model on battery life, battery life is the criterion.",
+        "margin": "Use by to give the margin, as in outperform the index by two percentage points."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌaʊt.pɚˈfɔːrm/",
+        "uk": "/ˌaʊt.pəˈfɔːm/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to achieve better results or work better than a person, competitor, product, or benchmark",
+        "in finance, to deliver a higher return than the market, an index, or a comparable investment"
+      ],
+      "ja": [
+        "人・競合・製品・比較基準などを、成績や性能で上回る",
+        "金融で、市場や指数、比較対象の投資商品より高いリターンを上げる"
+      ]
+    },
+    "nuance": {
+      "en": "Outperform focuses on results in a given task or over a given period. A device can outperform another on battery life and still lag behind it on speed. In finance, outperformance is relative. A fund can outperform its benchmark even when both lose value.",
+      "ja": "ある課題や期間での成績・性能に焦点を当てる。電池持ちで別の機種を上回っていても、処理速度では劣ることがある。金融では相対的な成績を表すため、ファンドと比較指数の両方が下落しても、下落幅が小さいファンドは指数を outperform したと言える。"
+    },
+    "minimal": {
+      "en": [
+        "surpass. Covers a wider range of comparisons, including exceeding expectations or bettering an earlier achievement. Outperform is particularly natural when comparing results on a shared task or metric.",
+        "exceed. Common when the object is a limit, target, or numerical threshold. Outperform typically compares a performer or product with a rival or benchmark.",
+        "outdo. Often highlights getting the better of someone in a feat or competitive situation. Outperform is at home in comparisons based on tests or measured results.",
+        "beat. A common, flexible word for doing better than a rival or benchmark. Outperform puts the focus on comparative performance."
+      ],
+      "ja": [
+        "surpass は期待を超える、過去の成果をしのぐなど、幅広い比較に使う。outperform は同じ課題や指標で成績・性能を比べる場合によく合う。",
+        "exceed は上限・目標値・しきい値などを超えるときによく使う。outperform は競合や比較指標を相手に成績を比べる場合に自然。",
+        "outdo は、ある行為や競争で相手をしのぐという響きが出やすい。outperform は試験や測定結果による比較になじむ。",
+        "beat は競合や基準を上回るという意味で幅広く使える日常語。outperform は成績・性能の比較に焦点を当てる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "do better than",
+        "note": {
+          "en": "A plain equivalent in general comparisons.",
+          "ja": "一般的な比較での平易な言い換え。"
+        }
+      },
+      {
+        "word": "surpass",
+        "note": {
+          "en": "Close when one result or product is better than another.",
+          "ja": "成果や製品が別のものより優れている場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from out-, in the sense of doing better than another, and perform.",
+      "ja": "out-（相手を上回る）と perform（実行する、成績を上げる）を組み合わせた語。"
+    },
+    "equivalents": {
+      "de": "besser abschneiden als / übertreffen",
+      "it": "ottenere risultati migliori di / superare",
+      "fr": "faire mieux que / surperformer (finance)",
+      "es": "rendir mejor que / superar"
+    },
+    "collocations": {
+      "en": [
+        "outperform the competition",
+        "outperform the previous model",
+        "outperform on battery life",
+        "outperform in benchmark tests",
+        "consistently outperform one's peers",
+        "outperform the market",
+        "outperform the index by two percentage points"
+      ],
+      "ja": [
+        "outperform the competition — 競合を成績や性能で上回る",
+        "outperform the previous model — 旧型モデルを性能で上回る",
+        "outperform on battery life — 電池持ちで上回る",
+        "outperform in benchmark tests — ベンチマークテストで上回る",
+        "consistently outperform one's peers — 同業他社や同じ集団の仲間を安定して上回る",
+        "outperform the market — 市場全体の成績を上回る",
+        "outperform the index by two percentage points — 指数の成績を2パーセントポイント上回る"
+      ]
+    },
+    "example": {
+      "en": [
+        "In our tests, the new laptop outperformed its predecessor on battery life.",
+        "The smaller team outperformed its rivals in the final round.",
+        "The fund fell 3 percent, but it still outperformed its benchmark, which fell 5 percent."
+      ],
+      "ja": [
+        "In our tests, the new laptop outperformed its predecessor on battery life. — 今回のテストでは、新型ノートPCは電池持ちで旧型を上回った。",
+        "The smaller team outperformed its rivals in the final round. — 決勝ラウンドでは、人数の少ないチームがライバルよりよい成績を収めた。",
+        "The fund fell 3 percent, but it still outperformed its benchmark, which fell 5 percent. — ファンドは3％下落したが、比較指数は5％下落したため、成績では指数を上回った。"
+      ]
+    }
   }
 ]
