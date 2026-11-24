@@ -3513,5 +3513,124 @@
         "This function takes a list of prices and returns the total. — この関数は価格のリストを受け取り、合計額を返す。"
       ]
     }
+  },
+  {
+    "id": "mea-culpa",
+    "sid": "2026-01961",
+    "word": "mea culpa",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "noun",
+      "interjection",
+      "latin",
+      "apology"
+    ],
+    "grammar": {
+      "pos": "noun / interjection",
+      "countability": "countable (noun)",
+      "forms": {
+        "base": "mea culpa",
+        "plural": "mea culpas"
+      },
+      "patterns": [
+        "Mea culpa. + acknowledgment or explanation",
+        "a + brief / public + mea culpa",
+        "issue / publish + a mea culpa",
+        "a mea culpa for + mistake"
+      ],
+      "usage": {
+        "article": "Use mea culpa by itself to acknowledge your own fault. Use a mea culpa for an instance of someone admitting fault.",
+        "tone": "The standalone phrase can sound wry or self-deprecating in everyday speech. The noun is also used in reporting about public admissions of fault."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌmeɪ.ə ˈkʊl.pə/",
+        "uk": "/ˌmeɪ.ə ˈkʊl.pə/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "my fault; an expression used to acknowledge responsibility for a mistake",
+        "an admission of fault, often made publicly or in the form of an apology"
+      ],
+      "ja": [
+        "私の落ち度です、自分のミスです（自分の責任を認める表現）",
+        "自らの非を認める発言や文章、謝罪の表明"
+      ]
+    },
+    "nuance": {
+      "en": "Mea culpa focuses on accepting responsibility. Used alone after a minor mistake, it can sound wry or playfully formal. As a noun in a headline or article, a public mea culpa can refer to a serious acknowledgment of failure.",
+      "ja": "自分の非を認め、責任を引き受けることに焦点がある。小さなミスのあとに一言で言うと、少し自嘲的だったり、わざと改まったりした響きになる。記事などの a public mea culpa は、重大な失敗について公に非を認める発言も指せる。"
+    },
+    "minimal": {
+      "en": [
+        "my fault. A plain, everyday admission of responsibility. Mea culpa can sound more stylized or wry.",
+        "my bad. Very informal and especially common for small mistakes. Mea culpa can be playful, and its noun use also fits serious public statements.",
+        "apology. Can express regret or say sorry. A mea culpa specifically involves accepting fault.",
+        "admission of fault. A neutral description of accepting blame. A mea culpa can carry a more personal or rhetorical tone."
+      ],
+      "ja": [
+        "my fault は、自分の責任を認める日常的で率直な表現。mea culpa は、気取った響きや自嘲が出る場合がある。",
+        "my bad は、特に小さなミスに使うくだけた表現。mea culpa も冗談めかして使えるが、名詞では真剣な声明にも使える。",
+        "apology は、申し訳ない気持ちを伝える謝罪全般。a mea culpa では自分の非を認めることが中心。",
+        "admission of fault は、過失や責任を認めることを中立的に表す。a mea culpa は、個人的な反省を述べたり、言い方に演出を加えたりする響きが出ることがある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "my fault",
+        "note": {
+          "en": "A direct everyday equivalent when accepting responsibility.",
+          "ja": "自分の落ち度を認めるときの平易な言い換え。"
+        }
+      },
+      {
+        "word": "admission of fault",
+        "note": {
+          "en": "A close equivalent for the noun.",
+          "ja": "名詞としての近い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Borrowed from Latin mea culpa, literally ‘through my fault’. The expression is associated with the Confiteor, a traditional Catholic prayer of confession.",
+      "ja": "ラテン語 mea culpa（直訳は「私の落ち度によって」）からの借用。カトリックの伝統的な告白の祈り Confiteor で使われる。"
+    },
+    "equivalents": {
+      "de": "mein Fehler / das Eingeständnis eines Fehlers",
+      "it": "colpa mia / il mea culpa",
+      "fr": "c’est ma faute / le mea culpa",
+      "es": "culpa mía / el mea culpa"
+    },
+    "collocations": {
+      "en": [
+        "a public mea culpa",
+        "issue a mea culpa",
+        "publish a mea culpa",
+        "a mea culpa for an editorial mistake",
+        "a brief mea culpa"
+      ],
+      "ja": [
+        "a public mea culpa — 公に非を認めること",
+        "issue a mea culpa — 自らの非を認める声明を出す",
+        "publish a mea culpa — 自らの非を認める文章を公表する",
+        "a mea culpa for an editorial mistake — 編集上の誤りについて非を認める文章",
+        "a brief mea culpa — 手短に非を認める言葉"
+      ]
+    },
+    "example": {
+      "en": [
+        "Mea culpa. I attached the old draft instead of the revised one.",
+        "The editor published a mea culpa after readers pointed out the error.",
+        "She began the meeting with a brief mea culpa for overlooking the scheduling conflict."
+      ],
+      "ja": [
+        "Mea culpa. I attached the old draft instead of the revised one. — 私のミスです。修正版を添付するつもりが、古い草案を添付してしまいました。",
+        "The editor published a mea culpa after readers pointed out the error. — 読者が誤りを指摘したあと、編集者は自らの非を認める文章を公表した。",
+        "She began the meeting with a brief mea culpa for overlooking the scheduling conflict. — 彼女は、日程の重複を見落とした自分のミスを手短に認めてから、会議を始めた。"
+      ]
+    }
   }
 ]
