@@ -2650,5 +2650,131 @@
         "A case-by-case review of the damaged items will determine which ones can be repaired. — 破損した品物を一つずつ確認し、修理できるものを判断する。"
       ]
     }
+  },
+  {
+    "id": "in-case",
+    "sid": "2026-01954",
+    "word": "in case",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "conjunction",
+      "adverbial phrase",
+      "precaution"
+    ],
+    "grammar": {
+      "pos": "conjunction / adverbial phrase",
+      "forms": {
+        "base": "in case",
+        "standalone": "just in case",
+        "relatedPhrases": [
+          "in case of",
+          "in that case"
+        ]
+      },
+      "patterns": [
+        "main clause + in case + subject + verb",
+        "in case + subject + verb, + main clause",
+        "main clause + just in case",
+        "in case of + noun"
+      ],
+      "usage": {
+        "tense": "For a possible future event, the present simple is common after in case: Take a charger in case your battery runs low. In a past narrative, the past is common: I took a charger in case my battery ran low.",
+        "complement": "In case usually introduces a clause. In case of takes a noun phrase and is common in notices. Just in case can stand alone when the possibility is understood.",
+        "regional": "Some American English uses in case with the conditional meaning if or in the event that. When the timing of the action matters, if makes a condition clear and as a precaution makes advance preparation clear."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪn ˈkeɪs/",
+        "uk": "/ɪn ˈkeɪs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "because something might happen or might be needed, so an action is taken as a precaution",
+        "as a precaution, with the possible situation understood, especially in just in case",
+        "if or in the event that, in some uses, especially in American English"
+      ],
+      "ja": [
+        "～するかもしれないので、～に備えて、念のため",
+        "起こりうることが文脈から分かるときの「念のため」。特に just in case の形",
+        "～の場合は、もし～なら。一部の用法で、特に米語"
+      ]
+    },
+    "nuance": {
+      "en": "In its precautionary use, in case explains why you act ahead of a possibility. You may also provide information in case someone has not heard it. Just in case makes the precaution explicit. Expressions such as in case you hadn't noticed can sound pointed depending on tone.",
+      "ja": "備えの用法では、起こりうる事態に先回りして行動する理由を示す。相手がまだ知らないかもしれないと思って情報を伝えるときにも使える。just in case は「念のため」という気持ちをはっきり示す。in case you hadn't noticed のような言い方は、口調によっては皮肉っぽく聞こえる。"
+    },
+    "minimal": {
+      "en": [
+        "if. Introduces a condition. I'll bring a charger if my phone is low makes bringing it depend on that condition. I'll bring a charger in case my phone runs low expresses preparation.",
+        "in case of. Takes a noun, as in in case of fire, and often tells you what to do if an event occurs.",
+        "in that case. Refers back to a situation already mentioned and introduces a response or conclusion: In that case, let's reschedule.",
+        "so that. Introduces a purpose or intended result. In case introduces a possibility that motivates a precaution."
+      ],
+      "ja": [
+        "if は条件を示す。I'll bring a charger if my phone is low. では電池残量が少ないことが持参の条件。I'll bring a charger in case my phone runs low. では残量が減る可能性に備えて持参する。",
+        "in case of は in case of fire のように後ろに名詞を取り、事態が起きた際の行動を示す案内でよく使う。",
+        "in that case は直前に出た状況を受けて「それなら」と結論や対応を述べる。",
+        "so that は目的や意図する結果を示す。in case は備えを取る理由となる可能性を示す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "as a precaution",
+        "note": {
+          "en": "A plain equivalent when the possible situation is understood.",
+          "ja": "備える事態が文脈から分かるときの平易な言い換え。"
+        }
+      },
+      {
+        "word": "in the event that",
+        "note": {
+          "en": "A more formal equivalent for the conditional use.",
+          "ja": "条件を表す用法での改まった言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Built from in and case, where case means a situation or eventuality.",
+      "ja": "in と case（場合、起こりうる事態）からなる表現。"
+    },
+    "equivalents": {
+      "de": "für den Fall, dass / vorsichtshalber",
+      "it": "nel caso in cui / per sicurezza",
+      "fr": "au cas où / par précaution",
+      "es": "por si / por si acaso"
+    },
+    "collocations": {
+      "en": [
+        "in case it rains",
+        "in case you need it",
+        "in case you missed it",
+        "save a copy just in case",
+        "in case of emergency"
+      ],
+      "ja": [
+        "in case it rains — 雨が降るかもしれないので",
+        "in case you need it — 必要になったときに備えて",
+        "in case you missed it — 見逃しているかもしれないので",
+        "save a copy just in case — 念のためコピーを保存する",
+        "in case of emergency — 緊急時には"
+      ]
+    },
+    "example": {
+      "en": [
+        "I'll bring a charger in case my phone runs low.",
+        "I took a screenshot in case the confirmation page disappeared.",
+        "The link should still work, but I saved a copy just in case.",
+        "In case you missed yesterday's email, here's the updated schedule."
+      ],
+      "ja": [
+        "I'll bring a charger in case my phone runs low. — スマホの電池が減ったときに備えて、充電器を持っていく。",
+        "I took a screenshot in case the confirmation page disappeared. — 確認画面が消えても困らないように、スクリーンショットを撮った。",
+        "The link should still work, but I saved a copy just in case. — リンクはまだ開けるはずだけど、念のためコピーを保存しておいた。",
+        "In case you missed yesterday's email, here's the updated schedule. — 昨日のメールを見逃しているかもしれないので、更新した予定を送ります。"
+      ]
+    }
   }
 ]
