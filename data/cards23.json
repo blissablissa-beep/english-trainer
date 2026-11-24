@@ -4012,5 +4012,132 @@
         "Despite several emergency operations, he succumbed to his injuries two days later. — 数回の緊急手術を受けたが、彼はそのけががもとで２日後に亡くなった。"
       ]
     }
+  },
+  {
+    "id": "decimal",
+    "sid": "2026-01965",
+    "word": "decimal",
+    "level": "C1",
+    "freq": "uncommon",
+    "tags": [
+      "noun",
+      "adjective",
+      "mathematics",
+      "computing"
+    ],
+    "grammar": {
+      "pos": "noun / adjective",
+      "countability": "countable for a number written as a decimal; uncountable for the base-ten system",
+      "forms": {
+        "base": "decimal",
+        "plural": "decimals"
+      },
+      "patterns": [
+        "express / write + a fraction + as a decimal",
+        "round + number + to + number + decimal places",
+        "convert + number + from decimal to binary",
+        "decimal + point / place / system"
+      ],
+      "usage": {
+        "reading": "Say point for the decimal separator and usually read the digits after it individually. For example, 3.05 is three point zero five.",
+        "precision": "To two decimal places means to two digits after the decimal point. In 3.05, the 0 marks the tenths place and the 5 marks the hundredths place."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈdes.ə.məl/",
+        "uk": "/ˈdes.ɪ.məl/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a number written using a decimal point, such as 0.75 or 3.05 (noun)",
+        "the base-ten system of representing numbers (uncountable noun)",
+        "based on ten or expressed using tenths, hundredths, and so on (adjective)"
+      ],
+      "ja": [
+        "小数（名詞）。0.75 や 3.05 のように小数点を使って表した数。",
+        "十進表記、十進法（不可算名詞）。",
+        "十進法の、小数で表した（形容詞）。"
+      ]
+    },
+    "nuance": {
+      "en": "As a noun, a decimal refers to an individual number in expressions such as write 3/4 as a decimal. In decimal refers to base-ten notation and can describe whole numbers too. In reporting measurements, decimal places count the digits after the point, including zeros.",
+      "ja": "write 3/4 as a decimal の a decimal は「小数で表した数」。in decimal は「十進表記で」を意味し、整数にも使える。測定値などを示すときの decimal places は、小数点以下の桁数を表し、0 も1桁として数える。"
+    },
+    "minimal": {
+      "en": [
+        "decimal point / decimal place. In 3.05, the point is the dot, and the number has two decimal places.",
+        "fraction / decimal. The same value can be written as a fraction such as 3/4 or as a decimal such as 0.75.",
+        "decimal places / significant figures. The number 0.0042 has four decimal places and two significant figures."
+      ],
+      "ja": [
+        "decimal point は小数点。decimal place は小数点以下の桁。3.05 は小数点が一つあり、小数点以下は2桁。",
+        "分数 3/4 と小数 0.75 は、同じ値を異なる形で表している。",
+        "0.0042 の decimal places（小数点以下の桁数）は4桁、significant figures（有効数字）は2桁。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "decimal fraction",
+        "note": {
+          "en": "A mathematical term for a fraction expressed in decimal notation, or with a denominator that is a power of ten.",
+          "ja": "小数表記で表した分数や、分母が10の累乗となる分数を指す数学用語。"
+        }
+      },
+      {
+        "word": "base ten",
+        "note": {
+          "en": "An alternative when referring to the numeral system. Use base-ten before a noun, as in base-ten notation.",
+          "ja": "十進法を指す場合の言い換え。名詞の前では base-ten notation のように書く。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin decimalis, based on decimus ‘tenth’, from decem ‘ten’.",
+      "ja": "ラテン語 decimalis に由来する。もとは decimus（第10の）で、decem（10）と同じ語根を持つ。"
+    },
+    "equivalents": {
+      "de": "die Dezimalzahl / dezimal",
+      "it": "il numero decimale / decimale",
+      "fr": "le nombre décimal / décimal",
+      "es": "el número decimal / decimal"
+    },
+    "collocations": {
+      "en": [
+        "a decimal point",
+        "a decimal place",
+        "a decimal fraction",
+        "a repeating decimal",
+        "the decimal system",
+        "write a fraction as a decimal",
+        "round to two decimal places",
+        "convert from binary to decimal"
+      ],
+      "ja": [
+        "a decimal point — 小数点",
+        "a decimal place — 小数点以下の1桁",
+        "a decimal fraction — 小数で表した分数、十進分数",
+        "a repeating decimal — 循環小数",
+        "the decimal system — 十進法",
+        "write a fraction as a decimal — 分数を小数で表す",
+        "round to two decimal places — 四捨五入して小数第2位まで求める",
+        "convert from binary to decimal — 二進表記から十進表記に変換する"
+      ]
+    },
+    "example": {
+      "en": [
+        "Read 3.05 as “three point zero five.”",
+        "Write seven-eighths as a decimal.",
+        "Rounded to two decimal places, 12.346 becomes 12.35.",
+        "The binary number 1010 is 10 in decimal."
+      ],
+      "ja": [
+        "Read 3.05 as “three point zero five.” — 3.05 は「three point zero five」と読む。",
+        "Write seven-eighths as a decimal. — 8分の7を小数で表しなさい。",
+        "Rounded to two decimal places, 12.346 becomes 12.35. — 12.346 を四捨五入して小数第2位まで求めると、12.35 になる。",
+        "The binary number 1010 is 10 in decimal. — 二進数の 1010 は、十進表記では 10 になる。"
+      ]
+    }
   }
 ]
