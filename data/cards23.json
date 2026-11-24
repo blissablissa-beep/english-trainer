@@ -866,5 +866,131 @@
         "The importance of checking the figures before publication cannot be overstated. — 公開前に数値を確認することの重要性は、いくら強調してもしすぎることはない。"
       ]
     }
+  },
+  {
+    "id": "understate",
+    "sid": "2026-01940",
+    "word": "understate",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "argument",
+      "evaluation",
+      "reporting"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "understate",
+        "thirdPerson": "understates",
+        "past": "understated",
+        "pastParticiple": "understated",
+        "ing": "understating",
+        "antonym": "overstate",
+        "relatedNoun": "understatement"
+      },
+      "patterns": [
+        "understate + the extent / scale / severity of + something",
+        "understate + a cost / figure / total",
+        "understate + how + adjective + clause",
+        "to say that + clause + is to understate the case"
+      ],
+      "usage": {
+        "subject": "The subject can be a person, a report, or the figures themselves: The figures understate the cost.",
+        "wordFamily": "Understatement is the noun. Understated can also be an adjective meaning restrained or subtle, as in understated elegance."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌʌn.dɚˈsteɪt/",
+        "uk": "/ˌʌn.dəˈsteɪt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to describe or report something as smaller, less important, or less serious than it really is"
+      ],
+      "ja": [
+        "実際より小さく、重要でない、または深刻でないものとして述べる。控えめに述べる、過小に示す"
+      ]
+    },
+    "nuance": {
+      "en": "Understate focuses on how something is presented. A person might deliberately use mild language, or a report might give too low a figure because some costs were omitted. To say it was difficult is to understate the case suggests that difficult does not fully convey how hard it was.",
+      "ja": "焦点は、物事がどう述べられたり示されたりするか。意図的に穏やかな言葉を使う場合にも、一部の費用が漏れて報告書の数値が低く出る場合にも使える。To say it was difficult is to understate the case. は、「難しかった」では実際の大変さを言い表せない、という意味。"
+    },
+    "minimal": {
+      "en": [
+        "underestimate. Form too low an estimate or judgment. Understate concerns what a statement, report, or figure conveys.",
+        "downplay. Give something less attention or weight, often deliberately. Understate can also apply to figures that are too low because of incomplete data.",
+        "underreport. Report fewer cases or lower amounts than the actual total. Understate can also describe language that softens the seriousness of something.",
+        "overstate. Present something as greater, more important, or more serious than the facts justify."
+      ],
+      "ja": [
+        "underestimate は見積もりや判断を過小にすること。understate は発言や報告、数値がどう伝えるかに焦点を当てる。",
+        "downplay は、意図的に注目や重要性を抑えるという響きが出やすい。understate は、データが不完全で数値が低く出る場合にも使える。",
+        "underreport は、件数や金額などを実際より少なく報告する場合に使う。understate は、深刻さを弱める言葉選びにも使える。",
+        "overstate は、実際より大きく、重要に、深刻に述べるという反対語。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "downplay",
+        "note": {
+          "en": "Close when making a problem or concern seem less important.",
+          "ja": "問題や懸念を軽く見せる場合に近い。"
+        }
+      },
+      {
+        "word": "underreport",
+        "note": {
+          "en": "Close when the reported number omits part of the actual total.",
+          "ja": "報告値が実際の総数の一部を取りこぼしている場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from under- ‘below the proper level’ and state ‘to express or declare’.",
+      "ja": "under-（本来の水準より下に）と state（述べる、明言する）からなる。"
+    },
+    "equivalents": {
+      "de": "untertreiben / zu niedrig angeben",
+      "it": "minimizzare / indicare per difetto",
+      "fr": "minimiser / sous-évaluer dans un rapport",
+      "es": "restar importancia / declarar por debajo del valor real"
+    },
+    "collocations": {
+      "en": [
+        "understate the severity of the problem",
+        "understate the true cost",
+        "understate the extent of the damage",
+        "grossly understate the risks",
+        "understate the case",
+        "understate how serious it was"
+      ],
+      "ja": [
+        "understate the severity of the problem — 問題の深刻さを実際より軽く述べる",
+        "understate the true cost — 実際の費用を過小に示す",
+        "understate the extent of the damage — 被害の規模を過小に示す",
+        "grossly understate the risks — リスクを実際より大幅に小さく伝える",
+        "understate the case — 実情を控えめに述べすぎる",
+        "understate how serious it was — 実際の深刻さを十分に伝えない"
+      ]
+    },
+    "example": {
+      "en": [
+        "The estimate understates the true cost because it leaves out maintenance.",
+        "I underestimated the risk at first, and my report understated how serious it was.",
+        "To say that the negotiations were difficult is to understate the case.",
+        "Her calm account understated the impact the closure had on local businesses."
+      ],
+      "ja": [
+        "The estimate understates the true cost because it leaves out maintenance. — その見積もりには維持費が入っていないため、実際の費用より低く出ている。",
+        "I underestimated the risk at first, and my report understated how serious it was. — 私は当初リスクを過小評価し、報告書でも実際の深刻さを十分に伝えなかった。",
+        "To say that the negotiations were difficult is to understate the case. — 交渉が難しかったと言うだけでは、実際の大変さは伝わらない。",
+        "Her calm account understated the impact the closure had on local businesses. — 彼女の落ち着いた説明からは、閉鎖が地元企業に与えた影響の大きさが十分には伝わらなかった。"
+      ]
+    }
   }
 ]
