@@ -4259,5 +4259,125 @@
         "The collection has intrinsic value even if it never attracts paying visitors. — 入場料を払う来館者が一人も来なくても、そのコレクションにはそれ自体の価値がある。"
       ]
     }
+  },
+  {
+    "id": "extrinsic",
+    "sid": "2026-01967",
+    "word": "extrinsic",
+    "level": "C2",
+    "freq": "uncommon",
+    "tags": [
+      "adjective",
+      "formal",
+      "academic",
+      "motivation"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "extrinsic",
+        "adverb": "extrinsically",
+        "antonym": "intrinsic"
+      },
+      "patterns": [
+        "extrinsic + factor / influence / reward",
+        "be extrinsic to + noun",
+        "extrinsic motivation for + noun / -ing",
+        "be extrinsically motivated to + verb"
+      ],
+      "usage": {
+        "preposition": "Use extrinsic to when naming the thing that a factor or influence lies outside. Extrinsic often comes before a noun, especially in academic writing."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/eksˈtrɪn.zɪk/",
+        "uk": "/eksˈtrɪn.zɪk/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "originating outside something or lying outside its inherent nature",
+        "relating to a reward or outcome separate from doing an activity itself, as in extrinsic motivation"
+      ],
+      "ja": [
+        "外部から来る、外的要因による、そのものの性質の外にある",
+        "活動とは別に得られる報酬や結果に由来する、外発的な（動機づけなど）"
+      ]
+    },
+    "nuance": {
+      "en": "Extrinsic is a formal word that draws a boundary around the thing or activity under discussion. A factor can be extrinsic to a task and still have a major effect on how people perform it. In psychology, extrinsic motivation can involve a reward such as a bonus or a personally valued outcome such as earning a qualification.",
+      "ja": "何を基準に「外」とみなすかを意識して使う、やや改まった語。課題そのものの外にある要因でも、成績に大きく影響しうる。心理学の extrinsic motivation（外発的動機づけ）には、賞金のような報酬を目指す場合も、自分にとって大切な資格取得を目指す場合も含まれる。"
+    },
+    "minimal": {
+      "en": [
+        "intrinsic. An activity can be intrinsically motivating because it is enjoyable and extrinsically motivating because it leads to a qualification.",
+        "external. A broader word for something outside a physical, organizational, or other boundary. Extrinsic often concerns what belongs to the nature of the thing itself.",
+        "irrelevant. Means something has no bearing on the issue. An extrinsic factor can be highly relevant, as when room temperature affects test performance."
+      ],
+      "ja": [
+        "intrinsic は「内在する、内発的な」。勉強自体が楽しいことは内発的動機、資格が取れることは外発的動機になり、同じ活動に両方がありうる。",
+        "external は、物理的・組織的な境界などの「外側」を広く表す。extrinsic は、あるものの性質や活動そのものに含まれるかどうかに焦点を置くことが多い。",
+        "irrelevant は「論点と関係がない」という意味。extrinsic な要因でも、室温が試験の成績に影響するように、結果と深く関係することがある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "external",
+        "note": {
+          "en": "A plain-language equivalent in phrases such as external factors and external influences.",
+          "ja": "外的要因や外部からの影響を表す日常的な言い換え。"
+        }
+      },
+      {
+        "word": "outside",
+        "note": {
+          "en": "A common alternative before nouns such as influence or pressure.",
+          "ja": "influence や pressure の前で使える一般的な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin extrinsecus ‘outwardly, from outside’, ultimately related to exter ‘outer’.",
+      "ja": "ラテン語 extrinsecus（外向きに、外から）に由来し、exter（外側の）と関係がある。"
+    },
+    "equivalents": {
+      "de": "extrinsisch / von außen kommend",
+      "it": "estrinseco",
+      "fr": "extrinsèque",
+      "es": "extrínseco"
+    },
+    "collocations": {
+      "en": [
+        "extrinsic motivation",
+        "an extrinsic reward",
+        "extrinsic incentives",
+        "extrinsic factors",
+        "extrinsic influences",
+        "be extrinsic to the task",
+        "be extrinsically motivated"
+      ],
+      "ja": [
+        "extrinsic motivation — 外発的動機づけ",
+        "an extrinsic reward — 外的報酬",
+        "extrinsic incentives — 外的インセンティブ",
+        "extrinsic factors — 外的要因",
+        "extrinsic influences — 外部からの影響",
+        "be extrinsic to the task — 課題そのものの外にある",
+        "be extrinsically motivated — 活動とは別の報酬や目的を動機とする"
+      ]
+    },
+    "example": {
+      "en": [
+        "Earning a language certificate can provide extrinsic motivation to study, while the pleasure of reading a novel in that language can provide intrinsic motivation.",
+        "The bonus is an extrinsic reward for reaching the sales target.",
+        "Noise is extrinsic to the task itself, but it can affect how well people perform it."
+      ],
+      "ja": [
+        "Earning a language certificate can provide extrinsic motivation to study, while the pleasure of reading a novel in that language can provide intrinsic motivation. — 語学の資格を取ることは外発的な学習動機になり、その言語で小説を読む楽しさは内発的な動機になりうる。",
+        "The bonus is an extrinsic reward for reaching the sales target. — そのボーナスは、売上目標を達成したことに対する外的報酬だ。",
+        "Noise is extrinsic to the task itself, but it can affect how well people perform it. — 騒音は課題そのものの外にある要因だが、取り組む人の成績に影響することがある。"
+      ]
+    }
   }
 ]
