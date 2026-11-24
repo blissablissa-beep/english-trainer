@@ -3632,5 +3632,123 @@
         "She began the meeting with a brief mea culpa for overlooking the scheduling conflict. — 彼女は、日程の重複を見落とした自分のミスを手短に認めてから、会議を始めた。"
       ]
     }
+  },
+  {
+    "id": "edifice",
+    "sid": "2026-01962",
+    "word": "edifice",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "noun",
+      "formal",
+      "architecture",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "base": "edifice",
+        "plural": "edifices"
+      },
+      "patterns": [
+        "an imposing / grand edifice",
+        "a stone / brick edifice",
+        "the edifice of + system / theory",
+        "an edifice built on + assumptions"
+      ],
+      "usage": {
+        "article": "Use an edifice in the singular. The word is formal and can be literal or figurative."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈed.ɪ.fɪs/",
+        "uk": "/ˈed.ɪ.fɪs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a large or imposing building",
+        "an elaborate system of ideas, institutions, or claims viewed as a constructed whole"
+      ],
+      "ja": [
+        "大きく堂々とした建物、壮麗な建築物",
+        "理論・制度・主張などが積み上げられてできた大きな体系、構築物（比喩）"
+      ]
+    },
+    "nuance": {
+      "en": "Edifice is more formal and evocative than building and often draws attention to scale or grandeur. Figuratively, it can suggest a system with many interdependent parts built on a foundation. An edifice of lies suggests that false claims have been built up into an elaborate whole.",
+      "ja": "building より改まった描写語で、建物の規模や威容を印象づけることが多い。比喩では、共通の土台の上に、互いに支え合う要素が積み上がった体系を連想させる。an edifice of lies は、いくつもの嘘を重ねて組み立てた虚構を指す。"
+    },
+    "minimal": {
+      "en": [
+        "building. The ordinary word for a constructed building of any size. Edifice often suggests scale or an imposing appearance.",
+        "structure. Covers many physical constructions and abstract arrangements. Edifice adds the image of a substantial building or an elaborate whole.",
+        "framework. Emphasizes the supporting arrangement or set of rules. Edifice often evokes the entire system built on that support."
+      ],
+      "ja": [
+        "building は規模を問わず使える一般的な「建物」。edifice は大きさや堂々とした外観を連想させやすい。",
+        "structure は建造物や抽象的な構造を広く指す。edifice には、大きな建物や作り込まれた体系全体のイメージがある。",
+        "framework は支える枠組みやルールに焦点がある。edifice はその土台の上に築かれた体系全体を連想させる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "building",
+        "note": {
+          "en": "The everyday equivalent in the literal sense.",
+          "ja": "文字どおりの用法での日常的な言い換え。"
+        }
+      },
+      {
+        "word": "system",
+        "note": {
+          "en": "A neutral equivalent for many figurative uses.",
+          "ja": "多くの比喩用法で使える中立的な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French edifice, from Latin aedificium ‘building’, related to aedificare ‘to build’.",
+      "ja": "古フランス語 edifice を経て、ラテン語 aedificium（建物）に由来する。aedificare（建てる）と関係がある。"
+    },
+    "equivalents": {
+      "de": "das Bauwerk / das Gedankengebäude",
+      "it": "l’edificio / l’impianto teorico",
+      "fr": "l’édifice",
+      "es": "el edificio / el entramado"
+    },
+    "collocations": {
+      "en": [
+        "an imposing edifice",
+        "a stone edifice",
+        "the edifice of a theory",
+        "an edifice of lies",
+        "the whole edifice collapses",
+        "build an edifice on shaky foundations"
+      ],
+      "ja": [
+        "an imposing edifice — 堂々とした建物",
+        "a stone edifice — 石造りの建物",
+        "the edifice of a theory — 理論の体系",
+        "an edifice of lies — 嘘を積み重ねた虚構",
+        "the whole edifice collapses — 体系全体が崩れる",
+        "build an edifice on shaky foundations — 危うい土台の上に体系を築く"
+      ]
+    },
+    "example": {
+      "en": [
+        "A vast stone edifice overlooks the main square.",
+        "The whole edifice of the theory rests on a single assumption.",
+        "Once the records were made public, the edifice of lies began to collapse."
+      ],
+      "ja": [
+        "A vast stone edifice overlooks the main square. — 中央広場を見下ろすように、巨大な石造りの建物がそびえている。",
+        "The whole edifice of the theory rests on a single assumption. — その理論体系の全体が、たった一つの前提に支えられている。",
+        "Once the records were made public, the edifice of lies began to collapse. — 記録が公開されると、嘘を積み重ねた虚構は崩れ始めた。"
+      ]
+    }
   }
 ]
