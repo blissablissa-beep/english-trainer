@@ -738,5 +738,133 @@
         "The restoration team repaired several of the cathedral’s carved stone pinnacles. — 修復チームは、大聖堂の石造りの小尖塔のうち、彫刻が施された数基を修復した。"
       ]
     }
+  },
+  {
+    "id": "overstate",
+    "sid": "2026-01939",
+    "word": "overstate",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "argument",
+      "evaluation",
+      "emphasis"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "overstate",
+        "thirdPerson": "overstates",
+        "past": "overstated",
+        "pastParticiple": "overstated",
+        "ing": "overstating",
+        "antonym": "understate"
+      },
+      "patterns": [
+        "overstate + the importance / impact / risk of + something",
+        "overstate + the case for + something",
+        "overstate what + subject + verb",
+        "cannot / can't overstate how + adjective + clause",
+        "something cannot be overstated"
+      ],
+      "usage": {
+        "emphasis": "I can't overstate how important this is means that it is extremely important. The negative form emphasizes the importance.",
+        "passive": "The benefits were overstated criticizes the description. The importance of checking the figures cannot be overstated emphasizes how important the check is."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌoʊ.vɚˈsteɪt/",
+        "uk": "/ˌəʊ.vəˈsteɪt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to describe or report something in terms that make it seem greater, more important, more serious, or more certain than the facts justify"
+      ],
+      "ja": [
+        "実際や根拠が示す以上に大きく、重要に、深刻に、または確かなものとして述べる、誇張して述べる"
+      ]
+    },
+    "nuance": {
+      "en": "Overstate is often used to assess a claim, report, or argument against the evidence. It can describe an honest mistake as well as deliberate exaggeration. Cannot overstate turns the idea into emphasis: the speaker considers the point so important that even strong wording is justified.",
+      "ja": "主張や報告の言い方が、根拠に見合うかを評価するときによく使う。意図的な誇張にも、悪気のない過大な記述にも使える。cannot overstate は「いくら強調してもしすぎることはない」という強調表現。"
+    },
+    "minimal": {
+      "en": [
+        "exaggerate. Common in everyday speech and covers making a story or detail sound more dramatic. Overstate is especially natural with claims, figures, effects, or the strength of an argument.",
+        "overestimate. Means to form too high an estimate or judgment. Overstate focuses on what someone states or reports.",
+        "emphasize. Means to draw attention to a point. Overstate implies going beyond what the facts justify, except in the emphatic formula cannot overstate.",
+        "understate. Means to present something as smaller, less important, or less serious than it is."
+      ],
+      "ja": [
+        "exaggerate は話や描写を大げさにする場合にも広く使える。overstate は主張・数値・影響・論拠の強さを実際以上に述べる場面になじむ。",
+        "overestimate は見積もりや判断を過大にすること。overstate は、それをどう述べたか、どう報告したかに焦点を当てる。",
+        "emphasize は注意を向けさせる、強調するという意味。overstate は根拠以上に大きく述べることを表し、cannot overstate の形では強調になる。",
+        "understate は、程度や重要性、深刻さを実際より控えめに述べること。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "exaggerate",
+        "note": {
+          "en": "A broader equivalent for presenting something as greater than it is.",
+          "ja": "事実以上に大きく見せるという意味で広く使える。"
+        }
+      },
+      {
+        "word": "overplay",
+        "note": {
+          "en": "Close when giving a factor or argument more weight than it deserves.",
+          "ja": "要因や論拠を必要以上に重く扱う場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from over- ‘too much’ and state ‘to express or declare’.",
+      "ja": "over-（過度に）と state（述べる、明言する）からなる。"
+    },
+    "equivalents": {
+      "de": "übertreiben / zu stark darstellen",
+      "it": "esagerare / sopravvalutare nella descrizione",
+      "fr": "exagérer / présenter de façon excessive",
+      "es": "exagerar / presentar como más importante de lo que es"
+    },
+    "collocations": {
+      "en": [
+        "overstate the impact",
+        "overstate the benefits",
+        "overstate the risk",
+        "overstate the case for a change",
+        "overstate what the evidence shows",
+        "be greatly overstated",
+        "cannot overstate the importance of something"
+      ],
+      "ja": [
+        "overstate the impact — 影響を実際以上に大きく述べる",
+        "overstate the benefits — 利点を誇張する",
+        "overstate the risk — リスクを実際以上に大きく述べる",
+        "overstate the case for a change — 変更を支持する論拠を実際以上に強く述べる",
+        "overstate what the evidence shows — 証拠から言えることを実際以上に述べる",
+        "be greatly overstated — 大幅に誇張されている",
+        "cannot overstate the importance of something — 何かの重要性はいくら強調してもしすぎることはない"
+      ]
+    },
+    "example": {
+      "en": [
+        "The report overstates what can be concluded from such a small sample.",
+        "The presentation overstated the savings by leaving out maintenance costs.",
+        "I can't overstate how helpful your feedback was.",
+        "The importance of checking the figures before publication cannot be overstated."
+      ],
+      "ja": [
+        "The report overstates what can be concluded from such a small sample. — その報告書は、これほど少数の標本から導ける結論を、実際よりも強く述べている。",
+        "The presentation overstated the savings by leaving out maintenance costs. — その発表は維持費を計算に入れず、削減額を実際より大きく示した。",
+        "I can't overstate how helpful your feedback was. — あなたのフィードバックがどれほど役に立ったか、いくら強調しても足りないくらいです。",
+        "The importance of checking the figures before publication cannot be overstated. — 公開前に数値を確認することの重要性は、いくら強調してもしすぎることはない。"
+      ]
+    }
   }
 ]
