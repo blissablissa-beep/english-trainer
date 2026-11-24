@@ -4627,5 +4627,126 @@
         "The parties agreed on liability but disputed the quantum of damages. — 当事者間で賠償責任については争いがなかったが、損害賠償額については争いがあった。"
       ]
     }
+  },
+  {
+    "id": "predisposition",
+    "sid": "2026-01970",
+    "word": "predisposition",
+    "level": "C2",
+    "freq": "uncommon",
+    "tags": [
+      "noun",
+      "formal",
+      "behavior",
+      "health"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "base": "predisposition",
+        "plural": "predispositions",
+        "relatedVerb": "predispose",
+        "relatedAdjective": "predisposed"
+      },
+      "patterns": [
+        "a predisposition to + noun",
+        "a predisposition to + verb",
+        "a predisposition toward(s) + noun",
+        "have a genetic predisposition to + condition",
+        "be predisposed to + noun / verb"
+      ],
+      "usage": {
+        "complement": "Use to before a condition (a predisposition to asthma) or an infinitive (a predisposition to avoid conflict). Toward or towards can introduce a type of behavior or an attitude."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌpriː.dɪs.pəˈzɪʃ.ən/",
+        "uk": "/ˌpriː.dɪs.pəˈzɪʃ.ən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "an existing inclination that makes someone more likely to think, feel, or behave in a particular way",
+        "a susceptibility that makes a person more likely to develop a disease or condition"
+      ],
+      "ja": [
+        "ある考え方・感じ方・行動を取りやすい傾向、もともとの性向",
+        "病気や症状が生じやすい素因、かかりやすさ"
+      ]
+    },
+    "nuance": {
+      "en": "Predisposition is more formal than tendency. It presents the inclination or susceptibility as already present before the behavior or condition appears. It can arise from prior experience or other factors. Genetic predisposition specifies a genetic contribution to the likelihood of a condition.",
+      "ja": "tendency より改まった語で、行動を取ったり病気を発症したりする前から、そうなりやすい傾向や素因があることを表す。過去の経験に由来する傾向にも使える。genetic predisposition は、発症のしやすさに遺伝的要因が関わることを表す。"
+    },
+    "minimal": {
+      "en": [
+        "tendency. A broad word for a pattern or inclination, including observed trends. Predisposition presents the inclination as something already present.",
+        "susceptibility. Highlights how easily someone may be affected. Predisposition also covers behavioral inclinations such as a tendency to avoid conflict.",
+        "risk factor. A characteristic or exposure associated with a higher likelihood of an outcome. A predisposition describes the underlying susceptibility or inclination itself."
+      ],
+      "ja": [
+        "tendency は、観察された傾向や癖まで幅広く指す。predisposition は、ある行動や結果につながりやすい性向や素因がすでにあることに焦点を置く。",
+        "susceptibility は、病気や影響を受けやすいことに焦点を置く。predisposition は、対立を避けがちといった行動面の傾向にも使える。",
+        "risk factor（リスク因子）は、ある結果が起きやすいことと関連する特徴や曝露を指す。predisposition は、本人に備わっている発症のしやすさや性向に焦点を置く。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "inclination",
+        "note": {
+          "en": "A close alternative for an inclination to think or act in a certain way.",
+          "ja": "特定の考え方や行動を取りやすい傾向を表す言い換え。"
+        }
+      },
+      {
+        "word": "susceptibility",
+        "note": {
+          "en": "A close alternative in the sense of being prone to a disease or condition.",
+          "ja": "病気や症状が生じやすいことを表す言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Combines pre- ‘before’ and disposition ‘inclination or tendency’.",
+      "ja": "pre-（前もって）と disposition（性向、傾向）から成る。"
+    },
+    "equivalents": {
+      "de": "die Neigung / die Veranlagung",
+      "it": "la predisposizione",
+      "fr": "la prédisposition",
+      "es": "la predisposición"
+    },
+    "collocations": {
+      "en": [
+        "have a predisposition to avoid conflict",
+        "a predisposition toward pessimism",
+        "a genetic predisposition",
+        "a predisposition to developing a condition",
+        "a predisposition to asthma",
+        "have a predisposition to question assumptions"
+      ],
+      "ja": [
+        "have a predisposition to avoid conflict — 対立を避けがちな傾向がある",
+        "a predisposition toward pessimism — 悲観的に考えがちな傾向",
+        "a genetic predisposition — 遺伝的素因",
+        "a predisposition to developing a condition — ある症状や病気を発症しやすい素因",
+        "a predisposition to asthma — 喘息を発症しやすい素因",
+        "have a predisposition to question assumptions — 前提を疑ってかかる傾向がある"
+      ]
+    },
+    "example": {
+      "en": [
+        "Her experience as an examiner gave her a predisposition to look for weaknesses in an argument.",
+        "The study looked at whether some participants had a genetic predisposition to asthma.",
+        "People with a predisposition to avoid conflict may agree in meetings and raise their concerns later."
+      ],
+      "ja": [
+        "Her experience as an examiner gave her a predisposition to look for weaknesses in an argument. — 審査官としての経験から、彼女は議論の弱点を探す傾向が身についた。",
+        "The study looked at whether some participants had a genetic predisposition to asthma. — その研究では、一部の参加者に喘息を発症しやすい遺伝的素因があるかどうかを調べた。",
+        "People with a predisposition to avoid conflict may agree in meetings and raise their concerns later. — 対立を避けがちな人は、会議では同意して、後から懸念を伝えることがある。"
+      ]
+    }
   }
 ]
