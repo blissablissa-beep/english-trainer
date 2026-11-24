@@ -4503,5 +4503,129 @@
         "She stopped at the brink of the gorge and looked down. — 彼女は峡谷の縁で足を止め、下を見た。"
       ]
     }
+  },
+  {
+    "id": "quantum",
+    "sid": "2026-01969",
+    "word": "quantum",
+    "level": "C2",
+    "freq": "uncommon",
+    "tags": [
+      "noun",
+      "physics",
+      "computing",
+      "legal",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable in physics",
+      "forms": {
+        "base": "quantum",
+        "plural": "quanta"
+      },
+      "patterns": [
+        "a quantum of + energy",
+        "quantum + mechanics / computing / state",
+        "a quantum leap in + area",
+        "the quantum of + damages"
+      ],
+      "usage": {
+        "modifier": "In terms such as quantum computing, quantum comes before the noun and indicates a connection with quantum physics.",
+        "plural": "Use quanta when counting discrete units in physics. In legal English, the quantum of damages usually refers to the amount as a whole."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈkwɑːn.təm/",
+        "uk": "/ˈkwɒn.təm/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a discrete unit of a physical quantity, such as a photon as a quantum of light",
+        "an amount, especially the amount of money at issue in a damages claim or award (formal or legal)"
+      ],
+      "ja": [
+        "量子。光における光子のように、物理量をとびとびの単位で扱うときの一単位。",
+        "量、額。とくに法律英語では損害賠償額。"
+      ]
+    },
+    "nuance": {
+      "en": "In physics, a quantum is a discrete unit, and its size depends on the physical system. In a literal quantum jump, a system changes from one quantum state to another. In ordinary figurative use, a quantum leap is a sudden, substantial advance or change. In legal texts, quantum can refer to how much is payable, while liability concerns whether a party is legally responsible.",
+      "ja": "物理学では、量子はとびとびの単位で、その大きさは対象によって異なる。物理学の quantum jump は、ある量子状態から別の量子状態への遷移を指す。比喩の quantum leap は「飛躍的な進歩・大きな変化」。法律文書では、liability が法的責任の有無を指す場面で、quantum は支払うべき金額を指す。"
+    },
+    "minimal": {
+      "en": [
+        "quantum / photon. Quantum is the general term for a discrete unit in this sense. A photon is specifically a quantum of electromagnetic radiation.",
+        "quantum / amount. Amount is the everyday word for a quantity or sum. In the phrase quantum of damages, quantum gives the same idea a specialist legal register.",
+        "quantum leap / breakthrough. Breakthrough emphasizes overcoming a barrier or making a discovery. Quantum leap emphasizes the size or suddenness of the advance."
+      ],
+      "ja": [
+        "quantum（量子）はこの意味での一般語。photon（光子）は電磁放射の量子を指す。",
+        "amount は「量・額」を広く表す一般語。quantum of damages は損害賠償額を指す法律英語の表現。",
+        "breakthrough は障壁を乗り越えることや画期的な発見に、quantum leap は進歩の大きさや急激さに焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "amount",
+        "note": {
+          "en": "Plain-language equivalent in the legal sense.",
+          "ja": "金額を表す法律用法での平易な言い換え。"
+        }
+      },
+      {
+        "word": "major advance",
+        "note": {
+          "en": "A less emphatic alternative to the figurative phrase quantum leap.",
+          "ja": "比喩の quantum leap を穏やかに言い換えた表現。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin quantum, the neuter form of quantus ‘how much, how great’. The sense ‘amount’ predates the physics sense.",
+      "ja": "ラテン語 quantus（どれほどの量・大きさの）の中性形 quantum に由来する。「量・額」の意味は物理学での用法に先立つ。"
+    },
+    "equivalents": {
+      "de": "das Quant / die Höhe des Schadensersatzes",
+      "it": "il quanto / l’ammontare del risarcimento",
+      "fr": "le quantum / le montant des dommages-intérêts",
+      "es": "el cuanto / la cuantía de la indemnización"
+    },
+    "collocations": {
+      "en": [
+        "a quantum of light",
+        "quantum mechanics",
+        "quantum computing",
+        "a quantum state",
+        "a quantum jump",
+        "a quantum leap in performance",
+        "the quantum of damages",
+        "assess the quantum of damages"
+      ],
+      "ja": [
+        "a quantum of light — 光の量子",
+        "quantum mechanics — 量子力学",
+        "quantum computing — 量子計算",
+        "a quantum state — 量子状態",
+        "a quantum jump — 量子跳躍（物理）",
+        "a quantum leap in performance — 性能の飛躍的な向上",
+        "the quantum of damages — 損害賠償額",
+        "assess the quantum of damages — 損害賠償額を算定する"
+      ]
+    },
+    "example": {
+      "en": [
+        "A photon is a quantum of electromagnetic radiation.",
+        "The new manufacturing process was a quantum leap in precision.",
+        "The parties agreed on liability but disputed the quantum of damages."
+      ],
+      "ja": [
+        "A photon is a quantum of electromagnetic radiation. — 光子は電磁放射の量子である。",
+        "The new manufacturing process was a quantum leap in precision. — 新しい製造工程によって、精度が飛躍的に向上した。",
+        "The parties agreed on liability but disputed the quantum of damages. — 当事者間で賠償責任については争いがなかったが、損害賠償額については争いがあった。"
+      ]
+    }
   }
 ]
