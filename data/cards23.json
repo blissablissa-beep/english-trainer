@@ -4869,5 +4869,136 @@
         "There is a growing tendency among applicants to file their documents electronically. — 出願人の間では、書類を電子的に提出する傾向が強まっている。"
       ]
     }
+  },
+  {
+    "id": "tend",
+    "sid": "2026-01972",
+    "word": "tend",
+    "level": "B2",
+    "freq": "common",
+    "tags": [
+      "verb",
+      "behavior",
+      "trends",
+      "care"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "intransitive for tendencies; transitive or intransitive for care",
+      "forms": {
+        "base": "tend",
+        "thirdPersonSingular": "tends",
+        "past": "tended",
+        "pastParticiple": "tended",
+        "presentParticiple": "tending"
+      },
+      "patterns": [
+        "tend to + base verb",
+        "tend not to + base verb",
+        "tend toward(s) + noun",
+        "tend + person / garden / animals",
+        "tend to + patient / wound / needs"
+      ],
+      "usage": {
+        "complement": "After tend, to can introduce an infinitive (tend to forget, meaning ‘often forget’) or a noun phrase (tend to a wound, meaning ‘care for a wound’). The form of the complement helps distinguish the meanings.",
+        "negation": "Tend not to reply describes a pattern of usually not replying. Don’t tend to reply is also common."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/tend/",
+        "uk": "/tend/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to often do something or be likely to behave or happen in a particular way",
+        "to move or lean in a particular direction, literally or figuratively",
+        "to look after someone or something, or give something the attention it needs"
+      ],
+      "ja": [
+        "～しがちである、～する傾向がある、～しやすい",
+        "ある方向に向かう、ある立場・性質に傾く",
+        "世話をする、手入れをする、必要な処置をする"
+      ]
+    },
+    "nuance": {
+      "en": "Tend to is a natural way to express a pattern without making an absolute claim. It works for personal habits, general observations, and tentative judgments, as in I tend to agree. In the care sense, tend often suggests active attention or upkeep, as with a garden, fire, or wound.",
+      "ja": "tend to do は、例外もありうる傾向を述べるときに自然な形。個人の癖や一般的な傾向に加え、I tend to agree. のように「どちらかというと同意します」と判断を少し控えめに伝えることもできる。世話をする意味では、庭・火・傷などを実際に手入れしたり処置したりする場面で使う。"
+    },
+    "minimal": {
+      "en": [
+        "usually. Focuses on how often something happens. Tend to presents it as a general pattern or inclination and also works in phrases such as I tend to agree.",
+        "have a tendency to. A longer noun-based expression with a similar meaning. Tend to is often the simpler choice, while tendency allows modifiers such as a growing tendency.",
+        "take care of. A broader everyday expression for looking after someone or dealing with something. Tend is especially natural when describing hands-on care or upkeep."
+      ],
+      "ja": [
+        "usually は頻度に焦点がある。tend to は一般的な傾向として述べる表現で、I tend to agree. のように意見を控えめに示すときにも使える。",
+        "have a tendency to は、名詞 tendency を使った同じような意味の表現。tend to のほうが簡潔で、名詞を使うと a growing tendency（強まりつつある傾向）のように修飾しやすい。",
+        "take care of は、世話や用事の処理まで幅広く表す日常語。tend は、庭の手入れや傷の処置など、手をかけて世話をする場面によく合う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "be inclined to",
+        "note": {
+          "en": "A close alternative for a personal leaning, especially with agree or think.",
+          "ja": "agree や think などと合わせて、考えがある方向に傾いていることを表す言い換え。"
+        }
+      },
+      {
+        "word": "look after",
+        "note": {
+          "en": "An everyday alternative in the care sense.",
+          "ja": "世話をする意味での日常的な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The tendency sense comes via Old French tendre from Latin tendere ‘to stretch, direct’. The care sense developed as a shortening of attend.",
+      "ja": "「傾向がある」の用法は、古フランス語 tendre を経てラテン語 tendere（伸ばす、向ける）に由来する。「世話をする」の用法は attend の短縮形から発達した。"
+    },
+    "equivalents": {
+      "de": "dazu neigen / pflegen / sich kümmern um",
+      "it": "tendere a / prendersi cura di",
+      "fr": "avoir tendance à / s’occuper de",
+      "es": "tender a / cuidar de"
+    },
+    "collocations": {
+      "en": [
+        "tend to agree",
+        "tend to overlook details",
+        "tend not to reply immediately",
+        "tend toward caution",
+        "tend a garden",
+        "tend a fire",
+        "tend to a wound",
+        "tend to someone’s needs"
+      ],
+      "ja": [
+        "tend to agree — どちらかというと同意する",
+        "tend to overlook details — 細かい点を見落としがちだ",
+        "tend not to reply immediately — すぐには返信しない傾向がある",
+        "tend toward caution — 慎重な考え方に傾く",
+        "tend a garden — 庭の手入れをする",
+        "tend a fire — 火の番をする",
+        "tend to a wound — 傷の手当てをする",
+        "tend to someone’s needs — 人が必要とすることに気を配る"
+      ]
+    },
+    "example": {
+      "en": [
+        "Applicants tend to submit requests close to the deadline.",
+        "I tend to agree with your reading of that clause.",
+        "My father tends the garden every morning.",
+        "A nurse tended to his wound while we waited for the doctor."
+      ],
+      "ja": [
+        "Applicants tend to submit requests close to the deadline. — 出願人は期限間際に申請することが多い。",
+        "I tend to agree with your reading of that clause. — その条項の解釈については、どちらかといえば私もあなたと同じ考えです。",
+        "My father tends the garden every morning. — 父は毎朝、庭の手入れをする。",
+        "A nurse tended to his wound while we waited for the doctor. — 医師を待つ間、看護師が彼の傷を手当てした。"
+      ]
+    }
   }
 ]
