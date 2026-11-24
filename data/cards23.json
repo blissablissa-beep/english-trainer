@@ -2886,5 +2886,129 @@
         "The application asks which extracurricular activities you took part in and what your role was. — 出願書類では、どの課外活動に参加し、どんな役割を担ったかが問われる。"
       ]
     }
+  },
+  {
+    "id": "vindicate",
+    "sid": "2026-01956",
+    "word": "vindicate",
+    "level": "C2",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "formal",
+      "evidence",
+      "judgment"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "vindicate",
+        "thirdPerson": "vindicates",
+        "past": "vindicated",
+        "pastParticiple": "vindicated",
+        "ing": "vindicating",
+        "relatedNoun": "vindication"
+      },
+      "patterns": [
+        "vindicate + person / claim / decision",
+        "be vindicated by + evidence / outcome",
+        "vindicate oneself",
+        "feel vindicated"
+      ],
+      "usage": {
+        "object": "With a person as the object, vindicate may mean clearing them of blame or showing they were right. With a decision or prediction as the object, it means showing that it was sound or accurate."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈvɪn.də.keɪt/",
+        "uk": "/ˈvɪn.dɪ.keɪt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to show that a person was wrongly blamed or that an accusation against them was unfounded",
+        "to show that a disputed judgment, action, or claim was right"
+      ],
+      "ja": [
+        "人にかけられた疑いを晴らす、非難が当たらなかったと示す",
+        "疑問視されていた判断・行動・主張が正しかったと示す"
+      ]
+    },
+    "nuance": {
+      "en": "Vindicate often looks back at an earlier accusation or disagreement. New evidence may clear a person, or later events may bear out a decision that others doubted. To feel vindicated is to feel that events have shown that you were right.",
+      "ja": "以前の非難や意見の対立を振り返る場面でよく使う。新しい証拠で人の疑いが晴れる場合も、その後の経過から、疑問視されていた判断が正しかったと分かる場合もある。feel vindicated は、結果を見て自分が正しかったと感じること。"
+    },
+    "minimal": {
+      "en": [
+        "justify. Give reasons that make a decision defensible. Vindicate often involves evidence or events that show a challenged decision was right.",
+        "exonerate. Clear someone of blame or responsibility. Vindicate also applies to judgments and predictions that turn out to be right.",
+        "validate. Confirm that something is sound, valid, or acceptable. Vindicate often implies earlier criticism, doubt, or blame.",
+        "vindictive. An adjective meaning eager to take revenge or get back at someone. Vindicate in its common modern uses means to clear someone or show that someone or something was right."
+      ],
+      "ja": [
+        "justify は行動や判断を擁護する理由を示すこと。vindicate は、疑問視された判断が証拠や結果によって正しかったと分かる場面によく合う。",
+        "exonerate は人の疑いを晴らす、責任がなかったと明らかにすること。vindicate は、判断や予測が正しかったと示す場合にも使う。",
+        "validate は妥当性や有効性などを確認すること。vindicate には、それ以前に批判・疑問・非難があったという含みが出やすい。",
+        "vindictive は仕返しをしたがる、執念深いという意味の形容詞。vindicate の現代の主な意味は、疑いを晴らす、正しさを示すこと。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "exonerate",
+        "note": {
+          "en": "Close when evidence clears a person of blame.",
+          "ja": "証拠によって人の疑いが晴れる用法で近い。"
+        }
+      },
+      {
+        "word": "bear out",
+        "note": {
+          "en": "Close when later findings support an earlier claim or judgment.",
+          "ja": "後から得られた結果が、以前の主張や判断を裏づける場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin vindicare, ‘to claim, defend, or avenge’. An early English sense was ‘to rescue or deliver’.",
+      "ja": "ラテン語 vindicare（権利を主張する、守る、報復する）に由来する。英語での初期の意味には「救い出す」があった。"
+    },
+    "equivalents": {
+      "de": "jemanden entlasten / jemandem recht geben / eine Entscheidung bestätigen",
+      "it": "scagionare / dare ragione a",
+      "fr": "innocenter / donner raison à",
+      "es": "exculpar / dar la razón a"
+    },
+    "collocations": {
+      "en": [
+        "vindicate a decision",
+        "vindicate an earlier warning",
+        "vindicate someone completely",
+        "be vindicated by the results",
+        "feel vindicated",
+        "a chance to vindicate oneself"
+      ],
+      "ja": [
+        "vindicate a decision — 判断が正しかったと示す",
+        "vindicate an earlier warning — 以前の警告が正しかったと裏づける",
+        "vindicate someone completely — 人にかけられた疑いを完全に晴らす",
+        "be vindicated by the results — 結果によって正しさが裏づけられる",
+        "feel vindicated — 自分が正しかったと感じる",
+        "a chance to vindicate oneself — 自分への疑いを晴らす機会"
+      ]
+    },
+    "example": {
+      "en": [
+        "The test results vindicated our decision to delay the launch.",
+        "The maintenance logs vindicated the engineer, who had been blamed for the outage.",
+        "She felt vindicated when the independent review confirmed the problems she had warned about."
+      ],
+      "ja": [
+        "The test results vindicated our decision to delay the launch. — 試験結果は、発売を延期した私たちの判断が正しかったことを裏づけた。",
+        "The maintenance logs vindicated the engineer, who had been blamed for the outage. — 保守記録によって、停止の責任を問われていた技術者の疑いが晴れた。",
+        "She felt vindicated when the independent review confirmed the problems she had warned about. — 独立した調査で、以前から警告していた問題が確認され、彼女は自分が正しかったと感じた。"
+      ]
+    }
   }
 ]
