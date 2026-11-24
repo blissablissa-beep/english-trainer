@@ -4139,5 +4139,125 @@
         "The binary number 1010 is 10 in decimal. — 二進数の 1010 は、十進表記では 10 になる。"
       ]
     }
+  },
+  {
+    "id": "intrinsic",
+    "sid": "2026-01966",
+    "word": "intrinsic",
+    "level": "C2",
+    "freq": "uncommon",
+    "tags": [
+      "adjective",
+      "academic",
+      "properties",
+      "motivation"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "intrinsic",
+        "adverb": "intrinsically",
+        "antonym": "extrinsic"
+      },
+      "patterns": [
+        "intrinsic + value / interest / motivation",
+        "be intrinsic to + noun / -ing",
+        "an intrinsic part of + noun",
+        "be intrinsically + adjective"
+      ],
+      "usage": {
+        "preposition": "Use intrinsic to when naming the thing whose nature or structure includes the quality. With part, use an intrinsic part of."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪnˈtrɪn.zɪk/",
+        "uk": "/ɪnˈtrɪn.zɪk/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "belonging to the nature of a thing itself or forming a basic part of what it is",
+        "arising from interest in or enjoyment of an activity itself, as in intrinsic motivation"
+      ],
+      "ja": [
+        "物事そのものの性質に由来する、内在する、本質的な",
+        "活動そのものへの興味や楽しさから生じる（intrinsic motivation など）"
+      ]
+    },
+    "nuance": {
+      "en": "Intrinsic describes where a quality comes from or how closely it belongs to the thing itself. Intrinsic value can refer to worth something has in its own right, regardless of its usefulness. Intrinsic motivation comes from finding the activity itself interesting or satisfying. Something can be intrinsic and still be undesirable, as in an intrinsic limitation.",
+      "ja": "物事の性質そのものに備わっていることを表す。intrinsic value は、何かの役に立つかどうかとは別に、それ自体が持つ価値を指すことがある。intrinsic motivation（内発的動機づけ）は、活動そのものに面白さや満足を感じて取り組むこと。an intrinsic limitation のように、望ましくない性質にも使う。"
+    },
+    "minimal": {
+      "en": [
+        "inherent. A close equivalent for a property that naturally belongs to something, as in inherent risk. Intrinsic also commonly appears in discussions of value and motivation.",
+        "essential. Focuses on what is necessary or indispensable. Intrinsic focuses on what belongs to the nature of the thing itself.",
+        "extrinsic. Arises from a source outside the thing or activity. A prize can provide extrinsic motivation, while enjoyment of the activity can provide intrinsic motivation."
+      ],
+      "ja": [
+        "inherent も「もともと備わっている」という意味で、inherent risk（内在するリスク）などによく使う。intrinsic は value や motivation ともよく組み合わさる。",
+        "essential は「不可欠であること」に、intrinsic は「そのものの性質に備わっていること」に焦点がある。",
+        "extrinsic は「外からもたらされる」。賞品を目当てに取り組むのは外発的動機づけ、活動そのものが楽しくて取り組むのは内発的動機づけの例。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "inherent",
+        "note": {
+          "en": "A close substitute when describing a property or limitation that naturally belongs to something.",
+          "ja": "物事にもともと備わっている性質や制約を述べる場合の近い言い換え。"
+        }
+      },
+      {
+        "word": "inbuilt",
+        "note": {
+          "en": "Useful for describing a feature or limitation built into the design of a system.",
+          "ja": "仕組みの設計に組み込まれている機能や制約を表すときに使える。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From French intrinsèque, from Latin intrinsecus ‘on the inside, inwardly’.",
+      "ja": "フランス語 intrinsèque を経て、ラテン語 intrinsecus（内側で、内向きに）に由来する。"
+    },
+    "equivalents": {
+      "de": "inhärent / intrinsisch",
+      "it": "intrinseco",
+      "fr": "intrinsèque",
+      "es": "intrínseco"
+    },
+    "collocations": {
+      "en": [
+        "intrinsic value",
+        "intrinsic motivation",
+        "intrinsic interest",
+        "an intrinsic property",
+        "an intrinsic limitation",
+        "an intrinsic part of the process",
+        "be intrinsic to the design"
+      ],
+      "ja": [
+        "intrinsic value — それ自体が持つ価値、内在的価値",
+        "intrinsic motivation — 内発的動機づけ",
+        "intrinsic interest — それ自体の面白さ",
+        "an intrinsic property — 内在的な性質",
+        "an intrinsic limitation — 仕組みそのものに由来する制約",
+        "an intrinsic part of the process — その過程を構成する本質的な一部",
+        "be intrinsic to the design — 設計そのものに備わっている"
+      ]
+    },
+    "example": {
+      "en": [
+        "Some uncertainty is intrinsic to estimating how long a project will take.",
+        "Her interest in how languages work gives her intrinsic motivation to keep studying.",
+        "The collection has intrinsic value even if it never attracts paying visitors."
+      ],
+      "ja": [
+        "Some uncertainty is intrinsic to estimating how long a project will take. — プロジェクトにかかる時間を見積もる以上、ある程度の不確実性はつきものだ。",
+        "Her interest in how languages work gives her intrinsic motivation to keep studying. — 言語の仕組みそのものが面白いからこそ、彼女は自分から勉強を続けている。",
+        "The collection has intrinsic value even if it never attracts paying visitors. — 入場料を払う来館者が一人も来なくても、そのコレクションにはそれ自体の価値がある。"
+      ]
+    }
   }
 ]
