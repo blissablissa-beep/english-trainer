@@ -2020,5 +2020,128 @@
         "The equation 2(x + 1) = 2x + 2 is an identity because it holds for every real number x. — 等式 2(x + 1) = 2x + 2 は、実数 x のどの値についても成り立つので恒等式だ。"
       ]
     }
+  },
+  {
+    "id": "in-relation-to",
+    "sid": "2026-01949",
+    "word": "in relation to",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "preposition",
+      "formal",
+      "comparison",
+      "position"
+    ],
+    "grammar": {
+      "pos": "complex preposition / prepositional phrase",
+      "forms": {
+        "base": "in relation to"
+      },
+      "patterns": [
+        "in relation to + noun / pronoun",
+        "questions / concerns + in relation to + subject",
+        "evaluate + A + in relation to + B",
+        "where + A + is + in relation to + B"
+      ],
+      "usage": {
+        "complement": "To is a preposition here. Common complements include a noun phrase or pronoun, as in in relation to the cost or in relation to it.",
+        "register": "About is a simpler option when introducing a topic. In relation to is useful when the relationship, comparison, or point of reference matters."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪn rɪˈleɪ.ʃən tə/",
+        "uk": "/ɪn rɪˈleɪ.ʃən tə/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "concerning or in connection with a particular subject",
+        "considered or measured against something else as a reference point",
+        "located or oriented with respect to another thing or place"
+      ],
+      "ja": [
+        "～に関して、～に関連して",
+        "～と比べて、～を基準にして",
+        "～に対して、～との位置関係で"
+      ]
+    },
+    "nuance": {
+      "en": "In relation to can introduce the topic of a question or concern. In comparisons, it makes the following noun the benchmark or context for interpreting something. In spatial descriptions, it locates one object by reference to another.",
+      "ja": "質問や懸念の対象を示すほか、比較では後ろに来る名詞が評価や測定の基準になる。位置を述べるときは、ある物の場所や向きを別の物を基準にして示す。"
+    },
+    "minimal": {
+      "en": [
+        "about. A common, direct way to introduce a topic. In relation to can sound more formal and can point to a specific connection.",
+        "with regard to. Introduces what a statement or request concerns. In relation to also works for comparisons and relative position.",
+        "relative to. Especially apt for measurements, proportions, or positions. It overlaps with the reference-point senses of in relation to.",
+        "in connection with. Often stresses a link between an event, issue, or activity and something else. In relation to can also set a benchmark for comparison."
+      ],
+      "ja": [
+        "about は話題を示す一般的で簡潔な前置詞。in relation to はより改まった響きがあり、具体的な関連を示す場合にも使える。",
+        "with regard to は発言や依頼が何に関するかを示す。in relation to には比較や位置関係を示す用法もある。",
+        "relative to は測定、比率、位置を述べるのに特に適しており、基準を示す in relation to と意味が重なる。",
+        "in connection with は出来事や問題、活動と別の事柄との関連を示すことが多い。in relation to は比較の基準も設定できる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "with regard to",
+        "note": {
+          "en": "Close when introducing the topic under discussion.",
+          "ja": "話題や検討対象を示す用法で近い。"
+        }
+      },
+      {
+        "word": "relative to",
+        "note": {
+          "en": "Close when specifying what something is compared with or located against.",
+          "ja": "比較対象や位置の基準を示す用法で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Built from the noun relation in the construction in relation to. The noun contributes the idea of a connection or reference point.",
+      "ja": "名詞 relation（関係）を含む定型表現。何かとのつながりや、何かを基準にした関係を表す。"
+    },
+    "equivalents": {
+      "de": "in Bezug auf / im Verhältnis zu",
+      "it": "in relazione a / rispetto a",
+      "fr": "en ce qui concerne / par rapport à",
+      "es": "en relación con / con respecto a"
+    },
+    "collocations": {
+      "en": [
+        "questions in relation to the agreement",
+        "concerns raised in relation to the proposal",
+        "high in relation to income",
+        "small in relation to the overall budget",
+        "assess the price in relation to the quality",
+        "the position of A in relation to B"
+      ],
+      "ja": [
+        "questions in relation to the agreement — 契約に関する質問",
+        "concerns raised in relation to the proposal — 提案に関して示された懸念",
+        "high in relation to income — 所得に比べて高い",
+        "small in relation to the overall budget — 予算全体に比べて小さい",
+        "assess the price in relation to the quality — 品質を基準に価格を評価する",
+        "the position of A in relation to B — Bを基準にしたAの位置"
+      ]
+    },
+    "example": {
+      "en": [
+        "The client raised two questions in relation to the draft agreement.",
+        "The fee is modest in relation to the amount of work involved.",
+        "The map shows where the hotel is in relation to the station.",
+        "The diagram shows the position of the sensor in relation to the door frame."
+      ],
+      "ja": [
+        "The client raised two questions in relation to the draft agreement. — 依頼人は契約書案について二つ質問した。",
+        "The fee is modest in relation to the amount of work involved. — その料金は、必要な作業量に比べて控えめだ。",
+        "The map shows where the hotel is in relation to the station. — 地図を見ると、駅を基準にホテルがどこにあるか分かる。",
+        "The diagram shows the position of the sensor in relation to the door frame. — 図は、ドア枠を基準にしたセンサーの位置を示している。"
+      ]
+    }
   }
 ]
