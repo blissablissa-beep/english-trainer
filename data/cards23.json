@@ -1371,5 +1371,132 @@
         "The fund fell 3 percent, but it still outperformed its benchmark, which fell 5 percent. — ファンドは3％下落したが、比較指数は5％下落したため、成績では指数を上回った。"
       ]
     }
+  },
+  {
+    "id": "handover",
+    "sid": "2026-01944",
+    "word": "handover",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "work",
+      "transfer"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable / uncountable",
+      "forms": {
+        "base": "handover",
+        "plural": "handovers",
+        "relatedVerb": "hand over"
+      },
+      "patterns": [
+        "the handover of + responsibility / power / keys",
+        "the handover from + outgoing person + to + incoming person",
+        "a smooth / orderly handover",
+        "handover + notes / period / meeting"
+      ],
+      "usage": {
+        "spelling": "Use one word for the noun, a handover, and two for the phrasal verb, hand over. With a pronoun, put it between the verb and particle: hand it over.",
+        "perspective": "Hand over focuses on the person giving up control or passing something on. Take over focuses on the person receiving responsibility."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈhændˌoʊ.vɚ/",
+        "uk": "/ˈhænd.əʊ.və(r)/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the transfer of responsibility, control, or power to another person or group",
+        "the planned transfer of an object or person to someone else",
+        "the period or meeting during which duties and relevant information are passed on"
+      ],
+      "ja": [
+        "責任・業務・権限を別の人や組織に引き継ぐこと、移譲",
+        "物や人を別の相手に引き渡すこと",
+        "業務や必要な情報を引き継ぐ期間や打ち合わせ"
+      ]
+    },
+    "nuance": {
+      "en": "In the workplace, a handover can mean the process of passing on duties, current work, and information to a successor or the next shift. In a property context, it can mean the formal delivery of keys or possession. A handover of power focuses on the transfer from one authority to another.",
+      "ja": "職場では、後任者や次のシフトの担当者に、仕事・進捗・必要な情報を伝える引き継ぎを指す。物件の文脈では鍵や物件の引き渡し、政治では政府や当局から別の主体への権限の移譲を表す。"
+    },
+    "minimal": {
+      "en": [
+        "hand over. The two-word verb: They handed over the keys. Handover names the event or process.",
+        "handoff. A close alternative for passing work or information between people or teams, especially in American workplace usage.",
+        "transfer. A broad word for moving something between people, places, or systems. Handover often highlights a change of responsibility or a formal delivery.",
+        "transition. The wider period of change. A handover is the transfer of duties, control, or possession during that change."
+      ],
+      "ja": [
+        "hand over は二語で書く動詞。They handed over the keys. は「鍵を引き渡した」。handover はその行為や過程を指す名詞。",
+        "handoff は、特に米国の職場などで、担当者やチーム間で仕事や情報を渡す場合に近い。",
+        "transfer は人・場所・システムの間で移すことを広く表す。handover は担当の交代や正式な引き渡しを意識させやすい。",
+        "transition は変化や移行の過程全体。handover はそのなかで責任・権限・物などを渡すことに焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "transfer",
+        "note": {
+          "en": "Broad equivalent when responsibility, control, or possession changes hands.",
+          "ja": "責任・権限・占有などが移る場合の広い言い換え。"
+        }
+      },
+      {
+        "word": "handoff",
+        "note": {
+          "en": "Close for transfers of work or information between people or teams.",
+          "ja": "人やチームの間で仕事や情報を引き継ぐ場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from the phrasal verb hand over, ‘to pass something to another person’.",
+      "ja": "句動詞 hand over（相手に渡す、引き渡す）を一語にした名詞。"
+    },
+    "equivalents": {
+      "de": "die Übergabe / die Amtsübergabe",
+      "it": "il passaggio di consegne / la consegna",
+      "fr": "la passation / la remise",
+      "es": "el traspaso / la entrega"
+    },
+    "collocations": {
+      "en": [
+        "a smooth handover",
+        "an orderly handover of power",
+        "the handover of the keys",
+        "handover notes",
+        "a handover meeting",
+        "a shift handover",
+        "a two-week handover period"
+      ],
+      "ja": [
+        "a smooth handover — 円滑な引き継ぎ",
+        "an orderly handover of power — 秩序立った権限移譲",
+        "the handover of the keys — 鍵の引き渡し",
+        "handover notes — 引き継ぎメモ",
+        "a handover meeting — 引き継ぎの打ち合わせ",
+        "a shift handover — 勤務交代時の申し送り",
+        "a two-week handover period — 2週間の引き継ぎ期間"
+      ]
+    },
+    "example": {
+      "en": [
+        "Before going on leave, I wrote handover notes for the colleague covering my cases.",
+        "The outgoing manager scheduled a meeting to ensure a smooth handover.",
+        "The keys will be handed over on Friday, and both parties will sign a form at the handover.",
+        "The election was followed by an orderly handover of power to the new government."
+      ],
+      "ja": [
+        "Before going on leave, I wrote handover notes for the colleague covering my cases. — 休暇に入る前に、担当案件を引き受けてくれる同僚向けに引き継ぎメモを書いた。",
+        "The outgoing manager scheduled a meeting to ensure a smooth handover. — 退任するマネージャーは、円滑に引き継げるよう打ち合わせを設定した。",
+        "The keys will be handed over on Friday, and both parties will sign a form at the handover. — 鍵は金曜日に引き渡され、その際に双方が書類に署名する。",
+        "The election was followed by an orderly handover of power to the new government. — 選挙後、新政府への権限移譲は混乱なく行われた。"
+      ]
+    }
   }
 ]
