@@ -5755,5 +5755,131 @@
         "She couldn't hide her astonishment at how quickly the negotiations had ended. — 交渉があまりに早く終わったので、彼女は驚きを隠せなかった。"
       ]
     }
+  },
+  {
+    "id": "astonish",
+    "sid": "2026-01979",
+    "word": "astonish",
+    "level": "B2",
+    "freq": "uncommon",
+    "tags": [
+      "verb",
+      "emotion",
+      "reaction"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "astonish",
+        "thirdPersonSingular": "astonishes",
+        "past": "astonished",
+        "pastParticiple": "astonished",
+        "presentParticiple": "astonishing",
+        "relatedNoun": "astonishment"
+      },
+      "patterns": [
+        "something astonishes + someone",
+        "It astonishes + someone + that / how + clause",
+        "What astonishes + someone + is + noun / clause",
+        "be astonished at / by + noun",
+        "be astonished to + verb",
+        "be astonished that + clause"
+      ],
+      "usage": {
+        "subject": "The thing that causes the surprise is the subject in the active voice. The person who feels it is the object.",
+        "participles": "Astonished describes the person’s reaction. Astonishing describes what causes that reaction."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/əˈstɑː.nɪʃ/",
+        "uk": "/əˈstɒ.nɪʃ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to surprise someone very greatly, often because something is unexpected or hard to believe"
+      ],
+      "ja": [
+        "人をひどく驚かせる、びっくりさせる、仰天させる"
+      ]
+    },
+    "nuance": {
+      "en": "Astonish signals a strong reaction and often focuses on how unexpected or hard to believe the cause is. It can describe an impressive achievement or a disturbing discovery. It still astonishes me how … is useful when the same fact continues to seem remarkable.",
+      "ja": "surprise より強い反応を表し、予想外だったことや、にわかには信じがたいことによく使う。見事な成果にも、困惑するような発見にも使える。It still astonishes me how … は、今でも驚くほどだと感じる事実を述べるのに使える。"
+    },
+    "minimal": {
+      "en": [
+        "surprise. The general verb for making someone react to the unexpected. Astonish signals a more intense reaction.",
+        "amaze. A close equivalent that often suggests admiration or wonder. Astonish often emphasizes how unexpected something is.",
+        "startle. Often describes a sudden reaction to an immediate stimulus, such as a loud noise. Astonish fits a striking fact or outcome even when the surprise unfolds slowly."
+      ],
+      "ja": [
+        "surprise は「驚かせる」を広く表す一般的な動詞。astonish は反応の強さを伝える。",
+        "amaze は意味が近く、感心や感嘆を伴うことも多い。astonish は予想を大きく外れたことに焦点が当たりやすい。",
+        "startle は、大きな物音などに思わずびくっとする反応によく使う。astonish は、徐々に明らかになった事実や結果への強い驚きにも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "amaze",
+        "note": {
+          "en": "A close alternative for making someone feel great surprise or wonder.",
+          "ja": "人を強く驚かせたり感嘆させたりする場合の近い言い換え。"
+        }
+      },
+      {
+        "word": "astound",
+        "note": {
+          "en": "An emphatic alternative for very strong surprise.",
+          "ja": "非常に強い驚きを表す言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Middle English astonien, via Old French estoner ‘to stun or daze’, ultimately related to Latin tonare ‘to thunder’.",
+      "ja": "中英語 astonien と古フランス語 estoner（ぼう然とさせる）を経て、ラテン語 tonare（雷が鳴る）にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "jemanden verblüffen / in Erstaunen versetzen",
+      "it": "stupire / sbalordire",
+      "fr": "étonner / stupéfier",
+      "es": "asombrar"
+    },
+    "collocations": {
+      "en": [
+        "astonish the audience",
+        "astonish even the experts",
+        "It still astonishes me how …",
+        "be astonished at the result",
+        "be astonished by the accuracy",
+        "be astonished to hear the news",
+        "an astonishing discovery"
+      ],
+      "ja": [
+        "astonish the audience — 観客を驚かせる",
+        "astonish even the experts — 専門家までも驚かせる",
+        "It still astonishes me how … — どれほど～なのか、今でも驚く。",
+        "be astonished at the result — 結果に仰天する",
+        "be astonished by the accuracy — 精度に驚く",
+        "be astonished to hear the news — その知らせを聞いてびっくりする",
+        "an astonishing discovery — 驚くべき発見"
+      ]
+    },
+    "example": {
+      "en": [
+        "The judges were astonished by how well the youngest contestant played.",
+        "It still astonishes me that the watch keeps such accurate time after all these years.",
+        "The speed of the recovery astonished even the doctors.",
+        "I was astonished to learn that the missing manuscript had been in the library all along."
+      ],
+      "ja": [
+        "The judges were astonished by how well the youngest contestant played. — 最年少の出場者の演奏があまりに見事で、審査員たちは驚いた。",
+        "It still astonishes me that the watch keeps such accurate time after all these years. — 長い年月がたった今も、その腕時計がこれほど正確に時を刻むことには驚かされる。",
+        "The speed of the recovery astonished even the doctors. — 回復の早さには、医師たちさえ驚いた。",
+        "I was astonished to learn that the missing manuscript had been in the library all along. — 行方不明だった原稿がずっと図書館にあったと知って、びっくりした。"
+      ]
+    }
   }
 ]
