@@ -9934,5 +9934,107 @@
         "This spray is designed to reduce static cling in clothes. — このスプレーは、衣類が静電気でまとわりつくのを抑えるためのものです。"
       ]
     }
+  },
+  {
+    "id": "static-electricity",
+    "sid": "2026-02013",
+    "word": "static electricity",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "noun phrase",
+      "science",
+      "household"
+    ],
+    "grammar": {
+      "pos": "noun phrase",
+      "countability": "uncountable",
+      "patterns": [
+        "static electricity builds up",
+        "generate static electricity",
+        "a buildup of static electricity",
+        "a shock from static electricity"
+      ],
+      "usage": {
+        "noun": "Static electricity is uncountable. Use a static shock to refer to one instance of getting a shock."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌstæt.ɪk ɪ.lekˈtrɪs.ə.ti/",
+        "uk": "/ˌstæt.ɪk ɪ.lekˈtrɪs.ə.ti/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "electric charge that builds up on an object and can discharge suddenly"
+      ],
+      "ja": [
+        "静電気。物体にたまった電荷のことで、急に放電することがある。"
+      ]
+    },
+    "nuance": {
+      "en": "Static electricity names the buildup of charge. A static shock is what you feel when some of that charge discharges through you. In everyday conversation, static alone often means static electricity.",
+      "ja": "static electricity は物体にたまった電荷を指す。static shock は、その電荷が体を通って放電したときのピリッとした刺激。日常会話では static だけで「静電気」を表すことも多い。"
+    },
+    "minimal": {
+      "en": [
+        "static cling: The sticking of clothes or other materials due to static electricity.",
+        "static shock: A brief shock caused by static discharge. Use get a static shock for a single incident.",
+        "electric current: The flow of electric charge. A static discharge can produce a brief current."
+      ],
+      "ja": [
+        "static cling：静電気で衣類などが貼りつく現象。",
+        "static shock：静電気の放電で感じる刺激。一度ピリッとしたことは get a static shock と言える。",
+        "electric current：電荷の流れ、電流。静電気の放電でも、一時的に電流が流れる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "static",
+        "note": {
+          "en": "A common short form in everyday contexts such as laundry and clothing.",
+          "ja": "洗濯物や衣類などの話でよく使われる略し方。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "A compound of static and electricity. Static describes the charge buildup before discharge.",
+      "ja": "static（静的な）と electricity（電気）の組み合わせ。static は、放電する前に電荷がたまっている状態を表す。"
+    },
+    "equivalents": {
+      "de": "die statische Elektrizität",
+      "it": "l’elettricità statica",
+      "fr": "l’électricité statique",
+      "es": "la electricidad estática"
+    },
+    "collocations": {
+      "en": [
+        "a buildup of static electricity",
+        "generate static electricity",
+        "static electricity builds up",
+        "discharge static electricity",
+        "get a static shock"
+      ],
+      "ja": [
+        "a buildup of static electricity — 静電気の蓄積",
+        "generate static electricity — 静電気を発生させる",
+        "static electricity builds up — 静電気がたまる",
+        "discharge static electricity — 静電気を放電する",
+        "get a static shock — 静電気でピリッとする"
+      ]
+    },
+    "example": {
+      "en": [
+        "I got a static shock when I touched the metal doorknob.",
+        "Rubbing a balloon against your hair can generate static electricity.",
+        "Static electricity can make your clothes stick together when you take them out of the dryer."
+      ],
+      "ja": [
+        "I got a static shock when I touched the metal doorknob. — 金属のドアノブに触れたら、静電気でピリッとした。",
+        "Rubbing a balloon against your hair can generate static electricity. — 風船を髪の毛にこすりつけると、静電気が発生することがある。",
+        "Static electricity can make your clothes stick together when you take them out of the dryer. — 乾燥機から出した服が、静電気でくっつくことがある。"
+      ]
+    }
   }
 ]
