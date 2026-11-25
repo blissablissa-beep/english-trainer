@@ -8411,5 +8411,125 @@
         "She ran the 800 meters at her first track meet. — 彼女は初めての陸上競技大会で800メートルを走った。"
       ]
     }
+  },
+  {
+    "id": "exceed",
+    "sid": "2026-02000",
+    "word": "exceed",
+    "level": "C1",
+    "freq": "often",
+    "tags": [
+      "verb",
+      "quantity",
+      "limits",
+      "business"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "exceed",
+        "thirdPersonSingular": "exceeds",
+        "past": "exceeded",
+        "pastParticiple": "exceeded",
+        "presentParticiple": "exceeding",
+        "relatedNoun": "excess",
+        "relatedAdjective": "excessive"
+      },
+      "patterns": [
+        "exceed + limit / estimate / expectations",
+        "exceed + amount + by + difference",
+        "not exceed + maximum"
+      ],
+      "usage": {
+        "object": "The reference point is the direct object: exceed the limit. Use by for the difference: exceed the limit by 5 kg.",
+        "threshold": "Exceed 100 means be greater than 100. Must not exceed 100 allows 100 as the maximum."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪkˈsiːd/",
+        "uk": "/ɪkˈsiːd/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to be greater than a number, amount, estimate, or expected level",
+        "to go beyond an allowed limit, budget, or scope of authority"
+      ],
+      "ja": [
+        "（数値・見積もり・期待などを）上回る、超える",
+        "（上限・予算・権限の範囲などを）超過する、越える"
+      ]
+    },
+    "nuance": {
+      "en": "The object supplies the benchmark. Exceeding expectations can be welcome, while exceeding a budget usually signals a problem. Exceed is common in reports, specifications, and rules. It marks a strict comparison: a value equal to the benchmark does not exceed it.",
+      "ja": "目的語が比較の基準を示す。期待を上回るのは好ましいことだが、予算を超えると通常は問題になる。報告書・仕様書・規則などでよく使う。基準値と同じ場合は「超える」に含まれない。"
+    },
+    "minimal": {
+      "en": [
+        "meet: Means to reach a target or satisfy a requirement. Meet a sales target includes reaching it exactly. Exceed a sales target means going above it.",
+        "surpass: A close equivalent for achievements, expectations, or records. Exceed is usual for permitted limits, budgets, and capacities.",
+        "go over: A conversational equivalent with limits or budgets. Go over the budget can also mean review the budget."
+      ],
+      "ja": [
+        "meet：目標に達する、要件を満たす。売上目標ちょうどでも meet a sales target と言える。exceed a sales target は売上目標を上回ること。",
+        "surpass：成果・期待・記録などを上回る場合に近い語。許容上限や予算、容量を超える場合は exceed がよく使われる。",
+        "go over：上限や予算を超えることを表す日常的な言い方。go over the budget には「予算を見直す・確認する」という意味もある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "go beyond",
+        "note": {
+          "en": "A broad equivalent for going past a limit or benchmark.",
+          "ja": "上限や基準を越えるという意味での幅広い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Ultimately from Latin excedere, ‘to go out or go beyond’, from ex- ‘out’ and cedere ‘to go’. Excess belongs to the same word family.",
+      "ja": "ラテン語 excedere（外へ出る、越えていく）にさかのぼる。ex-（外へ）と cedere（行く）からなり、excess も同系。"
+    },
+    "equivalents": {
+      "de": "überschreiten / übertreffen",
+      "it": "superare / eccedere",
+      "fr": "dépasser / excéder",
+      "es": "superar / exceder"
+    },
+    "collocations": {
+      "en": [
+        "exceed expectations",
+        "exceed a sales target",
+        "exceed the speed limit",
+        "exceed the budget",
+        "exceed capacity",
+        "exceed one’s authority",
+        "exceed the estimate by 10%"
+      ],
+      "ja": [
+        "exceed expectations — 期待を上回る",
+        "exceed a sales target — 売上目標を上回る",
+        "exceed the speed limit — 制限速度を超える",
+        "exceed the budget — 予算を超過する",
+        "exceed capacity — 収容能力や処理能力を超える",
+        "exceed one’s authority — 権限の範囲を越える",
+        "exceed the estimate by 10% — 見積もりを10％上回る"
+      ]
+    },
+    "example": {
+      "en": [
+        "We met our sales target in April and exceeded it by 12% in May.",
+        "The attachment must not exceed 10 MB.",
+        "The final repair bill exceeded the estimate by £200.",
+        "The review found that the manager had exceeded her authority by approving the payment."
+      ],
+      "ja": [
+        "We met our sales target in April and exceeded it by 12% in May. — 4月は売上目標を達成し、5月は目標を12％上回った。",
+        "The attachment must not exceed 10 MB. — 添付ファイルは10 MB以下でなければならない。",
+        "The final repair bill exceeded the estimate by £200. — 最終的な修理代は見積もりを200ポンド上回った。",
+        "The review found that the manager had exceeded her authority by approving the payment. — 調査の結果、その管理職は支払いの承認にあたって権限の範囲を越えていたと分かった。"
+      ]
+    }
   }
 ]
