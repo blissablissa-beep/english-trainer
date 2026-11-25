@@ -8149,5 +8149,121 @@
         "The judge sustained the objection and asked the lawyer to rephrase the question. — 裁判官は異議を認め、弁護士に質問の言い方を変えるよう求めた。"
       ]
     }
+  },
+  {
+    "id": "sustainable",
+    "sid": "2026-01998",
+    "word": "sustainable",
+    "level": "C1",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "environment",
+      "business",
+      "resources"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "sustainable",
+        "adverb": "sustainably",
+        "noun": "sustainability",
+        "opposite": "unsustainable",
+        "relatedVerb": "sustain"
+      },
+      "patterns": [
+        "sustainable + noun",
+        "be sustainable in the long run",
+        "be sustainable at + rate / level",
+        "environmentally / financially sustainable"
+      ],
+      "usage": {
+        "position": "Use it before a noun (a sustainable pace) or after a linking verb (The pace isn’t sustainable).",
+        "scope": "An adverb can specify the criterion: financially sustainable concerns money, while environmentally sustainable concerns environmental impact and resources."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/səˈsteɪ.nə.bəl/",
+        "uk": "/səˈsteɪ.nə.bəl/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "able to be maintained over time without exceeding available resources or putting too much strain on the people or systems involved",
+        "able to continue over the long term while limiting environmental harm and avoiding depletion of the natural resources it depends on"
+      ],
+      "ja": [
+        "持続可能な、長期にわたって無理なく続けられる",
+        "（環境面で）持続可能な。環境への負荷や自然資源の消耗を抑えながら続けられる"
+      ]
+    },
+    "nuance": {
+      "en": "Sustainable asks whether something can keep going under realistic conditions. A sustainable workload fits the people and time available. A sustainable business model can keep operating financially. In environmental contexts, the relevant limits may include resource use, waste, or damage to ecosystems. The intended criterion comes from the context or a modifier such as financially.",
+      "ja": "現実的な条件のもとで、長く続けられるかに焦点がある。sustainable workload は人員や時間に見合い、無理なく続けられる仕事量。sustainable business model は資金面で長期に運営できる事業モデルを指す場合がある。環境の文脈では、資源の利用、廃棄物、生態系への負荷などが判断の基準になる。何を基準にしているかは、文脈や financially などの修飾語で分かる。"
+    },
+    "minimal": {
+      "en": [
+        "sustained: Describes something that actually continues over a period. Sustainable describes something that can be maintained. Sustained growth can turn out to be unsustainable.",
+        "viable: Means capable of working or succeeding. A plan can be viable in the short term but unsustainable at its current cost.",
+        "renewable: Describes a resource or energy source that can be replenished naturally. Sustainable evaluates how an activity or system can continue, including how resources are used."
+      ],
+      "ja": [
+        "sustained：一定期間、実際に続いていることを表す。sustainable は維持できることを表す。これまで続いてきた成長（sustained growth）でも、長期的には維持できない場合がある。",
+        "viable：実行できる、成立する。短期的に実行可能な案でも、今の費用では長期に続けられない場合がある。",
+        "renewable：自然に補充・再生される資源やエネルギー源を表す。sustainable は資源の利用方法も含め、活動や仕組みを続けられるかを評価する。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "maintainable",
+        "note": {
+          "en": "A near-equivalent when the focus is simply on keeping something at a given level.",
+          "ja": "ある状態や水準を維持できることに焦点を当てた近い語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from sustain ‘to support or keep going’ and -able ‘capable of being’.",
+      "ja": "sustain（支える、持続させる）に、可能を表す接尾辞 -able が付いた語。"
+    },
+    "equivalents": {
+      "de": "dauerhaft tragfähig / nachhaltig",
+      "it": "sostenibile",
+      "fr": "viable à long terme / durable",
+      "es": "sostenible"
+    },
+    "collocations": {
+      "en": [
+        "sustainable growth",
+        "a sustainable pace",
+        "a sustainable workload",
+        "a financially sustainable model",
+        "sustainable development",
+        "sustainably sourced timber"
+      ],
+      "ja": [
+        "sustainable growth — 長期にわたり維持できる成長",
+        "a sustainable pace — 無理なく続けられるペース",
+        "a sustainable workload — 無理なくこなせる仕事量",
+        "a financially sustainable model — 財政的に継続可能な仕組み",
+        "sustainable development — 持続可能な開発",
+        "sustainably sourced timber — 持続可能な方法で調達された木材"
+      ]
+    },
+    "example": {
+      "en": [
+        "We can work late for a week to meet the deadline, but this pace isn’t sustainable.",
+        "The program relies on a one-time grant, so it isn’t financially sustainable as it stands.",
+        "The furniture maker switched to timber from forests managed in a more sustainable way.",
+        "The company saw sustained growth for three years, but it needed a new source of funding to make that growth sustainable."
+      ],
+      "ja": [
+        "We can work late for a week to meet the deadline, but this pace isn’t sustainable. — 締切に間に合わせるために1週間なら遅くまで働けるが、このペースを続けるのは無理だ。",
+        "The program relies on a one-time grant, so it isn’t financially sustainable as it stands. — その事業は一度限りの助成金に頼っているため、今のままでは財政的に続けられない。",
+        "The furniture maker switched to timber from forests managed in a more sustainable way. — 家具メーカーは、より持続可能な方法で管理されている森林の木材に切り替えた。",
+        "The company saw sustained growth for three years, but it needed a new source of funding to make that growth sustainable. — その企業は3年にわたって成長を続けたが、今後もその成長を維持するには、新たな資金源が必要だった。"
+      ]
+    }
   }
 ]
