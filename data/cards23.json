@@ -6622,5 +6622,127 @@
         "Clean the glass before applying the film so that it adheres evenly. — フィルムがむらなく付着するよう、貼る前にガラスをきれいにしてください。"
       ]
     }
+  },
+  {
+    "id": "adherence",
+    "sid": "2026-01986",
+    "word": "adherence",
+    "level": "C1",
+    "freq": "uncommon",
+    "tags": [
+      "noun",
+      "formal",
+      "rules",
+      "health"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable",
+      "forms": {
+        "base": "adherence",
+        "relatedVerb": "adhere"
+      },
+      "patterns": [
+        "adherence to + rules / principles / a plan",
+        "strict adherence to + noun",
+        "ensure / monitor adherence to + noun",
+        "adherence to + a treatment plan"
+      ],
+      "usage": {
+        "preposition": "Use adherence to for the rule, commitment, or plan being followed."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ədˈhɪr.əns/",
+        "uk": "/ədˈhɪə.rəns/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the practice or degree of following rules, guidelines, a plan, or a set of beliefs",
+        "the extent to which someone follows a treatment plan, as in medication adherence",
+        "the state of sticking to a surface (less common)"
+      ],
+      "ja": [
+        "規則・指針・計画などを守ること、遵守の度合い、信念を貫くこと",
+        "治療計画に沿って治療を続けることやその度合い（アドヒアランス）",
+        "表面に付着していること（この意味では adhesion が一般的）"
+      ]
+    },
+    "nuance": {
+      "en": "Adherence is a formal word that often emphasizes how consistently someone follows something over time. It can describe rules imposed by others or principles someone has chosen. In technical writing, adhesion is the usual noun for physical sticking.",
+      "ja": "継続的にどの程度守っているかに焦点が置かれやすい改まった語。外から課された規則にも、自分で選んだ原則にも使える。物理的な付着を表す技術用語では、名詞 adhesion が一般的。"
+    },
+    "minimal": {
+      "en": [
+        "compliance. Often emphasizes meeting a requirement imposed by a rule or authority. Adherence also fits a schedule or personal principles.",
+        "observance. Often used of formal rules, customs, and rituals. Adherence is natural with plans, procedures, and treatment regimens.",
+        "adhesion. The usual noun for the physical bonding of two surfaces. Adherence usually refers to following a rule or plan."
+      ],
+      "ja": [
+        "compliance は規制や外部から課された要件を満たすことに焦点が当たりやすい。adherence は予定や自分の原則を守ることにも使える。",
+        "observance は規則の遵守や、慣習・儀式を守ることによく使う。adherence は計画・手順・治療計画にも自然に使える。",
+        "adhesion は二つの表面が物理的にくっつくことを表す一般的な名詞。adherence は通常、規則や計画を守ることを表す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "compliance",
+        "note": {
+          "en": "A close equivalent for rules or requirements. Use compliance with.",
+          "ja": "規則や要件の遵守を指す近い言い換え。前置詞は compliance with。"
+        }
+      },
+      {
+        "word": "observance",
+        "note": {
+          "en": "A close alternative for rules or customs. Use observance of.",
+          "ja": "規則や慣習を守ることを指す近い言い換え。前置詞は observance of。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French adhérence, from Medieval Latin adhaerentia, related to adhaerere ‘to stick to’.",
+      "ja": "古フランス語 adhérence を経て、中世ラテン語 adhaerentia に由来する。adhaerere（付着する）と同系。"
+    },
+    "equivalents": {
+      "de": "die Einhaltung / die Therapietreue",
+      "it": "il rispetto delle regole / l’aderenza terapeutica",
+      "fr": "le respect des règles / l’observance du traitement",
+      "es": "el cumplimiento / la adherencia al tratamiento"
+    },
+    "collocations": {
+      "en": [
+        "strict adherence to the rules",
+        "ensure adherence to the guidelines",
+        "adherence to professional standards",
+        "adherence to the agreed schedule",
+        "adherence to one’s principles",
+        "medication adherence",
+        "poor adherence to a treatment plan"
+      ],
+      "ja": [
+        "strict adherence to the rules — 規則の厳守",
+        "ensure adherence to the guidelines — 指針が守られるようにする",
+        "adherence to professional standards — 職業上の基準の遵守",
+        "adherence to the agreed schedule — 合意した日程を守ること",
+        "adherence to one’s principles — 自分の原則を貫くこと",
+        "medication adherence — 処方された薬を指示どおりに使うこと",
+        "poor adherence to a treatment plan — 治療計画に沿った実施が十分でないこと"
+      ]
+    },
+    "example": {
+      "en": [
+        "The audit revealed inconsistent adherence to the document retention policy.",
+        "The committee praised her adherence to professional standards even under pressure.",
+        "The study assessed adherence to the treatment plan over six months."
+      ],
+      "ja": [
+        "The audit revealed inconsistent adherence to the document retention policy. — 監査の結果、文書保存方針の遵守にばらつきがあることが分かった。",
+        "The committee praised her adherence to professional standards even under pressure. — 委員会は、彼女が圧力を受けても職業上の基準を守ったことを評価した。",
+        "The study assessed adherence to the treatment plan over six months. — その研究では、6か月にわたり治療計画がどの程度守られたかを評価した。"
+      ]
+    }
   }
 ]
