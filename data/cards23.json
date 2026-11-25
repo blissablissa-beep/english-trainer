@@ -8012,5 +8012,142 @@
         "Under no circumstances should you share your password. — どんな場合でも、パスワードを他人と共有してはいけない。"
       ]
     }
+  },
+  {
+    "id": "sustain",
+    "sid": "2026-01997",
+    "word": "sustain",
+    "level": "C2",
+    "freq": "common",
+    "tags": [
+      "verb",
+      "continuity",
+      "support",
+      "legal"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "sustain",
+        "thirdPersonSingular": "sustains",
+        "past": "sustained",
+        "pastParticiple": "sustained",
+        "presentParticiple": "sustaining",
+        "relatedAdjectives": [
+          "sustained",
+          "sustainable"
+        ]
+      },
+      "patterns": [
+        "sustain + growth / interest / effort",
+        "sustain + life / weight",
+        "sustain + injuries / damage / losses",
+        "sustain + an objection",
+        "Objection sustained."
+      ],
+      "usage": {
+        "object": "The object helps identify the sense. With growth, sustain means keep going. With damage, it means suffer. With an objection, it means accept.",
+        "participles": "Sustained describes something that continued. Sustainable describes something that can continue or be maintained."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/səˈsteɪn/",
+        "uk": "/səˈsteɪn/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to keep an activity, process, or level going over time",
+        "to support a load, a living thing, or someone’s ability to keep going",
+        "to suffer or incur damage, injury, or loss",
+        "to accept an objection or uphold a decision in a legal proceeding"
+      ],
+      "ja": [
+        "活動や状態を持続させる、維持する",
+        "荷重を支える、生命を維持する、人を支える",
+        "損害や負傷を被る、損失を出す",
+        "異議を認める、判断を支持する（法律用語）"
+      ]
+    },
+    "nuance": {
+      "en": "When sustain means keep going, it often suggests that continued effort or resources are needed. In reports, sustain damage or injuries is a formal way to say that someone or something suffered harm. In US courtroom language, Objection sustained means the judge has accepted the objection.",
+      "ja": "「持続させる」の意味では、努力や資源を継続して投入する含みが出やすい。sustain damage や sustain injuries は、被害や負傷を報告する改まった表現。米国の法廷で裁判官が Objection sustained. と言うと、異議を認めたことになる。"
+    },
+    "minimal": {
+      "en": [
+        "maintain. Often focuses on keeping something at a given level or in good condition. Sustain often emphasizes keeping something going over time.",
+        "suffer. A close alternative with injuries or damage. Sustain often sounds more formal in incident reports.",
+        "sustained / sustainable. Sustained growth is growth that continued. Sustainable growth is growth that can continue over time."
+      ],
+      "ja": [
+        "maintain は一定の水準や良い状態を保つことに焦点が当たりやすい。sustain は活動や勢いを継続させる面を強調しやすい。",
+        "suffer は負傷や損害を被る意味で近い。sustain は事故報告などで、より改まった響きが出やすい。",
+        "sustained growth は実際に続いた成長、sustainable growth は長期的に維持できる成長。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "maintain",
+        "note": {
+          "en": "A close alternative for a level, pace, or process.",
+          "ja": "水準・ペース・過程を維持する意味での近い言い換え。"
+        }
+      },
+      {
+        "word": "suffer",
+        "note": {
+          "en": "A close alternative for damage, loss, or injury.",
+          "ja": "損害・損失・負傷を被る意味での近い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French sustenir, from Latin sustinere ‘to hold up, support’, related to tenere ‘to hold’.",
+      "ja": "古フランス語 sustenir を経て、ラテン語 sustinere（支える）に由来する。tenere（保つ）と関係がある。"
+    },
+    "equivalents": {
+      "de": "aufrechterhalten / tragen / erleiden / einem Einwand stattgeben",
+      "it": "sostenere / mantenere / subire / accogliere un’obiezione",
+      "fr": "maintenir / soutenir / subir / accueillir une objection",
+      "es": "mantener / sostener / sufrir / admitir una objeción"
+    },
+    "collocations": {
+      "en": [
+        "sustain growth",
+        "sustain interest",
+        "sustain life",
+        "sustain a heavy load",
+        "sustain serious injuries",
+        "sustain damage",
+        "sustain heavy losses",
+        "sustain an objection"
+      ],
+      "ja": [
+        "sustain growth — 成長を持続させる",
+        "sustain interest — 関心を持続させる",
+        "sustain life — 生命を維持する",
+        "sustain a heavy load — 重い荷重を支える",
+        "sustain serious injuries — 重傷を負う",
+        "sustain damage — 損傷を受ける",
+        "sustain heavy losses — 大きな損失を被る",
+        "sustain an objection — 異議を認める"
+      ]
+    },
+    "example": {
+      "en": [
+        "The team could sustain that pace for a few days, but doing so for a whole month was much harder.",
+        "The beams are designed to sustain the weight of the roof.",
+        "The building sustained extensive damage during the storm.",
+        "The judge sustained the objection and asked the lawyer to rephrase the question."
+      ],
+      "ja": [
+        "The team could sustain that pace for a few days, but doing so for a whole month was much harder. — チームは数日ならそのペースを維持できたが、1か月続けるのはずっと難しかった。",
+        "The beams are designed to sustain the weight of the roof. — 梁は屋根の重さを支えるよう設計されている。",
+        "The building sustained extensive damage during the storm. — その建物は嵐で大きな被害を受けた。",
+        "The judge sustained the objection and asked the lawyer to rephrase the question. — 裁判官は異議を認め、弁護士に質問の言い方を変えるよう求めた。"
+      ]
+    }
   }
 ]
