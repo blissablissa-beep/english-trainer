@@ -1320,6 +1320,7 @@ function renderPronunciation(card) {
       >
         🔊
       </button>
+      <span data-speech-status role="status"></span>
     </div>
   `;
 }
@@ -1419,25 +1420,63 @@ function renderEquivalents(card) {
 // Speech
 // ==================================================
 
-function speak(word) {
-  if (
-    !("speechSynthesis" in window) ||
-    !isNonEmptyString(word)
-  ) {
+let activeSpeech = null;
+
+function speak(word, status) {
+  const japanese = getLanguage() === "ja";
+  const synth = window.speechSynthesis;
+
+  if (!synth || typeof window.SpeechSynthesisUtterance !== "function") {
+    status.textContent = japanese
+      ? "このブラウザでは読み上げを利用できません。"
+      : "Speech is unavailable in this browser.";
     return;
   }
 
-  window.speechSynthesis.cancel();
+  if (!isNonEmptyString(word)) return;
 
-  const utterance =
-    new SpeechSynthesisUtterance(word);
+  activeSpeech?.finish();
+  if (synth.speaking || synth.pending || synth.paused) synth.cancel();
+  if (synth.paused) synth.resume();
 
+  const utterance = new window.SpeechSynthesisUtterance(word);
   utterance.lang = "en-US";
   utterance.rate = 0.85;
 
-  window.speechSynthesis.speak(
-    utterance
-  );
+  const request = {
+    utterance,
+    finish(message = "") {
+      if (activeSpeech !== request) return;
+      clearTimeout(startTimer);
+      status.textContent = message;
+      activeSpeech = null;
+    }
+  };
+
+  const reportError = (code) => {
+    const message = japanese
+      ? "読み上げを開始または完了できませんでした"
+      : "Speech could not start or finish";
+    request.finish(message + " (" + code + ")");
+  };
+
+  const startTimer = setTimeout(() => reportError("start-timeout"), 5000);
+  activeSpeech = request;
+  status.textContent = japanese ? "読み上げ準備中…" : "Preparing speech…";
+
+  utterance.onstart = () => {
+    if (activeSpeech !== request) return;
+    clearTimeout(startTimer);
+    status.textContent = "";
+  };
+  utterance.onend = () => request.finish();
+  utterance.onerror = (event) => reportError(event.error || "unknown-error");
+
+  try {
+    synth.speak(utterance);
+  } catch (error) {
+    reportError(error.name || "unknown-error");
+  }
 }
 
 // ==================================================
@@ -1550,7 +1589,8 @@ function renderCard(card) {
           speak(
             button.getAttribute(
               "data-speak"
-            )
+            ),
+            element.querySelector("[data-speech-status]")
           )
       );
     });
