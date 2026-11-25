@@ -6860,5 +6860,138 @@
         "The buyer asked the seller to give a warranty that it owned the patents listed in the agreement. — 買主は、契約書に列挙された特許を売主が保有していることを保証するよう求めた。"
       ]
     }
+  },
+  {
+    "id": "warrant",
+    "sid": "2026-01988",
+    "word": "warrant",
+    "level": "C1",
+    "freq": "uncommon",
+    "tags": [
+      "noun",
+      "verb",
+      "formal",
+      "legal",
+      "finance"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "countable for official documents and financial instruments",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "warrant",
+        "plural": "warrants",
+        "past": "warranted",
+        "pastParticiple": "warranted",
+        "presentParticiple": "warranting",
+        "relatedNoun": "warranty"
+      },
+      "patterns": [
+        "warrant + investigation / action / -ing",
+        "be warranted",
+        "warrant that + clause",
+        "issue a warrant for + noun",
+        "a warrant to buy + shares"
+      ],
+      "usage": {
+        "subject": "In warrant further investigation, the subject supplies the grounds for investigating. In the seller warrants that …, the subject gives a contractual assurance."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈwɔːr.ənt/",
+        "uk": "/ˈwɒr.ənt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to provide sufficient grounds for an action, reaction, or judgment",
+        "to give an assurance about a fact or condition, especially in a contract",
+        "an official document authorizing an action such as an arrest or search",
+        "a financial instrument giving its holder the right to buy shares at a specified price under stated terms"
+      ],
+      "ja": [
+        "～するだけの理由がある、～を正当化する",
+        "事実や状態について保証する（特に契約書）",
+        "逮捕・捜索などを許可する令状",
+        "所定の条件で株式を買う権利を与える金融商品、ワラント"
+      ]
+    },
+    "nuance": {
+      "en": "Warrant is formal in the sense ‘justify’. The phrase warrants further investigation says the evidence gives enough reason to look more closely. Contractual warrant that introduces what a party assures, and the assurance itself can be called a warranty.",
+      "ja": "「正当化する」の意味では改まった語。warrants further investigation は、さらに調べるだけの理由があるという判断を示す。契約書の warrant that は当事者が保証する内容を導き、その保証自体は warranty と呼べる。"
+    },
+    "minimal": {
+      "en": [
+        "justify. A close equivalent for providing grounds. Justify can also describe a person defending a decision already made.",
+        "require. Often indicates necessity or obligation. Warrant indicates that the circumstances give sufficient grounds for a response.",
+        "warranty. A noun for a product guarantee or contractual assurance. In contracts, warrant is the verb for giving such an assurance."
+      ],
+      "ja": [
+        "justify は根拠を与える意味で近い。人がすでに下した判断の妥当性を説明する場合にも使う。",
+        "require は必要性や義務を表すことが多い。warrant はその状況に照らして対応を取るだけの理由があることを表す。",
+        "warranty は製品保証や契約上の保証を表す名詞。契約書で保証する行為を動詞で表すと warrant が使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "justify",
+        "note": {
+          "en": "A close equivalent when facts provide adequate grounds for action.",
+          "ja": "事実が対応を取る十分な理由になる場合の言い換え。"
+        }
+      },
+      {
+        "word": "guarantee",
+        "note": {
+          "en": "A broader equivalent in the sense of giving an assurance.",
+          "ja": "保証を与える意味での、より幅広い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Anglo-French forms related to Old French guarant and guarantir, of Germanic origin. It shares its history with warranty and guarantee.",
+      "ja": "古フランス語 guarant、guarantir に対応するアングロ・フランス語の形に由来する。もとはゲルマン系で、warranty や guarantee と同系。"
+    },
+    "equivalents": {
+      "de": "rechtfertigen / zusichern / der Haftbefehl / der Optionsschein",
+      "it": "giustificare / garantire / il mandato / il warrant",
+      "fr": "justifier / garantir / le mandat / le bon de souscription",
+      "es": "justificar / garantizar / la orden judicial / el warrant"
+    },
+    "collocations": {
+      "en": [
+        "warrant further investigation",
+        "warrant immediate action",
+        "be fully warranted",
+        "represent and warrant that …",
+        "an arrest warrant",
+        "a search warrant",
+        "exercise a stock warrant"
+      ],
+      "ja": [
+        "warrant further investigation — さらなる調査を行うだけの理由がある",
+        "warrant immediate action — 即時の対応が妥当である",
+        "be fully warranted — 十分な根拠がある",
+        "represent and warrant that … — ～であることを表明し、保証する",
+        "an arrest warrant — 逮捕状",
+        "a search warrant — 捜索令状",
+        "exercise a stock warrant — 株式を取得するワラントを行使する"
+      ]
+    },
+    "example": {
+      "en": [
+        "The discrepancy warrants a closer look at the underlying data.",
+        "The licensor warrants that it has the authority to grant the rights set out in this agreement.",
+        "A judge issued a warrant to search the premises.",
+        "The investors exercised their warrants and bought shares at the agreed price."
+      ],
+      "ja": [
+        "The discrepancy warrants a closer look at the underlying data. — この食い違いがある以上、元データをもっと詳しく調べる必要がある。",
+        "The licensor warrants that it has the authority to grant the rights set out in this agreement. — ライセンサーは、本契約に定める権利を許諾する権限を有することを保証する。",
+        "A judge issued a warrant to search the premises. — 裁判官はその施設の捜索令状を発付した。",
+        "The investors exercised their warrants and bought shares at the agreed price. — 投資家はワラントを行使し、合意した価格で株式を取得した。"
+      ]
+    }
   }
 ]
