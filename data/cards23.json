@@ -6744,5 +6744,121 @@
         "The study assessed adherence to the treatment plan over six months. — その研究では、6か月にわたり治療計画がどの程度守られたかを評価した。"
       ]
     }
+  },
+  {
+    "id": "warranty",
+    "sid": "2026-01987",
+    "word": "warranty",
+    "level": "B2",
+    "freq": "common",
+    "tags": [
+      "noun",
+      "consumer",
+      "contracts",
+      "legal"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable for a particular warranty",
+      "forms": {
+        "base": "warranty",
+        "plural": "warranties",
+        "relatedVerb": "warrant"
+      },
+      "patterns": [
+        "come with a + duration + warranty",
+        "be under / out of warranty",
+        "be covered by the warranty",
+        "a warranty on + product",
+        "a warranty against + defect",
+        "breach of warranty"
+      ],
+      "usage": {
+        "article": "Use under warranty and out of warranty without an article. Use the warranty when referring to a particular set of terms."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈwɔːr.ən.t̬i/",
+        "uk": "/ˈwɒr.ən.ti/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a promise by a seller or manufacturer concerning a product, often including repair or replacement for specified problems",
+        "an assurance about a fact or condition, given contractual or legal effect"
+      ],
+      "ja": [
+        "販売店やメーカーによる製品保証。対象となる不具合について修理や交換などを約束するもの",
+        "事実や状態などに関する契約上・法律上の保証"
+      ]
+    },
+    "nuance": {
+      "en": "Under warranty describes the status of a product. Covered by the warranty asks whether a particular problem falls within its terms. In contracts, representations and warranties is a common heading for statements and assurances about matters such as ownership or authority.",
+      "ja": "under warranty は製品が保証期間内であることを表し、covered by the warranty は個別の故障や不具合が保証の対象かどうかを表す。契約書の representations and warranties（表明保証）は、権利の帰属や契約を締結する権限などに関する表明・保証をまとめた条項の見出しによく使う。"
+    },
+    "minimal": {
+      "en": [
+        "guarantee. A broader word for an assurance or promise, as in a money-back guarantee. Warranty is especially common for product coverage and contractual assurances.",
+        "representation. In contract drafting, a statement about a fact or state of affairs. Warranty highlights the assurance given about that matter. The two often occur together."
+      ],
+      "ja": [
+        "guarantee は money-back guarantee（返金保証）のような約束にも使う広い語。warranty は製品保証や契約上の保証によく使う。",
+        "契約書の representation は、事実や状況に関する表明。warranty は、その事項について与える保証に焦点を置く。両語は representations and warranties としてよく併記される。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "guarantee",
+        "note": {
+          "en": "Often interchangeable in everyday talk about product guarantees. Legal usage depends on context.",
+          "ja": "製品保証の日常的な話では言い換えられることが多い。法律文書では文脈に応じて訳し分ける。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Anglo-French warantie ‘protection, safeguard’, related to warrant and to French garantie.",
+      "ja": "アングロ・フランス語 warantie（保護、保障）に由来する。英語 warrant やフランス語 garantie と関係がある。"
+    },
+    "equivalents": {
+      "de": "die Garantie / die Gewährleistung",
+      "it": "la garanzia",
+      "fr": "la garantie",
+      "es": "la garantía"
+    },
+    "collocations": {
+      "en": [
+        "a two-year warranty",
+        "under warranty",
+        "out of warranty",
+        "be covered by the warranty",
+        "an extended warranty",
+        "an express / implied warranty",
+        "breach of warranty",
+        "representations and warranties"
+      ],
+      "ja": [
+        "a two-year warranty — 2年間の保証",
+        "under warranty — 保証期間内で",
+        "out of warranty — 保証期間が切れて",
+        "be covered by the warranty — 保証の対象である",
+        "an extended warranty — 延長保証",
+        "an express / implied warranty — 明示／黙示の保証",
+        "breach of warranty — 保証違反",
+        "representations and warranties — 表明保証"
+      ]
+    },
+    "example": {
+      "en": [
+        "The watch is still under warranty, but accidental damage isn’t covered.",
+        "Does the replacement part come with its own warranty?",
+        "The buyer asked the seller to give a warranty that it owned the patents listed in the agreement."
+      ],
+      "ja": [
+        "The watch is still under warranty, but accidental damage isn’t covered. — その腕時計はまだ保証期間内だが、事故による破損は保証の対象外だ。",
+        "Does the replacement part come with its own warranty? — その交換部品には別途保証が付きますか。",
+        "The buyer asked the seller to give a warranty that it owned the patents listed in the agreement. — 買主は、契約書に列挙された特許を売主が保有していることを保証するよう求めた。"
+      ]
+    }
   }
 ]
