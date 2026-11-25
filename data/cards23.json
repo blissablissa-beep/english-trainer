@@ -9834,5 +9834,105 @@
         "Properly speaking, this is a draft rather than a final report. — 厳密に言えば、これは最終報告書ではなく草稿だ。"
       ]
     }
+  },
+  {
+    "id": "static-cling",
+    "sid": "2026-02012",
+    "word": "static cling",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "noun phrase",
+      "clothing",
+      "laundry",
+      "household"
+    ],
+    "grammar": {
+      "pos": "noun phrase",
+      "countability": "uncountable",
+      "patterns": [
+        "reduce / prevent / get rid of static cling",
+        "static cling in clothes",
+        "fabric clings to + noun"
+      ],
+      "usage": {
+        "noun": "Use static cling without an indefinite article when naming the effect. To describe which items stick together, use cling to or stick to."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈstæt.ɪk klɪŋ/",
+        "uk": "/ˈstæt.ɪk klɪŋ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the tendency of clothes or other materials to stick to a surface or to each other because of static electricity"
+      ],
+      "ja": [
+        "静電気で衣類が体やほかの衣類にまとわりつくこと、静電気による貼りつき"
+      ]
+    },
+    "nuance": {
+      "en": "Static cling names the sticking effect itself. It often comes up when laundry comes out of the dryer or when a skirt sticks to tights. In casual conversation, people may say My skirt is sticking to my tights or blame it on static.",
+      "ja": "static cling は、静電気で物が貼りつく現象を指す。乾燥機から出した衣類同士がくっついたり、スカートがタイツにまとわりついたりする場面でよく使う。会話なら My skirt is sticking to my tights. のように、何が何に貼りつくかをそのまま言える。"
+    },
+    "minimal": {
+      "en": [
+        "static electricity: The electrical phenomenon that can cause sticking, a spark, or a small shock. Static cling is the sticking effect.",
+        "cling to: A verb phrase for sticking or holding closely. It can describe wet fabric sticking to skin, where moisture is the cause."
+      ],
+      "ja": [
+        "static electricity：「静電気」。貼りつきや火花、触れたときのピリッとした刺激の原因になる。static cling はそのうち貼りつく現象を指す。",
+        "cling to：「～にぴったりくっつく、まとわりつく」。濡れた服が肌に貼りつく場合にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "static",
+        "note": {
+          "en": "A common shorthand for static electricity in laundry contexts, as in There’s a lot of static in these clothes.",
+          "ja": "洗濯物の話では、静電気を static と略して言うことがある。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Static refers to static electricity, and cling names the sticking effect.",
+      "ja": "static は static electricity（静電気）、cling は「くっつくこと、まとわりつき」を表す。"
+    },
+    "equivalents": {
+      "de": "das Anhaften durch statische Aufladung",
+      "it": "l’adesione dovuta all’elettricità statica",
+      "fr": "l’adhérence due à l’électricité statique",
+      "es": "la adherencia por electricidad estática"
+    },
+    "collocations": {
+      "en": [
+        "reduce static cling",
+        "prevent static cling",
+        "get rid of static cling",
+        "static cling in laundry",
+        "cling to your tights"
+      ],
+      "ja": [
+        "reduce static cling — 静電気による貼りつきを抑える",
+        "prevent static cling — 静電気によるまとわりつきを防ぐ",
+        "get rid of static cling — 静電気によるまとわりつきを解消する",
+        "static cling in laundry — 洗濯物の静電気による貼りつき",
+        "cling to your tights — タイツにまとわりつく"
+      ]
+    },
+    "example": {
+      "en": [
+        "Static cling was so bad that two socks stuck to the inside of my sweater.",
+        "My skirt keeps sticking to my tights. I think it’s static.",
+        "This spray is designed to reduce static cling in clothes."
+      ],
+      "ja": [
+        "Static cling was so bad that two socks stuck to the inside of my sweater. — 静電気でひどくまとわりついて、靴下が２枚、セーターの内側に貼りついていた。",
+        "My skirt keeps sticking to my tights. I think it’s static. — スカートが何度もタイツにまとわりつく。たぶん静電気だ。",
+        "This spray is designed to reduce static cling in clothes. — このスプレーは、衣類が静電気でまとわりつくのを抑えるためのものです。"
+      ]
+    }
   }
 ]
