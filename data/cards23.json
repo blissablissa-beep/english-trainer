@@ -7112,5 +7112,125 @@
         "Over time, you develop an intuition for which arguments need more evidence. — 経験を重ねると、どの主張に追加の証拠が必要かが直感的に分かるようになる。"
       ]
     }
+  },
+  {
+    "id": "grievance",
+    "sid": "2026-01990",
+    "word": "grievance",
+    "level": "C1",
+    "freq": "uncommon",
+    "tags": [
+      "noun",
+      "workplace",
+      "disputes"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "base": "grievance",
+        "plural": "grievances",
+        "relatedAdjective": "aggrieved"
+      },
+      "patterns": [
+        "have a grievance against + person / organization",
+        "have a grievance about / over + issue",
+        "raise / file / lodge a grievance",
+        "address / resolve + grievances"
+      ],
+      "usage": {
+        "prepositions": "Against names the party blamed for the perceived unfairness. About or over names the issue."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈɡriː.vəns/",
+        "uk": "/ˈɡriː.vəns/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a complaint or sense of having been treated unfairly",
+        "a formal complaint raised through an established process, especially at work"
+      ],
+      "ja": [
+        "不当な扱いを受けたという不満、苦情",
+        "正式な苦情申立て（特に職場で所定の手続を通じて行うもの）"
+      ]
+    },
+    "nuance": {
+      "en": "Grievance suggests a perceived wrong, so it fits disputes about pay, workload, or unequal treatment. Have a grievance describes the underlying complaint. File a grievance describes the step of submitting it formally.",
+      "ja": "扱いが不当だったという認識がにじむ語で、賃金や仕事量、待遇の差をめぐる不満によく使う。have a grievance は不満を抱えていること、file a grievance はその不満を正式に申し立てることを表す。"
+    },
+    "minimal": {
+      "en": [
+        "complaint. A broader word that also covers ordinary dissatisfaction, such as a complaint about cold food. Grievance suggests perceived unfairness or a formal process.",
+        "grudge. A lingering personal resentment. A grievance can identify an issue that an organization can investigate and resolve.",
+        "grief. Deep sorrow, often after a loss. Grievance concerns a perceived wrong."
+      ],
+      "ja": [
+        "complaint は料理が冷めていたといった一般的な苦情にも使う。grievance は不公平な扱いを受けたという認識や、正式な手続を連想させやすい。",
+        "grudge は個人的な恨みが長引いていることに焦点がある。grievance は組織が調査し、解決できる具体的な問題も指せる。",
+        "grief は喪失などによる深い悲しみ。grievance は不当だと感じる扱いに関する不満。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "complaint",
+        "note": {
+          "en": "The general word for expressing dissatisfaction.",
+          "ja": "苦情を広く指す一般語。"
+        }
+      },
+      {
+        "word": "formal complaint",
+        "note": {
+          "en": "A plain-language equivalent in a workplace procedure.",
+          "ja": "職場などの手続における平易な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French grevance ‘harm, injury’, from grever ‘to burden’, ultimately related to Latin gravis ‘heavy’.",
+      "ja": "古フランス語 grevance（害、損害）に由来する。grever（負担を負わせる）を経て、ラテン語 gravis（重い）にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "die Beschwerde / der Beschwerdegrund",
+      "it": "il motivo di lamentela / il reclamo formale",
+      "fr": "le grief / la réclamation",
+      "es": "el agravio / la queja formal"
+    },
+    "collocations": {
+      "en": [
+        "have a grievance against management",
+        "raise a grievance about pay",
+        "file a formal grievance",
+        "a grievance procedure",
+        "a grievance hearing",
+        "address employees’ grievances",
+        "a longstanding grievance"
+      ],
+      "ja": [
+        "have a grievance against management — 経営陣の対応に不満を抱いている",
+        "raise a grievance about pay — 賃金について苦情を申し出る",
+        "file a formal grievance — 正式に苦情を申し立てる",
+        "a grievance procedure — 苦情処理手続",
+        "a grievance hearing — 苦情申立てに関する聴聞",
+        "address employees’ grievances — 従業員の不満に対処する",
+        "a longstanding grievance — 長年の不満"
+      ]
+    },
+    "example": {
+      "en": [
+        "Several employees filed a grievance after management changed their shifts without consulting them.",
+        "Residents had a longstanding grievance about how the city allocated parking spaces.",
+        "The union met with management to discuss how to resolve the grievance."
+      ],
+      "ja": [
+        "Several employees filed a grievance after management changed their shifts without consulting them. — 経営陣が事前に相談せず勤務シフトを変更したため、従業員数人が正式に苦情を申し立てた。",
+        "Residents had a longstanding grievance about how the city allocated parking spaces. — 住民は、市の駐車区画の割り当て方に長年不満を抱いていた。",
+        "The union met with management to discuss how to resolve the grievance. — 労働組合は、苦情申立てをどう解決するかを話し合うため、経営陣と面会した。"
+      ]
+    }
   }
 ]
