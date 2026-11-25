@@ -10506,5 +10506,127 @@
         "The new system won’t solve every problem overnight. — 新しいシステムを導入しても、すべての問題がすぐに解決するわけではない。"
       ]
     }
+  },
+  {
+    "id": "household",
+    "sid": "2026-02018",
+    "word": "household",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "adjective",
+      "home",
+      "society",
+      "finance"
+    ],
+    "grammar": {
+      "pos": "noun / adjective",
+      "countability": "countable as a noun",
+      "forms": {
+        "singular": "household",
+        "plural": "households"
+      },
+      "patterns": [
+        "a one-person household",
+        "per household",
+        "household + income / expenses / chores",
+        "household + goods / appliances",
+        "become a household name"
+      ],
+      "usage": {
+        "noun": "Use a household for one person living alone or a group living together as one domestic unit.",
+        "modifier": "Before a noun, household can mean related to the home, its occupants, or everyday domestic use."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈhaʊs.hoʊld/",
+        "uk": "/ˈhaʊs.həʊld/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(noun) one person living alone or a group of people living together as a domestic unit",
+        "(adjective) connected with the home or the people who live in it, or intended for use in the home"
+      ],
+      "ja": [
+        "（名詞）世帯。一人暮らしの人、または一緒に暮らす人たちを生活の単位として捉えたもの",
+        "（形容詞）家庭の、家計の、家庭用の"
+      ]
+    },
+    "nuance": {
+      "en": "Household looks at who lives together as a unit. A person living alone can be a one-person household, and a household may include people who are unrelated. Household income and per household are common when counting or comparing domestic units. Household chores are jobs done around the home. A household name is a person, brand, or other name widely recognized by the public.",
+      "ja": "household は、一緒に暮らす人たちを生活の単位として捉える。単身世帯もあり、血縁関係のない人を含むこともある。household income（世帯収入）や per household（一世帯あたり）は、世帯単位で数えたり比較したりするときによく使う。household chores は「日常の家事」。a household name は、世間に広く知られている人やブランドなどを指す。"
+    },
+    "minimal": {
+      "en": [
+        "family: Focuses on family ties, which can extend across several households. Household focuses on a living arrangement or domestic unit.",
+        "home: Often refers to the place where someone lives. Home insurance is insurance connected with the property or its contents. Household expenses are the living expenses of the people in the household.",
+        "domestic: Can mean connected with home life or, in expressions such as domestic flights, within one country. Household income is tied specifically to a domestic unit."
+      ],
+      "ja": [
+        "family：親族や家族としてのつながりに焦点がある。一つの family が複数の household に分かれて暮らすこともある。household は生活の単位としての世帯に焦点がある。",
+        "home：暮らす場所を指すことが多い。home insurance は住宅や家財に関する保険。household expenses は世帯の生活費。",
+        "domestic：「家庭の」のほか、domestic flights（国内便）のように「国内の」という意味もある。household income は「世帯収入」。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "domestic",
+        "note": {
+          "en": "Close when modifying a noun related to home life or home use.",
+          "ja": "家庭生活や家庭での用途に関する語を修飾するときに近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "A compound of house and hold, referring to a home and the people belonging to it.",
+      "ja": "house と hold の複合語。家と、そこに属する人々を指す語。"
+    },
+    "equivalents": {
+      "de": "der Haushalt / Haushalts-",
+      "it": "il nucleo familiare / domestico",
+      "fr": "le ménage / ménager",
+      "es": "el hogar / doméstico"
+    },
+    "collocations": {
+      "en": [
+        "a one-person household",
+        "a household of four",
+        "per household",
+        "household income",
+        "household expenses",
+        "household chores",
+        "household appliances",
+        "household waste",
+        "a household name"
+      ],
+      "ja": [
+        "a one-person household — 単身世帯",
+        "a household of four — ４人世帯",
+        "per household — 一世帯あたり",
+        "household income — 世帯収入",
+        "household expenses — 世帯の生活費",
+        "household chores — 日常の家事",
+        "household appliances — 家庭用電化製品",
+        "household waste — 家庭ごみ",
+        "a household name — 誰もが知る名前、有名人や有名ブランド"
+      ]
+    },
+    "example": {
+      "en": [
+        "The survey asks for the total income of everyone in your household.",
+        "We split the household chores so neither of us has to do everything.",
+        "The city provides one recycling bin per household.",
+        "The company became a household name after its first product went viral."
+      ],
+      "ja": [
+        "The survey asks for the total income of everyone in your household. — この調査では、世帯全員の収入の合計を尋ねている。",
+        "We split the household chores so neither of us has to do everything. — どちらか一方が全部やらなくて済むよう、家事を分担している。",
+        "The city provides one recycling bin per household. — 市は一世帯につき一つ、資源ごみ用の容器を配布している。",
+        "The company became a household name after its first product went viral. — 最初の製品がネットで話題になり、その会社は広く知られるようになった。"
+      ]
+    }
   }
 ]
