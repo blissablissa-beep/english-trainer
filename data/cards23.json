@@ -10036,5 +10036,126 @@
         "Static electricity can make your clothes stick together when you take them out of the dryer. — 乾燥機から出した服が、静電気でくっつくことがある。"
       ]
     }
+  },
+  {
+    "id": "static",
+    "sid": "2026-02014",
+    "word": "static",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "noun",
+      "technology",
+      "science"
+    ],
+    "grammar": {
+      "pos": "adjective / noun",
+      "countability": "uncountable as a noun",
+      "patterns": [
+        "remain / stay static",
+        "static + image / display / website",
+        "hear static",
+        "static on the radio"
+      ],
+      "usage": {
+        "adjective": "Use before a noun or after be, stay, or remain.",
+        "noun": "Use static without an indefinite article for radio noise or static electricity. A burst of static describes a short burst of noise."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈstæt.ɪk/",
+        "uk": "/ˈstæt.ɪk/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(adjective) staying in the same position or remaining unchanged",
+        "(noun) crackling or hissing noise caused by interference in a signal",
+        "(noun) static electricity, especially in everyday speech"
+      ],
+      "ja": [
+        "（形容詞）動かない、変化しない、静的な",
+        "（名詞）ラジオなどの信号に混じるザーッ、バリバリという雑音",
+        "（名詞）静電気。日常会話での略称"
+      ]
+    },
+    "nuance": {
+      "en": "Prices remained static means they stayed at the same level. A static image is still. In the expression static electricity, static refers to charge that has built up. As a noun, static can mean either the charge or the noise, depending on what you are talking about.",
+      "ja": "Prices remained static. は「価格が同じ水準のままだった」。a static image は「動きのない画像」。static electricity の static は、電荷がたまっている状態を表す。名詞の static は文脈によって「静電気」や「ザザーッという雑音」になる。"
+    },
+    "minimal": {
+      "en": [
+        "stationary: Focuses on physical position. A stationary car is not moving. Static can describe things such as prices or design as well.",
+        "stagnant: Usually implies a lack of movement or growth that is undesirable. Sales remained static simply says they did not change. Sales were stagnant suggests a lack of progress.",
+        "static cling: The sticking effect caused by static electricity. Static on its own can name the charge behind the effect."
+      ],
+      "ja": [
+        "stationary：物理的に動いていないことに焦点がある。a stationary car は「停止している車」。static は価格やデザインなどの変化の有無も表す。",
+        "stagnant：「停滞した」。変化や成長がないことを問題として捉える含みが出やすい。Sales remained static. は「売上が横ばいだった」という記述。",
+        "static cling：静電気による貼りつき。static 単独では、その原因となる静電気を指すことがある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "unchanging",
+        "note": {
+          "en": "Close when describing a level, condition, or arrangement that stays the same.",
+          "ja": "水準や状態、配置が変化しないという意味で近い。"
+        }
+      },
+      {
+        "word": "interference",
+        "note": {
+          "en": "A broader term for disruption of a signal. Static is the noise you can hear.",
+          "ja": "interference は信号の妨害を広く指す。static は耳に聞こえる雑音を指す。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The adjective is related to the idea of standing still. The electrical noun is short for static electricity.",
+      "ja": "形容詞の根にあるのは「じっと立っている、動かない」という考え方。静電気を指す名詞用法は static electricity を縮めたもの。"
+    },
+    "equivalents": {
+      "de": "statisch / unverändert / das Rauschen / statische Elektrizität",
+      "it": "statico / invariato / i disturbi radio / l’elettricità statica",
+      "fr": "statique / inchangé / les parasites / l’électricité statique",
+      "es": "estático / invariable / la estática / la electricidad estática"
+    },
+    "collocations": {
+      "en": [
+        "remain static",
+        "a static image",
+        "a static display",
+        "a static website",
+        "a burst of static",
+        "static on the radio",
+        "static in your clothes"
+      ],
+      "ja": [
+        "remain static — 変化しないままでいる",
+        "a static image — 静止画像",
+        "a static display — 表示内容が変化しないディスプレイ",
+        "a static website — 静的ウェブサイト",
+        "a burst of static — 一瞬のザーッという雑音",
+        "static on the radio — ラジオの雑音",
+        "static in your clothes — 衣類の静電気"
+      ]
+    },
+    "example": {
+      "en": [
+        "The number of active users remained static throughout the quarter.",
+        "The tutorial uses static images to show each step.",
+        "I turned the dial, but all I could hear was static.",
+        "There’s so much static in these clothes that the socks are sticking to my shirt."
+      ],
+      "ja": [
+        "The number of active users remained static throughout the quarter. — 四半期を通じてアクティブユーザー数は横ばいだった。",
+        "The tutorial uses static images to show each step. — そのチュートリアルでは、手順ごとに静止画像を使って説明している。",
+        "I turned the dial, but all I could hear was static. — ダイヤルを回したが、ザザーッという雑音しか聞こえなかった。",
+        "There’s so much static in these clothes that the socks are sticking to my shirt. — この服は静電気がすごくて、靴下がシャツにくっついている。"
+      ]
+    }
   }
 ]
