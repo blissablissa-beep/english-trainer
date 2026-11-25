@@ -10964,5 +10964,122 @@
         "I’m happy to help with the launch, but I don’t want to run the whole show. — 立ち上げは喜んで手伝うけど、全体を仕切る役は引き受けたくない。"
       ]
     }
+  },
+  {
+    "id": "say-uncle",
+    "sid": "2026-02022",
+    "word": "say uncle",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "idiom",
+      "informal",
+      "American English",
+      "concession"
+    ],
+    "grammar": {
+      "pos": "idiom",
+      "forms": {
+        "base": "say uncle",
+        "thirdPerson": "says uncle",
+        "past": "said uncle",
+        "pastParticiple": "said uncle",
+        "presentParticiple": "saying uncle"
+      },
+      "patterns": [
+        "Say uncle!",
+        "make someone say uncle",
+        "refuse to say uncle",
+        "finally say uncle"
+      ],
+      "usage": {
+        "register": "Informal American English. Cry uncle is a common variant. The imperative Say uncle! demands that the other person concede.",
+        "form": "The idiom uses uncle without an article. The verb say changes with tense."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/seɪ ˈʌŋ.kəl/",
+        "uk": "/seɪ ˈʌŋ.kəl/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to give in or concede defeat, especially after resisting or under pressure"
+      ],
+      "ja": [
+        "参ったと認める、降参する、抵抗していたがついに折れる"
+      ]
+    },
+    "nuance": {
+      "en": "Say uncle can be playful in games or challenges. In an argument or negotiation, it can imply that someone resisted and ultimately yielded to pressure. Say uncle! means ‘Admit you’ve had enough!’ or ‘Give up!’ depending on the situation.",
+      "ja": "遊びや勝負では冗談めいて使える。議論や交渉で使うと、抵抗していた人が押し切られて折れた、という含みが出る。命令形 Say uncle! は場面に応じて「参ったって言え！」「降参しろ！」に当たる。"
+    },
+    "minimal": {
+      "en": [
+        "give in: A broader, more neutral expression for yielding to pressure or agreeing after resisting.",
+        "give up: Can mean to stop trying or abandon an effort, even when there is no opponent. Say uncle often suggests conceding to an opponent or pressure.",
+        "throw in the towel: Highlights deciding to stop trying. Say uncle often highlights admitting that you have been beaten or giving in."
+      ],
+      "ja": [
+        "give in：「折れる、譲る」を表す広く中立的な言い方。",
+        "give up：「諦める、やめる」。相手がいない場合にも使える。say uncle には、相手やその場の圧力に屈するという響きが出やすい。",
+        "throw in the towel：「これ以上続けない」と決めることに重点がある。say uncle は負けを認めたり、折れたりするところに焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "cry uncle",
+        "note": {
+          "en": "A variant of the same informal US idiom.",
+          "ja": "同じ意味のアメリカ英語の口語表現。"
+        }
+      },
+      {
+        "word": "admit defeat",
+        "note": {
+          "en": "A straightforward way to say that someone acknowledges losing.",
+          "ja": "「負けを認める」をそのまま表す言い方。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The expression is associated with using the word uncle as a signal of surrender in rough play. The reason uncle became the surrender word is uncertain.",
+      "ja": "じゃれ合いなどで uncle を降参の合図として言わせる使い方と結びついている。なぜ uncle が降参の合図になったかには諸説がある。"
+    },
+    "equivalents": {
+      "de": "sich geschlagen geben / klein beigeben",
+      "it": "arrendersi / cedere",
+      "fr": "s’avouer vaincu / céder",
+      "es": "darse por vencido / ceder"
+    },
+    "collocations": {
+      "en": [
+        "Say uncle!",
+        "finally say uncle",
+        "refuse to say uncle",
+        "make someone say uncle",
+        "cry uncle"
+      ],
+      "ja": [
+        "Say uncle! — 参ったって言え！",
+        "finally say uncle — ついに折れる",
+        "refuse to say uncle — 降参するのを拒む",
+        "make someone say uncle — 相手に参ったと言わせる",
+        "cry uncle — 降参する、参ったと認める"
+      ]
+    },
+    "example": {
+      "en": [
+        "I thought I could do one more round, but after twenty minutes I finally said uncle.",
+        "The other side kept pushing for a discount, but we refused to say uncle.",
+        "“Say uncle!” my brother said. “Okay, okay. You win.”"
+      ],
+      "ja": [
+        "I thought I could do one more round, but after twenty minutes I finally said uncle. — もう１ラウンドいけると思ったけど、20分たってとうとう参ったと認めた。",
+        "The other side kept pushing for a discount, but we refused to say uncle. — 先方は値引きを求め続けたが、こちらは折れなかった。",
+        "“Say uncle!” my brother said. “Okay, okay. You win.” — 兄が「参ったって言え！」と言った。「分かった、分かった。そっちの勝ちだよ」"
+      ]
+    }
   }
 ]
