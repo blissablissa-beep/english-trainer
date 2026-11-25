@@ -11081,5 +11081,112 @@
         "“Say uncle!” my brother said. “Okay, okay. You win.” — 兄が「参ったって言え！」と言った。「分かった、分かった。そっちの勝ちだよ」"
       ]
     }
+  },
+  {
+    "id": "exclaim",
+    "sid": "2026-02023",
+    "word": "exclaim",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "speech",
+      "emotion",
+      "narrative"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "forms": {
+        "base": "exclaim",
+        "thirdPerson": "exclaims",
+        "past": "exclaimed",
+        "pastParticiple": "exclaimed",
+        "presentParticiple": "exclaiming"
+      },
+      "patterns": [
+        "“…” + subject + exclaimed",
+        "subject + exclaimed + “…”",
+        "exclaim that + clause",
+        "exclaim in / with + surprise / delight"
+      ],
+      "usage": {
+        "speech": "Common in written dialogue and narration, where it identifies an utterance as a sudden or emphatic reaction. It can also introduce a that-clause."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪkˈskleɪm/",
+        "uk": "/ɪkˈskleɪm/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to say something suddenly or emphatically, often because of surprise, delight, anger, or another strong feeling"
+      ],
+      "ja": [
+        "驚きや喜び、怒りなどで思わず声を上げる、感情を込めて言う"
+      ]
+    },
+    "nuance": {
+      "en": "Exclaim draws attention to the reaction expressed in the words. It is particularly common as a reporting verb in stories. Someone can shout to be heard across a room. Someone who exclaims ‘That’s impossible!’ is reacting with strong feeling.",
+      "ja": "exclaim は、発した言葉に表れる感情の強さやとっさの反応に焦点を当てる。特に物語のセリフに添える動詞としてよく使う。部屋の向こうに声を届けるためなら shout が自然。思わず「そんなはずがない！」と声を上げる場面なら exclaim が合う。"
+    },
+    "minimal": {
+      "en": [
+        "shout: Emphasizes speaking or calling loudly. The reason can be practical, such as distance or background noise.",
+        "cry out: Can describe a sudden sound without words, such as a cry of pain. Exclaim is often used to introduce the actual words spoken.",
+        "claim: Means to assert that something is true or to demand something you believe is yours. Exclaim describes the manner of speaking."
+      ],
+      "ja": [
+        "shout：大きな声で言う、呼びかける。距離が遠かったり、周りが騒がしかったりして声を張る場合にも使う。",
+        "cry out：痛みで声を上げるなど、言葉になっていない声にも使う。exclaim は発した言葉を引用するときによく使う。",
+        "claim：「～だと主張する」「権利があるものを請求する」。exclaim は言い方や感情の表れを描く。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "cry out",
+        "note": {
+          "en": "Close when someone speaks suddenly in reaction to something.",
+          "ja": "何かに反応してとっさに声を上げる意味で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Ultimately from Latin exclamare, ‘to cry out’, formed from ex- and clamare, ‘to shout or call’.",
+      "ja": "ラテン語 exclamare（声を上げる）にさかのぼる。ex- と clamare（叫ぶ、呼ぶ）から成る。"
+    },
+    "equivalents": {
+      "de": "ausrufen",
+      "it": "esclamare",
+      "fr": "s’exclamer",
+      "es": "exclamar"
+    },
+    "collocations": {
+      "en": [
+        "exclaim in surprise",
+        "exclaim with delight",
+        "exclaim in disbelief",
+        "exclaim that something is impossible"
+      ],
+      "ja": [
+        "exclaim in surprise — 驚いて声を上げる",
+        "exclaim with delight — 喜びで声を上げる",
+        "exclaim in disbelief — 信じられないという様子で声を上げる",
+        "exclaim that something is impossible — そんなことはあり得ないと声を上げる"
+      ]
+    },
+    "example": {
+      "en": [
+        "“You made this yourself?” she exclaimed.",
+        "“We got the grant!” he exclaimed as he read the email.",
+        "When I told him the price, he exclaimed that it was more than twice what he had paid last year."
+      ],
+      "ja": [
+        "“You made this yourself?” she exclaimed. — 「これ、自分で作ったの？」と彼女は驚いて声を上げた。",
+        "“We got the grant!” he exclaimed as he read the email. — メールを読んだ彼は「助成金が取れたぞ！」と喜びの声を上げた。",
+        "When I told him the price, he exclaimed that it was more than twice what he had paid last year. — 値段を伝えると、彼は「去年払った額の倍以上じゃないか！」と声を上げた。"
+      ]
+    }
   }
 ]
