@@ -10740,5 +10740,121 @@
         "Sorting through all the attachments was a real chore. — 添付ファイルを全部仕分けるのは、本当に面倒だった。"
       ]
     }
+  },
+  {
+    "id": "coppice",
+    "sid": "2026-02020",
+    "word": "coppice",
+    "level": "C2",
+    "freq": "rare",
+    "tags": [
+      "noun",
+      "verb",
+      "forestry",
+      "gardening"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "countable as a noun",
+      "forms": {
+        "singular": "coppice",
+        "plural": "coppices",
+        "base": "coppice",
+        "thirdPerson": "coppices",
+        "past": "coppiced",
+        "pastParticiple": "coppiced",
+        "presentParticiple": "coppicing"
+      },
+      "patterns": [
+        "a hazel / willow coppice",
+        "coppice + trees / shrubs",
+        "a coppiced + tree / woodland"
+      ],
+      "usage": {
+        "noun": "Often denotes a wood managed by regularly cutting back trees. It may also refer more generally to a small wood or thicket.",
+        "verb": "Transitive. A species or area can be the object, as in coppice the hazel or coppice part of the woodland."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈkɑː.pɪs/",
+        "uk": "/ˈkɒp.ɪs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(noun) a small wood or stand, especially one managed by repeatedly cutting back trees to obtain new growth and wood",
+        "(verb) to cut a tree or shrub back close to the ground so that new shoots grow from the base"
+      ],
+      "ja": [
+        "（名詞）小さな雑木林。特に、木を周期的に切り戻し、株からの新芽を育てて木材を得る林",
+        "（動詞）木や低木を地際まで切り戻し、株から新芽を出させる。萌芽更新を行う"
+      ]
+    },
+    "nuance": {
+      "en": "In woodland management, coppicing leaves a living stump called a stool. New shoots grow from it and can be harvested later. A hazel coppice is a stand of hazel managed in this way.",
+      "ja": "林の管理では、切り戻した後に生きた株（stool）を残し、そこから伸びた新しい枝や幹を後に収穫する。a hazel coppice は、この方法で管理するハシバミの林。"
+    },
+    "minimal": {
+      "en": [
+        "copse: A general word for a small group of trees or a small wood. Coppice, especially in forestry, often implies repeated cutting and regrowth.",
+        "pollard: To cut back a tree higher up on the trunk so that new shoots grow above ground. Coppicing cuts close to ground level.",
+        "prune: A general term for trimming or removing parts of a plant. Coppice names a particular way of cutting for regrowth from the base."
+      ],
+      "ja": [
+        "copse：小さな林や木立を広く指す。coppice は林業では、繰り返し切って新芽を育てる管理を含意することが多い。",
+        "pollard：幹の高い位置で切り戻し、地面から離れた位置に新しい枝を出させる。coppice は地際で切り戻す。",
+        "prune：枝などを切る、剪定するという広い表現。coppice は株元から再生させるための特定の切り方を指す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "copse",
+        "note": {
+          "en": "Close for a small wood in the general noun sense.",
+          "ja": "名詞で小さな林を広く指す場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French copeiz or coupeiz, referring to a wood where trees had been cut. The English word copse developed as a shortened form of coppice.",
+      "ja": "木を伐った林を指す古フランス語 copeiz または coupeiz に由来する。英語の copse は coppice の短縮形から生まれた。"
+    },
+    "equivalents": {
+      "de": "der Niederwald / auf den Stock setzen",
+      "it": "il bosco ceduo / ceduare",
+      "fr": "le taillis / recéper",
+      "es": "el monte bajo / cortar a ras de suelo para que rebrote"
+    },
+    "collocations": {
+      "en": [
+        "a hazel coppice",
+        "a willow coppice",
+        "coppice management",
+        "a coppice stool",
+        "coppice the hazel",
+        "coppiced woodland"
+      ],
+      "ja": [
+        "a hazel coppice — ハシバミの萌芽更新林",
+        "a willow coppice — ヤナギの萌芽更新林",
+        "coppice management — 萌芽更新による林の管理",
+        "a coppice stool — 新芽を出す切り株",
+        "coppice the hazel — ハシバミを地際で切り戻して新芽を育てる",
+        "coppiced woodland — 萌芽更新で管理された林"
+      ]
+    },
+    "example": {
+      "en": [
+        "The path leads through a hazel coppice that still supplies wood for fences.",
+        "When the hazel was coppiced, new shoots grew from the base of each plant.",
+        "The woodland is coppiced in sections so that the trees are at different stages of regrowth."
+      ],
+      "ja": [
+        "The path leads through a hazel coppice that still supplies wood for fences. — その小道は、今も柵の材料を供給しているハシバミの萌芽更新林を通っている。",
+        "When the hazel was coppiced, new shoots grew from the base of each plant. — ハシバミを地際まで切り戻すと、株元から新芽が伸びた。",
+        "The woodland is coppiced in sections so that the trees are at different stages of regrowth. — 林を区画ごとに切り戻し、新芽が育つ段階が区画によって異なるようにしている。"
+      ]
+    }
   }
 ]
