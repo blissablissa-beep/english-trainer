@@ -9367,5 +9367,121 @@
         "The campaign helped raise consciousness about barriers faced by people with disabilities. — その運動は、障害のある人が直面する障壁への社会の意識を高める一助となった。"
       ]
     }
+  },
+  {
+    "id": "unconscious",
+    "sid": "2026-02008",
+    "word": "unconscious",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "noun",
+      "awareness",
+      "psychology"
+    ],
+    "grammar": {
+      "pos": "adjective / noun",
+      "countability": "uncountable as a noun, usually the unconscious",
+      "patterns": [
+        "be / remain unconscious",
+        "knock someone unconscious",
+        "be unconscious of + noun",
+        "unconscious + bias / habit / reaction",
+        "the unconscious"
+      ],
+      "usage": {
+        "state": "Be unconscious describes a state. Knock someone unconscious means to cause someone to lose consciousness.",
+        "awareness": "Before a noun such as bias, it describes something that operates outside awareness. Be unconscious of is possible, but be unaware of is often more natural for simply not knowing something.",
+        "noun": "The unconscious is a term used in psychology and psychoanalysis."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ʌnˈkɑːn.ʃəs/",
+        "uk": "/ʌnˈkɒn.ʃəs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(adjective) without consciousness",
+        "(adjective) occurring without awareness, or unaware of something",
+        "(noun) the part of mental life outside conscious awareness"
+      ],
+      "ja": [
+        "（形容詞）意識がない、気を失っている",
+        "（形容詞）無意識の、～に気づいていない",
+        "（名詞）無意識、意識に上らない心の領域"
+      ]
+    },
+    "nuance": {
+      "en": "An unconscious person has no conscious awareness at that moment. An unconscious bias can influence a person who is awake and thinking. The adjective describes the bias as operating without the person noticing it.",
+      "ja": "an unconscious person は「意識のない人」。unconscious bias は、本人の意識がはっきりしていても、本人が気づかないまま判断に影響する偏りを指す。"
+    },
+    "minimal": {
+      "en": [
+        "conscious: She was conscious again describes the state after regaining consciousness.",
+        "unaware: Use unaware of for ordinary lack of knowledge, as in I was unaware of the rule.",
+        "unintentional: Focuses on lack of intent. An unintentional error can happen even when you are fully aware of what you are doing."
+      ],
+      "ja": [
+        "conscious：「意識がある」。She was conscious again. は「彼女は再び意識がある状態だった」。",
+        "unaware：単に何かを知らない場合は unaware of が自然。I was unaware of the rule. は「その規則を知らなかった」。",
+        "unintentional：「意図しない」。自分が何をしているか分かっていても、意図せず間違えることはある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "unaware",
+        "note": {
+          "en": "Close in the pattern unconscious of something.",
+          "ja": "unconscious of ～ の「～に気づかない」という意味で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from the negative prefix un- and conscious.",
+      "ja": "否定を表す接頭辞 un- と conscious から成る。"
+    },
+    "equivalents": {
+      "de": "bewusstlos / unbewusst / das Unbewusste",
+      "it": "privo di sensi / inconsapevole / l’inconscio",
+      "fr": "inconscient / l’inconscient",
+      "es": "inconsciente / el inconsciente"
+    },
+    "collocations": {
+      "en": [
+        "be found unconscious",
+        "remain unconscious",
+        "knock someone unconscious",
+        "unconscious bias",
+        "an unconscious habit",
+        "unconscious of the effect",
+        "the unconscious"
+      ],
+      "ja": [
+        "be found unconscious — 意識を失った状態で発見される",
+        "remain unconscious — 意識が戻らない",
+        "knock someone unconscious — 人を気絶させる",
+        "unconscious bias — 無意識の偏見",
+        "an unconscious habit — 無意識の癖",
+        "unconscious of the effect — その影響に気づいていない",
+        "the unconscious — 無意識の領域"
+      ]
+    },
+    "example": {
+      "en": [
+        "He was unconscious when they found him, but he regained consciousness a few minutes later.",
+        "Unconscious bias can affect how we assess job applicants.",
+        "Tapping my pen during meetings had become an unconscious habit.",
+        "The essay explores the role of the unconscious in dreams."
+      ],
+      "ja": [
+        "He was unconscious when they found him, but he regained consciousness a few minutes later. — 発見されたとき彼には意識がなかったが、数分後に意識を取り戻した。",
+        "Unconscious bias can affect how we assess job applicants. — 無意識の偏見は、採用応募者の評価に影響することがある。",
+        "Tapping my pen during meetings had become an unconscious habit. — 会議中にペンをコツコツ鳴らすのが、無意識の癖になっていた。",
+        "The essay explores the role of the unconscious in dreams. — その論考は、夢において無意識が果たす役割を探っている。"
+      ]
+    }
   }
 ]
