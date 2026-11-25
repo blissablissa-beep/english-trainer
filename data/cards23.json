@@ -7886,5 +7886,131 @@
         "Finding a seat on the crowded train was one of the daily frustrations of his commute. — 混雑した電車で座席を見つけるのは、毎日の通勤でいら立つことの一つだった。"
       ]
     }
+  },
+  {
+    "id": "circumstance",
+    "sid": "2026-01996",
+    "word": "circumstance",
+    "level": "B2",
+    "freq": "common",
+    "tags": [
+      "noun",
+      "context",
+      "conditions"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable, usually plural; also uncountable in by force of circumstance",
+      "forms": {
+        "base": "circumstance",
+        "plural": "circumstances",
+        "relatedAdjective": "circumstantial"
+      },
+      "patterns": [
+        "a particular / mitigating circumstance",
+        "under / in the circumstances",
+        "in certain circumstances",
+        "due to unforeseen circumstances",
+        "under no circumstances + auxiliary + subject + verb"
+      ],
+      "usage": {
+        "number": "Use the singular for a particular fact or case and the plural for the conditions taken together.",
+        "inversion": "When under no circumstances starts a clause, invert the subject and auxiliary: Under no circumstances should you share your password."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈsɝː.kəm.stæns/",
+        "uk": "/ˈsɜː.kəm.stɑːns/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a fact or condition that surrounds or affects an event, action, or decision",
+        "the conditions surrounding an event or a person’s life, usually in the plural"
+      ],
+      "ja": [
+        "出来事・行動・判断に関わる個々の事情、条件",
+        "周囲の状況、置かれた事情、身の上や暮らし向き（通常は複数形）"
+      ]
+    },
+    "nuance": {
+      "en": "Circumstances often suggests the surrounding facts that explain a decision or what was possible. Under the circumstances refers to the particular conditions at hand and frequently introduces what seems reasonable given those conditions.",
+      "ja": "circumstances は、なぜその判断をしたのか、何が可能だったのかを説明する周囲の事情を指すことが多い。under the circumstances は「その状況を考えると」という意味で、与えられた条件のもとで妥当な判断を述べるときによく使う。"
+    },
+    "minimal": {
+      "en": [
+        "situation. The overall state of affairs. Circumstances can draw attention to the individual facts or constraints that shape it.",
+        "condition. Can mean a specific requirement or the state of something, as in working conditions or good condition. Circumstances refers to the surrounding facts affecting someone or something.",
+        "context. Often supplies background needed to understand or interpret something. Circumstances often explains what led to an outcome or limited the available choices."
+      ],
+      "ja": [
+        "situation は事態や状況を全体として指す。circumstances は、その状況を形作る個々の事情や制約に目を向ける言い方。",
+        "condition は、特定の要件や物の状態、労働条件などを表せる。circumstances は、人や出来事に関わる周囲の事情を指す。",
+        "context は、言葉や出来事を理解するための背景を指すことが多い。circumstances は、何が結果につながったか、何が選択肢を狭めたかを説明するときによく使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "conditions",
+        "note": {
+          "en": "Close when referring to the conditions under which something happened.",
+          "ja": "出来事が起きたときの条件を指す近い言い換え。"
+        }
+      },
+      {
+        "word": "situation",
+        "note": {
+          "en": "A broad alternative when speaking about the overall state of affairs.",
+          "ja": "全体としての状況を指す一般的な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Via Old French circonstance, from Latin circumstantia, related to circumstare ‘to stand around’, from circum ‘around’ and stare ‘to stand’.",
+      "ja": "古フランス語 circonstance を経て、ラテン語 circumstantia に由来する。circum（周りに）と stare（立つ）から成る circumstare（取り囲むように立つ）と関係がある。"
+    },
+    "equivalents": {
+      "de": "der Umstand / die Umstände",
+      "it": "la circostanza / le circostanze",
+      "fr": "la circonstance / les circonstances",
+      "es": "la circunstancia / las circunstancias"
+    },
+    "collocations": {
+      "en": [
+        "under the circumstances",
+        "under normal circumstances",
+        "in exceptional circumstances",
+        "under no circumstances",
+        "due to unforeseen circumstances",
+        "circumstances beyond one’s control",
+        "a mitigating circumstance",
+        "personal circumstances"
+      ],
+      "ja": [
+        "under the circumstances — その状況を考えると",
+        "under normal circumstances — 通常であれば",
+        "in exceptional circumstances — 例外的な場合に",
+        "under no circumstances — いかなる場合にも～してはならない",
+        "due to unforeseen circumstances — 予期しない事情により",
+        "circumstances beyond one’s control — 自分ではどうにもならない事情",
+        "a mitigating circumstance — 責任や処分を軽くする事情",
+        "personal circumstances — 個人的な事情"
+      ]
+    },
+    "example": {
+      "en": [
+        "Given the time we had, that was the best decision we could make under the circumstances.",
+        "We had to postpone the workshop due to unforeseen circumstances.",
+        "One circumstance complicated the review: the original records were missing.",
+        "Under no circumstances should you share your password."
+      ],
+      "ja": [
+        "Given the time we had, that was the best decision we could make under the circumstances. — 使える時間を考えると、あの状況ではそれが私たちにできる最善の判断だった。",
+        "We had to postpone the workshop due to unforeseen circumstances. — 予期しない事情により、私たちは勉強会を延期せざるを得なかった。",
+        "One circumstance complicated the review: the original records were missing. — 審査を難しくした事情が一つあった。原本の記録が見当たらなかったのだ。",
+        "Under no circumstances should you share your password. — どんな場合でも、パスワードを他人と共有してはいけない。"
+      ]
+    }
   }
 ]
