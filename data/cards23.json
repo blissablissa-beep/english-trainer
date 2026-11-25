@@ -11301,5 +11301,135 @@
         "A backup system helps ensure that the service remains available during maintenance. — 予備システムがあれば、メンテナンス中もサービスを利用できる状態を保ちやすい。"
       ]
     }
+  },
+  {
+    "id": "justify",
+    "sid": "2026-02025",
+    "word": "justify",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "verb",
+      "reasoning",
+      "work",
+      "typography"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "forms": {
+        "base": "justify",
+        "thirdPerson": "justifies",
+        "past": "justified",
+        "pastParticiple": "justified",
+        "presentParticiple": "justifying"
+      },
+      "patterns": [
+        "justify + noun",
+        "justify + -ing",
+        "justify oneself to someone",
+        "be justified in + -ing",
+        "justify the text"
+      ],
+      "usage": {
+        "reason": "Either a person or the reason itself can be the subject. We justified the expense explains our action. The savings justify the expense gives the reason it makes sense.",
+        "typography": "In word processors, Justify usually means aligning text to both margins. Left-justify and right-justify specify a single margin."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈdʒʌs.tə.faɪ/",
+        "uk": "/ˈdʒʌs.tɪ.faɪ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to give or constitute a good reason for an action, decision, or cost",
+        "to explain why your own actions or choices were reasonable",
+        "to align typeset text with a margin or with both margins"
+      ],
+      "ja": [
+        "行動・判断・費用などに十分な理由を示す、十分な理由となる、正当化する",
+        "自分の行動や選択が妥当だった理由を説明する",
+        "文章を左右の余白に合わせて揃える。文書編集の Justify は通常「両端揃え」"
+      ]
+    },
+    "nuance": {
+      "en": "Justify asks whether the reason is good enough to make something acceptable or worthwhile. The savings justify the cost means the savings make the expense worthwhile. Justify can be neutral in budgeting or analysis. Justify yourself can sound defensive when someone has questioned your actions.",
+      "ja": "justify の焦点は、ある行為や判断が妥当だと言えるだけの理由があるかどうか。The savings justify the cost. は「節約効果を考えれば、費用をかける価値がある」。予算や分析の文脈では中立的に使え、justify yourself は、自分の行動を問われて弁明するような響きが出ることもある。"
+    },
+    "minimal": {
+      "en": [
+        "explain: Makes the reason or cause clear. Explaining why a delay happened gives its cause. Justifying the delay gives a reason to consider it acceptable.",
+        "warrant: A more formal word for being sufficient grounds for an action. The evidence warrants further investigation means it is strong enough to call for further investigation.",
+        "rationalize: In the sense of explaining behavior, it often suggests inventing a plausible excuse for a decision already made. Justify can be used for a genuinely good reason."
+      ],
+      "ja": [
+        "explain：理由や原因を明らかにする。遅れを explain するのは原因を説明すること。遅れを justify するのは、その遅れがやむを得ないといえる根拠を示すこと。",
+        "warrant：「～するに足る根拠となる」という改まった表現。The evidence warrants further investigation. は「その証拠は追加調査を行うに足る」という意味。",
+        "rationalize：行動の説明については、すでに下した判断にもっともらしい理由を後づけする含みが出やすい。justify は、十分な根拠が本当にある場合にも使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "warrant",
+        "note": {
+          "en": "Close when a fact or benefit provides sufficient grounds for doing something.",
+          "ja": "ある事実や利点が、何かをするに足る根拠となる場合に近い。"
+        }
+      },
+      {
+        "word": "defend",
+        "note": {
+          "en": "Close when someone gives reasons for a decision being challenged.",
+          "ja": "異議を唱えられた判断について、理由を示して擁護するときに近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French justifiier, ultimately from Late Latin iustificare. Its Latin elements go back to iustus, ‘just’, and facere, ‘to make or do’.",
+      "ja": "古フランス語 justifiier を経て、後期ラテン語 iustificare にさかのぼる。もとになるのは iustus（公正な、正しい）と facere（作る、行う）。"
+    },
+    "equivalents": {
+      "de": "rechtfertigen / begründen / im Blocksatz setzen",
+      "it": "giustificare / giustificare il testo",
+      "fr": "justifier / justifier le texte",
+      "es": "justificar / justificar el texto"
+    },
+    "collocations": {
+      "en": [
+        "justify a decision",
+        "justify the cost",
+        "justify the use of force",
+        "justify spending more",
+        "justify yourself",
+        "be justified in asking for proof",
+        "the end justifies the means",
+        "justify the text"
+      ],
+      "ja": [
+        "justify a decision — 判断の妥当性を説明する",
+        "justify the cost — 費用に見合う理由になる、費用をかける根拠を示す",
+        "justify the use of force — 武力行使を正当化する",
+        "justify spending more — 追加支出の妥当性を示す",
+        "justify yourself — 自分の行動を弁明する",
+        "be justified in asking for proof — 証拠を求めるだけの理由がある",
+        "the end justifies the means — 目的が手段を正当化する",
+        "justify the text — 文章を両端揃えにする"
+      ]
+    },
+    "example": {
+      "en": [
+        "The time savings alone don’t justify the cost of switching systems.",
+        "How can we justify charging customers for a feature they already had?",
+        "Given the conflicting reports, she was justified in asking for more evidence.",
+        "The template justifies the body text and centers the headings."
+      ],
+      "ja": [
+        "The time savings alone don’t justify the cost of switching systems. — 時間の節約だけでは、システムを切り替える費用に見合わない。",
+        "How can we justify charging customers for a feature they already had? — 顧客がすでに使えていた機能を有料にすることを、どう正当化できるだろうか。",
+        "Given the conflicting reports, she was justified in asking for more evidence. — 報告の内容が食い違っていたので、彼女が追加の証拠を求めたのはもっともだった。",
+        "The template justifies the body text and centers the headings. — そのテンプレートは本文を両端揃えにし、見出しを中央揃えにする。"
+      ]
+    }
   }
 ]
