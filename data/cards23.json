@@ -8884,5 +8884,125 @@
         "She posted the fastest time in the preliminaries and qualified for the final. — 彼女は予選で最速タイムを出し、決勝に進んだ。"
       ]
     }
+  },
+  {
+    "id": "so-far",
+    "sid": "2026-02004",
+    "word": "so far",
+    "level": "B1",
+    "freq": "high",
+    "tags": [
+      "adverbial phrase",
+      "time",
+      "progress",
+      "extent"
+    ],
+    "grammar": {
+      "pos": "adverbial phrase",
+      "patterns": [
+        "So far, + clause",
+        "subject + have/has + past participle + so far",
+        "so far this + week / month / year",
+        "can only go / take you so far"
+      ],
+      "usage": {
+        "time": "Often appears at the beginning or end of a clause. The present perfect is common for results accumulated up to now. The present simple also works for a current impression or state.",
+        "extent": "In can only take you so far, the phrase refers to a limit on how much something can help."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/soʊ fɑr/",
+        "uk": "/səʊ fɑː/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "up to now, including what has happened or been observed to this point",
+        "up to this point in an explanation, task, or process",
+        "to a certain distance or extent, often a limited one"
+      ],
+      "ja": [
+        "これまでのところ、今のところ",
+        "説明や作業などのここまで、この時点まで",
+        "ある距離・範囲まで、ある程度まで"
+      ]
+    },
+    "nuance": {
+      "en": "So far takes stock of what has happened up to the current point. It often leaves the outcome open. We’ve had no complaints so far reports the record to date. So far, so good is a conversational way to say things have gone well up to now.",
+      "ja": "so far は現時点までの経過や実績を振り返る表現で、その先はまだ分からないという含みが出やすい。We’ve had no complaints so far. は、現時点まで苦情が寄せられていないことを伝える。So far, so good. は「今のところ順調だよ」という会話の定型表現。"
+    },
+    "minimal": {
+      "en": [
+        "until now: Also marks the period up to the present, and can signal that things are changing now. So far is often used to report how things stand to date.",
+        "by now: Often looks at what is expected to have happened by this point. They should have replied by now expresses an expectation.",
+        "for now: Means for the time being. Let’s keep the current plan for now describes a temporary decision from the present onward."
+      ],
+      "ja": [
+        "until now：今までの期間を示し、「今になって状況が変わる」という文脈でも使う。so far は現時点までの経過報告によく使う。",
+        "by now：「もう今ごろは」という見込みを表すことが多い。They should have replied by now. は「もう返事が来ているはずだ」。",
+        "for now：「当面は」。Let’s keep the current plan for now. は「当面は今の計画でいこう」と、現時点から先の暫定的な方針を述べる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "to date",
+        "note": {
+          "en": "A more formal equivalent for reporting results up to now.",
+          "ja": "現時点までの結果を報告する際の、やや改まった表現。"
+        }
+      },
+      {
+        "word": "up to this point",
+        "note": {
+          "en": "Useful when referring to a stage in a discussion or process.",
+          "ja": "議論や作業の「この段階まで」を明示したいときに使える。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "So indicates degree and far indicates distance. The distance can be understood figuratively as progress along a timeline or through a process.",
+      "ja": "so（それほど）と far（遠くまで）の組み合わせ。距離を時間や作業の進み具合に当てはめると「ここまで、今まで」になる。"
+    },
+    "equivalents": {
+      "de": "bisher / bislang / bis hierhin",
+      "it": "finora / fino a qui",
+      "fr": "jusqu’à présent / jusqu’ici",
+      "es": "hasta ahora / hasta aquí"
+    },
+    "collocations": {
+      "en": [
+        "so far this year",
+        "the best so far",
+        "progress so far",
+        "no issues so far",
+        "so far, so good",
+        "can only go so far"
+      ],
+      "ja": [
+        "so far this year — 今年に入って今までのところ",
+        "the best so far — 今までで一番よいもの",
+        "progress so far — これまでの進捗",
+        "no issues so far — 今のところ問題なし",
+        "so far, so good — 今のところ順調",
+        "can only go so far — 進める範囲には限界がある"
+      ]
+    },
+    "example": {
+      "en": [
+        "We’ve found two relevant prior-art references so far.",
+        "So far, the new system seems to be working well.",
+        "Does everything make sense so far?",
+        "How’s the trial run going? — So far, so good.",
+        "A checklist can only take you so far."
+      ],
+      "ja": [
+        "We’ve found two relevant prior-art references so far. — これまでのところ、関連する先行技術文献が２件見つかっています。",
+        "So far, the new system seems to be working well. — 今のところ、新しいシステムはうまく動いているようだ。",
+        "Does everything make sense so far? — ここまでの説明で分かりにくいところはありますか。",
+        "How’s the trial run going? — So far, so good. — 試運転はどう？ — 今のところ順調だよ。",
+        "A checklist can only take you so far. — チェックリストだけで対応できる範囲には限界がある。"
+      ]
+    }
   }
 ]
