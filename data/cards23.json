@@ -8649,5 +8649,126 @@
         "He says he’ll negotiate, but when it comes down to it, he usually accepts the first offer. — 彼は交渉すると言うけれど、いざとなると、たいてい最初の提示を受け入れる。"
       ]
     }
+  },
+  {
+    "id": "tentative",
+    "sid": "2026-02002",
+    "word": "tentative",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "planning",
+      "negotiation",
+      "uncertainty"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "tentative",
+        "adverb": "tentatively",
+        "noun": "tentativeness"
+      },
+      "patterns": [
+        "a tentative date / agreement / conclusion",
+        "be still tentative",
+        "tentative about + -ing",
+        "tentatively agree to + verb"
+      ],
+      "usage": {
+        "status": "A tentative date is a date suggested or pencilled in for now, with confirmation still pending.",
+        "manner": "A tentative smile, step, or reply suggests hesitation or a lack of confidence."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈten.tə.t̬ɪv/",
+        "uk": "/ˈten.tə.tɪv/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "proposed or reached for the time being and still open to confirmation or change",
+        "showing hesitation or uncertainty in the way someone acts or speaks"
+      ],
+      "ja": [
+        "暫定的な、仮の、まだ確定していない",
+        "ためらいがちな、おずおずとした、自信なさげな"
+      ]
+    },
+    "nuance": {
+      "en": "A tentative date is specific enough to discuss or plan around, but may still change. A tentative conclusion is held with limited confidence and may be revised as more evidence comes in. A tentative smile shows hesitation in the person’s expression.",
+      "ja": "a tentative date は、ひとまず予定を立てるために示した日程で、変更の余地がある。a tentative conclusion は、今の証拠から出した暫定的な結論で、追加の証拠によって見直されうる。a tentative smile は、ためらいが表情ににじんだ笑み。"
+    },
+    "minimal": {
+      "en": [
+        "provisional: A close equivalent for arrangements or decisions subject to confirmation or revision. Tentative also describes hesitation in a person’s manner.",
+        "preliminary: Describes an early stage before fuller work or analysis. Tentative focuses on whether the result is settled or held with confidence.",
+        "hesitant: A close equivalent for someone who is unsure about speaking or acting. A tentative date is an arrangement that has yet to be confirmed."
+      ],
+      "ja": [
+        "provisional：確認や見直しを前提とした取り決め・判断を表す近い語。tentative は人の態度に表れるためらいにも使える。",
+        "preliminary：本格的な作業や分析に先立つ段階に焦点がある。tentative は結果が確定しているか、どの程度確信を持てるかに焦点がある。",
+        "hesitant：発言や行動をためらう様子を指す。日程が未確定なら a tentative date と表す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "provisional",
+        "note": {
+          "en": "Close in the sense of arrangements subject to confirmation or change.",
+          "ja": "確認や変更の余地がある取り決めを指す場合の近い語。"
+        }
+      },
+      {
+        "word": "hesitant",
+        "note": {
+          "en": "Close when describing an uncertain manner or action.",
+          "ja": "ためらいがちな態度や行動を表す場合の近い語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Ultimately related to Latin tentare, meaning ‘to try’ or ‘to test’. The idea of trying something out underlies the sense of a proposal open to change.",
+      "ja": "「試す、試みる」を意味するラテン語 tentare と同系。試しに出してみる、という発想が、変更の余地を残した提案という意味につながる。"
+    },
+    "equivalents": {
+      "de": "vorläufig / zögerlich",
+      "it": "provvisorio / esitante",
+      "fr": "provisoire / hésitant",
+      "es": "provisional / vacilante"
+    },
+    "collocations": {
+      "en": [
+        "a tentative date",
+        "a tentative agreement",
+        "a tentative conclusion",
+        "a tentative smile",
+        "take tentative steps toward something",
+        "tentatively schedule a meeting"
+      ],
+      "ja": [
+        "a tentative date — 仮の日程",
+        "a tentative agreement — 暫定合意",
+        "a tentative conclusion — 暫定的な結論",
+        "a tentative smile — おずおずとした笑み",
+        "take tentative steps toward something — 何かに向けて手探りで一歩を踏み出す",
+        "tentatively schedule a meeting — 会議の日程を仮に設定する"
+      ]
+    },
+    "example": {
+      "en": [
+        "We’ve set a tentative date for the call, pending confirmation from our German counsel.",
+        "The parties reached a tentative agreement on the wording, subject to approval by their clients.",
+        "She gave a tentative smile, unsure whether he remembered her.",
+        "These are tentative conclusions based on the first round of interviews."
+      ],
+      "ja": [
+        "We’ve set a tentative date for the call, pending confirmation from our German counsel. — ドイツの代理人からの確定連絡を待つ間、打ち合わせの日程を仮に設定しました。",
+        "The parties reached a tentative agreement on the wording, subject to approval by their clients. — 当事者は文言について暫定合意に達した。最終確定にはそれぞれの依頼人の承認が必要だ。",
+        "She gave a tentative smile, unsure whether he remembered her. — 彼が自分を覚えているか分からず、彼女はおずおずと微笑んだ。",
+        "These are tentative conclusions based on the first round of interviews. — これは初回の聞き取りに基づく暫定的な結論です。"
+      ]
+    }
   }
 ]
