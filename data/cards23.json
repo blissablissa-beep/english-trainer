@@ -6494,5 +6494,133 @@
         "After a lapse of several months, the two sides resumed talks. — 数か月の中断を経て、双方は協議を再開した。"
       ]
     }
+  },
+  {
+    "id": "adhere",
+    "sid": "2026-01985",
+    "word": "adhere",
+    "level": "C2",
+    "freq": "uncommon",
+    "tags": [
+      "verb",
+      "formal",
+      "rules",
+      "materials"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "intransitive",
+      "forms": {
+        "base": "adhere",
+        "thirdPersonSingular": "adheres",
+        "past": "adhered",
+        "pastParticiple": "adhered",
+        "presentParticiple": "adhering",
+        "relatedNouns": [
+          "adherence",
+          "adhesion"
+        ],
+        "relatedAdjective": "adhesive"
+      },
+      "patterns": [
+        "adhere to + rules / standards / principles",
+        "adhere strictly to + guidelines",
+        "adhere to + a surface",
+        "adhere firmly / properly"
+      ],
+      "usage": {
+        "preposition": "Use to to name the rule or surface. In the physical sense, adhere can also stand alone when the surface is understood."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ədˈhɪr/",
+        "uk": "/ədˈhɪə/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to follow a rule, standard, plan, or principle consistently",
+        "to stick to a surface or remain attached to it"
+      ],
+      "ja": [
+        "規則・基準・方針・原則などを守る、従う",
+        "表面に付着する、くっつく"
+      ]
+    },
+    "nuance": {
+      "en": "In the figurative sense, adhere to is formal and often emphasizes keeping to an established rule or principle over time. In the physical sense, it is common in instructions about how well paint, tape, or a coating sticks to a surface.",
+      "ja": "比喩的な adhere to は改まった表現で、決まった規則や原則を継続して守ることに焦点が当たりやすい。文字どおりの用法では、塗料やテープ、コーティングが表面にどの程度しっかり付くかを説明する手順書などで使われる。"
+    },
+    "minimal": {
+      "en": [
+        "comply with. Often used for a law or requirement imposed by an authority. Adhere to also fits a plan or principle someone has chosen.",
+        "stick to. An everyday alternative for both plans and physical surfaces. Adhere to sounds more formal or technical.",
+        "attach. Often takes a direct object and describes the act of fastening something. Adhere describes the thing itself sticking to a surface."
+      ],
+      "ja": [
+        "comply with は、法令や外部から課された要件に従う場面によく使う。adhere to は、自分で決めた計画や原則を守る場面にも合う。",
+        "stick to は、計画を守る意味にも、表面にくっつく意味にも使える日常的な表現。adhere to はより改まった、または技術的な響きがある。",
+        "attach は、物を取り付ける行為を表し、取り付ける物を直接目的語に取ることが多い。adhere は、物そのものが表面に付着することを表す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "follow",
+        "note": {
+          "en": "A plain alternative for rules, procedures, or guidelines.",
+          "ja": "規則・手順・指針を守る場合の平易な言い換え。"
+        }
+      },
+      {
+        "word": "stick to",
+        "note": {
+          "en": "An everyday alternative for plans and physical surfaces.",
+          "ja": "計画や物理的な表面について使える日常的な言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin adhaerere ‘to stick to’, from ad- ‘to’ and haerere ‘to stick’.",
+      "ja": "ラテン語 adhaerere（くっつく）に由来する。ad-（～へ）と haerere（付着する）から成る。"
+    },
+    "equivalents": {
+      "de": "sich an etwas halten / an etwas haften",
+      "it": "attenersi a / aderire a",
+      "fr": "se conformer à / adhérer à",
+      "es": "atenerse a / adherirse a"
+    },
+    "collocations": {
+      "en": [
+        "adhere to the guidelines",
+        "adhere strictly to the protocol",
+        "adhere to professional standards",
+        "adhere to one’s principles",
+        "adhere to the agreed schedule",
+        "adhere firmly to the surface",
+        "fail to adhere properly"
+      ],
+      "ja": [
+        "adhere to the guidelines — 指針に従う",
+        "adhere strictly to the protocol — 所定の手順を厳守する",
+        "adhere to professional standards — 職業上の基準を守る",
+        "adhere to one’s principles — 自分の原則を貫く",
+        "adhere to the agreed schedule — 合意した日程を守る",
+        "adhere firmly to the surface — 表面にしっかり付着する",
+        "fail to adhere properly — うまく付着しない"
+      ]
+    },
+    "example": {
+      "en": [
+        "All applicants must adhere to the formatting requirements when submitting their documents.",
+        "The team adhered to the original plan even when the schedule became tight.",
+        "Clean the glass before applying the film so that it adheres evenly."
+      ],
+      "ja": [
+        "All applicants must adhere to the formatting requirements when submitting their documents. — 出願人は全員、書類を提出する際に書式要件を守らなければならない。",
+        "The team adhered to the original plan even when the schedule became tight. — 日程に余裕がなくなっても、チームは当初の計画どおりに進めた。",
+        "Clean the glass before applying the film so that it adheres evenly. — フィルムがむらなく付着するよう、貼る前にガラスをきれいにしてください。"
+      ]
+    }
   }
 ]
