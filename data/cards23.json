@@ -8265,5 +8265,151 @@
         "The company saw sustained growth for three years, but it needed a new source of funding to make that growth sustainable. — その企業は3年にわたって成長を続けたが、今後もその成長を維持するには、新たな資金源が必要だった。"
       ]
     }
+  },
+  {
+    "id": "meet",
+    "sid": "2026-01999",
+    "word": "meet",
+    "level": "A1",
+    "freq": "often",
+    "tags": [
+      "verb",
+      "noun",
+      "basic",
+      "business",
+      "sports"
+    ],
+    "grammar": {
+      "pos": "verb / noun",
+      "transitivity": "transitive or intransitive",
+      "countability": "countable in the sports sense",
+      "forms": {
+        "base": "meet",
+        "thirdPersonSingular": "meets",
+        "past": "met",
+        "pastParticiple": "met",
+        "presentParticiple": "meeting",
+        "pluralNoun": "meets"
+      },
+      "patterns": [
+        "meet someone at + place",
+        "meet up with someone",
+        "meet with someone / meet with resistance",
+        "meet + deadline / requirement / cost",
+        "two lines meet at + point"
+      ],
+      "usage": {
+        "people": "Meet someone can mean being introduced, getting together by arrangement, or encountering someone. Meet someone at the station can mean going there to greet them.",
+        "with": "Meet with a person often suggests a discussion. Meet with resistance means encounter opposition."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/miːt/",
+        "uk": "/miːt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to see and speak to someone for the first time, get together, encounter them, or go somewhere to greet them",
+        "to fulfill a requirement, reach a target, or complete something by a deadline",
+        "to pay or cover a cost, or deal with a challenge or demand",
+        "to touch, join, or intersect at a point",
+        "(noun, especially US) an organized sporting competition"
+      ],
+      "ja": [
+        "初めて会う、待ち合わせる、出会う、出迎える",
+        "要件を満たす、目標を達成する、締切に間に合わせる",
+        "費用を賄う、課題に対処する、需要に応える",
+        "接する、合流する、交わる",
+        "（名詞、主に米）競技会、大会"
+      ]
+    },
+    "nuance": {
+      "en": "With a person, context tells you whether meet means a first introduction, an appointment, or an encounter. With a requirement or target, meet emphasizes reaching a specified standard. Meeting a target says it was reached. Exceeding it says the result went further.",
+      "ja": "相手が人なら、初対面・待ち合わせ・偶然の出会いのどれかは文脈で分かる。要件や目標が目的語なら、定められた水準に達することに焦点がある。meet a target は目標に達する、exceed a target は目標を上回る。"
+    },
+    "minimal": {
+      "en": [
+        "see: I saw Maya can mean I spent time with her or simply caught sight of her. I met Maya can mean I was introduced to her or got together with her.",
+        "run into: Specifically suggests an unplanned encounter. Meet also works for arranged meetings.",
+        "satisfy: Often interchangeable with meet for requirements or conditions. Meet is the usual choice with a deadline."
+      ],
+      "ja": [
+        "see：I saw Maya. は「マヤと会って過ごした」にも「マヤを見かけた」にもなる。I met Maya. は文脈により「初めてマヤに会った」や「マヤと待ち合わせて会った」。",
+        "run into：偶然出会う。meet は約束して会うときにも使える。",
+        "satisfy：requirements や conditions では meet と置き換えられることが多い。deadline には meet が一般的。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "get together",
+        "note": {
+          "en": "A close equivalent for an arranged social meeting.",
+          "ja": "約束して会う場合の近い表現。"
+        }
+      },
+      {
+        "word": "fulfill",
+        "note": {
+          "en": "A close equivalent for requirements.",
+          "ja": "要件を満たす場合の近い語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old English mētan, ‘to meet or encounter’.",
+      "ja": "古英語 mētan（会う、出会う）に由来する。"
+    },
+    "equivalents": {
+      "de": "treffen / kennenlernen / erfüllen / eine Frist einhalten",
+      "it": "incontrare / conoscere / soddisfare / rispettare una scadenza",
+      "fr": "rencontrer / retrouver / satisfaire à / respecter un délai",
+      "es": "encontrarse con / conocer / cumplir con / cumplir un plazo"
+    },
+    "collocations": {
+      "en": [
+        "meet someone for the first time",
+        "meet at the station",
+        "meet someone halfway",
+        "meet a deadline",
+        "meet the requirements",
+        "meet customer demand",
+        "meet the costs",
+        "meet with resistance",
+        "make ends meet",
+        "a track meet"
+      ],
+      "ja": [
+        "meet someone for the first time — 人に初めて会う",
+        "meet at the station — 駅で待ち合わせる",
+        "meet someone halfway — 相手に歩み寄る",
+        "meet a deadline — 締切に間に合わせる",
+        "meet the requirements — 要件を満たす",
+        "meet customer demand — 顧客の需要に応える",
+        "meet the costs — 費用を賄う",
+        "meet with resistance — 抵抗に遭う",
+        "make ends meet — 収入の範囲内でやりくりする",
+        "a track meet — 陸上競技大会"
+      ]
+    },
+    "example": {
+      "en": [
+        "I first met her at a conference. We’re meeting for coffee again next week.",
+        "The application meets all the formal requirements, and we can still meet the filing deadline.",
+        "The grant will meet the cost of replacing the windows.",
+        "The proposal met with resistance from several board members.",
+        "The two paths meet just beyond the bridge.",
+        "She ran the 800 meters at her first track meet."
+      ],
+      "ja": [
+        "I first met her at a conference. We’re meeting for coffee again next week. — 彼女とは学会で初めて会った。来週また会ってコーヒーを飲む予定だ。",
+        "The application meets all the formal requirements, and we can still meet the filing deadline. — 申請書は方式上の要件をすべて満たしており、提出期限にもまだ間に合う。",
+        "The grant will meet the cost of replacing the windows. — 窓の交換費用は助成金で賄える。",
+        "The proposal met with resistance from several board members. — その提案は取締役数人の反対に遭った。",
+        "The two paths meet just beyond the bridge. — 二つの道は橋を渡ったすぐ先で合流する。",
+        "She ran the 800 meters at her first track meet. — 彼女は初めての陸上競技大会で800メートルを走った。"
+      ]
+    }
   }
 ]
