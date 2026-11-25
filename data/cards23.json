@@ -9246,5 +9246,126 @@
         "Cost-conscious clients often ask for a fee estimate before the work begins. — 費用を重視する依頼人は、作業の開始前に見積もりを求めることが多い。"
       ]
     }
+  },
+  {
+    "id": "consciousness",
+    "sid": "2026-02007",
+    "word": "consciousness",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "awareness",
+      "psychology",
+      "society"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "usually uncountable",
+      "patterns": [
+        "lose / regain consciousness",
+        "a state of consciousness",
+        "consciousness of + noun",
+        "enter the public consciousness",
+        "raise consciousness about + issue"
+      ],
+      "usage": {
+        "wakefulness": "Use lose or regain consciousness without an article in these expressions.",
+        "awareness": "Consciousness of can take the thing that someone is aware of. Public consciousness refers to awareness shared by the public."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈkɑːn.ʃəs.nəs/",
+        "uk": "/ˈkɒn.ʃəs.nəs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the state of being awake and aware of what is happening around you",
+        "the capacity to have subjective experiences, such as sensations and thoughts",
+        "awareness of a particular issue or of social conditions, held by a person or shared by a group"
+      ],
+      "ja": [
+        "意識がある状態",
+        "感覚や思考などを主観的に経験できること、意識",
+        "ある問題や社会の状況への自覚・関心、個人や集団の意識"
+      ]
+    },
+    "nuance": {
+      "en": "Regain consciousness describes a person coming round. In philosophy and psychology, consciousness often refers to the capacity to experience things. When an issue enters the public consciousness, it starts to register with the wider public.",
+      "ja": "regain consciousness は「意識を取り戻す」。哲学や心理学では、何かを主観的に経験する働きを consciousness と呼ぶ。ある問題が enter the public consciousness するといえば、広く世間に意識されるようになること。"
+    },
+    "minimal": {
+      "en": [
+        "conscious: The adjective for being awake or aware. She regained consciousness describes the change. She was conscious again describes the resulting state.",
+        "awareness: The everyday choice for knowing about a specific issue, as in raise awareness of online fraud. Consciousness can also refer to subjective experience or shared social awareness.",
+        "conscience: Your inner sense of right and wrong. Follow your conscience means to act according to what you believe is right."
+      ],
+      "ja": [
+        "conscious：「意識がある、自覚している」という形容詞。She regained consciousness. は意識を取り戻したという変化、She was conscious again. は再び意識がある状態を表す。",
+        "awareness：特定の問題を知ってもらうことなら、raise awareness of online fraud（ネット詐欺への注意を喚起する）のように使う。consciousness は主観的な経験や社会に共有される意識も表せる。",
+        "conscience：「良心」。follow your conscience は「自分が正しいと思うことに従って行動する」。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "awareness",
+        "note": {
+          "en": "Close when the meaning is knowledge or recognition of an issue.",
+          "ja": "問題への認識や自覚という意味で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from the adjective conscious and the noun-forming suffix -ness, which denotes a state or quality.",
+      "ja": "形容詞 conscious に、状態や性質を表す名詞をつくる接尾辞 -ness が付いた語。"
+    },
+    "equivalents": {
+      "de": "das Bewusstsein",
+      "it": "la coscienza / la consapevolezza",
+      "fr": "la conscience",
+      "es": "la conciencia / la consciencia"
+    },
+    "collocations": {
+      "en": [
+        "lose consciousness",
+        "regain consciousness",
+        "drift in and out of consciousness",
+        "a state of consciousness",
+        "human consciousness",
+        "consciousness of one’s own limitations",
+        "social consciousness",
+        "enter the public consciousness",
+        "raise consciousness about an issue",
+        "stream of consciousness"
+      ],
+      "ja": [
+        "lose consciousness — 意識を失う",
+        "regain consciousness — 意識を取り戻す",
+        "drift in and out of consciousness — 意識が戻ったり途切れたりする",
+        "a state of consciousness — 意識の状態",
+        "human consciousness — 人間の意識",
+        "consciousness of one’s own limitations — 自分の限界についての自覚",
+        "social consciousness — 社会問題への意識",
+        "enter the public consciousness — 広く世間に意識されるようになる",
+        "raise consciousness about an issue — ある問題への意識を高める",
+        "stream of consciousness — 意識の流れ、その流れを描く文学技法"
+      ]
+    },
+    "example": {
+      "en": [
+        "She briefly lost consciousness and regained it a few seconds later.",
+        "The article asks how conscious experience arises and what it can tell us about human consciousness.",
+        "The issue entered the public consciousness after the documentary aired.",
+        "The campaign helped raise consciousness about barriers faced by people with disabilities."
+      ],
+      "ja": [
+        "She briefly lost consciousness and regained it a few seconds later. — 彼女は一時的に意識を失い、数秒後に取り戻した。",
+        "The article asks how conscious experience arises and what it can tell us about human consciousness. — その記事は、意識的な経験がどのように生まれ、そこから人間の意識について何が分かるかを問うている。",
+        "The issue entered the public consciousness after the documentary aired. — そのドキュメンタリーの放送をきっかけに、その問題が広く世間に意識されるようになった。",
+        "The campaign helped raise consciousness about barriers faced by people with disabilities. — その運動は、障害のある人が直面する障壁への社会の意識を高める一助となった。"
+      ]
+    }
   }
 ]
