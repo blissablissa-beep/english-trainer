@@ -7371,5 +7371,125 @@
         "We couldn’t get tickets, so we contented ourselves with watching the concert online. — チケットが取れなかったので、コンサートのオンライン視聴でよしとした。"
       ]
     }
+  },
+  {
+    "id": "resentment",
+    "sid": "2026-01992",
+    "word": "resentment",
+    "level": "C1",
+    "freq": "uncommon",
+    "tags": [
+      "noun",
+      "emotion",
+      "unfairness"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "usually uncountable; resentments can refer to separate feelings or sources of bitterness",
+      "forms": {
+        "base": "resentment",
+        "plural": "resentments",
+        "relatedVerb": "resent",
+        "relatedAdjective": "resentful"
+      },
+      "patterns": [
+        "resentment toward(s) / against + person or group",
+        "resentment at / over + cause",
+        "resentment at + -ing",
+        "feel / harbor resentment",
+        "resentment builds / grows"
+      ],
+      "usage": {
+        "prepositions": "Towards and against identify the target. At and over often introduce what prompted the feeling."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/rɪˈzent.mənt/",
+        "uk": "/rɪˈzent.mənt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "anger or bitterness about something one considers unfair or hurtful"
+      ],
+      "ja": [
+        "不当な扱いなどに対する憤り、わだかまり、恨み"
+      ]
+    },
+    "nuance": {
+      "en": "Resentment often builds when someone feels repeatedly overlooked, burdened, or treated unfairly. It can remain unspoken. A flash of resentment describes a brief, sudden instance of the same feeling.",
+      "ja": "繰り返し軽く扱われたり、不公平な負担を負わされたりしたと感じるときに、心の中に積もる憤りやわだかまりを表しやすい。口に出さずに抱えている場合にも使う。a flash of resentment は、その感情が一瞬こみ上げることを表す。"
+    },
+    "minimal": {
+      "en": [
+        "grievance. A complaint about a perceived wrong or a formal complaint. Resentment is the anger or bitterness that perceived wrong can leave behind.",
+        "anger. A broad word for an angry reaction. Resentment often suggests bitterness that lingers because something feels unfair.",
+        "grudge. A lasting resentment held against a particular person, often from a specific incident. Resentment can spread among a group in response to a policy or practice."
+      ],
+      "ja": [
+        "grievance は、不当だと感じる扱いについての不満や正式な苦情申立てを指せる。resentment は、その扱いが心に残す憤りやわだかまりに焦点がある。",
+        "anger は怒り全般を表す。resentment は、不公平だという思いから憤りやわだかまりが残ることを示唆しやすい。",
+        "grudge は、具体的な出来事などをきっかけに、特定の人に対して抱き続ける恨み。resentment は、方針や慣行への憤りが集団の中に広がる場合にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "bitterness",
+        "note": {
+          "en": "Close when the emphasis is on lasting hurt or anger.",
+          "ja": "傷ついた気持ちや怒りが長く残る場合の近い言い換え。"
+        }
+      },
+      {
+        "word": "ill feeling",
+        "note": {
+          "en": "A broader expression for bad feelings between people or groups.",
+          "ja": "人や集団の間の悪感情を表す、より広い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From French ressentiment or Italian risentimento, ultimately related to Latin sentire ‘to feel’.",
+      "ja": "フランス語 ressentiment またはイタリア語 risentimento に由来し、ラテン語 sentire（感じる）にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "der Groll / die Verbitterung",
+      "it": "il risentimento",
+      "fr": "le ressentiment",
+      "es": "el resentimiento"
+    },
+    "collocations": {
+      "en": [
+        "harbor resentment toward someone",
+        "deep resentment",
+        "growing resentment over pay cuts",
+        "resentment at being passed over",
+        "fuel resentment among employees",
+        "resentment builds over time",
+        "a flash of resentment"
+      ],
+      "ja": [
+        "harbor resentment toward someone — 人にわだかまりを抱く",
+        "deep resentment — 根深い憤り",
+        "growing resentment over pay cuts — 賃金削減への高まりつつある反感",
+        "resentment at being passed over — 自分が選ばれなかったことへの憤り",
+        "fuel resentment among employees — 従業員の反感を強める",
+        "resentment builds over time — 次第にわだかまりが募る",
+        "a flash of resentment — 一瞬こみ上げる憤り"
+      ]
+    },
+    "example": {
+      "en": [
+        "Resentment built up as the same employees were repeatedly asked to cover weekend shifts.",
+        "She filed a grievance about the promotion process, but her resentment lingered after the case was closed.",
+        "He felt a flash of resentment when his colleague took credit for the idea."
+      ],
+      "ja": [
+        "Resentment built up as the same employees were repeatedly asked to cover weekend shifts. — いつも同じ従業員ばかりが週末のシフトに入るよう頼まれ、不満が積もっていった。",
+        "She filed a grievance about the promotion process, but her resentment lingered after the case was closed. — 彼女は昇進の選考手続について正式に苦情を申し立てたが、手続が終わってもわだかまりは残った。",
+        "He felt a flash of resentment when his colleague took credit for the idea. — 同僚がその案を自分の手柄にしたとき、彼は一瞬、憤りを覚えた。"
+      ]
+    }
   }
 ]
