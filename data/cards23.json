@@ -9119,5 +9119,132 @@
         "He followed his conscience and spoke up about what he had seen. — 彼は良心に従い、自分が目にしたことを声に出して伝えた。"
       ]
     }
+  },
+  {
+    "id": "conscious",
+    "sid": "2026-02006",
+    "word": "conscious",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "awareness",
+      "decisions"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "patterns": [
+        "be conscious of + noun / -ing",
+        "be conscious that + clause",
+        "remain / be fully conscious",
+        "a conscious decision / effort",
+        "health- / cost-conscious"
+      ],
+      "usage": {
+        "awake": "Typically used after be, remain, or stay when describing whether someone is awake and responsive.",
+        "aware": "Use of before a noun or an -ing form and that before a clause.",
+        "deliberate": "Often comes before a noun such as decision, effort, or choice. In compounds such as cost-conscious, it means paying attention to a particular concern."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈkɑːn.ʃəs/",
+        "uk": "/ˈkɒn.ʃəs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "awake and aware of what is happening around you",
+        "aware of or attentive to something",
+        "made or done knowingly and deliberately"
+      ],
+      "ja": [
+        "意識がある、周囲の状況が分かる",
+        "～を意識している、～を自覚している",
+        "意識的な、自分でそうすると決めて行う"
+      ]
+    },
+    "nuance": {
+      "en": "The construction helps identify the sense. She was still conscious describes her state of awareness. She was conscious of the time means she had the time in mind. She made a conscious effort means she deliberately set out to do something. In a compound such as cost-conscious, the first element names what a person pays attention to.",
+      "ja": "形によって意味を見分けられる。She was still conscious. は「彼女にはまだ意識があった」。She was conscious of the time. は「彼女は時間を気にしていた」。She made a conscious effort. は「彼女は意識して努めた」。cost-conscious のような複合語では、前半が何を意識しているかを示す。"
+    },
+    "minimal": {
+      "en": [
+        "aware: Close to conscious of when it means knowing or noticing something. Conscious of can suggest that something is actively on your mind.",
+        "deliberate: Close when conscious describes a decision or action. A deliberate delay is intentional. A conscious effort emphasizes that you made an effort on purpose.",
+        "conscience: A noun meaning your inner sense of right and wrong. It ends in /ʃəns/, while conscious ends in /ʃəs/."
+      ],
+      "ja": [
+        "aware：「知っている」「気づいている」の意味では conscious of に近い。conscious of は、そのことが頭にあり、意識に上っているという含みを持つことがある。",
+        "deliberate：決定や行動について「意図的な」という意味で近い。a deliberate delay は「意図的な遅延」、a conscious effort は「意識して行う努力」。",
+        "conscience：「良心」を表す名詞。語尾は conscience が /ʃəns/、conscious が /ʃəs/。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "aware",
+        "note": {
+          "en": "Close in the sense of noticing or knowing.",
+          "ja": "「気づいている、自覚している」の意味で近い。"
+        }
+      },
+      {
+        "word": "intentional",
+        "note": {
+          "en": "Close when describing a choice or action that someone made on purpose.",
+          "ja": "「意図して選んだ、行った」の意味で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin conscius, ‘aware’, from conscire, ‘to be aware’, ultimately related to scire, ‘to know’. Conscience comes from the same Latin word family.",
+      "ja": "ラテン語 conscius（知っている、気づいている）に由来する。conscire（気づいている）を経て、scire（知る）にさかのぼる。conscience も同じ語族。"
+    },
+    "equivalents": {
+      "de": "bei Bewusstsein / sich einer Sache bewusst / bewusst",
+      "it": "cosciente / consapevole / deliberato",
+      "fr": "conscient / avoir conscience de / délibéré",
+      "es": "consciente / ser consciente de / deliberado"
+    },
+    "collocations": {
+      "en": [
+        "remain conscious",
+        "be fully conscious",
+        "be conscious of the risk",
+        "be conscious of the time",
+        "be conscious that time is running out",
+        "make a conscious effort",
+        "make a conscious decision",
+        "health-conscious",
+        "cost-conscious"
+      ],
+      "ja": [
+        "remain conscious — 意識を保つ",
+        "be fully conscious — 意識がはっきりしている",
+        "be conscious of the risk — リスクを認識している",
+        "be conscious of the time — 時間を気にかけている",
+        "be conscious that time is running out — 残り時間が少ないと自覚している",
+        "make a conscious effort — 意識して努める",
+        "make a conscious decision — 意識的に決断する",
+        "health-conscious — 健康を意識した",
+        "cost-conscious — 費用を意識した"
+      ]
+    },
+    "example": {
+      "en": [
+        "She was conscious after the fall and could answer our questions.",
+        "I was conscious of how little time we had left.",
+        "We made a conscious decision to keep the wording simple.",
+        "I’m making a conscious effort to give everyone a chance to speak.",
+        "Cost-conscious clients often ask for a fee estimate before the work begins."
+      ],
+      "ja": [
+        "She was conscious after the fall and could answer our questions. — 転倒した後も彼女には意識があり、私たちの質問に答えられた。",
+        "I was conscious of how little time we had left. — 残り時間がわずかだと意識していた。",
+        "We made a conscious decision to keep the wording simple. — 私たちは、あえて文言を簡潔にすることにした。",
+        "I’m making a conscious effort to give everyone a chance to speak. — 全員に発言の機会が回るよう、意識して努めています。",
+        "Cost-conscious clients often ask for a fee estimate before the work begins. — 費用を重視する依頼人は、作業の開始前に見積もりを求めることが多い。"
+      ]
+    }
   }
 ]
