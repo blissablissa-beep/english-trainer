@@ -10157,5 +10157,124 @@
         "There’s so much static in these clothes that the socks are sticking to my shirt. — この服は静電気がすごくて、靴下がシャツにくっついている。"
       ]
     }
+  },
+  {
+    "id": "dynamic",
+    "sid": "2026-02015",
+    "word": "dynamic",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "noun",
+      "relationships",
+      "technology"
+    ],
+    "grammar": {
+      "pos": "adjective / noun",
+      "countability": "countable as a noun, also commonly plural dynamics",
+      "patterns": [
+        "dynamic + person / market / system",
+        "the dynamic between A and B",
+        "change the dynamic",
+        "the dynamics of + noun"
+      ],
+      "usage": {
+        "adjective": "Before a noun, dynamic can mean energetic or changing in response to events or inputs.",
+        "noun": "A dynamic can describe a particular pattern of interaction. The plural dynamics often refers to several interacting forces or patterns."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/daɪˈnæm.ɪk/",
+        "uk": "/daɪˈnæm.ɪk/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(adjective) energetic, active, and able to make things happen",
+        "(adjective) changing or responding to conditions",
+        "(noun) a pattern of interaction or an influence that shapes how people or things interact"
+      ],
+      "ja": [
+        "（形容詞）活力のある、精力的な",
+        "（形容詞）変化する、状況に応じて変わる、動的な",
+        "（名詞）人や物事の相互作用、関係の中で働く力やそのパターン"
+      ]
+    },
+    "nuance": {
+      "en": "A dynamic leader brings energy and initiative. Dynamic pricing changes in response to conditions such as demand. The dynamic between two people describes how they interact, including patterns such as who takes the lead.",
+      "ja": "a dynamic leader は活力があり、自ら物事を進めるリーダー。dynamic pricing は需要などに応じて価格を変える仕組み。the dynamic between two people は、どちらが主導権を握るかなど、二人がどう影響し合うかを表す。"
+    },
+    "minimal": {
+      "en": [
+        "static: Staying the same or still. A static display stays fixed. A dynamic display can update as its inputs change.",
+        "energetic: Highlights energy and activity. Dynamic can also suggest initiative or the ability to drive change.",
+        "relationship: A broad term for a connection between people or groups. Dynamic focuses on how they interact within that relationship."
+      ],
+      "ja": [
+        "static：動かない、変化しない。a static display は表示が固定されている。a dynamic display は入力などに応じて表示が変わりうる。",
+        "energetic：活力があることに焦点がある。dynamic には自ら動き、変化を起こすという含みも出る。",
+        "relationship：人や集団のつながりを広く指す。dynamic はその関係の中でどう影響し合うかに焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "energetic",
+        "note": {
+          "en": "Close when describing a person or team.",
+          "ja": "人やチームの活力を表す場合に近い。"
+        }
+      },
+      {
+        "word": "changing",
+        "note": {
+          "en": "Close when describing conditions that evolve over time.",
+          "ja": "時間とともに変化する状況を表す場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Ultimately from Greek dynamis, meaning power or force.",
+      "ja": "「力」を表すギリシャ語 dynamis にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "dynamisch / lebhaft / die Dynamik",
+      "it": "dinamico / la dinamica",
+      "fr": "dynamique / la dynamique",
+      "es": "dinámico / la dinámica"
+    },
+    "collocations": {
+      "en": [
+        "a dynamic leader",
+        "a dynamic market",
+        "a dynamic website",
+        "dynamic pricing",
+        "a power dynamic",
+        "team dynamics",
+        "change the dynamic"
+      ],
+      "ja": [
+        "a dynamic leader — 活力のあるリーダー",
+        "a dynamic market — 変化の多い市場",
+        "a dynamic website — 動的ウェブサイト",
+        "dynamic pricing — 需要などに応じて変わる価格設定",
+        "a power dynamic — 力関係",
+        "team dynamics — チーム内での関係や相互作用",
+        "change the dynamic — 関係のあり方を変える"
+      ]
+    },
+    "example": {
+      "en": [
+        "She’s a dynamic leader who knows how to get a team moving.",
+        "The dashboard is dynamic: it updates as new data comes in.",
+        "Bringing a neutral person into the room changed the dynamic between the two teams."
+      ],
+      "ja": [
+        "She’s a dynamic leader who knows how to get a team moving. — 彼女は活力のあるリーダーで、チームをどう動かせばよいかを知っている。",
+        "The dashboard is dynamic: it updates as new data comes in. — ダッシュボードは動的で、新しいデータが入ると更新される。",
+        "Bringing a neutral person into the room changed the dynamic between the two teams. — 中立の人に同席してもらったことで、両チームのやり取りが変わった。"
+      ]
+    }
   }
 ]
