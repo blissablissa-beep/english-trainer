@@ -11188,5 +11188,118 @@
         "When I told him the price, he exclaimed that it was more than twice what he had paid last year. — 値段を伝えると、彼は「去年払った額の倍以上じゃないか！」と声を上げた。"
       ]
     }
+  },
+  {
+    "id": "ensure",
+    "sid": "2026-02024",
+    "word": "ensure",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "verb",
+      "work",
+      "procedures"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "forms": {
+        "base": "ensure",
+        "thirdPerson": "ensures",
+        "past": "ensured",
+        "pastParticiple": "ensured",
+        "presentParticiple": "ensuring"
+      },
+      "patterns": [
+        "ensure + noun",
+        "ensure (that) + clause"
+      ],
+      "usage": {
+        "transitive": "Use a noun for the outcome, as in ensure continuity, or a clause, as in ensure that the files are backed up. That can be omitted."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪnˈʃʊr/",
+        "uk": "/ɪnˈʃɔː(r)/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to make certain that something happens or that a condition is met"
+      ],
+      "ja": [
+        "必要な結果が得られるようにする、条件が満たされるようにする、確保する"
+      ]
+    },
+    "nuance": {
+      "en": "Ensure often appears in instructions, policies, and formal writing. It can involve checking a condition, taking action to bring it about, or putting a safeguard in place. In Please ensure that all attachments are included, the recipient is responsible for making sure nothing is missing.",
+      "ja": "ensure は指示書や規程など、やや改まった文でよく使う。確認したり、必要な措置を取ったりして、望ましい状態を確実にするという意味。Please ensure that all attachments are included. は、添付漏れがないよう確認し、不足があればそろえるところまで求める指示。"
+    },
+    "minimal": {
+      "en": [
+        "assure: Usually takes a person as its object when it means to give someone confidence. I assured her that we would meet the deadline. Ensure takes the outcome or a clause.",
+        "insure: Most commonly means to cover someone or something with insurance. In US English it can also mean ensure.",
+        "make sure: A common everyday way to express the same idea. Make sure (that) the door is locked is natural in conversation. Ensure (that) the door is locked fits written instructions."
+      ],
+      "ja": [
+        "assure：「～だと伝えて安心させる、断言する」の意味では、I assured her that we would meet the deadline. のように相手が目的語になる。ensure は確実にしたい結果を名詞や節で表す。",
+        "insure：「保険をかける、保険で補償する」が主な意味。米国英語では ensure と同じ意味でも使われる。",
+        "make sure：日常的な「確かめる、確実にする」。鍵がかかっていることを求めるなら、会話では Make sure the door is locked.、書面の指示では Ensure that the door is locked. が自然。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "make sure",
+        "note": {
+          "en": "A common equivalent, especially before a clause.",
+          "ja": "特に節を伴う場合に近い日常表現。"
+        }
+      },
+      {
+        "word": "guarantee",
+        "note": {
+          "en": "Close when something makes an outcome certain. Guarantee can also refer to a promise.",
+          "ja": "結果を確実にする意味で近い。guarantee には約束や保証をする用法もある。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Anglo-French enseurer, formed from en- ‘make’ and Old French seur ‘sure’.",
+      "ja": "アングロ・フランス語 enseurer に由来する。「～にする」を表す en- と、古フランス語 seur（確かな）から成る。"
+    },
+    "equivalents": {
+      "de": "sicherstellen / gewährleisten",
+      "it": "assicurare / garantire",
+      "fr": "veiller à ce que / garantir",
+      "es": "asegurar / garantizar"
+    },
+    "collocations": {
+      "en": [
+        "ensure safety",
+        "ensure compliance with the rules",
+        "ensure equal access",
+        "ensure a smooth transition",
+        "ensure that the deadline is met"
+      ],
+      "ja": [
+        "ensure safety — 安全を確保する",
+        "ensure compliance with the rules — 規則が守られるようにする",
+        "ensure equal access — 平等に利用できるようにする",
+        "ensure a smooth transition — 円滑に移行できるようにする",
+        "ensure that the deadline is met — 期限を守れるようにする"
+      ]
+    },
+    "example": {
+      "en": [
+        "Please ensure that all attachments are included before filing the application.",
+        "We added a second review to ensure that no changes were overlooked.",
+        "A backup system helps ensure that the service remains available during maintenance."
+      ],
+      "ja": [
+        "Please ensure that all attachments are included before filing the application. — 出願書類を提出する前に、添付書類がすべてそろっていることを確認してください。",
+        "We added a second review to ensure that no changes were overlooked. — 変更点の見落としを防ぐため、二度目のレビューを追加した。",
+        "A backup system helps ensure that the service remains available during maintenance. — 予備システムがあれば、メンテナンス中もサービスを利用できる状態を保ちやすい。"
+      ]
+    }
   }
 ]
