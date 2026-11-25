@@ -8770,5 +8770,119 @@
         "These are tentative conclusions based on the first round of interviews. — これは初回の聞き取りに基づく暫定的な結論です。"
       ]
     }
+  },
+  {
+    "id": "preliminary",
+    "sid": "2026-02003",
+    "word": "preliminary",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "noun",
+      "planning",
+      "research",
+      "sports"
+    ],
+    "grammar": {
+      "pos": "adjective / noun",
+      "countability": "countable as a noun, often plural preliminaries",
+      "forms": {
+        "base": "preliminary",
+        "pluralNoun": "preliminaries"
+      },
+      "patterns": [
+        "preliminary + findings / review / talks",
+        "a preliminary step toward + goal",
+        "the preliminaries of + event"
+      ],
+      "usage": {
+        "adjective": "Usually placed before the noun. Preliminary findings are findings from an early stage of the work.",
+        "noun": "The preliminaries can refer to introductory formalities or qualifying rounds before the main event."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/prɪˈlɪm.ə.ner.i/",
+        "uk": "/prɪˈlɪm.ɪ.nər.i/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(adjective) done, produced, or taking place at an early stage, before the main or final phase",
+        "(noun) a step, formality, or contest before the main activity or event"
+      ],
+      "ja": [
+        "本格的な作業や最終段階に先立つ、予備的な、初期の",
+        "準備段階の手続き、前置き、予選"
+      ]
+    },
+    "nuance": {
+      "en": "Preliminary tells you where something sits in a process. A preliminary review comes before a fuller review. Preliminary findings come from an early stage, so later work may refine them. An early finding can already have strong evidence, and a tentative judgment can still be made late in the process.",
+      "ja": "preliminary は工程のどの段階にあるかを示す。preliminary review は詳しい審査に先立つ予備審査。preliminary findings は初期段階で得られた知見で、後の調査で精緻化されうる。初期の知見でも十分な裏づけがあることはあり、逆に終盤の判断でも確信がなければ tentative と言える。"
+    },
+    "minimal": {
+      "en": [
+        "tentative: Emphasizes uncertainty or lack of confirmation. Preliminary emphasizes that something comes at an early or preparatory stage.",
+        "provisional: Describes something adopted for now and subject to confirmation or revision. A preliminary review is an initial review. A provisional decision is a decision in place for now.",
+        "initial: Means first or at the beginning. Preliminary often suggests a main or fuller stage to follow."
+      ],
+      "ja": [
+        "tentative：未確定であったり、確信が弱かったりすることに焦点がある。preliminary は、本格的な段階に先立つ初期・準備段階に焦点がある。",
+        "provisional：当面採用され、確認や変更の余地があることを表す。preliminary review は予備審査、provisional decision は当面の決定。",
+        "initial：最初の、初期の。preliminary には、その後に本格的な段階が続くという含みが出やすい。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "preparatory",
+        "note": {
+          "en": "Close when a step serves to prepare for the main activity.",
+          "ja": "本番に向けて準備する段階を指すときの近い語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Built on Latin prae ‘before’ and limen ‘threshold’. The image is of something occurring before the threshold of the main activity.",
+      "ja": "ラテン語 prae（前に）と limen（敷居）にさかのぼる。本格的な活動に入る手前にある、というイメージ。"
+    },
+    "equivalents": {
+      "de": "vorläufig / vorbereitend / die Vorrunde",
+      "it": "preliminare / i preliminari",
+      "fr": "préliminaire / les éliminatoires",
+      "es": "preliminar / las eliminatorias"
+    },
+    "collocations": {
+      "en": [
+        "preliminary findings",
+        "preliminary results",
+        "a preliminary review",
+        "preliminary talks",
+        "a preliminary assessment",
+        "the preliminary rounds"
+      ],
+      "ja": [
+        "preliminary findings — 初期段階で得られた知見",
+        "preliminary results — 予備的な結果、速報値",
+        "a preliminary review — 予備審査、初期の検討",
+        "preliminary talks — 予備協議",
+        "a preliminary assessment — 予備評価",
+        "the preliminary rounds — 予選ラウンド"
+      ]
+    },
+    "example": {
+      "en": [
+        "Our preliminary review found two issues that need closer examination.",
+        "The preliminary findings look promising, but we’ll wait for the full analysis before drawing a conclusion.",
+        "The date is still tentative, but we’ve already held preliminary talks about the agenda.",
+        "She posted the fastest time in the preliminaries and qualified for the final."
+      ],
+      "ja": [
+        "Our preliminary review found two issues that need closer examination. — 予備的な検討で、さらに詳しく調べる必要がある論点が二つ見つかった。",
+        "The preliminary findings look promising, but we’ll wait for the full analysis before drawing a conclusion. — 初期の調査結果は有望だが、結論を出すのは分析全体が終わってからにする。",
+        "The date is still tentative, but we’ve already held preliminary talks about the agenda. — 日程はまだ仮だが、議題についてはすでに予備協議を行った。",
+        "She posted the fastest time in the preliminaries and qualified for the final. — 彼女は予選で最速タイムを出し、決勝に進んだ。"
+      ]
+    }
   }
 ]
