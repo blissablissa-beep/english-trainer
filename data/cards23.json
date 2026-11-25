@@ -9004,5 +9004,120 @@
         "A checklist can only take you so far. — チェックリストだけで対応できる範囲には限界がある。"
       ]
     }
+  },
+  {
+    "id": "conscience",
+    "sid": "2026-02005",
+    "word": "conscience",
+    "level": "C2",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "ethics",
+      "feelings"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable or uncountable",
+      "forms": {
+        "singular": "conscience",
+        "plural": "consciences"
+      },
+      "patterns": [
+        "a clear / guilty conscience",
+        "something weighs on your conscience",
+        "do something in good conscience",
+        "go against your conscience"
+      ],
+      "usage": {
+        "countable": "A clear conscience and a guilty conscience describe how someone feels about what they have done.",
+        "uncountable": "Fixed expressions include in good conscience, freedom of conscience, and a matter of conscience."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈkɑːn.ʃəns/",
+        "uk": "/ˈkɒn.ʃəns/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "your inner sense of whether your own actions are morally right or wrong"
+      ],
+      "ja": [
+        "自分の行いの善悪を判断する心の働き、良心"
+      ]
+    },
+    "nuance": {
+      "en": "A conscience can guide you before you act and trouble you afterward. I can’t in good conscience recommend it means that recommending it would go against your own sense of what is right. A guilty conscience describes how you feel after doing something you think was wrong.",
+      "ja": "conscience は、行動する前の判断にも、行動した後の良心の呵責にも関わる。I can’t in good conscience recommend it. は、勧めることが自分の良心に反するため「良心に照らして、それは勧められない」という意味。a guilty conscience は、自分でよくないと思うことをして後ろめたく感じる状態を指す。"
+    },
+    "minimal": {
+      "en": [
+        "conscious: An adjective meaning awake or aware. She was conscious of the risk means she knew about the risk.",
+        "consciousness: A noun for awareness or the state of being awake. Regain consciousness means to wake up after losing consciousness.",
+        "guilt: The feeling of having done something wrong, or responsibility for wrongdoing. Your conscience can guide a decision before you have done anything."
+      ],
+      "ja": [
+        "conscious：形容詞で「意識がある」「自覚している」。She was conscious of the risk. は「彼女はそのリスクを認識していた」。",
+        "consciousness：名詞で「意識」「自覚」。regain consciousness は「意識を取り戻す」。",
+        "guilt：「罪悪感」、または不正行為についての「罪・責任」。conscience は行動に移す前にも、何が正しいかを判断する働きを指す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "moral sense",
+        "note": {
+          "en": "The ability to judge right and wrong, including in situations beyond your own actions.",
+          "ja": "善悪を判断する感覚。自分自身の行為以外についても使える。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French conscience and Latin conscientia. The Latin word could refer to knowledge or awareness, including an inner awareness of right and wrong. It is related to Latin scire, ‘to know’.",
+      "ja": "古フランス語 conscience およびラテン語 conscientia に由来する。ラテン語では「知識、認識」や「心の中で善悪を知ること」を表した。scire（知る）と同系。"
+    },
+    "equivalents": {
+      "de": "das Gewissen",
+      "it": "la coscienza",
+      "fr": "la conscience morale",
+      "es": "la conciencia moral"
+    },
+    "collocations": {
+      "en": [
+        "a clear conscience",
+        "a guilty conscience",
+        "in good conscience",
+        "weigh on someone’s conscience",
+        "follow your conscience",
+        "go against your conscience",
+        "a matter of conscience",
+        "freedom of conscience"
+      ],
+      "ja": [
+        "a clear conscience — やましいところのない気持ち",
+        "a guilty conscience — 後ろめたさ、良心の呵責",
+        "in good conscience — 良心に照らして、良心に恥じることなく",
+        "weigh on someone’s conscience — 人の良心に重くのしかかる",
+        "follow your conscience — 良心に従う",
+        "go against your conscience — 良心に背く",
+        "a matter of conscience — 良心の問題",
+        "freedom of conscience — 良心の自由"
+      ]
+    },
+    "example": {
+      "en": [
+        "I can’t in good conscience recommend signing the agreement before you’ve read it.",
+        "Keeping the mistake from her weighed on my conscience for weeks.",
+        "I returned the money, so I can leave with a clear conscience.",
+        "He followed his conscience and spoke up about what he had seen."
+      ],
+      "ja": [
+        "I can’t in good conscience recommend signing the agreement before you’ve read it. — 契約書を読む前に署名するよう勧めることは、私の良心に照らしてできません。",
+        "Keeping the mistake from her weighed on my conscience for weeks. — 彼女にそのミスを隠していたことが、何週間も心に引っかかっていた。",
+        "I returned the money, so I can leave with a clear conscience. — お金は返したから、やましい気持ちなく立ち去れる。",
+        "He followed his conscience and spoke up about what he had seen. — 彼は良心に従い、自分が目にしたことを声に出して伝えた。"
+      ]
+    }
   }
 ]
