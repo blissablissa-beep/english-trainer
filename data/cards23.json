@@ -6993,5 +6993,124 @@
         "The investors exercised their warrants and bought shares at the agreed price. — 投資家はワラントを行使し、合意した価格で株式を取得した。"
       ]
     }
+  },
+  {
+    "id": "intuition",
+    "sid": "2026-01989",
+    "word": "intuition",
+    "level": "C1",
+    "freq": "common",
+    "tags": [
+      "noun",
+      "reasoning",
+      "judgment"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable for the faculty; countable for a particular impression",
+      "forms": {
+        "base": "intuition",
+        "plural": "intuitions",
+        "relatedAdjective": "intuitive",
+        "relatedAdverb": "intuitively"
+      },
+      "patterns": [
+        "trust / rely on + possessive + intuition",
+        "have an intuition that + clause",
+        "by intuition",
+        "an intuition about + noun"
+      ],
+      "usage": {
+        "article": "Use my intuition for the general faculty and an intuition that … for a particular impression."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌɪn.tuˈɪʃ.ən/",
+        "uk": "/ˌɪn.tʃuˈɪʃ.ən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the ability to understand or judge something without consciously reasoning it through",
+        "a particular impression or judgment reached in this way"
+      ],
+      "ja": [
+        "明示的に筋道を立てて考えずに理解・判断する力、直感",
+        "～ではないかという直感、直感的な判断"
+      ]
+    },
+    "nuance": {
+      "en": "Intuition can feel immediate even when it draws on years of experience. Trust your intuition refers to relying on that kind of judgment. An intuition that … introduces a specific impression whose basis may be hard to explain.",
+      "ja": "直感はとっさに浮かぶように感じられても、長年の経験に支えられていることがある。trust your intuition はそうした判断を信じること。an intuition that ～ は、なぜそう思うのか説明しにくい、具体的な見立てを導く。"
+    },
+    "minimal": {
+      "en": [
+        "instinct. Often suggests an automatic reaction or impulse. Intuition focuses on an immediate understanding or judgment.",
+        "hunch. An informal word for a specific feeling or guess. Intuition can also name the general ability.",
+        "gut feeling. A conversational way to express a strong intuitive impression. Intuition also works in academic discussion."
+      ],
+      "ja": [
+        "instinct は本能的・反射的な反応や衝動を表しやすい。intuition は、とっさに分かることや直感的な判断に焦点がある。",
+        "hunch は、具体的な予感や勘を表すくだけた語。intuition は、直感で判断する力全般も指せる。",
+        "gut feeling は、強い直感を口語的に表す。intuition は学術的な議論でも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "hunch",
+        "note": {
+          "en": "An informal alternative for a particular intuition.",
+          "ja": "個別の直感を表すくだけた言い換え。"
+        }
+      },
+      {
+        "word": "gut feeling",
+        "note": {
+          "en": "A conversational equivalent for a strong impression.",
+          "ja": "強い直感を表す会話での言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Ultimately related to Latin intueri ‘to look at, contemplate’.",
+      "ja": "ラテン語 intueri（じっと見る、熟考する）にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "die Intuition / das Bauchgefühl",
+      "it": "l’intuizione",
+      "fr": "l’intuition",
+      "es": "la intuición"
+    },
+    "collocations": {
+      "en": [
+        "trust your intuition",
+        "rely on intuition",
+        "act on intuition",
+        "professional intuition",
+        "have an intuition that …",
+        "develop an intuition for patterns"
+      ],
+      "ja": [
+        "trust your intuition — 自分の直感を信じる",
+        "rely on intuition — 直感に頼る",
+        "act on intuition — 直感に従って行動する",
+        "professional intuition — 実務経験に裏打ちされた直感",
+        "have an intuition that … — ～ではないかという直感がある",
+        "develop an intuition for patterns — パターンを直感的に見抜く感覚を養う"
+      ]
+    },
+    "example": {
+      "en": [
+        "My intuition told me that something was missing from the report, so I checked the original figures.",
+        "She had an intuition that the client’s main concern was the deadline.",
+        "Over time, you develop an intuition for which arguments need more evidence."
+      ],
+      "ja": [
+        "My intuition told me that something was missing from the report, so I checked the original figures. — 報告書に何か抜けていると直感し、元の数字を確認した。",
+        "She had an intuition that the client’s main concern was the deadline. — 彼女は、依頼人がいちばん気にしているのは締切ではないかと直感した。",
+        "Over time, you develop an intuition for which arguments need more evidence. — 経験を重ねると、どの主張に追加の証拠が必要かが直感的に分かるようになる。"
+      ]
+    }
   }
 ]
