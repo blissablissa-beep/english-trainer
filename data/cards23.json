@@ -8531,5 +8531,123 @@
         "The review found that the manager had exceeded her authority by approving the payment. — 調査の結果、その管理職は支払いの承認にあたって権限の範囲を越えていたと分かった。"
       ]
     }
+  },
+  {
+    "id": "come-down-to",
+    "sid": "2026-02001",
+    "word": "come down to",
+    "level": "C2",
+    "freq": "often",
+    "tags": [
+      "phrasal-verb",
+      "reasoning",
+      "decision-making"
+    ],
+    "grammar": {
+      "pos": "phrasal verb",
+      "forms": {
+        "base": "come down to",
+        "thirdPersonSingular": "comes down to",
+        "past": "came down to",
+        "pastParticiple": "come down to",
+        "presentParticiple": "coming down to"
+      },
+      "patterns": [
+        "it all comes down to + noun",
+        "come down to + whether / how / what clause",
+        "come down to + -ing phrase",
+        "when it comes down to it"
+      ],
+      "usage": {
+        "subject": "The subject is usually a decision, outcome, problem, or it referring to the situation.",
+        "complement": "To is a preposition. It can introduce a noun phrase, a clause such as whether we can afford it, or an -ing phrase such as getting everyone to agree."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/kʌm ˈdaʊn tə/",
+        "uk": "/kʌm ˈdaʊn tə/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to depend chiefly on a particular factor or consideration",
+        "to have a particular point or question as the essence of a more complex matter"
+      ],
+      "ja": [
+        "結局は〜次第だ、最終的には〜で決まる",
+        "突き詰めると〜に行き着く、要するに〜が問題だ"
+      ]
+    },
+    "nuance": {
+      "en": "Come down to identifies the factor that matters most or the issue that remains once other details are set aside. All in it all comes down to adds emphasis. When it comes down to it can mean ‘when it is time to make the real decision or act’.",
+      "ja": "さまざまな事情の中で、結果を最も左右する要因や、細部を除いたあとに残る核心を示す。it all comes down to の all は強調。when it comes down to it は「いざ決断するとなると」「実際に行動する段になると」という意味でも使う。"
+    },
+    "minimal": {
+      "en": [
+        "depend on: A neutral expression for a condition or factor affecting the result. Come down to presents that factor as the key consideration.",
+        "boil down to: Very close when reducing an issue to its essentials. Come down to is also natural when an outcome hinges on a final factor.",
+        "come down with: Means to begin suffering from an illness, as in come down with a cold."
+      ],
+      "ja": [
+        "depend on：結果がある条件や要因に左右されることを中立的に示す。come down to は、その要因が結局のところ決め手だと示す。",
+        "boil down to：問題を突き詰めて核心を述べるときに非常に近い。come down to は、最後の一つの要因が結果を左右する場面にもよく合う。",
+        "come down with：come down with a cold（風邪をひく）のように、病気にかかるという別の句動詞。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "hinge on",
+        "note": {
+          "en": "A close equivalent when a particular factor decides the outcome.",
+          "ja": "ある要因が結果を左右する場合の近い言い換え。"
+        }
+      },
+      {
+        "word": "boil down to",
+        "note": {
+          "en": "A close equivalent when identifying the essence of an issue.",
+          "ja": "問題の核心を示す場合の近い言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The figurative sense uses down to suggest narrowing a matter to the factor or point that remains.",
+      "ja": "down to の「ある一点まで絞る」というイメージで、結局残る要因や論点を示す比喩表現。"
+    },
+    "equivalents": {
+      "de": "auf etwas ankommen / auf etwas hinauslaufen",
+      "it": "dipendere in ultima analisi da / ridursi a",
+      "fr": "dépendre au bout du compte de / se résumer à",
+      "es": "depender en última instancia de / reducirse a"
+    },
+    "collocations": {
+      "en": [
+        "it all comes down to timing",
+        "come down to a choice between two options",
+        "come down to whether we can afford it",
+        "when it comes down to it",
+        "what it comes down to is trust"
+      ],
+      "ja": [
+        "it all comes down to timing — 結局はタイミング次第だ",
+        "come down to a choice between two options — 最終的には二つの選択肢のどちらかを選ぶことになる",
+        "come down to whether we can afford it — 結局は、その費用を出せるかどうかで決まる",
+        "when it comes down to it — いざとなると",
+        "what it comes down to is trust — 突き詰めると、大事なのは信頼だ"
+      ]
+    },
+    "example": {
+      "en": [
+        "Both proposals meet the technical requirements, so the choice will come down to whether we can afford the ongoing costs.",
+        "We’ve spent weeks debating the wording, but what it really comes down to is who can approve the changes.",
+        "He says he’ll negotiate, but when it comes down to it, he usually accepts the first offer."
+      ],
+      "ja": [
+        "Both proposals meet the technical requirements, so the choice will come down to whether we can afford the ongoing costs. — どちらの提案も技術要件を満たしているので、結局は継続的にかかる費用を賄えるかどうかで決まる。",
+        "We’ve spent weeks debating the wording, but what it really comes down to is who can approve the changes. — 何週間も文言を議論してきたけれど、突き詰めると、変更を承認できるのは誰かという問題だ。",
+        "He says he’ll negotiate, but when it comes down to it, he usually accepts the first offer. — 彼は交渉すると言うけれど、いざとなると、たいてい最初の提示を受け入れる。"
+      ]
+    }
   }
 ]
