@@ -13482,5 +13482,122 @@
         "With so many good bakeries nearby, we’re spoilt for choice. — 近所においしいパン屋がたくさんあって、どこにするか迷うほどだ。"
       ]
     }
+  },
+  {
+    "id": "demonetize",
+    "sid": "2026-02043",
+    "word": "demonetize",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "social media",
+      "economics"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "forms": {
+        "base": "demonetize",
+        "thirdPerson": "demonetizes",
+        "past": "demonetized",
+        "pastParticiple": "demonetized",
+        "presentParticiple": "demonetizing"
+      },
+      "patterns": [
+        "demonetize + video / channel / banknotes",
+        "be / get demonetized",
+        "demonetize a video for + reason"
+      ],
+      "usage": {
+        "spelling": "Demonetise is also used in British English.",
+        "object": "A platform can demonetize an individual video or a whole channel. With currency, the object is often a coin, banknote, or denomination."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/diːˈmɑː.nə.taɪz/",
+        "uk": "/diːˈmɒn.ɪ.taɪz/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to remove or disable the ability to earn money from content, a channel, or an account, especially on an online platform",
+        "to withdraw the status of a coin or banknote as legal tender"
+      ],
+      "ja": [
+        "動画・チャンネル・アカウントなどの収益化を停止する、収益を得る資格を取り消す",
+        "硬貨や紙幣の法定通貨としての効力を失わせる"
+      ]
+    },
+    "nuance": {
+      "en": "On a platform, demonetize often refers to removing eligibility for ad revenue or another platform payout. A demonetized video may still be available to watch. In the currency sense, old notes may still be exchangeable even after they cease to be legal tender, depending on the rules of the change.",
+      "ja": "オンラインでは、広告収入など、プラットフォームを通じて収益を得る資格を取り消すことを指す場合が多い。収益化が停止された動画でも、引き続き視聴できる場合がある。通貨については、旧紙幣が法定通貨としての効力を失った後も、制度によっては新紙幣などに交換できる。"
+    },
+    "minimal": {
+      "en": [
+        "monetize: Enable or generate revenue from something. Demonetize reverses or removes that ability.",
+        "take down: Remove content from public access. Demonetize concerns the ability to earn revenue from it.",
+        "devalue: Reduce the value of a currency, especially against other currencies. Demonetize a banknote means to withdraw its legal-tender status."
+      ],
+      "ja": [
+        "monetize：コンテンツなどから収益を得る、収益化する。demonetize はその収益化を取り消す。",
+        "take down：コンテンツを取り下げ、公開を止める。demonetize はコンテンツから収益を得られるかどうかに関わる。",
+        "devalue：特に他の通貨に対して通貨の価値を切り下げる。demonetize a banknote は、紙幣の法定通貨としての効力を失わせること。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "disable monetization",
+        "note": {
+          "en": "A transparent alternative in the online-content sense.",
+          "ja": "オンラインコンテンツの収益化を停止するという意味で言い換えられる。"
+        }
+      },
+      {
+        "word": "withdraw legal-tender status",
+        "note": {
+          "en": "An explicit paraphrase in the currency sense.",
+          "ja": "貨幣の法定通貨としての効力を失わせるという意味を明示した言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The word is recorded in English in the 19th century in the currency sense and comes from French. It is transparent as de- ‘remove or reverse’ plus monetize. The newer platform sense uses the modern meaning of monetize, ‘generate revenue from’.",
+      "ja": "フランス語に由来し、英語では19世紀に通貨に関する用法が記録されている。「取り除く、元に戻す」を表す de- と monetize に分けて理解できる。オンラインでの用法は、monetize の現代的な意味「収益化する」を打ち消したもの。"
+    },
+    "equivalents": {
+      "de": "die Monetarisierung deaktivieren / als gesetzliches Zahlungsmittel außer Kraft setzen",
+      "it": "demonetizzare / togliere il corso legale",
+      "fr": "démonétiser / retirer le cours légal",
+      "es": "desmonetizar / retirar el curso legal"
+    },
+    "collocations": {
+      "en": [
+        "demonetize a video",
+        "demonetize a channel",
+        "get demonetized",
+        "have your videos demonetized",
+        "demonetize old banknotes"
+      ],
+      "ja": [
+        "demonetize a video — 動画の収益化を停止する",
+        "demonetize a channel — チャンネルの収益化を停止する",
+        "get demonetized — 収益化を停止される",
+        "have your videos demonetized — 自分の動画の収益化を停止される",
+        "demonetize old banknotes — 旧紙幣の法定通貨としての効力を失わせる"
+      ]
+    },
+    "example": {
+      "en": [
+        "The platform demonetized the video, but viewers could still watch it.",
+        "Several creators said their channels had been demonetized without a clear explanation.",
+        "The government demonetized the old banknotes but gave people six months to exchange them."
+      ],
+      "ja": [
+        "The platform demonetized the video, but viewers could still watch it. — プラットフォームはその動画の収益化を停止したが、視聴者は引き続き見ることができた。",
+        "Several creators said their channels had been demonetized without a clear explanation. — 複数のクリエイターが、明確な説明もなくチャンネルの収益化を停止されたと述べた。",
+        "The government demonetized the old banknotes but gave people six months to exchange them. — 政府は旧紙幣の法定通貨としての効力を失わせたが、交換のために6か月の猶予を設けた。"
+      ]
+    }
   }
 ]
