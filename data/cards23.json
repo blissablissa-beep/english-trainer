@@ -11927,5 +11927,121 @@
         "The page uses lazy loading to fetch images as they come into view. — このページでは遅延読み込みを使い、画像が画面に入るタイミングで取得する。"
       ]
     }
+  },
+  {
+    "id": "laziness",
+    "sid": "2026-02030",
+    "word": "laziness",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "behavior",
+      "daily life"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "usually uncountable",
+      "forms": {
+        "base": "laziness"
+      },
+      "patterns": [
+        "out of sheer laziness",
+        "because of + someone's + laziness",
+        "accuse + someone + of laziness",
+        "a moment of laziness"
+      ],
+      "usage": {
+        "countability": "Laziness normally has no plural. To describe one occasion, say a moment of laziness."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈleɪ.zi.nəs/",
+        "uk": "/ˈleɪ.zi.nəs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "unwillingness to work or make an effort, either as a habit or on a particular occasion",
+        "a lack of care or thought in work that calls for more effort"
+      ],
+      "ja": [
+        "働いたり努力したりするのを嫌がること、怠け癖、ものぐさ。一時的に面倒がることにも使う",
+        "必要な手間や思考を省くこと、手抜き、怠慢"
+      ]
+    },
+    "nuance": {
+      "en": "Laziness typically implies that someone could make the effort but is unwilling to. Calling another person's behavior laziness can sound judgmental. Out of sheer laziness is often self-deprecating when someone admits taking a shortcut. Lazy can sound pleasant in a lazy Sunday, where a noun such as relaxation better captures that sense.",
+      "ja": "やろうと思えばできることを面倒がってやらない、という評価が含まれやすい。人の行動を laziness と呼ぶと批判的に響く一方、自分のことを out of sheer laziness と言えば「まったくの面倒くさがりで」と自嘲気味に言える。a lazy Sunday のような心地よい「のんびり」を名詞で表すなら、relaxation などが自然。"
+    },
+    "minimal": {
+      "en": [
+        "idleness: A state of doing nothing or being inactive. Laziness usually attributes inactivity to unwillingness to make an effort.",
+        "procrastination: Putting a task off until later. It names the delay, which can stem from anxiety or perfectionism as well as laziness.",
+        "inertia: Continuing in the same state because starting or changing course is difficult. Laziness more directly suggests unwillingness to make an effort."
+      ],
+      "ja": [
+        "idleness：何もしていないこと、活動していない状態。laziness は通常、努力したがらないことに焦点がある。",
+        "procrastination：やるべきことの先延ばし。先延ばしには面倒くささのほか、不安や完璧主義なども関わりうる。",
+        "inertia：始めたり方針を変えたりするのが難しく、そのままの状態が続くこと。laziness は労力をかけたがらないことをより直接的に表す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "sloth",
+        "note": {
+          "en": "A formal or literary term that can carry a strong moral judgment.",
+          "ja": "改まった、あるいは文学的な語で、道徳的な非難が強く出ることがある。"
+        }
+      },
+      {
+        "word": "lack of effort",
+        "note": {
+          "en": "Close when judging how much work someone put into a particular task.",
+          "ja": "特定の作業にどれほど手をかけたかを評価する場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from lazy and the noun suffix -ness, with final y changing to i.",
+      "ja": "lazy に名詞を作る接尾辞 -ness が付いた形。語末の y は i に変わる。"
+    },
+    "equivalents": {
+      "de": "Faulheit / Bequemlichkeit",
+      "it": "pigrizia",
+      "fr": "paresse",
+      "es": "pereza"
+    },
+    "collocations": {
+      "en": [
+        "out of laziness",
+        "out of sheer laziness",
+        "a moment of laziness",
+        "accuse someone of laziness",
+        "put something down to laziness",
+        "intellectual laziness"
+      ],
+      "ja": [
+        "out of laziness — 面倒くささから",
+        "out of sheer laziness — 単に面倒くさくて",
+        "a moment of laziness — つい面倒になった一瞬",
+        "accuse someone of laziness — 人を怠けていると非難する",
+        "put something down to laziness — 何かの原因は怠けにあると考える",
+        "intellectual laziness — 自分で考えることを怠ること、知的怠慢"
+      ]
+    },
+    "example": {
+      "en": [
+        "I ordered takeout out of sheer laziness, even though there was plenty of food in the fridge.",
+        "She put his missed deadlines down to laziness, but he was juggling three projects at once.",
+        "Repeating the claim without checking the evidence is a form of intellectual laziness."
+      ],
+      "ja": [
+        "I ordered takeout out of sheer laziness, even though there was plenty of food in the fridge. — 冷蔵庫には食材がたっぷりあったのに、単に料理が面倒で出前を取った。",
+        "She put his missed deadlines down to laziness, but he was juggling three projects at once. — 彼女は彼が締切を何度も守れなかったのは怠けていたからだと思ったが、彼は三つの案件を同時に抱えていた。",
+        "Repeating the claim without checking the evidence is a form of intellectual laziness. — 証拠を確かめずにその主張を繰り返すのは、知的怠慢の一種だ。"
+      ]
+    }
   }
 ]
