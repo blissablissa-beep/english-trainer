@@ -12652,5 +12652,122 @@
         "Change the text alignment to left so the labels are easier to scan. — ラベルをさっと読み取れるように、文字を左揃えにしてください。"
       ]
     }
+  },
+  {
+    "id": "conjecture",
+    "sid": "2026-02036",
+    "word": "conjecture",
+    "level": "C2",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "verb",
+      "reasoning",
+      "mathematics"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "countable (an individual conjecture) / uncountable (conjecture in general)",
+      "forms": {
+        "base": "conjecture",
+        "plural": "conjectures",
+        "thirdPerson": "conjectures",
+        "past": "conjectured",
+        "pastParticiple": "conjectured",
+        "presentParticiple": "conjecturing"
+      },
+      "patterns": [
+        "a conjecture about + noun",
+        "the conjecture that + clause",
+        "conjecture that + clause",
+        "prove / disprove a conjecture"
+      ],
+      "usage": {
+        "countability": "A conjecture is one specific proposition or explanation. Mere conjecture treats the ideas under discussion as unsupported supposition in general."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/kənˈdʒek.tʃɚ/",
+        "uk": "/kənˈdʒek.tʃə/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(noun) an explanation or conclusion put forward without enough evidence to establish it, or the forming of such ideas",
+        "(noun, mathematics) a proposition believed to be true that has yet to be proved or disproved",
+        "(verb) to propose or infer something on the basis of incomplete evidence"
+      ],
+      "ja": [
+        "（名詞）十分な裏づけがない段階で示す推測・推論、または推測すること",
+        "（数学の名詞）真であると予想されているが、まだ証明も反証もされていない命題、予想",
+        "（動詞）不十分な証拠や手がかりから推測する、推測を述べる"
+      ]
+    },
+    "nuance": {
+      "en": "Conjecture is more formal than guess and often presents a specific idea for consideration. In mathematics, a conjecture may be supported by extensive computations or partial results. Its status depends on whether it has been proved, regardless of how persuasive that evidence is.",
+      "ja": "guess より改まった語で、検討すべき具体的な推測を示すときによく使う。数学では、大規模な計算や部分的な結果に裏づけられていても、証明が得られるまでは conjecture（予想）と呼ぶ。日常の mere conjecture には「単なる憶測」という批判的な響きがある。"
+    },
+    "minimal": {
+      "en": [
+        "speculate: Often describes exploring or discussing possibilities. Conjecture as a verb is more formal and often introduces a particular tentative conclusion.",
+        "speculation: Common in news for ongoing conjecture or public discussion. A conjecture often singles out one specific proposition.",
+        "hypothesis: Often implies a proposed explanation or assumption to be tested. In mathematics, a conjecture is a proposition to be proved or disproved."
+      ],
+      "ja": [
+        "speculate：複数の可能性を考えたり論じたりするときにも使う。動詞 conjecture はより改まっており、具体的な推測を提示するときによく使う。",
+        "speculation：報道などで、ある話題について飛び交う憶測をまとめて指せる。a conjecture は一つの具体的な推測や命題を取り上げることが多い。",
+        "hypothesis：検証するために置く仮説や前提を指すことが多い。数学の conjecture は証明や反証の対象となる予想。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "surmise",
+        "note": {
+          "en": "Close for a tentative conclusion drawn from limited clues.",
+          "ja": "限られた手がかりから導いた推測という意味で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French conjecture or directly from Latin coniectūra ‘inference, interpretation’, from conicere ‘to throw together’. The Latin verb combines con- ‘together’ with iacere ‘to throw’. The literal sense suggests drawing scattered clues together to form a conclusion.",
+      "ja": "古フランス語 conjecture を経て、または直接、ラテン語 coniectūra（推論、解釈）から入った。もとは conicere（投げ集める）で、con-（一緒に）と iacere（投げる）からなる。散らばった手がかりを寄せ集めて結論を導く、と考えると意味をつかみやすい。"
+    },
+    "equivalents": {
+      "de": "Vermutung / vermuten",
+      "it": "congettura / congetturare",
+      "fr": "conjecture / conjecturer",
+      "es": "conjetura / conjeturar"
+    },
+    "collocations": {
+      "en": [
+        "mere conjecture",
+        "put forward a conjecture",
+        "conjecture that something happened",
+        "formulate a conjecture",
+        "prove a conjecture",
+        "disprove a conjecture"
+      ],
+      "ja": [
+        "mere conjecture — 単なる憶測",
+        "put forward a conjecture — 推測を提示する",
+        "conjecture that something happened — 何かが起きたと推測する",
+        "formulate a conjecture — 予想を定式化する",
+        "prove a conjecture — 予想を証明する",
+        "disprove a conjecture — 予想を反証する"
+      ]
+    },
+    "example": {
+      "en": [
+        "Without the original records, any explanation for the discrepancy is mere conjecture.",
+        "The researchers conjectured that the two fragments came from the same manuscript.",
+        "The computations support the conjecture, but they do not prove it."
+      ],
+      "ja": [
+        "Without the original records, any explanation for the discrepancy is mere conjecture. — 原記録がなければ、その食い違いをどう説明しても単なる憶測にすぎない。",
+        "The researchers conjectured that the two fragments came from the same manuscript. — 研究者たちは、二つの断片が同じ写本に由来すると推測した。",
+        "The computations support the conjecture, but they do not prove it. — 計算結果はその予想を裏づけているが、証明にはならない。"
+      ]
+    }
   }
 ]
