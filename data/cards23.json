@@ -11559,5 +11559,125 @@
         "Full justification can leave awkward gaps between words in narrow columns. — 段の幅が狭いと、両端揃えによって単語の間に不自然な空きができることがある。"
       ]
     }
+  },
+  {
+    "id": "indulgent",
+    "sid": "2026-02027",
+    "word": "indulgent",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "attitude",
+      "food",
+      "lifestyle"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "indulgent",
+        "comparative": "more indulgent",
+        "superlative": "most indulgent"
+      },
+      "patterns": [
+        "an indulgent + parent / smile / dessert",
+        "be indulgent toward(s) + someone",
+        "be indulgent with + someone",
+        "feel a little indulgent"
+      ],
+      "usage": {
+        "sense": "With a person or reaction, indulgent suggests a willingness to overlook faults or grant wishes. With food or an experience, it suggests a treat that feels rich or luxurious."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪnˈdʌl.dʒənt/",
+        "uk": "/ɪnˈdʌl.dʒənt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "inclined to let someone have what they want or to overlook their faults",
+        "showing affectionate or amused tolerance",
+        "rich, luxurious, or especially pleasurable in the way a treat is"
+      ],
+      "ja": [
+        "人の望みをかなえてやったり、欠点や失敗を大目に見たりする、甘い、寛大な",
+        "優しく、あるいはおかしみを感じながら大目に見るような",
+        "食べ物や体験などが、濃厚で贅沢な、ごほうび感のある"
+      ]
+    },
+    "nuance": {
+      "en": "An indulgent parent may be affectionately generous or overly permissive, depending on context. An indulgent smile can show fond amusement. In food writing and advertising, an indulgent dessert is usually something rich and pleasurable, and the word is often used approvingly.",
+      "ja": "an indulgent parent は、愛情から子どもの望みを聞いてやる親にも、甘やかしすぎる親にも使える。an indulgent smile は、相手の言動をほほえましく思って浮かべる笑み。食や広告の文脈では、an indulgent dessert のように、濃厚で贅沢な楽しみを表す好意的な表現としてよく使う。"
+    },
+    "minimal": {
+      "en": [
+        "lenient: Mild in judging or punishing someone. Indulgent can also suggest actively giving someone what they want.",
+        "permissive: Allows a great deal of freedom, especially through loose rules. Indulgent can have a warmer, more affectionate tone.",
+        "self-indulgent: Focuses on gratifying one's own desires and often sounds critical. An indulgent dessert describes the treat itself and can be praised."
+      ],
+      "ja": [
+        "lenient：判断や処分が寛大な。indulgent には、相手の望みを積極的にかなえてやる含みもある。",
+        "permissive：規則やしつけが緩く、自由にさせる。indulgent には相手への愛情や、その相手に対する甘さがにじむことがある。",
+        "self-indulgent：自分の欲を満たすことに甘く、批判的に響きやすい。an indulgent dessert はデザート自体を贅沢なごほうびとして好意的に表現できる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "lenient",
+        "note": {
+          "en": "Close when someone overlooks faults or is mild in their judgment.",
+          "ja": "欠点を大目に見たり、判断が寛大だったりする場合に近い。"
+        }
+      },
+      {
+        "word": "decadent",
+        "note": {
+          "en": "Close in food descriptions, often emphasizing rich or extravagant pleasure.",
+          "ja": "食べ物の描写で近く、とりわけ濃厚でぜいたくな楽しみを強調する。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Related to the verb indulge and the noun indulgence.",
+      "ja": "indulge（動詞）、indulgence（名詞）と同じ語族。"
+    },
+    "equivalents": {
+      "de": "nachsichtig / verwöhnend / üppig (Dessert)",
+      "it": "indulgente / goloso (dessert)",
+      "fr": "indulgent / gourmand (dessert)",
+      "es": "indulgente / exquisito y sustancioso (postre)"
+    },
+    "collocations": {
+      "en": [
+        "an indulgent parent",
+        "an indulgent smile",
+        "be indulgent toward one's grandchildren",
+        "an indulgent dessert",
+        "a rich, indulgent treat",
+        "an indulgent weekend away"
+      ],
+      "ja": [
+        "an indulgent parent — 子どもに甘い親",
+        "an indulgent smile — ほほえましそうな笑み",
+        "be indulgent toward one's grandchildren — 孫に甘い",
+        "an indulgent dessert — 贅沢なデザート",
+        "a rich, indulgent treat — 濃厚で贅沢なごほうび",
+        "an indulgent weekend away — 旅先で贅沢に過ごす週末"
+      ]
+    },
+    "example": {
+      "en": [
+        "My grandparents were indulgent with me and always let me stay up past my bedtime.",
+        "She gave him an indulgent smile when he launched into the same story again.",
+        "The chocolate tart is wonderfully indulgent, especially with a spoonful of whipped cream."
+      ],
+      "ja": [
+        "My grandparents were indulgent with me and always let me stay up past my bedtime. — 祖父母は私に甘く、いつも寝る時間を過ぎても起きていていいと言ってくれた。",
+        "She gave him an indulgent smile when he launched into the same story again. — 彼がまた同じ話を始めると、彼女はほほえましそうに笑った。",
+        "The chocolate tart is wonderfully indulgent, especially with a spoonful of whipped cream. — そのチョコレートタルトはとても贅沢な味わいで、ホイップクリームをひとさじ添えると格別だ。"
+      ]
+    }
   }
 ]
