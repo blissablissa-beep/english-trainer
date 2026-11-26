@@ -13110,5 +13110,114 @@
         "Once we’ve fleshed out the rollout plan, we can iron out any scheduling conflicts. — 導入計画を具体化したら、日程の重複や食い違いを調整できる。"
       ]
     }
+  },
+  {
+    "id": "hash-out",
+    "sid": "2026-02040",
+    "word": "hash out",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "phrasal verb",
+      "work",
+      "negotiation",
+      "conversation"
+    ],
+    "grammar": {
+      "pos": "phrasal verb",
+      "forms": {
+        "base": "hash out",
+        "thirdPerson": "hashes out",
+        "past": "hashed out",
+        "pastParticiple": "hashed out",
+        "presentParticiple": "hashing out"
+      },
+      "patterns": [
+        "hash out + noun",
+        "hash + noun + out",
+        "hash + pronoun + out",
+        "hash out + noun + with someone"
+      ],
+      "usage": {
+        "wordOrder": "Both hash out the details and hash the details out work. With a pronoun, use hash them out."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/hæʃ aʊt/",
+        "uk": "/hæʃ aʊt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to discuss something thoroughly, typically to settle an issue, reach an agreement, or decide the details"
+      ],
+      "ja": [
+        "問題や条件についてじっくり話し合い、解決策・合意・具体的な内容を詰める"
+      ]
+    },
+    "nuance": {
+      "en": "Hash out is informal and especially common in American English. It emphasizes the back-and-forth of working through different views or options. Let's hash it out invites a detailed discussion; we hashed out a deal describes the result of that discussion.",
+      "ja": "特に米語でよく使うくだけた表現。違う意見や選択肢を出し合い、話し合いながら結論を詰める過程に重点がある。Let’s hash it out. は「とことん話し合おう」、we hashed out a deal は「話し合いで合意をまとめた」。"
+    },
+    "minimal": {
+      "en": [
+        "iron out: Focuses on clearing up remaining problems or differences. Hash out emphasizes the discussion and can also describe negotiating the main terms.",
+        "flesh out: Adds substance or detail to an existing outline. Hash out suggests discussing what those details should be.",
+        "thrash out: A close equivalent, especially in British English, which can suggest vigorous debate."
+      ],
+      "ja": [
+        "iron out：残っている問題や食い違いの解消に焦点がある。hash out はやり取りに重点があり、主要な条件を交渉して決める場合にも使える。",
+        "flesh out：すでにある骨子に内容を足して肉付けする。hash out は、その内容をどうするか話し合って決めることを示す。",
+        "thrash out：特にイギリス英語で近い表現。活発な議論を重ねる響きが出ることがある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "talk through",
+        "note": {
+          "en": "Close when working through an issue in conversation. Hash out often suggests aiming for a decision.",
+          "ja": "話し合いながら問題を検討する場合に近い。hash out は結論を出そうとする含みが出やすい。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The verb hash also means to chop into small pieces, as with food. In hash out, you can picture taking an issue apart and discussing it piece by piece.",
+      "ja": "動詞 hash には、食材などを細かく刻むという意味もある。問題を細かい論点に分けて、一つずつ話し合うとイメージすると覚えやすい。"
+    },
+    "equivalents": {
+      "de": "etwas ausdiskutieren / etwas aushandeln",
+      "it": "discutere a fondo / definire discutendo",
+      "fr": "discuter à fond / mettre au point ensemble",
+      "es": "debatir a fondo / acordar los detalles"
+    },
+    "collocations": {
+      "en": [
+        "hash out the details",
+        "hash out the terms",
+        "hash out a deal",
+        "hash out a compromise",
+        "sit down and hash it out"
+      ],
+      "ja": [
+        "hash out the details — 細部を話し合って詰める",
+        "hash out the terms — 条件を交渉して決める",
+        "hash out a deal — 話し合って合意をまとめる",
+        "hash out a compromise — 議論して妥協案をまとめる",
+        "sit down and hash it out — 腰を据えてとことん話し合う"
+      ]
+    },
+    "example": {
+      "en": [
+        "Let’s sit down tomorrow and hash out who will handle each part of the project.",
+        "The two sides spent the afternoon hashing out the terms of the licensing agreement.",
+        "We disagree about the budget. Can we hash it out before Friday?"
+      ],
+      "ja": [
+        "Let’s sit down tomorrow and hash out who will handle each part of the project. — 明日じっくり話し合って、プロジェクトの各部分を誰が担当するか決めよう。",
+        "The two sides spent the afternoon hashing out the terms of the licensing agreement. — 双方は午後いっぱいかけて、ライセンス契約の条件を交渉して詰めた。",
+        "We disagree about the budget. Can we hash it out before Friday? — 予算について意見が割れている。金曜までに話し合って結論を出せるかな？"
+      ]
+    }
   }
 ]
