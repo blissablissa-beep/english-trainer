@@ -12523,5 +12523,134 @@
         "The report linked the sharp rise in house prices to speculation in the housing market. — その報告書は、住宅価格の急騰を住宅市場での投機と結びつけた。"
       ]
     }
+  },
+  {
+    "id": "alignment",
+    "sid": "2026-02035",
+    "word": "alignment",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "work",
+      "design",
+      "technology"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "usually uncountable (positioning or agreement); countable for a particular arrangement or grouping",
+      "forms": {
+        "base": "alignment",
+        "plural": "alignments"
+      },
+      "patterns": [
+        "the alignment of A with B",
+        "alignment between A and B",
+        "be in alignment with + noun",
+        "be out of alignment",
+        "achieve alignment on + topic"
+      ],
+      "usage": {
+        "prepositions": "With identifies a reference point or goal. Between identifies the parties or things whose fit is being considered. On introduces the topic people agree on."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/əˈlaɪn.mənt/",
+        "uk": "/əˈlaɪn.mənt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the arrangement or adjustment of things into the correct position or direction relative to one another",
+        "agreement or consistency between goals, policies, priorities, or actions",
+        "a grouping or relationship formed when people or groups take compatible positions"
+      ],
+      "ja": [
+        "物の位置や向きを互いに合うように揃えること、位置合わせ、整列、調整",
+        "目標・方針・優先事項・行動などの一致、整合",
+        "人や集団が同じ方向を向くことによって生じる関係や勢力の配置"
+      ]
+    },
+    "nuance": {
+      "en": "In physical contexts, alignment concerns position, angle, or orientation, as in wheel alignment and text alignment. At work, alignment can mean shared priorities among people or a fit between a plan and a goal. In AI, alignment concerns making system behavior accord with intended goals or values.",
+      "ja": "物理的な文脈では位置・角度・向きが揃っていること。wheel alignment は車輪の角度調整、text alignment は文字揃えを指す。仕事では、関係者の優先事項が揃うことや、計画と目標の整合を表す。AI alignment は、AIの振る舞いを意図された目標や価値観に沿わせることを指す。"
+    },
+    "minimal": {
+      "en": [
+        "agreement: Often focuses on a point people have agreed to. Alignment can describe a fit between things such as a budget and a strategy.",
+        "coordination: Organizing the timing or execution of activities. Alignment concerns whether they serve compatible goals.",
+        "consensus: Broad agreement within a group. Alignment can describe shared direction even when participants differ on details."
+      ],
+      "ja": [
+        "agreement：人が何かに合意したことを指す場合が多い。alignment は予算と戦略のような物事同士の整合にも使える。",
+        "coordination：作業の時期や進め方を調整すること。alignment は、それぞれの作業が同じ方向の目標に沿っているかに焦点がある。",
+        "consensus：集団内で広く意見が一致していること。alignment は細部に意見の違いがあっても、方向性を共有している場合に使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "consistency",
+        "note": {
+          "en": "Close when a policy or action fits a stated goal.",
+          "ja": "方針や行動が掲げた目標と整合する場合に近い。"
+        }
+      },
+      {
+        "word": "positioning",
+        "note": {
+          "en": "Close in physical contexts, where alignment specifies the arrangement relative to a reference or another object.",
+          "ja": "物理的な文脈で近い。alignment は基準や他の物との位置関係に焦点がある。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from align and the noun suffix -ment.",
+      "ja": "align（揃える、方向を合わせる）に名詞を作る接尾辞 -ment が付いた形。"
+    },
+    "equivalents": {
+      "de": "Ausrichtung / Abstimmung / Übereinstimmung",
+      "it": "allineamento / coerenza",
+      "fr": "alignement / cohérence",
+      "es": "alineación / concordancia"
+    },
+    "collocations": {
+      "en": [
+        "wheel alignment",
+        "text alignment",
+        "check the alignment",
+        "be out of alignment",
+        "alignment with strategic goals",
+        "alignment between teams",
+        "achieve alignment on priorities",
+        "political alignment",
+        "AI alignment"
+      ],
+      "ja": [
+        "wheel alignment — 車輪の角度調整、ホイールアライメント",
+        "text alignment — 文字揃え",
+        "check the alignment — 位置や向きが合っているか確認する",
+        "be out of alignment — 位置や向きがずれている",
+        "alignment with strategic goals — 戦略目標との整合",
+        "alignment between teams — チーム間での方針の一致",
+        "achieve alignment on priorities — 優先事項について認識を揃える",
+        "political alignment — 政治的な立場の一致、勢力の配置",
+        "AI alignment — AIアラインメント"
+      ]
+    },
+    "example": {
+      "en": [
+        "Before we finalize the budget, we need to check its alignment with our long-term goals.",
+        "The two teams reached alignment on what to deliver first.",
+        "The mechanic checked the wheel alignment after I noticed the car pulling to the left.",
+        "Change the text alignment to left so the labels are easier to scan."
+      ],
+      "ja": [
+        "Before we finalize the budget, we need to check its alignment with our long-term goals. — 予算を確定する前に、長期目標に沿っているか確認する必要がある。",
+        "The two teams reached alignment on what to deliver first. — 両チームは、何を先に納品するかについて認識を揃えた。",
+        "The mechanic checked the wheel alignment after I noticed the car pulling to the left. — 車が左に流れることに気づき、整備士に車輪の角度を点検してもらった。",
+        "Change the text alignment to left so the labels are easier to scan. — ラベルをさっと読み取れるように、文字を左揃えにしてください。"
+      ]
+    }
   }
 ]
