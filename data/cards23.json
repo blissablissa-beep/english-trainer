@@ -12769,5 +12769,120 @@
         "The computations support the conjecture, but they do not prove it. — 計算結果はその予想を裏づけているが、証明にはならない。"
       ]
     }
+  },
+  {
+    "id": "make-up-for",
+    "sid": "2026-02037",
+    "word": "make up for",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "phrasal verb",
+      "daily life",
+      "work"
+    ],
+    "grammar": {
+      "pos": "phrasal verb",
+      "forms": {
+        "base": "make up for",
+        "thirdPerson": "makes up for",
+        "past": "made up for",
+        "pastParticiple": "made up for",
+        "presentParticiple": "making up for"
+      },
+      "patterns": [
+        "make up for + noun / pronoun",
+        "make up for + -ing",
+        "make up for A by + -ing",
+        "what A lacks in X, A makes up for in Y"
+      ],
+      "usage": {
+        "wordOrder": "The thing being compensated for comes after for: make up for it, make up for missing the meeting. To name the method, add by + -ing."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/meɪk ˈʌp fɔr/",
+        "uk": "/meɪk ˈʌp fɔː/"
+      },
+      "note": "Unstressed for is often /fər/ (US) or /fə/ (UK)."
+    },
+    "meaning": {
+      "en": [
+        "to offset a lack, loss, or disadvantage",
+        "to do something to compensate for a mistake, disappointment, or missed opportunity"
+      ],
+      "ja": [
+        "不足・損失・不利な点を補う、埋め合わせる",
+        "失敗や相手をがっかりさせたこと、逃した機会などの埋め合わせをする"
+      ]
+    },
+    "nuance": {
+      "en": "A person can make up for a mistake by doing something helpful. A positive feature can also make up for a drawback, as when a great location makes up for a small room. To specify the person receiving the gesture, use make it up to someone.",
+      "ja": "人が何かをして失敗の埋め合わせをする場合にも、長所が短所を補う場合にも使う。たとえば、立地のよさが部屋の狭さを補うと言える。誰に埋め合わせをするかを示すなら make it up to someone を使う。"
+    },
+    "minimal": {
+      "en": [
+        "make it up to someone: Names the person you want to make amends to. Make up for names the mistake or loss being compensated for.",
+        "make up: Has several separate meanings. Make up missed work can mean doing the work you missed. Make up for missing work can mean compensating for the fact that you missed it.",
+        "offset: A more formal alternative, especially for costs, losses, or disadvantages."
+      ],
+      "ja": [
+        "make it up to someone：埋め合わせをする相手を示す。make up for の後ろには、失敗や損失など埋め合わせの対象が来る。",
+        "make up：別の意味をいくつも持つ。make up missed work は、できなかった仕事をあとでこなすこと。make up for missing work は、仕事を休んだことによる影響などの埋め合わせをすること。",
+        "offset：より改まった語で、費用・損失・不利な点を相殺する場合によく使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "compensate for",
+        "note": {
+          "en": "Close for making good a loss or balancing a disadvantage, with a more formal tone.",
+          "ja": "損失や不利な点を補う場合に近く、より改まった響き。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The phrase uses make up in the sense of making good a shortage or loss. For introduces what is being compensated for.",
+      "ja": "make up の「不足や損失を補う」の意味から理解できる。for の後ろに、何を補うのかを示す。"
+    },
+    "equivalents": {
+      "de": "etwas ausgleichen / etwas wiedergutmachen",
+      "it": "compensare / rimediare a",
+      "fr": "compenser / rattraper",
+      "es": "compensar / recuperar"
+    },
+    "collocations": {
+      "en": [
+        "make up for lost time",
+        "make up for a shortfall",
+        "make up for the delay",
+        "make up for a mistake",
+        "make up for missing the meeting",
+        "more than make up for a drawback"
+      ],
+      "ja": [
+        "make up for lost time — 失った時間を取り戻す",
+        "make up for a shortfall — 不足分を埋める",
+        "make up for the delay — 遅れを取り戻す、遅れの埋め合わせをする",
+        "make up for a mistake — 失敗の埋め合わせをする",
+        "make up for missing the meeting — 会議を欠席したことの埋め合わせをする",
+        "more than make up for a drawback — 欠点を補って余りある"
+      ]
+    },
+    "example": {
+      "en": [
+        "The room is small, but the view more than makes up for it.",
+        "I tried to make up for missing her birthday by taking her out to dinner the following weekend.",
+        "We worked through lunch to make up for lost time.",
+        "What the app lacks in polish, it makes up for in speed."
+      ],
+      "ja": [
+        "The room is small, but the view more than makes up for it. — 部屋は狭いけれど、眺めのよさがそれを補って余りある。",
+        "I tried to make up for missing her birthday by taking her out to dinner the following weekend. — 彼女の誕生日を祝えなかった埋め合わせに、翌週末に彼女を食事に誘った。",
+        "We worked through lunch to make up for lost time. — 遅れを取り戻すため、昼休みも作業を続けた。",
+        "What the app lacks in polish, it makes up for in speed. — そのアプリは仕上がりの粗さを動作の速さで補っている。"
+      ]
+    }
   }
 ]
