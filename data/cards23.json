@@ -12999,5 +12999,116 @@
         "Can you iron out the creases in this shirt? — このシャツの折りじわをアイロンで伸ばしてくれる？"
       ]
     }
+  },
+  {
+    "id": "flesh-out",
+    "sid": "2026-02039",
+    "word": "flesh out",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "phrasal verb",
+      "writing",
+      "work",
+      "planning"
+    ],
+    "grammar": {
+      "pos": "phrasal verb",
+      "forms": {
+        "base": "flesh out",
+        "thirdPerson": "fleshes out",
+        "past": "fleshed out",
+        "pastParticiple": "fleshed out",
+        "presentParticiple": "fleshing out"
+      },
+      "patterns": [
+        "flesh out + noun",
+        "flesh + noun + out",
+        "flesh + pronoun + out",
+        "flesh out A with B"
+      ],
+      "usage": {
+        "wordOrder": "This verb is separable: flesh out the idea or flesh the idea out. With a pronoun, use flesh it out."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/fleʃ aʊt/",
+        "uk": "/fleʃ aʊt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to develop a plan, idea, account, or character by adding details or substance"
+      ],
+      "ja": [
+        "計画・アイデア・説明・登場人物などに具体的な内容を加え、肉付けする"
+      ]
+    },
+    "nuance": {
+      "en": "Flesh out suggests that a basic structure is already in place. The added material may be examples, practical details, or a character’s motives and backstory.",
+      "ja": "すでに骨格があり、事例や実施方法、登場人物の動機や過去などを書き足して、具体性や厚みを持たせるときに使う。"
+    },
+    "minimal": {
+      "en": [
+        "iron out: Resolve outstanding problems or differences. Flesh out a plan by adding substance, then iron out any issues that remain.",
+        "elaborate on: Explain a point in greater detail. Flesh out often involves building up a draft or outline by adding new material.",
+        "flush out: Drive something out of hiding or bring a hidden problem to light. The vowel is /ʌ/, while flesh has /e/."
+      ],
+      "ja": [
+        "iron out：残っている問題や食い違いを解消する。計画を flesh out して具体化し、そこで残った問題を iron out すると言える。",
+        "elaborate on：ある点について詳しく説明する。flesh out は、下書きや骨子に材料を足して内容を充実させるときによく使う。",
+        "flush out：隠れているものを追い出す、潜在的な問題をあぶり出す。母音は /ʌ/ で、flesh は /e/。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "develop",
+        "note": {
+          "en": "A broader verb. Flesh out specifically suggests adding substance to something already sketched.",
+          "ja": "より広い語。flesh out は、すでにある骨子に内容を足すことを示す。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The metaphor is that of adding flesh to a skeleton. The skeleton represents the basic structure, and the flesh represents the details that fill it out.",
+      "ja": "骨格に肉を付けるという比喩。骨格が大枠、肉がそこに加える具体的な内容にあたる。"
+    },
+    "equivalents": {
+      "de": "ausarbeiten / mit Details ausfüllen",
+      "it": "sviluppare / arricchire di dettagli",
+      "fr": "étoffer / développer",
+      "es": "desarrollar / añadir detalles a"
+    },
+    "collocations": {
+      "en": [
+        "flesh out an idea",
+        "flesh out a proposal",
+        "flesh out an outline",
+        "flesh out a character",
+        "flesh out the draft with examples",
+        "a fully fleshed-out plan"
+      ],
+      "ja": [
+        "flesh out an idea — アイデアを具体化する",
+        "flesh out a proposal — 提案に内容を肉付けする",
+        "flesh out an outline — 骨子に具体的な内容を加える",
+        "flesh out a character — 登場人物の描写に厚みを持たせる",
+        "flesh out the draft with examples — 事例を加えて草稿を充実させる",
+        "a fully fleshed-out plan — 細部まで具体化された計画"
+      ]
+    },
+    "example": {
+      "en": [
+        "We have a rough outline for the proposal. Let’s flesh it out with a timeline and cost estimates.",
+        "The second draft fleshes out the main character by showing why she left home.",
+        "Once we’ve fleshed out the rollout plan, we can iron out any scheduling conflicts."
+      ],
+      "ja": [
+        "We have a rough outline for the proposal. Let’s flesh it out with a timeline and cost estimates. — 提案の大枠はできている。日程案と費用の見積もりを加えて具体化しよう。",
+        "The second draft fleshes out the main character by showing why she left home. — 第2稿では、主人公が家を出た理由を描くことで、人物像に厚みを持たせている。",
+        "Once we’ve fleshed out the rollout plan, we can iron out any scheduling conflicts. — 導入計画を具体化したら、日程の重複や食い違いを調整できる。"
+      ]
+    }
   }
 ]
