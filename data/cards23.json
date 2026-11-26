@@ -13219,5 +13219,132 @@
         "We disagree about the budget. Can we hash it out before Friday? — 予算について意見が割れている。金曜までに話し合って結論を出せるかな？"
       ]
     }
+  },
+  {
+    "id": "amplify",
+    "sid": "2026-02041",
+    "word": "amplify",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "technology",
+      "communication",
+      "writing"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "forms": {
+        "base": "amplify",
+        "thirdPerson": "amplifies",
+        "past": "amplified",
+        "pastParticiple": "amplified",
+        "presentParticiple": "amplifying"
+      },
+      "patterns": [
+        "amplify + signal / sound / effect / voice",
+        "be amplified by + noun",
+        "amplify a point with + examples / details"
+      ],
+      "usage": {
+        "object": "Amplify is usually transitive. With voices, the object can refer to literal sound or, figuratively, to people’s views and experiences."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈæm.plə.faɪ/",
+        "uk": "/ˈæm.plɪ.faɪ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to make a sound louder or a signal stronger",
+        "to make an effect, feeling, or problem stronger, or make a message or viewpoint reach more people",
+        "to develop a statement or explanation by adding details, especially in formal use"
+      ],
+      "ja": [
+        "音を大きくする、信号を増幅する",
+        "影響・感情・問題などを強める、メッセージや意見をより多くの人に届ける",
+        "（改まった用法）説明や発言に詳しい情報を加えて敷衍する"
+      ]
+    },
+    "nuance": {
+      "en": "The object determines what grows. Amplify an effect means making its impact stronger. Amplify someone’s voice often means giving their views more visibility or reach, for example by sharing their message with a wider audience. Amplifying a message can spread it without changing its content.",
+      "ja": "何が大きくなるかは目的語で変わる。amplify an effect は「影響を強める」。amplify someone’s voice は、意見や経験がより多くの人に届くようにすること。amplify a message は、メッセージの内容自体を変えずに、拡散して届く範囲を広げる場合にも使う。"
+    },
+    "minimal": {
+      "en": [
+        "increase: Broadly means to make something greater in size or amount. Amplify often emphasizes greater strength, impact, or reach.",
+        "magnify: Can make something look larger, or make a problem or effect seem or become larger. Amplify is especially natural for sound, signals, and voices.",
+        "flesh out: Adds substance to an outline or draft. In its formal sense of elaborating, amplify can mean expanding a point already made."
+      ],
+      "ja": [
+        "increase：大きさや数量を増やす広い語。amplify は強さ、影響、届く範囲が増すことを表しやすい。",
+        "magnify：物を拡大して見せたり、問題や影響を実際に、あるいは見かけ上大きくしたりする。amplify は音・信号・声と特に相性がよい。",
+        "flesh out：骨子や草稿に具体的な内容を肉付けする。改まった用法の amplify は、すでに述べた論点について説明を広げる場合にも使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "boost",
+        "note": {
+          "en": "Close when making a signal stronger or increasing a message’s reach.",
+          "ja": "信号を強くする場合や、メッセージの届く範囲を広げる場合に近い。"
+        }
+      },
+      {
+        "word": "intensify",
+        "note": {
+          "en": "Close when making a feeling or effect stronger.",
+          "ja": "感情や影響を強めるときに近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Via Old French amplifier, from Latin amplificare ‘to enlarge’, built from amplus ‘large’ and a form of facere ‘to make’. Ample comes from the same Latin root amplus. The early English sense was to enlarge or expand.",
+      "ja": "古フランス語 amplifier を経て、ラテン語 amplificare（大きくする）から入った。amplus（大きな）と facere（作る、する）の結合形からなる。ample（十分な、広い）も同じ amplus に由来する。初期の英語では「大きくする、広げる」という意味だった。"
+    },
+    "equivalents": {
+      "de": "verstärken / einer Stimme mehr Gehör verschaffen",
+      "it": "amplificare / dare più voce a",
+      "fr": "amplifier / donner plus d’écho à",
+      "es": "amplificar / dar más difusión a"
+    },
+    "collocations": {
+      "en": [
+        "amplify a weak signal",
+        "amplify the sound",
+        "amplify the impact",
+        "amplify existing tensions",
+        "amplify public concerns",
+        "amplify a message",
+        "amplify local voices",
+        "amplify a point with examples"
+      ],
+      "ja": [
+        "amplify a weak signal — 弱い信号を増幅する",
+        "amplify the sound — 音を増幅する",
+        "amplify the impact — 影響を強める",
+        "amplify existing tensions — 既存の緊張をさらに高める",
+        "amplify public concerns — 世間の懸念を強める、広く伝える",
+        "amplify a message — メッセージをより広く届ける",
+        "amplify local voices — 地元の人々の声をより広く届ける",
+        "amplify a point with examples — 例を挙げて論点を詳しく説明する"
+      ]
+    },
+    "example": {
+      "en": [
+        "The circuit amplifies the weak signal from the microphone.",
+        "The confusing announcement only amplified employees’ concerns.",
+        "The documentary amplifies the voices of residents who are rarely heard in debates about redevelopment.",
+        "The author amplifies this point with two examples in the next chapter."
+      ],
+      "ja": [
+        "The circuit amplifies the weak signal from the microphone. — その回路はマイクからの弱い信号を増幅する。",
+        "The confusing announcement only amplified employees’ concerns. — 分かりにくい発表は、従業員の懸念を強めるばかりだった。",
+        "The documentary amplifies the voices of residents who are rarely heard in debates about redevelopment. — そのドキュメンタリーは、再開発の議論でめったに声を聞いてもらえない住民の意見を、より多くの人に届けている。",
+        "The author amplifies this point with two examples in the next chapter. — 著者は次章で二つの例を挙げて、この論点をさらに詳しく説明している。"
+      ]
+    }
   }
 ]
