@@ -12884,5 +12884,120 @@
         "What the app lacks in polish, it makes up for in speed. — そのアプリは仕上がりの粗さを動作の速さで補っている。"
       ]
     }
+  },
+  {
+    "id": "iron-out",
+    "sid": "2026-02038",
+    "word": "iron out",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "phrasal verb",
+      "work",
+      "negotiation",
+      "daily life"
+    ],
+    "grammar": {
+      "pos": "phrasal verb",
+      "forms": {
+        "base": "iron out",
+        "thirdPerson": "irons out",
+        "past": "ironed out",
+        "pastParticiple": "ironed out",
+        "presentParticiple": "ironing out"
+      },
+      "patterns": [
+        "iron out + noun",
+        "iron + noun + out",
+        "iron + pronoun + out",
+        "iron creases out of + fabric"
+      ],
+      "usage": {
+        "wordOrder": "This verb is separable. Both iron out the wrinkles and iron the wrinkles out are possible. With a pronoun, say iron them out."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈaɪ.ɚn aʊt/",
+        "uk": "/ˈaɪ.ən aʊt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to remove wrinkles or creases with an iron",
+        "to resolve problems or differences, or settle outstanding details"
+      ],
+      "ja": [
+        "アイロンでしわや折りじわを伸ばす",
+        "問題や意見の食い違いを解消する、未決の細部を詰める"
+      ]
+    },
+    "nuance": {
+      "en": "Figurative iron out often suggests working through specific obstacles so that a plan, agreement, or product works smoothly. It can imply that the overall direction is already set, as in iron out the remaining details. With differences, it suggests working toward agreement.",
+      "ja": "比喩では、計画や合意、製品がうまく機能するよう、具体的な障害を一つずつ解消する感じがある。iron out the remaining details は、大筋が決まった状態で「残っている細部を詰める」。differences が目的語なら、話し合いなどで意見の食い違いを解消すること。"
+    },
+    "minimal": {
+      "en": [
+        "sort out: Broadly means to organize, clarify, or resolve something. Iron out often suggests smoothing specific difficulties or settling details.",
+        "work out: Can mean finding a solution or devising a plan. Work out a plan can mean creating it, while iron out the details of a plan suggests refining it.",
+        "resolve: A more formal general verb for settling an issue or dispute. Iron out suggests working through points of friction."
+      ],
+      "ja": [
+        "sort out：整理する、はっきりさせる、解決するなど幅広い。iron out は具体的な難点を解消したり、細部を詰めたりするときによく使う。",
+        "work out：解決策を見つけたり、計画を立てたりする。work out a plan は計画を作ること、iron out the details of a plan はその細部を詰めることを表せる。",
+        "resolve：問題や紛争を解決する改まった一般語。iron out には引っかかっている点を調整する感じがある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "smooth out",
+        "note": {
+          "en": "Close for removing wrinkles or easing problems and irregularities.",
+          "ja": "しわを伸ばす場合にも、問題やばらつきをならす場合にも近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The figurative use comes from the image of pressing wrinkles out of fabric with an iron.",
+      "ja": "アイロンで布のしわを伸ばす動作から、問題や食い違いを解消して物事を円滑にするという比喩に広がった。"
+    },
+    "equivalents": {
+      "de": "ausbügeln / klären / beilegen",
+      "it": "stirare / appianare / definire i dettagli",
+      "fr": "repasser / aplanir / régler",
+      "es": "planchar / allanar / resolver"
+    },
+    "collocations": {
+      "en": [
+        "iron out the wrinkles",
+        "iron out the creases",
+        "iron out the remaining details",
+        "iron out the differences",
+        "iron out a few kinks",
+        "iron out the issues before launch"
+      ],
+      "ja": [
+        "iron out the wrinkles — しわを伸ばす、細かな問題を解消する",
+        "iron out the creases — 折りじわを伸ばす",
+        "iron out the remaining details — 残っている細部を詰める",
+        "iron out the differences — 意見の食い違いを解消する",
+        "iron out a few kinks — いくつかの不具合や難点を解消する",
+        "iron out the issues before launch — 公開前に問題を解消する"
+      ]
+    },
+    "example": {
+      "en": [
+        "We agree on the main terms, but we still need to iron out a few details before signing.",
+        "The two teams met to iron out their differences over the release schedule.",
+        "We found a few problems in testing and will iron them out before launch.",
+        "Can you iron out the creases in this shirt?"
+      ],
+      "ja": [
+        "We agree on the main terms, but we still need to iron out a few details before signing. — 主要な条件には合意しているが、署名する前にまだ細部をいくつか詰める必要がある。",
+        "The two teams met to iron out their differences over the release schedule. — 両チームは、リリース日程をめぐる意見の食い違いを解消するために会合を開いた。",
+        "We found a few problems in testing and will iron them out before launch. — テストで見つかったいくつかの問題は、公開前に解消する予定だ。",
+        "Can you iron out the creases in this shirt? — このシャツの折りじわをアイロンで伸ばしてくれる？"
+      ]
+    }
   }
 ]
