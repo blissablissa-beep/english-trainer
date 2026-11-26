@@ -12172,5 +12172,126 @@
         "This bag is plenty big enough for both laptops. — このバッグならノートパソコンが２台とも余裕で入る。"
       ]
     }
+  },
+  {
+    "id": "speculative",
+    "sid": "2026-02032",
+    "word": "speculative",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "reasoning",
+      "finance",
+      "work"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "speculative",
+        "comparative": "more speculative",
+        "superlative": "most speculative"
+      },
+      "patterns": [
+        "a speculative + claim / theory / investment",
+        "be highly / purely speculative",
+        "remain speculative"
+      ],
+      "usage": {
+        "tone": "Purely speculative stresses the lack of confirmation. Highly speculative may refer to weak evidence or to substantial financial risk, depending on the noun."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈspek.jə.lə.tɪv/",
+        "uk": "/ˈspek.jə.lə.tɪv/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "based mainly on conjecture or possibilities, with limited confirming evidence",
+        "involving substantial financial risk in the hope of making a profit"
+      ],
+      "ja": [
+        "推測に基づく、裏づけが乏しい、憶測の域を出ない",
+        "利益を期待して大きなリスクを取る、投機的な"
+      ]
+    },
+    "nuance": {
+      "en": "A speculative explanation can be plausible, but the evidence is too limited to treat it as established. In speculative fiction, the word can instead describe the imaginative exploration of what might be. A speculative investment seeks profit under considerable uncertainty.",
+      "ja": "speculative explanation はもっともらしい説明にも使えるが、確かな説明と見なすには裏づけが足りないという含みがある。speculative fiction では「もしも」を想像して描く作品を指す。speculative investment は大きな不確実性を引き受け、利益を狙う投資。"
+    },
+    "minimal": {
+      "en": [
+        "tentative: Provisional and open to revision. A tentative conclusion may already have some evidence behind it. Speculative emphasizes the role of conjecture.",
+        "hypothetical: Supposed for the sake of discussion. A hypothetical scenario may be deliberately imagined, regardless of how much evidence exists.",
+        "unsubstantiated: Lacking adequate supporting evidence. It is often a more direct criticism of a specific claim."
+      ],
+      "ja": [
+        "tentative：暫定的で、あとから修正する余地がある。tentative conclusion は一定の証拠に基づくこともある。speculative は推測に頼る度合いに焦点がある。",
+        "hypothetical：議論のために仮定した。hypothetical scenario は、検討のために意図的に設定した仮の状況にも使う。",
+        "unsubstantiated：十分な裏づけがない。特定の主張を批判するときに、証拠不足をより直接的に指摘する。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "conjectural",
+        "note": {
+          "en": "A formal equivalent in the evidence-related sense.",
+          "ja": "推測に基づくという意味で近い、改まった語。"
+        }
+      },
+      {
+        "word": "high-risk",
+        "note": {
+          "en": "Close in finance, where speculative also suggests taking the risk in pursuit of profit.",
+          "ja": "金融の文脈で近い。speculative は利益を狙ってリスクを取る含みもある。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Related to speculate (verb) and speculation (noun), which also have both conjecture and finance senses.",
+      "ja": "speculate（動詞）、speculation（名詞）と同じ語族。いずれも推測と投機の両方の用法がある。"
+    },
+    "equivalents": {
+      "de": "spekulativ / mutmaßlich",
+      "it": "speculativo / congetturale",
+      "fr": "spéculatif / conjectural",
+      "es": "especulativo / conjetural"
+    },
+    "collocations": {
+      "en": [
+        "a speculative claim",
+        "a speculative explanation",
+        "remain highly speculative",
+        "purely speculative",
+        "speculative fiction",
+        "a speculative investment",
+        "speculative trading",
+        "a speculative bubble"
+      ],
+      "ja": [
+        "a speculative claim — 推測に基づく主張",
+        "a speculative explanation — 推測に基づく説明",
+        "remain highly speculative — 依然として推測の域を出ない",
+        "purely speculative — まったくの推測にすぎない",
+        "speculative fiction — もしもの世界を描くフィクション",
+        "a speculative investment — 投機的な投資",
+        "speculative trading — 投機的な取引",
+        "a speculative bubble — 投機バブル"
+      ]
+    },
+    "example": {
+      "en": [
+        "Without independent test results, any explanation for the failure remains speculative.",
+        "The link between the two events is plausible, but at this stage it’s still speculative.",
+        "The fund avoids highly speculative investments in companies with no revenue."
+      ],
+      "ja": [
+        "Without independent test results, any explanation for the failure remains speculative. — 独立した試験結果がなければ、その不具合の原因についての説明はどれも推測の域を出ない。",
+        "The link between the two events is plausible, but at this stage it’s still speculative. — 二つの出来事に関連があるという見方はもっともらしいが、現段階ではまだ推測にすぎない。",
+        "The fund avoids highly speculative investments in companies with no revenue. — そのファンドは、売上のない企業への投機性の高い投資を避けている。"
+      ]
+    }
   }
 ]
