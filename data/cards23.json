@@ -11431,5 +11431,133 @@
         "The template justifies the body text and centers the headings. — そのテンプレートは本文を両端揃えにし、見出しを中央揃えにする。"
       ]
     }
+  },
+  {
+    "id": "justification",
+    "sid": "2026-02026",
+    "word": "justification",
+    "level": "C1",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "reasoning",
+      "work",
+      "typography"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable or uncountable (reason or grounds) / uncountable (typography)",
+      "forms": {
+        "base": "justification",
+        "plural": "justifications"
+      },
+      "patterns": [
+        "justification for + noun / -ing",
+        "justification of + noun",
+        "provide a justification for + noun / -ing",
+        "there is no justification for + noun / -ing",
+        "in justification of + noun"
+      ],
+      "usage": {
+        "countability": "Use a justification for one identifiable reason or defense, and no or little justification when speaking of grounds in general.",
+        "preposition": "Justification for the decision is the reason supporting it. Justification of the decision can refer to the act or process of defending it."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌdʒʌs.tə.fəˈkeɪ.ʃən/",
+        "uk": "/ˌdʒʌs.tɪ.fɪˈkeɪ.ʃən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a reason or set of grounds that makes an action, decision, or belief seem reasonable or acceptable",
+        "the act of showing that something is reasonable, acceptable, or warranted",
+        "the alignment of typeset text with one or both margins, especially both margins"
+      ],
+      "ja": [
+        "行動・判断・信念などを妥当と認めるための理由、根拠",
+        "ある行動や判断などの妥当性を示すこと、正当化",
+        "組版や文書編集で文字を余白に合わせて揃えること、特に両端揃え"
+      ]
+    },
+    "nuance": {
+      "en": "Justification focuses on whether there are good enough grounds to accept a decision, practice, or expense. A justification may be requested in a routine review, and no justification for can express strong criticism. A justification someone offers may still be disputed.",
+      "ja": "判断・慣行・支出などを妥当と認めるに足る根拠に焦点がある。予算審査で根拠を求めるような中立的な場面にも、no justification for で強く非難する場面にも使う。相手が示した根拠を a justification と呼び、その十分性を争うこともできる。"
+    },
+    "minimal": {
+      "en": [
+        "explanation: An account of how or why something happened. A missed deadline may have an explanation and still lack sufficient justification.",
+        "rationale: The reasoning behind a choice or design. Justification emphasizes whether there are sufficient grounds to accept it.",
+        "excuse: A reason offered to reduce blame, often with a suggestion that the reason is weak. Justification can be a sound, evidence-based defense."
+      ],
+      "ja": [
+        "explanation：なぜ、あるいはどう起きたかを明らかにする説明。締切に遅れた経緯を説明できても、遅れを容認できるだけの根拠があるかは別の問題。",
+        "rationale：選択や設計の背景にある考え方。justification は、その選択を妥当と認めるに足る根拠に重点がある。",
+        "excuse：非難を和らげるための弁明や言い訳。理由が弱いという含みを帯びやすい。justification は証拠に裏づけられた妥当な根拠にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "grounds",
+        "note": {
+          "en": "Close when referring to the basis that warrants a decision or action, especially in formal contexts.",
+          "ja": "判断や行動を支える根拠を指すときに近く、特に改まった文脈で使う。"
+        }
+      },
+      {
+        "word": "defense",
+        "note": {
+          "en": "Close when someone responds to criticism by explaining why a choice was reasonable.",
+          "ja": "批判に応じて選択の妥当性を説明し、擁護する場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "A noun in the same word family as justify (verb) and justifiable (adjective).",
+      "ja": "justify（動詞）、justifiable（形容詞）と同じ語族に属する名詞。"
+    },
+    "equivalents": {
+      "de": "Rechtfertigung / Begründung / Blocksatz",
+      "it": "giustificazione / giustificazione del testo",
+      "fr": "justification / justification du texte",
+      "es": "justificación / justificación del texto"
+    },
+    "collocations": {
+      "en": [
+        "provide a justification for the decision",
+        "offer little justification for the expense",
+        "there is no justification for the delay",
+        "without adequate justification",
+        "a compelling justification",
+        "a written justification",
+        "in justification of the decision",
+        "full justification"
+      ],
+      "ja": [
+        "provide a justification for the decision — 判断の妥当性を示す理由を提示する",
+        "offer little justification for the expense — その支出を妥当とする根拠をほとんど示していない",
+        "there is no justification for the delay — その遅れを正当化できる理由はない",
+        "without adequate justification — 十分な根拠を欠いたまま",
+        "a compelling justification — 説得力のある根拠",
+        "a written justification — 根拠を記した書面",
+        "in justification of the decision — その判断の妥当性を示すために",
+        "full justification — 両端揃え"
+      ]
+    },
+    "example": {
+      "en": [
+        "The report explains how the decision was made, but it offers little justification for the extra cost.",
+        "The supplier provided a written justification for raising its prices.",
+        "There is no justification for withholding information that customers need.",
+        "Full justification can leave awkward gaps between words in narrow columns."
+      ],
+      "ja": [
+        "The report explains how the decision was made, but it offers little justification for the extra cost. — 報告書には判断に至った経緯が記されているが、追加費用を妥当とする根拠はほとんど示されていない。",
+        "The supplier provided a written justification for raising its prices. — 供給業者は、値上げの妥当性を説明する書面を提出した。",
+        "There is no justification for withholding information that customers need. — 顧客に必要な情報を伏せることを正当化できる理由はない。",
+        "Full justification can leave awkward gaps between words in narrow columns. — 段の幅が狭いと、両端揃えによって単語の間に不自然な空きができることがある。"
+      ]
+    }
   }
 ]
