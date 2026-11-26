@@ -11797,5 +11797,135 @@
         "Thanks for putting up with me while I was so stressed out. — 私がストレスでいっぱいいっぱいだったときに、付き合ってくれてありがとう。"
       ]
     }
+  },
+  {
+    "id": "lazy",
+    "sid": "2026-02029",
+    "word": "lazy",
+    "level": "A2",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "behavior",
+      "daily life",
+      "programming"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "lazy",
+        "comparative": "lazier",
+        "superlative": "laziest"
+      },
+      "patterns": [
+        "be / feel lazy",
+        "be too lazy to + verb",
+        "a lazy + Sunday / afternoon",
+        "a lazy + excuse / argument"
+      ],
+      "usage": {
+        "tone": "Calling someone lazy can sound judgmental. I'm feeling lazy today usually refers to a temporary mood. A lazy afternoon can be enjoyable."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈleɪ.zi/",
+        "uk": "/ˈleɪ.zi/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "unwilling to work or make an effort",
+        "done with too little thought or effort",
+        "relaxed and unhurried, with little activity or effort",
+        "moving slowly or gently"
+      ],
+      "ja": [
+        "働いたり努力したりするのを嫌がる、怠けた、面倒くさがりの",
+        "考えや手間をかけていない、手抜きの",
+        "のんびりした、ゆったり過ごす",
+        "ゆっくりと穏やかに動く"
+      ]
+    },
+    "nuance": {
+      "en": "Lazy can criticize a person or their work, as in a lazy argument. With a day or activity, it often has a pleasant sense of doing very little. In programming, lazy evaluation means an expression is evaluated only when its result is needed.",
+      "ja": "人については「怠けている」、仕事や説明については「必要な手間や検討を省いている」という批判になりやすい。a lazy Sunday のように時間の過ごし方を表すときは、何もせずゆったり過ごす心地よさを表せる。プログラミングの lazy evaluation は、結果が必要になるまで式の評価を遅らせる「遅延評価」。"
+    },
+    "minimal": {
+      "en": [
+        "idle: Inactive or currently unused. An idle machine is simply sitting unused, while a lazy person is seen as unwilling to make an effort.",
+        "sluggish: Slow to move or respond, sometimes because of tiredness. Lazy usually suggests reluctance when applied to a person's effort.",
+        "laid-back: Relaxed and easygoing, especially as a personality trait. A laid-back coworker can still work very hard."
+      ],
+      "ja": [
+        "idle：活動していない、使われていない状態。an idle machine は稼働していない機械。人を lazy と言うと、努力したがらないと評価する響きがある。",
+        "sluggish：動きや反応が鈍い。疲労などでも起こる。人の努力について lazy と言うと、やる気がないという含みが出やすい。",
+        "laid-back：気楽でおおらかな性格。a laid-back coworker は、穏やかな性格で仕事熱心な同僚にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "indolent",
+        "note": {
+          "en": "More formal and usually critical when describing someone reluctant to work.",
+          "ja": "努力を嫌がる人を指す、より改まった批判的な語。"
+        }
+      },
+      {
+        "word": "leisurely",
+        "note": {
+          "en": "Close when describing an unhurried activity or pace.",
+          "ja": "急がずゆったりとした活動やペースを表すときに近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The related forms are lazily (adverb) and laziness (noun).",
+      "ja": "関連語は lazily（副詞）と laziness（名詞）。"
+    },
+    "equivalents": {
+      "de": "faul / gemütlich / träge",
+      "it": "pigro / tranquillo / lento",
+      "fr": "paresseux / tranquille / lent",
+      "es": "perezoso / tranquilo / lento"
+    },
+    "collocations": {
+      "en": [
+        "feel lazy",
+        "be too lazy to cook",
+        "a lazy Sunday morning",
+        "a lazy breakfast",
+        "a lazy excuse",
+        "a lazy argument",
+        "a lazy river",
+        "lazy evaluation",
+        "lazy loading"
+      ],
+      "ja": [
+        "feel lazy — 何もする気がしない",
+        "be too lazy to cook — 料理するのが面倒だ",
+        "a lazy Sunday morning — のんびり過ごす日曜の朝",
+        "a lazy breakfast — ゆっくり楽しむ朝食",
+        "a lazy excuse — よく考えもせずにした言い訳",
+        "a lazy argument — 検討不足の主張",
+        "a lazy river — ゆったり流れる川",
+        "lazy evaluation — 遅延評価",
+        "lazy loading — 遅延読み込み"
+      ]
+    },
+    "example": {
+      "en": [
+        "I was too lazy to cook, so I ordered dinner.",
+        "We spent a lazy Sunday morning drinking coffee and reading.",
+        "Blaming the users is a lazy excuse for a confusing design.",
+        "The page uses lazy loading to fetch images as they come into view."
+      ],
+      "ja": [
+        "I was too lazy to cook, so I ordered dinner. — 料理するのが面倒で、夕食は出前を頼んだ。",
+        "We spent a lazy Sunday morning drinking coffee and reading. — 日曜の朝はコーヒーを飲んだり本を読んだりして、のんびり過ごした。",
+        "Blaming the users is a lazy excuse for a confusing design. — 分かりにくい設計を利用者のせいにするのは、ろくに考えていない言い訳だ。",
+        "The page uses lazy loading to fetch images as they come into view. — このページでは遅延読み込みを使い、画像が画面に入るタイミングで取得する。"
+      ]
+    }
   }
 ]
