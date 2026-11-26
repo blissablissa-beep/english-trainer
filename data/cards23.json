@@ -12293,5 +12293,235 @@
         "The fund avoids highly speculative investments in companies with no revenue. — そのファンドは、売上のない企業への投機性の高い投資を避けている。"
       ]
     }
+  },
+  {
+    "id": "speculate",
+    "sid": "2026-02033",
+    "word": "speculate",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "reasoning",
+      "news",
+      "finance"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "forms": {
+        "base": "speculate",
+        "thirdPerson": "speculates",
+        "past": "speculated",
+        "pastParticiple": "speculated",
+        "presentParticiple": "speculating"
+      },
+      "patterns": [
+        "speculate that + clause",
+        "speculate about / on + noun",
+        "speculate about + wh-clause",
+        "speculate in + asset",
+        "speculate on + a rise / fall in prices"
+      ],
+      "usage": {
+        "prepositions": "Speculate about the cause introduces a topic for conjecture. Speculate in currencies refers to trading them for profit. Speculate on can occur in either sense, depending on what follows."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈspek.jə.leɪt/",
+        "uk": "/ˈspek.jə.leɪt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to suggest or consider possible explanations or outcomes without firm evidence",
+        "to take financial risks in pursuit of profit from expected changes in prices"
+      ],
+      "ja": [
+        "確かな裏づけがない段階で、ありうる説明や結果を推測する、憶測する",
+        "価格の変動で利益を得ようとリスクを取る、投機する"
+      ]
+    },
+    "nuance": {
+      "en": "Speculate often involves exploring possible explanations, sometimes in public. I don't want to speculate signals that the speaker is holding back because the facts are incomplete. In finance, speculating highlights the risks taken in anticipation of a price move.",
+      "ja": "考えられる説明を検討したり、公に推測を述べたりするのに使う。I don’t want to speculate. は、事実がまだ分からないので推測で発言するのは控えたい、という言い方。金融では、価格が動くと見込んでリスクを取ることに重点がある。"
+    },
+    "minimal": {
+      "en": [
+        "guess: An everyday word for giving an answer or estimate when you are unsure. Speculate often suggests considering possible explanations or outcomes.",
+        "infer: To reach a conclusion from clues or evidence. Speculate emphasizes the uncertainty or gaps in the evidence.",
+        "invest: A broad term for committing money in expectation of a return. Speculate highlights financial risk and expected price movements."
+      ],
+      "ja": [
+        "guess：確信がないまま答えや見積もりを出すときの日常語。speculate は、ありうる説明や結果を考えるという響きが出やすい。",
+        "infer：手がかりや証拠から結論を導く。speculate は、不確実さや証拠の不足に重点がある。",
+        "invest：収益を期待して資金を投じる広い語。speculate は、価格変動を見込んでリスクを取ることを強調する。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "conjecture",
+        "note": {
+          "en": "A more formal equivalent for advancing an explanation without firm evidence.",
+          "ja": "裏づけの乏しい説明を示すという意味で近い、より改まった語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The verb in the same word family as speculation and speculative.",
+      "ja": "speculation（名詞）、speculative（形容詞）と同じ語族の動詞。"
+    },
+    "equivalents": {
+      "de": "spekulieren / mutmaßen",
+      "it": "ipotizzare / speculare",
+      "fr": "émettre des hypothèses / spéculer",
+      "es": "especular / conjeturar"
+    },
+    "collocations": {
+      "en": [
+        "speculate about the cause",
+        "speculate about what happened",
+        "speculate that prices will fall",
+        "decline to speculate",
+        "speculate in currencies",
+        "speculate on a rise in oil prices"
+      ],
+      "ja": [
+        "speculate about the cause — 原因を推測する",
+        "speculate about what happened — 何が起きたかを推測する",
+        "speculate that prices will fall — 価格が下がると推測する",
+        "decline to speculate — 推測での発言を控える",
+        "speculate in currencies — 通貨に投機する",
+        "speculate on a rise in oil prices — 原油価格の上昇を見込んで投機する"
+      ]
+    },
+    "example": {
+      "en": [
+        "Reporters speculated that the two companies were in merger talks.",
+        "I don’t want to speculate about the cause until we’ve seen the test results.",
+        "Some traders were speculating on a rise in oil prices."
+      ],
+      "ja": [
+        "Reporters speculated that the two companies were in merger talks. — 記者たちは、両社が合併交渉をしているのではないかと推測した。",
+        "I don’t want to speculate about the cause until we’ve seen the test results. — 試験結果を見るまでは、原因について推測で話すのは控えたい。",
+        "Some traders were speculating on a rise in oil prices. — 原油価格の上昇を見込んで投機していたトレーダーもいた。"
+      ]
+    }
+  },
+  {
+    "id": "speculation",
+    "sid": "2026-02034",
+    "word": "speculation",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "reasoning",
+      "news",
+      "finance"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "usually uncountable (activity or talk) / countable for individual conjectures",
+      "forms": {
+        "base": "speculation",
+        "plural": "speculations"
+      },
+      "patterns": [
+        "speculation about / over + noun",
+        "speculation that + clause",
+        "fuel / spark + speculation",
+        "market speculation",
+        "speculation in + asset"
+      ],
+      "usage": {
+        "countability": "News reports usually use the uncountable form: There has been widespread speculation. The plural speculations can refer to several individual conjectures."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌspek.jəˈleɪ.ʃən/",
+        "uk": "/ˌspek.jəˈleɪ.ʃən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the activity of forming or discussing ideas about what may be true or may happen without firm evidence, or an individual idea of this kind",
+        "financial activity involving risk in the hope of profiting from changes in prices"
+      ],
+      "ja": [
+        "確かな裏づけがない段階で、何が事実か、今後何が起こるかを考えたり論じたりすること、推測、憶測。個々の推測を指すこともある",
+        "価格変動から利益を得ようとリスクを取る金融取引、投機"
+      ]
+    },
+    "nuance": {
+      "en": "Fuel speculation is common in news writing when an event prompts more public conjecture. Mere speculation dismisses an idea as insufficiently supported. Market speculation refers to trading activity; speculation about a merger refers to conjecture even in a business article.",
+      "ja": "報道の fuel speculation は、ある出来事が憶測をさらに広げるときによく使う。mere speculation は、裏づけが足りず「単なる憶測にすぎない」という評価を示す。market speculation は市場での投機を、speculation about a merger は経済記事でも合併をめぐる憶測を指す。"
+    },
+    "minimal": {
+      "en": [
+        "rumor: An unconfirmed story or claim circulating among people. Speculation can be broader discussion about several possibilities.",
+        "hypothesis: A proposed explanation, often intended to be tested. Speculation highlights how uncertain or unconfirmed the idea is.",
+        "prediction: A statement about what will happen. Speculation can also concern events in the past and emphasizes uncertainty."
+      ],
+      "ja": [
+        "rumor：人々の間で広まる、未確認の話や主張。speculation は、複数の可能性をめぐる議論にも使える。",
+        "hypothesis：提示された説明の仮説で、検証を前提とすることが多い。speculation は、その考えが未確認であることに焦点がある。",
+        "prediction：今後何が起きるかの予測。speculation は過去の出来事にも使え、不確かさが前面に出る。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "conjecture",
+        "note": {
+          "en": "Close when discussing an explanation without firm supporting evidence.",
+          "ja": "十分な裏づけのない推測という意味で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The noun in the same word family as speculate and speculative.",
+      "ja": "speculate（動詞）、speculative（形容詞）と同じ語族の名詞。"
+    },
+    "equivalents": {
+      "de": "Spekulation / Mutmaßung",
+      "it": "speculazione / congettura",
+      "fr": "spéculation / conjecture",
+      "es": "especulación / conjetura"
+    },
+    "collocations": {
+      "en": [
+        "fuel speculation",
+        "spark speculation",
+        "widespread speculation",
+        "mere speculation",
+        "speculation about the merger",
+        "speculation that the CEO will resign",
+        "currency speculation",
+        "speculation in the housing market"
+      ],
+      "ja": [
+        "fuel speculation — 憶測をかき立てる",
+        "spark speculation — 憶測を呼ぶ",
+        "widespread speculation — 広く飛び交う憶測",
+        "mere speculation — 単なる憶測",
+        "speculation about the merger — 合併をめぐる憶測",
+        "speculation that the CEO will resign — CEOが辞任するのではないかとの憶測",
+        "currency speculation — 通貨投機",
+        "speculation in the housing market — 住宅市場での投機"
+      ]
+    },
+    "example": {
+      "en": [
+        "The sudden resignation fueled speculation that the board was divided.",
+        "Without more data, that explanation is still mere speculation.",
+        "The report linked the sharp rise in house prices to speculation in the housing market."
+      ],
+      "ja": [
+        "The sudden resignation fueled speculation that the board was divided. — 突然の辞任を受け、取締役会が内部分裂していたのではないかとの憶測が広がった。",
+        "Without more data, that explanation is still mere speculation. — さらにデータが得られないかぎり、その説明はまだ単なる憶測にすぎない。",
+        "The report linked the sharp rise in house prices to speculation in the housing market. — その報告書は、住宅価格の急騰を住宅市場での投機と結びつけた。"
+      ]
+    }
   }
 ]
