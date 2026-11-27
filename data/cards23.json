@@ -16188,5 +16188,124 @@
         "The clause is susceptible of more than one interpretation. — その条項には複数の解釈の余地がある。"
       ]
     }
+  },
+  {
+    "id": "susceptibility",
+    "sid": "2026-02065",
+    "word": "susceptibility",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "influence",
+      "health",
+      "materials",
+      "physics"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "usually uncountable for the general quality; countable for a specific susceptibility; plural susceptibilities can mean sensitive feelings",
+      "forms": {
+        "base": "susceptibility",
+        "plural": "susceptibilities"
+      },
+      "patterns": [
+        "susceptibility to + noun",
+        "someone’s susceptibility to + noun",
+        "the susceptibility of A to B",
+        "increase / reduce susceptibility to + noun",
+        "a susceptibility to + noun"
+      ],
+      "usage": {
+        "preposition": "Use to for the factor or outcome that can affect the subject: susceptibility to corrosion. In the susceptibility of this alloy to corrosion, of identifies the material being affected."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/səˌsep.təˈbɪl.ə.t̬i/",
+        "uk": "/səˌsep.təˈbɪl.ə.ti/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the quality or degree of being readily affected, harmed, or influenced by something",
+        "(plural, susceptibilities) feelings or sensibilities that can be hurt or offended",
+        "(physics, magnetic susceptibility) a measure of how strongly a material becomes magnetized in response to a magnetic field"
+      ],
+      "ja": [
+        "影響・損傷・変化などを受けやすい性質や程度、感受性、～への弱さ",
+        "（複数形 susceptibilities）傷つけられたり害されたりしやすい感情、心情",
+        "（物理、magnetic susceptibility）磁場に対して物質がどれほど磁化するかを表す量、磁化率"
+      ]
+    },
+    "nuance": {
+      "en": "Susceptibility describes how readily a person or material is affected. Greater susceptibility to corrosion means a material is more readily affected under the conditions being discussed. The noun is common in comparisons and reports, such as differences in susceptibility across samples.",
+      "ja": "人や物がどれほど影響を受けやすいかを表す。greater susceptibility to corrosion は、問題にしている条件下で、より腐食しやすいこと。differences in susceptibility across samples のように、試料間で影響の受けやすさを比較する報告にもよく使う。"
+    },
+    "minimal": {
+      "en": [
+        "susceptible: The adjective form. This alloy is susceptible to corrosion and this alloy’s susceptibility to corrosion express the same property in different grammatical forms.",
+        "sensitivity: Often emphasizes responsiveness, including the ability to detect small changes. Susceptibility often emphasizes how readily something can be affected or harmed.",
+        "vulnerability: Often emphasizes exposure to harm or a lack of protection. Susceptibility can focus on the degree to which a specific influence affects something."
+      ],
+      "ja": [
+        "susceptible：形容詞。This alloy is susceptible to corrosion. と this alloy’s susceptibility to corrosion は、同じ性質をそれぞれ文と名詞句で表している。",
+        "sensitivity：小さな変化を検知できることなど、反応のしやすさを強調する場合が多い。susceptibility は影響や損傷の受けやすさに焦点があることが多い。",
+        "vulnerability：危害にさらされていることや、守りが弱いことを強調しやすい。susceptibility は、特定のものによってどれほど影響を受けやすいかに着目できる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "liability to",
+        "note": {
+          "en": "Close in formal contexts where something is liable to be affected or damaged.",
+          "ja": "影響や損傷を受けるおそれを示す改まった文脈で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "A noun from susceptible and the suffix -ity, with -ible changing to -ibility. Susceptible ultimately comes from Latin suscipere ‘to take up, receive’.",
+      "ja": "susceptible に性質や状態を表す接尾辞 -ity が付いた名詞で、語尾は -ible から -ibility になる。susceptible のもとはラテン語 suscipere（取り上げる、受け取る）。"
+    },
+    "equivalents": {
+      "de": "Anfälligkeit / Empfänglichkeit / magnetische Suszeptibilität",
+      "it": "suscettibilità / predisposizione / suscettività magnetica",
+      "fr": "sensibilité / prédisposition / susceptibilité magnétique",
+      "es": "susceptibilidad / propensión / susceptibilidad magnética"
+    },
+    "collocations": {
+      "en": [
+        "susceptibility to corrosion",
+        "susceptibility to infection",
+        "susceptibility to flattery",
+        "reduce susceptibility to damage",
+        "differences in susceptibility",
+        "offend local susceptibilities",
+        "magnetic susceptibility"
+      ],
+      "ja": [
+        "susceptibility to corrosion — 腐食しやすさ",
+        "susceptibility to infection — 感染のしやすさ、感染に対する感受性",
+        "susceptibility to flattery — お世辞への弱さ",
+        "reduce susceptibility to damage — 損傷を受けにくくする",
+        "differences in susceptibility — 影響の受けやすさの違い",
+        "offend local susceptibilities — 地元の人々の心情を害する",
+        "magnetic susceptibility — 磁化率"
+      ]
+    },
+    "example": {
+      "en": [
+        "The coating reduces the metal’s susceptibility to corrosion.",
+        "The trial compared the two varieties’ susceptibility to frost damage.",
+        "The director changed the wording to avoid offending local susceptibilities.",
+        "The researchers measured the magnetic susceptibility of each sample."
+      ],
+      "ja": [
+        "The coating reduces the metal’s susceptibility to corrosion. — そのコーティングを施すと、金属が腐食しにくくなる。",
+        "The trial compared the two varieties’ susceptibility to frost damage. — その試験では、２品種が霜の被害をどれだけ受けやすいかを比較した。",
+        "The director changed the wording to avoid offending local susceptibilities. — 責任者は地元の人々の心情を害さないよう、表現を変えた。",
+        "The researchers measured the magnetic susceptibility of each sample. — 研究者たちは各試料の磁化率を測定した。"
+      ]
+    }
   }
 ]
