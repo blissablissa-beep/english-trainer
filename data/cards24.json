@@ -9747,5 +9747,118 @@
         "We need a consistent methodology for counting patent families across jurisdictions. — 各国・地域のパテントファミリーを数えるには、一貫した集計方法が必要だ。"
       ]
     }
+  },
+  {
+    "id": "swath",
+    "sid": "2026-02095",
+    "word": "swath",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "geography",
+      "news",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "base": "swath",
+        "plural": "swaths",
+        "variant": "swathe (plural swathes)"
+      },
+      "patterns": [
+        "a swath of + land / territory",
+        "a broad / wide swath of + noun",
+        "large swaths of + noun",
+        "cut a swath through + place"
+      ],
+      "usage": {
+        "spelling": "Swath is the usual US spelling. British writing often uses the noun swathe, pronounced /sweɪð/ in British English. Swathe is also a verb meaning ‘wrap or cover’."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/swɑːθ/",
+        "uk": "/swɒθ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a strip or wide stretch of land or another surface, sometimes marked by something moving across it",
+        "a large section of a population, market, or other whole, or a wide range within it"
+      ],
+      "ja": [
+        "帯状に広がる土地や表面の一帯、何かが通過して跡を残した幅のある範囲",
+        "（比喩）人口・市場などの大きな部分、幅広い層・範囲"
+      ]
+    },
+    "nuance": {
+      "en": "A swath can be a visible strip, such as a stretch of farmland, or a broad part of an abstract whole, such as a swath of the electorate. In figurative use, it suggests substantial reach or coverage without specifying a percentage. Cut a swath through describes a path of noticeable impact, often damage in news reports.",
+      "ja": "農地の一帯のように目に見える帯を指すほか、有権者の幅広い層のように、全体のうち広く及ぶ部分を表す。比喩では具体的な割合を示さず、対象の広がりを伝える。cut a swath through は、何かが通過して目立つ跡を残す言い方で、ニュースでは被害を表すことが多い。"
+    },
+    "minimal": {
+      "en": [
+        "strip: Emphasizes a long, often narrow shape. Swath often suggests width or the extent covered.",
+        "range: Emphasizes variety or the span between limits. A wide range of products is a varied selection, while a swath of the market is a large portion of it.",
+        "the lion’s share: Focuses on the largest share, often most of the total. A broad swath can be a substantial part without being the largest."
+      ],
+      "ja": [
+        "strip：細長い形に焦点がある。swath は帯の幅や、どこまで広がっているかを意識させやすい。",
+        "range：種類の多さや、両端の間の幅に焦点がある。a wide range of products は多様な商品、a swath of the market は市場の大きな部分。",
+        "the lion’s share：最大の取り分や全体の大半を表す。a broad swath は、最大かどうかに関係なく、かなり広い部分を指せる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "stretch",
+        "note": {
+          "en": "Close for a continuous area of land.",
+          "ja": "連続して広がる土地について近い。"
+        }
+      },
+      {
+        "word": "a substantial portion",
+        "note": {
+          "en": "Close when swath refers to a large part of a whole.",
+          "ja": "全体のかなりの部分を指す場合に近い。"
+        }
+      }
+    ],
+    "equivalents": {
+      "de": "Streifen / Schneise / großer Teil",
+      "it": "fascia / ampia parte",
+      "fr": "bande / vaste portion / large pan",
+      "es": "franja / gran parte"
+    },
+    "collocations": {
+      "en": [
+        "a wide swath of farmland",
+        "large swaths of the country",
+        "a broad swath of voters",
+        "a sizable swath of the market",
+        "cut a swath through the forest"
+      ],
+      "ja": [
+        "a wide swath of farmland — 帯状に広がる農地の一帯",
+        "large swaths of the country — 国内の広い範囲",
+        "a broad swath of voters — 幅広い有権者層",
+        "a sizable swath of the market — 市場のかなり大きな部分",
+        "cut a swath through the forest — 森を通り抜け、帯状の跡を残す"
+      ]
+    },
+    "example": {
+      "en": [
+        "From the train, we could see a wide swath of farmland stretching toward the hills.",
+        "The proposal drew support from a broad swath of voters, including people who rarely agree on tax policy.",
+        "The storm knocked out power across large swaths of the region."
+      ],
+      "ja": [
+        "From the train, we could see a wide swath of farmland stretching toward the hills. — 列車からは、丘に向かって帯状に広がる農地が見えた。",
+        "The proposal drew support from a broad swath of voters, including people who rarely agree on tax policy. — その提案は、税制ではめったに意見が一致しない人たちも含め、幅広い有権者層から支持を得た。",
+        "The storm knocked out power across large swaths of the region. — 嵐の影響で、その地域の広い範囲で停電が起きた。"
+      ]
+    }
   }
 ]
