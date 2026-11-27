@@ -17610,5 +17610,127 @@
         "They tried to rush us into accepting the offer before we had read the terms. — 先方はこちらが条件を読む前に、せかして提案を受け入れさせようとした。"
       ]
     }
+  },
+  {
+    "id": "encouragement",
+    "sid": "2026-02077",
+    "word": "encouragement",
+    "level": "B2",
+    "freq": "common",
+    "tags": [
+      "noun",
+      "emotion",
+      "support"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "usually uncountable; countable in senses such as a source of encouragement",
+      "forms": {
+        "base": "encouragement",
+        "plural": "encouragements"
+      },
+      "patterns": [
+        "give someone encouragement",
+        "offer encouragement to someone",
+        "with encouragement from + person",
+        "encouragement to + verb",
+        "the encouragement of + activity"
+      ],
+      "usage": {
+        "countability": "For general support, say some encouragement or a few words of encouragement. In The early results were a great encouragement to us, the noun refers to a source of confidence."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "uk": "/ɪnˈkʌr.ɪdʒ.mənt/",
+        "us": "/ɪnˈkɝː.ɪdʒ.mənt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "words, actions, or support that give someone confidence or hope to do something or keep going",
+        "something that gives someone confidence or hope",
+        "action that helps an activity or behaviour develop or become more common"
+      ],
+      "ja": [
+        "人に自信や希望を与える言葉や行動、励まし・激励・後押し",
+        "自信や希望を与えてくれるもの、励み",
+        "活動や行動が広がるように後押しすること、奨励・促進"
+      ]
+    },
+    "nuance": {
+      "en": "Encouragement can come from someone’s words or from a sign of progress. In formal writing, the encouragement of an activity can refer to policies or measures that promote it.",
+      "ja": "人の言葉だけでなく、進歩の兆しも encouragement（励み）になる。改まった文章で the encouragement of an activity と言う場合は、その活動を促進する施策などを指せる。"
+    },
+    "minimal": {
+      "en": [
+        "support: A broader term that includes practical help, approval, or funding. Encouragement focuses on giving confidence or prompting action.",
+        "reassurance: Helps someone feel less worried. Encouragement helps them feel able or willing to try or continue.",
+        "praise: Expresses approval or admiration. Praise for past progress can be encouragement to keep going."
+      ],
+      "ja": [
+        "support：実務上の手助け、賛同、資金援助も含む広い語。encouragement は自信を与えたり、行動を後押ししたりすることに焦点がある。",
+        "reassurance：不安を和らげ、安心させること。encouragement は、挑戦したり続けたりする気持ちを支える。",
+        "praise：褒めること、称賛。これまでの進歩を褒めることが、続ける励みになる場合もある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "moral support",
+        "note": {
+          "en": "Close when someone gives confidence or emotional support.",
+          "ja": "精神的に支え、自信を持たせる場面で近い。"
+        }
+      },
+      {
+        "word": "promotion",
+        "note": {
+          "en": "Close in formal contexts about fostering an activity or practice.",
+          "ja": "活動や取り組みを促進するという改まった文脈で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from encourage + -ment. Encourage is related to courage, so the word family connects giving courage or confidence with spurring someone on.",
+      "ja": "encourage（励ます・奨励する）に名詞語尾 -ment が付いた語。encourage は courage（勇気）と同系。"
+    },
+    "equivalents": {
+      "de": "Ermutigung / Ansporn / Förderung",
+      "it": "incoraggiamento / stimolo / promozione",
+      "fr": "encouragement / soutien / promotion",
+      "es": "ánimo / aliento / fomento"
+    },
+    "collocations": {
+      "en": [
+        "words of encouragement",
+        "a little encouragement",
+        "give someone encouragement",
+        "with encouragement from a friend",
+        "a source of encouragement",
+        "take encouragement from early results",
+        "the encouragement of innovation"
+      ],
+      "ja": [
+        "words of encouragement — 励ましの言葉",
+        "a little encouragement — ちょっとした励まし",
+        "give someone encouragement — 人を励ます",
+        "with encouragement from a friend — 友人の後押しで",
+        "a source of encouragement — 励みになるもの",
+        "take encouragement from early results — 初期の結果を励みにする",
+        "the encouragement of innovation — イノベーションの促進"
+      ]
+    },
+    "example": {
+      "en": [
+        "With a little encouragement from her teacher, she entered the competition.",
+        "The first positive reviews were a great encouragement to the team.",
+        "The programme is aimed at the encouragement of collaboration between universities and industry."
+      ],
+      "ja": [
+        "With a little encouragement from her teacher, she entered the competition. — 先生に少し背中を押されて、彼女はコンテストに出場した。",
+        "The first positive reviews were a great encouragement to the team. — 最初に届いた好意的なレビューは、チームにとって大きな励みになった。",
+        "The programme is aimed at the encouragement of collaboration between universities and industry. — このプログラムは産学連携の促進を目的としている。"
+      ]
+    }
   }
 ]
