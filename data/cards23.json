@@ -18578,5 +18578,121 @@
         "Give me a minute to gather my thoughts before I answer. — 答える前に、ちょっと考えを整理させてください。"
       ]
     }
+  },
+  {
+    "id": "deduce",
+    "sid": "2026-02085",
+    "word": "deduce",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "reasoning"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "deduce",
+        "thirdPerson": "deduces",
+        "past": "deduced",
+        "pastParticiple": "deduced",
+        "presentParticiple": "deducing"
+      },
+      "patterns": [
+        "deduce + noun + from + evidence",
+        "deduce (that) + clause",
+        "deduce from + evidence + that + clause",
+        "deduce how / why / where + clause",
+        "it can be deduced from + evidence + that + clause"
+      ],
+      "usage": {
+        "source": "From introduces the facts or clues that support the conclusion. A that-clause can state the conclusion, as in We deduced from the timestamps that the files had been copied."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/dɪˈduːs/",
+        "uk": "/dɪˈdjuːs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to reach a conclusion by reasoning from facts, clues, or premises"
+      ],
+      "ja": [
+        "事実・手がかり・前提をもとに筋道を立てて結論を導く、推論する、演繹する"
+      ]
+    },
+    "nuance": {
+      "en": "Deduce suggests that you can explain how the evidence leads to the conclusion. In formal logic it can describe a conclusion that follows necessarily from the premises. In ordinary usage, a deduction from clues can still turn out to be wrong.",
+      "ja": "根拠からどう結論に至ったかを説明できるような推論に使う。形式論理では、前提から必然的に結論を導く「演繹」を表せる。日常の用法では、手がかりから導いた結論が後で誤りと分かることもある。"
+    },
+    "minimal": {
+      "en": [
+        "infer: A broad term for drawing a conclusion from evidence, including indirect signals such as tone of voice. Deduce often highlights the reasoning that connects clues to the conclusion.",
+        "gather: I gather… often reports what you understand from what you have heard or noticed. I deduced… emphasizes working out the conclusion yourself.",
+        "deduct: To subtract an amount, as in deduct the fee from the total."
+      ],
+      "ja": [
+        "infer：証拠や口調などの間接的な手がかりから結論を引き出す広い語。deduce は手がかりと結論をつなぐ推論の筋道を意識させやすい。",
+        "gather：I gather … は聞いたことや気づいたことから「〜のようですね」と理解を述べる。I deduced … は自分で筋道を立てて結論を導いたことを強調する。",
+        "deduct：金額などを差し引く。deduct the fee from the total は「合計額から手数料を引く」。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "work out",
+        "note": {
+          "en": "A conversational equivalent when clues help you figure something out.",
+          "ja": "手がかりから答えを突き止める場面での会話寄りの言い換え。"
+        }
+      },
+      {
+        "word": "infer",
+        "note": {
+          "en": "Often interchangeable when you draw a conclusion from evidence.",
+          "ja": "証拠から結論を導く場面では置き換えられることが多い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin deducere ‘lead down or away’, formed from de- and ducere ‘lead’. Deduction is the corresponding noun for reasoning and also means an amount subtracted in other contexts.",
+      "ja": "ラテン語 deducere（導き出す、連れ去る）に由来し、de- と ducere（導く）からなる。名詞 deduction には「推論・演繹」と「控除・差し引かれる額」の両方の意味がある。"
+    },
+    "equivalents": {
+      "de": "ableiten / aus etwas schließen",
+      "it": "dedurre",
+      "fr": "déduire",
+      "es": "deducir"
+    },
+    "collocations": {
+      "en": [
+        "deduce the cause from the evidence",
+        "deduce the meaning from context",
+        "deduce what happened",
+        "deduce a result from first principles",
+        "it can be deduced that …"
+      ],
+      "ja": [
+        "deduce the cause from the evidence — 証拠から原因を推論する",
+        "deduce the meaning from context — 文脈から意味を推測する",
+        "deduce what happened — 何が起きたかを推論する",
+        "deduce a result from first principles — 基本原理から結果を導き出す",
+        "it can be deduced that … — 〜と推論できる"
+      ]
+    },
+    "example": {
+      "en": [
+        "From the timestamps on the two files, we deduced that the second version had been created after the meeting.",
+        "Can you deduce the meaning of the word from the surrounding sentences?",
+        "The detective deduced where the letter had been sent from by examining the postmark."
+      ],
+      "ja": [
+        "From the timestamps on the two files, we deduced that the second version had been created after the meeting. — 二つのファイルのタイムスタンプから、第２版は会議の後に作成されたと推論した。",
+        "Can you deduce the meaning of the word from the surrounding sentences? — 前後の文からその単語の意味を推測できますか？",
+        "The detective deduced where the letter had been sent from by examining the postmark. — 探偵は消印を調べて、手紙がどこから送られたのかを割り出した。"
+      ]
+    }
   }
 ]
