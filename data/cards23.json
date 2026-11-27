@@ -15704,5 +15704,130 @@
         "We cannot exclude the possibility that a software update caused the problem. — ソフトウェアの更新が問題を引き起こした可能性は否定できない。"
       ]
     }
+  },
+  {
+    "id": "include",
+    "sid": "2026-02061",
+    "word": "include",
+    "level": "A2",
+    "freq": "often",
+    "tags": [
+      "verb",
+      "daily life",
+      "work",
+      "pricing"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "include",
+        "thirdPerson": "includes",
+        "past": "included",
+        "pastParticiple": "included",
+        "presentParticiple": "including"
+      },
+      "patterns": [
+        "include + noun",
+        "include + -ing",
+        "include A in B",
+        "be included in + price / package",
+        "including + noun"
+      ],
+      "usage": {
+        "roles": "The price includes breakfast describes what is part of the price. We included breakfast in the package describes the decision to make it part of the package.",
+        "lists": "Include and including often introduce selected items or examples. An exhaustive list can be made explicit with the wording around it."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪnˈkluːd/",
+        "uk": "/ɪnˈkluːd/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to have someone or something as part of a group, whole, or total",
+        "to make someone or something part of a group, activity, document, or calculation"
+      ],
+      "ja": [
+        "人や物を一部として含む、料金などに込みである",
+        "人や物を集団・活動・文書・集計などに加える、対象に入れる"
+      ]
+    },
+    "nuance": {
+      "en": "The price includes breakfast means breakfast is covered by the stated price. Include someone in a discussion means bringing them into the discussion so that they can take part. In a list, include often introduces examples and leaves open whether there are other items.",
+      "ja": "The price includes breakfast. は、提示された料金に朝食代が含まれること。include someone in a discussion は、話し合いにその人を加え、参加できるようにすること。列挙では、例をいくつか挙げ、ほかにも項目がある余地を残すことが多い。"
+    },
+    "minimal": {
+      "en": [
+        "consist of: States what makes up the whole. The committee consists of three lawyers and two engineers gives its full makeup. The committee includes three lawyers can leave other members unmentioned.",
+        "contain: Often describes what is physically inside a container or present as an ingredient, as in contains milk. Include focuses on whether something is part of a group, package, or total.",
+        "exclude: The opposite when deciding what counts. Include shipping in the total counts it in; exclude shipping from the total leaves it out."
+      ],
+      "ja": [
+        "consist of：全体が何で構成されるかを示す。The committee consists of three lawyers and two engineers. ならその５人が全構成員。The committee includes three lawyers. なら、ほかの委員がいるかどうかは分からない。",
+        "contain：容器の中身や、contains milk のような原材料を表す場合によく使う。include は、ある項目が集団・パッケージ・合計などに含まれるかに焦点がある。",
+        "exclude：何を対象に入れるかを決めるときの反対語。include shipping in the total は「送料を合計に含める」、exclude shipping from the total は「送料を合計から除く」。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "cover",
+        "note": {
+          "en": "Close when a price, fee, or package includes a particular cost or service.",
+          "ja": "料金やパッケージが特定の費用やサービスを含む場合に近い。"
+        }
+      },
+      {
+        "word": "incorporate",
+        "note": {
+          "en": "More formal when deliberately making something part of a larger document, design, or system.",
+          "ja": "文書・設計・制度などの一部として意図的に組み込む場合の改まった語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin includere ‘to shut in, enclose’, from in- ‘in’ and claudere ‘to close’. The idea of being inside a boundary connects to the modern sense of belonging to a whole. Inclusive and inclusion are related forms.",
+      "ja": "ラテン語 includere（中に閉じ込める、囲い込む）に由来し、in-（中に）と claudere（閉じる）からなる。境界の内側に入れるという意味が、全体の一部として含めるという現代の用法につながる。関連語は inclusive と inclusion。"
+    },
+    "equivalents": {
+      "de": "enthalten / einbeziehen",
+      "it": "includere / comprendere",
+      "fr": "inclure / comprendre",
+      "es": "incluir / comprender"
+    },
+    "collocations": {
+      "en": [
+        "include breakfast",
+        "include VAT in the price",
+        "be included in the package",
+        "include someone in the discussion",
+        "include a copy of the agreement",
+        "include testing the equipment"
+      ],
+      "ja": [
+        "include breakfast — 朝食を含む",
+        "include VAT in the price — 価格に付加価値税を含める",
+        "be included in the package — パッケージに含まれている",
+        "include someone in the discussion — 人を話し合いに加える",
+        "include a copy of the agreement — 契約書の写しを同封する、添付する",
+        "include testing the equipment — 機器の試験を作業に含む"
+      ]
+    },
+    "example": {
+      "en": [
+        "Does the room rate include breakfast?",
+        "Please include a copy of the signed agreement with your application.",
+        "We included the support team in the discussion because they hear directly from customers.",
+        "Her duties include reviewing contracts and training new staff."
+      ],
+      "ja": [
+        "Does the room rate include breakfast? — 宿泊料金に朝食は含まれていますか？",
+        "Please include a copy of the signed agreement with your application. — 申請書に署名済みの契約書の写しを添付してください。",
+        "We included the support team in the discussion because they hear directly from customers. — サポートチームは顧客から直接話を聞いているので、話し合いに加えた。",
+        "Her duties include reviewing contracts and training new staff. — 彼女の業務には、契約書の確認や新人研修が含まれる。"
+      ]
+    }
   }
 ]
