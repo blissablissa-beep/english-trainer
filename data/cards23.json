@@ -15579,5 +15579,130 @@
         "To make meetings more inclusive, we send out the agenda in advance and let people contribute in writing. — 誰もが会議に参加しやすいよう、議題を事前に送り、文章でも意見を出せるようにしています。"
       ]
     }
+  },
+  {
+    "id": "exclude",
+    "sid": "2026-02060",
+    "word": "exclude",
+    "level": "C1",
+    "freq": "often",
+    "tags": [
+      "verb",
+      "work",
+      "reasoning",
+      "inclusion"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "exclude",
+        "thirdPerson": "excludes",
+        "past": "excluded",
+        "pastParticiple": "excluded",
+        "presentParticiple": "excluding"
+      },
+      "patterns": [
+        "exclude + noun",
+        "exclude A from B",
+        "be excluded from + noun / -ing",
+        "cannot exclude the possibility that + clause"
+      ],
+      "usage": {
+        "from": "Use from to identify the group, activity, or calculation that something or someone is kept out of. The object comes first: exclude delivery charges from the total."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪksˈkluːd/",
+        "uk": "/ɪksˈkluːd/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to prevent someone or something from entering, joining, or taking part",
+        "to leave something out of a total, list, or analysis",
+        "to decide that a possibility or explanation can be ruled out"
+      ],
+      "ja": [
+        "人や物を締め出す、参加や立ち入りを認めない",
+        "項目を合計・一覧・分析などに含めない、除外する",
+        "可能性や説明を否定する、あり得るものとして扱わない"
+      ]
+    },
+    "nuance": {
+      "en": "Exclude can describe an explicit ban, a neutral decision about what to count, or the effect of a rule that keeps people from taking part. In cautious reports, we cannot exclude the possibility that something happened means it remains possible on the available evidence.",
+      "ja": "明示的な締め出しのほか、集計対象を定める中立的な判断や、規則の結果として人が参加できなくなる場合にも使う。報告書などの we cannot exclude the possibility that ～ は、現時点の証拠ではその可能性を否定しきれない、という慎重な表現。"
+    },
+    "minimal": {
+      "en": [
+        "omit: Leave something out of a text, list, or account, deliberately or accidentally. Exclude often suggests a boundary or criterion for what belongs.",
+        "ban: Prohibit access or an activity, usually by an explicit rule. Exclude can describe the effect of a rule or practical barrier without an explicit prohibition.",
+        "rule out: A common alternative when rejecting a possible explanation or option. It fits We can’t rule out a software bug."
+      ],
+      "ja": [
+        "omit：文章・一覧・説明などから何かを省く。うっかり抜けた場合にも使う。exclude は何を対象に含めるかの境界や基準を意識させる。",
+        "ban：通常は明示的な規則で立ち入りや行為を禁じる。exclude は、ある規則や実際上の障壁が参加を妨げる場合にも使う。",
+        "rule out：可能性や選択肢を排除する際の一般的な言い換え。We can’t rule out a software bug. は「ソフトウェアの不具合の可能性は否定できない」。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "leave out",
+        "note": {
+          "en": "A less formal option for leaving an item out of a list or calculation.",
+          "ja": "一覧や計算に項目を入れない場合の、よりくだけた言い方。"
+        }
+      },
+      {
+        "word": "bar",
+        "note": {
+          "en": "Close when access or participation is actively refused.",
+          "ja": "立ち入りや参加を明示的に認めない場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin excludere ‘to shut out, keep out’, formed from ex- ‘out’ and claudere ‘to close’. The same Latin verb claudere underlies include, from includere ‘to shut in’. Exclusive and exclusion belong to the exclude family.",
+      "ja": "ラテン語 excludere（締め出す、外に置く）に由来し、ex-（外へ）と claudere（閉じる）からなる。include のもとになった includere（中に閉じ込める）にも、同じ claudere が含まれる。exclusive と exclusion は exclude と同じ語族。"
+    },
+    "equivalents": {
+      "de": "ausschließen / nicht einbeziehen / nicht enthalten",
+      "it": "escludere / non includere",
+      "fr": "exclure / ne pas inclure / écarter",
+      "es": "excluir / no incluir / descartar"
+    },
+    "collocations": {
+      "en": [
+        "exclude someone from a meeting",
+        "feel excluded",
+        "exclude incomplete responses from the analysis",
+        "exclude VAT",
+        "exclude evidence",
+        "cannot exclude the possibility"
+      ],
+      "ja": [
+        "exclude someone from a meeting — 人を会議の参加対象から外す",
+        "feel excluded — 仲間外れにされたと感じる",
+        "exclude incomplete responses from the analysis — 不完全な回答を分析対象から除外する",
+        "exclude VAT — 付加価値税を含まない",
+        "exclude evidence — 証拠を除外する",
+        "cannot exclude the possibility — その可能性は否定できない"
+      ]
+    },
+    "example": {
+      "en": [
+        "We excluded incomplete responses from the analysis.",
+        "The quoted price excludes VAT and delivery charges.",
+        "The venue has no step-free entrance, which can exclude some wheelchair users from the event.",
+        "We cannot exclude the possibility that a software update caused the problem."
+      ],
+      "ja": [
+        "We excluded incomplete responses from the analysis. — 不完全な回答は分析対象から除外した。",
+        "The quoted price excludes VAT and delivery charges. — 提示価格には付加価値税と配送料が含まれていません。",
+        "The venue has no step-free entrance, which can exclude some wheelchair users from the event. — 会場には段差のない入口がないため、車いす利用者の中にはイベントに参加できない人もいる。",
+        "We cannot exclude the possibility that a software update caused the problem. — ソフトウェアの更新が問題を引き起こした可能性は否定できない。"
+      ]
+    }
   }
 ]
