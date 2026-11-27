@@ -17859,5 +17859,141 @@
         "He deserved a warning for ignoring the safety rules. — 安全規則を無視したのだから、注意を受けるのも当然だった。"
       ]
     }
+  },
+  {
+    "id": "enter",
+    "sid": "2026-02079",
+    "word": "enter",
+    "level": "A2",
+    "freq": "common",
+    "tags": [
+      "verb",
+      "movement",
+      "technology",
+      "business"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive or intransitive",
+      "forms": {
+        "base": "enter",
+        "thirdPerson": "enters",
+        "past": "entered",
+        "pastParticiple": "entered",
+        "presentParticiple": "entering"
+      },
+      "patterns": [
+        "enter + place / market / competition",
+        "enter + information + in / into + field / system",
+        "enter + person / entry + in + competition",
+        "enter into + agreement / negotiations",
+        "May I enter?"
+      ],
+      "usage": {
+        "wordOrder": "Use enter the room for ordinary physical movement. In enter the code into the system, the code is the direct object and into introduces where it is entered. Enter into an agreement means formally becoming a party to it."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈen.t̬ɚ/",
+        "uk": "/ˈen.tə/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to go or come into a place",
+        "to become involved in a field or activity, join an event as a participant, or begin a new stage",
+        "to type, write, or record information in a system, form, or record",
+        "(enter into) to conclude an agreement or begin formal discussions or a relationship"
+      ],
+      "ja": [
+        "（場所に）入る、入ってくる",
+        "（市場・分野に）参入する、（競技などに）出場する、（段階に）入る",
+        "（情報を）入力する、記入する、記録に載せる",
+        "（enter into）契約などを締結する、交渉などに入る"
+      ]
+    },
+    "nuance": {
+      "en": "For physical movement, enter is common on signs, in instructions, and in written descriptions. Go in and come in are common in conversation. Enter a competition focuses on signing up or submitting an entry. Enter a market or enter a new phase extends the idea of movement to a field or stage.",
+      "ja": "場所に入る意味では、標識・案内・文章で enter がよく使われ、会話では go in や come in も自然。enter a competition は出場の申し込みや作品の応募に焦点がある。enter a market や enter a new phase は、分野や段階に入るという比喩的な用法。"
+    },
+    "minimal": {
+      "en": [
+        "go into: A common conversational equivalent for movement. Compare go into the room and enter the room.",
+        "take part in: Focuses on participating in an event itself. Enter a competition focuses on registering or submitting an entry.",
+        "type in: Focuses on using a keyboard or keypad. Enter also works for information recorded in writing or in an official record."
+      ],
+      "ja": [
+        "go into：移動を表す会話でよく使う。go into the room と enter the room はどちらも「部屋に入る」。",
+        "take part in：行事や競技に実際に参加することに焦点がある。enter a competition は出場登録や応募に焦点がある。",
+        "type in：キーボードなどで打ち込むことに焦点がある。enter は書面への記入や公式記録への記載にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "go in",
+        "note": {
+          "en": "A conversational alternative for going inside.",
+          "ja": "中へ入るときの会話での言い換え。"
+        }
+      },
+      {
+        "word": "input",
+        "note": {
+          "en": "Close when entering data into a computer system.",
+          "ja": "コンピューターシステムにデータを入力する場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French entrer, ultimately from Latin intrare ‘to go in’, related to intra ‘within’.",
+      "ja": "古フランス語 entrer を経由し、ラテン語 intrare（中に入る）に由来する。intra（内に）と関連する。"
+    },
+    "equivalents": {
+      "de": "betreten / eingeben / sich anmelden / einen Vertrag abschließen",
+      "it": "entrare / inserire / iscriversi / stipulare un accordo",
+      "fr": "entrer / saisir / s’inscrire / conclure un accord",
+      "es": "entrar / introducir / inscribirse / celebrar un acuerdo"
+    },
+    "collocations": {
+      "en": [
+        "enter the room",
+        "enter a country",
+        "enter a new market",
+        "enter a new phase",
+        "enter a competition",
+        "enter a password",
+        "enter a date in the form",
+        "enter into an agreement",
+        "enter into negotiations",
+        "press Enter"
+      ],
+      "ja": [
+        "enter the room — 部屋に入る",
+        "enter a country — 入国する",
+        "enter a new market — 新市場に参入する",
+        "enter a new phase — 新たな段階に入る",
+        "enter a competition — 大会に出場する、コンテストに応募する",
+        "enter a password — パスワードを入力する",
+        "enter a date in the form — 日付をフォームに記入する",
+        "enter into an agreement — 契約・合意を結ぶ",
+        "enter into negotiations — 交渉に入る",
+        "press Enter — Enterキーを押す"
+      ]
+    },
+    "example": {
+      "en": [
+        "Please knock before you enter the room.",
+        "Enter the application number in the box below.",
+        "She entered the photography competition with a picture she had taken on her phone.",
+        "The two companies entered into a licensing agreement last month."
+      ],
+      "ja": [
+        "Please knock before you enter the room. — 部屋に入る前にノックしてください。",
+        "Enter the application number in the box below. — 下の欄に出願番号を入力してください。",
+        "She entered the photography competition with a picture she had taken on her phone. — 彼女はスマホで撮った写真で写真コンテストに応募した。",
+        "The two companies entered into a licensing agreement last month. — 両社は先月、ライセンス契約を締結した。"
+      ]
+    }
   }
 ]
