@@ -18116,5 +18116,126 @@
         "The kids ambushed me with hugs as soon as I got home. — 帰宅するなり、子どもたちが不意に抱きついてきた。"
       ]
     }
+  },
+  {
+    "id": "scarce",
+    "sid": "2026-02081",
+    "word": "scarce",
+    "level": "B2",
+    "freq": "common",
+    "tags": [
+      "adjective",
+      "economics",
+      "resources"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "scarce",
+        "comparative": "scarcer",
+        "superlative": "scarcest"
+      },
+      "patterns": [
+        "scarce + resource / supply",
+        "something is / becomes scarce",
+        "something grows scarcer",
+        "make oneself scarce"
+      ],
+      "usage": {
+        "relatedForms": "Scarcity is the noun. Scarcely usually means ‘hardly’ or ‘only just’, as in I could scarcely hear her."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/skers/",
+        "uk": "/skeəs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "available only in small amounts or numbers, especially relative to what is needed or wanted",
+        "uncommon or hard to find in a particular place or situation"
+      ],
+      "ja": [
+        "供給や入手できる量が少ない、乏しい、不足している",
+        "ある場所や状況で数が少なく、手に入りにくい、見つかりにくい"
+      ]
+    },
+    "nuance": {
+      "en": "Scarce draws attention to limited availability. An everyday resource such as water can become scarce during a drought. With evidence or records, scarce means that little material is available to consult. Make yourself scarce informally means to leave or stay out of sight, often to avoid an awkward situation.",
+      "ja": "scarce は入手・利用できる量や数の少なさに焦点を当てる。水のような身近なものも、干ばつ時には scarce になり得る。証拠や記録については、参照できる資料が乏しいという意味。make yourself scarce は、気まずい場面などを避けて「姿を消す、その場を離れる」という口語表現。"
+    },
+    "minimal": {
+      "en": [
+        "rare: Focuses on how seldom something occurs or is found. A rare stamp is unusual. Tickets are scarce when few are available to buy.",
+        "in short supply: A close phrase when there is too little of something for current needs, as in Housing is in short supply.",
+        "scant: Focuses on a very small amount. Scant evidence suggests that what has been found is meagre. Evidence is scarce emphasizes that it is hard to find."
+      ],
+      "ja": [
+        "rare：発生頻度や見かける頻度の低さに焦点がある。a rare stamp は珍しい切手。tickets are scarce は購入できるチケットが少ないことを表す。",
+        "in short supply：現在の需要に対して供給が足りないときに近い。Housing is in short supply. は「住宅が不足している」。",
+        "scant：量がごくわずかなことに焦点がある。scant evidence は得られた証拠の乏しさ、evidence is scarce は証拠の見つかりにくさを強調する。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "in short supply",
+        "note": {
+          "en": "Close when demand or need exceeds availability.",
+          "ja": "需要や必要量に対して供給が足りない場合に近い。"
+        }
+      },
+      {
+        "word": "hard to come by",
+        "note": {
+          "en": "A conversational equivalent when something is difficult to obtain.",
+          "ja": "入手しにくいことを表す会話寄りの言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French escars, meaning ‘scanty’ or ‘sparingly supplied’. Related forms include scarcity and scarcely.",
+      "ja": "古フランス語 escars（乏しい、わずかしかない）に由来する。関連語は scarcity（不足・希少性）、scarcely（ほとんど〜ない）。"
+    },
+    "equivalents": {
+      "de": "knapp / rar",
+      "it": "scarso",
+      "fr": "rare / peu abondant",
+      "es": "escaso"
+    },
+    "collocations": {
+      "en": [
+        "scarce resources",
+        "scarce funding",
+        "scarce evidence",
+        "jobs are scarce",
+        "water becomes scarce",
+        "increasingly scarce",
+        "allocate scarce resources",
+        "make yourself scarce"
+      ],
+      "ja": [
+        "scarce resources — 限られた資源",
+        "scarce funding — 乏しい資金",
+        "scarce evidence — 乏しい証拠",
+        "jobs are scarce — 仕事が少ない",
+        "water becomes scarce — 水が不足するようになる",
+        "increasingly scarce — ますます入手しにくい",
+        "allocate scarce resources — 限られた資源を配分する",
+        "make yourself scarce — さっとその場を離れる、姿を消す"
+      ]
+    },
+    "example": {
+      "en": [
+        "Affordable housing is scarce near the station, so many people commute from farther away.",
+        "Reliable records from that period are scarce, so it’s hard to say exactly when the practice began.",
+        "When they started arguing, I decided to make myself scarce."
+      ],
+      "ja": [
+        "Affordable housing is scarce near the station, so many people commute from farther away. — 駅の近くには手頃な住宅が少ないので、もっと離れた場所から通勤する人が多い。",
+        "Reliable records from that period are scarce, so it’s hard to say exactly when the practice began. — その時代の信頼できる記録が乏しいため、その慣習がいつ始まったのか正確には分からない。",
+        "When they started arguing, I decided to make myself scarce. — 二人が言い争いを始めたので、私はそっとその場を離れることにした。"
+      ]
+    }
   }
 ]
