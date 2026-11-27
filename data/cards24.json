@@ -8773,5 +8773,125 @@
         "You can’t infer from one quiet evening that the restaurant is always empty. — ある晩に客が少なかっただけで、その店はいつも空いているとは推論できない。"
       ]
     }
+  },
+  {
+    "id": "imply",
+    "sid": "2026-02087",
+    "word": "imply",
+    "level": "B2",
+    "freq": "common",
+    "tags": [
+      "verb",
+      "communication",
+      "reasoning"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "imply",
+        "thirdPerson": "implies",
+        "past": "implied",
+        "pastParticiple": "implied",
+        "presentParticiple": "implying"
+      },
+      "patterns": [
+        "imply (that) + clause",
+        "imply + noun",
+        "What are you implying?",
+        "A implies B"
+      ],
+      "usage": {
+        "subjects": "A person, remark, set of figures, or condition can be the subject. A that-clause states the suggested or logically implied conclusion."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪmˈplaɪ/",
+        "uk": "/ɪmˈplaɪ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to communicate an idea indirectly through what one says or writes",
+        "to suggest a conclusion or indicate that a consequence follows, sometimes as a matter of logic"
+      ],
+      "ja": [
+        "言葉や文章で、あることを間接的に伝える、ほのめかす",
+        "事実・数字・条件などが、ある結論や帰結を示唆する、含意する"
+      ]
+    },
+    "nuance": {
+      "en": "In conversation, imply can describe a meaning the listener picks up from someone’s wording. What are you implying? can sound defensive. When figures imply something, the suggested conclusion may still need checking. In logic, A implies B means that B follows if A is true.",
+      "ja": "会話では、相手が言葉の選び方から読み取れる含みを表す。What are you implying? は「何が言いたいんですか」と身構えた響きになることがある。数字が imply する結論は、さらに確認が必要な場合もある。論理学では A implies B は「Aが真ならBが成り立つ」という含意を表す。"
+    },
+    "minimal": {
+      "en": [
+        "infer: The speaker’s wording implies a meaning. The listener infers it from that wording.",
+        "suggest: Can mean ‘point towards a conclusion’, like imply, and can also introduce a proposal, as in I suggest we wait.",
+        "hint: Usually gives a small clue or deliberately avoids saying something directly. Imply also works with data or a mathematical condition as subject."
+      ],
+      "ja": [
+        "infer：話し手の言葉がある意味を imply（ほのめかす）し、聞き手はその言葉から意味を infer（読み取る）。",
+        "suggest：imply と同じように結論を示唆する意味がある。I suggest we wait. のように提案をする意味でも使える。",
+        "hint：小さな手がかりを与える、直接言うのを避けてほのめかす。imply はデータや数学上の条件を主語にすることもできる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "suggest",
+        "note": {
+          "en": "Close when evidence points toward a possible conclusion.",
+          "ja": "証拠がある結論を示唆する場面で近い。"
+        }
+      },
+      {
+        "word": "entail",
+        "note": {
+          "en": "Close in logical contexts where a consequence follows necessarily.",
+          "ja": "ある帰結が必然的に導かれる論理的な文脈で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin implicare ‘fold in, entangle’, built from in- and plicare ‘fold’. The corresponding noun is implication.",
+      "ja": "ラテン語 implicare（中に折り込む、絡ませる）に由来し、in- と plicare（折る）からなる。対応する名詞は implication（含意、示唆されること、影響）。"
+    },
+    "equivalents": {
+      "de": "andeuten / nahelegen / implizieren",
+      "it": "sottintendere / suggerire / implicare",
+      "fr": "laisser entendre / suggérer / impliquer",
+      "es": "dar a entender / sugerir / implicar"
+    },
+    "collocations": {
+      "en": [
+        "strongly imply that …",
+        "seem to imply that …",
+        "imply consent",
+        "imply criticism",
+        "imply a connection",
+        "What are you implying?"
+      ],
+      "ja": [
+        "strongly imply that … — 〜であることを強く示唆する",
+        "seem to imply that … — 〜だと示唆しているように見える",
+        "imply consent — 同意を示唆する",
+        "imply criticism — 批判をほのめかす",
+        "imply a connection — 関連があることを示唆する",
+        "What are you implying? — 何が言いたいんですか？"
+      ]
+    },
+    "example": {
+      "en": [
+        "Are you implying that we should have checked the figures ourselves?",
+        "The latest figures imply that demand is recovering, although it’s still too early to be sure.",
+        "For an integer n, divisibility by four implies divisibility by two."
+      ],
+      "ja": [
+        "Are you implying that we should have checked the figures ourselves? — 私たちが自分で数字を確認すべきだった、と言いたいのですか？",
+        "The latest figures imply that demand is recovering, although it’s still too early to be sure. — 最新の数字は需要が回復しつつあることを示唆しているが、確信を持つにはまだ早い。",
+        "For an integer n, divisibility by four implies divisibility by two. — 整数 n が4で割り切れるなら、2でも割り切れる。"
+      ]
+    }
   }
 ]
