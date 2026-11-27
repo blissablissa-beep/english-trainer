@@ -16069,5 +16069,124 @@
         "The program aims to reduce social exclusion by helping residents take part in local activities. — そのプログラムは、住民が地域の活動に参加できるよう支援し、社会的排除を減らすことを目指している。"
       ]
     }
+  },
+  {
+    "id": "susceptible",
+    "sid": "2026-02064",
+    "word": "susceptible",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "influence",
+      "health",
+      "materials",
+      "formal"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "susceptible",
+        "comparative": "more susceptible",
+        "superlative": "most susceptible"
+      },
+      "patterns": [
+        "be susceptible to + noun",
+        "be susceptible to being + past participle",
+        "be particularly / highly susceptible to + noun",
+        "be susceptible of + noun (formal)"
+      ],
+      "usage": {
+        "prepositions": "Susceptible to identifies the influence or harm that can affect someone or something. Susceptible of is a formal way to say that something can admit or undergo what follows, as in susceptible of more than one interpretation."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/səˈsep.tə.bəl/",
+        "uk": "/səˈsep.tə.bəl/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "easily affected, harmed, or influenced by something",
+        "(formal, susceptible of) capable of admitting or undergoing something"
+      ],
+      "ja": [
+        "～の影響を受けやすい、～に弱い、～にかかりやすい",
+        "（改まった susceptible of の形）～が可能である、～の余地がある"
+      ]
+    },
+    "nuance": {
+      "en": "Susceptible to points to a particular kind of influence, harm, or change, such as flattery or corrosion. It describes a tendency or liability. In formal writing, a phrase susceptible of two interpretations can reasonably be read in two ways.",
+      "ja": "susceptible to は、お世辞や腐食など、どんな影響や変化を受けやすいかを示す。実際に影響を受けたというより、その性質や傾向に焦点がある。改まった文脈では、a phrase susceptible of two interpretations は「二通りに解釈できる表現」。"
+    },
+    "minimal": {
+      "en": [
+        "vulnerable: Emphasizes exposure to harm or limited protection. Susceptible often emphasizes how readily a specific influence or process can affect someone or something.",
+        "prone to: Suggests a tendency for something to happen or for someone to behave in a certain way, as in prone to forgetting names. Susceptible to commonly takes the influence or harm that affects the subject.",
+        "sensitive to: Highlights responsiveness, sometimes to small changes. Susceptible to often highlights an adverse outcome, as in susceptible to moisture damage."
+      ],
+      "ja": [
+        "vulnerable：危害を受けるおそれや、守りが弱いことを強調する。susceptible は、特定の影響をどれほど受けやすいかに着目することが多い。",
+        "prone to：prone to forgetting names のように、何かが起こりがち、ある行動をしがちという傾向を示す。susceptible to の後ろには、主語に作用するものや受ける被害が来ることが多い。",
+        "sensitive to：わずかな変化にも反応するなど、反応のしやすさを表す。susceptible to は、susceptible to moisture damage のように、悪影響の受けやすさに着目する場合が多い。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "vulnerable to",
+        "note": {
+          "en": "Close when something is likely to be harmed by a particular threat.",
+          "ja": "特定のものによって害を受けやすい場合に近い。"
+        }
+      },
+      {
+        "word": "open to",
+        "note": {
+          "en": "Close in open to more than one interpretation, corresponding to formal susceptible of.",
+          "ja": "open to more than one interpretation のように、改まった susceptible of を言い換えられる。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Late Latin susceptibilis ‘capable of receiving or being affected’, ultimately from Latin suscipere ‘to take up, receive’, formed from sub- and capere ‘to take’. The sense of receiving helps connect the ideas of being affected and admitting an interpretation.",
+      "ja": "後期ラテン語 susceptibilis を経て、ラテン語 suscipere（取り上げる、受け取る）にさかのぼる。suscipere は sub- と capere（取る）からなる。「受け取る」という発想が、影響を受けやすいという用法と、ある解釈を許すという用法につながる。"
+    },
+    "equivalents": {
+      "de": "anfällig für / empfänglich für / einer Deutung zugänglich",
+      "it": "soggetto a / sensibile a / suscettibile di",
+      "fr": "sensible à / vulnérable à / susceptible de",
+      "es": "propenso a / vulnerable a / susceptible de"
+    },
+    "collocations": {
+      "en": [
+        "susceptible to infection",
+        "susceptible to corrosion",
+        "susceptible to moisture damage",
+        "susceptible to flattery",
+        "particularly susceptible to pressure",
+        "susceptible of more than one interpretation"
+      ],
+      "ja": [
+        "susceptible to infection — 感染しやすい",
+        "susceptible to corrosion — 腐食しやすい",
+        "susceptible to moisture damage — 湿気による損傷を受けやすい",
+        "susceptible to flattery — お世辞に弱い",
+        "particularly susceptible to pressure — 圧力の影響をとりわけ受けやすい",
+        "susceptible of more than one interpretation — 複数の解釈が可能な"
+      ]
+    },
+    "example": {
+      "en": [
+        "The metal is particularly susceptible to corrosion in damp conditions.",
+        "He’s surprisingly susceptible to flattery.",
+        "The clause is susceptible of more than one interpretation."
+      ],
+      "ja": [
+        "The metal is particularly susceptible to corrosion in damp conditions. — その金属は湿気の多い環境では特に腐食しやすい。",
+        "He’s surprisingly susceptible to flattery. — 彼は意外なほどお世辞に弱い。",
+        "The clause is susceptible of more than one interpretation. — その条項には複数の解釈の余地がある。"
+      ]
+    }
   }
 ]
