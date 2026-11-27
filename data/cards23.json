@@ -16776,5 +16776,121 @@
         "The standardisation of routine procedures still leaves staff free to decide how to handle unusual cases. — 定型的な手順を標準化しても、例外的な事案への対応は担当者の判断に委ねられている。"
       ]
     }
+  },
+  {
+    "id": "standardize",
+    "sid": "2026-02070",
+    "word": "standardize",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "business",
+      "technology",
+      "standards"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "usually transitive",
+      "forms": {
+        "base": "standardize",
+        "thirdPerson": "standardizes",
+        "past": "standardized",
+        "pastParticiple": "standardized",
+        "presentParticiple": "standardizing",
+        "variant": "standardise"
+      },
+      "patterns": [
+        "standardize + procedure / format / specification",
+        "standardize A across + teams / locations",
+        "standardize how + clause",
+        "be standardized across + groups"
+      ],
+      "usage": {
+        "spelling": "Standardize is the usual US spelling and is also used in British English. Standardise is common in British English.",
+        "object": "Standardize the reporting process names the process directly. Standardize how teams report results names the practice through a how-clause."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈstæn.dɚ.daɪz/",
+        "uk": "/ˈstæn.də.daɪz/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to make procedures, formats, or other things conform to a common standard",
+        "to establish common specifications for products or systems"
+      ],
+      "ja": [
+        "手順や書式などを共通の基準にそろえる、標準化する・統一する",
+        "製品やシステムに共通の仕様を定める、規格化する"
+      ]
+    },
+    "nuance": {
+      "en": "The verb focuses on making a method, format, or specification consistent across users, teams, or systems. In technical contexts, standardizing an interface can allow products from different suppliers to work together.",
+      "ja": "複数の担当者・部門・システムで使う方法や書式、仕様を共通化する語。技術分野では、インターフェースを規格化することで、異なるメーカーの製品同士を接続できるようにする、といった文脈で使う。"
+    },
+    "minimal": {
+      "en": [
+        "unify: Bring separate things together into one whole. Standardize emphasizes applying a common rule or format.",
+        "harmonize: Make different rules or systems compatible. Each can retain some of its own features.",
+        "streamline: Simplify a process to make it more efficient. Standardizing it can be one way to do this."
+      ],
+      "ja": [
+        "unify：別々のものを一つにまとめる。standardize は共通の基準や書式を適用することに重点がある。",
+        "harmonize：異なるルールや制度の整合を図る。それぞれの特徴を残して調整する場合にも使う。",
+        "streamline：手続などを簡素化して効率を上げる。標準化はそのための手段の一つになり得る。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "bring into line with a common standard",
+        "note": {
+          "en": "A close paraphrase when existing practices are adjusted to follow a common standard.",
+          "ja": "既存のやり方を共通基準に合わせる場合の言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From standard + -ize (‘make or bring into a specified state’). The corresponding noun is standardization (also standardisation).",
+      "ja": "standard（基準・規格）に、ある状態にすることを表す動詞語尾 -ize が付いた語。対応する名詞は standardization / standardisation。"
+    },
+    "equivalents": {
+      "de": "standardisieren / normen",
+      "it": "standardizzare / normare",
+      "fr": "standardiser / normaliser",
+      "es": "estandarizar / normalizar"
+    },
+    "collocations": {
+      "en": [
+        "standardize procedures",
+        "standardize data formats",
+        "standardize testing methods",
+        "standardize technical interfaces",
+        "standardize reporting across departments",
+        "standardized test"
+      ],
+      "ja": [
+        "standardize procedures — 手順を標準化する",
+        "standardize data formats — データ形式を統一する",
+        "standardize testing methods — 試験方法を標準化する",
+        "standardize technical interfaces — 技術インターフェースを規格化する",
+        "standardize reporting across departments — 部門間で報告方法を統一する",
+        "standardized test — 標準化された試験"
+      ]
+    },
+    "example": {
+      "en": [
+        "We standardized how each office records filing deadlines so that anyone can take over a case.",
+        "The industry group is working to standardize the interface so that equipment from different manufacturers can work together.",
+        "The researchers standardized their testing procedures across all three sites."
+      ],
+      "ja": [
+        "We standardized how each office records filing deadlines so that anyone can take over a case. — どの拠点の担当者でも案件を引き継げるよう、出願期限の記録方法を統一した。",
+        "The industry group is working to standardize the interface so that equipment from different manufacturers can work together. — 業界団体は、異なるメーカーの機器を組み合わせて使えるよう、インターフェースの規格化を進めている。",
+        "The researchers standardized their testing procedures across all three sites. — 研究チームは、3か所すべてで試験手順を統一した。"
+      ]
+    }
   }
 ]
