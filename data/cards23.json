@@ -14966,5 +14966,121 @@
         "He spoke about how impostor syndrome made it hard for him to take credit for his own work. — 彼は、インポスター症候群のせいで、自分の仕事の成果を自分の手柄として受け止めにくかったと語った。"
       ]
     }
+  },
+  {
+    "id": "perpetual",
+    "sid": "2026-02055",
+    "word": "perpetual",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "duration",
+      "business",
+      "work"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "perpetual"
+      },
+      "patterns": [
+        "perpetual + license / right / motion",
+        "perpetual + complaints / delays / noise",
+        "a perpetual state of + noun",
+        "be in perpetual + motion / doubt"
+      ],
+      "usage": {
+        "duration": "With license or right, perpetual usually describes duration: there is no set expiration date. With delays or complaints, it can express the speaker’s impression that something keeps happening."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/pɚˈpetʃ.u.əl/",
+        "uk": "/pəˈpetʃ.u.əl/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "lasting indefinitely or intended to continue without a fixed endpoint",
+        "continuing without interruption or recurring so often that it seems never to stop"
+      ],
+      "ja": [
+        "無期限の、永続する、終期が定められていない",
+        "絶え間なく続く、終わりがないと感じるほど繰り返される"
+      ]
+    },
+    "nuance": {
+      "en": "A perpetual license refers to a license without a fixed end date. In perpetual complaints or perpetual delays, the word often conveys frustration and can be an exaggeration. It can describe repeated occurrences with gaps between them.",
+      "ja": "perpetual license は、あらかじめ終了日が決まっていないライセンス。perpetual complaints や perpetual delays では、何度も起きてうんざりしているという気持ちを込め、大げさに言うことがある。間を置いて繰り返す出来事にも使える。"
+    },
+    "minimal": {
+      "en": [
+        "permanent: Often emphasizes that a state or arrangement is meant to stay, as in a permanent position. Perpetual puts the focus on continuation over time, as in a perpetual license.",
+        "continuous: Emphasizes that something proceeds without a break. Perpetual can also describe repeated events that feel unending.",
+        "eternal: Often evokes timelessness or an everlasting state, as in eternal life. Perpetual is natural for formal arrangements and recurring everyday problems."
+      ],
+      "ja": [
+        "permanent：a permanent position（常勤などの期限のない職）のように、状態や取り決めが継続するものとして定まっていることを表しやすい。perpetual は perpetual license のように、時間上の終わりが設定されていないことに重心がある。",
+        "continuous：途中で途切れずに続くことを強調する。perpetual は、間を置いて起きる出来事がいつまでも繰り返される場合にも使える。",
+        "eternal：eternal life（永遠の命）のように、時を超えて続く状態を想起させることが多い。perpetual は期限を定めない取り決めや、日常の繰り返す問題にも自然に使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "unending",
+        "note": {
+          "en": "Close when something goes on or seems to go on without end.",
+          "ja": "終わりなく続く、またはそう感じられる場合に近い。"
+        }
+      },
+      {
+        "word": "incessant",
+        "note": {
+          "en": "Close for persistent noise, complaints, or interruptions, often with an irritated tone.",
+          "ja": "音や苦情、中断などが絶えず続くことを、うんざりした調子で表す場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French perpetuel and Latin perpetuālis, from perpetuus ‘continuous, uninterrupted’. Early English used perpetual for something everlasting or continuing indefinitely. Related English forms include perpetually and perpetuity.",
+      "ja": "古フランス語 perpetuel とラテン語 perpetuālis に由来し、そのもとは perpetuus（連続した、途切れない）。初期の英語でも「永続する」「無期限に続く」という意味で使われていた。関連語に perpetually（副詞）と perpetuity（永続）がある。"
+    },
+    "equivalents": {
+      "de": "unbefristet / immerwährend / ständig",
+      "it": "perpetuo / senza scadenza / continuo",
+      "fr": "perpétuel / sans limite de durée / incessant",
+      "es": "perpetuo / sin vencimiento / constante"
+    },
+    "collocations": {
+      "en": [
+        "a perpetual license",
+        "a perpetual right to use something",
+        "perpetual motion",
+        "perpetual complaints",
+        "perpetual delays",
+        "in a state of perpetual uncertainty"
+      ],
+      "ja": [
+        "a perpetual license — 無期限ライセンス、永続ライセンス",
+        "a perpetual right to use something — 何かを使用する無期限の権利",
+        "perpetual motion — 永久運動",
+        "perpetual complaints — 絶えない苦情",
+        "perpetual delays — 繰り返される遅延",
+        "in a state of perpetual uncertainty — いつまでも先が見通せない状態で"
+      ]
+    },
+    "example": {
+      "en": [
+        "The agreement grants the company a perpetual license to use the software.",
+        "The project was held up by perpetual delays in getting approvals.",
+        "The team seemed to be in a state of perpetual uncertainty about who was in charge."
+      ],
+      "ja": [
+        "The agreement grants the company a perpetual license to use the software. — その契約は、同社にソフトウェアを無期限で使用するライセンスを付与する。",
+        "The project was held up by perpetual delays in getting approvals. — 承認手続きの遅れが何度も重なり、プロジェクトは足止めされた。",
+        "The team seemed to be in a state of perpetual uncertainty about who was in charge. — チームは、誰が責任者なのかいつまでたってもはっきりしない状態にあるようだった。"
+      ]
+    }
   }
 ]
