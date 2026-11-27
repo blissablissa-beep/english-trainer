@@ -17024,5 +17024,113 @@
         "A feral cat is still a domestic cat, even if it has never lived with people. — 野生化した猫は、人と暮らしたことがなくても、分類上はイエネコだ。"
       ]
     }
+  },
+  {
+    "id": "feral",
+    "sid": "2026-02072",
+    "word": "feral",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "animals",
+      "ecology",
+      "informal"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "feral"
+      },
+      "patterns": [
+        "feral + cat / pig / horse",
+        "go feral",
+        "a feral population of + animals"
+      ],
+      "usage": {
+        "figurative": "In informal speech, feral can describe people behaving in a wild or unruly way. Go feral is also used for humorous exaggeration."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈfer.əl/",
+        "uk": "/ˈfer.əl/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(of a domesticated animal or its descendants) living in the wild without human care",
+        "(informal, figurative) behaving in a wild or unruly way"
+      ],
+      "ja": [
+        "（家畜化された動物やその子孫が）人の管理を離れて野生化した",
+        "（口語・比喩）野性的に振る舞う、手がつけられないほど荒っぽい"
+      ]
+    },
+    "nuance": {
+      "en": "A feral cat may have been born outdoors to a free-living population. The word does not imply that the individual once had an owner. Feral cats typically avoid close contact with people. In informal figurative use, tone can range from sharply critical to playful.",
+      "ja": "feral cat には、野外で暮らす集団の中で生まれ、人に飼われた経験のない猫も含まれる。一般に、人との近い接触を避ける傾向がある。人に使う比喩では、強い非難にも冗談めいた誇張にもなる。"
+    },
+    "minimal": {
+      "en": [
+        "wild: A broader word for animals that live in nature. A wild fox belongs to a wild species. A feral pig descends from domesticated stock.",
+        "stray: An animal away from its home or without a settled home. A stray cat may be a lost or abandoned pet and may still be comfortable around people.",
+        "domestic: Describes a domesticated kind of animal. A feral cat is still a domestic cat in this sense."
+      ],
+      "ja": [
+        "wild：野生の動物を広く指す。wild fox は野生種のキツネ、feral pig は家畜のブタに由来する野生化個体。",
+        "stray：飼い主のもとを離れたり、住みついた家がなかったりする動物。stray cat には迷子や捨て猫も含まれ、人に慣れていることもある。「野良猫」という訳は feral cat と重なる。",
+        "domestic：人に飼育されてきた種類の動物を指す。この意味では野生化した猫も domestic cat（イエネコ）にあたる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "living wild",
+        "note": {
+          "en": "A close paraphrase when the animal’s domesticated origins are already clear.",
+          "ja": "家畜化された種類だと文脈から分かるときの言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin fera ‘wild animal’, related to ferus ‘wild’ and the source of the related English adjective fierce via French.",
+      "ja": "ラテン語 fera（野生動物）に由来し、ferus（野生の）と同系。英語の fierce もフランス語を経由した同系語。"
+    },
+    "equivalents": {
+      "de": "verwildert / wild und ungebärdig",
+      "it": "inselvatichito / sfrenato",
+      "fr": "retourné à l’état sauvage / déchaîné",
+      "es": "asilvestrado / desatado"
+    },
+    "collocations": {
+      "en": [
+        "feral cat",
+        "feral pig",
+        "feral horse",
+        "a feral cat colony",
+        "a feral population",
+        "go feral"
+      ],
+      "ja": [
+        "feral cat — 野生化したイエネコ",
+        "feral pig — 野生化したブタ",
+        "feral horse — 野生化したウマ",
+        "a feral cat colony — 野外に定着した野生化イエネコの集団",
+        "a feral population — 野生化した個体群",
+        "go feral — 野生化する、（口語で）大はしゃぎする・荒れる"
+      ]
+    },
+    "example": {
+      "en": [
+        "The cat that turned up at our door was a stray, but it was friendly enough to let us pick it up.",
+        "The feral cats living near the harbour were born outdoors and kept their distance from people.",
+        "The kids went feral the moment we opened the doors to the garden."
+      ],
+      "ja": [
+        "The cat that turned up at our door was a stray, but it was friendly enough to let us pick it up. — 玄関先に現れたのは野良猫だったが、人に慣れていて抱き上げさせてくれた。",
+        "The feral cats living near the harbour were born outdoors and kept their distance from people. — 港の近くに住む野生化した猫たちは、野外で生まれ、人に近づかなかった。",
+        "The kids went feral the moment we opened the doors to the garden. — 庭への扉を開けた途端、子どもたちは大はしゃぎで暴れ回った。"
+      ]
+    }
   }
 ]
