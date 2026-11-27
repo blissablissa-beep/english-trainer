@@ -13599,5 +13599,131 @@
         "The government demonetized the old banknotes but gave people six months to exchange them. — 政府は旧紙幣の法定通貨としての効力を失わせたが、交換のために6か月の猶予を設けた。"
       ]
     }
+  },
+  {
+    "id": "confuse",
+    "sid": "2026-02044",
+    "word": "confuse",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "verb",
+      "daily life",
+      "communication"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "forms": {
+        "base": "confuse",
+        "thirdPerson": "confuses",
+        "past": "confused",
+        "pastParticiple": "confused",
+        "presentParticiple": "confusing"
+      },
+      "patterns": [
+        "confuse + person",
+        "confuse A with B",
+        "be confused about + topic",
+        "be confusing to + person"
+      ],
+      "usage": {
+        "roles": "The instructions confused me. I was confused about what to do. The instructions were confusing. Confused describes the person experiencing confusion, and confusing describes what causes it.",
+        "direction": "In I confused A with B, A is what I encountered and B is what I mistook it for. People often confuse A and B describes difficulty telling the two apart."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/kənˈfjuːz/",
+        "uk": "/kənˈfjuːz/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to make someone unsure about what something means or what to do",
+        "to wrongly identify one person or thing as another, or fail to distinguish between them",
+        "to make a situation or issue harder to understand by mixing things together or adding complication"
+      ],
+      "ja": [
+        "人を混乱させる、意味や何をすべきか分からなくさせる",
+        "人や物を取り違える、区別すべきものを混同する",
+        "物事をごちゃ混ぜにしたり複雑にしたりして、状況や論点を分かりにくくする"
+      ]
+    },
+    "nuance": {
+      "en": "Confuse someone often describes an ordinary moment of uncertainty, such as when instructions are unclear. Confuse A with B also applies to concepts: confusing correlation with causation means treating one as the other. Don't confuse A with B is often used to warn readers about that distinction.",
+      "ja": "confuse someone は、説明が分かりにくくて戸惑うような日常的な場面でも使える。confuse A with B は人や名前だけでなく概念にも使い、confuse correlation with causation は「相関関係を因果関係と取り違える」。Don't confuse A with B. は、二つを区別するよう促す言い方。"
+    },
+    "minimal": {
+      "en": [
+        "mix up: A conversational alternative for muddling names, dates, or identities. I mixed up the dates means I got them wrong.",
+        "mistake A for B: Focuses on wrongly identifying A as B, often on a particular occasion.",
+        "puzzle: Makes someone wonder because something is difficult to explain. Confuse often suggests difficulty following information or deciding what to do."
+      ],
+      "ja": [
+        "mix up：名前や日付などを取り違えるときの会話表現。I mixed up the dates. は「日付を取り違えた」。",
+        "mistake A for B：AをBだと思い込むことに焦点があり、あるときの見間違いや人違いによく使う。",
+        "puzzle：理由が分からず不思議に思わせる。confuse は情報についていけなかったり、どうすればよいか分からなかったりする場合にも使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "bewilder",
+        "note": {
+          "en": "Stronger when someone feels completely at a loss.",
+          "ja": "何が何だか分からず途方に暮れる場合の、より強い語。"
+        }
+      },
+      {
+        "word": "conflate",
+        "note": {
+          "en": "More formal, especially when two distinct ideas are treated as one.",
+          "ja": "特に、別々の概念を一つのものとして扱ってしまうときの改まった語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Ultimately from Latin confundere ‘to pour together, mix’, whose past participle was confusus. The English verb confuse arose later as a back-formation from confused. The Latin sense of mixing helps explain the modern idea of failing to keep things distinct.",
+      "ja": "ラテン語 confundere（一緒に注ぐ、混ぜる）と、その過去分詞 confusus にさかのぼる。英語では confused から語尾を取り除く逆成によって、後から動詞 confuse が生まれた。「混ぜる」という語源は、別々の物事を取り違える意味につながる。"
+    },
+    "equivalents": {
+      "de": "verwirren / A mit B verwechseln",
+      "it": "confondere / scambiare A per B",
+      "fr": "dérouter / confondre A avec B",
+      "es": "confundir / confundir A con B"
+    },
+    "collocations": {
+      "en": [
+        "confuse the reader",
+        "confuse one name with another",
+        "confuse A and B",
+        "confuse correlation with causation",
+        "confuse the issue",
+        "be easily confused with another word",
+        "be confused about what to do"
+      ],
+      "ja": [
+        "confuse the reader — 読者を混乱させる",
+        "confuse one name with another — 名前を取り違える",
+        "confuse A and B — AとBを混同する",
+        "confuse correlation with causation — 相関関係を因果関係と取り違える",
+        "confuse the issue — 論点を分かりにくくする",
+        "be easily confused with another word — 別の単語と間違えられやすい",
+        "be confused about what to do — どうすればよいか分からず戸惑う"
+      ]
+    },
+    "example": {
+      "en": [
+        "The instructions confused me, so I asked which form to fill out.",
+        "I confused her with her sister because they were wearing the same coat.",
+        "It’s easy to confuse correlation with causation when two trends move together.",
+        "Adding a second example here might just confuse the issue."
+      ],
+      "ja": [
+        "The instructions confused me, so I asked which form to fill out. — 説明が分かりにくかったので、どの用紙に記入すればよいか聞いた。",
+        "I confused her with her sister because they were wearing the same coat. — 二人が同じコートを着ていたので、彼女を姉妹のもう一人と間違えた。",
+        "It’s easy to confuse correlation with causation when two trends move together. — 二つの傾向が同じように動くと、相関関係を因果関係と取り違えやすい。",
+        "Adding a second example here might just confuse the issue. — ここで例をもう一つ加えると、かえって論点が分かりにくくなるかもしれない。"
+      ]
+    }
   }
 ]
