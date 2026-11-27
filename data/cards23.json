@@ -15323,5 +15323,137 @@
         "I queued up a few songs for the drive home. — 帰りのドライブで聴く曲を何曲か再生待ちリストに入れた。"
       ]
     }
+  },
+  {
+    "id": "exclusive",
+    "sid": "2026-02058",
+    "word": "exclusive",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "noun",
+      "business",
+      "media",
+      "logic"
+    ],
+    "grammar": {
+      "pos": "adjective / noun",
+      "countability": "countable as a noun",
+      "forms": {
+        "base": "exclusive",
+        "plural": "exclusives"
+      },
+      "patterns": [
+        "exclusive rights to + noun / verb",
+        "exclusive to + group / platform",
+        "exclusive of + costs / tax",
+        "mutually exclusive",
+        "an exclusive on + topic"
+      ],
+      "usage": {
+        "prepositions": "Exclusive to members means available only to members. Exclusive of tax means that tax is not included in the stated amount."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪkˈskluː.sɪv/",
+        "uk": "/ɪkˈskluː.sɪv/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "reserved for or available only to a particular person, group, or organization",
+        "selective or restricted in access, often associated with wealth or high status",
+        "(exclusive of) not including something",
+        "(noun) a story or interview available to one media outlet before or instead of its competitors"
+      ],
+      "ja": [
+        "特定の人・集団・組織に限られた、独占的な、限定の",
+        "利用できる人が限られた、高級な、選ばれた人向けの",
+        "（exclusive of）～を含まない、～を除いた",
+        "（名詞）一つの報道機関が先行して、または単独で出す独占記事・独占取材"
+      ]
+    },
+    "nuance": {
+      "en": "An exclusive offer is restricted to a particular group or channel. An exclusive club may suggest social prestige as well as restricted membership. In mutually exclusive, the restriction works both ways: if one option applies, the other cannot apply at the same time.",
+      "ja": "an exclusive offer は対象者や提供経路を限った特典。an exclusive club には、会員が限られることに加えて、格式や高級感がにじむことがある。mutually exclusive は、片方が成り立つともう片方は同時に成り立たないことを表す。"
+    },
+    "minimal": {
+      "en": [
+        "limited: A restriction may concern quantity, time, or access. Exclusive often highlights who has access or who holds a right.",
+        "sole: Emphasizes that there is only one holder, person, or thing, as in sole owner. Exclusive often emphasizes rights or access reserved to a holder or group.",
+        "excluding: A direct alternative to exclusive of in statements about what a figure leaves out."
+      ],
+      "ja": [
+        "limited：数量・期間・利用条件など、制限全般を表す。exclusive は、誰だけが使えるか、誰に権利があるかに焦点が出やすい。",
+        "sole：sole owner（唯一の所有者）のように、一人・一つであることに重点がある。exclusive は、権利や利用資格が特定の人・集団に限られることを強調しやすい。",
+        "excluding：金額などに含まれないものを挙げるときの exclusive of の直接的な言い換え。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "restricted",
+        "note": {
+          "en": "Close when referring to access limited to a particular group.",
+          "ja": "利用できる人が限られているという意味で近い。"
+        }
+      },
+      {
+        "word": "scoop",
+        "note": {
+          "en": "Close to the noun exclusive when a media outlet is first to report a significant story.",
+          "ja": "ある報道機関が重要なニュースを他社に先駆けて報じる「特ダネ」の場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Medieval Latin exclusivus, from the stem of exclusus, the past participle of Latin excludere ‘to shut out’. Excludere combines ex- ‘out’ with claudere ‘to close’. The idea of excluding others underlies later senses involving rights and restricted access.",
+      "ja": "中世ラテン語 exclusivus に由来し、そのもとはラテン語 excludere（締め出す）の過去分詞 exclusus の語幹。excludere は ex-（外へ）と claudere（閉じる）からなる。「外に締め出す」という意味が、権利や利用を特定の人に限る用法につながる。"
+    },
+    "equivalents": {
+      "de": "exklusiv / ausschließlich / ausschließlich der Mehrwertsteuer (exclusive of VAT) / Exklusivbericht",
+      "it": "esclusivo / al netto di / esclusiva",
+      "fr": "exclusif / hors / exclusivité",
+      "es": "exclusivo / sin incluir / exclusiva"
+    },
+    "collocations": {
+      "en": [
+        "exclusive rights",
+        "an exclusive license",
+        "an exclusive interview",
+        "an exclusive offer for members",
+        "exclusive to subscribers",
+        "exclusive of VAT",
+        "mutually exclusive options",
+        "a world exclusive"
+      ],
+      "ja": [
+        "exclusive rights — 独占的な権利",
+        "an exclusive license — 独占ライセンス",
+        "an exclusive interview — 独占インタビュー",
+        "an exclusive offer for members — 会員限定の特典",
+        "exclusive to subscribers — 購読者限定の",
+        "exclusive of VAT — 付加価値税を含まない",
+        "mutually exclusive options — 同時には選べない選択肢",
+        "a world exclusive — 世界初の独占報道"
+      ]
+    },
+    "example": {
+      "en": [
+        "The company secured exclusive rights to distribute the product in Japan.",
+        "The preview is exclusive to subscribers.",
+        "The quoted price is exclusive of tax and delivery charges.",
+        "Speed and accuracy are not necessarily mutually exclusive.",
+        "The newspaper ran an exclusive on the negotiations."
+      ],
+      "ja": [
+        "The company secured exclusive rights to distribute the product in Japan. — その会社は、日本でその製品を独占販売する権利を取得した。",
+        "The preview is exclusive to subscribers. — 先行公開は購読者限定です。",
+        "The quoted price is exclusive of tax and delivery charges. — 提示価格には税金と配送料が含まれていません。",
+        "Speed and accuracy are not necessarily mutually exclusive. — 速さと正確さは両立することもある。",
+        "The newspaper ran an exclusive on the negotiations. — その新聞は交渉についての独占記事を掲載した。"
+      ]
+    }
   }
 ]
