@@ -14848,5 +14848,123 @@
         "The club was promoted to the top division after winning the playoff final. — そのクラブはプレーオフ決勝に勝ち、最上位リーグに昇格した。"
       ]
     }
+  },
+  {
+    "id": "imposter",
+    "sid": "2026-02054",
+    "word": "imposter",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "identity",
+      "work"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "base": "imposter",
+        "plural": "imposters",
+        "variant": "impostor"
+      },
+      "patterns": [
+        "an imposter / impostor",
+        "expose someone as an imposter",
+        "turn out to be an imposter",
+        "feel like an imposter",
+        "impostor / imposter syndrome"
+      ],
+      "usage": {
+        "spelling": "Imposter and impostor are both accepted spellings, with the same pronunciation. Impostor syndrome and imposter syndrome are both used.",
+        "article": "Use an before imposter because it begins with a vowel sound."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪmˈpɑː.stɚ/",
+        "uk": "/ɪmˈpɒs.tə/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a person who falsely claims to be someone else or to have a position, identity, or qualification they do not have",
+        "in feel like an imposter, someone who feels undeserving of their position or success and fears being found out"
+      ],
+      "ja": [
+        "他人や、実際には持っていない地位・身分・資格を装う人、なりすまし、偽者",
+        "feel like an imposter では、自分は今の地位や成功にふさわしくなく、実力不足が露見するのではないかと感じること"
+      ]
+    },
+    "nuance": {
+      "en": "Calling someone an imposter usually implies deliberate deception about who they are or what qualifies them. Feeling like an imposter describes self-doubt and can apply even when others have good reason to trust your abilities. Impostor syndrome is a common term for persistent feelings of this kind.",
+      "ja": "人を an imposter と呼ぶと、身分や資格を意図的に偽っているという含みがある。feel like an imposter は「自分はここにふさわしくない」という自信のなさを表し、周囲が実力を認めている人にも使える。こうした感覚が続くことは impostor syndrome（インポスター症候群）と呼ばれる。"
+    },
+    "minimal": {
+      "en": [
+        "impersonator: Someone who imitates or takes on another person’s identity. It can describe an entertainer or a deceiver. Imposter implies deception in its literal sense.",
+        "fraud: A broader term for a person who deceives others or falsely claims ability. Imposter particularly emphasizes assumed identity, status, or credentials.",
+        "poser: Informal and dismissive, often used for someone trying to look cooler or more authentic than they are."
+      ],
+      "ja": [
+        "impersonator：他人をまねたり、その人になりすましたりする人。ものまね芸人にも使う。imposter の文字どおりの用法には、人をだます含みがある。",
+        "fraud：人をだましたり、能力があると偽ったりする人を広く指す。imposter は特に、身分・地位・資格を装うことに重点がある。",
+        "poser：格好をつけたり、その集団の一員らしく見せかけたりする人を指す、くだけた軽蔑的な語。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "pretender",
+        "note": {
+          "en": "Close when someone claims a status or identity they are not entitled to.",
+          "ja": "実際には持っていない地位や身分を名乗る場合に近い。"
+        }
+      },
+      {
+        "word": "fake",
+        "note": {
+          "en": "A less formal term for someone whose identity or claimed qualifications are false.",
+          "ja": "身分や資格が偽りである人を指す、よりくだけた語。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Borrowed through French imposteur from Late Latin impostor ‘deceiver’, ultimately from Latin impōnere ‘to put upon, impose, deceive’. Impōnere combines a form of in- ‘on, upon’ with pōnere ‘to put, place’; it is also the source of English impose.",
+      "ja": "フランス語 imposteur を経て、後期ラテン語 impostor（人をだます者）に由来する。もとはラテン語 impōnere（上に置く、押し付ける、だます）で、in-（～の上に）の変化形と pōnere（置く）からなる。英語の impose も同じラテン語の動詞にさかのぼる。"
+    },
+    "equivalents": {
+      "de": "Hochstapler / Hochstaplerin",
+      "it": "impostore / impostora",
+      "fr": "imposteur / impostrice",
+      "es": "impostor / impostora"
+    },
+    "collocations": {
+      "en": [
+        "turn out to be an imposter",
+        "expose someone as an imposter",
+        "an imposter posing as a police officer",
+        "feel like an imposter",
+        "impostor syndrome"
+      ],
+      "ja": [
+        "turn out to be an imposter — 偽者だと判明する",
+        "expose someone as an imposter — 人が偽者だと暴く",
+        "an imposter posing as a police officer — 警察官を装う偽者",
+        "feel like an imposter — 自分はその立場にふさわしくないと感じる",
+        "impostor syndrome — インポスター症候群"
+      ]
+    },
+    "example": {
+      "en": [
+        "The man claiming to be an inspector turned out to be an imposter.",
+        "Even after winning the award, she sometimes felt like an imposter.",
+        "He spoke about how impostor syndrome made it hard for him to take credit for his own work."
+      ],
+      "ja": [
+        "The man claiming to be an inspector turned out to be an imposter. — 検査官を名乗っていた男は偽者だと分かった。",
+        "Even after winning the award, she sometimes felt like an imposter. — 賞を取った後も、彼女は自分がその評価にふさわしくないと感じることがあった。",
+        "He spoke about how impostor syndrome made it hard for him to take credit for his own work. — 彼は、インポスター症候群のせいで、自分の仕事の成果を自分の手柄として受け止めにくかったと語った。"
+      ]
+    }
   }
 ]
