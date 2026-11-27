@@ -18450,5 +18450,133 @@
         "Rent accounts for the lion’s share of our monthly expenses. — 毎月の支出の大半は家賃だ。"
       ]
     }
+  },
+  {
+    "id": "gather",
+    "sid": "2026-02084",
+    "word": "gather",
+    "level": "B1",
+    "freq": "common",
+    "tags": [
+      "verb",
+      "movement",
+      "communication"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive or intransitive",
+      "forms": {
+        "base": "gather",
+        "thirdPerson": "gathers",
+        "past": "gathered",
+        "pastParticiple": "gathered",
+        "presentParticiple": "gathering"
+      },
+      "patterns": [
+        "gather + people / information / belongings",
+        "gather around + person / thing",
+        "gather in / at + place",
+        "gather (that) + clause",
+        "from what I gather",
+        "gather up + belongings"
+      ],
+      "usage": {
+        "inference": "In I gather you’re presenting on Friday, that is optional. The speaker is drawing on something heard, read, or observed and may be inviting confirmation."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈɡæð.ɚ/",
+        "uk": "/ˈɡæð.ə/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to bring people or things together, or obtain information from several sources",
+        "to come together in one place or build up over time",
+        "to understand or conclude something from what one has heard, read, or observed"
+      ],
+      "ja": [
+        "（人や物を）集める、（情報や証拠を）収集する",
+        "（人などが）集まる、（雲などが）集まってくる、（勢いなどが）増す",
+        "聞いたことや手がかりから〜だと理解する、〜らしいと察する"
+      ]
+    },
+    "nuance": {
+      "en": "Gather can describe people coming together or someone bringing them together. Gather information often suggests drawing on several sources. In conversation, I gather… signals that your understanding comes from what you have heard or noticed. It can soften a statement by leaving room for the listener to confirm it.",
+      "ja": "人が自分たちで集まる場合にも、誰かが人を集める場合にも使う。gather information は複数の情報源から情報を集める場面にもよく合う。会話の I gather … は「聞いたところでは〜」「どうやら〜のようですね」に近く、自分の理解を示しながら相手に確認する余地を残す。"
+    },
+    "minimal": {
+      "en": [
+        "collect: Common for deliberately acquiring items or data, sometimes as a series or over time. Gather also works for people coming together on their own.",
+        "assemble: Often suggests bringing people together for a purpose or fitting parts together to make something.",
+        "infer: More formal and puts emphasis on reasoning from evidence. I gather… is conversational and can also report what you understand from what others have said."
+      ],
+      "ja": [
+        "collect：物やデータを意識的に集めるときによく使い、継続的な収集にも合う。gather は人が自分たちで集まる場合にも使える。",
+        "assemble：目的があって人員を集める、または部品を組み立てるという意味でよく使う。",
+        "infer：より改まった語で、証拠に基づく推論を強調する。I gather … は会話で使いやすく、人から聞いたことに基づく理解も表せる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "bring together",
+        "note": {
+          "en": "Close when someone brings people or things into one place.",
+          "ja": "人や物を一か所に集める場合の言い換え。"
+        }
+      },
+      {
+        "word": "understand",
+        "note": {
+          "en": "Close in I understand that… when stating what you have heard or learned.",
+          "ja": "聞いた内容を I understand that … で述べる場合に近い。"
+        }
+      }
+    ],
+    "equivalents": {
+      "de": "sammeln / sich versammeln / entnehmen",
+      "it": "raccogliere / riunirsi / dedurre",
+      "fr": "rassembler / se réunir / comprendre",
+      "es": "reunir / reunirse / deducir"
+    },
+    "collocations": {
+      "en": [
+        "gather information",
+        "gather evidence",
+        "gather feedback",
+        "gather around the table",
+        "a crowd gathered",
+        "gather up your belongings",
+        "gather momentum",
+        "gather your thoughts",
+        "from what I gather"
+      ],
+      "ja": [
+        "gather information — 情報を集める",
+        "gather evidence — 証拠を集める",
+        "gather feedback — 意見・感想を集める",
+        "gather around the table — テーブルを囲む",
+        "a crowd gathered — 人だかりができた",
+        "gather up your belongings — 持ち物をかき集める、まとめる",
+        "gather momentum — 勢いを増す",
+        "gather your thoughts — 考えを整理する",
+        "from what I gather — 私が聞いた限りでは、どうやら"
+      ]
+    },
+    "example": {
+      "en": [
+        "We’re gathering evidence of how the trademark is used in practice.",
+        "A small crowd gathered outside the station to listen to the musicians.",
+        "I gather you’ve already spoken to the client. How did it go?",
+        "Give me a minute to gather my thoughts before I answer."
+      ],
+      "ja": [
+        "We’re gathering evidence of how the trademark is used in practice. — その商標が実際にどのように使われているかを示す証拠を集めています。",
+        "A small crowd gathered outside the station to listen to the musicians. — 駅の外では、演奏を聴こうと人が少し集まった。",
+        "I gather you’ve already spoken to the client. How did it go? — もう依頼人とはお話しになったようですね。どうでしたか？",
+        "Give me a minute to gather my thoughts before I answer. — 答える前に、ちょっと考えを整理させてください。"
+      ]
+    }
   }
 ]
