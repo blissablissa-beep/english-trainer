@@ -14349,5 +14349,131 @@
         "She worked in advertising before joining the museum. — 彼女はその博物館に勤める前は、広告業界で働いていた。"
       ]
     }
+  },
+  {
+    "id": "advertisement",
+    "sid": "2026-02050",
+    "word": "advertisement",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "marketing",
+      "media",
+      "daily life"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable",
+      "forms": {
+        "base": "advertisement",
+        "plural": "advertisements"
+      },
+      "patterns": [
+        "an advertisement for + product / service / job",
+        "place / run an advertisement",
+        "see an advertisement in + publication",
+        "an advertisement on + website / TV"
+      ],
+      "usage": {
+        "countability": "Use an advertisement for one item and advertisements for several. Use advertising without an article for the activity as a whole.",
+        "shortForms": "Ad is common in both American and British English. Advert is another short form, used chiefly in British English.",
+        "pronunciation": "In the common US pronunciation, the main stress is on /taɪz/. In the common UK pronunciation, it is on /vɜː/, followed by /tɪs/."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌæd.vɚˈtaɪz.mənt/",
+        "uk": "/ədˈvɜː.tɪs.mənt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "a specific public message designed to promote a product, service, or event, or to announce something such as a job opening",
+        "something that shows the merits of a person, place, or idea, often in the phrase a good advertisement for"
+      ],
+      "ja": [
+        "商品・サービス・イベントを宣伝したり、求人などを告知したりする個々の広告",
+        "人や場所、考え方などの良さを示すもの。a good advertisement for の形などで使う比喩的な用法"
+      ]
+    },
+    "nuance": {
+      "en": "An advertisement can be a printed notice, an online banner, a recruitment listing, or a TV spot. Place an advertisement focuses on arranging for it to appear, while run an advertisement focuses on publishing or broadcasting it.",
+      "ja": "紙面の告知、ウェブのバナー、求人広告、テレビCMなど媒体を問わず使える。place an advertisement は広告の掲載を手配すること、run an advertisement は実際に掲載・放送することに重心がある。"
+    },
+    "minimal": {
+      "en": [
+        "advertising: The activity, industry, or body of ads collectively. Advertisement is countable and refers to an individual ad.",
+        "commercial: A countable noun commonly used for a TV or radio ad. Advertisement covers print, online, and other formats as well.",
+        "promotion: Can refer to a sales campaign or special offer. An advertisement may announce that promotion."
+      ],
+      "ja": [
+        "advertising：広告活動・業界・広告全体を指す不可算名詞。advertisement は個々の広告を指す可算名詞。",
+        "commercial：テレビやラジオのCMを指すことが多い可算名詞。advertisement は紙面やウェブなどの広告にも使える。",
+        "promotion：販促キャンペーンや特典のこと。そのキャンペーンを知らせる個々の広告が advertisement にあたる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "ad",
+        "note": {
+          "en": "The usual short form for an individual advertisement.",
+          "ja": "個々の広告を指す一般的な短縮形。"
+        }
+      },
+      {
+        "word": "advert",
+        "note": {
+          "en": "A short form used chiefly in British English.",
+          "ja": "主にイギリス英語で使う短縮形。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French avertissement, a notice or warning, from avertir ‘to make aware’. The verb ultimately goes back to Latin advertere ‘to turn toward, direct attention to’. In early English, advertisement meant a notice calling attention to something. The sense of a notice placed in a publication developed later.",
+      "ja": "告知や警告を表す古フランス語 avertissement に由来し、その動詞 avertir は「知らせる」の意。さらにラテン語 advertere（方を向く、注意を向ける）にさかのぼる。初期の英語では人の注意を引く告知を指し、のちに新聞などに掲載する広告の意味が発達した。"
+    },
+    "equivalents": {
+      "de": "Anzeige / Werbeanzeige",
+      "it": "annuncio pubblicitario / annuncio di lavoro (job ad)",
+      "fr": "publicité / annonce",
+      "es": "anuncio / anuncio publicitario"
+    },
+    "collocations": {
+      "en": [
+        "an advertisement for a new product",
+        "a job advertisement",
+        "a classified advertisement",
+        "a full-page advertisement",
+        "place an advertisement",
+        "run an advertisement on TV",
+        "a misleading advertisement",
+        "a good advertisement for the city"
+      ],
+      "ja": [
+        "an advertisement for a new product — 新商品の広告",
+        "a job advertisement — 求人広告",
+        "a classified advertisement — 分類広告、三行広告",
+        "a full-page advertisement — 全面広告",
+        "place an advertisement — 広告の掲載を手配する",
+        "run an advertisement on TV — テレビで広告を流す",
+        "a misleading advertisement — 誤解を招く広告",
+        "a good advertisement for the city — その街の魅力をよく伝えるもの"
+      ]
+    },
+    "example": {
+      "en": [
+        "I saw an advertisement for a patent attorney position on the firm’s website.",
+        "The company ran a full-page advertisement to announce the launch.",
+        "The advertisement was part of a larger advertising campaign.",
+        "The restored market hall is a good advertisement for the city’s approach to preserving old buildings."
+      ],
+      "ja": [
+        "I saw an advertisement for a patent attorney position on the firm’s website. — その事務所のウェブサイトで弁理士の求人広告を見た。",
+        "The company ran a full-page advertisement to announce the launch. — その会社は発売を知らせるために全面広告を出した。",
+        "The advertisement was part of a larger advertising campaign. — その広告は、より大きな広告キャンペーンの一環だった。",
+        "The restored market hall is a good advertisement for the city’s approach to preserving old buildings. — 修復された市場の建物は、古い建物を保存するというその街の取り組みの良さをよく伝えている。"
+      ]
+    }
   }
 ]
