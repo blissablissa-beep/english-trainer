@@ -8656,5 +8656,122 @@
         "The detective deduced where the letter had been sent from by examining the postmark. — 探偵は消印を調べて、手紙がどこから送られたのかを割り出した。"
       ]
     }
+  },
+  {
+    "id": "infer",
+    "sid": "2026-02086",
+    "word": "infer",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "reasoning",
+      "reading"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "usually transitive",
+      "forms": {
+        "base": "infer",
+        "thirdPerson": "infers",
+        "past": "inferred",
+        "pastParticiple": "inferred",
+        "presentParticiple": "inferring"
+      },
+      "patterns": [
+        "infer + conclusion + from + evidence",
+        "infer (that) + clause",
+        "infer from + evidence + that + clause",
+        "What can we infer from + noun?"
+      ],
+      "usage": {
+        "roles": "In We inferred from her tone that she was unhappy, we is the person or group drawing the conclusion, her tone is the clue, and the that-clause states the conclusion.",
+        "spelling": "Double the final r in inferred and inferring."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪnˈfɝː/",
+        "uk": "/ɪnˈfɜː/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to reach a conclusion from evidence, context, or indirect clues"
+      ],
+      "ja": [
+        "証拠や文脈、間接的な手がかりをもとに結論を出す、推論する、読み取る"
+      ]
+    },
+    "nuance": {
+      "en": "Infer covers both deliberate reasoning from evidence and reading between the lines in ordinary conversation. You can infer something from a person’s tone or silence, or from a pattern in data. The conclusion may be plausible without being certain.",
+      "ja": "証拠を検討して結論を出す場合にも、会話で言外の意味を読み取る場合にも使える。口調や沈黙、データの傾向などが手がかりになる。根拠のある推論でも、結論の確かさは手がかりの強さによる。"
+    },
+    "minimal": {
+      "en": [
+        "imply: A speaker or their words can imply a meaning. The listener infers that meaning from what was said.",
+        "deduce: Often brings the reasoning from clues to a conclusion into focus. Infer covers that kind of reasoning and also works for picking up on a subtle hint.",
+        "assume: Take something as true or use it as a starting point. Infer presents it as a conclusion drawn from clues or evidence."
+      ],
+      "ja": [
+        "imply：話し手やその発言が、ある意味をほのめかす。聞き手はその発言から意味を infer（読み取る）する。",
+        "deduce：手がかりから結論に至る筋道を強調しやすい。infer はその種の推論にも、さりげないほのめかしを読み取る場合にも使える。",
+        "assume：あることを真とみなす、前提に置く。infer は、手がかりや証拠から導いた結論として述べる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "draw a conclusion",
+        "note": {
+          "en": "A close paraphrase, especially when the evidence or basis is stated.",
+          "ja": "結論を導くという言い換え。特に根拠も示すときに近い。"
+        }
+      },
+      {
+        "word": "read between the lines",
+        "note": {
+          "en": "Close when interpreting something that a writer or speaker has left unstated.",
+          "ja": "発言や文章に明示されていない含みを読み取る場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin inferre ‘bring in or bring upon’, built from in- and ferre ‘carry, bear’. The related noun is inference.",
+      "ja": "ラテン語 inferre（持ち込む、もたらす）に由来し、in- と ferre（運ぶ）からなる。対応する名詞は inference（推論、推論で導かれた結論）。"
+    },
+    "equivalents": {
+      "de": "aus etwas schließen / folgern",
+      "it": "inferire / dedurre",
+      "fr": "inférer / déduire",
+      "es": "inferir / deducir"
+    },
+    "collocations": {
+      "en": [
+        "infer meaning from context",
+        "infer intent from someone’s actions",
+        "infer from the available evidence",
+        "reasonably infer that …",
+        "it can be inferred that …"
+      ],
+      "ja": [
+        "infer meaning from context — 文脈から意味を読み取る",
+        "infer intent from someone’s actions — 人の行動から意図を推測する",
+        "infer from the available evidence — 入手できる証拠から推論する",
+        "reasonably infer that … — 〜と推論するのに無理はない",
+        "it can be inferred that … — 〜と推論できる"
+      ]
+    },
+    "example": {
+      "en": [
+        "She implied that the deadline might move. I inferred from her wording that the new date wasn’t final yet.",
+        "From the applicant’s reply, we can infer that the objection concerns the wording of the claim.",
+        "You can’t infer from one quiet evening that the restaurant is always empty."
+      ],
+      "ja": [
+        "She implied that the deadline might move. I inferred from her wording that the new date wasn’t final yet. — 彼女は締切が変わるかもしれないとほのめかした。私はその言い方から、新しい日程はまだ確定していないと読み取った。",
+        "From the applicant’s reply, we can infer that the objection concerns the wording of the claim. — 出願人の回答から、その指摘は請求項の文言に関するものだと推論できる。",
+        "You can’t infer from one quiet evening that the restaurant is always empty. — ある晩に客が少なかっただけで、その店はいつも空いているとは推論できない。"
+      ]
+    }
   }
 ]
