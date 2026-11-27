@@ -14223,5 +14223,131 @@
         "The club won promotion to the top division on the final day of the season. — そのクラブはシーズン最終日に、最上位リーグへの昇格を決めた。"
       ]
     }
+  },
+  {
+    "id": "advertising",
+    "sid": "2026-02049",
+    "word": "advertising",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "marketing",
+      "business",
+      "media"
+    ],
+    "grammar": {
+      "pos": "noun / -ing form of advertise",
+      "countability": "uncountable as a noun",
+      "forms": {
+        "base": "advertising"
+      },
+      "patterns": [
+        "advertising + campaign / budget / revenue",
+        "advertising for + product",
+        "spend + money + on advertising",
+        "work in advertising"
+      ],
+      "usage": {
+        "countability": "Use advertising for the activity or industry. For one item, say an ad or an advertisement. For an organized set of ads, say an advertising campaign.",
+        "verbForm": "In They are advertising a new service, advertising is the -ing form of the verb advertise."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈæd.vɚ.taɪ.zɪŋ/",
+        "uk": "/ˈæd.və.taɪ.zɪŋ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the activity of using ads to publicize a product, service, event, or message",
+        "the business or profession of creating, placing, or selling ads",
+        "advertisements collectively, especially as material appearing in a particular medium"
+      ],
+      "ja": [
+        "商品・サービス・イベント・メッセージなどを広告で知らせる活動、宣伝、広告活動",
+        "広告を制作したり掲載したり、広告枠を売ったりする業界・仕事",
+        "ある媒体などに掲載される広告全体"
+      ]
+    },
+    "nuance": {
+      "en": "Advertising often refers to paid placements such as online ads, billboards, or sponsored spots. Its purpose can include raising awareness as well as driving sales. In The magazine is full of advertising, it refers to the ads collectively.",
+      "ja": "オンライン広告や屋外看板など、費用を払って掲載する広告を指すことが多い。販売につなげるほか、認知度を上げたり、公共のメッセージを知らせたりする目的もある。The magazine is full of advertising. では、誌面に載っている広告全体を指す。"
+    },
+    "minimal": {
+      "en": [
+        "advertisement / ad: One particular piece of advertising. Ad is the everyday short form.",
+        "promotion: A broader term for activities that build awareness or encourage sales, including advertising, discounts, and giveaways. A promotion can be a specific offer.",
+        "publicity: Public attention or media coverage, including attention generated without buying ad space."
+      ],
+      "ja": [
+        "advertisement / ad：個々の広告を指す可算名詞。ad は日常的な短縮形。",
+        "promotion：認知や販売を促す活動を広く指し、広告のほか値引きやプレゼントなども含む。a promotion は個別の販促企画や特典を指せる。",
+        "publicity：世間の注目やメディアでの露出。広告枠を買わず、報道などで得られる注目にも使う。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "advertisement",
+        "note": {
+          "en": "The countable counterpart when referring to individual ads.",
+          "ja": "個々の広告を指すときの可算名詞。"
+        }
+      },
+      {
+        "word": "advertising industry",
+        "note": {
+          "en": "Makes the industry sense explicit, as in She works in the advertising industry.",
+          "ja": "広告業界という意味を明示した表現。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The -ing form of advertise, which came through Old French from Latin advertere ‘to turn toward, direct attention to’. Its commercial sense of drawing attention to goods for sale was established by the late eighteenth century.",
+      "ja": "動詞 advertise の -ing 形。advertise は古フランス語を経て、ラテン語 advertere（方を向く、注意を向ける）にさかのぼる。18世紀後半には、売り物に人々の注意を向けるという商業的な意味が現れている。"
+    },
+    "equivalents": {
+      "de": "Werbung / Werbebranche",
+      "it": "pubblicità / settore pubblicitario",
+      "fr": "publicité / secteur de la publicité",
+      "es": "publicidad / sector publicitario"
+    },
+    "collocations": {
+      "en": [
+        "online advertising",
+        "targeted advertising",
+        "an advertising campaign",
+        "an advertising agency",
+        "an advertising budget",
+        "advertising revenue",
+        "advertising space",
+        "work in advertising"
+      ],
+      "ja": [
+        "online advertising — オンライン広告",
+        "targeted advertising — ターゲティング広告",
+        "an advertising campaign — 広告キャンペーン",
+        "an advertising agency — 広告代理店",
+        "an advertising budget — 広告予算",
+        "advertising revenue — 広告収入",
+        "advertising space — 広告枠",
+        "work in advertising — 広告業界で働く"
+      ]
+    },
+    "example": {
+      "en": [
+        "We spent more on advertising this year, but sales barely increased.",
+        "I saw an ad for the service yesterday. It’s part of a nationwide advertising campaign.",
+        "The website earns most of its revenue from advertising.",
+        "She worked in advertising before joining the museum."
+      ],
+      "ja": [
+        "We spent more on advertising this year, but sales barely increased. — 今年は広告費を増やしたが、売上はほとんど伸びなかった。",
+        "I saw an ad for the service yesterday. It’s part of a nationwide advertising campaign. — 昨日そのサービスの広告を一つ見た。全国規模の広告キャンペーンの一環だ。",
+        "The website earns most of its revenue from advertising. — そのウェブサイトは、収益の大半を広告から得ている。",
+        "She worked in advertising before joining the museum. — 彼女はその博物館に勤める前は、広告業界で働いていた。"
+      ]
+    }
   }
 ]
