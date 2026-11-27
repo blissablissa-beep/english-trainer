@@ -15829,5 +15829,123 @@
         "Her duties include reviewing contracts and training new staff. — 彼女の業務には、契約書の確認や新人研修が含まれる。"
       ]
     }
+  },
+  {
+    "id": "inclusion",
+    "sid": "2026-02062",
+    "word": "inclusion",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "work",
+      "education",
+      "research"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "usually uncountable for the act, state, or practice; countable for an included item or a material inclusion",
+      "forms": {
+        "base": "inclusion",
+        "plural": "inclusions"
+      },
+      "patterns": [
+        "the inclusion of A in B",
+        "consider A for inclusion in B",
+        "qualify for inclusion",
+        "inclusion criteria",
+        "an inclusion in + material"
+      ],
+      "usage": {
+        "prepositions": "Of introduces what is included; in introduces the larger whole. For introduces the purpose in consider something for inclusion."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪnˈkluː.ʒən/",
+        "uk": "/ɪnˈkluː.ʒən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the act of making someone or something part of a group, study, text, or other whole, or the state of being part of it",
+        "the practice of ensuring that people with different backgrounds, abilities, or needs can take part and are treated as members of a group",
+        "an item that is included; in materials or mineralogy, a piece or pocket of material enclosed in another material"
+      ],
+      "ja": [
+        "人や物を集団・研究・文書などの一部に含めること、または含まれていること",
+        "さまざまな背景・能力・ニーズを持つ人が、集団の一員として参加できるようにすること、包摂",
+        "含まれた個々の項目。材料・鉱物の文脈では、別の物質の中に閉じ込められた物質、内包物・包有物"
+      ]
+    },
+    "nuance": {
+      "en": "Inclusion in a report is about what made it into the report. In research, inclusion criteria define who or what is eligible to be included. In a workplace or classroom, inclusion focuses on whether people can participate and feel that they belong.",
+      "ja": "inclusion in a report は、何が報告書に盛り込まれたかに関わる。研究での inclusion criteria は、誰や何を対象に加えられるかを定める基準。職場や教育での inclusion は、人々が実際に参加でき、そこに居場所があると感じられるかに焦点がある。"
+    },
+    "minimal": {
+      "en": [
+        "diversity: The presence of people with different backgrounds or characteristics. Inclusion concerns how those people can take part and belong.",
+        "accessibility: Focuses on whether people can access or use something. Inclusion also concerns participation and belonging once access is available.",
+        "integration: Emphasizes bringing people or parts into a larger group or system. Inclusion often emphasizes enabling participation within that group."
+      ],
+      "ja": [
+        "diversity：さまざまな背景や特性を持つ人がいること。inclusion は、その人たちが参加し、集団の一員として受け入れられるかに焦点がある。",
+        "accessibility：利用やアクセスができるかに着目する。inclusion は、利用できるようになった後の参加や、居場所があると感じられることにも関わる。",
+        "integration：人や物を、より大きな集団や仕組みの中に組み入れることに重点がある。inclusion は、その中で参加できるようにすることを強調しやすい。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "incorporation",
+        "note": {
+          "en": "Close for adding material to a document, plan, or system.",
+          "ja": "文書・計画・仕組みに何かを組み込む場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Belongs to the same word family as include and inclusive. The stem inclus- goes back to the past participle of Latin includere ‘to shut in, enclose’; -ion marks the action or result.",
+      "ja": "include、inclusive と同じ語族。語幹 inclus- はラテン語 includere（中に閉じ込める、囲い込む）の過去分詞にさかのぼる。-ion は行為や結果を表す名詞の接尾辞。"
+    },
+    "equivalents": {
+      "de": "Aufnahme / Einbeziehung / Inklusion / Einschluss",
+      "it": "inclusione / inserimento",
+      "fr": "inclusion / intégration",
+      "es": "inclusión / incorporación"
+    },
+    "collocations": {
+      "en": [
+        "the inclusion of additional data",
+        "be considered for inclusion in the report",
+        "inclusion criteria",
+        "inclusion and exclusion criteria",
+        "social inclusion",
+        "promote inclusion in the workplace",
+        "an inclusion in a diamond"
+      ],
+      "ja": [
+        "the inclusion of additional data — 追加データを含めること",
+        "be considered for inclusion in the report — 報告書への掲載候補となる",
+        "inclusion criteria — 組入れ基準、採択基準",
+        "inclusion and exclusion criteria — 組入れ基準と除外基準",
+        "social inclusion — 社会的包摂",
+        "promote inclusion in the workplace — 職場で誰もが参加しやすくなるよう取り組む",
+        "an inclusion in a diamond — ダイヤモンドの内包物"
+      ]
+    },
+    "example": {
+      "en": [
+        "The review team considered the new study for inclusion in the report.",
+        "Only studies that met the inclusion criteria were analyzed.",
+        "To promote inclusion, the organizers offered captions and let people ask questions in writing.",
+        "The jeweler pointed out a small inclusion inside the diamond."
+      ],
+      "ja": [
+        "The review team considered the new study for inclusion in the report. — レビュー担当チームは、その新しい研究を報告書に含めるか検討した。",
+        "Only studies that met the inclusion criteria were analyzed. — 組入れ基準を満たした研究だけを分析した。",
+        "To promote inclusion, the organizers offered captions and let people ask questions in writing. — 誰もが参加しやすいよう、主催者は字幕を用意し、書面でも質問できるようにした。",
+        "The jeweler pointed out a small inclusion inside the diamond. — 宝飾店の店員は、ダイヤモンドの中に小さな内包物があることを示した。"
+      ]
+    }
   }
 ]
