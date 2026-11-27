@@ -17370,5 +17370,111 @@
         "I’m heading out to grab lunch. Do you want anything? — お昼を買いに出るけど、何かいる？"
       ]
     }
+  },
+  {
+    "id": "slip-ones-mind",
+    "sid": "2026-02075",
+    "word": "slip one’s mind",
+    "level": "B2",
+    "freq": "common",
+    "tags": [
+      "idiom",
+      "memory",
+      "conversation"
+    ],
+    "grammar": {
+      "pos": "idiom",
+      "forms": {
+        "base": "slip one’s mind",
+        "thirdPerson": "slips one’s mind",
+        "past": "slipped one’s mind",
+        "pastParticiple": "slipped one’s mind",
+        "presentParticiple": "slipping one’s mind"
+      },
+      "patterns": [
+        "It slipped my mind.",
+        "something slips someone’s mind",
+        "It slipped my mind that + clause",
+        "I meant to + verb, but it slipped my mind."
+      ],
+      "usage": {
+        "wordOrder": "The thing forgotten is the subject, or use it to refer to the forgotten task or fact. The person is expressed by a possessive such as my, your, or her."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/slɪp wʌnz maɪnd/",
+        "uk": "/slɪp wʌnz maɪnd/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to be forgotten unintentionally, especially when someone fails to remember something at the time it matters"
+      ],
+      "ja": [
+        "（予定・用件・事実などが）うっかり頭から抜ける、つい忘れる"
+      ]
+    },
+    "nuance": {
+      "en": "Often used when explaining why you missed a task, forgot a detail, or failed to bring something up. It just slipped my mind presents the lapse as accidental. Add completely to emphasise that you forgot about it altogether.",
+      "ja": "用事をしそびれたり、細かいことを忘れたり、伝えるべきことを言いそびれたりした場面でよく使う。It just slipped my mind. は「ついうっかり忘れていたんだ」という言い方。completely を添えると「すっかり頭から抜けていた」となる。"
+    },
+    "minimal": {
+      "en": [
+        "forget: A broad verb with the person as subject. I forgot to send it and It slipped my mind can describe the same lapse.",
+        "draw a blank: Fail to think of an answer or recall something when trying to remember it.",
+        "slip away: Move away quietly, or gradually disappear, as in time slipping away."
+      ],
+      "ja": [
+        "forget：人を主語にして幅広く使える。I forgot to send it. と It slipped my mind. は同じ失念を表せる。",
+        "draw a blank：思い出そう、答えようとしても何も浮かばない。",
+        "slip away：そっと立ち去る、または時間などがいつの間にか過ぎ去る。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "forget",
+        "note": {
+          "en": "A close equivalent with the person who forgot as the subject.",
+          "ja": "忘れた人を主語にする言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "A figurative use of slip, picturing a thought or task as something that slips away from the mind.",
+      "ja": "slip（滑り落ちる・するりと抜ける）を比喩的に使い、考えや用件が頭から抜ける様子を表す。"
+    },
+    "equivalents": {
+      "de": "jemandem entfallen / jemandem durchrutschen",
+      "it": "passare di mente a qualcuno / sfuggire di mente a qualcuno",
+      "fr": "échapper à quelqu’un / sortir de la tête de quelqu’un",
+      "es": "irse a alguien de la cabeza / olvidársele algo a alguien"
+    },
+    "collocations": {
+      "en": [
+        "It just slipped my mind.",
+        "It completely slipped my mind.",
+        "It must have slipped my mind.",
+        "before it slips my mind"
+      ],
+      "ja": [
+        "It just slipped my mind. — ついうっかり忘れていた。",
+        "It completely slipped my mind. — すっかり頭から抜けていた。",
+        "It must have slipped my mind. — うっかり忘れていたんだと思う。",
+        "before it slips my mind — 忘れないうちに"
+      ]
+    },
+    "example": {
+      "en": [
+        "Sorry I didn’t send you the draft yesterday. It completely slipped my mind.",
+        "It slipped my mind that the meeting had been moved to Friday.",
+        "Before it slips my mind, could you send me the updated figures?"
+      ],
+      "ja": [
+        "Sorry I didn’t send you the draft yesterday. It completely slipped my mind. — 昨日、原稿を送らなくてごめん。すっかり頭から抜けていた。",
+        "It slipped my mind that the meeting had been moved to Friday. — 会議が金曜日に変更になったことをうっかり忘れていた。",
+        "Before it slips my mind, could you send me the updated figures? — 忘れないうちに聞いておきたいんだけど、更新後の数字を送ってくれる？"
+      ]
+    }
   }
 ]
