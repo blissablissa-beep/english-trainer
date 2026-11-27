@@ -15455,5 +15455,129 @@
         "The newspaper ran an exclusive on the negotiations. — その新聞は交渉についての独占記事を掲載した。"
       ]
     }
+  },
+  {
+    "id": "inclusive",
+    "sid": "2026-02059",
+    "word": "inclusive",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "work",
+      "accessibility",
+      "pricing"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "inclusive",
+        "comparative": "more inclusive",
+        "superlative": "most inclusive"
+      },
+      "patterns": [
+        "inclusive of + tax / fees",
+        "from A to B inclusive",
+        "an inclusive + workplace / environment",
+        "inclusive design"
+      ],
+      "usage": {
+        "placement": "Inclusive usually comes before a noun or after be. After a range, inclusive means both endpoints are included: pages 5 to 10 inclusive includes pages 5 and 10. Use more inclusive for a practice that welcomes or accommodates a wider range of people."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪnˈkluː.sɪv/",
+        "uk": "/ɪnˈkluː.sɪv/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "including a stated item, charge, or service in the total",
+        "including both named limits of a range",
+        "welcoming and accommodating people with different backgrounds, abilities, or needs so that they can participate"
+      ],
+      "ja": [
+        "明示した項目・費用・サービスを合計に含む、込みの",
+        "明示した範囲の両端を含む",
+        "さまざまな背景・能力・ニーズを持つ人を受け入れ、参加しやすくする、包摂的な"
+      ]
+    },
+    "nuance": {
+      "en": "In pricing, inclusive of VAT tells you exactly which charge the price includes. After a date or number range, inclusive removes doubt about the endpoints. An inclusive workplace aims to give people with different needs and backgrounds a real chance to participate.",
+      "ja": "料金表示の inclusive of VAT は、提示額に付加価値税が含まれることを示す。日付や番号の範囲の後ろに置くと、両端も対象だと明示できる。inclusive workplace は、多様な背景やニーズのある人が実際に参加し、力を発揮しやすい職場を指す。"
+    },
+    "minimal": {
+      "en": [
+        "exclusive: Exclusive of tax leaves tax out of the total. Inclusive of tax counts it in.",
+        "all-inclusive: Usually suggests a package price covering multiple goods or services, often in travel. Inclusive of names the particular items included.",
+        "diverse: Describes the presence of people from different backgrounds or with different characteristics. Inclusive describes how well they are welcomed and able to participate.",
+        "accessible: Focuses on whether people can access or use something. Inclusive can also concern participation and a sense of belonging."
+      ],
+      "ja": [
+        "exclusive：exclusive of tax は税抜き、inclusive of tax は税込みを表す。",
+        "all-inclusive：旅行などで、複数のサービスや費用をまとめて含む料金プランを表しやすい。inclusive of は何が含まれるかを具体的に示す。",
+        "diverse：さまざまな背景や特性を持つ人がいること。inclusive は、その人たちが受け入れられ、参加しやすいかに焦点がある。",
+        "accessible：人が利用できるか、アクセスできるかに焦点がある。inclusive は参加のしやすさや、受け入れられていると感じられることにも関わる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "including",
+        "note": {
+          "en": "A direct alternative to inclusive of, as in including VAT.",
+          "ja": "including VAT のように、inclusive of の直接的な言い換えになる。"
+        }
+      },
+      {
+        "word": "welcoming",
+        "note": {
+          "en": "Close when describing a setting that actively makes different people feel welcome.",
+          "ja": "さまざまな人が歓迎されていると感じられる環境を表す場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Medieval Latin inclusivus, built on the past-participle stem of includere ‘to shut in, enclose’. Includere combines in- ‘in’ with claudere ‘to close’, the same Latin verb underlying exclusive. Early English used inclusive for ranges that included their stated limits.",
+      "ja": "中世ラテン語 inclusivus に由来し、もとはラテン語 includere（中に閉じ込める、囲い込む）の過去分詞の語幹。in-（中に）と claudere（閉じる）からなり、claudere は exclusive と共通する。初期の英語では、明示した範囲の両端を含める用法があった。"
+    },
+    "equivalents": {
+      "de": "inklusiv / einschließlich / inklusiv gestaltet",
+      "it": "inclusivo / incluso / compreso",
+      "fr": "inclusif / compris / inclus",
+      "es": "inclusivo / incluido / inclusive"
+    },
+    "collocations": {
+      "en": [
+        "inclusive of VAT",
+        "inclusive of all fees",
+        "Monday to Friday inclusive",
+        "an inclusive workplace",
+        "an inclusive learning environment",
+        "inclusive design",
+        "inclusive language"
+      ],
+      "ja": [
+        "inclusive of VAT — 付加価値税込みの",
+        "inclusive of all fees — すべての手数料込みの",
+        "Monday to Friday inclusive — 月曜から金曜まで、両日を含む",
+        "an inclusive workplace — 誰もが参加しやすい職場",
+        "an inclusive learning environment — さまざまな学習者が参加しやすい環境",
+        "inclusive design — 多様な人が使えるようにする設計",
+        "inclusive language — 特定の人を排除しない、配慮のある言葉遣い"
+      ]
+    },
+    "example": {
+      "en": [
+        "The quoted price is inclusive of VAT and delivery charges.",
+        "The office will be closed from 24 to 26 December inclusive.",
+        "To make meetings more inclusive, we send out the agenda in advance and let people contribute in writing."
+      ],
+      "ja": [
+        "The quoted price is inclusive of VAT and delivery charges. — 提示価格には付加価値税と配送料が含まれています。",
+        "The office will be closed from 24 to 26 December inclusive. — 事務所は12月24日から26日まで、両日を含めて休業します。",
+        "To make meetings more inclusive, we send out the agenda in advance and let people contribute in writing. — 誰もが会議に参加しやすいよう、議題を事前に送り、文章でも意見を出せるようにしています。"
+      ]
+    }
   }
 ]
