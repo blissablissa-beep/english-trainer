@@ -17249,5 +17249,126 @@
         "The building looks particularly impressive at night, when the entire façade is lit up. — 夜に建物の正面全体がライトアップされると、とりわけ壮観だ。"
       ]
     }
+  },
+  {
+    "id": "head-out",
+    "sid": "2026-02074",
+    "word": "head out",
+    "level": "B1",
+    "freq": "common",
+    "tags": [
+      "phrasal verb",
+      "travel",
+      "conversation"
+    ],
+    "grammar": {
+      "pos": "phrasal verb",
+      "transitivity": "intransitive",
+      "forms": {
+        "base": "head out",
+        "thirdPerson": "heads out",
+        "past": "headed out",
+        "pastParticiple": "headed out",
+        "presentParticiple": "heading out"
+      },
+      "patterns": [
+        "head out",
+        "head out of + place",
+        "head out to + destination",
+        "head out for + destination / activity",
+        "head out to + verb"
+      ],
+      "usage": {
+        "destination": "In head out to the airport, to introduces the destination. In head out to grab lunch, to introduces the purpose."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/hed aʊt/",
+        "uk": "/hed aʊt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to leave the place where you are, often to go somewhere or do something elsewhere"
+      ],
+      "ja": [
+        "今いる場所を出る、出かける、出発する。帰り際にも使う。"
+      ]
+    },
+    "nuance": {
+      "en": "A conversational expression that focuses on the moment of leaving. I’m heading out can be a casual way to say goodbye when leaving work, a party, or someone’s home. The destination is optional and may be home or somewhere else.",
+      "ja": "その場を離れるところに焦点を当てた、会話でよく使う表現。職場や集まりで I’m heading out. と言えば「じゃあ、そろそろ帰るね」「お先に失礼します」などに当たる。行き先は文脈で分かれば省略できる。"
+    },
+    "minimal": {
+      "en": [
+        "leave: A general verb for departing. It can take a direct object, as in leave the office. With head out, say head out of the office.",
+        "head off: Often similar when it means leave or set off. As a transitive verb, head off can also mean prevent, as in head off a problem.",
+        "go out: Often describes going out socially or spending time away from home. Head out more readily describes the moment of departure, whatever the purpose."
+      ],
+      "ja": [
+        "leave：その場を離れることを広く表す。leave the office のように場所を直接目的語にできる。head out では head out of the office と言う。",
+        "head off：出発する意味では head out に近い。head off a problem のように他動詞で使うと「問題を未然に防ぐ」。",
+        "go out：外食や遊びなどの外出、家を空けて過ごすことを指す場合がある。head out は目的を問わず、出発するところに焦点を当てやすい。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "leave",
+        "note": {
+          "en": "Close when used to announce your departure.",
+          "ja": "帰り際にその場を離れると伝える場面で近い。"
+        }
+      },
+      {
+        "word": "set off",
+        "note": {
+          "en": "Close when beginning a journey, walk, or drive.",
+          "ja": "旅や徒歩・車での移動を始める場面で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Combines head ‘move in a particular direction’ with out, which marks movement away from the current place.",
+      "ja": "head（ある方向へ向かう）に、その場から外へ離れる動きを表す out が付いた句動詞。"
+    },
+    "equivalents": {
+      "de": "losgehen / aufbrechen",
+      "it": "uscire / avviarsi",
+      "fr": "sortir / partir",
+      "es": "salir / ponerse en camino"
+    },
+    "collocations": {
+      "en": [
+        "head out early",
+        "head out of the office",
+        "head out to the airport",
+        "head out for lunch",
+        "head out for a walk",
+        "head out to grab coffee",
+        "be about to head out"
+      ],
+      "ja": [
+        "head out early — 早めに出発する",
+        "head out of the office — オフィスを出る",
+        "head out to the airport — 空港へ向けて出発する",
+        "head out for lunch — 昼食を取りに出かける",
+        "head out for a walk — 散歩に出かける",
+        "head out to grab coffee — コーヒーを買いに出る",
+        "be about to head out — ちょうど出るところだ"
+      ]
+    },
+    "example": {
+      "en": [
+        "I’m heading out. See you tomorrow!",
+        "We should head out for the airport before rush hour.",
+        "I’m heading out to grab lunch. Do you want anything?"
+      ],
+      "ja": [
+        "I’m heading out. See you tomorrow! — お先に失礼します。また明日！",
+        "We should head out for the airport before rush hour. — ラッシュが始まる前に空港に向けて出発したほうがいいね。",
+        "I’m heading out to grab lunch. Do you want anything? — お昼を買いに出るけど、何かいる？"
+      ]
+    }
   }
 ]
