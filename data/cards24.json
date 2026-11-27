@@ -9034,5 +9034,125 @@
         "Flexible hours helped her manage the demands of the job. — 柔軟な勤務時間のおかげで、彼女は仕事の負担に対処しやすくなった。"
       ]
     }
+  },
+  {
+    "id": "demanding",
+    "sid": "2026-02089",
+    "word": "demanding",
+    "level": "B2",
+    "freq": "common",
+    "tags": [
+      "adjective",
+      "work",
+      "evaluation"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "demanding",
+        "comparative": "more demanding",
+        "superlative": "most demanding"
+      },
+      "patterns": [
+        "a demanding + task / job / schedule / client",
+        "be physically / mentally / emotionally demanding",
+        "be demanding of + person"
+      ],
+      "usage": {
+        "adjective": "In The client is demanding, demanding is an adjective describing what the client is like. In The client is demanding a refund, is demanding is the progressive form of the verb demand."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/dɪˈmæn.dɪŋ/",
+        "uk": "/dɪˈmɑːn.dɪŋ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "requiring a lot of effort, skill, time, or attention",
+        "expecting or asking a great deal from other people"
+      ],
+      "ja": [
+        "多くの労力・技量・時間・注意力を要する、負荷の高い",
+        "（人が）多くを求める、要求が多い、水準に厳しい"
+      ]
+    },
+    "nuance": {
+      "en": "A demanding task takes a lot out of you or requires sustained attention. A demanding client may expect quick responses or a high standard of work. When used of people, the adjective can suggest that their expectations are difficult to meet. Demanding but rewarding is a common way to describe work that takes effort and feels worthwhile.",
+      "ja": "demanding な仕事には、大きな労力や持続的な集中が要る。demanding な依頼人なら、迅速な返事や高い品質などを強く求める人。人について使うと、期待に応えるのが大変だという含みが出ることがある。demanding but rewarding は「大変だがやりがいがある」。"
+    },
+    "minimal": {
+      "en": [
+        "challenging: Often suggests a difficulty that tests your ability and can be rewarding to overcome. Demanding emphasizes the effort or resources needed to keep up.",
+        "strict: Insists on rules being followed. A demanding boss may expect a great deal of work or initiative even when the rules are flexible.",
+        "demanding vs. in demand: A demanding job takes a lot of effort. A skill that is in demand is wanted by many employers."
+      ],
+      "ja": [
+        "challenging：能力を試される難しさを表し、それを乗り越えるやりがいも連想させやすい。demanding は、こなすために必要な労力や負荷に焦点がある。",
+        "strict：規則を守らせることに厳しい。demanding な上司は、ルールが柔軟でも部下に高い成果や主体性を求めることがある。",
+        "in demand：需要が高い。a demanding job は負荷の高い仕事、a skill that is in demand は多くの雇用主が求めるスキル。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "taxing",
+        "note": {
+          "en": "Close for an activity that takes a lot of mental or physical effort.",
+          "ja": "精神的・身体的な負荷が大きい作業について近い。"
+        }
+      },
+      {
+        "word": "exacting",
+        "note": {
+          "en": "More formal. Close when a person or task requires very high standards or great precision.",
+          "ja": "より改まった語。人や作業が高い水準や精度を求める場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "The adjective developed from the -ing form of demand, drawing on its senses of requiring effort and asking firmly for something.",
+      "ja": "動詞 demand（必要とする、強く求める）の -ing 形から生じた形容詞。"
+    },
+    "equivalents": {
+      "de": "anspruchsvoll / fordernd",
+      "it": "impegnativo / esigente",
+      "fr": "exigeant / éprouvant",
+      "es": "exigente / arduo"
+    },
+    "collocations": {
+      "en": [
+        "a demanding job",
+        "a demanding schedule",
+        "a demanding client",
+        "a mentally demanding task",
+        "physically demanding work",
+        "emotionally demanding work",
+        "demanding but rewarding",
+        "be demanding of oneself"
+      ],
+      "ja": [
+        "a demanding job — 負荷の高い仕事",
+        "a demanding schedule — ハードな日程",
+        "a demanding client — 要求の多い依頼人",
+        "a mentally demanding task — 頭を使い、集中力を要する作業",
+        "physically demanding work — 体力を要する仕事",
+        "emotionally demanding work — 精神的な負担の大きい仕事",
+        "demanding but rewarding — 大変だがやりがいがある",
+        "be demanding of oneself — 自分に厳しい"
+      ]
+    },
+    "example": {
+      "en": [
+        "Reviewing a long patent specification in two languages can be mentally demanding.",
+        "The client is demanding, but she’s clear about what she expects.",
+        "Teaching a class of thirty can be demanding, but I find it rewarding."
+      ],
+      "ja": [
+        "Reviewing a long patent specification in two languages can be mentally demanding. — 長い特許明細書を二つの言語で確認する作業は、かなりの集中力を要することがある。",
+        "The client is demanding, but she’s clear about what she expects. — その依頼人は要求が多いが、何を求めているのかは明確に伝えてくれる。",
+        "Teaching a class of thirty can be demanding, but I find it rewarding. — 30人のクラスを教えるのは大変なこともあるけれど、私はやりがいを感じる。"
+      ]
+    }
   }
 ]
