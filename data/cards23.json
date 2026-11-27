@@ -17476,5 +17476,139 @@
         "Before it slips my mind, could you send me the updated figures? — 忘れないうちに聞いておきたいんだけど、更新後の数字を送ってくれる？"
       ]
     }
+  },
+  {
+    "id": "rush",
+    "sid": "2026-02076",
+    "word": "rush",
+    "level": "B1",
+    "freq": "common",
+    "tags": [
+      "verb",
+      "noun",
+      "conversation"
+    ],
+    "grammar": {
+      "pos": "verb / noun",
+      "transitivity": "intransitive or transitive",
+      "forms": {
+        "base": "rush",
+        "thirdPerson": "rushes",
+        "past": "rushed",
+        "pastParticiple": "rushed",
+        "presentParticiple": "rushing",
+        "plural": "rushes"
+      },
+      "patterns": [
+        "rush to + place / verb",
+        "rush into + place",
+        "rush into + decision / -ing",
+        "rush someone into + noun / -ing",
+        "rush + job / process",
+        "be in a rush (to + verb)",
+        "a rush of + noun"
+      ],
+      "usage": {
+        "into": "Use a noun or an -ing form after into. In rush into the room, into names the place entered. In rush into signing, it introduces an action taken hastily."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/rʌʃ/",
+        "uk": "/rʌʃ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to move or act very quickly, often because there is little time",
+        "to do something too quickly or put pressure on someone to act quickly",
+        "(rush into) to start something or make a decision before giving it enough thought",
+        "(noun) a state or period of hurry, a sudden surge of people or demand, or a sudden strong feeling"
+      ],
+      "ja": [
+        "急いで行く、駆けつける、大急ぎで行動する",
+        "（仕事などを）急いで済ませる、（人を）せかす",
+        "（rush into）よく考えずに始める、性急に踏み切る",
+        "（名詞）急ぎ、混雑や需要の集中、感情などが急に込み上げること"
+      ]
+    },
+    "nuance": {
+      "en": "Rush can describe necessary speed, as when someone rushes to help, or haste that leaves too little time for care. With a decision or action, rush into usually implies that the person should have taken more time. With a place, it describes physical movement.",
+      "ja": "rush は、助けに駆けつけるような必要な速さにも、注意を払う時間が足りない性急さにも使える。rush into の後ろが決断や行動なら「もっと時間をかけるべきだった」という含みが出やすく、場所なら「〜に駆け込む」という移動を表す。"
+    },
+    "minimal": {
+      "en": [
+        "hurry: Common when time is short. Rush often suggests greater urgency or a risk of cutting corners.",
+        "jump into: Often suggests starting eagerly or immediately. Rush into a decision highlights a lack of time to think.",
+        "jump to conclusions: Reach an unsupported judgment too quickly. Rush into can also describe committing to an action, such as signing an agreement."
+      ],
+      "ja": [
+        "hurry：時間がないときの「急ぐ」。rush は切迫感や、急いで手順を省くおそれを表しやすい。",
+        "jump into：勢いよく、またはすぐに始める。rush into a decision は考える時間が足りない点に焦点がある。",
+        "jump to conclusions：十分な根拠なしに早合点する。rush into は契約に署名するような行動に性急に踏み切るときにも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "hurry",
+        "note": {
+          "en": "Close for moving quickly or urging someone to act faster.",
+          "ja": "急いで移動する、相手をせかすという意味で近い。"
+        }
+      },
+      {
+        "word": "act hastily",
+        "note": {
+          "en": "Close when someone acts before considering the consequences.",
+          "ja": "結果をよく考えずに行動する場合の言い換え。"
+        }
+      }
+    ],
+    "equivalents": {
+      "de": "sich beeilen / in einen Raum stürmen / etwas überstürzen",
+      "it": "affrettarsi / precipitarsi / prendere una decisione affrettata",
+      "fr": "se dépêcher / se précipiter / prendre une décision hâtive",
+      "es": "darse prisa / entrar corriendo / precipitarse al decidir"
+    },
+    "collocations": {
+      "en": [
+        "rush to help",
+        "rush into the room",
+        "rush into a decision",
+        "rush into signing a contract",
+        "rush someone into making a decision",
+        "rush the process",
+        "be in a rush",
+        "No rush.",
+        "a rush of orders",
+        "a rush of relief"
+      ],
+      "ja": [
+        "rush to help — 助けに駆けつける",
+        "rush into the room — 部屋に駆け込む",
+        "rush into a decision — 性急に決める",
+        "rush into signing a contract — よく考えずに契約に署名する",
+        "rush someone into making a decision — 人をせかして決断させる",
+        "rush the process — 手続きを急いで進める",
+        "be in a rush — 急いでいる",
+        "No rush. — 急がなくていいよ。",
+        "a rush of orders — 注文の殺到",
+        "a rush of relief — どっと押し寄せる安堵感"
+      ]
+    },
+    "example": {
+      "en": [
+        "Let’s not rush into signing the agreement. We still need to check who owns the IP.",
+        "She rushed into the room to tell us the news.",
+        "I know you’re in a rush, but could you check the address before you send it?",
+        "They tried to rush us into accepting the offer before we had read the terms."
+      ],
+      "ja": [
+        "Let’s not rush into signing the agreement. We still need to check who owns the IP. — 契約書への署名は急がずにいこう。知的財産権が誰に帰属するか、まだ確認が必要だ。",
+        "She rushed into the room to tell us the news. — 彼女はその知らせを伝えようと部屋に駆け込んできた。",
+        "I know you’re in a rush, but could you check the address before you send it? — 急いでいるところだけど、送る前に宛先を確認してくれる？",
+        "They tried to rush us into accepting the offer before we had read the terms. — 先方はこちらが条件を読む前に、せかして提案を受け入れさせようとした。"
+      ]
+    }
   }
 ]
