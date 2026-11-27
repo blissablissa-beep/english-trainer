@@ -8893,5 +8893,146 @@
         "For an integer n, divisibility by four implies divisibility by two. — 整数 n が4で割り切れるなら、2でも割り切れる。"
       ]
     }
+  },
+  {
+    "id": "demand",
+    "sid": "2026-02088",
+    "word": "demand",
+    "level": "B2",
+    "freq": "common",
+    "tags": [
+      "verb",
+      "noun",
+      "economics",
+      "business"
+    ],
+    "grammar": {
+      "pos": "verb / noun",
+      "transitivity": "transitive",
+      "countability": "usually uncountable for market demand; countable for individual demands",
+      "forms": {
+        "base": "demand",
+        "thirdPerson": "demands",
+        "past": "demanded",
+        "pastParticiple": "demanded",
+        "presentParticiple": "demanding",
+        "plural": "demands"
+      },
+      "patterns": [
+        "demand + noun",
+        "demand to + verb",
+        "demand that + subject + base verb / should + verb",
+        "(a) demand for + noun",
+        "the demands of + job / role",
+        "be in demand",
+        "on demand"
+      ],
+      "usage": {
+        "subject": "She demanded to see the report means she wanted to see it herself. She demanded that he show her the report states what she wanted him to do.",
+        "countability": "Demand for tickets is high describes overall demand. A demand for a refund describes one specific insistence."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/dɪˈmænd/",
+        "uk": "/dɪˈmɑːnd/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(verb) to ask for something firmly and insist that it be given or done",
+        "(verb) to require effort, attention, or another resource",
+        "(noun, usually uncountable) the desire or willingness to buy or use a product or service",
+        "(noun, countable) a firm request, or a requirement that puts pressure on someone"
+      ],
+      "ja": [
+        "（動詞）強く要求する、〜するよう求める",
+        "（動詞）努力・注意・時間などを必要とする、要求する",
+        "（名詞・通常不可算）商品やサービスに対する需要",
+        "（名詞・可算）強い要求、時間や労力などを求められること、負担"
+      ]
+    },
+    "nuance": {
+      "en": "A person who demands an explanation insists on getting one. A task that demands patience needs patience to be done well. Market demand is often discussed alongside supply. The demands of a job are the things it asks of the worker, such as time, effort, and attention.",
+      "ja": "人が demand an explanation と言えば、説明を求めて譲らないという響きがある。仕事などが demand patience と言えば、うまくやるには忍耐が要るという意味。市場の需要は supply（供給）と対でよく使う。the demands of a job は、その仕事に求められる時間・労力・注意力などの負担を指す。"
+    },
+    "minimal": {
+      "en": [
+        "ask for / request: Both can be neutral or polite. Demand presents the request as an insistence.",
+        "require: A relatively neutral verb for what is necessary. Demand often emphasizes the effort or attention needed.",
+        "claim: In one sense, to request something on the basis of a right or entitlement, as in claim a refund. Demand a refund emphasizes insisting on it."
+      ],
+      "ja": [
+        "ask for / request：依頼の強さを限定せず、丁寧にも使える。demand は応じるよう強く求める。",
+        "require：必要なものを比較的中立に述べる。demand は必要となる労力や注意などの大きさを強く感じさせることがある。",
+        "claim：claim a refund のように、権利や資格に基づいて請求する意味がある。demand a refund は返金を強く求める態度に焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "insist on",
+        "note": {
+          "en": "Close when someone firmly insists on getting something or having something done.",
+          "ja": "何かを得ることや実行してもらうことを強く求める場面で近い。"
+        }
+      },
+      {
+        "word": "call for",
+        "note": {
+          "en": "Close when a situation requires a particular response or quality.",
+          "ja": "状況がある対応や資質を必要とする場面で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Via Old French demander ‘ask, request’, from Latin demandare ‘entrust’. In modern French, demander is commonly a neutral ‘ask’, while the English verb demand usually signals insistence or necessity.",
+      "ja": "古フランス語 demander（尋ねる、求める）を経由し、ラテン語 demandare（委ねる）に由来する。現代フランス語の demander は中立的に「尋ねる・頼む」と言うときにもよく使い、英語の demand は強い要求や必要性を表すことが多い。"
+    },
+    "equivalents": {
+      "de": "verlangen / erfordern / Nachfrage / Forderung",
+      "it": "esigere / richiedere / domanda / richiesta",
+      "fr": "exiger / nécessiter / demande / exigence",
+      "es": "exigir / requerir / demanda / exigencia"
+    },
+    "collocations": {
+      "en": [
+        "demand an explanation",
+        "demand a refund",
+        "demand immediate action",
+        "demand careful attention",
+        "demand for housing",
+        "meet growing demand",
+        "supply and demand",
+        "be in high demand",
+        "on demand",
+        "the demands of the job"
+      ],
+      "ja": [
+        "demand an explanation — 説明を強く求める",
+        "demand a refund — 返金を要求する",
+        "demand immediate action — 即時の対応を要求する",
+        "demand careful attention — 細心の注意を要する",
+        "demand for housing — 住宅需要",
+        "meet growing demand — 拡大する需要に応える",
+        "supply and demand — 供給と需要",
+        "be in high demand — 需要が高い、引く手あまただ",
+        "on demand — 必要なときに、要求に応じて",
+        "the demands of the job — その仕事で求められること、仕事の負担"
+      ]
+    },
+    "example": {
+      "en": [
+        "Demand for refurbished phones has risen as new models have become more expensive.",
+        "The client demanded that we explain why the estimate had changed.",
+        "Reviewing the claims in both languages demands close attention to detail.",
+        "Flexible hours helped her manage the demands of the job."
+      ],
+      "ja": [
+        "Demand for refurbished phones has risen as new models have become more expensive. — 新品モデルの価格が上がるにつれ、整備済みスマートフォンの需要が伸びている。",
+        "The client demanded that we explain why the estimate had changed. — 依頼人は、見積もりが変わった理由を説明するよう強く求めた。",
+        "Reviewing the claims in both languages demands close attention to detail. — 両言語の請求項を確認するには、細部に十分注意を払う必要がある。",
+        "Flexible hours helped her manage the demands of the job. — 柔軟な勤務時間のおかげで、彼女は仕事の負担に対処しやすくなった。"
+      ]
+    }
   }
 ]
