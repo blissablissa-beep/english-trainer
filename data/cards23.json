@@ -16664,5 +16664,117 @@
         "The team looked at its velocity over the last three sprints to estimate how much work it could finish in the next one. — チームは直近３回のスプリントで完了した作業量を参考に、次にどれだけ作業を終えられるか見積もった。"
       ]
     }
+  },
+  {
+    "id": "standardisation",
+    "sid": "2026-02069",
+    "word": "standardisation",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "business",
+      "technology",
+      "standards"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "usually uncountable",
+      "forms": {
+        "base": "standardisation",
+        "variant": "standardization"
+      },
+      "patterns": [
+        "the standardisation of + noun",
+        "standardisation across + groups",
+        "standardisation on + platform or system"
+      ],
+      "usage": {
+        "spelling": "Standardisation is common in British English. Standardization is standard in American English and is also used in some British and international contexts."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "uk": "/ˌstæn.də.daɪˈzeɪ.ʃən/",
+        "us": "/ˌstæn.dɚ.dəˈzeɪ.ʃən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the process of making procedures, formats, or other things conform to a common standard",
+        "the process of establishing and applying shared technical standards"
+      ],
+      "ja": [
+        "手順・書式などを共通の基準にそろえること、標準化・統一",
+        "共通の技術規格を策定し、適用すること、規格化"
+      ]
+    },
+    "nuance": {
+      "en": "A common standard makes work more consistent or lets products and systems work together. In technical settings, standardisation may refer to setting the standard itself. In day-to-day operations, it often refers to getting teams to follow the same procedure or use the same format.",
+      "ja": "共通の基準を設けることで、作業のばらつきを抑えたり、製品やシステムの互換性を確保したりする。技術分野では規格そのものの策定を、日常業務では各チームが使う手順や書式をそろえることを指す場合がある。"
+    },
+    "minimal": {
+      "en": [
+        "standard: The shared rule or specification itself. Standardisation is the process of establishing or applying it.",
+        "harmonisation: Making different rules or systems compatible. Some differences may remain.",
+        "normalisation: In statistics and data processing, often rescaling values or putting them into a consistent form. Statistical standardisation can specifically mean converting values to z-scores."
+      ],
+      "ja": [
+        "standard：共通の基準・規格そのもの。standardisation はその策定や適用のプロセス。",
+        "harmonisation：異なる制度やルールの整合を図ること。違いを残しながら調整する場合もある。",
+        "normalisation：統計・データ処理では正規化。値の尺度や形式を整える操作を指すことが多い。統計で standardisation といえば、値を z スコアに変換することを指す場合がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "adoption of common standards",
+        "note": {
+          "en": "A close paraphrase when a group adopts common standards.",
+          "ja": "共通規格を採用する場面での言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from standardise (‘make or bring into conformity with a standard’) and the noun-forming ending -ation.",
+      "ja": "standardise（標準化する）に、過程や結果を表す名詞語尾 -ation が付いた語。語族は standard → standardise / standardize → standardisation / standardization。"
+    },
+    "equivalents": {
+      "de": "Standardisierung / Normung",
+      "it": "standardizzazione / normazione",
+      "fr": "standardisation / normalisation",
+      "es": "estandarización / normalización"
+    },
+    "collocations": {
+      "en": [
+        "the standardisation of procedures",
+        "the standardisation of data formats",
+        "standardisation across departments",
+        "technical standardisation",
+        "an international standardisation body",
+        "standardisation efforts",
+        "a high degree of standardisation"
+      ],
+      "ja": [
+        "the standardisation of procedures — 手順の標準化",
+        "the standardisation of data formats — データ形式の標準化",
+        "standardisation across departments — 部門間での標準化",
+        "technical standardisation — 技術標準化",
+        "an international standardisation body — 国際標準化機関",
+        "standardisation efforts — 標準化に向けた取り組み",
+        "a high degree of standardisation — 高い標準化の度合い"
+      ]
+    },
+    "example": {
+      "en": [
+        "The standardisation of reporting formats made it easier to compare results across departments.",
+        "The standardisation of charging interfaces allows devices from different manufacturers to use the same charger.",
+        "The standardisation of routine procedures still leaves staff free to decide how to handle unusual cases."
+      ],
+      "ja": [
+        "The standardisation of reporting formats made it easier to compare results across departments. — 報告書の書式を統一したことで、部門間で結果を比較しやすくなった。",
+        "The standardisation of charging interfaces allows devices from different manufacturers to use the same charger. — 充電インターフェースの規格化により、メーカーの異なる機器でも同じ充電器を使える。",
+        "The standardisation of routine procedures still leaves staff free to decide how to handle unusual cases. — 定型的な手順を標準化しても、例外的な事案への対応は担当者の判断に委ねられている。"
+      ]
+    }
   }
 ]
