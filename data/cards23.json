@@ -17995,5 +17995,126 @@
         "The two companies entered into a licensing agreement last month. — 両社は先月、ライセンス契約を締結した。"
       ]
     }
+  },
+  {
+    "id": "ambush",
+    "sid": "2026-02080",
+    "word": "ambush",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "noun",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "verb / noun",
+      "transitivity": "transitive",
+      "countability": "countable for an incident; in ambush is a fixed phrase",
+      "forms": {
+        "base": "ambush",
+        "thirdPerson": "ambushes",
+        "past": "ambushed",
+        "pastParticiple": "ambushed",
+        "presentParticiple": "ambushing",
+        "plural": "ambushes"
+      },
+      "patterns": [
+        "ambush + person / group",
+        "be ambushed",
+        "ambush someone with + question / demand",
+        "an ambush",
+        "lie in ambush"
+      ],
+      "usage": {
+        "figurative": "Ambush someone with a question suggests catching them off guard and putting them on the spot."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈæm.bʊʃ/",
+        "uk": "/ˈæm.bʊʃ/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(verb) to attack someone by surprise after waiting out of sight",
+        "(verb, figurative) to confront someone unexpectedly, often with a difficult question or demand",
+        "(noun) a surprise attack by people who were waiting out of sight"
+      ],
+      "ja": [
+        "（動詞）待ち伏せして不意に襲う",
+        "（動詞・比喩）不意に問い詰める、突然の質問や要求で相手を面食らわせる",
+        "（名詞）待ち伏せによる襲撃、待ち伏せ"
+      ]
+    },
+    "nuance": {
+      "en": "Ambush suggests being caught off guard. In a meeting or interview, the figurative use can imply that the surprise put someone under pressure or felt unfair. It can also be used humorously for an unexpected but harmless encounter.",
+      "ja": "相手の不意を突くことを表す。会議や取材で比喩的に使うと、突然の質問などで答えに窮したり、不意打ちで公平さを欠くと感じたりしたことをにおわせる。害のない出来事を冗談めかして言うこともある。"
+    },
+    "minimal": {
+      "en": [
+        "surprise attack: A broader term. Ambush specifically evokes attackers waiting out of sight.",
+        "catch someone off guard: Surprise someone when they are unprepared. It can describe an accidental or pleasant surprise.",
+        "put someone on the spot: Pressure someone to answer or decide immediately. Ambush emphasizes how unexpectedly the confrontation began."
+      ],
+      "ja": [
+        "surprise attack：奇襲を広く指す。ambush には、姿を隠して相手を待っていたという含みがある。",
+        "catch someone off guard：相手の不意を突く。偶然や、うれしい驚きにも使える。",
+        "put someone on the spot：その場で答えや決断を求めて困らせる。ambush は突然その状況に置かれた点を強調する。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "lie in wait for and attack",
+        "note": {
+          "en": "A close paraphrase for the literal verb.",
+          "ja": "文字どおりの「待ち伏せして襲う」の言い換え。"
+        }
+      },
+      {
+        "word": "confront unexpectedly",
+        "note": {
+          "en": "A close paraphrase in the figurative sense.",
+          "ja": "比喩での「不意に詰め寄る」に近い。"
+        }
+      }
+    ],
+    "equivalents": {
+      "de": "aus dem Hinterhalt angreifen / Hinterhalt / mit einer Frage überrumpeln",
+      "it": "tendere un’imboscata / imboscata / cogliere alla sprovvista",
+      "fr": "tendre une embuscade / embuscade / prendre au dépourvu",
+      "es": "emboscar / emboscada / pillar desprevenido"
+    },
+    "collocations": {
+      "en": [
+        "be ambushed",
+        "lie in ambush",
+        "walk into an ambush",
+        "survive an ambush",
+        "feel ambushed",
+        "ambush someone with questions"
+      ],
+      "ja": [
+        "be ambushed — 待ち伏せに遭う",
+        "lie in ambush — 待ち伏せする",
+        "walk into an ambush — 待ち伏せに遭うところへ足を踏み入れる",
+        "survive an ambush — 待ち伏せによる襲撃から生き延びる",
+        "feel ambushed — 不意打ちを食らったと感じる",
+        "ambush someone with questions — 不意に質問を浴びせて相手を面食らわせる"
+      ]
+    },
+    "example": {
+      "en": [
+        "The novel opens with an ambush that the narrator barely survives.",
+        "I felt ambushed when the interviewer asked about my salary without warning.",
+        "The kids ambushed me with hugs as soon as I got home."
+      ],
+      "ja": [
+        "The novel opens with an ambush that the narrator barely survives. — 小説の冒頭で、語り手は待ち伏せによる襲撃からかろうじて生き延びる。",
+        "I felt ambushed when the interviewer asked about my salary without warning. — 面接官にいきなり給与のことを聞かれて、不意打ちを食らった気分だった。",
+        "The kids ambushed me with hugs as soon as I got home. — 帰宅するなり、子どもたちが不意に抱きついてきた。"
+      ]
+    }
   }
 ]
