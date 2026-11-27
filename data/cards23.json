@@ -16541,5 +16541,128 @@
         "He had a preternatural ability to notice when someone was about to change their mind. — 彼には、相手の気持ちが変わりそうな瞬間を察する並外れた能力があった。"
       ]
     }
+  },
+  {
+    "id": "velocity",
+    "sid": "2026-02068",
+    "word": "velocity",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "physics",
+      "technology",
+      "work"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable or uncountable, depending on context",
+      "forms": {
+        "base": "velocity",
+        "plural": "velocities"
+      },
+      "patterns": [
+        "the velocity of + object",
+        "at a velocity of + value",
+        "at high velocity",
+        "a change in velocity",
+        "track + team / sprint + velocity"
+      ],
+      "usage": {
+        "units": "A velocity can specify both a magnitude and a direction, as in a velocity of 20 meters per second eastward."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/vəˈlɑː.sə.t̬i/",
+        "uk": "/vəˈlɒs.ə.ti/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(physics) the rate of change of position, with both magnitude and direction",
+        "speed of movement, especially in technical descriptions",
+        "the pace of activity or progress, or, in agile project management, the amount of work a team completes in an iteration"
+      ],
+      "ja": [
+        "（物理）位置の時間変化を大きさと向きで表す量、速度",
+        "移動の速さ。特に技術的な説明で用いられる",
+        "活動や進捗のペース。アジャイル開発では、チームが１回の反復期間に完了した作業量"
+      ]
+    },
+    "nuance": {
+      "en": "In physics, an object moving in a circle can change velocity while keeping the same speed because its direction changes. Outside strict physics usage, high-velocity air can simply mean fast-moving air. In agile work, teams may express velocity as completed story points per sprint.",
+      "ja": "物理では、一定の速さで円を描いて動いていても、向きが変わるため速度は変化する。厳密な物理の用法以外では high-velocity air のように、単に速く動く空気を指すこともある。アジャイル開発では、スプリント中に完了した作業のストーリーポイント合計で velocity を表すことがある。"
+    },
+    "minimal": {
+      "en": [
+        "speed: How fast something moves. In physics, speed has magnitude only, while velocity also has direction.",
+        "acceleration: The rate at which velocity changes. It can result from a change in speed, direction, or both.",
+        "pace: An everyday term for how fast work or activity progresses. Sprint velocity is a specific measure of completed work."
+      ],
+      "ja": [
+        "speed：どれくらい速く動くか。物理では speed（速さ）は大きさだけを表し、velocity（速度）は向きも持つ。",
+        "acceleration：速度が時間とともに変わる割合、加速度。速さだけでなく、向きの変化でも生じる。",
+        "pace：仕事や活動がどのくらいの速さで進むかを表す日常語。sprint velocity は完了した作業量を表す具体的な指標。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "speed",
+        "note": {
+          "en": "Close in general and technical descriptions where the direction is not in focus.",
+          "ja": "向きに焦点がない一般的・技術的な描写で近い。"
+        }
+      },
+      {
+        "word": "rate of progress",
+        "note": {
+          "en": "Close when velocity refers figuratively to the pace of a project.",
+          "ja": "プロジェクトの進み具合を比喩的に velocity と呼ぶ場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin vēlōcitās ‘swiftness, speed’, from vēlōx ‘swift’. Early English use referred to the speed of motion.",
+      "ja": "ラテン語 vēlōcitās（速さ）に由来し、もとは vēlōx（速い）。初期の英語でも、物が動く速さを表した。"
+    },
+    "equivalents": {
+      "de": "Geschwindigkeit / gerichtete Geschwindigkeit / Teamgeschwindigkeit",
+      "it": "velocità / velocità vettoriale / velocità del team",
+      "fr": "vitesse / vitesse vectorielle / vélocité de l’équipe",
+      "es": "velocidad / velocidad vectorial / velocidad del equipo"
+    },
+    "collocations": {
+      "en": [
+        "constant velocity",
+        "instantaneous velocity",
+        "average velocity",
+        "escape velocity",
+        "high-velocity airflow",
+        "a change in velocity",
+        "sprint velocity"
+      ],
+      "ja": [
+        "constant velocity — 一定の速度",
+        "instantaneous velocity — 瞬間速度",
+        "average velocity — 平均速度（変位を経過時間で割った量）",
+        "escape velocity — 脱出速度",
+        "high-velocity airflow — 高速の気流",
+        "a change in velocity — 速度の変化",
+        "sprint velocity — スプリントごとの完了作業量"
+      ]
+    },
+    "example": {
+      "en": [
+        "The car’s speed stayed the same as it went around the curve, but its velocity changed.",
+        "The probe was moving eastward at a velocity of three meters per second.",
+        "The team looked at its velocity over the last three sprints to estimate how much work it could finish in the next one."
+      ],
+      "ja": [
+        "The car’s speed stayed the same as it went around the curve, but its velocity changed. — 車がカーブを曲がる間、速さは一定だったが、向きが変わるため速度は変化した。",
+        "The probe was moving eastward at a velocity of three meters per second. — 探査機は東向きに秒速３メートルで進んでいた。",
+        "The team looked at its velocity over the last three sprints to estimate how much work it could finish in the next one. — チームは直近３回のスプリントで完了した作業量を参考に、次にどれだけ作業を終えられるか見積もった。"
+      ]
+    }
   }
 ]
