@@ -15947,5 +15947,127 @@
         "The jeweler pointed out a small inclusion inside the diamond. — 宝飾店の店員は、ダイヤモンドの中に小さな内包物があることを示した。"
       ]
     }
+  },
+  {
+    "id": "exclusion",
+    "sid": "2026-02063",
+    "word": "exclusion",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "work",
+      "research",
+      "insurance"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "usually uncountable for the act or state; countable for a specific exclusion or excluded item",
+      "forms": {
+        "base": "exclusion",
+        "plural": "exclusions"
+      },
+      "patterns": [
+        "the exclusion of A from B",
+        "exclusion from + group / activity",
+        "to the exclusion of + noun",
+        "exclusion criteria",
+        "an exclusion for + risk / event"
+      ],
+      "usage": {
+        "prepositions": "Of names what is excluded and from identifies the group, activity, or set it is excluded from. To the exclusion of means that concentrating on one thing leaves others out.",
+        "countability": "Social exclusion refers to a general condition. An exclusion in a policy can identify a specific limit on coverage."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ɪkˈskluː.ʒən/",
+        "uk": "/ɪkˈskluː.ʒən/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the act of keeping someone or something out of a group, activity, or set, or the state of being kept out",
+        "a specific item, event, or situation left outside the scope of an agreement, policy, or list, or a provision specifying that limit"
+      ],
+      "ja": [
+        "人や物を集団・活動・集計などから外すこと、排除、除外。または外されている状態",
+        "契約・保険・一覧などの対象から除かれる具体的な項目や事由、またはそれを定める適用除外条項"
+      ]
+    },
+    "nuance": {
+      "en": "Exclusion ranges from neutral decisions about what to count to barriers that prevent people from taking part in society. In insurance, exclusions specify what the policy does not cover. To the exclusion of all else often suggests an unbalanced focus on one thing.",
+      "ja": "集計範囲を定める中立的な「除外」から、人が社会に参加できない「排除」まで表せる。保険での exclusions は補償の対象外となる事由や、それを定める規定。to the exclusion of all else は、ほかのことを顧みず一つに集中することで、偏りを含意しやすい。"
+    },
+    "minimal": {
+      "en": [
+        "inclusion: Making someone or something part of a whole. Inclusion criteria define eligibility; exclusion criteria identify conditions that disqualify an otherwise eligible case.",
+        "omission: Something left out, sometimes accidentally. Exclusion often concerns a rule or boundary that keeps something outside the scope.",
+        "exception: A case that departs from a general rule. An exclusion specifically puts something outside the scope of a rule, policy, or list."
+      ],
+      "ja": [
+        "inclusion：全体の一部として含めること。inclusion criteria は対象に入る条件、exclusion criteria は、その条件を満たしていても対象から外れる条件。",
+        "omission：抜け落ちたことや項目。うっかり抜けた場合にも使う。exclusion は、基準や範囲を定めて対象から外すことを表しやすい。",
+        "exception：一般的な規則と異なる扱いをする例外。exclusion は、規則や保険などの適用範囲から外すことに焦点がある。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "non-inclusion",
+        "note": {
+          "en": "A fairly neutral alternative when something is simply left outside a set or calculation.",
+          "ja": "集合や集計に含まれないことを中立的に表す言い換え。"
+        }
+      },
+      {
+        "word": "bar",
+        "note": {
+          "en": "Close when exclusion means being prevented from entering or participating.",
+          "ja": "立ち入りや参加を禁止する意味で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin exclūsiō ‘a shutting out’, formed from the past-participle stem of exclūdere ‘to shut out’. The verb combines ex- ‘out’ with claudere ‘to close’. The same stem appears in exclusive.",
+      "ja": "ラテン語 exclūsiō（締め出すこと）に由来し、exclūdere（締め出す）の過去分詞の語幹から作られた。exclūdere は ex-（外へ）と claudere（閉じる）からなる。exclusive にも同じ語幹がある。"
+    },
+    "equivalents": {
+      "de": "Ausschluss / Ausgrenzung / Deckungsausschluss",
+      "it": "esclusione",
+      "fr": "exclusion / exclusion de garantie",
+      "es": "exclusión / exclusión de cobertura"
+    },
+    "collocations": {
+      "en": [
+        "the exclusion of incomplete responses from the analysis",
+        "inclusion and exclusion criteria",
+        "social exclusion",
+        "exclusion from decision-making",
+        "policy exclusions",
+        "to the exclusion of all else"
+      ],
+      "ja": [
+        "the exclusion of incomplete responses from the analysis — 不完全な回答を分析対象から除外すること",
+        "inclusion and exclusion criteria — 組入れ基準と除外基準",
+        "social exclusion — 社会的排除",
+        "exclusion from decision-making — 意思決定からの排除",
+        "policy exclusions — 保険契約上の補償対象外事項",
+        "to the exclusion of all else — ほかのことを一切顧みず"
+      ]
+    },
+    "example": {
+      "en": [
+        "The researchers applied the exclusion criteria before analyzing the data.",
+        "The policy lists an exclusion for damage caused by flooding.",
+        "The team focused on speed to the exclusion of accuracy.",
+        "The program aims to reduce social exclusion by helping residents take part in local activities."
+      ],
+      "ja": [
+        "The researchers applied the exclusion criteria before analyzing the data. — 研究者たちは、データを分析する前に除外基準を適用した。",
+        "The policy lists an exclusion for damage caused by flooding. — その保険契約では、洪水による損害が補償対象外として記載されている。",
+        "The team focused on speed to the exclusion of accuracy. — チームは正確さを顧みず、スピードばかりを重視した。",
+        "The program aims to reduce social exclusion by helping residents take part in local activities. — そのプログラムは、住民が地域の活動に参加できるよう支援し、社会的排除を減らすことを目指している。"
+      ]
+    }
   }
 ]
