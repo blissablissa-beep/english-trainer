@@ -15199,5 +15199,129 @@
         "The sudden fee increase triggered a tidal wave of complaints. — 突然の値上げで、苦情が一気に押し寄せた。"
       ]
     }
+  },
+  {
+    "id": "queue",
+    "sid": "2026-02057",
+    "word": "queue",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "noun",
+      "verb",
+      "daily life",
+      "computing",
+      "British English"
+    ],
+    "grammar": {
+      "pos": "noun / verb",
+      "countability": "countable",
+      "forms": {
+        "base": "queue",
+        "plural": "queues",
+        "thirdPerson": "queues",
+        "past": "queued",
+        "pastParticiple": "queued",
+        "presentParticiple": "queuing / queueing"
+      },
+      "patterns": [
+        "join a queue",
+        "wait in a queue",
+        "queue (up) for + noun / to + verb",
+        "queue (up) + task / song",
+        "add + item + to the queue"
+      ],
+      "usage": {
+        "transitivity": "People queue for something or queue to do something. A person or system can queue something for later processing or playback.",
+        "pronunciation": "Queue is pronounced like the letter Q and the word cue."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/kjuː/",
+        "uk": "/kjuː/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "(noun) a line of people or vehicles waiting their turn, or a list of items, calls, or tasks waiting to be handled",
+        "(verb, intransitive) to form or wait in a line",
+        "(verb, transitive) to add something to a list for later processing or playback"
+      ],
+      "ja": [
+        "（名詞）人や車の順番待ちの列。処理を待つ項目・通話・作業などの待ち行列、キュー",
+        "（自動詞）列を作る、列に並んで待つ",
+        "（他動詞）処理や再生を待つ項目としてキューに入れる"
+      ]
+    },
+    "nuance": {
+      "en": "In everyday British English, people queue or wait in a queue. In American English, they usually line up or wait in line. Queue is used in both varieties for tasks, print jobs, or songs waiting to be processed or played.",
+      "ja": "人が列に並ぶ場面では、イギリス英語の queue / wait in a queue に対し、米語では line up / wait in line が一般的。印刷ジョブや曲などが処理・再生を待つキューには、英米どちらでも queue を使う。"
+    },
+    "minimal": {
+      "en": [
+        "line: The usual American English word for a line of people waiting. Queue is the usual British English word in this context.",
+        "cue: A signal or prompt, as in That was my cue to leave. It sounds the same as queue.",
+        "playlist: A list of tracks grouped for listening. A play queue is the list of tracks waiting to be played next."
+      ],
+      "ja": [
+        "line：米語で順番待ちの列を表す一般的な語。この意味のイギリス英語では queue が一般的。",
+        "cue：合図やきっかけ。That was my cue to leave. は「それが立ち去る合図だった」。queue と発音が同じ。",
+        "playlist：聴くためにまとめた曲のリスト。play queue はこれから再生される曲の順番待ちリスト。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "line up",
+        "note": {
+          "en": "Close to the intransitive queue up for people getting into a line.",
+          "ja": "人が列を作って並ぶ意味で、自動詞の queue up に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From French queue ‘tail’, ultimately from Latin coda, a variant of cauda ‘tail’. English later used queue for a line of people, with each person joining at the tail of the line.",
+      "ja": "フランス語 queue（しっぽ）から入り、ラテン語 cauda（しっぽ）の異形 coda にさかのぼる。英語ではのちに人の列を指すようになった。列の最後尾を「しっぽ」と捉えると覚えやすい。"
+    },
+    "equivalents": {
+      "de": "Warteschlange / anstehen / in die Warteschlange einreihen",
+      "it": "coda / fare la coda / mettere in coda",
+      "fr": "file d’attente / faire la queue / mettre en file d’attente",
+      "es": "cola / hacer cola / poner en cola"
+    },
+    "collocations": {
+      "en": [
+        "join the queue",
+        "the front of the queue",
+        "jump the queue",
+        "queue up for tickets",
+        "a print queue",
+        "a priority queue",
+        "queue up a song"
+      ],
+      "ja": [
+        "join the queue — 列の最後尾に並ぶ",
+        "the front of the queue — 列の先頭",
+        "jump the queue — 列に割り込む（主に英）",
+        "queue up for tickets — チケットを求めて列に並ぶ",
+        "a print queue — 印刷待ちのキュー",
+        "a priority queue — 優先度付きキュー",
+        "queue up a song — 再生待ちリストに曲を入れる"
+      ]
+    },
+    "example": {
+      "en": [
+        "We queued for half an hour to get into the exhibition.",
+        "There’s a long queue at the ticket office, so let’s buy our tickets online.",
+        "The document is still in the print queue.",
+        "I queued up a few songs for the drive home."
+      ],
+      "ja": [
+        "We queued for half an hour to get into the exhibition. — 展示会に入るのに30分並んだ。",
+        "There’s a long queue at the ticket office, so let’s buy our tickets online. — 切符売り場に長い列ができているから、ネットで買おう。",
+        "The document is still in the print queue. — その書類はまだ印刷待ちだ。",
+        "I queued up a few songs for the drive home. — 帰りのドライブで聴く曲を何曲か再生待ちリストに入れた。"
+      ]
+    }
   }
 ]
