@@ -13973,5 +13973,130 @@
         "She shared the draft with me in strict confidence. — 彼女は、厳重に秘密を守ることを条件に草稿を私に見せた。"
       ]
     }
+  },
+  {
+    "id": "overcome",
+    "sid": "2026-02047",
+    "word": "overcome",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "verb",
+      "daily life",
+      "work",
+      "emotions"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "forms": {
+        "base": "overcome",
+        "thirdPerson": "overcomes",
+        "past": "overcame",
+        "pastParticiple": "overcome",
+        "presentParticiple": "overcoming"
+      },
+      "patterns": [
+        "overcome + obstacle / fear / resistance",
+        "overcome + an opponent",
+        "be overcome with + emotion",
+        "be overcome by + emotion / smoke"
+      ],
+      "usage": {
+        "forms": "The forms follow come, came, come: We overcame the barrier last year. We have overcome it.",
+        "subject": "In She overcame her fear, she gained control over her fear. In She was overcome with fear, the fear overwhelmed her."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌoʊ.vɚˈkʌm/",
+        "uk": "/ˌəʊ.vəˈkʌm/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to successfully deal with a difficulty, barrier, or feeling that is holding you back",
+        "to defeat an opponent or prevail over resistance",
+        "to overwhelm someone with a strong emotion or overpower them physically, often in the passive"
+      ],
+      "ja": [
+        "困難・障害・恐怖などを乗り越える、克服する",
+        "相手を打ち負かす、抵抗を押し切る",
+        "強い感情に圧倒される、煙などで動けなくなる。受け身でよく使う"
+      ]
+    },
+    "nuance": {
+      "en": "Overcome often presents the difficulty as something that no longer prevents progress. You can overcome a fear enough to act even if some fear remains. Be overcome with emotion means to feel it so strongly that you may struggle to speak or act.",
+      "ja": "困難が行動や前進の妨げにならなくなった、という結果に焦点がある。overcome a fear は、恐怖が多少残っていても、それを乗り越えて行動できるようになった場合に使える。be overcome with emotion は、言葉が出ないほど感情がこみ上げる場合などに使う。"
+    },
+    "minimal": {
+      "en": [
+        "cope with: Manage a difficulty or live with it while it continues. Overcome suggests getting past what was holding you back.",
+        "get over: Conversational, especially for recovering from an illness, shock, or breakup. Overcome also fits obstacles such as a technical barrier.",
+        "overwhelm: A strong feeling can overwhelm someone. This is close to the passive in She was overcome with emotion."
+      ],
+      "ja": [
+        "cope with：難しい状況が続く中で、何とか対処する。overcome は前進を妨げていたものを乗り越えることを示す。",
+        "get over：病気・ショック・失恋などから立ち直るときの会話表現。overcome は技術上の障害を克服する場合などにも使う。",
+        "overwhelm：強い感情などが人を圧倒する。She was overcome with emotion. の受け身の用法に近い。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "surmount",
+        "note": {
+          "en": "More formal, especially for overcoming a barrier or difficulty.",
+          "ja": "障害や困難を乗り越える場合の改まった語。"
+        }
+      },
+      {
+        "word": "conquer",
+        "note": {
+          "en": "Close for overcoming a fear or defeating an opponent, often with a stronger sense of victory.",
+          "ja": "恐怖に打ち勝ったり相手を負かしたりするときに近く、勝利の響きが強め。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old English ofercuman, formed from ofer ‘over’ and cuman ‘to come’. It already had senses of passing over or overtaking and of prevailing over an opponent.",
+      "ja": "古英語 ofercuman に由来し、ofer（越えて）と cuman（来る）からなる。古英語の時点で「通り越す、追い越す」のほか、「相手に打ち勝つ」の意味もあった。"
+    },
+    "equivalents": {
+      "de": "überwinden / besiegen / von Gefühlen überwältigt sein",
+      "it": "superare / vincere / essere sopraffatto dall’emozione",
+      "fr": "surmonter / vaincre / être submergé par l’émotion",
+      "es": "superar / vencer / verse abrumado por la emoción"
+    },
+    "collocations": {
+      "en": [
+        "overcome a fear of public speaking",
+        "overcome an obstacle",
+        "overcome a technical barrier",
+        "overcome initial resistance",
+        "overcome a setback",
+        "be overcome with relief",
+        "be overcome by smoke"
+      ],
+      "ja": [
+        "overcome a fear of public speaking — 人前で話すことへの恐怖を克服する",
+        "overcome an obstacle — 障害を乗り越える",
+        "overcome a technical barrier — 技術上の障壁を克服する",
+        "overcome initial resistance — 当初の抵抗を乗り越える",
+        "overcome a setback — 挫折を乗り越える",
+        "be overcome with relief — 安堵の気持ちが一気にこみ上げる",
+        "be overcome by smoke — 煙に巻かれて動けなくなる"
+      ]
+    },
+    "example": {
+      "en": [
+        "It took her years to overcome her fear of speaking in public.",
+        "The team overcame a major technical hurdle by redesigning the cooling system.",
+        "She was overcome with relief when she heard that everyone was safe."
+      ],
+      "ja": [
+        "It took her years to overcome her fear of speaking in public. — 彼女が人前で話すことへの恐怖を克服するには、何年もかかった。",
+        "The team overcame a major technical hurdle by redesigning the cooling system. — チームは冷却システムを設計し直すことで、大きな技術上の難関を乗り越えた。",
+        "She was overcome with relief when she heard that everyone was safe. — 全員が無事だと聞いて、彼女は一気に安堵した。"
+      ]
+    }
   }
 ]
