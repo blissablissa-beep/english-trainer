@@ -16892,5 +16892,137 @@
         "The researchers standardized their testing procedures across all three sites. — 研究チームは、3か所すべてで試験手順を統一した。"
       ]
     }
+  },
+  {
+    "id": "domestic",
+    "sid": "2026-02071",
+    "word": "domestic",
+    "level": "B2",
+    "freq": "common",
+    "tags": [
+      "adjective",
+      "noun",
+      "business",
+      "travel",
+      "family",
+      "animals"
+    ],
+    "grammar": {
+      "pos": "adjective / noun",
+      "countability": "countable as a noun",
+      "forms": {
+        "base": "domestic"
+      },
+      "patterns": [
+        "domestic + flight / market / law",
+        "domestic + violence / chores",
+        "domestic + animal / species"
+      ],
+      "usage": {
+        "noun": "As a countable noun, a domestic can mean a domestic worker (dated) or, in informal British English, a quarrel between partners or family members."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/dəˈmes.tɪk/",
+        "uk": "/dəˈmes.tɪk/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "within or relating to one's own country",
+        "relating to the home, household, or family",
+        "(of an animal) belonging to a species or population kept or bred by humans",
+        "(noun, dated) a domestic worker",
+        "(noun, informal British English) an argument between partners or family members"
+      ],
+      "ja": [
+        "国内の、自国の",
+        "家庭の、家庭内の、家庭用の",
+        "（動物が）家畜化された、人に飼われる種類の",
+        "（名詞、古め）家事使用人",
+        "（名詞、英口語）夫婦・カップルや家族の間の口論"
+      ]
+    },
+    "nuance": {
+      "en": "A domestic flight stays within one country, and a domestic product is produced within the country in question. In domestic chores, the adjective refers to household life. A domestic animal belongs to a domesticated kind, even if an individual animal has had little contact with people.",
+      "ja": "domestic flight は国内線、domestic product はその国で生産された国産品。domestic chores では家事など家庭生活を指す。domestic animal は人に飼育されてきた種類の動物を指し、個体が人に慣れているかどうかとは区別する。"
+    },
+    "minimal": {
+      "en": [
+        "national / nationwide: National can refer to the country as a whole or its central institutions. Nationwide means throughout the country. A domestic flight can be a short trip within one region.",
+        "household: Often more concrete when describing items, spending, or members of a household. Domestic is usual in established phrases such as domestic violence.",
+        "tame: Describes an individual animal that is accustomed to people and easy to handle. A tame wild animal still belongs to a wild species."
+      ],
+      "ja": [
+        "national / nationwide：national は国全体や国の機関との関係、nationwide は全国に及ぶことを表す。domestic flight は同じ地方内の短い便でも国内線。",
+        "household：世帯の構成員・支出・用品など、生活単位としての家庭を指しやすい。domestic violence は定着した組み合わせ。",
+        "tame：個体が人に慣れて扱いやすいという意味。人に慣れた野生動物にも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "home",
+        "note": {
+          "en": "Close in home market, meaning a company's market in its own country.",
+          "ja": "home market（自国市場）のように使うと近い。"
+        }
+      },
+      {
+        "word": "domesticated",
+        "note": {
+          "en": "Close in the animal sense, with more emphasis on the history or process of domestication.",
+          "ja": "動物について近い。domesticated は人間が飼いならし、繁殖させてきた経緯に焦点を当てやすい。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin domesticus ‘of the household’, from domus ‘house, home’, via French. The country sense extends the idea of home to one's own country.",
+      "ja": "フランス語を経由して、ラテン語 domesticus（家庭の）に由来する。もとは domus（家）。「国内の」は「自分の家」という発想が自国に広がった用法。"
+    },
+    "equivalents": {
+      "de": "inländisch / häuslich / domestiziert",
+      "it": "interno, nazionale / domestico / addomesticato",
+      "fr": "intérieur, national / domestique / domestiqué",
+      "es": "interno, nacional / doméstico / domesticado"
+    },
+    "collocations": {
+      "en": [
+        "domestic flight",
+        "domestic market",
+        "domestic demand",
+        "domestic law",
+        "gross domestic product (GDP)",
+        "domestic chores",
+        "domestic violence",
+        "domestic worker",
+        "domestic animal",
+        "domestic cat"
+      ],
+      "ja": [
+        "domestic flight — 国内線",
+        "domestic market — 国内市場",
+        "domestic demand — 国内需要",
+        "domestic law — 国内法",
+        "gross domestic product (GDP) — 国内総生産",
+        "domestic chores — 家事",
+        "domestic violence — 家庭内暴力（親密な関係にある相手からの暴力を含む）",
+        "domestic worker — 家事労働者",
+        "domestic animal — 家畜・飼育動物",
+        "domestic cat — イエネコ"
+      ]
+    },
+    "example": {
+      "en": [
+        "Under domestic law, the applicant must file the request within three months.",
+        "They divide domestic chores according to their work schedules.",
+        "A feral cat is still a domestic cat, even if it has never lived with people."
+      ],
+      "ja": [
+        "Under domestic law, the applicant must file the request within three months. — 国内法では、出願人は３か月以内に請求を行わなければならない。",
+        "They divide domestic chores according to their work schedules. — 二人はそれぞれの勤務予定に合わせて家事を分担している。",
+        "A feral cat is still a domestic cat, even if it has never lived with people. — 野生化した猫は、人と暮らしたことがなくても、分類上はイエネコだ。"
+      ]
+    }
   }
 ]
