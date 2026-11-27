@@ -17732,5 +17732,132 @@
         "The programme is aimed at the encouragement of collaboration between universities and industry. — このプログラムは産学連携の促進を目的としている。"
       ]
     }
+  },
+  {
+    "id": "deserve",
+    "sid": "2026-02078",
+    "word": "deserve",
+    "level": "B1",
+    "freq": "common",
+    "tags": [
+      "verb",
+      "evaluation",
+      "conversation"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "deserve",
+        "thirdPerson": "deserves",
+        "past": "deserved",
+        "pastParticiple": "deserved",
+        "presentParticiple": "deserving"
+      },
+      "patterns": [
+        "deserve + noun",
+        "deserve to + verb",
+        "deserve to be + past participle",
+        "deserve better",
+        "get what you deserve"
+      ],
+      "usage": {
+        "voice": "After deserve to, choose the voice that fits the subject’s role. She deserves to win makes her the one who wins. The proposal deserves to be considered makes the proposal the thing people consider."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/dɪˈzɝːv/",
+        "uk": "/dɪˈzɜːv/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to be worthy of a reward, treatment, or consequence because of what one has done or experienced",
+        "(of a proposal, issue, or other thing) to warrant attention, consideration, or a particular response"
+      ],
+      "ja": [
+        "（行いや経験に照らして）報い・待遇・結果を受けるのにふさわしい、〜に値する",
+        "（提案・問題などが）注意や検討、一定の対応に値する"
+      ]
+    },
+    "nuance": {
+      "en": "Deserve expresses a judgment about what would be fair or appropriate. It can refer to a reward or an unpleasant consequence. You deserve a break is a warm way to acknowledge someone’s effort, while You deserve better suggests they should be treated better than they are.",
+      "ja": "行いや状況に照らして、どんな扱いや結果がふさわしいかという判断を表す。ご褒美にも、処罰などの好ましくない結果にも使う。You deserve a break. は相手の頑張りをねぎらう表現。You deserve better. は、今よりよい扱いを受けて当然だという気持ちを伝える。"
+    },
+    "minimal": {
+      "en": [
+        "earn: Obtain or become entitled to something through work or conduct. She earned their trust describes trust she actually gained. She deserves their trust expresses a judgment about what is warranted.",
+        "be entitled to: Often refers to a right established by a rule, contract, or law. Deserve expresses what the speaker considers fair or appropriate.",
+        "be worth: Often assesses value or whether something is worth the effort. The proposal is worth reading highlights the value of reading it. The proposal deserves to be read suggests it merits attention."
+      ],
+      "ja": [
+        "earn：努力や行いによって手にする。She earned their trust. は実際に信頼を得たこと、She deserves their trust. は信頼されるに値するという評価を表す。",
+        "be entitled to：規則・契約・法律などで認められた権利を表すことが多い。deserve は妥当さや公平さについての判断を表す。",
+        "be worth：価値や、手間をかけるだけの見返りがあるかを評価することが多い。The proposal is worth reading. は読む価値、The proposal deserves to be read. は提案に目を通すべきだという評価を表す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "merit",
+        "note": {
+          "en": "Close and more formal, especially with attention, consideration, or further investigation.",
+          "ja": "より改まった言い方。注意・検討・追加調査に値するという文脈で近い。"
+        }
+      },
+      {
+        "word": "be worthy of",
+        "note": {
+          "en": "Close when someone or something merits a specified response or recognition.",
+          "ja": "ある対応や評価を受けるのにふさわしいという意味で近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French deservir, ultimately from Latin deservire ‘serve devotedly’, built on servire ‘serve’. Related English forms include deserved, well-deserved, and undeserved.",
+      "ja": "古フランス語 deservir を経由し、ラテン語 deservire（熱心に仕える）に由来する。もとは servire（仕える）。関連語に deserved、well-deserved、undeserved がある。"
+    },
+    "equivalents": {
+      "de": "verdienen",
+      "it": "meritare",
+      "fr": "mériter",
+      "es": "merecer"
+    },
+    "collocations": {
+      "en": [
+        "deserve a break",
+        "deserve credit for something",
+        "deserve a second chance",
+        "deserve better",
+        "deserve attention",
+        "deserve further consideration",
+        "deserve to win",
+        "deserve to be heard",
+        "get what you deserve"
+      ],
+      "ja": [
+        "deserve a break — ひと休みしていいだけ頑張った",
+        "deserve credit for something — 〜について評価されるに値する",
+        "deserve a second chance — もう一度チャンスを与えられるに値する",
+        "deserve better — もっとよい扱いを受けて当然だ",
+        "deserve attention — 注目に値する",
+        "deserve further consideration — さらに検討する価値がある",
+        "deserve to win — 勝つに値する",
+        "deserve to be heard — 話を聞いてもらうに値する",
+        "get what you deserve — 自分の行いに見合った報いを受ける"
+      ]
+    },
+    "example": {
+      "en": [
+        "You’ve been working all weekend. You deserve a break.",
+        "The examiner’s objection deserves to be considered carefully before we respond.",
+        "He deserved a warning for ignoring the safety rules."
+      ],
+      "ja": [
+        "You’ve been working all weekend. You deserve a break. — 週末ずっと働いてたんだから、少し休んでいいよ。",
+        "The examiner’s objection deserves to be considered carefully before we respond. — 審査官の指摘は、応答する前に慎重に検討する価値がある。",
+        "He deserved a warning for ignoring the safety rules. — 安全規則を無視したのだから、注意を受けるのも当然だった。"
+      ]
+    }
   }
 ]
