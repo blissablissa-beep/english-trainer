@@ -13725,5 +13725,127 @@
         "Adding a second example here might just confuse the issue. — ここで例をもう一つ加えると、かえって論点が分かりにくくなるかもしれない。"
       ]
     }
+  },
+  {
+    "id": "rigid",
+    "sid": "2026-02045",
+    "word": "rigid",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "adjective",
+      "materials",
+      "behavior",
+      "work"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "rigid",
+        "comparative": "more rigid",
+        "superlative": "most rigid"
+      },
+      "patterns": [
+        "rigid + frame / material / rules",
+        "be rigid about + noun",
+        "go rigid with + emotion",
+        "hold + body part + rigid"
+      ],
+      "usage": {
+        "context": "A rigid frame can be a desirable design feature. A rigid policy often suggests that there is too little room for exceptions."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈrɪdʒ.ɪd/",
+        "uk": "/ˈrɪdʒ.ɪd/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "stiff and difficult to bend or deform",
+        "fixed and unwilling or difficult to change or adapt",
+        "stiff and motionless, especially because of fear or tension"
+      ],
+      "ja": [
+        "硬くて曲がりにくい、変形しにくい",
+        "固定的な、柔軟性がない、融通が利かない",
+        "恐怖や緊張などで体がこわばった、身動きしない"
+      ]
+    },
+    "nuance": {
+      "en": "Rigid emphasizes resistance to bending or change. A rigid frame holds its shape, which may be exactly what a design calls for. A rigid process can be predictable, but the word often suggests it handles unusual cases poorly. Someone who goes rigid with fear suddenly stiffens up.",
+      "ja": "曲げたり変えたりしにくいことに焦点がある。rigid frame は形が崩れにくい枠で、設計上の長所にもなる。rigid process は進め方が一定という面もあるが、例外に対応しにくいという批判を含みやすい。go rigid with fear は、恐怖で急に体がこわばること。"
+    },
+    "minimal": {
+      "en": [
+        "hard: Often describes a surface that resists indentation or scratching. Rigid describes resistance to bending or deformation.",
+        "stiff: Can describe something that bends only with effort, or muscles that are hard to move. Rigid generally suggests even less give.",
+        "strict: Describes firm enforcement of rules or high standards. Rigid emphasizes how difficult the rules or methods are to adapt."
+      ],
+      "ja": [
+        "hard：押してもへこみにくい、表面に傷がつきにくいなどの硬さを表すことがある。rigid は曲がりにくさや変形しにくさに着目する。",
+        "stiff：力を入れないと曲がらない物や、動かしにくい筋肉にも使う。rigid はさらにしなりや動きが少ない感じを出しやすい。",
+        "strict：規則を厳しく守らせることや、基準が厳しいことに焦点がある。rigid は規則ややり方を状況に応じて変えにくいことを強調する。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "inflexible",
+        "note": {
+          "en": "Close for a rule, process, or attitude that leaves little room for adaptation.",
+          "ja": "調整の余地が少ない規則・手順・考え方を表す場合に近い。"
+        }
+      },
+      {
+        "word": "unyielding",
+        "note": {
+          "en": "Close for something that gives little under pressure, literally or figuratively.",
+          "ja": "物理的にも比喩的にも、力や圧力を受けてもほとんど譲らない場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin rigidus ‘stiff, hard, severe’, from rigēre ‘to be stiff’. The related English noun is rigidity, and the adverb is rigidly.",
+      "ja": "ラテン語 rigidus（硬い、こわばった、厳しい）に由来し、そのもとは rigēre（こわばっている）。関連語は rigidity（名詞、剛性・硬直性）と rigidly（副詞）。"
+    },
+    "equivalents": {
+      "de": "starr / unflexibel",
+      "it": "rigido / inflessibile",
+      "fr": "rigide / inflexible",
+      "es": "rígido / inflexible"
+    },
+    "collocations": {
+      "en": [
+        "a rigid frame",
+        "a rigid plastic shell",
+        "a rigid set of rules",
+        "a rigid schedule",
+        "a rigid approach",
+        "rigid thinking",
+        "go rigid with fear"
+      ],
+      "ja": [
+        "a rigid frame — 変形しにくいフレーム",
+        "a rigid plastic shell — 硬くてしならないプラスチック製の外殻",
+        "a rigid set of rules — 融通の利かない規則",
+        "a rigid schedule — 変更のきかない日程",
+        "a rigid approach — 柔軟性を欠いたやり方",
+        "rigid thinking — 硬直した考え方",
+        "go rigid with fear — 恐怖で体がこわばる"
+      ]
+    },
+    "example": {
+      "en": [
+        "The case has a rigid outer shell and a soft lining.",
+        "The policy is too rigid to accommodate unusual cases.",
+        "She went rigid when she heard footsteps behind her."
+      ],
+      "ja": [
+        "The case has a rigid outer shell and a soft lining. — そのケースは、外側が硬くて変形しにくく、内側には柔らかい裏地がある。",
+        "The policy is too rigid to accommodate unusual cases. — その方針は融通が利かず、例外的な事例に対応できない。",
+        "She went rigid when she heard footsteps behind her. — 背後で足音を聞いたとき、彼女は体をこわばらせた。"
+      ]
+    }
   }
 ]
