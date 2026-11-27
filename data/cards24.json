@@ -9636,5 +9636,116 @@
         "From above, you can see how the canals form an intricate network across the old town. — 上から見ると、旧市街を縫うように運河が入り組んでいるのが分かる。"
       ]
     }
+  },
+  {
+    "id": "methodology",
+    "sid": "2026-02094",
+    "word": "methodology",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "noun",
+      "research",
+      "business",
+      "analysis"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "countable for a particular approach; uncountable for the study or discussion of methods",
+      "forms": {
+        "base": "methodology",
+        "plural": "methodologies"
+      },
+      "patterns": [
+        "a methodology for + noun / -ing",
+        "the methodology of + study",
+        "the methodology behind + estimate / ranking",
+        "use / develop / explain a methodology"
+      ],
+      "usage": {
+        "countability": "A methodology for comparing prices names a particular approach. Research methodology can refer to the study of how research methods are chosen and used."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌmeθ.əˈdɑː.lə.dʒi/",
+        "uk": "/ˌmeθ.əˈdɒl.ə.dʒi/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "an organized approach to doing research, conducting an assessment, or carrying out another kind of work",
+        "the study or discussion of the methods and principles used in a field"
+      ],
+      "ja": [
+        "調査・評価などで用いる体系的な進め方、手法の体系",
+        "ある分野で用いられる方法や原則を検討すること、方法論"
+      ]
+    },
+    "nuance": {
+      "en": "In research, methodology often covers the overall design and the reasons for choosing particular methods. In business and technical writing it can also mean a systematic procedure, as in a methodology for ranking products. A methodology may involve several methods or be built around one main method.",
+      "ja": "研究では、調査全体の設計や、個々の手法を選んだ理由まで含めることが多い。実務文書では、製品の順位づけなどをどう進めるかを定めた体系的な手順も指す。複数の手法を組み合わせる場合にも、一つの主要な手法を軸にする場合にも使える。"
+    },
+    "minimal": {
+      "en": [
+        "method: A particular way of doing something. A phone interview can be one method within a study’s methodology.",
+        "procedure: The steps to follow in a particular order. A methodology can also cover choices about what to measure and how to compare results.",
+        "approach: A broad way of tackling a problem. Methodology often suggests a more explicit, systematic account of how the work is done."
+      ],
+      "ja": [
+        "method：あることを行う個別の方法。電話での聞き取りは、調査全体の methodology に含まれる一つの method になり得る。",
+        "procedure：決まった順序で行う手順。methodology には、何を測り、結果をどう比較するかという設計上の選択も含められる。",
+        "approach：課題にどう取り組むかを広く表す。methodology は、作業をどう進めるかが明示され、体系立っているという響きが出やすい。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "systematic approach",
+        "note": {
+          "en": "Close when methodology means an organized way of carrying out work.",
+          "ja": "作業の体系的な進め方を指す場合の言い換え。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from method + -ology, a suffix used in names for fields of study.",
+      "ja": "method（方法）に、学問分野の名前などを作る語尾 -ology が付いた語。"
+    },
+    "equivalents": {
+      "de": "Methodik / Methodenlehre",
+      "it": "metodologia",
+      "fr": "méthodologie",
+      "es": "metodología"
+    },
+    "collocations": {
+      "en": [
+        "research methodology",
+        "survey methodology",
+        "an assessment methodology",
+        "the methodology behind the ranking",
+        "a transparent methodology",
+        "develop a methodology for comparing results"
+      ],
+      "ja": [
+        "research methodology — 研究方法論、研究の進め方",
+        "survey methodology — 調査方法、調査設計",
+        "an assessment methodology — 体系的な評価方法",
+        "the methodology behind the ranking — 順位づけに用いた方法",
+        "a transparent methodology — 判断基準や手順が明確な方法",
+        "develop a methodology for comparing results — 結果を比較するための体系的な方法を作る"
+      ]
+    },
+    "example": {
+      "en": [
+        "The report explains its methodology, including how participants were selected and why interviews were used.",
+        "Before comparing the two rankings, check whether they use the same methodology.",
+        "We need a consistent methodology for counting patent families across jurisdictions."
+      ],
+      "ja": [
+        "The report explains its methodology, including how participants were selected and why interviews were used. — その報告書は、参加者の選び方や聞き取り調査を採用した理由を含め、調査全体の進め方を説明している。",
+        "Before comparing the two rankings, check whether they use the same methodology. — 二つのランキングを比較する前に、同じ算出方法が使われているか確認してください。",
+        "We need a consistent methodology for counting patent families across jurisdictions. — 各国・地域のパテントファミリーを数えるには、一貫した集計方法が必要だ。"
+      ]
+    }
   }
 ]
