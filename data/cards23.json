@@ -13847,5 +13847,131 @@
         "She went rigid when she heard footsteps behind her. — 背後で足音を聞いたとき、彼女は体をこわばらせた。"
       ]
     }
+  },
+  {
+    "id": "strict",
+    "sid": "2026-02046",
+    "word": "strict",
+    "level": "B1",
+    "freq": "often",
+    "tags": [
+      "adjective",
+      "rules",
+      "work",
+      "daily life"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "strict",
+        "comparative": "stricter",
+        "superlative": "strictest"
+      },
+      "patterns": [
+        "strict with + person",
+        "strict about + rule / topic / -ing",
+        "strict + rules / standards / deadline",
+        "in the strict sense (of the word)"
+      ],
+      "usage": {
+        "prepositions": "Strict with someone identifies the person expected to follow the rules. Strict about something identifies the rule or area where compliance matters."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/strɪkt/",
+        "uk": "/strɪkt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "requiring or enforcing close obedience to rules, standards, or limits",
+        "precise, exact, or narrowly defined",
+        "complete or absolute, especially when a condition is to be maintained"
+      ],
+      "ja": [
+        "規則・基準・制限を厳しく守らせる、厳格な",
+        "厳密な、正確な、狭い意味での",
+        "徹底した、完全な（守るべき状態などについて）"
+      ]
+    },
+    "nuance": {
+      "en": "A strict teacher expects students to follow the rules closely. A strict deadline leaves little room for lateness. In phrases such as in the strict sense and in strict confidence, strict emphasizes precision or completeness.",
+      "ja": "a strict teacher は、規則をきちんと守るよう求める先生。a strict deadline は、遅れがほとんど認められない締切。in the strict sense や in strict confidence では、意味の厳密さや秘密保持の徹底を表す。"
+    },
+    "minimal": {
+      "en": [
+        "rigid: Emphasizes how difficult a rule or system is to change. Strict emphasizes how closely a rule is followed or enforced. A school can enforce its rules strictly and still revise them when needed.",
+        "stern: Describes a serious or forbidding manner, as in a stern look. Strict is often about rules or standards.",
+        "stringent: A more formal word for demanding requirements or controls, as in stringent safety standards."
+      ],
+      "ja": [
+        "rigid：規則や制度を柔軟に変えにくいことに重点がある。strict は規則をどれだけ厳しく守らせるかに着目する。規則を厳格に運用しつつ、必要に応じて改訂することもできる。",
+        "stern：a stern look のように、表情や態度の厳しさを表す。strict は規則や基準について使うことが多い。",
+        "stringent：要求や規制が厳しいことを表す改まった語。stringent safety standards は「厳しい安全基準」。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "exacting",
+        "note": {
+          "en": "Close for a person or standard that demands a high level of care or precision.",
+          "ja": "高い水準や細部への注意を求める人・基準について近い。"
+        }
+      },
+      {
+        "word": "precise",
+        "note": {
+          "en": "Close when strict describes a definition or the sense of a word.",
+          "ja": "定義や語の意味の厳密さを表す場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Latin strictus ‘drawn tight’, the past participle of stringere ‘to draw or bind tight’. Early English used strict for things confined within narrow limits. Later uses extended to rules and exact standards.",
+      "ja": "ラテン語 strictus（きつく締められた）に由来し、これは stringere（きつく締める、縛る）の過去分詞。初期の英語では狭い範囲に限られたものを指し、のちに規則の厳格さや基準の厳密さを表すようになった。"
+    },
+    "equivalents": {
+      "de": "streng / strikt / im engeren Sinne",
+      "it": "severo / rigoroso / in senso stretto",
+      "fr": "strict / rigoureux / au sens strict",
+      "es": "estricto / riguroso / en sentido estricto"
+    },
+    "collocations": {
+      "en": [
+        "strict rules",
+        "strict safety standards",
+        "a strict deadline",
+        "a strict diet",
+        "be strict with children",
+        "be strict about punctuality",
+        "in the strict sense of the word",
+        "in strict confidence"
+      ],
+      "ja": [
+        "strict rules — 厳格な規則",
+        "strict safety standards — 厳しい安全基準",
+        "a strict deadline — 厳守すべき締切",
+        "a strict diet — 厳格な食事制限",
+        "be strict with children — 子どもに厳しい",
+        "be strict about punctuality — 時間厳守に厳しい",
+        "in the strict sense of the word — その語の厳密な意味で",
+        "in strict confidence — 厳重に秘密を守ることを前提に"
+      ]
+    },
+    "example": {
+      "en": [
+        "Our teacher is strict about deadlines and expects everyone to hand in their work on time.",
+        "The lab has strict safety rules, which it updates whenever new equipment is installed.",
+        "In the strict sense of the word, this is a replica rather than a restoration.",
+        "She shared the draft with me in strict confidence."
+      ],
+      "ja": [
+        "Our teacher is strict about deadlines and expects everyone to hand in their work on time. — 先生は締切に厳しく、全員が期限どおりに課題を提出するよう求めている。",
+        "The lab has strict safety rules, which it updates whenever new equipment is installed. — その研究室には厳格な安全規則があり、新しい機器を導入するたびに規則を見直している。",
+        "In the strict sense of the word, this is a replica rather than a restoration. — 厳密に言えば、これは修復品というより複製品だ。",
+        "She shared the draft with me in strict confidence. — 彼女は、厳重に秘密を守ることを条件に草稿を私に見せた。"
+      ]
+    }
   }
 ]
