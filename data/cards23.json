@@ -14720,5 +14720,133 @@
         "She rarely advertises her achievements, even when she has good reason to be proud of them. — 胸を張っていい実績でも、彼女はそれを人に言い広めることはめったにない。"
       ]
     }
+  },
+  {
+    "id": "promote",
+    "sid": "2026-02053",
+    "word": "promote",
+    "level": "B2",
+    "freq": "often",
+    "tags": [
+      "verb",
+      "work",
+      "marketing",
+      "sports"
+    ],
+    "grammar": {
+      "pos": "verb",
+      "transitivity": "transitive",
+      "forms": {
+        "base": "promote",
+        "thirdPerson": "promotes",
+        "past": "promoted",
+        "pastParticiple": "promoted",
+        "presentParticiple": "promoting"
+      },
+      "patterns": [
+        "promote someone to + position / rank",
+        "be / get promoted to + position / division",
+        "promote A from X to Y",
+        "promote + product / event / goal",
+        "promote A as + description"
+      ],
+      "usage": {
+        "career": "Use She was promoted to manager or She got promoted to manager for the person who moves up. In The company promoted her to manager, the company makes the decision."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/prəˈmoʊt/",
+        "uk": "/prəˈməʊt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to advance a person to a higher position or rank, or move a team to a higher division",
+        "to draw attention to a product, event, or person to increase sales, attendance, or support",
+        "to encourage the growth, spread, or adoption of something"
+      ],
+      "ja": [
+        "人を昇進・昇格させる。チームを上位のリーグに昇格させる",
+        "商品・イベント・人物などを宣伝し、販売・参加・支持を増やそうとする",
+        "物事の発展・普及・導入を促進する、振興する"
+      ]
+    },
+    "nuance": {
+      "en": "Promote a product can involve ads, demonstrations, or special offers. Promote a goal such as fair competition means taking steps to encourage it. Promote someone to a position identifies the new rank or job.",
+      "ja": "promote a product には広告を出すほか、実演や購入特典なども含まれる。promote fair competition は、公正な競争が行われるよう働きかけること。promote someone to a position の to の後ろには、昇進先の役職や等級が来る。"
+    },
+    "minimal": {
+      "en": [
+        "advertise: Usually involves ads or public notices. Promote includes other ways of attracting attention, such as demonstrations and appearances.",
+        "foster: Encourage something to develop over time, as in foster trust. Promote can also refer to advocacy or organized action, as in promote equal access.",
+        "appoint: Give someone a particular job or role. Promote indicates a move to a higher rank or level."
+      ],
+      "ja": [
+        "advertise：広告や公の告知を出して知らせる。promote は実演やイベントへの出演などで注目を集める場合も含む。",
+        "foster：foster trust のように時間をかけて育む。promote は promote equal access のように、目標に向けて制度や活動を通じて働きかける場合にも使う。",
+        "appoint：特定の職や役割に任命する。promote は地位や等級が上がることを表す。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "advance",
+        "note": {
+          "en": "Close in the sense of moving someone up or helping a cause make progress.",
+          "ja": "人の地位を上げたり、活動を前進させたりする場合に近い。"
+        }
+      },
+      {
+        "word": "publicize",
+        "note": {
+          "en": "Close when the aim is to make an event or product more widely known.",
+          "ja": "イベントや商品をより広く知らせる場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From Old French promoter and Latin prōmōtus, the past participle of prōmovēre ‘to move forward’. Prōmovēre combines prō ‘forward’ and movēre ‘to move’. The early English use concerned raising someone in rank; the broader sense of helping something progress followed.",
+      "ja": "古フランス語 promoter と、ラテン語 prōmovēre（前へ進める）の過去分詞 prōmōtus に由来する。prō（前へ）と movēre（動かす）からなる。英語では初め、人の地位を上げることを指し、のちに物事の進展を助ける広い意味でも使われるようになった。"
+    },
+    "equivalents": {
+      "de": "befördern / für etwas werben / fördern",
+      "it": "promuovere / pubblicizzare / favorire",
+      "fr": "promouvoir / faire la promotion de / favoriser",
+      "es": "ascender a alguien / promocionar / fomentar"
+    },
+    "collocations": {
+      "en": [
+        "promote someone to manager",
+        "be promoted to the top division",
+        "promote a new product",
+        "promote a concert",
+        "promote a service as affordable",
+        "promote fair competition",
+        "promote public health"
+      ],
+      "ja": [
+        "promote someone to manager — 人を管理職に昇進させる",
+        "be promoted to the top division — 最上位リーグに昇格する",
+        "promote a new product — 新商品を宣伝する",
+        "promote a concert — コンサートを宣伝する",
+        "promote a service as affordable — 手頃な料金のサービスとして売り込む",
+        "promote fair competition — 公正な競争を促進する",
+        "promote public health — 公衆衛生の向上を図る"
+      ]
+    },
+    "example": {
+      "en": [
+        "The firm promoted her to head of its trademark practice.",
+        "The publisher sent the author on a book tour to promote her new novel.",
+        "The program promotes collaboration between universities and small businesses.",
+        "The club was promoted to the top division after winning the playoff final."
+      ],
+      "ja": [
+        "The firm promoted her to head of its trademark practice. — その事務所は彼女を商標部門の責任者に昇進させた。",
+        "The publisher sent the author on a book tour to promote her new novel. — 出版社は新作小説の宣伝のため、著者を各地の書店などを巡るツアーに送り出した。",
+        "The program promotes collaboration between universities and small businesses. — そのプログラムは、大学と中小企業の連携を促進する。",
+        "The club was promoted to the top division after winning the playoff final. — そのクラブはプレーオフ決勝に勝ち、最上位リーグに昇格した。"
+      ]
+    }
   }
 ]
