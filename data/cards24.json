@@ -9860,5 +9860,125 @@
         "The storm knocked out power across large swaths of the region. — 嵐の影響で、その地域の広い範囲で停電が起きた。"
       ]
     }
+  },
+  {
+    "id": "inconvenient",
+    "sid": "2026-02096",
+    "word": "inconvenient",
+    "level": "B2",
+    "freq": "common",
+    "tags": [
+      "adjective",
+      "conversation",
+      "scheduling",
+      "travel"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "inconvenient",
+        "comparative": "more inconvenient",
+        "superlative": "most inconvenient"
+      },
+      "patterns": [
+        "an inconvenient + time / location",
+        "at an inconvenient time",
+        "be inconvenient for + person",
+        "be inconvenient for + person + to + verb",
+        "be inconvenient to + verb"
+      ],
+      "usage": {
+        "spelling": "Spell it inconvenient, with -venient as in convenient.",
+        "subject": "Use a time, place, or arrangement as the subject. Would Tuesday be inconvenient for you? asks whether Tuesday is a bad time for the other person."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˌɪn.kənˈviː.ni.ənt/",
+        "uk": "/ˌɪn.kənˈviː.ni.ənt/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "causing extra effort or difficulty because something is hard to reach, use, or arrange",
+        "unsuitable for someone because of the time, circumstances, or trouble involved"
+      ],
+      "ja": [
+        "手間がかかる、使いにくい、行きにくいなどの点で不便な",
+        "時間や事情の点で都合が悪い、具合が悪い"
+      ]
+    },
+    "nuance": {
+      "en": "An inconvenient location makes getting somewhere harder. An inconvenient time clashes with someone’s plans or routine. If that’s inconvenient for you is a tactful way to acknowledge that a proposed arrangement may cause trouble and leave room for an alternative. An inconvenient fact can be true and unwelcome because it undermines someone’s argument or plans.",
+      "ja": "an inconvenient location は行きにくい立地、an inconvenient time は予定や生活の都合に合わない時間。If that’s inconvenient for you は「もしご都合が悪ければ」と、相手に別案を選ぶ余地を残す言い方。an inconvenient fact は、計画や主張にとって都合の悪い事実を指す。"
+    },
+    "minimal": {
+      "en": [
+        "uncomfortable: Focuses on physical discomfort or unease. An inconvenient seat location might require others to stand up when you leave. An uncomfortable seat is unpleasant to sit in.",
+        "unavailable: Describes someone who cannot meet or something that cannot be obtained. Inconvenient describes an option that may be possible but involves difficulty or extra effort.",
+        "awkward: Can describe a time or arrangement that is difficult to manage, and can also describe social embarrassment."
+      ],
+      "ja": [
+        "uncomfortable：身体的な不快さや気まずさに焦点がある。an inconvenient seat location は立ち上がるときなどに不便な席の位置、an uncomfortable seat は座り心地の悪い席。",
+        "unavailable：人が予定を空けられない、物が手に入らないことを表す。inconvenient は、実行できても手間や支障がある場合に使える。",
+        "awkward：都合の悪い時間や扱いにくい段取りにも、対人関係の気まずさにも使える。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "ill-timed",
+        "note": {
+          "en": "Close when something happens at a bad moment.",
+          "ja": "物事が都合の悪いタイミングで起こる場合に近い。"
+        }
+      },
+      {
+        "word": "impractical",
+        "note": {
+          "en": "Close for an arrangement that is hard to carry out. Impractical can suggest that it is not workable in practice.",
+          "ja": "実行しにくい段取りについて近い。impractical には、現実にはうまく実行できないという含みもある。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From in- ‘not’ + convenient. The related noun is inconvenience, as in Sorry for the inconvenience.",
+      "ja": "否定を表す in- と convenient（便利な、都合がよい）からなる。対応する名詞は inconvenience（不便、手間、迷惑）。"
+    },
+    "equivalents": {
+      "de": "ungünstig / umständlich / unpraktisch",
+      "it": "scomodo / poco pratico",
+      "fr": "peu pratique / inopportun",
+      "es": "poco práctico / inoportuno"
+    },
+    "collocations": {
+      "en": [
+        "an inconvenient time",
+        "an inconvenient location",
+        "at the most inconvenient moment",
+        "inconvenient for passengers",
+        "an inconvenient fact",
+        "Sorry for the inconvenience."
+      ],
+      "ja": [
+        "an inconvenient time — 都合の悪い時間",
+        "an inconvenient location — 行きにくい場所、不便な立地",
+        "at the most inconvenient moment — 一番都合の悪いときに",
+        "inconvenient for passengers — 利用客にとって不便な",
+        "an inconvenient fact — 都合の悪い事実",
+        "Sorry for the inconvenience. — ご不便をおかけしてすみません。"
+      ]
+    },
+    "example": {
+      "en": [
+        "If Tuesday morning is inconvenient for you, we can move the call to Thursday.",
+        "The hotel was comfortable, but its location was inconvenient if you didn’t have a car.",
+        "The report left out an inconvenient fact: costs had already started falling before the change."
+      ],
+      "ja": [
+        "If Tuesday morning is inconvenient for you, we can move the call to Thursday. — 火曜の午前がご都合悪ければ、打ち合わせを木曜に変更できます。",
+        "The hotel was comfortable, but its location was inconvenient if you didn’t have a car. — ホテルは快適だったが、車がないと不便な場所にあった。",
+        "The report left out an inconvenient fact: costs had already started falling before the change. — その報告書は、変更前からすでに費用が下がり始めていたという、都合の悪い事実を省いていた。"
+      ]
+    }
   }
 ]
