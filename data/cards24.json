@@ -9980,5 +9980,117 @@
         "The report left out an inconvenient fact: costs had already started falling before the change. — その報告書は、変更前からすでに費用が下がり始めていたという、都合の悪い事実を省いていた。"
       ]
     }
+  },
+  {
+    "id": "fairness",
+    "sid": "2026-02097",
+    "word": "fairness",
+    "level": "B2",
+    "freq": "common",
+    "tags": [
+      "noun",
+      "evaluation",
+      "conversation"
+    ],
+    "grammar": {
+      "pos": "noun",
+      "countability": "uncountable",
+      "forms": {
+        "base": "fairness"
+      },
+      "patterns": [
+        "the fairness of + decision / process",
+        "fairness in + noun / -ing",
+        "a sense of fairness",
+        "in fairness (to + person), + clause",
+        "in all fairness, + clause"
+      ],
+      "usage": {
+        "discourse": "In fairness to her, she had very little time introduces a factor that should be taken into account when judging her."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈfer.nəs/",
+        "uk": "/ˈfeə.nəs/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "the quality of treating people justly and considering their circumstances without unjust bias",
+        "(in fairness) taking relevant circumstances into account before judging someone or something"
+      ],
+      "ja": [
+        "公正さ、公平さ。人を不当に偏った扱いにせず、事情も踏まえて妥当に判断すること。",
+        "（in fairness）公平に見れば、事情をくんで言うと"
+      ]
+    },
+    "nuance": {
+      "en": "Fairness can concern the rules and procedure or how the benefits and burdens are distributed. What counts as fair may depend on the circumstances. In fairness to someone often adds a point in their defence or qualifies a criticism.",
+      "ja": "ルールや手続の公正さにも、利益や負担の配分の公平さにも使う。何が公平かは事情によって変わる。in fairness to someone は、その人を評価する際に、本人に有利な事情を付け加えたり、批判を和らげたりするときによく使う。"
+    },
+    "minimal": {
+      "en": [
+        "equality: Being equal in status, opportunity, treatment, or amount. Fairness asks whether the treatment or outcome is just in the circumstances.",
+        "impartiality: Avoiding favouritism when judging or deciding. Fairness can also include whether people were given a chance to explain their position.",
+        "to be fair: A common conversational alternative to in fairness when adding a point that balances what has just been said."
+      ],
+      "ja": [
+        "equality：地位・機会・扱い・量などが等しいこと。fairness は、その状況で扱いや結果が妥当かどうかに焦点がある。",
+        "impartiality：判断や決定で特定の側をひいきしないこと。fairness には、当事者に言い分を説明する機会が与えられたかどうかも含められる。",
+        "to be fair：直前の発言に別の視点や考慮すべき事情を添えるときの、会話でよく使う言い方。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "fair treatment",
+        "note": {
+          "en": "Close when the focus is how people are treated.",
+          "ja": "人に対する扱いの公平さに焦点がある場合に近い。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "Formed from fair ‘just, reasonable’ and the noun suffix -ness.",
+      "ja": "fair（公正な、妥当な）に、性質を表す名詞語尾 -ness が付いた語。"
+    },
+    "equivalents": {
+      "de": "Fairness / Gerechtigkeit",
+      "it": "equità / correttezza",
+      "fr": "équité / impartialité",
+      "es": "equidad / imparcialidad"
+    },
+    "collocations": {
+      "en": [
+        "a sense of fairness",
+        "procedural fairness",
+        "ensure fairness",
+        "question the fairness of a decision",
+        "in the interests of fairness",
+        "in fairness to her",
+        "in all fairness"
+      ],
+      "ja": [
+        "a sense of fairness — 公平さを重んじる感覚",
+        "procedural fairness — 手続の公正さ",
+        "ensure fairness — 公平性を確保する",
+        "question the fairness of a decision — 決定の公正さに疑問を呈する",
+        "in the interests of fairness — 公平を期すために",
+        "in fairness to her — 彼女の事情もくんで言うと",
+        "in all fairness — 公平に見れば"
+      ]
+    },
+    "example": {
+      "en": [
+        "Several applicants questioned the fairness of the selection process after the criteria changed halfway through.",
+        "In fairness to the team, they had only two days to review the draft.",
+        "In the interests of fairness, both speakers will have five minutes to respond."
+      ],
+      "ja": [
+        "Several applicants questioned the fairness of the selection process after the criteria changed halfway through. — 途中で審査基準が変わったため、応募者の何人かは選考過程の公正さに疑問を呈した。",
+        "In fairness to the team, they had only two days to review the draft. — チームの事情もくんで言えば、原稿を確認する時間は２日しかなかった。",
+        "In the interests of fairness, both speakers will have five minutes to respond. — 公平を期すため、両方の発言者に５分ずつ反論の時間を設けます。"
+      ]
+    }
   }
 ]
