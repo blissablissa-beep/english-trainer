@@ -10348,132 +10348,122 @@
     }
   },
   {
-    "id": "weave",
+    "id": "yap",
     "sid": "2026-02100",
-    "word": "weave",
-    "level": "B2",
+    "word": "yap",
+    "level": "C1",
     "freq": "sometimes",
     "tags": [
       "verb",
       "noun",
-      "textiles",
-      "movement",
-      "figurative"
+      "informal",
+      "animals",
+      "conversation"
     ],
     "grammar": {
       "pos": "verb / noun",
-      "transitivity": "transitive or intransitive",
-      "countability": "countable for a type of weave",
+      "transitivity": "intransitive",
+      "countability": "countable for a short bark",
       "forms": {
-        "base": "weave",
-        "thirdPerson": "weaves",
-        "past": "wove / weaved",
-        "pastParticiple": "woven / weaved",
-        "presentParticiple": "weaving",
-        "plural": "weaves"
+        "base": "yap",
+        "thirdPerson": "yaps",
+        "past": "yapped",
+        "pastParticiple": "yapped",
+        "presentParticiple": "yapping",
+        "plural": "yaps"
       },
       "patterns": [
-        "weave + cloth / basket",
-        "weave A into B",
-        "weave A and B together",
-        "weave through + crowd / traffic",
-        "weave in and out of + noun",
-        "weave one’s way through + noun"
+        "yap at + person / animal",
+        "yap about + topic",
+        "yap away",
+        "a sharp yap"
       ],
       "usage": {
-        "inflection": "Wove and woven are the usual forms for making fabric and are natural for figurative weaving. Weaved is a common choice in the movement sense, although wove is also used, as in She wove her way through the crowd."
+        "register": "When used of a person, yap is informal and usually sounds dismissive, though friends may use it jokingly. Double the p in yapped and yapping."
       }
     },
     "pronunciation": {
       "ipa": {
-        "us": "/wiːv/",
-        "uk": "/wiːv/"
+        "us": "/jæp/",
+        "uk": "/jæp/"
       }
     },
     "meaning": {
       "en": [
-        "to make cloth or another object by interlacing threads, fibres, or similar materials",
-        "to combine several elements into a coherent whole, especially in a story or piece of music",
-        "to move by repeatedly changing direction to pass between things",
-        "(noun) the way threads cross or are arranged in a fabric"
+        "(verb) to make short, high-pitched barks, especially of a small dog",
+        "(verb, informal) to talk at length or noisily in a way the speaker finds annoying or excessive",
+        "(noun) a short, high-pitched bark"
       ],
       "ja": [
-        "糸や繊維などを交差させて布などを織る、かごなどを編む",
-        "複数の要素を組み合わせる、物語や音楽などに織り込む",
-        "人や物の間を縫うように進む、方向を何度も変えながら進む",
-        "（名詞）布の織り方、織り目"
+        "（動詞）特に小型犬が、キャンキャンと甲高く吠える",
+        "（動詞・口語）ぺちゃくちゃしゃべり続ける、うるさくしゃべる",
+        "（名詞）短く甲高い吠え声"
       ]
     },
     "nuance": {
-      "en": "Weave A into B suggests making A part of the structure of B, as if threading it through fabric. A recurring motif can be woven into a novel or a piece of music. In the movement sense, weaving suggests a path that bends repeatedly around people or objects.",
-      "ja": "weave A into B は、糸を織り込むように、AをBの構成の一部にすることを表す。小説や音楽の中に、繰り返し現れるモチーフを織り込む場合にも使える。移動では、人や物をよけながら何度も向きを変えて進む動きを表す。"
+      "en": "Yap describes the sound of a short, sharp bark. Applied to people, it often conveys impatience with how much someone is talking. I’m yapping again can be playful and self-deprecating.",
+      "ja": "犬については短く甲高い吠え声を表す。人について使うと、話が長い、うるさいと感じている響きが出やすい。I’m yapping again. のように、自分のおしゃべりを冗談めかして言うこともある。"
     },
     "minimal": {
       "en": [
-        "knit: Make fabric by forming interlocking loops of yarn. Weave usually suggests crossing threads or strips over and under one another.",
-        "braid: Interlace several strands into a plait, as with hair. Weave also describes making a surface, such as a cloth or the side of a basket.",
-        "zigzag: Highlights a path with repeated changes of direction. Weave often suggests moving between obstacles."
+        "bark: The general word for a dog’s call. Yap highlights short, high-pitched barks.",
+        "yelp: A sudden sharp cry, often in pain or surprise. A dog can yap repeatedly at a visitor.",
+        "ramble: Talk at length without a clear direction. Yap often emphasizes how much the person talks or how annoying it sounds."
       ],
       "ja": [
-        "knit：糸の輪をつなげて編む。weave は糸や細長い材料を上下に交差させて織る動きを表しやすい。",
-        "braid：髪などの数本の束を組んで編む。weave は布やかごの側面のように面を作る場合にも使える。",
-        "zigzag：進路が何度も折れ曲がることを強調する。weave は障害物の間を縫う動きに使いやすい。"
+        "bark：犬が吠えることを広く表す。yap は短く甲高い吠え声に焦点を当てる。",
+        "yelp：痛みや驚きでとっさに上げる鋭い声。yap は来客に向かって何度もキャンキャン吠える場面にも使う。",
+        "ramble：話がまとまらず、あちこちにそれながら長くしゃべる。yap は話の多さや、聞き手がうるさいと感じることに焦点がある。"
       ]
     },
     "synonyms": [
       {
-        "word": "interlace",
+        "word": "bark sharply",
         "note": {
-          "en": "Close when crossing threads, strips, or other strands.",
-          "ja": "糸や細長い材料を交差させる場合に近い。"
+          "en": "A paraphrase for the dog sense.",
+          "ja": "鋭く吠えるという動物の用法での言い換え。"
         }
       },
       {
-        "word": "interweave",
+        "word": "talk someone’s ear off",
         "note": {
-          "en": "Close when several threads, themes, or stories are combined.",
-          "ja": "複数の糸・主題・物語を織り合わせる場合に近い。"
+          "en": "An informal alternative when someone talks at length to a listener.",
+          "ja": "相手に延々としゃべり続ける場面での口語表現。"
         }
       }
     ],
     "equivalents": {
-      "de": "weben / flechten / in etwas einweben / sich durch etwas schlängeln / Webart",
-      "it": "tessere / intrecciare / farsi strada a zigzag / trama",
-      "fr": "tisser / tresser / se faufiler / armure du tissu",
-      "es": "tejer / entretejer / zigzaguear / tipo de tejido"
+      "de": "kläffen / labern / Kläffen",
+      "it": "abbaiare in modo stridulo / blaterare / abbaio acuto",
+      "fr": "japper / jacasser / jappement",
+      "es": "ladrar con voz aguda / parlotear / ladrido agudo"
     },
     "collocations": {
       "en": [
-        "weave cloth on a loom",
-        "weave a basket",
-        "woven fabric",
-        "a loose weave",
-        "weave a motif into a story",
-        "weave two storylines together",
-        "weave through traffic",
-        "weave one’s way through the crowd"
+        "yap at the door",
+        "a yapping dog",
+        "give a sharp yap",
+        "yap about work",
+        "keep yapping"
       ],
       "ja": [
-        "weave cloth on a loom — 織機で布を織る",
-        "weave a basket — かごを編む",
-        "woven fabric — 織物",
-        "a loose weave — 目の粗い織り方",
-        "weave a motif into a story — モチーフを物語に織り込む",
-        "weave two storylines together — 二つの筋書きを織り合わせる",
-        "weave through traffic — 車の間を縫うように進む",
-        "weave one’s way through the crowd — 人混みの間を縫うように進む"
+        "yap at the door — ドアのところでキャンキャン吠える",
+        "a yapping dog — キャンキャン吠える犬",
+        "give a sharp yap — 短く甲高く吠える",
+        "yap about work — 仕事の話をぺちゃくちゃし続ける",
+        "keep yapping — 吠え続ける、しゃべり続ける"
       ]
     },
     "example": {
       "en": [
-        "She wove the fabric on a small wooden loom.",
-        "The novelist weaves local legends into a story about a family that has lived in the port for generations.",
-        "The cyclist weaved in and out of traffic on the way to the station."
+        "The little dog yapped at the delivery driver from behind the gate.",
+        "He kept yapping about his new watch even after everyone else had changed the subject.",
+        "Anyway, I’m yapping again. How was your trip?"
       ],
       "ja": [
-        "She wove the fabric on a small wooden loom. — 彼女は小さな木製の織機でその布を織った。",
-        "The novelist weaves local legends into a story about a family that has lived in the port for generations. — その小説家は、代々その港町に暮らす一家の物語に土地の伝説を織り込んでいる。",
-        "The cyclist weaved in and out of traffic on the way to the station. — その自転車の人は、駅に向かう途中、車の間を縫うように進んだ。"
+        "The little dog yapped at the delivery driver from behind the gate. — 小型犬が門の向こうから配達員に向かってキャンキャン吠えた。",
+        "He kept yapping about his new watch even after everyone else had changed the subject. — みんなが別の話題に移っても、彼は新しい腕時計の話を延々と続けていた。",
+        "Anyway, I’m yapping again. How was your trip? — おっと、また私ばかりしゃべってるね。旅行はどうだった？"
       ]
     }
   }
