@@ -10346,5 +10346,135 @@
         "Giving one team access to the questions in advance would give them an unfair advantage. — 一つのチームにだけ問題を事前に見せれば、そのチームが不当に有利になる。"
       ]
     }
+  },
+  {
+    "id": "weave",
+    "sid": "2026-02100",
+    "word": "weave",
+    "level": "B2",
+    "freq": "sometimes",
+    "tags": [
+      "verb",
+      "noun",
+      "textiles",
+      "movement",
+      "figurative"
+    ],
+    "grammar": {
+      "pos": "verb / noun",
+      "transitivity": "transitive or intransitive",
+      "countability": "countable for a type of weave",
+      "forms": {
+        "base": "weave",
+        "thirdPerson": "weaves",
+        "past": "wove / weaved",
+        "pastParticiple": "woven / weaved",
+        "presentParticiple": "weaving",
+        "plural": "weaves"
+      },
+      "patterns": [
+        "weave + cloth / basket",
+        "weave A into B",
+        "weave A and B together",
+        "weave through + crowd / traffic",
+        "weave in and out of + noun",
+        "weave one’s way through + noun"
+      ],
+      "usage": {
+        "inflection": "Wove and woven are the usual forms for making fabric and are natural for figurative weaving. Weaved is a common choice in the movement sense, although wove is also used, as in She wove her way through the crowd."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/wiːv/",
+        "uk": "/wiːv/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to make cloth or another object by interlacing threads, fibres, or similar materials",
+        "to combine several elements into a coherent whole, especially in a story or piece of music",
+        "to move by repeatedly changing direction to pass between things",
+        "(noun) the way threads cross or are arranged in a fabric"
+      ],
+      "ja": [
+        "糸や繊維などを交差させて布などを織る、かごなどを編む",
+        "複数の要素を組み合わせる、物語や音楽などに織り込む",
+        "人や物の間を縫うように進む、方向を何度も変えながら進む",
+        "（名詞）布の織り方、織り目"
+      ]
+    },
+    "nuance": {
+      "en": "Weave A into B suggests making A part of the structure of B, as if threading it through fabric. A recurring motif can be woven into a novel or a piece of music. In the movement sense, weaving suggests a path that bends repeatedly around people or objects.",
+      "ja": "weave A into B は、糸を織り込むように、AをBの構成の一部にすることを表す。小説や音楽の中に、繰り返し現れるモチーフを織り込む場合にも使える。移動では、人や物をよけながら何度も向きを変えて進む動きを表す。"
+    },
+    "minimal": {
+      "en": [
+        "knit: Make fabric by forming interlocking loops of yarn. Weave usually suggests crossing threads or strips over and under one another.",
+        "braid: Interlace several strands into a plait, as with hair. Weave also describes making a surface, such as a cloth or the side of a basket.",
+        "zigzag: Highlights a path with repeated changes of direction. Weave often suggests moving between obstacles."
+      ],
+      "ja": [
+        "knit：糸の輪をつなげて編む。weave は糸や細長い材料を上下に交差させて織る動きを表しやすい。",
+        "braid：髪などの数本の束を組んで編む。weave は布やかごの側面のように面を作る場合にも使える。",
+        "zigzag：進路が何度も折れ曲がることを強調する。weave は障害物の間を縫う動きに使いやすい。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "interlace",
+        "note": {
+          "en": "Close when crossing threads, strips, or other strands.",
+          "ja": "糸や細長い材料を交差させる場合に近い。"
+        }
+      },
+      {
+        "word": "interweave",
+        "note": {
+          "en": "Close when several threads, themes, or stories are combined.",
+          "ja": "複数の糸・主題・物語を織り合わせる場合に近い。"
+        }
+      }
+    ],
+    "equivalents": {
+      "de": "weben / flechten / in etwas einweben / sich durch etwas schlängeln / Webart",
+      "it": "tessere / intrecciare / farsi strada a zigzag / trama",
+      "fr": "tisser / tresser / se faufiler / armure du tissu",
+      "es": "tejer / entretejer / zigzaguear / tipo de tejido"
+    },
+    "collocations": {
+      "en": [
+        "weave cloth on a loom",
+        "weave a basket",
+        "woven fabric",
+        "a loose weave",
+        "weave a motif into a story",
+        "weave two storylines together",
+        "weave through traffic",
+        "weave one’s way through the crowd"
+      ],
+      "ja": [
+        "weave cloth on a loom — 織機で布を織る",
+        "weave a basket — かごを編む",
+        "woven fabric — 織物",
+        "a loose weave — 目の粗い織り方",
+        "weave a motif into a story — モチーフを物語に織り込む",
+        "weave two storylines together — 二つの筋書きを織り合わせる",
+        "weave through traffic — 車の間を縫うように進む",
+        "weave one’s way through the crowd — 人混みの間を縫うように進む"
+      ]
+    },
+    "example": {
+      "en": [
+        "She wove the fabric on a small wooden loom.",
+        "The novelist weaves local legends into a story about a family that has lived in the port for generations.",
+        "The cyclist weaved in and out of traffic on the way to the station."
+      ],
+      "ja": [
+        "She wove the fabric on a small wooden loom. — 彼女は小さな木製の織機でその布を織った。",
+        "The novelist weaves local legends into a story about a family that has lived in the port for generations. — その小説家は、代々その港町に暮らす一家の物語に土地の伝説を織り込んでいる。",
+        "The cyclist weaved in and out of traffic on the way to the station. — その自転車の人は、駅に向かう途中、車の間を縫うように進んだ。"
+      ]
+    }
   }
 ]
