@@ -151,7 +151,8 @@ const CARD_FILES = [
   "./data/cards21.json",
   "./data/cards22.json",
   "./data/cards23.json",
-  "./data/cards24.json"
+  "./data/cards24.json",
+  "./data/cards25.json"
 ];
 
 const WORDS_PAGE_SIZE = 120;
