@@ -10236,5 +10236,115 @@
         "I met several publishers at the book fair. — ブックフェアで何社かの出版社の人に会った。"
       ]
     }
+  },
+  {
+    "id": "unfair",
+    "sid": "2026-02099",
+    "word": "unfair",
+    "level": "B1",
+    "freq": "common",
+    "tags": [
+      "adjective",
+      "evaluation",
+      "conversation"
+    ],
+    "grammar": {
+      "pos": "adjective",
+      "forms": {
+        "base": "unfair",
+        "comparative": "more unfair",
+        "superlative": "most unfair"
+      },
+      "patterns": [
+        "unfair to + person",
+        "It is unfair to + verb",
+        "It is unfair of + person + to + verb",
+        "It is unfair that + clause"
+      ],
+      "usage": {
+        "prepositions": "Unfair to the applicants identifies who is affected. Unfair of the organisers to change the rules identifies whose action is being criticised."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ʌnˈfer/",
+        "uk": "/ʌnˈfeə/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "treating people in a way that gives some an undeserved advantage or disadvantage",
+        "unreasonable or unjustified in the circumstances, especially when judging or blaming someone"
+      ],
+      "ja": [
+        "不公平な、公正さを欠く",
+        "事情に照らして不当な、理不尽な、妥当性を欠く"
+      ]
+    },
+    "nuance": {
+      "en": "Unfair can describe rules, outcomes, or judgments. Calling a criticism unfair can mean that it overlooks relevant facts or blames the wrong person. In conversation, That’s unfair! is a direct way to object.",
+      "ja": "ルール、結果、評価などに使う。批判を unfair と呼ぶ場合は、考慮すべき事実を無視していたり、責める相手を間違えていたりするという意味になり得る。That’s unfair! は「それは不公平だよ」と直接異議を唱える言い方。"
+    },
+    "minimal": {
+      "en": [
+        "unequal: Describes a difference in amount, status, or treatment. Unfair judges that difference as unjust in the circumstances.",
+        "biased: Highlights a tendency to favour one side. An outcome can be unfair because the rules changed unexpectedly, even if nobody intended to favour anyone.",
+        "unreasonable: Describes something excessive or lacking a sound basis. Unfair puts the focus on whether people are treated or judged justly."
+      ],
+      "ja": [
+        "unequal：量・地位・扱いに差があること。unfair は、その差が事情に照らして不当だと評価する。",
+        "biased：特定の側に偏る傾向を強調する。ひいきする意図がなくても、突然のルール変更で結果が unfair になることはある。",
+        "unreasonable：度を越している、十分な理由がない。unfair は、扱いや評価が公正かどうかに焦点を当てる。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "unjust",
+        "note": {
+          "en": "Close and often stronger or more formal when condemning treatment or a decision.",
+          "ja": "扱いや判断を非難する場合に近く、より強い、または改まった響きが出やすい。"
+        }
+      }
+    ],
+    "etymology": {
+      "en": "From un- ‘not’ + fair ‘just or reasonable’. Related forms include unfairly and unfairness.",
+      "ja": "否定の un- と fair（公正な、妥当な）からなる。関連語は unfairly（不当に）と unfairness（不公平さ）。"
+    },
+    "equivalents": {
+      "de": "unfair / ungerecht",
+      "it": "ingiusto / sleale",
+      "fr": "injuste / déloyal",
+      "es": "injusto / desleal"
+    },
+    "collocations": {
+      "en": [
+        "unfair treatment",
+        "an unfair advantage",
+        "unfair criticism",
+        "unfair competition",
+        "unfair to both sides",
+        "seem unfair"
+      ],
+      "ja": [
+        "unfair treatment — 不公平な扱い",
+        "an unfair advantage — 不当な優位性",
+        "unfair criticism — 不当な批判",
+        "unfair competition — 不正競争",
+        "unfair to both sides — 双方にとって不公平な",
+        "seem unfair — 不公平に思える"
+      ]
+    },
+    "example": {
+      "en": [
+        "It would be unfair to blame her for the delay when she never received the revised deadline.",
+        "It was unfair of the organisers to change the rules after some teams had already submitted their entries.",
+        "Giving one team access to the questions in advance would give them an unfair advantage."
+      ],
+      "ja": [
+        "It would be unfair to blame her for the delay when she never received the revised deadline. — 変更後の締切を知らされていなかった彼女に、遅れの責任を負わせるのは不当だ。",
+        "It was unfair of the organisers to change the rules after some teams had already submitted their entries. — 一部のチームがすでに応募を済ませた後で、主催者がルールを変えたのは不公平だった。",
+        "Giving one team access to the questions in advance would give them an unfair advantage. — 一つのチームにだけ問題を事前に見せれば、そのチームが不当に有利になる。"
+      ]
+    }
   }
 ]
