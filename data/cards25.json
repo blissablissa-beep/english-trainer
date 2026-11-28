@@ -102,5 +102,108 @@
         "He says he was just waiting for the bus, but his friends insist he was aura-farming. — 本人はバスを待っていただけだと言うけど、友だちは絶対かっこつけてたと言い張っている。"
       ]
     }
+  },
+  {
+    "id": "zero-in-on",
+    "sid": "2026-02102",
+    "word": "zero in on",
+    "level": "C1",
+    "freq": "sometimes",
+    "tags": [
+      "phrasal verb",
+      "reasoning",
+      "business"
+    ],
+    "grammar": {
+      "pos": "phrasal verb",
+      "forms": {
+        "base": "zero in on",
+        "thirdPerson": "zeroes in on / zeros in on",
+        "past": "zeroed in on",
+        "pastParticiple": "zeroed in on",
+        "presentParticiple": "zeroing in on"
+      },
+      "patterns": [
+        "zero in on + noun / pronoun",
+        "zero in on + wh-clause",
+        "zero in on why / where + clause"
+      ],
+      "usage": {
+        "wordOrder": "Keep zero in on together before the object. Say zero in on it."
+      }
+    },
+    "pronunciation": {
+      "ipa": {
+        "us": "/ˈzɪr.oʊ ɪn ɑːn/",
+        "uk": "/ˈzɪə.rəʊ ɪn ɒn/"
+      }
+    },
+    "meaning": {
+      "en": [
+        "to direct attention or effort toward a specific issue, detail, or target",
+        "to move toward a particular target or location"
+      ],
+      "ja": [
+        "ある問題・細部・対象に注意や労力を集中させる、焦点を絞る",
+        "特定の目標や地点に向かって近づく"
+      ]
+    },
+    "nuance": {
+      "en": "In figurative use, zero in on suggests directing attention toward something specific. It fits when you move from looking at several possibilities to examining a particular one. It can also describe someone immediately spotting the issue they want to focus on.",
+      "ja": "比喩では、注意を具体的な対象に向けることを表す。複数の可能性を調べた末に一つを詳しく見る場面にも、ある論点にすぐ目をつける場面にも使える。"
+    },
+    "minimal": {
+      "en": [
+        "focus on: A broad expression for giving something attention. Zero in on often suggests a shift to a specific point.",
+        "narrow down: Reduce a list or range of possibilities. You narrow down the list and zero in on a particular candidate.",
+        "home in on: Close when getting closer to a target or directing attention toward a particular point."
+      ],
+      "ja": [
+        "focus on：対象に注意を向けることを広く表す。zero in on は特定の一点へ注意を絞っていく動きが出やすい。",
+        "narrow down：候補や範囲そのものを絞る。候補リストを narrow down し、特定の候補に zero in on する。",
+        "home in on：目標に近づく、ある一点に注意を向けるという意味で近い。"
+      ]
+    },
+    "synonyms": [
+      {
+        "word": "focus on",
+        "note": {
+          "en": "Close when the emphasis is on directing attention to one topic or detail.",
+          "ja": "一つの論点や細部に注意を向ける場面で近い。"
+        }
+      }
+    ],
+    "equivalents": {
+      "de": "sich gezielt auf etwas konzentrieren / auf etwas zusteuern",
+      "it": "concentrarsi su / puntare verso",
+      "fr": "se focaliser sur / se diriger vers",
+      "es": "centrarse en / dirigirse hacia"
+    },
+    "collocations": {
+      "en": [
+        "zero in on the key issue",
+        "zero in on a likely cause",
+        "zero in on a specific clause",
+        "quickly zero in on a detail"
+      ],
+      "ja": [
+        "zero in on the key issue — 重要な論点に焦点を絞る",
+        "zero in on a likely cause — 有力な原因候補に焦点を絞る",
+        "zero in on a specific clause — 特定の条項に狙いを定める",
+        "quickly zero in on a detail — すぐに一つの細部に目をつける"
+      ]
+    },
+    "example": {
+      "en": [
+        "After reviewing the whole specification, we zeroed in on the definition of one term.",
+        "The support team zeroed in on why the app only crashed after the update.",
+        "The moment I opened the picnic basket, the dog zeroed in on the sandwiches."
+      ],
+      "ja": [
+        "After reviewing the whole specification, we zeroed in on the definition of one term. — 明細書全体を確認した後、ある用語の定義に焦点を絞った。",
+        "The support team zeroed in on why the app only crashed after the update. — サポートチームは、なぜ更新後に限ってアプリが落ちるのかに焦点を絞った。",
+        "The moment I opened the picnic basket, the dog zeroed in on the sandwiches. — ピクニック用のかごを開けた途端、犬はサンドイッチに狙いを定めた。"
+      ]
+    }
   }
 ]
